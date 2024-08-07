@@ -36,5 +36,5 @@ After unzipping the downloaded ``legal_case_reports.zip``, the dataset  `corpus`
 
 ## License
 
-This repository is licensed with [MIT](https://opensource.org/license/mit).
+This repository is licensed under [MIT](https://opensource.org/license/mit).
 
