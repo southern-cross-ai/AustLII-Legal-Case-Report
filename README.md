@@ -1,7 +1,7 @@
-# AustLii Legal Case Report
+# AustLII Legal Case Report
 
 ## Overview
-This dataset contains all **Australian legal cases** from the [Federal Court of Australia (FCA)](https://www.fedcourt.gov.au) during **2006 - 2009**, a **textual corpus** of **4000 legal cases** for automatic summarisation and citation analysis downloaded from [AustLii](https://www.austlii.edu.au/).
+This dataset contains all **Australian legal cases** from the [Federal Court of Australia (FCA)](https://www.fedcourt.gov.au) during **2006 - 2009**, a **textual corpus** of **4000 legal cases** for automatic summarisation and citation analysis downloaded from [AustLII](https://www.austlii.edu.au/).
 
 For each document, the dataset collected **catchphrases**, **citation sentences**, **citation catchphrases**, and **citation classes**:
 
