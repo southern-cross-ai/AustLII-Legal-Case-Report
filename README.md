@@ -11,7 +11,7 @@ For each document, the dataset collected **catchphrases**, **citation sentences*
 - **Citation classes** are indicated in the document. They indicate the type of treatment given to the cases cited by the present case.
 
 ## Data Source
-The original data is downloaded from [AustLii](https://www.austlii.edu.au/) and licensed with [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en).
+The original data is downloaded from [AustLII](https://www.austlii.edu.au/) and licensed with [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en).
 
 You can also find it from:
 
