@@ -1,0 +1,668 @@
+{
+  "name": "Campaign Master (UK) Ltd v Forty Two International Pty Ltd [2008] FCA 979 (27 June 2008)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2008/979.html",
+  "catchphrases": [
+    {
+      "text": "interlocutory injunction",
+      "id": "c0"
+    },
+    {
+      "text": "necessity to consider the nature and jurisdictional foundation for the final relief sought and the relationship between final relief and any interlocutory steps",
+      "id": "c1"
+    },
+    {
+      "text": "injunctive relief sought in part to compel compliance with existing legal obligations",
+      "id": "c2"
+    },
+    {
+      "text": "interlocutory relief refused.",
+      "id": "c3"
+    },
+    {
+      "text": "injunctions",
+      "id": "c4"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "BUCHANAN J: \n \n1 These proceedings were commenced on 9 May 2008.",
+      "id": "s0"
+    },
+    {
+      "text": "An amended statement of claim filed on 6 June 2008 asserts that the applicant, a company incorporated and doing business in the United Kingdom, entered into contractual arrangements with the first respondent which is the developer of email marketing software known as Campaign Master.",
+      "id": "s1"
+    },
+    {
+      "text": "The first respondent is said to be a wholly owned subsidiary of the second respondent.",
+      "id": "s2"
+    },
+    {
+      "text": "The respondents are Australian companies which conduct their business here.",
+      "id": "s3"
+    },
+    {
+      "text": "The contracts were preceded by negotiations during which, it is alleged, a number of representations were made by the first and/or second respondents to the applicant.",
+      "id": "s4"
+    },
+    {
+      "text": "It is pleaded that a number of representations as to future matters are deemed to have been misleading by reason of s 51A of the Trade Practices Act 1974 (Cth) ('the Act').",
+      "id": "s5"
+    },
+    {
+      "text": "2 Section 51A , which is an interpretation section, provides in sub-sections (1) and (2) as follows:\n \n \n '(1) For the purposes of this Division, where a corporation makes a representation with respect to any future matter (including the doing of, or the refusing to do, any act) and the corporation does not have reasonable grounds for making the representation, the representation shall be taken to be misleading.",
+      "id": "s6"
+    },
+    {
+      "text": "(2) For the purposes of the application of subsection (1) in relation to a proceeding concerning a representation made by a corporation with respect to any future matter, the corporation shall, unless it adduces evidence to the contrary, be deemed not to have had reasonable grounds for making the representation.",
+      "id": "s7"
+    },
+    {
+      "text": "' \n \n \n\n3 No defences have yet been filed by the respondents, nor any evidence adduced on this issue.",
+      "id": "s8"
+    },
+    {
+      "text": "It is, accordingly, too early to know whether s 51A will have the effect which is suggested.",
+      "id": "s9"
+    },
+    {
+      "text": "4 The amended statement of claim also alleges that the representations constituted misleading or deceptive conduct (or conduct which was likely to mislead or deceive) in contravention of s 52 of the Act.",
+      "id": "s10"
+    },
+    {
+      "text": "Section 52(1) of the Act provides:\n \n \n '(1) A corporation shall not, in trade or commerce, engage in conduct that is misleading or deceptive or is likely to mislead or deceive.",
+      "id": "s11"
+    },
+    {
+      "text": "' \n \n \n\n5 It is then pleaded that in reliance upon the pleaded representations the applicant entered into two contracts with the first respondent on 21 May 2007, a Licence Agreement and a Maintenance and Support Agreement and has, as a result of the respondents' misleading and deceptive conduct, suffered loss and damage.",
+      "id": "s12"
+    },
+    {
+      "text": "The loss and damage was identified by the amended statement of claim to include a licence fee, maintenance fees, loss of opportunity to obtain new customers and increase the value of existing customers, loss of revenue due to loss of customers and the cost of obtaining certain software development services.",
+      "id": "s13"
+    },
+    {
+      "text": "6 The amended statement of claim also pleads breach of a term of the Maintenance and Support agreement.",
+      "id": "s14"
+    },
+    {
+      "text": "The loss alleged as a result of breach of the Maintenance and Support Agreement is the same as the loss and damage caused by reliance upon the representations except that it is not alleged that such loss includes the maintenance fees.",
+      "id": "s15"
+    },
+    {
+      "text": "7 The final pleaded matter alleges breach of a collateral agreement or an implied term of the Maintenance and Support Agreement that the respondents would provide to the applicant the 'source code' for the software which is the subject of the Licence Agreement.",
+      "id": "s16"
+    },
+    {
+      "text": "8 The relief claimed, by an amended application filed on 19 June 2008, includes damages and both mandatory and prohibitive injunctive relief under s 87(1A) or s 80 of the Act.",
+      "id": "s17"
+    },
+    {
+      "text": "9 When the matter first came before the Court the applicant indicated that it would seek interlocutory relief once the pleadings were closed.",
+      "id": "s18"
+    },
+    {
+      "text": "Foremost in its announced desires was an interlocutory order that the 'source code' be provided.",
+      "id": "s19"
+    },
+    {
+      "text": "However, before the respondents could file their defences, the applicant sought an urgent hearing of a notice of motion seeking interlocutory relief.",
+      "id": "s20"
+    },
+    {
+      "text": "I listed that notice of motion for hearing on 25 June 2008.",
+      "id": "s21"
+    },
+    {
+      "text": "10 Some further explanation of the background is now necessary.",
+      "id": "s22"
+    },
+    {
+      "text": "An affidavit affirmed by Gurjeet Dhillon, a director of the applicant, was sworn on 16 June 2008 and provided to the respondents and the Court in draft form on 19 June 2008.",
+      "id": "s23"
+    },
+    {
+      "text": "At the hearing on 25 June 2008 a number of objections were taken to matters stated within it.",
+      "id": "s24"
+    },
+    {
+      "text": "Most of it survived objection at that time having regard to the character of the proceedings.",
+      "id": "s25"
+    },
+    {
+      "text": "The rulings made at that time were not intended to foreclose further debate about any question of admissibility for the purpose of a final hearing.",
+      "id": "s26"
+    },
+    {
+      "text": "Mr Dhillon was not cross-examined.",
+      "id": "s27"
+    },
+    {
+      "text": "No direct evidence was led to contradict his assertions and statements, although some additional correspondence was provided.",
+      "id": "s28"
+    },
+    {
+      "text": "For the purpose of the notice of motion I have accepted Mr Dhillon's statements as reliable unless clearly contradicted, as some were, by the terms of certain contracts and other documents to which he referred.",
+      "id": "s29"
+    },
+    {
+      "text": "11 Mr Dhillon explained that the applicant was incorporated on 12 October 2005 to market and sell licence agreements for the Campaign Master software provided by the first respondent.",
+      "id": "s30"
+    },
+    {
+      "text": "The applicant's business is to provide an internet facility allowing its clients to send bulk emails personally addressed.",
+      "id": "s31"
+    },
+    {
+      "text": "A client's email address database is uploaded to the Campaign Master software for that purpose.",
+      "id": "s32"
+    },
+    {
+      "text": "12 The first respondent and the applicant made an agreement on 1 February 2006 called a 'Reseller Agreement'.",
+      "id": "s33"
+    },
+    {
+      "text": "That agreement entitled the applicant to an exclusive right to market and sell licence agreements for the Campaign Master software in the United Kingdom and the Republic of Ireland for three years.",
+      "id": "s34"
+    },
+    {
+      "text": "Mr Dhillon stated that the applicant was successful and, as a result, commenced negotiations to obtain an exclusive licence agreement.",
+      "id": "s35"
+    },
+    {
+      "text": "On 21 May 2007 the first respondent and the applicant made, as I earlier indicated, a Licence Agreement and a Maintenance and Support Agreement.",
+      "id": "s36"
+    },
+    {
+      "text": "Each agreement is still in effect.",
+      "id": "s37"
+    },
+    {
+      "text": "Each contains express provisions for termination.",
+      "id": "s38"
+    },
+    {
+      "text": "Neither agreement has been terminated by either party.",
+      "id": "s39"
+    },
+    {
+      "text": "13 The Licence agreement provided for the payment of a licence fee of [sterling]1,700,000.",
+      "id": "s40"
+    },
+    {
+      "text": "The Maintenance and Support Agreement provided for the payment of maintenance fees each quarter, being the lower of 5% of gross revenues (excluding taxes) derived by the applicant from the sale of licence agreements in that quarter or [sterling]30,600.",
+      "id": "s41"
+    },
+    {
+      "text": "Mr Dhillon says that all required payments have been made.",
+      "id": "s42"
+    },
+    {
+      "text": "The last quarterly maintenance fee was paid on 14 April 2008 for the period January to March 2008.",
+      "id": "s43"
+    },
+    {
+      "text": "14 Under the Licence Agreement the applicant was granted an exclusive licence to use and market the software in the United Kingdom and the Republic of Ireland.",
+      "id": "s44"
+    },
+    {
+      "text": "It may appoint an unlimited number of sub-resellers.",
+      "id": "s45"
+    },
+    {
+      "text": "The software which was the subject of the Licence Agreement included 'the object code (but not the source code) of the current edition' of the first respondent's Campaign Master software, including various modules and developments.",
+      "id": "s46"
+    },
+    {
+      "text": "The applicant was permitted, at its own cost, to enhance or modify the software but it was prohibited from creating or recreating the source code or reverse engineering, decompiling or disassembling the whole or any part of the software.",
+      "id": "s47"
+    },
+    {
+      "text": "The parties agreed and mutually undertook to execute an 'Escrow Agreement' based on a standard form of such agreement provided by an escrow agent, NCC Escrow International Limited.",
+      "id": "s48"
+    },
+    {
+      "text": "Such an agreement has never been executed between the parties.",
+      "id": "s49"
+    },
+    {
+      "text": "15 The standard escrow agreement which the Licence Agreement contemplated makes provision for a source code (a computer programming code of the software in human readable form) to be lodged with the escrow agent.",
+      "id": "s50"
+    },
+    {
+      "text": "Upon the happening of identified 'release events', the source code may be released to a licensee without such release interfering with or acting as an assignment of the confidential and intellectual property of the owner.",
+      "id": "s51"
+    },
+    {
+      "text": "The 'release events' include insolvency, winding up, the owner ceasing to carry on the particular business and assignment of the intellectual property rights without a novation agreement or a new escrow agreement.",
+      "id": "s52"
+    },
+    {
+      "text": "Material breach of obligations concerning maintenance is also a release event provided that the owner has failed to remedy a notified default.",
+      "id": "s53"
+    },
+    {
+      "text": "16 Although an escrow agreement has not been executed between the parties, I have described the general nature of the provisions in the standard form of such an agreement in order to illustrate that it is directed to the preservation of the source code in independent hands with provision for release to a licensee only upon defined events, all of which involve a failure, for some reason or another, by the owner to continue to perform its obligations with respect to the software.",
+      "id": "s54"
+    },
+    {
+      "text": "17 The Maintenance and Support Agreement recorded that a copy of the software has been installed on the applicant's infrastructure.",
+      "id": "s55"
+    },
+    {
+      "text": "It recorded that the maintenance fees (each quarter) must be paid for so long as the software is being maintained and supported.",
+      "id": "s56"
+    },
+    {
+      "text": "It required the first respondent 'to invest, in any twelve month period, an amount not less than the maintenance fees received by it during such twelve month period, in continuing to develop the software'.",
+      "id": "s57"
+    },
+    {
+      "text": "The first respondent was obliged to make available to the applicant 'as soon as reasonably practicable, any Developments of the Software developed and rolled out' by the first respondent.",
+      "id": "s58"
+    },
+    {
+      "text": "Clause 4.7 of the Maintenance and Support Agreement provided as follows:\n \n \n '4.7 [The First Respondent] is committed to the Licensee's success and will provide the Licensee reasonable access to and agree to the Licensee's reasonable requests for information concerning the Software, enhancements, current developments, support industry trends and any changes or other information that will assist the Licensee in marketing and selling Licence Agreements or providing service to Clients.",
+      "id": "s59"
+    },
+    {
+      "text": "' \n \n \n\n18 According to Mr Dhillon's affidavit, he became dissatisfied for a number of reasons with the level of support being provided by the first respondent.",
+      "id": "s60"
+    },
+    {
+      "text": "He alleges that enhancements to the software were not developed and provided in accordance with an intended program provided in June 2007.",
+      "id": "s61"
+    },
+    {
+      "text": "On 28 February 2008 a letter of demand was sent.",
+      "id": "s62"
+    },
+    {
+      "text": "On 1 April 2008 a further letter of demand was sent.",
+      "id": "s63"
+    },
+    {
+      "text": "As I earlier indicated, proceedings were commenced on 9 May 2008.",
+      "id": "s64"
+    },
+    {
+      "text": "On 29 May 2008 the applicant was advised that some restrictions would be imposed upon the way in which the first respondent dealt with requests for assistance from the applicant.",
+      "id": "s65"
+    },
+    {
+      "text": "19 The issue which appeared to prompt the application for urgent interlocutory relief first came to notice about 23 May 2008.",
+      "id": "s66"
+    },
+    {
+      "text": "The 'servers' used by the applicant were scheduled to be physically relocated by the applicant's hosting provider in the United Kingdom, Server City Ltd. At first that was to happen on 30 May 2008.",
+      "id": "s67"
+    },
+    {
+      "text": "The applicant protested to its hosting provider pointing out that it needed to give its own clients notice.",
+      "id": "s68"
+    },
+    {
+      "text": "The proposal to physically relocate the servers was delayed for four additional weeks.",
+      "id": "s69"
+    },
+    {
+      "text": "Mr Dhillon said:\n '129.",
+      "id": "s70"
+    },
+    {
+      "text": "In order to relocate the Servers, the following must be done:- (a) The data on the Servers must be backed up; (b) The Servers must be shut down; (c) The Servers must be physically removed to an alternative hosting facility; (d) The Servers must be reconfigured with new IP's and settings in order to function properly.",
+      "id": "s71"
+    },
+    {
+      "text": "' \n \n \n 130.",
+      "id": "s72"
+    },
+    {
+      "text": "As the First Respondent was responsible for the set up and configuration of the Servers in or around late 2005 and early 2006, the Applicant requires the First Respondent's assistance in reconfiguring the Servers once the Servers have been relocated at an alternative hosting facility.",
+      "id": "s73"
+    },
+    {
+      "text": "131.",
+      "id": "s74"
+    },
+    {
+      "text": "Also, as the First Respondent has always been responsible for the maintenance of the Servers, the Applicant requires the First Respondent's expertise in order to properly back up the data on the Servers prior to the Servers being relocated.",
+      "id": "s75"
+    },
+    {
+      "text": "' \n \n \n20 The applicant was, apparently, apprehensive that the new restrictions upon the way in which technical advice and assistance was provided might have the effect that it would not be able properly to manage the technical aspects of relocating the servers.",
+      "id": "s76"
+    },
+    {
+      "text": "Although the first respondent expressed the view to the applicant that these matters fell outside the obligations under the Maintenance and Software Agreement with respect to the software, I accept that it is arguable that clause 4.7 of the Maintenance and Software Agreement earlier set out includes an obligation to provide the 'information' which the applicant has said it needs.",
+      "id": "s77"
+    },
+    {
+      "text": "21 Speaking very generally, on an application for interlocutory relief of the present kind the Court will be concerned to examine whether there is a serious issue to be tried and whether the balance of convenience favours the grant of the injunctive relief pending the trial.",
+      "id": "s78"
+    },
+    {
+      "text": "Relevant to the second aspect will be the question of whether, at the end of the day, damages are an adequate remedy.",
+      "id": "s79"
+    },
+    {
+      "text": "In Businessworld Computers Pty Ltd v Australian Telecommunications Commission (1988) 82 ALR 499 Gummow J (sitting as a judge of this Court) drew attention (at 506) to the necessity for an applicant for injunctive relief to show that 'what is involved is some legal right attracting injunctive relief'.",
+      "id": "s80"
+    },
+    {
+      "text": "Examination of whether there is a serious question to be tried is an examination which concerns the vindication of legal rights rather than simply questions of commercial convenience or even commercial 'morality'.",
+      "id": "s81"
+    },
+    {
+      "text": "22 Final injunctive relief under the Act, if granted in due course, must be directed to conduct having the relationship required by s 80 with contravention of the Act.",
+      "id": "s82"
+    },
+    {
+      "text": "The final injunctive relief sought by the amended application could not, as the pleadings are presently framed, extend to conduct falling outside those boundaries whether as prohibitive or mandatory injunctive relief (see ICI Australia Operations Pty Limited v Trade Practices Commission [1991] FCA 527 ; (1992) 38 FCR 248 per Gummow J at 267; Thomson Australian Holdings Proprietary Limited v Trade Practices Commission [1981] HCA 48 ; (1981) 148 CLR 150 at 181).",
+      "id": "s83"
+    },
+    {
+      "text": "The power of this Court to grant interlocutory injunctions is restricted by the need that the power be exercised for the purpose for which it is conferred and, generally, to ensure the effective exercise of the jurisdiction invoked (see Patrick Stevedores Operations No 2 Pty Ltd v Maritime Union of Australia [1998] HCA 30 ; (1998) 195 CLR 1 at [35] ).",
+      "id": "s84"
+    },
+    {
+      "text": "The position is not at large.",
+      "id": "s85"
+    },
+    {
+      "text": "In particular, regard must be paid to the nature and jurisdictional foundation for the final relief sought and the relationship between that claimed relief and the interlocutory steps the Court is asked to take.",
+      "id": "s86"
+    },
+    {
+      "text": "23 The orders sought by the notice of motion were as follows:\n 'The above named applicant will at 9:30am on 19 June 2008 in the Federal Court of Australia, 80 William Street, Sydney NSW 2000, move the Court for orders: \n \n 1.",
+      "id": "s87"
+    },
+    {
+      "text": "An order pursuant to section 80 of the Trade Practices Act 1974 requiring the First Respondent to forthwith provide to the Applicant, at the First Respondent's expense, all necessary assistance and support services to enable the Applicant to relocate the servers on which it relies for the provision of Campaign Master software services to its clients, such services and support including: \n \n \n \n \n (i) backing up the data on the servers; \n \n \n \n \n \n (ii) advising on necessary procedures prior to shutting down the servers; \n \n \n \n \n \n (iii) reconfiguring the servers with the necessary settings to enable the servers to function to provide Campaign Master software services to the Applicant's clients.",
+      "id": "s88"
+    },
+    {
+      "text": "2.",
+      "id": "s89"
+    },
+    {
+      "text": "An order pursuant to section 80 of the Trade Practices Act 1974 restraining the First Respondent and the Second Respondent from imposing restrictions on the provision of services for maintenance and support set out in the email from Sean Newell of the First Respondent to Gurjeet Dhillon of the Applicant dated 29 May 2008.",
+      "id": "s90"
+    },
+    {
+      "text": "3.",
+      "id": "s91"
+    },
+    {
+      "text": "An order pursuant to section 80 of the Trade Practices Act 1974 requiring the first respondent to: \n \n \n \n \n (a) execute within 7 days an escrow agreement within the meaning of clause 4.6 of the Licence Agreement dated 21 May 2007; \n \n \n \n \n \n (b) make available to the applicant, within 10 days or such other time as the Court orders, through the mechanism of the escrow agreement, the source code for the Campaign Master software the subject of the Licence Agreement for the purposes of clause 4.3 of the Licence Agreement.",
+      "id": "s92"
+    },
+    {
+      "text": "4.",
+      "id": "s93"
+    },
+    {
+      "text": "An order pursuant to section 80 of the Trade Practices Act 1974 requiring the First Respondent to comply with its obligations to maintain and support the Campaign Master software pursuant to sections 3 and 4 of the Maintenance and Support Agreement between the Applicant and First Respondent dated 21 May 2007 until further order.",
+      "id": "s94"
+    },
+    {
+      "text": "5.",
+      "id": "s95"
+    },
+    {
+      "text": "An order pursuant to section 80 of the Trade Practices Act 1974 restraining the Second Respondent from preventing the First Respondent complying with orders 1, 2 and 3, and requiring the Second Respondent to take all necessary steps to procure the first respondent to comply with orders 1, 2, 3 and 4.",
+      "id": "s96"
+    },
+    {
+      "text": "6.",
+      "id": "s97"
+    },
+    {
+      "text": "In the alternative to orders 1, 2, 3, 4 and 5, that the proceedings be expedited.",
+      "id": "s98"
+    },
+    {
+      "text": "7.",
+      "id": "s99"
+    },
+    {
+      "text": "Costs.",
+      "id": "s100"
+    },
+    {
+      "text": "' Order 1 \n \n24 Shortly before the hearing the first respondent provided an undertaking to the Court with respect to the first order sought.",
+      "id": "s101"
+    },
+    {
+      "text": "That undertaking was in the following form\n 'Without admissions the first respondent undertakes to the Court until further order in respect of the first respondent's computer software known as \"Campaign Master\" (\"Software\") that it will use its best endeavours: \n \n 1.",
+      "id": "s102"
+    },
+    {
+      "text": "To provide to the applicant in a timely way any advice requested by the applicant concerning procedures for backing up the data on the applicant's existing computer servers in the United Kingdom in respect of the applicant's clients using the Software (\"Servers\").",
+      "id": "s103"
+    },
+    {
+      "text": "2.",
+      "id": "s104"
+    },
+    {
+      "text": "To provide to the applicant in a timely way any advice requested by the applicant concerning procedures necessary for shutting down the Servers.",
+      "id": "s105"
+    },
+    {
+      "text": "3.",
+      "id": "s106"
+    },
+    {
+      "text": "To carry out, in Australia, in a timely way any steps necessary on the part of the first respondent (when requested by the applicant) to reconfigure the Servers so as to allow them to communicate in relation to the provision of the Software by the applicant to its clients.",
+      "id": "s107"
+    },
+    {
+      "text": "' \n \n \n25 As to the issues raised with respect to the first order sought, I am prepared to assume the existence of a serious issue to be tried but in light of the undertaking which has been given to the Court it is not, in my view, necessary that an injunction should be issued to deal with this matter.",
+      "id": "s108"
+    },
+    {
+      "text": "I have no reason to think, and none was suggested, that the undertaking would not be effective to deal with the matters concerning the applicant which I accept, at this preliminary stage, are ones capable of having a direct and serious effect upon its business.",
+      "id": "s109"
+    },
+    {
+      "text": "26 That is sufficient to deal with the matter which was principally relied upon as justifying the need for attention to the question of interlocutory relief before the pleadings were closed.",
+      "id": "s110"
+    },
+    {
+      "text": "However, the remaining matters have been argued and it seems convenient for me to deal with them.",
+      "id": "s111"
+    },
+    {
+      "text": "Order 2 \n \n27 The second order sought would restrain the respondents from giving effect to the contents of the email dated 29 May 2008 advising a change in the way that services had been provided.",
+      "id": "s112"
+    },
+    {
+      "text": "It is clear that the restrictions were imposed as a result of the commencement of the proceedings but I accept the submission made by counsel for the respondents that I should not, at this stage, infer anything sinister.",
+      "id": "s113"
+    },
+    {
+      "text": "The respondents contend that, as a number of allegations of misrepresentation have been made by the applicant, they are entitled to ensure that channels of communication between the applicant and the first respondent are orderly and, if necessary, properly documented.",
+      "id": "s114"
+    },
+    {
+      "text": "At this stage the contention should be accepted.",
+      "id": "s115"
+    },
+    {
+      "text": "The applicant has not shown the steps taken were not legally open, or even unreasonable.",
+      "id": "s116"
+    },
+    {
+      "text": "28 There are a number of other difficulties in the way of granting such relief.",
+      "id": "s117"
+    },
+    {
+      "text": "First, I cannot relate the relief sought in any satisfactory way to the pleadings in the amended statement of claim or to a proper foundation for final relief.",
+      "id": "s118"
+    },
+    {
+      "text": "Insofar as breach of the Maintenance and Support Agreement is alleged in the amended statement of claim, the allegation concerns a failure to invest maintenance fees in continuing to develop the software.",
+      "id": "s119"
+    },
+    {
+      "text": "There is no pleaded allegation to the effect that services required to be provided under the Maintenance Support Agreement have not been provided, or will not in the future be provided, in accordance with that agreement.",
+      "id": "s120"
+    },
+    {
+      "text": "Withdrawal of services provided voluntarily or, as appears, a decision to make a charge for services previously provided freely does not evidence the existence of a 'legal right attracting injunctive relief' .",
+      "id": "s121"
+    },
+    {
+      "text": "Neither does the relief sought appear satisfactorily adapted to the vindication of any right to be addressed at a final hearing.",
+      "id": "s122"
+    },
+    {
+      "text": "In the circumstances I am not persuaded that the applicant has discharged its onus of identifying a serious issue to be tried which would sustain the second order sought or that the balance of convenience would require or justify an order in the terms sought.",
+      "id": "s123"
+    },
+    {
+      "text": "Order 3 \n \n29 As to the third order sought, it is clear that no escrow agreement was executed as contemplated by the Licence Agreement.",
+      "id": "s124"
+    },
+    {
+      "text": "Mr Dhillon provides no explanation for his own decisions in that regard.",
+      "id": "s125"
+    },
+    {
+      "text": "I cannot proceed upon a bare assumption that the failure to execute an escrow agreement represented a breach of the Licence Agreement.",
+      "id": "s126"
+    },
+    {
+      "text": "Indeed, that was not submitted.",
+      "id": "s127"
+    },
+    {
+      "text": "Moreover, the provisions of the Licence Agreement and the foreshadowed execution of an escrow agreement in the standard form provide no real support for any conclusion that the parties had in mind a legally enforceable mechanism whereby the applicant could insist on provision of the source code in the event of dissatisfaction with the speed at which enhancements to the software were made.",
+      "id": "s128"
+    },
+    {
+      "text": "30 I think, for two reasons, that the applicant has failed to establish a serious question to be tried in relation to this issue.",
+      "id": "s129"
+    },
+    {
+      "text": "The first reason is that the legal foundation for any proposition that there was a contractual obligation contemplated whereby the source code would be provided to the applicant in circumstances such as the present is too weak.",
+      "id": "s130"
+    },
+    {
+      "text": "The second is that the applicant has failed to provide a sufficient evidentiary foundation for any suggestion that the failure to do that which the Licence Agreement contemplated (execute an escrow agreement) might arguably be regarded as a unilateral breach of the Licence Agreement.",
+      "id": "s131"
+    },
+    {
+      "text": "It might equally reflect an agreed position.",
+      "id": "s132"
+    },
+    {
+      "text": "31 So far as the matter can be assessed by reference to the documents before the Court compulsory provision of the source code would be a major departure from the arrangements which were agreed.",
+      "id": "s133"
+    },
+    {
+      "text": "There is therefore no justification for this order having regard to the balance of convenience.",
+      "id": "s134"
+    },
+    {
+      "text": "It would upset, not preserve, the status quo.",
+      "id": "s135"
+    },
+    {
+      "text": "Order 4 \n \n32 The fourth order sought is, in effect, an order that the first respondent comply with existing legal obligations.",
+      "id": "s136"
+    },
+    {
+      "text": "The practical effect of such an order would be to add the possibility of proceedings for contempt to the proceedings which have already been commenced.",
+      "id": "s137"
+    },
+    {
+      "text": "There is no doubt that the first respondent has obligations under the Maintenance and Support Agreement.",
+      "id": "s138"
+    },
+    {
+      "text": "The only pleaded case to the effect that those obligations have been breached concerns an allegation that the first respondent has not, as it promised, invested maintenance fees in continuing to develop the software.",
+      "id": "s139"
+    },
+    {
+      "text": "There is no satisfactory evidence to support this contention at the present time.",
+      "id": "s140"
+    },
+    {
+      "text": "Such inferences as may be drawn from the conduct of the parties, including the fact that all quarterly maintenance fees have apparently been paid, do not sufficiently support a conclusion that the level of support provided to the applicant, at least until the last payment of maintenance fees in April 2008, has involved the breach of contract alleged in the pleadings.",
+      "id": "s141"
+    },
+    {
+      "text": "Further evidence may make the proposition good but in my view the applicant has not at this point made out a serious issue to be tried with respect to this matter.",
+      "id": "s142"
+    },
+    {
+      "text": "Furthermore, I would not, having regard to the balance of convenience, be prepared to grant an injunction designed simply to expose the first respondent to proceedings for contempt in the event that contested contractual obligations were not honoured.",
+      "id": "s143"
+    },
+    {
+      "text": "Order 5 \n \n33 The fifth order sought seems to me, with respect, to be misconceived and in any event is predicated upon the making of other orders I have indicated I would not be prepared to make.",
+      "id": "s144"
+    },
+    {
+      "text": "Had it been appropriate to make orders against the first respondent it would not have been necessary to attempt to bolster the authority of those orders by ancillary orders against the second respondent.",
+      "id": "s145"
+    },
+    {
+      "text": "Order 6 \n \n34 The sixth order seeks, in the alternative, that the proceedings be expedited.",
+      "id": "s146"
+    },
+    {
+      "text": "That would, in some circumstances, be an appropriate course to take.",
+      "id": "s147"
+    },
+    {
+      "text": "However, I have decided that none of the interlocutory orders sought is warranted on the material before me.",
+      "id": "s148"
+    },
+    {
+      "text": "There is no necessity for me to balance a possible justification for such orders against the possibility that an alternative method of achieving a just result between the parties could be found in some other fashion.",
+      "id": "s149"
+    },
+    {
+      "text": "The respondents have not yet been required to file their defences.",
+      "id": "s150"
+    },
+    {
+      "text": "There is no reason, from the Court's point of view, why the proceedings should not be dealt with expeditiously when the proceedings are closed.",
+      "id": "s151"
+    },
+    {
+      "text": "The matter is listed for further directions on 25 July 2008.",
+      "id": "s152"
+    },
+    {
+      "text": "I will leave the matter in the list on that day.",
+      "id": "s153"
+    },
+    {
+      "text": "I will at that time consider what further steps might be necessary to make the matter ready for trial and whether there appears to be a foundation for giving the matter priority.",
+      "id": "s154"
+    },
+    {
+      "text": "Order 7 \n \n35 In the circumstances the applicant is not entitled to any costs.",
+      "id": "s155"
+    },
+    {
+      "text": "On the contrary, as I have rejected each of the orders sought in the notice of motion it is inevitable that the applicant pay the respondents' costs of the notice of motion.",
+      "id": "s156"
+    },
+    {
+      "text": "CONCLUSION \n \n36 I will order that the notice of motion filed on 19 June 2008 be dismissed with costs.",
+      "id": "s157"
+    },
+    {
+      "text": "I certify that the preceding thirty-six (36) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Buchanan.",
+      "id": "s158"
+    },
+    {
+      "text": "Associate:\n\nDated: 27 June 2008\n\n\n\n\n Counsel for the Applicant: Mr M S White \n \n Solicitor for the Applicant: Harris &amp; Company \n \n Counsel for the First and Second Respondents: Mr J M Ireland QC, Mr J S Cooke \n \n Solicitor for the First and Second Respondents: Bartier Perry \n\n Date of Hearing: 25 June 2008 \n \n Date of Judgment: 27 June 2008 \n\n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2008/979.html",
+      "id": "s159"
+    }
+  ]
+}

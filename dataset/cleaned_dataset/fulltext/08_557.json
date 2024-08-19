@@ -1,0 +1,240 @@
+{
+  "name": "ConnectEast Management Ltd v Commissioner of Taxation [2008] FCA 557 (29 April 2008)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2008/557.html",
+  "catchphrases": [
+    {
+      "text": "classification of trust for purpose of determining tax liability",
+      "id": "c0"
+    },
+    {
+      "text": "where a trust wholly owned by a trust of a higher level deemed to be of the same level as the owner trust",
+      "id": "c1"
+    },
+    {
+      "text": "whether trust owned by two trusts of the same higher level could be deemed to be of that level on the basis of collective ownership",
+      "id": "c2"
+    },
+    {
+      "text": "income tax",
+      "id": "c3"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "1 The applicant is the trustee of a unit trust called the ConnectEast Investment Trust No.2 (the Subsidiary Trust).",
+      "id": "s0"
+    },
+    {
+      "text": "Units in the Subsidiary Trust are held by other trusts (of which the applicant is also trustee) as follows:\n ConnectEast Holding Trust (the Holding Trust) 1 ConnectEast Investment Trust (the Investment Trust) 477,963,546 \n\nThe trusts mentioned, together with other trusts and companies, form the ConnectEast Group which is responsible for the construction and operation of the EastLink tollway.",
+      "id": "s1"
+    },
+    {
+      "text": "2 For the purposes of Sch 2F of the Income Tax Assessment Act 1936 (Cth) the Subsidiary Trust is an \"unlisted widely held trust\": see subdivs 272-G, 272-H and 272-I.",
+      "id": "s2"
+    },
+    {
+      "text": "3 As such, the Subsidiary Trust is one of four kinds, or \"levels\", of widely held trust which are subject to different tax treatments, particularly in relation to carry forward losses.",
+      "id": "s3"
+    },
+    {
+      "text": "In order of desirability for tax purposes they are (least desirable first):\n \n \n &#8226; unlisted widely held trust;\n &#8226; unlisted very widely held trust;\n &#8226; wholesale widely held trust; \n &#8226; listed widely held trust.",
+      "id": "s4"
+    },
+    {
+      "text": "4 Under s 272- 127 a trust which is owned (in the sense of entitlement to all income and capital) by another trust of a higher level will be treated as having the status of its owner.",
+      "id": "s5"
+    },
+    {
+      "text": "Section 272- 127 provides:\n\n (1) If: \n \n (a) apart from this Subdivision, a trust is an unlisted widely held trust, an unlisted very widely held trust or a wholesale widely held trust; and\n \n (b) each of one or more trusts of a higher level (see subsection (3)) has, directly or indirectly, fixed entitlements to all of the income and capital of the trust; \n \n the trust is instead a trust of the same kind (see subsection (2)) as the trust of the highest level.",
+      "id": "s6"
+    },
+    {
+      "text": "(2) For the purposes of this Subdivision, trusts are of the following kinds: \n \n (a) unlisted widely held trust;\n \n (b) unlisted very widely held trust;\n \n (c) wholesale widely held trust;\n \n (d) listed widely held trust.",
+      "id": "s7"
+    },
+    {
+      "text": "(3) The kinds of trust are allocated levels in the following order (from lowest to highest): unlisted widely held trust, unlisted very widely held trust, wholesale widely held trust and listed widely held trust.",
+      "id": "s8"
+    },
+    {
+      "text": "5 The Holding Trust and the Investment Trust are both listed widely held trusts.",
+      "id": "s9"
+    },
+    {
+      "text": "In a private ruling the Commissioner ruled that the Subsidiary Trust did not, by virtue of s 272- 127 , acquire the status of listed widely held trust.",
+      "id": "s10"
+    },
+    {
+      "text": "An objection to that ruling was disallowed.",
+      "id": "s11"
+    },
+    {
+      "text": "The applicant now appeals to this Court.",
+      "id": "s12"
+    },
+    {
+      "text": "6 The applicant's construction is that, in the case where the status of more than one trust is sought, the words in subs (1)(b) \"each of one or more trusts of a higher level\" should be read as referring to:\n \n&#8226; trusts of a particular (ie the same) higher level \n \n&#8226; which collectively own fixed entitlements to all of the income and capital of the status-seeking trust.",
+      "id": "s13"
+    },
+    {
+      "text": "The applicant submits that \"each of one or more trusts of a higher level\" is a composite phrase which describes a particular subject.",
+      "id": "s14"
+    },
+    {
+      "text": "The subject can be comprised of one trust; it can also be comprised of a group of two or more trusts.",
+      "id": "s15"
+    },
+    {
+      "text": "7 The applicant's construction immediately confronts the problem that the section does not mention collectivity or groups.",
+      "id": "s16"
+    },
+    {
+      "text": "On the contrary the word \"each\", a quasi-pronoun (Oxford English Dictionary), usually denotes individuality.",
+      "id": "s17"
+    },
+    {
+      "text": "The Macquarie Dictionary gives the primary meaning \"every, of two or more considered individually or one by one\".",
+      "id": "s18"
+    },
+    {
+      "text": "8 Nor does the language of the section suggest that, where there is more than one trust higher than the status-seeking trust, the higher trusts must be of the same level.",
+      "id": "s19"
+    },
+    {
+      "text": "The only requirement is that they be \"of a higher level\" than the status-seeking trust.",
+      "id": "s20"
+    },
+    {
+      "text": "For example, suppose trust A is on level (a).",
+      "id": "s21"
+    },
+    {
+      "text": "Since the section contemplates that there could be relevant trusts on as many as three levels higher, there could be a situation where trust B is on level (b), trust C is on level (c) and trust D is on level (d).",
+      "id": "s22"
+    },
+    {
+      "text": "Of each of trusts B, C and D it can be said that it is on a \"higher\" level than A's, that is to say on a level which has the quality or characteristic of being higher than (a).",
+      "id": "s23"
+    },
+    {
+      "text": "9 At first blush, it may seem odd that the section provides that, where there is more than one trust, each must have fixed entitlements to all of the income and capital of the status-seeking trust.",
+      "id": "s24"
+    },
+    {
+      "text": "How can two or more each be entitled to all the income and capital?",
+      "id": "s25"
+    },
+    {
+      "text": "10 The answer is to be found in the words \"directly or indirectly\".",
+      "id": "s26"
+    },
+    {
+      "text": "A fixed entitlement may be held indirectly where there is entitlement via interposed companies, partnerships or trusts: s 272-20.",
+      "id": "s27"
+    },
+    {
+      "text": "Thus, to take the example above, if trust B owns 100 percent of trust A and in turn trust C owns 100 per cent of trust B, and trust D owns 100 per cent of trust C, each of B, C and D has a fixed entitlement to all of the income and capital of A.",
+      "id": "s28"
+    },
+    {
+      "text": "In the case of B, it has its entitlement directly; each of C and D has its entitlement indirectly.",
+      "id": "s29"
+    },
+    {
+      "text": "11 The concluding words of subs (1) speak of the trust of the highest level.",
+      "id": "s30"
+    },
+    {
+      "text": "In using the superlative rather than the comparative, the text is telling the reader that the status-seeking trust will attain the status of only one of the higher trusts (where there are more than one), namely the one that is on the highest level.",
+      "id": "s31"
+    },
+    {
+      "text": "12 The use of the singular \"trust\" is fatal to the applicant's construction, which must accommodate the possibility of multiple trusts together conferring their status on the status-seeking trust.",
+      "id": "s32"
+    },
+    {
+      "text": "The applicant's argument did not suggest a way in which the singular word \"trust\" could be made to fit into its construction.",
+      "id": "s33"
+    },
+    {
+      "text": "13 The Explanatory Memorandum when Sch 2F was introduced included the following:\n 13.91 The characterisation of a trust may be affected by whether it is wholly owned, directly or indirectly, by another trust.",
+      "id": "s34"
+    },
+    {
+      "text": "An unlisted widely held trust, unlisted very widely held trust or wholesale widely held trust whose fixed entitlements to income and capital are all held, directly or indirectly, by another trust of a higher level will instead be a trust of the same kind as that higher level trust.",
+      "id": "s35"
+    },
+    {
+      "text": "The parent trust must be of a higher level so that the subsidiary trust will not be worse off.",
+      "id": "s36"
+    },
+    {
+      "text": "The level of trust is determined in the following order (from lowest to highest): \n \n &#8226; unlisted widely held trust;\n &#8226; unlisted very widely held trust;\n &#8226; wholesale widely held trust;\n &#8226; listed widely held trust.",
+      "id": "s37"
+    },
+    {
+      "text": "[Section 272-127] \n \n Example 13.92 In the above ownership structure, the classification of the B Unit Trust remains as listed widely held since its parent (the A Unit Trust) is not of a higher level.",
+      "id": "s38"
+    },
+    {
+      "text": "The C Unit Trust and D Unit Trust are re-classified as unlisted very widely held trusts because they are each wholly owned by the A Unit Trust which is of a higher level.",
+      "id": "s39"
+    },
+    {
+      "text": "The classification of the D Unit Trust is unaffected by the classifications of the B Unit Trust and C Unit Trust since neither of them owns 100% of it.",
+      "id": "s40"
+    },
+    {
+      "text": "14 The concluding sentence is consistent with the Commissioner's construction and inconsistent with that of the applicant.",
+      "id": "s41"
+    },
+    {
+      "text": "The only response of the applicant was to point out that B and C in the diagram are not on the same level.",
+      "id": "s42"
+    },
+    {
+      "text": "But that is a bootstraps argument.",
+      "id": "s43"
+    },
+    {
+      "text": "It assumes the correctness of the applicant's argument that two or more trusts can confer their status on a collectively owned subsidiary as long as they are on the same level.",
+      "id": "s44"
+    },
+    {
+      "text": "For the reasons explained above, that is not so.",
+      "id": "s45"
+    },
+    {
+      "text": "15 The ordinary and grammatical meaning of the section is as submitted by the Commissioner.",
+      "id": "s46"
+    },
+    {
+      "text": "The result could not be said to be arbitrary or capricious.",
+      "id": "s47"
+    },
+    {
+      "text": "To confer the benefit of the higher status only where the status-seeking subsidiary is wholly owned by the trust of that higher status is a rational legislative objective.",
+      "id": "s48"
+    },
+    {
+      "text": "That objective has been achieved in the language of the statute, which admits of only one meaning.",
+      "id": "s49"
+    },
+    {
+      "text": "The merits or otherwise of the objective are not a matter for the Court: Cooper Brookes (Wollongong) Pty Ltd v Commissioner of Taxation [1981] HCA 26 ; (1981) 147 CLR 297 at 304-305.",
+      "id": "s50"
+    },
+    {
+      "text": "16 The appeal will be dismissed with costs, including reserved costs.",
+      "id": "s51"
+    },
+    {
+      "text": "I certify that the preceding sixteen (16) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Heerey.",
+      "id": "s52"
+    },
+    {
+      "text": "Associate:\n\nDated: 29 April 2008\n\n Counsel for the Applicant: T F Bathurst QC and S H P Steward \n \n Solicitor for the Applicant: Mallesons Stephen Jaques \n \n Counsel for the Respondent: P J Hanks QC and S Sharpley \n \n Solicitor for the Respondent: Australian Government Solicitor \n\n Date of Hearing: 21 April 2008 \n \n Date of Judgment: 29 April 2008 \n\n\n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2008/557.html",
+      "id": "s53"
+    }
+  ]
+}

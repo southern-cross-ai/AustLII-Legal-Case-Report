@@ -1,0 +1,338 @@
+[
+  {
+    "text": "privilege",
+    "id": "cp0.0",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "legal professional privilege",
+    "id": "cp0.1",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "advice privilege",
+    "id": "cp0.2",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "litigation privilege",
+    "id": "cp0.3",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "implied undertaking",
+    "id": "cp0.4",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "public interest immunity",
+    "id": "cp0.5",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "work product",
+    "id": "cp0.6",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "draft witness statements and witness proofs",
+    "id": "cp0.7",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "whether filing and service, without more, of witness statements constitutes waiver of privilege",
+    "id": "cp0.8",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "distinction between privilege and implied undertaking",
+    "id": "cp0.9",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "whether encouragement of cartel whistleblowers by protecting confidentiality of statements made to investigators presents a real public interest where there is no evidence that confidentiality was sought or that whistleblowers would be deterred from coming forward by lack of confidentiality",
+    "id": "cp0.10",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "whether public regulatory agency's interest in guarding its work product presents a cognisable public interest",
+    "id": "cp0.11",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "whether work product doctrine has a separate existence from legal professional privilege in australia",
+    "id": "cp0.12",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "practice and procedure",
+    "id": "cp1.0",
+    "type": "cited",
+    "from": "[2007]"
+  },
+  {
+    "text": "application for leave to appeal from an interlocutory decision of a judge of the court to the full court",
+    "id": "cp1.1",
+    "type": "cited",
+    "from": "[2007]"
+  },
+  {
+    "text": "discovery",
+    "id": "cp1.2",
+    "type": "cited",
+    "from": "[2007]"
+  },
+  {
+    "text": "legal professional privilege",
+    "id": "cp1.3",
+    "type": "cited",
+    "from": "[2007]"
+  },
+  {
+    "text": "whether litigation was reasonably anticipated by the accc on 15 december 2004",
+    "id": "cp1.4",
+    "type": "cited",
+    "from": "[2007]"
+  },
+  {
+    "text": "whether accc could only reasonably anticipate litigation when the commissioners had resolved to commence legal proceedings",
+    "id": "cp1.5",
+    "type": "cited",
+    "from": "[2007]"
+  },
+  {
+    "text": "whether the dominant purpose of the creation of the documents was for use in litigation as distinct from investigation",
+    "id": "cp1.6",
+    "type": "cited",
+    "from": "[2007]"
+  },
+  {
+    "text": "whether documents relating to the grant by the accc of immunity and/or leniency to amcor were discoverable or only relevant as to credit",
+    "id": "cp1.7",
+    "type": "cited",
+    "from": "[2007]"
+  },
+  {
+    "text": "whether the primary judge erred in refusing the applicants' request to cross-examine mr williams",
+    "id": "cp1.8",
+    "type": "cited",
+    "from": "[2007]"
+  },
+  {
+    "text": "application for leave to appeal dismissed.",
+    "id": "cp1.9",
+    "type": "cited",
+    "from": "[2007]"
+  },
+  {
+    "text": "legal professional privilege",
+    "id": "cp2.0",
+    "type": "cited",
+    "from": "[2007]"
+  },
+  {
+    "text": "allegations of price fixing and market sharing",
+    "id": "cp2.1",
+    "type": "cited",
+    "from": "[2007]"
+  },
+  {
+    "text": "information concerning allegations came to knowledge of applicant on 22 november 2004",
+    "id": "cp2.2",
+    "type": "cited",
+    "from": "[2007]"
+  },
+  {
+    "text": "in principle decision to commence proceedings on 28 november 2005",
+    "id": "cp2.3",
+    "type": "cited",
+    "from": "[2007]"
+  },
+  {
+    "text": "claim for privilege for documents created after 15 december 2004",
+    "id": "cp2.4",
+    "type": "cited",
+    "from": "[2007]"
+  },
+  {
+    "text": "taxation and revenue",
+    "id": "cp3.0",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "income tax",
+    "id": "cp3.1",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "documents commissioner of taxation entitled to have access to under income tax assessment act 1936 (cth) s 263",
+    "id": "cp3.2",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "privilege claimed practice and procedure",
+    "id": "cp3.3",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "legal professional privilege",
+    "id": "cp3.4",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "whether privilege can attach to documents prepared by third party at direction of principal and returned to principal to then give to solicitor for purpose of obtaining legal advice",
+    "id": "cp3.5",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "difficulty in determining dominant purpose of principal in instructing third party to prepare documents",
+    "id": "cp3.6",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "constitutional law (cth)",
+    "id": "cp6.0",
+    "type": "cited",
+    "from": "[1994]"
+  },
+  {
+    "text": "defence",
+    "id": "cp6.1",
+    "type": "cited",
+    "from": "[1994]"
+  },
+  {
+    "text": "service tribunal",
+    "id": "cp6.2",
+    "type": "cited",
+    "from": "[1994]"
+  },
+  {
+    "text": "offences by defence members",
+    "id": "cp6.3",
+    "type": "cited",
+    "from": "[1994]"
+  },
+  {
+    "text": "service offences",
+    "id": "cp6.4",
+    "type": "cited",
+    "from": "[1994]"
+  },
+  {
+    "text": "judicial power of commonwealth",
+    "id": "cp6.5",
+    "type": "cited",
+    "from": "[1994]"
+  },
+  {
+    "text": "service offences triable by service tribunal",
+    "id": "cp6.6",
+    "type": "cited",
+    "from": "[1994]"
+  },
+  {
+    "text": "offence of dishonestly appropriating property of commonwealth",
+    "id": "cp6.7",
+    "type": "cited",
+    "from": "[1994]"
+  },
+  {
+    "text": "jurisdiction of service tribunal",
+    "id": "cp6.8",
+    "type": "cited",
+    "from": "[1994]"
+  },
+  {
+    "text": "whether defence member entitled to trial by jury the constitution 63 and 64 viet. c. 12), ss. 55(vi) , 71 , 72 , 80",
+    "id": "cp6.9",
+    "type": "cited",
+    "from": "[1994]"
+  },
+  {
+    "text": "defence force discipline act 1982 (cth), s. 47(1).",
+    "id": "cp6.10",
+    "type": "cited",
+    "from": "[1994]"
+  },
+  {
+    "text": "civil procedure",
+    "id": "cp7.0",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "disclosure",
+    "id": "cp7.1",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "notice for non-party production",
+    "id": "cp7.2",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "similarity to subpoena",
+    "id": "cp7.3",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "costs",
+    "id": "cp7.4",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "quantum of costs",
+    "id": "cp7.5",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "indemnity basis   costs",
+    "id": "cp7.6",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "notice for non-party production",
+    "id": "cp7.7",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "similar to costs payable on subpoena",
+    "id": "cp7.8",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "indemnity basis",
+    "id": "cp7.9",
+    "type": "citing",
+    "from": "[2010]"
+  }
+]

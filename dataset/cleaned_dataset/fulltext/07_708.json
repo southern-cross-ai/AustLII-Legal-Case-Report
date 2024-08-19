@@ -1,0 +1,2932 @@
+{
+  "name": "Bowen Investments Pty Ltd v Tabcorp Holdings Ltd [2007] FCA 708 (18 May 2007)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2007/708.html",
+  "catchphrases": [
+    {
+      "text": "landlord and tenant",
+      "id": "c0"
+    },
+    {
+      "text": "lease",
+      "id": "c1"
+    },
+    {
+      "text": "breach of lease agreement",
+      "id": "c2"
+    },
+    {
+      "text": "alteration of premises",
+      "id": "c3"
+    },
+    {
+      "text": "whether the respondent obtained the requisite consent of the applicant to alter the premises pursuant to clause 2.13 of the lease",
+      "id": "c4"
+    },
+    {
+      "text": "consent not obtained",
+      "id": "c5"
+    },
+    {
+      "text": "lease",
+      "id": "c6"
+    },
+    {
+      "text": "rectification",
+      "id": "c7"
+    },
+    {
+      "text": "common intention of parties",
+      "id": "c8"
+    },
+    {
+      "text": "reinstatement clause in heads of agreement not appearing in final executed lease",
+      "id": "c9"
+    },
+    {
+      "text": "whether landlord entitled to rectification of clause",
+      "id": "c10"
+    },
+    {
+      "text": "whether parties laboured under a common mistake that the lease contained a general \"make good\" clause in the terms appearing in heads of agreement",
+      "id": "c11"
+    },
+    {
+      "text": "misleading or deceptive conduct",
+      "id": "c12"
+    },
+    {
+      "text": "unconscionable conduct",
+      "id": "c13"
+    },
+    {
+      "text": "damages under trade practices act",
+      "id": "c14"
+    },
+    {
+      "text": "action for damages to be commenced within six years after cause of action accrued",
+      "id": "c15"
+    },
+    {
+      "text": "any loss or damage crystallised at the time alteration to premises occurred in july and august 1997",
+      "id": "c16"
+    },
+    {
+      "text": "causes of action statute barred",
+      "id": "c17"
+    },
+    {
+      "text": "waste",
+      "id": "c18"
+    },
+    {
+      "text": "whether respondent has committed a voluntary waste",
+      "id": "c19"
+    },
+    {
+      "text": "action for damages in tort to be commenced within six years after cause of action accrued",
+      "id": "c20"
+    },
+    {
+      "text": "cause of action statute barred",
+      "id": "c21"
+    },
+    {
+      "text": "appropriate measure of damage",
+      "id": "c22"
+    },
+    {
+      "text": "onus on landlord to prove actual damage suffered",
+      "id": "c23"
+    },
+    {
+      "text": "no diminution to value of building",
+      "id": "c24"
+    },
+    {
+      "text": "compensatory damages awarded for restoration of foyer to its original proportions",
+      "id": "c25"
+    },
+    {
+      "text": "nominal damages awarded for respondent's failure to abide by its obligations under clause 2.13 of the lease",
+      "id": "c26"
+    },
+    {
+      "text": "contract",
+      "id": "c27"
+    },
+    {
+      "text": "contract",
+      "id": "c28"
+    },
+    {
+      "text": "trade practices",
+      "id": "c29"
+    },
+    {
+      "text": "torts",
+      "id": "c30"
+    },
+    {
+      "text": "damages",
+      "id": "c31"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "1 Mr and Mrs Bergamin delight in designing and constructing fine buildings.",
+      "id": "s0"
+    },
+    {
+      "text": "Acting through various companies (of which the applicant is one) and utilising the services of architects and engineers of their choosing, they have, over the past 30 years, been responsible for the erection of a number of office buildings and residential blocks.",
+      "id": "s1"
+    },
+    {
+      "text": "This case is concerned with one of those buildings which is located at 5 Bowen Crescent Melbourne.",
+      "id": "s2"
+    },
+    {
+      "text": "Specifically it concerns the foyer of the building.",
+      "id": "s3"
+    },
+    {
+      "text": "2 After building works (other than fit out) had been completed the applicant sought tenants for its new development.",
+      "id": "s4"
+    },
+    {
+      "text": "The respondent (\"Tabcorp\") expressed a willingness to take a lease over the whole of the premises.",
+      "id": "s5"
+    },
+    {
+      "text": "Following negotiations a lease was entered into under which Tabcorp was to occupy the whole building.",
+      "id": "s6"
+    },
+    {
+      "text": "It did not consider that the foyer was suitable either aesthetically or in size for its purposes.",
+      "id": "s7"
+    },
+    {
+      "text": "It engaged its own architect and internal designer who produced plans for an alternative foyer.",
+      "id": "s8"
+    },
+    {
+      "text": "It then proceeded to strip back all of the surfaces (floor, walls, pillars and ceiling) and substituted its own finishes and extended the area of the foyer.",
+      "id": "s9"
+    },
+    {
+      "text": "3 In this proceeding the applicant seeks to establish that Tabcorp's refurbishment of the foyer was undertaken without its permission, contrary to the provisions of the lease, to the general law and to provisions of the Trade Practices Act 1974 (Cth) (\"the TP Act \").",
+      "id": "s10"
+    },
+    {
+      "text": "It seeks various remedial orders.",
+      "id": "s11"
+    },
+    {
+      "text": "4 It will be necessary to return to the actual circumstances in much greater detail.",
+      "id": "s12"
+    },
+    {
+      "text": "However, before doing so, some reference should be made to the procedural history of the matter in this Court.",
+      "id": "s13"
+    },
+    {
+      "text": "The proceeding was commenced by application on 30 September 2005.",
+      "id": "s14"
+    },
+    {
+      "text": "The accompanying statement of claim pleaded various causes of action: breach of the terms of the lease, waste, contravention of ss 52 and 53 (g) of the TP Act , unconscionable conduct contrary to ss 51AA and 51AC of the TP Act and unconscionable conduct contrary to the general law.",
+      "id": "s15"
+    },
+    {
+      "text": "The trial commenced on 16 October 2006.",
+      "id": "s16"
+    },
+    {
+      "text": "In the course of opening his case senior counsel for the applicant indicated that he wished to allege that there had been a contravention of what he described as a \"general make good\" provision which had appeared in the Heads of Agreement but had not, in those terms, appeared in the lease.",
+      "id": "s17"
+    },
+    {
+      "text": "In order to make out this cause of action he had first to succeed, as he acknowledged, in obtaining an order for rectification of the lease.",
+      "id": "s18"
+    },
+    {
+      "text": "The statement of claim did not plead the facts necessary to support such an order.",
+      "id": "s19"
+    },
+    {
+      "text": "He sought, and was granted, leave to amend the pleadings.",
+      "id": "s20"
+    },
+    {
+      "text": "However, as additional factual issues arose it was also necessary to adjourn the trial so that the respondent could obtain instructions, respond to the amended statement of claim and put on any necessary additional or amended witness statements.",
+      "id": "s21"
+    },
+    {
+      "text": "These matters were attended to and the trial resumed on 19 March 2007.",
+      "id": "s22"
+    },
+    {
+      "text": "THE FACTS \n \n5 The facts, with some important exceptions, are largely uncontroversial and can be gleaned from documents which were in evidence.",
+      "id": "s23"
+    },
+    {
+      "text": "Bowen Investments Pty Ltd (\"Bowen Investments\") (a company controlled by the Bergamin family) purchased various properties in Bowen Crescent, Melbourne in 1988.",
+      "id": "s24"
+    },
+    {
+      "text": "In due course the various buildings on the sites were demolished and plans were prepared for the erection of a major office building.",
+      "id": "s25"
+    },
+    {
+      "text": "Construction of the new building commenced but work ceased before it had progressed very far because of an economic downturn.",
+      "id": "s26"
+    },
+    {
+      "text": "Work resumed in about 1995 and was nearing completion in 1996.",
+      "id": "s27"
+    },
+    {
+      "text": "Bowen Investments engaged Jones Lang Wootton as its agent to secure tenants for the completed building.",
+      "id": "s28"
+    },
+    {
+      "text": "On 16 September 1996 Jones Lang Wootton wrote to Tabcorp setting out terms and conditions on which Bowen Investments would be prepared to grant a lease over part or all of the building to Tabcorp.",
+      "id": "s29"
+    },
+    {
+      "text": "Tabcorp responded by letter dated 25 October 1996 in which it advised of its interest in leasing the whole of the premises.",
+      "id": "s30"
+    },
+    {
+      "text": "It sought Bowen Investments' \"confirmation and/or consideration of the following terms and conditions to enable finalisation of this negotiation and preparation and execution of appropriate lease documentation without delay.",
+      "id": "s31"
+    },
+    {
+      "text": "\" Tabcorp proposed various terms some of which involved variations to terms proposed by Bowen Investments.",
+      "id": "s32"
+    },
+    {
+      "text": "One of these terms was that:\n \n \"It is acknowledged that TABCORP will, at the expiration of its occupancy, be required to handover the premises in good and tenantable repair at the time and make good the premises subject at all times to the normal provisions for fair wear and tear that may, in the event of dispute, be arbitrated by an appropriate appointee of the President of the Royal Australian Institute of Architects or its successor if and when necessary.",
+      "id": "s33"
+    },
+    {
+      "text": "\" \n\n6 The letter also stated that, although the board of Tabcorp had authorised the making of the offer, the terms of any lease proposed following acceptance of the offer would be subject to board approval.",
+      "id": "s34"
+    },
+    {
+      "text": "It was also said that the offer was subject to Tabcorp's satisfaction with the terms and conditions of the lease.",
+      "id": "s35"
+    },
+    {
+      "text": "7 Mrs Bergamin, acting on behalf of Bowen Investments, responded on 30 October 1996.",
+      "id": "s36"
+    },
+    {
+      "text": "Her letter recorded what were said to be lease terms and conditions which had been agreed with Tabcorp.",
+      "id": "s37"
+    },
+    {
+      "text": "Those terms included a \"make good\" provision in the same terms as that offered by Tabcorp in its letter of 25 October 1996 and acknowledgment that any agreement was subject to formal approval by the Tabcorp board of the terms and conditions of any proposed lease.",
+      "id": "s38"
+    },
+    {
+      "text": "There was also an acknowledgment that tenancy works were to be subject to Bowen Investments' approval but that that approval should not unreasonably be withheld or delayed.",
+      "id": "s39"
+    },
+    {
+      "text": "8 Under cover of a letter dated 1 November 1996 solicitors acting for Bowen Investments forwarded a copy of a draft lease to solicitors acting for Tabcorp.",
+      "id": "s40"
+    },
+    {
+      "text": "That draft did not contain a general \"make good\" obligation in the terms contained in the Heads of Agreement.",
+      "id": "s41"
+    },
+    {
+      "text": "Rather it contained a series of more specific provisions to deal with damage which might occur during Tabcorp's occupancy.",
+      "id": "s42"
+    },
+    {
+      "text": "Clause 2.11 required Tabcorp, on the determination of the lease, to surrender the premises \"in good and substantial repair order and condition in all respects.",
+      "id": "s43"
+    },
+    {
+      "text": "\" Clause 2.12.4 imposed an on going obligation on Tabcorp, to \"make good any breakage defect or damage to the building or any part thereof ...",
+      "id": "s44"
+    },
+    {
+      "text": ".",
+      "id": "s45"
+    },
+    {
+      "text": "\" Clause 2.12.7 dealt with restoration of the premises at the end of the tenancy to make good any damage or disfigurement, caused by signage or advertisements which had been removed by the tenant.",
+      "id": "s46"
+    },
+    {
+      "text": "Clause 2.13 (to which more detailed attention will be devoted later in these reasons) required that Bowen Investments' written approval should be obtained by Tabcorp before it undertook any alteration or addition to the premises.",
+      "id": "s47"
+    },
+    {
+      "text": "Clause 2.14.6 required Tabcorp to make good any damage done by reason of the installation or removal of partitions.",
+      "id": "s48"
+    },
+    {
+      "text": "Clause 3.2 provided for Tabcorp, during the currency of the lease, to remove fixtures and other equipment installed by it subject to the requirement that the removal was to do no damage or that any unavoidable damage caused would be made good.",
+      "id": "s49"
+    },
+    {
+      "text": "9 Tabcorp submitted the draft lease to its solicitors, Corrs Chambers Westgarth, for consideration and advice.",
+      "id": "s50"
+    },
+    {
+      "text": "By letter dated 6 November 1996 the solicitors provided certain advice to Tabcorp.",
+      "id": "s51"
+    },
+    {
+      "text": "That advice referred to the Heads of Agreement and to certain of the \"make good\" provisions which had been included in the draft lease.",
+      "id": "s52"
+    },
+    {
+      "text": "It did not draw attention to the absence of a general \"make good\" clause of the kind which appeared in the Heads of Agreement.",
+      "id": "s53"
+    },
+    {
+      "text": "The solicitors advised Tabcorp that it was \"important for Tabcorp to consider both the provisions which have been prepared (and are included in the Heads of Agreement) and all issues required to be addressed by Tabcorp which have not been covered in the documentation to date.",
+      "id": "s54"
+    },
+    {
+      "text": "\"\n \n10 On 8 November 1996 representatives of Tabcorp conferred with its solicitors.",
+      "id": "s55"
+    },
+    {
+      "text": "Following that conference and under cover of a letter dated 12 November 1996 Corrs provided Tabcorp with a copy of the draft lease in which it had incorporated various amendments which were said to have reflected the instructions given by Tabcorp in the course of correspondence and the conference.",
+      "id": "s56"
+    },
+    {
+      "text": "Relevantly, amendments were suggested to the language of clauses 2.11, 2.12.4, 2.12.7, 2.13 and 3.2.",
+      "id": "s57"
+    },
+    {
+      "text": "No general \"make good\" clause was inserted and no reference was made, in the covering letter, to the absence of such a clause.",
+      "id": "s58"
+    },
+    {
+      "text": "11 On 14 November 1996 Corrs sent a copy of the draft lease containing its proposed amendments to Bowen Investments' solicitors, McGrath Colman Stewart.",
+      "id": "s59"
+    },
+    {
+      "text": "The covering letter noted that the draft lease was \"forwarded subject to ratification by our client.",
+      "id": "s60"
+    },
+    {
+      "text": "\" It was suggested that a conference between the parties might be useful in resolving any outstanding issues.",
+      "id": "s61"
+    },
+    {
+      "text": "12 On 20 November 1996 McGrath Colman Stewart wrote to Corrs advising that Bowen Investments had \"perused all amendments requested by your clients to their lease\" and setting out those instructions clause by clause.",
+      "id": "s62"
+    },
+    {
+      "text": "Bowen Investments agreed to all of the proposed changes to clause 2.11 save as to a disagreement as to whether the word \"substantial\" or \"tenantable\" should be included.",
+      "id": "s63"
+    },
+    {
+      "text": "The proposed amendments to clauses 2.12.4 and 2.12.7 were agreed.",
+      "id": "s64"
+    },
+    {
+      "text": "Bowen Investments agreed to the proposed changes to clause 2.13 but suggested the addition of certain words at the end of the clause.",
+      "id": "s65"
+    },
+    {
+      "text": "A minor amendment was proposed to clause 2.14.6.",
+      "id": "s66"
+    },
+    {
+      "text": "The proposed change to clause 3.2 was agreed.",
+      "id": "s67"
+    },
+    {
+      "text": "No mention was made of the absence of a general \"make good\" clause.",
+      "id": "s68"
+    },
+    {
+      "text": "The solicitors endorsed the suggestion that a round table conference between the parties would be beneficial in resolving outstanding issues.",
+      "id": "s69"
+    },
+    {
+      "text": "13 A conference was held on 25 November 1996.",
+      "id": "s70"
+    },
+    {
+      "text": "It was attended by representatives of the parties including Mr Gullquist from Tabcorp.",
+      "id": "s71"
+    },
+    {
+      "text": "Following the conference a number of issues remained outstanding.",
+      "id": "s72"
+    },
+    {
+      "text": "They were listed in a two page document prepared by Mr Gullquist.",
+      "id": "s73"
+    },
+    {
+      "text": "The only clause which related to \"make good\" matters which was referred to in the list was clause 2.11.",
+      "id": "s74"
+    },
+    {
+      "text": "The note recorded that Bowen Investments' solicitor had indicated that the word \"tenantable\" may be acceptable to the lessor.",
+      "id": "s75"
+    },
+    {
+      "text": "14 Under cover of a letter dated 29 November 1996 McGrath Colman Stewart sent to Corrs a further amended draft lease.",
+      "id": "s76"
+    },
+    {
+      "text": "It did not contain a general \"make good\" clause.",
+      "id": "s77"
+    },
+    {
+      "text": "15 The revised draft was considered by Corrs.",
+      "id": "s78"
+    },
+    {
+      "text": "On 2 December 1996 the partner responsible for the carriage of negotiations prepared a list of further amendments required to the draft lease.",
+      "id": "s79"
+    },
+    {
+      "text": "These amendments included changes to clauses 2.12.4, 2.12.7 and clause 2.13.",
+      "id": "s80"
+    },
+    {
+      "text": "Telephone discussions between solicitors followed and, by 4 December 1996, the list of additional amendments required had contracted considerably.",
+      "id": "s81"
+    },
+    {
+      "text": "It did not include any further amendments to clauses creating \"make good\" obligations.",
+      "id": "s82"
+    },
+    {
+      "text": "16 On 6 December 1996 further changes were suggested by Corrs in a facsimile message to McGrath Coleman Stewart.",
+      "id": "s83"
+    },
+    {
+      "text": "It was suggested that the word \"substantial\" appear before \"alteration\" in clause 2.13 but otherwise there was no reference to the \"make good\" clauses.",
+      "id": "s84"
+    },
+    {
+      "text": "17 Shortly afterwards internal discussions occurred within Tabcorp with a view to seeking board approval for a lease.",
+      "id": "s85"
+    },
+    {
+      "text": "On 10 December 1996 Mr Gullquist asked Mr Damien Brown, an employee of National Portfolio Strategies Pty Ltd (which had been acting on Tabcorp's behalf) to comment on a document which he had prepared which was entitled \"Summary of substantial amendments to heads of agreements arising out of lease negotiations for 5 Bowen Crescent, South Melbourne.",
+      "id": "s86"
+    },
+    {
+      "text": "\" A settled version of that document was sent by Mr Gullquist and Mr Brown to Mr David Simpson an officer of Tabcorp's board, on the following day.",
+      "id": "s87"
+    },
+    {
+      "text": "No reference was made to any \"make good\" obligations in that document.",
+      "id": "s88"
+    },
+    {
+      "text": "On the same day Mr Gullquist advised Mr Simpson that the \"lease is finally in a form which accurately reflects the negotiations which have taken place between Allan Hall [from Corrs], Damien Brown and myself for TABCORP and the Lessor and its advisers.",
+      "id": "s89"
+    },
+    {
+      "text": "\"\n \n18 On 11 December 1996 McGrath Colman Stewart forwarded a further amended version of the lease to Mr Gullquist.",
+      "id": "s90"
+    },
+    {
+      "text": "19 On 21 December 1996 Corrs forwarded to McGrath Colman Stewart copies of the lease which had been executed by Tabcorp.",
+      "id": "s91"
+    },
+    {
+      "text": "20 The executed lease contained the following paragraphs which are concerned with \"make good\" matters:\n \n \"2.11 YEILDING UP \n At the expiration or sooner determination of this Lease peaceably to surrender and yield to the Landlord the whole of the Demised Premises and every part thereof and the fixtures and fittings of the Landlord in good and tenantable repair order and condition in all respects (but subject to the exceptions described in clause 2.10) and clean and free from rubbish in accordance with the Tenant's obligations under the Lease.",
+      "id": "s92"
+    },
+    {
+      "text": "Any dispute under this clause as to the condition of the Demised Premises shall be determined by the President for the time being of the Royal Australian Institute of Architects RAIA (or its successor body) or his or her nominee whose decision shall be binding on the parties.",
+      "id": "s93"
+    },
+    {
+      "text": "2.12 TENANTS OBLIGATIONS TO MAINTAIN PREMISES \n At all times during the term without affecting the generality of the preceding two sub-clauses of this clause at its expense: \n \n ............................... \n \n \n \n 2.12.4 MAKE GOOD BREAKAGES \n from time to time to make good any breakage or damage to the building or any part therefore or to any adjacent or adjoining building or any facility or appurtenance thereof occasioned by want of care misuse or abuse on the part of the Tenant or any person claiming through or under the Tenant or otherwise occasioned by any breach or default of the Tenant hereunder or by any other cause for which the Tenant ought reasonably to be responsible provided that nothing herein contained shall impose any obligation upon the Tenant to do any work of a structural nature or to replace any fixtures, fittings, plant, furnishings and equipment except such as may be occasioned by the act neglect misuse or default of or by the Tenant or relating to the Tenant's use or occupancy of the Demised Premises.",
+      "id": "s94"
+    },
+    {
+      "text": "............................... \n \n \n \n \n \n 2.12.7 ON VACATING DEMISED PREMISES \n \n \n \n \n upon vacating the Demised Premises or immediately prior thereto to return all keys to the Demised Premises and at the request of the Landlord to remove any signs names advertisements or notices erected painted displayed affixed or exhibited upon to or within the Demised Premises and to make good any damage or disfigurement caused by reason of such erected painting displaying affixing exhibiting or removal thereof and on default the Landlord make execute such work and recover the cost thereof from the Tenant PROVIDED ALWAYS that either party may at its option in lieu of the Tenant's obligations to redecorate the Demised Premises and/or remove all partitions and make good pursuant to this clause, require the Tenant (or agrees) to pay to the Landlord the estimated cost of such redecoration and/or removal of partitions and making good the premises and in default of payment the Landlord may recover the estimated costs thereof from the Tenant.",
+      "id": "s95"
+    },
+    {
+      "text": "Any dispute shall be determined by the President for the time being of the Royal Australian Institute of Architects RAIA (or its successor body) or his or her nominee whose decision will be binding on the parties.",
+      "id": "s96"
+    },
+    {
+      "text": "............................... \n \n \n \n 2.14 PARTITIONS \n To install in the Demised Premises internal partitions of a proper quality having regard to the condition of the Building by a builder or other contractor and under the supervision of an architect as may be nominated by the Tenant acting reasonably from time to time and not make any substantial additions or alterations to the said partitions except with the approval of the Landlord (which approval cannot be unreasonably withheld or delayed) and by a builder or other contractor and under the supervision of an architect nominated as aforesaid and the Tenant hereby agrees and acknowledges that: ......... \n \n \n \n 2.14.6 \n All damage done to the Demised Premises or the Building or services by reason of the installation or removal of any partition shall be made good by the Tenant and if the Tenant fails to do so the Landlord may make good all such damage at the expense of the Tenant.",
+      "id": "s97"
+    },
+    {
+      "text": ".................. \n 3.2 REMOVAL OF FIXTURES BY TENANT \n That subject to clause 2.14 hereof the Tenant may at or prior to the expiration of this Lease take remove and carry away from the Demised Premises all fixtures fittings plant equipment or other articles including partitions upon the Demised Premises in the nature of trade or Tenant's fixtures brought upon the Demised Premises by the Tenant PROVIDED that the tenant shall in such removal forthwith make good any damage with which the Tenant may occasion thereto and shall remove all rubbish and shall leave the Demised Premises in a clean state and condition.",
+      "id": "s98"
+    },
+    {
+      "text": "\" \n\n21 Clause 2.13 dealt with alterations and additions to the premises.",
+      "id": "s99"
+    },
+    {
+      "text": "It provided:\n \n \"Not without the written approval of the Landlord first obtained (which consent shall not be unreasonably withheld or delayed) to make or permit to be made any substantial alteration or addition to the Demised Premises or to any Landlord's fixtures or fittings therein and when applying for such approval to submit to the Landlord for perusal full and clear plans specifications and other details as the Landlord may reasonably require and to pay such reasonable fees and expenses as the Landlord may occur in obtaining reports and advice on such plans specifications and details from architects engineers builders and other professional persons and in having any words inspected and in the event of such approval being given at his own expense to cause the alterations or additions so approved to be carried out in a proper and workmanlike manner by a builder or other contractor approved by the Landlord and under the supervision of the Landlord's architect.",
+      "id": "s100"
+    },
+    {
+      "text": "The Tenant must ensure that such alterations and additions do not void any warranties on any of the building works or installations the details of which warranties have been notified to the Tenant by the Landlord in writing.",
+      "id": "s101"
+    },
+    {
+      "text": "In the event that any of the warranties are so voided the Tenant acknowledges that it is fully liable in this regard.",
+      "id": "s102"
+    },
+    {
+      "text": "\" \n\n22 The lease provided for an initial 10 year term commencing on 1 February 1997.",
+      "id": "s103"
+    },
+    {
+      "text": "In clause 5.11 provision was made for Tabcorp to exercise options to extend its tenancy by two five year terms.",
+      "id": "s104"
+    },
+    {
+      "text": "No rent was payable for any period prior to 1 August 1997.",
+      "id": "s105"
+    },
+    {
+      "text": "23 By the early part of 1997 the foyer area of the building had been completed.",
+      "id": "s106"
+    },
+    {
+      "text": "It had a striking appearance.",
+      "id": "s107"
+    },
+    {
+      "text": "The floor was made of Canberra York Gray granite.",
+      "id": "s108"
+    },
+    {
+      "text": "Carpet was inlayed in parts of the floor.",
+      "id": "s109"
+    },
+    {
+      "text": "Some of the walls were adorned by American cherry wood panels.",
+      "id": "s110"
+    },
+    {
+      "text": "Pillars were covered with marble.",
+      "id": "s111"
+    },
+    {
+      "text": "It was accepted that these were high quality materials and that the overall effect of the foyer was regarded by the Bergamins' as having a timeless quality.",
+      "id": "s112"
+    },
+    {
+      "text": "The upper office floors had been carpeted but had not been fitted out pending a determination of the tenant's requirements.",
+      "id": "s113"
+    },
+    {
+      "text": "24 In February and March 1997 the parties discussed various issues relating to the partitioning and carpeting of the office floors.",
+      "id": "s114"
+    },
+    {
+      "text": "On 13 March 1997 McGrath Colman Stewart wrote to Mr Gullquist recording what were said to be the terms of an agreement under which Bowen Investments permitted Tabcorp to remove carpet installed on some of the office floors and replace that carpet with carpet of Tabcorp's choosing.",
+      "id": "s115"
+    },
+    {
+      "text": "The letter contained a paragraph which read:\n \n \"In all other respects, the obligation of Tabcorp to make good the Demised Premises at the expiration or sooner determination of the Lease remains.",
+      "id": "s116"
+    },
+    {
+      "text": "\" \n\nThe parties signified their agreement to the terms by signing the letter.",
+      "id": "s117"
+    },
+    {
+      "text": "Mr Gullquist signed on behalf of Tabcorp.",
+      "id": "s118"
+    },
+    {
+      "text": "25 At about this time Tabcorp engaged the services of a firm of interior designers.",
+      "id": "s119"
+    },
+    {
+      "text": "Their task was to prepare plans for the fit out of the office floors and the redesign of the foyer.",
+      "id": "s120"
+    },
+    {
+      "text": "Lend Lease Interiors was engaged as the Project Managers for the internal fit out project.",
+      "id": "s121"
+    },
+    {
+      "text": "26 By letter dated 8 April 1997 Mr Noel Phelan, the senior project manager for Lend Lease Interiors, wrote to Mr Bergamin.",
+      "id": "s122"
+    },
+    {
+      "text": "The letter read:\n \n \"As you are aware, Lend Lease Interiors have been appointed as Tabcorp's Project Managers, responsible for the design and construction of the above project.",
+      "id": "s123"
+    },
+    {
+      "text": "We have been advised by Tabcorp that their lease on 5 Bowen Crescent requires the Owner's consent for the proposed fit out.",
+      "id": "s124"
+    },
+    {
+      "text": "It is our intention to proceed with construction of the proposed fit out on 14 th April, 1997.",
+      "id": "s125"
+    },
+    {
+      "text": "We therefore submit for your consideration and approval copies of the following architectural drawings, which detail the proposed works as noted on the attached transmittal.",
+      "id": "s126"
+    },
+    {
+      "text": "At this stage, plans of the proposed ground floor works have not been issued as planning of this area has not been resolved.",
+      "id": "s127"
+    },
+    {
+      "text": "A plan will be submitted for your approval as soon as Tabcorp finalises their requirements.",
+      "id": "s128"
+    },
+    {
+      "text": "In order to allow works to proceed as planned, we request your approval to the works indicated on the enclosed drawings by signing and returning to us a copy of this letter.",
+      "id": "s129"
+    },
+    {
+      "text": "We thank you in anticipation of your attention to this matter by Thursday, 10 th April, 1997.",
+      "id": "s130"
+    },
+    {
+      "text": "\" \n \n\nAt the bottom of the letter there was a notation which allowed Bowen Investments to record its consent for the proposed works.",
+      "id": "s131"
+    },
+    {
+      "text": "Mrs Bergamin gave consent on behalf Bowen Investments by signing this section of the letter on 11 April 1997.",
+      "id": "s132"
+    },
+    {
+      "text": "The reference to \"ground floor works\" related to the foyer and adjacent office space.",
+      "id": "s133"
+    },
+    {
+      "text": "27 On 9 April 1997 Mrs Bergamin wrote to Mr Phelan as follows:\n \n \"In reply to your letter of 8 April 1997 which we received very late on that day we advise that we will not be able to provide our consent to the proposed fit out works until we have had the drawings looked at by our consultants.",
+      "id": "s134"
+    },
+    {
+      "text": "We advised Damien Brown in a letter on April 1 1997 of all of our consultancy whose approval we need to obtain and understood that you would be advised of them and they would all be provided with drawings.",
+      "id": "s135"
+    },
+    {
+      "text": "These consultants are Simpson Kotzman Pty Ltd, Consulting Engineers, Bonacci Winward, Structural Engineers, and Bruce Henderson, Architect.",
+      "id": "s136"
+    },
+    {
+      "text": "Only one set of drawings was provided.",
+      "id": "s137"
+    },
+    {
+      "text": "You have advised today that you will courier drawings to Simpson Kotzman Pty Ltd today, and that Bonacci Winward are involved in the work and know the drawings.",
+      "id": "s138"
+    },
+    {
+      "text": "Please provide us with another set of drawings which we can give to Bruce Henderson.",
+      "id": "s139"
+    },
+    {
+      "text": "In addition you have asked that we give our approval to the works to be done according to the drawings provided by 10 April 1997.",
+      "id": "s140"
+    },
+    {
+      "text": "In the circumstances, the time you have given for us and our consultants to properly check the drawings are far too short.",
+      "id": "s141"
+    },
+    {
+      "text": "As advised to you earlier today we will make reasonable efforts to have our consultants approve these drawings as soon as possible, however, we cannot promise that approval will be given by the date you seek.",
+      "id": "s142"
+    },
+    {
+      "text": "You would appreciate that without the approval of our consultants we will not be able to provide ours.",
+      "id": "s143"
+    },
+    {
+      "text": "As soon as we have obtained the approval of all of the above people, we shall contact you.",
+      "id": "s144"
+    },
+    {
+      "text": "\" \n\nWritten approval was given by Mrs Bergamin on 11 April 1997.",
+      "id": "s145"
+    },
+    {
+      "text": "28 Work on the fit out of the office floors commenced shortly afterwards and continued for some months.",
+      "id": "s146"
+    },
+    {
+      "text": "29 As Mr Phelan's letter indicated Tabcorp had, under consideration, in April 1997 proposals for the fit out of the ground floor.",
+      "id": "s147"
+    },
+    {
+      "text": "Although the nature of those plans was not conveyed to the Bergamins at that time, the evidence suggests that, earlier in the year, the then CEO of Tabcorp, Mr Ross Wilson, had determined that the foyer area required a total redesign in order to project what he perceived to be Tabcorp's image as a progressive, technologically advanced business.",
+      "id": "s148"
+    },
+    {
+      "text": "30 One of the features of the foyer, as it was originally constructed, was a rondor door.",
+      "id": "s149"
+    },
+    {
+      "text": "Early in July 1997 Mrs Bergamin became aware of a proposal by Tabcorp to remove the rondor door and replace it with a sliding door.",
+      "id": "s150"
+    },
+    {
+      "text": "She instructed McGrath Colman Stewart to take the issue up with Tabcorp.",
+      "id": "s151"
+    },
+    {
+      "text": "On 10 July 1997 McGrath Colman Stewart wrote to Tabcorp advising of Bowen Investments' concern at the proposal and noting that it had \"not been provided with any plans or specifications in relation to this as required under the Lease.",
+      "id": "s152"
+    },
+    {
+      "text": "\" The letter also advised that, in any event, Bowen Investments did not consent to such an alteration.",
+      "id": "s153"
+    },
+    {
+      "text": "31 Early on the morning of 11 July 1997 Mr Phelan telephoned Mrs Bergamin.",
+      "id": "s154"
+    },
+    {
+      "text": "It was a relatively short conversation.",
+      "id": "s155"
+    },
+    {
+      "text": "There is some dispute in the evidence as to precisely what passed between them during the conversation.",
+      "id": "s156"
+    },
+    {
+      "text": "This is a matter to which it will be necessary to return later in these reasons.",
+      "id": "s157"
+    },
+    {
+      "text": "Following the conversation Mr Phelan wrote to Mrs Bergamin.",
+      "id": "s158"
+    },
+    {
+      "text": "The letter read:\n \n \"Further to our discussions this morning we wish to confirm the our (sic) agreement in relation to the above works as follows: \n \n \n &#8226; We note your concern in relation to the retention on (sic) the existing eliptical entry door and confirm that no alterations will be made to this unit unless they are previously agreed between yourself and Tabcorp.",
+      "id": "s159"
+    },
+    {
+      "text": "Works, if any are agreed, will only proceed when we have confirmation of such agreement in writing from your company.",
+      "id": "s160"
+    },
+    {
+      "text": "We also confirm that our only instructions from Tabcorp in relation to this item are to examine costs for alternative doors.",
+      "id": "s161"
+    },
+    {
+      "text": "&#8226; In relation to the removal of the existing glass and stone partition, timber panelling and stone floor tiles within the foyer we acknowledge your consent for these works to proceed.",
+      "id": "s162"
+    },
+    {
+      "text": "It is currently intended to replace these elements with materials which will reflect the high quality of the building and Tabcorp's corporate image.",
+      "id": "s163"
+    },
+    {
+      "text": "We apologise for the short notice on these works and thank you for your cooperation and understanding in this matter.",
+      "id": "s164"
+    },
+    {
+      "text": "We look forward to meeting you onsite next week to fully brief you on the proposed reworks to the foyer and in the meantime will forward to you today plans of the proposed works.",
+      "id": "s165"
+    },
+    {
+      "text": "It would be appreciated if you could (sic) confirm this agreement by signing this letter and returning a copy to us.",
+      "id": "s166"
+    },
+    {
+      "text": "There was a notation at the foot of the letter which referred to approval by Bergamin Consolidated Industries.",
+      "id": "s167"
+    },
+    {
+      "text": "The signature block beneath it remained blank.",
+      "id": "s168"
+    },
+    {
+      "text": "32 The reason for this is clear from a letter written by Mrs Bergamin to Mr Phelan later on 11 July 1997.",
+      "id": "s169"
+    },
+    {
+      "text": "Having referred to his letter of the same date she continued:\n \n \"Although we have no objection in principal (sic) to the removal of the existing foyer surfaces, we are not in a position to sign this letter today.",
+      "id": "s170"
+    },
+    {
+      "text": "We have not yet been provided with plans and as you will appreciate, we are concerned about the integrity of the building and any structural implications of proposed alterations to the building.",
+      "id": "s171"
+    },
+    {
+      "text": "You have advised that you will be forwarding plans to us today and we will be able to meet with you on site next Monday 14 July to have a look at the proposed alterations.",
+      "id": "s172"
+    },
+    {
+      "text": "We are concerned about the late notice to us of your proposals.",
+      "id": "s173"
+    },
+    {
+      "text": "Under the terms of the lease we should be provided with plans and specifications so that we can obtain advice from our consultants before giving our consent.",
+      "id": "s174"
+    },
+    {
+      "text": "We do not wish to slow things down or obstruct any agreed works and we understand that you have a lot to achieve in a short time.",
+      "id": "s175"
+    },
+    {
+      "text": "Throughout the progress of these works we have gone out of our way to accommodate you and it would make sense to us if you contacted us earlier in these matters so that the proper consideration can be given to your proposals.",
+      "id": "s176"
+    },
+    {
+      "text": "We are not difficult to contact and you have our telephone numbers.",
+      "id": "s177"
+    },
+    {
+      "text": "With regards to the front rondor door (curved sliding door) we do not consent to its removal or replacement.",
+      "id": "s178"
+    },
+    {
+      "text": "Another matter which concerns us is the replacement of the granite in the foyer.",
+      "id": "s179"
+    },
+    {
+      "text": "The granite currently in place is known as \"Canberra York Grey\" and your representatives have advised us that you cannot obtain any more of this.",
+      "id": "s180"
+    },
+    {
+      "text": "We acknowledge that you have a requirement to install more granite and that you wish to therefore completely replace the existing granite with a different granite, but remind you of the obligations of the tenant under the lease to make good the premises at the end of the term.",
+      "id": "s181"
+    },
+    {
+      "text": "This of course would require the \"Canberra York Grey\" to be reinstated.",
+      "id": "s182"
+    },
+    {
+      "text": "..... \n \n We look forward to meeting you on Monday 14 th July on site at 11.00 am ...\" \n \n\n33 At some time between 11 July 1997 and the morning of 14 July 1997 the existing glass and stone partition, the timber panelling and the stone floor tiles in the foyer were removed.",
+      "id": "s183"
+    },
+    {
+      "text": "Mrs Bergamin and her son arrived at about 10.45 am on 14 July 1997.",
+      "id": "s184"
+    },
+    {
+      "text": "They were shocked and dismayed to see what remained of the floor stonework being jack hammered and the pieces thrown into bins.",
+      "id": "s185"
+    },
+    {
+      "text": "The onsite meeting proposed by Mr Phelan then took place.",
+      "id": "s186"
+    },
+    {
+      "text": "Those present were Mrs Bergamin, Mr John Bergamin Jnr, Mr Noel Phelan and Mr Andy Asker from Lend Lease and Mr Rolph Axelsson, Mr Craig Launder and Mr Michael Gullquist from Tabcorp.",
+      "id": "s187"
+    },
+    {
+      "text": "At that meeting Mrs Bergamin objected to the ongoing demolition work on the ground that it had not been approved by the lessor.",
+      "id": "s188"
+    },
+    {
+      "text": "In the course of the meeting she was provided with a letter from Mr Phelan, dated 14 July 1997.",
+      "id": "s189"
+    },
+    {
+      "text": "The letter confirmed that no decision had been taken in relation to the rondor door.",
+      "id": "s190"
+    },
+    {
+      "text": "Enclosed with the letter were three drawings which were said to \"indicate the current concept of the refurbishment of the Foyer\" and \"the current extent of proposed alterations to the ground floor foyer.",
+      "id": "s191"
+    },
+    {
+      "text": "\" These plans were preliminary in nature.",
+      "id": "s192"
+    },
+    {
+      "text": "Mr Phelan advised that final drawings would be forwarded \"once costings and details are confirmed.",
+      "id": "s193"
+    },
+    {
+      "text": "\" \n \n34 Mr Gullquist made notes of the meeting.",
+      "id": "s194"
+    },
+    {
+      "text": "Relevantly, those notes record:\n \n \"1.",
+      "id": "s195"
+    },
+    {
+      "text": "The lobby area had had the floor taken up and original granite panelling removed.",
+      "id": "s196"
+    },
+    {
+      "text": "The Bergamins were unhappy that there had not been any prior consultation with them; \n \n 2.",
+      "id": "s197"
+    },
+    {
+      "text": "John Bergamin requested detailed plans including profiles and a schedule of finishes.",
+      "id": "s198"
+    },
+    {
+      "text": "Noel Phelan advised that these had not yet been prepared but when prepared would be forwarded to him for his review; \n \n 3.",
+      "id": "s199"
+    },
+    {
+      "text": "Mary Bergamin stated that they would not agree to removal of the existing front door and replacement with frameless glass sliding doors.",
+      "id": "s200"
+    },
+    {
+      "text": "The existing front door was viewed and it was agreed that the alternate plan of moving it forward in line with the building fa&ccedil;ade was acceptable.",
+      "id": "s201"
+    },
+    {
+      "text": "It was noted that this work which would require the cutting down of the upper bulk head would be carried out by the original door contractor.",
+      "id": "s202"
+    },
+    {
+      "text": "The Bergamins were advised that this was necessary in order to provide greater distance between the front door and reception desk for security purposes; \n \n 4.",
+      "id": "s203"
+    },
+    {
+      "text": "Mary Bergamin reiterated that relocating the front door to the fa&ccedil;ade line would also require review by their consultants; \n \n 5.",
+      "id": "s204"
+    },
+    {
+      "text": "... \n \n \n \n 6.",
+      "id": "s205"
+    },
+    {
+      "text": "There was no discussion of any reinstatement issues.",
+      "id": "s206"
+    },
+    {
+      "text": "\" \n \n\n35 On 15 July 1997 Mr Bergamin Jnr wrote to Mr Phelan recording his concern about damage which might have been caused to the structure of the building by vibrations caused by a pneumatic hammer which had been used to demolish part of the foyer.",
+      "id": "s207"
+    },
+    {
+      "text": "36 On 14 August 1997 Mr Phelan wrote to Mrs Bergamin seeking her written approval of the alternations to the foyer.",
+      "id": "s208"
+    },
+    {
+      "text": "The letter read:\n \n \"Further to our letter of 14 th July 1997 we enclose copies of plans which detail the alterations which are currently being undertaken at Tabcorp's request to the ground floor foyer on the above building.",
+      "id": "s209"
+    },
+    {
+      "text": "As previously advised it is no longer intended to relocate or alter the eliptical entry door to the building and this is reflected on the drawings.",
+      "id": "s210"
+    },
+    {
+      "text": "All works are contained to the replacement of finishes and partitions as indicated on the plans together with associated minor alterations to services.",
+      "id": "s211"
+    },
+    {
+      "text": "On behalf of Tabcorp, we request your formal approval to the proposed works as indicated on the attached drawings ... \n \n Could you please confirm your approval by signing and returning a copy of this letter to us at your earliest convenience.",
+      "id": "s212"
+    },
+    {
+      "text": "\" \n \n\n37 Mrs Bergamin responded by letter dated 19 August 1997.",
+      "id": "s213"
+    },
+    {
+      "text": "She wrote:\n \n \"In reply to your request for approval for Ground Floor works dated the 14 th August 1997, I would like to express my concerns regarding the drawings I have received.",
+      "id": "s214"
+    },
+    {
+      "text": "Following the meeting held with yourself, Andy Asker, Michael Gullquist, Rolf Axelson, John Bergamin and myself on July 14 th in reference to Ground Floor works, it was agreed that final drawings and a Schedule of finishes and sample board would be forwarded to us.",
+      "id": "s215"
+    },
+    {
+      "text": "The drawings I have received don't specify the type of 305 x 305 tiles to be laid on the floor.",
+      "id": "s216"
+    },
+    {
+      "text": "My concern is that without a sample board showing all finishes both myself and our architect are unable to determine whether your new proposed foyer will be of equal standard end value to the original foyer.",
+      "id": "s217"
+    },
+    {
+      "text": "Approval for these works should have been received prior to demolition commencing.",
+      "id": "s218"
+    },
+    {
+      "text": "Due to the scarcity of the original building materials, i.e.",
+      "id": "s219"
+    },
+    {
+      "text": "granite etc, I should point out that it is also a requirement of the lease to return this area to original condition.",
+      "id": "s220"
+    },
+    {
+      "text": "We appreciate the fact that you have a tight building programme, however, on a marketable side of things the foyer sets the standard for the whole building and we would like to ensure that the integrity of the original foyer remain.",
+      "id": "s221"
+    },
+    {
+      "text": "A sample board of the detailed schedule of finishes must be supplied for us for our architect's approval prior to us approving the ground floor works.",
+      "id": "s222"
+    },
+    {
+      "text": "\" \n\n38 A week passed and no response was received from Mr Phelan.",
+      "id": "s223"
+    },
+    {
+      "text": "Mrs Bergamin instructed McGrath Colman Stewart to raise her concerns directly with Tabcorp.",
+      "id": "s224"
+    },
+    {
+      "text": "On 27 August 1997 McGrath Colman Stewart wrote to Tabcorp.",
+      "id": "s225"
+    },
+    {
+      "text": "The letter was marked to the attention of Mr Gullquist.",
+      "id": "s226"
+    },
+    {
+      "text": "The relevant parts of the letter read:\n \n \"We have been instructed by our clients that despite several requests by them to Lend Lease Interiors Pty Ltd and in contravention of the terms of the above Lease, they have not been provided with all of the information and material required by them so that they may consider whether to give approval to works to be undertaken in the foyer of the premises.",
+      "id": "s227"
+    },
+    {
+      "text": "In this regard we refer you to clause 2.13 of the Lease.",
+      "id": "s228"
+    },
+    {
+      "text": "In addition to general plans and specifications required, our clients have specifically requested a sample board showing all finishes.",
+      "id": "s229"
+    },
+    {
+      "text": "We enclose herewith copy of our client's letter of 19 August 1997 to Lend Lease Interiors Pty Ltd in this regard.",
+      "id": "s230"
+    },
+    {
+      "text": "No response has been received to this letter by our clients.",
+      "id": "s231"
+    },
+    {
+      "text": "It has come to our clients' attention that in fact, significant work has already been undertaken by Lend Lease Interiors Pty Ltd which our clients have not had the opportunity of inspecting or approving, nor have they been able to have their architect inspect or approve any of the work or plans.",
+      "id": "s232"
+    },
+    {
+      "text": "We are advised that the work which has been undertaken was led to a significant change in the appearance of the foyer of the building which in our client's opinion, detracts from the overall presentation of the building.",
+      "id": "s233"
+    },
+    {
+      "text": "Whilst our clients recognise that you have the obligation to make good the premises at such time as the Lease is determined and that to some extent this addresses their concerns, the change in appearance of the foyer and thus appearance of the building, in the meantime will in their opinion detract from the value of the building itself.",
+      "id": "s234"
+    },
+    {
+      "text": "Should our clients wish to sell the building during the term of your tenancy, then these works undertaken by Lend Lease Interiors Pty Ltd, our clients believe will result in a lower retainable sale price than would have been the case had the foyer remained the same.",
+      "id": "s235"
+    },
+    {
+      "text": "Our clients are extremely concerned at the current situation.",
+      "id": "s236"
+    },
+    {
+      "text": "The above premises represents a considerable investment on the part of our clients and they are justifiably proud of the construction, finishes and appearance of the building.",
+      "id": "s237"
+    },
+    {
+      "text": "Our clients regret very much that these circumstances have arisen as they value their association with you.",
+      "id": "s238"
+    },
+    {
+      "text": "Our clients do not wish to be unreasonable in this matter and indeed have made every possible attempt to assist yourselves and Lend Lease Interiors so that the fit out conducted by Lend Lease Interiors may be completed in time for your scheduled occupation of the building.",
+      "id": "s239"
+    },
+    {
+      "text": "They have made themselves available at all times and have responded promptly to all queries and correspondence and have merely requested that the same courtesies be extended to them by Lend Lease Interiors.",
+      "id": "s240"
+    },
+    {
+      "text": "This clearly has not been happening and we must make it clear to you that our clients have not given their consent to any of the alterations to the foyer.",
+      "id": "s241"
+    },
+    {
+      "text": "Our clients would like to receive a response as soon as possible to their letter of 19 August 1997 from Lend Lease Interiors including provision of the sample board and we request that you contact Lend Lease Interiors in this regard to assist provision of same.",
+      "id": "s242"
+    },
+    {
+      "text": "\" \n\n39 By letter dated 28 August 1997 Mr Phelan responded to Mrs Bergamin's letter of 19 August 1997.",
+      "id": "s243"
+    },
+    {
+      "text": "His letter enclosed a sample finishes board for the finishes which Tabcorp had approved for the ground floor foyer.",
+      "id": "s244"
+    },
+    {
+      "text": "The letter continued:\n \n \"As discussed at the meeting with Tabcorp and yourself on 14 July the alterations were necessary to achieve appropriate distances between the reception desk and the building entry for security purposes.",
+      "id": "s245"
+    },
+    {
+      "text": "This obviously required the removal of existing partitions and rework of the finishes to suit the new layout.",
+      "id": "s246"
+    },
+    {
+      "text": "It was initially intended to retain the existing floor finish provided that additional granite could be sourced to complete the works.",
+      "id": "s247"
+    },
+    {
+      "text": "You will recall at the meeting it was acknowledged that supply of the original granite was no longer available and that the existing stone tile would need to be replaced.",
+      "id": "s248"
+    },
+    {
+      "text": "Subsequently the remainder of the finishes in the foyer have been selected to compliment the new stone flooring.",
+      "id": "s249"
+    },
+    {
+      "text": "From these discussions, both LLI and Tabcorp were under the impression that you had consented to the proposed alterations.",
+      "id": "s250"
+    },
+    {
+      "text": "On this understanding we have been instructed to proceed with the works.",
+      "id": "s251"
+    },
+    {
+      "text": "Nevertheless, we are happy to supply with the attached finishes details and regret if there has been a misunderstanding on this matter.",
+      "id": "s252"
+    },
+    {
+      "text": "In relation to the reinstatement issue we suggest that you take this matter up directly with Tabcorp.",
+      "id": "s253"
+    },
+    {
+      "text": "...........................\" \n \n\n40 By letter dated 29 August 1997 Mr Gullquist responded to McGrath Colman Stewart's letter of 27 August 1997.",
+      "id": "s254"
+    },
+    {
+      "text": "His response read, in part:\n \n \"I have previously pursued the matters raised by your client directly with Lend Lease Interiors ... .",
+      "id": "s255"
+    },
+    {
+      "text": "They have advised that the finishes board is being prepared simultaneously with the carrying out of the lobby re-fit by the consulting architects and will be forwarded to your clients as soon as it is available.",
+      "id": "s256"
+    },
+    {
+      "text": "I am sure your clients will appreciate that some short-time frames have been involved, particularly with respect to the re-fit on the ground floor lobby area, however, a concurrent meeting was arranged and held with your clients on 14 July in recognition of our obligations under the lease and in an endeavour to ensure that your clients were kept abreast of the design changes and materials being utilised in the re-fit of the lobby area.",
+      "id": "s257"
+    },
+    {
+      "text": "Although it was understood at that meeting that a finishes board would subsequently be required, those who attended the meeting (including myself) were left in no doubt that your clients agreed to the lobby re-fit proceeding in the interim.",
+      "id": "s258"
+    },
+    {
+      "text": "Of course your clients are welcomed to view the works at any time, however, it would seem to us that the next appropriate point for a formal review to be carried out would be on completion of the re-fit.",
+      "id": "s259"
+    },
+    {
+      "text": "....\" \n\n41 The reference, in a number of the letters which have been quoted in preceding paragraphs, to \"tight timeframes\" and like expressions was explained in evidence to be a reference to Tabcorp's intention to move from its former premises to 5 Bowen Crescent on 31 August 1997.",
+      "id": "s260"
+    },
+    {
+      "text": "That removal occurred on the planned date.",
+      "id": "s261"
+    },
+    {
+      "text": "42 On 2 September 1997 Mr Henderson, the architect who had designed the building for the Bergamins, inspected the renovated foyer.",
+      "id": "s262"
+    },
+    {
+      "text": "He recorded his observations in a letter to Mrs Bergamin dated 5 September 1997.",
+      "id": "s263"
+    },
+    {
+      "text": "He wrote:\n \n \"Obviously, I was quite surprised at our visit to this building earlier this week.",
+      "id": "s264"
+    },
+    {
+      "text": "My surprise comes from two areas, the first being the lack of quality in the finishes you now have to accept and the second surprise comes in the design of the foyer.",
+      "id": "s265"
+    },
+    {
+      "text": "The first should be of great concern, even though the tenant has to return the building to the original condition when they leave.",
+      "id": "s266"
+    },
+    {
+      "text": "The concern is that these finishes are a far lesser quality than those, which were part of the building prior to the commencement of work.",
+      "id": "s267"
+    },
+    {
+      "text": "A few examples are: \n \n \n \n \n - The round columns are now in painted board.",
+      "id": "s268"
+    },
+    {
+      "text": "- The floor finishes are a much lower quality.",
+      "id": "s269"
+    },
+    {
+      "text": "- The painted timber walls are a much lower standard.",
+      "id": "s270"
+    },
+    {
+      "text": "- The quality and type of lighting has been reduced.",
+      "id": "s271"
+    },
+    {
+      "text": "All these contribute to the second concern, which is the actual design of the foyer.",
+      "id": "s272"
+    },
+    {
+      "text": "The design is very minimalist and very much early 1990's.",
+      "id": "s273"
+    },
+    {
+      "text": "The likelihood is that it will date very quickly.",
+      "id": "s274"
+    },
+    {
+      "text": "Whilst this is not your problem, this solution has now dated the building which will necessitate the total upgrade of this area, including the lift lobby and lifts when the tenant vacates the building.",
+      "id": "s275"
+    },
+    {
+      "text": "\" \n\n43 On 8 September 1997 Mrs Bergamin wrote to John Ames of Tabcorp enclosing a copy of Mr Henderson's letter of 5 September 1997.",
+      "id": "s276"
+    },
+    {
+      "text": "She made various complaints about the conduct of Lend Lease Interiors.",
+      "id": "s277"
+    },
+    {
+      "text": "She wrote:\n \n \"Thank you for meeting with us and our architect Mr Bruce Henderson on 2 September 1997.",
+      "id": "s278"
+    },
+    {
+      "text": "It was helpful from our point of view to be able to explain how disappointed that we were that Lend Lease gave us no opportunity to inspect or approve the final finishes of our building even though it was a requirement of the lease to have our approval prior to commencement.",
+      "id": "s279"
+    },
+    {
+      "text": "As you are aware, we did not receive the sample board until 28 August 1997.",
+      "id": "s280"
+    },
+    {
+      "text": "Having heard from Noel Phelan the sequence of events and reasons given for their failure to advise us in sufficient time, we would still appreciate receiving in writing from Lend Lease the actual sequence of events which caused the oversight to occur.",
+      "id": "s281"
+    },
+    {
+      "text": "Can you arrange for them to give us this explanation.",
+      "id": "s282"
+    },
+    {
+      "text": "Finally, on viewing the foyer as completed, we were very disappointed as we had always been reassured by Tabcorp and its representatives that the new foyer would be of exemplary standard.",
+      "id": "s283"
+    },
+    {
+      "text": "This is clearly not the case.",
+      "id": "s284"
+    },
+    {
+      "text": "The tiles laid are only 10mm thick 305mm x 305mm tiles, not 20mm granite slabs as was there previously.",
+      "id": "s285"
+    },
+    {
+      "text": "Also, the wall finishes are nothing more than painted MDF (Custom Wood) board.",
+      "id": "s286"
+    },
+    {
+      "text": "We are disappointed in the final product as apart from an aesthetic point of view the original quality of material has not been upheld.",
+      "id": "s287"
+    },
+    {
+      "text": "We do not dispute the fact that Tabcorp required the foyer to be altered and we never had any objections to this in principle so long as the requirements of the lease were observed.",
+      "id": "s288"
+    },
+    {
+      "text": "We note that in your letter of 29 August 1997 to our solicitors you state that there was no doubt that we consented to the lobby re-fit proceeding.",
+      "id": "s289"
+    },
+    {
+      "text": "This consent was always on the basis that we would be provided with the sample board within two days of the meeting on 14 July 1997 so that we would have a chance to approve or disapprove of the intended finishes.",
+      "id": "s290"
+    },
+    {
+      "text": "As stated previously, we were not given this opportunity and consequently no approval has been given by the landlord to the finishes contained in the lobby.",
+      "id": "s291"
+    },
+    {
+      "text": "In addition we still feel that we have been misled by Tabcorp and its representatives by them assuring us that we were getting a foyer of equal quality.",
+      "id": "s292"
+    },
+    {
+      "text": "\" \n\n44 Mr Ames referred Mrs Bergamin's letter to Mr Phelan.",
+      "id": "s293"
+    },
+    {
+      "text": "On 17 September 1997 Mr Phelan advised Mr Ames that:\n \n \"It would appear from the copy of the Bergamin's latest letter of 8 September to Tabcorp that they still hold some concerns in relation to the alterations carried out to the ground floor foyer.",
+      "id": "s294"
+    },
+    {
+      "text": "We genuniely believe these concerns are unfounded but quite understand the owners desire to be fully informed regarding design aspects, finishes and materials utilised.",
+      "id": "s295"
+    },
+    {
+      "text": "They have a valuable asset to protect.",
+      "id": "s296"
+    },
+    {
+      "text": "To assist you in responding to their concerns, we offer the following comments in relation to the design concept and selection of finishes adopted.",
+      "id": "s297"
+    },
+    {
+      "text": "As stated at several meeting with yourselves and the owners, the rework of the foyer was considered necessary primarily to satisfy operational concerns over security in respect of which Tabcorp has some fairly stringent requirements.",
+      "id": "s298"
+    },
+    {
+      "text": "The owners in entering into a lease with you would have been well aware of the nature of your business.",
+      "id": "s299"
+    },
+    {
+      "text": "Additionally, to better portray the corporate image of Tabcorp, being that more closely aligned to a financial services organisation, and thus a dramatic contrast was required with that of the existing Tabcorp premises to reflect the new direction of the corporation.",
+      "id": "s300"
+    },
+    {
+      "text": "It was considered by the design team that these objectives were best satisfied by enlarging the foyer.",
+      "id": "s301"
+    },
+    {
+      "text": "In concert with this approach, Tabcorp had also expressed a requirement that the foyer become a place of interest for visitors.",
+      "id": "s302"
+    },
+    {
+      "text": "The interest was to be continually stimulated by the introduction of a changing works of art provided by up and coming artists.",
+      "id": "s303"
+    },
+    {
+      "text": "Thus the foyer finishes were purposely chosen such as to provide an appropriate backdrop to the artworks which were to be displayed.",
+      "id": "s304"
+    },
+    {
+      "text": "The quality of the materials used, we believe, are compatible with those used in the base building and are appropriate for their intended use.",
+      "id": "s305"
+    },
+    {
+      "text": "The owners may disagree on this issue and it is really a matter of subjective opinion as to what constitutes the best design.",
+      "id": "s306"
+    },
+    {
+      "text": "However, on any view we could not agree that the design chosen could negatively affect the value of their asset --- quite the contrary.",
+      "id": "s307"
+    },
+    {
+      "text": "We would, however, acknowledge that the finish in several areas is not up to standard and is in the process of being rectified.",
+      "id": "s308"
+    },
+    {
+      "text": "Once the defective work is corrected and the artworks are installed, it is our belief that the majority of the Bergamins' concerns will be alleviated.",
+      "id": "s309"
+    },
+    {
+      "text": "\" \n \n\n45 On 3 October 1997 Mr Gullquist wrote to Mr John Bergamin Jnr responding to the Bergamins' letter to Lend Lease on 26 August 1997 and their letter addressed to Tabcorp on 8 September 1997.",
+      "id": "s310"
+    },
+    {
+      "text": "The letter read, in part:\n \n \"The matters raised in your letter of 8 September have been the subject of considerable discussions with Lend Lease and previously yourselves, of course.",
+      "id": "s311"
+    },
+    {
+      "text": "At our meeting of 14 July which you referred to in your letter of 19 August to Lend Lease it was, of course, evident that preliminary work necessary to enable the fresh fit out of the ground floor lobby to be carried out was underway in fact, well progressed.",
+      "id": "s312"
+    },
+    {
+      "text": "As you correctly stated in that letter, it was agreed at the meeting that a sample board of proposed finishes would be provided, however, it was also implicit in that meeting that the works would proceed and that the finer details of design and selection of some materials were still to be finalised.",
+      "id": "s313"
+    },
+    {
+      "text": "There was no suggestion that the works could not proceed in the interim.",
+      "id": "s314"
+    },
+    {
+      "text": "Subsequent to your letter of 19 August, the finishes board was supplied on 28 August --- while I accept the timing was less than ideal from your perspective, it reflects the very tight time frames which the parties were locked into and the logistics of moving our whole company.",
+      "id": "s315"
+    },
+    {
+      "text": "No disrespect was intended to yourselves.",
+      "id": "s316"
+    },
+    {
+      "text": "Nor, are we able to turn back the clock.",
+      "id": "s317"
+    },
+    {
+      "text": "The question them becomes one of whether ultimately the ground floor lobby design and overall fit out of the interior carried out at TABCORP's expense is objectively appropriate to the overall quality (value) of the building taking into account the profile of the lobby.",
+      "id": "s318"
+    },
+    {
+      "text": "At TABCORP, we obviously think that it is.",
+      "id": "s319"
+    },
+    {
+      "text": "Lend Lease are of a similar view --- which is set out in their letter of 17 September 1997, a copy of which is enclosed for your reference.",
+      "id": "s320"
+    },
+    {
+      "text": "Doubtless, given the subjectivity of the issue other parties, among them Mr Henderson, will be of a different view.",
+      "id": "s321"
+    },
+    {
+      "text": "Despite a disparity of views, the earliest date of which the matter may first really become relevant is upon the expiration of the initial ten year term of our lease.",
+      "id": "s322"
+    },
+    {
+      "text": "At this point, the likelihood is that both the original lobby fit out and the TABCORP fit out will be superseded but on any view, the Tabcorp fitout less so.",
+      "id": "s323"
+    },
+    {
+      "text": "\" \n\n46 There matters rested until 11 June 1998.",
+      "id": "s324"
+    },
+    {
+      "text": "On that day Bowen Investments' solicitors --- now named McGrath Carey Katz --- wrote to Mr Gullquist.",
+      "id": "s325"
+    },
+    {
+      "text": "The letter commenced by setting out clause 2.13 of the Lease.",
+      "id": "s326"
+    },
+    {
+      "text": "It continued, relevantly:\n \n \"We are instructed that you have demonstrably not complied with that Clause.",
+      "id": "s327"
+    },
+    {
+      "text": "In particular we are instructed as follows: \n \n \n \n 1.",
+      "id": "s328"
+    },
+    {
+      "text": "The foyer of the building as installed by our client has been completely removed and replaced without consent.",
+      "id": "s329"
+    },
+    {
+      "text": "In fact, such is the degree of the variation, with materials of significantly inferior quality that our client considers the alteration as desecration.",
+      "id": "s330"
+    },
+    {
+      "text": ".............. \n 2.",
+      "id": "s331"
+    },
+    {
+      "text": "............ \n 3.",
+      "id": "s332"
+    },
+    {
+      "text": "The approval of our client's architect and the written approval of our client was required to all works carried out by you.",
+      "id": "s333"
+    },
+    {
+      "text": "This has not been obtained.",
+      "id": "s334"
+    },
+    {
+      "text": "Our clients specifically claim that none of its actions has condoned any of these transgressions.",
+      "id": "s335"
+    },
+    {
+      "text": "Our client regards these transgressions as extremely serious.",
+      "id": "s336"
+    },
+    {
+      "text": "\" \n\nThe letter demanded that Tabcorp should take remedial action and pay costs.",
+      "id": "s337"
+    },
+    {
+      "text": "One step demanded of Tabcorp was that the foyer be \"immediately restored to its original condition\".",
+      "id": "s338"
+    },
+    {
+      "text": "Legal action was threatened if the various demands were not met.",
+      "id": "s339"
+    },
+    {
+      "text": "47 A meeting was then arranged to discuss the issues raised by the solicitors' letter.",
+      "id": "s340"
+    },
+    {
+      "text": "This meeting took place over about an hour and a half at Tabcorp's offices on 25 June 1998.",
+      "id": "s341"
+    },
+    {
+      "text": "Those present were Mrs Bergamin, Mr John Bergamin Jnr, Mr Bruce Henderson, Mr Peter McGrath and Ms Elizabeth Hourigan (solicitors from McGrath Carey Katz) and Mr Ames and Mr Gullquist from Tabcorp.",
+      "id": "s342"
+    },
+    {
+      "text": "Both Ms Hourigan and Mr Gullquist made notes of the meeting.",
+      "id": "s343"
+    },
+    {
+      "text": "There is substantial agreement between the two accounts.",
+      "id": "s344"
+    },
+    {
+      "text": "The meeting discussed the various complaints contained in McGrath Carey Katz's letter of 11 June 1998, including the complaints about the renovation of the foyer.",
+      "id": "s345"
+    },
+    {
+      "text": "Bowen Investments' position was that its requirements of clause 2.13 of the Lease had not been observed and, in particular, that its written consent had not been obtained prior to the works being undertaken.",
+      "id": "s346"
+    },
+    {
+      "text": "Tabcorp's representatives replied that written consent had been obtained and that Bowen Investments, on 11 July 1997, had advised Mr Phelan that it had no objection in principle to the removal of the foyer.",
+      "id": "s347"
+    },
+    {
+      "text": "They further asserted that there was verbal agreement, given in the course of the meeting on 14 July 1997.",
+      "id": "s348"
+    },
+    {
+      "text": "He also claimed that there had been implied consent to work continuing on and after 14 July 1997.",
+      "id": "s349"
+    },
+    {
+      "text": "Mr Gullquist was adamant that under no circumstances would Tabcorp agree to removing its lobby fit out and restoring the foyer to its former condition.",
+      "id": "s350"
+    },
+    {
+      "text": "48 This refusal was confirmed in writing in a letter from Mr Ames to Ms Hourigan on 14 July 1998.",
+      "id": "s351"
+    },
+    {
+      "text": "49 Correspondence continued between the parties until 28 January 1999.",
+      "id": "s352"
+    },
+    {
+      "text": "In that correspondence they maintained their respective positions as to the alleged breach of clause 2.13 of the Lease.",
+      "id": "s353"
+    },
+    {
+      "text": "50 The dispute between the parties relating to the changes to the foyer was revived in the course of a market rent review provided for in the Lease, which commenced in about January 2004.",
+      "id": "s354"
+    },
+    {
+      "text": "By April 2004 the negotiations had reached an impasse.",
+      "id": "s355"
+    },
+    {
+      "text": "On 2 April 2004 solicitors for Bowen Investments - now McGrath Carey --- wrote to Tabcorp advising that Bowen Investments was considering its options in the light of the unsuccessful negotiations.",
+      "id": "s356"
+    },
+    {
+      "text": "The letter contained the following paragraph:\n \n \"The architect for the building considers that the changes to the foyer of the building, which have been previously acknowledged by you to have been performed without the Lessor's authority, have diminished its value and it is now our clients' view if this negotiation cannot be resolved in the next seven days, you are to be required to restore the foyer to its original condition at your cost before the independent valuation takes place so as not to prejudice the assessment.",
+      "id": "s357"
+    },
+    {
+      "text": "\" \n\nMr Richard Posa of Tabcorp replied on 15 April 2004.",
+      "id": "s358"
+    },
+    {
+      "text": "He said:\n \n \"I note that your letter also refers to changes made to the foyer.",
+      "id": "s359"
+    },
+    {
+      "text": "TABCORP rejects the assertions that changes were performed without your client's authority and have diminished the value of the building.",
+      "id": "s360"
+    },
+    {
+      "text": "Rather than elaborate on this subject, there is considerable documentation between the parties, which dates back to 1997.",
+      "id": "s361"
+    },
+    {
+      "text": "Suffice it to say that I reiterate the comments in TABCORP's letter to your client's former Solicitors dated 14 July 1998.",
+      "id": "s362"
+    },
+    {
+      "text": "Insofar as your unilateral requirement that the foyer be restored to its original condition so that an independent valuation may take place is concerned, TABCORP does not accept your client's position in relation to an independent valuation being prejudiced if the foyer is not restored to its original condition.",
+      "id": "s363"
+    },
+    {
+      "text": "In any case, your client's valuer will be able to argue in its submission to the determining valuer an assessment of incremental value, if any, for the original foyer design.",
+      "id": "s364"
+    },
+    {
+      "text": "Please note that any such assessment of incremental value is likely to be vigorously contested in TABCORP's submission to the determining valuer on the basis that the present foyer represents an enhancement to the building when compared to the original foyer design.",
+      "id": "s365"
+    },
+    {
+      "text": "\" \n \n\n51 By letter dated 26 April 2004 McGrath Carey responded as follows:\n \n \"It is also true that no amount of written claims by you make for fact over fiction as there is ample evidence available that the foyer was destroyed by Tabcorp before our clients were notified of any intention on your part to do so.",
+      "id": "s366"
+    },
+    {
+      "text": "Tabcorp was asked to supply more details of the plans to enable their consideration.",
+      "id": "s367"
+    },
+    {
+      "text": "This did not happen.",
+      "id": "s368"
+    },
+    {
+      "text": "The matter could not progress from there as our client had been confronted with a fait accompli and has always retained the right to demand that the foyer be restored.",
+      "id": "s369"
+    },
+    {
+      "text": "You have admitted to the writer previously that Tabcorp had breached the lease.",
+      "id": "s370"
+    },
+    {
+      "text": "Now you deny it.",
+      "id": "s371"
+    },
+    {
+      "text": "The correspondence in our possession attests the truth of that admission and the diminution of value.",
+      "id": "s372"
+    },
+    {
+      "text": "Whilst this issue is acknowledged to be separate, we believe that it is relevant to the assessment and so does the building architect.",
+      "id": "s373"
+    },
+    {
+      "text": "However, given it is separate in one sense, we note that in our conversation of 15 April 2004, you are refusing to reinstate.",
+      "id": "s374"
+    },
+    {
+      "text": "In this regard we refer you to clauses 2.13 and 4.",
+      "id": "s375"
+    },
+    {
+      "text": "Please take this letter as a formal and separate demand for the reinstatement pursuant to the Landlord's rights set out in the lease.",
+      "id": "s376"
+    },
+    {
+      "text": "The right to address this issue at the end of lease does not exist in the circumstances.",
+      "id": "s377"
+    },
+    {
+      "text": "\" \n \n\n52 Mr Posa replied by letter dated 4 May 2004.",
+      "id": "s378"
+    },
+    {
+      "text": "Relevantly, he said:\n \n \"I reiterate that TABCORP's position is, and for the record has always been, that it denies that it is in breach of the lease in respect of the foyer.",
+      "id": "s379"
+    },
+    {
+      "text": "Further I categorically deny that I have \"admitted [to the writer previously] that TABCORP has breached the lease\".",
+      "id": "s380"
+    },
+    {
+      "text": "Insofar as your formal and separate demand is concerned, given that TABCORP denies breaching the lease in respect of the foyer, clauses 2.13 and 4 are academic.",
+      "id": "s381"
+    },
+    {
+      "text": "Accordingly, TABCORP does not accept that it is require to reinstate the foyer ...\" \n \n\n53 The dispute over the rent review was ultimately resolved by determination of an independent valuer appointed by the President of the Australian Property Institute (Victorian Division).",
+      "id": "s382"
+    },
+    {
+      "text": "54 By agreement between the parties in April 2006, the lease was extended for a period of six years from 1 February 2006.",
+      "id": "s383"
+    },
+    {
+      "text": "That agreement provided that the existing lease should continue to operate subject to certain immaterial modifications.",
+      "id": "s384"
+    },
+    {
+      "text": "An option of a further five year term of the lease until 31 January 2017 was agreed.",
+      "id": "s385"
+    },
+    {
+      "text": "The agreement contained a clause which provided that nothing in it should be construed as affecting, limiting or compromising in any way the present proceeding.",
+      "id": "s386"
+    },
+    {
+      "text": "THE APPLICANT'S CASE \n \n55 The applicant's pleaded case relies on the following causes of action:\n \n &#8226; Rectification;\n &#8226; Breach of the lease;\n &#8226; Waste;\n &#8226; Unconscionable conduct contrary to ss 51AA and 51AC of the TP Act and in equity; and\n &#8226; Contraventions of ss 52 and 53 (g) of the TP Act .",
+      "id": "s387"
+    },
+    {
+      "text": "The principal remedy sought is damages.",
+      "id": "s388"
+    },
+    {
+      "text": "56 The respondent contends that the evidence does not support any of the causes of action on which the applicant relies.",
+      "id": "s389"
+    },
+    {
+      "text": "Moreover, it contends that some of the causes of action are statute barred.",
+      "id": "s390"
+    },
+    {
+      "text": "RECTIFICATION \n \n57 The applicant seeks rectification of the lease by the insertion of an additional clause in the following terms:\n \n \n \n (a) [Tabcorp] shall, at the expiration of its occupancy, be required to hand over the Building in good and tenantable repair and to make good the premises, subject only to the normal provisions of fair wear and tear and any insured risks; and \n (b) In the event of a dispute between the [lessor] and the [lessee] concerning such obligation, the dispute should be referred to the President of the Royal Australian Institute of Architects or its successor.",
+      "id": "s391"
+    },
+    {
+      "text": "\" \n \n \n\nThe applicant thereby seeks to have incorporated into the lease a provision which is in substantially the same terms as that which appeared in the Heads of Agreement between the parties but was not thereafter incorporated in the lease.",
+      "id": "s392"
+    },
+    {
+      "text": "58 Courts have long recognised that there exists an \"inherent probability that a written instrument truly represents the parties' intention because it is a document signed by the parties\": see Thomas Bates and Son Limited v Wyndham's (Lingerie) Limited [1980] EWCA Civ 3 ; [1981] 1 WLR 505 at 521.",
+      "id": "s393"
+    },
+    {
+      "text": "Accordingly \"convincing proof\" is needed to support an order for rectification of a document which records a commercial agreement: see Pukallus v Cameron [1982] HCA 63 ; (1982) 180 CLR 447 at 452; Joscelyne v Nissen [1970] 2 QB 86 at 98.",
+      "id": "s394"
+    },
+    {
+      "text": "The classes of documents which may be rectified include leases: see Murray v Parker (1854) 19 Beav 305.",
+      "id": "s395"
+    },
+    {
+      "text": "59 The applicant's primary argument is that, at the time at which the lease was executed, the parties laboured under a common mistake that the lease contained a general \"make good\" clause in the terms appearing in the Heads of Agreement.",
+      "id": "s396"
+    },
+    {
+      "text": "In the alternative, it is contended that, if the mistake was the Applicant's alone, the respondent, through its officers, was aware of the mistake and took advantage of it in an unconscionable manner.",
+      "id": "s397"
+    },
+    {
+      "text": "60 The applicant relies on the following evidence to support its claim for rectification:\n \n &#8226; The proposal by Tabcorp of a Head of Agreement in the terms set out at [5] above and the respondent's acceptance of that Head: above at [7].",
+      "id": "s398"
+    },
+    {
+      "text": "&#8226; Mrs Bergamin's unwavering belief that the lease which she executed contained a general \"make good\" clause along the lines contained in the Heads of Agreement.",
+      "id": "s399"
+    },
+    {
+      "text": "&#8226; Repeated assertions, in writing, by the applicant and its solicitors that Tabcorp was under an obligation, imposed by the lease, to make good the premises at the end of the lease and Tabcorp's failure to rebut these suggestions: see for example above at [32], [38] and [46].",
+      "id": "s400"
+    },
+    {
+      "text": "&#8226; Mr Gullquist's apparent acceptance that Tabcorp was under an obligation to \"make good\" the premises upon determination of the lease.",
+      "id": "s401"
+    },
+    {
+      "text": "Such an acknowledgement was made by him in writing on 13 March 1997: see above [24].",
+      "id": "s402"
+    },
+    {
+      "text": "61 I do not accept the applicant's contention that, when the lease was executed in December 1996, the parties had a common intention to include a \"general make good\" clause of the kind contained in the Heads of Agreement, and that, as a result of a mutual mistake, such a clause was omitted from the lease.",
+      "id": "s403"
+    },
+    {
+      "text": "Although the Heads of Agreement contained a term of the kind which it is now sought to have included in the lease, the Heads of Agreement also provided that the \"Lessor will immediately forward a lease which reflects these terms and conditions so as to enable the commencement of a concurrent legal review of the proposed documentation.",
+      "id": "s404"
+    },
+    {
+      "text": "\" The Heads also provided that: \"any agreement remains subject to the formal approval of the full Board of the lessee, Tabcorp Holdings Limited, to the terms and conditions of the proposed lease on the subject property.",
+      "id": "s405"
+    },
+    {
+      "text": "\" In accordance with the Heads of Agreement the lease was prepared by the applicant's solicitors and then subjected to review by solicitors acting for Tabcorp.",
+      "id": "s406"
+    },
+    {
+      "text": "Negotiations continued over a number of weeks leading ultimately to agreement on the terms of the lease, a number of which differed in material respects from the Heads of Agreement.",
+      "id": "s407"
+    },
+    {
+      "text": "By 20 November 2006 negotiations had proceeded to a point where the applicant's solicitors had considered it appropriate to submit the then current version of the lease and various amendments to it which Tabcorp had requested to Mrs Bergamin.",
+      "id": "s408"
+    },
+    {
+      "text": "In a letter dated 20 November 1996 (above at [12]) the applicant's solicitors advised Tabcorp that their client had \"perused all amendments requested\" and given various instructions on the proposed amendments.",
+      "id": "s409"
+    },
+    {
+      "text": "Mrs Bergamin said that it was she who had given these instructions.",
+      "id": "s410"
+    },
+    {
+      "text": "She said that, although she had no independent recollection of doing so, she expected that she would have followed her usual practice and read the lease before giving the instructions.",
+      "id": "s411"
+    },
+    {
+      "text": "Mrs Bergamin also gave evidence that she assumed that the lease contained a general make good clause because all McGrath Coleman Stewart leases which had been prepared for the applicant had contained such a provision.",
+      "id": "s412"
+    },
+    {
+      "text": "An examination of a number of these leases which had been prepared in respect of other premises owned by the applicant disclosed no such clause.",
+      "id": "s413"
+    },
+    {
+      "text": "In this context it is notable that the clause which it is proposed should be added to the lease was originally suggested by Tabcorp and not by the applicant.",
+      "id": "s414"
+    },
+    {
+      "text": "62 I do not consider that what was said (and not said), after the lease was executed, in relation to Tabcorp's alleged obligation to \"make good\" at the end of the lease, assists the applicant.",
+      "id": "s415"
+    },
+    {
+      "text": "There was a number of specific \"make good\" clauses in the lease which had been the subject of discussion in the course of negotiations.",
+      "id": "s416"
+    },
+    {
+      "text": "Mistaken claims by the applicant and its solicitors as to the \"make good\" obligations imposed on Tabcorp by the lease, which were made months after the lease was executed, do not provide \"convincing proof\" of the parties' intentions or of mistake at the time at which the lease was signed.",
+      "id": "s417"
+    },
+    {
+      "text": "Mr Gullquist's apparent acceptance of the assertion, by the applicant's solicitors, of the existence of such an obligation can be understood as the acceptance by him of the solicitor's assertion of the legal position rather than as an acknowledgment of an independently held belief as to what the parties had agreed, in December 2006, to include in the lease.",
+      "id": "s418"
+    },
+    {
+      "text": "63 Even if it be accepted that the applicant, acting through Mrs Bergamin, was labouring under a mistake as to the content of the lease when she signed it, there is no evidence that, at that time, Mr Gullquist, or anyone else associated with Tabcorp, was aware of the mistake or acted in an unconscionable manner in order to take advantage of it.",
+      "id": "s419"
+    },
+    {
+      "text": "What is complained of is Mr Gullquist's alleged awareness, in March 1997, that the applicant asserted that the lease imposed a general \"make good\" obligation on Tabcorp and failed to draw attention to the falsity of the assertion.",
+      "id": "s420"
+    },
+    {
+      "text": "As already noted, this failure, on the part of Mr Gullquist, is susceptible of an innocent explanation.",
+      "id": "s421"
+    },
+    {
+      "text": "Moreover the event post-dated by some three months the execution of the lease.",
+      "id": "s422"
+    },
+    {
+      "text": "Rectification for unilateral mistake requires knowledge of that mistake by the other party prior to execution of the relevant document and the deliberate failure of the other party to disabuse the party labouring under the mistake in circumstances which may be characterised as unconscionable: Thomas Bates &amp; Son Ltd v Wyndham's (Lingerie) Ltd [1980] EWCA Civ 3 ; [1981] 1 All E R 1077 at 1085-6.",
+      "id": "s423"
+    },
+    {
+      "text": "In the present case Tabcorp was not aware, in December 1996, that Mrs Bergamin thought that the lease contained a general 'make good' clause and it neither, through action or inaction, took unconscionable advantage of Mrs Bergamin's alleged mistake.",
+      "id": "s424"
+    },
+    {
+      "text": "This is a matter to which I will return.",
+      "id": "s425"
+    },
+    {
+      "text": "WASTE \n \n64 The applicant claims that the respondent, by gutting and restoring the foyer in the manner in which it has done, has committed a voluntary waste.",
+      "id": "s426"
+    },
+    {
+      "text": "Waste is a tort which occurs where a positive act, such as demolition, occurs which is injurious to the reversion, usually by diminishing its value: see Marsden v Edward Heyes Ltd [1927] 2 KB 1.",
+      "id": "s427"
+    },
+    {
+      "text": "65 The respondent denies that its actions in altering the foyer constituted waste but, in any event, pleads that any cause of action based on waste is statute barred.",
+      "id": "s428"
+    },
+    {
+      "text": "66 The Limitation of Actions Act 1958 (Vic) restricts the bringing of a cause of action in tort more than six years after the right of action accrued: see Judiciary Act 1903 (Cth), s 79 and Limitation of Actions Act 1958 (Vic), s 5(1)(a).",
+      "id": "s429"
+    },
+    {
+      "text": "The cause of action in question accrued no later than July 1998 when Tabcorp unequivocally stated (above at [47] and [48] that it would not restore the foyer.",
+      "id": "s430"
+    },
+    {
+      "text": "In my view it accrued in July and August 1997 when the works were undertaken.",
+      "id": "s431"
+    },
+    {
+      "text": "In either event the six year limitation had expired by the time at which the proceeding was commenced on 30 September 2005.",
+      "id": "s432"
+    },
+    {
+      "text": "67 The applicant accepted that damage was an element of the cause of action for waste.",
+      "id": "s433"
+    },
+    {
+      "text": "It also accepted that the six year limitation period applied.",
+      "id": "s434"
+    },
+    {
+      "text": "It sought, however, to avoid the procedural difficulty which it faced by arguing that the damage on which it relied did not occur until the lease was determined.",
+      "id": "s435"
+    },
+    {
+      "text": "It was submitted that it was determined at the point at which the original lease was superseded and the new lease commenced in February 2006.",
+      "id": "s436"
+    },
+    {
+      "text": "68 This argument cannot be accepted.",
+      "id": "s437"
+    },
+    {
+      "text": "The renovations to the foyer occurred in 1997.",
+      "id": "s438"
+    },
+    {
+      "text": "If they caused damage to the building, as the applicant contends, the damage occurred at that time.",
+      "id": "s439"
+    },
+    {
+      "text": "The foyer has remained in its renovated condition since 1997.",
+      "id": "s440"
+    },
+    {
+      "text": "Any damage occurred at that time.",
+      "id": "s441"
+    },
+    {
+      "text": "The suggestion that it occurred in February 2006 assumes that Tabcorp was under an obligation, under the original lease, to restore the foyer to its original condition upon the termination of that lease and failed to do so.",
+      "id": "s442"
+    },
+    {
+      "text": "This failure is said to constitute the damage which must be demonstrated in order to establish the tort of waste.",
+      "id": "s443"
+    },
+    {
+      "text": "The argument assumes that the lease required Tabcorp to \"make good\" the foyer at the end of the lease.",
+      "id": "s444"
+    },
+    {
+      "text": "As I have held, the lease imposed no such obligation.",
+      "id": "s445"
+    },
+    {
+      "text": "There is, moreover, an air of unreality about the contention that, at the time of a seamless transition from one lease to the next, with Tabcorp continuing to be the sole tenant of the building, it was required to then undertake restoration works.",
+      "id": "s446"
+    },
+    {
+      "text": "UNCONSCIONABLE CONDUCT \n \n69 The applicant contends that the respondent engaged in unconscionable conduct contrary to ss 51AA and 51AC of the TP Act .",
+      "id": "s447"
+    },
+    {
+      "text": "Given the terms of s 51AA(2) of the TP Act I consider that the allegations of contraventions of the two sections should be treated as alternatives rather that cumulative allegations.",
+      "id": "s448"
+    },
+    {
+      "text": "It is said that, between April 1997 and May 2004, the applicant laboured under the mistake that Tabcorp was obliged to reinstate the foyer to its original condition upon the expiry of the lease, that Tabcorp was aware of the applicant's mistake and that it unconscientiously took advantage of it by undertaking the alterations to the foyer, without the applicant's approval, in the knowledge that there was no term in the lease that would have obliged it to undertake reinstatement at the end of the lease period.",
+      "id": "s449"
+    },
+    {
+      "text": "70 It is not easy to comprehend how the applicant could have, over a period in excess of seven years, believed that Tabcorp was under an obligation to reinstate the foyer when the lease was determined.",
+      "id": "s450"
+    },
+    {
+      "text": "The applicant's solicitors had drawn the lease.",
+      "id": "s451"
+    },
+    {
+      "text": "It was available to be read throughout this period.",
+      "id": "s452"
+    },
+    {
+      "text": "The applicant had the advantage of legal advice at all relevant times.",
+      "id": "s453"
+    },
+    {
+      "text": "Nonetheless, it may be accepted that, at various times over the seven years, the applicant or its solicitors advised the respondent that this was its understanding of the lease: see, for example, above at [46], [51].",
+      "id": "s454"
+    },
+    {
+      "text": "Tabcorp also had the benefit of advice from its solicitors.",
+      "id": "s455"
+    },
+    {
+      "text": "It did not, in terms, tell the applicant that, in its view, no such obligation was imposed by the lease.",
+      "id": "s456"
+    },
+    {
+      "text": "Rather, it asserted from time to time that it was under no obligation to do so because it had not contravened clause 2.13: see, for example, above at [47], [52].",
+      "id": "s457"
+    },
+    {
+      "text": "71 The way the applicant puts its case on this point is no doubt influenced by its acceptance that Clause 2.13 of the lease conferred on Tabcorp a qualified right to make substantial alternations to the premises.",
+      "id": "s458"
+    },
+    {
+      "text": "The prior consent of the applicant was required but that consent could not unreasonably be withheld or delayed.",
+      "id": "s459"
+    },
+    {
+      "text": "The applicant could not have refused consent to Tabcorp proceeding as it did on the sole ground that it could not be required, under the lease, to reinstate the foyer at the end of the lease period.",
+      "id": "s460"
+    },
+    {
+      "text": "That being so it is not easy to understand how it could be put that Tabcorp acted unconscionably by proceeding with the foyer alterations without (if that be the case --- a matter to which I will return) obtaining the applicant's consent.",
+      "id": "s461"
+    },
+    {
+      "text": "If it did the lease may have been breached.",
+      "id": "s462"
+    },
+    {
+      "text": "This does not render the conduct unconscionable, simply because Tabcorp was aware (if it was) that, although the applicant thought otherwise, it was under no obligation to reinstate, in circumstances in which the work could lawfully have been undertaken had consent first been obtained.",
+      "id": "s463"
+    },
+    {
+      "text": "72 The term \"unconscionable\" as used in s 51AA of the TP Act bears a particular legal meaning.",
+      "id": "s464"
+    },
+    {
+      "text": "It is the meaning conferred by \"the unwritten law, from time to time, of the States and Territories\", that is, the common law of Australia: see Australian Competition and Consumer Commission v CG Berbatis Holdings Pty Ltd [2003] HCA 18 ; (2003) 214 CLR 51 at 71.",
+      "id": "s465"
+    },
+    {
+      "text": "The concept of unconscionability, so understood, was explained by Gummow &amp; Hayne JJ in Berbatis Holdings by reference to earlier authority.",
+      "id": "s466"
+    },
+    {
+      "text": "Their Honours said (at 76 - 77) that:\n \n \"In Commercial Bank of Australia Limited v Amadio (1983) 151 CLR 47 at 461 to 463, Mason J referred to passages in the judgments of Fullagar J and Kitto J in Blomley v Ryan [1954] HCA 79 ; (1956) 99 CLR 362 at 405, 415.",
+      "id": "s467"
+    },
+    {
+      "text": "Mason J said (at 462): \n \n 'It is made plain enough, especially by Fullagar J, that the situations mentioned are no more than particular exemplifications of an underlying general principle which may be invoked whenever one party by reason of some condition [or] circumstance is placed at a special disadvantage vis-a-vis another and unfair or unconscientious advantage is then taken of the opportunity thereby created.",
+      "id": "s468"
+    },
+    {
+      "text": "I qualify the word 'disadvantage' by the adjective 'special' in order to disavow any suggestion that the principle applies whenever there is some difference in the bargaining power of the parties and in order to emphasise that the disabling condition or circumstance is one which seriously affects the ability of the innocent party to make a judgment as to his own best interest, when the other party knows or ought to know of the existence of that condition or circumstance and of its effect on the innocent party.",
+      "id": "s469"
+    },
+    {
+      "text": "' \n \n His Honour went on to emphasise at (462 - 463) the need for the plaintiff seeking relief to establish the taking of unconscientious advantage of the plaintiff's disabling condition or circumstance.",
+      "id": "s470"
+    },
+    {
+      "text": "It will be apparent that the special disadvantage at which Mason J spoke in this passage was one seriously affecting the ability of the innocent party to make a judgment as to that party's own best interests.",
+      "id": "s471"
+    },
+    {
+      "text": "\" \n\nDisadvantage of the kind referred to by Fullagar and Mason JJ can take many forms.",
+      "id": "s472"
+    },
+    {
+      "text": "Fullagar J cited by way of example \"poverty or need of any kind, sickness, age, sex, infirmity of body or mind, drunkenness, illiteracy or lack of education, lack of assistance or explanation where assistance or explanation is necessary\": Blomley v Ryan [1954] HCA 79 ; (1956) 99 CLR 362 at 405.",
+      "id": "s473"
+    },
+    {
+      "text": "73 Section 51AC of the TP Act proscribes unconscionable conduct in trade or commerce on the part of a corporation.",
+      "id": "s474"
+    },
+    {
+      "text": "In this context the word \"unconscionable\", bears a wider meaning than that recognised by the common law of Australia.",
+      "id": "s475"
+    },
+    {
+      "text": "In Hurley v McDonalds Australia Ltd [1999] FCA 1728 Heerey, Drummond and Emmett JJ said that:\n \n \" For conduct to be regarded as unconscionable, serious misconduct or something clearly unfair or unreasonable, must be demonstrated --- Cameron v Qantas Airways Ltd (1994) 55 FCR 147 at 179.",
+      "id": "s476"
+    },
+    {
+      "text": "Whatever 'unconscionable' means in s 51AC , the term carries the meaning given by the shorter Oxford English Dictionary, namely, action showing no regard for conscience, or that are irreconcilable with what is right or reasonable --- Qantas Airways Ltd v Cameron (1996) 66 FCR 246 at 262.",
+      "id": "s477"
+    },
+    {
+      "text": "The various synonyms used in relation to the term 'unconscionable' import a pejorative moral judgment --- Qantas Airways Ltd v Cameron (1996) 66 FCR 246 at 283-4 and 298 ... Before s 51AC will be applicable, there must be some circumstance other than the mere terms of the contract itself that would render reliance on the terms of the contract 'unfair' or 'unreasonable' or 'immoral' or 'wrong'.",
+      "id": "s478"
+    },
+    {
+      "text": "\" \n\n74 In the present case, it may be assumed in the applicant's favour that the respondent was aware of the applicant's mistaken belief that the foyer would need to be reinstated at the end of the lease.",
+      "id": "s479"
+    },
+    {
+      "text": "There is, however, no evidence that this knowledge in any way motivated the decision to proceed with the renovation of the foyer in July and August 1997.",
+      "id": "s480"
+    },
+    {
+      "text": "As will emerge later in these reasons, it is my view that the principal imperative which informed Tabcorp's conduct at this time was its desire to have all renovation works concluded by 31 August 1997 when it was due to move to 5 Bowen Crescent.",
+      "id": "s481"
+    },
+    {
+      "text": "75 Moreover, Tabcorp cannot be said to have acted unconscionably in either of the senses used in ss 51AA and 51AC of the TP Act .",
+      "id": "s482"
+    },
+    {
+      "text": "The applicant laboured under no special disadvantage in its relationship with Tabcorp.",
+      "id": "s483"
+    },
+    {
+      "text": "It had been engaged in the construction and letting of commercial premises for over 30 years.",
+      "id": "s484"
+    },
+    {
+      "text": "It had access to advice from experienced solicitors.",
+      "id": "s485"
+    },
+    {
+      "text": "Those solicitors negotiated with solicitors for Tabcorp in order to settle agreed terms for the lease.",
+      "id": "s486"
+    },
+    {
+      "text": "This process continued over many weeks and was ultimately successful.",
+      "id": "s487"
+    },
+    {
+      "text": "The applicant continued to have the benefit of its solicitors' advice after the lease had been executed and Tabcorp's tenancy had commenced.",
+      "id": "s488"
+    },
+    {
+      "text": "There is nothing in Tabcorp's conduct at any stage during this process that attracts any moral opprobrium.",
+      "id": "s489"
+    },
+    {
+      "text": "76 Even if it be assumed that the applicant had a cause of action based on ss 51AA or 51AC of the TP Act , Tabcorp contends that such a cause of action is statute barred.",
+      "id": "s490"
+    },
+    {
+      "text": "I agree.",
+      "id": "s491"
+    },
+    {
+      "text": "Section 82(2) of the TP Act requires that any proceeding be commenced within six years of the cause of action accruing.",
+      "id": "s492"
+    },
+    {
+      "text": "What I have already said in relation to the applicant's claim in waste being statute barred applies also to its claims under ss 51AA and 51AC .",
+      "id": "s493"
+    },
+    {
+      "text": "BREACH OF THE LEASE \n \n77 The applicant's case, insofar as it alleges a breach of the lease, is straight forward.",
+      "id": "s494"
+    },
+    {
+      "text": "It starts with the uncontroversial proposition that the work undertaken by Tabcorp in July and August 1997 whereby the foyer was stripped back and renovated constituted a substantial alteration to the building.",
+      "id": "s495"
+    },
+    {
+      "text": "It says that it never gave written consent for the work to be undertaken and that, as a result, a breach of Clause 2.13 of the lease occurred.",
+      "id": "s496"
+    },
+    {
+      "text": "It seeks damages in the sum of $1,350,000 which is the estimated cost, in 2007 dollars, of restoring the foyer to its former condition.",
+      "id": "s497"
+    },
+    {
+      "text": "78 Tabcorp's response to these allegations is made at a number of levels.",
+      "id": "s498"
+    },
+    {
+      "text": "It is concisely stated in its written submissions as follows:\n \n \"12.",
+      "id": "s499"
+    },
+    {
+      "text": "The allegation that the respondent did not advise the applicant that they were carrying out the proposed refurbishment works is plainly wrong.",
+      "id": "s500"
+    },
+    {
+      "text": "The evidence clearly establishes that the applicant was aware that the refurbishment works were due to get under way on about 11 July 1997.",
+      "id": "s501"
+    },
+    {
+      "text": "Further, when the applicant's representatives attended the premises on 14 July 1997, the foyer works were already underway.",
+      "id": "s502"
+    },
+    {
+      "text": "13.",
+      "id": "s503"
+    },
+    {
+      "text": "There was no formal written consent given by or on behalf of the applicant to the foyer works in the form of endorsement of the plans, as had been given in respect of the fit-out of the rest of the premises.",
+      "id": "s504"
+    },
+    {
+      "text": "However, the evidence is that the representatives of the applicant expressly consented to the foyer and, or alternatively, waived strict compliance with the terms of the lease.",
+      "id": "s505"
+    },
+    {
+      "text": "The in principle lack of objection to the foyer works was confirmed in a letter dated 11 July 1997 from Mrs Bergamin to Lend Lease Interiors Pty Ltd (\"LLI\").",
+      "id": "s506"
+    },
+    {
+      "text": "Further, at the meeting on 14 July 1997 the representatives of the applicant present at the meeting: \n \n (a) themselves observed that the foyer works had commenced; \n \n (b) were largely seeking reassurance in relation to structural integrity; \n \n \n \n (c) were provided with the plans for the foyer works as requested by Mrs Bergamin in her letter of 11 July 1997; \n \n \n \n (d) confirmed their consent to the continuation of the foyer works; \n \n \n \n (e) requested that they be provided with a finishes board (but not as a condition to the continuation of the foyer works); and \n \n (f) in contrast to the position taken by them in respect of the foyer works, expressly refused their consent to the replacement of the \"Rondor\" door which, as a result, did not proceed; \n \n \n \n 14.",
+      "id": "s507"
+    },
+    {
+      "text": "More detailed plans of the foyer were provided under cover of a letter from LLI dated 14 August 1997.",
+      "id": "s508"
+    },
+    {
+      "text": "Further, the finishes board requested in the course of the 14 July meeting was later provided to the representatives of the applicant on 28 August 1997, consistently with the arrangements agreed at that meeting, albeit later than they would have liked.",
+      "id": "s509"
+    },
+    {
+      "text": "Thus, even if the applicant establishes that their consent was somehow conditional on the provision of more detailed plans or the finishes board, or both (which is denied), that condition was duly met.",
+      "id": "s510"
+    },
+    {
+      "text": "15.",
+      "id": "s511"
+    },
+    {
+      "text": "Alternatively, in the circumstances described, the applicant waived strict compliance with written consent in the form of endorsement of the plans, by: \n \n \n \n (a) confirming in writing in the letter from Mrs Bergamin that it had no objection in principle to the removal of the existing foyer surfaces; and/or \n \n (b) its representatives electing on 14 July 1997 when they observed the foyer works in progress, to confirm that the works could continue.",
+      "id": "s512"
+    },
+    {
+      "text": "This sits in stark contrast to the position they took with the Rondor door and is inconsistent with the applicant's right to state categorically that foyer works should either not begin or should cease.",
+      "id": "s513"
+    },
+    {
+      "text": "16.",
+      "id": "s514"
+    },
+    {
+      "text": "The representations on behalf of the applicant on 14 July 1997 to the effect that the foyer works would continue are described above.",
+      "id": "s515"
+    },
+    {
+      "text": "The respondent relied on those representations to its detriment in continuing with and completing the foyer works.",
+      "id": "s516"
+    },
+    {
+      "text": "Apart from a half-hearted attempt to raise the foyer works again in mid-1998, only to be told that the respondent would not be reinstating the original foyer, the applicant was silent on the matter until early 2004, when the respondent sought a rent review which it maintained should lead to a rent reduction.",
+      "id": "s517"
+    },
+    {
+      "text": "It does not sit well in the mouth of the applicant over 6 years later to assert that the consent was not given strictly in accordance with the lease.",
+      "id": "s518"
+    },
+    {
+      "text": "Thus, if the express consent on behalf of the applicant and/or the waiver of strict compliance with the requirement for consent, is not a complete answer to the allegations of breach of the lease, the conduct of the representatives of the applicant described above is such that the applicant is estopped from relying on clause 2.13 of the lease.",
+      "id": "s519"
+    },
+    {
+      "text": "\" \n\n79 The evidence discloses that, in the early months of 1997, Tabcorp determined that the then existing foyer did not meet its needs.",
+      "id": "s520"
+    },
+    {
+      "text": "Its CEO, Mr Ross Wilson, decided that radical change was necessary in order to project what he considered to be an appropriate corporate image.",
+      "id": "s521"
+    },
+    {
+      "text": "Specialist advisers were engaged to redesign the foyer.",
+      "id": "s522"
+    },
+    {
+      "text": "The applicant was made aware of Tabcorp's intention to redesign the foyer by Mr Phelan.",
+      "id": "s523"
+    },
+    {
+      "text": "In his letter to Mr Bergamin, dated 8 April 1997 (above at [26]), he advised that the necessary plans for \"the proposed ground floor works\" had yet to be issued and foreshadowed that they would be submitted for the applicant's approval \"as soon as Tabcorp finalises their requirements.",
+      "id": "s524"
+    },
+    {
+      "text": "\" At some stage early in July 1997 Mrs Bergamin became aware that Tabcorp had under consideration the removal of the Rondor door at the entrance to the foyer.",
+      "id": "s525"
+    },
+    {
+      "text": "This led to the pre-emptive letter from the applicant's solicitors to Tabcorp on 10 July 1997 (above at [30]).",
+      "id": "s526"
+    },
+    {
+      "text": "Early the following morning Mr Phelan telephoned Mrs Bergamin and they had a short conversation.",
+      "id": "s527"
+    },
+    {
+      "text": "Neither participant in that conversation was able, 10 years after it occurred, to recall precisely what was said on each side.",
+      "id": "s528"
+    },
+    {
+      "text": "The subject of the discussion was the proposed commencement of works in the foyer.",
+      "id": "s529"
+    },
+    {
+      "text": "The conversation was not confined to the possible removal of the Rondor door.",
+      "id": "s530"
+    },
+    {
+      "text": "Other changes were mentioned but the evidence does not allow me to make a finding as to what was said above those changes.",
+      "id": "s531"
+    },
+    {
+      "text": "I do, however, conclude that, despite Mr Phelan's assertion in the letter he wrote to Mrs Bergamin later on that day (above at [31]), she did not, during that conversation, consent to the removal of the existing glass and stone partition, the timber panelling and the stone floor tiles in the foyer.",
+      "id": "s532"
+    },
+    {
+      "text": "I reach this conclusion for a number of reasons.",
+      "id": "s533"
+    },
+    {
+      "text": "Mrs Bergamin had made it plain, in her letter of 9 April 1997 (above at [27]), that written approval for major works was required and would not be forthcoming until detailed plans had been provided and sufficient time allowed for advice to be obtained from the applicant's architect and engineers.",
+      "id": "s534"
+    },
+    {
+      "text": "At the time of the conversation, on 11 July 1997, there were no detailed plans for the redevelopment of the foyer.",
+      "id": "s535"
+    },
+    {
+      "text": "(Although Mr Phelan's letter of 11 July 1997 contained a promise to forward plans on that day, no plans were sent.",
+      "id": "s536"
+    },
+    {
+      "text": "Some preliminary plans were provided at an onsite meeting on 14 July 1997 but these were provisional in nature).",
+      "id": "s537"
+    },
+    {
+      "text": "The conversation extended only over a few minutes.",
+      "id": "s538"
+    },
+    {
+      "text": "Mr Phelan could not have explained the nature of the planned renovations during that conversation even if he had been aware of them which he was not.",
+      "id": "s539"
+    },
+    {
+      "text": "It was agreed during the conversation that there would be an onsite meeting on 14 July 1997 at which details of the renovations would be provided.",
+      "id": "s540"
+    },
+    {
+      "text": "When she arrived to attend that meeting Mrs Bergamin was aghast at what she saw.",
+      "id": "s541"
+    },
+    {
+      "text": "She was not expecting to see major work being undertaken in the foyer: she was there to be told about what was proposed.",
+      "id": "s542"
+    },
+    {
+      "text": "In the course of the meeting she complained about the work proceeding without prior consultation.",
+      "id": "s543"
+    },
+    {
+      "text": "Accordingly, I accept Mrs Bergamin's evidence that she would not have given consent to the commencement of works during her conversation with Mr Phelan.",
+      "id": "s544"
+    },
+    {
+      "text": "She would not have done so without knowing the detail of what changes were proposed.",
+      "id": "s545"
+    },
+    {
+      "text": "On 11 July 1997 no work had commenced on the foyer despite the fact that any renovations had to be completed by 31 August 1997.",
+      "id": "s546"
+    },
+    {
+      "text": "I infer that Mr Phelan was under pressure from Tabcorp to proceed with work on the foyer with expedition and this is the likely explanation for him wishing to commence to dismantle the existing foyer even though plans for it replacement were not ready.",
+      "id": "s547"
+    },
+    {
+      "text": "In these circumstances it is likely that he was predisposed to understand any general acquiescence by Mrs Bergamin to the idea that Tabcorp might wish to redesign the foyer, as assent to proceed.",
+      "id": "s548"
+    },
+    {
+      "text": "80 Tabcorp claims that, when Mrs Bergamin responded to Mr Phelan by letter on 11 July 1997 (above at [32]), she expressly consented to the commencement of work on the foyer.",
+      "id": "s549"
+    },
+    {
+      "text": "I do not accept this construction of the letter.",
+      "id": "s550"
+    },
+    {
+      "text": "What Mrs Bergamin, said, on behalf of the applicant, was that it had \"no objection in princip[le] to the removal of the existing foyer surfaces ...\".",
+      "id": "s551"
+    },
+    {
+      "text": "However, immediately thereafter, she expressly said that the applicant was not in a position to give the written consent which Mr Phelan had sought until plans had been received and considered.",
+      "id": "s552"
+    },
+    {
+      "text": "By giving \"in principle\" approval the applicant did no more than recognise the obligation imposed on it by Clause 2.13 of the lease.",
+      "id": "s553"
+    },
+    {
+      "text": "It did not grant the unqualified assent in writing which could only be given following Tabcorp's provision of the detailed plans.",
+      "id": "s554"
+    },
+    {
+      "text": "81 I, therefore, find that the applicant had not consented in writing or otherwise to the removal of the former foyer surfaces before those surfaces were removed between 11 and 14 July 1997.",
+      "id": "s555"
+    },
+    {
+      "text": "The work involved was a substantial alteration to the premises.",
+      "id": "s556"
+    },
+    {
+      "text": "I further find that, at the time at which the removal work was undertaken, Mr Phelan was well aware that no written consent had been provided.",
+      "id": "s557"
+    },
+    {
+      "text": "A breach of the negative covenant contained in Clause 2.13 of the lease occurred when the original foyer surfaces were removed at that time.",
+      "id": "s558"
+    },
+    {
+      "text": "82 By the time the meeting commenced on 14 July 1997, Mrs Bergamin and Mr Bergamin Jnr had been confronted with a fait acomplis.",
+      "id": "s559"
+    },
+    {
+      "text": "All (or almost all) of the original surfaces in the foyer had been stripped back.",
+      "id": "s560"
+    },
+    {
+      "text": "They had to be replaced.",
+      "id": "s561"
+    },
+    {
+      "text": "I accept that Mr Gullquist's contemporaneous notes (above at [34]) as to what transpired at the meeting provide an accurate summary of what was discussed.",
+      "id": "s562"
+    },
+    {
+      "text": "The Bergamins expressed their displeasure at not having been consulted prior to the removal works being undertaken.",
+      "id": "s563"
+    },
+    {
+      "text": "Mr Bergamin Jnr sought detailed plans of what Tabcorp was proposing should replace the former surfaces.",
+      "id": "s564"
+    },
+    {
+      "text": "Mr Phelan responded that the plans had not yet been prepared but undertook that, when they were, they would be forwarded to Mr Bergamin Jnr for his review.",
+      "id": "s565"
+    },
+    {
+      "text": "Given the complaint which had been made about lack of prior consultation in relation to the removal works Mr Phelan's reassurance about provision of plans for Mr Bergamin Jnr's review was plainly intended (and was understood by the Bergamins) to be an assurance that they would be provided with the plans so that they could seek advice before any proposed refurbishment occurred.",
+      "id": "s566"
+    },
+    {
+      "text": "At the meeting Mrs Bergamin specifically stated that the applicant would not agree to the removal of the Rondor door and the substitution of glass sliding doors.",
+      "id": "s567"
+    },
+    {
+      "text": "Tabcorp seeks to contrast her approach to the door with that taken in relation to the surfaces.",
+      "id": "s568"
+    },
+    {
+      "text": "It is suggested that the absence of any express refusal to agree to work on the surfaces confirmed (at least inferentially) the applicant's consent to continuation of the foyer works.",
+      "id": "s569"
+    },
+    {
+      "text": "I reject this submission.",
+      "id": "s570"
+    },
+    {
+      "text": "At the time of the meeting the Rondor door had not been removed.",
+      "id": "s571"
+    },
+    {
+      "text": "It is, therefore, understandable that Mrs Bergamin would seek, in strong terms, to direct Tabcorp that it was not to be disturbed.",
+      "id": "s572"
+    },
+    {
+      "text": "On the other hand, the foyer had been stripped; something had to replace the surfaces which had been removed.",
+      "id": "s573"
+    },
+    {
+      "text": "What the Bergamins wanted was the opportunity to examine the plans (including the finishes board) so that they could be carefully assessed and, if need be, advice taken, before an informed written consent was given.",
+      "id": "s574"
+    },
+    {
+      "text": "The Bergamins did not, at that meeting, or otherwise give or confirm consent to the continuation of the foyer works.",
+      "id": "s575"
+    },
+    {
+      "text": "83 Despite this the works continued.",
+      "id": "s576"
+    },
+    {
+      "text": "It was a month later, on 14 August 1997, when Mr Phelan provided the plans which had been promised on 14 July 1997.",
+      "id": "s577"
+    },
+    {
+      "text": "In his letter of 14 August 1997 (above at [36]) he sought what was, in effect, retrospective written approval for the refurbishment works.",
+      "id": "s578"
+    },
+    {
+      "text": "He told Mrs Bergamin that the plans which accompanied the letter detailed \"the alterations which are currently being undertaken at Tabcorp's request.",
+      "id": "s579"
+    },
+    {
+      "text": "\" (Emphasis added).",
+      "id": "s580"
+    },
+    {
+      "text": "No sample board of finishes was provided at that time.",
+      "id": "s581"
+    },
+    {
+      "text": "None was provided until 28 August 1997, by which time the work was almost complete.",
+      "id": "s582"
+    },
+    {
+      "text": "Not surprisingly, Mrs Bergamin responded to Mr Phelan on 19 August 1997 reminding him that approval for the works should have been received prior to demolition commencing.",
+      "id": "s583"
+    },
+    {
+      "text": "Written consent was not given at that time.",
+      "id": "s584"
+    },
+    {
+      "text": "Nonetheless, work continued.",
+      "id": "s585"
+    },
+    {
+      "text": "After a week had passed and no response was received from Mr Phelan the applicant placed the matter in the hands of its solicitors.",
+      "id": "s586"
+    },
+    {
+      "text": "By then work was all but completed.",
+      "id": "s587"
+    },
+    {
+      "text": "All that the solicitors could do was to draw attention to the requirements of Clause 2.13 of the lease and complain about Tabcorp's failure to meet its obligations.",
+      "id": "s588"
+    },
+    {
+      "text": "84 By proceeding to undertake refurbishment work between 14 July 1997 and 31 August 1997, without first obtaining the written consent of the applicant, Tabcorp committed a further breach of the lease.",
+      "id": "s589"
+    },
+    {
+      "text": "No written consent was provided under Clause 2.13.",
+      "id": "s590"
+    },
+    {
+      "text": "Mr Phelan, acting on behalf of Tabcorp, was well aware of the need to obtain such consent and knew that it had not been provided.",
+      "id": "s591"
+    },
+    {
+      "text": "Despite this work continued.",
+      "id": "s592"
+    },
+    {
+      "text": "This contumelious disregard for the rights of the applicant cannot be justified, as Mr Phelan sought to do on 28 August 1997 (above at [39]), by the assertion that \"Tabcorp were under the impression that you had consented to the proposed alterations.",
+      "id": "s593"
+    },
+    {
+      "text": "\" (Emphasis added).",
+      "id": "s594"
+    },
+    {
+      "text": "The applicant could not consent because it did not have the plans and the finishes board until 14 August 1997 and 28 August 1997 respectively and was, as a result, in no position to give or withhold its written consent.",
+      "id": "s595"
+    },
+    {
+      "text": "85 I do not accept that contention of Tabcorp that the applicant waived strict compliance with the written consent requirement.",
+      "id": "s596"
+    },
+    {
+      "text": "It did not do so on 11 July 1997 when Tabcorp was told that it had no objection, in principle, to the removal of the existing foyer surfaces and it did not do so on 14 July 1997 by confirming that works could continue.",
+      "id": "s597"
+    },
+    {
+      "text": "I have already dealt with Tabcorp's submissions relating to the \"in principle\" approval: see above at [79].",
+      "id": "s598"
+    },
+    {
+      "text": "I would only add in the present context that the 11 July 1997 letter spoke of \"in princip[le] approval\" of the removal of the existing surfaces.",
+      "id": "s599"
+    },
+    {
+      "text": "It said nothing about approval for subsequent refurbishment.",
+      "id": "s600"
+    },
+    {
+      "text": "On 14 July 1997 the Bergamins reluctantly accepted the inevitability that refurbishment work would have to take place.",
+      "id": "s601"
+    },
+    {
+      "text": "They could hardly have done otherwise given what had been done to the foyer.",
+      "id": "s602"
+    },
+    {
+      "text": "They made it plain that their prior written consent to the necessary works was needed and that, before that consent would be forthcoming, they wished to see the detailed plans (including the finishes board).",
+      "id": "s603"
+    },
+    {
+      "text": "This was not conditional approval; it was a reiteration of what the Bergamins understood, correctly, to be Tabcorp's obligation under Clause 2.13 of the lease.",
+      "id": "s604"
+    },
+    {
+      "text": "In no way did the applicant encourage Tabcorp to act on a false assumption that the applicant did not insist on Tabcorp complying with its obligations under clause 2.13.",
+      "id": "s605"
+    },
+    {
+      "text": "The applicant was not, therefore, estopped from insisting on Tabcorp so complying: Waltons Stores (Interstate) Ltd v Maher [1988] HCA 7 ; (1998) 164 CLR 387.",
+      "id": "s606"
+    },
+    {
+      "text": "SECTION 52 AND 53(g) OF THE TRADE PRACTICES ACT \n \n86 The applicant claims that Tabcorp, by its conduct, contravened ss 52 and 53 (g) of the TP Act .",
+      "id": "s607"
+    },
+    {
+      "text": "Section 52(1) of the TP Act provides that a \"corporation shall not, in trade or commerce, engage in conduct that is misleading or deceptive or is likely to mislead or deceive.",
+      "id": "s608"
+    },
+    {
+      "text": "\" Section 53(g) provides that a \"corporation shall not, in trade or commerce, in connection with the supply or possible supply of goods or services, make any false or misleading representation concerning the existence, exclusion or effect of any condition, warranty, guarantee, right or remedy.",
+      "id": "s609"
+    },
+    {
+      "text": "\" \n \n87 The applicant relies on the following conduct, on the part of Tabcorp, to support its claims under ss 52 and 52 (g) of the TP Act :\n \n &#8226; The representation, by Tabcorp, made on 11 July 1997, that it would replace the existing glass and stone partition, timber panelling and stone floor tiles with materials which reflected the high quality of the building;\n &#8226; The further representation, also allegedly made on 11 July 1997, that alterations to the foyer would not be undertaken without the applicant's prior consent;\n &#8226; Tabcorp's representation, on 14 July 1997, that the construction of a new foyer would not be undertaken without the applicant's prior consent;\n &#8226; The representation, given on the same day, that Tabcorp would supply the applicant with final drawings, a schedule of finishes and a sample board in order to enable the applicant to consider whether or not to approve the proposed works;\n &#8226; The representation, also allegedly made on 14 July 1997, by Tabcorp that the new stone flooring would be equal to or better in quality than the original granite flooring;\n &#8226; Tabcorp's representation also allegedly made at the meeting on 14 July 1997, that the new foyer would be of an exemplary standard, such that no rectification or improvement of the foyer would be needed at the end of the lease.",
+      "id": "s610"
+    },
+    {
+      "text": "The applicant contends that it relied on the representations, made on 11 and 14 July 1997, and that, as a result it did not seek to prevent demolition of the existing foyer or the construction of a new foyer and did not take steps to ensure that the standard of the finishes was as represented.",
+      "id": "s611"
+    },
+    {
+      "text": "It is alleged that the representations that the proposed fittings and finishes would be of a high standard was a matter of opinion for which Tabcorp had no reasonable basis.",
+      "id": "s612"
+    },
+    {
+      "text": "It is further alleged that the representations were false and misleading in that:\n \n &#8226; Tabcorp did not obtain the applicant's prior consent before making the alteration;\n &#8226; The finishes to the new foyer were not such as to reflect the high quality of the premises;\n &#8226; Tabcorp did not supply the applicant with final drawings, a schedule of finishes and a sample board before demolishing the foyer and commencing refurbishment; and\n &#8226; Tabcorp did not intend or have the capacity, at relevant times, to obtain the applicant's approval for commencing the works.",
+      "id": "s613"
+    },
+    {
+      "text": "The applicant pleads that, by reason of these contraventions of the TP Act , the applicant has suffered loss and damage.",
+      "id": "s614"
+    },
+    {
+      "text": "88 Having regard to the findings which I have made, in dealing with Tabcorp's breach of Clause 2.13 of the lease, I would have been disposed to uphold some, but not all, of the alleged contraventions of ss 52 and 53 (g) of the TP Act .",
+      "id": "s615"
+    },
+    {
+      "text": "However, the applicant claims that it \"has\" suffered loss in that, at the termination of the lease, it will be left with a foyer of inferior standard which Tabcorp will not be obliged to restore to its original condition.",
+      "id": "s616"
+    },
+    {
+      "text": "There is also a claim that, by reason of the moving of the wall in the foyer, Tabcorp will have lost a net lettable area once Tabcorp vacates the building.",
+      "id": "s617"
+    },
+    {
+      "text": "89 By s 82(2) of the TP Act , any action brought under ss 52 or 53 (g) must be commenced within six years after the day on which the cause of action accrued.",
+      "id": "s618"
+    },
+    {
+      "text": "An action for loss or damage, commenced pursuant to s 82 of the TP Act , for conduct undertaken in contravention of ss 52 and 53 (g) of the TP Act requires that actual loss or damage has occurred.",
+      "id": "s619"
+    },
+    {
+      "text": "Anticipated loss or damage, at some time in the future, will not suffice: see Wardley Australia Ltd v The State of Western Australia [1992] HCA 55 ; (1992) 175 CLR 514 at 525, 527.",
+      "id": "s620"
+    },
+    {
+      "text": "No doubt, it is for this reason, that the applicant claims that it \"has\" suffered loss and damage.",
+      "id": "s621"
+    },
+    {
+      "text": "Any such loss and damage occurred at the time that the demolition and renovations occurred in July and August 1997.",
+      "id": "s622"
+    },
+    {
+      "text": "Any cause of action accrued at that time.",
+      "id": "s623"
+    },
+    {
+      "text": "As a result, the alleged causes of action are statute barred.",
+      "id": "s624"
+    },
+    {
+      "text": "DAMAGES \n \n90 As already noted the applicant seeks damages for Tabcorp's breaches of Clause 2.13 of the lease.",
+      "id": "s625"
+    },
+    {
+      "text": "The quantum of damages sought is $1,380,000.",
+      "id": "s626"
+    },
+    {
+      "text": "This figure is made up of the estimated cost of reinstatement of the foyer to its former condition ($580,000) and loss of rental income during the four month period in which such works are undertaken ($800,000).",
+      "id": "s627"
+    },
+    {
+      "text": "91 It is common ground that reinstatement of the foyer will not occur prior to the conclusion of Tabcorp's tenancy.",
+      "id": "s628"
+    },
+    {
+      "text": "This will not occur, at the earliest, until 2012.",
+      "id": "s629"
+    },
+    {
+      "text": "If Tabcorp exercises its option to extend the lease by a further five years, it will not occur until 2017.",
+      "id": "s630"
+    },
+    {
+      "text": "The parties make competing submissions as to the appropriate measure of damages.",
+      "id": "s631"
+    },
+    {
+      "text": "The applicant seeks the costs of reinstatement of the foyer.",
+      "id": "s632"
+    },
+    {
+      "text": "Tabcorp, on the other hand, submits that damages should be measured by reference to the diminution, if any, in value of the building occasioned by the works undertaken in the foyer.",
+      "id": "s633"
+    },
+    {
+      "text": "92 In some cases it may be appropriate to award damages on the basis contended for by the applicant.",
+      "id": "s634"
+    },
+    {
+      "text": "This will be so in a relatively narrow range of cases where a tenant has so damaged or modified premises that they are unlettable at the conclusion on the lease: see Joyner v Weeks [1891] 2 QB 31.",
+      "id": "s635"
+    },
+    {
+      "text": "Normally, however, reinstatement costs will not be awarded unless there exists some special interest in reinstatement arising from a radical change to the usage to which the property can be put following renovations by the tenant: see Evans v Balog [1976] 1 NSWLR 36.",
+      "id": "s636"
+    },
+    {
+      "text": "93 The weight of the expert evidence called in the present case supports the conclusion that, at the end of Tabcorp's lease, whether that occurs in 2012 or 2017, there will be little, if any, diminution in value of the premises occasioned by Tabcorp's renovation of the foyer.",
+      "id": "s637"
+    },
+    {
+      "text": "While there may be different views as to the aesthetic values of the former foyer and that installed by Tabcorp, Tabcorp's works have not occasioned any significant loss of value to the building.",
+      "id": "s638"
+    },
+    {
+      "text": "Furthermore, extensive renovation of the foyer would, according to the evidence, be necessary in any event at the end of the lease.",
+      "id": "s639"
+    },
+    {
+      "text": "94 The applicant relied on the evidence of three expert witnesses.",
+      "id": "s640"
+    },
+    {
+      "text": "Mr Christopher Holroyd, a certified practising valuer, had prepared a rental submission on behalf of the applicant in the course of the 2004 dispute with Tabcorp.",
+      "id": "s641"
+    },
+    {
+      "text": "He confirmed his opinion, contained in the rental submission, \"that an impressive foyer as originally provided by the Lessor is of a significant benefit of a building and would command a higher rental that that achieved by a building with an inferior foyer.",
+      "id": "s642"
+    },
+    {
+      "text": "\" His views as to the quality of the present foyer were influenced, in part, by those of Mr Henderson, the architect who had designed the original foyer who considered that the finishes used in the present foyer were of \"far less a quality\" than those used in the foyer which he had designed.",
+      "id": "s643"
+    },
+    {
+      "text": "Mr Holroyd did not quantify the \"higher rental\" which he considered could be obtained were the original foyer, or something like it, to be reinstated.",
+      "id": "s644"
+    },
+    {
+      "text": "95 Mr John Clarke, an independent property advisor, considered that the original foyer would be a more effective \"leasing tool\" than the present foyer.",
+      "id": "s645"
+    },
+    {
+      "text": "He explained that, once Tabcorp vacated the premises, it was likely that it would be succeeded by multiple tenants.",
+      "id": "s646"
+    },
+    {
+      "text": "In his view there needed to be a high quality foyer which would \"instantly appeal to all tenants as they enter the building.",
+      "id": "s647"
+    },
+    {
+      "text": "\" In his subjective opinion the former foyer was more likely to have the desired effect than the present one.",
+      "id": "s648"
+    },
+    {
+      "text": "96 Mr Christopher Robinson, a property and construction consultant provided evidence supporting the estimated cost of reinstatement being claimed by the applicant.",
+      "id": "s649"
+    },
+    {
+      "text": "97 Tabcorp called evidence from four experts.",
+      "id": "s650"
+    },
+    {
+      "text": "Mr Mark Lochran is a specialist in conceptual estimating and planning for building projects.",
+      "id": "s651"
+    },
+    {
+      "text": "His view is that the current foyer \"does not disadvantage the building in terms of merit, quality, durability or replacement impact when compared to the original foyer.",
+      "id": "s652"
+    },
+    {
+      "text": "\" He considered that there exists a strong likelihood that the foyer will require upgrading in about five years to reflect \"the commercial realities of competition with new and refurbished buildings.",
+      "id": "s653"
+    },
+    {
+      "text": "\"\n \n98 Mr John Forsyth is a certified practising valuer who was appointed to arbitrate in the rental dispute between the parties in 2004.",
+      "id": "s654"
+    },
+    {
+      "text": "It was his view that the market rental value of the premises had not changed as a result of the alterations to the foyer.",
+      "id": "s655"
+    },
+    {
+      "text": "Either foyer was, in his opinion, \"acceptable for a building of this standard.",
+      "id": "s656"
+    },
+    {
+      "text": "\" He agreed that refurbishment of the foyer would, in any event, be necessary at the expiration of the existing lease.",
+      "id": "s657"
+    },
+    {
+      "text": "99 Mr Joseph Perillo is a certified practising valuer.",
+      "id": "s658"
+    },
+    {
+      "text": "He was also of the opinion that the altered state of the foyer had not had any material effect on the value of the property with the exception of the reduced area available for letting as office space on the ground floor.",
+      "id": "s659"
+    },
+    {
+      "text": "He calculated that \"if capitalised in perpetuity at prevailing market yield of 8% [the reduction in lettable area caused by the extension of the foyer] would reflect a diminution in value of $25,937.50.",
+      "id": "s660"
+    },
+    {
+      "text": "\" He agreed that an upgrade of the foyer would probably have to occur at the end of the tenancy.",
+      "id": "s661"
+    },
+    {
+      "text": "In coming to this conclusion he had regard to what had occurred in a number of high quality buildings in recent times.",
+      "id": "s662"
+    },
+    {
+      "text": "They had had foyer upgrades 15 to 25 years after they opened.",
+      "id": "s663"
+    },
+    {
+      "text": "100 Mr Andrew Norbury, an architect, made a comparison of the two foyer designs.",
+      "id": "s664"
+    },
+    {
+      "text": "He considered that the previous foyer \"expressed a conservative and more sombre design language.",
+      "id": "s665"
+    },
+    {
+      "text": "\" On the other hand, the current foyer was \"a successful example of late 1990's design with its lighter, brighter and more dynamic atmosphere.",
+      "id": "s666"
+    },
+    {
+      "text": "\" He said that the costs of the finishes of the two foyers were roughly equal.",
+      "id": "s667"
+    },
+    {
+      "text": "He also considered that refurbishment of the foyer would be necessary at the end of the tenancy having regard to the experience of other major buildings with which he was familiar.",
+      "id": "s668"
+    },
+    {
+      "text": "101 The present case closely resembles that of James v Hutton [1949] 2 All ER 243, in which the Court of Appeal refused to award more than nominal damages to the plaintiff lessor in circumstances where the outgoing sub-tenant had \"modernised\" the fa&ccedil;ade of the demised premises.",
+      "id": "s669"
+    },
+    {
+      "text": "In that case the assignee of a lease was granted a licence by the landlord to construct a new shop front to business premises.",
+      "id": "s670"
+    },
+    {
+      "text": "The licence contained a covenant that the assignee would, if so required, reinstate the premises in their original condition.",
+      "id": "s671"
+    },
+    {
+      "text": "The landlord gave the assignee notice to reinstate the premises but the assignee failed to do so.",
+      "id": "s672"
+    },
+    {
+      "text": "At first instance the landlord was awarded damages calculated by reference to estimates of the probable costs of restoration work.",
+      "id": "s673"
+    },
+    {
+      "text": "The assignee was successful on appeal.",
+      "id": "s674"
+    },
+    {
+      "text": "The Court of Appeal applied the general rule as to damages for breach of contract, namely that the landlord could only obtain compensation for damage actually suffered.",
+      "id": "s675"
+    },
+    {
+      "text": "Speaking for the Court Lord Goddard CJ said (at 246):\n \n \"We see no ground here for assuming that the landlord in the present case has suffered any damage at all.",
+      "id": "s676"
+    },
+    {
+      "text": "She has got back a shop ...provided with a modern and convenient front, and there was no suggestion that the work had not been carried out properly.",
+      "id": "s677"
+    },
+    {
+      "text": "We do not for one moment suggest that it might not be possible for a landlord, in circumstances such as these to give evidence that she or her superior landlords at the end of the term desire to carry on or to let the premises for the purpose of carrying on a business for which the altered shop front would be inappropriate and the old one suitable.",
+      "id": "s678"
+    },
+    {
+      "text": "In that case she might well say that it is of value to her to have the shop back in its former condition and she would suffer damage if the tenant's or assignees' covenant to restore was not carried out, but if it is a mere matter of getting back a shop which has been altered and there is no suggestion that any damage whatever has been caused to the landlord thereby, it appears to us that she has suffered no damage by reason of the tenant's or assignee's failure to comply with her requirements to reinstate.",
+      "id": "s679"
+    },
+    {
+      "text": "\" \n\n102 The expert evidence, which I accept, acknowledges the existence of differing subjective views as to the aesthetic merit of the former foyer and the one which has replaced it.",
+      "id": "s680"
+    },
+    {
+      "text": "The applicant has erected and leased the building for commercial purposes.",
+      "id": "s681"
+    },
+    {
+      "text": "It is an investment property.",
+      "id": "s682"
+    },
+    {
+      "text": "The evidence supports the conclusion that, apart from the loss of lettable space on the ground floor caused by the movement of one wall in order to expand the size of the foyer, the applicant has suffered no diminution in the lettable value of the building by reason of the works undertaken by Tabcorp in the foyer area.",
+      "id": "s683"
+    },
+    {
+      "text": "This work has not had any adverse effect on the lettable value of the property while it is being leased by Tabcorp.",
+      "id": "s684"
+    },
+    {
+      "text": "At the end of that lease the building will be lettable to another tenant or tenants.",
+      "id": "s685"
+    },
+    {
+      "text": "It is likely that, at that time, refurbishment of the foyer will be necessary (as it would be necessary had it been retained in its original condition) in order to take account of architectural developments and the need to \"freshen up\" the building to make it attractive to potential tenants.",
+      "id": "s686"
+    },
+    {
+      "text": "103 At that time there will have been a loss of net lettable area.",
+      "id": "s687"
+    },
+    {
+      "text": "That loss has been quantified at about $26,000.",
+      "id": "s688"
+    },
+    {
+      "text": "The cost involved in removing the existing wall and relocating it in its former position so as to restore the lettable area is of approximately the same order.",
+      "id": "s689"
+    },
+    {
+      "text": "Mr Robinson gave uncontested evidence that the building work necessary to restore the foyer to its original proportions would be $33,820.",
+      "id": "s690"
+    },
+    {
+      "text": "The applicant is entitled to damages in this amount.",
+      "id": "s691"
+    },
+    {
+      "text": "Nominal damages are also appropriate having regard to Tabcorp's failure to abide by its obligations under Clause 2.13 of the lease.",
+      "id": "s692"
+    },
+    {
+      "text": "I would award the applicant $1,000 under this head.",
+      "id": "s693"
+    },
+    {
+      "text": "104 My provisional view is that the respondent should pay the applicant's costs of the proceeding.",
+      "id": "s694"
+    },
+    {
+      "text": "If the respondent wishes to submit that some other orders should be made as to costs it should file and serve short written submissions by 4:00 pm on 23 May 2007.",
+      "id": "s695"
+    },
+    {
+      "text": "If such submissions are made the applicant should file and serve short submissions in reply on or before 4:00 pm on 28 May 2007.",
+      "id": "s696"
+    },
+    {
+      "text": "I certify that the preceding one hundred and four (104) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice TRACEY.",
+      "id": "s697"
+    },
+    {
+      "text": "Associate:\n\nDated: 18 May 2007 \n\n\n Counsel for the Applicant: Mr M Colbran QC &amp; Mr I Upjohn \n \n Solicitor for the Applicant: Scanlan Carroll \n \n Counsel for the Respondent: Mr C Macaulay SC &amp; Mr T Woodward \n \n Solicitor for the Respondent: Mallesons Stephen Jaques \n \n Date of Hearing: 18 October 2006, 13-14 March 2007, 19-22 March 2007, 26-27 March 2007 \n \n Date of Judgment: 18 May 2007 \n\n\n \n \n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/708.html",
+      "id": "s698"
+    }
+  ]
+}

@@ -1,0 +1,392 @@
+[
+  {
+    "text": "trade practices",
+    "id": "cp0.0",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "restrictive trade practices",
+    "id": "cp0.1",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "accessorial liability for contravention of s 45e(3) of the trade practices act 1974 (cth)",
+    "id": "cp0.2",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "existence of an \"arrangement or understanding\"",
+    "id": "cp0.3",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "lack of necessary \"meeting of the minds\" evidence",
+    "id": "cp0.4",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "admissibility under s 45 of the evidence act 1995 (cth) of document witness taken to in cross-examination",
+    "id": "cp0.5",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "admissibility of witness statement where witness not called",
+    "id": "cp0.6",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "admissibility of answers to s 155 trade practices act 1974 (cth) notices",
+    "id": "cp0.7",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "privilege",
+    "id": "cp1.0",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "legal professional privilege",
+    "id": "cp1.1",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "advice privilege",
+    "id": "cp1.2",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "litigation privilege",
+    "id": "cp1.3",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "implied undertaking",
+    "id": "cp1.4",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "public interest immunity",
+    "id": "cp1.5",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "work product",
+    "id": "cp1.6",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "draft witness statements and witness proofs",
+    "id": "cp1.7",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "whether filing and service, without more, of witness statements constitutes waiver of privilege",
+    "id": "cp1.8",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "distinction between privilege and implied undertaking",
+    "id": "cp1.9",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "whether encouragement of cartel whistleblowers by protecting confidentiality of statements made to investigators presents a real public interest where there is no evidence that confidentiality was sought or that whistleblowers would be deterred from coming forward by lack of confidentiality",
+    "id": "cp1.10",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "whether public regulatory agency's interest in guarding its work product presents a cognisable public interest",
+    "id": "cp1.11",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "whether work product doctrine has a separate existence from legal professional privilege in australia",
+    "id": "cp1.12",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "practice and procedure",
+    "id": "cp3.0",
+    "type": "cited",
+    "from": "[1994]"
+  },
+  {
+    "text": "legal professional privilege",
+    "id": "cp3.1",
+    "type": "cited",
+    "from": "[1994]"
+  },
+  {
+    "text": "witness statements of applicant to prior proceedings filed and served but not read in those proceedings",
+    "id": "cp3.2",
+    "type": "cited",
+    "from": "[1994]"
+  },
+  {
+    "text": "subsequent proceeding brought against different respondent by applicant",
+    "id": "cp3.3",
+    "type": "cited",
+    "from": "[1994]"
+  },
+  {
+    "text": "whether legal professional privilege waived by filing and serving of witness statements",
+    "id": "cp3.4",
+    "type": "cited",
+    "from": "[1994]"
+  },
+  {
+    "text": "whether waiver limited to use in prior proceedings.",
+    "id": "cp3.5",
+    "type": "cited",
+    "from": "[1994]"
+  },
+  {
+    "text": "whether witness statements required to be disclosed by rules or order of court and subject to implied undertaking not to be used otherwise than for purposes of prior proceedings",
+    "id": "cp3.6",
+    "type": "cited",
+    "from": "[1994]"
+  },
+  {
+    "text": "whether leave of court required to allow respondent to current proceeding to read witness statements",
+    "id": "cp3.7",
+    "type": "cited",
+    "from": "[1994]"
+  },
+  {
+    "text": "federal court rules o.33 r.5(1).   practice and procedure",
+    "id": "cp3.8",
+    "type": "cited",
+    "from": "[1994]"
+  },
+  {
+    "text": "applicant filed and served witness statements in prior proceedings in federal court",
+    "id": "cp3.9",
+    "type": "cited",
+    "from": "[1994]"
+  },
+  {
+    "text": "respondents retained counsel and experts",
+    "id": "cp3.10",
+    "type": "cited",
+    "from": "[1994]"
+  },
+  {
+    "text": "in applicant's subsequent proceeding against different respondent, respondent retained same counsel and experts",
+    "id": "cp3.11",
+    "type": "cited",
+    "from": "[1994]"
+  },
+  {
+    "text": "whether counsel and experts should be restrained from being retained in current proceeding.",
+    "id": "cp3.12",
+    "type": "cited",
+    "from": "[1994]"
+  },
+  {
+    "text": "contract",
+    "id": "cp4.0",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "principles of construction",
+    "id": "cp4.1",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "the meaning of confidential information as defined by the contract",
+    "id": "cp4.2",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "whether telecommunications traffic information is confidential information",
+    "id": "cp4.3",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "whether telecommunications traffic information is subject to confidentiality requirements under the contract",
+    "id": "cp4.4",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "whether use of such information in the preparation of market share reports and the subsequent use of such reports were permitted under the contract.    held",
+    "id": "cp4.5",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "the uses to which the telecommunications traffic information and the market share reports were put constitutes a breach of contract.",
+    "id": "cp4.6",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "privilege",
+    "id": "cp5.0",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "legal professional privilege",
+    "id": "cp5.1",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "litigation privilege",
+    "id": "cp5.2",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "finalised proofs of evidence",
+    "id": "cp5.3",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "whether litigation privilege exists where documents created for purpose of providing to opposing party and in fact so provided  privilege",
+    "id": "cp5.4",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "legal professional privilege",
+    "id": "cp5.5",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "litigation privilege",
+    "id": "cp5.6",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "waiver of privilege",
+    "id": "cp5.7",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "whether filing and service, without more, of finalised proofs of evidence constitutes waiver of privilege privilege",
+    "id": "cp5.8",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "legal professional privilege",
+    "id": "cp5.9",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "litigation privilege",
+    "id": "cp5.10",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "distinction between privilege and implied undertaking practice and procedure",
+    "id": "cp5.11",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "whether leave to appeal against interlocutory ruling ought to be granted",
+    "id": "cp5.12",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "case raises a matter of public importance",
+    "id": "cp5.13",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "possible loss of substantive right",
+    "id": "cp5.14",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "leave granted practice and procedure",
+    "id": "cp5.15",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "appeal",
+    "id": "cp5.16",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "issue not taken below",
+    "id": "cp5.17",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "when allowed to be raised on appeal",
+    "id": "cp5.18",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "when in interests of justice",
+    "id": "cp5.19",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "issue concerns substantive right",
+    "id": "cp5.20",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "party repudiating stance adopted at trial",
+    "id": "cp5.21",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "no prejudice to opposing party",
+    "id": "cp5.22",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "in interests of justice to allow",
+    "id": "cp5.23",
+    "type": "citing",
+    "from": "[2009]"
+  }
+]

@@ -1,0 +1,1092 @@
+{
+  "name": "Nicol v PGLE Pty Ltd [2006] FCA 1669 (4 December 2006)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2006/1669.html",
+  "catchphrases": [
+    {
+      "text": "interlocutory application seeking final relief",
+      "id": "c0"
+    },
+    {
+      "text": "adjournment application",
+      "id": "c1"
+    },
+    {
+      "text": "opposing party claimed medically unfit to provide instructions",
+      "id": "c2"
+    },
+    {
+      "text": "adequacy of medical evidence",
+      "id": "c3"
+    },
+    {
+      "text": "delay in pursuing opposing application",
+      "id": "c4"
+    },
+    {
+      "text": "adjournment application refused",
+      "id": "c5"
+    },
+    {
+      "text": "equitable mortgage",
+      "id": "c6"
+    },
+    {
+      "text": "whether any evidence in support of asserted equitable interest",
+      "id": "c7"
+    },
+    {
+      "text": "practice &amp; procedure",
+      "id": "c8"
+    },
+    {
+      "text": "property law",
+      "id": "c9"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "INTRODUCTION \n \n1 In this proceeding, on 8 August 2005 Colin Nicol was appointed Receiver and Manager of all the property of Guiseppe Antonio Mercorella (with one exception), and the property of the unregistered managed investment scheme operated by Mr Mercorella (the Scheme) as well as liquidator of the scheme.",
+      "id": "s0"
+    },
+    {
+      "text": "On 29 September 2005, he was also appointed as liquidator of the corporate entities which were parties to the Scheme.",
+      "id": "s1"
+    },
+    {
+      "text": "On 3 August 2006 Samuel Davies was appointed jointly with Mr Nicol as Receiver and Manager of the property of Mr Mercorella and the property of the Scheme, and as liquidator of the Scheme and as liquidator of the Scheme companies.",
+      "id": "s2"
+    },
+    {
+      "text": "2 At the time of the initial order, on 8 August 2005, Mr Mercorella was the registered proprietor of property at 22-32 Jerningham Street, North Adelaide (the Jerningham Street property).",
+      "id": "s3"
+    },
+    {
+      "text": "The Jerningham Street property was subject to a first registered mortgage in favour of Banksia Mortgages Ltd (Banksia), produced on 30 June 2004 and registered on 15 July 2004.",
+      "id": "s4"
+    },
+    {
+      "text": "3 On 19 July 2005 Anthony John Sobey produced, and subsequently had registered on 22 July 2005, a caveat over the Jerningham Street property.",
+      "id": "s5"
+    },
+    {
+      "text": "The caveat asserted a beneficial interest \n \n \"... as mortgagee of [the Jerningham Street property] pursuant to a loan agreement dated the 19 th day of July 2005 between the caveator and caveatee wherein pursuant to clause 5 of the loan agreement the caveatee expressly mortgaged to the caveator the estate and interest in the land\" (the Sobey caveat).",
+      "id": "s6"
+    },
+    {
+      "text": "4 Subsequent to the order of 8 August 2005, a company ACN 114 377 592 Pty Ltd (ACN 114) also produced for registration a caveat on 31 August 2005 in respect of the Jerningham Street property which was registered on 6 September 2005.",
+      "id": "s7"
+    },
+    {
+      "text": "I do not need to refer in detail to the ACN 114 caveat, because its solicitors by letter of 3 April 2006 have indicated that it has no ongoing claim in respect of the land that is the Jerningham Street property or the proceeds of its sale.",
+      "id": "s8"
+    },
+    {
+      "text": "5 On 10 August 2005, the Court made orders on the application of Mr Nicol inter alia pursuant to s 64 of the Real Property Act 1886 (SA) directing the Registrar General to enter that order on certain certificates of title, including over the Jerningham Street property, and not to register any further dealing with such property until further order.",
+      "id": "s9"
+    },
+    {
+      "text": "On 9 September 2005, Banksia served on Mr Mercorella a notice of demand for payment and observance of the terms of its mortgage.",
+      "id": "s10"
+    },
+    {
+      "text": "Mr Mercorella was in default of the terms of the Banksia mortgage.",
+      "id": "s11"
+    },
+    {
+      "text": "Banksia and Mr Nicol agreed to a variation of the orders made on 10 August 2005 to permit Banksia to realise its security, on the basis that any funds available after payment of Banksia's debt secured by its mortgage, and after payment of the expenses of preserving and realising the asset, were to be paid into the Minter Ellison Trust Account until further order, and in particular pending Mr Nicol's investigation of any competing claims in relation to those surplus funds.",
+      "id": "s12"
+    },
+    {
+      "text": "The Court on 14 October 2005 directed the Registrar General to give effect to that arrangement by making such entries as necessary to permit Banksia to effect its power of sale as mortgagee pursuant to the Banksia mortgage in respect of the Jerningham Street property.",
+      "id": "s13"
+    },
+    {
+      "text": "6 The Jerningham Street property was then sold by Banksia by way of public auction on 16 December 2005.",
+      "id": "s14"
+    },
+    {
+      "text": "The sale price was $2,511,000.",
+      "id": "s15"
+    },
+    {
+      "text": "Settlement was effected on 16 February 2006.",
+      "id": "s16"
+    },
+    {
+      "text": "After payment of the expenses of realisation and in preserving the property, and after the discharge the of Banksia mortgage, the surplus funds paid into the Minter Ellison Trust Account from the proceeds of sale of the Jerningham Street property totalled $1,352,810.",
+      "id": "s17"
+    },
+    {
+      "text": "Those sums were then duly invested in an interest bearing account.",
+      "id": "s18"
+    },
+    {
+      "text": "There is a sum in excess of $1.4 million presently held in that account.",
+      "id": "s19"
+    },
+    {
+      "text": "THE ISSUE \n \n7 The issue in this proceeding is the extent to which, if at all, Mr Sobey is entitled to participate in the distribution of those surplus funds.",
+      "id": "s20"
+    },
+    {
+      "text": "THE PRESENT APPLICATION \n \n8 By motion of 23 August 2006, Mr Nicol and Mr Davies applied for an order that the full amount of the surplus funds be paid to them in their capacity as joint receivers and managers of the property of Mr Mercorella and the Scheme, and as joint liquidators of the Scheme and the Scheme companies.",
+      "id": "s21"
+    },
+    {
+      "text": "They contend they are the relevant parties entitled to receive such moneys.",
+      "id": "s22"
+    },
+    {
+      "text": "9 The only competing claimant to those funds, following the intimation that the interest asserted in the ACN 114 caveat is not being pursued, is Mr Sobey.",
+      "id": "s23"
+    },
+    {
+      "text": "10 The proceedings are properly instituted as an interlocutory application in the principal proceedings by notice of motion, pursuant to r 2.2(1) of the Federal Court (Corporations) Rules 2000 .",
+      "id": "s24"
+    },
+    {
+      "text": "Although the proceeding in its current form is by interlocutory application, it is in fact seeking final relief in respect of the administration of certain of the property of Mr Mercorella, namely the proceeds of sale of the Jerningham Street property.",
+      "id": "s25"
+    },
+    {
+      "text": "THE CLAIM BY MR SOBEY \n \n11 The assertion of the Sobey claim by Mr Sobey has been a long time coming.",
+      "id": "s26"
+    },
+    {
+      "text": "12 By letter from Mr Sobey's solicitors of 13 December 2005, Mr Sobey's interest was asserted in the following terms:\n \n \"Our client has an interest in [the Jerningham Street property] by way of an equitable mortgage.",
+      "id": "s27"
+    },
+    {
+      "text": "This mortgage secures the sum of $750,000 lent by our client to Mr Guiseppe Mercorella.",
+      "id": "s28"
+    },
+    {
+      "text": "The amount secured by the mortgage is pursuant to two separate loan agreements, dated 16 March 2004 in the sum of $350,000 and $400,000 dated 20 April 2004.",
+      "id": "s29"
+    },
+    {
+      "text": "Interest on these loans is 32% per annum pursuant to cl 4 of the loan agreements.",
+      "id": "s30"
+    },
+    {
+      "text": "Our client registered a caveat over the various titles of this property, giving notice of his interest.",
+      "id": "s31"
+    },
+    {
+      "text": "We enclose copies of the mortgage and loan agreements referred to above.",
+      "id": "s32"
+    },
+    {
+      "text": "\"\n \n\n13 The enclosed documents included a two page memorandum of mortgage dated 19 July 2005 apparently signed by Mr Mercorella but not signed by or on behalf of Mr Sobey.",
+      "id": "s33"
+    },
+    {
+      "text": "It is not stamped.",
+      "id": "s34"
+    },
+    {
+      "text": "It identifies the consideration for the mortgage as being the advance of $750,000 made up of two advances of $350,000 on 16 March 2004 and of $400,000 on 20 April 2004, to be repaid by interest only repayments of $20,000 per month, and the capital to be repayable on one month's written notice.",
+      "id": "s35"
+    },
+    {
+      "text": "The commencement day was 16 March 2004.",
+      "id": "s36"
+    },
+    {
+      "text": "14 The enclosed loan agreement is undated.",
+      "id": "s37"
+    },
+    {
+      "text": "It is apparently signed by Mr Mercorella, but not by Mr Sobey.",
+      "id": "s38"
+    },
+    {
+      "text": "It too asserts that Mr Sobey has advanced to Mr Mercorella $750,000 in the two tranches referred to and that the parties are desirous of setting out the terms and conditions of the loan agreement.",
+      "id": "s39"
+    },
+    {
+      "text": "Although the recitals record that Mr Mercorella acknowledges that, by virtue of the execution of the agreement, he expressly mortgages something, there is no expression of what is mortgaged.",
+      "id": "s40"
+    },
+    {
+      "text": "The relevant space is left blank.",
+      "id": "s41"
+    },
+    {
+      "text": "It is obviously a draft document.",
+      "id": "s42"
+    },
+    {
+      "text": "Elsewhere it records that the parties, in consideration of the loan, have mortgaged the Jerningham Street property.",
+      "id": "s43"
+    },
+    {
+      "text": "It provides for interest repayments in the same terms as mentioned, being at 32 per cent per annum.",
+      "id": "s44"
+    },
+    {
+      "text": "15 Although the letter of 13 December 2005 refers to enclosed copies of the mortgage and loan agreements, only one loan agreement was included.",
+      "id": "s45"
+    },
+    {
+      "text": "16 That letter also asserted that Mr Sobey had instructed his solicitors to apply for the balance of the funds obtained by sale of the Jerningham Street property, and then held in the Minter Ellison Trust Account, to be paid to Mr Sobey pursuant to his equitable interest in the Jerningham Street property.",
+      "id": "s46"
+    },
+    {
+      "text": "An enclosed proposed application and supporting affidavit was also included with that letter.",
+      "id": "s47"
+    },
+    {
+      "text": "The draft application sought an order that the purchase money arising from the mortgagee sale by Banksia be applied, after the expenses of sale and the payment to Banksia to discharge its mortgage, to the trust account of Mr Sobey's solicitors for Mr Sobey, and for the balance, if any, thereafter be paid to the trust account of Minter Ellison.",
+      "id": "s48"
+    },
+    {
+      "text": "There was a brief draft affidavit of Mr Sobey, unsigned of course, asserting the two advances, that Mr Mercorella could not service the loan repayments, and that therefore on 19 July 2005 Mr Mercorella mortgaged the Jerningham Street property in favour of Mr Sobey to secure the advances and the accrued interest.",
+      "id": "s49"
+    },
+    {
+      "text": "It asserted that Mr Sobey had a valid equitable mortgage over the property, protected by his caveat, and that he claimed to be entitled to the surplus of the funds at the sale of the property of $750,000 plus interest pursuant to the mortgage and the loan agreement.",
+      "id": "s50"
+    },
+    {
+      "text": "17 Earlier, on 12 August 2005, the solicitors for Mr Nicol requested Mr Sobey to provide them with a copy of the loan agreement dated 19 July 2005 referred to in the caveat and of details of the advances made pursuant to the loan agreement, and of the balance currently payable under that agreement.",
+      "id": "s51"
+    },
+    {
+      "text": "They sent a follow-up letter on 22 August 2005.",
+      "id": "s52"
+    },
+    {
+      "text": "The then solicitors for Mr Sobey responded by letter of 8 September 2005 enclosing copy cheques indicating two payments of money to Mr Mercorella, and asserting the existence of \"an unregistered mortgage which had been executed prior to the Federal Court injunction\".",
+      "id": "s53"
+    },
+    {
+      "text": "The two enclosed copy cheques were dated 16 March 2004 and 20 April 2004 in the sums of $350,000 and $400,000 respectively, apparently drawn on Mr Sobey's account.",
+      "id": "s54"
+    },
+    {
+      "text": "18 On 20 September 2005, the solicitors for Mr Nicol repeated the request for a copy of the loan agreement and details of the balance currently payable under that agreement, and requested a copy of the unregistered mortgage.",
+      "id": "s55"
+    },
+    {
+      "text": "19 The next communication, at least on the evidence, appears to be the letter from the current solicitors for Mr Sobey to solicitors for Mr Nicol dated 13 December 2005.",
+      "id": "s56"
+    },
+    {
+      "text": "The solicitors for Mr Nicol replied the following day.",
+      "id": "s57"
+    },
+    {
+      "text": "They pointed out that it had taken some time for a copy of the mortgage and loan agreement to be provided, and that those documents had not been provided in response to a summons for examination served upon Mr Sobey when he attended in Court for examination on 24 November 2004.",
+      "id": "s58"
+    },
+    {
+      "text": "They also pointed out that there was still no evidence of the amounts allegedly lent to Mr Mercorella, or of the balance currently payable.",
+      "id": "s59"
+    },
+    {
+      "text": "It referred to the examination of Mr Sobey to take place on 22 December 2005 and that he would be required to produce documentation relating to his claims and to be examined on them.",
+      "id": "s60"
+    },
+    {
+      "text": "20 The following day, the solicitors for Mr Sobey responded.",
+      "id": "s61"
+    },
+    {
+      "text": "They re-asserted the urgency in the matter, because Mr Sobey, as a secured creditor, had been deprived of any interest income generated from the loans because the proceeds of sale were to be paid to the Minter Ellison Trust Account.",
+      "id": "s62"
+    },
+    {
+      "text": "Those solicitors said that they had only been made aware of the mortgage and the loan agreement (provided with their letter of 13 December 2005) when recently provided with a copy of those documents by the former solicitors for Mr Sobey.",
+      "id": "s63"
+    },
+    {
+      "text": "They indicated that they were instructed to file and serve the proposed application promptly.",
+      "id": "s64"
+    },
+    {
+      "text": "21 Mr Sobey's examination took place on 22 December 2005 and was then adjourned.",
+      "id": "s65"
+    },
+    {
+      "text": "As a result of that examination, a request was made by Mr Nicol's solicitors for bank statements relevant to the loan documentation, loan documentation setting out the terms of the advances together with the alleged sales agreement between the parties as deposed to by Mr Sobey, and banking records setting out the receipt of payments by Mr Sobey or entities associated with him of the interest of $20,000 per month in respect of the advances.",
+      "id": "s66"
+    },
+    {
+      "text": "They indicated that an application would be made to the Court if that material was not provided.",
+      "id": "s67"
+    },
+    {
+      "text": "22 On 29 January 2006 Mr Sobey's solicitors responded to that letter asserting that Mr Sobey did not retain any documents in his possession, and enclosing correspondence they had sent to previous firms of solicitors acting for Mr Sobey and his accountants, requesting such information as was available.",
+      "id": "s68"
+    },
+    {
+      "text": "They subsequently wrote to Mr Nicol's solicitors again on 15 February 2006, repeating the assertion about the loans, and the mortgage, and querying whether Mr Nicol was asserting anything other than that he needed to be satisfied as to the actual amounts outstanding to Mr Sobey.",
+      "id": "s69"
+    },
+    {
+      "text": "They indicated that Mr Sobey's accountant had been requested to provide the appropriate schedule of payments and supporting documentation.",
+      "id": "s70"
+    },
+    {
+      "text": "They also said that Mr Sobey's accountant had said that that material had been produced to the Court pursuant to a summons to the accountant, including the original bank statements.",
+      "id": "s71"
+    },
+    {
+      "text": "They re-asserted the instruction to make an application to the Court promptly.",
+      "id": "s72"
+    },
+    {
+      "text": "A further letter 21 February 2006 requested an urgent reply.",
+      "id": "s73"
+    },
+    {
+      "text": "23 The correspondence then generally dealt with the circumstances in which the surplus funds for the sale of the Jerningham Street property came to be paid to the Minter Ellison Trust Account.",
+      "id": "s74"
+    },
+    {
+      "text": "24 By letter of 28 February 2006 the solicitors for Mr Nicol asserted that it was for Mr Sobey to establish his entitlement to all or part of those surplus proceeds, in particular, by establishing the existence of a valid security.",
+      "id": "s75"
+    },
+    {
+      "text": "It added that the material provided by Mr Sobey and the evidence through his examination revealed:\n \n &#8226; the two cheques\n &#8226; the absence of bank statements evidencing the drawing of the cheques;\n &#8226; the absence of evidence that Mr Mercorella received the funds the subject of the cheques;\n &#8226; the absence of the \"two separate loan agreements dated 16 March 2004 and 20 April 2004\" referred to in the letter of 13 December 2005';\n &#8226; the fact that the loan agreement enclosed the letter of 13 December 2005 was undated, save for having a 2005 date, and that it was unexecuted other than by Mr Mercorella; and\n &#8226; the fact that Mr Sobey during his examination said that he had not previously seen that loan agreement, and said that the loans were documented at the time of the advances when he executed a loan agreement and a sales agreement, and said that the loan agreement produced with the letter of 13 December 2005 was not the loan agreement to which he was referring, but that there was a separate document signed by both him and Mr Mercorella.",
+      "id": "s76"
+    },
+    {
+      "text": "That letter also noted that the memorandum of mortgage dated 19 July 2005 apparently signed by Mr Mercorella (but not by Mr Sobey), adopts \"Memorandum No 7678698\", which had not been produced, and that that mortgage document, when put to Mr Sobey during his examination, was one which Mr Sobey said he had not previously seen.",
+      "id": "s77"
+    },
+    {
+      "text": "25 The solicitors for Mr Nicol asserted that Mr Nicol was not satisfied that the mortgage produced was a valid security over the Jerningham Street property and repeated the request for particulars of the amount allegedly said to be owing.",
+      "id": "s78"
+    },
+    {
+      "text": "On 17 March 2006, the request for supporting material referred to in that earlier correspondence was repeated.",
+      "id": "s79"
+    },
+    {
+      "text": "It cannot be said that Mr Sobey was made aware of the matters raised by Mr Nicol on this application only belatedly.",
+      "id": "s80"
+    },
+    {
+      "text": "26 On 12 July 2006, Mr Nicol through his solicitors indicated that he proposed now to deal with the proceeds of sale of the Jerningham Street property on the basis that Mr Sobey had no valid security over it, as no mortgage had been provided in support of the claim.",
+      "id": "s81"
+    },
+    {
+      "text": "27 On 7 August 2006, again as no response had been received, but in the face of a letter of 3 April 2006 indicating that Mr Sobey was pursuing his claim, the proposed application was forwarded to the solicitors for Mr Sobey.",
+      "id": "s82"
+    },
+    {
+      "text": "That at last prompted a response by letter of 11 August 2006 asserting that Mr Sobey maintained his claim of security over the property.",
+      "id": "s83"
+    },
+    {
+      "text": "28 The information provided by Mr Sobey to that point remains the extent of the information provided by him on the present motion.",
+      "id": "s84"
+    },
+    {
+      "text": "THE HEARING: MR SOBEY'S ADJOURNMENT APPLICATION \n \n29 At a directions hearing on 4 September 2006, the Court directed that Mr Sobey, or any other party claiming an interest in the surplus proceeds of sale of the Jerningham Street property, should file and serve an interlocutory application and any affidavit relied upon in support of that application by 25 September 2006.",
+      "id": "s85"
+    },
+    {
+      "text": "Mr Sobey was then represented, and it was indicated that he proposed to oppose the order sought on the motion.",
+      "id": "s86"
+    },
+    {
+      "text": "The application was listed for hearing on 6 November 2006.",
+      "id": "s87"
+    },
+    {
+      "text": "30 Mr Sobey did not comply with that direction by filing any material by 25 September 2006.",
+      "id": "s88"
+    },
+    {
+      "text": "Mr Nicol and Mr Davies (who by then had been joined as a co-plaintiff) then called the matter on for further directions.",
+      "id": "s89"
+    },
+    {
+      "text": "On 12 October 2006 I varied the orders previously made, by fixing 3 November 2006 as the date by which Mr Sobey should file and serve his material and fixing 24 November 2006 as the date for hearing.",
+      "id": "s90"
+    },
+    {
+      "text": "The explanation offered on behalf of Mr Sobey for his failure to file material was that he had been unwell and could not comply with the earlier order.",
+      "id": "s91"
+    },
+    {
+      "text": "It was anticipated that he would be able to comply within the extended time.",
+      "id": "s92"
+    },
+    {
+      "text": "I directed that medical evidence in support of that assertion as to his previous inability to comply with the proposed order should be filed and served also by 3 November 2006.",
+      "id": "s93"
+    },
+    {
+      "text": "31 On 8 November 2006, the solicitors for Mr Sobey filed an affidavit indicating that they had written to a Dr Wright on 4 October 2006 to obtain a report in relation to Mr Sobey's medical condition, and had subsequently followed that request up by letter of 30 October 2006.",
+      "id": "s94"
+    },
+    {
+      "text": "They had also, on 2 November 2006, telephoned the doctor's rooms and were informed that Mr Sobey had arranged to see that doctor on 14 November 2006 for an examination prior to providing any medical report.",
+      "id": "s95"
+    },
+    {
+      "text": "On 3 November 2006, another solicitor in the firm acting for Mr Sobey had deposed to a belief that Mr Sobey had undergone hip replacement surgery in early August 2006, that it had produced severe pain, requiring heavy medication, and that Mr Sobey had therefore found it difficult to provide accurate and detailed instructions in the matter.",
+      "id": "s96"
+    },
+    {
+      "text": "It also referred to Mr Sobey in early September 2006 having suffered complications, namely a blood clot, and after being discharged from hospital was re-admitted on 25 September 2006 with similar complications.",
+      "id": "s97"
+    },
+    {
+      "text": "It was therefore asserted that the \"required documentation for this action\" could not be completed because of the difficulty of obtaining proper instructions from Mr Sobey.",
+      "id": "s98"
+    },
+    {
+      "text": "That affidavit also stated that on 4 October 2006 a letter had been sent to a Dr Mintz requesting a medical report concerning Mr Sobey's condition.",
+      "id": "s99"
+    },
+    {
+      "text": "That report was received by way of letter from Dr Mintz on 5 October 2006.",
+      "id": "s100"
+    },
+    {
+      "text": "32 Dr Mintz's report confirmed that, as at that date, Mr Sobey was in the recovery period after a resurfacing hip replacement done on 10 August 2006.",
+      "id": "s101"
+    },
+    {
+      "text": "It said his recovery had been slowed by a pulmonary embolus in the post-operative period, which required further management in the form of Warfarin, and that Mr Sobey had been re-admitted under a physician after his initial discharge from hospital.",
+      "id": "s102"
+    },
+    {
+      "text": "It indicated that Mr Sobey was then still on pain relieving medication as well as Warfarin to thin his blood after his pulmonary embolus.",
+      "id": "s103"
+    },
+    {
+      "text": "It concluded:\n \n \"It would be reasonable to presume that the pain relieving medication will have some ongoing influence on his concentration span.",
+      "id": "s104"
+    },
+    {
+      "text": "As an estimate, I would assess that Mr Sobey would be well on the road to recovery by the end of November.",
+      "id": "s105"
+    },
+    {
+      "text": "\"\n \n\nThat report does not provide a foundation for any claim that, apart from his periods of hospitalisation, Mr Sobey could not adequately give instructions.",
+      "id": "s106"
+    },
+    {
+      "text": "33 On the morning of the hearing, counsel for Mr Sobey applied to adjourn the hearing.",
+      "id": "s107"
+    },
+    {
+      "text": "He relied upon a further affidavit from a solicitor for Mr Sobey which exhibited a report from Dr Wright dated 20 November 2006.",
+      "id": "s108"
+    },
+    {
+      "text": "34 Dr Wright first saw Mr Sobey in August 2001 to assist in the management of chronic back pain following a fall, and had seen him in the intervening years for prescription of medication and advice on how to manage his lower back pain.",
+      "id": "s109"
+    },
+    {
+      "text": "On 18 April 2004, Mr Sobey had had a left hip resurfacing operation with a good result.",
+      "id": "s110"
+    },
+    {
+      "text": "As his right hip then further deteriorated, on 10 August 2006 Dr Mintz had performed a right resurfacing hip operation.",
+      "id": "s111"
+    },
+    {
+      "text": "Mr Sobey was hospitalised in the orthopaedic ward for one week and then transferred to rehabilitation and discharged on 28 August 2006.",
+      "id": "s112"
+    },
+    {
+      "text": "35 According to the history recorded in Dr Wright's report, on 16 September 2006 Mr Sobey developed shortness of breath and was hospitalised with a diagnosis of pulmonary embolus.",
+      "id": "s113"
+    },
+    {
+      "text": "He was treated with medication.",
+      "id": "s114"
+    },
+    {
+      "text": "Dr Wright saw him for advice on analgesia on 20 September 2006.",
+      "id": "s115"
+    },
+    {
+      "text": "Mr Sobey was discharged from hospital on 25 September 2006.",
+      "id": "s116"
+    },
+    {
+      "text": "However, he was re-admitted on 27 September 2006 with an abscess in the chest wall arising from a needle site for subcutaneous analgesia.",
+      "id": "s117"
+    },
+    {
+      "text": "The abscess was surgically released.",
+      "id": "s118"
+    },
+    {
+      "text": "Following antibiotic treatment, Mr Sobey was discharged on 6 October 2006.",
+      "id": "s119"
+    },
+    {
+      "text": "He has not been hospitalised since.",
+      "id": "s120"
+    },
+    {
+      "text": "36 It does not appear, on the material before the Court, that Mr Sobey thereafter required or had any ongoing medical supervision.",
+      "id": "s121"
+    },
+    {
+      "text": "37 On 14 November 2006 Mr Sobey was examined by Dr Wright.",
+      "id": "s122"
+    },
+    {
+      "text": "Mr Sobey (who has not provided any affidavit in support of his complaints) is recorded as saying that he felt confused, was sweating excessively, had chest pain and difficulty breathing, and was excessively fatigued and worried.",
+      "id": "s123"
+    },
+    {
+      "text": "He said he could not remember everyday things and was distressed by that.",
+      "id": "s124"
+    },
+    {
+      "text": "He said his back pain was worse, his chest felt as if it was \"caving in\", he felt restless and needed to \"get away\".",
+      "id": "s125"
+    },
+    {
+      "text": "Dr Wright noted stressors on Mr Sobey, including worries about his health following his hip operation in August and the complications, as well as family circumstances and having to deal with a complex legal matter.",
+      "id": "s126"
+    },
+    {
+      "text": "38 Dr Wright recorded that the current complaints developed following Mr Sobey's most recent admission to hospital in September/October 2006.",
+      "id": "s127"
+    },
+    {
+      "text": "Apart from observing Mr Sobey being restless and breathing heavily at times during the examination, and apparently not having a good memory for details of recent events, and being anxious, Dr Wright noted that there was no significant abnormality in his speech or conversation and no evidence of thought disorder.",
+      "id": "s128"
+    },
+    {
+      "text": "His physical examination was normal, although palpation of the chest produced significant pain widely in the anterior chest.",
+      "id": "s129"
+    },
+    {
+      "text": "39 Dr Wright diagnosed an adjustment disorder with acute anxiety, caused principally by the right hip re-surfacing operation and its consequential complications, as well as additional stressors.",
+      "id": "s130"
+    },
+    {
+      "text": "40 Dr Wright said that the medications Mr Sobey \"has been prescribed\" are analgesia as Kapanol (oral morphine) 100 mg daily; during the admission beginning 17 September 2006, Clexane, an anti-coagulant, and subsequently oral Warfarin as an anti-coagulant (which he still takes), and antibiotics for chest wall abscess.",
+      "id": "s131"
+    },
+    {
+      "text": "It concluded that Mr Sobey \n \n \" ... has significant anxiety symptoms, with excessive worry, restlessness, fatigue, his mind going blank, muscle tension and sleep disturbance.",
+      "id": "s132"
+    },
+    {
+      "text": "His anxiety is sufficient to cause significant distress, and impairment in his cognitive functioning.",
+      "id": "s133"
+    },
+    {
+      "text": "In my opinion, his anxiety is sufficient to have an effect on his ability to provide you with instructions\".",
+      "id": "s134"
+    },
+    {
+      "text": "41 It continued:\n \n \"In my opinion, your client is not medically fit to provide detailed instructions.",
+      "id": "s135"
+    },
+    {
+      "text": "\"\n \n\nDr Wright has referred Mr Sobey to a psychologist.",
+      "id": "s136"
+    },
+    {
+      "text": "Dr Wright's report said he expected with time and insight about his condition, Mr Sobey would improve and be able to provide instructions in three months.",
+      "id": "s137"
+    },
+    {
+      "text": "He added:\n \n \"I will further discuss with Mr Sobey the likely benefits of taking medication for anxiety, but at this stage Mr Sobey would prefer to manage this condition without the use of medication.",
+      "id": "s138"
+    },
+    {
+      "text": "\"\n \n\n42 Dr Wright is an occupational physician with a medical degree and is a Fellow of the Faculty of Occupational Medicine, Royal Australasian College of Physicians.",
+      "id": "s139"
+    },
+    {
+      "text": "43 I declined the application for an adjournment for the following reasons.",
+      "id": "s140"
+    },
+    {
+      "text": "44 Mr Sobey, as early as 13 December 2005, had given instructions as to the basis upon which he proposed to bring proceedings to assert and establish his entitlement to participate in the surplus funds from the sale of the Jerningham Street property, to the extent of the alleged security he held and the outstanding indebtedness in respect of it.",
+      "id": "s141"
+    },
+    {
+      "text": "Despite his solicitors asserting the instructions to bring such a proceeding on his behalf on 13 December 2005, and despite the extensive correspondence exchanged between the solicitors for Mr Sobey and for Mr Nicol (and later Mr Nicol and Mr Davies) thereafter, those proceedings were never instituted.",
+      "id": "s142"
+    },
+    {
+      "text": "There is no reason to think that Mr Sobey was unable fully to give those instructions at any time up to his initial operation on 10 August 2006, nor indeed, having regard to his solicitors' correspondence, to believe that he had not done so well before, or at least by 10 August 2006.",
+      "id": "s143"
+    },
+    {
+      "text": "Indeed, it is inconsistent with the claim of the solicitors that he had not been able to give those instructions, because they assert that he had, in fact, given those instructions.",
+      "id": "s144"
+    },
+    {
+      "text": "It may be significant that, in the face of Mr Sobey's evidence at his examination on 22 December 2005 (as asserted in the letter from Mr Nicol's solicitors of 28 February 2006), no further detailed provision of material by Mr Sobey occurred.",
+      "id": "s145"
+    },
+    {
+      "text": "45 Secondly, there is ample evidence otherwise available to Mr Sobey to support his claim to have advanced funds to Mr Mercorella on the basis he claims, and that those funds have not been repaid.",
+      "id": "s146"
+    },
+    {
+      "text": "The nature of that evidence was identified on a number of occasions by the solicitors for Mr Nicol in the course of correspondence.",
+      "id": "s147"
+    },
+    {
+      "text": "There is documentary evidence from his bank statements which would demonstrate the withdrawal of the funds said to be the subject of the cheques.",
+      "id": "s148"
+    },
+    {
+      "text": "There is, if Mr Sobey's assertions are correct, documentary evidence to confirm the drawing of two loan agreements in March and April 2004 and the preparation of a mortgage document at that time.",
+      "id": "s149"
+    },
+    {
+      "text": "The solicitors then acting for him, whose names were identified in the course of the communications, could readily (by his waiver of privilege) have produced their own evidence of having received those instructions and having prepared that documentation.",
+      "id": "s150"
+    },
+    {
+      "text": "In addition, Mr Sobey's accountant was also identified as a potential source of information in the course of the communication.",
+      "id": "s151"
+    },
+    {
+      "text": "The fact is that Mr Sobey did not take up any of those opportunities in the eight months or so between the issue first specifically arising and the date of his operation on 10 August 2006.",
+      "id": "s152"
+    },
+    {
+      "text": "There is no explanation by Mr Sobey or on his behalf why no such evidentiary material has not been presented or could not have been presented.",
+      "id": "s153"
+    },
+    {
+      "text": "46 I accept that Mr Sobey was unfit to give instructions for a period of about two weeks from the date of his operation on 10 August 2006 to 28 August 2006 when his hospitalisation was completed.",
+      "id": "s154"
+    },
+    {
+      "text": "There is then a period of a little over two weeks, during which the order was made for his material to be filed and served and during which he could, even then, have given any further instructions which were required.",
+      "id": "s155"
+    },
+    {
+      "text": "There is no evidence that he gave any instructions in that time until his pulmonary embolus on 16 September 2006.",
+      "id": "s156"
+    },
+    {
+      "text": "47 I accept that Mr Sobey was then unfit to give instructions for a period of about two to three weeks between 16 September 2006 and 6 October 2006.",
+      "id": "s157"
+    },
+    {
+      "text": "48 There is then no evidence that he consulted any doctors between 6 October 2006 and 14 November 2006 when he next saw Dr Wright (who had last seen him on 20 September 2006) other than perhaps Dr Mintz up to about 6 October 2006.",
+      "id": "s158"
+    },
+    {
+      "text": "Dr Mintz did not, at the time of that discharge or in his report, suggest any significant psychological problems impairing Mr Sobey's capacity to give instructions and, indeed, his report does not suggest that Mr Sobey was not capable of functioning at such a level as to be incapable of giving instructions in that period of time, at least up to some time prior to 14 November 2006.",
+      "id": "s159"
+    },
+    {
+      "text": "49 Dr Wright's report does not identify precisely when, on Mr Sobey's history, he began to experience the symptoms which led to the diagnosis to which Dr Wright refers.",
+      "id": "s160"
+    },
+    {
+      "text": "50 Senior counsel for Mr Nicol and Mr Davies submitted that Dr Wright's report of 20 November 2006 does not provide a sufficient foundation in any event for adjourning the hearing, either in respect of any difficulty that Mr Sobey had experienced from some time after 6 October 2006 and prior to his actual presentation to Dr Wright on 14 November 2006, or thereafter.",
+      "id": "s161"
+    },
+    {
+      "text": "The point was made that there was no information given to Dr Wright as to the nature of the instructions which might have been required to enable Mr Sobey's case to be presented, and the extent to which, if at all, those instructions had not already been given (as the solicitors asserted as early as 13 December 2005).",
+      "id": "s162"
+    },
+    {
+      "text": "The question upon which Dr Wright was asked to comment was a very broad one.",
+      "id": "s163"
+    },
+    {
+      "text": "It was whether Mr Sobey's medical condition/problem/complications and/or any medications that have been prescribed \"may have an effect on his ability to provide us with instructions as to the action\".",
+      "id": "s164"
+    },
+    {
+      "text": "The nature of the instructions to be required is relatively straightforward.",
+      "id": "s165"
+    },
+    {
+      "text": "It is self-evident from the recital of the nature of the matters in issue, and the past history.",
+      "id": "s166"
+    },
+    {
+      "text": "It was submitted that Dr Wright has not addressed specifically Mr Sobey's inability to give that sort of instruction.",
+      "id": "s167"
+    },
+    {
+      "text": "I agree.",
+      "id": "s168"
+    },
+    {
+      "text": "Moreover, senior counsel submitted that Dr Wright's report should not be given much weight because the solicitors for Mr Nicol and Mr Davies had requested that Mr Sobey's medical records be produced and that request had not been met, and because they had requested Dr Wright to be available for cross-examination, and he was not.",
+      "id": "s169"
+    },
+    {
+      "text": "Of course, I accept that the request for Dr Wright to be available for cross-examination (even by telephone) could only have been made belatedly because of the date of his report, and I am not to be taken as being critical of him for not being available on such short notice for cross-examination.",
+      "id": "s170"
+    },
+    {
+      "text": "However, the fact of the matter is that Mr Sobey was seeking to rely upon his report and the need for him to be cross-examined could readily have been anticipated and arrangements made.",
+      "id": "s171"
+    },
+    {
+      "text": "51 I do not think Dr Wright's report, in all the circumstances, is sufficiently precise to indicate that Mr Sobey was himself or through others unable to identify and produce contemporarily the loan agreement to which Mr Sobey referred, evidence of the payment by him of the money (beyond the copy cheques) by bank statements or similar records, and evidence of the extent to which interest payments had been made.",
+      "id": "s172"
+    },
+    {
+      "text": "There is no allegation that the arrangements between himself and Mr Mercorella were oral, so Mr Sobey's case (as asserted) does not depend upon his version of any particular occasion being given orally.",
+      "id": "s173"
+    },
+    {
+      "text": "Even if he had not completed his instructions prior to 10 August 2006, the nature of what was required of him (and which largely could not have been sought through others in any event) is not shown to have been beyond Mr Sobey except during his periods of hospitalisation.",
+      "id": "s174"
+    },
+    {
+      "text": "52 In addition, there was another reason to question the significance of Dr Wright's views, at least insofar as they support the contention that Mr Sobey's mental functioning and so his capacity to give any instructions has been impaired by taking medication.",
+      "id": "s175"
+    },
+    {
+      "text": "There is no evidence that Warfarin, an anti-coagulant, has any side effects in terms of intellectual functioning.",
+      "id": "s176"
+    },
+    {
+      "text": "There is no suggestion that Mr Sobey is continuing to take antibiotics.",
+      "id": "s177"
+    },
+    {
+      "text": "The evidence demonstrates that in fact from 14 November 2005 Mr Wright was authorised by the Department of Health of South Australia to prescribe controlled release morphine to Mr Sobey, and that the authority to do so had persisted until the end of November 2006.",
+      "id": "s178"
+    },
+    {
+      "text": "That prescription was authorised in 50 mg capsules of one per day.",
+      "id": "s179"
+    },
+    {
+      "text": "It therefore appears that Mr Sobey has been prescribed morphine since about November 2005, and there is no special reason to think that his capacity to give instructions has been impaired more recently by reason of that type of medication, even if he is still taking it.",
+      "id": "s180"
+    },
+    {
+      "text": "53 I note also, as I observed above, that Dr Mintz, the orthopaedic surgeon who apparently saw Mr Sobey at least up to 6 October 2006, did not then observe that he was so dysfunctional intellectually so as to be incapable of giving instructions.",
+      "id": "s181"
+    },
+    {
+      "text": "54 I note the submission of counsel for Mr Sobey that the nature of the application, being an interlocutory one, was not, and should not be treated as an application for final relief, but should be determined upon summary judgment principles.",
+      "id": "s182"
+    },
+    {
+      "text": "That is not the nature of the application.",
+      "id": "s183"
+    },
+    {
+      "text": "It was clearly not so understood by solicitors for Mr Sobey.",
+      "id": "s184"
+    },
+    {
+      "text": "It was an application for a final determination of the issue, made in accordance with the Federal Court (Corporations) Rules 2000 .",
+      "id": "s185"
+    },
+    {
+      "text": "Upon seeking instructions, counsel for Mr Sobey did not persist in any assertion that the solicitors for Mr Sobey, or Mr Sobey, thought that the Court would not proceed on the hearing to finally determine the issue.",
+      "id": "s186"
+    },
+    {
+      "text": "55 It is necessary finally to turn to the determination of the application.",
+      "id": "s187"
+    },
+    {
+      "text": "CONSIDERATION \n \n56 On the evidence, I have come to the view that the surplus funds from the sale of the Jerningham Street property should be paid to Messrs Nicol and Davies in their capacity as joint receivers and managers of the property of Mr Mercorella (and, to the extent to which it is necessary to distinguish between Mr Mercorella and the Scheme, as joint liquidators of the Scheme and of the Scheme companies).",
+      "id": "s188"
+    },
+    {
+      "text": "In my view, Mr Sobey has no entitlement to those funds.",
+      "id": "s189"
+    },
+    {
+      "text": "I am satisfied on the evidence that Mr Sobey is not entitled to participate in any of those funds.",
+      "id": "s190"
+    },
+    {
+      "text": "57 The claim of Mr Nicol and Mr Davies is quite straightforward, given their status as receivers and managers of the property of Mr Mercorella.",
+      "id": "s191"
+    },
+    {
+      "text": "The Jerningham Street property was registered in his name.",
+      "id": "s192"
+    },
+    {
+      "text": "It was sold by the first mortgagee.",
+      "id": "s193"
+    },
+    {
+      "text": "The proceeds of that sale, after payment to discharge the first mortgagee and the expenses of sale, are available as the equity in that property available to Mr Mercorella, and so to the receivers and managers of his property.",
+      "id": "s194"
+    },
+    {
+      "text": "58 The only other potential contender for an interest in those funds is Mr Sobey.",
+      "id": "s195"
+    },
+    {
+      "text": "His interest depends upon him having:\n \n (1) advanced moneys to Mr Sobey of $750,000; and\n (2) having secured that advance by a valid and effective mortgage.",
+      "id": "s196"
+    },
+    {
+      "text": "In my view there is no satisfactory evidence that Mr Sobey advanced such funds to Mr Mercorella.",
+      "id": "s197"
+    },
+    {
+      "text": "The evidence discloses that there are two copy cheques revealing the apparent payment to Mr Mercorella by Mr Sobey of the amounts of $350,000 on 16 March 2004 and $400,000 on 20 April 2004.",
+      "id": "s198"
+    },
+    {
+      "text": "It is unclear that those cheques were ever presented, despite persistent requests for confirmation of those cheques having been presented.",
+      "id": "s199"
+    },
+    {
+      "text": "It should have been possible for Mr Sobey to adduce that evidence.",
+      "id": "s200"
+    },
+    {
+      "text": "I have considered above the ways in which he might have done so.",
+      "id": "s201"
+    },
+    {
+      "text": "It is a documentary trail, and such difficulty as Mr Sobey may have had in providing detailed instructions in more recent times would not impede the proper investigation of an obvious documentary trail and its confirmation, if confirmation were available.",
+      "id": "s202"
+    },
+    {
+      "text": "59 There is no evidence of any mortgage securing the payment of any such advances.",
+      "id": "s203"
+    },
+    {
+      "text": "Mr Sobey's solicitors, by letter of 13 December 2005, asserted an interest in the Jerningham Street property by way of an equitable mortgage.",
+      "id": "s204"
+    },
+    {
+      "text": "Copies of a mortgage document and loan agreements were enclosed.",
+      "id": "s205"
+    },
+    {
+      "text": "I have referred to them above.",
+      "id": "s206"
+    },
+    {
+      "text": "There is no loan agreement dated 19 July 2005, but only an undated loan agreement not signed by Mr Sobey.",
+      "id": "s207"
+    },
+    {
+      "text": "There are no loan agreements as referred to in that letter.",
+      "id": "s208"
+    },
+    {
+      "text": "The caveat lodged by Mr Sobey claims the interest as mortgagee pursuant to a loan agreement dated 19 July 2005 and refers to the interest as granted by way of mortgage pursuant to cl 5 of the loan agreement.",
+      "id": "s209"
+    },
+    {
+      "text": "It does not separately deal with any mortgage.",
+      "id": "s210"
+    },
+    {
+      "text": "The solicitors on 13 December 2005 did produce a mortgage dated 19 July 2005, but it was not signed by Mr Sobey.",
+      "id": "s211"
+    },
+    {
+      "text": "Neither of the loan agreement nor the mortgage then produced accord with the evidence given by Mr Sobey at his examination on 22 December 2005.",
+      "id": "s212"
+    },
+    {
+      "text": "60 I have considered the transcript of that examination carefully.",
+      "id": "s213"
+    },
+    {
+      "text": "Mr Sobey said that the loans, when made, were supported by a documented loan agreement and sales agreement executed by him in respect of the Jerningham Street property, that the memorandum of mortgage dated 19 July 2005 enclosed with his solicitors' letter of 13 December 2005 was not executed by him and is not the mortgage the subject of his caveat, and also is not the basis upon which he asserts an interest in the surplus funds from the sale of the Jerningham Street property.",
+      "id": "s214"
+    },
+    {
+      "text": "He also said that the loan agreement to which he referred in his examination was not the document enclosed with his solicitors' letter of 13 December 2005.",
+      "id": "s215"
+    },
+    {
+      "text": "He said the latter document was not executed by him and is not the loan agreement referred to in the caveat, and also is not the basis upon which he asserts an interest in the surplus funds.",
+      "id": "s216"
+    },
+    {
+      "text": "61 Counsel for Mr Sobey contended that my views about Mr Sobey's evidence at examination (which were put as possible views in the course of argument) were not a proper understanding of Mr Sobey's evidence at that examination.",
+      "id": "s217"
+    },
+    {
+      "text": "I have carefully examined that transcript, in particular pp 25-33 of the examination on 22 December 2005 and pp 16-17 of the transcript of his examination of 28 February 2006, to which I was referred.",
+      "id": "s218"
+    },
+    {
+      "text": "That evidence discloses that Mr Sobey said that he lent $750,000 to Mr Mercorella in March or April 2004, by cheques drawn on the Commonwealth Bank of Australia.",
+      "id": "s219"
+    },
+    {
+      "text": "He obtained copies of those cheques from the bank.",
+      "id": "s220"
+    },
+    {
+      "text": "He said he had tried to get copies of bank statements from the bank to tie the copy cheques to withdrawals on his bank statements, but \"we were unable to identify those cheques\".",
+      "id": "s221"
+    },
+    {
+      "text": "He thought his accountant still had the bank statements.",
+      "id": "s222"
+    },
+    {
+      "text": "62 Mr Sobey further said that the loan of $750,000 was documented \"at the time of the loans\", and that he signed the loan agreement and the sales agreement.",
+      "id": "s223"
+    },
+    {
+      "text": "He explained that the sales agreement provided that, if Mr Mercorella failed to repay the loan or interest on it, Mr Sobey \"would then take possession of\" the Jerningham Street property.",
+      "id": "s224"
+    },
+    {
+      "text": "He said he thought that he had the original loan agreement \"somewhere\", either held by himself or by his accountant, and that that loan agreement had been prepared by his accountant.",
+      "id": "s225"
+    },
+    {
+      "text": "He was shown the loan agreement enclosed with his solicitor's letter of 13 December 2005.",
+      "id": "s226"
+    },
+    {
+      "text": "Mr Sobey said that he did not believe that he had seen that document before.",
+      "id": "s227"
+    },
+    {
+      "text": "In answer to a question whether the loan agreement he had referred to was the same or a different document, he said he thought there was another loan agreement signed, inter alia, by himself.",
+      "id": "s228"
+    },
+    {
+      "text": "He was then shown the solicitors' letter of 13 December 2005 in which that alternative document was enclosed.",
+      "id": "s229"
+    },
+    {
+      "text": "He said:\n \n \"I don't believe that is the correct loan agreement --- the only loan agreement, or the correct loan agreement.",
+      "id": "s230"
+    },
+    {
+      "text": "A further one, I believe.",
+      "id": "s231"
+    },
+    {
+      "text": "...",
+      "id": "s232"
+    },
+    {
+      "text": "This one [produced with the solicitors' letter] was signed by Mr Mercorella, which I doubt his integrity.",
+      "id": "s233"
+    },
+    {
+      "text": "\"\n \n\nHe was subsequently asked and replied:\n \n \"Q.",
+      "id": "s234"
+    },
+    {
+      "text": "So your evidence this afternoon is that this particular loan agreement is not the loan agreement relating to the loans about which you are speaking?",
+      "id": "s235"
+    },
+    {
+      "text": "A.",
+      "id": "s236"
+    },
+    {
+      "text": "Privilege.",
+      "id": "s237"
+    },
+    {
+      "text": "This particular loan agreement is not one that I signed.",
+      "id": "s238"
+    },
+    {
+      "text": "\" \n \n \n \n\nHe then gave evidence that the particular one he signed was signed by himself and Mr Mercorella with two different witnesses on a specified occasion.",
+      "id": "s239"
+    },
+    {
+      "text": "63 Mr Sobey was then asked about the mortgage document also enclosed with the solicitors' letter.",
+      "id": "s240"
+    },
+    {
+      "text": "He could not recall how that document came about.",
+      "id": "s241"
+    },
+    {
+      "text": "He identified the solicitors then acting for him and who were instructed to register his charge on his behalf.",
+      "id": "s242"
+    },
+    {
+      "text": "He also got some legal advice from another solicitor, whom he named.",
+      "id": "s243"
+    },
+    {
+      "text": "That solicitor (he said) was a witness to the original loan agreement to which he had referred.",
+      "id": "s244"
+    },
+    {
+      "text": "Mr Sobey was also shown the memorandum of mortgage enclosed with his solicitors' letter of 13 December 2005.",
+      "id": "s245"
+    },
+    {
+      "text": "He said that he first saw that document \"about 30 seconds ago\" (that is, at the examination).",
+      "id": "s246"
+    },
+    {
+      "text": "He accepted that it was prepared by the solicitors who had prepared the caveat on his behalf.",
+      "id": "s247"
+    },
+    {
+      "text": "He did not recall having signed such a document, or the documents he had signed in relation to a number of matters relating to Mr Mercorella.",
+      "id": "s248"
+    },
+    {
+      "text": "64 In my judgment that transcript does not give rise to any suggestion, as counsel for Mr Sobey submitted, that there was confusion on his part.",
+      "id": "s249"
+    },
+    {
+      "text": "Mr Sobey disavows the loan agreement of 19 July 2005, and the mortgage enclosed with the letter of 13 December 2005.",
+      "id": "s250"
+    },
+    {
+      "text": "He asserts a different means by which he claims to have got security over the Jerningham Street property, namely by a loan agreement in about March or April 2004, and a sales agreement.",
+      "id": "s251"
+    },
+    {
+      "text": "Neither of those documents has been produced.",
+      "id": "s252"
+    },
+    {
+      "text": "65 Accordingly, the evidence does not disclose that Mr Sobey had any interest in the Jerningham Street property at any material time by way of mortgage, even if it be assumed in his favour that he advanced certain moneys to Mr Mercorella in March and April 2004 as he claimed.",
+      "id": "s253"
+    },
+    {
+      "text": "There is simply no document produced which can support his claim to having been granted an equitable mortgage over the Jerningham Street property in about July 2005.",
+      "id": "s254"
+    },
+    {
+      "text": "The documents produced by his solicitors with their letter of 13 December 2005 do not support such an interest, because Mr Sobey disavowed them and they do not accord with his oral description of the documents upon which he asserts such an interest.",
+      "id": "s255"
+    },
+    {
+      "text": "The identification and presentation of the documents upon which Mr Sobey said he relied would have been a straightforward task, and could have been pursued through the professional persons then acting for him.",
+      "id": "s256"
+    },
+    {
+      "text": "That did not happen.",
+      "id": "s257"
+    },
+    {
+      "text": "CONCLUSION \n \n66 For those reasons, in my judgment, Mr Nicol and Mr Davies are entitled to an order that the full amount of monies paid into the Minter Ellison Trust Account, being the surplus funds available from the proceeds of sale of the land comprised in Certificates of Title Volume 5339 Folio 53, Volume 5339 Folio 56, and Volume 5339 Folio 57, being the land situated at 22-32 Jerningham Street, North Adelaide in the State of South Australia be paid to Colin McIntosh Nicol and Samuel Charles Davies in their capacity as joint receivers and managers of the property of Mercorella and the Scheme, and as joint liquidators of the Scheme and the Scheme companies, as the relevant parties entitled to receive such monies.",
+      "id": "s258"
+    },
+    {
+      "text": "I certify that the preceding sixty-six (66) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Mansfield .",
+      "id": "s259"
+    },
+    {
+      "text": "Associate:\n\nDated: 4 December 2006\n\n\n Counsel for the Applicant: M Hoffmann QC \n \n Solicitor for the Applicant: Minter Ellison \n \n Counsel for Mr Sobey: A Lazarevich \n \n Solicitor for Mr Sobey: Robert Chrzaszcz &amp; Associates \n \n Date of Hearing: 24 November 2006 \n \n Date of Judgment: 4 December 2006 \n\n \n\n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2006/1669.html",
+      "id": "s260"
+    }
+  ]
+}

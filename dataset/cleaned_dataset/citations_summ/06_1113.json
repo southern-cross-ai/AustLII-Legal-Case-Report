@@ -1,0 +1,842 @@
+[
+  {
+    "text": "migration",
+    "id": "cp1.0",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "judicial review",
+    "id": "cp1.1",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "migration",
+    "id": "cp2.0",
+    "type": "cited",
+    "from": "[2003]"
+  },
+  {
+    "text": "appeal from a decision of a federal magistrate affirming decision of refugee review tribunal refusing appellant a protection visa",
+    "id": "cp2.1",
+    "type": "cited",
+    "from": "[2003]"
+  },
+  {
+    "text": "where the tribunal made adverse findings regarding the appellant's credibility and substance of his claim without considering the appellant's initial interview with an adviser and an interpreter",
+    "id": "cp2.2",
+    "type": "cited",
+    "from": "[2003]"
+  },
+  {
+    "text": "whether jurisdictional error.",
+    "id": "cp2.3",
+    "type": "cited",
+    "from": "[2003]"
+  },
+  {
+    "text": "administrative law",
+    "id": "cp8.0",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "commissioner to inquire into land claims and report to minister",
+    "id": "cp8.1",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "report to contain recommendation if certain facts found",
+    "id": "cp8.2",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "requirement to comment on detriment to others of acting on recommendation",
+    "id": "cp8.3",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "report made in ignorance of certain material facts",
+    "id": "cp8.4",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "submissions by persons who would be detrimentally affected by recommended action",
+    "id": "cp8.5",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "reference to material facts not known to commissioner",
+    "id": "cp8.6",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "submissions not drawn to minister's attention",
+    "id": "cp8.7",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "whether failure to take relevant consideration into account",
+    "id": "cp8.8",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "administrative decision (judicial review) act 1977 (cth), s. 5(2)(b)",
+    "id": "cp8.9",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "aboriginal land rights (northern territory) act 1976,ss. 11(1), 50(3).  courts",
+    "id": "cp8.10",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "practice and procedure",
+    "id": "cp8.11",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "discretionary judgments",
+    "id": "cp8.12",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "appellate court",
+    "id": "cp8.13",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "functions",
+    "id": "cp8.14",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "allegation of improper exercise of power by minister",
+    "id": "cp8.15",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "discretion to refuse relief",
+    "id": "cp8.16",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "finding of trial judge that exercise not improper",
+    "id": "cp8.17",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "reversed on appeal",
+    "id": "cp8.18",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "exercise of discretion by appellate court",
+    "id": "cp8.19",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "further appeal",
+    "id": "cp8.20",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "grounds on which further appellate court will interfere with intermediate court's exercise of discretion.",
+    "id": "cp8.21",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "migration",
+    "id": "cp9.0",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "application for review of migration review tribunal decision",
+    "id": "cp9.1",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "citizen of sri lanka seeking partner (temporary) (class uk) subclass 820 visa and a partner (residence) (class bs) visa",
+    "id": "cp9.2",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "applicant contends decision of tribunal was affected by jurisdictional error.",
+    "id": "cp9.3",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "migration",
+    "id": "cp10.0",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "review of decision of refugee review tribunal",
+    "id": "cp10.1",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "whether the tribunal failed to address or deal with an aspect of the applicant's claim",
+    "id": "cp10.2",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "whether the tribunal did not deal with a \"very important piece of evidence\"",
+    "id": "cp10.3",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "whether the tribunal overlooked evidence from a psychiatrist",
+    "id": "cp10.4",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "whether the tribunal rejected the applicant's claims because of assertions in a letter received by the tribunal from an unknown person",
+    "id": "cp10.5",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "no jurisdictional error",
+    "id": "cp10.6",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "application dismissed.",
+    "id": "cp10.7",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "migration",
+    "id": "cp11.0",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "review of refugee review tribunal decision",
+    "id": "cp11.1",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "refusal of a protection visa",
+    "id": "cp11.2",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "applicant claiming religious persecution in pakistan",
+    "id": "cp11.3",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "applicant not believed",
+    "id": "cp11.4",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "department and tribunal notified that the applicant showed anxiety symptoms and was unfit to work",
+    "id": "cp11.5",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "applicant attending tribunal hearings",
+    "id": "cp11.6",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "adjournment of hearing",
+    "id": "cp11.7",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "applicant diagnosed after the tribunal decision as suffering post traumatic stress disorder in relation to her experiences in pakistan",
+    "id": "cp11.8",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "neither the applicant nor the tribunal aware of the diagnosis at the time of the tribunal hearings but tribunal on notice of the symptoms",
+    "id": "cp11.9",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "whether the tribunal complied with s.425 considered",
+    "id": "cp11.10",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "tribunal not commenting on a medical assessment of the applicant",
+    "id": "cp11.11",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "whether the tribunal overlooked relevant material considered.  practice and procedure",
+    "id": "cp11.12",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "observations on the appropriateness of a notice disputing facts filed on behalf of the minister.",
+    "id": "cp11.13",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "migration",
+    "id": "cp12.0",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "review of decision of rrt",
+    "id": "cp12.1",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "whether the tribunal overlooked a medical report upon the applicant allegedly corroborative of his claims to have been persecuted",
+    "id": "cp12.2",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "whether such overlooking constituted jurisdictional error.",
+    "id": "cp12.3",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "migration",
+    "id": "cp13.0",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "visa",
+    "id": "cp13.1",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "protection visa",
+    "id": "cp13.2",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "refugee review tribunal",
+    "id": "cp13.3",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "application for review of decision of the rrt affirming a decision of a delegate of the minister not to grant the applicant a protection visa",
+    "id": "cp13.4",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "applicant a citizen of india claiming fear of persecution for reason of political opinion",
+    "id": "cp13.5",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "no reviewable error.",
+    "id": "cp13.6",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "migration",
+    "id": "cp14.0",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "review of decision of refugee review tribunal",
+    "id": "cp14.1",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "tribunal's application of s.91r(3)",
+    "id": "cp14.2",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "whether tribunal had regard to applicant's conduct in assessing credibility",
+    "id": "cp14.3",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "whether s.91r(3) requires \"sole\" or \"dominant\" purpose test",
+    "id": "cp14.4",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "whether tribunal applied \"dominant\" purpose test",
+    "id": "cp14.5",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "tribunal's decision record read fairly",
+    "id": "cp14.6",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "inference drawn that tribunal did not use conduct in australia in making adverse credibility finding",
+    "id": "cp14.7",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "section 91r(3) requires \"sole\" purpose test",
+    "id": "cp14.8",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "tribunal applied \"dominant\" purpose test",
+    "id": "cp14.9",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "jurisdictional error",
+    "id": "cp14.10",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "relief granted.",
+    "id": "cp14.11",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "migration",
+    "id": "cp15.0",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "review of decision of refugee review tribunal",
+    "id": "cp15.1",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "applicants who are minors",
+    "id": "cp15.2",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "seeking impermissible merits review",
+    "id": "cp15.3",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "findings open to the tribunal on what was before it",
+    "id": "cp15.4",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "tribunal did not act unreasonably",
+    "id": "cp15.5",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "whether tribunal erroneously considered s.91r(3)",
+    "id": "cp15.6",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "tribunal did commit jurisdictional error in considering s.91r(3)",
+    "id": "cp15.7",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "error did not deny the applicants procedural fairness",
+    "id": "cp15.8",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "discretion to allow relief not exercised",
+    "id": "cp15.9",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "application dismissed with costs.",
+    "id": "cp15.10",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "migration",
+    "id": "cp16.0",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "review of refugee review tribunal decision",
+    "id": "cp16.1",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "refusal of a protection visa",
+    "id": "cp16.2",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "applicant claiming persecution in china as an underground catholic",
+    "id": "cp16.3",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "applicant not believed",
+    "id": "cp16.4",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "applicant suffering ptsd",
+    "id": "cp16.5",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "psychologist's report available to the tribunal",
+    "id": "cp16.6",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "tribunal considered the report in relation to the applicant's claims of past persecution but not in relation to the reliability of his evidence",
+    "id": "cp16.7",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "jurisdictional error established.",
+    "id": "cp16.8",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "migration",
+    "id": "cp18.0",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "review of refugee review tribunal decision",
+    "id": "cp18.1",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "refusal of a protection (class xa) visa",
+    "id": "cp18.2",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "no reviewable error",
+    "id": "cp18.3",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "application dismissed.",
+    "id": "cp18.4",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "migration",
+    "id": "cp19.0",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "review of decision of the refugee review tribunal",
+    "id": "cp19.1",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "no failure to take into account a relevant consideration",
+    "id": "cp19.2",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "failure to mention a piece of evidence does not constitute jurisdictional error",
+    "id": "cp19.3",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "no requirement to invite applicants to comment about information not specifically about the applicants nor about any other specific person",
+    "id": "cp19.4",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "no failure to accord the applicants procedural fairness at general law",
+    "id": "cp19.5",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "no jurisdictional error",
+    "id": "cp19.6",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "application dismissed.",
+    "id": "cp19.7",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "migration",
+    "id": "cp20.0",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "migration review tribunal",
+    "id": "cp20.1",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "spouse visa",
+    "id": "cp20.2",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "whether s.359a letter identified relevant information",
+    "id": "cp20.3",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "whether s.359a letter adequately explained relevance of information",
+    "id": "cp20.4",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "whether tribunal required to make enquiries",
+    "id": "cp20.5",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "whether tribunal failed to consider relevant material",
+    "id": "cp20.6",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "application allowed.",
+    "id": "cp20.7",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "migration",
+    "id": "cp21.0",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "review of refugee review tribunal decision",
+    "id": "cp21.1",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "refusal of a protection visa",
+    "id": "cp21.2",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "applicant a child claiming persecution in fiji on the basis of his mother's gender, race and religion",
+    "id": "cp21.3",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "failure by the tribunal to consider the cumulative impact of those elements of the claim of persecution",
+    "id": "cp21.4",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "jurisdictional error found.",
+    "id": "cp21.5",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "migration",
+    "id": "cp22.0",
+    "type": "citing",
+    "from": "[2006]"
+  },
+  {
+    "text": "visa",
+    "id": "cp22.1",
+    "type": "citing",
+    "from": "[2006]"
+  },
+  {
+    "text": "protection visa",
+    "id": "cp22.2",
+    "type": "citing",
+    "from": "[2006]"
+  },
+  {
+    "text": "refugee review tribunal",
+    "id": "cp22.3",
+    "type": "citing",
+    "from": "[2006]"
+  },
+  {
+    "text": "application for review of decision of refugee review tribunal affirming decision not to grant protection visa",
+    "id": "cp22.4",
+    "type": "citing",
+    "from": "[2006]"
+  },
+  {
+    "text": "citizen of people's republic of china claiming fear of persecution for reasons of political opinion",
+    "id": "cp22.5",
+    "type": "citing",
+    "from": "[2006]"
+  },
+  {
+    "text": "credibility",
+    "id": "cp22.6",
+    "type": "citing",
+    "from": "[2006]"
+  },
+  {
+    "text": "whether tribunal failed to comply with migration act 1958 (cth), s.424a(1)",
+    "id": "cp22.7",
+    "type": "citing",
+    "from": "[2006]"
+  },
+  {
+    "text": "whether tribunal failed to comply with migration act 1958 (cth), s.430",
+    "id": "cp22.8",
+    "type": "citing",
+    "from": "[2006]"
+  },
+  {
+    "text": "bias",
+    "id": "cp22.9",
+    "type": "citing",
+    "from": "[2006]"
+  },
+  {
+    "text": "apprehended bias",
+    "id": "cp22.10",
+    "type": "citing",
+    "from": "[2006]"
+  },
+  {
+    "text": "allegation of bias",
+    "id": "cp22.11",
+    "type": "citing",
+    "from": "[2006]"
+  },
+  {
+    "text": "actual bias",
+    "id": "cp22.12",
+    "type": "citing",
+    "from": "[2006]"
+  },
+  {
+    "text": "whether tribunal showed bias at the hearing",
+    "id": "cp22.13",
+    "type": "citing",
+    "from": "[2006]"
+  },
+  {
+    "text": "no jurisdictional error.practice &amp; procedure",
+    "id": "cp22.14",
+    "type": "citing",
+    "from": "[2006]"
+  },
+  {
+    "text": "making unfounded allegations of impropriety or bad behaviour against people who disagree with a party's submissions will not find favour in the court.",
+    "id": "cp22.15",
+    "type": "citing",
+    "from": "[2006]"
+  }
+]

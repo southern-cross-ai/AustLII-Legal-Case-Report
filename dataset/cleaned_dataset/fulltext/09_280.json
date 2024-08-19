@@ -1,0 +1,2016 @@
+{
+  "name": "Leonie's Travel Pty Limited v International Air Transport Association [2009] FCA 280 (30 March 2009)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2009/280.html",
+  "catchphrases": [
+    {
+      "text": "claim brought on behalf of travel agents challenging the calculation of commission on airline tickets sold by agents",
+      "id": "c0"
+    },
+    {
+      "text": "whether the agents were entitled to commission on fuel surcharge component of airlines tickets",
+      "id": "c1"
+    },
+    {
+      "text": "construction of contractual documents",
+      "id": "c2"
+    },
+    {
+      "text": "uniform construction of standard form agreements",
+      "id": "c3"
+    },
+    {
+      "text": "whether the court should follow the decision in association of british travel agents ltd and others v british airways plc and others [2000] 2 all er (comm) 204",
+      "id": "c4"
+    },
+    {
+      "text": "whether the applicants are estopped from asserting a right to commission on the fuel surcharge component of airline tickets",
+      "id": "c5"
+    },
+    {
+      "text": "whether the respondent engaged in misleading and deceptive conduct by requiring agents to include the fuel surcharge within the \"taxes, fees and charges\" descriptor on airline tickets",
+      "id": "c6"
+    },
+    {
+      "text": "representative proceedings",
+      "id": "c7"
+    },
+    {
+      "text": "trade practices",
+      "id": "c8"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "INTRODUCTION \n Airline tickets are sold by travel agents on behalf of airlines and regularly have been on the basis that the travel agent would be paid by commission.",
+      "id": "s0"
+    },
+    {
+      "text": "In these proceedings a group of travel agents challenged the calculation of commissions they were paid.",
+      "id": "s1"
+    },
+    {
+      "text": "Central to this dispute is whether the agents were entitled to be paid on the assumption that an amount paid by passengers to a number of airlines as a fuel surcharge should have been called into account when calculating the payments to the agents.",
+      "id": "s2"
+    },
+    {
+      "text": "The airlines have disputed the agents' contention that it should have been.",
+      "id": "s3"
+    },
+    {
+      "text": "These proceedings were commenced as representative proceedings under Part IVA of the Federal Court of Australia Act 1976 (Cth).",
+      "id": "s4"
+    },
+    {
+      "text": "The representative party and applicant is Leonie's Travel Pty Ltd.",
+      "id": "s5"
+    },
+    {
+      "text": "The proceedings have been brought against a number of international airlines, including the second respondent, Qantas Airways Limited.",
+      "id": "s6"
+    },
+    {
+      "text": "On terms that are unnecessary to detail, the parties have agreed that for the purposes of facilitating the determination of questions of liability, the proceedings, for the moment, are to continue against Qantas only.",
+      "id": "s7"
+    },
+    {
+      "text": "Related proceedings have been instituted by another representative party against a more limited group of international airlines.",
+      "id": "s8"
+    },
+    {
+      "text": "From this point I will deal with the applicant's claims as they relate to Qantas only.",
+      "id": "s9"
+    },
+    {
+      "text": "The group on whose behalf the original representative proceedings have been instituted is defined to include any corporation that: \n (a) carries on, or has for a period of time between 11 May 2004 and 9 May 2007, carried on business as a travel agent having for the purposes of that business, its principal place of business within Australia; and \n (b) is, or was for a period of time between 11 May 2004 and 9 May 2007, a party to the PSA Agreement (as that term is defined in the [further amended statement of claim] (\"PSA Agreement\"), accredited by IATA and entered by IATA on the IATA Agency List; and \n (c) at some time during the period 11 May 2004 and 9 May 2007 sold published fares for international air passenger transportation on behalf of each of the second, third and fourth respondents upon which base commission is payable.",
+      "id": "s10"
+    },
+    {
+      "text": "The applicant's claim has proceeded on two bases.",
+      "id": "s11"
+    },
+    {
+      "text": "The first, which is at the forefront of its case, is an alleged breach of contract.",
+      "id": "s12"
+    },
+    {
+      "text": "Its case is that since May 2004, when Qantas introduced a fuel surcharge for international itineraries, Qantas has failed to pay base commission to travel agents on the fuel surcharge component of the ticket price paid by passengers even though it was contractually bound to do so.",
+      "id": "s13"
+    },
+    {
+      "text": "The second, and subsidiary basis, is founded on an allegation that Qantas has contravened s 52 of the Trade Practices Act 1974 (Cth) (TP Act).",
+      "id": "s14"
+    },
+    {
+      "text": "Qantas is said to have breached s 52 by requiring agents to include the fuel surcharge within the \"taxes, fees and charges\" descriptor on airline tickets, when in truth, the fuel surcharge was not a tax, fee or charge.",
+      "id": "s15"
+    },
+    {
+      "text": "Qantas has denied that it is liable on either basis.",
+      "id": "s16"
+    },
+    {
+      "text": "In any event, Qantas has argued that the agents are estopped from asserting an entitlement to any element of commission referable to the fuel surcharge.",
+      "id": "s17"
+    },
+    {
+      "text": "The agent's contract \n The contract governing the relationship between travel agents and Qantas arises from what might loosely be described as publications of the International Air Transport Association (IATA).",
+      "id": "s18"
+    },
+    {
+      "text": "The publications are mostly resolutions passed by IATA's Passenger Agency Conference which takes place once a year.",
+      "id": "s19"
+    },
+    {
+      "text": "IATA members meet to discuss matters relating to the relationship between airlines and recognised passenger sales agents and other intermediaries.",
+      "id": "s20"
+    },
+    {
+      "text": "The Conference also provides a forum for members to meet and determine the rules governing reporting and settlement of sales of airline tickets by travel agents.",
+      "id": "s21"
+    },
+    {
+      "text": "IATA is an organisation based in Canada to which most international airlines belong.",
+      "id": "s22"
+    },
+    {
+      "text": "Qantas is a member.",
+      "id": "s23"
+    },
+    {
+      "text": "IATA publishes, from time to time, a standard form agreement for travel agents to sell airline tickets on behalf of IATA members.",
+      "id": "s24"
+    },
+    {
+      "text": "The agreement engages other documents published by IATA.",
+      "id": "s25"
+    },
+    {
+      "text": "Those documents are published in the IATA Travel Agents Handbook (the Handbook), which is a volume provided to IATA agents originally only in a hardcopy version but now in an electronic version as well.",
+      "id": "s26"
+    },
+    {
+      "text": "The particular airlines on whose behalf tickets can then be sold by the IATA agent is determined by processes that are unnecessary to detail.",
+      "id": "s27"
+    },
+    {
+      "text": "The applicant and Qantas are parties to a written contract that authorised the applicant to sell Qantas's airline tickets.",
+      "id": "s28"
+    },
+    {
+      "text": "The central document is the standard form agreement, the IATA Passenger Sales Agency Agreement (Agency Agreement).",
+      "id": "s29"
+    },
+    {
+      "text": "The form of the Agency Agreement signed by the applicant is that adopted by Resolution 824 of IATA passed on 11 May 1992.",
+      "id": "s30"
+    },
+    {
+      "text": "While various versions of the Agency Agreement have been adopted by IATA during the period to which these proceedings relate, it has not been suggested by the parties that there is any material difference between them or, indeed, other IATA documents that form part of the contract.",
+      "id": "s31"
+    },
+    {
+      "text": "Accordingly, I will only consider in these reasons the Agency Agreement signed by the applicant and the other IATA documents it then engaged save for one observation at the conclusion of par [62].",
+      "id": "s32"
+    },
+    {
+      "text": "The Agency Agreement contains a number of material provisions.",
+      "id": "s33"
+    },
+    {
+      "text": "One is clause 2, which is entitled \"RULES, RESOLUTIONS AND PROVISIONS INCORPORATED IN AGREEMENT\".",
+      "id": "s34"
+    },
+    {
+      "text": "As the title suggests, this clause identifies other IATA documents which contain additional provisions forming part of the contract between the agent and IATA members on whose behalf tickets are sold by the agent.",
+      "id": "s35"
+    },
+    {
+      "text": "Of particular importance is clause 2.1, which is in the following terms: \n 2.1(a) the terms and conditions governing the relationship between the Carrier and the Agent are set forth in the Resolutions (and other provisions derived therefrom) contained in the Travel Agent ' s Handbook (\"the Handbook\") as published from time to time under the authority of the Agency Administrator and attached to this Agreement.",
+      "id": "s36"
+    },
+    {
+      "text": "The Handbook incorporates: \n 2.1(a)(i) the Sales Agency Rules, \n 2.1(a)(ii) the Billing and Settlement Plan rules, where applicable, as set forth in the BSP Manual for Agents, \n 2.1(a)(iii) such local standards as may be provided for under the Sales Agency Rules, \n 2.1(a)(iv) other applicable IATA Resolutions; \n 2.1(b) such Rules, Resolutions and other provisions as amended from time to time are deemed to be incorporated and the Carrier and the Agent agree to comply with them.",
+      "id": "s37"
+    },
+    {
+      "text": "It can be seen that some other IATA documents in the Handbook have been incorporated into the Agency Agreement, including the IATA Passenger Sales Agency Rules (Sales Agency Rules) as well as the IATA Billing and Settlement Plan rules.",
+      "id": "s38"
+    },
+    {
+      "text": "Clause 2.4 of the Agency Agreement deals with the relationship between the express terms of the Agency Agreement and those incorporated by operation of clause 2.1 and provides:\n \n 2.4 the terms and expressions used in this Agreement shall, unless the context otherwise requires, have the meanings respectively provided for in the Sales Agency Rules.",
+      "id": "s39"
+    },
+    {
+      "text": "In the event of any conflict, contradiction or inconsistency between any provisions with which the Agent is required to comply under Subparagraph 2.1 of this Paragraph, and any of the provisions of this Agreement, the provisions of this Agreement shall prevail.",
+      "id": "s40"
+    },
+    {
+      "text": "Clause 3, which is entitled \"Selling Carrier's Services\" provides: \n 3.1 the Agent is authorised to sell air passenger transportation on the services of the Carrier and on the services of other air carriers as authorised by the Carrier.",
+      "id": "s41"
+    },
+    {
+      "text": "The sale of air passenger transportation means all activities necessary to provide a passenger with a valid contract of carriage including but not limited to the issuance of a valid Traffic Document and the collection of monies therefor.",
+      "id": "s42"
+    },
+    {
+      "text": "The Agent is also authorised to sell such ancillary and other services as the Carrier may authorise; \n 3.2 all services sold pursuant to this Agreement shall be sold on behalf of the Carrier and in compliance with Carrier's tariffs, conditions of carriage and the written instructions of the Carrier as provided to the Agent.",
+      "id": "s43"
+    },
+    {
+      "text": "The Agent shall not in any way vary or modify the terms and conditions set forth in any Traffic Document used for services provided by the Carrier, and the Agent shall complete these documents in the manner prescribed by the Carrier; \n 3.3 the Agent shall make only such representations as are authorised in this Agreement and by the Carrier; \n 3.4 with regard to any transportation the Agent, its officers or employees may procure on the services of another air carrier which does not have the Agent under appointment, the Agent undertakes that it will not directly or indirectly procure the sale of such transportation otherwise than strictly in accordance with the fares, rules and conditions applicable to the sale of such transportation as published in that other carrier's tariff; \n 3.5 with respect to previously issued Traffic Documents the Agent, its officers or employees shall issue, accept, reissue, validate or revalidate (including by means of reservation alteration stickers) all such Traffic Documents in accordance with the Carrier's tariffs, conditions of carriage and written instructions; \n 3.6 the Agent shall transmit to the Carrier such specific requests or particulars in connection with each customer as may be necessary to enable the Carrier to service each customer efficiently.",
+      "id": "s44"
+    },
+    {
+      "text": "Clause 7 is entitled \"AUSTRALIA AND GERMANY ONLY --- MONIES DUE BY AGENT TO CARRIERS --- REMITTANCE\" and provides: \n 7.1 on the issue by the Agent of a Traffic Document on behalf of the Carrier, or on the issue by the Agent of its own Transportation Order drawn on the Carrier, the Agent, irrespective of whether it collects a corresponding amount, shall be responsible for payment to the Carrier is headed of the amount payable for the transportation or other service to which the Traffic Document or Transportation Order relates ... \n 7.2 except as otherwise provided in Subparagraph 7.1 of this Paragraph, the Agent shall collect the amount payable for the transportation or other service sold by it on behalf of the Carrier.",
+      "id": "s45"
+    },
+    {
+      "text": "All monies collected by the Agent for transportation and ancillary services sold under this Agreement, including applicable commissions which the Agent is entitled to claim thereunder, shall be the property of the Carrier and shall be held by the Agent in trust for the Carrier or on behalf of the Carrier until satisfactorily accounted for to the Carrier and settlement made.",
+      "id": "s46"
+    },
+    {
+      "text": "The Carrier may, subject to applicable currency regulations, designate the currencies in which remittances are to be made.",
+      "id": "s47"
+    },
+    {
+      "text": "Unless otherwise instructed by the Carrier the Agent shall be entitled to deduct from remittances the applicable commission to which it is entitled hereunder; \n 7.3 the Agent shall remit to the Carrier such monies at such times and under such conditions as the Carrier may designate from time to time in accordance with the provisions of the Sales Agency Rules.",
+      "id": "s48"
+    },
+    {
+      "text": "Clause 9 of the Agency Agreement, entitled \"REMUNERATION\", deals with the issue of agents' remuneration and provides: \n for the sale of air transportation and ancillary services by the Agent under this Agreement the Carrier shall remunerate the Agent in a manner and amount as may be stated from time to time and communicated to the Agent by the Carrier.",
+      "id": "s49"
+    },
+    {
+      "text": "Such remuneration shall constitute full compensation for the services rendered to the Carrier.",
+      "id": "s50"
+    },
+    {
+      "text": "Agents' remuneration is dealt with in more detail in the Sales Agency Rules, which as earlier discussed, forms part of the contract between agents and airlines by virtue of clause 2 of the Agency Agreement.",
+      "id": "s51"
+    },
+    {
+      "text": "Section 9 is important.",
+      "id": "s52"
+    },
+    {
+      "text": "It is entitled \"Conditions for Payment of Commission or Other Remuneration\".",
+      "id": "s53"
+    },
+    {
+      "text": "Sections 9.1, 9.4.1(a) and (b) of the Sales Agency Rules provides: \n 9.1 Commission or other remuneration for the sale of international air passenger transportation paid to Agents shall be as may be authorised from time to time by the Member; provided that the Agent complies with the applicable rules governing sales of the transportation.",
+      "id": "s54"
+    },
+    {
+      "text": "It is recommended that notification of changes to such commission or other remuneration will be given well in advance.",
+      "id": "s55"
+    },
+    {
+      "text": "No commission or other remuneration shall be paid on Miscellaneous Charges Orders unless the air transportation for which they have been issued is specifically described therein.",
+      "id": "s56"
+    },
+    {
+      "text": "... \n\n \n 9.4.1(a) where commission is payable to an Agent, it shall be calculated only on the amount of the fares applicable to the air passenger transportation or charter price paid over to the Member, or to the Clearing Bank under the Billing and Settlement Plan, and collected by the Agent; provided that this shall not prevent commission or other remuneration being paid where such sale is made.",
+      "id": "s57"
+    },
+    {
+      "text": "... \n\n \n 9.4.1(b) the \"fares applicable\" are the fares (including fare surcharges) for the transportation in accordance with the Member's tariffs and shall exclude any charges for excess baggage or excess valuation of baggage as well as all taxes and other charges collected by the Agent.",
+      "id": "s58"
+    },
+    {
+      "text": "The meaning of the phrase \"fares applicable\" is central to the applicant's case.",
+      "id": "s59"
+    },
+    {
+      "text": "The applicant has contended that by operation of section 9.4.1(a), commission is payable on \"the amount of the fares applicable to the air passenger transportation\".",
+      "id": "s60"
+    },
+    {
+      "text": "The applicant has contended, and Qantas has disputed, that the fuel surcharge is a component of the applicable fare for the purposes of calculating commission.",
+      "id": "s61"
+    },
+    {
+      "text": "The Handbook contains a glossary in which terms used in the Handbook are defined.",
+      "id": "s62"
+    },
+    {
+      "text": "The following are relevant: TARIFFS means the published fares, rates, charges and/or related conditions of carriage of a carrier; TARIFFS, FARES means the tariff concerned with fares and related charges; TARIFF, RATES means the tariff concerned with rates and related charges; TARIFF, RULES means the tariff concerned with the general terms and conditions of carriage; FARE, PUBLISHED means a fare, the amount of which is specifically set forth in the carrier's fares tariff; FARE means the amount charged by the carrier for the carriage of a passenger and his allowable free baggage and is the current fare which a Member, in the publication it normally uses to publish fares, holds out to the public, or the appropriate segment of the public, as being applicable to the class of service to be furnished.",
+      "id": "s63"
+    },
+    {
+      "text": "The ticketing process in summary \n Tickets for air travel are issued by or on behalf of airlines.",
+      "id": "s64"
+    },
+    {
+      "text": "The ticketing process (of selling and issuing tickets) by IATA accredited travel agents on behalf of IATA members is carried out in accordance with a number of IATA publications and resolutions.",
+      "id": "s65"
+    },
+    {
+      "text": "The airline issuing a ticket is known as the \"ticketing airline\", the \"issuing airline\" or the \"validating carrier\".",
+      "id": "s66"
+    },
+    {
+      "text": "A ticket may be issued by an airline to a passenger for an itinerary completed wholly with that airline.",
+      "id": "s67"
+    },
+    {
+      "text": "Alternatively, a ticket may be issued by an airline for an itinerary involving travel on that airline as well as on one or more other airlines.",
+      "id": "s68"
+    },
+    {
+      "text": "Many airlines have entered agreements with one another, known as \"interline agreements\".",
+      "id": "s69"
+    },
+    {
+      "text": "These agreements govern the terms and arrangements for the payments between them of monies received by the issuing airline to travel on that airline and another airline or airlines on the same ticket.",
+      "id": "s70"
+    },
+    {
+      "text": "Travel agents subscribe to one of the international ticketing computer systems (known as Computer Reservation Systems (CRS) or Global Distribution Systems (GDS)).",
+      "id": "s71"
+    },
+    {
+      "text": "Examples of these are Galileo, Amadeus and Sabre.",
+      "id": "s72"
+    },
+    {
+      "text": "Qantas uses Amadeus.",
+      "id": "s73"
+    },
+    {
+      "text": "The companies operating GDSs obtain their fares information (and other information relevant to fare construction which is discussed shortly) primarily from an organisation called ATPCO, an acronym for Airline Tariff Publishing Company.",
+      "id": "s74"
+    },
+    {
+      "text": "Airlines inform ATPCO of their tariffs and provide other information.",
+      "id": "s75"
+    },
+    {
+      "text": "This information is used by the GDSs to provide information to agents that enables them to calculate fares and other charges constituting the total cost of the ticket.",
+      "id": "s76"
+    },
+    {
+      "text": "The process of fare construction and related matters \n Fare construction is the process used to determine the amount a passenger will pay to travel on a particular itinerary.",
+      "id": "s77"
+    },
+    {
+      "text": "Fare construction is carried out in accordance with various IATA rules.",
+      "id": "s78"
+    },
+    {
+      "text": "The process for constructing a fare for a passenger is as follows.",
+      "id": "s79"
+    },
+    {
+      "text": "The first step is for the agent to determine the passenger's required itinerary, date or dates of travel and the airline with which the passenger wishes to fly.",
+      "id": "s80"
+    },
+    {
+      "text": "The agent then enters the itinerary in the relevant GDS.",
+      "id": "s81"
+    },
+    {
+      "text": "The agent then has the choice of either constructing the fare manually, or having the GDS construct it electronically.",
+      "id": "s82"
+    },
+    {
+      "text": "If the agent decides to have the GDS electronically construct the fare the GDS will automatically provide the agent with the best fare available.",
+      "id": "s83"
+    },
+    {
+      "text": "The GDS will follow the same steps (outlined below) the agent would follow were the agent to manually construct the fare.",
+      "id": "s84"
+    },
+    {
+      "text": "Where an agent manually constructs a fare a number of steps must be followed.",
+      "id": "s85"
+    },
+    {
+      "text": "After entering the requested itinerary in the GDS, the agent commences the process of fare construction by referring to the relevant fares tariff and the relevant rules tariff that apply.",
+      "id": "s86"
+    },
+    {
+      "text": "The fares tariff identifies published fares for a particular journey and the rules tariff identifies the rules that will apply.",
+      "id": "s87"
+    },
+    {
+      "text": "Some rules require payment of additional sums arising from or related to a particular feature of the travel the passenger proposes to take on a particular itinerary.",
+      "id": "s88"
+    },
+    {
+      "text": "Both the rules tariff and the fares tariff, which apply to Qantas when it is the issuing airline, are provided by Qantas to Amadeus via ATPCO.",
+      "id": "s89"
+    },
+    {
+      "text": "The word tariff is a term of art defined in the Handbook as set out at par [13] above.",
+      "id": "s90"
+    },
+    {
+      "text": "The following steps are then undertaken: The airline industry uses what are known as \"designator\" codes to characterise certain amounts which are components of the amount payable for a ticket.",
+      "id": "s91"
+    },
+    {
+      "text": "IATA produces a document entitled the Ticketing Handbook.",
+      "id": "s92"
+    },
+    {
+      "text": "The Handbook includes detailed instructions for issuing tickets based on applicable IATA Passenger Service Conference Resolutions relating to tickets and ticketing procedures.",
+      "id": "s93"
+    },
+    {
+      "text": "Particular designator codes are used to designate various \"taxes, fees and charges\" which are collected by the airline and passed on to third parties (for example, government authorities).",
+      "id": "s94"
+    },
+    {
+      "text": "Other designator codes are used (and in relation to these codes, must be used) by airlines to designate fare surcharges that are collected by an airline and relate to the fare for the particular journey to be undertaken by the passenger.",
+      "id": "s95"
+    },
+    {
+      "text": "Another group of designator codes, known as \"airline own use only\" codes, are used by an airline to designate other surcharges or levies that are collected by the airline for its benefit only.",
+      "id": "s96"
+    },
+    {
+      "text": "Of significance in the present proceedings are \"airline own use only\" codes, and in particular, the \"YQ\" code.",
+      "id": "s97"
+    },
+    {
+      "text": "Another \"airline own use only\" code is the \"YR\" code.",
+      "id": "s98"
+    },
+    {
+      "text": "The use of a YQ or a YR code has a significant bearing on the process of fare construction.",
+      "id": "s99"
+    },
+    {
+      "text": "Charges with those codes do not form part of the amount said to be the \"fare\" as displayed on a ticket.",
+      "id": "s100"
+    },
+    {
+      "text": "They are recorded as a component of the \"taxes, fees, charges\" on the ticket.",
+      "id": "s101"
+    },
+    {
+      "text": "The distinction between fare surcharges and charges coded as YQ or YR, is that a fare surcharge is, uncontroversially, an integral part of the fare for the journey, and is often related to a rule (found in the rules tariff) that attaches to the fare.",
+      "id": "s102"
+    },
+    {
+      "text": "In contrast to a code used to designate a fare surcharge, an \"airline own use only\" code, such as YQ or YR, if applied in an orthodox way, will designate an amount that will not form part of the fare for certain purposes, including interlining.",
+      "id": "s103"
+    },
+    {
+      "text": "From time to time airlines, including Qantas, have used the YQ and YR codes for various charges, including an insurance surcharge, credit card surcharge and ticket change fees.",
+      "id": "s104"
+    },
+    {
+      "text": "It is common ground that in order to collect the fuel surcharge it introduced in May 2004, Qantas decided to use the YQ designator code.",
+      "id": "s105"
+    },
+    {
+      "text": "Its decision to do so, and decisions of other airlines to do likewise, was not free from controversy, even within IATA.",
+      "id": "s106"
+    },
+    {
+      "text": "However, it is unnecessary to resolve, in these proceedings, whether this use of the YQ code was unambiguously authorised by IATA rules.",
+      "id": "s107"
+    },
+    {
+      "text": "The use of an \"airline own use only\" code (such as YQ or YR) has among other things, the effect that the amount the code designates is not interlineable.",
+      "id": "s108"
+    },
+    {
+      "text": "That is, it is not distributed among the airlines on the ticket where there are multiple airlines.",
+      "id": "s109"
+    },
+    {
+      "text": "If a ticket is issued by another airline involving travel not only on that airline but on an airline as well, any charge collected by the issuing airline under the code YQ (or YR) will be received wholly by the issuing airline with no obligation (except by specific bilateral agreement) to pass on any of it to the other airline on which the passenger may travel.",
+      "id": "s110"
+    },
+    {
+      "text": "Charges that otherwise form part of the fare, in respect of interline tickets, are distributed on a pro-rata basis to the airlines on which the passenger travels.",
+      "id": "s111"
+    },
+    {
+      "text": "In order to safely capture a particular charge at a pre-determined fixed value so that it can be retained by the issuing airline, the relevant charge must be designated by an \"airline own use only\" code to isolate it from the interline distribution process.",
+      "id": "s112"
+    },
+    {
+      "text": "In the past, agents issued both paper tickets and electronic tickets.",
+      "id": "s113"
+    },
+    {
+      "text": "From 31 May 2008, only electronic tickets have been issued by most IATA agents.",
+      "id": "s114"
+    },
+    {
+      "text": "However, agents issued both forms of ticket in the period to which this litigation relates, namely 11 May 2004 and following.",
+      "id": "s115"
+    },
+    {
+      "text": "An example of a standard paper ticket is annexure A to these reasons.",
+      "id": "s116"
+    },
+    {
+      "text": "The ticket, which was issued on 4 November 2004, was for travel on Qantas between Sydney and Tokyo.",
+      "id": "s117"
+    },
+    {
+      "text": "Towards the middle of the ticket there are two boxes, one entitled \"Fare\", the other \"Fare Calculation\".",
+      "id": "s118"
+    },
+    {
+      "text": "The items that appear in the \"Fare Calculation\" box are the airline's fare component for the particular segments to be flown on the identified airline (or airlines).",
+      "id": "s119"
+    },
+    {
+      "text": "Each segment is identified by an airline's designator code (QF in the case of Qantas).",
+      "id": "s120"
+    },
+    {
+      "text": "Any fare surcharges applicable to a particular fare will also be included in the Fare Calculation box.",
+      "id": "s121"
+    },
+    {
+      "text": "Relevant fare surcharges that appear in the Fare Calculation box are surcharges that apply to the particular fare.",
+      "id": "s122"
+    },
+    {
+      "text": "A common example of a fare surcharge is what is known as a mileage surcharge.",
+      "id": "s123"
+    },
+    {
+      "text": "This may apply if the particular fare is a fare governed by the mileage system, as opposed to the route system.",
+      "id": "s124"
+    },
+    {
+      "text": "A mileage based fare is available when the travel is within a maximum mileage, for example, 13,222 miles from Sydney to London.",
+      "id": "s125"
+    },
+    {
+      "text": "A mileage fare from Sydney to London would be available (generally speaking) no matter what route was taken to get from Sydney to London as long as it fell within the stated mileage.",
+      "id": "s126"
+    },
+    {
+      "text": "A route-based fare is a fare which is determined by reference to the route flown.",
+      "id": "s127"
+    },
+    {
+      "text": "Another example of a type of surcharge is, as mentioned earlier, the higher class differential.",
+      "id": "s128"
+    },
+    {
+      "text": "The higher class differential surcharge is designated by the letter \"D\" in the Fare Calculation box.",
+      "id": "s129"
+    },
+    {
+      "text": "Annexure A does not include any fare surcharges.",
+      "id": "s130"
+    },
+    {
+      "text": "The amounts in the \"Fare Calculation\" box are totalled and appear as a bold figure at the right hand side of the box next to the code NUC.",
+      "id": "s131"
+    },
+    {
+      "text": "That figure is a monetary artifice in units that are called neutral units of currency.",
+      "id": "s132"
+    },
+    {
+      "text": "The NUC is multiplied by what is known as the \"ROE\".",
+      "id": "s133"
+    },
+    {
+      "text": "The ROE is the applicable IATA rate of exchange, which converts the amounts into local currency.",
+      "id": "s134"
+    },
+    {
+      "text": "In annexure A the total of the amounts in the \"Fare Calculation\" box (that is, the NUC) is $5117.24.",
+      "id": "s135"
+    },
+    {
+      "text": "When the amount of $5117.24 is multiplied by the ROE (which is 1.444329), the resulting amount is $7391.00 (rounded up to the nearest dollar).",
+      "id": "s136"
+    },
+    {
+      "text": "Thus the amount of $7391.00 appears in the \"Fare\" box.",
+      "id": "s137"
+    },
+    {
+      "text": "Also on a paper ticket is the box or entry that refers to \"taxes fees and charges\".",
+      "id": "s138"
+    },
+    {
+      "text": "It is common for a number of taxes, fees or charges to be collected from the passenger at the time the ticket is issued.",
+      "id": "s139"
+    },
+    {
+      "text": "To the extent that these represent monies payable to third parties, for example governments, airports or other airline authorities, they are paid to the third parties.",
+      "id": "s140"
+    },
+    {
+      "text": "A sample \"E-Ticket Itinerary and Receipt\" is annexure B to these reasons.",
+      "id": "s141"
+    },
+    {
+      "text": "There is no breakdown of the \"Fare\".",
+      "id": "s142"
+    },
+    {
+      "text": "That is, there is no equivalent to the \"Fare Calculation\" box on paper tickets.",
+      "id": "s143"
+    },
+    {
+      "text": "Similarly, E-Tickets do not display the codes that designate the various fees and charges that are collected.",
+      "id": "s144"
+    },
+    {
+      "text": "All the data relating to the passenger's itinerary, fare, class, payment and other matters is stored electronically in the database of the issuing airline, with only some of the information recorded on the passenger's E-Ticket Itinerary and Receipt.",
+      "id": "s145"
+    },
+    {
+      "text": "The process of payment to and by an agent\n An agent is paid or receives base commission on a ticket it sells.",
+      "id": "s146"
+    },
+    {
+      "text": "Base commission is commission paid under the Agency Agreement.",
+      "id": "s147"
+    },
+    {
+      "text": "Other commission might be paid under other contractual arrangements, including arrangements related to franchise agreements.",
+      "id": "s148"
+    },
+    {
+      "text": "Payment of base commission results from the agent withholding an amount that represents the commission from the total amount it receives from the passenger for the purchase of the ticket.",
+      "id": "s149"
+    },
+    {
+      "text": "The remainder is remitted to the airline on whose behalf a ticket has been issued.",
+      "id": "s150"
+    },
+    {
+      "text": "There is, however, a procedure for dealing with disputes relating to the amounts remitted and retained.",
+      "id": "s151"
+    },
+    {
+      "text": "Clause 7 of the Agency Agreement is set out earlier in these reasons (at [9]).",
+      "id": "s152"
+    },
+    {
+      "text": "The general effect of clause 7.1 is that once an agent issues a ticket on behalf of an airline, the agent is responsible for remitting the requisite amount to the airline on whose behalf a ticket had been issued, regardless of whether the agent has actually been paid.",
+      "id": "s153"
+    },
+    {
+      "text": "Clause 7.2 provides that once an agent receives payment, the agent is required to hold the money on trust until settlement is made with the airline and remit the money on settlement while retaining an amount as remuneration.",
+      "id": "s154"
+    },
+    {
+      "text": "The way in which the monies collected by the travel agent are accounted for, and the way in which settlement is made with an airline, is governed by the IATA billing settlement plan (BSP).",
+      "id": "s155"
+    },
+    {
+      "text": "The following is an uncontroversial account of this process taken from Qantas's submission.",
+      "id": "s156"
+    },
+    {
+      "text": "The BSP is a centralised method of recording and accounting for the transactions in which tickets are issued by travel agents and paid for by passengers and for the subsequent remittance of the monies to airlines through what it known as a clearing bank.",
+      "id": "s157"
+    },
+    {
+      "text": "The BSP operates in the following way.",
+      "id": "s158"
+    },
+    {
+      "text": "At the end of each reporting period, which is generally a week, the agent prepares an \"agency sales transmittal form\" that covers all sales for that period.",
+      "id": "s159"
+    },
+    {
+      "text": "The completed form is forwarded to IATA's BSP data processing centre, which then produces a billing statement for each agent and processes and records all ticket and payment details from the agent's sales transmittal form.",
+      "id": "s160"
+    },
+    {
+      "text": "The billing statement records the \"commissionable fare\" in respect of each ticket issued, the amount of commission payable on each ticket, as well as the relevant taxes that are to be collected by the airline.",
+      "id": "s161"
+    },
+    {
+      "text": "The amount payable by reference to a particular billing statement is paid by the agent the following week.",
+      "id": "s162"
+    },
+    {
+      "text": "The introduction of the fuel surcharge \n The fuel surcharge to which these proceedings relate was introduced by Qantas in May 2004 in relation to international itineraries and domestic itineraries.",
+      "id": "s163"
+    },
+    {
+      "text": "It was introduced to compensate for the escalating cost of fuel.",
+      "id": "s164"
+    },
+    {
+      "text": "When introduced, agents were informed by Qantas that base commission would be paid on the fuel surcharge for Australian domestic itineraries only.",
+      "id": "s165"
+    },
+    {
+      "text": "Qantas directed that the fuel surcharge be shown under the YQ code in the taxes, fees and charges box.",
+      "id": "s166"
+    },
+    {
+      "text": "Given that the purpose of the fuel surcharge was to mitigate the rapid escalation of global fuel prices, and given Qantas's desire to remove or reduce the fuel surcharge once fuel prices returned to reasonable levels, the use of the YQ code was, as Qantas would have it, the most appropriate and transparent way of dealing with the expense.",
+      "id": "s167"
+    },
+    {
+      "text": "Qantas's position is that the use of the YQ code afforded greater flexibility in the ticketing process, given that it became a simple matter to adjust the YQ code, whether by increasing or decreasing the amount attributable to that code.",
+      "id": "s168"
+    },
+    {
+      "text": "The increase or decrease could be effected and conveyed to agents and the various air travel computer reservation systems (GDSs) rapidly, unlike attempting to vary the fuel surcharge had it been implemented as a fare surcharge.",
+      "id": "s169"
+    },
+    {
+      "text": "As noted earlier, it is unnecessary to determine whether the use of the YQ code by Qantas for the fuel surcharge is consistent with, or authorised by, IATA procedures and processes.",
+      "id": "s170"
+    },
+    {
+      "text": "Consideration\n Underpinning the applicant's contractual claim is the reasoning of the England and Wales Court of Appeal in Association of British Travel Agents Ltd and others v British Airways plc and others [2000] 2 All ER (Comm) 204, a case that in part involved an analysis of the phrase \"fares applicable\" in a clause that is the equivalent of section 9.4.1(b) of the Passenger Sales Rules.",
+      "id": "s171"
+    },
+    {
+      "text": "The UK rules were derived from IATA resolution 814 passed on 17 January 1990 (UK Sales Agency Rules).",
+      "id": "s172"
+    },
+    {
+      "text": "It is convenient to deal with this authority at the outset.",
+      "id": "s173"
+    },
+    {
+      "text": "The leading judgment was delivered by Clarke LJ.",
+      "id": "s174"
+    },
+    {
+      "text": "The facts of the case are as follows.",
+      "id": "s175"
+    },
+    {
+      "text": "Shortly stated, various travel agents had each entered into a standard form agreement with IATA (in substance, an agreement equivalent to the Sales Agency Agreement (UK Agency Agreement)), to which a number of airlines (including British Airways plc) were also parties.",
+      "id": "s176"
+    },
+    {
+      "text": "As in the present case, several documents were incorporated into the UK Agency Agreement, including the UK Sales Agency Rules.",
+      "id": "s177"
+    },
+    {
+      "text": "The sections of the UK Sales Agency Rules dealing with agents' remuneration provided: \n \n 9.1.",
+      "id": "s178"
+    },
+    {
+      "text": "RATE OF COMMISSION \n commission paid to Agents for the sale of international air passenger transportation shall be as may be authorised from time to time by the Member, provided that the Agent complies with the applicable rules governing sales of the transportation ... \n 9.2 AUTHORITY TO PAY COMMISSION \n Agents duly appointed by the Member shall be paid commission for the sale of international air passenger transportation.",
+      "id": "s179"
+    },
+    {
+      "text": "9.3 INTERLINE SALES \n the amount of fare on which commission shall be computed may include interline passenger transportation over the services of other Members with which the Agent's principal as an interline traffic agreement... \n 9.4 CONDITION FOR PAYING COMMISSION \n 9.4.1 commission shall be paid to an Agent on the amount of the fares applicable to the air passenger transportation or charter price paid over to the Member... \n 9.4.2 The \"fares applicable\" are the fares (including fare surcharges) for the transportation in accordance with the Member's tariffs and shall exclude any charges for excess baggage or excess valuation of baggage as well as all taxes and other charges collected by the Agent.",
+      "id": "s180"
+    },
+    {
+      "text": "The proceedings arose out of the way in which the airlines proposed to treat what was known as the Passenger Service Charge (PSC) in calculating agents' commission.",
+      "id": "s181"
+    },
+    {
+      "text": "The PSC was a charge imposed, at the time of the litigation, by BAA plc, a private entity that owned and operated several airports in the United Kingdom.",
+      "id": "s182"
+    },
+    {
+      "text": "The PSC was one of a number of charges levied on airlines for use of the airport.",
+      "id": "s183"
+    },
+    {
+      "text": "It had been introduced in 1972 and, until 1999, had not been treated differently from other user charges and treated as part of the airlines' overheads.",
+      "id": "s184"
+    },
+    {
+      "text": "As Clarke LJ noted, it was an overhead that the airlines no doubt sought to meet out of revenue, including ticket sales.",
+      "id": "s185"
+    },
+    {
+      "text": "However, in February 1999, IATA instructed the agents to show the PSC as a tax on tickets.",
+      "id": "s186"
+    },
+    {
+      "text": "At the same time, the airlines communicated to the agents that the PSC was to be shown as a separate entry on airline tickets and as a tax.",
+      "id": "s187"
+    },
+    {
+      "text": "In May 1999, IATA issued another communication stating that the PSC did \"not form part of the fares applicable to the air passenger transportation for the purposes of the calculation of commission\".",
+      "id": "s188"
+    },
+    {
+      "text": "The agents submitted both to the primary judge, and in the Court of Appeal, that the PSC ought to be treated as part of the fare for the purposes of commission.",
+      "id": "s189"
+    },
+    {
+      "text": "The ultimate conclusion of Clarke LJ (at 214 [32]) was that the phrase \"fares applicable\" should be construed as the \"total price to the passenger, including charges like [the] PSC.",
+      "id": "s190"
+    },
+    {
+      "text": "\" However, in order to understand this conclusion, it is necessary to examine the submissions that were made to the Court of Appeal.",
+      "id": "s191"
+    },
+    {
+      "text": "As will become apparent, Clarke LJ placed considerable emphasis on the fact that the consumer would have little concern for how a fare is broken down as between \"fares\", \"taxes\" or \"charges\", but only with the total amount the consumer must pay for a particular flight.",
+      "id": "s192"
+    },
+    {
+      "text": "The airlines submitted that \"fares applicable\" only comprehended \"fares for the transportation in accordance with their tariffs\", and that the airlines' tariffs, which can vary at short notice, can be seen at any time from the information disseminated to travel agents on their Galileo computer system (which is one of the main GDS computer systems).",
+      "id": "s193"
+    },
+    {
+      "text": "The information on the GDS was substantially the same as that shown on the tickets following the instruction in February 1999.",
+      "id": "s194"
+    },
+    {
+      "text": "According to the airlines, there was no basis for holding that the PSC was part of the \"fares for the transportation in accordance with the Member's tariffs\" and that it followed that the agents were only entitled to commission on the fare expressly stated on the ticket.",
+      "id": "s195"
+    },
+    {
+      "text": "In considering the issue, Clarke LJ said that the correct approach in the circumstances of the case was to construe the relevant contractual provisions in the context of the contract as a whole, and to consider the contract as a whole against the surrounding factual matrix.",
+      "id": "s196"
+    },
+    {
+      "text": "His Lordship said (at 213) [29]) that the surrounding circumstances or factual matrix \"include[d] a consideration of the way in which the PSC ha[d] been considered in the past\".",
+      "id": "s197"
+    },
+    {
+      "text": "Significantly, this was the only element of the surrounding factual matrix referred to in the judgment.",
+      "id": "s198"
+    },
+    {
+      "text": "For my part, I think the circumstances in which the issue arose for consideration was a material factor that influenced the construction adopted by the Court of Appeal.",
+      "id": "s199"
+    },
+    {
+      "text": "Put simply, for almost three decades the airlines had been prepared to pay the PSC out of revenue and, in all likelihood, that included revenue generated by ticket sales and the airlines had not denied the agents the benefit of the element in the sale price reflecting the PSC for the purposes of calculating the agents' commission.",
+      "id": "s200"
+    },
+    {
+      "text": "The litigation appears to have been a direct result of a unilateral change to these arrangements by the airlines.",
+      "id": "s201"
+    },
+    {
+      "text": "It is not difficult to view what the airlines were seeking to achieve as inherently unjust.",
+      "id": "s202"
+    },
+    {
+      "text": "A construction that avoided that injustice would have doubtless been an attractive one.",
+      "id": "s203"
+    },
+    {
+      "text": "That feature is not an aspect of the factual matrix in the present case.",
+      "id": "s204"
+    },
+    {
+      "text": "In the result, Clarke LJ was of the view that the expression \"fares applicable\" should not be given too narrow a meaning, and his Lordship concluded that in the airline industry, the word \"fare\" did not simply focus on its meaning as between the airline and travel agent, but on its meaning as between the airlines and the passenger.",
+      "id": "s205"
+    },
+    {
+      "text": "As Clarke LJ said (at 214 [31]): \n \n Airlines publish their fares in a number of ways, including in the press.",
+      "id": "s206"
+    },
+    {
+      "text": "It appears to me that (albeit no doubt with some exceptions) the ordinary passenger is only interested in the overall cost to him of getting from A to B, which he or she would regard as the fare.",
+      "id": "s207"
+    },
+    {
+      "text": "The passenger is not concerned with how that fare is broken down as between 'fare', 'tax' or 'charges', but only with the total price.",
+      "id": "s208"
+    },
+    {
+      "text": "His Lordship then turned to the question of which items were excluded from the \"fare\" for the purpose of the calculation of commission, with the answer to the question turning on the meaning of the words \"and shall exclude any charges for excess baggage or excess valuation of baggage as well as all taxes and other charges collected by the Agent\".",
+      "id": "s209"
+    },
+    {
+      "text": "In the result, Clarke LJ concluded (at 214 [36]) that \"the taxes and charges were not intended to refer to contractual charges levied on the airlines by owners or operators of airports, but to refer to taxes and charges imposed by the appropriate government authority\".",
+      "id": "s210"
+    },
+    {
+      "text": "The Court of Appeal also considered another issue that is relevant to these proceedings, namely whether the airlines could exercise their rights (and whether in fact they had exercised them) under clause 9 of the UK Agency Agreement, with the result that they were no longer required to pay commission on the PSC after they had notified the agents that the PSC did not form part of the \"fares applicable\" for the purposes of the calculation of commission.",
+      "id": "s211"
+    },
+    {
+      "text": "Clause 9 of the UK Agency Agreement provided: \n 9.",
+      "id": "s212"
+    },
+    {
+      "text": "REMUNERATION \n for the sale of air transportation and ancillary services by the Agent under this Agreement the Carrier shall remunerate the Agent in a manner and amount as may be stated from time to time and communicated to the Agent by the Carrier.",
+      "id": "s213"
+    },
+    {
+      "text": "Such remuneration shall constitute full compensation for the services rendered to the Carrier.",
+      "id": "s214"
+    },
+    {
+      "text": "The airlines submitted that this provision gave the airlines power to alter the agents' contractual rights to remuneration in any way they liked.",
+      "id": "s215"
+    },
+    {
+      "text": "Thus, for example, they could state at any time that the agents would no longer be paid on a commission basis but on a flat-rate basis.",
+      "id": "s216"
+    },
+    {
+      "text": "It followed, they submitted, that they could at any time alter the basis of the agents' remuneration.",
+      "id": "s217"
+    },
+    {
+      "text": "Lord Justice Clarke rejected this submission.",
+      "id": "s218"
+    },
+    {
+      "text": "First, his Lordship found that no notice had been given.",
+      "id": "s219"
+    },
+    {
+      "text": "While it was strictly unnecessary to do so, he also addressed the question of what contractual rights, if any, were conferred by clause 9 of the UK Agency Agreement.",
+      "id": "s220"
+    },
+    {
+      "text": "His Lordship concluded (at 217 [49]) that section 9 of the UK Sales Agency Rules (referred to above at [35]) contained detailed provisions as to the payment of commission that clearly conferred contractual rights upon both parties.",
+      "id": "s221"
+    },
+    {
+      "text": "Under section 9.1, the airlines were afforded the right to change the rate of commission, which they had done from time to time, while under section 9.2, agents were given the right to be paid commission.",
+      "id": "s222"
+    },
+    {
+      "text": "The conditions for the payment of commission were set out in detail in section 9.4.",
+      "id": "s223"
+    },
+    {
+      "text": "Nevertheless, the airlines contended that they could justify a reduction in commission by reliance on clause 9 of the UK Agency Agreement on the basis that the clause gave them the right to vary the rights and obligation of the parties set out in sections 9.2 and 9.4 of the UK Sales Agency Rules.",
+      "id": "s224"
+    },
+    {
+      "text": "Lord Justice Clarke rejected the airlines' argument that paragraph 9 of Resolution 824 (which brought into effect clause 9 of the UK Agency Agreement) had such an effect.",
+      "id": "s225"
+    },
+    {
+      "text": "His Lordship said (at 127 [51]): \n \n [p]aragraph 9 is not drafted in terms which suggest that it was intended to give the airlines unilateral rights to alter the rights and obligations of the parties in other resolutions contained in the handbook such as Resolution 814.",
+      "id": "s226"
+    },
+    {
+      "text": "It merely states that the airline shall remunerate the agent in such a manner and amount as may be stated from time to time and communicated to the agent.",
+      "id": "s227"
+    },
+    {
+      "text": "In my judgment, that provision should be construed together with resolutions such as Resolution 814 and not as entitling the carrier to change Resolution 814.",
+      "id": "s228"
+    },
+    {
+      "text": "Any such change would have to be achieved by the machinery expressly provided in para 2.4 of Resolution 824.",
+      "id": "s229"
+    },
+    {
+      "text": "Thus the airlines cannot use para 9 to state some remuneration calculated on some basis inconsistent with the rights of the agents conferred upon them by Resolution 814.",
+      "id": "s230"
+    },
+    {
+      "text": "It follows that, even if my view of the meaning of the letter of 14 May were held to be wrong, I would hold that the airlines were not entitled to reduce the commission payable under section 9.2 of Resolution 814 by making a statement under para 9 of Resolution 814.",
+      "id": "s231"
+    },
+    {
+      "text": "At this point, I should say something about the approach I should take to this authority.",
+      "id": "s232"
+    },
+    {
+      "text": "Over 250 years ago, Lord Mansfield said in Pelly v Royal Exchange Assurance Co [1757] EngR 6 ; (1757) 97 Eng Rep 342 at 346: \n mercantile law ... is the same all over the world.",
+      "id": "s233"
+    },
+    {
+      "text": "For the same premises, the sound conclusions of reason and justice must universally be the same .",
+      "id": "s234"
+    },
+    {
+      "text": "It has been said of an international instrument adopted by many countries regulating international trade that it is \"self-evidently desirable to strive for uniform construction of [it] \": Gaudron, Gummow and Hayne JJ in Great China Metal Industries Co Ltd v Relation International Shipping Berhad [1998] HCA 65 ; (1998) 196 CLR 161 at [38] , which has been said to be an approach of comity that is the settled attitude of the High Court: Siemens Ltd v Schenker International (Australia) Pty Ltd [2004] HCA 11 ; (2004) 216 CLR 418 at [154] per Kirby J.",
+      "id": "s235"
+    },
+    {
+      "text": "In this matter, the Handbook contains a number of documents that have wide international application (putting to one side what, for present purposes, are probably immaterial differences arising from the way decision-making in IATA is undertaken (flowing from the division of the world into three areas)).",
+      "id": "s236"
+    },
+    {
+      "text": "For my part, there is much to commend the approach that domestic courts should strive to adopt a uniform construction of documents that have wide international application in international trade, even if their genesis is not an international treaty adopted by nation states or like instruments: see International Air Transport Association v Ansett Australia Holdings Limited (subject to deed of company arrangement) [2008] HCA 3 ; (2008) 234 CLR 151 at [124] per Kirby J.",
+      "id": "s237"
+    },
+    {
+      "text": "However, in the present case, this is an issue I need not grapple with, effectively for two reasons.",
+      "id": "s238"
+    },
+    {
+      "text": "The first, and less important, is that the observations of the Court of Appeal on the operation of what I view as the most important provision, clause 9 of the Agency Agreement, are probably only obiter dicta.",
+      "id": "s239"
+    },
+    {
+      "text": "The second, and more important, is that there is what I view as a material difference between the terms of the Sales Agency Rules considered in that case and those that must be construed in the present.",
+      "id": "s240"
+    },
+    {
+      "text": "I will explain why shortly.",
+      "id": "s241"
+    },
+    {
+      "text": "The approach adopted by the applicant to the construction of section 9.4 of the Sales Agency Rules reflects and repeats, in substance, the analysis adopted by the Court of Appeal.",
+      "id": "s242"
+    },
+    {
+      "text": "It is unnecessary to detail it.",
+      "id": "s243"
+    },
+    {
+      "text": "Qantas has approached the matter differently.",
+      "id": "s244"
+    },
+    {
+      "text": "It has deployed three arguments resisting the construction advanced by the applicant.",
+      "id": "s245"
+    },
+    {
+      "text": "The first is that the fuel surcharge does not and has never formed part of the fare (including fare surcharges) for transportation in accordance with Qantas's tariffs.",
+      "id": "s246"
+    },
+    {
+      "text": "Accordingly, it is not comprehended by the expression \"fares applicable\".",
+      "id": "s247"
+    },
+    {
+      "text": "The second argument advanced by Qantas is that the fuel surcharge is comprehended by the expression \"other charges collected by the Agent\" in section 9.4.1(b) of the Sales Agency Rules and, by operation of this exclusion, cannot be treated as part of the \"fares applicable\" for the calculation contemplated in section 9.4.1(a).",
+      "id": "s248"
+    },
+    {
+      "text": "The third argument advanced by Qantas is that even if the fuel surcharge formed part of the applicable fare for the purposes of section 9.4, commission was not payable on the fuel surcharge because clause 9 of the Agency Agreement had been engaged as a result of the announcement by Qantas that base commission would be paid on the fuel surcharge for Australian domestic itineraries only.",
+      "id": "s249"
+    },
+    {
+      "text": "It is convenient to deal first with Qantas's third argument.",
+      "id": "s250"
+    },
+    {
+      "text": "Qantas's third argument\n In May 2004 Qantas published on its \"Industry Sales Site\" a series of frequently asked questions in relation to the fuel surcharge it announced on 11 May 2004.",
+      "id": "s251"
+    },
+    {
+      "text": "The eighth question was posed in these terms \"[w]ill an agent earn commission on the fuel surcharge?",
+      "id": "s252"
+    },
+    {
+      "text": "\" and the answer provided was \"[b]ase commission will be paid on the fuel surcharge for Australian domestic itineraries only\".",
+      "id": "s253"
+    },
+    {
+      "text": "The clear import of this announcement was that Qantas's position was that base commission would not be paid on the fuel surcharge for international itineraries.",
+      "id": "s254"
+    },
+    {
+      "text": "I think this statement can reasonably be viewed as an announcement by Qantas that it did not intend to pay commission to agents on the fuel surcharge component of international itineraries.",
+      "id": "s255"
+    },
+    {
+      "text": "In any event, whether notice had been given was not really in issue in these proceedings.",
+      "id": "s256"
+    },
+    {
+      "text": "It is to be recalled that clause 9 of the Agency Agreement provides: \n ... for the sale of air transportation and ancillary services by the Agent under this Agreement the Carrier shall remunerate the Agent in a manner and amount as may be stated from time to time and communicated to the Agent by the Carrier.",
+      "id": "s257"
+    },
+    {
+      "text": "Such remuneration shall constitute full compensation for the services rendered to the Carrier.",
+      "id": "s258"
+    },
+    {
+      "text": "Paragraph 13 of the applicant's further amended statement of claim provided:\n In or about May and June 2004, each of the Second to Seventh respondents: \n \n (a) implemented the fuel surcharge in accordance with the determination pleaded in paragraph 12 above; and \n \n \n (b) notified the Applicant and each group member to the effect that: \n \n \n (i) it was implementing a 'fuel surcharge' as an added component of the price of the applicable fare for all travel; and \n \n \n (ii) that the said `fuel surcharge' was required to, and would, appear under a specified code in the \"TAX/FEE/CHARGE\" box on all tickets issued using IATA standard traffic documents.",
+      "id": "s259"
+    },
+    {
+      "text": "In paragraph 13 of its defence Qantas admitted this allegation, and referred to par [6] of the affidavit of Steven Lewis, dated 21 March 2007.",
+      "id": "s260"
+    },
+    {
+      "text": "That paragraph referred to an exhibit that contained copies of notifications given by the second to seventh respondents regarding the introduction of fuel surcharges which, in relation to Qantas, was a printout of the webpage containing the frequently asked questions referred to earlier.",
+      "id": "s261"
+    },
+    {
+      "text": "The pleadings did not involve, expressly, a concession by the applicant that agents were notified for the purposes of clause 9 of the Agency Agreement.",
+      "id": "s262"
+    },
+    {
+      "text": "However, the concession that they were notified of matters through the webpage enables, fairly readily, the conclusion that they were notified for the purposes of that clause.",
+      "id": "s263"
+    },
+    {
+      "text": "I conclude they were.",
+      "id": "s264"
+    },
+    {
+      "text": "The question then becomes whether this stated intention that, in relation to international flights, base commission was not payable on the fuel surcharge, involved the exercise of a contractual right that affected the right of agents to receive commission in a particular amount.",
+      "id": "s265"
+    },
+    {
+      "text": "It is to be recalled that Clarke LJ concluded in British Airways plc that the contractual right of an airline conferred by a provision in the same terms as clause 9 of the Agency Agreement did not include a right to alter the detailed provisions in the Sales Agency Rules under consideration in that matter (which contained a clause broadly similar to section 9 of the Sales Agency Rules in this matter).",
+      "id": "s266"
+    },
+    {
+      "text": "However, there are differences in the terms of the two sets of Sales Agency Rules that are significant and, for my part, I would approach the matter differently as a matter of analysis.",
+      "id": "s267"
+    },
+    {
+      "text": "Ultimately, of course, the Court's task is to construe these provisions having regard to the entire contract between Qantas and the applicant, including all aspects of the contract that are in writing together with the context, in the broadest sense, in which the contract arises: see International Air Transport Association v Ansett Australia Holdings Limited (subject to deed of company arrangement) [2008] HCA 3 ; (2008) 234 CLR 151 at [8] per Gleeson CJ and at [53] per Gummow, Hayne, Heydon, Crennan, and Kiefel JJ.",
+      "id": "s268"
+    },
+    {
+      "text": "At base, the issue I am presently considering involves the interaction between clause 9 of the Agency Agreement and section 9 of the Sales Agency Rules, which is incorporated into that agreement.",
+      "id": "s269"
+    },
+    {
+      "text": "Are they inconsistent and, if so, what did the parties intend and how should any inconsistency be resolved?",
+      "id": "s270"
+    },
+    {
+      "text": "It is convenient to refer to some general principles.",
+      "id": "s271"
+    },
+    {
+      "text": "As to inconsistent contractual provisions generally, the following observations of Finn J in GEC Marconi Systems Pty Limited v BHP Information Technology Pty Limited [2003] FCA 50 ; (2003) 128 FCR 1 at [306] are apt: \n There is a large body of case law dealing with how a contract should be construed when it contains inconsistent provisions, having regard to the nature and cause of the inconsistency: see generally Cheshire and Fifoot, Law of Contract, 213 (8 th Aust ed); Chitty on Contracts, vol 1, para 12-076 (28 th ed); Lewison, The Interpretation of Contracts, para 8 --- 08ff (2 nd ed); Farnsworth, Contracts, &#167;7.11 (3 rd ed).",
+      "id": "s272"
+    },
+    {
+      "text": "It is unnecessary here to outline in detail the various \"rules\" of construction that have evolved to resolve inconsistencies.",
+      "id": "s273"
+    },
+    {
+      "text": "These rules reflect the types and causes of inconsistencies: if specially tailored terms contradict standard terms, the specially tailored terms will prevail over the standard terms: cf Re Theodorou [1993] 1 Qd R 588 ; \"[i]f a later clause cannot be reconciled with an earlier one creating an obligation, then if it altogether destroys the obligation it must be treated as void\": Australian Guarantee Corporation Ltd v Balding [1930] HCA 10 ; (1930) 43 CLR 140 at 151; if the terms of a document incorporated into an agreement conflict with expressly agreed terms in that agreement, the expressly agreed terms prevail: Modern Building Wales Ltd v Lemmer and Trinidad Co Ltd [1975] 1 WLR 1281 at 1289; etc.",
+      "id": "s274"
+    },
+    {
+      "text": "The common thread in the cases is that effect is given to that part of an agreement \"which is calculated to carry into effect the real intention of the parties as gathered from the instrument as a whole, and that part which would defeat it must be rejected\": Chitty on Contracts, para 12-076.",
+      "id": "s275"
+    },
+    {
+      "text": "As to conflict between express and incorporated terms and how they should be construed, Finkelstein J observed in Ford Motor Company of Australia Ltd v Arrowcrest Group Pty Ltd [2002] FCA 1156 at [8] : \n ... Finding an inconsistency is not a novel situation when standard terms are incorporated into an agreement.",
+      "id": "s276"
+    },
+    {
+      "text": "The proper approach is to disregard those incorporated terms that conflict with the expressly agreed terms.",
+      "id": "s277"
+    },
+    {
+      "text": "In Modern Buildings Wales Ltd v Limmer &amp; Trinidad Co Ltd [1975] 1 WLR 1281 (at 1289) Buckley LJ said, \"if any of the imported terms in any way conflict with the expressly agreed terms, the latter must prevail over what would otherwise be imported\": see also Hamilton and Co v Mackie and Sons (1889) 5 TLR 677 ; T W Thomas and Company Ltd v Portsea Steamship Co Ltd [1912] AC 1.",
+      "id": "s278"
+    },
+    {
+      "text": "The question of whether either or both the primary contractual document and another incorporated into it, are a standard form document will inform the interaction between the two as to how they should be construed.",
+      "id": "s279"
+    },
+    {
+      "text": "If the primary contractual document is plainly a reflection of terms the parties discussed and decided upon, and the incorporated document is a standard form document, it would almost always be appropriate to give pre-eminence to the former and not the latter.",
+      "id": "s280"
+    },
+    {
+      "text": "That approach would be less compelling if, as is the present case, both the primary contractual document and the incorporated document are both in standard terms.",
+      "id": "s281"
+    },
+    {
+      "text": "There is, of course, the anterior question of whether there is, in truth, a conflict between two contractual provisions at all.",
+      "id": "s282"
+    },
+    {
+      "text": "This issue was addressed by the England and Wales Court of Appeal in Pagnan SpA v Tradax Ocean Transportation SA [1987] 3 All ER 565.",
+      "id": "s283"
+    },
+    {
+      "text": "After reviewing the authorities on the question of inconsistency, Bingham LJ (with whom Woolf LJ agreed) concluded (at 575): \n It is not enough if one term qualifies or modifies the effect of another; to be inconsistent a term must contradict another term or be in conflict with it, such that effect cannot fairly be given to both clauses.",
+      "id": "s284"
+    },
+    {
+      "text": "Similarly, Dillon LJ was of the view that the first task in construing seemingly inconsistent contractual provisions is to consider whether the clauses \"can sensibly be read together\".",
+      "id": "s285"
+    },
+    {
+      "text": "As his Lordship said (at 578): \n \n What is meant by inconsistency?",
+      "id": "s286"
+    },
+    {
+      "text": "Obviously there is inconsistency where two clauses cannot sensibly be read together, but can it really be said that there is inconsistency wherever one clause in a document qualifies another clause?",
+      "id": "s287"
+    },
+    {
+      "text": "A force majeure clause, or a strike and lock out clause, almost invariably does qualify the apparently absolute obligations undertaken by the parties under other clauses in the contract; so equally with an extension of time clause, for instance in a building agreement.",
+      "id": "s288"
+    },
+    {
+      "text": "So equally, with a lease, the re-entry clause qualifies the apparently unconditional demise for a term of years absolute, but no one would say they were inconsistent.",
+      "id": "s289"
+    },
+    {
+      "text": "In my judgment the first task is to see if the clauses can sensibly be read together.",
+      "id": "s290"
+    },
+    {
+      "text": "If they cannot, there is inconsistency and the special condition is to prevail over the other clause in the printed form.",
+      "id": "s291"
+    },
+    {
+      "text": "But, if they can be read together, they should be and there is no inconsistency.",
+      "id": "s292"
+    },
+    {
+      "text": "The approach of the Court of Appeal in Pagnan SpA has been cited by Australian courts on at least two occasions: National Gallery of Australia v Jane Douglas [1999] ACTSC 79 at [37] ; Queensland Alumina Ltd v Alinta DQP Pty Ltd &amp; Ano r [2006] QSC 391 at [90] --- [92].",
+      "id": "s293"
+    },
+    {
+      "text": "The starting point, in my opinion, is whether the terms of clause 9 of the Agency Agreement, viewed in isolation, might be thought to confer a contractual right on an airline to determine the manner and the amount to be paid to an agent as remuneration and the correlative right in the agent to be paid that remuneration.",
+      "id": "s294"
+    },
+    {
+      "text": "If the answer is yes, the next question is whether, as a matter of construction, section 9 of the Sales Agency Rules (which forms part of the Agency Agreement), at least in relation to remuneration by commission, identifies more precisely the rights of an airline and agent, and potentially limits the rights of an airline, and does not do so in a way that engages clause 2.4 of the Agency Agreement as a \"conflict, contradiction or inconsistency\".",
+      "id": "s295"
+    },
+    {
+      "text": "In my respectful opinion, it is not a question (as Clarke LJ put it), of whether or not clause 9 of the Agency Agreement confers a right to vary rights conferred by section 9 of the Sales Agency Rules.",
+      "id": "s296"
+    },
+    {
+      "text": "Clause 9, in terms, imposes an obligation on the airline to remunerate the agent and impliedly confers a right on the agent to receive payment.",
+      "id": "s297"
+    },
+    {
+      "text": "However, both the obligation and the right concerns remuneration \"in a manner and amount\" communicated by the airline to the agent.",
+      "id": "s298"
+    },
+    {
+      "text": "Fairly clearly this clause recognises a right in the airline to determine the manner of remuneration and the amount of remuneration.",
+      "id": "s299"
+    },
+    {
+      "text": "It was submitted by the applicant that if an airline decides to remunerate by commission (treating, for present purposes, this as payment of a percentage of the amount paid by a passenger for a ticket), it is thus determining the manner of remuneration.",
+      "id": "s300"
+    },
+    {
+      "text": "It was submitted that in that context the right to determine the amount is simply a right to determine the rate of commission as a percentage and nothing more.",
+      "id": "s301"
+    },
+    {
+      "text": "I do not accept this submission.",
+      "id": "s302"
+    },
+    {
+      "text": "It is true that the evidence discloses that in the airline industry generally, and in relation to Qantas's operations in particular, there was widespread use of the payment of commission as a percentage and nothing more.",
+      "id": "s303"
+    },
+    {
+      "text": "However, if, as I consider the case, clause 9 confers a right to determine the manner of remuneration then it need not be payment as commission simply by reference to a percentage of the amount paid for the ticket.",
+      "id": "s304"
+    },
+    {
+      "text": "If so, then the determination of the amount would be informed by what has been determined as to the manner of remuneration.",
+      "id": "s305"
+    },
+    {
+      "text": "The clause, as I view it, is intended to give the airline flexibility in relation to how agents are remunerated and, ultimately, what they are paid for the work they do selling tickets on behalf of the airline.",
+      "id": "s306"
+    },
+    {
+      "text": "For the purposes of this analysis, it is appropriate to focus a little more carefully on what \"commission\" means.",
+      "id": "s307"
+    },
+    {
+      "text": "That is because that gravaman of the applicant's case is that section 9.4.1 confers on an agent a right to be paid commission in the manner set out in the section that could not be modified by the airline.",
+      "id": "s308"
+    },
+    {
+      "text": "The claim has proceeded on the assumption that \"commission\" comprehended payment of a percentage of the value or amount of any particular transaction.",
+      "id": "s309"
+    },
+    {
+      "text": "The Handbook contains a resolution concerning what is \"commission\".",
+      "id": "s310"
+    },
+    {
+      "text": "Resolution 824a is brief.",
+      "id": "s311"
+    },
+    {
+      "text": "It simply records that for the purpose of the Passenger Agency Conference Resolutions, where applicable, the term \"commission\" shall be deemed to include any form of remuneration.",
+      "id": "s312"
+    },
+    {
+      "text": "This appears to indicate that the use of the word \"commission\" in any resolution, including the Sales Agency Rules (Resolution 816), should not be treated only as a reference to an amount constituting a percentage of the amount of any transaction effected by the agent.",
+      "id": "s313"
+    },
+    {
+      "text": "However, in section 9 of the Sales Agency Rules there is repeated reference to payment of \"commission or other remuneration\" which rather suggests that the word \"commission\" in the section does not comprehend any form of remuneration.",
+      "id": "s314"
+    },
+    {
+      "text": "Otherwise the words \"other remuneration\" would be otiose.",
+      "id": "s315"
+    },
+    {
+      "text": "\"Commission\", in that section, is intended to be a reference only to remuneration by way of an amount that is a percentage of the value or amount of the transaction.",
+      "id": "s316"
+    },
+    {
+      "text": "However, for the purposes of clause 7.3 of the Agency Agreement (set out at [9] above) the word \"commission\" in the final sentence should, in all probability, be taken to be a reference to commission and any other form of remuneration.",
+      "id": "s317"
+    },
+    {
+      "text": "Accordingly, clause 7 imposes an obligation on an agent to collect on behalf of the airline amounts payable for the air transportation, to hold those amounts on trust and remit them to the airline.",
+      "id": "s318"
+    },
+    {
+      "text": "This obligation to remit is a qualified one in that the agent is entitled to deduct from the remittance the \"applicable commission\" to which the agent was entitled.",
+      "id": "s319"
+    },
+    {
+      "text": "Looking at the express terms of the Agency Agreement only, that amount is the amount flowing from the determination of the manner and amount by the airline exercising the right conferred by clause 9 of the Agency Agreement.",
+      "id": "s320"
+    },
+    {
+      "text": "Section 9 of the Sales Agency Rules also deals with remuneration.",
+      "id": "s321"
+    },
+    {
+      "text": "The provision (set out at [11] above) that falls for consideration in these proceedings, in terms, concerns both commission and other remuneration, and section 9.1 (including the heading) make no reference to rates (of commission) unlike section 9.1 in the UK Sales Agency Rules considered in British Airways plc .",
+      "id": "s322"
+    },
+    {
+      "text": "What then are the rights, if any, conferred on Qantas by section 9.1 of the Sales Agency Rules in the present case?",
+      "id": "s323"
+    },
+    {
+      "text": "While section 9.1 does not do so with absolute clarity, it is tolerably clear that it confers a right on an airline to determine (by referring to notions of authorising) the commission or other remuneration to be paid to agents.",
+      "id": "s324"
+    },
+    {
+      "text": "This is probably no more than a repetition of the right conferred by clause 9 of the Agency Agreement.",
+      "id": "s325"
+    },
+    {
+      "text": "Indeed the second sentence of section 9.1 of the Sales Agency Rules exhorts (in the sense of recommends) the airline to notify changes to the commission or other remuneration well in advance.",
+      "id": "s326"
+    },
+    {
+      "text": "This probably imposes an obligation on the airline to give reasonable notice of any change but the precise contractual effect of the sentence need not be determined.",
+      "id": "s327"
+    },
+    {
+      "text": "What is clear, however, is that section 9.1 of the Sales Agency Rules is entirely consistent with clause 9 of the Agency Agreement, which contemplates that the airline could determine the manner and amount of remuneration that must be stated and communicated to the agent.",
+      "id": "s328"
+    },
+    {
+      "text": "Understandably, both the clause and the section require the airline to give agents due notice of any decision the airline may have made about the manner and amount of remuneration.",
+      "id": "s329"
+    },
+    {
+      "text": "The critical question is then whether the right of the airline to determine the manner or the amount of remuneration, having regard to clause 9 of the Agency Agreement and section 9.1 of the Sales Agency Rules, is limited by other provisions of the Sales Agency Rules.",
+      "id": "s330"
+    },
+    {
+      "text": "The opening words of section 9.4.1(a) of the Sales Agency Rules make it tolerably clear that section 9.4 addresses situations where the method of remuneration determined by the airline is payment of a percentage of the value of the transaction.",
+      "id": "s331"
+    },
+    {
+      "text": "But does this section confer a right on an agent to be paid and only paid in accordance with its terms, notwithstanding the airline's apparent right more generally to determine the method and amount of payment?",
+      "id": "s332"
+    },
+    {
+      "text": "In my opinion, it does not.",
+      "id": "s333"
+    },
+    {
+      "text": "Firstly, section 9.4 appears to me to be have been intended to identify the amounts that are not to be taken into account in making the calculation of commission.",
+      "id": "s334"
+    },
+    {
+      "text": "Significantly, in my opinion, the opening words of section 9.4.1(a) speak of the commission being \"calculated only on the amount of the fares applicable\".",
+      "id": "s335"
+    },
+    {
+      "text": "The word \"only\" is presumably used to emphasise that any other amounts forming part of the transaction (those amounts identified in section 9.4.1(b) after the words \"shall exclude\") are not to be brought to account in the calculation of commission.",
+      "id": "s336"
+    },
+    {
+      "text": "The use of the word \"only\" makes it significantly less obvious to me that the section is intended to be a contractual direction or command to an airline to accept the deduction of commission calculated in a particular way, notwithstanding the airline's otherwise general contractual right to determine the manner and amount of remuneration.",
+      "id": "s337"
+    },
+    {
+      "text": "On this approach, section 9.4 limits what the agent can deduct when complying with its contractual obligation to remit to the airline amounts paid to the agent for air transportation.",
+      "id": "s338"
+    },
+    {
+      "text": "The 2008 Sales Agency Rules are expressed slightly differently and do not, in the equivalent provision, include the word \"only\".",
+      "id": "s339"
+    },
+    {
+      "text": "Also, section 9.1 is headed \"RATE OF COMMISSION OR AMOUNT OF REMUNERATION \".",
+      "id": "s340"
+    },
+    {
+      "text": "While these features of the 2008 Sales Agency Rules lessen the force of my reasoning, I do not think they undermine my ultimate conclusion.",
+      "id": "s341"
+    },
+    {
+      "text": "Secondly if, as I consider is the case, clause 9 of the Agency Agreement together with section 9.1 of the Sales Agency Rules confers, in terms, a contractual right to determine the method and amount of remuneration paid to an agent, it might be expected that clear language would have been used to limit or modify that general right in particular circumstances.",
+      "id": "s342"
+    },
+    {
+      "text": "It has not been.",
+      "id": "s343"
+    },
+    {
+      "text": "Moreover, it seems a very curious result if it was intended that an airline would have a general right that could be exercised to make a payment by a method other than purely by commission (perhaps a hybrid of a lump sum per transaction together with some form of commission) and, if by commission only, to determine the rate of the commission and vary it from time to time, but the airline could not alter the mechanism for calculating the commission.",
+      "id": "s344"
+    },
+    {
+      "text": "It is not obvious what the rationale would be for conferring a general right on an airline to determine the manner and amount of remuneration which, on giving notice, could be deployed in a multiplicity of ways to reduce the remuneration in relation to any particular transaction yet constraining the exercise of that right if, and only if, a particular method of remuneration had been adopted by the airline.",
+      "id": "s345"
+    },
+    {
+      "text": "In addition there is the stated intention in clause 2.4 of the Agency Agreement giving paramountcy to the actual terms of that agreement embodied in its text rather than terms incorporated by reference.",
+      "id": "s346"
+    },
+    {
+      "text": "It is true that the Agency Agreement incorporates, by reference, the Sales Agency Rules.",
+      "id": "s347"
+    },
+    {
+      "text": "However that incorporation is itself subject to the qualification in clause 2.4 of the Agency Agreement.",
+      "id": "s348"
+    },
+    {
+      "text": "That provision declares that in the event of any \"conflict, contradiction or inconsistency\" between the Agency Agreement and provisions in the incorporated documents with which the agent must comply, the Agency Agreement would prevail.",
+      "id": "s349"
+    },
+    {
+      "text": "The reach of the clause in the present case might be approached in one of two ways.",
+      "id": "s350"
+    },
+    {
+      "text": "The first is that, in truth, there is no conflict, contradiction or inconsistency.",
+      "id": "s351"
+    },
+    {
+      "text": "That is because, as already discussed, the Agency Agreement obliges an agent to remit to the airline moneys received with the qualification that commission or other remuneration to which the agent is entitled can be deducted from the amount to be remitted.",
+      "id": "s352"
+    },
+    {
+      "text": "The commission or other remuneration is the amount arising from the airline's determination of the method and amount in accordance with clause 9 of the Agency Agreement.",
+      "id": "s353"
+    },
+    {
+      "text": "Section 9.4 of the Sales Agency Rules simply identifies what is not to be taken into account when the agent calculates commission and thus when the agent calculates the amount that can be retained.",
+      "id": "s354"
+    },
+    {
+      "text": "On another approach, which I do not favour, section 9.4 of the Sales Agency Rules might be viewed as conferring a right on an agent to payment of commission in the manner provided for in the section and thus a right to retain the amount calculated in that way when remitting monies to the airline as provided in clause 7 of the Agency Agreement.",
+      "id": "s355"
+    },
+    {
+      "text": "This was the approach of the Court of Appeal in British Airways plc .",
+      "id": "s356"
+    },
+    {
+      "text": "However on that basis clause 2.4 is engaged because there is, in my opinion, a conflict, contradiction or inconsistency.",
+      "id": "s357"
+    },
+    {
+      "text": "It is not simply a question of identifying clauses in an agreement and determining whether they are inconsistent in the way discussed by Dillon LJ in Pagnan SpA in the passage quoted at [57] above.",
+      "id": "s358"
+    },
+    {
+      "text": "That is because the Agency Agreement has itself spoken about the interaction of its express terms and terms incorporated by reference.",
+      "id": "s359"
+    },
+    {
+      "text": "I do not think the expression \"conflict, contradiction or inconsistency\" should be construed narrowly.",
+      "id": "s360"
+    },
+    {
+      "text": "It manifests an intention to give paramountcy to the express terms of the Agency Agreement.",
+      "id": "s361"
+    },
+    {
+      "text": "I have little doubt that the formulation and adoption of these contractual arrangements proceeded on the basis that any particular airline would not make a decision about the method and amount of remuneration payable to IATA agents in a commercial vacuum.",
+      "id": "s362"
+    },
+    {
+      "text": "The airline would doubtless need to consider what its competitors were doing and would need to ensure that agents are promoting and selling their product with sufficient interest and enthusiasm in a competitive market.",
+      "id": "s363"
+    },
+    {
+      "text": "These and other matters are doubtless intended to inform the way in which an airline exercises the right conferred by clause 9 of the Agency Agreement and section 9 of the Sales Agency Rules and it was not intended that there would be a capricious or arbitrary exercise of the right in a way that would damage the airline's commercial interests.",
+      "id": "s364"
+    },
+    {
+      "text": "In my opinion, in May 2004, Qantas exercised its contractual right to determine the manner and amount of agents' remuneration, by determining that the manner is calculated, and percentage commission payable, on the total price (speaking generally, and refraining, at this stage, from entering into the debate as to what constitutes the ticket price) less the amount payable to Qantas as the fuel surcharge.",
+      "id": "s365"
+    },
+    {
+      "text": "It gave notice that this was the manner in which commission, as a form of remuneration, was to be calculated, and accordingly, agents were entitled to retain only commission calculated in this way.",
+      "id": "s366"
+    },
+    {
+      "text": "By this method it was determining the amount and method of agent's remuneration.",
+      "id": "s367"
+    },
+    {
+      "text": "For this reason, the applicant's contractual claim fails.",
+      "id": "s368"
+    },
+    {
+      "text": "However, for completeness, I now turn to consider Qantas's first and second arguments.",
+      "id": "s369"
+    },
+    {
+      "text": "Qantas's first argument \n Qantas's first argument is that the fuel surcharge did not and has never formed part of the fare (including fare surcharges) for the transportation in accordance with Qantas's tariffs.",
+      "id": "s370"
+    },
+    {
+      "text": "Accordingly, it is not comprehended by the expression \"fares applicable\".",
+      "id": "s371"
+    },
+    {
+      "text": "The starting point for this argument is that the definition of \"FARE, PUBLISHED\" in the glossary to the Handbook points to the published fare being the amount specified as the fare in the airline's fares tariff.",
+      "id": "s372"
+    },
+    {
+      "text": "I accept this is so.",
+      "id": "s373"
+    },
+    {
+      "text": "The second step in the argument is that the fuel surcharge is not and has not been part of any amount specified as the fare in Qantas's fares tariff.",
+      "id": "s374"
+    },
+    {
+      "text": "That is because the fuel surcharge, from its inception, had been identified as an amount comprehended by the YQ code and as an amount separate and apart from the fare.",
+      "id": "s375"
+    },
+    {
+      "text": "This second step appears to involve three elements.",
+      "id": "s376"
+    },
+    {
+      "text": "The first element is that when Qantas advised IATA in 2004 about the fuel surcharge it made it clear that the surcharge was to be included as an amount bearing the YQ code.",
+      "id": "s377"
+    },
+    {
+      "text": "This is not in issue.",
+      "id": "s378"
+    },
+    {
+      "text": "The second element is that the amount collected that is attributable to the YQ code does not form part of the fare that is shared by other airlines that may happen to have transported a passenger on a sector or sectors of a route for which a Qantas fare had been sold.",
+      "id": "s379"
+    },
+    {
+      "text": "Again this is not in issue.",
+      "id": "s380"
+    },
+    {
+      "text": "The third element is that, as is the fact, when an agent interrogates Amadeus on a computer for a fare on a particular international route a figure would be shown on a screen as the fare.",
+      "id": "s381"
+    },
+    {
+      "text": "If the agent further interrogates Amadeus and specifies Qantas as the airline on particular Qantas flights on nominated days and, additionally, with specified stopovers, a further set of coded figures would be displayed on the screen that contains an amount (not expressly identified as the fare) that is the original amount shown as the fare together with additional amounts to be charged for the stopovers and a separate amount, namely the YQ coded amount, which includes the fuel surcharge.",
+      "id": "s382"
+    },
+    {
+      "text": "I do not accept this first argument.",
+      "id": "s383"
+    },
+    {
+      "text": "The present discussion concerns only the meaning of the expression \"fares applicable\" in section 9.4.1 (a) (having regard to the definition in section 9.4.1 (b)).",
+      "id": "s384"
+    },
+    {
+      "text": "It is true that the definition of \"fares applicable\" in section 9.4.1 (b) makes reference to the \"Member's tariffs\" in the phrase \"in accordance with the Member's tariffs\".",
+      "id": "s385"
+    },
+    {
+      "text": "However, in my opinion, that phrase is intended to be a general description of the nature of the transportation in respect of which a fare is charged and paid.",
+      "id": "s386"
+    },
+    {
+      "text": "That is, the phrase qualifies the noun \"transportation\", and is not intended to limit or define what constitutes the \"fares\" as that word twice appeared in the first line of section 9.4.1 (b).",
+      "id": "s387"
+    },
+    {
+      "text": "Indeed, the starting point in ascertaining the meaning of the word \"fares\" in the expression \"fares applicable\" must be the definition of the word \"FARE\" itself in the glossary.",
+      "id": "s388"
+    },
+    {
+      "text": "The definition contains two discrete components which, it in terms, appear to be independent of each other.",
+      "id": "s389"
+    },
+    {
+      "text": "As independent components it is possible they are not completely compatible.",
+      "id": "s390"
+    },
+    {
+      "text": "The first is the amount charged by the carrier, the airline.",
+      "id": "s391"
+    },
+    {
+      "text": "I think a necessary consequence of defining the fare in this way is that it also represents the amount paid by the passenger to the issuing airline which would be retained by the issuing airline as the revenue it received for the travel the passenger would be undertaking though ultimately, of course, subject to making payments thereafter to other airlines under interlining agreements.",
+      "id": "s392"
+    },
+    {
+      "text": "A passenger secures transportation by paying what is charged by the issuing airline and paying, in addition, other amounts imposed by third parties including governments and airport authorities that are required to be paid as part of the price of the ticket.",
+      "id": "s393"
+    },
+    {
+      "text": "The second component in the definition is the current fare the airline holds out to the public (or a segment of the public) as being applicable to the class of service to be furnished and did so in the publication normally used to publish fares.",
+      "id": "s394"
+    },
+    {
+      "text": "As a matter of construction, each component must be taken to inform the content of the other to ensure that the definition is, in its entirety, coherent and harmonious.",
+      "id": "s395"
+    },
+    {
+      "text": "Accordingly, although the amount paid to the airline might be disaggregated and coded, the fare is, nonetheless, the amount charged by and paid to the airline in the sense just discussed, namely the amount which was retained by the airline as revenue but subject to subsequent interlining.",
+      "id": "s396"
+    },
+    {
+      "text": "The definition focuses on an amount that would be perceived by the passenger as the fare because it is either the amount charged and paid as the fare or the amount published as the fare.",
+      "id": "s397"
+    },
+    {
+      "text": "On either basis the characterisation of the fuel surcharge arising from the use of the YQ code would not alter the fact that it is one element of what is paid to Qantas as the issuing airline.",
+      "id": "s398"
+    },
+    {
+      "text": "I should, at this point, say something about what the definition of \"FARE\" meant when it speaks of the current fare held out to the public in the \"publication [the airline] normally uses to publish fares\".",
+      "id": "s399"
+    },
+    {
+      "text": "It is to be recalled that in the Court of Appeal in British Airways plc , Clarke LJ rejected a submission by the airlines that, for the purposes of a definition in the same terms, the publication by the airline was to be viewed as publication of fares in the Galileo system (an analogue of the Amadeus system).",
+      "id": "s400"
+    },
+    {
+      "text": "His Lordship appears to have concluded that publication would include publication of fares including in the press and, in turn, to have concluded that the \"fares\" were the total price including taxes and charges.",
+      "id": "s401"
+    },
+    {
+      "text": "With respect, I do not agree.",
+      "id": "s402"
+    },
+    {
+      "text": "This analysis of the definition of \"FARE\" in the glossary overlooks the first component in the definition, namely the amount charged by the airline for the carriage of the passenger (and baggage), which I discussed in the preceding paragraphs.",
+      "id": "s403"
+    },
+    {
+      "text": "It is difficult to see how the language used in the definition sustains the conclusion that the \"fare\" is the total price including taxes.",
+      "id": "s404"
+    },
+    {
+      "text": "A tax is not an amount charged by the airline for the carriage of a passenger.",
+      "id": "s405"
+    },
+    {
+      "text": "Given that Clarke LJ appears to have attached little or no importance to this first component, it was then comparatively easy to speak, as his Lordship did, of publication in the widest sense including publication in the press.",
+      "id": "s406"
+    },
+    {
+      "text": "Accepting, as I think you must, that the first component of the definition informs the second, then one can more readily conclude that the relevant publication is the publication of fares to agents who will then use those amounts to inform the public of what the fare is for the carriage of a passenger on a particular route.",
+      "id": "s407"
+    },
+    {
+      "text": "It is publication (as a verb) indirectly to the public through the travel agent by means of the publication (as a noun) constituted by a GDS system.",
+      "id": "s408"
+    },
+    {
+      "text": "This approach to what is comprehended by \"publication\" appears to me to sit more comfortably with the overall context in which the definition appeared.",
+      "id": "s409"
+    },
+    {
+      "text": "The definition of \"FARE\" is in the glossary.",
+      "id": "s410"
+    },
+    {
+      "text": "Its preamble, describes itself as \"a glossary of terms commonly used in the airline industry\".",
+      "id": "s411"
+    },
+    {
+      "text": "It is in a Handbook directed specifically to travel agents to enable them to perform their functions as agents.",
+      "id": "s412"
+    },
+    {
+      "text": "Travel agents would know, for the purposes of applying various provisions in the Handbook, what are the published fares in the systems such as Amadeus or Galileo.",
+      "id": "s413"
+    },
+    {
+      "text": "They may not know, and could not be assumed to know, what fares are published in the press.",
+      "id": "s414"
+    },
+    {
+      "text": "However, this conclusion ultimately does not assist Qantas's argument.",
+      "id": "s415"
+    },
+    {
+      "text": "That is because the process referred to in par [73] above finally results in a sum being calculated which is the fare (in the sense of the amount payable by the passenger to the issuing airline) which includes the YQ coded amount for the fuel surcharge.",
+      "id": "s416"
+    },
+    {
+      "text": "It is, of course, conceivable that the amount in the earlier screen designated \"fare\" (which does not include the YQ coded amount) might be viewed by the agent as the fare in order to tell the passenger what the fare is, but it is no less conceivable that the figure which finally emerges would be viewed as the fare for the same purpose as well.",
+      "id": "s417"
+    },
+    {
+      "text": "Treating the latter as what is comprehended by the second component of the definition is consonant with the first component but the former is not.",
+      "id": "s418"
+    },
+    {
+      "text": "Returning to the specific question of what is meant by \"fares applicable\" in section 9.4.1(b) of the Passenger Sales Rules, it seems to me that it is the amount charged by the airline and paid to the airline by the passenger, although given the way the definition is framed, it does not include amounts paid to the airline by way of charges for excess baggage or excess valuation of baggage and plainly, as the definition says, excludes taxes and other charges collected by the agent for the benefit of third parties.",
+      "id": "s419"
+    },
+    {
+      "text": "Qantas's second argument \n The second argument advanced by Qantas is that the fuel surcharge fell within the ambit of the expression \"other charges collected by the Agent\" in section 9.4.1(b) of the Sales Agency Rules and, by operation of this exclusion, cannot be treated as part of the \"fares applicable\" for the calculation contemplated in section 9.4.1(a).",
+      "id": "s420"
+    },
+    {
+      "text": "This argument appears to be based only on the fact that the surcharge is included within the \"taxes/fees/charges\" area of the ticket.",
+      "id": "s421"
+    },
+    {
+      "text": "This is an invitation for form to prevail over substance.",
+      "id": "s422"
+    },
+    {
+      "text": "The entire expression \"all taxes and other charges collected by the Agent\" is fairly clearly directed towards amounts collected by the agent, not for the benefit of the airline because it constituted part of the fare, but for the benefit of a third party.",
+      "id": "s423"
+    },
+    {
+      "text": "Plainly, taxes are in this category and the linkage of the word \"taxes\" with the expression \"other charges\" gives colour and content to that latter expression.",
+      "id": "s424"
+    },
+    {
+      "text": "I do not accept this submission.",
+      "id": "s425"
+    },
+    {
+      "text": "Estoppel\n In view of my conclusion concerning Qantas's third argument (see [51] --- [69]), it is also unnecessary to deal with the estoppel argument advanced by Qantas.",
+      "id": "s426"
+    },
+    {
+      "text": "However, I should deal with it briefly.",
+      "id": "s427"
+    },
+    {
+      "text": "The facts that found the argument are not in issue, although the applicant said that Qantas failed to prove certain facts that are necessary to create a factual foundation in which any estoppel could have arisen.",
+      "id": "s428"
+    },
+    {
+      "text": "In essence, Qantas has pointed to its decision to charge the fuel surcharge, its announcement to agents that this would occur but that base commission would not be payable on the surcharge amount for international flights, the calculation thereafter of commission by agents that did not include an amount referable to the fuel surcharge, the payment of commission on that basis and also the payment of additional commission to at least some agents who were franchisees in a chain of agents.",
+      "id": "s429"
+    },
+    {
+      "text": "It was said by Qantas that these facts created an estoppel by convention.",
+      "id": "s430"
+    },
+    {
+      "text": "The gist of the argument, as I understood it, is that by asserting a right to commission on the fuel surcharge, the agents have unjustly departed from an assumption adopted by Qantas (a departure that operated to Qantas's detriment), namely that the fuel surcharge amount is not commissionable in relation to international flights.",
+      "id": "s431"
+    },
+    {
+      "text": "The applicant sought to answer this argument by pointing to what it submitted are a number of gaps in the factual foundation underpinning it.",
+      "id": "s432"
+    },
+    {
+      "text": "The most telling, in my opinion, which means Qantas's argument must fail, is that it cannot be said that there was, to use the language of MacPherson J in Queensland Independent Wholesalers Ltd v Coutts Townsville Pty Ltd [1989] 2 Qd R 40 at 46, demonstrable acceptance of the asserted assumed state of affairs by the agents.",
+      "id": "s433"
+    },
+    {
+      "text": "Qantas appears to have accepted that the agents could resile from the asserted assumption at some point shortly after these proceedings were commenced.",
+      "id": "s434"
+    },
+    {
+      "text": "The real issue is whether between the time the fuel surcharge was announced in May 2004, and the commencement of these proceedings on 16 December 2006, there was a common assumption that commission was not payable on the fuel surcharge that was demonstrably accepted by, in particular, the agents.",
+      "id": "s435"
+    },
+    {
+      "text": "In my view, this contention is not made out on the evidence.",
+      "id": "s436"
+    },
+    {
+      "text": "It is tolerably clear that agents did not accept the suggestion that commission is not payable on the fuel surcharge.",
+      "id": "s437"
+    },
+    {
+      "text": "Indeed, the agents, through their industry association, challenged the alleged assumption.",
+      "id": "s438"
+    },
+    {
+      "text": "By letter dated 18 April 2005, and later by e-mail on 25 August 2005 and by telephone, Mr Mike Hatton, President of the Australian Federation of Travel Agents protested against Qantas's refusal to pay commission on the fuel surcharge.",
+      "id": "s439"
+    },
+    {
+      "text": "While the letter of 18 April 2005 really sought little more than clarification from Qantas about when it might extend to international fares its practice of paying commission on, amongst other things, fuel surcharges on domestic flights, the e-mail of 25 August 2005 directly challenged Qantas's refusal to pay commission on the fuel surcharge amount.",
+      "id": "s440"
+    },
+    {
+      "text": "Mr Hatton clearly asserted that a surcharge such as a fuel surcharge is part of the fare charged to the passenger, is commissionable and commission is rightly due and payable on such surcharges.",
+      "id": "s441"
+    },
+    {
+      "text": "I do not think this correspondence can simply be characterised, as Qantas suggested, as no more than a commercial discussion about how things might change.",
+      "id": "s442"
+    },
+    {
+      "text": "It is true that the e-mail concluded with what is described as a formal request to Qantas to urgently review its policy and include the fuel surcharge in its base price fare calculation.",
+      "id": "s443"
+    },
+    {
+      "text": "However, that invitation was made in circumstances where it had earlier been asserted that commission was payable on the fuel surcharge In a response to Mr Hatton on behalf of Qantas, Mr Peter Kelly forwarded, on 4 October 2005, an e-mail he had drafted on 2 September 2005 but not sent (in response to Mr Hatton's e-mail of 25 August 2005), in which Mr Kelly fairly clearly indicated that the question of how Qantas was coding the fuel surcharge, which affected whether commission is payable on it, was an outstanding matter and invited Mr Hatton to maintain an open dialogue with Qantas on the topic.",
+      "id": "s444"
+    },
+    {
+      "text": "Trade Practices Act Claim\n The second limb of the applicant's case is a claim that Qantas has engaged in misleading and deceptive conduct in contravention of s 52 of the TP Act.",
+      "id": "s445"
+    },
+    {
+      "text": "The claim can be summarised as follows: Following Qantas's notification to the group members that it was introducing a fuel surcharge and that it would appear under a special box in the \"tax/fee/charge\" box on all tickets, Qantas:\n had, until about May 2008, required each group member to include the said \"fuel surcharge\" in the \"TAX/FEE/CHARGE\" box on all paper tickets; and until the present time, and continuing, required each group member to include the amount representing the fuel surcharge within the amount code on receipts for electronic tickets within the field \"Taxes/Charges\".",
+      "id": "s446"
+    },
+    {
+      "text": "This conduct was misleading and deceptive given that, in truth, the fuel surcharge is not a tax, fee or charge.",
+      "id": "s447"
+    },
+    {
+      "text": "The words \"Tax/Fee/Charge\" (that appear on paper tickets), and the words \"Taxes/Charges\" (that appear on electronic tickets) are generally understood to mean, in the context of a designated component of the price of an air ticket, a sum of money collected by an agent for payment to a government authority.",
+      "id": "s448"
+    },
+    {
+      "text": "During the hearing, a question arose about the case the applicant has raised under the TP Act.",
+      "id": "s449"
+    },
+    {
+      "text": "It is tolerably clear from the submissions made by senior counsel for the applicant that the factual foundation of the applicant's case is not simply the inclusion of the fuel surcharge in the \"tax/fee/charge\" box on the paper ticket and a similar location in the electronic ticket.",
+      "id": "s450"
+    },
+    {
+      "text": "Rather the case is founded on that fact, together with what is said elsewhere in the conditions on the ticket about what is comprehended by the expression taxes, fees and charges and what amount might be expected to be included in the \"tax/fee/charge\" box.",
+      "id": "s451"
+    },
+    {
+      "text": "However this was not reflected in the pleadings.",
+      "id": "s452"
+    },
+    {
+      "text": "On 17 February 2009 the applicant filed an amended statement of claim.",
+      "id": "s453"
+    },
+    {
+      "text": "The amendment is directed to this issue.",
+      "id": "s454"
+    },
+    {
+      "text": "Qantas consented to the amendment.",
+      "id": "s455"
+    },
+    {
+      "text": "However, read literally, the amended statement of claim may be thought to raise an allegation that the misleading or deceptive conduct was no more than the direction by, or requirement of, Qantas that the amount of the fuel charge be included in the \"tax/fee/charge\" box (paper ticket) or the \"taxes/charges\" field (electronic ticket) and the misleading effect of doing so having regard to other things said on the ticket.",
+      "id": "s456"
+    },
+    {
+      "text": "The direction or requirement is but the first step in the misleading or deceptive conduct attending the characterisation of the fuel surcharge, having regard to where the amount representing the surcharge is located on the ticket.",
+      "id": "s457"
+    },
+    {
+      "text": "It is the publication of the ticket to the passenger (in the sense of creating the ticket in a paper form and giving it to the passenger or providing it to the passenger in electronic form) that perfects or completes the misleading or deceptive conduct.",
+      "id": "s458"
+    },
+    {
+      "text": "The amendment was made after the hearing and the parties have not addressed the case it raises.",
+      "id": "s459"
+    },
+    {
+      "text": "I assume I am not being invited to enter the territory marked out by cases such as Butcher v Lachlan Elder Realty Pty Ltd [2004] HCA 60 ; (2004) 218 CLR 592 and perhaps Cassidy v Saatchi &amp; Saatchi Australia Pty Ltd [2004] FCAFC 34 ; (2004) 134 FCR 585.",
+      "id": "s460"
+    },
+    {
+      "text": "I have proceeded on the basis that the conduct challenged by the applicant includes the ultimate publication to the passenger of the ticket either in a paper form or electronically.",
+      "id": "s461"
+    },
+    {
+      "text": "The sample paper ticket is annexure A to these reasons and contains the following information.",
+      "id": "s462"
+    },
+    {
+      "text": "The total amount the passenger had to pay to purchase the ticket was $7565.46, comprised of the following: $7391.00, designated on the ticket on the left in the middle as the \"fare\"; $38.00 \"tax/fee/charge\" designated on the ticket below the fare by the AU code (which represents the Australian Departure Tax); $3.40 \"tax/fee/charge\" designated on the ticket below the AU code by the QK code (which represents the Noise Levy Tax Australia); and $133.06 \"tax/fee/charge\" designated on the ticket below the QK code by the XT code.",
+      "id": "s463"
+    },
+    {
+      "text": "The amount of $133.06, designated under the XT code, is made up of three separate amounts recorded in the middle of the ticket running left to right, namely: \n $36.86, designated under the WY code (which represents the Passenger Services Charge --- Australia); $70.00, designated under the YQ code (used to designate both the fuel surcharge and the insurance surcharge); and $26.20, designated under the SW code (which stands for Passenger Services Charge --- Japan) \nAs can be seen, the fuel surcharge is one of the amounts forming part of the total amount recorded in the \"tax/fee/charge\" box designated by the XT code.",
+      "id": "s464"
+    },
+    {
+      "text": "The paper ticket is constituted by the face or first page and several further pages which include terms and conditions of carriage.",
+      "id": "s465"
+    },
+    {
+      "text": "Of importance is the following extract from the terms and conditions: \n NOTICE OF GOVERNMENT IMPOSED TAXES, FEES AND CHARGES \n The price of this ticket may include taxes, fees and charges which are imposed on air transportation by government authorities.",
+      "id": "s466"
+    },
+    {
+      "text": "These taxes, fees and charges may represent a significant portion of the cost of air travel and are either included in the fare, or shown separately in the \"TAX/FEE/CHARGE\" box(es) of this ticket.",
+      "id": "s467"
+    },
+    {
+      "text": "You may also be required to pay taxes, fees and charges not already collected.",
+      "id": "s468"
+    },
+    {
+      "text": "The fuel surcharge is not a tax, fee or charge imposed by government authorities.",
+      "id": "s469"
+    },
+    {
+      "text": "The inclusion of the fuel surcharge within the \"tax/fee/charge\" box designated by the \"XT\" code is inconsistent with what is said in the above extract from the terms and conditions.",
+      "id": "s470"
+    },
+    {
+      "text": "Similar considerations arise in relation to the sample electronic ticket, which is annexure B to these reasons.",
+      "id": "s471"
+    },
+    {
+      "text": "The sample \"e-ticket\" was issued on behalf of Qantas for return travel between Sydney and London.",
+      "id": "s472"
+    },
+    {
+      "text": "The total price of the ticket was $2351.48, comprised of what is described as the \"Fare\" ($1802.00) and \"Taxes/Charges\" ($549.48).",
+      "id": "s473"
+    },
+    {
+      "text": "In the terms and conditions of carriage that accompanies the sample e-ticket is clause 8, which provides: \n Government and Others Taxes and Charges \n Travel within Australia and Internationally --- the price of your ticket may include significant amounts of taxes, charges and fees imposed on air transport by governments, authorities and airport operators (in the fare, e.g.",
+      "id": "s474"
+    },
+    {
+      "text": "Goods and Services Tax, or short separately as a TAX/FEE/CHARGE).",
+      "id": "s475"
+    },
+    {
+      "text": "You may also be required to pay additional taxes, fees or charges not marked on your ticket ... \n\n \nThe fuel surcharge is one of the amounts forming part of the total amount for \"Taxes/Charges\".",
+      "id": "s476"
+    },
+    {
+      "text": "The fuel surcharge is not a tax, charge or fee imposed by governments, authorities or airport operators.",
+      "id": "s477"
+    },
+    {
+      "text": "Again, the inclusion of fuel surcharge within the total amount for \"Taxes/Charges\" is inconsistent with the terms and conditions of travel.",
+      "id": "s478"
+    },
+    {
+      "text": "There is no issue concerning the nature and characteristics of the group of individuals to whom the conduct or misrepresentations were directed: see Campomar Sociedad, Limitada v Nike International Ltd [2000] HCA 12 ; (2000) 202 CLR 45.",
+      "id": "s479"
+    },
+    {
+      "text": "It is likely that members of the travelling public who had purchased tickets issued on behalf of Qantas might have been led to believe that amounts designated as \"tax/fees/charges\" or \"taxes/charges\" were only made up of components of the character described in the terms and conditions.",
+      "id": "s480"
+    },
+    {
+      "text": "One such amount is the fuel surcharge.",
+      "id": "s481"
+    },
+    {
+      "text": "It is not of that character.",
+      "id": "s482"
+    },
+    {
+      "text": "It is likely that some members of the travelling public would have laboured under an erroneous assumption that the amounts that have been designated as \"tax/fees/charges\" or \"taxes/charges\" do not include an amount that would be paid to Qantas rather than to a government authority or some other third party.",
+      "id": "s483"
+    },
+    {
+      "text": "I am satisfied Qantas has engaged in misleading and deceptive conduct proscribed by s 52 of the TP Act.",
+      "id": "s484"
+    },
+    {
+      "text": "Conclusion\n The applicant has failed on its contractual claim but succeeded on its trade practices claim.",
+      "id": "s485"
+    },
+    {
+      "text": "At the hearing, and in their submissions, the parties did not address the question of relief, at least in the context of this combination of results.",
+      "id": "s486"
+    },
+    {
+      "text": "What I would ordinarily do is simply asked the parties to bring in short minutes to give effect to these reasons and then determine what orders should be made.",
+      "id": "s487"
+    },
+    {
+      "text": "However, in this case I do not discount entirely the possibility that even, at this late stage, the matter might be settled by mediation.",
+      "id": "s488"
+    },
+    {
+      "text": "It will be a matter for the parties to consider whether, in the light of the advice they receive following the publication of these reasons, they would wish to participate in mediation.",
+      "id": "s489"
+    },
+    {
+      "text": "If they do, one course I could follow would be to order mediation in the context of having made orders giving effect to these reasons but on the basis that those orders would not take effect until after mediation has concluded or after a time specified in the orders.",
+      "id": "s490"
+    },
+    {
+      "text": "I certify that the preceding ninety eight (98) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Moore.",
+      "id": "s491"
+    },
+    {
+      "text": "Associate:\n \n \nDated: 30 March 2009 \n \n Counsel for the Applicant: B Coles QC with N Beaumont \n \n Solicitor for the Applicant: Slater &amp; Gordon \n \n Counsel for the Second Respondent: D Yates SC with J Lockhart \n \n Solicitor for the Second Respondent: Minter Ellison \n Dates of Hearing: 16---17 October 2008, 20---23 October 2008 \n \n Date of Judgment: 30 March 2009 \n ANNEXURE A \n \n ANNEXURE B \n \n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2009/280.html",
+      "id": "s492"
+    }
+  ]
+}

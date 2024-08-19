@@ -1,0 +1,988 @@
+{
+  "name": "Australian Securities &amp; Investments Commission; In the Matter of Richstar Enterprises Pty Ltd ACN 099 071 968 v Carey (No 14) (includes corrigendum dated 9 March 2007) [2007] FCA 310 (8 March 2007)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2007/310.html",
+  "catchphrases": [
+    {
+      "text": "application for freezing orders in relation to property",
+      "id": "c0"
+    },
+    {
+      "text": "company under investigation by australian securities and investments commission",
+      "id": "c1"
+    },
+    {
+      "text": "jurisdiction",
+      "id": "c2"
+    },
+    {
+      "text": "s 1323 corporations act 2001",
+      "id": "c3"
+    },
+    {
+      "text": "nature of powers conferred by s 1323",
+      "id": "c4"
+    },
+    {
+      "text": "no power to make freezing orders",
+      "id": "c5"
+    },
+    {
+      "text": "application of s 23 federal court of australia act 1976",
+      "id": "c6"
+    },
+    {
+      "text": "grounds for primary relief including appointment of receivers under s 1323 to be demonstrated before powers under s 23 can be invoked",
+      "id": "c7"
+    },
+    {
+      "text": "freezing orders under s 23 available in aid of jurisdiction under s 1323",
+      "id": "c8"
+    },
+    {
+      "text": "grounds for exercise of power under s 1323 to be demonstrated",
+      "id": "c9"
+    },
+    {
+      "text": "grounds not made out",
+      "id": "c10"
+    },
+    {
+      "text": "application dismissed",
+      "id": "c11"
+    },
+    {
+      "text": "need for amendment of s 1323",
+      "id": "c12"
+    },
+    {
+      "text": "jurisdiction",
+      "id": "c13"
+    },
+    {
+      "text": "power",
+      "id": "c14"
+    },
+    {
+      "text": "distinction",
+      "id": "c15"
+    },
+    {
+      "text": "power in aid of exercise of jurisdiction",
+      "id": "c16"
+    },
+    {
+      "text": "s 23 of federal court act",
+      "id": "c17"
+    },
+    {
+      "text": "power to make order in matters in which court has jurisdiction",
+      "id": "c18"
+    },
+    {
+      "text": "not a source of jurisdiction",
+      "id": "c19"
+    },
+    {
+      "text": "whether mareva type order may be made under s 23 in proceedings under s 1323 of the corporations act",
+      "id": "c20"
+    },
+    {
+      "text": "corporations",
+      "id": "c21"
+    },
+    {
+      "text": "courts and judges",
+      "id": "c22"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Introduction \n On 29 March 2006 the Australian Securities and Investments Commission (ASIC) filed an application in the Court seeking orders under s 1323 of the Corporations Act 2001 (Cth) against companies who were members of, or associated with, the Westpoint Group.",
+      "id": "s0"
+    },
+    {
+      "text": "Orders were also sought against officers and former officers of those companies.",
+      "id": "s1"
+    },
+    {
+      "text": "On 20 April 2006 receivers were appointed to the property of each of the defendants save for the seventh defendant, Bowesco Pty Ltd (Bowesco), which already had a private receivership in place.",
+      "id": "s2"
+    },
+    {
+      "text": "In the case of Bowesco freezing orders were made in relation to its property: Australian Securities &amp; Investments Commission; In the matter of Richstar Enterprises Pty Ltd (ACN 099 071 968) v Carey (No 3) [2006] FCA 433.",
+      "id": "s3"
+    },
+    {
+      "text": "It is not necessary now to recite the matters which led to the making of those orders.",
+      "id": "s4"
+    },
+    {
+      "text": "They are set out in the reasons for judgment.",
+      "id": "s5"
+    },
+    {
+      "text": "Nor is it necessary to recite the convoluted history of the interlocutory processes associated with these proceedings, which are in themselves interlocutory in substance, albeit not in form.",
+      "id": "s6"
+    },
+    {
+      "text": "For the most part that history appears from a series of judgments delivered since 20 April 2006.",
+      "id": "s7"
+    },
+    {
+      "text": "On 7 August 2006 ex parte orders were made joining Rold Corporation Pty Ltd (Rold) as the eleventh defendant.",
+      "id": "s8"
+    },
+    {
+      "text": "Interim asset preservation orders were made in relation to the property of Rold and remain in place until today.",
+      "id": "s9"
+    },
+    {
+      "text": "ASIC seeks freezing or mareva type orders in relation to the property of Rold and, in the alternative, the appointment of receivers to its property.",
+      "id": "s10"
+    },
+    {
+      "text": "The application is said to be made primarily under s 23 of the Federal Court of Australia Act 1976 (Cth).",
+      "id": "s11"
+    },
+    {
+      "text": "Reliance is also placed on what is said to be \"the implied jurisdiction\" of the Court and s 1323 of the Corporations Act .",
+      "id": "s12"
+    },
+    {
+      "text": "The application is opposed.",
+      "id": "s13"
+    },
+    {
+      "text": "Reliance upon s 23 as the primary source of power to make the orders sought is misplaced.",
+      "id": "s14"
+    },
+    {
+      "text": "That section can be invoked if grounds for making an order under s 1323 , such as the appointment of receivers, are established.",
+      "id": "s15"
+    },
+    {
+      "text": "If an order prohibiting or restricting dealings in the company's property would be a practical lesser alternative to an order under s 1323 , then s 23 may be relied upon to make such an order.",
+      "id": "s16"
+    },
+    {
+      "text": "In this case, for the reasons which follow, I am not satisfied that an order under s 1323 is, in the words of the section, necessary or desirable.",
+      "id": "s17"
+    },
+    {
+      "text": "I am not prepared to make an order under s 23 as though it were a source of jurisdiction.",
+      "id": "s18"
+    },
+    {
+      "text": "It is not that.",
+      "id": "s19"
+    },
+    {
+      "text": "It confers power in aid of jurisdiction.",
+      "id": "s20"
+    },
+    {
+      "text": "The application will be dismissed with costs.",
+      "id": "s21"
+    },
+    {
+      "text": "Facts relevant to the application \n Both parties relied upon affidavit evidence and there was no challenge to the deponents of those affidavits.",
+      "id": "s22"
+    },
+    {
+      "text": "This does not mean that all of their evidence was accepted as true.",
+      "id": "s23"
+    },
+    {
+      "text": "The conclusions to be drawn from the evidence as to the risks to the property of Rold and the legal significance of the evidence were debated.",
+      "id": "s24"
+    },
+    {
+      "text": "The essential sequence of events and transactions which follows is taken from the affidavit evidence.",
+      "id": "s25"
+    },
+    {
+      "text": "I regard it as substantially correct.",
+      "id": "s26"
+    },
+    {
+      "text": "Rold was incorporated in December 1989.",
+      "id": "s27"
+    },
+    {
+      "text": "Allan Frank Carey was a director and its secretary from the outset.",
+      "id": "s28"
+    },
+    {
+      "text": "He has been its sole director since January 1997.",
+      "id": "s29"
+    },
+    {
+      "text": "Rold is the ultimate holding company of a corporate group called the \"Revetment Systems International Group\".",
+      "id": "s30"
+    },
+    {
+      "text": "Mr Carey is the managing director of Revetment Systems International Group Pty Ltd.",
+      "id": "s31"
+    },
+    {
+      "text": "The Group manufacturers and installs, evidently under franchise arrangements, concrete revetment erosion control products.",
+      "id": "s32"
+    },
+    {
+      "text": "Mr Carey began his business in erosion control products when he lived in Perth.",
+      "id": "s33"
+    },
+    {
+      "text": "In 1990 he moved to Sydney to establish the business on the East coast and in 1991 he moved to Queensland.",
+      "id": "s34"
+    },
+    {
+      "text": "He has developed a franchise system for the revetment systems business.",
+      "id": "s35"
+    },
+    {
+      "text": "He holds 14 patents in respect of the product that the Group distributes.",
+      "id": "s36"
+    },
+    {
+      "text": "Allan Carey is the younger brother of Norman Carey, the principal and effective controller of the Westpoint Group.",
+      "id": "s37"
+    },
+    {
+      "text": "He says he has not been involved in any business with Norman Carey.",
+      "id": "s38"
+    },
+    {
+      "text": "He says that he could not be in business with Norman Carey because of his personality.",
+      "id": "s39"
+    },
+    {
+      "text": "Nevertheless it is his association with Norman Carey and the Westpoint Group that forms the background to this application.",
+      "id": "s40"
+    },
+    {
+      "text": "The principal concern driving the application by ASIC is to protect, for the purposes of a proposed claim by the liquidator of Westpoint Corporation, a sum of about $935,000 held in a National Australia Bank (NAB) account in the name of Rold.",
+      "id": "s41"
+    },
+    {
+      "text": "That money, it is said, has a history which marks it as the property of Westpoint Corporation.",
+      "id": "s42"
+    },
+    {
+      "text": "The history begins with the purchase by Rold in 1995 of 11.5 acres of land at 26 Prairie Road, Yatala which lies between Brisbane and the Gold Coast.",
+      "id": "s43"
+    },
+    {
+      "text": "The land was purchased for $185,000.",
+      "id": "s44"
+    },
+    {
+      "text": "Allan Carey was prepared to construct an international standard Go Kart Track on the site.",
+      "id": "s45"
+    },
+    {
+      "text": "He obtained approvals for the development of the track and facilities.",
+      "id": "s46"
+    },
+    {
+      "text": "However the project did not proceed.",
+      "id": "s47"
+    },
+    {
+      "text": "In 2005 Rold received an offer for the land and sold it to Mac Group Holdings Pty Ltd for $2,400,000 plus GST.",
+      "id": "s48"
+    },
+    {
+      "text": "Before entering into the contract Allan Carey telephoned his brother to ask whether he thought the amount being offered for the land was reasonable.",
+      "id": "s49"
+    },
+    {
+      "text": "Norman Carey advised him that he thought it was.",
+      "id": "s50"
+    },
+    {
+      "text": "On or about 27 September 2005 Allan Carey had a telephone conversation with his brother who asked what he was going to do with the money.",
+      "id": "s51"
+    },
+    {
+      "text": "He said he was going to invest it in blue chip commercial real estate.",
+      "id": "s52"
+    },
+    {
+      "text": "Norman Carey suggested that he \"park the money\" in a Westpoint company, Renaissance Mezzanine Pty Ltd (Renaissance Mezzanine).",
+      "id": "s53"
+    },
+    {
+      "text": "It would earn 15% per annum.",
+      "id": "s54"
+    },
+    {
+      "text": "Allan Carey said if he did that it would only be for a short term until an appropriate property investment was found.",
+      "id": "s55"
+    },
+    {
+      "text": "He was told that the money could be invested on a short term basis and that his brother would personally guarantee the funds.",
+      "id": "s56"
+    },
+    {
+      "text": "On 27 September 2005 Raymond Ellis sent him an application form for debenture notes issued by Renaissance Mezzanine.",
+      "id": "s57"
+    },
+    {
+      "text": "On 28 September 2005 Allan Carey, on behalf of Rold, instructed the NAB to transfer $1,500,000 from Rold to Renaissance Mezzanine.",
+      "id": "s58"
+    },
+    {
+      "text": "On 31 October 2005 Renaissance Mezzanine paid Rold interest of $20,342.47.",
+      "id": "s59"
+    },
+    {
+      "text": "Allan Carey said that he rang his brother on 6 November 2005 and told him he had purchased a property and wanted to build on the land and would like $1 million of the money placed by Rold back to enable the building work to commence.",
+      "id": "s60"
+    },
+    {
+      "text": "Norman Carey advised him against taking the $1 million back as Renaissance Mezzanine at 15% was a better investment.",
+      "id": "s61"
+    },
+    {
+      "text": "Nevertheless he agreed to arrange to have the money put back into Rold's NAB account.",
+      "id": "s62"
+    },
+    {
+      "text": "On 25 November 2005 a sum of $1 million was received by Rold from Renaissance Mezzanine and paid into its NAB account.",
+      "id": "s63"
+    },
+    {
+      "text": "Rold continued to receive interest payments from Renaissance Mezzanine on the balance.",
+      "id": "s64"
+    },
+    {
+      "text": "In February 2006 Allan Carey had a discussion with Norman Carey about the remaining $500,000.",
+      "id": "s65"
+    },
+    {
+      "text": "On 20 February 2006 he received by facsimile transmission a letter from his brother which said in part: \n \n Your investment of $500,000 is invested as part of the total invested funds of $1.390M in Lot 602 Hale Road, Forrestfield.",
+      "id": "s66"
+    },
+    {
+      "text": "Renaissance Mezzanine has not repaid the $500,000.",
+      "id": "s67"
+    },
+    {
+      "text": "It appears from evidence relied upon by ASIC that $1,490,000 of the $1,500,000 deposited into the bank account of Renaissance Mezzanine by Rold was transferred from Renaissance Mezzanine into an account in the name of Westpoint Corporation.",
+      "id": "s68"
+    },
+    {
+      "text": "It was there amalgamated with moneys already in the Westpoint account which, before the deposit, had a balance of $3,585,498.",
+      "id": "s69"
+    },
+    {
+      "text": "Westpoint Corporation is said to have used the $1,490,000 for its own purposes between September 2005 and November 2005.",
+      "id": "s70"
+    },
+    {
+      "text": "Following Allan Carey's request for repayment of the sum of $1 million that sum was transferred from Westpoint Corporation to Renaissance Mezzanine on 24 November 2005.",
+      "id": "s71"
+    },
+    {
+      "text": "Two other transactions occurred at the same time.",
+      "id": "s72"
+    },
+    {
+      "text": "One was a payment of $1.15 million to Bowesco by Westpoint Corporation and the other a payment of $1.37 million to Richstar Enterprises Pty Ltd by Westpoint Corporation.",
+      "id": "s73"
+    },
+    {
+      "text": "The Westpoint account, on 24 November 2005, had a negative balance of $333,147.70.",
+      "id": "s74"
+    },
+    {
+      "text": "According to ASIC the effect of these transactions was to remove cash assets of $3.52 million from Westpoint Corporation at a time when it was reasonable to expect that the company was facing significant liabilities which would result in its liquidation.",
+      "id": "s75"
+    },
+    {
+      "text": "Following its receipt of $1 million from Westpoint Corporation, Renaissance Mezzanine paid that sum to Rold.",
+      "id": "s76"
+    },
+    {
+      "text": "The on-payment was recorded in the general accounting ledger of Renaissance Mezzanine purportedly, according to ASIC, to reduce a debt owed to Renaissance Mezzanine by Vannin Pty Ltd. Jeffrey Laurence Herbert and Simon Andrew Read were appointed joint and several liquidators of Westpoint Corporation on 15 February 2006.",
+      "id": "s77"
+    },
+    {
+      "text": "Mr Herbert retired on 7 February 2007 but Mr Read continues as the sole liquidator of Westpoint Corporation.",
+      "id": "s78"
+    },
+    {
+      "text": "According to Mr Read's evidence immediately prior to the payment of $1 million by Westpoint Corporation to Renaissance Mezzanine, Westpoint Corporation was insolvent and Renaissance Mezzanine did not have adequate funds to pay $1 million to Rold.",
+      "id": "s79"
+    },
+    {
+      "text": "Mr Read said he regards the payments made by Westpoint Corporation, including that made to Rold, as voidable as: an unreasonable director-related transaction pursuant to section 588FDA of the Corporations Act 2001 (Cth) (the \"Act\"); or \n an uncommercial transactions pursuant to section 588FB of the Act.",
+      "id": "s80"
+    },
+    {
+      "text": "These sums, he contended, are recoverable by him as liquidator of Westpoint Corporation.",
+      "id": "s81"
+    },
+    {
+      "text": "In a letter dated 25 October 2006 Rold's solicitors advised ASIC that Rold had an outstanding capital gains tax liability which would become payable in April/May 2007.",
+      "id": "s82"
+    },
+    {
+      "text": "The amount is estimated to be $655,000.",
+      "id": "s83"
+    },
+    {
+      "text": "ASIC contended that Rold intends to use the funds presently subject to interim asset preservation orders in these proceedings for the purpose of satisfying the tax liability.",
+      "id": "s84"
+    },
+    {
+      "text": "It is said to be the case that unless restrained two thirds of the preserved funds will be lost to creditors of Westpoint Corporation.",
+      "id": "s85"
+    },
+    {
+      "text": "Rold does not dispute that it will pay the tax if assessed as expected.",
+      "id": "s86"
+    },
+    {
+      "text": "It also appears that some of the money may be applied for the payment of legal fees incurred by Rold.",
+      "id": "s87"
+    },
+    {
+      "text": "ASIC submitted there are grounds for continuing concern about the risk of dissipation of Rold's assets.",
+      "id": "s88"
+    },
+    {
+      "text": "It referred to evidence of Norman Carey's influence over his brother, Allan, and sister, Karen Carey.",
+      "id": "s89"
+    },
+    {
+      "text": "He had previously exercised control over and transferred assets to and from entities owned by them.",
+      "id": "s90"
+    },
+    {
+      "text": "ASIC referred, in particular, to Norman Carey's evidence in the course of his examination by ASIC in December 2006.",
+      "id": "s91"
+    },
+    {
+      "text": "In that testimony he said that he was in a position to give directions to Allan Carey in his capacity as a director of Bowesco.",
+      "id": "s92"
+    },
+    {
+      "text": "ASIC submitted that there is cogent evidence to support the inference that Norman Carey exercises influence over both his brother and sister.",
+      "id": "s93"
+    },
+    {
+      "text": "Entities that have had dealings with the Westpoint Group and have derived property or assets from it and which, in appearance are legally controlled by his brother and sister, are in reality effectively controlled by Norman Carey.",
+      "id": "s94"
+    },
+    {
+      "text": "In this connection it is relevant that Allan Carey, in an affidavit sworn on 22 February 2007, said that Norman Carey had offered him a position of Queensland Manager with the Westpoint Group.",
+      "id": "s95"
+    },
+    {
+      "text": "On 6 October 2005 Allan Carey signed an Employment Agreement and confidentiality document.",
+      "id": "s96"
+    },
+    {
+      "text": "His employment commenced on 3 October 2005.",
+      "id": "s97"
+    },
+    {
+      "text": "He began working from home at Paradise Point in Queensland.",
+      "id": "s98"
+    },
+    {
+      "text": "According to Allan Carey's evidence however, he began to put some distance between his brother and himself following the discovery that he was director of a number of companies in the Westpoint Group which he had never heard of.",
+      "id": "s99"
+    },
+    {
+      "text": "He said he did not know how he became a director.",
+      "id": "s100"
+    },
+    {
+      "text": "He referred to heated telephone conversations he had with Norman Carey.",
+      "id": "s101"
+    },
+    {
+      "text": "On 7 March 2006 Allan Carey attended a meeting with Norman Carey in Perth.",
+      "id": "s102"
+    },
+    {
+      "text": "He told Norman Carey he was going to resign his directorships and terminate his employment.",
+      "id": "s103"
+    },
+    {
+      "text": "Norman Carey asked him to allow a couple of weeks so that he could find replacements.",
+      "id": "s104"
+    },
+    {
+      "text": "On 14 March 2006 Allan Carey attended at his solicitor's office to sign forms resigning as a director of companies associated with Norman Carey.",
+      "id": "s105"
+    },
+    {
+      "text": "He asked his solicitors not to lodge them for seven days to give Norman Carey an opportunity to obtain alternate directors.",
+      "id": "s106"
+    },
+    {
+      "text": "Despite his requests Norman Carey did not appoint directors in his place.",
+      "id": "s107"
+    },
+    {
+      "text": "On 10 and 12 April 2006 Allan Carey met with his solicitors and then signed notices of resignation.",
+      "id": "s108"
+    },
+    {
+      "text": "These were lodged with ASIC and a copy was sent to Norman Carey.",
+      "id": "s109"
+    },
+    {
+      "text": "Since 19 May 2006 Allen Carey has not had any contact with Norman Carey.",
+      "id": "s110"
+    },
+    {
+      "text": "Norman Carey has no involvement in Rold or any other company in the Revetment Systems International Group.",
+      "id": "s111"
+    },
+    {
+      "text": "It is not disputed, and I accept Allan Carey's evidence, that his brother does not have any involvement in Rold or any other company in the Revetment Systems International Group.",
+      "id": "s112"
+    },
+    {
+      "text": "In my opinion it is likely that Norman Carey has exercised influence over Allan Carey in the past but that he does not now have significant influence at least in relation to the affairs of Rold.",
+      "id": "s113"
+    },
+    {
+      "text": "ASIC submitted that the benefit of the $1 million was received by Rold directly from Westpoint Corporation funds in circumstances where, on the face of it, there was no justification for the payment being made.",
+      "id": "s114"
+    },
+    {
+      "text": "The funds were directly sourced from moneys received by investors and the relevant on-payment from Renaissance Mezzanine to Rold was recorded in the general ledger of Renaissance Mezzanine in such a way as to \"mask\" the fact that the true benefit of the on-payment accrued to Rold.",
+      "id": "s115"
+    },
+    {
+      "text": "There was some general reference by ASIC, in the evidence it relied upon, to Norman Carey's dealings with offshore companies and his use of them to establish offshore bank accounts and to transfer funds to those accounts.",
+      "id": "s116"
+    },
+    {
+      "text": "Allan Carey said that the funds presently held in the NAB account by Rold are needed to pay creditors in the ordinary course of Rold's business as follows: \n(a) Deputy Commissioner of Taxation in the sum of $655,273.",
+      "id": "s117"
+    },
+    {
+      "text": "Mr Carey says that he has been informed by an accountant, David Hewitt, and believes that the tax will be due on or about 15 May 2007.",
+      "id": "s118"
+    },
+    {
+      "text": "(b) Payment of legal fees occurred in defending the present proceeding commenced by ASIC and dealing with issues which the liquidator wishes to ventilate.",
+      "id": "s119"
+    },
+    {
+      "text": "Allan Carey said that the appointment of a receiver to Rold will cause significant prejudice and irreparable harm to it and to the Revetment Systems International Group.",
+      "id": "s120"
+    },
+    {
+      "text": "He said Rold is the ultimate holding company.",
+      "id": "s121"
+    },
+    {
+      "text": "He is the sole director of Rold.",
+      "id": "s122"
+    },
+    {
+      "text": "He has a high profile in the civil engineering industry.",
+      "id": "s123"
+    },
+    {
+      "text": "An appointment of a receiver would be associated with him.",
+      "id": "s124"
+    },
+    {
+      "text": "In the civil engineering industry the major civil contractors undertake continual creditworthiness checks on potential subcontractors.",
+      "id": "s125"
+    },
+    {
+      "text": "Mr Read, the liquidator of Westpoint Corporation, requested, by letter dated 22 January 2007, that Rold repay the $1 million payment to Westpoint Corporation on the basis that the funds that comprised the payment were used by Renaissance Mezzanine to make the on-payment to Rold.",
+      "id": "s126"
+    },
+    {
+      "text": "In his affidavit he stated that ASIC has recently agreed to permit him, as liquidator, full and free access to the documents of Westpoint Corporation and related entities.",
+      "id": "s127"
+    },
+    {
+      "text": "At the time of swearing his affidavit he anticipated receiving full access to those documents by the end of February 2007.",
+      "id": "s128"
+    },
+    {
+      "text": "If they did not alter his view about the recoverability of the on-payment he anticipated commencing action against Rold to recover the on-payment by 30 June 2007.",
+      "id": "s129"
+    },
+    {
+      "text": "The statutory framework \n ASIC relies in these proceedings on s 1323 of the Corporations Act which provides, inter alia: \n \n (1) Where: \n \n\n \n \n (a) an investigation is being carried out under the ASIC Act or this Act in relation to an act or omission by a person, being an act or omission that constitutes or may constitute a contravention of this Act; or \n (b) a prosecution has been begun against a person for a contravention of this Act; or\n (c) a civil proceeding has been begun against a person under this Act; \n \n\n \n \n and the Court considers it necessary or desirable to do so for the purpose of protecting the interests of a person (in this section called an aggrieved person ) to whom the person referred to in paragraph (a), (b), or (c), as the case may be, (in this section called the relevant person ), is liable, or may be or become liable, to pay money, whether in respect of a debt, by way of damages or compensation or otherwise, or to account for financial products or other property, the Court may, on application by ASIC or by an aggrieved person, make one or more of the following orders: \n \n\n \n \n (d) an order prohibiting a person who is indebted to the relevant person or to an associate of the relevant person from making a payment in total or partial discharge of the debt to, or to another person at the direction or request of, the person to whom the debt is owed;\n (e) an order prohibiting a person holding money, financial products or other property, on behalf of the relevant person, or on behalf of an associate of the relevant person, from paying all or any of the money, or transferring, or otherwise parting with possession of, the financial products or other property, to, or to another person at the direction or request of, the person on whose behalf the money, financial products or other property, is or are held; \n (f) an order prohibiting the taking or sending out of this jurisdiction, or out of Australia, by a person of money of the relevant person or of an associate of the relevant person;\n (g) an order prohibiting the taking, sending or transfer by a person of financial products or other property of the relevant person, or of an associate of the relevant person: \n \n (i) from a place in this jurisdiction to a place outside this jurisdiction (including the transfer of financial products from a register in this jurisdiction to a register outside this jurisdiction); or\n (ii) from a place in Australia to a place outside Australia (including the transfer of financial products from a register in Australia to a register outside Australia); \n \n\n \n \n (h) an order appointing: \n \n\n \n \n (i) if the relevant person is a natural person --- a receiver or trustee, having such powers as the Court orders, of the property or of part of the property of that person; or \n (ii) if the relevant person is a body corporate --- a receiver or receiver and manager, having such powers as the Court orders, of the property or of part of the property of that person; \n \n\n \n \n (j) if the relevant person is a natural person --- an order requiring that person to deliver up to the Court his or her passport and such other documents as the Court thinks fit; \n (k) if the relevant person is a natural person --- an order prohibiting that person from leaving this jurisdiction, or Australia, without the consent of the Court.",
+      "id": "s130"
+    },
+    {
+      "text": "(2A) A reference in paragraph (1)(g) or (h) to property of a person includes a reference to property that the person holds otherwise than as sole beneficial owner, for example: \n \n\n \n \n (a) as trustee for, as nominee for, or otherwise on behalf of or on account of, another person; or\n (b) in a fiduciary capacity.",
+      "id": "s131"
+    },
+    {
+      "text": "(2B) Subsection (2A) is to avoid doubt, is not to limit the generality of anything in subsection (1) and is not to affect by implication the interpretation of any other provision of this Act.",
+      "id": "s132"
+    },
+    {
+      "text": "(2) An order under subsection (1) prohibiting conduct may prohibit the conduct either absolutely or subject to conditions.",
+      "id": "s133"
+    },
+    {
+      "text": "(3) Where an application is made to the Court for an order under subsection (1), the Court may, if in the opinion of the Court it is desirable to do so, before considering the application, grant an interim order, being an order of the kind applied for that is expressed to have effect pending the determination of the application.",
+      "id": "s134"
+    },
+    {
+      "text": "(4) On an application under subsection (1), the Court must not require the applicant or any other person, as a condition of granting an interim order under subsection (3), to give an undertaking as to damages.",
+      "id": "s135"
+    },
+    {
+      "text": "(5) Where the Court has made an order under this section on a person's application, the Court may, on application by that person or by any person affected by the order, make a further order discharging or varying the first-mentioned order.",
+      "id": "s136"
+    },
+    {
+      "text": "(6) An order made under subsection (1) or (2) may be expressed to operate for a specified period or until the order is discharged by a further order under this section.",
+      "id": "s137"
+    },
+    {
+      "text": "(7) Nothing in this section affects the powers that the Court has apart from this section.",
+      "id": "s138"
+    },
+    {
+      "text": "(8) This section has effect subject to the Bankruptcy Act 1966 .",
+      "id": "s139"
+    },
+    {
+      "text": "(9) A person must not contravene an order by the Court under this section that is applicable to the person.",
+      "id": "s140"
+    },
+    {
+      "text": "(10) An offence based on subsection (9) is an offence of strict liability.",
+      "id": "s141"
+    },
+    {
+      "text": "ASIC also relies upon s 23 of the Federal Court Act which provides: \n \n The Court has power, in relation to matters in which it has jurisdiction, to make orders of such kinds, including interlocutory orders, and to issue, or direct the issue of, writs of such kinds, as the Court thinks appropriate.",
+      "id": "s142"
+    },
+    {
+      "text": "Whether an order prohibiting or restricting dealings with property can be made as final relief in an application under s 1323 \n As a reading of s 1323 demonstrates, it does not provide for a general freezing order of the kind sought by ASIC as its primary relief.",
+      "id": "s143"
+    },
+    {
+      "text": "Even the interim orders for which s 1323(3) provides are limited to orders of the kind applied for under subs (1).",
+      "id": "s144"
+    },
+    {
+      "text": "The absence of power under s 1323 to make mareva type orders against \"the relevant person\" in respect of property held by that person was noted by Finkelstein J in Australian Securities and Investments Commission v Wiggins (1998) 90 FCR 314 at 319.",
+      "id": "s145"
+    },
+    {
+      "text": "That is not to say that a more general mareva type order may not be made on an interlocutory basis pending the determination of a substantive application under s 1323.",
+      "id": "s146"
+    },
+    {
+      "text": "Such an order, as an interlocutory order, would be authorised by s 23.",
+      "id": "s147"
+    },
+    {
+      "text": "Finkelstein J was not in doubt that he had the power to make an order of the kind sought by ASIC \"but it would not be an order in pursuance of the powers conferred by s 1323\" (at 320).",
+      "id": "s148"
+    },
+    {
+      "text": "Counsel for ASIC acknowledged the absence of power, under s 1323, to grant a mareva type order in relation to the assets of a company or individual.",
+      "id": "s149"
+    },
+    {
+      "text": "He relied upon s 23 of the Federal Court Act as the primary source of power for the orders which ASIC seeks.",
+      "id": "s150"
+    },
+    {
+      "text": "In my opinion, however, this is not an appropriate application of s 23.",
+      "id": "s151"
+    },
+    {
+      "text": "It is not open to ASIC to file an application for freezing orders in proceedings under s 1323 then effectively ignore s 1323 and say it is relying upon s 23 of the Federal Court Act.",
+      "id": "s152"
+    },
+    {
+      "text": "The question about the way in which s 23 could be invoked in an application under s 1323 was raised by the Court in argument.",
+      "id": "s153"
+    },
+    {
+      "text": "Subsequently, both parties were given time to file written submissions on the point which they have done and which have been considered.",
+      "id": "s154"
+    },
+    {
+      "text": "The jurisdiction which the Court exercises when it entertains an application under s 1323 is a jurisdiction defined in part by the remedies available under that section.",
+      "id": "s155"
+    },
+    {
+      "text": "In this respect there is some analogy between that jurisdiction and the jurisdiction conferred on the Court by s 39B(1) of the Judiciary Act 1903 (Cth) and on the High Court by s 75(v) of the Constitution .",
+      "id": "s156"
+    },
+    {
+      "text": "The question about the availability of relief under s 23 is analogous to the much debated question whether the High Court, in an application for mandamus or prohibition or an injunction under s 75(v) of the Constitution , has power to award certiorari in addition to, or in lieu of, those remedies.",
+      "id": "s157"
+    },
+    {
+      "text": "In the case of the Federal Court the source of that power in aid of jurisdiction under s 39B(1) would be s 23.",
+      "id": "s158"
+    },
+    {
+      "text": "The weight of authority, which need not be discussed in detail here, is that certiorari may be granted when it is in aid of the primary relief sought and, more controversially, as an alternative when a party has shown it is entitled to the primary relief but certiorari is the more practical remedy in the circumstances: Pitfield v Franki [1970] HCA 37 ; (1970) 123 CLR 448 ; R v Marshall; Ex parte Federated Clerks Union of Australia [1975] HCA 37 ; (1975) 132 CLR 595 at 609; R v Cook; Ex parte Twigg [1980] HCA 36 ; (1980) 147 CLR 15 at 26, 32 and 34; Philip Morris Inc v Adam P Brown Male Fashions Pty Ltd [1981] HCA 7 ; (1981) 148 CLR 457 at 477; Re Refugee Review Tribunal; Ex parte Aala [2000] HCA 57 ; (2000) 204 CLR 82 at 90; Minister for Immigration and Multicultural Affairs; Ex parte Durairajasingham (2000) 168 ALR 407 and Re McBain; Ex parte Australian Catholic Bishops Conference [2002] HCA 16 ; (2002) 209 CLR 372 at [19] and [54].",
+      "id": "s159"
+    },
+    {
+      "text": "The general proposition informing the question considered in these authorities is that the conferral of power to grant a remedy in relation to matters in which the Court has jurisdiction does not constitute an expansion of the jurisdiction.",
+      "id": "s160"
+    },
+    {
+      "text": "In Cardile v LED Builders Pty Ltd [1999] HCA 18 ; (1999) 198 CLR 380 the question arose whether s 23 would authorise a mareva type order against persons not party to the proceedings in which it was sought.",
+      "id": "s161"
+    },
+    {
+      "text": "The High Court held, inter alia, that such an order was appropriate where the third party might be subject to some court process whereby, whether following the appointment of a liquidator or otherwise, the third party may be obliged to disgorge property.",
+      "id": "s162"
+    },
+    {
+      "text": "In their discussion of s 23 , Gaudron, McHugh, Gummow and Callinan JJ made the point that the section does not authorise the court to grant injunctive relief where jurisdiction is acquired under another statute which provides an exhaustive code of available remedies and that code does not authorise the grant of an injunction (at [33]).",
+      "id": "s163"
+    },
+    {
+      "text": "They referred in this connection to Byrne v Australian Airlines Ltd [1995] HCA 24 ; (1995) 185 CLR 410 at 425-426 and Patrick Stevedores Operations No 2 Pty Ltd v Maritime Union of Australia [1998] HCA 30 ; (1998) 195 CLR 1 at 29.",
+      "id": "s164"
+    },
+    {
+      "text": "Consistent with the approach which appears to have been adopted by the High Court in the s 75(v) cases, and bearing in mind what was said in Cardile [1999] HCA 18 ; 198 CLR 380 , I accept that where, in an application under s 1323, the grounds for the appointment of receivers are made out, then a lesser order restricting or prohibiting dealings with the relevant property may be made instead.",
+      "id": "s165"
+    },
+    {
+      "text": "While s 1323 sets out the specific orders which may be made on an application brought under it, it does not, in my opinion, provide an exhaustive code of remedies to the extent that the power to appoint receivers excludes the lesser alternative of orders restricting or prohibiting dealings with the subject property.",
+      "id": "s166"
+    },
+    {
+      "text": "It may be, for example, that the appointment of receivers would be necessary or desirable to protect the interests of a potential claimant against the property of the company or individual to which the receivers are to be appointed.",
+      "id": "s167"
+    },
+    {
+      "text": "At the same time, such an appointment might inflict significant damage on an ongoing business which is detrimental to that business and perhaps also to third parties.",
+      "id": "s168"
+    },
+    {
+      "text": "In that event a lesser order freezing or limiting dealings with the subject property could be regarded as an exercise of the power under s 23.",
+      "id": "s169"
+    },
+    {
+      "text": "Contrary, therefore, to the first submission put by ASIC, the application under which such orders can be made is not to be characterised as one \"primarily made pursuant to section 23 of the Federal Court Act \".",
+      "id": "s170"
+    },
+    {
+      "text": "Section 23 does not confer jurisdiction.",
+      "id": "s171"
+    },
+    {
+      "text": "It confers powers on the Court to make orders in the exercise of the Court's jurisdiction.",
+      "id": "s172"
+    },
+    {
+      "text": "The sources of jurisdiction are to be found elsewhere.",
+      "id": "s173"
+    },
+    {
+      "text": "Jurisdiction under the Corporations Act is conferred on the Federal Court by s 1337B(1) and, for the purposes of this proceeding, defined by s 1323.",
+      "id": "s174"
+    },
+    {
+      "text": "It is open to the Court under s 1323(1)(h) to appoint receivers with powers defined according to the circumstances of the case.",
+      "id": "s175"
+    },
+    {
+      "text": "Such receiverships might be characterised as restrictive or light according to the nature of the powers and the range of dealings with the affected property permitted by the order.",
+      "id": "s176"
+    },
+    {
+      "text": "However it must be recognised that even though a receiver may be appointed with limited powers allowing for ongoing dealings in the ordinary course of business, the fact that a receiver has been appointed may trigger default provisions in security documents or otherwise cause practical difficulties with customers, contractors, suppliers and financiers dealing with an ongoing business.",
+      "id": "s177"
+    },
+    {
+      "text": "ASIC has sought the appointment of receivers as a fallback position in these proceedings.",
+      "id": "s178"
+    },
+    {
+      "text": "I will however regard that option as the only viable primary order which can be sought by ASIC.",
+      "id": "s179"
+    },
+    {
+      "text": "On that basis, if it were necessary or desirable, within the meaning of s 1323(1) , that receivers be appointed to the property of Rold, I would be prepared to consider the alternative of orders under s 23 which would prohibit or restrict dealings by Rold in its assets for a limited time.",
+      "id": "s180"
+    },
+    {
+      "text": "Whether the grounds for an order under s 1323 are made out \n It is not in dispute that Rold is the subject of an ongoing investigation by ASIC.",
+      "id": "s181"
+    },
+    {
+      "text": "A determination to carry out an investigation in relation to it was made on 17 February 2006.",
+      "id": "s182"
+    },
+    {
+      "text": "ASIC, in effect, identifies Rold as the \"relevant person\" for the purpose of s 1323(1) and Westpoint Corporation as the \"aggrieved person\" whom Rold is or may become liable to pay money.",
+      "id": "s183"
+    },
+    {
+      "text": "The liability which may exist arises out of the payment by Westpoint Corporation to Rold of $1 million via Renaissance Mezzanine.",
+      "id": "s184"
+    },
+    {
+      "text": "Counsel for ASIC confirmed at the hearing that the only claim with which the Court is concerned in terms of the necessity and desirability criteria in s 1323 is the Westpoint Corporation liquidator's claim.",
+      "id": "s185"
+    },
+    {
+      "text": "It is said however that the ultimate beneficiaries of that claim, were it to succeed, could be retail investors in the mezzanine companies set up to raise finance for the Westpoint Group.",
+      "id": "s186"
+    },
+    {
+      "text": "There is no evidence of any immediate risk that Rold's assets will be dissipated in the absence of orders made under s 1323 or s 23 of the Federal Court Act.",
+      "id": "s187"
+    },
+    {
+      "text": "ASIC's primary concern is that some $655,000 of the $935,000 held in Rold's bank account may be paid to the Commissioner of Taxation to meet an anticipated liability for capital gains tax.",
+      "id": "s188"
+    },
+    {
+      "text": "The evidence is that the issue of an assessment is expected shortly after 15 May this year.",
+      "id": "s189"
+    },
+    {
+      "text": "Counsel submitted that, unless restrained, Rold would pay at least $655,000 to the Commissioner of Taxation which, in effect, would be made a preferred creditor when it is not entitled to preferred creditor status.",
+      "id": "s190"
+    },
+    {
+      "text": "ASIC also referred to the influence that Norman Carey has in the past exercised over Allan Carey and companies under his control.",
+      "id": "s191"
+    },
+    {
+      "text": "In conjunction with that observation it referred to Norman Carey's capacity and ability to put assets outside the reach of potential creditors.",
+      "id": "s192"
+    },
+    {
+      "text": "This was a reference to evidence of his offshore dealings.",
+      "id": "s193"
+    },
+    {
+      "text": "On the other hand, Allan Carey's evidence that he had severed his connection with companies in the Westpoint Corporation and that he had become increasingly concerned about the impact of events in the Westpoint Group on his own companies' operations, had the ring of truth.",
+      "id": "s194"
+    },
+    {
+      "text": "He has his own business to run and protect.",
+      "id": "s195"
+    },
+    {
+      "text": "Given the events which have overtaken the Westpoint Group any association with that Group will constitute a risk to his business.",
+      "id": "s196"
+    },
+    {
+      "text": "In my opinion the risk of dissipation of Rold's assets to the benefit of Norman Carey or his associated companies is at this stage more speculative than real.",
+      "id": "s197"
+    },
+    {
+      "text": "The Westpoint Corporation liquidator was appointed on 15 February 2006.",
+      "id": "s198"
+    },
+    {
+      "text": "According to his affidavit evidence, the liquidator has formed the view that the payment of $1 million to Rold by Westpoint Corporation via Renaissance Mezzanine is voidable and recoverable by him.",
+      "id": "s199"
+    },
+    {
+      "text": "Were he to commence recovery proceedings he would have the opportunity to apply for a mareva order in respect of the relevant funds.",
+      "id": "s200"
+    },
+    {
+      "text": "He has recently been allowed by ASIC access to documents of Westpoint Corporation and entities related to it, including Renaissance Mezzanine and Rold.",
+      "id": "s201"
+    },
+    {
+      "text": "At the time he swore his affidavit, on 14 February 2007, he anticipated receiving full access to those documents by the end of February.",
+      "id": "s202"
+    },
+    {
+      "text": "It is not apparent from the evidence why the proposed action could not be commenced before 30 June 2007.",
+      "id": "s203"
+    },
+    {
+      "text": "I approach the present application on the basis that I am asked to consider an order for the appointment of receivers to the property of Rold with appropriately defined powers.",
+      "id": "s204"
+    },
+    {
+      "text": "If satisfied that such an appointment would be necessary or desirable, I can then consider whether, in the alternative, I should make an order under s 23.",
+      "id": "s205"
+    },
+    {
+      "text": "The appointment of receivers under s 1323(1)(h) is, as von Doussa J said in Beach Petroleum v Johnson (1992) 9 ACSR 404 at 406 \"a drastic step not lightly to be taken\".",
+      "id": "s206"
+    },
+    {
+      "text": "In my opinion ASIC has not made out a case that it is either necessary or desirable that receivers be appointed to the property of Rold.",
+      "id": "s207"
+    },
+    {
+      "text": "The party for whom protection is sought is the liquidator.",
+      "id": "s208"
+    },
+    {
+      "text": "The liquidator can bring his claim and apply for any necessary interlocutory relief if he considers that the asset which he claims is at risk.",
+      "id": "s209"
+    },
+    {
+      "text": "He can do so with an appropriate undertaking as to damages which is not offered by ASIC.",
+      "id": "s210"
+    },
+    {
+      "text": "For final relief under s 1323 no such undertaking is required even though it maybe time limited.",
+      "id": "s211"
+    },
+    {
+      "text": "In respect of interim relief under s 1323(3), no such undertaking is required --- see s 1323(4).",
+      "id": "s212"
+    },
+    {
+      "text": "The primary \"risk\" which may confront the liquidator appears to be that of payment of a substantial amount of the relevant fund to the Commissioner of Taxation in satisfaction of a liability for capital gains tax.",
+      "id": "s213"
+    },
+    {
+      "text": "The requirement to make such a payment is not likely to arise for another three months.",
+      "id": "s214"
+    },
+    {
+      "text": "The history of the relationship between Allan Carey and his brother and their prior dealings gives rise, at worst, to a very small and, in my opinion, much diminished risk, that Norman Carey might influence Allan Carey to deal with Rold assets for his benefit or that of entities associated with him.",
+      "id": "s215"
+    },
+    {
+      "text": "I do not consider that risk of such a magnitude as to warrant the appointment of receivers under s 1323, nor the making of orders under s 23 of the Federal Court Act .",
+      "id": "s216"
+    },
+    {
+      "text": "Conclusion \n For the preceding reasons the application will be dismissed.",
+      "id": "s217"
+    },
+    {
+      "text": "I should add that, in my opinion, it is desirable that consideration be given to an amendment to s 1323 to include a power in the Court to make orders restricting or prohibiting dealings with the property of the \"relevant person\".",
+      "id": "s218"
+    },
+    {
+      "text": "This would allow more flexibility in the making of such orders than is possible by invoking s 23 in aid of the jurisdiction defined by s 1323.",
+      "id": "s219"
+    },
+    {
+      "text": "I certify that the preceding forty-five (45) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice French.",
+      "id": "s220"
+    },
+    {
+      "text": "Associate:\nDated: 8 March 2007\n \n Counsel for the Plaintiff Mr S Owen-Conway QC and Mr N Gvozdin \n \n Solicitor for the Plaintiff: Australian Government Solicitor \n \n Counsel for the Eleventh Defendant: Mr PP McQuade \n \n Solicitor for the Eleventh Defendant: McCullough Robertson \n \n Date of Hearing:\nDates of Further Written Submissions: 26 February 2007\n5 and 6 March 2007 \n \n Date of Judgment: 8 March 2007 \n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/310.html",
+      "id": "s221"
+    }
+  ]
+}

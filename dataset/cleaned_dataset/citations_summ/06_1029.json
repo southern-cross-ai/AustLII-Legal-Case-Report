@@ -1,0 +1,80 @@
+[
+  {
+    "text": "procedure",
+    "id": "cp0.0",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "migration",
+    "id": "cp0.1",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "decision of primary judge affirming tribunal refusal of application for a protection visa",
+    "id": "cp0.2",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "whether extension of time should be granted to file and serve notice of appeal",
+    "id": "cp0.3",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "whether special reason",
+    "id": "cp0.4",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "whether letter from applicant to court advising intention to appeal a special reason",
+    "id": "cp0.5",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "whether applicant has made out any real prospect of succeeding on the appeal if extension granted",
+    "id": "cp0.6",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "migration",
+    "id": "cp1.0",
+    "type": "citing",
+    "from": "[2006]"
+  },
+  {
+    "text": "application for review not signed by applicant",
+    "id": "cp1.1",
+    "type": "citing",
+    "from": "[2006]"
+  },
+  {
+    "text": "applicant authorised migration agent to submit all matters on her behalf",
+    "id": "cp1.2",
+    "type": "citing",
+    "from": "[2006]"
+  },
+  {
+    "text": "agent's authority extended to signing application form and receiving correspondence from the tribunal",
+    "id": "cp1.3",
+    "type": "citing",
+    "from": "[2006]"
+  },
+  {
+    "text": "no application to the tribunal if application defective",
+    "id": "cp1.4",
+    "type": "citing",
+    "from": "[2006]"
+  },
+  {
+    "text": "no jurisdictional error if application effective",
+    "id": "cp1.5",
+    "type": "citing",
+    "from": "[2006]"
+  }
+]

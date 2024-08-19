@@ -1,0 +1,852 @@
+{
+  "name": "CMG Equity Investments Pty Ltd v Australia and New Zealand Banking Group Ltd [2008] FCA 455 (3 April 2008)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2008/455.html",
+  "catchphrases": [
+    {
+      "text": "contract to lend shares",
+      "id": "c0"
+    },
+    {
+      "text": "rectification",
+      "id": "c1"
+    },
+    {
+      "text": "rights of innocent third parties intervening",
+      "id": "c2"
+    },
+    {
+      "text": "whether rectification is available",
+      "id": "c3"
+    },
+    {
+      "text": "interlocutory injunction",
+      "id": "c4"
+    },
+    {
+      "text": "application to restrain sale of shares by legal owner",
+      "id": "c5"
+    },
+    {
+      "text": "requirement to support undertaking in damages",
+      "id": "c6"
+    },
+    {
+      "text": "no irreparable harm",
+      "id": "c7"
+    },
+    {
+      "text": "contract",
+      "id": "c8"
+    },
+    {
+      "text": "practice and procedure",
+      "id": "c9"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "1 The worldwide stock market collapse coupled with what is commonly referred to as margin lending has led to this action.",
+      "id": "s0"
+    },
+    {
+      "text": "The first and second plaintiffs (the plaintiffs), companies in the CMG group, purchased shares in listed companies which, at this moment, are worth around $25 million.",
+      "id": "s1"
+    },
+    {
+      "text": "To fund those purchases the plaintiffs borrowed significant sums from a company related to their broker, Opes Prime Stockbroking Ltd (OPS).",
+      "id": "s2"
+    },
+    {
+      "text": "The aggregate amount borrowed is significantly less than the current market value of the shares, but the total borrowing is still significant.",
+      "id": "s3"
+    },
+    {
+      "text": "The plaintiffs wish to repay their debt and get back their shares.",
+      "id": "s4"
+    },
+    {
+      "text": "The difficulty that confronts them is that the shares, or at least equivalent parcels of shares, are, or are thought to be, held by Australia and New Zealand Banking Group Ltd (ANZ) as part of the arrangement under which OPS provided funding to the plaintiffs.",
+      "id": "s5"
+    },
+    {
+      "text": "For its part, ANZ wishes to dispose of the shares.",
+      "id": "s6"
+    },
+    {
+      "text": "So, in this action, the plaintiffs seek an interlocutory injunction to restrain the sale of the shares pending trial.",
+      "id": "s7"
+    },
+    {
+      "text": "2 To understand the nature of the dispute, it is necessary to say something more about the facts.",
+      "id": "s8"
+    },
+    {
+      "text": "3 For some time prior to engaging OPS as their broker, the plaintiffs invested in listed shares.",
+      "id": "s9"
+    },
+    {
+      "text": "Part of their funding was obtained through margin lending facilities provided by St George Bank.",
+      "id": "s10"
+    },
+    {
+      "text": "In May 2005, or thereabouts, the plaintiffs shifted their share dealings to OPS.",
+      "id": "s11"
+    },
+    {
+      "text": "In an affidavit sworn today Mr Dixon, CMG group's head of investments, said he was attracted to \"the facility offered [by OPS] in relation to 'short selling' of shares.",
+      "id": "s12"
+    },
+    {
+      "text": "\"\n \n4 Mr Dixon, and others from the CMG group, attended a presentation by OPS representatives concerning the \"securities borrowing and lending and equity financing products and services Opes Prime offered\".",
+      "id": "s13"
+    },
+    {
+      "text": "Mr Dixon repeated that he was particularly interested in the \"short selling facility\".",
+      "id": "s14"
+    },
+    {
+      "text": "During the presentation, Mr Dixon was provided with a brochure which described the services OPS provided to its clients.",
+      "id": "s15"
+    },
+    {
+      "text": "These services included, to quote from the brochure, \"equity financing and a select suite of closely related services.",
+      "id": "s16"
+    },
+    {
+      "text": "\" Mr Dixon said he did not read the brochure in detail, but that he did read the introductory parts.",
+      "id": "s17"
+    },
+    {
+      "text": "I will refer to some of those parts.",
+      "id": "s18"
+    },
+    {
+      "text": "5 First of all the brochure states that OPS provided its services to \"sophisticated market players\".",
+      "id": "s19"
+    },
+    {
+      "text": "Mr Dixon probably fits that description.",
+      "id": "s20"
+    },
+    {
+      "text": "However that may be, in its first few pages the brochure gives a general description of securities lending and equity financing.",
+      "id": "s21"
+    },
+    {
+      "text": "Beneath the heading \"Services\", \"securities lending\" is described as:\n \n Securities Lending --- a method to facilitate selling short Under a securities loan an investor borrows a listed equity in order to facilitate selling short.",
+      "id": "s22"
+    },
+    {
+      "text": "A sale is said to be 'short' when the investor believes a share price will fall; in order to take advantage of this position, an investor borrows the stock and then sells it, aiming to buy it back later at a lower price, and then return the borrowed stock.",
+      "id": "s23"
+    },
+    {
+      "text": "Having borrowed the stock and sold it short, the investor then has market exposure to the short stock, and is responsible for covering for any dividends and corporate actions (this includes imputation credits).",
+      "id": "s24"
+    },
+    {
+      "text": "This trade might be as a naked short, in other words, as an isolated trade in its own right, or used in pairs trading, arbitrage or special event situations.",
+      "id": "s25"
+    },
+    {
+      "text": "The cash realised by selling the securities is used as collateral for the borrowed securities, along with an additional margin.",
+      "id": "s26"
+    },
+    {
+      "text": "When the stock is returned the cash is returned to the investor, which is used to cover the purchase of the stock in the market.",
+      "id": "s27"
+    },
+    {
+      "text": "This is followed by a description of \"equity financing\" as follows:\n\n Equity Financing --- a method of finance and leverage long security positions Under an equity financing arrangement an investor lends listed equities against cash as collateral.",
+      "id": "s28"
+    },
+    {
+      "text": "The cash can then be reinvested by the investor, thus leveraging exposure to the market.",
+      "id": "s29"
+    },
+    {
+      "text": "The amount of cash collateral available is at a set loan valuation ration (LVR).",
+      "id": "s30"
+    },
+    {
+      "text": "The investor retains beneficial and economic ownership of the lent stock including full exposure to dividends and corporate actions, and exposure to market risk.",
+      "id": "s31"
+    },
+    {
+      "text": "The transaction can be reversed at any time.",
+      "id": "s32"
+    },
+    {
+      "text": "6 Those descriptions would have made it apparent to Mr Dixon, if it was not already apparent to him, that securities lending for the purposes of short selling involved passing title to shares to an investor so that the investor could himself sell (that is, pass good title to) the borrowed shares.",
+      "id": "s33"
+    },
+    {
+      "text": "On the other hand, I accept for the purposes of this application that some confusion may have been generated by the description of equity financing.",
+      "id": "s34"
+    },
+    {
+      "text": "The brochure refers to the \"lend[ing]\" of securities as collateral, although it does not say that the securities are being mortgaged or charged.",
+      "id": "s35"
+    },
+    {
+      "text": "Nonetheless the description asserts that \"the investor retains beneficial and economical ownership of the lent stock\", which at least suggests that ownership of some kind is retained by the investor.",
+      "id": "s36"
+    },
+    {
+      "text": "7 A week or so after the presentation, Mr Dixon received an email from OPS providing further information about the \"proposed financing facilities\" that were being offered to the CMG group.",
+      "id": "s37"
+    },
+    {
+      "text": "The information included a further description of \"securities lending\" and \"equity financing\" as follows:\n \n \n Securities Lending --- a method to facilitate selling short Under a securities loan an investor borrows a listed equity in order to facilitate selling short.",
+      "id": "s38"
+    },
+    {
+      "text": "Under this facility the costs/margins are: Margin: 25% Line fee: $50:00 per contract note Equity Finance --- a method to finance and leverage long security positions Under an equity finance arrangement[s] an investor lends listed equities against cash as collateral.",
+      "id": "s39"
+    },
+    {
+      "text": "The investor retains beneficial and economic ownership of the lent stock, including full exposure to dividends and corporate actions, and exposure to market risk.",
+      "id": "s40"
+    },
+    {
+      "text": "The transaction can be reversed at any time.",
+      "id": "s41"
+    },
+    {
+      "text": "8 Once again, Mr Dixon was told that \"equity financing\" involves \"an investor lend[ing] listed equities against cash as collateral.",
+      "id": "s42"
+    },
+    {
+      "text": "\" He was also told that under such a facility the shares being financed were to be held by ANZ as custodian.",
+      "id": "s43"
+    },
+    {
+      "text": "9 Mr Dixon says that as a result of this information he formed the view that under an equity financing arrangement the investor would retain beneficial ownership of the shares that were put up as collateral, and that the shares would be returned whenever the financing was paid out and that, in the meantime, the investor retained the voting rights attached to the shares as well as the right to receive dividends.",
+      "id": "s44"
+    },
+    {
+      "text": "10 The plaintiffs were attracted to the facilities offered by OPS as a means of building their share portfolio.",
+      "id": "s45"
+    },
+    {
+      "text": "An agreement for that purpose was entered into with a company related to the stockbroker, Opes Prime Securities Ltd (OP Securities), which had been incorporated in the Virgin Islands.",
+      "id": "s46"
+    },
+    {
+      "text": "The agreement was contained in the brochure; Mr Dixon read the agreement but not \"in great detail\".",
+      "id": "s47"
+    },
+    {
+      "text": "11 The first thing to note is that the agreement is headed \"Securities Lending and Borrowing Agreement\".",
+      "id": "s48"
+    },
+    {
+      "text": "The principal function of the agreement is to regulate the terms upon which a party (it could be any party to the agreement) would lend shares to the other and receive \"collateral\" by way of security.",
+      "id": "s49"
+    },
+    {
+      "text": "The way the agreement worked in practice was that the plaintiffs lent shares to OP Securities with the cash \"collateral\" put up by OP Securities being used as the purchase price.",
+      "id": "s50"
+    },
+    {
+      "text": "In other words, from the plaintiffs' perspective the \"collateral\" was the means by which OP Securities \"lent\" money to the plaintiffs and the \"loan\" of shares to OP Securities was the means by which the loan was secured.",
+      "id": "s51"
+    },
+    {
+      "text": "12 It is necessary to refer to the terms of the agreement in some detail.",
+      "id": "s52"
+    },
+    {
+      "text": "The parties are OP Securities on the one side and the plaintiffs on the other.",
+      "id": "s53"
+    },
+    {
+      "text": "The plaintiffs are referred to as the \"Client\".",
+      "id": "s54"
+    },
+    {
+      "text": "Thereafter:\n \n \n Clause 1.1 provides: \n (Borrowing Request) The Lender will lend Securities to the Borrower, and the Borrower will borrow Securities from the Lender, in accordance with the terms of this Agreement, regardless of which party is the Lender.",
+      "id": "s55"
+    },
+    {
+      "text": "In all cases Opes Prime must have received from the Client and accepted (by whatever means) a Borrowing Request, regardless of which party is the Lender.",
+      "id": "s56"
+    },
+    {
+      "text": "Unless otherwise stated in a Confirmation or other correspondence, if Opes Prime is the Borrower of Securities, the Fee initially will be interest on the Cash Collateral at the rate and with such other components as otherwise advised to the Client.",
+      "id": "s57"
+    },
+    {
+      "text": "Clause 2.1 provides:\n (Delivery) The Lender will procure the delivery of Securities to the Borrower or deliver such Securities in accordance with the relevant Borrowing Request together with appropriate instructions for or instruments of transfer (if necessary) duly stamped (if necessary) and such other instruments (if any) as required to vest title absolutely in the Borrower.",
+      "id": "s58"
+    },
+    {
+      "text": "Clause 3.1 relevantly provides:\n (Passing of Title) The Parties must execute and deliver all necessary documents and give all necessary instructions to procure that all right, title and interest in: (a) any Securities borrowed pursuant to clause 1; (b) any Equivalent Securities redelivered pursuant to clause 6; (c) any Collateral delivered pursuant to clause 5; (d) any Equivalent Collaterial redelivered pursuant to clauses 5 or 6; will pass absolutely from one Party to the other, free from all liens, charges, equities and encumbrances, on delivery or redelivery of the same in accordance with this Agreement.",
+      "id": "s59"
+    },
+    {
+      "text": "Clause 3.2 relevantly provides:\n (Distributions) (a) (Cash Distributions) Unless otherwise agreed, if income is paid by the issuer in relation to any borrowed Securities ... the Borrower must, on the date of the payment of such Income, or on such other date as the Parties may from time to time agree, (Relevant Payment Date) pay a sum of money equivalent to that to the Lender would have been entitled to receive (after any deduction, withholding or payment for or on account of any tax made by the relevant issuer (or on its behalf) in respect of such income) had such Securities not been lent to the Borrower and been held by the Lender on the Income Payment Date, irrespective of whether the Borrower received the Income.",
+      "id": "s60"
+    },
+    {
+      "text": "Clause 3.3 relevantly provides:\n (Voting) Any voting rights attaching to the relevant Securities, Equivalent Securities, Collateral, or Equivalent Collateral will be exercisable by the persons in whose name they are registered ... and not necessarily by the Borrower or the Lender (as the case may be).",
+      "id": "s61"
+    },
+    {
+      "text": "Clause 3.4 relevantly provides:\n (Transfer) [A]ll right title and interest in and to Securities \"borrowed\" or \"lent\" and \"Collateral\" which one Party transfers to the other in accordance with this Agreement will pass absolutely from one Party to the other free and clear of any liens, claims, charges or encumbrances or any other interest of the Transferring Party or of any third party ... without the transferor retaining any interest or right to the transferred property, the Party obtaining such title being obliged only to redeliver Equivalent Securities or Equivalent Collateral, as the case may be.",
+      "id": "s62"
+    },
+    {
+      "text": "Clause 5 describes the Client's obligation to put up by way of security sufficient \"collateral\" in respect of any shares that are \"lent\".",
+      "id": "s63"
+    },
+    {
+      "text": "The amount of the collateral required could change from time to time, according to the value of the shares lent.",
+      "id": "s64"
+    },
+    {
+      "text": "In practical terms, the way the arrangement operated was as follows.",
+      "id": "s65"
+    },
+    {
+      "text": "If there was a drop in the value of the shares lent by the Client to OP Securities, so that the total collateral put up by the Client was less than what was required, then top up collateral (in the form of additional shares) was to be provided by the Client.",
+      "id": "s66"
+    },
+    {
+      "text": "This is much like a margin call.",
+      "id": "s67"
+    },
+    {
+      "text": "Clause 6.1 provides:\n (Borrower's obligations to redeliver Equivalent Securities) The Borrower undertakes to redeliver Equivalent Securities in accordance with this Agreement and the terms of the relevant Borrowing Request.",
+      "id": "s68"
+    },
+    {
+      "text": "This takes us to the definition of \"Equivalent Securities\" in cl 22.",
+      "id": "s69"
+    },
+    {
+      "text": "Those securities are defined as: \"[S]ecurities of an identical type, nominal value, description and amount to [the] particular Securities borrowed\".",
+      "id": "s70"
+    },
+    {
+      "text": "13 Now it will immediately be seen that a person who enters into an arrangement of this type, popular enough at the time but, with the benefit of hindsight, a very risky transaction, does not retain beneficial ownership of the shares placed on \"loan\".",
+      "id": "s71"
+    },
+    {
+      "text": "More particularly, the lender does not remain the \"beneficial owner\" as a lawyer would understand that expression.",
+      "id": "s72"
+    },
+    {
+      "text": "On the other hand, the lender may properly be described as the \"economic owner\" of the shares, in the sense that he is in receipt of the dividends and obtains the benefit or suffers the loss that goes with a movement in the share price.",
+      "id": "s73"
+    },
+    {
+      "text": "14 Be that as it may, the point that is important for present purposes is that the ownership of the shares purchased by the plaintiffs and \"lent\" under this agreement has passed, in the first instance to OP Securities and, then, to its assignees.",
+      "id": "s74"
+    },
+    {
+      "text": "If the plaintiffs wish to redeem their shares or, in the language of the brochure, \"reverse the transaction\", their only entitlement is to receive from OP Securities an equivalent number of shares of an identical type.",
+      "id": "s75"
+    },
+    {
+      "text": "With \"ownership\" having passed to OP Securities in exchange for an unsecured promise to deliver an equivalent number of shares of an identical type, the new \"owner\" (OP Securities) was entitled to deal with the shares as it pleased.",
+      "id": "s76"
+    },
+    {
+      "text": "And deal with them it did.",
+      "id": "s77"
+    },
+    {
+      "text": "According to the evidence the shares were transferred to one or more of three institutions, ANZ, Merrill Lynch or Dresdner Kleinwort.",
+      "id": "s78"
+    },
+    {
+      "text": "The plaintiffs say that all their shares went to ANZ.",
+      "id": "s79"
+    },
+    {
+      "text": "15 ANZ has come into the picture in the following circumstances.",
+      "id": "s80"
+    },
+    {
+      "text": "ANZ entered into an agreement with OPS pursuant to which it provided two facilities, an \"Equity Finance Facility\" under which OPS lent securities to ANZ in return for cash collateral and a \"Stock Lending\" arrangement under which ANZ lent securities to OPS in exchange for collateral in the form of cash or securities or both.",
+      "id": "s81"
+    },
+    {
+      "text": "Mr Cahill, the head of financial institution products at ANZ, said that the agreement follows the form of the Australian Master Securities Lending Agreement (AMSLA), which has been the standard form stock lending agreement in Australia since at least 1999.",
+      "id": "s82"
+    },
+    {
+      "text": "The ANZ agreement is, in all material respects, the same as that used by OP Securities.",
+      "id": "s83"
+    },
+    {
+      "text": "16 Mr Cahill said that under ANZ's Equity Finance Facility ANZ borrowed securities from OPS and in return provided collateral to OPS generally in the form of cash.",
+      "id": "s84"
+    },
+    {
+      "text": "It seems tolerably clear that OPS lent this cash to its clients to enable them to purchase the shares that were then \"lent\" to OP Securities in accordance with the agreement between the plaintiffs and OP Securities.",
+      "id": "s85"
+    },
+    {
+      "text": "To a layperson this may, not unfairly, be described as a form of back to back financing.",
+      "id": "s86"
+    },
+    {
+      "text": "17 ANZ also lent securities to OPS in return for the provision of collateral, either in the form of cash or securities.",
+      "id": "s87"
+    },
+    {
+      "text": "Mr Cahill explained that: \"In both instances, where securities were either borrowed by ANZ or provided as collateral to ANZ, the title to the securities passed to ANZ.",
+      "id": "s88"
+    },
+    {
+      "text": "ANZ then used those securities which are pooled (or grouped) as part of its own securities lending business.",
+      "id": "s89"
+    },
+    {
+      "text": "\" \n \n18 Notwithstanding what seems to be back to back arrangements between ANZ and OPS, there is a problem in tracing the plaintiffs' shares into the hands of ANZ.",
+      "id": "s90"
+    },
+    {
+      "text": "Having regard to the Clearinghouse Electronic Subregister System, known colloquially as CHESS, where all dealings in shares in listed companies are transacted, it is not possible to link particular shares with a particular holder.",
+      "id": "s91"
+    },
+    {
+      "text": "This may be a matter of some moment.",
+      "id": "s92"
+    },
+    {
+      "text": "I have pointed out that OPS had three financiers.",
+      "id": "s93"
+    },
+    {
+      "text": "For present purposes I will assume that Merrill Lynch and Dresdner Kleinwort had similar arrangements with OPS as did ANZ.",
+      "id": "s94"
+    },
+    {
+      "text": "Thus it may never be possible to determine whether all the shares which the plaintiffs lent to OP Securities found their way into the hands of ANZ.",
+      "id": "s95"
+    },
+    {
+      "text": "No doubt some did, but some could also have been transferred to one of the other financiers.",
+      "id": "s96"
+    },
+    {
+      "text": "19 OPS is both in receivership and administration.",
+      "id": "s97"
+    },
+    {
+      "text": "The receivers and the administrators were each represented at the hearing.",
+      "id": "s98"
+    },
+    {
+      "text": "I asked their representatives to obtain instructions regarding the tracing of the plaintiffs' shares.",
+      "id": "s99"
+    },
+    {
+      "text": "I was told from the bar table (there being no time to put the instructions into an affidavit) that it was not at present possible to trace the shares and some may not be traceable at all.",
+      "id": "s100"
+    },
+    {
+      "text": "20 I can now turn to the issues that have brought the parties to court.",
+      "id": "s101"
+    },
+    {
+      "text": "In aggregate ANZ is owed several hundreds of millions of dollars by OPS.",
+      "id": "s102"
+    },
+    {
+      "text": "That is, OPS is in deficit under ANZ's Equity Finance Facility and is required to lodge additional securities or repay cash.",
+      "id": "s103"
+    },
+    {
+      "text": "Following the collapse of the share market ANZ discovered that there were irregularities in OPS' accounts.",
+      "id": "s104"
+    },
+    {
+      "text": "Mr Cahill explained those irregularities.",
+      "id": "s105"
+    },
+    {
+      "text": "I intend to refer to only one which, in the event, was quite significant.",
+      "id": "s106"
+    },
+    {
+      "text": "He said \"that there appeared to be a substantial 'hole in the accounts' arising from several customer accounts which, as a result of a substantial deterioration in the value of the relevant securities, should have been the subject of a 'margin call'.",
+      "id": "s107"
+    },
+    {
+      "text": "However, no call had been made for reasons that at the time were not clearly explicable.",
+      "id": "s108"
+    },
+    {
+      "text": "Smith and Blumberg [who are, or at least previously were, directors of OPS] suggested that the true margin position had been concealed by making the relevant account appear to be 'within margin'.",
+      "id": "s109"
+    },
+    {
+      "text": "They were not clear how this had been done\".",
+      "id": "s110"
+    },
+    {
+      "text": "Then on 27 March 2008 the administrators were appointed to OPS.",
+      "id": "s111"
+    },
+    {
+      "text": "Accordingly, ANZ served notices terminating its agreements with OPS and appointed the receivers under a charge it had taken over OPS' assets.",
+      "id": "s112"
+    },
+    {
+      "text": "21 Thereafter ANZ began to sell the shares all of which had been provided to it as collateral for stock loans (in exchange for which ANZ had provided cash collateral).",
+      "id": "s113"
+    },
+    {
+      "text": "Among the shares that have been, or are likely to be, sold are, no doubt, some of the shares that had been purchased by the plaintiffs with funds provided by OPS and then were \"lent\" to OP Securities.",
+      "id": "s114"
+    },
+    {
+      "text": "The plaintiffs wish to redeem those shares by repaying in full the amounts they have borrowed.",
+      "id": "s115"
+    },
+    {
+      "text": "22 As things presently stand, the shares cannot be redeemed because, under the plaintiffs' agreement with OP Securities, \"ownership\" of the shares has passed and the only thing the plaintiffs have is a promise by OP Securities to deliver to them the equivalent shares.",
+      "id": "s116"
+    },
+    {
+      "text": "At the moment that unsecured promise appears to have little value as OP Securities may not have the funds to purchase the shares.",
+      "id": "s117"
+    },
+    {
+      "text": "23 The plaintiffs seek to circumvent their dilemma by asserting that, by reason of the true arrangement between themselves, OPS and OP Securities, they are the beneficial (that is the equitable) owners of the shares they purchased, in the sense that they obtained, and still retain, a proprietary interest in those shares.",
+      "id": "s118"
+    },
+    {
+      "text": "They concede that their agreement with OP Securities does not reflect this position.",
+      "id": "s119"
+    },
+    {
+      "text": "But they say, as they must, that to overcome the terms of the agreement, they have a good case for the rectification of the agreement.",
+      "id": "s120"
+    },
+    {
+      "text": "24 Rectification is available in a variety of circumstances, the principal one being where there is a prior common agreement in terms different from those recorded in the document to be rectified.",
+      "id": "s121"
+    },
+    {
+      "text": "To establish a case for rectification there must have been some mistake in the document, that is, a failure to record accurately the intention of both parties.",
+      "id": "s122"
+    },
+    {
+      "text": "Most usually the mistake is a common mistake.",
+      "id": "s123"
+    },
+    {
+      "text": "That is where the mistake is substantially shared by each party to the contract.",
+      "id": "s124"
+    },
+    {
+      "text": "But there may also be rectification in the case of unilateral mistake.",
+      "id": "s125"
+    },
+    {
+      "text": "Usually that requires a finding that the party against whom rectification is sought is aware of the other party's mistaken belief that the agreement has taken a particular shape whereas the agreement has not in fact taken that shape.",
+      "id": "s126"
+    },
+    {
+      "text": "25 Precisely how the agreement with OP Securities is to be rectified has not been explained in any detail.",
+      "id": "s127"
+    },
+    {
+      "text": "No doubt, one difficulty in formulating what will be said to be the true terms of the agreement is that while they should, on the plaintiffs' case, reflect the plaintiffs' claimed beneficial interest in the shares, they must also accommodate what the plaintiffs through Mr Dixon must have known about the lending of shares for the purposes of short selling.",
+      "id": "s128"
+    },
+    {
+      "text": "Here the plaintiffs face a dilemma of sorts.",
+      "id": "s129"
+    },
+    {
+      "text": "Shares can only be \"lent\" for short selling if the borrower is able to pass good title to the shares.",
+      "id": "s130"
+    },
+    {
+      "text": "Accordingly this would be a significant encroachment on the \"beneficial ownership\" which the plaintiffs assert.",
+      "id": "s131"
+    },
+    {
+      "text": "26 On any view the plaintiffs face significant hurdles in establishing a case for rectification.",
+      "id": "s132"
+    },
+    {
+      "text": "But the real problem may not be with the underlying facts.",
+      "id": "s133"
+    },
+    {
+      "text": "There is in my view an even greater hurdle confronting the plaintiffs in their claim.",
+      "id": "s134"
+    },
+    {
+      "text": "Rectification is a discretionary remedy.",
+      "id": "s135"
+    },
+    {
+      "text": "Being a discretionary remedy there are certain circumstances in which the remedy will not be granted.",
+      "id": "s136"
+    },
+    {
+      "text": "Importantly, for present purposes, it has been held that if rectification were to affect an innocent third party (for example a bona fide purchaser for value without notice of the claimant's rights) the remedy will be refused.",
+      "id": "s137"
+    },
+    {
+      "text": "By way of analogy there are cases which hold that if a third party has acquired rights bona fide and for value in property transferred under a contract, a court will not rescind the contract: White v Garden (1851) 10 CB 919 [138 ER 364]; Clough v London and North Western Railway Co (1871) LR 7 Exch 26 ; In re L G Clarke; Ex parte the Debtor [1967] Ch 1121.",
+      "id": "s138"
+    },
+    {
+      "text": "The cases on rectification are to the same effect: see Latec Investments Ltd v Hotel Terrigal Pty Ltd (in liq) [1965] HCA 17 ; (1965) 113 CLR 265 ; Coolibah Pastoral Co v Commonwealth (1967) 11 FLR 173.",
+      "id": "s139"
+    },
+    {
+      "text": "27 ANZ claims to be an innocent third party: a bona fide purchaser of the legal title to any of the shares originally purchased by the plaintiff for value and without notice.",
+      "id": "s140"
+    },
+    {
+      "text": "28 There are circumstances in which a legal owner will forfeit the priority which his legal estate gives him.",
+      "id": "s141"
+    },
+    {
+      "text": "The principal circumstances are where the legal owner is guilty of actual fraud ( Birch v Ellames [1817] EngR 16 ; (1794) 2 Anst 427 [145 ER 924]) or \"gross\" negligence.",
+      "id": "s142"
+    },
+    {
+      "text": "As to the latter point, Eve J explained in Hudston v Viney [1921] 1 Ch 98, 104 that the negligence \"must at least be carelessness of so aggravated a nature as to amount to the neglect of precautions which the ordinarily reasonable man would have observed and to indicate an attitude of mental indifference to obvious risks.",
+      "id": "s143"
+    },
+    {
+      "text": "\" Obviously, fraud and negligence, even when it is gross negligence, are of a different character.",
+      "id": "s144"
+    },
+    {
+      "text": "In the one case the conduct is dishonest.",
+      "id": "s145"
+    },
+    {
+      "text": "In the other, the omission is due to carelessness.",
+      "id": "s146"
+    },
+    {
+      "text": "29 In this case the plaintiffs do not raise fraud against ANZ.",
+      "id": "s147"
+    },
+    {
+      "text": "But carelessness was claimed.",
+      "id": "s148"
+    },
+    {
+      "text": "First of all it was put that ANZ was under a positive duty to ascertain whether OPS could pass title to the shares.",
+      "id": "s149"
+    },
+    {
+      "text": "I do not accept that it was under such a duty, absent some circumstances that would put ANZ on notice that OPS' title required investigation.",
+      "id": "s150"
+    },
+    {
+      "text": "In any event, absent notice of particular circumstances warranting investigation, it is not possible to state what ANZ should have done.",
+      "id": "s151"
+    },
+    {
+      "text": "One must not lose sight of the fact that ANZ obtained all the documents it needed to enable it to become the holder of the shares from a broker who, it may have been presumed, had authority to do what it was doing.",
+      "id": "s152"
+    },
+    {
+      "text": "On the present state of the evidence, apart from one incident, nothing has been suggested that should have alerted ANZ that there were potential claims over the shares.",
+      "id": "s153"
+    },
+    {
+      "text": "30 The incident to which I refer is a discussion involving Paul Saliba, the financial services director of Lincoln Indicators Pty Ltd, and officers of ANZ concerning a securities lending agreement not related to the one entered into by the plaintiffs.",
+      "id": "s154"
+    },
+    {
+      "text": "Mr Saliba prepared a note of this discussion a few days ago.",
+      "id": "s155"
+    },
+    {
+      "text": "The discussion concerned a securities lending agreement that was to be entered into with OPS.",
+      "id": "s156"
+    },
+    {
+      "text": "Mr Saliba's note says that during the course of this discussion reference was made to the fact that his company would retain the \"beneficial ownership of the shares\" and that ANZ \"would hold the stock effectively as a custodian\".",
+      "id": "s157"
+    },
+    {
+      "text": "He says the ANZ representatives knew the investor would remain the beneficial owner of the shares.",
+      "id": "s158"
+    },
+    {
+      "text": "31 I am unable to assess the value of this evidence for a number of reasons.",
+      "id": "s159"
+    },
+    {
+      "text": "For one thing, it may be speaking about an agreement which is different from the arrangement in issue here.",
+      "id": "s160"
+    },
+    {
+      "text": "Secondly, what these parties might have had in mind by \"beneficial ownership\" is not known.",
+      "id": "s161"
+    },
+    {
+      "text": "More importantly, I do not think it possible to elevate the conversation that Mr Saliba refers to as one that put ANZ on notice that the plaintiffs, or persons in a similar position had, or might have, a rectification claim in respect of their agreement with OP Securities that would result in them retaining ownership of shares that were lent to OP Securities.",
+      "id": "s162"
+    },
+    {
+      "text": "32 Even if the position were that ANZ did not obtain a legal interest in the shares, but its interest was confined to an equitable estate (such as that of a mortgagee or chargee), the plaintiffs would be in trouble.",
+      "id": "s163"
+    },
+    {
+      "text": "The usual rule is that the holder of the first equity has priority over the later equity.",
+      "id": "s164"
+    },
+    {
+      "text": "That is not true, however, where the prior equity is a \"mere equity\" such as an equity to set aside a contract.",
+      "id": "s165"
+    },
+    {
+      "text": "In that kind of case, precedence is given to the later equity.",
+      "id": "s166"
+    },
+    {
+      "text": "The principle was first laid down in Phillips v Phillips [1861] EngR 1044 ; (1862) 4 De G F &amp; J 208 [45 ER 1164] but reference is usually made to Cave v Cave (1880) 15 Ch D 639.",
+      "id": "s167"
+    },
+    {
+      "text": "Rectification also is a \"mere equity\" that would not defeat a later equitable interest.",
+      "id": "s168"
+    },
+    {
+      "text": "33 If I am wrong in this conclusion, and it is arguable that the plaintiffs could, with rectification, claim an equitable interest of a kind that takes priority over a later interest, in all likelihood they would nonetheless have lost their priority.",
+      "id": "s169"
+    },
+    {
+      "text": "A person with priority according to traditional equitable rules may lose that priority by conduct.",
+      "id": "s170"
+    },
+    {
+      "text": "For example, when an equitable owner has, by his conduct, allowed his property to be dealt with adverse to his interests, his prior equity may be displaced.",
+      "id": "s171"
+    },
+    {
+      "text": "Whether the prior equity is displaced involves consideration of \"fairness and justice\" with the \"overriding question [being] whose is the better equity, bearing in mind the conduct of both parties, the question of any negligence on the part of the prior claimant, the effect of any representation as possibly raising an estoppel and whether it can be said that the conduct of the prior claimant has enabled such a representation to be made\": Cash Resources Australia Pty Ltd v BT Securities Ltd [1990] VR 576 , 586 citing Heid v Reliance Finance Corporation Pty Ltd [1983] HCA 30 ; (1983) 154 CLR 326 , 341.",
+      "id": "s172"
+    },
+    {
+      "text": "Here there is a strong case for the displacement of the plaintiffs' equitable interest by reason of them: (1) having entered into the Securities Lending and Borrowing Agreement, by which they represented that they have no interest in shares lent to OP Securities; (2) having allowed OP Securities to become the legal owner of the shares; and, perhaps (3) having contemplated that their shares might be \"lent\" to a third party.",
+      "id": "s173"
+    },
+    {
+      "text": "34 To this point I have been dealing with the merits of the plaintiffs' claimed priority over ANZ's interest in the shares.",
+      "id": "s174"
+    },
+    {
+      "text": "The claim is premised on the proposition that ANZ did obtain title to the plaintiffs' shares.",
+      "id": "s175"
+    },
+    {
+      "text": "It is likely that ANZ did acquire a significant number of the plaintiffs' shares, but on the evidence it can not be said that ANZ acquired all of them.",
+      "id": "s176"
+    },
+    {
+      "text": "Putting this problem to one side, it will nevertheless be apparent that I am troubled about the merits of other aspects of the plaintiffs' claim.",
+      "id": "s177"
+    },
+    {
+      "text": "I am particularly troubled, not so much about the assertion that the plaintiffs were misled (as the evidence presently stands there is a reasonable case for that), but as regards whether they can use that to obtain priority over ANZ.",
+      "id": "s178"
+    },
+    {
+      "text": "35 There are, however, two other factors I have taken into account in deciding whether interlocutory relief should be granted.",
+      "id": "s179"
+    },
+    {
+      "text": "The first is the well known principle that an interlocutory injunction will only be granted if, at trial, the plaintiffs could not obtain an appropriate remedy in the event of success.",
+      "id": "s180"
+    },
+    {
+      "text": "It is often said that in order to establish a right to an interlocutory injunction the plaintiff must show that he is sufficiently threatened with irreparable damage: Beecham Group Ltd v Bristol Laboratories Pty Ltd [1968] HCA 1 ; (1968) 118 CLR 618 , 626 citing Plimpton v Spiller (1876) 4 Ch D 286.",
+      "id": "s181"
+    },
+    {
+      "text": "36 The problem on this application is that if, at trial, the plaintiffs are able to show that ANZ has wrongfully sold shares in which they (the plaintiffs) hold the beneficial interest, they could obtain one of two forms of relief.",
+      "id": "s182"
+    },
+    {
+      "text": "The first is an order that, subject to the plaintiffs discharging their debt, ANZ go into the market and purchase shares of an equivalent number and type for transfer to the plaintiffs.",
+      "id": "s183"
+    },
+    {
+      "text": "The second is that, if the shares go up in value, the plaintiffs recover equitable compensation of an amount equal to the difference between the purchase price of the shares and their value at the time of judgment.",
+      "id": "s184"
+    },
+    {
+      "text": "For that reason, the plaintiffs suffer no disadvantage if they do not get the injunction they seek.",
+      "id": "s185"
+    },
+    {
+      "text": "37 The second point is a practical one.",
+      "id": "s186"
+    },
+    {
+      "text": "It concerns the undertaking in damages.",
+      "id": "s187"
+    },
+    {
+      "text": "Sometimes an undertaking is not enough to obtain an injunction.",
+      "id": "s188"
+    },
+    {
+      "text": "In Inglis v Commonwealth Trading Bank of Australia [1972] HCA 74 ; (1972) 126 CLR 161 , 164, a somewhat analogous case, Walsh J said that: \"A general rule has long been established, in relation to applications to restrain the exercise by a mortgagee of powers given by a mortgage and in particular the exercise of a power of sale, that such an injunction will not be granted unless the amount of the mortgage debt, if this be not in dispute, be paid or unless, if the amount be disputed, the amount claimed by the mortgagee be paid into court.",
+      "id": "s189"
+    },
+    {
+      "text": "\"\n \n38 The benefit of a mortgage would be greatly diminished if this was not the rule, for the risk of a change in the value of the mortgaged property would lie with the mortgagee and not with the mortgagor, which is where it should lie.",
+      "id": "s190"
+    },
+    {
+      "text": "39 I accept that the usual rule should not be applied in the present case.",
+      "id": "s191"
+    },
+    {
+      "text": "The plaintiffs claim title to the shares not as mortgagor but as beneficial owners.",
+      "id": "s192"
+    },
+    {
+      "text": "Still, it would be wrong to restrain the sale of the shares without providing ANZ with full protection in the event that the plaintiffs lose at trial and the shares have fallen in value in the meantime.",
+      "id": "s193"
+    },
+    {
+      "text": "40 Accordingly, as I indicated during the hearing, the plaintiffs would be required to put up by way of security in support of their undertaking either cash or an unconditional bank guarantee in an amount as close as possible to the likely bottom price of the shares in issue.",
+      "id": "s194"
+    },
+    {
+      "text": "That would require an assessment of the future performance of the share market, an exercise I would not undertake without a good deal of assistance from the parties.",
+      "id": "s195"
+    },
+    {
+      "text": "Fortunately, this task need not be undertaken because the amount required would be much more than the $1 million proffered by the plaintiffs.",
+      "id": "s196"
+    },
+    {
+      "text": "41 For the foregoing reasons I would dismiss the application for interlocutory relief.",
+      "id": "s197"
+    },
+    {
+      "text": "42 Last but not least, I wish to record my indebtedness to the helpful submissions from counsel without which I would not have been able to deliver these reasons immediately following the conclusion of the argument.",
+      "id": "s198"
+    },
+    {
+      "text": "I certify that the preceding forty-two (42) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Finkelstein.",
+      "id": "s199"
+    },
+    {
+      "text": "Associate:\n\nDated: 7 April 2008\n\n Counsel for the Plaintiffs: Mr D Denton SC and Ms L De Ferrari \n \n Solicitor for the Plaintiffs: Madgwicks \n \n Counsel for the First Defendant: Mr J Beach QC and Mr P Crutchfield \n \n Solicitor for the First Defendant: Minter Ellison \n \n Counsel for the Third Defendant: Mr T Woodward \n \n Solicitor for the Third Defendant: Deacons \n \n Appearing for the Administrators: Mr T Troiani \n \n Solicitors for the Administrators: Mallesons Stephen Jaques \n\n Date of Hearing: 1 April 2008, 3 April 2008 \n \n Date of Judgment: 3 April 2008 \n\n\n\n SCHEDULE OF PARTIES \n BETWEEN \n \n \n CMG EQUITY INVESTMENTS PTY LTD (ACN 102 035 263) First Plaintiff SOLEN PTY LIMITED (ACN 086 572 009) Second Plaintiff JASON DIXON Third Plaintiff GULL INVESTMENTS PTY LTD (ACN 106 003 687) Fourth Plaintiff \n \n and \n \n \n AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED (ACN 005 357 522) First Defendant ANZ NOMINEES LIMITED Second Defendant OPES PRIME STOCKBROKING LTD (RECEIVERS AND MANAGERS APPOINTED) (ADMINISTRATOR APPOINTED) (ACN 086 294 028) Third Defendant JOHN LINDHOLM, PETER MCCLUSKY AND ADRIAN BROWN (IN THEIR CAPACITIES AS ADMINISTRATORS OF OPES PRIME STOCKBROKING LTD) Fourth Defendant SOUTHEASTERN CAPITAL LTD (ARBN 098 736 086) Fifth Defendant \n\n \n\n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2008/455.html",
+      "id": "s200"
+    }
+  ]
+}

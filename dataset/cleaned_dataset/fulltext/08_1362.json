@@ -1,0 +1,1144 @@
+{
+  "name": "Portman Iron Ore Limited (ACN 007 871 892), in the matter of Golden West Resources Limited (ACN 102 622 051) [2008] FCA 1362 (5 September 2008)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2008/1362.html",
+  "catchphrases": [
+    {
+      "text": "general meeting",
+      "id": "c0"
+    },
+    {
+      "text": "voting",
+      "id": "c1"
+    },
+    {
+      "text": "proxy votes",
+      "id": "c2"
+    },
+    {
+      "text": "forwarding proxies via a third party",
+      "id": "c3"
+    },
+    {
+      "text": "consideration of the requirements of s 250b of the corporations act 2001 (cth)",
+      "id": "c4"
+    },
+    {
+      "text": "whether a right of review",
+      "id": "c5"
+    },
+    {
+      "text": "declaratory relief",
+      "id": "c6"
+    },
+    {
+      "text": "injunctive relief",
+      "id": "c7"
+    },
+    {
+      "text": "justiciable controversy",
+      "id": "c8"
+    },
+    {
+      "text": "whether a cause of action",
+      "id": "c9"
+    },
+    {
+      "text": "single judge decisions",
+      "id": "c10"
+    },
+    {
+      "text": "judicial comity",
+      "id": "c11"
+    },
+    {
+      "text": "decision of single judge of same or coordinate jurisdiction to be followed unless clearly wrong",
+      "id": "c12"
+    },
+    {
+      "text": "authority of and confidence in courts",
+      "id": "c13"
+    },
+    {
+      "text": "corporations",
+      "id": "c14"
+    },
+    {
+      "text": "practice and procedure",
+      "id": "c15"
+    },
+    {
+      "text": "judges and courts",
+      "id": "c16"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "INTRODUCTION \n \n1 The intervenor (Golden West Resources Limited (Golden West)) is a listed public company in which the plaintiff (Portman) owns 19.2% of the voting shares.",
+      "id": "s0"
+    },
+    {
+      "text": "On 20 June 2008, Portman served a notice on Golden West pursuant to s 249D of the Corporations Act 2001 (Cth) (the Act) requesting Golden West to call and arrange to hold a general meeting of its shareholders.",
+      "id": "s1"
+    },
+    {
+      "text": "Portman wished to propose certain motions for the appointment of two persons nominated by Portman as directors of Golden West and to remove two current directors of Golden West.",
+      "id": "s2"
+    },
+    {
+      "text": "(Golden West was not initially named as a defendant so has styled itself as an intervenor).",
+      "id": "s3"
+    },
+    {
+      "text": "2 By notice dated 21 July 2008, Golden West called the meeting of its shareholders.",
+      "id": "s4"
+    },
+    {
+      "text": "It was to be held on 29 August 2008 at 2.00 pm Western Standard Time (the Meeting).",
+      "id": "s5"
+    },
+    {
+      "text": "The Notice of Meeting set out the motions requested by Portman together with a number of other motions relating to other items of business which were proposed by Golden West.",
+      "id": "s6"
+    },
+    {
+      "text": "It also contained a proxy form in respect of voting.",
+      "id": "s7"
+    },
+    {
+      "text": "3 By letter dated 13 August 2008, Portman then also wrote to all shareholders in Golden West setting out its recommended vote and reasons for the voting on all the motions proposed by the Notice of Meeting.",
+      "id": "s8"
+    },
+    {
+      "text": "It included a pre-completed proxy form which advised shareholders how to complete and lodge the Portman proxy form.",
+      "id": "s9"
+    },
+    {
+      "text": "4 Portman requested that the shareholders return the completed proxy form to Portman's office by a certain date.",
+      "id": "s10"
+    },
+    {
+      "text": "That date was sufficiently early to enable Portman to collect the proxies and to deliver them to the company within a timeframe which would enable compliance with the requirements of s 250B of the Act.",
+      "id": "s11"
+    },
+    {
+      "text": "Portman received completed proxy forms from approximately 181 shareholders in Golden West representing about 12% of the voting shares.",
+      "id": "s12"
+    },
+    {
+      "text": "The proxy forms were then delivered to the registered office of Golden West in Perth.",
+      "id": "s13"
+    },
+    {
+      "text": "The forms were delivered prior to the deadline required for lodgement with Golden West.",
+      "id": "s14"
+    },
+    {
+      "text": "5 At approximately 4.30 pm on the afternoon of Thursday, 28 August 2008, Portman's solicitor was telephoned by Mr Martin Bennett, solicitor.",
+      "id": "s15"
+    },
+    {
+      "text": "Mr Bennett explained that he would be chairing the Meeting and that he had provisionally formed the view that each of the completed Portman proxy forms was invalid.",
+      "id": "s16"
+    },
+    {
+      "text": "It followed that the votes reflected in those completed proxy forms would be disallowed.",
+      "id": "s17"
+    },
+    {
+      "text": "There were several exchanges by telephone and email debating the point but the position was unable to be resolved.",
+      "id": "s18"
+    },
+    {
+      "text": "About an hour before the Meeting was due to be held, Portman filed these proceedings in this Court seeking injunctive relief.",
+      "id": "s19"
+    },
+    {
+      "text": "6 Portman sought declaratory relief and/or alternatively orders pursuant to s 23 (or, I have assumed s 21) of the Federal Court of Australia Act 1976 (Cth) (FCA Act) or in the alternative, pursuant to s 1324 of the Act.",
+      "id": "s20"
+    },
+    {
+      "text": "Specifically, Portman sought orders that the company not act on any resolution to be put at the Meeting or, alternatively, that the company be restrained from holding the Meeting.",
+      "id": "s21"
+    },
+    {
+      "text": "7 After hearing brief argument, I made the following orders which were conveyed by telephone to the Chairman:\n \n \n Upon the applicant giving the usual undertaking as to damages\n \n 1.",
+      "id": "s22"
+    },
+    {
+      "text": "In the event of any of the proxies referred to at paragraph 10 in David Roger Davies affidavit of 29 August, being ruled invalid at the meeting of the company of 29 August 2008, until further order, the Company not declare the result or act upon any motion to be put at that meeting.",
+      "id": "s23"
+    },
+    {
+      "text": "2.",
+      "id": "s24"
+    },
+    {
+      "text": "The costs of today be reserved.",
+      "id": "s25"
+    },
+    {
+      "text": "3.",
+      "id": "s26"
+    },
+    {
+      "text": "There be liberty to either party to apply on short notice.",
+      "id": "s27"
+    },
+    {
+      "text": "4.",
+      "id": "s28"
+    },
+    {
+      "text": "Any further material on which the applicant is to rely be filed and served by 1.00 pm on 1 September 2008.",
+      "id": "s29"
+    },
+    {
+      "text": "5.",
+      "id": "s30"
+    },
+    {
+      "text": "Any further material on which the Company intends to reply in response be filed and served by 11.00 am on 2 September 2008.",
+      "id": "s31"
+    },
+    {
+      "text": "6.",
+      "id": "s32"
+    },
+    {
+      "text": "The hearing be adjourned to Tuesday 2 September 2008 at 2.15 pm.",
+      "id": "s33"
+    },
+    {
+      "text": "8 The interim relief was effectively unopposed and preserved the status quo until a final hearing on 2 September 2008.",
+      "id": "s34"
+    },
+    {
+      "text": "Prior to the hearing on 2 September 2008 Portman provided a minute of proposed orders seeking declarations that the Portman proxies were not invalid and that the Chairman of the Meeting erred in law in disallowing the Portman proxies.",
+      "id": "s35"
+    },
+    {
+      "text": "At the hearing on 2 September 2008, as I had doubts about two of Golden West's arguments, I extended the orders of 29 August 2008 until delivery of this judgment.",
+      "id": "s36"
+    },
+    {
+      "text": "For the following reasons (which do not rely upon those two arguments), the proceedings will be dismissed.",
+      "id": "s37"
+    },
+    {
+      "text": "STATUTORY FRAMEWORK \n \n9 The relevant sections of the Act are as follows.",
+      "id": "s38"
+    },
+    {
+      "text": "10 Section 249X:\n \n \n Who can appoint a proxy (replaceable rule for proprietary companies and mandatory rule for public companies--see section 135) \n \n (1) A member of a company who is entitled to attend and cast a vote at a meeting of the company's members may appoint a person as the member's proxy to attend and vote for the member at the meeting.",
+      "id": "s39"
+    },
+    {
+      "text": "(1A) The person appointed as the member's proxy may be an individual or a body corporate.",
+      "id": "s40"
+    },
+    {
+      "text": "Note: A body corporate may appoint a representative to exercise the powers that the body corporate may exercise as the member's proxy, see section 250D.",
+      "id": "s41"
+    },
+    {
+      "text": "(2) The appointment may specify the proportion or number of votes that the proxy may exercise.",
+      "id": "s42"
+    },
+    {
+      "text": "(3) Each member may appoint a proxy.",
+      "id": "s43"
+    },
+    {
+      "text": "If the member is entitled to cast 2 or more votes at the meeting, they may appoint 2 proxies.",
+      "id": "s44"
+    },
+    {
+      "text": "If the member appoints 2 proxies and the appointment does not specify the proportion or number of the member's votes each proxy may exercise, each proxy may exercise half of the votes.",
+      "id": "s45"
+    },
+    {
+      "text": "(4) Disregard any fractions of votes resulting from the application of subsection (2) or (3).",
+      "id": "s46"
+    },
+    {
+      "text": "11 Section 249Y:\n \n \n Rights of proxies \n \n Rights of proxies \n \n (1) A proxy appointed to attend and vote for a member has the same rights as the member: \n (a) to speak at the meeting; and \n (b) to vote (but only to the extent allowed by the appointment); and \n (c) join in a demand for a poll.",
+      "id": "s47"
+    },
+    {
+      "text": "Proxy's right to vote \n \n (2) If a company has a constitution, the constitution may provide that a proxy is not entitled to vote on a show of hands.",
+      "id": "s48"
+    },
+    {
+      "text": "Note: Even if the proxy is not entitled to vote on a show of hands, they may make or join in the demand for a poll.",
+      "id": "s49"
+    },
+    {
+      "text": "Effect of member's presence on proxy's authority \n \n (3) A company's constitution (if any) may provide for the effect that a member's presence at a meeting has on the authority of a proxy appointed to attend and vote for the member.",
+      "id": "s50"
+    },
+    {
+      "text": "However, if the constitution does not deal with this, a proxy's authority to speak and vote for a member at a meeting is suspended while the member is present at the meeting.",
+      "id": "s51"
+    },
+    {
+      "text": "12 Section 249Z:\n Company sending appointment forms or lists of proxies must send to all members \n \n \n (1) If a company sends a member a proxy appointment form for a meeting or a list of persons willing to act as proxies at a meeting: \n \n \n \n \n (a) if the member requested the form or list--the company must send the form or list to all members who ask for it and who are entitled to appoint a proxy to attend and vote at the meeting; or \n (b) otherwise--the company must send the form or list to all its members entitled to appoint a proxy to attend and vote at the meeting.",
+      "id": "s52"
+    },
+    {
+      "text": "(2) An offence based on subsection (1) is an offence of strict liability.",
+      "id": "s53"
+    },
+    {
+      "text": "Note: For strict liability , see section 6.1 of the Criminal Code .",
+      "id": "s54"
+    },
+    {
+      "text": "13 Section 250A:\n \n \n Appointing a proxy \n \n (1) An appointment of a proxy is valid if it is signed, or otherwise authenticated in a manner prescribed by the regulations, by the member of the company making the appointment and contains the following information: \n (a) the member's name and address; \n (b) the company's name; \n (c) the proxy's name or the name of the office held by the proxy; \n (d) the meetings at which the appointment may be used.",
+      "id": "s55"
+    },
+    {
+      "text": "An appointment may be a standing one.",
+      "id": "s56"
+    },
+    {
+      "text": "(1A) The regulations made for the purposes of subsection (1) may prescribe different requirements for the authentication of an appointment given to the company by different means (electronic or otherwise).",
+      "id": "s57"
+    },
+    {
+      "text": "(2) If a company has a constitution, the constitution may provide that an appointment is valid even if it contains only some of the information required by subsection (1).",
+      "id": "s58"
+    },
+    {
+      "text": "(3) An undated appointment is taken to have been dated on the day it is given to the company.",
+      "id": "s59"
+    },
+    {
+      "text": "(4) An appointment may specify the way the proxy is to vote on a particular resolution.",
+      "id": "s60"
+    },
+    {
+      "text": "If it does: \n \n \n \n \n \n (a) the proxy need not vote on a show of hands, but if the proxy does so, the proxy must vote that way; and \n (b) if the proxy has 2 or more appointments that specify different ways to vote on the resolution--the proxy must not vote on a show of hands; and \n (c) if the proxy is the chair--the proxy must vote on a poll, and must vote that way; and \n (d) if the proxy is not the chair--the proxy need not vote on a poll, but if the proxy does so, the proxy must vote that way.",
+      "id": "s61"
+    },
+    {
+      "text": "If a proxy is also a member, this subsection does not affect the way that the person can cast any votes they hold as a member.",
+      "id": "s62"
+    },
+    {
+      "text": "Note: A company's constitution may provide that a proxy is not entitled to vote on a show of hands (see subsection 249Y(2)).",
+      "id": "s63"
+    },
+    {
+      "text": "(5) A person who contravenes subsection (4) is guilty of an offence, but only if their appointment as a proxy resulted from the company sending to members: \n \n \n \n \n (a) a list of persons willing to act as proxies; or \n (b) a proxy appointment form holding the person out as being willing to act as a proxy.",
+      "id": "s64"
+    },
+    {
+      "text": "(5A) An offence based on subsection (5) is an offence of strict liability.",
+      "id": "s65"
+    },
+    {
+      "text": "Note: For strict liability , see section 6.1 of the Criminal Code .",
+      "id": "s66"
+    },
+    {
+      "text": "(6) An appointment does not have to be witnessed.",
+      "id": "s67"
+    },
+    {
+      "text": "(7) A later appointment revokes an earlier one if both appointments could not be validly exercised at the meeting.",
+      "id": "s68"
+    },
+    {
+      "text": "14 Section 250B:\n \n \n Proxy documents \n \n Documents to be received by company before meeting \n \n (1) For an appointment of a proxy for a meeting of a company's members to be effective, the following documents must be received by the company at least 48 hours before the meeting: \n \n \n \n \n (a) the proxy's appointment; \n (b) if the appointment is signed, or otherwise authenticated in a manner prescribed by regulations made for the purposes of subsection 250A(1), by the appointor's attorney--the authority under which the appointment was signed or authenticated or a certified copy of the authority.",
+      "id": "s69"
+    },
+    {
+      "text": "Documents received following adjournment of meeting \n \n (2) If a meeting of a company's members has been adjourned, an appointment and any authority received by the company at least 48 hours before the resumption of the meeting are effective for the resumed part of the meeting.",
+      "id": "s70"
+    },
+    {
+      "text": "Receipt of documents \n \n (3) A company receives a document referred to in subsection (1): \n \n \n \n \n (a) when the document is received at any of the following: \n \n \n \n \n \n (i) the company's registered office; \n (ii) a fax number at the company's registered office; \n (iii) a place, fax number or electronic address specified for the purpose in the notice of meeting; and \n \n \n \n \n \n (b) if the notice of meeting specifies other electronic means by which a member may give the document--when the document given by those means is received by the company as prescribed by the regulations.",
+      "id": "s71"
+    },
+    {
+      "text": "Constitution or notice of meeting may provide for different notification period \n \n (5) The company's constitution (if any) or the notice of meeting may reduce the period of 48 hours referred to in subsection (1) or (2).",
+      "id": "s72"
+    },
+    {
+      "text": "15 Section 250BA:\n \n \n Proxy documents--listed companies \n \n (1) In a notice of meeting for a meeting of the members of the company, the company: \n \n \n \n \n (a) must specify a place and a fax number for the purposes of receipt of proxy appointments and proxy appointment authorities; and \n (b) may specify: \n \n \n \n \n \n (i) an electronic address for the purposes of receipt of proxy appointments and proxy appointment authorities; and \n (ii) other electronic means by which a member may give the company a proxy appointment or proxy appointment authority.",
+      "id": "s73"
+    },
+    {
+      "text": "(2) This section only applies to a company that is listed.",
+      "id": "s74"
+    },
+    {
+      "text": "(3) This section applies despite anything in the company's constitution.",
+      "id": "s75"
+    },
+    {
+      "text": "16 Section 250C:\n \n \n Validity of proxy vote \n \n Proxy vote valid even if proxy cannot vote as member \n \n (1) A proxy who is not entitled to vote on a resolution as a member may vote as a proxy for another member who can vote if their appointment specifies the way they are to vote on the resolution and they vote that way.",
+      "id": "s76"
+    },
+    {
+      "text": "Proxy vote valid even if member dies, revokes appointment etc. ( replaceable rule--see section 135 ) \n \n (2) Unless the company has received written notice of the matter before the start or resumption of the meeting at which a proxy votes, a vote cast by the proxy will be valid even if, before the proxy votes: \n \n \n \n \n (a) the appointing member dies; or \n (b) the member is mentally incapacitated; or \n (c) the member revokes the proxy's appointment; or \n (d) the member revokes the authority under which the proxy was appointed by a third party; or \n (e) the member transfers the share in respect of which the proxy was given.",
+      "id": "s77"
+    },
+    {
+      "text": "Note: A proxy's authority to vote is suspended while the member is present at the meeting (see subsection 249Y(3)).",
+      "id": "s78"
+    },
+    {
+      "text": "17 On 2 September 2008, I heard argument by way of final hearing of the application for declaratory relief and other orders.",
+      "id": "s79"
+    },
+    {
+      "text": "DECLARATORY RELIEF \n \n18 A number of issues were raised in argument but a vital threshold issue, in my view, is whether it is appropriate to grant declaratory relief in the circumstances which have become evident since the Meeting.",
+      "id": "s80"
+    },
+    {
+      "text": "For the purposes of the application, it was accepted by Portman that even if the Portman proxy forms had been treated as valid and included in the vote, that Portman would not have prevailed.",
+      "id": "s81"
+    },
+    {
+      "text": "That is to say, the majority of shareholders who voted had voted contrary to the wishes of Portman.",
+      "id": "s82"
+    },
+    {
+      "text": "In the light of that concession, I raised with counsel for Portman, Mr Holler the appropriateness of granting declaratory relief.",
+      "id": "s83"
+    },
+    {
+      "text": "It could make no difference to the substantive rights of the parties as even if the ruling by the Chairman were wrong, and the Portman proxies were included, the outcome of the voting at the Meeting would have been unaffected.",
+      "id": "s84"
+    },
+    {
+      "text": "19 Mr Holler's argument was that it is quite likely that Portman will seek to call further meetings and that it wishes to know whether collecting completed proxies before forwarding them to the company is valid compliance with s 250B of the Act.",
+      "id": "s85"
+    },
+    {
+      "text": "Secondly, he submitted that for the purpose of those future hypothetical meetings, the shareholders as a whole would then appreciate that the vote was much closer than was declared at the Meeting.",
+      "id": "s86"
+    },
+    {
+      "text": "In those circumstances they might be persuaded to support Portman's position, he submitted.",
+      "id": "s87"
+    },
+    {
+      "text": "20 In Industrial Equity Ltd v New Redhead Estate &amp; Coal Co Ltd [1969] 1 NSWR 565, Street J as his Honour then was considered a similar situation.",
+      "id": "s88"
+    },
+    {
+      "text": "In that case the plaintiff had attempted to have three directors elected at the annual general meeting of the defendant.",
+      "id": "s89"
+    },
+    {
+      "text": "Many proxies were lodged for the meeting, some in favour of the plaintiff and some in favour of the defendant.",
+      "id": "s90"
+    },
+    {
+      "text": "The chairman disallowed some 160 proxies, mostly in favour of the plaintiff.",
+      "id": "s91"
+    },
+    {
+      "text": "His Honour said that the most significant aspect of the case from a practical point of view was that of the three persons proposed by supporters of the existing board, for election as directors, two of them, even if every challenge propounded by the plaintiff were accepted, would still have been elected.",
+      "id": "s92"
+    },
+    {
+      "text": "His Honour said at 570 'in accordance, then, with the well settled approach in this Court, no occasion arises for any grant of equitable relief in respect of the election of those two persons'.",
+      "id": "s93"
+    },
+    {
+      "text": "21 In Aussie Airlines Pty Ltd v Australian Airlines Ltd and Others (1996) 68 FCR 406 the Full Federal Court said at 414:\n For a party to have sufficient standing to seek and obtain the grant of declaratory relief it must satisfy a number of tests which have been formulated by the courts, some in the alternative and some cumulative.",
+      "id": "s94"
+    },
+    {
+      "text": "I shall formulate them in summary form as follows: \n \n The proceeding must involve the determination of a question that is not abstract or hypothetical.",
+      "id": "s95"
+    },
+    {
+      "text": "There must be a real question involved, and the declaratory relief must be directed to the determination of legal controversies: Re Judiciary and Navigation Acts [1921] HCA 20 ; (1921) 29 CLR 257.",
+      "id": "s96"
+    },
+    {
+      "text": "The answer to the question must produce some real consequences for the parties.",
+      "id": "s97"
+    },
+    {
+      "text": "The applicant for declaratory relief will not have sufficient status if relief is \"claimed in relation to circumstances that [have] not occurred and might never happen\": University of New South Wales v Moorhouse [1975] HCA 26 ; (1975) 133 CLR 1 at 10 per Gibbs J: or if the Court's declaration will produce no foreseeable consequences for the parties: Gardner v Dairy Industry Authority (NSW) (1977) 52 ALJR 180 at 180 per Mason J and at 189 per Aickin J.",
+      "id": "s98"
+    },
+    {
+      "text": "The party seeking declaratory relief must have a real interest to raise it: Forster v Jododex Australia Pty Ltd [1972] HCA 61 ; (1972) 127 CLR 421 at 437 per Gibbs J and Russian Commercial &amp; Industrial Bank v British Bank for Foreign Trade Ltd at 448 per Lord Dunedin.",
+      "id": "s99"
+    },
+    {
+      "text": "Generally there must be a proper contradictor: Russian Commercial &amp; Industrial Bank at 448; and Ainsworth at 596 per Brennan J.",
+      "id": "s100"
+    },
+    {
+      "text": "The relevant principles are laid down by the High Court in Ainsworth, in particular in the joint judgment of Mason CJ, Dawson, Toohey and Gaudron JJ at 581-582.",
+      "id": "s101"
+    },
+    {
+      "text": "Their Honours made the point that \"[i]t is now accepted that superior courts have inherent power to grant declaratory relief\"; and \"[i]t is a discretionary power which `[i]t is neither possible nor desirable to fetter ... by laying down rules as to the manner of its exercise\"' (a reference to a passage from the judgment of Gibbs J in Jododex at 437).",
+      "id": "s102"
+    },
+    {
+      "text": "See also Oil Basins Ltd v Commonwealth at 649 per Dawson.",
+      "id": "s103"
+    },
+    {
+      "text": "...",
+      "id": "s104"
+    },
+    {
+      "text": "These are the rules that should in general be satisfied before the Court's discretion is exercised in favour of granting declaratory relief.",
+      "id": "s105"
+    },
+    {
+      "text": "This Court has undoubted power to grant declaratory relief whether or not any consequential relief is or could be claimed: s 21 of the Federal Court of Australia Act 1976 (Cth); and Ainsworth per Mason CJ, Dawson, Toohey and Gaudron JJ at 581-582.",
+      "id": "s106"
+    },
+    {
+      "text": "See also Commonwealth v Sterling Nicholas Duty Free Pty Ltd [1972] HCA 19 ; (1972) 126 CLR 297 at 305 per Barwick CJ; Telstra Corporation Ltd v Australian Telecommunications Authority (1995) 133 ALR 417 at 424-425 per Lockhart J; and Young on Declaratory Orders (2nd ed, 1984) p 74.",
+      "id": "s107"
+    },
+    {
+      "text": "22 As observed by Le Miere J in MTQ Holdings Pty Ltd v RCR Tomlinson Ltd [2006] WASC 96 at [121] , declaratory relief is a discretionary equitable remedy.",
+      "id": "s108"
+    },
+    {
+      "text": "The power to grant a declaration should be exercised with a proper sense of responsibility and a full realisation that judicial pronouncements ought not to be issued unless there are circumstances calling for their making.",
+      "id": "s109"
+    },
+    {
+      "text": "His Honour continued at [123]-[124]:\n \n \n 123.",
+      "id": "s110"
+    },
+    {
+      "text": "For the reasons I have earlier stated, the irregularity in denying the plaintiffs the opportunity to object to certain proxies did not cause any substantial injustice.",
+      "id": "s111"
+    },
+    {
+      "text": "That is, the declaration would not remedy any substantial injustice.",
+      "id": "s112"
+    },
+    {
+      "text": "124.",
+      "id": "s113"
+    },
+    {
+      "text": "A declaration that (the director) breached his duty as a director will not lead to resolutions 1 and 2 being void or the issue of the shares consequential upon those resolutions being reversed.",
+      "id": "s114"
+    },
+    {
+      "text": "In that sense, the declaration would have no practical effect.",
+      "id": "s115"
+    },
+    {
+      "text": "23 At [125] his Honour confirmed that he had stated the reasons why he declined to make a declaration as to a breach of director's duties.",
+      "id": "s116"
+    },
+    {
+      "text": "His Honour also declined to make an order under s 1322(4) of the Act making declarations concerning the validity of resolutions passed at the general meeting under consideration.",
+      "id": "s117"
+    },
+    {
+      "text": "24 For similar reasons I would also decline to grant the declaratory relief which has been sought as, in my view, granting the declaration will not achieve anything in terms of reversing the resolutions or invalidating the resolutions nor would it resolve any presently outstanding dispute between the parties in circumstances where even if the Portman votes were counted and included, Portman would not have achieved its objectives.",
+      "id": "s118"
+    },
+    {
+      "text": "I also take into account that even if I clearly held a view different from that expressed in Bisan Ltd v Cellante [2002] VSC 430 (and I do not), there would be little clarification of the law as contended by Portman.",
+      "id": "s119"
+    },
+    {
+      "text": "Rather there would simply be two different opinions.",
+      "id": "s120"
+    },
+    {
+      "text": "For reasons expressed below, the better course, whether or not it is compelled by the proper construction of s 250B of the Act is for completed proxies to be returned directly to the company holding the meeting at which the vote is to be exercised.",
+      "id": "s121"
+    },
+    {
+      "text": "JUSTICIABLE CONTROVERSY \n \n25 I also raised with counsel for Golden West, Mr Bruce, whether in those circumstances, there was in reality a matter - that is --- a justiciable controversy between the parties in circumstances where any opinion that the Court may express will not affect in any direct sense any dispute between the parties.",
+      "id": "s122"
+    },
+    {
+      "text": "Mr Bruce submitted that there was not.",
+      "id": "s123"
+    },
+    {
+      "text": "26 The existence of a 'matter' within the meaning of Ch III of the Constitution and s 39B of the Judiciary Act 1903 (Cth) is a jurisdictional prerequisite to the grant of declaratory relief under s 21 of the FCA Act.",
+      "id": "s124"
+    },
+    {
+      "text": "27 A 'matter' is the justiciable controversy or dispute or the subject matter for determination in a legal proceeding: Scott v Handley (1997) 79 FCR 236.",
+      "id": "s125"
+    },
+    {
+      "text": "In Re McBain; Ex parte Australian Catholic Bishops Conference [2002] HCA 16 ; (2002) 209 CLR 372 Gaudron and Gummow JJ observed: \n \n \n [62] These statements suggest that the task of identification of the \"matter\" said to be the subject of the present litigation is to be approached as a tripartite inquiry: first, the identification of the subject-matter for determination in each of C22 and C6; secondly, the identification of the right, duty or liability to be established in each proceeding; thirdly, the identification of the controversy between the parties to C22 and C6 for the quelling of which the judicial power of the Commonwealth is invoked.",
+      "id": "s126"
+    },
+    {
+      "text": "Whilst each of these inquiries may be pursued separately, all are related aspects of the basal question, \"is there a 'matter' in the sense required by Ch III of the Constitution ?",
+      "id": "s127"
+    },
+    {
+      "text": "\" In our view, there is no such \"matter\", and this is so whether the moving party here is seen either as the Attorney-General or the ecclesiastical authorities: \n \n\n28 In Australian Institute of Private Detectives Ltd v Privacy Commissioner [2004] FCA 1440 ; (2004) 139 FCR 394 at [35] ---[39] Sackville J said: \n \n \n [35] French J noted (at [39]) that it was well established that a declaration can be made to the effect that a proposed course of conduct will not be unlawful and that the fact that declaratory relief relates to future conduct does not take the proceedings outside the bounds of federal jurisdictions.",
+      "id": "s128"
+    },
+    {
+      "text": "His Honour also observed (at [40]) that whether or not there is a real controversy between the parties to litigation is a question of judgment.",
+      "id": "s129"
+    },
+    {
+      "text": "[36] French J held that there was a real controversy between AGL and the ACCC concerning the right or freedom of AGL to proceed with the proposed acquisition, bearing in mind that its freedom to do so had been challenged 'in a very practical way' by the regulator and that the challenge could have 'very concrete commercial consequences '.",
+      "id": "s130"
+    },
+    {
+      "text": "(emphasis added) \n \n... \n \n [38] It can be seen that in AGL v ACCC (No 2) , the material facts necessary to resolve a specific dispute were before the Court, in the sense that they were fully pleaded.",
+      "id": "s131"
+    },
+    {
+      "text": "The resolution of that dispute depended upon the application of a statutory provision which required an assessment of the likely future consequences of an acquisition of shares.",
+      "id": "s132"
+    },
+    {
+      "text": "Any declaration made by the Court would have immediate legal and practical consequences .",
+      "id": "s133"
+    },
+    {
+      "text": "In the present case, by contrast, no facts material to a specific dispute between the Institute and the Commissioner are pleaded.",
+      "id": "s134"
+    },
+    {
+      "text": "No consequences would flow from the making of declarations, at least without a series of further factual findings and determinations on issues of law.",
+      "id": "s135"
+    },
+    {
+      "text": "The circumstances of the present case are therefore far removed from those of AGL v ACCC (No 2) .",
+      "id": "s136"
+    },
+    {
+      "text": "(emphasis added) \n \n \n \n [39] The result is that the present proceedings do not involve a 'matter' within the meaning of s 39B(1A)(c) of the Judiciary Act .",
+      "id": "s137"
+    },
+    {
+      "text": "Accordingly, the court lacks jurisdiction to entertain the Institute's claim.",
+      "id": "s138"
+    },
+    {
+      "text": "29 In light of my conclusion not to grant declaratory relief and the fact that the argument was not raised by Golden West, it is unnecessary to say more than that the absence of a real consequence flowing from the declaratory relief sought, does at least raise a question as to whether there is a justiciable controversy.",
+      "id": "s139"
+    },
+    {
+      "text": "DELIVERY OF THE PROXIES TO PORTMAN \n \n30 It was common ground that the only issue in relation to the validity of the proxies was whether the forwarding of the proxies to Portman rather than to the company was inconsistent with s 250B(1) of the Act.",
+      "id": "s140"
+    },
+    {
+      "text": "In support of that argument, Golden West relied on Bisan Ltd [2002] VSC 430.",
+      "id": "s141"
+    },
+    {
+      "text": "Portman, on the other hand, contends Bisan was either wrongly decided or is distinguishable.",
+      "id": "s142"
+    },
+    {
+      "text": "Golden West contends that Bisan was correctly decided, for good reason and that it is directly applicable.",
+      "id": "s143"
+    },
+    {
+      "text": "I agree with Golden West on this issue.",
+      "id": "s144"
+    },
+    {
+      "text": "31 In Bisan Ltd [2002] VSC 430 , Bisan Ltd and Eromanga Hydrocarbons NL were listed public companies.",
+      "id": "s145"
+    },
+    {
+      "text": "Each had a common board of directors.",
+      "id": "s146"
+    },
+    {
+      "text": "Bisan sought an order restraining the holding of a general meeting of each of the companies called by the defendants pursuant to s 249F of the Act.",
+      "id": "s147"
+    },
+    {
+      "text": "Dodds-Streeton J had made orders on 10 October 2002 in respect of a meeting scheduled for 15 October 2002 restraining the holding of the meeting.",
+      "id": "s148"
+    },
+    {
+      "text": "In her Honour's reasons published subsequently she observed (at [22]) that the right to appoint and vote by a proxy is an extremely significant statutory entitlement embodied in s 249X of the Act which is a mandatory section for public companies.",
+      "id": "s149"
+    },
+    {
+      "text": "Any provision in a public company's constitution inconsistent with the requirements or terms of s 249X would be ineffective.",
+      "id": "s150"
+    },
+    {
+      "text": "Similarly, the requirements of ss 249Y, 250A, 250B and 250BA of the Act would override any inconsistent provision contained in a corporate constitution.",
+      "id": "s151"
+    },
+    {
+      "text": "In that case, Bisan Ltd's constitution was partially inconsistent with s 249X(3) of the Act but her Honour pointed out that a 'more significant defect' relied upon by the plaintiffs was that the relevant notice stated that the proxies may be sent or delivered to Omnium.",
+      "id": "s152"
+    },
+    {
+      "text": "(Omnium was a representative of Cellante).",
+      "id": "s153"
+    },
+    {
+      "text": "32 Her Honour said at [30]-[36]:\n \n \n 30 That direction is contrary to the requirements of s 250B of the Act, which relevantly states: \n \n \n \n \n ``(1) For an appointment of a proxy for a meeting of a company's members to be effective, the following documents must be received by the company at least 48 hours before the meeting :\n -the proxy appointment\n -if the appointment is signed by the appointor's attorney the authority under which the appointment was signed or a certified copy of the authority.",
+      "id": "s154"
+    },
+    {
+      "text": "''\n \n \n \n \n \n 31 Section 250B(3) of the Act specifies what constitutes receipt by the company.",
+      "id": "s155"
+    },
+    {
+      "text": "32 By s 250(4) of the Act, the company's constitution, or the notice of meeting may reduce the period of 48 hours.",
+      "id": "s156"
+    },
+    {
+      "text": "In this case, neither the constitutions nor the notices reduced the 48 hour period.",
+      "id": "s157"
+    },
+    {
+      "text": "33 Section 250BA of the Act imposes a requirement for a listed company to specify in the notice a place and a facsimile number and an electronic address for listed companies.",
+      "id": "s158"
+    },
+    {
+      "text": "Section 250BA must logically refer to notices sent by the company.",
+      "id": "s159"
+    },
+    {
+      "text": "34 Mr Cameron, counsel for the defendants, referred to the defendants' readiness to provide an undertaking to deal with all proxies received by them in respect of the meetings in compliance with s 250B of the Act and lodge them with the relevant companies at least 48 hours before the meeting.",
+      "id": "s160"
+    },
+    {
+      "text": "He contended that such an undertaking would overcome the defect and that appointments of proxies should be construed benevolently.",
+      "id": "s161"
+    },
+    {
+      "text": "35 Mr Bloch, counsel for the plaintiffs, pointed out that it would be impossible to lodge any proxies received by Omnium at the last minute with the companies within the statutory time span.",
+      "id": "s162"
+    },
+    {
+      "text": "No doubt strict compliance would not be possible in respect of proxies received at the very point of expiry of the stipulated period.",
+      "id": "s163"
+    },
+    {
+      "text": "If the undertaking were otherwise a sufficient remedy, that circumstance would appear relatively insignificant.",
+      "id": "s164"
+    },
+    {
+      "text": "36 Much more significant, in my opinion, is the fact that the relevant proxies would be received by each company only following initial receipt by a third party.",
+      "id": "s165"
+    },
+    {
+      "text": "While it is liberal in affording rights to 5 per cent of shareholders to call a general meeting, the Act in s 250B expressly stipulates receipt by the company within the minimum period.",
+      "id": "s166"
+    },
+    {
+      "text": "While the company's constitution may reduce the minimum period (see s 250B(5)) the constitution cannot modify the requirement for receipt by the company.",
+      "id": "s167"
+    },
+    {
+      "text": "33 It appears from [34] that it may possibly have been accepted in the course of argument in that case that forwarding the proxies to the company via a third party was contrary to the requirements of s 250B of the Act.",
+      "id": "s168"
+    },
+    {
+      "text": "In the present case, however, Portman contends that there is no such requirement contained in the section.",
+      "id": "s169"
+    },
+    {
+      "text": "Such a requirement would require, it is submitted, the insertion of the word 'directly' after the word 'received' or some other clear statutory imperative that proxies must only be provided to the company.",
+      "id": "s170"
+    },
+    {
+      "text": "Portman submits that Bisan Ltd [2002] VSC 430 should not be followed as it requires the imposing of a gloss over the plain language of the Statute.",
+      "id": "s171"
+    },
+    {
+      "text": "Additionally, it is argued that the purposive construction adopted by her Honour is not supported by any other aspect of the Act.",
+      "id": "s172"
+    },
+    {
+      "text": "In this regard, I note that the Explanatory Memorandum does not specify any intent on the part of the legislature that proxies should be returned directly to the company rather than via a third party.",
+      "id": "s173"
+    },
+    {
+      "text": "Very little is said on proxies in the Explanatory Memorandum.",
+      "id": "s174"
+    },
+    {
+      "text": "(Nothing relevant to proxies was said in the Second Reading Speech).",
+      "id": "s175"
+    },
+    {
+      "text": "In the Explanatory Memorandum all that is said is:\n Proxy voting Appointing bodies corporate as proxies 5.564 Proposed new subsection 249X(1A) will permit a member to appoint an individual or a body corporate as a proxy (Item 7).",
+      "id": "s176"
+    },
+    {
+      "text": "5.565 Under proposed new paragraph 250D(1)(d), a body corporate appointed as a proxy for a member will be able to nominate an individual to exercise its powers at meetings (Item 14).",
+      "id": "s177"
+    },
+    {
+      "text": "Electronic authentication of proxy appointments 5.566 Proposed new subsection 250A(1A) will permit regulations to prescribe authentication mechanisms for authentication of proxy appointments other than signature (Item 9).",
+      "id": "s178"
+    },
+    {
+      "text": "A consequential amendment to subsection 250A(1) will be made to recognise other authentication methods (Item 8).",
+      "id": "s179"
+    },
+    {
+      "text": "Electronic submission of proxy forms 5.567 It is proposed to replace subsections 250B(3), which deals with the receipt of proxy documents, with a revised subsection that will permit companies to offer a facility for electronic submission of proxy appointment forms and related appointment authorities (Item 11).",
+      "id": "s180"
+    },
+    {
+      "text": "An appointment authority is a document such as a power of attorney by which a member has authorised another person to appoint a proxy on the member's behalf.",
+      "id": "s181"
+    },
+    {
+      "text": "Consequential amendments to paragraph 250B(1)(b) will be made to recognise other authentication methods (Items 10 and 11).",
+      "id": "s182"
+    },
+    {
+      "text": "5.568 Subsection 250BA(1), dealing with the requirements for listed companies to specify how proxy documents are to be submitted, is proposed to be replaced to recognise the availability of the new facility (Item 13).",
+      "id": "s183"
+    },
+    {
+      "text": "34 For Portman it is argued that when the Act is so specific about the method of completion of proxies in the sections which precede s 250B, it would be curious not to see such an express requirement that proxies be returned only directly to the company.",
+      "id": "s184"
+    },
+    {
+      "text": "35 Portman argues that as there are other provisions entitling relief in circumstances where there has been an interference with the proxy process that the legislative intention was to turn to those provisions in circumstances of actual interference with a proxy.",
+      "id": "s185"
+    },
+    {
+      "text": "In my view, the difficulty with this argument is that if the proxies are returned directly to the company, the need to investigate or prove tampering with proxies by third parties is eliminated.",
+      "id": "s186"
+    },
+    {
+      "text": "36 The only occasion on which Bisan Ltd [2002] VSC 430 has been followed in Australia appears to be in Lion Selection Limited 02 [2008] ATP 16 , a decision in June 2008 of the Australian Takeovers Panel.",
+      "id": "s187"
+    },
+    {
+      "text": "In that case the Panel declined to conduct proceedings following receipt of similar undertakings as those proffered in Bisan .",
+      "id": "s188"
+    },
+    {
+      "text": "The Panel considered there was no reasonable prospect of it finding that there were unacceptable circumstances when those undertakings were given.",
+      "id": "s189"
+    },
+    {
+      "text": "The Panel said at [25]-[34]:\n \n \n 25 The integrity of the corporate electoral process is important to the operation of an efficient, competitive and informed market is cases of the approval of frustrating actions.",
+      "id": "s190"
+    },
+    {
+      "text": "(sic)\n \n 26.",
+      "id": "s191"
+    },
+    {
+      "text": "In Bisan Ltd v Cellante Justice Dodds-Streeton commented that: \n \n \n \n \"The interception of proxy appointment forms by an intermediate party who is under no fiduciary duty or other apparent obligations in relation to their safeguarding, entails an inherent exposure to the possibility of filtering or other inappropriate handling ...",
+      "id": "s192"
+    },
+    {
+      "text": "The apparent, as well as the actual integrity of the corporate electoral process, is important.",
+      "id": "s193"
+    },
+    {
+      "text": "\" [2002] VSC 430 at para 44 \n \n \n \n 27.",
+      "id": "s194"
+    },
+    {
+      "text": "Lion was concerned that Indophil might not lodge with Lion any proxy form which did not support Indophil's position in relation to the Lion Plan resolutions.",
+      "id": "s195"
+    },
+    {
+      "text": "Lion submitted that in such circumstances Lion would not know that such proxy forms existed and the vote of shareholders would not be exercised as the shareholder intended.",
+      "id": "s196"
+    },
+    {
+      "text": "The Panel considered that Indophil's undertakings (see paragraph 18) adequately resolved this issue.",
+      "id": "s197"
+    },
+    {
+      "text": "...\n 34.",
+      "id": "s198"
+    },
+    {
+      "text": "Given the number of votes that were actually cast \"For\" and \"Against\" the resolutions, the Panel considered that the Indophil proxies did not affect the outcome of Lion's shareholder meeting.",
+      "id": "s199"
+    },
+    {
+      "text": "37 The factual situation described in Lion [2008] ATP 16 bears some similarity to the circumstances which arose in relation to the proxies for the Meeting under consideration.",
+      "id": "s200"
+    },
+    {
+      "text": "As has been mentioned, Golden West itself sent out proxy forms with the Notice of Meeting.",
+      "id": "s201"
+    },
+    {
+      "text": "These were received by all shareholders and in the covering letter Golden West made recommendations as to how the shareholders should vote.",
+      "id": "s202"
+    },
+    {
+      "text": "Those proxy forms required the shareholders to complete and return them to the company, Golden West.",
+      "id": "s203"
+    },
+    {
+      "text": "Subsequently when Portman dispatched its proxy forms to all shareholders (which were pre-completed in favour of the voting which Portman recommended), some shareholders also completed those proxies and returned them to Portman.",
+      "id": "s204"
+    },
+    {
+      "text": "The effect was that some shareholders by completing both sets of proxies, intentionally or not, purported to vote twice in relation to the matters which were to be considered at the Meeting.",
+      "id": "s205"
+    },
+    {
+      "text": "There was no evidence as to whether the votes were always consistent but the particular difficulty which counsel for Golden West emphasised was that by receiving within time, but only just within time, 12% of the possible votes, the company was left with a substantial task shortly prior to the Meeting to consider the large volume of proxies received and also to analyse whether or not shareholders giving those proxies had previously signed the Golden West proxy forms.",
+      "id": "s206"
+    },
+    {
+      "text": "It was said that this was another reason why the legislature did not intend that the forms should go other than to the company.",
+      "id": "s207"
+    },
+    {
+      "text": "Implicit in this argument was the suggestion that if shareholders returned proxies that were sent out by the company to the company they would be more likely in the natural course of affairs, to come back to the company in a more even flow rather than in a large portion at the last minute.",
+      "id": "s208"
+    },
+    {
+      "text": "This practical consideration was also said to support the construction adopted in Bisan Ltd [2002] VSC 430.",
+      "id": "s209"
+    },
+    {
+      "text": "It was argued for Golden West that while it is a matter of convenience and commercially reasonable that someone in the position of Portman would wish to know how many proxies were being recorded in its favour, it could always request that a duplicate of the proxy form be forwarded to Portman when the proxy was returned to the company.",
+      "id": "s210"
+    },
+    {
+      "text": "38 Although there is no suggestion of tampering with the proxies in any sense, counsel for Golden West has also pointed to the fact that Portman has not given any evidence as to the procedures that were taken on receipt of the proxies, how they were treated whilst in the possession of Portman and whether all of the completed proxy forms were in fact forwarded to the company.",
+      "id": "s211"
+    },
+    {
+      "text": "This might be contrasted with the position taken in Lion [2008] ATP 16: see the undertaking at [18].",
+      "id": "s212"
+    },
+    {
+      "text": "But, in any event, on Golden West's argument, any form of undertaking or evidence of that nature would not satisfy or overcome the difficulties arising from non-compliance with s 250B of the Act.",
+      "id": "s213"
+    },
+    {
+      "text": "39 In conclusion, my view on this topic is that while the Act does not expressly spell out that proxy forms are to be returned only to the company or directly to the company, the reasoning articulated in Bisan Ltd [2002] VSC 430 at [44] , reflects, with respect, a good deal of common sense.",
+      "id": "s214"
+    },
+    {
+      "text": "Also for the additional practical reasons discussed, while I may have been less emphatic about the construction placed on s 250B of the Act, there is no good reason to depart from the construction adopted in Bisan Ltd and I would not do so.",
+      "id": "s215"
+    },
+    {
+      "text": "See Hicks v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2003] FCA 757 per French J at [76] .",
+      "id": "s216"
+    },
+    {
+      "text": "40 Portman also advances the alternative argument that Bisan Ltd [2002] VSC 430 is distinguishable as Golden West shareholders were given a choice.",
+      "id": "s217"
+    },
+    {
+      "text": "They could complete the company's form and return the proxy to the company or they could complete the Portman proxy form and return the proxy to Portman.",
+      "id": "s218"
+    },
+    {
+      "text": "It is difficult to see how this validates the Portman proxies if they were otherwise invalid.",
+      "id": "s219"
+    },
+    {
+      "text": "There is no suggestion that proxies which were sent to the company were invalidated by the Chairman.",
+      "id": "s220"
+    },
+    {
+      "text": "I do not think the argument assists Portman.",
+      "id": "s221"
+    },
+    {
+      "text": "NO CAUSE OF ACTION \n \n41 Golden West also submitted that at the time of issuing the proceedings before the Chairman of the Meeting had declared the validity or otherwise of the proxy votes, no cause of action had accrued.",
+      "id": "s222"
+    },
+    {
+      "text": "This was said to be on the basis that until the Chairman had ruled, there was no arguable breach.",
+      "id": "s223"
+    },
+    {
+      "text": "I am not persuaded by this argument.",
+      "id": "s224"
+    },
+    {
+      "text": "The proceedings were issued as close as possible to the Meeting after attempts had been made to confirm the position that Golden West would take in relation to the proxies.",
+      "id": "s225"
+    },
+    {
+      "text": "The relief sought was declaratory and supported by suitable injunctive orders.",
+      "id": "s226"
+    },
+    {
+      "text": "There are many instances when foreshadowed breaches call for a declaration and injunctive relief before the breach occurs.",
+      "id": "s227"
+    },
+    {
+      "text": "Where otherwise appropriate, a declaration can be made in relation to a future event --- but perhaps only when it is quite clear that the conduct will occur: see the discussion in IMF (Australia) Ltd v Sons of Gwalia Ltd (2004) 211 ALR 231 and then on review on appeal in IMF (Australia) Ltd v Sons of Gwalia Ltd [2005] FCAFC 75 ; (2005) 143 FCR 274 at [16] per Moore J.",
+      "id": "s228"
+    },
+    {
+      "text": "NO RIGHT OF REVIEW \n \n42 Golden West made the point that at no time did the Portman representatives at the Meeting object to the Chairman's ruling in regards to the invalidity of the Portman proxies.",
+      "id": "s229"
+    },
+    {
+      "text": "Reliance was placed on Art 12.12 and Art 13.1(g) and (h) of the Golden West Constitution which provides:\n \n \n (a) no objection may be made to the validity of any vote except at a Meeting or adjourned Meeting or poll at which such vote is tendered and every vote not disallowed at any such Meeting or poll is valid for all purposes.",
+      "id": "s230"
+    },
+    {
+      "text": "(b) the Chairman of any meeting is the sole judge of the validity of every vote tendered and the Chairman's determination is final.",
+      "id": "s231"
+    },
+    {
+      "text": "43 It is said that Art 12.12 of the Golden West Constitution accords with s 250G of the Act which provides:\n A challenge to a right to vote at a meeting of a company's members; (a) may only be made at the meeting; and (b) must be determined by the chair, whose decision is final.",
+      "id": "s232"
+    },
+    {
+      "text": "44 In my view, this issue has been decided on numerous occasions against the submission for Golden West.",
+      "id": "s233"
+    },
+    {
+      "text": "In Fast Scout Ltd v Bergel [2001] WASC 343 ; (2001) 25 WAR 244 , Templeman J said at [63]-[68]:\n 63 The limited effect of provisions equivalent to cl 12.16 has been settled for over 100 years.",
+      "id": "s234"
+    },
+    {
+      "text": "In Wall v Exchange Investment Corporation Ltd [1926] Ch 143 , the English Court of Appeal (at 143) considered an article of that company's constitution which provided: \n \n \"No objection shall be made to the validity of any vote excepting at the meeting at which such vote shall be tendered, or at the meeting (if any) to which such meeting shall be adjourned in the regular course of business, and every vote, whether given in person or by proxy, not disallowed at any one of such meetings, shall be deemed valid for all purposes whatsoever.",
+      "id": "s235"
+    },
+    {
+      "text": "\" \n \n 64 The Court of Appeal followed the decision of North J in Wall v London and Northern Assets Corporation [1899] 1 Ch 550 where the article in question was in similar terms.",
+      "id": "s236"
+    },
+    {
+      "text": "In that case, North J held that in the absence of fraud, a resolution for voluntary winding up of the company could not be impeached on the ground that the votes had been received improperly.",
+      "id": "s237"
+    },
+    {
+      "text": "North J said (at p 552): \n \n \"The article in question is not of very general application; it does not go to the extent of making the chairman's decision final as to a resolution being passed.",
+      "id": "s238"
+    },
+    {
+      "text": "If he had made a mistake in counting, for instance, the article would not apply.",
+      "id": "s239"
+    },
+    {
+      "text": "All the rule says is that any objections to votes are to be taken at the meetings, 'and every vote not disallowed at any one of such meetings shall be deemed valid for all purposes whatsoever.",
+      "id": "s240"
+    },
+    {
+      "text": "' ...\" \n \n 65 In the 1926 case, the Chairman of a company meeting had refused to disallow a vote by a proxy to whom objection had been taken at the meeting.",
+      "id": "s241"
+    },
+    {
+      "text": "Pollock MR held that the Chairman was acting, in effect, as if he was an arbitrator chosen by the parties concerned, whose decision was to bind those parties on the question whether votes were to be treated as valid or not.",
+      "id": "s242"
+    },
+    {
+      "text": "His Lordship went on to say that the Chairman had been entrusted with powers which required him to decide whether or not the vote should be disallowed.",
+      "id": "s243"
+    },
+    {
+      "text": "Warrington LJ was of the same opinion.",
+      "id": "s244"
+    },
+    {
+      "text": "Sargant LJ also agreed.",
+      "id": "s245"
+    },
+    {
+      "text": "He added (p 148): \n \n \"It may well be that in the case where a vote has been disallowed, the shareholder whose right has been impeached to that extent should have a right to apply to the Courts.",
+      "id": "s246"
+    },
+    {
+      "text": "Here, all that is done is to take away from a shareholder a right of appeal against the decision disallowing an objection by him against the votes of some other shareholder, and it seems to me quite reasonable that such a question should be allowed to be decided summarily and finally by the chairman, although there should not be the same summary and final effect given to a decision against the right of a shareholder to vote.",
+      "id": "s247"
+    },
+    {
+      "text": "\" \n \n... 67 I accept that a Chairman has jurisdiction to rule generally on the validity of appointments of proxies (although Mr Brereton did not purport to exercise that jurisdiction on 9 November).",
+      "id": "s248"
+    },
+    {
+      "text": "But whether making a ruling under cl 12.16 or generally, a Chairman's decision will be amenable to review by the Court if he makes an error of law.",
+      "id": "s249"
+    },
+    {
+      "text": "This proposition is well settled.",
+      "id": "s250"
+    },
+    {
+      "text": "It is convenient to refer to Link Agricultural Pty Ltd v Shanahan, McCallum &amp; Pivot Ltd [1999] 1 VR 466.",
+      "id": "s251"
+    },
+    {
+      "text": "There, at 511, Kenny JA, with whom Batt JA and Buchanan J agreed, accepted the submission that the powers exercisable by the Chairman of a general meeting of a company were not unfettered and that \"(b)roadly speaking, these powers could not be exercised so as unlawfully to deprive members of their votes\".",
+      "id": "s252"
+    },
+    {
+      "text": "68 Kenny JA reviewed a number of authorities which support that proposition, including Byng v London Life Association Ltd [1990] 1 Ch 170.",
+      "id": "s253"
+    },
+    {
+      "text": "There the Court of Appeal held that in exercising powers as Chairman of a meeting of the members of a public corporation, a Chairman would err in law if he did not take a decision reasonably, with a view to facilitating the purpose for which the powers had been conferred.",
+      "id": "s254"
+    },
+    {
+      "text": "At p 189, Browne-Wilkinson V-C said: \n \n \"The chairman's decision will not be declared invalid unless on the facts which he knew or ought to have known he failed to take into account all the relevant factors, took into account irrelevant factors or reached a conclusion which no reasonable chairman, properly directing himself as to his duties, could have reached ...\" \n \n\n45 Fast Scout Ltd [2001] WASC 343 ; 25 WAR 244 was followed by Le Miere J in MTQ Holdings [2006] WASC 96 at [91] .",
+      "id": "s255"
+    },
+    {
+      "text": "The same approach was taken by Street J in Industrial Equity Ltd [1969] 1 NSWR 565.",
+      "id": "s256"
+    },
+    {
+      "text": "CONCLUSION \n \n46 In my view, this is not an appropriate case for declaratory relief.",
+      "id": "s257"
+    },
+    {
+      "text": "Further, I am not persuaded that I should take a different view from that expressed in Bisan Ltd [2002] VSC 430 nor that the facts in Bisan were relevantly distinguishable from the facts arising in the present circumstances.",
+      "id": "s258"
+    },
+    {
+      "text": "47 For these reasons I make the following orders:\n \n1.",
+      "id": "s259"
+    },
+    {
+      "text": "The plaintiff's application of 29 August 2008 be dismissed.",
+      "id": "s260"
+    },
+    {
+      "text": "2.",
+      "id": "s261"
+    },
+    {
+      "text": "The Court declares that the intervenor is at liberty to declare the result of and to act upon the motions put at the Extraordinary General Meeting of the intervenor's shareholders held on 29 August 2008.",
+      "id": "s262"
+    },
+    {
+      "text": "3.",
+      "id": "s263"
+    },
+    {
+      "text": "The plaintiff to pay the costs, including the reserved costs, to be taxed if not agreed.",
+      "id": "s264"
+    },
+    {
+      "text": "I certify that the preceding forty-seven (47) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice McKerracher.",
+      "id": "s265"
+    },
+    {
+      "text": "Associate:\n\nDated: 5 September 2008\n\n Counsel for the Plaintiff: MF Holler with L Wilk \n \n Solicitor for the Plaintiff: Blake Dawson \n \n Counsel for the Intervenor: MP Bruce with JG Abberton \n \n Solicitor for the Intervenor: Lavan Legal \n\n Date of Hearing: 29 August 2008 and 2 September 2008 \n \n Date of Judgment: 5 September 2008 \n\n \n\n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2008/1362.html",
+      "id": "s266"
+    }
+  ]
+}

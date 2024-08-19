@@ -1,0 +1,2384 @@
+{
+  "name": "Betfair Pty Limited v Racing New South Wales (No 7) (includes Corrigenda dated 12 and 19 October 2009) [2009] FCA 1140 (8 October 2009)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2009/1140.html",
+  "catchphrases": [
+    {
+      "text": "public interest immunity",
+      "id": "c0"
+    },
+    {
+      "text": "claim by state that documents associated with the drafting of legislation protected from disclosure by public interest immunity",
+      "id": "c1"
+    },
+    {
+      "text": "class claim",
+      "id": "c2"
+    },
+    {
+      "text": "whether documents protected from disclosure where documents in possession of a non-state party to the subject litigation",
+      "id": "c3"
+    },
+    {
+      "text": "whether public interest in ensuring candour outweighed by public interest in ensuring the administration of justice",
+      "id": "c4"
+    },
+    {
+      "text": "where documents in question may be determinative of a claim that certain legislation is in breach of the constitutional guarantee of free inter-state trade",
+      "id": "c5"
+    },
+    {
+      "text": "legal professional privilege",
+      "id": "c6"
+    },
+    {
+      "text": "documents concerning communications between a state and its lawyers",
+      "id": "c7"
+    },
+    {
+      "text": "where documents contain draft legislation",
+      "id": "c8"
+    },
+    {
+      "text": "whether draft legislation in and of itself attracts legal professional privilege",
+      "id": "c9"
+    },
+    {
+      "text": "whether documents created for the dominant purpose of obtaining legal advice",
+      "id": "c10"
+    },
+    {
+      "text": "whether documents confidential",
+      "id": "c11"
+    },
+    {
+      "text": "whether disclosure of documents by state to a non-state party waived privilege",
+      "id": "c12"
+    },
+    {
+      "text": "without prejudice (settlement) privilege claim",
+      "id": "c13"
+    },
+    {
+      "text": "where subject-matter of the documents in question concern settlement negotiations in a dispute separate to the subject litigation",
+      "id": "c14"
+    },
+    {
+      "text": "where proposed use of the documents not the proving of the truth of any admissions made but of proving that a certain commercial relationship existed between the negotiating parties",
+      "id": "c15"
+    },
+    {
+      "text": "privilege",
+      "id": "c16"
+    },
+    {
+      "text": "privilege",
+      "id": "c17"
+    },
+    {
+      "text": "privilege",
+      "id": "c18"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "By a notice of motion filed 22 September 2009 the applicant, Betfair Pty Limited ( Betfair ), seeks orders that the first and second respondents, Racing New South Wales and Harness Racing New South Wales (together, Racing NSW ) produce copies of certain documents in unredacted form.",
+      "id": "s0"
+    },
+    {
+      "text": "The copies of documents produced by Racing NSW that have been masked fall into two categories.",
+      "id": "s1"
+    },
+    {
+      "text": "First, the Attorney-General for the State of New South Wales ( the Attorney-General ), who has intervened in the notice of motion, claims public interest immunity and/or legal professional privilege over some documents.",
+      "id": "s2"
+    },
+    {
+      "text": "Second, Racing NSW claims \"without prejudice\" or settlement privilege over other documents (that is, communications for the purpose of settling a dispute).",
+      "id": "s3"
+    },
+    {
+      "text": "Betfair contends that the claims are not well founded and thus cannot be sustained.",
+      "id": "s4"
+    },
+    {
+      "text": "The principal proceeding is fixed for hearing before Perram J from 16 November until 4 December 2009.",
+      "id": "s5"
+    },
+    {
+      "text": "Accordingly, there is some urgency in respect of the resolution of this dispute about documents.",
+      "id": "s6"
+    },
+    {
+      "text": "I have been provided with copies of the documents in dispute both in the form produced to Betfair (if produced at all) and in a form without redaction by reason of the claims requiring resolution under this notice of motion.",
+      "id": "s7"
+    },
+    {
+      "text": "The latter qualification is necessary because parts of the documents have been masked on the basis of other claims that are not before me for decision (specifically, a claim by Racing NSW for legal professional privilege over certain parts of the documents).",
+      "id": "s8"
+    },
+    {
+      "text": "Betfair submitted that certain aspects of the Attorney-General's claim for public interest immunity claim failed at the outset as a matter of principle and thus there was no need for me to inspect those documents to resolve their status.",
+      "id": "s9"
+    },
+    {
+      "text": "The Attorney-General submitted that I should inspect all of the documents before resolving their status.",
+      "id": "s10"
+    },
+    {
+      "text": "Racing NSW also invited me to inspect all of the documents the subject of its claim for privilege before ruling on the status of the documents.",
+      "id": "s11"
+    },
+    {
+      "text": "For the reasons given below I considered it appropriate to inspect all of the documents and have done so.",
+      "id": "s12"
+    },
+    {
+      "text": "With these observations in mind by way of background, I turn now to the claims for privilege, dealing first with those of the Attorney-General and second with those of Racing NSW.",
+      "id": "s13"
+    },
+    {
+      "text": "The issues to be resolved for each claim are as follows: \n Claim for public interest immunity (Attorney-General) \n \n(1) Is the claim for a novel class of public interest immunity not previously recognised in any Australian authority and, if so, should the class be recognised?",
+      "id": "s14"
+    },
+    {
+      "text": "(2) Has the Attorney-General identified any public interest requiring protection and, if so, that any such interest would be harmed by disclosure of the documents?",
+      "id": "s15"
+    },
+    {
+      "text": "(3) Would the documents in question materially assist Betfair's case and thus engage the public interest in ensuring the proper administration of justice?",
+      "id": "s16"
+    },
+    {
+      "text": "(4) What is the result of the exercise of balancing the harm to the identified public interests by reason of disclosure and non-disclosure of the documents?",
+      "id": "s17"
+    },
+    {
+      "text": "Claim for legal professional privilege (Attorney-General) \n \n(1) Was the dominant purpose of the communications the subject of the relevant documents the obtaining of legal advice?",
+      "id": "s18"
+    },
+    {
+      "text": "(2) Are the parties in a confidential relationship protected by the legal advice limb of the privilege?",
+      "id": "s19"
+    },
+    {
+      "text": "(3) If so, has the privilege nevertheless been waived by the manner in which the State disclosed the documents to Racing NSW.",
+      "id": "s20"
+    },
+    {
+      "text": "Claim for without prejudice (settlement) privilege (Racing NSW) \n \n(1) Does the description of the claim over certain documents satisfy the requirements for settlement privilege?",
+      "id": "s21"
+    },
+    {
+      "text": "(2) Does settlement privilege extend further than any express or implied admissions in the documents that relate to the same subject matter of the proceedings in which the privilege is asserted and, if so, are there any such admissions in the documents?",
+      "id": "s22"
+    },
+    {
+      "text": "(3) Does settlement privilege protect communications relevant for the fact of their making as opposed to the truth of their contents and, if so, are certain communications relevant in that way to Betfair's case?",
+      "id": "s23"
+    },
+    {
+      "text": "PUBLIC INTEREST IMMUNITY CLAIM \n General principles\n There was no dispute between the parties that the relevant test is that of the common law as the Evidence Act 1995 (Cth) does not apply at this interlocutory stage.",
+      "id": "s24"
+    },
+    {
+      "text": "There was also no dispute about the general principles to be applied.",
+      "id": "s25"
+    },
+    {
+      "text": "They were conveniently summarised in Murrumbidgee Ground-Water Preservation Association v Minister for Natural Resources [2003] NSWLEC 322 at [19] as follows: There is no absolute immunity from production and inspection of cabinet documents: Sankey at 43, 58-59, 95-96 [ Sankey v Whitlam [1978] HCA 43 ; (1978) 142 CLR 1] ; Northern Land Council at 616 [ Commonwealth of Australia v Northern Land Council [1993] HCA 24 ; (1993) 176 CLR 604].",
+      "id": "s26"
+    },
+    {
+      "text": "In this context \"cabinet documents\" extends to: \n \n (a) Cabinet minutes or other records of Cabinet discussions and records of discussions between heads of departments;\n (b) papers prepared as submissions to Cabinet;\n (c) any documents which relate to the framing of government policy at a high level: Sankey at p 39.",
+      "id": "s27"
+    },
+    {
+      "text": "The general rule is that a court will not order the production of a document although relevant and otherwise admissible if it would be injurious to the public interest to disclose it.",
+      "id": "s28"
+    },
+    {
+      "text": "The public interest has two aspects: the protection of government from the harm which may be caused by disclosure and the interest in ensuring that justice can be effectively administered: Sankey at 38, Conway v Rimmer [1968] UKHL 2 ; (1968) AC 910 at 940.",
+      "id": "s29"
+    },
+    {
+      "text": "The court must weigh the competing elements of the public interest: Sankey at 43, 60-64, 98-99.",
+      "id": "s30"
+    },
+    {
+      "text": "A claim for immunity for a class of documents as opposed to a claim in relation to individual documents will be upheld only if it is really necessary in the public interest or the proper functioning of the public service: Sankey at 39.",
+      "id": "s31"
+    },
+    {
+      "text": "The court has power to inspect the documents in order to determine any claim.",
+      "id": "s32"
+    },
+    {
+      "text": "However, there remains some controversy as to the circumstances in which that power should be exercised.",
+      "id": "s33"
+    },
+    {
+      "text": "If the documents clearly fall into a class which attracts immunity they should not be inspected: Northern Land Council at 617.",
+      "id": "s34"
+    },
+    {
+      "text": "Documents recording the actual deliberations of Cabinet are more likely to attract immunity than documents prepared outside Cabinet such as reports or submissions for the assistance of Cabinet: Northern Land Council at 614-615.",
+      "id": "s35"
+    },
+    {
+      "text": "Documents relating to a topic which is current or controversial will attract a high level of confidentiality: Northern Land Council at 617-618.",
+      "id": "s36"
+    },
+    {
+      "text": "Documents in relation to a matter which has passed into history attract a lesser level of confidentiality, as do documents which may have been already published.",
+      "id": "s37"
+    },
+    {
+      "text": "The intended use of documents, particularly if required to found a defence to a criminal charge, is a relevant consideration.",
+      "id": "s38"
+    },
+    {
+      "text": "Where a person's liberty is at stake production is more likely to be ordered: Sankey at 42 and 61-62.",
+      "id": "s39"
+    },
+    {
+      "text": "11\n (a) It is unlikely that disclosure of the records of Cabinet deliberations upon current matters would be appropriate in civil proceedings: Northern Land Council at 618.",
+      "id": "s40"
+    },
+    {
+      "text": "(b) Documents and communications passing between a Minister and the head of his department relating to cabinet proceedings and material prepared for Cabinet are likely to be protected: Sankey at 99.",
+      "id": "s41"
+    },
+    {
+      "text": "(c) Reports relating to important matters of policy between public servants and Ministers or between senior public servants also warrant a high level of protection: Sankey at 99.",
+      "id": "s42"
+    },
+    {
+      "text": "Some observations need to be made about the documents in issue.",
+      "id": "s43"
+    },
+    {
+      "text": "All of the documents have been discovered by the respondents.",
+      "id": "s44"
+    },
+    {
+      "text": "That is, the documents in issue are in the possession, custody or control of the respondents.",
+      "id": "s45"
+    },
+    {
+      "text": "The first respondent is constituted as a body corporate under s 4(1) of the Thoroughbred Racing Act 1996 (NSW).",
+      "id": "s46"
+    },
+    {
+      "text": "Under s 5 of that Act \"Racing NSW does not represent the Crown and is not subject to direction or control by or on behalf of the Government\".",
+      "id": "s47"
+    },
+    {
+      "text": "By s 11 \"(i)t is the duty of each appointed member of Racing NSW to act in the public interest and in the interests of the horse racing industry as a whole in New South Wales\".",
+      "id": "s48"
+    },
+    {
+      "text": "Racing NSW's functions under s 13 include controlling, supervising and regulating horse racing in the State and the economic development and strategic development of the horse racing industry in the State.",
+      "id": "s49"
+    },
+    {
+      "text": "By s 18(3) \"(t)he Public Sector Management Act 1988 [(NSW)] does not apply to the Chief Executive and the other members of staff of Racing NSW\".",
+      "id": "s50"
+    },
+    {
+      "text": "Harness Racing NSW is subject to similar provisions under the Harness Racing Act 2009 (NSW) and, at no relevant time, has represented the Crown or been subject to direction or control on behalf of the NSW Government.",
+      "id": "s51"
+    },
+    {
+      "text": "In other words, although both bodies are constituted by statute they are separate from and independent of the State of NSW.",
+      "id": "s52"
+    },
+    {
+      "text": "Carol Mills is the Director-General of Communities NSW, a department of the NSW Government.",
+      "id": "s53"
+    },
+    {
+      "text": "Ms Mills, in her affidavits of 4 and 29 September 2009, explains the categories of documents over which the claims for public interest immunity and legal professional privilege are made and related matters.",
+      "id": "s54"
+    },
+    {
+      "text": "An office within the Department of Communities is known as the NSW Office of Liquor, Gaming and Racing ( the OLGR ).",
+      "id": "s55"
+    },
+    {
+      "text": "The OLGR advises the NSW Government on racing and wagering policy and policy implementation.",
+      "id": "s56"
+    },
+    {
+      "text": "In that capacity, the OLGR regularly consults with Racing NSW.",
+      "id": "s57"
+    },
+    {
+      "text": "Racing NSW also regularly makes unsolicited submissions to OLGR about the legislative regime governing horse racing.",
+      "id": "s58"
+    },
+    {
+      "text": "One process of consultation related to amendments to the Racing Administration Act (1998 ) NSW and the promulgation of the Racing Administration Amendment (Publication of Race Fields) Regulation 2008 (NSW).",
+      "id": "s59"
+    },
+    {
+      "text": "These amendments authorised Racing NSW to grant an approval to the use of race field information subject to conditions including a condition for the payment of a fee that does not exceed 1.5% of the approval holder's wagering turnover.",
+      "id": "s60"
+    },
+    {
+      "text": "In the principal proceeding Betfair contends that the conditions imposed on approvals granted to it requiring the payment of this 1.5% of turnover are unlawfully protectionist and discriminatory in breach of the free trade guarantee set out in s 92 of the Constitution .",
+      "id": "s61"
+    },
+    {
+      "text": "The process of consultation in question involved the establishment of a working group.",
+      "id": "s62"
+    },
+    {
+      "text": "The working group included officers of the OLGR and representatives of each of the racing bodies in NSW, being Racing NSW, Harness Racing NSW, Greyhound Racing NSW and the Greyhound and Harness Racing Regulatory Authority.",
+      "id": "s63"
+    },
+    {
+      "text": "The purpose of the working group was to assist OLGR in developing legislative drafting instructions to be provided to Parliamentary Counsel.",
+      "id": "s64"
+    },
+    {
+      "text": "Parliamentary Counsel's Office is a separate office within the NSW Department of Premier and Cabinet responsible, amongst other things, for drafting NSW legislation.",
+      "id": "s65"
+    },
+    {
+      "text": "The initial email communication establishing the working group (forwarded by the OLGR to the relevant agencies but not to all attendees at the working group) said that \"(t)he meeting is confidential in accordance with the protocol that applies to developing legislation generally\".",
+      "id": "s66"
+    },
+    {
+      "text": "The working group met on at least six occasions.",
+      "id": "s67"
+    },
+    {
+      "text": "Whenever a new participant joined Frank Marzic, the Manager, Racing Policy within the OLGR, according to Ms Mills, \"would make a statement to the effect that the meeting was confidential and the that the discussions that took place were to stay within the room\" to which participants indicated their agreement.",
+      "id": "s68"
+    },
+    {
+      "text": "Attendance varied but included officers of the OLGR, various representatives of Racing NSW, Harness Racing NSW, Greyhound Racing NSW and, for the initial meeting, the Greyhound and Harness Racing Regulatory Authority, subsequently abolished.",
+      "id": "s69"
+    },
+    {
+      "text": "The Working Group discussed drafting instructions to be provided to Parliamentary Counsel.",
+      "id": "s70"
+    },
+    {
+      "text": "The OLGR was ultimately responsible for deciding what instructions should be provided to Parliamentary Counsel.",
+      "id": "s71"
+    },
+    {
+      "text": "In this context, the three general categories of documents over which Ms Mills claimed public interest immunity on behalf of the State may be described (as proposed by Betfair) as follows: \n(1) Documents concerned with the working group and its communications.",
+      "id": "s72"
+    },
+    {
+      "text": "(2) Documents concerned with the drafting of legislation, being the amendments to the Racing Administration Act and the promulgation of the Racing Administration Amendment (Publication of Race Fields) Regulation.",
+      "id": "s73"
+    },
+    {
+      "text": "(3) Other documents described as concerned with the development of the legislative amendments arising from consultations with the racing bodies forming part of the working group.",
+      "id": "s74"
+    },
+    {
+      "text": "Claim for a novel class?",
+      "id": "s75"
+    },
+    {
+      "text": "Betfair noted that the claim for public interest immunity was said by Ms Mills to arise by reason of the class of the documents rather than their particular contents.",
+      "id": "s76"
+    },
+    {
+      "text": "Betfair referred to the observation of Stephen J in Sankey v Whitlam [1978] HCA 43 ; (1978) 142 CLR 1 at 62 that \"those who urge Crown privilege for classes of documents, regardless of particular contents, carry a heavy burden\".",
+      "id": "s77"
+    },
+    {
+      "text": "Betfair also referred to the observation of Gordon J in Cadbury Schweppes Pty Ltd v Amcor Ltd (2008) 246 ALR 137 ; [2008] FCA 88 at [26] which needs to be understood by reference to the preceding paragraph: \n \n [ 25 ] A court will not order the production of a document if disclosure of the document would be injurious to the public interest: Alister v R (1984) 154 CLR 404 ( Alister ); Sankey v Whitlam [1978] HCA 43 ; (1978) 142 CLR 1.",
+      "id": "s78"
+    },
+    {
+      "text": "The court must undertake a balancing test, considering \"whether the public interest which requires that [a] document should not be produced outweighs the public interest that a court of justice in performing its functions should not be denied access to relevant evidence\": Sankey [1978] HCA 43 ; (1978) 142 CLR 1 at 38---39.",
+      "id": "s79"
+    },
+    {
+      "text": "As this formulation of the test makes clear, the onus is on the party seeking to prevent disclosure of a document.",
+      "id": "s80"
+    },
+    {
+      "text": "[ 26 ] This onus has been described by Lindgren J as a \"heavy burden\" requiring the proponent of immunity to \"establish a 'real' rather than merely 'some' or 'any' detriment to the public interest from disclosure\" of the documents: Somerville v Australian Securities Commission (1995) 60 FCR 319 at 354.",
+      "id": "s81"
+    },
+    {
+      "text": "If the proponent cannot establish any such interest as a threshold matter, then the balancing test never arises, and the immunity claim will fail at the outset: As the High Court said in Alister at 412, \"the balancing exercise ... can only be taken when it appears that both aspects of the public interest do require consideration (Emphasis added).",
+      "id": "s82"
+    },
+    {
+      "text": "Betfair submitted that Ms Mills' affidavit disclosed that the claim related to documents other than Cabinet documents.",
+      "id": "s83"
+    },
+    {
+      "text": "According to Betfair, Australian law did not recognise any immunity based on the mere category of documents (as opposed to their content) for documents not comprising Cabinet documents.",
+      "id": "s84"
+    },
+    {
+      "text": "The Attorney-General's reliance on the obiter dicta of Gibbs ACJ in Sankey at 39-40, referring to Lord Reid in Conway v Rimmer [1968] UKHL 2 ; [1968] AC 910 at 952, that \"the class would extend to 'all documents concerned with policy making within departments including, it may be, minutes and the like by quite junior officials and correspondence with outside bodies'\" was misplaced.",
+      "id": "s85"
+    },
+    {
+      "text": "Gibbs ACJ did not refer to that statement with approval.",
+      "id": "s86"
+    },
+    {
+      "text": "Mason J rejected this broader class at 99, saying that: \n \n The second qualification that I would make is that I see no reason to extend the umbrella of non-disclosure or non-production to all documents concerned with policy making in government departments.",
+      "id": "s87"
+    },
+    {
+      "text": "To ensure that the protection given to cabinet proceedings is effective, documents and communications passing between a Minister and the head of his department relating to cabinet proceedings and material prepared for cabinet must be protected.",
+      "id": "s88"
+    },
+    {
+      "text": "Further, as important matters of policy are resolved below the level of cabinet, documents and communications relating thereto passing between Ministers and public servants will be subject to Crown privilege as, for example, reports of inter-departmental and other government committees.",
+      "id": "s89"
+    },
+    {
+      "text": "But a distinction should be drawn between important matters of policy and those which are not.",
+      "id": "s90"
+    },
+    {
+      "text": "As the range of issues which engage the attention of the Executive Government is infinite and as the manner in which those issues are considered varies from case to case, it is impossible to lay down hard and fast rules which will provide universal answers.",
+      "id": "s91"
+    },
+    {
+      "text": "Each case here, as elsewhere, depends upon its own circumstances and it is only by a consideration of them that a correct balance will be reached.",
+      "id": "s92"
+    },
+    {
+      "text": "Stephen, Jacobs and Aickin JJ, in Sankey , also did not offer support for the broad view expressed by Lord Reid in Conway v Rimmer .",
+      "id": "s93"
+    },
+    {
+      "text": "Betfair also submitted that the Attorney-General's reliance on the observations in Re Re Howard and Treasurer of the Commonwealth of Australia (1985) 7 ALD 626 at 634-635 were equally ill-founded.",
+      "id": "s94"
+    },
+    {
+      "text": "Davies J was dealing with a question of freedom of information not public interest immunity.",
+      "id": "s95"
+    },
+    {
+      "text": "The Attorney-General submitted that the documents fell within the well-recognised category of claims for public interest immunity, being State papers.",
+      "id": "s96"
+    },
+    {
+      "text": "Contrary to Betfair's submissions, Australian authority supports the existence of classes of documents prima facie attracting public interest immunity well beyond mere Cabinet documents.",
+      "id": "s97"
+    },
+    {
+      "text": "For example, documents directed to obtaining a cabinet decision upon a matter of policy were held to be privileged in Lanyon Pty Limited v The Commonwealth [1974] HCA 11 ; (1974) 129 CLR 650 , as were State documents at below Cabinet level in Re Peters and Prime Minister &amp; Cabinet (No 2) (1983) 5 ALN N306 (a freedom of information decision).",
+      "id": "s98"
+    },
+    {
+      "text": "See also the reference in subparagraph 7 of Murrumbidgee Ground-Water Preservation Association at [19] (quoted above).",
+      "id": "s99"
+    },
+    {
+      "text": "More to the point, the statements of Gibbs ACJ in Sankey at 39 cannot be disregarded and Mason J at 99 should not be read as saying anything to the contrary.",
+      "id": "s100"
+    },
+    {
+      "text": "According to the Attorney-General Betfair's submissions failed to appreciate that the classes of documents attracting the immunity at least on a prima facie basis involve a spectrum from those at the highest level (Cabinet documents) to those at lower levels (such as reports of junior Departmental officials).",
+      "id": "s101"
+    },
+    {
+      "text": "The strength or weakness of the public interest protected (or the harm that might result from disclosure) does not affect the existence of the immunity.",
+      "id": "s102"
+    },
+    {
+      "text": "It affects the balancing exercise between that public interest and the interest of the party seeking access in order to litigate its claim.",
+      "id": "s103"
+    },
+    {
+      "text": "In any event, it is well-recognised that the classes of immunity are not closed ( Australian National Airlines Commission v The Commonwealth [1975] HCA 33 ; (1975) 132 CLR 582 at 591 and D v National Society for the Prevention of Cruelty to Children [1977] UKHL 1 ; [1978] AC 171 at 230).",
+      "id": "s104"
+    },
+    {
+      "text": "The Attorney-General submitted that application of the doctrine involved three considerations: - (i) the harm that might flow from disclosure, (ii) the material assistance that disclosure might provide to the party seeking access, and (iii) weighing those conflicting interests.",
+      "id": "s105"
+    },
+    {
+      "text": "I accept the Attorney-General's submissions.",
+      "id": "s106"
+    },
+    {
+      "text": "The circumstances in which the documents were brought into existence (by the involvement of the working group) might be unusual but the documents relate to the making of government policy and fall within the description in Conway v Rimmer cited by Gibbs ACJ in Sankey at 39.",
+      "id": "s107"
+    },
+    {
+      "text": "The approach of Mason J at 99 is not as narrow as Betfair's submissions propose.",
+      "id": "s108"
+    },
+    {
+      "text": "The documents are below the level of Cabinet but, as Mason J said, \"the range of issues which engage the attention of the Executive Government is infinite and as the manner in which those issues are considered varies from case to case\".",
+      "id": "s109"
+    },
+    {
+      "text": "Racing and wagering is one such issue and in this case the OLGR, an agency of the NSW Government, chose to develop policy in consultation with representatives of other statutory authorities responsible for racing in NSW.",
+      "id": "s110"
+    },
+    {
+      "text": "Accordingly, I do not accept Betfair's submission that the claim fails at the outset because it does not involve the identification of any recognised class of public interest immunity.",
+      "id": "s111"
+    },
+    {
+      "text": "Is there any public interest requiring protection by non-disclosure?",
+      "id": "s112"
+    },
+    {
+      "text": "Ms Mills considered that disclosure of documents concerning the deliberation, advice and discussions of the working group could undermine willingness of people and entities to be involved in similar processes in the future and their confidence that they could give frank and fearless advice to government.",
+      "id": "s113"
+    },
+    {
+      "text": "She also considered that disclosure of drafting instructions to Parliamentary Counsel and draft legislation, as well as related documents concerning discussions and deliberations of public servants about those matters, could be harmful to the public interest for much the same reasons.",
+      "id": "s114"
+    },
+    {
+      "text": "Betfair described the public interest sought to be protected as one of candour.",
+      "id": "s115"
+    },
+    {
+      "text": "The Attorney-General said a better characterisation was to ensure a lack of inhibition on the part of all those involved in the legislative process in circumstances where legislation, after all, is the highest expression of public policy.",
+      "id": "s116"
+    },
+    {
+      "text": "It seems to me that the difference between candour and lack of inhibition is a fine, indeed probably too fine, distinction.",
+      "id": "s117"
+    },
+    {
+      "text": "Whatever label is attached, the Attorney-General's evidence identified the public interest warranting protection as ensuring that those advising government about public policy as proposed to be embodied in draft legislation felt able to be frank and fearless in their advice without any concern about future disclosure.",
+      "id": "s118"
+    },
+    {
+      "text": "Betfair said this public interest is insufficient to attract the privilege in the case of a class, and not a contents, claim.",
+      "id": "s119"
+    },
+    {
+      "text": "Betfair relied on observations in Sankey at 63 and 97 and also Commonwealth v Northern Land Council [1993] HCA 24 ; (1993) 176 CLR 604 at 615 to the effect that courts could expect public servants to be reasonably robust.",
+      "id": "s120"
+    },
+    {
+      "text": "This accords with the analysis in those decisions of the real basis for the immunity of Cabinet documents as dependent on the need to maintain the Westminster system of collective responsibility for government decisions.",
+      "id": "s121"
+    },
+    {
+      "text": "Betfair also emphasised in this context that the documents in question are all within the possession, custody or control of Racing NSW, a statutory authority not representing the Crown and not subject to Ministerial control and direction.",
+      "id": "s122"
+    },
+    {
+      "text": "In other words, all of the information in the documents, and the documents themselves insofar as they emanated from the State, had been disclosed to bodies independent of the State.",
+      "id": "s123"
+    },
+    {
+      "text": "Further, Ms Mills' evidence of harm, said Betfair, is wholly speculative.",
+      "id": "s124"
+    },
+    {
+      "text": "The NSW Government was represented in the consultation process by four mid-level public servants in the OLGR.",
+      "id": "s125"
+    },
+    {
+      "text": "In any event, the risk of undermining candour in the future was far-fetched.",
+      "id": "s126"
+    },
+    {
+      "text": "Representatives of Racing NSW are bound (through their enabling legislation ) to act in the public interest and in the best interests of the horse racing industry as a whole in NSW.",
+      "id": "s127"
+    },
+    {
+      "text": "Racing NSW is not only a regulator but also an industry lobbyist required to promote the economic and strategic development of the horse racing industry in the State.",
+      "id": "s128"
+    },
+    {
+      "text": "It would be curious, said Betfair, if public interest immunity could be attracted by consultation between government and a lobby group.",
+      "id": "s129"
+    },
+    {
+      "text": "Finally, Betfair noted that Racing NSW itself apparently had felt no constraint about expressly or impliedly disclosing the contents of the views it had expressed to the NSW Government as evident from its annual reports for 2006, 2007 and 2008 and comments of its executives in press releases and interviews.",
+      "id": "s130"
+    },
+    {
+      "text": "I consider that many aspects of these submissions on behalf of Betfair are relevant to the balancing exercise rather than the question whether there is any recognisable public interest to protect.",
+      "id": "s131"
+    },
+    {
+      "text": "Consistent with the submissions of the Attorney-General, I consider that there is a public interest in ensuring that those involved in advising governments about policy issues proposed to be embodied in legislation feel able to give frank and fearless advice uninhibited by concerns about future disclosure.",
+      "id": "s132"
+    },
+    {
+      "text": "The fact that this interest in candour or lack of inhibition has been subject to a certain degree of judicial scepticism over more recent years does not mean that this aspect of the public interest may be dismissed outright.",
+      "id": "s133"
+    },
+    {
+      "text": "It may, however, be relevant to the balancing exercise which involves an assessment of the nature and extent of the harm to the public interest in the proper functioning of the executive and legislative branches of government by reason of disclosure compared to the nature and extent of the harm to the public interest in the proper functioning of the judicial branch by ensuring that all relevant documents are available to a party seeking to litigate a claim.",
+      "id": "s134"
+    },
+    {
+      "text": "Accordingly, I accept that the evidence shows a public interest that could and, to some extent at least, would be harmed by the disclosure of the classes of documents in question.",
+      "id": "s135"
+    },
+    {
+      "text": "Accordingly, one pre-condition to the balancing exercise identified by the Attorney-General is satisfied, namely, the harm to the public interest by reason of disclosure.",
+      "id": "s136"
+    },
+    {
+      "text": "The other pre-condition to the balancing exercise is the harm to the public interest by reason of non-disclosure.",
+      "id": "s137"
+    },
+    {
+      "text": "These pre-conditions were explained in Alister v The Queen (1984) 154 CLR 404 at 412 as follows: \n \n Sankey v Whitlam establishes that when one party to litigation seeks the production of documents, and objection is taken that it would be against the public interest to produce them, the court is required to consider two conflicting aspects of the public interest, namely whether harm would be done by the production of the documents, and whether the administration of justice would be frustrated or impaired if the documents were withheld, and to decide which of those aspects predominates.",
+      "id": "s138"
+    },
+    {
+      "text": "The final step in this process --- the balancing exercise --- can only be taken when it appears that both aspects of the public interest do require consideration --- i.e., when it appears, on the one hand, that damage would be done to the public interest by producing the documents sought or documents of that class, and, on the other hand, that there are or are likely to be documents which contain material evidence.",
+      "id": "s139"
+    },
+    {
+      "text": "The court can then consider the nature of the injury which the nation or the public service would be likely to suffer, and the evidentiary value and importance of the documents in the particular litigation.",
+      "id": "s140"
+    },
+    {
+      "text": "I also recognise the validity of the Attorney-General's submission that where harm to the public interest by reason of disclosure exists a court will not automatically inspect the documents.",
+      "id": "s141"
+    },
+    {
+      "text": "To do so \"would be to disregard the basis of the immunity for a document falling within the class described\" ( Northern Land Council at 617).",
+      "id": "s142"
+    },
+    {
+      "text": "Nevertheless, as the High Court also said the distinction between class and contents claims is \"rough and imprecise\" so inspection may be required to identify whether the documents really fall within the class.",
+      "id": "s143"
+    },
+    {
+      "text": "The Court continued at 618: \n \n ...where it is established that a document belongs to a class which attracts immunity, a court will lean initially against ordering disclosure.",
+      "id": "s144"
+    },
+    {
+      "text": "Whether the circumstances of a particular case will be sufficient to displace the considerations which favour immunity depends to a large extent upon the nature of the class.",
+      "id": "s145"
+    },
+    {
+      "text": "In the case of documents recording the actual deliberations of Cabinet, only considerations which are indeed exceptional would be sufficient to overcome the public interest in their immunity from disclosure, they being documents with a pre-eminent claim to confidentiality.",
+      "id": "s146"
+    },
+    {
+      "text": "The process of determining whether an order for disclosure of documents in that class should be made remains one of weighing the public interest in the maintenance of confidentiality against the public interest in the due administration of justice, but the degree of protection against disclosure which is called for by the nature of that class will dictate the paramountcy of the claim for immunity in all but quite exceptional situations.",
+      "id": "s147"
+    },
+    {
+      "text": "Indeed, for our part we doubt whether the disclosure of the records of Cabinet deliberations upon matters which remain current or controversial would ever be warranted in civil proceedings.",
+      "id": "s148"
+    },
+    {
+      "text": "The documents in the present case are not Cabinet documents.",
+      "id": "s149"
+    },
+    {
+      "text": "Moreover, and as discussed below, there is a countervailing public interest in this case given the nature of the case and of the documents in question.",
+      "id": "s150"
+    },
+    {
+      "text": "Harm to the public interest by non-disclosure?",
+      "id": "s151"
+    },
+    {
+      "text": "Betfair submitted that the documents in question were inherently likely to assist Betfair's case against Racing NSW (recognising that Betfair has not seen the documents and thus could make submissions only at a relatively high level of generality).",
+      "id": "s152"
+    },
+    {
+      "text": "Betfair's case against Racing NSW is that the conditions Racing NSW imposed on its approvals to publish NSW race field information requiring it to pay 1.5% of turnover are invalid because they contravene the guarantee of free trade between States in s 92 of the Constitution .",
+      "id": "s153"
+    },
+    {
+      "text": "According to Betfair these standard turnover conditions are discriminatory against an inter-State trader (Betfair) and protectionist in favour of an intra-State trader (TAB Limited).",
+      "id": "s154"
+    },
+    {
+      "text": "Betfair does not challenge the amendments to the legislative scheme enabling the conditions to be imposed but the imposition of the conditions themselves.",
+      "id": "s155"
+    },
+    {
+      "text": "Betfair referred to the statements of Perram J in Betfair Pty Limited v Racing New South Wales (No 1) [2009] FCA 111 at [48] - [51] that the actuating motives of Racing NSW in imposing the conditions may be relevant to the question whether the conditions should be characterised as discriminatory and protectionist for the purpose of s 92 of the Constitution .",
+      "id": "s156"
+    },
+    {
+      "text": "Betfair identified a series of matters the documents may disclose that would be relevant to, even perhaps determinative of, the litigation.",
+      "id": "s157"
+    },
+    {
+      "text": "These matters warrant identification in full.",
+      "id": "s158"
+    },
+    {
+      "text": "They are as follows: \n \n (a) awareness of the likely differential impact on TAB versus Betfair (or other competitors of the TAB) of a turnover based fee; \n \n\n \n \n (b) awareness concerning the level or sources of funding of the NSW racing industry (including as compared to other State racing industries), the amount contributed by TAB to such funding, and the sustainability of that level in light of competition faced by TAB from Betfair (and other competitors of TAB); \n \n\n \n \n (c) awareness of the impact of monies received by Racing NSW/Harness Racing NSW from TAB as a result of competition faced by TAB; \n \n\n \n \n (d) awareness or assessments of the turnover of TAB, as compared with the turnover of Betfair and other competitors of TAB; \n \n\n \n \n (e) examination of product fee regimes of other jurisdictions; \n \n\n \n \n (f) awareness or assessments of funding for the NSW racing industry/Racing NSW/Harness Racing NSW that might be achieved from the imposition of product fees for publication of NSW race fields, and/or how such funding levels may differ if imposed by reference to turnover or revenue; \n \n\n \n \n (g) awareness of operation or enforcement of the Racing Distribution Agreement particularly clauses 3A(b) and (e), 6A, 8.2 and 11B; \n \n\n \n \n (h) consideration of submissions from TAB/Tabcorp about the product fee regime; \n \n\n \n \n (i) general discussion concerning competition faced by NSW wagering operators from interstate wagering operators and how the fee regime or the legislative regime might be used to reduce such competition; \n \n\n \n \n (j) examination of fee structure options: e.g.",
+      "id": "s159"
+    },
+    {
+      "text": "flat fee (akin to a licence fee); fee based on use, whether as a percentage of gross revenue or 'turnover'; \n \n\n \n \n (k) consideration of the definition of 'turnover', and the need for a definition in relation to competitors of TAB; \n \n\n \n \n (l) hostility to Betfair; \n \n\n \n \n (m) awareness of, and the fact of, discriminatory effect when a turnover-based fee is used; and \n \n\n \n \n (n) the extent to which Racing NSW and Harness Racing NSW sought to be given the power to impose fees as a condition of race fields publication approval.",
+      "id": "s160"
+    },
+    {
+      "text": "The identification of these matters as possibly disclosed by the documents is well-founded, having regard to the description of the documents in Ms Mills' affidavit.",
+      "id": "s161"
+    },
+    {
+      "text": "It must also be kept in mind that the litigation, whilst civil proceedings, is a constitutional claim.",
+      "id": "s162"
+    },
+    {
+      "text": "Betfair challenges the turnover conditions imposed by Racing NSW pursuant to a legislative scheme the genesis and development of which allegedly involved Racing NSW in contravention of the guarantee in s 92 of the Constitution of free trade between States.",
+      "id": "s163"
+    },
+    {
+      "text": "Documents disclosing the process by which the legislative scheme was developed and Racing NSW's involvement in its development, particularly the legislative authorisation to impose a condition requiring payment of a fee up to a maximum of 1.5% for publication of race field information in cl 16(2) of the Racing Administration Amendment (Publication of Race Fields) Regulation, are obviously potentially relevant to, perhaps even determinative of, Betfair's claim.",
+      "id": "s164"
+    },
+    {
+      "text": "The documents thus are centrally relevant to the disposal of Betfair's claim that the respondents, being statutory bodies constituted by but independent of the NSW Government, have acted in breach of the Constitution and, thereby, to the detriment of Betfair.",
+      "id": "s165"
+    },
+    {
+      "text": "Given the nature of Betfair's case and the documents in question there would be harm to the public interest in the proper administration of justice by not ensuring that documents of potentially central relevance to the disposition of the proceeding are made available to Betfair.",
+      "id": "s166"
+    },
+    {
+      "text": "The second pre-condition to the balancing exercise is thus satisfied.",
+      "id": "s167"
+    },
+    {
+      "text": "Having regard to these considerations, I must look at the documents as part and parcel of the balancing exercise required to be undertaken.",
+      "id": "s168"
+    },
+    {
+      "text": "Balancing the harm to the identified public interests\n In Commonwealth v Northern Land Council (1991) 30 FCR 1 (reversed in the result but not by reference to principle in Commonwealth v Northern Land Council [1993] HCA 24 ; (1993) 176 CLR 604) the Full Court of the Federal Court identified that the balancing of the competing public interests should include consideration of at least six factors (at 38) as follows: \n \n (1) where the contents of the documents are relied upon, the interests affected by their disclosure, e.g.",
+      "id": "s169"
+    },
+    {
+      "text": "national security, relationships with foreign governments and unfair prejudice to other parties by disclosure of confidential information; where the impact of disclosure on the public interest is peculiarly within the knowledge of the executive, its contentions will be given particular weight;\n (2) where the class of documents is invoked, the public interest which immunity for the class is said to protect, e.g.",
+      "id": "s170"
+    },
+    {
+      "text": "political conventions and governmental processes; in this connection the importance of the convention of collective responsibility and the confidentiality required to support it, particularly in areas of current political debate, will be accorded a high degree of respect;\n (3) the extent to which the interests referred to have become attenuated by the passage of time or the occurrence of intervening events since the matters contained in the documents or the documents themselves came into existence;\n (4) the seriousness of the issues in relation to which production is sought, e.g.",
+      "id": "s171"
+    },
+    {
+      "text": "innocence of a criminal charge or governmental misconduct bearing upon the case;\n (5) the likelihood that production of the documents will affect the outcome of the case;\n (6) the likelihood of injustice if the documents are not produced.",
+      "id": "s172"
+    },
+    {
+      "text": "Further, the protection of the public interest in ensuring that advice may be given to government without inhibition by reason of the risk of subsequent disclosure indicates that consideration must be given to the \"the nature, and subject matter, of the documents\" ( North Australian Aboriginal Legal Aid Service Inc v Bradley [2001] FCA 1080 at [16] ).",
+      "id": "s173"
+    },
+    {
+      "text": "At the most general level the documents in dispute concern the amendment of legislation.",
+      "id": "s174"
+    },
+    {
+      "text": "The Attorney-General described legislation as the highest expression of governmental public policy in order to support a submission that the documents concerned high level public policy (thereby invoking the references in the authorities to such documents warranting protection from disclosure).",
+      "id": "s175"
+    },
+    {
+      "text": "It is one thing to accept that legislation is an expression of government policy.",
+      "id": "s176"
+    },
+    {
+      "text": "It is another to accept that all legislation embodies public policy at a high level.",
+      "id": "s177"
+    },
+    {
+      "text": "Statute law has grown by many multiples over the past decades regulating a great many matters that could hardly be described as involving high level public policy.",
+      "id": "s178"
+    },
+    {
+      "text": "Accordingly, the analysis should not stop at the mere recognition of the fact that the documents involve a proposal to amend legislation.",
+      "id": "s179"
+    },
+    {
+      "text": "The subject-matter of the legislative amendments is also important.",
+      "id": "s180"
+    },
+    {
+      "text": "With that in mind, it can be noted that the documents concern horse racing and the control of wagering in NSW.",
+      "id": "s181"
+    },
+    {
+      "text": "Specifically, the legislative amendments involved a scheme requiring those publishing NSW horse racing fields to obtain an approval to publish from Racing NSW and enabling Racing NSW to grant the approval subject to conditions, including conditions for the payment of a fee up to a maximum of 1.5% of turnover.",
+      "id": "s182"
+    },
+    {
+      "text": "As Betfair submitted, it is difficult to characterise this subject-matter as being at the core of traditional government functions.",
+      "id": "s183"
+    },
+    {
+      "text": "The source of the documents is not the State of NSW.",
+      "id": "s184"
+    },
+    {
+      "text": "All of the documents are held by a third party, Racing NSW.",
+      "id": "s185"
+    },
+    {
+      "text": "Racing NSW, as noted, is a statutory body separate from and independent of the NSW Government.",
+      "id": "s186"
+    },
+    {
+      "text": "Racing NSW is not subject to Ministerial control and direction.",
+      "id": "s187"
+    },
+    {
+      "text": "It is bound to act independently in the best interests of horse racing in NSW.",
+      "id": "s188"
+    },
+    {
+      "text": "It frequently makes unsolicited submissions to the NSW Government in what it perceives to be the interests it represents.",
+      "id": "s189"
+    },
+    {
+      "text": "In consulting with Racing NSW, and disclosing to it the information in question, the OLGR must be inferred to have understood these important matters about the status and functions of Racing NSW.",
+      "id": "s190"
+    },
+    {
+      "text": "One main source of the information contained in the documents is the officers of the OLGR.",
+      "id": "s191"
+    },
+    {
+      "text": "As Betfair submitted, these officers of the OLGR appeared to have represented the NSW Government in the discussions.",
+      "id": "s192"
+    },
+    {
+      "text": "Those officers may be described, without any disrespect, as mid-level public servants.",
+      "id": "s193"
+    },
+    {
+      "text": "Another source is representatives of Racing NSW, the status and functions of which have been referred to above.",
+      "id": "s194"
+    },
+    {
+      "text": "Representatives of Racing NSW, in the discussions, must be inferred to have acted in accordance with their own obligations and in the best interests of their employer.",
+      "id": "s195"
+    },
+    {
+      "text": "Those interests may or may not have aligned with those of the NSW Government.",
+      "id": "s196"
+    },
+    {
+      "text": "A further source is representatives of Parliamentary Counsel's Office who were involved in the drafting of the legislative amendments.",
+      "id": "s197"
+    },
+    {
+      "text": "I consider that it may be inferred from their functions that neither Racing NSW nor Parliamentary Counsel would be likely to be anything less than full and frank in their communications to government irrespective of any risk of future disclosure.",
+      "id": "s198"
+    },
+    {
+      "text": "The documents, at least having regard to the description of the class in which they are said to fall, are not Cabinet documents.",
+      "id": "s199"
+    },
+    {
+      "text": "The class does not refer to documents prepared in or submitted to Cabinet.",
+      "id": "s200"
+    },
+    {
+      "text": "Rather, the description of the class indicates that the documents record: - (i) the deliberations of the working group and communications between the working group members, (ii) summaries of the working group's progress for the internal purposes of the OLGR and of Racing NSW, and (iii) communications between the OLGR and Parliamentary Counsel's Office.",
+      "id": "s201"
+    },
+    {
+      "text": "Accordingly, in terms of the spectrum of documents referred to by the Attorney-General these documents would fall towards or at the lower end of governmental sensitivities.",
+      "id": "s202"
+    },
+    {
+      "text": "It is also relevant that the process of legislative amendment is complete.",
+      "id": "s203"
+    },
+    {
+      "text": "The amendments to the Racing Administration Act were assented to on 21 November 2006 and came into force on 1 July 2008.",
+      "id": "s204"
+    },
+    {
+      "text": "The Racing Administration Amendment (Publication of Race Fields) Regulation commenced on 1 July 2008.",
+      "id": "s205"
+    },
+    {
+      "text": "Accordingly, the relevant decision-making process with which the documents deal has finished.",
+      "id": "s206"
+    },
+    {
+      "text": "Sensitivities about that process, therefore, are not engaged.",
+      "id": "s207"
+    },
+    {
+      "text": "The concern about candour relates to the future.",
+      "id": "s208"
+    },
+    {
+      "text": "As the present case involves documents of a particular nature and character, the concern about the future must be limited to documents of the same or an analogous character.",
+      "id": "s209"
+    },
+    {
+      "text": "In other words, the result of the balancing exercise in the present case could be relevant only to similar cases in future and not dissimilar cases (involving, for example, documents dealing with a dissimilar subject-matter, created by dissimilar people, or sought to be disclosed whilst the decision-making process was still ongoing).",
+      "id": "s210"
+    },
+    {
+      "text": "Against this may be weighed the fact that the case is a civil case, but one involving an alleged breach of a fundamental constitutional guarantee.",
+      "id": "s211"
+    },
+    {
+      "text": "The documents in question concern the legislative amendments which enabled imposition of the very conditions of approval that Betfair challenges as unconstitutional.",
+      "id": "s212"
+    },
+    {
+      "text": "The class of documents are thus centrally relevant to, and potentially determinative of, Betfair's case.",
+      "id": "s213"
+    },
+    {
+      "text": "Inspection of the documents confirms the above analysis.",
+      "id": "s214"
+    },
+    {
+      "text": "I have undertaken that inspection.",
+      "id": "s215"
+    },
+    {
+      "text": "I can make the following observations without disclosing the contents of the documents: \n(1) Some of the documents are drafts of the Racing Administration Amendment (Publication of Race Fields) Regulation with drafting notes ensuring that Parliamentary Counsel had correctly understood the drafting instructions which are also included in the documents.",
+      "id": "s216"
+    },
+    {
+      "text": "(2) A considerable number of the documents are reports to board meetings of Racing NSW identifying Racing NSW's perception of the position of the NSW Government and its own position.",
+      "id": "s217"
+    },
+    {
+      "text": "(3) Some of the documents comprise the provision of statistical and other information by Racing NSW to the OLGR.",
+      "id": "s218"
+    },
+    {
+      "text": "(4) Some of the documents involve legal advice and communications about legal advice.",
+      "id": "s219"
+    },
+    {
+      "text": "The Attorney-General makes a separate claim for legal professional privilege over certain documents which I deal with below.",
+      "id": "s220"
+    },
+    {
+      "text": "(5) None of the documents are papers prepared for Cabinet.",
+      "id": "s221"
+    },
+    {
+      "text": "One document prepared by Racing NSW and submitted to its Board records the contents of a proposed minute to Cabinet.",
+      "id": "s222"
+    },
+    {
+      "text": "It follows that this proposed Cabinet minute must have been disclosed to Racing NSW.",
+      "id": "s223"
+    },
+    {
+      "text": "In these circumstances, and in terms of the six factors identified by the Full Court of the Federal Court in Northern Land Council (five of which are relevant to the present class claim, and which I recognise are not exhaustive), I have reached the following conclusions: \n(1) The public interest affected by disclosure (that is, future candour and lack of inhibition in those advising the NSW Government) exists.",
+      "id": "s224"
+    },
+    {
+      "text": "Yet, on the facts of this particular case, this is a relatively weak factor.",
+      "id": "s225"
+    },
+    {
+      "text": "The documents concern legislative amendments to racing legislation discovered by statutory bodies independent of the NSW Government.",
+      "id": "s226"
+    },
+    {
+      "text": "The bodies in question are bound by their enabling legislation to provide independent advice.",
+      "id": "s227"
+    },
+    {
+      "text": "Their interests cannot be inferred to be aligned consistently with those of the NSW Government.",
+      "id": "s228"
+    },
+    {
+      "text": "The nature of their functions makes it inherently unlikely that they will be anything less than candid and uninhibited in their advice.",
+      "id": "s229"
+    },
+    {
+      "text": "Insofar as the documents disclose drafting queries by Parliamentary Counsel, the nature of that office also indicates that there is no real basis for a concern about future inhibition or lack of candour.",
+      "id": "s230"
+    },
+    {
+      "text": "Accordingly, the public interest affected by disclosure is a factor of relatively insignificant weight in the present case.",
+      "id": "s231"
+    },
+    {
+      "text": "(2) The decision-making process disclosed by the documents is complete.",
+      "id": "s232"
+    },
+    {
+      "text": "The public interest in question protected by non-disclosure is limited to cases in the future the same as or sufficiently similar to the present case to justify its consideration.",
+      "id": "s233"
+    },
+    {
+      "text": "In weighing this factor regard must also be had to the bodies in question --- Racing NSW and Parliamentary Counsel's Office --- and my satisfaction that their functions are incompatible with any acceptance of a real risk of a future lack of candour or inhibition in their advice to government.",
+      "id": "s234"
+    },
+    {
+      "text": "Accordingly, this factor is also of relatively insignificant weight in the present case.",
+      "id": "s235"
+    },
+    {
+      "text": "(3) The issue in relation to which production is sought does not involve the freedom of an individual from potentially wrongful conviction.",
+      "id": "s236"
+    },
+    {
+      "text": "But it does involve an alleged breach of a fundamental constitutional guarantee by the bodies which discovered the documents.",
+      "id": "s237"
+    },
+    {
+      "text": "Accordingly, this is a material factor entitled to weight in the present case.",
+      "id": "s238"
+    },
+    {
+      "text": "(4) Given the nature of the issues in dispute in the principal case, there is a real likelihood that production of the documents will affect the outcome.",
+      "id": "s239"
+    },
+    {
+      "text": "Accordingly, this is a material factor entitled to weight in the present case.",
+      "id": "s240"
+    },
+    {
+      "text": "(5) There is a real likelihood of injustice to Betfair if the documents are not produced for a number of reasons.",
+      "id": "s241"
+    },
+    {
+      "text": "The documents are centrally relevant to its case.",
+      "id": "s242"
+    },
+    {
+      "text": "The documents are in the possession of the respondents and not sought on subpoena from the State of NSW.",
+      "id": "s243"
+    },
+    {
+      "text": "As Betfair said, Racing NSW, at least in respect of part of its function, is the industry representative for the NSW racing lobby.",
+      "id": "s244"
+    },
+    {
+      "text": "The interests of Racing NSW cannot be inferred to align consistently with that of the NSW Government.",
+      "id": "s245"
+    },
+    {
+      "text": "They certainly cannot be inferred to be consistent with the interests of Betfair.",
+      "id": "s246"
+    },
+    {
+      "text": "The legislative amendments the subject of the documents enabled Racing NSW to impose the very conditions that Betfair says infringes the constitutional guarantee to its detriment.",
+      "id": "s247"
+    },
+    {
+      "text": "The fact that the discussions were expressed to be confidential does not alter the significance of these circumstances.",
+      "id": "s248"
+    },
+    {
+      "text": "All of these circumstances indicate that there would be a substantial injustice to Betfair by reason of non-production.",
+      "id": "s249"
+    },
+    {
+      "text": "Weighing the competing public interests I am satisfied that the interest in the protection of the proper functioning of government is substantially outweighed by the interest in the administration of justice protected by production.",
+      "id": "s250"
+    },
+    {
+      "text": "On the facts of this case the public interest in the former might be marginally advanced by non-disclosure but even that is speculative on the evidence and the inferences able to be drawn from it.",
+      "id": "s251"
+    },
+    {
+      "text": "In contrast, the public interest in the administration of justice would be significantly advanced by disclosure.",
+      "id": "s252"
+    },
+    {
+      "text": "In other words, I am not satisfied that \"it is really necessary for the proper functioning of the public service to withhold documents of [the identified] class from production\" ( Sankey at 39).",
+      "id": "s253"
+    },
+    {
+      "text": "The interest in favour of disclosure thus prevails and the claim for public interest immunity fails.",
+      "id": "s254"
+    },
+    {
+      "text": "Insofar as the contents of the documents have not been disclosed on the basis of public interest immunity, I propose to order disclosure.",
+      "id": "s255"
+    },
+    {
+      "text": "LEGAL PROFESSIONAL PRIVILEGE CLAIM \n Nature of the claim\n The first thing I should reiterate about this claim is that it is by the Attorney-General for legal professional privilege over documents produced by Racing NSW.",
+      "id": "s256"
+    },
+    {
+      "text": "It is not a claim for legal professional privilege by Racing NSW over its own documents.",
+      "id": "s257"
+    },
+    {
+      "text": "It follows that the documents said to have been brought into existence for the dominant purpose of the State of NSW obtaining legal advice have been communicated to or prepared by Racing NSW.",
+      "id": "s258"
+    },
+    {
+      "text": "Competing submissions\n The parties again agreed that the relevant test is that of the common law as the Evidence Act does not apply at this interlocutory stage.",
+      "id": "s259"
+    },
+    {
+      "text": "According to the Attorney-General Ms Mills' evidence should be understood as identifying two relationships between the State (as the client) and another person or body (as the lawyer).",
+      "id": "s260"
+    },
+    {
+      "text": "The lawyers in question are Parliamentary Counsel and the Crown Solicitor and the lawyers in their respective offices.",
+      "id": "s261"
+    },
+    {
+      "text": "The Attorney-General described Parliamentary Counsel as the State's primary advisor on the drafting of legislation.",
+      "id": "s262"
+    },
+    {
+      "text": "The Attorney-General said that the communications relating to both lawyers were confidential on the usual solicitor-client basis.",
+      "id": "s263"
+    },
+    {
+      "text": "The dominant purpose of the confidential communications with respect to the drafting of legislation was the obtaining of legal advice.",
+      "id": "s264"
+    },
+    {
+      "text": "The working group were all agents of the State for that purpose.",
+      "id": "s265"
+    },
+    {
+      "text": "The drafting of legislation involves the obtaining of legal advice for that dominant purpose (see Three Rivers District Council v Bank of England (No 6) [2004] UKHL 48 ; [2005] 1 AC 610 at [40] - [41] and WorkCover Authority (NSW), (General Manager) v Law Society of New South Wales (2006) 65 NSWLR 502 ; [2006] NSWCA 84 at [74] ).",
+      "id": "s266"
+    },
+    {
+      "text": "Disclosure to the working group did not breach confidentiality as the working group was itself subject to a regime of confidentiality imposed by the officers of the OLGR.",
+      "id": "s267"
+    },
+    {
+      "text": "Even if they were not agents of the State, a client is entitled to communicate with a third party (who is not an agent of the client) for the dominant purpose of obtaining legal advice and such a communication will attract privilege if confidential ( Pratt Holdings Pty Ltd v Commissioner of Taxation (2004) 136 FCR 357 ; [2004] FCAFC 122 at [105] in particular).",
+      "id": "s268"
+    },
+    {
+      "text": "Ultimately, submitted the Attorney-General, the claims of privilege must be measured on a document-by-document basis.",
+      "id": "s269"
+    },
+    {
+      "text": "According to Betfair a distinction must be drawn between the purpose of preparing legislation and the purpose of obtaining legal advice for the preparation of such legislation.",
+      "id": "s270"
+    },
+    {
+      "text": "Draft legislation is not legal advice.",
+      "id": "s271"
+    },
+    {
+      "text": "It is brought into existence not for the purpose of advice but for the purpose of consideration and passing or rejection by Parliament.",
+      "id": "s272"
+    },
+    {
+      "text": "There is a close analogy in this regard with the preparation of wills and other legal documents which are not legal advice (for example, Tickell v Trifleska Pty Limited (1990) 24 NSWLR 548 and Allen, Allen &amp; Hemsley v Deputy Commissioner of Taxation (1988) 81 ALR 617 , affirmed by the Full Court of the Federal Court in Allen, Allen &amp; Hemsley v Deputy Commissioner of Taxation [1989] FCA 125 ; (1989) 20 FCR 576).",
+      "id": "s273"
+    },
+    {
+      "text": "Drafting instructions, for the same reason, are not seeking legal advice (either expressly or impliedly).",
+      "id": "s274"
+    },
+    {
+      "text": "They are seeking legislation to put before Parliament.",
+      "id": "s275"
+    },
+    {
+      "text": "Contrary to the Attorney-General's submissions there is no basis to infer that members of the working group were agents of the NSW Government.",
+      "id": "s276"
+    },
+    {
+      "text": "Moreover, the third party extension of the legal advice privilege is not attracted because Pratt Holdings is not concerned with communications prepared by the client (in this case, the State).",
+      "id": "s277"
+    },
+    {
+      "text": "Communications by Racing NSW to the State are also not covered as it falls within the observations in Pratt Holdings at [47] and [106] which point out the difficulties in establishing or maintaining privilege in the face of disclosure to third parties.",
+      "id": "s278"
+    },
+    {
+      "text": "In any event, the circumstances establish waiver of privilege.",
+      "id": "s279"
+    },
+    {
+      "text": "The communications were disclosed to members of the boards of the member bodies.",
+      "id": "s280"
+    },
+    {
+      "text": "There is no evidence of those members being bound by any confidentiality regime.",
+      "id": "s281"
+    },
+    {
+      "text": "The references to confidentiality in the evidence and the documents are insufficient to establish that the State had \"full control as to further dissemination\" of the material ( Cadbury Schweppes at [18]).",
+      "id": "s282"
+    },
+    {
+      "text": "The sheer number of persons to whom the State's material has been disclosed, including the further disclosure to the members' respective board members, shows the lack of control.",
+      "id": "s283"
+    },
+    {
+      "text": "Ms Mills' evidence identifies eight people from three organisations outside of the NSW Government who attended working group meetings.",
+      "id": "s284"
+    },
+    {
+      "text": "Moreover, it must be recognised, said Betfair, that Racing NSW has an obvious commercial interest in the outcome of the legislative amendments promulgated by the State by reason of the fees it may drive in accordance with the legislative amendments.",
+      "id": "s285"
+    },
+    {
+      "text": "Betfair's allegation in the principal proceeding is that this commercial interest may well have resulted in the imposition of a fee which for improper protectionist and discriminatory purposes.",
+      "id": "s286"
+    },
+    {
+      "text": "Betfair itself made representations to the State about the legislative amendments.",
+      "id": "s287"
+    },
+    {
+      "text": "The State consulted with those representing one set of commercial interests about the amendments but not others.",
+      "id": "s288"
+    },
+    {
+      "text": "In these circumstances, maintenance of the privilege is inconsistent with the State's conduct in consulting Racing NSW and is thereby unfair (see Mann v Carnell (1999) 201 CLR 1 ; [1999] HCA 66 at [28] - [29] ).",
+      "id": "s289"
+    },
+    {
+      "text": "Dominant purpose of obtaining legal advice?",
+      "id": "s290"
+    },
+    {
+      "text": "I do not doubt that Parliamentary Counsel from time to time may receive instructions to provide and in fact provides legal advice both about the drafting of legislation and about legal issues arising in respect of that task.",
+      "id": "s291"
+    },
+    {
+      "text": "The reference in Three Rivers at [40]-[41] acknowledges this fact, as does that in WorkCover at [74] (which, I note, also provides a useful summary of the relevant common law principles at [67]-[85]).",
+      "id": "s292"
+    },
+    {
+      "text": "However, I do not accept that the drafting of legislation pursuant to an instruction to do so, in and of itself, involves a retainer the dominant purpose of which is the giving of legal advice.",
+      "id": "s293"
+    },
+    {
+      "text": "More is required to attract legal advice privilege than a mere instruction to Parliamentary Counsel to draft legislation and the provision by Parliamentary Counsel of draft legislation (even if clarification is thereafter sought as to the intent of the instructions).",
+      "id": "s294"
+    },
+    {
+      "text": "In short, there must be some express or implied request for legal advice.",
+      "id": "s295"
+    },
+    {
+      "text": "In common with the cases referred to by Betfair where questions arose as to whether wills and the legal transaction documents were subject to legal professional privilege, an instruction to draft legislation does not necessarily carry with it an implied request for legal advice.",
+      "id": "s296"
+    },
+    {
+      "text": "The provision by Parliamentary Counsel of draft legislation is also not necessarily the provision of legal advice.",
+      "id": "s297"
+    },
+    {
+      "text": "Whether or not legal advice is involved largely depends on the nature and terms of the retainer (in this case, the drafting instructions).",
+      "id": "s298"
+    },
+    {
+      "text": "I have read the drafting instructions to Parliamentary Counsel.",
+      "id": "s299"
+    },
+    {
+      "text": "They are pure drafting instructions.",
+      "id": "s300"
+    },
+    {
+      "text": "They seek the preparation of an exposure draft of legislation for the purpose of consultation with the industry.",
+      "id": "s301"
+    },
+    {
+      "text": "They do not contain any request for legal advice.",
+      "id": "s302"
+    },
+    {
+      "text": "I have also considered the draft legislation discovered.",
+      "id": "s303"
+    },
+    {
+      "text": "Other than in one case, it is simply draft legislation with certain drafting notes and does not contain anything that purports to be legal advice.",
+      "id": "s304"
+    },
+    {
+      "text": "I am satisfied that, other than in one case explained below, the discovered documents comprising draft instructions to Parliamentary Counsel (both draft and final) and draft legislation were not brought into existence for the dominant purpose of obtaining legal advice.",
+      "id": "s305"
+    },
+    {
+      "text": "Accordingly, those documents cannot attract legal professional privilege.",
+      "id": "s306"
+    },
+    {
+      "text": "There are other documents which record or refer to legal advice obtained by the State from the Crown Solicitor, as well as a copy of the instruction from the OLGR to the Crown Solicitor and various legal advices copies of which the State provided to Racing NSW either through the working group or directly on request by Racing NSW.",
+      "id": "s307"
+    },
+    {
+      "text": "These documents record communications which I accept were brought into existence for the dominant purpose of obtaining legal advice.",
+      "id": "s308"
+    },
+    {
+      "text": "Confidential communications?",
+      "id": "s309"
+    },
+    {
+      "text": "I do not accept the Attorney-General's submissions that the members of the industry bodies who were represented at the working group were agents of the State for the purpose of the preparation of the legislative amendments.",
+      "id": "s310"
+    },
+    {
+      "text": "Those industry body representatives had obligations to the industry body and the interests of the industry body were not necessarily wholly aligned with those of the State.",
+      "id": "s311"
+    },
+    {
+      "text": "The State elected to disclose the legal advice the State had obtained to Racing NSW (via the working group and directly).",
+      "id": "s312"
+    },
+    {
+      "text": "It did so on a basis said to be confidential.",
+      "id": "s313"
+    },
+    {
+      "text": "In terms of the working group, I have the evidence of Ms Mills and some of the documents which refer to the process being confidential.",
+      "id": "s314"
+    },
+    {
+      "text": "In terms of the direct disclosure to Racing NSW (not apparent from Ms Mills' descriptions of what occurred) I have the covering letter and email each of which refers to the advice being provided on a \"confidential\" basis with the former (but not the latter) expressly stating that the advice \"should not be provided to a third party in any circumstances\".",
+      "id": "s315"
+    },
+    {
+      "text": "Insofar as Betfair submitted that disclosure to the working group on a confidential basis must have permitted the members to make disclosure to their respective boards, I accept the submission.",
+      "id": "s316"
+    },
+    {
+      "text": "The representatives of the industry bodies were invited to attend and in fact attended the working group in their capacity as such representatives.",
+      "id": "s317"
+    },
+    {
+      "text": "The OLGR, being the representative of the State, must be taken to have known and anticipated that the confidential discussions of the working group would be disclosed to the boards of the bodies involved.",
+      "id": "s318"
+    },
+    {
+      "text": "Moreover, that is precisely what in fact occurred on a routine basis throughout the deliberations of the working group.",
+      "id": "s319"
+    },
+    {
+      "text": "However, the reports to the board of Racing NSW dealing with the legal advices refer to the information being confidential and for board members only.",
+      "id": "s320"
+    },
+    {
+      "text": "Even without this express reference I infer that reports to the board of Racing NSW would be understood by members to be confidential and not to be disclosed further unless specifically authorised.",
+      "id": "s321"
+    },
+    {
+      "text": "I accept the Attorney-General's submission that the regime of confidentiality existed to protect the State's disclosure of communications for the dominant purpose of obtaining legal advice and to prevent its further disclosure,.",
+      "id": "s322"
+    },
+    {
+      "text": "There is no evidence of disclosure of those communications beyond the working group or the boards of its members.",
+      "id": "s323"
+    },
+    {
+      "text": "The disclosures in annual reports and the like on which Betfair relied refer to Racing NSW's own submissions to the NSW Government.",
+      "id": "s324"
+    },
+    {
+      "text": "They do not disclose the legal advice obtained by the NSW Government and provided by the OLGR to Racing NSW.",
+      "id": "s325"
+    },
+    {
+      "text": "This is not a case similar to Pratt Holdings other than in respect of one document (dealt with below).",
+      "id": "s326"
+    },
+    {
+      "text": "Pratt Holdings involved documents created by a third party at the request of the principal.",
+      "id": "s327"
+    },
+    {
+      "text": "This case involves documents created by a lawyer for the principal (the State who was the client) which were disclosed to a third party (Racing NSW) on a confidential basis.",
+      "id": "s328"
+    },
+    {
+      "text": "The real issue about these documents therefore is waiver.",
+      "id": "s329"
+    },
+    {
+      "text": "For these reasons I accept the Attorney-General's submission that the requirement of confidentiality is satisfied in respect of the documents constituting or recording legal advice obtained by the State.",
+      "id": "s330"
+    },
+    {
+      "text": "Waiver?",
+      "id": "s331"
+    },
+    {
+      "text": "Betfair's submissions appear to identify two (probably related) bases for waiver.",
+      "id": "s332"
+    },
+    {
+      "text": "First, that the documents were dealt with in a manner that destroyed the State's capacity to control further dissemination of the document.",
+      "id": "s333"
+    },
+    {
+      "text": "Second, that the documents were dealt with in a manner inconsistent with the maintenance of the privilege by reason of unfairness to Betfair.",
+      "id": "s334"
+    },
+    {
+      "text": "Insofar as the second basis might be thought to invoke considerations of \"fairness at large\" it must be rejected.",
+      "id": "s335"
+    },
+    {
+      "text": "The High Court rejected that basis of waiver in favour of the inconsistency test, \"where necessary informed by considerations of fairness\", in Mann v Carnell at [28]-[29].",
+      "id": "s336"
+    },
+    {
+      "text": "It is for this reason that I consider that the two bases for finding waiver apparent in Betfair's submissions are probably related.",
+      "id": "s337"
+    },
+    {
+      "text": "Be that as it may, the first basis identified, if upheld, is a proper basis for finding waiver.",
+      "id": "s338"
+    },
+    {
+      "text": "In Cadbury Schweppes at [17]-[18] Gordon J explained the rationale as follows: \n \n [ 17 ] To put the proposition in different terms, if \"it is in the other side's power to destroy the privilege entirely,\"... it can no longer be said that the original holder can reasonably expect any continued confidentiality.",
+      "id": "s339"
+    },
+    {
+      "text": "In such circumstances, the existence of the privilege cannot be made to turn on whether the other side in fact places the document into evidence or uses it for examination --- either legal privilege exists or it does not, and either the client controls it or they do not: Telstra Corp Ltd v Minister for Communications, Information Technology and the Arts (No 2) [2007] FCA 1445 at [21] , \"If a communication qualifies for legal professional privilege, the privilege is absolute.",
+      "id": "s340"
+    },
+    {
+      "text": "It cannot be overridden by some supposedly greater public interest.",
+      "id": "s341"
+    },
+    {
+      "text": "It can be waived by the person, the client entitled to it, and it can be overridden by statute, but it is otherwise absolute.",
+      "id": "s342"
+    },
+    {
+      "text": "\" In other words, once it is found that the original holder of the privilege cannot control further dissemination of the document, the privilege is destroyed as a matter of law without further inquiry into whether the communication was in fact disseminated.",
+      "id": "s343"
+    },
+    {
+      "text": "[ 18 ] This is not to say that there could never be something less than a full waiver of privilege; rather, the point is that for there to be only a limited waiver, the original holder must still retain full control as to further dissemination of the document.",
+      "id": "s344"
+    },
+    {
+      "text": "So, for example, providing a witness statement to a party but subject to conditions that the party may use it only for internal purposes, may not read it in court, may not place it into evidence and may not otherwise rely on it in examination or the proceedings generally might constitute a limited waiver only: see Goldberg v Ng [1995] HCA 39 ; (1995) 185 CLR 83 at 96 (stating that the waiver \"can be limited so that it applies only in relation to particular persons, materials or purposes\"); Goldman v Hesper [1988] 3 All ER 97 (cited in Mann v Carnell at 29 for the proposition that disclosure \"for a limited and specific purpose\" will not lead to loss of the privilege).",
+      "id": "s345"
+    },
+    {
+      "text": "Sackville J considered decisions about disclosure to third parties in Australian Rugby Union Ltd v Hospitality Group Pty Ltd (1999) 165 ALR 253 ; [1999] FCA 1061.",
+      "id": "s346"
+    },
+    {
+      "text": "After analysis of the relevant authorities (at [38]-[43]) Sackville J concluded at [44] that: \n \n [ 44 ] In my view, the mere fact that otherwise privileged communications at the Meeting took place in the presence of persons who did not represent clients of FH&amp;P, does not justify a conclusion that the ARU had expressly or intentionally waived privilege in those communications.",
+      "id": "s347"
+    },
+    {
+      "text": "The disclosure of the privileged communications was to a limited group, namely those attending the Meeting.",
+      "id": "s348"
+    },
+    {
+      "text": "While there is no evidence of an express undertaking by the non-clients present at the Meeting to preserve confidentiality, the circumstances suggest that the non-clients were under an implied obligation to respect the confidentiality of the communications at the Meeting.",
+      "id": "s349"
+    },
+    {
+      "text": "The Meeting took place with solicitors present.",
+      "id": "s350"
+    },
+    {
+      "text": "That of itself does not necessarily show that all communications were subject to legal professional privilege.",
+      "id": "s351"
+    },
+    {
+      "text": "But, as I have found, the purpose of the Meeting was to enable FH&amp;P to give legal advice to the ARU, and indeed such advice was given.",
+      "id": "s352"
+    },
+    {
+      "text": "So far as the evidence goes, the representatives of the non-clients were in attendance in order to provide information required by the solicitors.",
+      "id": "s353"
+    },
+    {
+      "text": "Insofar as the Attorney-General's claim relates to documents constituting or recording legal advice to the State of NSW which the State disclosed to Racing NSW, I reach a similar conclusion as Sackville J.",
+      "id": "s354"
+    },
+    {
+      "text": "There was express reference to confidentiality at the beginning of the meetings of the working group.",
+      "id": "s355"
+    },
+    {
+      "text": "Betfair's attempt to characterise that as relating to the meeting as opposed to the discussions or the advice disclosed is artificial.",
+      "id": "s356"
+    },
+    {
+      "text": "The OLGR was attempting to communicate that everything connected with the process of legislative amendment, including any legal advice disclosed, was confidential, in the sense that it could not be communicated, I infer, other than to the boards of the organisations in question and on the basis that those board members themselves would understand the requirement of confidentiality.",
+      "id": "s357"
+    },
+    {
+      "text": "In terms of the legal advices disclosed, the requirement for confidentiality and non-disclosure is express.",
+      "id": "s358"
+    },
+    {
+      "text": "Further, in respect of these claims, I cannot infer any unfairness to Betfair.",
+      "id": "s359"
+    },
+    {
+      "text": "The claims with which I am presently dealing do not relate to Racing NSW's submissions to the NSW Government.",
+      "id": "s360"
+    },
+    {
+      "text": "They relate to the legal advice disclosed by the NSW Government to Racing NSW on a limited and confidential basis.",
+      "id": "s361"
+    },
+    {
+      "text": "In respect of those documents I am satisfied that there has been no waiver of legal professional privilege.",
+      "id": "s362"
+    },
+    {
+      "text": "I deal separately below with the document that I consider does engage the observations in Pratt Holdings on which Betfair relies.",
+      "id": "s363"
+    },
+    {
+      "text": "However, I also accept that, as the Attorney-General submitted, I need to review the documents on an individual basis not the least because of the fact that legal professional privilege appears to have been claimed over documents which do not necessarily fit within the two primary descriptions with which I have been dealing (documents constituting or recording communications Parliamentary Counsel and the Crown Solicitor).",
+      "id": "s364"
+    },
+    {
+      "text": "Specific documents\n I propose to deal with the documents subject to the Attorney-General's claim for legal professional privilege in each of the confidential exhibits to the affidavits of Ms Mills of 4 and 29 September 2009 ( Exhibits CM1 , CM2 and CM3 ).",
+      "id": "s365"
+    },
+    {
+      "text": "As noted, these documents are in the form made available by Racing NSW to the Attorney-General and thus exclude parts of the documents subject to a claim of legal professional privilege by Racing NSW.",
+      "id": "s366"
+    },
+    {
+      "text": "I am not dealing with Racing NSW's claim for legal professional privilege but only the claim of the Attorney-General.",
+      "id": "s367"
+    },
+    {
+      "text": "It follows that when I say the whole document should be produced I mean the whole document in the form appearing in the exhibits (on the basis that I have rejected the claim for public interest immunity generally).",
+      "id": "s368"
+    },
+    {
+      "text": "I also note that I have described the documents more specifically than Ms Mills so that Betfair may better understand the basis upon which I have upheld some of the claims for legal professional privilege.",
+      "id": "s369"
+    },
+    {
+      "text": "For the reasons given above, my findings about the status of each document over which the Attorney-General has claimed legal professional privilege in whole or part are as follows: Exhibit CM1\n \n Document 2 : This is draft legislation prepared by Parliamentary Counsel.",
+      "id": "s370"
+    },
+    {
+      "text": "I reject the claim for legal professional privilege.",
+      "id": "s371"
+    },
+    {
+      "text": "The whole document should be produced.",
+      "id": "s372"
+    },
+    {
+      "text": "Document 3 : This is a report to Racing NSW's board that includes a summary of legal advice to the State.",
+      "id": "s373"
+    },
+    {
+      "text": "Those parts of the summary over which legal professional privilege is claimed are privileged.",
+      "id": "s374"
+    },
+    {
+      "text": "Document 5 : The parts of this document highlighted pink do not contain any communication of legal advice and thus are not properly the subject of a claim for legal professional privilege.",
+      "id": "s375"
+    },
+    {
+      "text": "The whole document should be produced.",
+      "id": "s376"
+    },
+    {
+      "text": "Document 6 : As per document 5.",
+      "id": "s377"
+    },
+    {
+      "text": "Document 7 : This is an email attaching drafting instructions to Parliamentary Counsel.",
+      "id": "s378"
+    },
+    {
+      "text": "No part of this document is privileged and the whole should be produced.",
+      "id": "s379"
+    },
+    {
+      "text": "Document 9 : As per document 7.",
+      "id": "s380"
+    },
+    {
+      "text": "Document 10 : As per document 7 for the attachment to the email.",
+      "id": "s381"
+    },
+    {
+      "text": "Further, there is no apparent basis for the claim for privilege over the single sentence highlighted pink in the email.",
+      "id": "s382"
+    },
+    {
+      "text": "The whole document should be produced.",
+      "id": "s383"
+    },
+    {
+      "text": "Document 11 : This is a letter from Racing NSW to the OLGR.",
+      "id": "s384"
+    },
+    {
+      "text": "This document falls within the description in Pratt Holdings at [47] as follows:\n \n \n ...notwithstanding the principal's stated purpose in having a documentary communication brought into existence, the principal may have so conducted himself or herself in the matter as to indicate that the intended use of the document authored by the third party was not its communication to the legal adviser as the principal's communication, but rather it was to advise and inform the principal concerning its subject matter, with the principal then determining (a) in what manner, if at all, the whole or part of the document would be used by the principal in making its own communication or (b) the purpose(s) for which the document could or should be used.",
+      "id": "s385"
+    },
+    {
+      "text": "The less the principal performs the function of a conduit of the documentary information to the legal adviser, the more he or she filters, adapts or exercises independent judgment in relation to what of the third party's document is to be communicated to the legal adviser, the less likely it is that that document will be found to be privileged in the third party's hands.",
+      "id": "s386"
+    },
+    {
+      "text": "This will be because the intended use of the document is more likely to be found to be to advise and inform the principal in making the principal's communication to the lawyer (whether or not that communication embodied wholly or substantially the content of the document) and not to record the communication to be made.",
+      "id": "s387"
+    },
+    {
+      "text": "This document sets out a proposal by Racing NSW for the purpose of consideration by the State on the basis that, as part of its independent consideration, the State will obtain legal advice on the proposal as it sees fit.",
+      "id": "s388"
+    },
+    {
+      "text": "The intended use of the document thus is \"not its communication to the legal adviser as the principal's communication\" with the principal acting as a mere conduit.",
+      "id": "s389"
+    },
+    {
+      "text": "The document was submitted by Racing NSW as its proposal for the State's independent consideration.",
+      "id": "s390"
+    },
+    {
+      "text": "The document is not privileged and should be produced as a whole.",
+      "id": "s391"
+    },
+    {
+      "text": "Document 12 : This is a drafting instruction to Parliamentary Counsel.",
+      "id": "s392"
+    },
+    {
+      "text": "I do not accept the claim for legal professional privilege.",
+      "id": "s393"
+    },
+    {
+      "text": "The document should be produced as a whole.",
+      "id": "s394"
+    },
+    {
+      "text": "Document 13 : This is a request for legal advice by the OLGR to the Crown Solicitor.",
+      "id": "s395"
+    },
+    {
+      "text": "The whole document is privileged.",
+      "id": "s396"
+    },
+    {
+      "text": "Document 14 : The Attorney-General claims legal professional privilege over the request for advice to the Crown Solicitor which forms part of this document.",
+      "id": "s397"
+    },
+    {
+      "text": "I accept this claim.",
+      "id": "s398"
+    },
+    {
+      "text": "Document 15 : This is a report to the board of Racing NSW which includes reference to the request for advice to the Crown Solicitor.",
+      "id": "s399"
+    },
+    {
+      "text": "I accept the claim for legal professional privilege over part of this document.",
+      "id": "s400"
+    },
+    {
+      "text": "Document 16 : Consistent with the above I accept the claim for legal professional privilege over part of this document.",
+      "id": "s401"
+    },
+    {
+      "text": "Document 17 : Consistent with the above I accept the claim for legal professional privilege over part of this document.",
+      "id": "s402"
+    },
+    {
+      "text": "Document 18 : This email does not communicate the content of any legal advice and thus is not privileged.",
+      "id": "s403"
+    },
+    {
+      "text": "The whole email should be produced.",
+      "id": "s404"
+    },
+    {
+      "text": "Document 19 : This is an email attaching a facsimile from the OLGR to Racing NSW attaching legal advice on a confidential basis.",
+      "id": "s405"
+    },
+    {
+      "text": "I accept the claim for legal professional privilege over part of this document.",
+      "id": "s406"
+    },
+    {
+      "text": "Document 20 : This is an email from the OLGR to Racing NSW attaching legal advice on a confidential basis.",
+      "id": "s407"
+    },
+    {
+      "text": "I accept the claim for legal professional privilege over part of this document.",
+      "id": "s408"
+    },
+    {
+      "text": "Document 21 : This is a report to the board of Racing NSW including reference to legal advice obtained by the State.",
+      "id": "s409"
+    },
+    {
+      "text": "I accept the claim for legal professional privilege over part of this document.",
+      "id": "s410"
+    },
+    {
+      "text": "Document 22 : This is an email attaching draft legislation.",
+      "id": "s411"
+    },
+    {
+      "text": "I accept the claim for legal professional privilege over part of the email as highlighted in pink.",
+      "id": "s412"
+    },
+    {
+      "text": "I accept the claim also over drafting notes 3.1 and 3.8 in the attachment which involve legal advice from Parliamentary Counsel.",
+      "id": "s413"
+    },
+    {
+      "text": "I do not accept the balance of the claim for legal professional privilege.",
+      "id": "s414"
+    },
+    {
+      "text": "Document 24 : I accept the claim for legal professional privilege over parts of the email as highlighted in pink on the first page.",
+      "id": "s415"
+    },
+    {
+      "text": "The claim on the second page relates to legal advice to Racing NSW disclosed to the OLGR.",
+      "id": "s416"
+    },
+    {
+      "text": "I do not have evidence supporting the confidentiality of that communication.",
+      "id": "s417"
+    },
+    {
+      "text": "As this may be an oversight or subject to a claim for privilege by Betfair I propose to defer making any orders about the second page until the parties have had an opportunity to address me further.",
+      "id": "s418"
+    },
+    {
+      "text": "Document 25 : These are emails attaching draft legislation.",
+      "id": "s419"
+    },
+    {
+      "text": "I do not accept the claim for legal professional privilege.",
+      "id": "s420"
+    },
+    {
+      "text": "The whole documents should be produced.",
+      "id": "s421"
+    },
+    {
+      "text": "Document 26 : I cannot see the basis for the claim of legal professional privilege over parts of this document.",
+      "id": "s422"
+    },
+    {
+      "text": "The comments concern drafting not legal advice.",
+      "id": "s423"
+    },
+    {
+      "text": "The whole should be produced.",
+      "id": "s424"
+    },
+    {
+      "text": "Document 27 : As per document 26.",
+      "id": "s425"
+    },
+    {
+      "text": "Document 28 : As per document 26.",
+      "id": "s426"
+    },
+    {
+      "text": "Document 29 : These are emails attaching draft legislation.",
+      "id": "s427"
+    },
+    {
+      "text": "I do not accept the claim for legal professional privilege.",
+      "id": "s428"
+    },
+    {
+      "text": "The whole documents should be produced.",
+      "id": "s429"
+    },
+    {
+      "text": "Document 30 : As per document 26.",
+      "id": "s430"
+    },
+    {
+      "text": "Document 31 : As per document 26.",
+      "id": "s431"
+    },
+    {
+      "text": "Document 32 : This is a report to Racing NSW's board.",
+      "id": "s432"
+    },
+    {
+      "text": "The parts over which legal professional privilege have been claimed do not disclose any communication for the dominant purpose of legal advice.",
+      "id": "s433"
+    },
+    {
+      "text": "The whole document should be produced.",
+      "id": "s434"
+    },
+    {
+      "text": "Document 33 : This email, by a self-described \"bush lawyer\", is plainly not privileged.",
+      "id": "s435"
+    },
+    {
+      "text": "Document 34 : This is an email attaching draft legislation.",
+      "id": "s436"
+    },
+    {
+      "text": "I do not accept the claim for legal professional privilege.",
+      "id": "s437"
+    },
+    {
+      "text": "The whole documents should be produced.",
+      "id": "s438"
+    },
+    {
+      "text": "Document 35 : This is another document by the self-described \"bush lawyer\" and is plainly not privileged.",
+      "id": "s439"
+    },
+    {
+      "text": "Document 36 : This is an email attaching draft legislation.",
+      "id": "s440"
+    },
+    {
+      "text": "I do not accept the claim for legal professional privilege.",
+      "id": "s441"
+    },
+    {
+      "text": "The whole documents should be produced.",
+      "id": "s442"
+    },
+    {
+      "text": "Document 37 : This is an email attaching draft legislation.",
+      "id": "s443"
+    },
+    {
+      "text": "I do not accept the claim for legal professional privilege.",
+      "id": "s444"
+    },
+    {
+      "text": "The whole documents should be produced.",
+      "id": "s445"
+    },
+    {
+      "text": "Document 41 : I accept the claim for legal professional privilege over the disclosure of legal advice from the Crown Solicitor to the State on the last page of this document.",
+      "id": "s446"
+    },
+    {
+      "text": "Document 43 : I accept the claim for legal professional privilege over the disclosure of legal advice from the Crown Solicitor to the State in this document.",
+      "id": "s447"
+    },
+    {
+      "text": "Exhibit CM2\n \n Document 1 : This is a drafting instruction to Parliamentary Counsel.",
+      "id": "s448"
+    },
+    {
+      "text": "No part of this document is privileged and the whole should be produced.",
+      "id": "s449"
+    },
+    {
+      "text": "Document 2 : This is a drafting instruction to Parliamentary Counsel.",
+      "id": "s450"
+    },
+    {
+      "text": "No part of this document is privileged and the whole should be produced.",
+      "id": "s451"
+    },
+    {
+      "text": "Document 3 : This is a note of discussions of the working group.",
+      "id": "s452"
+    },
+    {
+      "text": "It does not refer to any communication for the dominant purpose of obtaining legal advice.",
+      "id": "s453"
+    },
+    {
+      "text": "The whole should be produced.",
+      "id": "s454"
+    },
+    {
+      "text": "Document 4 : This is an email attaching the drafting instruction.",
+      "id": "s455"
+    },
+    {
+      "text": "It does not refer to any communication for the dominant purpose of obtaining legal advice.",
+      "id": "s456"
+    },
+    {
+      "text": "The whole should be produced.",
+      "id": "s457"
+    },
+    {
+      "text": "Document 5 : This is a presentation to the working group.",
+      "id": "s458"
+    },
+    {
+      "text": "It does not disclose any communication for the dominant purpose of obtaining legal advice.",
+      "id": "s459"
+    },
+    {
+      "text": "The whole should be produced including the references to the fact of the Crown Solicitor providing advice.",
+      "id": "s460"
+    },
+    {
+      "text": "Document 6 : This is a note of discussions of the working group.",
+      "id": "s461"
+    },
+    {
+      "text": "It does not refer to any communication for the dominant purpose of obtaining legal advice.",
+      "id": "s462"
+    },
+    {
+      "text": "The whole should be produced.",
+      "id": "s463"
+    },
+    {
+      "text": "Document 7 : This is a note of discussions of the working group.",
+      "id": "s464"
+    },
+    {
+      "text": "It does not refer to any communication for the dominant purpose of obtaining legal advice.",
+      "id": "s465"
+    },
+    {
+      "text": "The whole should be produced.",
+      "id": "s466"
+    },
+    {
+      "text": "Document 8 : This is a note of discussions of the working group attaching the drafting instruction and document 7.",
+      "id": "s467"
+    },
+    {
+      "text": "It does not refer to any communication for the dominant purpose of obtaining legal advice.",
+      "id": "s468"
+    },
+    {
+      "text": "The whole should be produced.",
+      "id": "s469"
+    },
+    {
+      "text": "Document 9 : This is an email attaching document 7.",
+      "id": "s470"
+    },
+    {
+      "text": "It does not refer to any communication for the dominant purpose of obtaining legal advice.",
+      "id": "s471"
+    },
+    {
+      "text": "The whole should be produced.",
+      "id": "s472"
+    },
+    {
+      "text": "Document 10 : This is a note of discussions of the working group.",
+      "id": "s473"
+    },
+    {
+      "text": "It does not disclose any communication for the dominant purpose of obtaining legal advice.",
+      "id": "s474"
+    },
+    {
+      "text": "The whole should be produced.",
+      "id": "s475"
+    },
+    {
+      "text": "Document 11 : This is an email attaching the drafting instruction.",
+      "id": "s476"
+    },
+    {
+      "text": "It does not refer to any communication for the dominant purpose of obtaining legal advice.",
+      "id": "s477"
+    },
+    {
+      "text": "The whole should be produced.",
+      "id": "s478"
+    },
+    {
+      "text": "Document 12 : This is an email attaching a letter from Harness Racing NSW to the OLGR.",
+      "id": "s479"
+    },
+    {
+      "text": "It does not refer to any communication for the dominant purpose of obtaining legal advice.",
+      "id": "s480"
+    },
+    {
+      "text": "The whole should be produced.",
+      "id": "s481"
+    },
+    {
+      "text": "Document 13 : This is an email setting out Harness Racing NSW's comments to the OLGR.",
+      "id": "s482"
+    },
+    {
+      "text": "It does not refer to any communication for the dominant purpose of obtaining legal advice.",
+      "id": "s483"
+    },
+    {
+      "text": "The whole should be produced.",
+      "id": "s484"
+    },
+    {
+      "text": "Document 14 : This is a letter from Harness Racing NSW to the OLGR.",
+      "id": "s485"
+    },
+    {
+      "text": "It does not refer to any communication for the dominant purpose of obtaining legal advice.",
+      "id": "s486"
+    },
+    {
+      "text": "The whole should be produced.",
+      "id": "s487"
+    },
+    {
+      "text": "Document 15 : This is a letter from Harness Racing NSW to the OLGR.",
+      "id": "s488"
+    },
+    {
+      "text": "It does not refer to any communication for the dominant purpose of obtaining legal advice.",
+      "id": "s489"
+    },
+    {
+      "text": "The whole should be produced.",
+      "id": "s490"
+    },
+    {
+      "text": "Document 16 : This is a copy of a letter from the OLGR to the Crown Solicitor seeking legal advice.",
+      "id": "s491"
+    },
+    {
+      "text": "I accept the claim for legal professional privilege\n \n Document 17 : This is an email disclosing a summary of the Crown Solicitor's advice.",
+      "id": "s492"
+    },
+    {
+      "text": "I accept the claim for legal professional privilege over parts of the document as highlighted pink.",
+      "id": "s493"
+    },
+    {
+      "text": "Exhibit CM3\n \n Document 27 : I cannot see the basis for the claim of legal professional privilege over parts of this document.",
+      "id": "s494"
+    },
+    {
+      "text": "The comments concern drafting not legal advice.",
+      "id": "s495"
+    },
+    {
+      "text": "The whole should be produced.",
+      "id": "s496"
+    },
+    {
+      "text": "Document 41 : Ms Mills said this is a summary of legal advice from the Crown Solicitor.",
+      "id": "s497"
+    },
+    {
+      "text": "However, it appears that the same information has been the subject of a partial claim for privilege in document 21 in Exhibit CM1.",
+      "id": "s498"
+    },
+    {
+      "text": "In fact, the whole of document 41 is disclosed in document 21 with the claim relating to other parts that do not appear in document 41 at all.",
+      "id": "s499"
+    },
+    {
+      "text": "Accordingly, I reject the claim for legal professional privilege over the whole of document 41.",
+      "id": "s500"
+    },
+    {
+      "text": "The whole of that document should be produced.",
+      "id": "s501"
+    },
+    {
+      "text": "Document 42 : I accept the claim for legal professional privilege insofar as the document discloses communications for the dominant purpose of legal advice.",
+      "id": "s502"
+    },
+    {
+      "text": "On this basis, I accept the claims as shown highlighted in pink on the first, second, third and fourth pages of the document.",
+      "id": "s503"
+    },
+    {
+      "text": "I do not accept the claims on the fifth and sixth (that is, the last two pages of the document).",
+      "id": "s504"
+    },
+    {
+      "text": "Document 43: I accept the claim for legal professional privilege over the disclosure of legal advice from the Crown Solicitor to the State in this document.",
+      "id": "s505"
+    },
+    {
+      "text": "Document 3 : See above.",
+      "id": "s506"
+    },
+    {
+      "text": "This is a report to Racing NSW's board that includes a summary of legal advice to the State.",
+      "id": "s507"
+    },
+    {
+      "text": "Those parts of the summary over which legal professional privilege is claimed are privileged.",
+      "id": "s508"
+    },
+    {
+      "text": "WITHOUT PREJUDICE (SETTLEMENT) PRIVILEGE CLAIM \n Nature of the claim\n This is a claim by Racing NSW for privilege over documents containing communications said to disclose attempts by Racing NSW to settle a dispute with TAB Limited, Tabcorp Holdings Limited and Luxbet Pty Limited (together, Tabcorp ).",
+      "id": "s509"
+    },
+    {
+      "text": "The dispute arose under an agreement known as the Racing Distribution Agreement dated 11 December 1997 which is referred to in a further agreement styled \"deed of accession, co-operation and amendment\" dated 22 December 2004 which is a confidential exhibit before me.",
+      "id": "s510"
+    },
+    {
+      "text": "Timothy Price, solicitor for Racing NSW, provided an affidavit dated 4 September 2004 annexing notices of dispute from Tabcorp to Racing NSW under the racing distribution agreement.",
+      "id": "s511"
+    },
+    {
+      "text": "The documents became confidential Exhibit E on the notice of motion.",
+      "id": "s512"
+    },
+    {
+      "text": "Competing submissions\n Betfair and Racing NSW agreed that the common law test applied as explained in Field v Commissioner for Railways for New South Wales [1957] HCA 92 ; (1957) 99 CLR 285 at 291-292 as follows: \n \n As a matter of policy the law has long excluded from evidence admissions by words or conduct made by parties in the course of negotiations to settle litigation.",
+      "id": "s513"
+    },
+    {
+      "text": "The purpose is to enable parties engaged in an attempt to compromise litigation to communicate with one another freely and without the embarrassment which the liability of their communications to be put in evidence subsequently might impose upon them.",
+      "id": "s514"
+    },
+    {
+      "text": "The law relieves them of this embarrassment so that their negotiations to avoid litigation or to settle it may go on unhampered.",
+      "id": "s515"
+    },
+    {
+      "text": "This form of privilege, however, is directed against the admission in evidence of express or implied admissions.",
+      "id": "s516"
+    },
+    {
+      "text": "It covers admissions by words or conduct.",
+      "id": "s517"
+    },
+    {
+      "text": "For example, neither party can use the readiness of the other to negotiate as an implied admission.",
+      "id": "s518"
+    },
+    {
+      "text": "It is not concerned with objective facts which may be ascertained during the course of negotiations.",
+      "id": "s519"
+    },
+    {
+      "text": "These may be proved by direct evidence.",
+      "id": "s520"
+    },
+    {
+      "text": "But it is concerned with the use of the negotiations or what is said in the course of them as evidence by way of admission.",
+      "id": "s521"
+    },
+    {
+      "text": "For some centuries almost it has been recognised that parties may properly give definition to the occasions when they are communicating in this manner by the use of the words \"without prejudice\" and to some extent the area of protection may be enlarged by the tacit acceptance by one side of the use by the other side of these words...",
+      "id": "s522"
+    },
+    {
+      "text": "The question, however, does not depend altogether upon the expectations of the parties.",
+      "id": "s523"
+    },
+    {
+      "text": "It depends upon what formed part of the negotiations for the settlement of the action and what was reasonably incidental thereto.",
+      "id": "s524"
+    },
+    {
+      "text": "Betfair submitted that the extent of the privilege is limited to evidence of express or implied admissions ( Verge v Devere Holdings Pty Ltd (2009) 258 ALR 464; [2009] FCA 832 at [5] , [35], [39] and [50], Australian Competition &amp; Consumer Commission v ABB Power Transmission [2003] FCA 626 at [26] , Austotel Management Pty Ltd v Jamieson (1995) 57 FCR 411 , Quad Consulting Pty Ltd v David R Bleakley &amp; Associates Pty Ltd (1990) 27 FCR 86 , Glengallan Investments Pty Ltd v Andersen [2002] 1 Qd R 233 at [41]).",
+      "id": "s525"
+    },
+    {
+      "text": "The decisions referred to by Racing NSW ( Mercantile Mutual Custodians Pty Ltd v Village/Nine Network Restaurants &amp; Bars Pty Ltd [2001] 1 Qd R 276 and Alstom Power Ltd v Yokogawa Australia Pty Ltd (No 3) [2009] SASC 100) are not authority to the contrary.",
+      "id": "s526"
+    },
+    {
+      "text": "There is no evidence of express or implied admissions in Mr Price's affidavit.",
+      "id": "s527"
+    },
+    {
+      "text": "In any event, the present proceeding does not relate to the same subject-matter as the dispute between Racing NSW and Tabcorp.",
+      "id": "s528"
+    },
+    {
+      "text": "The evidence is only relevant in this proceeding as evidence of the relationship between Racing NSW and Tabcorp not for the truth of any admission.",
+      "id": "s529"
+    },
+    {
+      "text": "The relationship between Racing NSW and Tabcorp is relevant because Betfair alleges that the conditions on its approval to publish NSW race fields requiring payment of 1.5% of its turnover are protectionist and discriminatory in favour of Tabcorp, the NSW operator and against Betfair, the inter-State operator (see Verge at [30]).",
+      "id": "s530"
+    },
+    {
+      "text": "Putting it another way, the communications are relevant for the fact they were made not their truth and thus the privilege does not apply, consistent with the observation in Tenstat v Permanent Trustee Aust Ltd (1992) 28 NSWLR 625 at 633 that: \n \n It [the privilege] does not however extend to preclude the proof of communications or statements relied on, not as an express or implied admission, but as an objective act having legal consequences.",
+      "id": "s531"
+    },
+    {
+      "text": "Betfair rejected Racing NSW's proposition that Village/Nine at [16] supported the proposition that because Betfair wished to use the material as evidence against Racing NSW in this proceeding the material necessarily disclosed an express or implied admission or was irrelevant.",
+      "id": "s532"
+    },
+    {
+      "text": "It also rejected Racing NSW's submission that it was enough that the negotiations between Racing NSW and Tabcorp may have involved implied admissions against Racing NSW's interests in this proceeding merely by reason of Racing NSW's willingness to negotiate.",
+      "id": "s533"
+    },
+    {
+      "text": "Betfair dismissed as irrelevant Racing NSW's submissions that, unlike Verge , the present case involves the same respondents in circumstances where the other negotiating party (Tabcorp) is central to the present case, being the beneficiary of the alleged protectionist and discriminatory conduct, with the negotiation relating to the racing distribution agreement which is also relied on by Betfair in the present case as evidence of Racing NSW's alleged commercial interest in the success of Tabcorp.",
+      "id": "s534"
+    },
+    {
+      "text": "According to Betfair these submissions have to be rejected on principle.",
+      "id": "s535"
+    },
+    {
+      "text": "The privilege has never been said to extend to statements made in the course of negotiations relevant other than for the purpose of proving the truth of the admissions.",
+      "id": "s536"
+    },
+    {
+      "text": "In Field at 291 the reference of the High Court is to neither party being able to use \"the readiness of the other to negotiate as an implied admission\".",
+      "id": "s537"
+    },
+    {
+      "text": "The implied admission, submitted Betfair, must be an implied admission (and I quote from Betfair's submissions) \"to the effect that the claim asserted by or against the party in the earlier dispute may be well-founded\".",
+      "id": "s538"
+    },
+    {
+      "text": "Accordingly, if Betfair were seeking to use in the proceeding the readiness of Racing NSW to negotiate with Tabcorp as an implied admission of breach of the Racing Distribution Agreement, the privilege may be attracted to prevent Betfair from so doing.",
+      "id": "s539"
+    },
+    {
+      "text": "However, Betfair does not seek to make such a use of the documents.",
+      "id": "s540"
+    },
+    {
+      "text": "Betfair seeks to use the documents to demonstrate the nature of the commercial relationship between Racing NSW and Tabcorp.",
+      "id": "s541"
+    },
+    {
+      "text": "That use cannot be protected by the privilege recognised in Field at 291, Village/Nine at [16], Tenstat at 633 and Austotel at 416.",
+      "id": "s542"
+    },
+    {
+      "text": "Sufficiency of description\n This issue has been overtaken by the fact that Racing NSW tendered the documents in question on a confidential basis and invited me to inspect them.",
+      "id": "s543"
+    },
+    {
+      "text": "I have done so in accordance with that invitation.",
+      "id": "s544"
+    },
+    {
+      "text": "The documents do constitute evidence of negotiations in an attempt to settle a dispute about the operation of the Racing Distribution Agreement.",
+      "id": "s545"
+    },
+    {
+      "text": "Admissions and purpose of Betfair's proposed use\n I consider that these two issues should be dealt with together.",
+      "id": "s546"
+    },
+    {
+      "text": "I find compelling Betfair's submissions about the nature and extent of the privilege and the way in which it operates to protect express and implied admissions \"to the effect that the claim asserted by or against the party in the earlier dispute may be well-founded\".",
+      "id": "s547"
+    },
+    {
+      "text": "In other words, I am satisfied that Betfair may not use any of the documents for the purpose of proving that Racing NSW made any admission, express or implied, about any aspect of the operation of the Racing Distribution Agreement which gave rise to the dispute with Tabcorp.",
+      "id": "s548"
+    },
+    {
+      "text": "Betfair does not seek to use the documents for that purpose and it is difficult to see how they could be relevant for that purpose in the principal proceeding in any event.",
+      "id": "s549"
+    },
+    {
+      "text": "However, the documents are not privileged against Betfair insofar as Betfair seeks to use them not for that purpose but for the purpose of demonstrating, as an objective fact, the nature of the commercial relationship between Racing NSW and Tabcorp.",
+      "id": "s550"
+    },
+    {
+      "text": "As Betfair said, the latter use has nothing to do with any express or implied admission that Racing NSW may have made in the course of the resolution of the dispute.",
+      "id": "s551"
+    },
+    {
+      "text": "In that dispute Racing NSW could make admissions only about the operation of the provisions of the Racing Distribution Agreement in question.",
+      "id": "s552"
+    },
+    {
+      "text": "Insofar as its negotiations are otherwise capable of proving objective facts they are not protected by the privilege.",
+      "id": "s553"
+    },
+    {
+      "text": "This is consistent with the principle underlying the privilege and the authorities to which I have been referred.",
+      "id": "s554"
+    },
+    {
+      "text": "The fact that, as Racing NSW submitted, the privilege may extend beyond an express or implied admission itself to reasonably incidental statements, is not an answer to Betfair's overriding submission about the relevance of the documents in the proceeding.",
+      "id": "s555"
+    },
+    {
+      "text": "Accordingly, as Pincus JA said in Village/Nine at [16]: \n \n [16] The appellants ask for an order to be made excepting from the scope of the privilege all material containing such statements.",
+      "id": "s556"
+    },
+    {
+      "text": "But if it is not an admission express or implied --- i.e.",
+      "id": "s557"
+    },
+    {
+      "text": "a statement of fact, express or implied, which can be used against the respondent - then the statement need not be disclosed, because it must be irrelevant.",
+      "id": "s558"
+    },
+    {
+      "text": "This is not a case in which the appellants assert that any of the statements made in the course of negotiations are likely to be relevant other than as admissions, for example as relevant simply because made, irrespective of their truth, as discussed above.",
+      "id": "s559"
+    },
+    {
+      "text": "This, of course, is a case in which Betfair contends that the \"statements made in the course of negotiations are likely to be relevant other than as admissions, for example as relevant simply because made, irrespective of their truth\".",
+      "id": "s560"
+    },
+    {
+      "text": "Given the issues in dispute in the present proceeding, I accept that the documents are relevant for the purpose Betfair has identified.",
+      "id": "s561"
+    },
+    {
+      "text": "It may be that the documents should be subject to a confidentiality order protecting them from further disclosure to third parties.",
+      "id": "s562"
+    },
+    {
+      "text": "The parties may be heard on that issue.",
+      "id": "s563"
+    },
+    {
+      "text": "Subject to these matters I am satisfied that the documents are not protected by the common law \"without prejudice\" (settlement) privilege as Betfair seeks to make use of them for the purpose not of proving the truth of any admissions made about the operation of the Racing Distribution Agreement but of proving the commercial relationship between Racing NSW and Tabcorp.",
+      "id": "s564"
+    },
+    {
+      "text": "The documents thus must be produced.",
+      "id": "s565"
+    },
+    {
+      "text": "CONCLUSIONS \n For the reasons set out above I do not accept the Attorney-General's claim of public interest immunity.",
+      "id": "s566"
+    },
+    {
+      "text": "I accept part of the Attorney-General's claim for legal professional privilege.",
+      "id": "s567"
+    },
+    {
+      "text": "I do not accept Racing NSW's claim for without prejudice (settlement) privilege, although I can contemplate a possibility that these documents may be the subject of a confidentiality order preventing further disclosure.",
+      "id": "s568"
+    },
+    {
+      "text": "I leave that issue to the parties.",
+      "id": "s569"
+    },
+    {
+      "text": "The status of the second page of document 24 may be the subject of written submissions.",
+      "id": "s570"
+    },
+    {
+      "text": "Costs also may be dealt with through written submissions.",
+      "id": "s571"
+    },
+    {
+      "text": "I make orders and directions accordingly.",
+      "id": "s572"
+    },
+    {
+      "text": "I certify that the preceding seventy-five (75) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Jagot.",
+      "id": "s573"
+    },
+    {
+      "text": "Associate:\n \n \nDated: 8 October 2009\n \n Counsel for the Applicant: Mr R G McHugh SC and Mr P W Flynn \n \n Counsel for the Respondents: Mr S A Kerr SC and Mr J S Emmett \n \n Counsel for the Intervener Mr P Singleton \n \n Solicitor for the Applicant: Gilbert + Tobin \n \n Solicitor for the Respondents: Yeldham Price O'Brien Lusk \n \n Solicitor for the Intervener Crown Solicitor for the State of New South Wales \n Date of Hearing: 1 October 2009 \n \n Date of Judgment: 8 October 2009 \n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2009/1140.html",
+      "id": "s574"
+    }
+  ]
+}

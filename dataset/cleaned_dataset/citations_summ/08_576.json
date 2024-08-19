@@ -1,0 +1,536 @@
+[
+  {
+    "text": "veteran",
+    "id": "cp0.0",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "operational service",
+    "id": "cp0.1",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "tribunal diagnoses ptsd",
+    "id": "cp0.2",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "stressor met in sop",
+    "id": "cp0.3",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "ear problems not pursued and decision affirmed in that regard",
+    "id": "cp0.4",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "decision varied to reflect finding that ptsd held to be war caused.",
+    "id": "cp0.5",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "administrative law",
+    "id": "cp5.0",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "judicial review",
+    "id": "cp5.1",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "review of determination of delegate of australian postal corporation made under commonwealth employees' rehabilitation compensation act 1988 (cth)",
+    "id": "cp5.2",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "operation of s.62(1) and s.127(2) of the act",
+    "id": "cp5.3",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "whether the australian postal corporation may reconsider an entitlement to compensation which had earlier been the subject of a decision by the administrative appeals tribunal.  administrative law",
+    "id": "cp5.4",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "administrative appeals tribunal",
+    "id": "cp5.5",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "nature of aat decisions.  administrative appeals tribunal act 1975 (cth) s.43  commonwealth employees' rehabilitation act (cth)",
+    "id": "cp5.6",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "ss.4, 60, 62, 101, 124, 127",
+    "id": "cp5.7",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "customs",
+    "id": "cp6.0",
+    "type": "cited",
+    "from": "[1988]"
+  },
+  {
+    "text": "forfeiture of goods",
+    "id": "cp6.1",
+    "type": "cited",
+    "from": "[1988]"
+  },
+  {
+    "text": "false declaration",
+    "id": "cp6.2",
+    "type": "cited",
+    "from": "[1988]"
+  },
+  {
+    "text": "declaration wrong in fact but not purposely untrue",
+    "id": "cp6.3",
+    "type": "cited",
+    "from": "[1988]"
+  },
+  {
+    "text": "customs act 1901 (cth), s. 229(1)(i).",
+    "id": "cp6.4",
+    "type": "cited",
+    "from": "[1988]"
+  },
+  {
+    "text": "papua and new guinea",
+    "id": "cp7.0",
+    "type": "cited",
+    "from": "[1973]"
+  },
+  {
+    "text": "native land",
+    "id": "cp7.1",
+    "type": "cited",
+    "from": "[1973]"
+  },
+  {
+    "text": "purchase by crown in 1886",
+    "id": "cp7.2",
+    "type": "cited",
+    "from": "[1973]"
+  },
+  {
+    "text": "validity",
+    "id": "cp7.3",
+    "type": "cited",
+    "from": "[1973]"
+  },
+  {
+    "text": "whether accord with native custom",
+    "id": "cp7.4",
+    "type": "cited",
+    "from": "[1973]"
+  },
+  {
+    "text": "the land ordinance of 1899 (british new guinea), s. xi*",
+    "id": "cp7.5",
+    "type": "cited",
+    "from": "[1973]"
+  },
+  {
+    "text": "land ordinance of 1911 (papua), s. 9**. estoppel",
+    "id": "cp7.6",
+    "type": "cited",
+    "from": "[1973]"
+  },
+  {
+    "text": "by record",
+    "id": "cp7.7",
+    "type": "cited",
+    "from": "[1973]"
+  },
+  {
+    "text": "whether limited to courts",
+    "id": "cp7.8",
+    "type": "cited",
+    "from": "[1973]"
+  },
+  {
+    "text": "ad hoc tribunal with power to give final decision",
+    "id": "cp7.9",
+    "type": "cited",
+    "from": "[1973]"
+  },
+  {
+    "text": "required to act according to equity and good conscience",
+    "id": "cp7.10",
+    "type": "cited",
+    "from": "[1973]"
+  },
+  {
+    "text": "identity of parties",
+    "id": "cp7.11",
+    "type": "cited",
+    "from": "[1973]"
+  },
+  {
+    "text": "estoppel by conduct. evidence",
+    "id": "cp7.12",
+    "type": "cited",
+    "from": "[1973]"
+  },
+  {
+    "text": "traditional evidence",
+    "id": "cp7.13",
+    "type": "cited",
+    "from": "[1973]"
+  },
+  {
+    "text": "conflict",
+    "id": "cp7.14",
+    "type": "cited",
+    "from": "[1973]"
+  },
+  {
+    "text": "testing traditional evidence by reference to modern known facts and documents",
+    "id": "cp7.15",
+    "type": "cited",
+    "from": "[1973]"
+  },
+  {
+    "text": "search for more probable of competing histories.  *(1973) 130clr353, at p 423   ** section 9 of the land ordinance of 1911 (papua) provides that: \"it shall be lawful for the lieutenant",
+    "id": "cp7.16",
+    "type": "cited",
+    "from": "[1973]"
+  },
+  {
+    "text": "governor by proclamation in the gazette to appoint a board or boards to decide all questions as to waste and vacant lands or lands alleged to be waste and vacant and all cases of disputed ownership of land in which a papuan native is claimant. the board in giving its decision shall be guided by the principles of equity and good conscience and shall not be bound by rules of evidence or legal procedure.",
+    "id": "cp7.17",
+    "type": "cited",
+    "from": "[1973]"
+  },
+  {
+    "text": "income tax (cth)",
+    "id": "cp8.0",
+    "type": "cited",
+    "from": "[1963]"
+  },
+  {
+    "text": "objection to assessment",
+    "id": "cp8.1",
+    "type": "cited",
+    "from": "[1963]"
+  },
+  {
+    "text": "reference to board of review",
+    "id": "cp8.2",
+    "type": "cited",
+    "from": "[1963]"
+  },
+  {
+    "text": "evidence",
+    "id": "cp8.3",
+    "type": "cited",
+    "from": "[1963]"
+  },
+  {
+    "text": "affairs of companies other than the taxpayer",
+    "id": "cp8.4",
+    "type": "cited",
+    "from": "[1963]"
+  },
+  {
+    "text": "information concerning same disclosed to the commissioner under the provisions of act",
+    "id": "cp8.5",
+    "type": "cited",
+    "from": "[1963]"
+  },
+  {
+    "text": "whether officer from taxation department entitled to give evidence of these affairs to the board in the presence of the taxpayer or his representatives",
+    "id": "cp8.6",
+    "type": "cited",
+    "from": "[1963]"
+  },
+  {
+    "text": "whether commissioner entitled to elicit from officer of one of companies in question direct evidence of its affairs",
+    "id": "cp8.7",
+    "type": "cited",
+    "from": "[1963]"
+  },
+  {
+    "text": "power of board to require production of document containing confidential information from officer of the commonwealth authority",
+    "id": "cp8.8",
+    "type": "cited",
+    "from": "[1963]"
+  },
+  {
+    "text": "income tax and social services contribution assessment act 1936-1958 (cth), ss. 16*, 136, 196 (2)",
+    "id": "cp8.9",
+    "type": "cited",
+    "from": "[1963]"
+  },
+  {
+    "text": "public service regulations (cth), reg. 35**.",
+    "id": "cp8.10",
+    "type": "cited",
+    "from": "[1963]"
+  },
+  {
+    "text": "income tax (cth.)",
+    "id": "cp9.0",
+    "type": "cited",
+    "from": "[1957]"
+  },
+  {
+    "text": "assessment",
+    "id": "cp9.1",
+    "type": "cited",
+    "from": "[1957]"
+  },
+  {
+    "text": "amendment",
+    "id": "cp9.2",
+    "type": "cited",
+    "from": "[1957]"
+  },
+  {
+    "text": "change of opinion by commissioner",
+    "id": "cp9.3",
+    "type": "cited",
+    "from": "[1957]"
+  },
+  {
+    "text": "private company",
+    "id": "cp9.4",
+    "type": "cited",
+    "from": "[1957]"
+  },
+  {
+    "text": "payment of retiring allowances",
+    "id": "cp9.5",
+    "type": "cited",
+    "from": "[1957]"
+  },
+  {
+    "text": "opinion that not allowable deduction because not to any extent reasonable",
+    "id": "cp9.6",
+    "type": "cited",
+    "from": "[1957]"
+  },
+  {
+    "text": "disallowed as deduction in ordinary assessment",
+    "id": "cp9.7",
+    "type": "cited",
+    "from": "[1957]"
+  },
+  {
+    "text": "treated as dividend in div. 7 assessment",
+    "id": "cp9.8",
+    "type": "cited",
+    "from": "[1957]"
+  },
+  {
+    "text": "amendment of div. 7 assessment by deleting dividend after expiration of time for appeal against ordinary assessment",
+    "id": "cp9.9",
+    "type": "cited",
+    "from": "[1957]"
+  },
+  {
+    "text": "function of opinion",
+    "id": "cp9.10",
+    "type": "cited",
+    "from": "[1957]"
+  },
+  {
+    "text": "not to determine allowability of deduction but reasonableness of amount",
+    "id": "cp9.11",
+    "type": "cited",
+    "from": "[1957]"
+  },
+  {
+    "text": "whether amendment to correct erroneous opinion or misconception of law",
+    "id": "cp9.12",
+    "type": "cited",
+    "from": "[1957]"
+  },
+  {
+    "text": "scope of power to amend",
+    "id": "cp9.13",
+    "type": "cited",
+    "from": "[1957]"
+  },
+  {
+    "text": "to remove from assessment every effect flowing from existence of former opinion",
+    "id": "cp9.14",
+    "type": "cited",
+    "from": "[1957]"
+  },
+  {
+    "text": "income tax assessment act 1936-1946 (no. 27 of 1936",
+    "id": "cp9.15",
+    "type": "cited",
+    "from": "[1957]"
+  },
+  {
+    "text": "no. 6 of 1946), ss. 109, 170 (8).",
+    "id": "cp9.16",
+    "type": "cited",
+    "from": "[1957]"
+  },
+  {
+    "text": "transport accident act 1986",
+    "id": "cp11.0",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "application for review of decision by tac denying liability to pay for surgery",
+    "id": "cp11.1",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "whether medical condition related to transport accident",
+    "id": "cp11.2",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "intention by applicant to make serious injury application to county court",
+    "id": "cp11.3",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "request to adjourn vcat proceeding indefinitely pending outcome",
+    "id": "cp11.4",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "request opposed by tac",
+    "id": "cp11.5",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "factors to consider in exercising discretion whether to adjourn including whether vcat decision would give rise to issue estoppel   victorian civil and administrative tribunal act 1998",
+    "id": "cp11.6",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "application for review",
+    "id": "cp11.7",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "request to adjourn proceeding pending hearing and determination in court of separate proceeding under same legislation",
+    "id": "cp11.8",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "request opposed by respondent",
+    "id": "cp11.9",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "factors to consider in exercising discretion whether to adjourn including whether vcat decision would give rise to issue estoppel",
+    "id": "cp11.10",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "veterans' entitlements",
+    "id": "cp12.0",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "pensions and benefits",
+    "id": "cp12.1",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "review by commission revoking earlier determinations that disease or injury war-caused",
+    "id": "cp12.2",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "standard of proof to be applied",
+    "id": "cp12.3",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "evidence not false in a material particular",
+    "id": "cp12.4",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "no matter affecting payment not before the commission",
+    "id": "cp12.5",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "decision set aside.",
+    "id": "cp12.6",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "superannuation",
+    "id": "cp13.0",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "death of army officer",
+    "id": "cp13.1",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "claim by spouse",
+    "id": "cp13.2",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "date from which benefit is payable",
+    "id": "cp13.3",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "delay",
+    "id": "cp13.4",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "interest",
+    "id": "cp13.5",
+    "type": "citing",
+    "from": "[2008]"
+  }
+]

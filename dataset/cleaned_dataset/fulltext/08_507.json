@@ -1,0 +1,1500 @@
+{
+  "name": "Zhong v Minister for Immigration and Citizenship [2008] FCA 507 (21 April 2008)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2008/507.html",
+  "catchphrases": [
+    {
+      "text": "where notice of intention to consider cancellation sent pursuant to s 107",
+      "id": "c0"
+    },
+    {
+      "text": "whether a notice issued under s 107 must assert that the delegate or minister considers the visa holder has not complied",
+      "id": "c1"
+    },
+    {
+      "text": "whether the delegate had concluded the appellant did not comply with the requirements of the act before sending a notice pursuant to s 107",
+      "id": "c2"
+    },
+    {
+      "text": "whether the notice was sufficiently particularised",
+      "id": "c3"
+    },
+    {
+      "text": "whether the tribunal was required to specifically consider reg 2.14(k)",
+      "id": "c4"
+    },
+    {
+      "text": "appeal allowed.",
+      "id": "c5"
+    },
+    {
+      "text": "migration",
+      "id": "c6"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Introduction \n \n1 This is an appeal against an order of a Federal Magistrate made on 6 July 2007 dismissing the appellant's application for judicial review of a decision of the Migration Review Tribunal (the Tribunal) made on 11 May 2006 and handed down on 31 May 2006.",
+      "id": "s0"
+    },
+    {
+      "text": "The Tribunal had affirmed a decision of a delegate of the Minister for Immigration and Citizenship to cancel the appellant's Preferential Relative (Migrant) (Class AY) (Subclass 104 (Preferential Family)) visa under s 109(1) of the Migration Act 1958 (Cth) (the Act) because of a breach by the appellant of s 101 of the Act.",
+      "id": "s1"
+    },
+    {
+      "text": "2 Neither the Class AY nor the Subclass 104 visas are provided for any longer in the Migration Regulations 1994 (Cth) (the Regulations).",
+      "id": "s2"
+    },
+    {
+      "text": "Those visas were removed from the Regulations by the Migration Amendment Regulations 1999 (No.",
+      "id": "s3"
+    },
+    {
+      "text": "13) (Cth).",
+      "id": "s4"
+    },
+    {
+      "text": "Regulation 5 of those amending regulations was a transitional provision, however, and provided that the amendments only applied to applications for visas made on or after 1 November 1999.",
+      "id": "s5"
+    },
+    {
+      "text": "Therefore, as the appellant in this case applied for his visa on 25 September 1998, he was still eligible to apply for a Subclass 104 visa, notwithstanding that the provision for that Subclass of visa was later repealed.",
+      "id": "s6"
+    },
+    {
+      "text": "3 Section 101 of the Act, at the relevant time, provided:\n \n A non-citizen must fill in his or her application form in such a way that:\n (a) all questions on it are answered; and\n (b) no incorrect answers are given.",
+      "id": "s7"
+    },
+    {
+      "text": "4 \"[A]pplication form\" is defined in s 97:\n \n ... in relation to a non-citizen, means a form on which a non-citizen applies for a visa, being a form that regulations made for the purposes of section 46 allow to be used for making the application.",
+      "id": "s8"
+    },
+    {
+      "text": "5 Section 99 provides:\n \n Any information that a non-citizen gives, causes to be given or that is given on his or her behalf to the Minister, an officer or a person or Tribunal reviewing a decision under this Act in relation to the non-citizen's application for a visa is taken for the purposes of section 100, paragraphs 101(b) and 102(b) and sections 104 and 105 to be an answer to a question in the non-citizen's application form, whether the information is given orally or in writing and whether at an interview or otherwise.",
+      "id": "s9"
+    },
+    {
+      "text": "6 A non-citizen must fill in his or her application form in such a way that no incorrect answers are given.",
+      "id": "s10"
+    },
+    {
+      "text": "The application form is the form on which a non-citizen applies for a visa.",
+      "id": "s11"
+    },
+    {
+      "text": "However, s 99 deems any information that a non-citizen gives or causes to be given to the Minister, an officer or a Tribunal reviewing a decision under the Act in relation to the non-citizen's application for a visa to be an answer to a question in the non-citizen's application form for the purposes of the sections mentioned in s 99.",
+      "id": "s12"
+    },
+    {
+      "text": "7 Apart from deeming the information referred to in s 99 to apply to the application form, s 99 has the effect of deeming the information to apply to the non-citizen passenger card: s 102(b).",
+      "id": "s13"
+    },
+    {
+      "text": "Section 99 also operates on s 104 which requires a non-citizen to inform the relevant officer if the answer to a question on the non-citizen's application form becomes incorrect, and s 105 which requires a non-citizen to advise the relevant officer if it becomes known to the non-citizen that an answer on the application form or passenger card or other information referred to in the section was incorrect when given.",
+      "id": "s14"
+    },
+    {
+      "text": "8 Section 109 empowers the Minister to cancel the visa if there has been non-compliance by the visa holder with ss 101, 102, 103, 104, 105 or 107(2).",
+      "id": "s15"
+    },
+    {
+      "text": "Before a visa is cancelled notice must be given to the applicant under s 107 to enable the visa holder to respond.",
+      "id": "s16"
+    },
+    {
+      "text": "The Minister has to consider any response by the visa holder and decide whether there has been non-compliance by the visa holder in the way described in the notice: s 108.",
+      "id": "s17"
+    },
+    {
+      "text": "9 The Minister, after deciding under s 108 there has been non-compliance by the visa holder and after considering any response to the notice given under s 107, and after having regard to any prescribed circumstances, may cancel the visa: s 109(1).",
+      "id": "s18"
+    },
+    {
+      "text": "Where the Minister is empowered to cancel the visa under s 109(1), the Minister must do so if the regulations declare circumstances to exist in which a visa must be cancelled.",
+      "id": "s19"
+    },
+    {
+      "text": "This appeal concerns the notice which may be given under s 107 and must be given before s 109 operates to empower the Minister to cancel the visa.",
+      "id": "s20"
+    },
+    {
+      "text": "10 Section 107 provides:\n \n \n (1) If the Minister considers that the holder of a visa who has been immigration cleared (whether or not because of that visa) did not comply with section 101, 102, 103, 104 or 105 or with subsection (2) in a response to a notice under this section, the Minister may give the holder a notice:\n (a) giving particulars of the possible non-compliance; and \n \n \n \n \n (b) stating that, within a period stated in the notice as mentioned in subsection (1A), the holder may give the Minister a written response to the notice that:\n (i) if the holder disputes that there was non-compliance: \n \n \n \n (A) shows that there was compliance; and\n (B) in case the Minister decides under section 108 that, in spite of the statement under sub-subparagraph (A), there was non-compliance--shows cause why the visa should not be cancelled; or \n \n \n \n (ii) if the holder accepts that there was non-compliance: \n \n \n \n (A) give reasons for the non-compliance; and\n (B) shows cause why the visa should not be cancelled; and \n \n \n (c) stating that the Minister will consider cancelling the visa: \n \n \n (i) if the holder gives the Minister oral or written notice, within the period stated as mentioned in subsection (1A), that he or she will not give a written response--when that notice is given; or\n (ii) if the holder gives the Minister a written response within that period--when the response is given; or\n (iii) otherwise--at the end of that period; and \n \n \n (d) setting out the effect of sections 108, 109, 111 and 112; and \n \n \n \n \n (e) informing the holder that the holder's obligations under section 104 or 105 are not affected by the notice under this section; and\n (f) requiring the holder: \n \n \n \n (i) to tell the Minister the address at which the holder is living; and\n (ii) if the holder changes that address before the Minister notifies the holder of the Minister's decision on whether there was non-compliance by the holder--to tell the Minister the changed address.",
+      "id": "s21"
+    },
+    {
+      "text": "(1A) The period to be stated in the notice under subsection (1) must be: \n \n \n \n \n (a) in respect of the holder of a temporary visa--the period prescribed by the regulations or, if no period is prescribed, a reasonable period; or\n (b) otherwise--14 days.",
+      "id": "s22"
+    },
+    {
+      "text": "(1B) Regulations prescribing a period for the purposes of paragraph (1A)(a) may prescribe different periods and state when a particular period is to apply, which, without limiting the generality of the power, may be to: \n \n \n \n \n (a) visas of a stated class; or\n (b) visa holders in stated circumstances; or\n (c) visa holders in a stated class of people (who may be visa holders in a particular place); or\n (d) visa holders in a stated class of people (who may be visa holders in a particular place) in stated circumstances.",
+      "id": "s23"
+    },
+    {
+      "text": "(2) If the visa holder responds to the notice, he or she must do so without making any incorrect statement.",
+      "id": "s24"
+    },
+    {
+      "text": "Background \n \n11 The appellant was born on 23 May 1968 and is a citizen of the People's Republic of China.",
+      "id": "s25"
+    },
+    {
+      "text": "On 25 September 1998 the appellant lodged an application with the then Department of Immigration and Multicultural Affairs (the Department) for a visa on remaining relative grounds, as the last remaining family member not yet in Australia.",
+      "id": "s26"
+    },
+    {
+      "text": "The visa was granted on 26 March 2002 and the appellant entered Australia on 9 April 2002.",
+      "id": "s27"
+    },
+    {
+      "text": "12 In his visa application filed on 25 September 1998, the appellant said that he was not in a de facto relationship and did not have a child.",
+      "id": "s28"
+    },
+    {
+      "text": "13 On 17 September 2001 the appellant was interviewed by an officer of the Australian Consulate by telephone in relation to his visa application and said that he lived alone; had no children; was not in a de facto or long-term relationship; was not married; and had no intention to marry.",
+      "id": "s29"
+    },
+    {
+      "text": "14 On 16 January 2003 a spouse application was lodged by the appellant's wife, Ms Su Yun Lu, for a visa.",
+      "id": "s30"
+    },
+    {
+      "text": "She was sponsored by the appellant.",
+      "id": "s31"
+    },
+    {
+      "text": "In that application Su Yun Lu said that she married the appellant on 28 October 2002.",
+      "id": "s32"
+    },
+    {
+      "text": "In her application she said that she had been previously married to Guo Bin Wu from 16 August 1998 until his death on 14 February 2001.",
+      "id": "s33"
+    },
+    {
+      "text": "She said that her child Bao Li Lu was a child of that marriage.",
+      "id": "s34"
+    },
+    {
+      "text": "15 Su Yun Lu was interviewed by an officer of the Department on 7 May 2003 in a Departmental Inquiry into whether she had provided the Department with false documents.",
+      "id": "s35"
+    },
+    {
+      "text": "She maintained at that interview that she had not provided false documents to the Department and she continued to maintain that she had been married to Guo Bin Wu and that he was the father of her child and was dead.",
+      "id": "s36"
+    },
+    {
+      "text": "The officer of the Department told Su Yun Lu that he did not believe her and that the only way to resolve the issue was to undergo DNA testing.",
+      "id": "s37"
+    },
+    {
+      "text": "The officer told her that he suspected that the appellant was the father of her child.",
+      "id": "s38"
+    },
+    {
+      "text": "She was offered the option of DNA testing to prove her claims were correct.",
+      "id": "s39"
+    },
+    {
+      "text": "She was also requested to provide a marriage certificate of her marriage to the appellant, her child's original birth certificate and any other evidence that would prove that she had in fact been married to Guo Bin Wu.",
+      "id": "s40"
+    },
+    {
+      "text": "16 Su Yun Lu refused to undergo DNA testing.",
+      "id": "s41"
+    },
+    {
+      "text": "However, she admitted that the appellant was the father of her child who was born on 4 June 1999.",
+      "id": "s42"
+    },
+    {
+      "text": "She admitted that she had been in a relationship with the appellant since 1998 but said that they had not married because the appellant wanted to go to Australia and he would have been unable to obtain a visa if he were married.",
+      "id": "s43"
+    },
+    {
+      "text": "She admitted that Guo Bin Wu did not exist and that she had obtained a false death certificate for Guo Bin Wu and a false birth certificate for her child.",
+      "id": "s44"
+    },
+    {
+      "text": "17 The child Bao Li Lu was born after the appellant made his application for a visa but before he was interviewed by the Australian Consulate on 17 September 2001.",
+      "id": "s45"
+    },
+    {
+      "text": "18 On 2 June 2003 a document entitled \"Notice of Intention to Consider Cancellation\" under s 109 of the Migration Act was sent to the appellant for breach of s 101 of the Act.",
+      "id": "s46"
+    },
+    {
+      "text": "It commenced:\n \n It has come to the Department's attention that you may not have complied with section 101 of the Migration Act 1958 which states:\n \n ...\n \n\n19 That notice referred in detail to the telephone interview had on 17 September 2001 and the appellant's answers to the questions put to him.",
+      "id": "s47"
+    },
+    {
+      "text": "It then referred to Su Yun Lu's application for migration to Australia and her subsequent interview by an officer of the Department of the Australian Consulate at Guangzhou.",
+      "id": "s48"
+    },
+    {
+      "text": "The notice continued:\n \n On 7 May 2003, your spouse Ms LU, Su was requested to attend an interview with the Australian Consulate, Guangzhou.",
+      "id": "s49"
+    },
+    {
+      "text": "At this interview your spouse, Ms Lu, Su, admitted that she had provided bogus documents to the Department with her application.",
+      "id": "s50"
+    },
+    {
+      "text": "Ms LU, Su also admitted that she had resided with you since 1998.",
+      "id": "s51"
+    },
+    {
+      "text": "Ms LU, Su also stated that the child's birth certificate submitted with her application was also a bogus document.",
+      "id": "s52"
+    },
+    {
+      "text": "Ms LU, Su admitted that you were the father of her child.",
+      "id": "s53"
+    },
+    {
+      "text": "Hence, I am of the opinion, that you may have provided incorrect information on your Application for Migration to Australia, lodged with the Australia Consulate on 25 September 1998.",
+      "id": "s54"
+    },
+    {
+      "text": "I also note that in completing the above application form, you failed to provide details of your defacto spouse, Ms LU, Su.",
+      "id": "s55"
+    },
+    {
+      "text": "I also note that you failed to provide details of your child, LU, Bao Li, who was born on 4 June 1999.",
+      "id": "s56"
+    },
+    {
+      "text": "Based on this information, I believe that you may have provided incorrect information in relation to your defacto spouse and your child on your application for the class 104 visa.",
+      "id": "s57"
+    },
+    {
+      "text": "I also believe that your intentions, prior to the lodgement of the Application for migration to Australia, may have been to provide incorrect information in order that you would be eligible for the class 104 permanent residence visa.",
+      "id": "s58"
+    },
+    {
+      "text": "If you did not comply with section 101 , your visa may be cancelled.",
+      "id": "s59"
+    },
+    {
+      "text": "It does not matter whether you deliberately or inadvertently did not comply.",
+      "id": "s60"
+    },
+    {
+      "text": "The Migration Act 1958 gives you the opportunity to comment on this possible ground for cancellation and to give a written answer why your visa should not be cancelled.",
+      "id": "s61"
+    },
+    {
+      "text": "Your answer should say:\n \n \n \n &#9679; why you think you have complied, or why you have not complied, with section 101 ; and\n \n &#9679; why you think your visa should not be cancelled (even if you think you have complied).",
+      "id": "s62"
+    },
+    {
+      "text": "20 The appellant's attention was drawn to reg 2.41 of the Regulations and ss 101 , 108 , 109 , 111 and 112 .",
+      "id": "s63"
+    },
+    {
+      "text": "The appellant was also directed to his continuing obligations under ss 104 and 105 .",
+      "id": "s64"
+    },
+    {
+      "text": "21 On 25 June 2003 the appellant's solicitors responded to the notice and submitted a statutory declaration of the appellant which was dated 23 June 2003.",
+      "id": "s65"
+    },
+    {
+      "text": "22 The solicitors argued that the appellant had not provided any incorrect information to the Department.",
+      "id": "s66"
+    },
+    {
+      "text": "They asserted that his circumstances had not changed during the period that warranted him notifying the Department.",
+      "id": "s67"
+    },
+    {
+      "text": "23 The appellant said in his statutory declaration that he and his wife met in 1994 and fell in love in 1996.",
+      "id": "s68"
+    },
+    {
+      "text": "In or about August 1998 they became intimate but did not commence to live together, except that his now wife would stay at his place for the night from time to time.",
+      "id": "s69"
+    },
+    {
+      "text": "In September 1998 they realised that she was pregnant.",
+      "id": "s70"
+    },
+    {
+      "text": "He requested that she have an abortion but she refused.",
+      "id": "s71"
+    },
+    {
+      "text": "As a result, their relationship soured.",
+      "id": "s72"
+    },
+    {
+      "text": "The appellant then applied for migration.",
+      "id": "s73"
+    },
+    {
+      "text": "He did not want to see her again and did not want to have anything to do with the baby.",
+      "id": "s74"
+    },
+    {
+      "text": "When the baby was born in June 1999 it was not known by the town in which his wife lived that he was the father.",
+      "id": "s75"
+    },
+    {
+      "text": "She refused to let him see the baby until about 2001.",
+      "id": "s76"
+    },
+    {
+      "text": "He said that they never lived together as a family until they married.",
+      "id": "s77"
+    },
+    {
+      "text": "He did not provide any financial support to her and the child before the appellant migrated to Australia.",
+      "id": "s78"
+    },
+    {
+      "text": "24 On 30 July 2003 a decision was made by a delegate of the Minister to cancel the visa.",
+      "id": "s79"
+    },
+    {
+      "text": "On 7 August 2003 the appellant applied to the Tribunal for a review of that decision.",
+      "id": "s80"
+    },
+    {
+      "text": "The appellant's solicitors wrote to the Tribunal stating:\n \n The fact is that the Review Applicant is now married, but the marriage took place on 28 October 2002, after his visa application was granted.",
+      "id": "s81"
+    },
+    {
+      "text": "The son, LU Baoli, was born in June 1999, after his migration application was lodged in September 1998.",
+      "id": "s82"
+    },
+    {
+      "text": "In other words, the Review Applicant, in September 1998, did give correct information in his application form that he was not married and that he did not have a child or children.",
+      "id": "s83"
+    },
+    {
+      "text": "Therefore, the Review Applicant complied with Section 101 of the Migration Act .",
+      "id": "s84"
+    },
+    {
+      "text": "The solicitors continued:\n \n On 17 September 2001, the Review Applicant was alleged to have stated that he was not married and that he did not have any children.",
+      "id": "s85"
+    },
+    {
+      "text": "Was the Review Applicant marred (sic) on 17 September 2001?",
+      "id": "s86"
+    },
+    {
+      "text": "No.",
+      "id": "s87"
+    },
+    {
+      "text": "We know he got married on 28 October 2002.",
+      "id": "s88"
+    },
+    {
+      "text": "Is it correct to say that the Review Applicant did not have any children on 17 December (sic) 2001?",
+      "id": "s89"
+    },
+    {
+      "text": "A boy, LU Baoli, was born to the Review Applicant's current wife on 04 June 1999.",
+      "id": "s90"
+    },
+    {
+      "text": "Although he was the genetic father of the boy, the Review Applicant never provided parental care or lived with the boy prior to his migrating to Australia.",
+      "id": "s91"
+    },
+    {
+      "text": "The baby was born out of wedlock and was not financially and emotionally dependent on the Review Applicant by 17 December (sic) 2001.",
+      "id": "s92"
+    },
+    {
+      "text": "In that sense, the statement he purportedly made on 17 December (sic) 2001 that he did not have any children is the correct information.",
+      "id": "s93"
+    },
+    {
+      "text": "25 On 19 December 2003 the Tribunal affirmed the delegate's decision.",
+      "id": "s94"
+    },
+    {
+      "text": "However, on 29 August 2005 the Federal Magistrates Court by consent remitted the matter to the Tribunal.",
+      "id": "s95"
+    },
+    {
+      "text": "The second Tribunal was differently constituted.",
+      "id": "s96"
+    },
+    {
+      "text": "26 The appellant made submissions to the Tribunal which also indicated that even if there was a breach the visa should not be cancelled because of the appellant's son's future as a \"black child\" and the appellant's political opinion due to his brother's history of opposition to the Chinese authorities.",
+      "id": "s97"
+    },
+    {
+      "text": "27 On 30 September 2005 the Tribunal wrote to the appellant's solicitors, pursuant to s 359A of the Act, inviting the appellant to comment on information that the Tribunal considered would be the reason or part of the reason for affirming the delegate's decision.",
+      "id": "s98"
+    },
+    {
+      "text": "He was asked to comment on the answers he gave in his 25 September 1998 visa application to question 17, where he said that he was never married and question 18, where he said he had never previously been married or been in a de facto/common law marriage.",
+      "id": "s99"
+    },
+    {
+      "text": "28 He was asked to comment on the telephone interview of 21 (sic) September 2001 when he was interviewed by telephone by the Australian Consulate General where he had said that he lived at the address specified on the application form; that he lived alone; he had lived there since 1984; he had not previously been married and was not currently married; he had not been in a de facto relationship and was not currently in one; he was not currently in a long term relationship; and he had never been engaged and did not have any intention to marry in the near future.",
+      "id": "s100"
+    },
+    {
+      "text": "29 He was further asked to comment on \"Ms Lu Su Yun's\" interview of 7 May 2003 where she admitted that she had provided the Department with a false birth certificate for Lu Bao Lin and a false death certificate for the child's alleged father, Guo Bin Wu, and her subsequent admission that the appellant was the child's father and that they had been living together since 1998.",
+      "id": "s101"
+    },
+    {
+      "text": "A notice in the same terms was sent again on 26 October 2005 to the appellant's authorised representative.",
+      "id": "s102"
+    },
+    {
+      "text": "30 On 7 November 2005 the Tribunal received a response to that letter from the appellant's solicitors.",
+      "id": "s103"
+    },
+    {
+      "text": "The appellant had by then changed solicitors.",
+      "id": "s104"
+    },
+    {
+      "text": "The solicitors wrote:\n \n \n &#61912; He was not married, or in a defacto marital relationship, or engaged, or in a long-term relationship, at the time he made the subclass 104 visa application.",
+      "id": "s105"
+    },
+    {
+      "text": "&#61912; He was not married, or in a defacto marital relationship, or engaged, or in a long-term relationship, at the time the subclass 104 visa application was decided.",
+      "id": "s106"
+    },
+    {
+      "text": "&#61912; Lu Bao Lin is his son.",
+      "id": "s107"
+    },
+    {
+      "text": "Ms Lu Sun Lun is the mother of the child.",
+      "id": "s108"
+    },
+    {
+      "text": "&#61912; He supported Lu Bao Lin financially, as his mother could not (as his son was a \"black child\") but he did not live with his son or his now wife.",
+      "id": "s109"
+    },
+    {
+      "text": "His son was born out of wedlock and without approval from the authorities.",
+      "id": "s110"
+    },
+    {
+      "text": "31 The solicitors then addressed the possibility of a finding that the appellant did breach s 101 of the Act and said it was the preferable decision that the visa not be cancelled for the following reasons:\n \n \n 1.",
+      "id": "s111"
+    },
+    {
+      "text": "Lu Bao Lin was, and continues to be, a dependent child of the applicant.",
+      "id": "s112"
+    },
+    {
+      "text": "2.",
+      "id": "s113"
+    },
+    {
+      "text": "The applicant has been residing in Australia for a significant period of years.",
+      "id": "s114"
+    },
+    {
+      "text": "He is settled in Australia.",
+      "id": "s115"
+    },
+    {
+      "text": "3.",
+      "id": "s116"
+    },
+    {
+      "text": "The applicant would face problems on return to the PRC, given his political opinion and his brother's history opposing the PRC authorities.",
+      "id": "s117"
+    },
+    {
+      "text": "4.",
+      "id": "s118"
+    },
+    {
+      "text": "The applicant's son faces a future of discrimination and hardship in the PRC, as he is a \"black child\".",
+      "id": "s119"
+    },
+    {
+      "text": "The applicant does not want to see his son suffer in the PRC as a result of the \"black child\" status.",
+      "id": "s120"
+    },
+    {
+      "text": "The applicant would like to raise his son in Australia, where his son would be treated as an equal and have opportunities that would otherwise be denied him in the PRC.",
+      "id": "s121"
+    },
+    {
+      "text": "5.",
+      "id": "s122"
+    },
+    {
+      "text": "He has married the mother of his son, and they are in a committed marital relationship.",
+      "id": "s123"
+    },
+    {
+      "text": "Her application for migration to Australia would fail, if his visa remains cancelled.",
+      "id": "s124"
+    },
+    {
+      "text": "They would like to have a life together in Australia.",
+      "id": "s125"
+    },
+    {
+      "text": "32 On 4 January 2006 Su Yun Lu wrote to the Tribunal in relation to the Tribunal's review of the delegate's decision to cancel the appellant's visa.",
+      "id": "s126"
+    },
+    {
+      "text": "The hearing was scheduled to take place on 11 January 2006.",
+      "id": "s127"
+    },
+    {
+      "text": "33 On 10 January 2006 the appellant wrote to the Tribunal explaining that he had misled his first solicitors in relation to the support which he had given his son and that he had not told the truth to the first Tribunal in relation to the financial support given his son.",
+      "id": "s128"
+    },
+    {
+      "text": "Separately, he wrote on the same day confirming a previous statement in relation to the disagreement between himself and his now wife in relation to the question of abortion.",
+      "id": "s129"
+    },
+    {
+      "text": "In relation to the question of financial support he wrote:\n \n No sooner after Baoli Lu was born (about few months), Suyun Lu, requested me to support financially Baoli Lu as Suyun was not able to afford Baoli lonely.",
+      "id": "s130"
+    },
+    {
+      "text": "Suyun was sacked sooner after she was pregnant, she had no income and could only relay on her family, and sometimes she works as a casual.",
+      "id": "s131"
+    },
+    {
+      "text": "After I seriously discussed with my family, and considered carefully by myself I agree to pay for Baolij's expense [1].",
+      "id": "s132"
+    },
+    {
+      "text": "Normally I provided RMB 300 Yuan every month.",
+      "id": "s133"
+    },
+    {
+      "text": "And I gave some extra money to Baoli during special days, such as Chinese New Year, his birthday or when he was sick.",
+      "id": "s134"
+    },
+    {
+      "text": "All these were given by cash as in China the bank system is poor.",
+      "id": "s135"
+    },
+    {
+      "text": "In China most of personal business, trade off are using cash, even state owned companies like to pay for salary and wages using cash.",
+      "id": "s136"
+    },
+    {
+      "text": "When I got my salary every month I gave some money to Zhida, Suyun's fourth elder brother as we worked in same company and were living very close, Zhida then gave the money to Suyun [2].",
+      "id": "s137"
+    },
+    {
+      "text": "After I had migrated to Australia in April 2002 I agreed that Suyun, as the Child's mother directly took money from my superannuation, which was allowed to withdraw as I had permanently resigned and moved to Australia.",
+      "id": "s138"
+    },
+    {
+      "text": "The money is used to pay for Baoli in next two years.",
+      "id": "s139"
+    },
+    {
+      "text": "It included Baoli's living expense, kindergarten (education) fee.",
+      "id": "s140"
+    },
+    {
+      "text": "The copies [3] of receipts show that Suyun, the child's mom took all money from my superannuation account in June 2002.",
+      "id": "s141"
+    },
+    {
+      "text": "34 He then addressed in some detail the reasons why he should be allowed to remain in Australia and, in particular, addressed his political activities since being in Australia as a supporter of the pro-democracy movement in China.",
+      "id": "s142"
+    },
+    {
+      "text": "35 His brother also wrote to the Tribunal on the same day providing similar information in relation to the appellant's political activities.",
+      "id": "s143"
+    },
+    {
+      "text": "36 The appellant attended before the Tribunal hearing on 11 January 2006.",
+      "id": "s144"
+    },
+    {
+      "text": "On 12 January 2006 his solicitors wrote:\n \n We note that the statements raise an issue of credibility.",
+      "id": "s145"
+    },
+    {
+      "text": "The applicant, supported by his brother, has effectively stated that he did support his child and that his child was dependent on him at the time the cancelled visa was granted.",
+      "id": "s146"
+    },
+    {
+      "text": "This is a major backflip in the light of previous evidence given to DIMIA and the MRT, in which he stated that he did not support his child.",
+      "id": "s147"
+    },
+    {
+      "text": "The applicant, and his brother, set out why he said what he did to DIMIA and the MRT in the written statements submitted this morning.",
+      "id": "s148"
+    },
+    {
+      "text": "It is submitted that the applicant, being under a mistaken belief that it would help his case to deny his support of his child, proceeded down that path and stated that he did not support his child.",
+      "id": "s149"
+    },
+    {
+      "text": "He wishes now to confirm his support of his child, and will provide supporting documents (in the way of a bank transfer of his pension to his now wife (the mother of his child) and through letters of support from his wife and his brother in the PRC[)], to confirm how he supported his child while he was in the PRC.",
+      "id": "s150"
+    },
+    {
+      "text": "We will forward those statements, which should be forthcoming from the PRC within a month.",
+      "id": "s151"
+    },
+    {
+      "text": "37 The solicitors argued that the notice given by the delegate under s 107 was \"not the notice required under the Act for want of particulars, or clarity, or is alternatively limited to particulars which the applicant did not breach\".",
+      "id": "s152"
+    },
+    {
+      "text": "The solicitors then addressed the question of the exercise of the Tribunal's discretion.",
+      "id": "s153"
+    },
+    {
+      "text": "38 On 27 January 2006 the appellant's solicitors wrote to the Tribunal enclosing a copy of a proceeding initiated by the appellant in the Federal Magistrates Court in which the appellant sought judicial review of a decision of the Refugee Review Tribunal made on 14 September 2004, which had affirmed a decision of a delegate of the first respondent not to grant the appellant a protection visa.",
+      "id": "s154"
+    },
+    {
+      "text": "39 The Tribunal gave notice that it would conduct a further hearing on 22 March 2006.",
+      "id": "s155"
+    },
+    {
+      "text": "The appellant responded by writing to the Tribunal on 2 February 2006:\n \n I was asked that if I had children when I was in China\n \n 1.",
+      "id": "s156"
+    },
+    {
+      "text": "I did not want to admit (tell) that I had a black child.",
+      "id": "s157"
+    },
+    {
+      "text": "2.",
+      "id": "s158"
+    },
+    {
+      "text": "I have been supporting the child for nearly whole time of child even though I broke up with my girlfriend.",
+      "id": "s159"
+    },
+    {
+      "text": "When I was asked the similar questions in MRT\n \n \n \n 3.",
+      "id": "s160"
+    },
+    {
+      "text": "I believed that I would get trouble if I told the truth that I had a black child, and I had financially supported him.",
+      "id": "s161"
+    },
+    {
+      "text": "I did not want to lose my visa.",
+      "id": "s162"
+    },
+    {
+      "text": "All the reasons addressed above made me not tell the truth.",
+      "id": "s163"
+    },
+    {
+      "text": "I feel very sorry to say that I did not tell the truth.",
+      "id": "s164"
+    },
+    {
+      "text": "I hope it is understandable and I believe you are a sympathy person.",
+      "id": "s165"
+    },
+    {
+      "text": "40 On 6 April 2006 the Tribunal wrote again to the appellant in conformity with s 359A of the Act in relation to the conflict in the evidence relating to the support given by the appellant to his child.",
+      "id": "s166"
+    },
+    {
+      "text": "His attention was drawn to his mother-in-law's evidence which was to the effect that he did not support his child and that, in those circumstances, he may have been ineligible for a grant of a visa because he had an overseas near relative (a non-dependent child) who resided in the same country as he did at the time of his application.",
+      "id": "s167"
+    },
+    {
+      "text": "41 On 26 April 2006 the appellant lodged yet another further submission.",
+      "id": "s168"
+    },
+    {
+      "text": "In relation to his child, he wrote:\n \n Baoli Lu was born in June 1999 rather than 1998.",
+      "id": "s169"
+    },
+    {
+      "text": "When I filled up the application form I did not have any child, and I was not told that I would have a baby.",
+      "id": "s170"
+    },
+    {
+      "text": "Suyun Lu found and told me she had been pregnant after I applied for the immigration visa.",
+      "id": "s171"
+    },
+    {
+      "text": "When I was told that Suyun Lu was pregnant I firstly did not believe that I should be responsibility for this accident.",
+      "id": "s172"
+    },
+    {
+      "text": "This was told to the tribunal member during the last hearing (first) time.",
+      "id": "s173"
+    },
+    {
+      "text": "And secondly I did ask Suyun, Lu to abort.",
+      "id": "s174"
+    },
+    {
+      "text": "I did not suppose I would have a baby.",
+      "id": "s175"
+    },
+    {
+      "text": "The reasons have been stated in previous statement.",
+      "id": "s176"
+    },
+    {
+      "text": "Furthermore, even if I was told the accident before I handed in the application form (I should stress here again, in fact I was not told at that time), I could say nothing until the child was born, (and further in China was allowed being registered).",
+      "id": "s177"
+    },
+    {
+      "text": "I do not think anyone could declare he/she has a child by law rather than by medicine only because who has a fertilized egg cell or embryo.",
+      "id": "s178"
+    },
+    {
+      "text": "42 In relation to the support given to his child, he wrote:\n \n Although I did not physically look after Baoli Lu, and did not physically control him (I mean, for example, face to face, body touch the body), Baoli Lu's life substantially relies on my financial support every day.",
+      "id": "s179"
+    },
+    {
+      "text": "Due to Baoli's mother broke Chinese birth control policy she lost her job, and sequentially was not able to financially afford him.",
+      "id": "s180"
+    },
+    {
+      "text": "Thus I have to provide financial support to Baoli.",
+      "id": "s181"
+    },
+    {
+      "text": "I care and control Baoli through undertaking financial commitment.",
+      "id": "s182"
+    },
+    {
+      "text": "According to the principle of comparative advantage we know that in developing (poor) country, especially in China, capital factor or money, the rare resource is more important than labor factor or labor work, the fruitful resource.",
+      "id": "s183"
+    },
+    {
+      "text": "I believe that my financial support (money) for Baoli's subsistence is also very important.",
+      "id": "s184"
+    },
+    {
+      "text": "In addition, I had some say in how he was looked after.",
+      "id": "s185"
+    },
+    {
+      "text": "I often enquired Baoli's uncle, Zhida for Baoli's situation.",
+      "id": "s186"
+    },
+    {
+      "text": "I always asked Zhida to convey my greeting to Baoli, and do pass my opinion for teaching child to Baoli's mother.",
+      "id": "s187"
+    },
+    {
+      "text": "Sometimes I advised Suyun Lu to be patient through the phone, told her how to teach the boy when Baoli was naughty, and also told her how to give Baoli a good early stage children education.",
+      "id": "s188"
+    },
+    {
+      "text": "Occasionally I talked with Baoli through the phone or directly, and influenced him.",
+      "id": "s189"
+    },
+    {
+      "text": "Therefore, generally speaking Baoli is a dependent child of mine.",
+      "id": "s190"
+    },
+    {
+      "text": "The Tribunal's Decision \n \n43 The Tribunal considered the Notice of Intention to Consider Cancellation and found that it complied with s 107 and identified the breach of s 101 with appropriate particularity.",
+      "id": "s191"
+    },
+    {
+      "text": "44 The Tribunal accepted that when the appellant submitted his application for a visa he correctly answered the question that he did not have a child because the child was born after the application was lodged.",
+      "id": "s192"
+    },
+    {
+      "text": "The Tribunal, however, was of the view that his subsequent answer to the Australian Consulate on 17 September 2001 meant that the appellant had failed to comply with s 99.",
+      "id": "s193"
+    },
+    {
+      "text": "In answer to the contention that s 99 had no application to the interview in September 2001 because s 99 only applied in circumstances where an answer was given to the Minister or an officer or person or Tribunal reviewing a decision under the Act, the Tribunal said:\n \n 96.",
+      "id": "s194"
+    },
+    {
+      "text": "In relation to the submission regarding the information in the notice relating to the review applicant's child (who was born at the time of the review applicant's interview with the Australian Consulate in 2001 but not at the time of lodgement of the visa application), s.99 of the Act provides that any information which a non-citizen gives, causes to be given or that is given on his or her behalf to the Minister or Tribunal is taken for the purposes of section 101(b) to be an answer to a question in the non-citizen's application form, whether the information is given orally or in writing and whether at an interview or otherwise.",
+      "id": "s195"
+    },
+    {
+      "text": "The Tribunal does not accept the submission that s.99 relates solely to information provided in the process of the review of the decision.",
+      "id": "s196"
+    },
+    {
+      "text": "45 The Tribunal considered the history of provision of information by the appellant and found that he had provided incorrect information to the Department in the telephone interview of 17 September 2001 regarding his child.",
+      "id": "s197"
+    },
+    {
+      "text": "The Tribunal said:\n \n 99.",
+      "id": "s198"
+    },
+    {
+      "text": "The review applicant has confirmed that when he was interviewed by the Australian Consulate on 17 September 2001 in relation to the visa application that he told an officer of the Department that he did not have any children.",
+      "id": "s199"
+    },
+    {
+      "text": "There is no dispute that the review applicant has a son, Baoli Li who was born on 4 June 1999.",
+      "id": "s200"
+    },
+    {
+      "text": "100.",
+      "id": "s201"
+    },
+    {
+      "text": "Based on the above information, the Tribunal finds that the review applicant provided incorrect information to a Departmental officer on 17 September 2001.",
+      "id": "s202"
+    },
+    {
+      "text": "Accordingly, the Tribunal finds that the review applicant gave the Department incorrect information in relation to his application for a Subclass 104 visa.",
+      "id": "s203"
+    },
+    {
+      "text": "Section 99 makes it clear that the incorrect information that the review applicant gave orally at an interview is taken to be an incorrect answer for the purpose of paragraph 101(b) of the Act.",
+      "id": "s204"
+    },
+    {
+      "text": "The Tribunal therefore finds that the review applicant did not comply with section 101 of the Act in the way described in the notice.",
+      "id": "s205"
+    },
+    {
+      "text": "46 The Tribunal found that the appellant did not comply with s 101 of the Act which raised grounds for cancellation under s 109 of the Act.",
+      "id": "s206"
+    },
+    {
+      "text": "47 The Tribunal then had regard to a consideration of the exercise of the discretion to cancel the visa which was necessary because this was not a case where the Regulations required the Minister to cancel a visa: s 109(2) of the Act.",
+      "id": "s207"
+    },
+    {
+      "text": "48 First, it considered what the likely effect of that information would have been on the decision to grant the appellant a visa if the correct information had been given.",
+      "id": "s208"
+    },
+    {
+      "text": "In considering that matter it considered the conflict of evidence as to whether the appellant supported his child prior to his marriage to the child's mother.",
+      "id": "s209"
+    },
+    {
+      "text": "It concluded, as a matter of fact, that the appellant did not support the child and therefore the child was not dependent on him.",
+      "id": "s210"
+    },
+    {
+      "text": "On that basis the Tribunal found the appellant had, at the relevant time, namely September 2001, an \"overseas near relative\".",
+      "id": "s211"
+    },
+    {
+      "text": "It found that the appellant knew that if he disclosed that he had a child, that might have affected his application for a visa.",
+      "id": "s212"
+    },
+    {
+      "text": "49 The Tribunal considered his present circumstances.",
+      "id": "s213"
+    },
+    {
+      "text": "It had regard to his brother's financial circumstances as a result of a failed business venture; the appellant's mother's dependence upon a government pension; and the appellant's dependence upon that pension.",
+      "id": "s214"
+    },
+    {
+      "text": "It had regard to the fact that the appellant had worked until November 2004 and during that time had paid tax.",
+      "id": "s215"
+    },
+    {
+      "text": "50 It had regard to the appellant's behaviour after the appellant's \"non-compliance with s 101 came to light in 2003 when the review applicant was attempting to sponsor his current wife\".",
+      "id": "s216"
+    },
+    {
+      "text": "It concluded that the appellant:\n \n [H]as continued to attempt to provide false and misleading evidence to the Department and the previously constituted Tribunal.",
+      "id": "s217"
+    },
+    {
+      "text": "On his own admission, the review applicant gave untruthful evidence to the Department in a statutory declaration and in sworn oral evidence to the previous Tribunal relating to the financial support of his child.",
+      "id": "s218"
+    },
+    {
+      "text": "The review applicant also provided a false statement from his mother in law.",
+      "id": "s219"
+    },
+    {
+      "text": "51 It had regard to the lengthy period which had elapsed since non-compliance.",
+      "id": "s220"
+    },
+    {
+      "text": "It took into account that the appellant had not worked since November 2004 when he had been made aware that a condition of his Bridging visa (8101) prevented him from doing so.",
+      "id": "s221"
+    },
+    {
+      "text": "It noted that the appellant had made an application for a protection visa in Australia but that that had been denied and the delegate's decision to refuse the grant of a protection visa had been affirmed by the Refugee Review Tribunal.",
+      "id": "s222"
+    },
+    {
+      "text": "It took into account that the appellant had brought an application in the Federal Magistrates Court seeking judicial review of the decision of the Refugee Review Tribunal which was to be heard on 14 June 2006.",
+      "id": "s223"
+    },
+    {
+      "text": "It determined that that was a matter for the Federal Magistrates Court and the Refugee Review Tribunal if it became charged with an obligation to further review that application.",
+      "id": "s224"
+    },
+    {
+      "text": "52 It found that the appellant's claims did not raise any humanitarian grounds which would have impacted upon the exercise of its discretion.",
+      "id": "s225"
+    },
+    {
+      "text": "53 The Tribunal said in relation to the exercise of its discretion:\n \n 147.",
+      "id": "s226"
+    },
+    {
+      "text": "The Tribunal has found that the review applicant knowingly provided incorrect information to the Department in September 2001 and that he did so in order to meet the requirements for a visa for which he would otherwise not have been entitled.",
+      "id": "s227"
+    },
+    {
+      "text": "The Tribunal has found that if the likely effect of the correct information would have been that the visa would not have been granted.",
+      "id": "s228"
+    },
+    {
+      "text": "The Tribunal has also found that since that time, the review applicant was aware that false documentation was provided to the Department in relation to his sponsorship of Ms Lu for a spouse visa and that this was done so that his Subclass 104 visa would be unaffected.",
+      "id": "s229"
+    },
+    {
+      "text": "The Tribunal has also found that following the cancellation the review applicant knowingly provided false information to the Department and the previously constituted Tribunal.",
+      "id": "s230"
+    },
+    {
+      "text": "The Tribunal has considered that in so doing the review applicant has shown considerable disregard for Australia's immigration laws.",
+      "id": "s231"
+    },
+    {
+      "text": "The Tribunal has also found that the review applicant worked in breach of Condition 8101 on his Bridging visas, but has found that in the circumstances that this is not a serious breach.",
+      "id": "s232"
+    },
+    {
+      "text": "The Tribunal has not accepted that the cancellation will result in a breach of non- refoulment obligations or that Australia will breach any other conventions if the visa is cancelled.",
+      "id": "s233"
+    },
+    {
+      "text": "The Tribunal has also not accepted that the rights of his child or wife will be seriously affected by the cancellation or that there are any other humanitarian issues raised by the cancellation.",
+      "id": "s234"
+    },
+    {
+      "text": "148.",
+      "id": "s235"
+    },
+    {
+      "text": "Against this evidence, the Tribunal has accepted that the review applicant has made some contribution to the community through the payment of tax and that he has been in Australia for a reasonably lengthy period.",
+      "id": "s236"
+    },
+    {
+      "text": "The Tribunal has also accepted that the review applicant's mother and brother will be affected to some extent by the cancellation and that his wife wishes to be reunited with her husband and hopes that they can reside together in Australia with their son.",
+      "id": "s237"
+    },
+    {
+      "text": "The Tribunal has weighed these factors against the extremely adverse findings that the Tribunal has made above regarding the provision of false and misleading evidence and fraudulent documentation.",
+      "id": "s238"
+    },
+    {
+      "text": "The Tribunal concludes that the adverse circumstances considerably outweigh the circumstances favouring the review applicant in exercising the discretion to cancel his visa.",
+      "id": "s239"
+    },
+    {
+      "text": "54 The Tribunal summarised its finding as to the cancellation:\n \n 149.",
+      "id": "s240"
+    },
+    {
+      "text": "Accordingly, the Tribunal has found that the section 107 notice was valid and that there was non-compliance by the review applicant in the way described in that notice.",
+      "id": "s241"
+    },
+    {
+      "text": "The Tribunal has considered the review applicant's responses in relation to that notice and has also had regard to the prescribed circumstances in regulation 2.41.",
+      "id": "s242"
+    },
+    {
+      "text": "The Tribunal has found that the adverse circumstances in favour of cancelling the visa outweigh the circumstances favouring the review applicant for not cancelling the visa.",
+      "id": "s243"
+    },
+    {
+      "text": "The Tribunal finds that in all the circumstances the Preferential Relative Subclass 104 visa previously held by the review applicant should remain cancelled.",
+      "id": "s244"
+    },
+    {
+      "text": "55 The Tribunal affirmed the decision to cancel the visa.",
+      "id": "s245"
+    },
+    {
+      "text": "Proceedings in the Court below \n \n56 On 27 June 2006 the appellant applied in the Federal Magistrates Court for the judicial review of the Tribunal's decision affirming the decision of the delegate to cancel his visa.",
+      "id": "s246"
+    },
+    {
+      "text": "An amended application was filed on 25 October 2006.",
+      "id": "s247"
+    },
+    {
+      "text": "57 Three grounds were relied upon.",
+      "id": "s248"
+    },
+    {
+      "text": "First, that the Tribunal constructively failed to exercise its jurisdiction or acted in excess of its jurisdiction by affirming the decision under review before complying with s 359A of the Act.",
+      "id": "s249"
+    },
+    {
+      "text": "Secondly, the Tribunal misapplied the law to the facts or misinterpreted the applicable law.",
+      "id": "s250"
+    },
+    {
+      "text": "Thirdly, the Tribunal failed to take into account a relevant consideration in the exercise of its discretion.",
+      "id": "s251"
+    },
+    {
+      "text": "58 The first ground asserted that the Tribunal failed to comply with s 359A of the Act in relation to the appellant's answers to Q61 and Q67 of the visa application, being questions requiring him to list his children.",
+      "id": "s252"
+    },
+    {
+      "text": "59 The second ground contended that the notice failed to comply with s 107 of the Act as it did not set out the purported non-compliance by the appellant.",
+      "id": "s253"
+    },
+    {
+      "text": "It was contended that the notice did not specify which subsection of s 101 of the Act was breached by the appellant and did not state the Minister was considering cancelling the visa.",
+      "id": "s254"
+    },
+    {
+      "text": "Instead, it was framed in terms of a possible breach coming to the Department's attention.",
+      "id": "s255"
+    },
+    {
+      "text": "Reliance was placed on the decision of Uddin v Minister for Immigration and Multicultural and Indigenous Affairs [2005] FCAFC 218 ; (2005) 149 FCR 1 which concerned the requirements of a notice under s 119 of the Act.",
+      "id": "s256"
+    },
+    {
+      "text": "60 The third ground complained that the Tribunal failed to take into account a relevant consideration, namely the appellant's contribution to the community.",
+      "id": "s257"
+    },
+    {
+      "text": "It was contended that s 109(1)(c) of the Act required the Tribunal to have regard to any prescribed circumstances which, by reason of reg 2.41, included the appellant's contribution to the community.",
+      "id": "s258"
+    },
+    {
+      "text": "61 The Federal Magistrate considered each of the grounds but was of the view the Tribunal's decision did not disclose jurisdictional error.",
+      "id": "s259"
+    },
+    {
+      "text": "62 His Honour found the notice complied with requirements of the Act and, in particular, s 107 by setting out particulars of the breach.",
+      "id": "s260"
+    },
+    {
+      "text": "The Federal Magistrate distinguished Uddin [2005] FCAFC 218 ; 149 FCR 1 and said that the requirements for a notice under s 119(1) differ from those for a notice under s 107(1).",
+      "id": "s261"
+    },
+    {
+      "text": "Because s 107(1)(a) of the Act required the Minister to give particulars \"of the possible non-compliance\", his Honour was of the view that the opening words of the notice that had been sent to the appellant formed part of the particulars of the possible non-compliance.",
+      "id": "s262"
+    },
+    {
+      "text": "The notice, appropriately, set out the whole of s 101 because there was a possibility that both paragraphs (a) and (b) of that section had been breached.",
+      "id": "s263"
+    },
+    {
+      "text": "The appellant was on notice that he would have breached ss 101(a) and 101 (b) of the Act by failing to disclose details of his de facto relationship and child.",
+      "id": "s264"
+    },
+    {
+      "text": "Consequently, the Federal Magistrate found that the notice provided a description of the possible non-compliance.",
+      "id": "s265"
+    },
+    {
+      "text": "63 In relation to the alleged failure by the Tribunal to comply with s 359A of the Act, the Federal Magistrate found the Tribunal did not rely on the information given in the visa application.",
+      "id": "s266"
+    },
+    {
+      "text": "His Honour said that at the time of the application the answers given were correct.",
+      "id": "s267"
+    },
+    {
+      "text": "The Tribunal, he found, relied on the answers about the appellant's child in the 17 September 2001 interview and the other materials to show that those answers were incorrect.",
+      "id": "s268"
+    },
+    {
+      "text": "The appellant had given true answers at the time of application.",
+      "id": "s269"
+    },
+    {
+      "text": "However, because his circumstances had changed, his replies to the same questions on 17 September 2001 were untruthful.",
+      "id": "s270"
+    },
+    {
+      "text": "His Honour was of the view that the giving of the false information in 2001 was because of the provisions of s 99 and that this was sufficient to constitute a breach of s 101(b) of the Act.",
+      "id": "s271"
+    },
+    {
+      "text": "64 The Federal Magistrate accepted that if the Tribunal had failed to take into account a relevant consideration that would amount to jurisdictional error if the decision maker was bound to take into account that matter in making the decision.",
+      "id": "s272"
+    },
+    {
+      "text": "65 Regulation 2.41(k) requires the Tribunal, in considering the prescribed circumstances in s 109(1)(c) of the Act, to have regard to \"any contribution made by a holder to the community\".",
+      "id": "s273"
+    },
+    {
+      "text": "The Federal Magistrate observed the appellant's contribution to the community was generally referred to by the Tribunal.",
+      "id": "s274"
+    },
+    {
+      "text": "Although his contribution was not specifically mentioned by the Tribunal, his Honour did not consider it was necessary to do so.",
+      "id": "s275"
+    },
+    {
+      "text": "In any event, the Federal Magistrate noted the Tribunal found that any positive factors were outweighed by the adverse findings regarding the false evidence.",
+      "id": "s276"
+    },
+    {
+      "text": "66 His Honour dismissed all three grounds in the application and dismissed the application.",
+      "id": "s277"
+    },
+    {
+      "text": "On Appeal \n \n67 The notice of appeal raises the same grounds argued before the Federal Magistrate.",
+      "id": "s278"
+    },
+    {
+      "text": "They are:\n \n \n 1.",
+      "id": "s279"
+    },
+    {
+      "text": "The Court erred in finding that a letter dated 2 June 2003 and said to be issued pursuant of s 107 of the Migration Act 1958 (Cth), complied with the requirements of that section.",
+      "id": "s280"
+    },
+    {
+      "text": "2.",
+      "id": "s281"
+    },
+    {
+      "text": "The Court erred in finding that the second respondent complied with s 359A Migration Act 1958 (Cth) by failing to take give the requisite notice in relation to Q61 and Q67 of Form 47 completed by the Appellant.",
+      "id": "s282"
+    },
+    {
+      "text": "3.",
+      "id": "s283"
+    },
+    {
+      "text": "The Court erred in finding that the second respondent took into account matters made relevant by Migration Regulation 2.41(k); being the Appellant's contributions to the community by:\n \n \n \n \n \n (i) taking part in some activities organized by the Chinese community, including the Chinese Migration Welfare Association; and\n \n (ii) joining some 'local party's functions'.",
+      "id": "s284"
+    },
+    {
+      "text": "68 On appeal the appellant contended, as he had before the Federal Magistrate, that the notice purportedly issued under s 107 of the Act did not comply with the statutory obligations imposed by s 107.",
+      "id": "s285"
+    },
+    {
+      "text": "It did not, so it was contended, because the notice opened: \"It has come to the Department's attention that you may not have complied with s 101.",
+      "id": "s286"
+    },
+    {
+      "text": "\" The notice did not, it was submitted, comply with s 107 and state that the Minister considered that the visa holder had not complied with ss 101, 102, 103, 104 or 105, or with subsection 107(2) in response to a notice under the section.",
+      "id": "s287"
+    },
+    {
+      "text": "69 I should mention one complaint which was not made by the appellant.",
+      "id": "s288"
+    },
+    {
+      "text": "The appellant did not seek to rely upon the fact that the notice was given by a woman in the NSW Character Section of the Department of Immigration and Multicultural and Indigenous Affairs who did not claim to be a delegate of the Minister.",
+      "id": "s289"
+    },
+    {
+      "text": "In other words, the appellant did not rely upon the absence of proof of the author's delegated power.",
+      "id": "s290"
+    },
+    {
+      "text": "It was sufficient, it was conceded, if in fact the author was the delegate of the Minister.",
+      "id": "s291"
+    },
+    {
+      "text": "70 The appellant contended before the Federal Magistrates Court, and again on appeal, that in construing s 107 the Court could have regard to the construction which has been given to s 119 in Uddin [2005] FCAFC 218 ; 149 FCR 1.",
+      "id": "s292"
+    },
+    {
+      "text": "71 That decision is not directly on point because s 119 is not in pari materia with s 107.",
+      "id": "s293"
+    },
+    {
+      "text": "Section 119 obliges the Minister in giving notice to notify the visa holder \"that there appears to be grounds for cancelling [the visa] and give particulars of those grounds and of the information ... because of which the grounds appear to exist.",
+      "id": "s294"
+    },
+    {
+      "text": "\" Section 107, on the other hand, obliges the Minister to give a notice \"giving particulars of the possible non-compliance.",
+      "id": "s295"
+    },
+    {
+      "text": "\" There is in s 107 no obligation to state the grounds.",
+      "id": "s296"
+    },
+    {
+      "text": "However, some aspects of the Court's reasons in Uddin [2005] FCAFC 218 ; 149 FCR 1 are instructive.",
+      "id": "s297"
+    },
+    {
+      "text": "72 In my opinion, s 107 is only engaged where the Minister, or relevantly a delegate of the Minister, has concluded that the holder of a visa has not complied with one of the sections or subsection mentioned in s 107(1).",
+      "id": "s298"
+    },
+    {
+      "text": "It is only in that case that the Minister or the delegate is entitled to give notice to the visa holder in accordance with that subsection.",
+      "id": "s299"
+    },
+    {
+      "text": "Section 107(1) is engaged because the Minister, or a delegate of the Minister, has reached a state of mind where they consider that the holder of a visa has not complied with a relevant section.",
+      "id": "s300"
+    },
+    {
+      "text": "Those words indicate the circumstances in which a notice may be given: Uddin [2005] FCAFC 218 ; 149 FCR 1 at [24] .",
+      "id": "s301"
+    },
+    {
+      "text": "73 It follows therefore that if a notice is to be given under s 107 of the Act, the Minister or the Minister's delegate must have reached a state of mind whereby the Minister or the Minister's delegate considers that one or more of the sections or the subsection mentioned in s 107(1) has not been complied with.",
+      "id": "s302"
+    },
+    {
+      "text": "If the Minister or the Minister's delegate only had to be of a state of mind that (as this notice said) the appellant may have not complied with s 101, s 107(1) would read:\n \n If the Minister considers that the holder of a visa ... may not have complied with section 101 ...\n \n\n74 Section 107(1)(a) does speak of \"possible non-compliance\".",
+      "id": "s303"
+    },
+    {
+      "text": "However, that, in my opinion, does not mean that the Minister or the Minister's delegate only has to suspect that there has been non-compliance.",
+      "id": "s304"
+    },
+    {
+      "text": "The Minister or the Minister's delegate must consider that there has actually been non-compliance before either one is entitled to give the notice.",
+      "id": "s305"
+    },
+    {
+      "text": "75 However, that does not mean that the notice must contain an assertion to that effect.",
+      "id": "s306"
+    },
+    {
+      "text": "Section 107 does not require that the notice include a statement to the effect that the Minister or the delegate considers that the visa holder has not complied with the sections or subsection mentioned in s 107(1).",
+      "id": "s307"
+    },
+    {
+      "text": "Paragraphs (a) to (f) of s 107(1) sets out the required content of the notice.",
+      "id": "s308"
+    },
+    {
+      "text": "I therefore reject the contention that the notice does not comply with s 107(1) because the notice does not assert that the Minister had the statutory state of mind.",
+      "id": "s309"
+    },
+    {
+      "text": "76 However, that does not mean that the notice could be given.",
+      "id": "s310"
+    },
+    {
+      "text": "When the Minister or the delegate is considering a visa holder's response the Minister or the delegate must first consider whether s 107 was ever engaged.",
+      "id": "s311"
+    },
+    {
+      "text": "77 It appears from the notice that the Department had concluded that the appellant may not have complied with s 101.",
+      "id": "s312"
+    },
+    {
+      "text": "That is made clear not only by the opening words but also by the wording included in the body of the notice.",
+      "id": "s313"
+    },
+    {
+      "text": "The notice said that the appellant \"may have provided incorrect information\".",
+      "id": "s314"
+    },
+    {
+      "text": "It then asserted that the application failed to provide details of the appellant's de facto wife and child which caused the delegate to believe that the appellant \"may have provided incorrect information\".",
+      "id": "s315"
+    },
+    {
+      "text": "That was not, in my opinion, sufficient to engage s 107(1) and to permit notice to be given under that section: cf.",
+      "id": "s316"
+    },
+    {
+      "text": "Gidaro v Secretary, Department of Social Security (1998) 83 FCR 139 at 148-149.",
+      "id": "s317"
+    },
+    {
+      "text": "The statutory state of mind had not been reached.",
+      "id": "s318"
+    },
+    {
+      "text": "The notice was, in my opinion, defective in that the notice could not be given.",
+      "id": "s319"
+    },
+    {
+      "text": "78 The appellant also argued that the notice failed to particularise the visa holder's possible non-compliance as required by s 107(1)(a).",
+      "id": "s320"
+    },
+    {
+      "text": "79 If the Minister or the Minister's delegate has reached the statutory state of mind to which I have referred, then any notice which is given must in all other respects comply with s 107.",
+      "id": "s321"
+    },
+    {
+      "text": "That means that the notice must give particulars of the possible non-compliance required in s 107(1)(a) and include in the notice all of the other matters referred to in the paragraphs to s 107(1).",
+      "id": "s322"
+    },
+    {
+      "text": "80 In my opinion, this notice did not particularise the possible non-compliance.",
+      "id": "s323"
+    },
+    {
+      "text": "It was not sufficient to state that the appellant might have breached s 101 of the Act.",
+      "id": "s324"
+    },
+    {
+      "text": "More was necessary.",
+      "id": "s325"
+    },
+    {
+      "text": "If both paragraphs of s 101 were to be relied on, then the notice needed to give particulars of the facts and circumstances which gave rise to the possible breach of each of the paragraphs.",
+      "id": "s326"
+    },
+    {
+      "text": "It is not enough to generically claim that the visa holder has breached a section of the Act without giving particulars of the facts and circumstances which are said to give rise to the possible breach of the particular section.",
+      "id": "s327"
+    },
+    {
+      "text": "81 If I am wrong about s 107 never being engaged and the delegate was entitled to give the notice which was given, the notice in my opinion failed to comply with s 107 in that it did not particularise the possible non-compliance.",
+      "id": "s328"
+    },
+    {
+      "text": "Because particulars of the non-compliance were not given, it meant that the appellant could not give a written response to the notice disputing there was non-compliance and showing there was compliance as provided for in s 107(1)(b).",
+      "id": "s329"
+    },
+    {
+      "text": "The giving of a notice which complies with s 107 of the Act is a statutory precondition to the exercise of the Minister's or delegate's power to cancel the visa: cf.",
+      "id": "s330"
+    },
+    {
+      "text": "Tien v Minister for Immigration and Multicultural and Indigenous Affairs [1998] FCA 1552 ; (1998) 89 FCR 80 ; Zhou v Minister for Immigration and Multicultural and Indigenous Affairs [2004] FCA 1078 ; (2004) 139 FCR 60.",
+      "id": "s331"
+    },
+    {
+      "text": "82 In my opinion, for that second reason, the notice given did not comply with s 107.",
+      "id": "s332"
+    },
+    {
+      "text": "In my opinion, the decision to cancel the visa must be quashed.",
+      "id": "s333"
+    },
+    {
+      "text": "83 However, there is another reason why in my opinion the decision cannot stand.",
+      "id": "s334"
+    },
+    {
+      "text": "The Federal Magistrate also fell into error, in my opinion, in his consideration of the third ground.",
+      "id": "s335"
+    },
+    {
+      "text": "Section 109(1)(c) of the Act requires the Minister or the Minister's delegate to have regard to any prescribed circumstances in considering whether the visa ought to be cancelled.",
+      "id": "s336"
+    },
+    {
+      "text": "Regulation 2.41 prescribes any contribution made by the (visa) holder to the community as a prescribed circumstance: reg 2.41(k).",
+      "id": "s337"
+    },
+    {
+      "text": "Thus, there was an obligation upon the delegate to give consideration to that matter.",
+      "id": "s338"
+    },
+    {
+      "text": "On review the Tribunal exercises all the powers and functions of the decision maker under review.",
+      "id": "s339"
+    },
+    {
+      "text": "It does not appear that the Tribunal gave specific consideration to that matter except that it noted that the appellant said that when he was working he paid tax which the Tribunal said indicated that the appellant \"made some contribution to the community.",
+      "id": "s340"
+    },
+    {
+      "text": "\"\n \n84 The Federal Magistrate found that one of the reasons for rejecting the appellant's arguments was that the positive factors were outweighed by the \"extremely adverse findings that the Tribunal has made above regarding the provision of false and misleading evidence and fraudulent documentation.",
+      "id": "s341"
+    },
+    {
+      "text": "\"\n \n85 It might be thought that the Federal Magistrate was thereby excusing the Tribunal from its statutory obligation to enquire into the question of the appellant's contribution to the community.",
+      "id": "s342"
+    },
+    {
+      "text": "Whilst the Tribunal was entitled to make the adverse findings that it made in relation to the appellant's conduct, that did not relieve it of its obligation to comply with the injunctions under s 109(1)(c) and reg 2.41(k) to specifically enquire into any contribution made by a holder to the community.",
+      "id": "s343"
+    },
+    {
+      "text": "86 A reading of the Tribunal's reasons shows that it did not make that enquiry.",
+      "id": "s344"
+    },
+    {
+      "text": "It was not excused from doing so for the reason given by the Federal Magistrate.",
+      "id": "s345"
+    },
+    {
+      "text": "The Tribunal thereby failed to exercise its jurisdiction.",
+      "id": "s346"
+    },
+    {
+      "text": "87 The Minister contended that in the event that it was thought there had not been compliance with s 107, relief should be refused \"given that the appellant has upon his own admission repeatedly sought to deceive the Australian immigration authorities.",
+      "id": "s347"
+    },
+    {
+      "text": "\" In support of that contention, the Minister relied upon NAWZ v Minister for Immigration and Multicultural and Indigenous Affairs [2004] FCAFC 199 at [10] - [13] .",
+      "id": "s348"
+    },
+    {
+      "text": "88 There may be circumstances where the applicant's conduct clearly evidences bad faith either in regard to the application for the visa, the review proceedings or curial proceedings that follow which make it appropriate to refuse to grant the discretionary relief under s 75(v) of the Commonwealth of Australia Constitution Act 1901 (Cth).",
+      "id": "s349"
+    },
+    {
+      "text": "However, this is not one of those cases.",
+      "id": "s350"
+    },
+    {
+      "text": "The Minister's submission would put this Court in a position where it would have to form judgment as to the appellant's conduct in his application for the visa and in the review proceedings.",
+      "id": "s351"
+    },
+    {
+      "text": "If this Court were to refuse the issue of the Constitutional writs, in my opinion, it would be tantamount to finding on this appeal that the appellant's visa should have been cancelled.",
+      "id": "s352"
+    },
+    {
+      "text": "That seems to be very much like a decision on the merits which should be avoided.",
+      "id": "s353"
+    },
+    {
+      "text": "Moreover, the appellant was not warned in the proceeding before the Federal Magistrate or before the Minister's written submissions were filed that the Minister would seek to have the appeal dismissed on that ground.",
+      "id": "s354"
+    },
+    {
+      "text": "It seems to me that if the Minister had wished to support the judgment appealed from on that ground the Minister should have filed a notice of contention as required under O 52 r 22(3) of the Federal Court Rules 1979 (Cth).",
+      "id": "s355"
+    },
+    {
+      "text": "89 I will not therefore, in the exercise of my discretion, refuse to order the issue of the Constitutional writs.",
+      "id": "s356"
+    },
+    {
+      "text": "90 The appellant sought orders that the Tribunal's decision be quashed and the matter be remitted.",
+      "id": "s357"
+    },
+    {
+      "text": "The orders sought should be made.",
+      "id": "s358"
+    },
+    {
+      "text": "In my opinion, the appeal must be allowed.",
+      "id": "s359"
+    },
+    {
+      "text": "The order made by the Federal Magistrate should be set aside.",
+      "id": "s360"
+    },
+    {
+      "text": "In lieu thereof, there should be an order that the decision made by the Tribunal on 11 May 2006 should be quashed.",
+      "id": "s361"
+    },
+    {
+      "text": "There will be an order remitting the appellant's application for review of the delegate's decision to the Tribunal for further consideration according to law.",
+      "id": "s362"
+    },
+    {
+      "text": "The respondent must pay the appellant's costs in the Federal Magistrates Court and on appeal.",
+      "id": "s363"
+    },
+    {
+      "text": "I certify that the preceding ninety (90) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Lander.",
+      "id": "s364"
+    },
+    {
+      "text": "Associate:\n\nDated: 21 April 2008 \n\n\n Counsel for the Appellant: Mr L Karp \n \n Counsel for the First Respondent: Mr S Lloyd \n \n Solicitor for the First Respondent: Australian Government Solcitor \n \n Date of Hearing: 23 November 2007 \n \n Date of Judgment: 21 April 2008 \n\n \n\n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2008/507.html",
+      "id": "s365"
+    }
+  ]
+}

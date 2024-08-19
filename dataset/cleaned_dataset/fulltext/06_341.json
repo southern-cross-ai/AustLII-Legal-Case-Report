@@ -1,0 +1,860 @@
+{
+  "name": "Lawrance v Chief Executive Officer, CRS Australia [2006] FCA 341 (5 April 2006)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2006/341.html",
+  "catchphrases": [
+    {
+      "text": "review of administrative appeals tribunal (\"aat\") decision",
+      "id": "c0"
+    },
+    {
+      "text": "application for documents under freedom of information act 1982 (cth)",
+      "id": "c1"
+    },
+    {
+      "text": "whether reasonable steps taken to locate documents",
+      "id": "c2"
+    },
+    {
+      "text": "whether documents exist",
+      "id": "c3"
+    },
+    {
+      "text": "whether findings of fact supported by evidence",
+      "id": "c4"
+    },
+    {
+      "text": "whether irrelevant considerations taken into account",
+      "id": "c5"
+    },
+    {
+      "text": "whether wednesbury unreasonable",
+      "id": "c6"
+    },
+    {
+      "text": "procedural fairness",
+      "id": "c7"
+    },
+    {
+      "text": "whether reasonable opportunity to cross examine witnesses and make submissions",
+      "id": "c8"
+    },
+    {
+      "text": "power of aat to control proceedings",
+      "id": "c9"
+    },
+    {
+      "text": "relevance to proceedings",
+      "id": "c10"
+    },
+    {
+      "text": "administrative law",
+      "id": "c11"
+    },
+    {
+      "text": "administrative law",
+      "id": "c12"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Introduction \n \n 1 This is an appeal under s 44(1) of the Administrative Appeals Tribunal Act 1975 (Cth) (\" AAT Act \") from a decision of the Administrative Appeals Tribunal (\"AAT\") constituted by Senior Member Kelly dated 24 May 2005.",
+      "id": "s0"
+    },
+    {
+      "text": "On that date, Senior Member Kelly affirmed a decision of a delegate of the respondent (\"CRS\") made on 16 April 2004 refusing the applicant's request for documents made pursuant to s 15 of the Freedom of Information Act 1982 (Cth) (\" FOI Act \").",
+      "id": "s1"
+    },
+    {
+      "text": "2 The applicant filed a notice of appeal from Senior Member Kelly's decision on 7 June 2005.",
+      "id": "s2"
+    },
+    {
+      "text": "She filed a supplementary notice of appeal on 16 March 2006.",
+      "id": "s3"
+    },
+    {
+      "text": "3 Whilst not opposed to the filing of the supplementary notice, CRS points out that many of the seventeen questions stated in the original and supplementary notice do not state questions of law; see TNT Skypak International (Aust) Pty Limited v Federal Commissioner of Taxation (1988) 82 ALR 175 at 178; Birdseye v Australian Securities and Investments Commission (2003) 76 ALD 321 at [11]; Australian Securities and Investments Commission v Saxby Bridge Financial Planning Pty Limited [2003] FCAFC 244 ; (2003) 133 FCR 290 at [42] .",
+      "id": "s4"
+    },
+    {
+      "text": "4 Most of the background facts, as well as the decision of Senior Member Kelly, have been set out in my judgment in matter NSD 55 of 2005, handed down contemporaneously with this judgment; see Lawrance v President, Administrative Appeal Tribunal [2006] FCA 342.",
+      "id": "s5"
+    },
+    {
+      "text": "5 It is necessary to add only briefly to what I have already said about the background and the decision under appeal.",
+      "id": "s6"
+    },
+    {
+      "text": "Supplementary Background Facts \n \n 6 In her request for documents under the FOI Act dated 23 February 2004, the applicant explained that whilst she had \"never been aware or conscious of having had CRS involvement in any aspect of my employment or my life\", she came to believe \"with hindsight\" that there had been some sort of involvement.",
+      "id": "s7"
+    },
+    {
+      "text": "7 At a time which is not precisely clear, but certainly by early 2004, the applicant came to believe that she has been the subject of a Commonwealth program administered by CRS under a contract or other arrangement with her various employers.",
+      "id": "s8"
+    },
+    {
+      "text": "She believes that the program has been provided under the Disability Services Act 1986 (Cth) (\" DSA \"), and includes non-consensual treatment and covert surveillance.",
+      "id": "s9"
+    },
+    {
+      "text": "She also believes that former friends, in particular Ms Beverly Smith (\"Ms Smith\"), a former CRS employee, have been involved in the program and have contacted the applicant's family.",
+      "id": "s10"
+    },
+    {
+      "text": "8 The essence of the applicant's complaint is set out in a letter which she wrote to the President of the AAT on 28 April 2004.",
+      "id": "s11"
+    },
+    {
+      "text": "9 The letter of 28 April 2004 includes the following:-\n \"I had a friend, Bev Smith, who was coincidentally a CRS employee.",
+      "id": "s12"
+    },
+    {
+      "text": "I was told by a former friend Andrea Howard, in 1999 that 'Bev Smith was no friend to you', (she has never even met Bev Smith), a comment she refused to explain or elaborate on, and it has only been since that astonishing comment that I have had cause to reflect on exactly why that comment may have been made.",
+      "id": "s13"
+    },
+    {
+      "text": "I have never realized or imagined or known of any CRS activity in relation to my employment and it has been a great shock to wonder what on earth has been going on.",
+      "id": "s14"
+    },
+    {
+      "text": "Former friends who make that sort of comment, having had no connections with my employment or with Bev Smith, seem to indicate that there is much that Bev Smith has done which has been extremely devious, manipulative, dishonest and totally behind my back.",
+      "id": "s15"
+    },
+    {
+      "text": "This may also apply to Louise Perrottet, also a CRS employee and a social acquaintance known to me through Andrea Howard.",
+      "id": "s16"
+    },
+    {
+      "text": "They were friends at university but had not pursued a close friendship for years and had not been a part of any joint socialising since Andrea's wedding over fifteen or so years ago.",
+      "id": "s17"
+    },
+    {
+      "text": "Louise knew little other than what I told her (virtually nothing) of my employment and was certainly not a person to whom I would have discussed work related things with nor a person with whom I would ever have made a confidant of in that respect.",
+      "id": "s18"
+    },
+    {
+      "text": "I would never, ever have consented to her having any involvement whatsoever in my personal or employment affairs, being an independent, autonomous person who highly valued her privacy and who has no and had no disability or psychiatric disorder.",
+      "id": "s19"
+    },
+    {
+      "text": "Thus any involvement she may have had in my circumstances has been devious, behind my back, unethical and like Bev Smith, ultra vires the Disability Services Act (Cth) and in disregard of my rights to privacy and in breach of anti-discrimination legislation.",
+      "id": "s20"
+    },
+    {
+      "text": "This detail is all relevant as I am seeking access to records setting out all these womens' involvement in my employment, as they have done so in a professional capacity not in a social capacity (obviously) --- as employees of CRS and/or similar organizations or in a similar capacity.",
+      "id": "s21"
+    },
+    {
+      "text": "Such conduct is not only the antithesis of friendship but is also unlawful and where it has occurred, has done so completely without my knowledge or consent.",
+      "id": "s22"
+    },
+    {
+      "text": "The records I am seeking access to thus include email records of the individuals concerned as well as all other records and documents.",
+      "id": "s23"
+    },
+    {
+      "text": "On 23 February 2004 I wrote to CRS Australia requesting full and comprehensive access to all records and documents of personal and health information, including all emails sent by and received from Bev Smith and Louise Perrottet and Anne Brimson and others, relating to my employment at Centrelink, the Department of Social Security, the SSAT and the RRT.",
+      "id": "s24"
+    },
+    {
+      "text": "I requested information that might be held electronically, including email records and the like.",
+      "id": "s25"
+    },
+    {
+      "text": "I also made it clear that although I have never ever qualified for CRS intervention --- eg I have never met the criteria set out in s 18 of the Disability Services Act (Cth) 1986, nor have I ever had and nor do I have a disability, or a psychiatric disorder, it seemed apparent that CRS had indeed involved themselves at some stage in my employment.",
+      "id": "s26"
+    },
+    {
+      "text": "\" \n\n\n The Evidence before the AAT \n \n 10 Apart from the 'T' documents lodged pursuant to s 37 of the AAT Act , the AAT had substantial documentary evidence before it including:- \n \n \n &#8226; Two lengthy affidavits affirmed by the applicant on 28 July 2004 and 20 September 2004, the latter comprising 77 handwritten pages and a chronology;\n &#8226; An affidavit of Ms Janine Wood (\"Ms Wood\") of CRS affirmed 27 August 2004 ; \n &#8226; An affidavit of Ms Margaret Carmody (\"Ms Carmody\") of CRS affirmed 23 August 2004; and\n &#8226; CRS Client Service Charter and CRS Privacy and Personal Information Statement .",
+      "id": "s27"
+    },
+    {
+      "text": "11 Oral evidence was given in the AAT on 1 November 2004 by the applicant, Ms Smith, Ms Perrottet, Ms Wood, Ms Carmody, and Ms O'Neill, who was a former member of the SSAT.",
+      "id": "s28"
+    },
+    {
+      "text": "12 I have referred at some length to the evidence given by the witnesses at the oral hearing in my judgment in matter NSD 55 of 2005.",
+      "id": "s29"
+    },
+    {
+      "text": "13 Briefly, the applicant gave evidence of her complaints, but Ms Smith and Ms Perrottet both denied having any dealings with the applicant in their official capacity as employees of CRS.",
+      "id": "s30"
+    },
+    {
+      "text": "They also denied any knowledge of, or any involvement by, CRS with the applicant.",
+      "id": "s31"
+    },
+    {
+      "text": "14 Ms O'Neill was a Senior Member of the SSAT during the applicant's employment.",
+      "id": "s32"
+    },
+    {
+      "text": "She denied any knowledge of any arrangements in relation to the applicant under the DSA .",
+      "id": "s33"
+    },
+    {
+      "text": "15 The evidence of Ms Wood and Ms Carmody deals with the services provided by CRS, that is to say that they are only provided consensually, and with the various efforts undertaken in attempting to find documents the subject of the applicant's request.",
+      "id": "s34"
+    },
+    {
+      "text": "They also dealt with the time it would take to manually review the electronic information held by CRS relating to Ms Smith.",
+      "id": "s35"
+    },
+    {
+      "text": "The FOI Act \n \n 16 The FOI Act relevantly provides as follows:-\n \" 4 document of an agency or document of the agency means a document in the possession of an agency, or in the possession of the agency concerned, as the case requires, whether created in the agency or received in the agency.",
+      "id": "s36"
+    },
+    {
+      "text": "... \n \n 11 Right of access \n \n (1) Subject to this Act, every person has a legally enforceable right to obtain access in accordance with this Act to: \n \n \n (a) a document of an agency, other than an exempt document; or \n (b) an official document of a Minister, other than an exempt document.",
+      "id": "s37"
+    },
+    {
+      "text": "(2) Subject to this Act, a person's right of access is not affected by: \n \n \n (a) any reasons the person gives for seeking access; or \n (b) the agency's or Minister's belief as to what are his or her reasons for seeking access.",
+      "id": "s38"
+    },
+    {
+      "text": "\" \n\n\n \n 17 Section 15 provides:-\n \"(1) Subject to section 15A , a person who wishes to obtain access to a document of an agency or an official document of a Minister may request access to the document.",
+      "id": "s39"
+    },
+    {
+      "text": "(2) The request must: \n \n \n (a) be in writing; and \n (b) provide such information concerning the document as is reasonably necessary to enable a responsible officer of the agency, or the Minister, to identify it; and \n (c) specify an address in Australia at which notices under this Act may be sent to the applicant; and \n (d) be sent by post to the agency or Minister, or delivered to an officer of the agency or a member of the staff of the Minister, at the address of any central or regional office of the agency or Minister specified in a current telephone directory; and \n (e) be accompanied by the fee payable under the regulations in respect of the request.",
+      "id": "s40"
+    },
+    {
+      "text": "\" \n \n \n 18 Section 24A provides:-\n \" An agency or Minister may refuse a request for access to a document if: \n \n \n (a) all reasonable steps have been taken to find the document; and \n (b) the agency or Minister is satisfied that the document: \n (i) is in the agency's or Minister's possession but cannot be found; or \n (ii) does not exist.",
+      "id": "s41"
+    },
+    {
+      "text": "\" \n \n \n 19 Under s 61 of the FOI Act , the relevant agency or the Minister to whom the request was made has the onus of establishing that the decision given in respect of the request was justified or that the AAT should give a decision adverse to the applicant.",
+      "id": "s42"
+    },
+    {
+      "text": "The decision of Senior Member Kelly \n \n 20 Senior Member Kelly made the following factual findings:-\n &#9679; CRS does not collect or store an individual's sensitive personal or health information unless that person is a client, employee or contractor of CRS.",
+      "id": "s43"
+    },
+    {
+      "text": "&#9679; Vocational rehabilitation is a voluntary process and such programs are provided in consultation with the client.",
+      "id": "s44"
+    },
+    {
+      "text": "The service would not be provided with the consent of a third party only.",
+      "id": "s45"
+    },
+    {
+      "text": "&#9679; CRS Australia does not conduct surveillance; it is not an investigative agency.",
+      "id": "s46"
+    },
+    {
+      "text": "&#9679; CRS has conducted searches as detailed in the evidence given by their witnesses.",
+      "id": "s47"
+    },
+    {
+      "text": "No records have been found relating to the applicant.",
+      "id": "s48"
+    },
+    {
+      "text": "&#9679; Searches were also conducted of CRS' electronic archives to relevant e-mails and other documentation in relation to Ms Smith and Ms Perrottet.",
+      "id": "s49"
+    },
+    {
+      "text": "No records were found relating to Ms Perrottet.",
+      "id": "s50"
+    },
+    {
+      "text": "&#9679; Electronic holding in relation to Ms Smith were located, including e-mail and other documentation amounting to 400 megabytes of material.",
+      "id": "s51"
+    },
+    {
+      "text": "A manual search would be required to determine whether any of the material was relevant.",
+      "id": "s52"
+    },
+    {
+      "text": "It would take four days to recover the material from IT services and, on a conservative estimate, 100 hours to review it.",
+      "id": "s53"
+    },
+    {
+      "text": "&#9679; The relationship between the applicant and Ms Smith was purely one of friendship.",
+      "id": "s54"
+    },
+    {
+      "text": "Ms Smith was not involved in any activity relating to CRS activities in respect of the applicant.",
+      "id": "s55"
+    },
+    {
+      "text": "&#9679; Apart from the applicant's belief, arrived at in hindsight, there is no other evidence to suggest any connection between CRS and the applicant.",
+      "id": "s56"
+    },
+    {
+      "text": "&#9679; If CRS did hold documents or information about a program or service relating to the applicant, it would have been found by the searches already conducted.",
+      "id": "s57"
+    },
+    {
+      "text": "21 Senior Member Kelly was satisfied that all reasonable steps had been taken to find the documents the subject of the applicant's request.",
+      "id": "s58"
+    },
+    {
+      "text": "The learned Senior Member went on to conclude that the documents did not exist.",
+      "id": "s59"
+    },
+    {
+      "text": "The Notice of Appeal \n \n 22 I will set out in full the fourteen questions stated in the Notice of Appeal as follows:- \n \n \n \"1.",
+      "id": "s60"
+    },
+    {
+      "text": "Senior Member Kelly, an officer of the Commonwealth resumed the hearing of an adjourned case, and proceeded to publish a decision, in disregard of her status as a party to Federal Court proceedings NSD 55 of 2005 brought under s 39B of the Judiciary Act 1903 , in which proceedings her conduct in this part-heard matter, and her refusal on 1 November 2004 to make s 35(2) directions under the Administrative Appeals Tribunal Act 1975 , including non-publication are issues currently being dealt with: MIMA v Bhardwaj [2002] HCA 11 ; (2002) 209 CLR 597.",
+      "id": "s61"
+    },
+    {
+      "text": "2.",
+      "id": "s62"
+    },
+    {
+      "text": "Senior Member Kelly's conduct and her decisions of 1 November 2004 and 24 May 2005, involve a denial of procedural fairness in a number of areas: Sullivan v Department of Transport ( 1978) 1 ALD 383; Clements v Independent Indigenous Advisory Committee [2003] FCAFC 143 ; (2003) 131 FCR 28; Quitlong v Australian Postal Corporation [2003] FCA 359 \n \n \n \n \n \n 3.",
+      "id": "s63"
+    },
+    {
+      "text": "In reaching her decision Senior Member Kelly failed to take into account relevant facts and relevant considerations: Sullivan v Department of Transport (1978) 1 ALD 383; Hart v Herron [1984] Australian Torts Reports 80-201 .",
+      "id": "s64"
+    },
+    {
+      "text": "4.",
+      "id": "s65"
+    },
+    {
+      "text": "Senior Member Kelly has dealt with the application and reached a decision that is erroneous at law because she acted on the basis that the applicant is impaired or has a disability.",
+      "id": "s66"
+    },
+    {
+      "text": "There is no evidence before the Tribunal to demonstrate or prove that the applicant has an impairment, or a disability: Lombardo v Federal Commissioner of Taxation (1979) 40 FLR 208.",
+      "id": "s67"
+    },
+    {
+      "text": "5.",
+      "id": "s68"
+    },
+    {
+      "text": "Senior Member Kelly has refused to provide the applicant with a reasonable opportunity to present her case, as is required under s 39 of the Administrative Appeals Tribunal Act , and under the common law: Sullivan v Department of Transport (1978) 1 ALD 383; Lombardo v Federal Commissioner of Taxation (1979) 40 FLR 208.",
+      "id": "s69"
+    },
+    {
+      "text": "6.",
+      "id": "s70"
+    },
+    {
+      "text": "The Tribunal refused to continue to adjourn the hearing, at the applicant's request, and resumed it without any notification or consultation made to the applicant: Sullivan v Department of Transport (1978) 1 ALD 383; New York Properties P/L v Commissioner of Taxation (1985) 7 FCR 401.",
+      "id": "s71"
+    },
+    {
+      "text": "7.",
+      "id": "s72"
+    },
+    {
+      "text": "The Tribunal refused, on 1 November 2004, to adjourn and deal with the non-attendance of witnesses who had been issued with a summons by the Tribunal to attend the hearing on 1 November 2004.",
+      "id": "s73"
+    },
+    {
+      "text": "Senior Member Kelly said that she did not know what to do in these circumstances: Sullivan v Department of Transport (1978) 1 ALD 383; New York Properties P/L v Commissioner of Taxation (1985) 7 FCR 401; Lombardo v Federal Commissioner of Taxation (1979) 40 FLR 208.",
+      "id": "s74"
+    },
+    {
+      "text": "8.",
+      "id": "s75"
+    },
+    {
+      "text": "The Tribunal made a decision erroneous in law because it was so unreasonable that no reasonable person could have made it: Minister for Aboriginal Affairs v Peko-Wallsend [1986] HCA 40 ; (1986) 162 CLR 24.",
+      "id": "s76"
+    },
+    {
+      "text": "9.",
+      "id": "s77"
+    },
+    {
+      "text": "The Tribunal refused to allow the applicant to determine the issues, and to present her case without interference: Sullivan v Department of Transport (1978) 1 ALD 383.",
+      "id": "s78"
+    },
+    {
+      "text": "10.",
+      "id": "s79"
+    },
+    {
+      "text": "The Tribunal made mistakes of fact in disregard of the evidence, or in the complete absence of rationally probative and credible evidence, or on no evidence: Lombardo v Federal Commissioner of Taxation (1979) 40 FLR 208.",
+      "id": "s80"
+    },
+    {
+      "text": "11.",
+      "id": "s81"
+    },
+    {
+      "text": "The Tribunal applied the wrong principles or did not apply any principles, in considering whether all reasonable steps had been made to locate documents under s 24A of the Freedom of Information Act 1982 : Lombardo v Federal Commissioner of Taxation (1979) 40 FLR 208; Re Anti-Fluoride Association (1985) 8 ALD 163; Langer v Telstra Corporation Ltd [2002] AATA 341 ; Beesley v Commissioner of Police [2000] NSW ADT 52 ; Secretary, Department of Treasury &amp; Finance v Kelly [2001] VSCA 26 18 VAR 427; Beesley v Australian Federal Police [2001] FCA 836 ; Re SRB and SRG (1994) 33 ALD 171.",
+      "id": "s82"
+    },
+    {
+      "text": "12.",
+      "id": "s83"
+    },
+    {
+      "text": "The Tribunal is mistaken as to the scope and application of the Disability Services Act 1986 (Cth) in relation to CRS Australia: Lombardo v Federal Commissioner of Taxation (1979) 40 FLR 208 \n \n \n \n \n \n 13.",
+      "id": "s84"
+    },
+    {
+      "text": "The Tribunal has failed to make findings on all the material and relevant questions of fact as is required under s 43 of the Administrative Appeals Tribunal Act 1975 .",
+      "id": "s85"
+    },
+    {
+      "text": "14.",
+      "id": "s86"
+    },
+    {
+      "text": "The Tribunal has proceeded to deal with the application and to reach a decision on the erroneous assumption that the applicant has consented to participate in a Commonwealth programme, or a Commonwealth --- State arrangement under the Disability Services Act 1986 or some other Act.",
+      "id": "s87"
+    },
+    {
+      "text": "No such consent exists currently and no such consent has existed at any time in the past: Lombardo v Federal Commissioner for Taxation (1979).",
+      "id": "s88"
+    },
+    {
+      "text": "\" \n \n\n\n The Supplementary Notice of Appeal \n \n 23 The supplementary notice of appeal added the following questions:- \n \n \n \"15.",
+      "id": "s89"
+    },
+    {
+      "text": "The AAT did not ask the correct question or correctly identify the issues in dealing with the FOI matter, leading to jurisdictional error.",
+      "id": "s90"
+    },
+    {
+      "text": "This occurred when the AAT focussed only upon asking whether the applicant had ever been the subject of a CRS programme, instead of dealing with the applicant's case and asking whether the applicant had ever been the subject of a Disability Services Act 1986 (Cth) programme: Yusuf [2001] HCA 30 ; (2001) 206 CLR 323 \n \n\n\n \n \n 16.",
+      "id": "s91"
+    },
+    {
+      "text": "The AAT had no evidence for the findings of fact which it made in relation to: \n \n \n \n &#8722; the statement at para 32 that the 'relationship with Ms Lawrance (and Bev Smith) was purely one of friendship'.",
+      "id": "s92"
+    },
+    {
+      "text": "&#8722; the remark at para 11 of the AAT reasons regarding what lead to the applicant becoming aware of surveillance in 1999 and at what point in time in 1999 that she gained this awareness.",
+      "id": "s93"
+    },
+    {
+      "text": "&#8722; the finding at para 26 that CRS is not involved in investigating and monitoring/surveillance activity \n &#8722; the finding at para 32 that 'Apart from Ms Lawrance's belief, arrived at in hindsight, there is no other evidence to suggest that there was any connection between CRS and Ms Lawrance'.",
+      "id": "s94"
+    },
+    {
+      "text": "&#8722; The findings at para 30.",
+      "id": "s95"
+    },
+    {
+      "text": ": Australian Broadcasting Tribunal v Bond [1990] HCA 33 ; (1990) 170 CLR 321; Brackenberg (1995) 56 FCR 335 at 349 ( v Comcare) ; Duncan v Hotop [2004] FCA 274 at para 9.",
+      "id": "s96"
+    },
+    {
+      "text": "17.",
+      "id": "s97"
+    },
+    {
+      "text": "The AAT erred in its application of s 24A of the FOI Act , when it ignored the statement, undated, of Bev Smith, in the possession of Janine Woods, CRS.",
+      "id": "s98"
+    },
+    {
+      "text": "\" \n \n\n\n Question 1 \n \n 24 The assumption underlying this \"question\" is that Senior Member Kelly was not entitled to publish her decision because the applicant had commenced proceeding NSD 55 of 2005 in the Federal Court, to which Senior Member Kelly was a respondent.",
+      "id": "s99"
+    },
+    {
+      "text": "25 The assumption is without foundation.",
+      "id": "s100"
+    },
+    {
+      "text": "I refused interlocutory relief on 10 February 2005; see [2005] FCA 79.",
+      "id": "s101"
+    },
+    {
+      "text": "Leave to appeal from my judgment was refused by Hely J on 3 May 2005; see [2005] FCA 541.",
+      "id": "s102"
+    },
+    {
+      "text": "Question 2 \n \n 26 In this question the applicant asserts that Senior Member Kelly's conduct of the proceeding involved a denial of procedural fairness.",
+      "id": "s103"
+    },
+    {
+      "text": "This is expanded upon in questions 5, 6, 7 and 9 in which the applicant claims that Senior Member Kelly:-\n &#9679; interrupted the applicant and refused to give her a reasonable opportunity to present her case; and\n &#9679; failed to adjourn the hearing to deal with the non-attendance of witnesses summonsed by the applicant.",
+      "id": "s104"
+    },
+    {
+      "text": "27 It may be accepted as a general statement of principle that if directions are given by a court or tribunal that have the effect of fettering cross-examination so that a witness's evidence on relevant issues cannot be properly tested, there is a denial of procedural fairness.",
+      "id": "s105"
+    },
+    {
+      "text": "But it must be emphasised that this proposition is subject to the discretion of the decision maker to control cross-examination so as to ensure relevance and to guard against repetition and prolixity; see R v Australian Broadcasting Tribunal; Ex parte Hardiman [1980] HCA 13 ; (1980) 144 CLR 13 at 34-35; Australian Postal Commission v Hayes (1989) 87 ALR 283 at 289 per Wilcox J.",
+      "id": "s106"
+    },
+    {
+      "text": "28 In Minh v Minister for Immigration and Multicultural Affairs (1998) 86 FCR 304 at 314, Weinberg J observed that the duty to act fairly may be breached if a party is not given a reasonable opportunity to make relevant submissions, to give evidence and to call witnesses.",
+      "id": "s107"
+    },
+    {
+      "text": "But his Honour went on to say:-\n \"At the same time, however, the opportunity to make relevant submissions, to give evidence, and to call witnesses in support which must be afforded will always be qualified by a requirement that the material and arguments sought to be presented must be sufficiently relevant and significant to warrant being received.",
+      "id": "s108"
+    },
+    {
+      "text": "\" \n\n\n \n 29 The power of the AAT to control the proceeding so as to ensure compliance with these principles is found in s 33(1)(a) of the AAT Act .",
+      "id": "s109"
+    },
+    {
+      "text": "That subsection provides that the procedure of the AAT is, subject to the AAT Act and the Regulations and any other enactment, within the discretion of the AAT.",
+      "id": "s110"
+    },
+    {
+      "text": "30 There were only two real issues in the proceeding before Senior Member Kelly.",
+      "id": "s111"
+    },
+    {
+      "text": "The first was whether there were documents in the possession of CRS which were the subject of the applicant's request.",
+      "id": "s112"
+    },
+    {
+      "text": "The second was whether CRS had taken all reasonable steps to search for such documents.",
+      "id": "s113"
+    },
+    {
+      "text": "The learned Senior Member was plainly entitled to control the hearing and to limit examination or cross-examination so as to ensure some semblance of relevance to the real issues.",
+      "id": "s114"
+    },
+    {
+      "text": "31 I have carefully read the transcript of 1 November 2004.",
+      "id": "s115"
+    },
+    {
+      "text": "It is clear to me that the applicant was given every opportunity to provide relevant evidence in support of her case.",
+      "id": "s116"
+    },
+    {
+      "text": "Indeed, she was given some latitude to explore, within limits, some points of no real relevance such as the conversation with Ms Smith that brought about the termination of their friendship.",
+      "id": "s117"
+    },
+    {
+      "text": "Moreover, Senior Member Kelly assisted the applicant in some instances by asking questions herself of Ms Smith and other witnesses.",
+      "id": "s118"
+    },
+    {
+      "text": "32 But the applicant was not entitled, as a matter of procedural fairness, to ask questions about the history of her personal relationships with various individuals.",
+      "id": "s119"
+    },
+    {
+      "text": "Nor was she entitled to bog down the hearing with questions about whether a disability had been wrongly imputed to her.",
+      "id": "s120"
+    },
+    {
+      "text": "These were matters which were not relevant to the review by the AAT.",
+      "id": "s121"
+    },
+    {
+      "text": "33 Moreover, the transcript reveals that the applicant was endeavouring to harass and harangue witnesses, in particular Ms Smith.",
+      "id": "s122"
+    },
+    {
+      "text": "The applicant was not entitled to do so and it was within the proper exercise of Senior Member Kelly's discretion to prevent her from engaging in uncivil behaviour.",
+      "id": "s123"
+    },
+    {
+      "text": "34 Furthermore, there was no denial of procedural fairness in failing to adjourn the proceedings to permit witnesses such as Ms Howard to be called.",
+      "id": "s124"
+    },
+    {
+      "text": "It has not been established that any of the witnesses could have given relevant evidence.",
+      "id": "s125"
+    },
+    {
+      "text": "35 In particular, as to Ms Howard, the applicant wished to call her to deal with the statement \"Bev Smith was no friend to you\" and perhaps, how she came to make that statement since the applicant contends that Ms Howard did not know Ms Smith.",
+      "id": "s126"
+    },
+    {
+      "text": "36 The applicant's assumption appears to be that the statement by Ms Howard leads to the inevitable conclusion that Ms Smith, as an employee of CRS, was engaged on behalf of CRS, in unlawful treatment programs and surveillance of the applicant, contrary to the DSA and other Commonwealth legislation.",
+      "id": "s127"
+    },
+    {
+      "text": "37 However, even assuming the statement by Ms Howard to have been made, it is simply incapable of giving rise to the conclusion which the applicant draws from it.",
+      "id": "s128"
+    },
+    {
+      "text": "Thus, any evidence which Ms Howard might have been able to give was totally irrelevant to the issues in the proceedings.",
+      "id": "s129"
+    },
+    {
+      "text": "38 As to one of the witnesses, Mr Kessels, the applicant was contacted by the AAT by letter dated 10 January 2005 and offered an opportunity to have a directions hearing to determine whether the hearing should be reopened so that the witness might give evidence.",
+      "id": "s130"
+    },
+    {
+      "text": "The applicant initially said yes but she later declined that opportunity.",
+      "id": "s131"
+    },
+    {
+      "text": "39 Any suggestion of a denial of procedural fairness arising from a possible failure to provide copies to the applicant of letters from the witnesses seeking to be discharged from their summonses cannot be sustained.",
+      "id": "s132"
+    },
+    {
+      "text": "As I have already said, it was not established that any of the witnesses could have given relevant evidence.",
+      "id": "s133"
+    },
+    {
+      "text": "Question 3 \n \n 40 This question asserts that in making its decision the AAT failed to take into account relevant facts and circumstances.",
+      "id": "s134"
+    },
+    {
+      "text": "But the facts and circumstances which the applicant relied upon are the history of personal relationships and the statement that she is not suffering from a disability.",
+      "id": "s135"
+    },
+    {
+      "text": "These were not relevant considerations.",
+      "id": "s136"
+    },
+    {
+      "text": "In substance, what the applicant seeks to do is to cavil with Senior Member Kelly's findings of fact.",
+      "id": "s137"
+    },
+    {
+      "text": "Question 4 \n \n 41 This question asserts that Senior Member Kelly dealt with the application on the erroneous assumption that the applicant is suffering from a disability.",
+      "id": "s138"
+    },
+    {
+      "text": "First, there is nothing to suggest that the learned Senior Member did so.",
+      "id": "s139"
+    },
+    {
+      "text": "Second, the question of whether the applicant is impaired or has a disability was not before the AAT.",
+      "id": "s140"
+    },
+    {
+      "text": "It was not relevant to the question of whether searches had been made or whether documents exist.",
+      "id": "s141"
+    },
+    {
+      "text": "Nor was the statement which the applicant attributed to Dr Pickles, namely that \"Canberra needs a diagnosis\" relevant to the issues in the proceeding.",
+      "id": "s142"
+    },
+    {
+      "text": "There was no obligation on the AAT, as is contended by the applicant, to check the accuracy of the alleged remark.",
+      "id": "s143"
+    },
+    {
+      "text": "Questions 5, 6, 7 and 9 \n \n 42 I have dealt with these under Question 2.",
+      "id": "s144"
+    },
+    {
+      "text": "Question 8 \n \n 43 This question asserts Wednesbury unreasonableness.",
+      "id": "s145"
+    },
+    {
+      "text": "There is no basis in this suggestion.",
+      "id": "s146"
+    },
+    {
+      "text": "44 The applicant contended that it was unreasonable not to require CRS to carry out manual searches of CRS electronic records relating to Ms Smith.",
+      "id": "s147"
+    },
+    {
+      "text": "The evidence was that this would have taken, on a conservative estimate, 100 hours.",
+      "id": "s148"
+    },
+    {
+      "text": "The records related to Ms Smith's work at CRS.",
+      "id": "s149"
+    },
+    {
+      "text": "There was nothing to demonstrate any connection between this and the applicant.",
+      "id": "s150"
+    },
+    {
+      "text": "Indeed, the learned Senior Member concluded that no such records existed.",
+      "id": "s151"
+    },
+    {
+      "text": "45 The learned Senior Member's finding that all reasonable steps had been taken was plainly open and no other finding was available on an objective consideration of the facts.",
+      "id": "s152"
+    },
+    {
+      "text": "No suggestion of Wednesbury unreasonableness can be maintained.",
+      "id": "s153"
+    },
+    {
+      "text": "46 The AAT's findings of fact as to the extent and nature of Ms Smith's material and, in light of the evidence of all the witnesses with actual knowledge of the objective facts, the potential likelihood of anything relevant being disclosed, dispel any possible suggestion of unreasonableness.",
+      "id": "s154"
+    },
+    {
+      "text": "At very least, to require further searches of Ms Smith's material, cogent reasons would have been required from the applicant as to why the material would contain relevant information.",
+      "id": "s155"
+    },
+    {
+      "text": "On all the evidence, no such reasons were disclosed.",
+      "id": "s156"
+    },
+    {
+      "text": "Ms Smith's evidence (and the evidence of the other witnesses) made it plain that there were no documents.",
+      "id": "s157"
+    },
+    {
+      "text": "Ms Smith gave evidence that her personal emails, about arranging with the applicant to provide occasional lifts to university, were deleted from the system.",
+      "id": "s158"
+    },
+    {
+      "text": "47 The AAT's finding that no documents existed followed from its factual findings, all of which were supported by the evidence.",
+      "id": "s159"
+    },
+    {
+      "text": "The effect of the applicant's contention is to seek to challenge Senior Member Kelly's findings of fact.",
+      "id": "s160"
+    },
+    {
+      "text": "Question 10 \n \n 48 This question asserts mistakes of fact and absence of probative material.",
+      "id": "s161"
+    },
+    {
+      "text": "It is covered by what I have said under Question 8.",
+      "id": "s162"
+    },
+    {
+      "text": "Question 11 \n \n 49 This question asserts that the AAT applied the wrong principles in considering whether reasonable steps had been taken to locate documents.",
+      "id": "s163"
+    },
+    {
+      "text": "It is covered by what I said under Question 8.",
+      "id": "s164"
+    },
+    {
+      "text": "Question 12 \n \n 50 This question asserts that the AAT mistook the scope and application of the DSA.",
+      "id": "s165"
+    },
+    {
+      "text": "51 First, there is no basis for this assertion.",
+      "id": "s166"
+    },
+    {
+      "text": "Second, in view of the factual findings, no question of the scope or application of the DSA arose before the AAT.",
+      "id": "s167"
+    },
+    {
+      "text": "Question 13 \n \n 52 This question asserts that the AAT failed to make findings on all material questions of fact as required by s 43(2B) of the AAT Act .",
+      "id": "s168"
+    },
+    {
+      "text": "53 The applicant contends that findings ought to have been made on the various matters of fact she sought to agitate.",
+      "id": "s169"
+    },
+    {
+      "text": "These included matters personal to the relationship with her former friends and her contention that she was not suffering from a disability.",
+      "id": "s170"
+    },
+    {
+      "text": "54 None of the matters put forward by the applicant as findings which ought to have been made amounted to material or relevant questions of fact within s 43(2B).",
+      "id": "s171"
+    },
+    {
+      "text": "Question 14 \n \n 55 This question asserts that the AAT dealt with the matter on the erroneous assumption that the applicant has consented to participate in a Commonwealth program or a Commonwealth-State program under the DSA or another enactment.",
+      "id": "s172"
+    },
+    {
+      "text": "56 No such assumption was made.",
+      "id": "s173"
+    },
+    {
+      "text": "Indeed, the finding that CRS has had no involvement with the applicant suggests that the opposite assumption was made.",
+      "id": "s174"
+    },
+    {
+      "text": "Question 15 \n \n 57 This question asserts that the AAT did not ask itself the correct question because it failed to ask whether the applicant had ever been the subject of a program under the DSA .",
+      "id": "s175"
+    },
+    {
+      "text": "58 That was not the question which the AAT was required to ask.",
+      "id": "s176"
+    },
+    {
+      "text": "But insofar as it asked itself whether CRS had ever had any involvement in the applicant's life, it did ask itself a question which bore upon the relevant issue of whether documents existed.",
+      "id": "s177"
+    },
+    {
+      "text": "Question 16 \n \n 59 This question asserts that the AAT made five factual findings without evidence.",
+      "id": "s178"
+    },
+    {
+      "text": "Each was supported by evidence (or was not a finding) as follows:-\n &#9679; The finding that Ms Smith's relationship with the applicant was purely one of friendship was supported by Ms Smith's evidence; see [12] and [13] above.",
+      "id": "s179"
+    },
+    {
+      "text": "&#9679; The remark at [11] of Senior Member Kelly's reasons as to what lead the applicant to become aware of surveillance was not a finding.",
+      "id": "s180"
+    },
+    {
+      "text": "It was the applicant's contention.",
+      "id": "s181"
+    },
+    {
+      "text": "&#9679; The finding that CRS does not conduct surveillance was supported by the evidence of Ms Wood and Ms Carmody that CRS only collects and holds information about individuals who are CRS clients, employees or contractors, and by the letter from CRS of 8 March 2004 to which I referred at [47] of my judgment in matter NSD 55 of 2005.",
+      "id": "s182"
+    },
+    {
+      "text": "&#9679; The finding that there is no evidence, other than the applicant's belief, that there was any connection between CRS and the applicant is a finding drawn from the evidence of the applicant, Ms Wood, Ms Carmody, Ms Smith, Ms Perrottet and Ms O'Neill.",
+      "id": "s183"
+    },
+    {
+      "text": "&#9679; The finding that CRS's searches were unable identify or make contact with any relatives of the applicant is supported by an email from Ms Wood of 8 March 2005 which is document 'T11' and appears at page 27 of the Appeal Papers.",
+      "id": "s184"
+    },
+    {
+      "text": "Question 17 \n \n 60 This question asserts that the AAT ignored the undated statement of Ms Smith in the possession of Ms Wood.",
+      "id": "s185"
+    },
+    {
+      "text": "61 For reasons stated at [115] --- [118] of my judgment in matter NSD 55 of 2005, I find that the statement was brought into existence between 10 May 2004 and 6 October 2004 for the purpose of the proceeding in the AAT.",
+      "id": "s186"
+    },
+    {
+      "text": "62 Although Ms Wood was not called to give evidence before me, the plain inference from all the material is that the statement was not before Senior Member Kelly.",
+      "id": "s187"
+    },
+    {
+      "text": "It was an unsigned statement that was overtaken by Ms Smith's oral evidence.",
+      "id": "s188"
+    },
+    {
+      "text": "There is no suggestion that it was given an exhibit number in the AAT.",
+      "id": "s189"
+    },
+    {
+      "text": "63 The statement was released to the applicant who annexed it to an affidavit in these proceedings.",
+      "id": "s190"
+    },
+    {
+      "text": "64 Even if the statement had been in evidence it would merely have served to confirm the personal nature of any contacts between Ms Smith and the applicant or third parties.",
+      "id": "s191"
+    },
+    {
+      "text": "It does not show that CRS has documents in its possession.",
+      "id": "s192"
+    },
+    {
+      "text": "It shows the reverse.",
+      "id": "s193"
+    },
+    {
+      "text": "No order under s 50 of the Federal Court of Australia Act \n \n 65 For reasons given in matter NSD 55 of 2005, I decline to make the suppression order sought by the applicant.",
+      "id": "s194"
+    },
+    {
+      "text": "Costs \n \n 66 The applicant made the same submissions on costs as in matter NSD 55 of 2005.",
+      "id": "s195"
+    },
+    {
+      "text": "I see no reason why costs ought not to follow the event.",
+      "id": "s196"
+    },
+    {
+      "text": "Orders \n \n 67 The orders I will make are that the application be dismissed with costs.",
+      "id": "s197"
+    },
+    {
+      "text": "I certify that the preceding sixty-seven (67) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Jacobson.",
+      "id": "s198"
+    },
+    {
+      "text": "Associate:\n\nDated: 5 April 2006\n\n Counsel for the Applicant: The Applicant Appeared in Person \n \n Solicitor for the Respondent Mr A Markus \n \n Date of Hearing: 16 March 2006 \n \n Date of Judgment: 5 April 2006 \n\n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2006/341.html",
+      "id": "s199"
+    }
+  ]
+}

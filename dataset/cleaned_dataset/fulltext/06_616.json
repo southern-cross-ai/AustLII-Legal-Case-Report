@@ -1,0 +1,800 @@
+{
+  "name": "Shop Distributive and Allied Employees* Association v Woolworths Limited [2006] FCA 616 (25 May 2006)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2006/616.html",
+  "catchphrases": [
+    {
+      "text": "certified agreement",
+      "id": "c0"
+    },
+    {
+      "text": "interpretation",
+      "id": "c1"
+    },
+    {
+      "text": "incorporation of state legislative provisions with respect to long service leave",
+      "id": "c2"
+    },
+    {
+      "text": "state act using phrase 'ordinary pay'",
+      "id": "c3"
+    },
+    {
+      "text": "differing definitions of 'ordinary pay' in state act and certified agreement",
+      "id": "c4"
+    },
+    {
+      "text": "whether incorporation by reference involves incorporation of statutory definition",
+      "id": "c5"
+    },
+    {
+      "text": "whether presumption of consistency in use of terminology applies",
+      "id": "c6"
+    },
+    {
+      "text": "whether conflict between definitions",
+      "id": "c7"
+    },
+    {
+      "text": "whether 'ordinary time rate of pay' includes shift penalties and premiums",
+      "id": "c8"
+    },
+    {
+      "text": "industrial law",
+      "id": "c9"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "The nature and history of the proceeding \n \n\n \n1 The dispute at the heart of this proceeding is about the correct calculation of the rate of pay for a part-time employee entitled to long service leave.",
+      "id": "s0"
+    },
+    {
+      "text": "A collective agreement between the parties to the proceeding incorporates by reference legislative provisions governing entitlements to long service leave in Victoria.",
+      "id": "s1"
+    },
+    {
+      "text": "Those provisions entitle an employee to long service leave on 'ordinary pay'.",
+      "id": "s2"
+    },
+    {
+      "text": "They include a definition of 'ordinary pay' for the purposes of the legislative provisions.",
+      "id": "s3"
+    },
+    {
+      "text": "The problem is that the collective agreement also includes a definition of 'ordinary pay' for the purposes of the agreement.",
+      "id": "s4"
+    },
+    {
+      "text": "The two definitions differ.",
+      "id": "s5"
+    },
+    {
+      "text": "The parties are at odds as to which should apply, and as to the meaning of the legislative definition, if it is the applicable one.",
+      "id": "s6"
+    },
+    {
+      "text": "Among other arguments, the applicant contends that the question of which definition applies should be resolved by reference to settled practice under earlier collective agreements between the parties in similar form.",
+      "id": "s7"
+    },
+    {
+      "text": "2 The application invokes the jurisdiction conferred on the Court by s 413A of the Workplace Relations Act 1996 (Cth) ('the WR Act').",
+      "id": "s8"
+    },
+    {
+      "text": "Section 413A(1)(b) provides that the Court may give an interpretation of a certified agreement on application by an organisation or person bound by the certified agreement.",
+      "id": "s9"
+    },
+    {
+      "text": "The phrase 'certified agreement' is defined in s 4(1) of the WR Act as meaning an agreement certified under Div 4 of Pt VIB of the WR Act.",
+      "id": "s10"
+    },
+    {
+      "text": "The interpretation sought is of cll 28 and 38 of the Woolworths Limited - SDAEA Mulgrave Produce and Recycling Enterprise Agreement 2003-2006 ('the Certified Agreement'), which the applicant contends:\n \n\n \n 'require the Respondent to pay an employee's long service leave pay at the employee's ordinary pay which is the level of remuneration for the employee's normal average weekly number of hours work calculated at the ordinary time rate of pay inclusive of any penalties and/or shift premiums (for regular ordinary hours worked).",
+      "id": "s11"
+    },
+    {
+      "text": "' \n \n \n\nThe respondent contends that it is not obliged to include penalties or shift premiums.",
+      "id": "s12"
+    },
+    {
+      "text": "3 In addition, the applicant seeks the imposition on the respondent of penalties, pursuant to s 178(1) of the WR Act, for breaches of a term of the Certified Agreement, in failing to pay a particular employee at the correct rate.",
+      "id": "s13"
+    },
+    {
+      "text": "The applicant seeks an order for the payment to the employee of the amount underpaid, pursuant to s 178(6), together with interest calculated under s 179A of the WR Act.",
+      "id": "s14"
+    },
+    {
+      "text": "Further, pursuant to s 356(b) of the WR Act, the applicant seeks an order that any penalty be paid to the applicant.",
+      "id": "s15"
+    },
+    {
+      "text": "The facts \n \n\n \n4 The facts are not in dispute.",
+      "id": "s16"
+    },
+    {
+      "text": "In its defence, the respondent admits every allegation in the amended statement of claim except the conclusions.",
+      "id": "s17"
+    },
+    {
+      "text": "The following summary of the facts is taken from the pleadings.",
+      "id": "s18"
+    },
+    {
+      "text": "5 The applicant is an organisation of employees, registered pursuant to the WR Act.",
+      "id": "s19"
+    },
+    {
+      "text": "By s 27 of Sch 1B to the WR Act, the applicant is a body corporate, capable of suing in its own name.",
+      "id": "s20"
+    },
+    {
+      "text": "The respondent is a company incorporated in New South Wales.",
+      "id": "s21"
+    },
+    {
+      "text": "The applicant and the respondent are parties to and bound by the Certified Agreement, which was certified by the Australian Industrial Relations Commission pursuant to s 170LT of the WR Act.",
+      "id": "s22"
+    },
+    {
+      "text": "6 At the relevant time, Paul Jamieson was employed by the respondent as a part-time storeperson grade 2A, on afternoon shift.",
+      "id": "s23"
+    },
+    {
+      "text": "His normal working hours were 27 per week, worked over three days.",
+      "id": "s24"
+    },
+    {
+      "text": "He was a member of the applicant.",
+      "id": "s25"
+    },
+    {
+      "text": "He was paid at the rate of $29.97 per hour, calculated by taking the rate of pay prescribed in cl 3 of the Certified Agreement ($790), adding the service increments prescribed in cl 6.a) adjusted in accordance with cl 6.f) ($39.95), dividing that amount by 36 as required by cl 8.B.4 of the Certified Agreement, and adding a loading of 30 per cent as required by cl 9.B.",
+      "id": "s26"
+    },
+    {
+      "text": "7 Mr Jamieson commenced employment with the respondent in May 1994.",
+      "id": "s27"
+    },
+    {
+      "text": "In May 2004, he applied for and was granted 15 days' long service leave in advance of his entitlement.",
+      "id": "s28"
+    },
+    {
+      "text": "In respect of this long service leave, the respondent paid Mr Jamieson $3109.31 for the 15 days of his leave.",
+      "id": "s29"
+    },
+    {
+      "text": "The applicant contends that the respondent was obliged to pay him $4046 in respect of that period, a difference of $936.64 (the figures vary slightly from those in the amended statement of claim, but are agreed between the parties).",
+      "id": "s30"
+    },
+    {
+      "text": "8 Since at least 3 September 1996, certified agreements made between the applicant and the respondent in respect of the same workplace have contained provisions in the same or similar terms to those now found in the definition of 'ordinary pay' in cl 28 of the Certified Agreement and cl 38 of the Certified Agreement.",
+      "id": "s31"
+    },
+    {
+      "text": "Prior to 2004, the respondent paid employees entitled to the benefit of the Certified Agreement long service leave inclusive of penalties and shift premiums, where applicable.",
+      "id": "s32"
+    },
+    {
+      "text": "In 2004, it began paying a lesser amount.",
+      "id": "s33"
+    },
+    {
+      "text": "The Certified Agreement \n \n\n \n9 The Certified Agreement was certified on 12 December 2003.",
+      "id": "s34"
+    },
+    {
+      "text": "The order certifying it provides for it to come into force from that date and to remain in force until 31 March 2006.",
+      "id": "s35"
+    },
+    {
+      "text": "10 Clause 3 of the Certified Agreement sets out rates of pay for persons employed in the classification 'storeperson', in various grades.",
+      "id": "s36"
+    },
+    {
+      "text": "From 1 April 2004, the rate fixed for a storeperson grade 2A is $790.",
+      "id": "s37"
+    },
+    {
+      "text": "The hourly rate is $21.95.",
+      "id": "s38"
+    },
+    {
+      "text": "Clause 6 of the Certified Agreement makes provision for increments and allowances of various kinds.",
+      "id": "s39"
+    },
+    {
+      "text": "Clause 8.B contains provision for part-time employees.",
+      "id": "s40"
+    },
+    {
+      "text": "Clause 8.B.4 is headed 'Rate of pay'.",
+      "id": "s41"
+    },
+    {
+      "text": "It provides:\n \n\n \n 'Part-time employees will receive the ordinary time rate of pay for the classification.",
+      "id": "s42"
+    },
+    {
+      "text": "The hourly divisor shall be 1/36th of the weekly rate of pay for the classification.",
+      "id": "s43"
+    },
+    {
+      "text": "Service increments will apply subject to an hour's service criteria being achieved.",
+      "id": "s44"
+    },
+    {
+      "text": "The service increment will be calculated and paid as an hourly rate, being 1/36th of the weekly service increment.",
+      "id": "s45"
+    },
+    {
+      "text": "' \n \n \n\n11 It seems clear that, as counsel for the applicant put it, the intention of the second sentence of this clause is that the hourly divisor should be 36.",
+      "id": "s46"
+    },
+    {
+      "text": "To use 1/36 as a divisor would produce a result that is plainly unintended.",
+      "id": "s47"
+    },
+    {
+      "text": "The hourly rate of $21.95, fixed in cl 3, is in fact 1/36 of $790 rounded to the next five cents above.",
+      "id": "s48"
+    },
+    {
+      "text": "12 Clause 8.C of the Certified Agreement deals with casual employment.",
+      "id": "s49"
+    },
+    {
+      "text": "Clause 8.C.2, dealing with minimum and maximum hours, provides that the amount paid to a casual employee, exclusive of overtime, 'will not exceed the weekly ordinary time wage rate for the classification on that specific shift.",
+      "id": "s50"
+    },
+    {
+      "text": "' Clause 8.C.3, dealing with the rate of pay, provides that casual employees will receive 'the base ordinary time rate of pay for the classification', together with a loading.",
+      "id": "s51"
+    },
+    {
+      "text": "13 Clause 9 of the Certified Agreement deals with the spread of ordinary hours and with premiums for shift work.",
+      "id": "s52"
+    },
+    {
+      "text": "14 Clause 16.a of the Certified Agreement provides that weekly employees will accrue sick pay, 'on ordinary pay'.",
+      "id": "s53"
+    },
+    {
+      "text": "Clause 17 provides for an entitlement to annual leave 'on ordinary pay'.",
+      "id": "s54"
+    },
+    {
+      "text": "It contains a specific provision, cl 17.g), that 'An employees [ sic ] ordinary pay for the purposes of annual leave payment, is defined in Clause 28 Definitions.",
+      "id": "s55"
+    },
+    {
+      "text": "' Clause 18.b) deals with rates of pay for work on public holidays, and provides that 'The public holiday rate is payable in lieu of the employee's ordinary time rate of pay.",
+      "id": "s56"
+    },
+    {
+      "text": "' Clause 24 relates to the respondent's obligation to supplement amounts received by an injured employee by way of workers' compensation.",
+      "id": "s57"
+    },
+    {
+      "text": "Its provisions are complex.",
+      "id": "s58"
+    },
+    {
+      "text": "The phrase 'the total ordinary weekly rate' appears frequently in them.",
+      "id": "s59"
+    },
+    {
+      "text": "Clause 27 provides that a weekly employee required to attend jury service during ordinary working hours is to be paid an amount equal to the difference between the amount paid for attendance at jury service and 'their ordinary pay for that period.",
+      "id": "s60"
+    },
+    {
+      "text": "'\n \n\n \n15 Clause 28 of the Certified Agreement contains three definitions of terms used within it.",
+      "id": "s61"
+    },
+    {
+      "text": "For present purposes, the following definition is important:\n \n\n \n '\"Ordinary Pay\" for the purposes of this agreement shall mean the level of remuneration for the employee's normal average weekly number of hours of work calculated at the ordinary time rate of pay inclusive of any penalties and/or shift premiums (for regular ordinary hours worked).",
+      "id": "s62"
+    },
+    {
+      "text": "' \n \n \n\n16 Clause 33.c) provides that shop stewards and employee representatives 'will receive their regular ordinary time rate of pay whilst attending management authorised meetings'.",
+      "id": "s63"
+    },
+    {
+      "text": "17 Clause 38 of the Certified Agreement provides:\n \n\n \n 'Long Service Leave entitlements will apply in accordance with the provisions of the appropriate Victorian State Legislation as applying at the time of certification.",
+      "id": "s64"
+    },
+    {
+      "text": "' \n \n \n\n18 Clause 45.c), which deals with redundancy entitlements, uses the phrases 'ordinary time rate of pay' and 'ordinary time rates'.",
+      "id": "s65"
+    },
+    {
+      "text": "Long service leave provisions \n \n\n \n19 It is agreed that the provisions of the appropriate Victorian legislation, applying at the time of certification of the Certified Agreement, in relation to long service leave are found in the Long Service Leave Act 1992 (Vic) ('the LSL Act').",
+      "id": "s66"
+    },
+    {
+      "text": "Specifically, those provisions are found in Div 6 of Pt 5 of the LSL Act.",
+      "id": "s67"
+    },
+    {
+      "text": "Section 56 provides for the basic entitlement to long service leave as follows:\n \n\n \n 'An employee is entitled to-- \n \n \n \n (a) 13 weeks of long service leave on ordinary pay on completing 15 years of continuous employment with one employer; and \n \n \n \n (b) 4 1/3 weeks of long service leave on ordinary pay on completing each \n period of 5 years of continuous employment with that employer after \n the first 15 years of continuous employment with that employer.",
+      "id": "s68"
+    },
+    {
+      "text": "' \n \n \n\n20 Section 64 of the LSL Act contains provisions defining 'ordinary pay'.",
+      "id": "s69"
+    },
+    {
+      "text": "So far as relevant, those provisions are as follows:\n \n\n \n '(1) For the purposes of this Division, \"ordinary pay\" means the pay an \n employee is entitled to receive at the time he or she takes long service \n leave for working his or her normal weekly hours at his or her \n ordinary time rate of pay.",
+      "id": "s70"
+    },
+    {
+      "text": "(2) Ordinary pay includes the cash value of any board or lodging that the \n employee receives from his or her employer.",
+      "id": "s71"
+    },
+    {
+      "text": "(3) If no ordinary time rate of pay is fixed for an employee's work under \n the relevant employment agreement, the employee's ordinary time \n rate of pay is to be taken to be the average weekly rate earned by him \n or her in the 12 months immediately before he or she takes long \n service leave.",
+      "id": "s72"
+    },
+    {
+      "text": "(4) If no normal weekly number of hours of work is fixed for an employee \n under the relevant employment agreement, the employee's normal \n weekly number of hours is to be taken to be the average weekly \n number of hours worked by him or her in the 12 months immediately \n before he or she takes long service leave.",
+      "id": "s73"
+    },
+    {
+      "text": "' \n \n \n\n21 It might be thought that the references to 'the relevant employment agreement' in subss (3) and (4) would be apt to direct the attention of the reader in the present case to the Certified Agreement.",
+      "id": "s74"
+    },
+    {
+      "text": "This does not appear to be the case, as the phrase 'Employment Agreement' is defined in s 4 of the LSL Act as meaning an agreement entered into under Pt 2 of the LSL Act.",
+      "id": "s75"
+    },
+    {
+      "text": "Part 2 of the LSL Act was repealed several years ago.",
+      "id": "s76"
+    },
+    {
+      "text": "It provided for the making of collective agreements, to which force and effect was given by the law of Victoria.",
+      "id": "s77"
+    },
+    {
+      "text": "As a defined expression, 'Employment Agreement' in the LSL Act is inappropriate to apply to a collective agreement to which force and effect is given by the WR Act.",
+      "id": "s78"
+    },
+    {
+      "text": "Choosing between definitions \n \n\n \n22 On the assumption that the application of the definition of 'ordinary pay' in cl 28 of the Certified Agreement led to a result different from the application of the definition of 'ordinary pay' in s 64 of the LSL Act, the applicant contended that the former definition was the correct one.",
+      "id": "s79"
+    },
+    {
+      "text": "Counsel for the applicant pointed to the exhaustive nature of the definition in cl 28 and the fact that it was expressed to be a definition applicable 'for the purposes of this agreement'; to the presumption of consistency in the use of the same term throughout a document; and to English authority on the resolution of conflict between the terms of a document and the terms of another document incorporated by reference into the first document.",
+      "id": "s80"
+    },
+    {
+      "text": "23 Counsel for the respondent contended to the contrary.",
+      "id": "s81"
+    },
+    {
+      "text": "He contended that the definition in cl 28 of the Certified Agreement was applicable only to provisions of the Certified Agreement actually using the words 'ordinary pay', namely cll 16.a, 17 and 17.g), and 27.",
+      "id": "s82"
+    },
+    {
+      "text": "He argued that, as cl 38 does not use that phrase, it is not subject to the definition.",
+      "id": "s83"
+    },
+    {
+      "text": "Alternatively, any inconsistency should be resolved by reference to the principle that conflict between a general and a specific provision should be resolved in favour of the specific provision.",
+      "id": "s84"
+    },
+    {
+      "text": "He pointed to the failure of cl 38 to contain a provision similar to that in cl 17.g), specifically invoking the cl 28 definition.",
+      "id": "s85"
+    },
+    {
+      "text": "24 Both parties were in agreement that cl 38 incorporated by reference the provisions of the LSL Act, and did not merely preserve their operation as part of the law of Victoria.",
+      "id": "s86"
+    },
+    {
+      "text": "The fact that the provisions to which cl 38 refers are only those applying at the time of certification of the Certified Agreement suggests strongly that the intention of cl 38 was to give those provisions operation as part of the Certified Agreement, rather than to recognise their continued operation as part of the law of Victoria, in the absence of a federal instrument covering the relevant field.",
+      "id": "s87"
+    },
+    {
+      "text": "Compare Seymour v Stawell Timber Industries Pty Ltd (1985) 9 FCR 241 at 261-265 per Gray J.",
+      "id": "s88"
+    },
+    {
+      "text": "25 The arguments resting on the exhaustive nature of the definition in cl 28 of the Certified Agreement, and the presumption of consistency in the use of terms are weakened substantially in the present case.",
+      "id": "s89"
+    },
+    {
+      "text": "It is true that the definition in cl 28 is unqualified by words such as 'unless a contrary intention appears' or 'unless the context otherwise requires'.",
+      "id": "s90"
+    },
+    {
+      "text": "It is a 'means', and not an 'includes' definition, and is therefore taken to be exhaustive.",
+      "id": "s91"
+    },
+    {
+      "text": "See the Queen in Right of the State of Victoria v Australian Teachers Union (1993) 47 IR 328 at 332.",
+      "id": "s92"
+    },
+    {
+      "text": "The difficulty is that cl 38 does not itself use the defined term; rather, it imports provisions that use the same expression, but which also include a definition of that term as used.",
+      "id": "s93"
+    },
+    {
+      "text": "It is easy to construe cl 38 as involving the importation of provisions relating to long service leave as a code on that subject, the content of which does not have to fit within the framework of the rest of the Certified Agreement.",
+      "id": "s94"
+    },
+    {
+      "text": "It is as if the imported provisions contained a term other than 'ordinary pay', with a different meaning.",
+      "id": "s95"
+    },
+    {
+      "text": "26 There is no doubt that consistency in the use of terminology, particularly defined terms, is to be valued highly in any document.",
+      "id": "s96"
+    },
+    {
+      "text": "Inconsistency in the use of the same or similar words produces confusion in the interpretation of documents.",
+      "id": "s97"
+    },
+    {
+      "text": "This is why there is a presumption that a word used in one provision of a statute has the same meaning when it is used in another provision of the same statute.",
+      "id": "s98"
+    },
+    {
+      "text": "In statutory construction, consistency of use is no more than a presumption, and a fragile one at that.",
+      "id": "s99"
+    },
+    {
+      "text": "In Clyne v Deputy Commissioner of Taxation [1981] HCA 40 ; (1981) 150 CLR 1 at 10, Gibbs CJ described it as 'not a presumption of very much weight'.",
+      "id": "s100"
+    },
+    {
+      "text": "His Honour said, 'there is no rigid rule; it all depends on the context'.",
+      "id": "s101"
+    },
+    {
+      "text": "In the same case at 15, Mason J (with whom Aickin and Wilson JJ concurred) said that the presumption 'readily yields to the context'.",
+      "id": "s102"
+    },
+    {
+      "text": "If the presumption of consistent use of terminology is so weak in legislative drafting, it must be even weaker in the context of a Certified Agreement.",
+      "id": "s103"
+    },
+    {
+      "text": "Typically, such agreements are the product of hard negotiation, in which wording of particular clauses is often agreed without reference to other provisions of the same document.",
+      "id": "s104"
+    },
+    {
+      "text": "Provisions are commonly transmitted from one agreement to the next in a series, without regard to whether their terminology sits well with the words used in newly adopted terms.",
+      "id": "s105"
+    },
+    {
+      "text": "The use of other agreements, and awards, as precedents can often result in the borrowing of provisions, again without regard to whether the words used in them are consistent with the rest of the agreement under consideration.",
+      "id": "s106"
+    },
+    {
+      "text": "For these and other reasons, consistency will often be absent.",
+      "id": "s107"
+    },
+    {
+      "text": "It is easy to see that the same word can be used in different provisions with different meanings.",
+      "id": "s108"
+    },
+    {
+      "text": "27 As well as providing examples of inconsistent use of style in numbering and lettering clauses, the Certified Agreement itself provides examples of inconsistency of terminology when it is likely that the same meaning is intended.",
+      "id": "s109"
+    },
+    {
+      "text": "For instance, it is not easy to see that the references to 'weekly ordinary time wage rate' and 'base ordinary time rate of pay' in cl 8.C.2 and 8.C.3 respectively are intended to mean anything different from 'ordinary time rate of pay' in cl 8.B.4 and in the definition of 'Ordinary Pay' in cl 28.",
+      "id": "s110"
+    },
+    {
+      "text": "A similar observation might be made about 'regular ordinary time rate of pay' in cl 33.c) and 'total ordinary weekly rate' in cl 24.",
+      "id": "s111"
+    },
+    {
+      "text": "Nor is there consistency in the approach to the rate of pay for the various types of leave for which the Certified Agreement provides.",
+      "id": "s112"
+    },
+    {
+      "text": "Clause 19 does not use the term 'ordinary pay', and does not have any other provision as to how the rate of pay for compassionate leave is to be calculated.",
+      "id": "s113"
+    },
+    {
+      "text": "28 The choice of incorporation by reference, as the means of providing for long service leave entitlements, itself provides a sufficient reason for ousting the presumption that terminology is used consistently.",
+      "id": "s114"
+    },
+    {
+      "text": "As I have said, the term 'ordinary pay' comes complete with its own definition in the provisions incorporated by reference.",
+      "id": "s115"
+    },
+    {
+      "text": "It is as if the provisions incorporated by reference contained different terminology.",
+      "id": "s116"
+    },
+    {
+      "text": "29 Counsel for the applicant relied on Modern Buildings Wales Ltd v Limmer and Trinidad Co Ltd [1975] 2 All ER 549.",
+      "id": "s117"
+    },
+    {
+      "text": "In that case, there was a question whether a standard form contract, known as the 'green form', which contained an arbitration clause, had been incorporated by reference into a building contract, although misdescribed in the terms of the building contract itself.",
+      "id": "s118"
+    },
+    {
+      "text": "The Court of Appeal, consisting of Buckley and Ormrod LJJ, held that the green form had been incorporated by reference, and that a proceeding brought to enforce the building contract ought to be stayed pending arbitration, in accordance with the \n \narbitration clause.",
+      "id": "s119"
+    },
+    {
+      "text": "Buckley LJ dealt with one of the arguments supporting the proposition that the green form had not been incorporated by reference at 555-556 as follows:\n \n\n \n 'Counsel for the plaintiffs has suggested that the written contract contains insufficient indication how various matters that are left in blank in the green form contract, and in particular in the appendix to the contract, which relates to such matters as the completion period, the retention money and so forth, should be filled in.",
+      "id": "s120"
+    },
+    {
+      "text": "Where parties by an agreement import the terms of some other document as part of their agreement those terms must be imported in their entirety, in my judgment, but subject to this: that if any of the imported terms in any way conflicts with the expressly agreed terms, the latter must prevail over what would otherwise be imported.",
+      "id": "s121"
+    },
+    {
+      "text": "Here it is not disputed that the written contract between the parties, consisting of the quotation and the order, contains all the essential terms of the contract, and, in my judgment, the green form of contract must be treated as forming part of the written contract, subject to any modifications that may be necessary to make the clauses in the green form accord in all respects with the express terms agreed between the parties.",
+      "id": "s122"
+    },
+    {
+      "text": "' [Emphasis added]\n \n \n\nOrmrod LJ agreed with Buckley LJ and did not comment specifically on the issue of the gaps in the green form.",
+      "id": "s123"
+    },
+    {
+      "text": "30 Counsel for the applicant contended that the principle to be derived from Modern Buildings , as stated by Buckley LJ, was that, when the terms of a document are incorporated by reference into an agreement, the terms are only imported into the agreement to the extent to which they are not inconsistent with the express terms of the agreement.",
+      "id": "s124"
+    },
+    {
+      "text": "Plainly, the principle cannot be this broad.",
+      "id": "s125"
+    },
+    {
+      "text": "Buckley LJ was speaking of a term that 'conflicts with the expressly agreed terms', not a term that would be inconsistent only in the sense that its application would produce a different result from that produced by the application of the express terms of the agreement.",
+      "id": "s126"
+    },
+    {
+      "text": "In the absence of conflict between terms, there is no reason why full effect should not be given to the choice of the parties to incorporate provisions by reference.",
+      "id": "s127"
+    },
+    {
+      "text": "In the present case, there is no conflict between the definition in cl 28 of the Certified Agreement and the definition of 'ordinary pay' in the LSL Act.",
+      "id": "s128"
+    },
+    {
+      "text": "It is only that the application of the two definitions to the expression 'ordinary pay', which happens to be common to both the provisions incorporated by reference and the express terms of the Certified Agreement, might produce different results.",
+      "id": "s129"
+    },
+    {
+      "text": "Such different results would not involve derogation from the express terms of the Certified Agreement.",
+      "id": "s130"
+    },
+    {
+      "text": "There is, therefore, no possibility of conflict.",
+      "id": "s131"
+    },
+    {
+      "text": "There is no reason why the choice of the parties to have entitlements to long service leave determined by the application of the provisions of the LSL Act should not be given full effect.",
+      "id": "s132"
+    },
+    {
+      "text": "31 Counsel for the applicant contended that the past conduct of the parties could be relied upon as an aid in the construction of the Certified Agreement.",
+      "id": "s133"
+    },
+    {
+      "text": "There is authority that, if a provision has appeared in a series of agreements between the same parties, and if they can be shown to have conducted themselves according to a common understanding of the meaning of that provision, then it can be taken that they have agreed that the term should continue to have the commonly understood meaning in the current agreement.",
+      "id": "s134"
+    },
+    {
+      "text": "See Merchant Service Guild of Australia v Sydney Steam Collier Owners &amp; Coal Stevedores Association (1958) 1 FLR 248 at 251 per Spicer CJ, 254 per Dunphy J and 257 per Morgan J, and Printing &amp; Kindred Industries Union v Davies Bros Ltd (1986) 18 IR 444 at 452-453.",
+      "id": "s135"
+    },
+    {
+      "text": "It is necessary to take great care in the application of this limited principle, to avoid infringing the general principle that the conduct of parties to an agreement cannot be taken into account in construing the agreement.",
+      "id": "s136"
+    },
+    {
+      "text": "For the limited principle to operate, there must be clear evidence that the parties have acted upon a common understanding as to the meaning of the relevant provision and not for other reasons, such as common inadvertence as to its true meaning.",
+      "id": "s137"
+    },
+    {
+      "text": "See Australian Liquor, Hospitality and Miscellaneous Workers Union v Prestige Property Services Pty Ltd [2006] FCA 11 at [44] .",
+      "id": "s138"
+    },
+    {
+      "text": "32 In the present case, there is no evidence to indicate that there was any common understanding between the applicant and the respondent about the meaning of the relevant clauses in preceding agreements.",
+      "id": "s139"
+    },
+    {
+      "text": "All that has been established is that, until 2004, the respondent had a practice of paying employees entitled to long service leave at a rate of pay inclusive of penalties and shift premiums, if applicable.",
+      "id": "s140"
+    },
+    {
+      "text": "There is no evidence as to why it did this.",
+      "id": "s141"
+    },
+    {
+      "text": "The reason might have been inadvertence on the part of those responsible for making the payments as to the presence of the definition in the LSL Act.",
+      "id": "s142"
+    },
+    {
+      "text": "It may have been an act of generosity on the part of the respondent, from which it has now resiled.",
+      "id": "s143"
+    },
+    {
+      "text": "There is no evidence that any relevant person on the applicant's side was aware of the respondent's practice of making payments at the higher rate, much less of any belief on the part of any relevant officer of the applicant that payment at the higher rate represented the appropriate construction of the relevant provisions.",
+      "id": "s144"
+    },
+    {
+      "text": "There is therefore no evidence of a settled interpretation, of which the parties had a common understanding.",
+      "id": "s145"
+    },
+    {
+      "text": "33 Counsel for the applicant also urged the adoption of a purposive construction.",
+      "id": "s146"
+    },
+    {
+      "text": "He contended that the purpose of the provision of the Certified Agreement relating to long service leave was to benefit employees by rewarding them for their loyalty to the respondent over a long period.",
+      "id": "s147"
+    },
+    {
+      "text": "The identification of such a purpose is easy, of course.",
+      "id": "s148"
+    },
+    {
+      "text": "It is more difficult to identify the more specific purpose necessary to resolve this dispute, namely the extent to which it is intended to benefit long-serving employees.",
+      "id": "s149"
+    },
+    {
+      "text": "Have the parties, by their incorporation by reference of the provisions of the LSL Act, adopted the purpose of rewarding those employees at the rate required by the definition of 'ordinary pay' in those provisions, or have they retained the purpose of rewarding those employees at a rate calculated according to the definition in cl 28 of the Certified Agreement?",
+      "id": "s150"
+    },
+    {
+      "text": "This is the very question that must be answered in order to determine the entitlement of employees who take long service leave, so there seems little point in endeavouring to answer it in order to ascertain a purpose, in order to apply a purposive interpretation.",
+      "id": "s151"
+    },
+    {
+      "text": "34 There can be no doubt that the respondent's change of practice as to the rate at which it pays long service leave appears mean-spirited.",
+      "id": "s152"
+    },
+    {
+      "text": "Insistence on strict legal rights by a large employer with a profitable business might not be the best policy.",
+      "id": "s153"
+    },
+    {
+      "text": "At issue in the present proceeding are the rights of the parties, however, and not the wisdom of the respondent's actions.",
+      "id": "s154"
+    },
+    {
+      "text": "I am unable to say that the respondent has acted in accordance with a wrong interpretation of the Certified Agreement in applying the definition of 'ordinary pay' in the LSL Act, rather than that appearing in cl 28 of the Certified Agreement.",
+      "id": "s155"
+    },
+    {
+      "text": "It is therefore necessary to examine the definition in the LSL Act, for the purpose of determining whether it provides an entitlement for Mr Jamieson that remains unmet by the respondent.",
+      "id": "s156"
+    },
+    {
+      "text": "The meaning of the statutory definition of 'ordinary pay' \n \n\n \n35 Counsel for the applicant argued that, because of the manner in which cl 9 of the Certified Agreement is expressed, the definition of 'ordinary pay' in s 64 of the LSL Act includes penalties and shift premiums in any event.",
+      "id": "s157"
+    },
+    {
+      "text": "36 This argument recognised that the phrase 'ordinary time rate of pay', which is used in both of the definitions relevant to the present case, and similar phrases have acquired a technical meaning in Australian law.",
+      "id": "s158"
+    },
+    {
+      "text": "See Catlow v Accident Compensation Commission [1989] HCA 43 ; (1989) 167 CLR 543 at 555-556 per Dawson J and 560-561 per McHugh J, with whom Deane J concurred; Scott v Sun Alliance Australia Ltd [1993] HCA 46 ; (1993) 178 CLR 1 at 7-8; Kucks v CSR Ltd (1996) 66 IR 182 at 185-186; Australasian Meat Industry Employees Union v Coles Supermarkets Australia Pty Ltd (1998) 80 IR 208 at 213-215; and Australian Communication Exchange Ltd v Deputy Commissioner of Taxation [2003] HCA 55 (2003) 201 ALR 271 at [27] , [35] and [45] per McHugh, Gummow, Callinan and Heydon JJ.",
+      "id": "s159"
+    },
+    {
+      "text": "In Scott , in the passage to which I have referred, the High Court made it clear that, where the expression 'ordinary time rate of pay' is used in relation to conditions of work fixed by an industrial award or collective agreement, it is a reference to the rate of pay for 'the fixed standard hours as opposed to overtime or usual or customary time.",
+      "id": "s160"
+    },
+    {
+      "text": "'\n \n\n \n37 The expression 'the ordinary time rate of pay' is used in the Certified Agreement itself.",
+      "id": "s161"
+    },
+    {
+      "text": "It appears in the definition of 'ordinary pay' in cl 28.",
+      "id": "s162"
+    },
+    {
+      "text": "It also appears in cll 8.B.4, 18.b), 33.c), and 45.c), and, with the variations to which I have referred, in cll 8.C.2 and 8.C.3.",
+      "id": "s163"
+    },
+    {
+      "text": "The expression 'ordinary time rate of pay' is not defined in the Certified Agreement.",
+      "id": "s164"
+    },
+    {
+      "text": "It must be taken that it is used in the technical sense recognised in the authorities.",
+      "id": "s165"
+    },
+    {
+      "text": "This is undoubtedly the reason for the inclusion in the definition of 'ordinary pay' in cl 28 of the specific words 'inclusive of any penalties and/or shift premiums (for regular ordinary hours worked).",
+      "id": "s166"
+    },
+    {
+      "text": "' Without the inclusion of those words, penalties and shift premiums would be excluded from the ordinary time rate of pay as the expression has come to be understood.",
+      "id": "s167"
+    },
+    {
+      "text": "38 Clause 9 of the Certified Agreement, defining ordinary hours, contains a series of rates of pay, expressed as percentages.",
+      "id": "s168"
+    },
+    {
+      "text": "Ordinary hours worked Monday to Friday attract a rate of 100 per cent, ordinary hours on Saturday 150 per cent and ordinary hours on Sunday 200 per cent.",
+      "id": "s169"
+    },
+    {
+      "text": "For those working on afternoon shift, finishing after 6.00 pm and at or before midnight, the rate for ordinary hours worked Monday to Friday is 130 per cent, for ordinary hours worked on Saturday 180 per cent and for ordinary hours worked on Sunday 230 per cent.",
+      "id": "s170"
+    },
+    {
+      "text": "For those on night shift, finishing after midnight and at or before 8.00 am, ordinary hours worked Monday to Friday are paid at 135 per cent, ordinary hours worked on Saturday at 185 per cent and ordinary hours worked on Sunday at 235 per cent.",
+      "id": "s171"
+    },
+    {
+      "text": "The contention of counsel for the applicant is that, because all of these work periods are described as 'ordinary hours', then the ordinary time rate of pay is the percentage appropriate to the time or times at which the hours were worked by each individual employee.",
+      "id": "s172"
+    },
+    {
+      "text": "39 Not only does this argument run counter to the accepted meaning of 'ordinary time rate of pay', it is also incorrect in terms of the Certified Agreement itself.",
+      "id": "s173"
+    },
+    {
+      "text": "If it were correct, there would have been no need for the specific inclusion of penalties and shift premiums in the definition of 'ordinary pay' in cl 28.",
+      "id": "s174"
+    },
+    {
+      "text": "Plainly, the percentages greater than 100 specified in cl 9 are by way of shift premiums and penalties, to compensate employees for the inconvenience of working outside what are regarded as traditional working hours, during daytime from Monday to Friday.",
+      "id": "s175"
+    },
+    {
+      "text": "It is clear that, for the purposes of the phrase 'ordinary time rate of pay', both in its generally understood meaning and in its meaning when it is used in the Certified Agreement, the rate is 100 per cent and not a greater rate.",
+      "id": "s176"
+    },
+    {
+      "text": "Conclusion \n \n\n \n40 For these reasons, the applicant has failed to establish that it is entitled to an interpretation of the Certified Agreement in the terms it seeks.",
+      "id": "s177"
+    },
+    {
+      "text": "The respondent did not put forward an alternative interpretation, which it would seek to have the Court declare, if the applicant's case failed.",
+      "id": "s178"
+    },
+    {
+      "text": "The applicant has failed to establish breach of a term of the Certified Agreement with respect to the rate of pay for Mr Jamieson during his long service leave.",
+      "id": "s179"
+    },
+    {
+      "text": "The other orders sought by the applicant are dependent upon the establishment of such a breach.",
+      "id": "s180"
+    },
+    {
+      "text": "It follows that the entire application must be dismissed.",
+      "id": "s181"
+    },
+    {
+      "text": "As the proceeding is subject to s 347 of the WR Act, and can hardly be said to have been instituted vexatiously or without reasonable cause, no order for costs can be made.",
+      "id": "s182"
+    },
+    {
+      "text": "41 There can be no doubt that the result of this proceeding points to an anomaly, both in terms of the respondent's past practice with respect to payment for long service leave and with respect to the rate of pay for long service leave when compared with other forms of leave for which the Certified Agreement provides.",
+      "id": "s183"
+    },
+    {
+      "text": "It is an anomaly that might have significant effects on the capacity of employees entitled to long service leave to maintain their financial commitments during that leave.",
+      "id": "s184"
+    },
+    {
+      "text": "Whilst the respondent is entitled to insist on its rights under the Certified Agreement, it might wish to consider whether such insistence in such circumstances is destructive of a greater good in its relations with its employees.",
+      "id": "s185"
+    },
+    {
+      "text": "I certify that the preceding forty-one (41) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Gray.",
+      "id": "s186"
+    },
+    {
+      "text": "Associate:\n\nDated: 25 May 2006\n\n\n Counsel for the applicant: Mr K Farouque \n \n Solicitor for the applicant: Maurice Blackburn Cashman \n \n Counsel for the respondent: Mr M McDonald SC \n \n Solicitor for the respondent: Blake Dawson Waldron \n \n Date of Hearing: 8 June 2005 \n \n Date of Judgment: 25 May 2006 \n\n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2006/616.html",
+      "id": "s187"
+    }
+  ]
+}

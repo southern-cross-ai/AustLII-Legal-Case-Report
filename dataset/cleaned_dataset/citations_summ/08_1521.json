@@ -1,0 +1,680 @@
+[
+  {
+    "text": "administrative law",
+    "id": "cp1.0",
+    "type": "cited",
+    "from": "[2007]"
+  },
+  {
+    "text": "judicial review",
+    "id": "cp1.1",
+    "type": "cited",
+    "from": "[2007]"
+  },
+  {
+    "text": "practice and procedure",
+    "id": "cp1.2",
+    "type": "cited",
+    "from": "[2007]"
+  },
+  {
+    "text": "judicial review of ministerial decision",
+    "id": "cp1.3",
+    "type": "cited",
+    "from": "[2007]"
+  },
+  {
+    "text": "statement of claim filed with application",
+    "id": "cp1.4",
+    "type": "cited",
+    "from": "[2007]"
+  },
+  {
+    "text": "whether proceedings should continue on pleadings",
+    "id": "cp1.5",
+    "type": "cited",
+    "from": "[2007]"
+  },
+  {
+    "text": "whether discovery should be ordered",
+    "id": "cp1.6",
+    "type": "cited",
+    "from": "[2007]"
+  },
+  {
+    "text": "relevant to whether minister considered relevant factors in \"a real sense\" and undertook \"active intellectual process\"",
+    "id": "cp1.7",
+    "type": "cited",
+    "from": "[2007]"
+  },
+  {
+    "text": "pleadings unwarranted",
+    "id": "cp1.8",
+    "type": "cited",
+    "from": "[2007]"
+  },
+  {
+    "text": "statement of claim to stand as statement of case",
+    "id": "cp1.9",
+    "type": "cited",
+    "from": "[2007]"
+  },
+  {
+    "text": "discovery declined subject to justification for particular discovery",
+    "id": "cp1.10",
+    "type": "cited",
+    "from": "[2007]"
+  },
+  {
+    "text": "migration",
+    "id": "cp2.0",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "s 501 of the migration act 1958",
+    "id": "cp2.1",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "submissions which included draft reasons for minister",
+    "id": "cp2.2",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "material exaggeration in draft reasons",
+    "id": "cp2.3",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "lack of procedural fairness.",
+    "id": "cp2.4",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "administrative law",
+    "id": "cp3.0",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "superannuation",
+    "id": "cp3.1",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "claim for disability benefit",
+    "id": "cp3.2",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "application for review",
+    "id": "cp3.3",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "decision that superannuation complaints tribunal had no jurisdiction to hear complaint",
+    "id": "cp3.4",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "time limit on making complaint to tribunal",
+    "id": "cp3.5",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "whether a 'decision' was in fact made by trustee",
+    "id": "cp3.6",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "proper decision-maker",
+    "id": "cp3.7",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "delegation of authority",
+    "id": "cp3.8",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "presumption of regularity.",
+    "id": "cp3.9",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "administrative law",
+    "id": "cp8.0",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "judicial review",
+    "id": "cp8.1",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "natural justice",
+    "id": "cp8.2",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "application to set aside minister's decision",
+    "id": "cp8.3",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "aboriginal and torres strait islander heritage protection act 1984",
+    "id": "cp8.4",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "declaration made under s10",
+    "id": "cp8.5",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "procedural fairness",
+    "id": "cp8.6",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "whether excluded by statute",
+    "id": "cp8.7",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "nature of interest to be protected",
+    "id": "cp8.8",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "nature of process under heritage protection act",
+    "id": "cp8.9",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "legitimate expectations",
+    "id": "cp8.10",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "whether urgency justifies departure from natural justice",
+    "id": "cp8.11",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "delay of decision-maker's own making",
+    "id": "cp8.12",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "opportunity to respond to further information",
+    "id": "cp8.13",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "whether information new",
+    "id": "cp8.14",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "whether prejudice necessary",
+    "id": "cp8.15",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "credibility of representations",
+    "id": "cp8.16",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "whether minister considered representations   aborigines",
+    "id": "cp8.17",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "aboriginal and torres strait islander heritage protection act 1984",
+    "id": "cp8.18",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "sacred sites",
+    "id": "cp8.19",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "minister's decision to prohibit construction activities",
+    "id": "cp8.20",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "proposed crocodile farm",
+    "id": "cp8.21",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "whether minister considered representations",
+    "id": "cp8.22",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "confidential information   evidence",
+    "id": "cp8.23",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "administrative decisions (judicial review) act 1977",
+    "id": "cp8.24",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "s13 reasons",
+    "id": "cp8.25",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "weight to be given",
+    "id": "cp8.26",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "absence of other evidence",
+    "id": "cp8.27",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "inference to be drawn",
+    "id": "cp8.28",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "application of rule in jones v dunkel to judicial review proceedings",
+    "id": "cp8.29",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "failure of minister to call evidence",
+    "id": "cp8.30",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "administrative law",
+    "id": "cp9.0",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "decision made by respondent secretary of department of transport and communications under regulation 106b of air navigation regulations to approve timetable different from that previously submitted by applicant for international air service",
+    "id": "cp9.1",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "whether respondent made one decision or two",
+    "id": "cp9.2",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "meaning of \"decision\" for purposes of administrative decisions (judicial review) act 1977 .  practice and procedure",
+    "id": "cp9.3",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "whether court should make order setting aside respondent's decision",
+    "id": "cp9.4",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "considerations involved.  practice and procedure",
+    "id": "cp9.5",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "standing of applicant for statement of reasons pursuant to s.13 adjr act",
+    "id": "cp9.6",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "purpose of s.13",
+    "id": "cp9.7",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "entitlement to reasons not diminished by virtue of proceedings already commenced to set aside decision relating to s.13 statement.  practice and procedure",
+    "id": "cp9.8",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "circumstances where court should order decision-maker to furnish s.13 statement",
+    "id": "cp9.9",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "court generally not to order s.13 statement to be furnished where decision to which statement relates to be set aside.  administrative decisions (judicial review) act 1977 ss.5 , 13 ,  federal court of australia act 1976 s.23  judiciary act 1903-1976 s.39b",
+    "id": "cp9.10",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "administrative law",
+    "id": "cp10.0",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "evidence",
+    "id": "cp10.1",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "whether unverified statement under s.13 of the administrative decisions (judicial review) act 1977 (cth) admissible",
+    "id": "cp10.2",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "whether self-serving",
+    "id": "cp10.3",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "whether part of the res gestae  administrative law",
+    "id": "cp10.4",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "administrative decisions (judicial review) act 1977 (cth)",
+    "id": "cp10.5",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "s.13",
+    "id": "cp10.6",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "nature of s.13 statement  administrative law",
+    "id": "cp10.7",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "practice and procedure",
+    "id": "cp10.8",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "s.16(1) adjr act",
+    "id": "cp10.9",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "whether decision void or voidable",
+    "id": "cp10.10",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "whether trial judge failed to exercise discretion under s.16(1).  practice and procedure",
+    "id": "cp10.11",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "order 54 r.8 federal court rules",
+    "id": "cp10.12",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "court may dispense with cross-examination of decision-maker in judicial review proceedings.  administrative decisions (judicial review) act 1977 (cth), ss.13 , 16 (1)  evidence act 1905 (cth)",
+    "id": "cp10.13",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "ss.7a, 7b, 7c  migration act 1958 (cth)",
+    "id": "cp10.14",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "ss.38 , 39",
+    "id": "cp10.15",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "administrative law",
+    "id": "cp11.0",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "commissioner to inquire into land claims and report to minister",
+    "id": "cp11.1",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "report to contain recommendation if certain facts found",
+    "id": "cp11.2",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "requirement to comment on detriment to others of acting on recommendation",
+    "id": "cp11.3",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "report made in ignorance of certain material facts",
+    "id": "cp11.4",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "submissions by persons who would be detrimentally affected by recommended action",
+    "id": "cp11.5",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "reference to material facts not known to commissioner",
+    "id": "cp11.6",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "submissions not drawn to minister's attention",
+    "id": "cp11.7",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "whether failure to take relevant consideration into account",
+    "id": "cp11.8",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "administrative decision (judicial review) act 1977 (cth), s. 5(2)(b)",
+    "id": "cp11.9",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "aboriginal land rights (northern territory) act 1976,ss. 11(1), 50(3).  courts",
+    "id": "cp11.10",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "practice and procedure",
+    "id": "cp11.11",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "discretionary judgments",
+    "id": "cp11.12",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "appellate court",
+    "id": "cp11.13",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "functions",
+    "id": "cp11.14",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "allegation of improper exercise of power by minister",
+    "id": "cp11.15",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "discretion to refuse relief",
+    "id": "cp11.16",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "finding of trial judge that exercise not improper",
+    "id": "cp11.17",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "reversed on appeal",
+    "id": "cp11.18",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "exercise of discretion by appellate court",
+    "id": "cp11.19",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "further appeal",
+    "id": "cp11.20",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "grounds on which further appellate court will interfere with intermediate court's exercise of discretion.",
+    "id": "cp11.21",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "costs",
+    "id": "cp12.0",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "s 43 of the federal court of australia act 1976 (cth)",
+    "id": "cp12.1",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "whether court should depart from the ordinary rule that costs follow the result",
+    "id": "cp12.2",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "special circumstances shown",
+    "id": "cp12.3",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "applicant failed on issues originally argued",
+    "id": "cp12.4",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "applicant ultimately successful on different grounds",
+    "id": "cp12.5",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "applicant awarded only 50% of its costs",
+    "id": "cp12.6",
+    "type": "citing",
+    "from": "[2008]"
+  }
+]

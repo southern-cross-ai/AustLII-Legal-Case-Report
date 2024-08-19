@@ -1,0 +1,506 @@
+[
+  {
+    "text": "vendor and purchaser",
+    "id": "cp1.0",
+    "type": "cited",
+    "from": "[1988]"
+  },
+  {
+    "text": "contract of sale of land",
+    "id": "cp1.1",
+    "type": "cited",
+    "from": "[1988]"
+  },
+  {
+    "text": "balance of purchase price payable \"upon settlement\"",
+    "id": "cp1.2",
+    "type": "cited",
+    "from": "[1988]"
+  },
+  {
+    "text": "purported rescission by purchaser",
+    "id": "cp1.3",
+    "type": "cited",
+    "from": "[1988]"
+  },
+  {
+    "text": "no settlement or conveyance",
+    "id": "cp1.4",
+    "type": "cited",
+    "from": "[1988]"
+  },
+  {
+    "text": "guarantee of performance of contract",
+    "id": "cp1.5",
+    "type": "cited",
+    "from": "[1988]"
+  },
+  {
+    "text": "whether accrued liability to make payment",
+    "id": "cp1.6",
+    "type": "cited",
+    "from": "[1988]"
+  },
+  {
+    "text": "condition",
+    "id": "cp1.7",
+    "type": "cited",
+    "from": "[1988]"
+  },
+  {
+    "text": "performance required prior to settlement",
+    "id": "cp1.8",
+    "type": "cited",
+    "from": "[1988]"
+  },
+  {
+    "text": "whether actual date of settlement or date stipulated for settlement.",
+    "id": "cp1.9",
+    "type": "cited",
+    "from": "[1988]"
+  },
+  {
+    "text": "contract",
+    "id": "cp2.0",
+    "type": "cited",
+    "from": "[1978]"
+  },
+  {
+    "text": "bill of lading",
+    "id": "cp2.1",
+    "type": "cited",
+    "from": "[1978]"
+  },
+  {
+    "text": "provisions limiting liability",
+    "id": "cp2.2",
+    "type": "cited",
+    "from": "[1978]"
+  },
+  {
+    "text": "term that benefit of those provisions be available to servants and agents (including independent contractors) of carriers",
+    "id": "cp2.3",
+    "type": "cited",
+    "from": "[1978]"
+  },
+  {
+    "text": "carrier to be deemed to contract as agent or trustee for their benefit",
+    "id": "cp2.4",
+    "type": "cited",
+    "from": "[1978]"
+  },
+  {
+    "text": "whether third party stevedore can claim benefit of provisions",
+    "id": "cp2.5",
+    "type": "cited",
+    "from": "[1978]"
+  },
+  {
+    "text": "scope of exemption",
+    "id": "cp2.6",
+    "type": "cited",
+    "from": "[1978]"
+  },
+  {
+    "text": "himalaya clause",
+    "id": "cp2.7",
+    "type": "cited",
+    "from": "[1978]"
+  },
+  {
+    "text": "sea carriage of goods act 1924 (cth), s.9 (2).",
+    "id": "cp2.8",
+    "type": "cited",
+    "from": "[1978]"
+  },
+  {
+    "text": "vendor and purchaser",
+    "id": "cp3.0",
+    "type": "cited",
+    "from": "[1976]"
+  },
+  {
+    "text": "sale of land",
+    "id": "cp3.1",
+    "type": "cited",
+    "from": "[1976]"
+  },
+  {
+    "text": "contract of sale",
+    "id": "cp3.2",
+    "type": "cited",
+    "from": "[1976]"
+  },
+  {
+    "text": "refusal by purchaser to complete",
+    "id": "cp3.3",
+    "type": "cited",
+    "from": "[1976]"
+  },
+  {
+    "text": "anticipatory breach",
+    "id": "cp3.4",
+    "type": "cited",
+    "from": "[1976]"
+  },
+  {
+    "text": "suit for specific performance by vendor",
+    "id": "cp3.5",
+    "type": "cited",
+    "from": "[1976]"
+  },
+  {
+    "text": "continued refusal by purchaser to complete",
+    "id": "cp3.6",
+    "type": "cited",
+    "from": "[1976]"
+  },
+  {
+    "text": "whether vendor entitled to rescind and claim damages.",
+    "id": "cp3.7",
+    "type": "cited",
+    "from": "[1976]"
+  },
+  {
+    "text": "building contract",
+    "id": "cp4.0",
+    "type": "cited",
+    "from": "[1953]"
+  },
+  {
+    "text": "rescission",
+    "id": "cp4.1",
+    "type": "cited",
+    "from": "[1953]"
+  },
+  {
+    "text": "repudiation",
+    "id": "cp4.2",
+    "type": "cited",
+    "from": "[1953]"
+  },
+  {
+    "text": "powers of architect",
+    "id": "cp4.3",
+    "type": "cited",
+    "from": "[1953]"
+  },
+  {
+    "text": "direction to omit work",
+    "id": "cp4.4",
+    "type": "cited",
+    "from": "[1953]"
+  },
+  {
+    "text": "time of the essence",
+    "id": "cp4.5",
+    "type": "cited",
+    "from": "[1953]"
+  },
+  {
+    "text": "conduct consistent with continuance of contract",
+    "id": "cp4.6",
+    "type": "cited",
+    "from": "[1953]"
+  },
+  {
+    "text": "election not to rescind",
+    "id": "cp4.7",
+    "type": "cited",
+    "from": "[1953]"
+  },
+  {
+    "text": "notice requiring performance",
+    "id": "cp4.8",
+    "type": "cited",
+    "from": "[1953]"
+  },
+  {
+    "text": "continuing breach",
+    "id": "cp4.9",
+    "type": "cited",
+    "from": "[1953]"
+  },
+  {
+    "text": "failure to remedy breach",
+    "id": "cp4.10",
+    "type": "cited",
+    "from": "[1953]"
+  },
+  {
+    "text": "intention not to be bound",
+    "id": "cp4.11",
+    "type": "cited",
+    "from": "[1953]"
+  },
+  {
+    "text": "further breach",
+    "id": "cp4.12",
+    "type": "cited",
+    "from": "[1953]"
+  },
+  {
+    "text": "damages.",
+    "id": "cp4.13",
+    "type": "cited",
+    "from": "[1953]"
+  },
+  {
+    "text": "contracts",
+    "id": "cp5.0",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "general contractual principles",
+    "id": "cp5.1",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "offer and acceptance",
+    "id": "cp5.2",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "whether signed document constituted binding contract",
+    "id": "cp5.3",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "whether consideration illusory",
+    "id": "cp5.4",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "whether parties evinced intention immediately to be bound",
+    "id": "cp5.5",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "whether terms sufficiently certain to be enforceable",
+    "id": "cp5.6",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "held that there was a binding and enforceable contract",
+    "id": "cp5.7",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "held, further, that defendants estopped from denying binding contract. contracts",
+    "id": "cp5.8",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "general contractual principles",
+    "id": "cp5.9",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "construction and interpretation of contracts",
+    "id": "cp5.10",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "whether on proper construction of the contract obligation to pay \"consultants costs and costs ancillary to consultant's services\" [sic] extended to council lodgement fees",
+    "id": "cp5.11",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "held that it did not.contracts",
+    "id": "cp5.12",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "general contractual principles",
+    "id": "cp5.13",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "discharge, breach and defences to action for breach",
+    "id": "cp5.14",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "whether plaintiff breached obligation to pay consultants' costs \"in a timely manner\"",
+    "id": "cp5.15",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "whether plaintiff repudiated of the contract",
+    "id": "cp5.16",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "whether defendants' purported termination of contract itself amounted to repudiation",
+    "id": "cp5.17",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "held that plaintiff had breached obligation to pay consultants' fees in a timely manner",
+    "id": "cp5.18",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "held that this breach did not give rise to a right for the defendants to terminate",
+    "id": "cp5.19",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "held no repudiation by plaintiff",
+    "id": "cp5.20",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "held that the defendants repudiated contract by purporting to terminate contract.misleading or deceptive conduct",
+    "id": "cp5.21",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "whether plaintiff engaged in conduct that was misleading or deceptive",
+    "id": "cp5.22",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "whether representation to third party amounted to representation to first defendant",
+    "id": "cp5.23",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "whether first defendant entered contract by reason of the plaintiff's misleading or deceptive conduct",
+    "id": "cp5.24",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "held that plaintiff did engage in conduct that was misleading or deceptive",
+    "id": "cp5.25",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "held that conduct did not cause first defendant to enter into contract",
+    "id": "cp5.26",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "first defendant did not suffer loss or damage by reason of plaintiff's conduct.equity",
+    "id": "cp5.27",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "general principles",
+    "id": "cp5.28",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "fiduciary obligations",
+    "id": "cp5.29",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "whether parties engaged in joint venture",
+    "id": "cp5.30",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "whether defendants owed fiduciary duties to first plaintiff",
+    "id": "cp5.31",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "whether parties were partners",
+    "id": "cp5.32",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "held that parties both joint venturers and partners",
+    "id": "cp5.33",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "held that defendants owed fiduciary duties to plaintiff",
+    "id": "cp5.34",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "held that, on termination of joint venture/partnership, defendants could not arrogate whole benefit of joint venture/partnership to themselves",
+    "id": "cp5.35",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "benefits of joint venture/partnership held on constructive trust on terms of former partnership.",
+    "id": "cp5.36",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "evidence",
+    "id": "cp6.0",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "tendency evidence",
+    "id": "cp6.1",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "evidence sought to be adduced by applicant that the respondent's agent made similar representations to a number of purchasers of wheat",
+    "id": "cp6.2",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "whether the evidence would have significant probative value",
+    "id": "cp6.3",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "whether evidence admissible as reliance evidence",
+    "id": "cp6.4",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "whether evidence admissible as admissions",
+    "id": "cp6.5",
+    "type": "citing",
+    "from": "[2008]"
+  }
+]

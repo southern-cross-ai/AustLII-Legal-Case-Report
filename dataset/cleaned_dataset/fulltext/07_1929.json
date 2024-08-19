@@ -1,0 +1,1788 @@
+{
+  "name": "Seven Network v Australian Competition and Consumer Commission [2007] FCA 1929 (12 December 2007)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2007/1929.html",
+  "catchphrases": [
+    {
+      "text": "special access undertaking",
+      "id": "c0"
+    },
+    {
+      "text": "whether undertaking is subject to limitations",
+      "id": "c1"
+    },
+    {
+      "text": "whether terms and conditions are inconsistent with standard access obligations",
+      "id": "c2"
+    },
+    {
+      "text": "digital set top unit service",
+      "id": "c3"
+    },
+    {
+      "text": "declared service",
+      "id": "c4"
+    },
+    {
+      "text": "access agreement",
+      "id": "c5"
+    },
+    {
+      "text": "special access undertakings",
+      "id": "c6"
+    },
+    {
+      "text": "terms and conditions",
+      "id": "c7"
+    },
+    {
+      "text": "limitations",
+      "id": "c8"
+    },
+    {
+      "text": "standard access obligations",
+      "id": "c9"
+    },
+    {
+      "text": "judicial review",
+      "id": "c10"
+    },
+    {
+      "text": "words and phrases",
+      "id": "c11"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "BUCHANAN J: \n \n1 Under the statutory scheme establish by Part XIC of the Trade Practices Act 1974 (Cth) ('TP Act'), which it will be necessary to discuss in more detail, Foxtel offered an undertaking to the Australian Competition and Consumer Commission ('the ACCC') to provide services to telecommunication service providers which would allow them to transmit material to their own customers.",
+      "id": "s0"
+    },
+    {
+      "text": "The identified services were described in Appendix 1 to the undertaking in a way which did not limit them to Foxtel's customers either now or in the future.",
+      "id": "s1"
+    },
+    {
+      "text": "The method of delivery was described in a way which was not restricted to infrastructure or equipment provided or connected to Foxtel customers.",
+      "id": "s2"
+    },
+    {
+      "text": "2 A standard 'access agreement', which was Appendix 2 to the undertaking, identified in detail the circumstances in which Foxtel would actually provide the identified services.",
+      "id": "s3"
+    },
+    {
+      "text": "The terms of Appendix 2 made clear that Foxtel would be under no obligation to provide services to other telecommunication service providers using infrastructure or equipment which was not supplied by Foxtel pursuant to a current subscription arrangement with its individual customers.",
+      "id": "s4"
+    },
+    {
+      "text": "The practical effect of the stipulations was that Foxtel would not provide services to other telecommunication service providers which effectively allowed transmissions of material except to persons who were, at the relevant time, Foxtel's own customers who held a current subscription.",
+      "id": "s5"
+    },
+    {
+      "text": "3 Foxtel characterised the stipulations as 'terms and conditions' about the manner of delivery of services.",
+      "id": "s6"
+    },
+    {
+      "text": "Seven Network said they were a 'limitation' on the service identified.",
+      "id": "s7"
+    },
+    {
+      "text": "4 Both 'terms and conditions' and 'limitation' have special meanings in the statutory context.",
+      "id": "s8"
+    },
+    {
+      "text": "5 The central question for the ACCC was whether the stipulations in Appendix 2 were consistent with an obligation under the TP Act to make the services identified in Appendix 1 available to another service provider on request consistently with 'standard access obligations' set out in Part XIC.",
+      "id": "s9"
+    },
+    {
+      "text": "6 It did not find it necessary to decide whether the stipulations were more accurately described by Foxtel (terms and conditions about the manner of delivery of services) or Seven Network (a limitation on the service identified).",
+      "id": "s10"
+    },
+    {
+      "text": "That was because, on either view, it was satisfied that the undertaking by Foxtel met the statutory requirements.",
+      "id": "s11"
+    },
+    {
+      "text": "In particular, however the stipulations were characterised, the undertaking was consistent with the statutory obligation to provide access to the identified services on request by another service provider.",
+      "id": "s12"
+    },
+    {
+      "text": "7 Seven Network has brought the current proceedings under s 5 of the Administrative Decisions (Judicial Review) Act 1977 (Cth) ('the ADJR Act') and s 39B of the Judiciary Act 1903 (Cth) ('the Judiciary Act ') in order to challenge the decision of the ACCC to accept the undertaking.",
+      "id": "s13"
+    },
+    {
+      "text": "8 It claimed the following relief:\n \n '1.",
+      "id": "s14"
+    },
+    {
+      "text": "An order setting aside the Decision.",
+      "id": "s15"
+    },
+    {
+      "text": "2.",
+      "id": "s16"
+    },
+    {
+      "text": "Alternatively, a declaration that on a proper construction of the Undertaking, clauses 4.1(c)(i)(A) and 4.1(c)(i)(B) and 4.1(f) of the DAA [Appendix 2] are limitations within the meaning of section 152CBA(5) of the TPA.",
+      "id": "s17"
+    },
+    {
+      "text": "3.",
+      "id": "s18"
+    },
+    {
+      "text": "Costs.",
+      "id": "s19"
+    },
+    {
+      "text": "4.",
+      "id": "s20"
+    },
+    {
+      "text": "Such further or other orders as the Court thinks fit.",
+      "id": "s21"
+    },
+    {
+      "text": "' \n \n\n9 The questions to be decided are:\n \n1.",
+      "id": "s22"
+    },
+    {
+      "text": "Did the ACCC make an error of law by not deciding whether clauses 4.1(c)(i) and 4.1(f) in Appendix 2 were properly characterised as terms and conditions about the manner of delivery of services or as a limitation on the identified service?",
+      "id": "s23"
+    },
+    {
+      "text": "2.",
+      "id": "s24"
+    },
+    {
+      "text": "Did the ACCC make an error of law by deciding that these clauses, if properly characterised as terms and conditions about the manner of delivery of services, were consistent with 'standard access obligations'.",
+      "id": "s25"
+    },
+    {
+      "text": "3.",
+      "id": "s26"
+    },
+    {
+      "text": "Should the Court declare that these clauses are a limitation on the identified service (Foxtel invited the Court to say so if the answer to question 2 was 'yes'.",
+      "id": "s27"
+    },
+    {
+      "text": "Seven Network invited the Court to say so if the answers to questions 1 and 2 were 'no').",
+      "id": "s28"
+    },
+    {
+      "text": "The statutory context \n \n10 Part IIIA of the TP Act was introduced in 1995.",
+      "id": "s29"
+    },
+    {
+      "text": "It provides a general statutory regime facilitating and regulating access to essential facilities of national significance.",
+      "id": "s30"
+    },
+    {
+      "text": "It was introduced to give effect to the Competition Principles Agreement accepted by the Council of Australian Governments in April 1995 (see s 4 where the Competition Principles Agreement is identified and also Re Application for Review of the Decision by the Commonwealth Treasurer; Ex parte Australian Union of Students (1997) 147 ALR 458).",
+      "id": "s31"
+    },
+    {
+      "text": "11 Part XIC was introduced in 1997.",
+      "id": "s32"
+    },
+    {
+      "text": "It makes a series of specific provisions for a telecommunications access regime which operate exclusively of Part IIIA (see s 152CK).",
+      "id": "s33"
+    },
+    {
+      "text": "A 'simplified outline' is provided by s 152AA as follows:\n \n '&#8226; This Part sets out a telecommunications access regime.",
+      "id": "s34"
+    },
+    {
+      "text": "&#8226; The Commission may declare carriage services and related services to be declared services.",
+      "id": "s35"
+    },
+    {
+      "text": "&#8226; Carriers and carriage service providers who provide declared services are required to comply with standard access obligations in relation to those services.",
+      "id": "s36"
+    },
+    {
+      "text": "&#8226; The standard access obligations facilitate the provision of access to declared services by service providers in order that service providers can provide carriage services and/or content services.",
+      "id": "s37"
+    },
+    {
+      "text": "&#8226; The terms and conditions on which carriers and carriage service providers are required to comply with the standard access obligations are subject to agreement.",
+      "id": "s38"
+    },
+    {
+      "text": "&#8226; If agreement cannot be reached, but the carrier or carriage service provider has given an access undertaking , the terms and conditions are as set out in the access undertaking.",
+      "id": "s39"
+    },
+    {
+      "text": "&#8226; If agreement cannot be reached, but no access undertaking is in operation, the terms and conditions are to be determined by the Commission acting as an arbitrator.",
+      "id": "s40"
+    },
+    {
+      "text": "&#8226; An access undertaking (other than a special access undertaking) may adopt the terms and conditions set out in a telecommunications access code .",
+      "id": "s41"
+    },
+    {
+      "text": "&#8226; The Commission may conduct an arbitration of a dispute about access to declared services.",
+      "id": "s42"
+    },
+    {
+      "text": "The Commission's determination on the arbitration must not be inconsistent with the standard access obligations or an access undertaking.",
+      "id": "s43"
+    },
+    {
+      "text": "&#8226; The Commission may register agreements about access to declared services.",
+      "id": "s44"
+    },
+    {
+      "text": "&#8226; A carrier, carriage service provider or related body must not prevent or hinder the fulfilment of a standard access obligation.",
+      "id": "s45"
+    },
+    {
+      "text": "' \n \n \n\n12 The object of Part XIC is stated by s 152AB.",
+      "id": "s46"
+    },
+    {
+      "text": "It is 'to promote the long-term interests of end-users of carriage services or of services provided by means of carriage services' .",
+      "id": "s47"
+    },
+    {
+      "text": "There is an emphasis, in the matters which s 152AB then directs must be taken into account, on promoting competition and economic efficiency (s 152AB(2)).",
+      "id": "s48"
+    },
+    {
+      "text": "When competition is under consideration, there must be attention given to the potential of removing ' obstacles to end-users of listed services gaining access to listed services ' (s 152AB(4)).",
+      "id": "s49"
+    },
+    {
+      "text": "However, regard must also be had to technical feasibility, cost, legitimate commercial interests of suppliers and incentive for investment (s 152AB(6)).",
+      "id": "s50"
+    },
+    {
+      "text": "13 Many of the terms used in Part XIC bear meanings which are defined in the Telecommunications Act 1997 (Cth) ('the Telecommunications Act ').",
+      "id": "s51"
+    },
+    {
+      "text": "In the present proceedings Foxtel is a 'carriage service provider' (s 152AC of the TP Act adopts the meaning in the Telecommunications Act --- see ss 7 and 87 ).",
+      "id": "s52"
+    },
+    {
+      "text": "It provides a service for electronic transmission of digital television signals throughout Australia.",
+      "id": "s53"
+    },
+    {
+      "text": "Provision of the service is by subscription (commonly known as 'pay television').",
+      "id": "s54"
+    },
+    {
+      "text": "To do this it uses both the Telstra land-based network and satellite facilities.",
+      "id": "s55"
+    },
+    {
+      "text": "Seven Network is a broadcaster of television content that can be broadcast across a digital television platform such as that provided by Foxtel.",
+      "id": "s56"
+    },
+    {
+      "text": "14 Section 152AR of the TP Act is of central importance in many aspects of the statutory scheme.",
+      "id": "s57"
+    },
+    {
+      "text": "It sets out the 'standard access obligations'.",
+      "id": "s58"
+    },
+    {
+      "text": "Section 152AR(3) (subject to limitations which do not require attention in this case) provides:\n \n '(3) An access provider must, if requested to do so by a service provider: \n \n \n (a) supply an active declared service to the service provider in order that the service provider can provide carriage services and/or content services; and \n (b) take all reasonable steps to ensure that the technical and operational quality of the active declared service supplied to the service provider is equivalent to that which the access provider provides to itself; and \n (c) take all reasonable steps to ensure that the service provider receives, in relation to the active declared service supplied to the service provider, fault detection, handling and rectification of a technical and operational quality and timing that is equivalent to that which the access provider provides to itself.",
+      "id": "s59"
+    },
+    {
+      "text": "' \n \n \n\n15 For the purpose of s 152AR(3) Foxtel is an access provider and Seven Network is a potential service provider.",
+      "id": "s60"
+    },
+    {
+      "text": "It is also, and for that reason, a potential 'access seeker'.",
+      "id": "s61"
+    },
+    {
+      "text": "16 Section 152AF(1) provides:\n \n \n '(1) A reference in this Part to access , in relation to a declared service, is a reference to access by a service provider in order that the service provider can provide carriage services and/or content services.",
+      "id": "s62"
+    },
+    {
+      "text": "' \n \n \n \n\n17 Section 152AG provides:\n \n \n '(1) This section sets out the circumstances in which a person is taken to be an access seeker in relation to a declared service for the purposes of this Part.",
+      "id": "s63"
+    },
+    {
+      "text": "(2) A service provider is an access seeker in relation to a declared service if the provider makes, or proposes to make, a request in relation to that service under section 152AR (which deals with the standard access obligations), whether or not: \n \n \n \n \n (a) the request is refused; or \n (b) the request is being complied with.",
+      "id": "s64"
+    },
+    {
+      "text": "(3) A service provider is an access seeker in relation to a declared service if: \n \n \n \n \n (a) the provider wants access to the service; or \n (b) the provider wants to change some aspect of the provider's existing access to the service; or \n (c) the supplier of the service wants to change some aspect of the provider's existing access to the service.",
+      "id": "s65"
+    },
+    {
+      "text": "' \n \n \n \n (bold in original) \n \n \n \n \n\n18 Under Part XIC of the TP Act if a service becomes a 'declared service' an access provider may be required to provide its service to access seekers on identified terms and conditions.",
+      "id": "s66"
+    },
+    {
+      "text": "One way a service might become a declared service is after a public inquiry by the ACCC (s 152AL(3)).",
+      "id": "s67"
+    },
+    {
+      "text": "Another way is if a carriage service provider such as Foxtel gives the ACCC a 'special access undertaking' (s 152AL(7)).",
+      "id": "s68"
+    },
+    {
+      "text": "In this case the service becomes a 'declared service' when the undertaking is in operation and the service is provided.",
+      "id": "s69"
+    },
+    {
+      "text": "It is sufficient if the service provider provides it to itself.",
+      "id": "s70"
+    },
+    {
+      "text": "There is no occasion for a public inquiry, although the ACCC must still publish the undertaking and invite and consider submissions (s 152CBD(2)).",
+      "id": "s71"
+    },
+    {
+      "text": "19 In this second case, which is what the present proceedings concern, the undertaking is not in operation until it is accepted by the ACCC (s 152CBF).",
+      "id": "s72"
+    },
+    {
+      "text": "When the service is thereafter provided (even if only by the service provider to itself) the service becomes an 'active declared service' (s 152AR(2)).",
+      "id": "s73"
+    },
+    {
+      "text": "At this point the obligations under s 152AR(3) set out earlier are enlivened.",
+      "id": "s74"
+    },
+    {
+      "text": "20 The significance and practical utility of the facility for 'special access undertakings' to be offered to the ACCC lies in part in the fact that, in the event of a later dispute about access to the services (which may be arbitrated - see Div 8 of Part XIC) the ACCC must not make a determination which is inconsistent with the undertaking (s 152CQ(5)).",
+      "id": "s75"
+    },
+    {
+      "text": "Any such determination is, to the extent of inconsistency with an access undertaking, of no effect (s 152CGB).",
+      "id": "s76"
+    },
+    {
+      "text": "21 The significance of whether a particular stipulation operates as a limitation upon the supply of a service (s 152AL(7)) or as a term or condition about a matter concerning compliance with the obligations set out in s 152AR will need to be examined in further detail.",
+      "id": "s77"
+    },
+    {
+      "text": "However, it is convenient to indicate at this point that if the stipulations contained in Appendix 2 to the undertaking offered by Foxtel are, as Foxtel contends, terms and conditions relating to compliance with its obligations to supply the service described in Appendix 1, rather than a limitation upon the service itself as Seven Network contends, then the ACCC will have no power for the 8 year duration of the undertaking to compel Foxtel to provide access to its service, and the infrastructure and equipment which it has in place (whether to Seven Network or any other access seeker) to transmit material to persons who are not Foxtel subscribers.",
+      "id": "s78"
+    },
+    {
+      "text": "22 The character of a special access undertaking is specified by s 152CBA.",
+      "id": "s79"
+    },
+    {
+      "text": "Section 152CBA(3) and (5) provide:\n \n \n '(3) The undertaking must state that, in the event that the person supplies the service (whether to itself or to other persons), the person: \n \n \n \n \n (a) agrees to be bound by the obligations referred to in section 152AR, to the extent that those obligations would apply to the person in relation to the service if the service were treated as an active declared service; and \n (b) undertakes to comply with the terms and conditions specified in the undertaking in relation to the obligations referred to in paragraph (a).",
+      "id": "s80"
+    },
+    {
+      "text": "... \n \n \n \n (5) The undertaking may be without limitations or may be subject to such limitations as are specified in the undertaking.",
+      "id": "s81"
+    },
+    {
+      "text": "' \n \n \n \n\n23 If the undertaking is subject to a limitation under s 152CBA(5) then the service is only a 'declared service' to the extent that it is not so limited (s 152AL(7)) and the restrictions upon the power of the ACCC to resolve access disputes do not apply.",
+      "id": "s82"
+    },
+    {
+      "text": "24 An undertaking may also specify terms and conditions about particular matters relating to compliance with the standard access obligations in s 152AR.",
+      "id": "s83"
+    },
+    {
+      "text": "Section 152AY makes it apparent that the standard access obligations may be complied with in an agreed manner, in a manner determined in advance (in accordance with the terms and conditions in an access undertaking) or in a manner determined by the ACCC, in that order of priority.",
+      "id": "s84"
+    },
+    {
+      "text": "If terms and conditions are specified in a special access undertaking which is accepted by the ACCC there may not be a future arbitration which imposes obligations inconsistent with the terms and conditions.",
+      "id": "s85"
+    },
+    {
+      "text": "25 The ACCC is directed that it must either accept or reject a special access undertaking (s 152CBC(2)).",
+      "id": "s86"
+    },
+    {
+      "text": "It has no power to vary it or impose conditions, although it may seek further information before deciding to accept or reject.",
+      "id": "s87"
+    },
+    {
+      "text": "It is directed not to accept a special access undertaking unless certain criteria are met.",
+      "id": "s88"
+    },
+    {
+      "text": "One criterion is that any terms and conditions specified in the undertaking are reasonable (s 152CBD(2)(b)).",
+      "id": "s89"
+    },
+    {
+      "text": "A list of particular matters to which regard must be paid is set out elsewhere (s 152AH).",
+      "id": "s90"
+    },
+    {
+      "text": "No issue arises in the present case about reasonableness.",
+      "id": "s91"
+    },
+    {
+      "text": "Nor does it arise with respect to any other matter the ACCC is required to assess except the requirement in s 152CBD(2)(a) which provides:\n \n '(2) The Commission must not accept the undertaking unless: \n \n \n \n (a) the Commission is satisfied that the terms and conditions referred to in paragraph 152CBA(3)(b) would be consistent with the obligations referred to in paragraph 152CBA(3)(a).",
+      "id": "s92"
+    },
+    {
+      "text": "' \n \n \n \n \n\nThe provisions of s 152CBA(3)(a) and (b) were set out earlier.",
+      "id": "s93"
+    },
+    {
+      "text": "26 The first requirement in s 152CBA(3) is an agreement to be bound by relevant standard access obligations.",
+      "id": "s94"
+    },
+    {
+      "text": "Standard access obligations may be complied with on terms and conditions agreed between a service provider and an access seeker (s 152AY(2)(a)).",
+      "id": "s95"
+    },
+    {
+      "text": "The second requirement in s 152CBA(3) concerns a commitment to comply with terms and conditions which are 'specified' in relation to the standard access obligations.",
+      "id": "s96"
+    },
+    {
+      "text": "Failing specific agreement with an access seeker about compliance with standard access obligations, any terms and conditions specified in the undertaking govern the manner of compliance about matters with which they deal (s 152AY(2)(b)(i)).",
+      "id": "s97"
+    },
+    {
+      "text": "27 It is only terms and conditions in relation to standard access obligations which the ACCC is required to assess for consistency (s 152CBD(2)(a)).",
+      "id": "s98"
+    },
+    {
+      "text": "Because they are specified in relation to standard access obligations with respect to a declared service, terms and conditions of this kind necessarily apply within the field of the active declared service to which an undertaking relates.",
+      "id": "s99"
+    },
+    {
+      "text": "28 By contrast, and as earlier indicated, the statutory scheme accommodates the possibility that an undertaking and therefore the scope of a declared service, may be limited.",
+      "id": "s100"
+    },
+    {
+      "text": "To the extent the undertaking is so limited the service is not a 'declared service' (s 152AL(7)).",
+      "id": "s101"
+    },
+    {
+      "text": "The limitation must, like relevant terms and conditions, be specified in the undertaking (s 152CBA(5)).",
+      "id": "s102"
+    },
+    {
+      "text": "Section 152AL(7) provides that:\n \n '... if the undertaking is subject to limitations, the service supplied by the person is a declared service only to the extent to which the service falls within the scope of the limitations.",
+      "id": "s103"
+    },
+    {
+      "text": "' \n \n\n29 If a particular stipulation is correctly regarded as a limitation then , because to that extent the service will not be a declared service, there is no occasion for the ACCC to examine it for consistency with standard access obligations.",
+      "id": "s104"
+    },
+    {
+      "text": "No question of inconsistency can arise.",
+      "id": "s105"
+    },
+    {
+      "text": "The ACCC is not prevented, in such a circumstance, from determining an access dispute.",
+      "id": "s106"
+    },
+    {
+      "text": "To repeat a point made earlier, to the extent that an undertaking is subject to a limitation the ACCC retains its powers to resolve access disputes about matters outside the scope of the (limited) undertaking, whereas matters accepted by the ACCC as terms and conditions relating to provision of an (unlimited) service effectively block the ACCC from dealing with disputes about access to the services.",
+      "id": "s107"
+    },
+    {
+      "text": "This appears to be a significant practical aspect of the statutory scheme.",
+      "id": "s108"
+    },
+    {
+      "text": "30 Finally, reference should be made again to the prescribed standard access obligations against which the ACCC must assess terms and conditions relating to compliance with such obligations.",
+      "id": "s109"
+    },
+    {
+      "text": "They are set out in s 152AR of the TP Act.",
+      "id": "s110"
+    },
+    {
+      "text": "The obligation around which debate turned in the present case is in s 152AR(3)(a).",
+      "id": "s111"
+    },
+    {
+      "text": "It was set out earlier but for convenience I will repeat it:\n \n '(3) An access provider must, if requested to do so by a service provider: \n \n \n \n \n \n (a) supply an active declared service to the service provider in order that the service provider can provide carriage services and/or content services.",
+      "id": "s112"
+    },
+    {
+      "text": "' \n \n \n \n \n\n31 There are some limits on this obligation which are identified in s 152AR(4) but they are not relevant to the present case.",
+      "id": "s113"
+    },
+    {
+      "text": "In addition, as has already been seen, an undertaking may itself specify a limitation on the scope of the service to be provided.",
+      "id": "s114"
+    },
+    {
+      "text": "Subject to such considerations, however, the declared service 'must' be supplied on request, although the manner of compliance may be agreed or specified by relevant terms and conditions in the undertaking.",
+      "id": "s115"
+    },
+    {
+      "text": "The term 'must' is to be read, normally, as an imperative command (cf use of the term 'may' --- Acts Interpretation Act 1901 (Cth) ss 33(2A)).",
+      "id": "s116"
+    },
+    {
+      "text": "This is an important element in assessing whether terms and conditions relating to compliance with standard access obligations which are specified in an undertaking are consistent with the basic requirement in s 152AR(3)(a) amongst others.",
+      "id": "s117"
+    },
+    {
+      "text": "The special access undertaking \n \n32 Foxtel offered an undertaking for 8 years to supply the service (the Digital Set Top Unit Service) which it described in Appendix 1.",
+      "id": "s118"
+    },
+    {
+      "text": "33 As appears from the terms of the undertaking it undertook to supply the service on the terms and conditions specified in a Digital Access Agreement which was included as Appendix 2.",
+      "id": "s119"
+    },
+    {
+      "text": "34 The immediately relevant provisions of the undertaking are as follows:\n \n \n \n \n '1.3 In this undertaking and the appendices, unless defined in clause 1.4 below, all defined terms have the meaning set out in Appendix 2.",
+      "id": "s120"
+    },
+    {
+      "text": "1.4 In this undertaking and the appendices, unless the context otherwise requires: \n \n ... \n Digital Set Top Unit Service has the meaning set out in Appendix 1.",
+      "id": "s121"
+    },
+    {
+      "text": "' \n \n \n \n \n ... \n \n \n \n \n 2.2 FOXTEL undertakes to supply the Digital Set Top Unit Service on the terms and conditions specified in the Digital Access Agreement (or on the terms of that agreement as varied in accordance with this undertaking).",
+      "id": "s122"
+    },
+    {
+      "text": "' \n \n\n35 Appendix 1 and Appendix 2 each contain a statement of the meaning of 'Digital Set Top Unit Service' but they differ in an important respect.",
+      "id": "s123"
+    },
+    {
+      "text": "36 Appendix 1 is in the following terms:\n \n 'The Digital Set Top Unit Service means: \n \n \n \n (a) Set Top Unit Services which are the provision of services for the reception and decryption of signals for a digital Subscription Television Service and a Related Service in customer premises by means of Conditional Access Customer Equipment and Customer Cabling; \n \n \n \n \n \n (b) Conditional Access Services which consists of: \n \n \n \n (i) CA Services which are the services that allow a service provider to determine the entitlement of customers to receive particular signals for a digital Subscription Television Service and a Related Service through Conditional Access Customer Equipment and Customer Cabling; \n \n \n \n \n (ii) Service Information Service which is the processing of information necessary to be received by Conditional Access Customer Equipment which permits the reception of a digital Subscription Television Service and a Related Service; \n \n \n \n \n \n \n \n \n \n (iii) Smartcard Authorisation Verification Information Services which is the provision of information necessary to enable a service provider to verify which of its digital Subscription Television Services and Related Services are enabled on a Smartcard; \n \n \n \n \n \n \n (c) EPG Services which consists of the incorporation of data relating to programs transmitted on a service provider's digital Subscription Television Service into an electronic program guide; and \n \n \n \n \n \n (d) Modem Services which consist of services using a modem integrated with Conditional Access Customer Equipment which enable a customer to send to the provider of the content a reaction of the customer to that content.",
+      "id": "s124"
+    },
+    {
+      "text": "' \n \n \n\n37 As explained in a moment, the terms 'customer premises', 'Conditional Access Customer Equipment' and 'Customer Cabling' are general ones which are not confined to Foxtel's customers and do not depend upon the existence of a current subscription with Foxtel or the availability of, supply of or access to any infrastructure or equipment actually provided by Foxtel to its subscribers.",
+      "id": "s125"
+    },
+    {
+      "text": "The service described is not limited geographically or by reference to particular households.",
+      "id": "s126"
+    },
+    {
+      "text": "Within the general technical scope referred to it is offered generally.",
+      "id": "s127"
+    },
+    {
+      "text": "Foxtel's position is that there are no relevant 'limitations' specified in the undertaking to provide the service thereby described, notwithstanding that it is to be supplied 'on the terms and conditions specified in' Appendix 2.",
+      "id": "s128"
+    },
+    {
+      "text": "38 The undertaking stipulates that defined terms (except, relevantly, 'Digital Set Top Unit Service') have the meanings assigned in Appendix 2, which thereby interacts with and directly affects the terms of Appendix 1.",
+      "id": "s129"
+    },
+    {
+      "text": "The term 'customers premises' is not defined.",
+      "id": "s130"
+    },
+    {
+      "text": "'Conditional Access Customer Equipment' is assigned by Appendix 2 the meaning given by s 152AC of the TP Act.",
+      "id": "s131"
+    },
+    {
+      "text": "That meaning incorporates the term 'customer equipment', the meaning of which is to be found in s 21 of the Telecommunications Act .",
+      "id": "s132"
+    },
+    {
+      "text": "'Customer Cabling' is assigned by Appendix 2 the meaning given by s 20 of the Telecommunications Act .",
+      "id": "s133"
+    },
+    {
+      "text": "39 Reference to ss 20 and 21 of the Telecommunications Act (in the absence, as was agreed to be the case, of any relevant regulations) accordingly yields the information that in Appendix 2 (and therefore Appendix 1) 'Customer Cabling' means:\n \n '... a line that is used, installed ready for use or intended for use on the customer side of the boundary of a telecommunications network.",
+      "id": "s134"
+    },
+    {
+      "text": "' \n \n\nand 'Conditional Access Customer Equipment' in Appendix 2 (and therefore Appendix 1) means (generally speaking but adequately for present purposes):\n\n \n \n '(a) any equipment, apparatus, tower, mast, antenna or other structure or thing that is used, installed ready for use or intended for use on the customer side of the boundary of a telecommunications network; or \n \n \n \n \n \n (b) any system (whether software-based or otherwise) that is used, installed ready for use or intended for use on the customer side of the boundary of a telecommunications network.",
+      "id": "s135"
+    },
+    {
+      "text": "' \n \n \n\nwhich:\n \n '... allows a service provider to determine whether an end-user is able to receive a particular service;' \n \n \n \n \n\n40 Appendix 1 may therefore be understood to describe a service in which the means of provision of the services depend upon lines, equipment and systems which are installed and ready for use but not upon any circumstance which requires a Foxtel subscription to activate access to the service to be provided.",
+      "id": "s136"
+    },
+    {
+      "text": "The 'customer' contemplated by the provisions so defined is not necessarily a Foxtel customer.",
+      "id": "s137"
+    },
+    {
+      "text": "41 Appendix 2 also defines 'Digital Set Top Unit Service', but in significantly more limited terms than Appendix 1.",
+      "id": "s138"
+    },
+    {
+      "text": "It provides:\n \n ' Digital Set Top Unit Service means all of the services specified in Part A (Set Top Unit Services), Part B (CA Services), Part C (EPG Services) and Part D (Modem Services) of Schedule 1, which will be supplied by FOXTEL on the terms and conditions set out in this Agreement .",
+      "id": "s139"
+    },
+    {
+      "text": "' (last emphasis added) \n \n \n \n \n\n42 The specification of services in Parts A, B, C and D of Schedule 1 to Appendix 2 is identical to that in Appendix 1.",
+      "id": "s140"
+    },
+    {
+      "text": "However, on this occasion the services themselves are limited to those 'which will be supplied' in accordance with Appendix 2.",
+      "id": "s141"
+    },
+    {
+      "text": "These services will only be supplied to Foxtel subscribers.",
+      "id": "s142"
+    },
+    {
+      "text": "They are, accordingly, lesser in scope than those described in Appendix 1.",
+      "id": "s143"
+    },
+    {
+      "text": "43 It seems from the terms of clause 1.3 of the undertaking (in combination with clause 1.4) that this more limited definition is not intended to be used to read down the description of the service in Appendix 1 for the purpose of the undertaking to supply services.",
+      "id": "s144"
+    },
+    {
+      "text": "However, the proposition that Appendix 2 (which contains a specific and clear limitation upon the scope of the services to which its own terms relate) is applied by clause 2.2 of the undertaking in a manner which does not affect the scope of the services described by Appendix 1 but rather, and only, specifies terms and conditions concerning access to them, produces an odd result.",
+      "id": "s145"
+    },
+    {
+      "text": "How do the 'terms and conditions set out in' Appendix 2 bear upon the supply of the service described in Appendix 1 when Appendix 2 does not deal with, or extend to, services to non-subscribers?",
+      "id": "s146"
+    },
+    {
+      "text": "How do such terms and conditions become ones which relate in any way to access obligations in that part of a field with which they do not themselves deal?",
+      "id": "s147"
+    },
+    {
+      "text": "44 The clauses in Appendix 2 upon which attention was concentrated by Seven Network in the present proceedings (which were referred to by the ACCC in its decision as the 'tying clauses') were as follows:\n \n '4.1(c) FOXTEL is only obliged to supply and continue to supply the Digital Set Top Unit Service to the Access Seeker: \n \n \n \n \n (i) (A) in the case of services broadcast via cable, where the Digital Set Top Unit to which the Digital Set Top Unit Service is to be supplied is actually in use by a Subscriber for reception of FOXTEL's digital Subscription Television Services; or \n \n \n \n \n \n \n \n \n (B) in the case of services broadcast via satellite, where the Digital Set Top Unit to which the Digital Set Top Unit Service is to be supplied is actually in use by a Subscriber for reception of FOXTEL's expanded digital Subscription Television Services; \n \n \n \n \n \n ... \n \n (f) FOXTEL has no obligation to supply the Digital Set Top Unit Service to a location where the Digital Set Top Unit to which the Digital Set Top Unit Service is to be supplied is not in use by a Subscriber for reception of FOXTEL's digital Subscription Television Services (if broadcast via cable) or FOXTEL's expanded digital Subscription Television Services (if broadcast via satellite).",
+      "id": "s148"
+    },
+    {
+      "text": "' \n \n \n\n45 The Digital Set Top Unit Service referred to in the tying clauses is that defined by Appendix 2, not the service described in Appendix 1.",
+      "id": "s149"
+    },
+    {
+      "text": "There is, therefore, a degree of circularity in the interaction between these clauses and the definition of 'Digital Set Top Unit Service' provided in Appendix 2.",
+      "id": "s150"
+    },
+    {
+      "text": "On one view, if the attempt to quarantine the description of services in Appendix 1 from the more limited definition in Appendix 2 is successful, the restrictions applied by the tying clauses relate to access obligations with respect to some only (but not all) of the services described in Appendix 1.",
+      "id": "s151"
+    },
+    {
+      "text": "In particular, they have nothing to say about access obligations with respect to non-Foxtel subscribers.",
+      "id": "s152"
+    },
+    {
+      "text": "On this view they are not properly regarded as limitations upon the service to which access must be granted but neither are they terms and conditions relating to compliance with standard access obligations in relation to the whole of that service.",
+      "id": "s153"
+    },
+    {
+      "text": "They relate only to circumstances where a current Foxtel subscription is in place but have nothing to say about non-subscribers.",
+      "id": "s154"
+    },
+    {
+      "text": "In particular, they do not restrict the power of the ACCC to deal with an access dispute concerning non-subscribers.",
+      "id": "s155"
+    },
+    {
+      "text": "46 That interpretation has not been advanced by Foxtel, Seven Network or the ACCC.",
+      "id": "s156"
+    },
+    {
+      "text": "Foxtel's written submissions make it clear that it regards the tying clauses as ones which apply in relation to the Digital Set Top Unit Service as described in Appendix 1.",
+      "id": "s157"
+    },
+    {
+      "text": "The ACCC also acted upon a construction of the undertaking to the effect that the tying clauses relieved Foxtel of any obligation to provide the service to non-Foxtel subscriber homes.",
+      "id": "s158"
+    },
+    {
+      "text": "If the more limited construction I postulated above is incorrect it must, in my view, be because, in accordance with the contemplation by clause 1.4 that 'the context otherwise requires', the provisions of Appendix 2, including the tying clauses, are in fact intended (notwithstanding the terms of the definition of Digital Set Top Unit Services in Appendix 2) to relate to the whole of the service as described in Appendix 1.",
+      "id": "s159"
+    },
+    {
+      "text": "That construction also gives ample effect to clause 2.2 of the undertaking, set out earlier.",
+      "id": "s160"
+    },
+    {
+      "text": "Clause 2.2 appears intended (the drafting device in clauses 1.3 and 1.4 notwithstanding) to import and apply the whole of Appendix 2 in relation to the provision of the services described in Appendix 1.",
+      "id": "s161"
+    },
+    {
+      "text": "On that construction, which I think I should adopt in accordance with the way Foxtel and Seven Network have argued the matter, the provisions in cl 4.1(c)(i) and cl 4.1(f) impose exceptions to the obligation to deliver the whole of the service described in Appendix 1.",
+      "id": "s162"
+    },
+    {
+      "text": "They do so by reference to the necessity for a current subscription.",
+      "id": "s163"
+    },
+    {
+      "text": "They also do so by reference to location and the need for a 'Digital Set Top Unit' which is 'in use'.",
+      "id": "s164"
+    },
+    {
+      "text": "47 Digital Set Top Unit is defined by Appendix 2 as:\n \n '... conditional-access customer equipment (as defined in Part XIC of the Act) owned by and/or leased to FOXTEL (including remote control) appropriate for receiving a digital Subscription Television Service or Related Service.",
+      "id": "s165"
+    },
+    {
+      "text": "' \n \n \n \n \n\n48 The identification of this equipment as 'owned by and/or leased to Foxtel' is important for the operation of cl 11.1(d) and (e) upon which reliance was placed before the ACCC.",
+      "id": "s166"
+    },
+    {
+      "text": "Clause 11.1(d) and (e) permit Foxtel to 'remove any Digital Subscriber Equipment from Subscriber Premises' for reasons which include a cessation of subscription and deny an access seeker any remedy.",
+      "id": "s167"
+    },
+    {
+      "text": "In a series of interlocking definitions of 'Digital Subscriber Equipment', 'Digital Set Top Unit', 'Fly Cables', 'Subscriber Premises' and 'Subscriber' it is made clear that Foxtel will not supply any services to an access seeker except as an adjunct to a current Foxtel subscription.",
+      "id": "s168"
+    },
+    {
+      "text": "49 Another way of expressing what these arrangements, viewed both piecemeal and as a whole, entail is to say that Foxtel undertook only to supply to an access seeker the services which it supplies to itself.",
+      "id": "s169"
+    },
+    {
+      "text": "There would be no services supplied on request for the purpose of transmission to non-subscribers.",
+      "id": "s170"
+    },
+    {
+      "text": "The ACCC decision \n \n50 The ACCC issued the decision which is under challenge in the present proceeding in March 2007.",
+      "id": "s171"
+    },
+    {
+      "text": "On 15 December 2006 it had published the undertaking offered by Foxtel on the internet, published a Discussion Paper and invited submissions.",
+      "id": "s172"
+    },
+    {
+      "text": "Submissions were received from Foxtel and Seven Network.",
+      "id": "s173"
+    },
+    {
+      "text": "The decision is lengthy.",
+      "id": "s174"
+    },
+    {
+      "text": "It deals with a number of issues which do not arise for consideration in the present proceedings.",
+      "id": "s175"
+    },
+    {
+      "text": "51 Early in its decision the ACCC summarised its view about whether the tying clauses were consistent with s 152AR in the following way:\n \n '... the tying clauses meet with the obligation to supply the active declared service whether or not the tying clauses are treated as limitations on the service.",
+      "id": "s176"
+    },
+    {
+      "text": "The Commission is satisfied that the Undertaking is consistent with the obligation to supply the active declared service.",
+      "id": "s177"
+    },
+    {
+      "text": "' \n \n \n \n \n\n52 This passage in the ACCC decision masks the essential difference between limitations and terms and conditions.",
+      "id": "s178"
+    },
+    {
+      "text": "For reasons earlier explained, if the tying clauses represented limitations upon the service to be provided, the service would not, to that extent, become a declared service.",
+      "id": "s179"
+    },
+    {
+      "text": "No issue about consistency between the tying clauses and obligations to provide access to the declared service could arise.",
+      "id": "s180"
+    },
+    {
+      "text": "53 When it came to summarise Foxtel's undertaking the ACCC said:\n \n 'Clauses 4.1(c)(i), 4.1(f), 11.1(d) and 11.1(e) of the DAA provide that Foxtel is only obliged to supply the Digital Set Top Unit Service where the Digital Set Top Unit to which the Digital Set Top Unit Service is to be supplied is actually in use by a subscriber for the reception of Foxtel's digital subscription television services.",
+      "id": "s181"
+    },
+    {
+      "text": "However, Foxtel contends that the Undertaking is in respect of the service not only in relation to end users who are Foxtel subscribers, but also those end users who are currently not Foxtel subscribers.",
+      "id": "s182"
+    },
+    {
+      "text": "The Commission understands that Foxtel does not regard any of the above clauses as limitations upon the scope of the service for the purpose of subsections 152CBA(5) and 152AL(7).",
+      "id": "s183"
+    },
+    {
+      "text": "' \n \n\n54 This passage accords with the position taken by Foxtel in this Court.",
+      "id": "s184"
+    },
+    {
+      "text": "In a passage shortly thereafter the ACCC said:\n \n 'As noted above, Foxtel does not regard clauses 4.1(c) and (f) of the DAA (the tying clauses) as a limitation on the Undertaking for the purpose of ss.152CBA(5) and 152AL(7) of the Act.",
+      "id": "s185"
+    },
+    {
+      "text": "On this interpretation, the deemed declared service pursuant to subsection 152AL(7) would be the Digital Set Top Unit Service to all end-users.",
+      "id": "s186"
+    },
+    {
+      "text": "If the Commission were to accept the Undertaking and an access dispute was notified under s.152CM in respect of Foxtel's Digital Set Top Unit Service, the Commission would be precluded by s.152CQ(5) from making an arbitration determination that was inconsistent with the Undertaking.",
+      "id": "s187"
+    },
+    {
+      "text": "The Commission understands that Foxtel would considers [sic] that a determination could not oblige Foxtel to provide services or extend the facility to non-Foxtel homes.",
+      "id": "s188"
+    },
+    {
+      "text": "These provisions in the DAA, in effect, mean that Foxtel is not required to provide the Digital Set Top Unit Service unless there is a digital STU in use by a Foxtel subscriber.",
+      "id": "s189"
+    },
+    {
+      "text": "If that person ceases to be a Foxtel subscriber, Foxtel is not required to continue to supply the Digital Set Top Unit Service even if the subscriber wishes to continue to receive the access seeker's service.",
+      "id": "s190"
+    },
+    {
+      "text": "Given that Foxtel subscribers must take Foxtel's basic package to receive the Foxtel service and be provided with an STU, access seekers are only able to supply their services as a tiered channel to Foxtel's Basic Package.",
+      "id": "s191"
+    },
+    {
+      "text": "' \n \n \n \n \n\n55 The second and third paragraphs of this extract explore an important element of Foxtel's position.",
+      "id": "s192"
+    },
+    {
+      "text": "Although contending that its service was unlimited, and available throughout Australia, Foxtel also contended it was relieved of the obligation to provide it to access-seekers except in conjunction with its own subscription arrangements and to households where such a subscription was current.",
+      "id": "s193"
+    },
+    {
+      "text": "56 When the ACCC turned its attention directly to the question of consistency it said, in its introduction to this issue, and in a general way:\n \n 'The issue of consistency with the SAOs is especially relevant with respect to the non-price terms and conditions specified in the undertaking.",
+      "id": "s194"
+    },
+    {
+      "text": "The price terms and conditions are considered to be consistent with the SAOs (i.e.",
+      "id": "s195"
+    },
+    {
+      "text": "it is consistent with the SAOs to specify a price at which access will be provided).",
+      "id": "s196"
+    },
+    {
+      "text": "The issue in relation to price terms and conditions is whether they are reasonable.",
+      "id": "s197"
+    },
+    {
+      "text": "The Commission notes that \"consistency\" does not appear to demand complete correspondence with the thing in question, but rather a level of conformity .",
+      "id": "s198"
+    },
+    {
+      "text": "(emphasis added)\n \n\n57 The passage I have emphasised was the subject in this Court of a sustained attack by Seven Network.",
+      "id": "s199"
+    },
+    {
+      "text": "It argued that the ACCC's remark disclosed a clear legal error which opened the door to judicial review.",
+      "id": "s200"
+    },
+    {
+      "text": "In my view the criticism is too harsh.",
+      "id": "s201"
+    },
+    {
+      "text": "The observations seem, as I have said, to be introductory.",
+      "id": "s202"
+    },
+    {
+      "text": "In any event, it seems unremarkable to observe that 'consistency' does not demand 'complete correspondence'.",
+      "id": "s203"
+    },
+    {
+      "text": "The further reference to 'a level of conformity' invites an enquiry about the 'level of conformity' actually employed by the ACCC as its discrimen rather than rejection of its analysis altogether.",
+      "id": "s204"
+    },
+    {
+      "text": "58 The ACCC said later, by way of further general explanation of its task:\n \n 'The Commission believes that a number of terms and conditions in any SAU are likely to intrude upon, or to limit, at least to some extent, the obligation to supply that would otherwise be established by that SAU.",
+      "id": "s205"
+    },
+    {
+      "text": "Therefore the Commission's task is to assess the extent to which the terms and conditions limit Foxtel's obligation to supply in order to determine whether those terms and conditions are so limiting as to be not consistent with the obligation set out in ss.152AR(3)(a).",
+      "id": "s206"
+    },
+    {
+      "text": "This is a question of degree.",
+      "id": "s207"
+    },
+    {
+      "text": "' \n \n\n59 This passage, in my view, comes uncomfortably close to confusing (if not eliminating altogether) the important distinction between a limitation on the scope of a service to be supplied (on the one hand) and terms and conditions relating to the obligation to provide access to the service (on the other).",
+      "id": "s208"
+    },
+    {
+      "text": "However, in context, the ACCC was clearly attempting only to explain further the view it took about how to assess consistency.",
+      "id": "s209"
+    },
+    {
+      "text": "The same attack was not made on this passage as on the earlier one.",
+      "id": "s210"
+    },
+    {
+      "text": "It seems to me to be a development and refinement of the earlier idea.",
+      "id": "s211"
+    },
+    {
+      "text": "These remarks also were introductory and did not deal specifically with the 'tying clauses'.",
+      "id": "s212"
+    },
+    {
+      "text": "60 In the section where the 'tying clauses' were directly addressed the ACCC first set out cl 4.1(c)(i) and (f) and then said the following:\n \n 'The practical effect of the tying clauses is that Foxtel would not be obliged to supply the Digital Set Top Unit Service to non-Foxtel subscriber homes.",
+      "id": "s213"
+    },
+    {
+      "text": "The issue for consideration in relation to the tying clauses is whether the clauses are consistent with the obligation to supply the active declared service on demand pursuant to ss.152AR(3)(a).",
+      "id": "s214"
+    },
+    {
+      "text": "' \n \n\n61 The ACCC recorded Foxtel's position as follows:\n \n 'Foxtel asserts that the tying clauses are bona fide terms of supply and not a limitation within the meaning of ss.152CBA(5).",
+      "id": "s215"
+    },
+    {
+      "text": "As such, the deemed declared service is not limited to Foxtel subscribers but rather, is the broader service to all potential subscribers.",
+      "id": "s216"
+    },
+    {
+      "text": "' \n \n\n62 The ACCC posed the question for its attention as follows:\n \n 'The primary question that the Commission must address in the current context is whether the tying clause is consistent with the applicable SAOs.",
+      "id": "s217"
+    },
+    {
+      "text": "The relevant SAO in this regard is s.152AR(3)(a) --- the obligation to supply the active declared service on demand.",
+      "id": "s218"
+    },
+    {
+      "text": "The tying clause as set out in clause 4.1 of Foxtel's DAA has the practical effect of not obliging Foxtel to supply the Digital Set Top Unit Service to homes where the Digital Set Top Unit Service is not in use by a Foxtel subscriber.",
+      "id": "s219"
+    },
+    {
+      "text": "Once the Commission accepts a SAU and the undertaking comes into operation, the service the subject of the undertaking is deemed to be a declared service.",
+      "id": "s220"
+    },
+    {
+      "text": "The question of whether the tying clause is consistent with the obligation to supply the active declared service will depend, to some extent, on what is considered to be the declared service.",
+      "id": "s221"
+    },
+    {
+      "text": "As noted above, if the Undertaking is subject to limitations, the service supplied by Foxtel is a declared service only to the extent to which the service falls within the scope of the limitations.",
+      "id": "s222"
+    },
+    {
+      "text": "Therefore in considering what the deemed declared service is, it is pertinent to determine whether or not the Undertaking is subject to any limitations.",
+      "id": "s223"
+    },
+    {
+      "text": "' (emphasis added)\n \n\n63 One matter about which Seven Network complains in the present case is that, despite the sentence I have emphasised, the ACCC did not, in fact, decide whether the tying clauses were a limitation.",
+      "id": "s224"
+    },
+    {
+      "text": "Rather than resolve that issue the ACCC proceeded to consider the effect of the tying clauses first upon the assumption (adopting Foxtel's contention) that no limitation was disclosed.",
+      "id": "s225"
+    },
+    {
+      "text": "Although the passage is lengthy it should be set out in full:\n \n ' On Foxtel's construction, the Commission considers that the Undertaking is, arguably, consistent with the SAOs .",
+      "id": "s226"
+    },
+    {
+      "text": "On Foxtel's construction, the tying clauses are not limitations on the scope of the service, but rather conditions that must be satisfied before access is provided.",
+      "id": "s227"
+    },
+    {
+      "text": "Whether such a condition is consistent with the SAOs can be assessed by asking whether the clauses amount to what is, in effect, a complete refusal to supply the active declared service.",
+      "id": "s228"
+    },
+    {
+      "text": "A complete refusal to supply the service would, in the Commission's view amount to a de facto exemption from the obligation to supply access to a service.",
+      "id": "s229"
+    },
+    {
+      "text": "Arguably, such a proposal should be the subject of an exemption application rather than a SAU.",
+      "id": "s230"
+    },
+    {
+      "text": "An undertaking which, in effect, states that a supplier is not obliged under any circumstances to give access to the active deemed declared service would not be consistent with the SAOs.",
+      "id": "s231"
+    },
+    {
+      "text": "The Commission notes that there does not appear to be any \"bright line\" between what is effectively a refusal to supply access and a mere term and condition that impinges upon supply.",
+      "id": "s232"
+    },
+    {
+      "text": "Almost any condition in an access undertaking could be re-formulated as a refusal to supply access.",
+      "id": "s233"
+    },
+    {
+      "text": "For example, a term which states that a carrier will supply access at price \"X\" could also be characterised as a term which states that the carrier will refuse to supply access at any price other than \"X\".",
+      "id": "s234"
+    },
+    {
+      "text": "Since this relieves the carrier of the obligation to supply in certain circumstances, it might be argued that it is inconsistent with the SAOs.",
+      "id": "s235"
+    },
+    {
+      "text": "However, the Undertaking still provides for access to the service, subject to the condition that the price is met.",
+      "id": "s236"
+    },
+    {
+      "text": "This means it would be consistent with the SAOs.",
+      "id": "s237"
+    },
+    {
+      "text": "Whether the supply is reasonable, would of course be dealt with as a separate question.",
+      "id": "s238"
+    },
+    {
+      "text": "By analogy, the relevant condition in Foxtel's Undertaking is that Foxtel is only obliged to supply the service if a digital STU is located in the premises of a current Foxtel subscriber.",
+      "id": "s239"
+    },
+    {
+      "text": "There is no refusal to provide the service, but the obligation to supply will only arise on the condition as stipulated.",
+      "id": "s240"
+    },
+    {
+      "text": "The Undertaking still provides for access to the service, provided that condition (among others) is satisfied.",
+      "id": "s241"
+    },
+    {
+      "text": "This situation might be contrasted with a hypothetical scenario based on a geographic limitation, eg.",
+      "id": "s242"
+    },
+    {
+      "text": "An undertaking that provided for access to any digital STU, provided the unit was not located in the State of Victoria.",
+      "id": "s243"
+    },
+    {
+      "text": "This would be inconsistent with the SAOs since it would amount to saying that there are no circumstances in which access would be provided in certain geographic areas.",
+      "id": "s244"
+    },
+    {
+      "text": "In effect, this might be seen as an anticipatory exemption in respect of the State of Victoria.",
+      "id": "s245"
+    },
+    {
+      "text": "However, this does not appear to be the effect of the tying clauses.",
+      "id": "s246"
+    },
+    {
+      "text": "The Undertaking sets down conditions that must be satisfied before access must be provided, one of which is a requirement that the unit be located in the premises of a Foxtel subscriber.",
+      "id": "s247"
+    },
+    {
+      "text": "However, there is no restriction in the Undertaking that appears analogous to the geographic limitation described above.",
+      "id": "s248"
+    },
+    {
+      "text": "There are no areas in which access will [be] denied in any circumstances.",
+      "id": "s249"
+    },
+    {
+      "text": "Rather, there are a set of conditions that must be satisfied before access will be provided.",
+      "id": "s250"
+    },
+    {
+      "text": "' (emphasis added) \n \n \n \n \n\n64 I will return to the significance of the first sentence of this extract shortly.",
+      "id": "s251"
+    },
+    {
+      "text": "There is an important footnote to the second-last paragraph which reads:\n \n 'In this example, access to the service is restricted by reference to geography.",
+      "id": "s252"
+    },
+    {
+      "text": "This is done solely for the purposes of illustration.",
+      "id": "s253"
+    },
+    {
+      "text": "It is conceivable that an undertaking could impose other types of restrictions or limitations on access (eg.",
+      "id": "s254"
+    },
+    {
+      "text": "By reference to the identify of the access seeker).",
+      "id": "s255"
+    },
+    {
+      "text": "' \n \n \n \n \n\n65 The ACCC then went on to consider the question of consistency by reference to the alternative contention that the tying clauses were limitations.",
+      "id": "s256"
+    },
+    {
+      "text": "It said:\n \n 'The alternative construction is that one takes the view that the tying clauses are limitations on the Undertaking on the basis of Seven Network's argument that they are limitations on the scope of the declared service.",
+      "id": "s257"
+    },
+    {
+      "text": "On this interpretation, the Undertaking would be an undertaking in relation to the supply of the service only to Foxtel subscribers.",
+      "id": "s258"
+    },
+    {
+      "text": "It would follow that the deemed declared service would be the service only to Foxtel subscribers and not all potential subscribers.",
+      "id": "s259"
+    },
+    {
+      "text": "This then raises the issue of whether the Undertaking is consistent with the obligation to supply the active declared service (that being the Foxtel subscriber only service).",
+      "id": "s260"
+    },
+    {
+      "text": "The obligation is to provide access to the active declared service.",
+      "id": "s261"
+    },
+    {
+      "text": "In the context of the Undertaking and based on the view that the tying clauses are limitations, there would clearly be alignment between the deemed declared service and the supply obligation in the Undertaking.",
+      "id": "s262"
+    },
+    {
+      "text": "' (emphasis added)\n \n\n66 The ACCC expressed its conclusion as follows:\n \n 'On either scenario, the Commission believes the tying clauses can be said to be consistent with the SAOs.",
+      "id": "s263"
+    },
+    {
+      "text": "The Commission's conclusion is that the tying clauses are consistent with the obligation to supply the declared service.",
+      "id": "s264"
+    },
+    {
+      "text": "' \n \n\n67 I earlier set out the requirements, stated in s 152CBD(2)(a), that the ACCC must not accept a special access undertaking unless satisfied that terms and conditions specified in the undertaking would be consistent with the special access obligations.",
+      "id": "s265"
+    },
+    {
+      "text": "It is important to note that the ACCC is not required to assess the undertaking for consistency.",
+      "id": "s266"
+    },
+    {
+      "text": "It is to assess the terms and conditions for consistency.",
+      "id": "s267"
+    },
+    {
+      "text": "There is an important difference between the two ideas which the ACCC itself identified.",
+      "id": "s268"
+    },
+    {
+      "text": "To understand the declared service (and therefore to understand what the special access obligations relate to) it is first necessary 'to determine whether or not the Undertaking is subject to any limitations'.",
+      "id": "s269"
+    },
+    {
+      "text": "A limitation reduces the field in respect of which consistency with the special access obligations must be assessed.",
+      "id": "s270"
+    },
+    {
+      "text": "In the passages which I emphasised, in its discussion of the competing contentions the ACCC appeared, at times, to confuse the necessity to examine terms and conditions for consistency with a question whether the undertaking was consistent with the special access obligations, although it clearly returned during its discussion and in its final conclusion to examine and make findings about whether the tying clauses specifically were consistent with the standard access obligations.",
+      "id": "s271"
+    },
+    {
+      "text": "68 Despite some imprecision of expression I do not believe it can be fairly said that the ACCC misunderstood its task or, in the passages I have identified, made a relevant error of law.",
+      "id": "s272"
+    },
+    {
+      "text": "Next it is necessary to examine the more specific questions which arise for decision.",
+      "id": "s273"
+    },
+    {
+      "text": "Did the ACCC make an error of law by not deciding whether clauses 4.1(c)(i) and 4.1(f) in Appendix 2 were properly characterised as terms and conditions about the manner of delivery of services or as a limitation on the identified service?",
+      "id": "s274"
+    },
+    {
+      "text": "69 The reason the ACCC did not decide this issue was because, on the view it formed, it was not necessary to do so.",
+      "id": "s275"
+    },
+    {
+      "text": "On the widest view of the scope of the declared service the provisions of clauses 4.1(c)(i) and 4.1(f) were, in the view of the ACCC, consistent with standard access obligations.",
+      "id": "s276"
+    },
+    {
+      "text": "I have given careful thought to whether the approach taken by the ACCC diverted it from the question it was obliged to address or whether it was necessary, in order to address it, to first decide the scope of the service to which any terms and conditions might relate.",
+      "id": "s277"
+    },
+    {
+      "text": "70 Seven Network argued in this Court that the ACCC made a legal error by not first addressing whether the tying clauses were limitations.",
+      "id": "s278"
+    },
+    {
+      "text": "In my view this contention cannot be sustained.",
+      "id": "s279"
+    },
+    {
+      "text": "The ACCC had no power to decide such a question finally as it is not a judicial body.",
+      "id": "s280"
+    },
+    {
+      "text": "The parties would not legally be bound by the opinion of the ACCC.",
+      "id": "s281"
+    },
+    {
+      "text": "Although it is well established that an administrative body may form and act upon an opinion on a legal issue, if it is necessary to do so as a step towards the performance of its own functions ( Re Cram; Ex parte The Newcastle Wallsend Coal Company Pty Ltd [1987] HCA 29 ; (1987) 163 CLR 140 at 149), it was not necessary for the ACCC to do so in the present case.",
+      "id": "s282"
+    },
+    {
+      "text": "There is no error of law thereby revealed.",
+      "id": "s283"
+    },
+    {
+      "text": "Did the ACCC make an error of law by deciding that clauses 4.1(c)(i) and 4.1(f), if properly characterised as terms and conditions about the manner of delivery of services, were consistent with standard access obligations?",
+      "id": "s284"
+    },
+    {
+      "text": "71 I referred earlier to the challenge made by Seven Network to the introductory remarks made by the ACCC about how to assess consistency.",
+      "id": "s285"
+    },
+    {
+      "text": "72 Ultimately, however, the ACCC did not approach the question of consistency by examining whether there was a 'level of conformity' as it appeared to foreshadow, or by testing the matter as 'a question of degree'.",
+      "id": "s286"
+    },
+    {
+      "text": "Instead it asked whether, in the context of an obligation to supply a service there was a refusal to supply it.",
+      "id": "s287"
+    },
+    {
+      "text": "In a context where the TP Act accepts that there may be agreement about the issue of compliance, or earlier specification of terms or conditions relating to compliance, or determination of such terms and conditions by the ACCC itself (s 152AY) so that, as Foxtel argued, the standard access obligations are capable of satisfaction in a range of circumstances, there seems little alternative to the adoption of a test such as that employed in this case by the ACCC.",
+      "id": "s288"
+    },
+    {
+      "text": "Otherwise it would face an infinite series of possibilities.",
+      "id": "s289"
+    },
+    {
+      "text": "I did not understand counsel for Seven Network to take issue with the notion that, in the present statutory context at least, the question of consistency with an obligation to supply a service on demand might, in a practical way, be tested by asking whether there is a refusal to supply.",
+      "id": "s290"
+    },
+    {
+      "text": "Counsel summarised the argument as follows:\n \n 'MR SHEAHAN: ...",
+      "id": "s291"
+    },
+    {
+      "text": "Appendix 1 defines the service.",
+      "id": "s292"
+    },
+    {
+      "text": "HIS HONOUR: Yes.",
+      "id": "s293"
+    },
+    {
+      "text": "MR SHEAHAN: It defines it in terms which do not confine it to Foxtel subscribers.",
+      "id": "s294"
+    },
+    {
+      "text": "The standard access obligations attach to the service so described.",
+      "id": "s295"
+    },
+    {
+      "text": "They require supply of that service on request.",
+      "id": "s296"
+    },
+    {
+      "text": "The terms and conditions, inconsistently with that obligation, purport to permit a refusal of such a request.",
+      "id": "s297"
+    },
+    {
+      "text": "HIS HONOUR: If they have not already acted as a limitation.",
+      "id": "s298"
+    },
+    {
+      "text": "MR SHEAHAN: Yes.",
+      "id": "s299"
+    },
+    {
+      "text": "There is in substance a substantial derogation from the obligation as applied to the service as defined and that substantial derogation is inconsistent.",
+      "id": "s300"
+    },
+    {
+      "text": "It is, within the statutory language, inconsistent with the obligation.",
+      "id": "s301"
+    },
+    {
+      "text": "' \n \n\n73 Unless an error of law is identified in the approach taken by the ACCC there is no foundation for intervention by this Court.",
+      "id": "s302"
+    },
+    {
+      "text": "An error of law may be constituted or evidenced by an erroneous construction of a relevant statutory provision or by the erroneous application of a statutory test to facts found or not in dispute.",
+      "id": "s303"
+    },
+    {
+      "text": "Those propositions are too well known to require reference to specific authority.",
+      "id": "s304"
+    },
+    {
+      "text": "However, the present case really invites the Court to make a different value judgment than the ACCC and to state judicially that the tying clauses amount, in substance, to a refusal to provide a service.",
+      "id": "s305"
+    },
+    {
+      "text": "I am confident that I should not yield to any temptation to do so as that would involve entry into a territory marked out for the ACCC and, if necessary, for the Australian Competition Tribunal in the event of a review under s 152CE of the TP Act.",
+      "id": "s306"
+    },
+    {
+      "text": "They are the bodies to whom the legislature has assigned the responsibility of making the relevant value judgments.",
+      "id": "s307"
+    },
+    {
+      "text": "74 Another reason why the claim to set aside the decision of the ACCC for legal error must be rejected is that I have concluded, for reasons to be explained, that the undertaking is, as argued by Seven Network, subject to a limitation.",
+      "id": "s308"
+    },
+    {
+      "text": "Once the limitation is taken into account no room remains for inconsistency with respect to the matters relied upon by Seven Network before the ACCC or before this Court.",
+      "id": "s309"
+    },
+    {
+      "text": "Should the Court declare that clauses 4.1(c)(i) and 4.1(f) are a limitation on the identified service?",
+      "id": "s310"
+    },
+    {
+      "text": "75 The conclusions I have stated so far require rejection of Seven Network's primary claim for relief that the ACCC decision be set aside.",
+      "id": "s311"
+    },
+    {
+      "text": "76 In the event that the Court finds no occasion to set aside the decision of the ACCC for legal error Seven Network asks for a declaration that the tying clauses are a 'limitation' within the meaning of s 152CBA(5) and s 152AL(7).",
+      "id": "s312"
+    },
+    {
+      "text": "The claim for a declaration rests upon the jurisdiction of the Court granted by s 39B(1A) of the Judiciary Act .",
+      "id": "s313"
+    },
+    {
+      "text": "Foxtel opposed this claim on both jurisdictional and discretionary grounds.",
+      "id": "s314"
+    },
+    {
+      "text": "It argues that the issue is not the subject of a justiciable controversy and therefore does not involve a 'matter' arising under a federal law.",
+      "id": "s315"
+    },
+    {
+      "text": "It also contends that a declaration (and any other form of relief) should be refused on discretionary grounds.",
+      "id": "s316"
+    },
+    {
+      "text": "77 Before dealing with these obstacles it is desirable to explain why, in my view there is a relevant limitation.",
+      "id": "s317"
+    },
+    {
+      "text": "Otherwise, any debate about whether a declaration should be made would be academic.",
+      "id": "s318"
+    },
+    {
+      "text": "There is a relevant 'limitation' \n \n78 The term is not defined.",
+      "id": "s319"
+    },
+    {
+      "text": "I was told there is no judicial authority on the use of the term in s 152CBA(5).",
+      "id": "s320"
+    },
+    {
+      "text": "Clearly enough, however, a limitation of the kind envisaged involves the notion of an exception to any obligation of supply on demand under s 152AR.",
+      "id": "s321"
+    },
+    {
+      "text": "That seems one essential characteristic in the statutory context under consideration.",
+      "id": "s322"
+    },
+    {
+      "text": "Another way of expressing it is that it reduces the scope of the service supplied.",
+      "id": "s323"
+    },
+    {
+      "text": "It might be noted that s 152AL(7) indicates 'to avoid doubt' that a declared service does not extend to matters excluded by a limitation.",
+      "id": "s324"
+    },
+    {
+      "text": "79 A limitation, in my view, may be expressed in the description of the service itself or it may be imported by matters specified elsewhere in the undertaking which have the requisite effect.",
+      "id": "s325"
+    },
+    {
+      "text": "80 More difficult is the identification of the kinds of exceptions which might be regarded as limitations.",
+      "id": "s326"
+    },
+    {
+      "text": "Clearly they must limit the service to be provided and not just deal with how it is to be provided.",
+      "id": "s327"
+    },
+    {
+      "text": "How a service is to be provided is the sort of matter with which s 152AY deals --- i.e.",
+      "id": "s328"
+    },
+    {
+      "text": "the manner of compliance with standard access obligations.",
+      "id": "s329"
+    },
+    {
+      "text": "An undertaking may specify terms and conditions about such an issue.",
+      "id": "s330"
+    },
+    {
+      "text": "81 It appears to me that limitations (on the one hand) and terms and conditions (on the other) are necessarily in different fields.",
+      "id": "s331"
+    },
+    {
+      "text": "Terms and conditions can only operate in relation to a 'declared service' after any limitations on the service are taken into account.",
+      "id": "s332"
+    },
+    {
+      "text": "Put another way, limitations bear upon the accurate identification of the service and terms and conditions relate to the provision of the service.",
+      "id": "s333"
+    },
+    {
+      "text": "82 In the present case the ACCC expressed the view that a limitation need not be geographical in character.",
+      "id": "s334"
+    },
+    {
+      "text": "I agree with that assessment.",
+      "id": "s335"
+    },
+    {
+      "text": "There is no indication in the statutory scheme that it is only geographical limitations that are referred to by s 152CBA(5).",
+      "id": "s336"
+    },
+    {
+      "text": "83 There is nothing of direct assistance about s 152CBA(5) in any extrinsic explanatory material.",
+      "id": "s337"
+    },
+    {
+      "text": "However, counsel for the ACCC pointed out that s 152BS(6A) (which deals with 'ordinary access undertakings') uses identical language to s 152CBA(5).",
+      "id": "s338"
+    },
+    {
+      "text": "Section 152BS(6A) was introduced in 2002.",
+      "id": "s339"
+    },
+    {
+      "text": "The Explanatory Memorandum to the Telecommunications Competition Bill 2002 explained its intent as follows:\n \n 'Proposed subsection 152BS(6A) will make it clear that an undertaking may be made without limitations or may be subject to such limitations as are specified in the undertaking.",
+      "id": "s340"
+    },
+    {
+      "text": "This makes it clear that an undertaking may be given only in relation to, for example, a relevant service supplied in a specified area or by means of a particular facility.",
+      "id": "s341"
+    },
+    {
+      "text": "' \n \n\n84 The reference to 'facility' requires further elucidation.",
+      "id": "s342"
+    },
+    {
+      "text": "Section 152AC ascribes to 'facility' the meaning given by the Telecommunications Act .",
+      "id": "s343"
+    },
+    {
+      "text": "In that Act it is, by s 7 , defined to mean:\n \n '(a) any part of the infrastructure of a telecommunications network; or \n \n \n \n (b) any line, equipment, apparatus, tower, mast, antenna, tunnel, duct, hole, pit, pole or other structure or thing used, or for use, in or in connection with a telecommunications network.",
+      "id": "s344"
+    },
+    {
+      "text": "' \n \n \n\n85 That confirms what, in my view, the natural meaning of the language in s 152BS(6A) and s 152CBA(5) conveys.",
+      "id": "s345"
+    },
+    {
+      "text": "A limitation may be geographical.",
+      "id": "s346"
+    },
+    {
+      "text": "It may also be a limitation expressed by reference to the facilities or a particular facility, used to supply a service.",
+      "id": "s347"
+    },
+    {
+      "text": "No doubt, other limitations could be expressed which also bear upon the identification of the service (i.e.",
+      "id": "s348"
+    },
+    {
+      "text": "whether it will be provided rather than how it will be provided).",
+      "id": "s349"
+    },
+    {
+      "text": "86 In the present case, consideration of the particular facilities to be employed adds support to the proposition that the service itself was limited by Foxtel's undertaking.",
+      "id": "s350"
+    },
+    {
+      "text": "87 Clause 4.1(c)(i) and 4.1(f) impose a limitation upon the provision of the service described in Appendix 1.",
+      "id": "s351"
+    },
+    {
+      "text": "They do so by reference to facilities and by reference to the necessity for a current subscription.",
+      "id": "s352"
+    },
+    {
+      "text": "They impose requirements which are beyond the reach or control of a potential access seeker.",
+      "id": "s353"
+    },
+    {
+      "text": "In my view they represent an exception to the obligation to supply the services.",
+      "id": "s354"
+    },
+    {
+      "text": "This stands outside arrangements about manner of compliance.",
+      "id": "s355"
+    },
+    {
+      "text": "88 In my view these clauses are a limitation upon the services described in Appendix 1 and upon the undertaking given to the ACCC.",
+      "id": "s356"
+    },
+    {
+      "text": "Should a declaration be made ?",
+      "id": "s357"
+    },
+    {
+      "text": "89 Foxtel argued that the Court had no jurisdiction to make a declaration that the undertaking was subject to a relevant limitation.",
+      "id": "s358"
+    },
+    {
+      "text": "One reason was because, so it contended, there was no justiciable controversy about that issue and no matter relevantly arising under a federal act with which the Court could deal.",
+      "id": "s359"
+    },
+    {
+      "text": "Seven Network contended that there is a controversy and that it is 'as to the legal effect of past events in circumstances where those past events and their legal character have implications for the present and future commercial interests of both parties'.",
+      "id": "s360"
+    },
+    {
+      "text": "It referred to Ainsworth v Criminal Justice Commission [1992] HCA 10 ; (1992) 175 CLR 564 at 581.",
+      "id": "s361"
+    },
+    {
+      "text": "90 A useful summary of the principles to be applied was given by Cooper J in Direct Factory Outlets Pty Ltd v Westfield Management Ltd [2003] FCA 1095 ; (2003) 132 FCR 428 at [10] --- [19].",
+      "id": "s362"
+    },
+    {
+      "text": "In my view there is a justiciable controversy in the present case.",
+      "id": "s363"
+    },
+    {
+      "text": "The practical consequence of the approach taken by the ACCC of not deciding whether the tying clauses are a limitation is that an area for debate remains unresolved about whether the declared service extends to non-subscribers to Foxtel or whether it does not and, correspondingly, whether the ACCC can deal with a future access dispute about provision of the services to non-subscribers or not.",
+      "id": "s364"
+    },
+    {
+      "text": "91 If a limitation is in place upon the operation of the undertaking given by Foxtel it affects the scope of the services to be provided (s 152AL(7)), the nature of the obligations to supply the service on request, the corresponding rights of an access seeker (which Seven Network is potentially) to insist on supply (s 152AR(3)(a)), the limits within which there may be a negotiation, debate or determination by the ACCC about supply of the service (s 152AY(2)) and the extent to which the ACCC may deal with an access dispute about the service as limited or some other service outside the limitation (s 152CGB and s 152CQ(5)).",
+      "id": "s365"
+    },
+    {
+      "text": "Seven Network has a sufficient interest to seek a declaration.",
+      "id": "s366"
+    },
+    {
+      "text": "92 In its submission opposing a declaration Foxtel also relied heavily upon the fact that, in its written submissions, Seven Network, argued:\n \n 'Further, and in the alternative, the Court has power to correct the Commission's legal error by making a declaration that the Undertaking is subject to a limitation within the meaning of s152CBA(5) that confines the service the subject of the Undertaking to the STU service in Foxtel locations only: Ainsworth v Criminal Justice Commission [1992] HCA 10 ; (1992) 175 CLR 564 at 581; Direct Factory Outlets Pty Limited v Westfield Management Limited [2003] FCA 1095 at [15] ; Federal Court of Australia Act 1976 (Cth), s21.",
+      "id": "s367"
+    },
+    {
+      "text": "' (my emphasis)\n \n\n93 Foxtel sought to exploit this submission by submitting:\n \n 'FOXTEL submits that if the Court concludes that the Commission's decision is not affected by legal error, the Court will have no jurisdiction to make the declaration sought.",
+      "id": "s368"
+    },
+    {
+      "text": "Seven does not contend otherwise; it correctly states that the Court \"has power to correct ... legal error by making a declaration\".",
+      "id": "s369"
+    },
+    {
+      "text": "' \n \n \n \n \n\n94 It also submitted:\n \n '... if the Court concludes that the Commission's decision is not affected by legal error, the Court will confirm that it was not necessary for the Commission to determine whether the Undertaking is subject to a limitation, and that it is not necessary to make that determination in this proceeding.",
+      "id": "s370"
+    },
+    {
+      "text": "' \n \n\n\n \n95 These submissions do not adequately reflect the jurisdiction and power of the Court to make a declaration or the circumstances in which it might, or might not, be appropriate to do so.",
+      "id": "s371"
+    },
+    {
+      "text": "96 Foxtel initially sought in its written submissions to reserve a right to make further submissions on the issue of whether a limitation exists in the event that I concluded there was a legal error in the ACCC decision on the consistency question.",
+      "id": "s372"
+    },
+    {
+      "text": "It said:\n \n 'In that event, whether or not the tying clauses should be characterised as a limitation will depend to some extent on the Court's reasoning concerning the Commission's error.",
+      "id": "s373"
+    },
+    {
+      "text": "However, FOXTEL submits that it is likely that in that event the tying clauses would be regarded as a limitation.",
+      "id": "s374"
+    },
+    {
+      "text": "' \n \n\n97 In oral submissions, however, the position was expressed more definitively.",
+      "id": "s375"
+    },
+    {
+      "text": "Counsel for Foxtel submitted:\n \n 'MR MEAGHER: I should add this.",
+      "id": "s376"
+    },
+    {
+      "text": "That if your Honour was against us on inconsistency there would be no issue between the parties that it's a limitation.",
+      "id": "s377"
+    },
+    {
+      "text": "We argued before the commission for a characterisation as not a limitation.",
+      "id": "s378"
+    },
+    {
+      "text": "... \n \n HIS HONOUR: Well, in the event that I am against you on the consistency argument what is your position then?",
+      "id": "s379"
+    },
+    {
+      "text": "MR MEAGHER: If your Honour was against us on that and the question was what your Honour should do, we would submit your Honour should address the limitation question and if your Honour was satisfied that it was a limitation your Honour wouldn't upset the decision because your Honour would accept the commission was satisfied on that basis, there was no inconsistency.",
+      "id": "s380"
+    },
+    {
+      "text": "So that for that reason your Honour wouldn't upset the decision to accept.",
+      "id": "s381"
+    },
+    {
+      "text": "... \n \n MR MEAGHER: If your Honour was against us on the consistency point in our submission it would be for reason that the provision was properly characterised as a limitation, in other words your Honour would be against us on that.",
+      "id": "s382"
+    },
+    {
+      "text": "HIS HONOUR: No, it would be on the assumption that it was not a limitation.",
+      "id": "s383"
+    },
+    {
+      "text": "MR MEAGHER: But it would follow in our submission that it should necessarily be characterised as a limitation which is Seven's argument because the, yes, and on that basis it would follow that your Honour would not upset the commission's decision.",
+      "id": "s384"
+    },
+    {
+      "text": "HIS HONOUR: So if inconsistent it must be a limitation?",
+      "id": "s385"
+    },
+    {
+      "text": "MR MEAGHER: That's so.",
+      "id": "s386"
+    },
+    {
+      "text": "And then it would follow that your Honour wouldn't, on that basis the commission was appropriately satisfied and your Honour wouldn't upset the commission's decision to accept.",
+      "id": "s387"
+    },
+    {
+      "text": "' \n \n\n98 As I have concluded that there is no legal error disclosed by the ACCC decision on the issue of consistency, whether or not a limitation exists, the premise upon which Foxtel's submissions were based does not exist.",
+      "id": "s388"
+    },
+    {
+      "text": "Foxtel, as I understand it, then moves back to its position of resisting a declaration on all available grounds.",
+      "id": "s389"
+    },
+    {
+      "text": "99 Although Foxtel relied on observations in Lamb v Moss (1983) 49 ALR 533 at 549 to submit that declaratory relief under s 16 of the ADJR Act is available 'only if a basis for relief under the Act is established' that submission does not identify any barrier to the grant of relief under s 21 of the Federal Court of Australia Act 1976 (Cth) or s 39B(1A) of the Judiciary Act .",
+      "id": "s390"
+    },
+    {
+      "text": "I do not accept the proposition that declaratory relief may only be granted if the ACCC decision is affected by legal error.",
+      "id": "s391"
+    },
+    {
+      "text": "Nor do I accept, for reasons already given, the accompanying submission made by Foxtel that if the ACCC decision is not affected by legal error no justiciable controversy has yet arisen.",
+      "id": "s392"
+    },
+    {
+      "text": "The question whether a declaration should now be made is not the same question as whether the ACCC should have decided that question.",
+      "id": "s393"
+    },
+    {
+      "text": "The ACCC did not need to do so in order to decide whether under s 152CBC it was required to accept or reject the undertaking.",
+      "id": "s394"
+    },
+    {
+      "text": "I do not regard it as necessary to provide a further opportunity to address the question whether there is a limitation or not.",
+      "id": "s395"
+    },
+    {
+      "text": "Seven Network has always contended that such a limitation exists and Foxtel has maintained a primary position that there is no limitation.",
+      "id": "s396"
+    },
+    {
+      "text": "In my view Seven Network has made a valid claim for declaratory relief, the claim is soundly based and there is no good reason to refuse, or delay, relief in the exercise of a discretion.",
+      "id": "s397"
+    },
+    {
+      "text": "100 In all the circumstances it seems to me that the Court has power to make a declaration about this issue and should do so.",
+      "id": "s398"
+    },
+    {
+      "text": "What declaration should be made ?",
+      "id": "s399"
+    },
+    {
+      "text": "101 Before the ACCC, and before this Court, attention was concentrated upon the 'tying clauses'.",
+      "id": "s400"
+    },
+    {
+      "text": "The limitation I have identified appears sufficiently from clauses 4.1(c)(i) and 4.1(f).",
+      "id": "s401"
+    },
+    {
+      "text": "It is not necessary to deal with aspects of Appendix 2 which were not the subject of debate.",
+      "id": "s402"
+    },
+    {
+      "text": "It is also not necessary to deal specifically with clause 11.1(d) and (e).",
+      "id": "s403"
+    },
+    {
+      "text": "102 My present view is that it would be appropriate to make the following declaration:\n1.",
+      "id": "s404"
+    },
+    {
+      "text": "It is declared that the Special Access Undertaking by FOXTEL Management Pty Limited (ACN 068 671 938) for and on behalf of the FOXTEL Partnership and FOXTEL Cable Television Pty Ltd (ACN 069 008 797) under Subdivision B of Division 5 of Part XIC of the Trade Practices Act 1974 (Cth) and dated 1 December 2006 is, within the meaning of s 152CBA(5) and s 152AL(7) of the said Act, subject to the following limitation:\n \n \n \n '1.",
+      "id": "s405"
+    },
+    {
+      "text": "FOXTEL is only obliged to supply and continue to supply the Digital Set Top Unit Service described in Appendix 1 to the Access Seeker: \n \n \n \n (A) in the case of services broadcast via cable, where the Digital Set Top Unit to which the Digital Set Top Unit Service is to be supplied is actually in use by a Subscriber for reception of FOXTEL's digital Subscription Television Services; or \n \n \n \n (B) in the case of services broadcast via satellite, where the Digital Set Top Unit to which the Digital Set Top Unit Service is to be supplied is actually in use by a Subscriber for reception of FOXTEL's expanded digital Subscription Television Services; \n \n \n \n \n \n \n \n \n 2.",
+      "id": "s406"
+    },
+    {
+      "text": "FOXTEL has no obligation to supply the Digital Set Top Unit Service described in Appendix 1 where the Digital Set Top Unit to which the Digital Set Top Unit Service is to be supplied is not in use by a Subscriber for reception of FOXTEL's digital Subscription Television Services (if broadcast via cable) or FOXTEL's expanded digital Subscription Television Services (if broadcast via satellite).",
+      "id": "s407"
+    },
+    {
+      "text": "' \n \n \n\n103 However, I will allow the parties an opportunity to consider these terms and, if necessary, make submissions about them.",
+      "id": "s408"
+    },
+    {
+      "text": "Should the claim under the ADJR Act be dismissed as a matter of discretion?",
+      "id": "s409"
+    },
+    {
+      "text": "104 This issue was raised by a Notice of Motion filed by Foxtel which was listed for hearing at the same time as the proceedings generally.",
+      "id": "s410"
+    },
+    {
+      "text": "It relies on s 10(2)(b) of the ADJR Act.",
+      "id": "s411"
+    },
+    {
+      "text": "In view of my conclusion that there is no basis to set aside the decision of the ACCC the question is largely academic.",
+      "id": "s412"
+    },
+    {
+      "text": "105 However, I do not think a case was made out to dismiss the proceedings as a whole on discretionary grounds only.",
+      "id": "s413"
+    },
+    {
+      "text": "There are important differences between the proceedings contemplated by s 152CE of the TP Act and those commenced under the ADJR Act by Seven Network in this Court.",
+      "id": "s414"
+    },
+    {
+      "text": "Proceedings under s 152CE involve a full merits review but they do not result in a binding declaration of the legal position.",
+      "id": "s415"
+    },
+    {
+      "text": "Indeed, they leave open the prospect of an application under the ADJR Act against any decision of the Australian Competition Tribunal.",
+      "id": "s416"
+    },
+    {
+      "text": "The proceedings commenced in this Court are limited to questions of law but they have the potential to bring a greater degree of certainty within that limited scope.",
+      "id": "s417"
+    },
+    {
+      "text": "In the present case on the view I have formed it is appropriate to dismiss the claim under the ADJR Act on its legal merits rather than to decline to deal with it at all.",
+      "id": "s418"
+    },
+    {
+      "text": "106 The Notice of Motion will be dismissed.",
+      "id": "s419"
+    },
+    {
+      "text": "Conclusion \n \n107 I propose to make a declaration to the effect earlier indicated.",
+      "id": "s420"
+    },
+    {
+      "text": "The parties will have an opportunity to give consideration to the precise terms which are necessary and appropriate to give effect to these reasons.",
+      "id": "s421"
+    },
+    {
+      "text": "108 The application will be otherwise dismissed.",
+      "id": "s422"
+    },
+    {
+      "text": "109 The ACCC appeared in the proceeding but did so to assist the Court and did not enter upon the area of controversy between the parties.",
+      "id": "s423"
+    },
+    {
+      "text": "I found its submissions helpful.",
+      "id": "s424"
+    },
+    {
+      "text": "Seven Network failed in its application to have the decision of the ACCC set aside and failed to persuade me of any legal error in that decision.",
+      "id": "s425"
+    },
+    {
+      "text": "It has, however, succeeded in obtaining declaratory relief over the opposition of Foxtel.",
+      "id": "s426"
+    },
+    {
+      "text": "My preliminary inclination is to order that Seven Network should pay the costs of the ACCC and Foxtel should pay the costs of Seven Network, exclusive of the costs of the ACCC.",
+      "id": "s427"
+    },
+    {
+      "text": "However, that is not a final view.",
+      "id": "s428"
+    },
+    {
+      "text": "It is subject to consideration of submissions that any party may wish to make.",
+      "id": "s429"
+    },
+    {
+      "text": "110 I propose to give the parties an opportunity to consider the form of orders appropriate to give effect to my conclusions and the question of costs.",
+      "id": "s430"
+    },
+    {
+      "text": "I certify that the preceding one hundred and ten (110) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Buchanan.",
+      "id": "s431"
+    },
+    {
+      "text": "Associate:\n\nDated: 12 December 2007\n\n\n Counsel for the Applicant: J Sheahan SC, J Kirk \n \n Solicitor for the Applicant: Freehills \n \n Counsel for the First Respondent: N L Sharp \n \n Solicitor for the First Respondent: DLA Phillips Fox \n \n Counsel for the Second and Third Respondents: A J Meagher SC, M O'Bryan \n \n Solicitor for the Second and Third Respondents: Allens Arthur Robinson \n \n Date of Hearing: 25 - 26 October 2007 \n \n Date of Judgment: 12 December 2007 \n\n\n\n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/1929.html",
+      "id": "s432"
+    }
+  ]
+}

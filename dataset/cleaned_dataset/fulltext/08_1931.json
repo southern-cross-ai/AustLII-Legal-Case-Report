@@ -1,0 +1,592 @@
+{
+  "name": "Rafferty v Time 2000 West Pty Limited (No 2) [2008] FCA 1931 (17 December 2008)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2008/1931.html",
+  "catchphrases": [
+    {
+      "text": "freezing orders",
+      "id": "c0"
+    },
+    {
+      "text": "whether applicant has good arguable case on accrued cause of action against respondents",
+      "id": "c1"
+    },
+    {
+      "text": "whether danger prospective judgment in favour of applicants against respondents will remain unsatisfied or partly unsatisfied if recovery restricted to assets of respondents",
+      "id": "c2"
+    },
+    {
+      "text": "whether process is or may be available to applicants as consequence of judgment against respondents pursuant to which third party may be obliged to disgorge property or otherwise contribute to funds or property of respondents to help satisfy judgment against respondents",
+      "id": "c3"
+    },
+    {
+      "text": "where properties potential subjects of freezing orders held by third parties as trustees for trusts",
+      "id": "c4"
+    },
+    {
+      "text": "where fifth respondent is potential beneficiary under discretionary trust",
+      "id": "c5"
+    },
+    {
+      "text": "practice and procedure",
+      "id": "c6"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Introduction \n \n1 The applicants in this proceeding are Mr Patrick Campbell Rafferty, Santora Holdings Pty Limited (\"Santora\") and Karaville Holdings Pty Limited (\"Karaville\").",
+      "id": "s0"
+    },
+    {
+      "text": "Santora is a wholly-owned subsidiary of Karaville Holdings and Mr and Mrs Rafferty own all of the issued shares in Karaville.",
+      "id": "s1"
+    },
+    {
+      "text": "2 The respondents in the proceeding are Time 2000 West Pty Limited (\"T2W\"), Time 2000 Systems (Australia) Pty Limited (\"T2S\"), Time 2000 Operations (Australia) Pty Limited (\"T2O\"), Embleton Limited (a company incorporated in Hong Kong) and Mr Stephen Gerard Donovan.",
+      "id": "s2"
+    },
+    {
+      "text": "3 The directors of T2W are Mr Rafferty and Mr Donovan, and the shareholders are Santora and T2O.",
+      "id": "s3"
+    },
+    {
+      "text": "T2W is the joint venture vehicle under the agreements described below.",
+      "id": "s4"
+    },
+    {
+      "text": "It has taken no active part in the proceeding.",
+      "id": "s5"
+    },
+    {
+      "text": "It is convenient to refer to the second to fifth respondents as the respondents.",
+      "id": "s6"
+    },
+    {
+      "text": "4 T2S is a wholly-owned subsidiary of Almere Pty Limited (\"Almere\") and Mr Donovan is the sole director of that company.",
+      "id": "s7"
+    },
+    {
+      "text": "Almere is a company incorporated in Hong Kong and Mr Donovan is its sole director.",
+      "id": "s8"
+    },
+    {
+      "text": "5 T2O is a wholly-owned subsidiary of Time 2000 Services Limited (previously Welltron Limited) and Mr Donovan is the sole director of that company.",
+      "id": "s9"
+    },
+    {
+      "text": "Time 2000 Services Limited is a company incorporated in Hong Kong and Almere is its sole corporate director.",
+      "id": "s10"
+    },
+    {
+      "text": "6 Embleton is a company incorporated in Hong Kong, and Almere is its sole corporate director.",
+      "id": "s11"
+    },
+    {
+      "text": "The applicants' allegations \n \n7 Mr Rafferty, and companies associated with him, and Mr Donovan, and companies associated with him, entered into three agreements.",
+      "id": "s12"
+    },
+    {
+      "text": "The agreements embodied or reflected a proposal to exploit certain intellectual property interests (patents, patent applications and trade marks) with a view to marketing, selling and installing modular accommodation units in Western Australia and the Northern Territory.",
+      "id": "s13"
+    },
+    {
+      "text": "Mr Rafferty, Mr Donovan, T2S and Embleton entered into a Heads of Agreement on 8 October 2007.",
+      "id": "s14"
+    },
+    {
+      "text": "Mr Rafferty, Santora, T2O and T2W entered into a Joint Venture and Shareholders' Agreement on 23 November 2007.",
+      "id": "s15"
+    },
+    {
+      "text": "Mr Rafferty, Santora, Karaville, T2S, T2W and Embleton entered into a Rights Agreement on 19 December 2007.",
+      "id": "s16"
+    },
+    {
+      "text": "It is alleged by the applicants that, under the agreements, they paid sums totalling $1.7 million to the respondents.",
+      "id": "s17"
+    },
+    {
+      "text": "8 The applicants allege that the agreements together constituted a \"franchise agreement\" and a \"franchise system\" within the meaning of the Trade Practices Act 1974 (Cth) (\"the TPA\") and cll 3(1) and 4 of the Franchising Code of Conduct (\"the Code\") which is a schedule to the Trade Practices (Industry Codes -- Franchising) Regulations 1998 (Cth).",
+      "id": "s18"
+    },
+    {
+      "text": "It is alleged by the applicants that T2S was a franchisor and T2W was a franchisee.",
+      "id": "s19"
+    },
+    {
+      "text": "It is further alleged by the applicants that Mr Rafferty and Santora were franchisees or, alternatively, Mr Rafferty, Santora and Karaville were franchisees, being persons with an interest in the franchise within the meaning of \"franchisee\" in cl 3(1) of the Code.",
+      "id": "s20"
+    },
+    {
+      "text": "It is alleged that Embleton and Mr Donovan were associates of T2S within the meaning of cl 3(1) of the Code.",
+      "id": "s21"
+    },
+    {
+      "text": "It is alleged that Mr Rafferty, Santora and Karaville were not provided with the required documents under the Code and that, in turn, T2S was not provided with the documents it was required to obtain under the Code.",
+      "id": "s22"
+    },
+    {
+      "text": "9 It is alleged by the applicants that each of the respondents contravened a mandatory industry code: s 51AD of the TPA.",
+      "id": "s23"
+    },
+    {
+      "text": "In addition to seeking various declarations, the applicants seek\n an order that the money paid by the applicants, or any of them, in respect of the Heads of Agreement, the Joint Venture and Shareholders' Agreement and the Rights Agreement be repaid to the applicants by the respondent [sic], forthwith.",
+      "id": "s24"
+    },
+    {
+      "text": "10 In their defence the respondents deny the allegation that the agreements together constituted a \"franchise agreement\" and a \"franchise system\".",
+      "id": "s25"
+    },
+    {
+      "text": "In the alternative, the respondents allege that at no time did the applicants request the relevant documents and that the applicants were provided with the information needed in order to make an informed decision about whether to enter into the three agreements.",
+      "id": "s26"
+    },
+    {
+      "text": "The respondents allege that the applicants are estopped and precluded from relying on any alleged breaches of the Code or, in the alternative, that they have waived any rights in relation to the Code.",
+      "id": "s27"
+    },
+    {
+      "text": "The applicants' application for freezing orders \n \n11 On 5 December 2008 the applicants issued a notice of motion seeking orders to the effect of the following (relevantly):\n \n \n 1. that Gemhall Holdings Pty Limited ACN 065 106 381 pay the proceeds of any sale of the property described in Victorian Certificate of Title Volume 10362 Folio 393 being property situated at Level 1, 529 Chapel Street, South Yarra in the State of Victoria, net of the amount (if any) required to discharge any mortgage and net of all usual costs incurred in the course of sale, into an interest bearing account;\n 2. that Time 2000 Pty Limited ACN 079 316 224 pay the proceeds of any sale of the property described in Victorian Certificate of Title Volume 8193 Folio 672 being property situated at 291 Beaconsfield Parade, Middle Park in the State of Victoria, net of the amount (if any) required to discharge any mortgage and net of all usual costs incurred in the course of sale, into an interest bearing account;\n 3. in respect of the above orders, that Gemhall Holdings Pty Limited ACN 065 106 381 and Time 2000 Pty Limited ACN 079 316 224 respectively, by themselves, their directors, officers, employees, agents or otherwise, be restrained until further order from disposing of or otherwise dealing with the moneys in the accounts the subject of those orders (save and to the extent, if any, that the total of those moneys exceeds $1.7 million, in which case the balance of those moneys above $1.7 million is not to be the subject of this order); and\n 4. that the second to fifth respondents inclusive file affidavits within seven days disclosing the assets owned by each of them available to meet a judgment in favour of the applicants.",
+      "id": "s28"
+    },
+    {
+      "text": "The evidence \n \n12 The evidence put forward by the applicants in support of their application establishes the following matters: \n \n \n 1.",
+      "id": "s29"
+    },
+    {
+      "text": "The respondents do not own any real property within Victoria.",
+      "id": "s30"
+    },
+    {
+      "text": "2.",
+      "id": "s31"
+    },
+    {
+      "text": "The property at Level 1 (Lot 5), 529 Chapel Street, South Yarra, Victoria (\"Chapel Street property\") is owned by Gemhall Holdings Pty Limited (\"Gemhall Holdings\") and the property at 291 Beaconsfield Parade, Middle Park, Victoria (\"Beaconsfield Parade property\") is owned by Time 2000 Pty Limited (\"Time 2000\").",
+      "id": "s32"
+    },
+    {
+      "text": "3.",
+      "id": "s33"
+    },
+    {
+      "text": "The Chapel Street property was advertised for sale by auction, and the date for the holding of the auction was 11 December 2008.",
+      "id": "s34"
+    },
+    {
+      "text": "The Beaconsfield Parade property was advertised for sale, and in the advertisement it was said that expressions of interest closed on 10 December 2008.",
+      "id": "s35"
+    },
+    {
+      "text": "The advertisement referred to the fact that the property is a beachfront property and that in relation to the property there is an approval to build three waterfront residences.",
+      "id": "s36"
+    },
+    {
+      "text": "4.",
+      "id": "s37"
+    },
+    {
+      "text": "In terms of the $1.7 million paid to the respondents by the applicants, the solicitors for the respondents paid $250,000 to each of Time 2000 and Gemhall Holdings on or about 31 December 2007.",
+      "id": "s38"
+    },
+    {
+      "text": "5.",
+      "id": "s39"
+    },
+    {
+      "text": "Mr Donovan is the sole director of Time 2000 and Gemhall Holdings is the sole shareholder.",
+      "id": "s40"
+    },
+    {
+      "text": "Mr Donovan is the sole director and shareholder of Gemhall Holdings.",
+      "id": "s41"
+    },
+    {
+      "text": "13 The evidence put forward by the respondents in response to the application establishes the following matters.",
+      "id": "s42"
+    },
+    {
+      "text": "1.",
+      "id": "s43"
+    },
+    {
+      "text": "By trust deed dated 6 April 1994, the Stephen Donovan Family Trust was established.",
+      "id": "s44"
+    },
+    {
+      "text": "The founder was Mr Bruce Heaney, and the trustee of the trust is Gemhall Holdings.",
+      "id": "s45"
+    },
+    {
+      "text": "The trust is a discretionary trust and the beneficiaries include Mr Donovan, his parents, any future spouse and child or children of Mr Donovan, any charity and any school, body, institution, corporation or foundation established for education purposes.",
+      "id": "s46"
+    },
+    {
+      "text": "Mr Donovan is named in the Trust Deed as the appointor.",
+      "id": "s47"
+    },
+    {
+      "text": "2.",
+      "id": "s48"
+    },
+    {
+      "text": "On 6 February 1998, Gemhall Holdings, as trustee for the Stephen Donovan Family Trust, purchased the Chapel Street property.",
+      "id": "s49"
+    },
+    {
+      "text": "On 29 October 2007, Gemhall Holdings, as trustee for the Stephen Donovan Family Trust, entered into a mortgage with Perpetual Trustee Company Limited.",
+      "id": "s50"
+    },
+    {
+      "text": "In October 2007, Gemhall Holdings, as trustee for the Stephen Donovan Family Trust, commenced to lend moneys to T2S, and the loans totalled approximately $310,000.",
+      "id": "s51"
+    },
+    {
+      "text": "The payment of $250,000 made on 31 December 2007 was a partial repayment of the loans.",
+      "id": "s52"
+    },
+    {
+      "text": "Gemhall Holdings is required to sell the Chapel Street property in order to raise money to pay the mortgage to Perpetual Trustee Company Limited.",
+      "id": "s53"
+    },
+    {
+      "text": "The mortgage is currently paid until December 2008.",
+      "id": "s54"
+    },
+    {
+      "text": "Gemhall Holdings will be unable to pay the mortgage beyond December 2008 if the property is not sold.",
+      "id": "s55"
+    },
+    {
+      "text": "If the property is sold, the deposit money will be sought to be released to be used to continue paying the mortgage until settlement of the sale.",
+      "id": "s56"
+    },
+    {
+      "text": "3.",
+      "id": "s57"
+    },
+    {
+      "text": "By trust deed dated 1 April 2004, a trust called the Diamanti Trust was created.",
+      "id": "s58"
+    },
+    {
+      "text": "The trust is a unit trust and the trustee is Time 2000.",
+      "id": "s59"
+    },
+    {
+      "text": "The only unit holder is Gemhall Holdings, and it holds its 100 units as trustee for the Stephen Donovan Family Trust.",
+      "id": "s60"
+    },
+    {
+      "text": "4.",
+      "id": "s61"
+    },
+    {
+      "text": "On 13 December 2004, Time 2000, as trustee of the Diamanti Trust, purchased the Beaconsfield Parade property.",
+      "id": "s62"
+    },
+    {
+      "text": "On 8 October 2000, Time 2000, as trustee for the Diamanti Trust entered into a mortgage in the sum of $1.8 million (approximately) with the Commonwealth Bank of Australia, secured by the Beaconsfield Parade property.",
+      "id": "s63"
+    },
+    {
+      "text": "The funds advanced by the Commonwealth Bank of Australia were used for the purpose of servicing and repaying loans owed by the trust.",
+      "id": "s64"
+    },
+    {
+      "text": "In October 2007, Time 2000, as trustee for the Diamanti Trust, commenced to lend moneys to T2S and the loans totalled approximately $310,000.",
+      "id": "s65"
+    },
+    {
+      "text": "These moneys were advanced for the purpose of funding the business operations of T2S.",
+      "id": "s66"
+    },
+    {
+      "text": "The sum of $250,000 paid to Time 2000 on 31 December 2007 was a partial repayment of the loans.",
+      "id": "s67"
+    },
+    {
+      "text": "5.",
+      "id": "s68"
+    },
+    {
+      "text": "On 24 November 2008 a letter was sent to those who had expressed interest in the Beaconsfield Parade property, advising that the vendor had decided to develop townhouses on the property and that the townhouses would be sold \"off the plan\".",
+      "id": "s69"
+    },
+    {
+      "text": "Construction works must begin on the Beaconsfield Parade property by November 2009, otherwise the planning permit will lapse.",
+      "id": "s70"
+    },
+    {
+      "text": "If no offers are received for the purchase of the townhouses, Time 2000 will consider other options including the sale of the Beaconsfield Parade property.",
+      "id": "s71"
+    },
+    {
+      "text": "6.",
+      "id": "s72"
+    },
+    {
+      "text": "On or about 10 or 11 December 2008, Mr Donovan's fianc&eacute;e, Ms Kamila Runkowska, was appointed a director of each of Gemhall Holdings and Time 2000, and she replaced Mr Donovan as the appointor under the Stephen Donovan Family Trust.",
+      "id": "s73"
+    },
+    {
+      "text": "Ms Runkowska has sworn an affidavit saying that at all material times she has acted, and will continue to act, independently of Mr Donovan, and that her role as director and appointor is not subject to the control or direction of Mr Donovan.",
+      "id": "s74"
+    },
+    {
+      "text": "Mr Donovan states in his affidavit that the appointments were made: \n \n \n \n \n ... in order to remove any perceived influence which any Respondent may have over the proceeds from the sale of the properties, I have ceased acting as the appointor of the Family Trust.",
+      "id": "s75"
+    },
+    {
+      "text": "Kamila Runkowska (\" Ms Runkowska \"), my fianc&eacute; [sic], is now the appointor of the Family Trust.",
+      "id": "s76"
+    },
+    {
+      "text": "Ms Runkowska has also been appointed as a director of Gemhall and Time 2000.",
+      "id": "s77"
+    },
+    {
+      "text": "Ms Runkowska is independently advised and has obtained legal advice as to her obligations as a director and an appointor of the Family Trust.",
+      "id": "s78"
+    },
+    {
+      "text": "The law \n \n14 The Court has power under s 23 of the Federal Court of Australia Act 1976 (Cth) to make Mareva orders or (as they are referred to in the Federal Court Rules ) freezing orders.",
+      "id": "s79"
+    },
+    {
+      "text": "A number of principles relating to the circumstances in which such orders may be made have been developed in the cases.",
+      "id": "s80"
+    },
+    {
+      "text": "For present purposes, it is sufficient to refer to Jackson v Sterling Industries Ltd (1987) 162 CLR 612 ; Cardile v LED Builders Pty Ltd [1999] HCA 18 ; (1999) 198 CLR 380 (\" Cardile \").",
+      "id": "s81"
+    },
+    {
+      "text": "15 Cardile is of particular significance in this case because it concerned Mareva orders sought against third parties.",
+      "id": "s82"
+    },
+    {
+      "text": "In their joint reasons, Gaudron, McHugh, Gummow and Callinan JJ made a number of points.",
+      "id": "s83"
+    },
+    {
+      "text": "First, there is no basis for the making of an order against a non-party which is not answerable or liable in some way to a party (applicant or respondent) in a proceeding where judgment has not been obtained or execution recovered, or not holding, controlling or capable of disposing of the property of a party in that proceeding (at 401-402 [45]).",
+      "id": "s84"
+    },
+    {
+      "text": "Secondly, the jurisdiction of the Court to grant Mareva orders against third parties is not limited to cases in which the third party holds or is about to hold or dissipate or further dissipate property beneficially owned by the defendant in the substantive proceedings.",
+      "id": "s85"
+    },
+    {
+      "text": "Nevertheless, if such circumstances do not exist, it will be a rare case in which a Mareva order will be granted (405 [54]).",
+      "id": "s86"
+    },
+    {
+      "text": "Thirdly, the guiding principle in considering whether to grant Mareva orders against third parties is set out in the following passage from the joint reasons (at 405-406 [57]) (citations omitted):\n \n \n What then is the principle to guide the courts in determining whether to grant Mareva relief in a case such as the present where the activities of third parties are the object sought to be restrained?",
+      "id": "s87"
+    },
+    {
+      "text": "In our opinion such an order may, and we emphasise the word \"may\", be appropriate, assuming the existence of other relevant criteria and discretionary factors, in circumstances in which: (i) the third party holds, is using, or has exercised or is exercising a power of disposition over, or is otherwise in possession of, assets, including \"claims and expectancies\", of the judgment debtor or potential judgment debtor; or (ii) some process, ultimately enforceable by the courts, is or may be available to the judgment creditor as a consequence of a judgment against that actual or potential judgment debtor, pursuant to which, whether by appointment of a liquidator, trustee in bankruptcy, receiver or otherwise, the third party may be obliged to disgorge property or otherwise contribute to the funds or property of the judgment debtor to help satisfy the judgment against the judgment debtor.",
+      "id": "s88"
+    },
+    {
+      "text": "Fourthly, there are a number of discretionary factors (referred to at 404 [53]) relevant to whether an order should be made and these include, but are not limited to, the following:\n \n1.",
+      "id": "s89"
+    },
+    {
+      "text": "Whether the applicant has acted in a timely fashion;\n \n \n 2.",
+      "id": "s90"
+    },
+    {
+      "text": "Whether the applicant has obtained a money judgment in the proceeding; and \n \n\n3.",
+      "id": "s91"
+    },
+    {
+      "text": "Whether the applicant has a cause of action against the third party.",
+      "id": "s92"
+    },
+    {
+      "text": "16 Order 25A of the Federal Court Rules is entitled \"Freezing Orders\" and came into operation on 5 May 2006.",
+      "id": "s93"
+    },
+    {
+      "text": "For the most part it reflects the principles developed in the cases, including Cardile .",
+      "id": "s94"
+    },
+    {
+      "text": "Order 25A r 6 provides that \"[n]othing in the Order diminishes the inherent, implied or statutory jurisdiction of the Court to make a freezing order or an ancillary order\".",
+      "id": "s95"
+    },
+    {
+      "text": "Order 25A r 5(1)(b) provides that in a case such as the present, the applicant must have a \"good arguable case\" on an accrued cause of action.",
+      "id": "s96"
+    },
+    {
+      "text": "Order 25A r 5(4) deals with freezing orders against judgment debtors and prospective judgment debtors.",
+      "id": "s97"
+    },
+    {
+      "text": "Order 25A r 5(5) deals with freezing orders against third parties and it provides:\n \n \n (5) The Court may make a freezing order or an ancillary order or both against a person other than a judgment debtor or prospective judgment debtor (a third party ) if the Court is satisfied, having regard to all the circumstances, that:\n \n \n \n \n \n (a) there is a danger that a judgment or prospective judgment will be wholly or partly unsatisfied because:\n \n \n \n(i) the third party holds or is using, or has exercised or is exercising, a power of disposition over assets (including claims and expectancies) of the judgment debtor or prospective judgment debtor; or (ii) the third party is in possession of, or in a position of control or influence concerning, assets (including claims and expectancies) of the judgment debtor or prospective judgment debtor; or \n \n \n (b) a process in the Court is or may ultimately be available to the applicant as a result of a judgment or prospective judgment, under which process the third party may be obliged to disgorge assets or contribute toward satisfying the judgment or prospective judgment.",
+      "id": "s98"
+    },
+    {
+      "text": "Resolution of the issues \n \n17 The first question in the present case is whether the applicants have a good arguable case on an accrued cause of action against the respondents.",
+      "id": "s99"
+    },
+    {
+      "text": "Neither party made detailed submissions on this question.",
+      "id": "s100"
+    },
+    {
+      "text": "I have considered carefully the pleadings and affidavits and I am satisfied that the applicant has a good arguable case on an accrued cause of action against the respondents.",
+      "id": "s101"
+    },
+    {
+      "text": "18 The second question is whether there is a danger that a prospective judgment in favour of the applicants against the respondents will remain unsatisfied, or partly unsatisfied, if recovery is restricted to the assets of those respondents.",
+      "id": "s102"
+    },
+    {
+      "text": "Details of the financial affairs of the respondents have not been put before me and, in fact, the applicants seek by way of ancillary orders, orders that affidavits of disclosure be filed and served by the respondents.",
+      "id": "s103"
+    },
+    {
+      "text": "It has been established that the respondents do not own any real property in the State of Victoria.",
+      "id": "s104"
+    },
+    {
+      "text": "It has also been established that the second respondent owes reasonably substantial sums of money to the third parties.",
+      "id": "s105"
+    },
+    {
+      "text": "It has also been established that one of the companies associated with Mr Donovan, Gemhall Holdings, will be unable to pay the mortgage over the Chapel Street property beyond December 2008 if it is not sold.",
+      "id": "s106"
+    },
+    {
+      "text": "If the property is sold the deposit money will be sought to be released to be used to continue to pay the mortgage until settlement of the sale.",
+      "id": "s107"
+    },
+    {
+      "text": "In my opinion, the applicants have established that there is a danger that a prospective judgment in their favour against the respondents will remain unsatisfied, or partly unsatisfied, if recovery is restricted to the assets of the respondents.",
+      "id": "s108"
+    },
+    {
+      "text": "19 It seems to me that the most contentious issue in this case relates to the third question, namely, whether some process, ultimately enforceable by the courts, is or may be available to the applicants as a consequence of a judgment against the respondents, pursuant to which, whether by appointment of a liquidator, trustee in bankruptcy, receiver or otherwise, the third party may be obliged to disgorge property or otherwise contribute to the funds or property of the respondents to help satisfy the judgment against the respondents.",
+      "id": "s109"
+    },
+    {
+      "text": "20 The applicants submit that I should ignore the transactions effected on 10 or 11 December 2008.",
+      "id": "s110"
+    },
+    {
+      "text": "They submit that, if anything, those transactions should heighten the Court's concern about the disposal of assets rather than allay it.",
+      "id": "s111"
+    },
+    {
+      "text": "The applicants submit that Mr Donovan owns and controls Gemhall Holdings and that, by reason of the fact that he holds the power of appointment, he controls the Stephen Donovan Family Trust.",
+      "id": "s112"
+    },
+    {
+      "text": "21 The respondents submit that the properties are held by the third parties as trustees for the respective trusts and that, as the Stephen Donovan Family Trust is a discretionary trust, there is no property of Mr Donovan which could be recovered by a trustee in bankruptcy, should Mr Donovan suffer bankruptcy as a result of the applicants obtaining a judgment against him.",
+      "id": "s113"
+    },
+    {
+      "text": "22 In my opinion, a Mareva or freezing order should be made against the third parties.",
+      "id": "s114"
+    },
+    {
+      "text": "23 The third party companies are part of a group of companies owned and controlled by Mr Donovan.",
+      "id": "s115"
+    },
+    {
+      "text": "That control is exercised through companies in Australia and companies in Hong Kong.",
+      "id": "s116"
+    },
+    {
+      "text": "Gemhall Holdings is proposing to sell what appears from the material (including company searches) placed before me to be the principal place of business in Australia of the companies owned and controlled by Mr Donovan.",
+      "id": "s117"
+    },
+    {
+      "text": "24 I am disposed to place little weight on the transactions effected on 10 or 11 December 2008.",
+      "id": "s118"
+    },
+    {
+      "text": "They were carried out in the shadow of this application and the fact is that it is Mr Donovan's fianc&eacute;e who has become a director of Time 2000 and Gemhall Holdings, and appointor of the Stephen Donovan Family Trust.",
+      "id": "s119"
+    },
+    {
+      "text": "25 The respondents' submission that Mr Donovan, as a member of a class of possible objects of appointment, has no proprietary interest in the trust assets is correct: In re Coleman; Henry v Strong (1888) 39 Ch D 443 ; In re Weir's Settlement Trusts; Macpherson v Inland Revenue Commissioners [1971] Ch 145.",
+      "id": "s120"
+    },
+    {
+      "text": "However, I do not think that is fatal to the applicants' application.",
+      "id": "s121"
+    },
+    {
+      "text": "I say that for the following reason.",
+      "id": "s122"
+    },
+    {
+      "text": "I think the test formulated by the High Court in Cardile ((ii) in the passage quoted above at [15]) and reflected in O 25A r 5(5) is wide enough to cover the present circumstances.",
+      "id": "s123"
+    },
+    {
+      "text": "Both refer to a process which \"is or may ultimately be available\" and the fact that the third party \" may be obliged to disgorge assets\" or contribute towards satisfying the judgment or prospective judgment.",
+      "id": "s124"
+    },
+    {
+      "text": "It is possible that Mr Donovan will receive an interest under the Stephen Donovan Family Trust which is recoverable by a trustee in bankruptcy in the event that the applicants obtain a judgment against Mr Donovan and he is placed into bankruptcy upon being unable to satisfy that judgment.",
+      "id": "s125"
+    },
+    {
+      "text": "I am mindful of the fact that considerable caution must be exercised in making freezing orders against third parties, but at the same time there needs to be some flexibility in the test, as the circumstances of this case plainly show.",
+      "id": "s126"
+    },
+    {
+      "text": "Other courts have considered that the use of the word \"may\" is significant: Westpac Banking Corporation v Hilliard [2001] VSC 187 ; Audio Products Group Pty Ltd v Mamone [2005] NSWSC 982 ; Robmatjus Pty Ltd v Violet Home Loans Australia Pty Ltd [2007] VSC 165.",
+      "id": "s127"
+    },
+    {
+      "text": "26 There are two other possible bases for orders in this case.",
+      "id": "s128"
+    },
+    {
+      "text": "The first is that, in the circumstances of this case, the Court is able to look behind the trust structure and determine that, in reality, the property of the trust is effectively Mr Donovan's property because he effectively controls the power of selection ( Australian Securities and Investments Commission v Carey (No 6) [2006] FCA 814 ; (2006) 153 FCR 509 at 518 [29] and 520-521 [36]-[39] per French J).",
+      "id": "s129"
+    },
+    {
+      "text": "The second possible basis is that Mr Donovan has, in the particular circumstances of this case, an expectancy under the Stephen Donovan Family Trust (see Gartside v Inland Revenue Commissioners [1967] UKHL 6 ; [1968] AC 553 at 607 per Lord Reid, at 615 per Lord Wilberforce; Hunt v Muollo [2003] 2 NZLR 322 at 325 [11]) and the case falls within Cardile ((i) in the passage quoted above at [15]) or O 25A r 5(5)(a).",
+      "id": "s130"
+    },
+    {
+      "text": "As these possibilities were not the subject of detailed submissions by counsel, I do no more than identify them as a possible basis for the freezing orders against the third parties.",
+      "id": "s131"
+    },
+    {
+      "text": "27 I have considered whether there are any discretionary reasons not to make freezing orders against the third parties.",
+      "id": "s132"
+    },
+    {
+      "text": "I have considered the type of matters identified by the High Court in Cardile (see [15] above).",
+      "id": "s133"
+    },
+    {
+      "text": "I do not think that there are any discretionary reasons not to make the orders.",
+      "id": "s134"
+    },
+    {
+      "text": "28 In addition to the freezing orders, I think it is appropriate to make the ancillary orders.",
+      "id": "s135"
+    },
+    {
+      "text": "Conclusion \n \n29 I will make the orders sought by the applicants, subject to any submissions the respondents wish to make as to the form of the orders.",
+      "id": "s136"
+    },
+    {
+      "text": "I certify that the preceding twenty-nine (29) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Besanko.",
+      "id": "s137"
+    },
+    {
+      "text": "Associate:\n\nDated: 18 December 2008\n\n Counsel for the Applicants: Mr I C Robertson \n \n Solicitor for the Applicants: Cosoff Cudmore Knox \n \n Counsel for the Respondents: Mr S J White \n \n Solicitor for the Respondents: Madgwicks \n\n Date of Hearing: 12 December 2008 \n \n Date of Judgment: 17 December 2008 \n\n \n\n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2008/1931.html",
+      "id": "s138"
+    }
+  ]
+}

@@ -1,0 +1,1448 @@
+{
+  "name": "Cassaniti v Tax Agents' Board of New South Wales [2009] FCA 619 (10 June 2009)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2009/619.html",
+  "catchphrases": [
+    {
+      "text": "power to suspend registration of tax agent",
+      "id": "c0"
+    },
+    {
+      "text": "whether multiple exercises of power in respect of same conduct infringed rule against double jeopardy",
+      "id": "c1"
+    },
+    {
+      "text": "notice to give evidence issued pursuant to reg 168(a) of the income tax regulations 1936 (cth)",
+      "id": "c2"
+    },
+    {
+      "text": "notice sought production of copies of documents",
+      "id": "c3"
+    },
+    {
+      "text": "whether issue of notice obliged recipient to produce copies not already in existence",
+      "id": "c4"
+    },
+    {
+      "text": "criminal proceeding pending in local court",
+      "id": "c5"
+    },
+    {
+      "text": "whether real risk that conduct of parallel administrative investigation would prejudice criminal proceeding",
+      "id": "c6"
+    },
+    {
+      "text": "administrative law",
+      "id": "c7"
+    },
+    {
+      "text": "taxation law",
+      "id": "c8"
+    },
+    {
+      "text": "contempt of court",
+      "id": "c9"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Introduction\n Mr Sam Cassaniti and Mr David Cassaniti are cousins.",
+      "id": "s0"
+    },
+    {
+      "text": "Without disrespect I will refer to them as Sam and David.",
+      "id": "s1"
+    },
+    {
+      "text": "They have a problem.",
+      "id": "s2"
+    },
+    {
+      "text": "Late last year Sam was charged by the New South Wales Police Force with fraudulently misappropriating some cheques made out to the Australian Tax Office (\"ATO\").",
+      "id": "s3"
+    },
+    {
+      "text": "For present purposes attention may be confined to one of the cheques.",
+      "id": "s4"
+    },
+    {
+      "text": "It was for $282,799.35.",
+      "id": "s5"
+    },
+    {
+      "text": "The police say that Sam paid the cheque into the trust account of the tax agent business conducted by his cousin David.",
+      "id": "s6"
+    },
+    {
+      "text": "David is a tax agent and his business as such is conducted through a company called Armstrong Scalisi Pty Ltd which trades under the name CAP Accounting (\"CAP\").",
+      "id": "s7"
+    },
+    {
+      "text": "There appears to be no dispute that the cheque was drawn by a client of CAP called Midnight Seas Pty Ltd (\"Midnight Seas\") in favour of the ATO.",
+      "id": "s8"
+    },
+    {
+      "text": "According to David, Midnight Seas owns a fruit shop in Leichhardt and had, at some point, instructed his firm to incorporate a company in the Seychelles with bank accounts in Singapore and Hong Kong.",
+      "id": "s9"
+    },
+    {
+      "text": "There is no debate that the cheque did find its way into CAP's trust account.",
+      "id": "s10"
+    },
+    {
+      "text": "Midnight Seas says, however, that it handed the cheque to Sam to pay its tax liabilities and not to pay CAP.",
+      "id": "s11"
+    },
+    {
+      "text": "Understandably, given the criminal proceedings against him, Sam has given little of his side of the story.",
+      "id": "s12"
+    },
+    {
+      "text": "Nor, I should say, does the evidence before me disclose the business relationship between David and CAP, on the one hand, and CAP and Sam, on the other.",
+      "id": "s13"
+    },
+    {
+      "text": "It is known, however, that CAP (and David) claim that CAP was entitled to bank the monies in question.",
+      "id": "s14"
+    },
+    {
+      "text": "This proceeding, and the cousins' problem, arises from the fact that Midnight Seas not only complained to the New South Wales Police Force (who charged Sam) but to the Tax Agents' Board of New South Wales which is now investigating CAP.",
+      "id": "s15"
+    },
+    {
+      "text": "The Board is responsible for the registration of tax agents such as CAP.",
+      "id": "s16"
+    },
+    {
+      "text": "The problem arises this way.",
+      "id": "s17"
+    },
+    {
+      "text": "Following a complaint to it by Midnight Seas the Board began, in about October last year, to ask questions of CAP designed to reveal how, and on what basis, the cheque came to be in CAP's trust account.",
+      "id": "s18"
+    },
+    {
+      "text": "Much correspondence passed between CAP and the Board which did not ultimately result in satisfaction on the Board's part.",
+      "id": "s19"
+    },
+    {
+      "text": "The police charged Sam at the very end of last year, after the Board's inquiries had begun.",
+      "id": "s20"
+    },
+    {
+      "text": "The Board has some powers to compel people to provide it with information.",
+      "id": "s21"
+    },
+    {
+      "text": "No doubt, in an attempt to obtain more and better information from CAP about the circumstances surrounding the banking of the cheque, the Board used those powers on 16 January 2009.",
+      "id": "s22"
+    },
+    {
+      "text": "It required CAP to provide information about various matters and to do so, ultimately, by 9 February 2009.",
+      "id": "s23"
+    },
+    {
+      "text": "Following further largely unhelpful correspondence, CAP did not comply with the notice.",
+      "id": "s24"
+    },
+    {
+      "text": "Doing the best that it could with what appears to have been reasonably lacklustre co-operation from CAP, the Board carried on with its inquiries.",
+      "id": "s25"
+    },
+    {
+      "text": "On 20 February 2009 it issued a show cause notice to CAP and on 27 February 2009 it suspended CAP's registration as a tax agent for a period of one month or until such time as it was provided with information explaining CAP's position in relation to the cheque.",
+      "id": "s26"
+    },
+    {
+      "text": "Such information was not forthcoming.",
+      "id": "s27"
+    },
+    {
+      "text": "On 27 March 2009, the Board suspended CAP's registration as a tax agent again --- this time until 28 June 2009.",
+      "id": "s28"
+    },
+    {
+      "text": "On 30 March 2009 the Board suspended David's registration as a tax agent for a period of three months expiring on 30 June 2009.",
+      "id": "s29"
+    },
+    {
+      "text": "The issues which arise are: \n(a) The double jeopardy issue .",
+      "id": "s30"
+    },
+    {
+      "text": "CAP contends that once the Board had suspended its registration the first time, it had no power to suspend it a second time for the same conduct.",
+      "id": "s31"
+    },
+    {
+      "text": "Hence, the second notice of suspension should be set aside.",
+      "id": "s32"
+    },
+    {
+      "text": "Further, if that were correct, the Board had no continuing power to investigate the affairs of CAP at least so far as they involved the handling of the Midnight Seas cheque.",
+      "id": "s33"
+    },
+    {
+      "text": "(b) The onus of proof issue .",
+      "id": "s34"
+    },
+    {
+      "text": "Part of the reasons provided by the Board for suspending the registration of CAP included, on one view of things, a determination by the Board that it was not satisfied that CAP had not misappropriated the cheque.",
+      "id": "s35"
+    },
+    {
+      "text": "CAP submitted that the power of suspension conferred upon the Board was one which arose only upon the Board being affirmatively satisfied of misconduct.",
+      "id": "s36"
+    },
+    {
+      "text": "CAP submitted, and the Board denied, that the failure by the Board to be satisfied that CAP had not committed misconduct constituted an error of law.",
+      "id": "s37"
+    },
+    {
+      "text": "(c) The natural justice issue .",
+      "id": "s38"
+    },
+    {
+      "text": "CAP submitted that it had been denied natural justice because the Board did not give it the opportunity to cross-examine the complainant and because the Board had relied upon untested assertions by Midnight Seas.",
+      "id": "s39"
+    },
+    {
+      "text": "(d) The contempt issue .",
+      "id": "s40"
+    },
+    {
+      "text": "Sam submitted that the conduct by the Board of a parallel administrative investigation into CAP was very likely to prejudice the conduct of the criminal proceedings against him before the Local Court.",
+      "id": "s41"
+    },
+    {
+      "text": "He sought, therefore, to restrain the Board from further pursuing its inquiries whilst his criminal proceedings remained on foot.",
+      "id": "s42"
+    },
+    {
+      "text": "(e) The notice issue .",
+      "id": "s43"
+    },
+    {
+      "text": "Both Sam and CAP sought to set aside the Board's notice to CAP of 16 January 2009.",
+      "id": "s44"
+    },
+    {
+      "text": "They did so on different bases.",
+      "id": "s45"
+    },
+    {
+      "text": "CAP said the notice was invalid for various technical reasons; Sam said that the notice had a capacity to prejudice the integrity of the criminal proceedings against him in the Local Court.",
+      "id": "s46"
+    },
+    {
+      "text": "It is convenient to deal with those issues in the above order.",
+      "id": "s47"
+    },
+    {
+      "text": "(a) The double jeopardy issue\n On 27 February 2009 the Board wrote to CAP in terms which included the following: \nWe refer to previous correspondence regarding the complaint made against Armstrong Scalisi Holdings Pty Ltd (the company) by Midnight Seas Pty Ltd (the complainant) and especially the show cause letter dated 20 February 2009.",
+      "id": "s48"
+    },
+    {
+      "text": "On 27 February 2990, Tax Agents' Board of New South Wales (the Board) resolved to suspend the tax agent registration of the company pursuant to section 251K(2)(b)(i) and (ii) of the Income Tax Assessment Act 1936 (the Act), commencing on 27 February 2009 for a period of one month expiring on 27 March 2009 or upon response to Board correspondence which after review by the Board, it views as a satisfactory explanation, whichever is the sooner.",
+      "id": "s49"
+    },
+    {
+      "text": "The Board has considered the complaint and all subsequent correspondence received from you and the complainants and notes that:\n \n in relation to the complaint by the complainant, your response letter dated 21 November 2008 stated: \n\"We were handed a cheque drawn in favour of the ATO and instructed to hold the cheque until the monies were paid by the insurance company to the Company.",
+      "id": "s50"
+    },
+    {
+      "text": "\";\n the cheque in favour of \"ATO\" for $282,799.35 dated 19 August 2008 drawn by the complainant was deposited to the company's trust account with the St George Bank on 22 August 2008 the response period for Board's show cause letter dated 20 February 2009 expired at noon today (27 February 2009); there has been no response to the Board's show cause letter dated 20 February 2009 by the due response expiry time.",
+      "id": "s51"
+    },
+    {
+      "text": "Reason for decision :\n \nBased on the information before it, the Board:\n is satisfied that the company acted contrary to the express instructions of its client (the complainant); and is not satisfied that the company has not misappropriated client funds payable to the Australian Taxation Office.",
+      "id": "s52"
+    },
+    {
+      "text": "Consequently the company is guilty of misconduct as a tax agent and has neglected the business of a principal.",
+      "id": "s53"
+    },
+    {
+      "text": "Accordingly, the Board has suspended the company's registration under section 251K(2)(b)(i) and (ii) and 251K (3) of the Income Tax Assessment Act 1936 , for the protection of the public, for a period of one month or upon responses to Board correspondence which after review by the Board, it views as a satisfactory explanation, whichever is the sooner.",
+      "id": "s54"
+    },
+    {
+      "text": "This will afford you the opportunity, if you so wish, to produce evidence, testimonials and any other material you think is relevant to your case as satisfactory explanation to the Board.",
+      "id": "s55"
+    },
+    {
+      "text": "The Board will consider any such material provided it is received in the secretariat before 27 March 2009 .",
+      "id": "s56"
+    },
+    {
+      "text": "The Board will review this matter as a result of any response (if any) and make a decision on your suspension, cancellation or any other appropriate action.",
+      "id": "s57"
+    },
+    {
+      "text": "The Board may, after consideration of any material submitted and review of the matter, further extend the suspension or cancel the registration.",
+      "id": "s58"
+    },
+    {
+      "text": "The Board's enquiries into the complaints against the company are continuing despite your lack of co-operation.",
+      "id": "s59"
+    },
+    {
+      "text": "The Board is extremely concerned about these matters.",
+      "id": "s60"
+    },
+    {
+      "text": "It will be observed that the suspension was for a period of one month and was imposed pursuant to s 251K(2)(b)(i) and (ii) of the Income Tax Assessment Act 1936 (Cth) (\"the Act\").",
+      "id": "s61"
+    },
+    {
+      "text": "Relevantly, s 251K(2) provides as follows: \n(2) A Board may suspend or cancel the registration of any tax agent upon being satisfied that:\n \n \n...\n \n \n (b) the tax agent: \n \n \n (i) has neglected the business of a principal; or \n \n \n (ii) has been guilty of misconduct as a tax agent\n Here the Board was satisfied of both of the matters in (i) and (ii), that is, it was satisfied that CAP was guilty of misconduct as a tax agent and that it had neglected the business of a principal.",
+      "id": "s62"
+    },
+    {
+      "text": "It expressly stated that to be so in its letter.",
+      "id": "s63"
+    },
+    {
+      "text": "What were the matters underpinning those conclusions?",
+      "id": "s64"
+    },
+    {
+      "text": "It seems to me that they must be the matters referred to in the two bullet points under the heading \"Reasons for Decision\".",
+      "id": "s65"
+    },
+    {
+      "text": "The first bullet point meant that the Board was affirmatively satisfied that CAP had acted contrary to the express instructions of Midnight Seas.",
+      "id": "s66"
+    },
+    {
+      "text": "The second bullet point was couched in language which suggested that the Board was not satisfied that CAP had not misappropriated the proceeds of the Midnight Seas cheque.",
+      "id": "s67"
+    },
+    {
+      "text": "The Board's determination also clearly conveyed that the matter was not concluded and that the suspension might be brought to an end by the provision by CAP of an adequate explanation of the events in question.",
+      "id": "s68"
+    },
+    {
+      "text": "So much flows from its call for further evidence and testimonials.",
+      "id": "s69"
+    },
+    {
+      "text": "Likewise the Board also indicated that it was proposing, in the future, at least to consider the question of a further suspension and possibly a cancellation of CAP's registration in respect of the same matter, that is, the circumstances surrounding the banking of the Midnight Seas' cheque.",
+      "id": "s70"
+    },
+    {
+      "text": "This is particularly to be emphasised because it suggests that the determination was not intended to be a final disposition of the questions then pending before the Board.",
+      "id": "s71"
+    },
+    {
+      "text": "Further correspondence then ensued between CAP and the Board which need not be set out.",
+      "id": "s72"
+    },
+    {
+      "text": "On 27 March 2009, the initial suspension was to expire.",
+      "id": "s73"
+    },
+    {
+      "text": "The Board remained dissatisfied with the quality of the response it had received from CAP.",
+      "id": "s74"
+    },
+    {
+      "text": "On 27 March 2009, it wrote to CAP in terms which included the following: \nAt its meeting on 19 March 2009, the Tax Agents' Board of New South Wales (the Board) considered the complaint and all subsequent correspondence received from the company and the complainants and noted that: \n the company responded to its notice of suspension in letters dated 27 February and 13 March 2009; the Board also requested more information from the company in its letters dated 6 March and 24 March 2009.",
+      "id": "s75"
+    },
+    {
+      "text": "The Board considers that:\n \n the company has failed to provide the Board with sufficient information for it to be able to make a determination on whether the company's explanation of the complaint is satisfactory in regards to any misconduct or neglect as a tax agent; and the reasons for the decision that applied to the company's initial suspension still apply and therefore the Board considers it necessary to continue that suspension.",
+      "id": "s76"
+    },
+    {
+      "text": "...",
+      "id": "s77"
+    },
+    {
+      "text": "Accordingly the Board resolved to re-register the company under section 251JC(1)(c) of the Income Tax Assessment Act 1936 (the Act) and also resolved to continue the suspension of the company's registration.",
+      "id": "s78"
+    },
+    {
+      "text": "The Board has continued the suspension of the company's registration under section 251K(2)(b)(i) and (ii) and 251K (3A) of the Income Tax Assessment Act 1936 for a further period of three moths commencing on 28 March 2009 and expiring on 28 June 2009 or upon receipt by the Board of correspondence from the company which after review by the Board it views as a satisfactory explanation (whichever is sooner).",
+      "id": "s79"
+    },
+    {
+      "text": "The Board will review this matter as a result of your response (if any) and make a decision on the company's suspension.",
+      "id": "s80"
+    },
+    {
+      "text": "The Board may, after consideration and review of any material submitted, further extend the suspension or cancel the registration.",
+      "id": "s81"
+    },
+    {
+      "text": "The Board advises that it is extremely concerned about these matters and that its enquiries into the complaints against the company are continuing.",
+      "id": "s82"
+    },
+    {
+      "text": "Three aspects of this deserve emphasis.",
+      "id": "s83"
+    },
+    {
+      "text": "First , the suspension was for a period expiring on 28 June 2009.",
+      "id": "s84"
+    },
+    {
+      "text": "Secondly, it was expressed to have been imposed for the same reasons the first suspension had been imposed together with the additional reason said to be constituted by CAP's continuing non-cooperation.",
+      "id": "s85"
+    },
+    {
+      "text": "Thirdly, the decision was in terms interim.",
+      "id": "s86"
+    },
+    {
+      "text": "CAP submits that this second suspension should be set aside because it is, in effect, an act of double punishment.",
+      "id": "s87"
+    },
+    {
+      "text": "In my opinion, this contention should be rejected.",
+      "id": "s88"
+    },
+    {
+      "text": "I would accept that, generally speaking, an administrative power of suspension such as that conferred by s 251K(2)(b) may not be used more than once in relation to a single episode of conduct.",
+      "id": "s89"
+    },
+    {
+      "text": "This is so because it is appropriate --- if the text permits --- to interpret such powers in a way which is consistent with notions of good administration and finality: Kabourakis v Medical Practitioners Board of Victoria [2006] VSCA 301 at [64] per Nettle JA (with whom Warren CJ and Chernov JA agreed).",
+      "id": "s90"
+    },
+    {
+      "text": "Here, there is nothing in the text of s 251K(2)(b) which would suggest that, in an ordinary case, it can be used to inflict a sanction repeatedly for the same conduct.",
+      "id": "s91"
+    },
+    {
+      "text": "This is not to accept any application in disciplinary matters of principles of issue estoppel, a course barred by established authority: Health Care Complaints Commission v Litchfield (1997) 41 NSWLR 630 at 635 per Gleeson CJ, Meagher and Handley JJA.",
+      "id": "s92"
+    },
+    {
+      "text": "Rather, it is simply to give effect to the meaning of the words in s 251K(2)(b).",
+      "id": "s93"
+    },
+    {
+      "text": "However, accepting that to be so does not assist CAP.",
+      "id": "s94"
+    },
+    {
+      "text": "I would not regard that principle of interpretation as preventing such an administrative power of suspension from being used on an interim basis or in a preliminary or provisional way.",
+      "id": "s95"
+    },
+    {
+      "text": "Where a determination is expressed to be preliminary or interim the principle upon which the submission proceeds does not apply.",
+      "id": "s96"
+    },
+    {
+      "text": "In such a case, there has been no 'final' determination.",
+      "id": "s97"
+    },
+    {
+      "text": "In Kabourakis Nettle JA, at [50], set forth a passage from the reasons for judgement of Vaisey J in Re 56 Denton Road Twickenham [1953] 1 Ch 51 at 56-57 which was in these terms: \n... where Parliament confers upon a body such as the War Damage Commission the duty of deciding or determining any question, the deciding or determining of which affects the rights of the subject, such decision or determination made and communicated in terms which are not expressly preliminary or provisional is final and conclusive, and cannot in the absence of express statutory power or the consent of the person or persons affect be altered or withdrawn by that body.",
+      "id": "s98"
+    },
+    {
+      "text": "(Emphasis added.",
+      "id": "s99"
+    },
+    {
+      "text": ")\n That, so it seems to me, is an illustration of the same principle.",
+      "id": "s100"
+    },
+    {
+      "text": "Here, it was quite apparent that the Board was expressly not dealing with the matter on a final basis.",
+      "id": "s101"
+    },
+    {
+      "text": "That is sufficient to dispose of the present argument.",
+      "id": "s102"
+    },
+    {
+      "text": "There may be limits to how long the Board may keep a matter in such an interim state.",
+      "id": "s103"
+    },
+    {
+      "text": "However, in circumstances where the interim nature of the suspension appears largely to have been driven by CAP's own refusal to cooperate with the Board, I would be most reluctant to embrace the notion that those limits had been sighted, still less approached.",
+      "id": "s104"
+    },
+    {
+      "text": "(b) The onus of proof issue \n Mr Dubler SC, who appeared with Mr Allen for CAP, submitted that the Board's original determination of 27 February 2009 to the effect that it was not satisfied that CAP had not misappropriated the cheque involved an impermissible inversion of the dictates of s 251K(2)(b).",
+      "id": "s105"
+    },
+    {
+      "text": "That provision, in terms, requires the Board to be satisfied about a state of affairs; what the Board had done was to find that it was not satisfied that there was not a state of affairs.",
+      "id": "s106"
+    },
+    {
+      "text": "A number of things may be said against this submission.",
+      "id": "s107"
+    },
+    {
+      "text": "The Board, despite the infelicity in the double negative, did ultimately express itself in the language of s 251K(2)(b) ; the Board is an administrative body whose decisions are to be construed in a practical and robust fashion and not with an eye attuned to the detection of error: Minister for Immigration and Ethnic Affairs v Wu Shan Liang [1996] HCA 6 ; (1996) 185 CLR 259 at 272 per Brennan CJ, Toohey, McHugh and Gummow JJ.",
+      "id": "s108"
+    },
+    {
+      "text": "So read, the double negative involved in the Board's statement should be understood as if it were a positive statement.",
+      "id": "s109"
+    },
+    {
+      "text": "Mr Wright SC, who appeared with Ms Hirschhorn for the Board, put it neatly by suggesting that the language simply showed that the Board was keeping an open mind on the matter.",
+      "id": "s110"
+    },
+    {
+      "text": "There is force in each of these points but ultimately I cannot escape the conclusion that the Board did regard itself as entitled to suspend CAP if it failed to satisfy the Board that it had not misappropriated the cheque.",
+      "id": "s111"
+    },
+    {
+      "text": "I accept, of course, that notions such as the burden of proof have a limited role to play in administrative decision-making but that, I think, only highlights how the Board has not actually discharged its function correctly.",
+      "id": "s112"
+    },
+    {
+      "text": "For the power to be enlivened the Board had to be satisfied that there had been one of the events referred to in s 251K(2)(b).",
+      "id": "s113"
+    },
+    {
+      "text": "In the critical part of its reasons --- as opposed to the statement of its conclusions --- it does not appear to have been so satisfied.",
+      "id": "s114"
+    },
+    {
+      "text": "There was an error of law.",
+      "id": "s115"
+    },
+    {
+      "text": "Of course that argument leaves unscathed the Board's conclusion on the first point --- that is, that CAP had acted contrary to express instructions.",
+      "id": "s116"
+    },
+    {
+      "text": "It follows, therefore, that the Board's power to suspend CAP arose independently of the error I have identified.",
+      "id": "s117"
+    },
+    {
+      "text": "However, whilst that may be so, the Board's view of the status of the cheque was obviously relevant to the extent of any suspension it imposed.",
+      "id": "s118"
+    },
+    {
+      "text": "That being so, it was the commission of an error of law which effected the discharge by the Board of its powers.",
+      "id": "s119"
+    },
+    {
+      "text": "It was, therefore, a jurisdictional error in the sense discussed in Craig v South Australia [1995] HCA 58 ; (1995) 184 CLR 163 at 179 per Brennan, Deane, Toohey, Gaudron &amp; McHugh JJ.",
+      "id": "s120"
+    },
+    {
+      "text": "There are, so it seems to me, no discretionary reasons not to quash the Board's suspension.",
+      "id": "s121"
+    },
+    {
+      "text": "On 30 March 2009, the Board also suspended David's registration as a tax agent.",
+      "id": "s122"
+    },
+    {
+      "text": "A number of complaints were made about that step.",
+      "id": "s123"
+    },
+    {
+      "text": "For present purposes, however, it is clear that David's suspension followed on from CAP's suspension.",
+      "id": "s124"
+    },
+    {
+      "text": "Since I have concluded that CAP's suspension should be set aside it follows that David's must be set aside as well.",
+      "id": "s125"
+    },
+    {
+      "text": "(c) The natural justice issue\n Since I have concluded that the second suspension notice should be set aside, it is not necessary strictly to deal with CAP's arguments about natural justice.",
+      "id": "s126"
+    },
+    {
+      "text": "Had it been, I would have rejected them.",
+      "id": "s127"
+    },
+    {
+      "text": "The first argument was that the Board was obliged to permit CAP to cross-examine the complainant.",
+      "id": "s128"
+    },
+    {
+      "text": "Procedural fairness may so require in appropriate, if somewhat rare, circumstances.",
+      "id": "s129"
+    },
+    {
+      "text": "Here, however, the circumstances included the interim nature of the Board's act of suspension and the relatively short duration of the suspension.",
+      "id": "s130"
+    },
+    {
+      "text": "The second argument was that the Board had denied CAP procedural fairness by acting on the untested assertions of Midnight Seas.",
+      "id": "s131"
+    },
+    {
+      "text": "Reliance was placed upon a dictum of Deane J in Australian Broadcasting Tribunal v Bond [1990] HCA 33 ; (1990) 170 CLR 321 at 367.",
+      "id": "s132"
+    },
+    {
+      "text": "I am by no means certain that the view of Deane J represents the current state of Australian administrative law.",
+      "id": "s133"
+    },
+    {
+      "text": "However, there is no need to decide that issue.",
+      "id": "s134"
+    },
+    {
+      "text": "The reasonableness, proportionality or arbitrary nature of the Board's decision is to be assessed in the context of its interim nature and the very limited co-operation provided to it by CAP.",
+      "id": "s135"
+    },
+    {
+      "text": "So viewed, the alleged want of procedural fairness is illusive.",
+      "id": "s136"
+    },
+    {
+      "text": "(d) The contempt issue\n I turn then to Sam's complaint.",
+      "id": "s137"
+    },
+    {
+      "text": "His concern is that the continuing investigation by the Board into the affairs of CAP has the capacity to prejudice his defence of the criminal proceedings against him.",
+      "id": "s138"
+    },
+    {
+      "text": "Those criminal proceedings are before the New South Wales Local Court.",
+      "id": "s139"
+    },
+    {
+      "text": "The charges arise solely under the Crimes Act 1900 (NSW).",
+      "id": "s140"
+    },
+    {
+      "text": "When hearing and disposing of those proceedings, the magistrate will not be exercising the judicial power of the Commonwealth.",
+      "id": "s141"
+    },
+    {
+      "text": "Further, the prosecutor is not a federal officer or a federal agency but is, instead, a detective in the New South Wales Police Force.",
+      "id": "s142"
+    },
+    {
+      "text": "An undermining of those proceedings might well be a contempt of the Local Court.",
+      "id": "s143"
+    },
+    {
+      "text": "That Court's power to deal with a contempt is conferred by s 24(1) of the Local Court Act 2007 (NSW) which is in these terms: \nThe Court has, if it is alleged, or appears to the Court on its own view, that a person is guilty of contempt of court committed in the face of the Court or in the hearing of the Court, the same powers as the District Court has in those circumstances.",
+      "id": "s144"
+    },
+    {
+      "text": "As an inferior statutory court the Local Court does not have any inherent jurisdiction.",
+      "id": "s145"
+    },
+    {
+      "text": "It does, however, have a narrower implied jurisdiction which arises upon the principle that a grant of power carries with it everything necessary for its exercise: Grassby v The Queen [1989] HCA 45 ; (1989) 168 CLR 1 at 16-17 per Dawson J (with whom Mason CJ, Brennan and Toohey JJ agreed).",
+      "id": "s146"
+    },
+    {
+      "text": "In New South Wales much ink has been spilled on the question of whether that implied power extends to the making of non-publication orders which are rooted in notions of contempt: cf.",
+      "id": "s147"
+    },
+    {
+      "text": "John Fairfax Publications Pty Ltd v District Court of New South Wales [2004] NSWCA 324 ; (2004) 61 NSWLR 344 at 356-366 [38] - [99] per Spigelman CJ.",
+      "id": "s148"
+    },
+    {
+      "text": "For present purposes, what is relevant is the general acceptance that the inherent jurisdiction of the Supreme Court of a State extends to the protection of the jurisdiction of courts involved in the administration of justice in the State: John Fairfax Publications at 354 [27] per Spigelman CJ.",
+      "id": "s149"
+    },
+    {
+      "text": "That emerges from the Supreme Court's ultimate supervisory jurisdiction over the administration of justice.",
+      "id": "s150"
+    },
+    {
+      "text": "By contrast, this Court does not have a general supervisory jurisdiction over the administration of justice in New South Wales (or any other State).",
+      "id": "s151"
+    },
+    {
+      "text": "Thus, the mere fact that the Board's processes might constitute contempt of the Local Court is not, without more, sufficient to attract this Court's jurisdiction.",
+      "id": "s152"
+    },
+    {
+      "text": "There are a number of instances, of course, where this Court and the High Court in its original jurisdiction have assumed a jurisdiction in relation to criminal proceedings then pending before a State court: Hammond v Commonwealth [1982] HCA 42 ; (1982) 152 CLR 188 ; Commissioner of Taxation v De Vonk (1995) 61 FCR 564 ; Watson v Commissioner of Taxation [1999] FCA 1796 ; (1999) 96 FCR 48.",
+      "id": "s153"
+    },
+    {
+      "text": "However, in each of those cases the proceedings pending in the State court involved the alleged commission of a crime against a law of the Commonwealth.",
+      "id": "s154"
+    },
+    {
+      "text": "In Hammond, Mr Hammond had been charged with conspiracy in relation to the substitution of kangaroo meat for beef in the export market, apparently an offence against s 86(1)(a) of the Crimes Act 1914 (Cth).",
+      "id": "s155"
+    },
+    {
+      "text": "Not only that, but the prosecuting body was the Commonwealth as were, effectively, the commissioners conducting the Royal Commission.",
+      "id": "s156"
+    },
+    {
+      "text": "In De Vonk , the applicant was charged with conspiring to defraud the Commonwealth as was Mr Watson in Watson .",
+      "id": "s157"
+    },
+    {
+      "text": "In each case, the question of whether a contempt was being committed was part of a matter arising under a law made by the Parliament or in which the Commonwealth was a party.",
+      "id": "s158"
+    },
+    {
+      "text": "Federal jurisdiction was, therefore, clear.",
+      "id": "s159"
+    },
+    {
+      "text": "The present case does not reveal that circumstance.",
+      "id": "s160"
+    },
+    {
+      "text": "The prosecutor is a New South Wales detective, the offence a New South Wales crime.",
+      "id": "s161"
+    },
+    {
+      "text": "However, jurisdiction is conferred on this Court with respect to matters in which an injunction is sought against an officer or officers of the Commonwealth: s 39B(1) Judiciary Act 1903 (Cth).",
+      "id": "s162"
+    },
+    {
+      "text": "The second respondent holds office as the Chairperson of the Board under s 251D(1A) and is appointed by the relevant minister.",
+      "id": "s163"
+    },
+    {
+      "text": "So too, each member of the Board is appointed under s 251D.",
+      "id": "s164"
+    },
+    {
+      "text": "That provision makes clear that the Board consists of its members from time to time.",
+      "id": "s165"
+    },
+    {
+      "text": "For that reason, the Board, as a respondent, is but a shorthand way of referring to its constituent members each of whom is, so it seems to me, an officer of the Commonwealth.",
+      "id": "s166"
+    },
+    {
+      "text": "It follows that the Court has jurisdiction over the applicant's claims against those officers pursuant to s 39B(1).",
+      "id": "s167"
+    },
+    {
+      "text": "Granted then that the Court has jurisdiction to entertain the contempt argument against the Board, what are the relevant principles?",
+      "id": "s168"
+    },
+    {
+      "text": "Five propositions should, I think, be accepted.",
+      "id": "s169"
+    },
+    {
+      "text": "First , the existence of a parallel administrative inquiry is capable of constituting a contempt of criminal proceedings: McGuinness v Attorney-General (Vic) [1940] HCA 6 ; (1940) 63 CLR 73 at 85; Victoria v Australian Building Constructions Employees' and Builders Labourers' Federation [1982] HCA 31 ; (1982) 152 CLR 25 (\"BLF\") at 54 and 72; Hammond v Commonwealth [1982] HCA 42 ; (1982) 152 CLR 188 at 206.",
+      "id": "s170"
+    },
+    {
+      "text": "Secondly, whether it does so depends upon whether there is a real risk that the pursuit of the administrative investigation will prejudice, undermine or interfere with the conduct of those criminal proceedings: Attorney-General v Times Newspapers Ltd [1974] AC 273 at 299; BLF at 96.",
+      "id": "s171"
+    },
+    {
+      "text": "Thirdly , where the person facing prosecution is required to answer questions by such an inquiry this risk is particularly acute because of the capacity of such questions to undermine the accused person's right against self-incrimination.",
+      "id": "s172"
+    },
+    {
+      "text": "Fourthly , that risk will also be more pronounced where the identity of the prosecutor and the investigating body are the same or where they are connected in some way: Hammond at 207.",
+      "id": "s173"
+    },
+    {
+      "text": "Fifthly, a risk may well be shown where a person other than the accused is to be examined by the administrative inquiry: Watson v Commissioner of Taxation [1999] FCA 1796 ; (1999) 96 FCR 48 at 59-60 [54] - [56] .",
+      "id": "s174"
+    },
+    {
+      "text": "The application of those principles is not always straightforward.",
+      "id": "s175"
+    },
+    {
+      "text": "Ultimately, however, the question in each case is one of practical judgment and impression founded upon the need to identify a real risk of interference with the administration of justice.",
+      "id": "s176"
+    },
+    {
+      "text": "In this case, that risk is to be assessed in a statutory context which includes extensive secrecy provisions.",
+      "id": "s177"
+    },
+    {
+      "text": "These are to be found in Part II of the Act.",
+      "id": "s178"
+    },
+    {
+      "text": "Section 16(2) provides: \nSubject to this section, an officer shall not either directly or indirectly, either while he is, or after he ceases to be an officer, make a record of, or divulge or communicate to any person any information respecting the affairs of another person acquired by the officer as mentioned in the definition of officer in subsection (1).",
+      "id": "s179"
+    },
+    {
+      "text": "\"Officer\" is defined in s 16(1) thus: \n Officer means a person who is or has been appointed or employed by the Commonwealth or by a State, and who by reason of that appointment or employment, or in the course of that employment, may acquire or has acquired information respecting the affairs of any other person, disclosed or obtained under the provisions of this Act or of any previous law of the Commonwealth relating to income tax.",
+      "id": "s180"
+    },
+    {
+      "text": "Mr Dubler SC argued that the Board was not an officer.",
+      "id": "s181"
+    },
+    {
+      "text": "I accept that submission.",
+      "id": "s182"
+    },
+    {
+      "text": "However, the Board is constituted by its members and it has no separate legal personality from them.",
+      "id": "s183"
+    },
+    {
+      "text": "Indeed as I have said the joinder of the Board is but shorthand for the joinder of the members constituting the Board from time to time.",
+      "id": "s184"
+    },
+    {
+      "text": "In my opinion, each of those members is an officer of the Commonwealth.",
+      "id": "s185"
+    },
+    {
+      "text": "Section 16(3) provides: \nAn officer shall not be required to produce in Court any return, assessment or notice of assessment, or to divulge or communicate to any Court any matter or thing coming under his notice in the performance of his duties as an officer, except when it is necessary to do so for the purpose of carrying into effect the provisions of this Act or of any previous law of the Commonwealth relating to Income Tax.",
+      "id": "s186"
+    },
+    {
+      "text": "The consequence of these provisions is that, other than for the purpose of discharging its functions under the Act, the Board may not release, or be required by subpoena to release, such information.",
+      "id": "s187"
+    },
+    {
+      "text": "However, that broad proposition must be read in light of s 16(2A) which provides: \nSubsection (2) does not apply to the extent that the person makes the record of the information, or divulges or communicates the information, in the performance of the person's duties as an officer.",
+      "id": "s188"
+    },
+    {
+      "text": "If the discharge of a member's duties required disclosure of information then s 16(2A) would have the effect of permitting that disclosure to occur.",
+      "id": "s189"
+    },
+    {
+      "text": "There is no evidence to suggest that the Board is deliberately interfering with the proceedings before the Local Court.",
+      "id": "s190"
+    },
+    {
+      "text": "It is likely, if that were to be suggested, that the provisions of the Act would not authorise such behaviour: De Vonk at 588.",
+      "id": "s191"
+    },
+    {
+      "text": "However, as De Vonk shows, unintentional action may yet have the capacity to prejudice the administration of justice.",
+      "id": "s192"
+    },
+    {
+      "text": "It is necessary therefore to attend to the relationship between the Board's proceedings and those in the Local Court.",
+      "id": "s193"
+    },
+    {
+      "text": "The following factors are relevant: \n(a) An important question in the criminal proceedings is whether CAP had any entitlement to receive the Midnight Seas cheque.",
+      "id": "s194"
+    },
+    {
+      "text": "If it did, then it is difficult to see how Sam could have fraudulently misappropriated it.",
+      "id": "s195"
+    },
+    {
+      "text": "(b) Whether CAP was entitled to receive the cheque, and if so, on what basis, is a significant aspect of the Board's inquiry.",
+      "id": "s196"
+    },
+    {
+      "text": "(c) CAP denies Midnight Seas' claim that it was not entitled to the proceeds of the cheque.",
+      "id": "s197"
+    },
+    {
+      "text": "Any explanation of CAP's position can, indeed should, be conveyed to Midnight Seas as the complainant for its comment.",
+      "id": "s198"
+    },
+    {
+      "text": "The Board's function of inquiry requires as much.",
+      "id": "s199"
+    },
+    {
+      "text": "Any information provided to Midnight Seas in that way will not be immune from release by Midnight Seas for the secrecy provisions of Part II of the Act do not operate upon Midnight Seas.",
+      "id": "s200"
+    },
+    {
+      "text": "(d) If, and when, the Board comes to decide how it should proceed in relation to CAP's registration, then the Board will be required to give reasons for that decision.",
+      "id": "s201"
+    },
+    {
+      "text": "It is very likely that any such reasons will include the Board's conclusions on the questions of whether CAP was entitled to deposit the cheque together with an assessment of the circumstances leading to that conclusion.",
+      "id": "s202"
+    },
+    {
+      "text": "(e) That assessment will involve, most likely, a consideration of CAP's relationship with Midnight Seas, a matter also centrally relevant in the criminal proceedings.",
+      "id": "s203"
+    },
+    {
+      "text": "Because of the secrecy provisions in the Act I do not think that the conduct by the Board of its investigation poses, in itself, a real risk to the integrity of the criminal proceedings.",
+      "id": "s204"
+    },
+    {
+      "text": "However, part of that investigation will require the Board to obtain Midnight Seas' response to CAP's account of how the cheque came to be deposited into its trust account.",
+      "id": "s205"
+    },
+    {
+      "text": "That raises, to my mind, a risk that the prosecutor (through Midnight Seas) will come to know, in advance, of CAP's explanation of how it obtained the cheque.",
+      "id": "s206"
+    },
+    {
+      "text": "That has the capacity to interfere with Sam's defence of the proceedings against him.",
+      "id": "s207"
+    },
+    {
+      "text": "Independently of that conclusion, the delivery by the Board of its reasons, if it should decide to suspend or cancel CAP's registration, is likely to reveal in advance of Sam's trial CAP's explanation of how it obtained the cheques.",
+      "id": "s208"
+    },
+    {
+      "text": "It follows that some aspects of the ongoing investigation by the Board do pose a risk to Sam's defence of the criminal proceedings.",
+      "id": "s209"
+    },
+    {
+      "text": "That risk consists of the central issue of CAP's role being revealed to the prosecution in advance of the trial.",
+      "id": "s210"
+    },
+    {
+      "text": "That does not, however, lead to the conclusion that the Board's entire inquiry should be restrained.",
+      "id": "s211"
+    },
+    {
+      "text": "This is because it is possible to furnish relief which permits the inquiry to continue whilst safeguarding Sam's position by restraining the Board from communicating the results of its inquiries to any other person during the pendency of the criminal proceedings.",
+      "id": "s212"
+    },
+    {
+      "text": "By a parity of reasoning, it would also be necessary to prevent the Board from determining CAP's suspension or cancellation until the determination of the criminal proceedings so that it does not produce reasons which might imperil the trial.",
+      "id": "s213"
+    },
+    {
+      "text": "Against that it may be said that the Board's function of protecting the public is being thwarted.",
+      "id": "s214"
+    },
+    {
+      "text": "This is, in a sense, true.",
+      "id": "s215"
+    },
+    {
+      "text": "No doubt matters of public interest inform the breadth of injunctive relief which may be granted: see Hammond v Commonwealth [1982] HCA 42 ; (1982) 152 CLR 188 at 198-199 per Gibbs CJ (with whom Mason and Murphy JJ relevantly agreed) and 208 per Deane J.",
+      "id": "s216"
+    },
+    {
+      "text": "In that case the public significance of the investigation being performed by the Royal Commission made it appropriate only to prevent examination of the plaintiff and not any other witness.",
+      "id": "s217"
+    },
+    {
+      "text": "No doubt too, there is a public interest served by protecting the populace at large from unscrupulous tax agents, an interest to which the powers in s 252K seem naturally inclined.",
+      "id": "s218"
+    },
+    {
+      "text": "However, there is a countervailing public interest in ensuring the proper operation of the criminal justice system.",
+      "id": "s219"
+    },
+    {
+      "text": "In this case the former does not warrant a narrowing of the injunctive relief I am otherwise minded to grant.",
+      "id": "s220"
+    },
+    {
+      "text": "The effect of my orders will be that the Board will be entitled to continue its inquiries so long as it does not divulge any of its results to other persons during the pendency of the criminal proceedings.",
+      "id": "s221"
+    },
+    {
+      "text": "It will also be restrained during the same period from concluding whether the registration of CAP should be suspended or cancelled as a result of the matters arising out of the Midnight Seas' complaint.",
+      "id": "s222"
+    },
+    {
+      "text": "For practical reasons, these conclusions must apply mutatis mutandis to David.",
+      "id": "s223"
+    },
+    {
+      "text": "(e) Challenges to the notice for information \n I have already noted that CAP's initial responses to the Board were largely not to the Board's satisfaction and that it had, consequently, issued a notice to CAP on 16 January 2009 formally requiring CAP to furnish it with information.",
+      "id": "s224"
+    },
+    {
+      "text": "That information was required by the Board to be provided initially by 2 February 2009 but this was subsequently extended to the close of business on 9 February 2009.",
+      "id": "s225"
+    },
+    {
+      "text": "Some of the information sought in the notice was provided to the Board on 4 February 2009 but in respect of the balance a further extension was sought.",
+      "id": "s226"
+    },
+    {
+      "text": "That extension was not forthcoming and, assuming the notice to be valid, CAP had failed to comply with it by 10 February 2009.",
+      "id": "s227"
+    },
+    {
+      "text": "That failure may well have constituted an offence against reg 168 of the Income Tax Regulations 1936 .",
+      "id": "s228"
+    },
+    {
+      "text": "Regulation 168(2) provides: \nThe Chairperson of a Board may, by notice in writing, require any person:\n \n \n(a) to furnish the Board with such information as is specified in the notice relating to any application or other matter before the Board; \n \n \n(b) to attend and give evidence before the Board, or before any member of the Board authorized by the Chairperson in that behalf, concerning any application or other matter before the Board, and may require him or her to produce all books, documents and other papers whatever in his or her custody or under his or her control which, in the opinion of the Board or member of the Board, are likely to contain information or particulars relating to the application or matter.",
+      "id": "s229"
+    },
+    {
+      "text": "Regulation 168(2A) makes non-compliance with such a notice an offence punishable by a fine of 5 penalty units which, presently, is a fine of $550: see s 4AA Crimes Act 1914 (Cth).",
+      "id": "s230"
+    },
+    {
+      "text": "CAP submitted that the notice should be set aside on various grounds.",
+      "id": "s231"
+    },
+    {
+      "text": "It was said, first , that the regulation authorising the issue of the notice was invalid; secondly , that it was not properly addressed; thirdly , that it sought copies; and, fourthly , that it failed to state a \"matter\" to which it related.",
+      "id": "s232"
+    },
+    {
+      "text": "It is convenient to deal with these in turn.",
+      "id": "s233"
+    },
+    {
+      "text": "INVALIDITY OF REGULATION 168(2)\n I have set out regulation 168(2) above.",
+      "id": "s234"
+    },
+    {
+      "text": "The power to make regulations under the Act is conferred upon the Governor-General by s 266 of the Act which is these terms: \nThe Governor-General may make regulations, not inconsistent with this Act or the Income Tax Assessment Act 1997 , prescribing all matters which by this Act or the Income Tax Assessment Act 1997 are required or permitted to be prescribed, or which are necessary or convenient to be prescribed for giving effect to this Act or the Income Tax Assessment Act 1997 , and for prescribing penalties not exceeding a fine of 5 penalty units for offences against the regulations.",
+      "id": "s235"
+    },
+    {
+      "text": "There are two limbs to this regulation making power.",
+      "id": "s236"
+    },
+    {
+      "text": "One concerns regulations which are \"required or permitted to be prescribed\"; the other, regulations \"which are necessary or convenient to be prescribed for giving effect\" to the Act.",
+      "id": "s237"
+    },
+    {
+      "text": "The first limb was relevant in this case because of the terms of s 251G of the Act which provides: \nA Board or member of a Board shall have such powers as are prescribed with respect to the taking of evidence, the administration of oaths or affirmations, the summoning of witnesses and the production of documents.",
+      "id": "s238"
+    },
+    {
+      "text": "The prescription by this provision of the topic specified within it activated the power in s 266 to make a regulation.",
+      "id": "s239"
+    },
+    {
+      "text": "The topic specified is powers \"with respect to the taking of evidence, the administration of oaths or affirmations, the summoning of witnesses and the production of documents\".",
+      "id": "s240"
+    },
+    {
+      "text": "The applicants contend that the notice sought information.",
+      "id": "s241"
+    },
+    {
+      "text": "The notice was headed: \n NOTICE TO GIVE EVIDENCE TO THE BOARD \n \n \nTO: Armstrong Scalisi Holdings Pty Ltd\n \n PO Box 163\n \n LIVERPOOL NSW 1871\n \n \n PURSUANT TO THE PROVISIONS OF REGULATION 168(2) OF THE INCOME TAX REGULATIONS 1936 YOU ARE HEREBY REQUIRED to furnish the Tax Agents' Board of New South Wales at Locked Bag 9846, Hurstville, New South Wales 1481 by no later than the close of business on 2 February 2009 with the following information:\n \n \n...\n There followed a large number of paragraphs many of which sought various different types of information.",
+      "id": "s242"
+    },
+    {
+      "text": "The applicants submit that a power to require information does not fall within the terms of s 251G.",
+      "id": "s243"
+    },
+    {
+      "text": "That provision is limited in terms to the four identified matters of: \n(a) taking evidence; \n \n(b) the administration of oaths or affirmations;\n \n(c) the summoning of witnesses; and\n \n(d) the production of documents.",
+      "id": "s244"
+    },
+    {
+      "text": "The applicants submitted that the view that s 251G did not prescribe a topic which permitted the production of information was supported by three authorities: Smorgon v Australia and New Zealand Banking Group Ltd [1976] HCA 53 ; (1976) 134 CLR 475 ; Fieldhouse v Commissioner of Taxation (1989) 25 FCR 187 ; O'Reilly v Commissioners of State Bank of Victoria (1983) 153 CLR 1.",
+      "id": "s245"
+    },
+    {
+      "text": "Nothing in those cases stands for the asserted proposition.",
+      "id": "s246"
+    },
+    {
+      "text": "Each was concerned with the operation of s 264 of the Act which expressly permitted the Commissioner to require a person \"to furnish him with such information as he may require\"; none considered the operation of s 251G or, indeed, anything resembling s 251G.",
+      "id": "s247"
+    },
+    {
+      "text": "The argument then falls to be decided on its own terms.",
+      "id": "s248"
+    },
+    {
+      "text": "I would reject it for two reasons.",
+      "id": "s249"
+    },
+    {
+      "text": "First , the power in s 251G authorises a regulation dealing with \"the taking of evidence\".",
+      "id": "s250"
+    },
+    {
+      "text": "The Board is not a curial body and the matter in which it conducts its business need not be attended by any particular formality; the evidence it receives need not be sworn and there is no apparent necessity for it to conduct an oral hearing at all.",
+      "id": "s251"
+    },
+    {
+      "text": "It is that controlling context which informs the meaning of the words \"taking of evidence\".",
+      "id": "s252"
+    },
+    {
+      "text": "I would infer in the context of a body such as the Board that it can take evidence in the form of writing.",
+      "id": "s253"
+    },
+    {
+      "text": "Once that is accepted there is no particular reason why that cannot take the form of notices requiring information.",
+      "id": "s254"
+    },
+    {
+      "text": "In a sense, evidence is merely information conveyed in a testimonial form.",
+      "id": "s255"
+    },
+    {
+      "text": "So viewed, s 251G authorises the making of a regulation requiring the provision of information.",
+      "id": "s256"
+    },
+    {
+      "text": "Secondly, the provisions of the second limb of s 266 permit the making of a regulation which is \"necessary or convenient to be prescribed for giving effect to this Act\".",
+      "id": "s257"
+    },
+    {
+      "text": "The power conferred by s 266 involves a well known statutory formula which authorises regulations to be made strictly ancillary to the Act but no so as to extend its scope or general application: Minister for Foreign Affairs and Trade v Magno (1992) 37 FCR 298 at 328 per French J citing Shanahan v Scott [1957] HCA 4 ; (1957) 96 CLR 245 at 253-254.",
+      "id": "s258"
+    },
+    {
+      "text": "As those authorities show, the criteria of necessity and convenience are not subjective.",
+      "id": "s259"
+    },
+    {
+      "text": "That means that the question of whether any particular regulation is authorised turns upon the Court's assessment of the regulation's necessity or convenience.",
+      "id": "s260"
+    },
+    {
+      "text": "Is the garnering by the Board of information necessary or convenient for the purpose of permitting the Board to carry out its duties and functions?",
+      "id": "s261"
+    },
+    {
+      "text": "In my opinion, it is convenient so that the answer to this question must be yes.",
+      "id": "s262"
+    },
+    {
+      "text": "It follows that the regulation is also supportable under the second limb of s 266.",
+      "id": "s263"
+    },
+    {
+      "text": "WRONG ADDRESSEE\n The notice was addressed to Armstrong Scalisi Holdings Pty Ltd.",
+      "id": "s264"
+    },
+    {
+      "text": "The applicants contended that a notice could not be addressed to a corporation but only to its proper officer.",
+      "id": "s265"
+    },
+    {
+      "text": "In truth, there were two submissions here; one, a submission that a notice could not be served upon a corporation; the other, that if it was, it had to be addressed to the corporation's proper officer.",
+      "id": "s266"
+    },
+    {
+      "text": "These arguments are, so it seems to me, quite without substance.",
+      "id": "s267"
+    },
+    {
+      "text": "It has been accepted that a corporation cannot be required physically to attend and give evidence for the very good reason that it is an abstraction lacking physical form: Smorgon v Australian and New Zealand Banking Group [1976] HCA 53 ; (1976) 134 CLR 475 at 481-482 per Stephen J.",
+      "id": "s268"
+    },
+    {
+      "text": "However, that physical constraint has no impact on the ability of a corporation to answer questions.",
+      "id": "s269"
+    },
+    {
+      "text": "It is for that reason well established that a corporation may be required to provide information.",
+      "id": "s270"
+    },
+    {
+      "text": "Indeed, Lockhart J described the contrary argument as \"fallacious\" in Fieldhouse v Commissioner of Taxation (1989) 25 FCR 187 at 198, an observation with which I respectfully agree.",
+      "id": "s271"
+    },
+    {
+      "text": "Burchett and Hill JJ also rejected the argument (at 203 and 218 respectively).",
+      "id": "s272"
+    },
+    {
+      "text": "The argument that the notice needed to be addressed to the corporation's proper officer is likewise of no merit.",
+      "id": "s273"
+    },
+    {
+      "text": "Regulation 168(2)(a) requires notice in writing to a person.",
+      "id": "s274"
+    },
+    {
+      "text": "The notice was addressed to the corporation; it came under cover of a letter addressed to one of the corporation's directors.",
+      "id": "s275"
+    },
+    {
+      "text": "CAP was given notice in writing.",
+      "id": "s276"
+    },
+    {
+      "text": "DOCUMENTS SOUGHT BY THE NOTICE\n Subparagraphs (a), (c), (d) and (g) of the notice were in these terms: \n(a) A copy of the police report in relation to the burglary of your premises on 26 July 2008, as detailed in your facsimile to the Board dated 24 December 2008.",
+      "id": "s277"
+    },
+    {
+      "text": "...\n \n \n(c) Copies of any invoices issued to Midnight Seas Pty Ltd and any of its related entities regarding each of the items listed in the \"spreadsheet of costs and disbursements\" attached to your facsimile to the Board dated 21 November 2008.",
+      "id": "s278"
+    },
+    {
+      "text": "(d) Copies of any computer records pertaining to the invoices referred to in paragraph (c) above.",
+      "id": "s279"
+    },
+    {
+      "text": "...\n \n \n(g) Copies of any invoices issued to Midnight Seas Pty Ltd and any of its related entities for any outstanding disbursements.",
+      "id": "s280"
+    },
+    {
+      "text": "The power in reg 168(2) to require production of books and documents is a power to produce books and documents in the custody of the person receiving the notice.",
+      "id": "s281"
+    },
+    {
+      "text": "It does not extend to require a party to bring documents into existence: Fieldhouse at 194-195 per Lockhart J, 204 per Burchett J and 209 per Hill J.",
+      "id": "s282"
+    },
+    {
+      "text": "It follows that the notice could not lawfully require the production by CAP of copies of original documents held by it.",
+      "id": "s283"
+    },
+    {
+      "text": "Of course, it is possible that the notice did not on its proper construction seek the creation of documents but instead the production of any copy documents which were in fact held.",
+      "id": "s284"
+    },
+    {
+      "text": "Lockhart J canvassed this possibility in Fieldhouse at 194-195.",
+      "id": "s285"
+    },
+    {
+      "text": "In this case, I do not think that the natural and ordinary meaning of subparagraphs (a), (c), (d) and (g) is that they require production of copies already in existence.",
+      "id": "s286"
+    },
+    {
+      "text": "It follows that these paragraphs are not supported by reg 168(2).",
+      "id": "s287"
+    },
+    {
+      "text": "Even if that were not so, however, the subparagraphs are ambiguous in that they leave the recipient unsure whether production of copies already existing is called for or whether copies of originals are to be made.",
+      "id": "s288"
+    },
+    {
+      "text": "The notice is, therefore, also bad for uncertainty: cf.",
+      "id": "s289"
+    },
+    {
+      "text": "Commissioner of Taxation v Australian and New Zealand Banking Group Ltd (1979) 143 CLR 499 at 525 per Gibbs CJ; Fieldhouse at 193 per Lockhart J, 204 per Burchett J and 210 per Hill J.",
+      "id": "s290"
+    },
+    {
+      "text": "FAILURE TO SPECIFY MATTER\n The power in reg 168(2) is subject to a limitation in the case of subparagraph (a) that the information sought relates to \"an application or other matter before the Board\" and, in the case of subparagraph (b) that \"in the opinion of the Board\" it so relates.",
+      "id": "s291"
+    },
+    {
+      "text": "It is common ground that the notice does not recite the matter which is before the Board or any opinion by the Board about such a matter.",
+      "id": "s292"
+    },
+    {
+      "text": "The applicants cited Smorgon as authority for the proposition that a failure to specify the matter meant the notice was invalid.",
+      "id": "s293"
+    },
+    {
+      "text": "Reliance upon Smorgon is, I think, misplaced.",
+      "id": "s294"
+    },
+    {
+      "text": "In that case Stephen J did uphold the challenge to the validity of a subparagraph of a notice issued under s 264 which sought \"all other books, papers, writings and other documents concerning the said matters which are in your custody\" (at 490).",
+      "id": "s295"
+    },
+    {
+      "text": "The \"matters\" were not defined in the notice but it was shown that they were the assessments of the incomes of various taxpayers.",
+      "id": "s296"
+    },
+    {
+      "text": "The recipient of the notice was a bank.",
+      "id": "s297"
+    },
+    {
+      "text": "The language of \"matters\" was drawn directly from the words of the latter part of s 264.",
+      "id": "s298"
+    },
+    {
+      "text": "Stephen J said (at 491): \nIt follows that I would not regard a notice which did no more, by way of requiring production of documents, than to repeat the words of the latter part of s 246(1)(b) as an effective exercise of the Commissioner's power.",
+      "id": "s299"
+    },
+    {
+      "text": "These words describe the ambit of that power but do not provide a suitable formula for insertion in a notice.",
+      "id": "s300"
+    },
+    {
+      "text": "Such notice, given in exercise of the power, must instead specify with some degree of particularity, as do pars (i) to (vii) of the notice to the Bank, what documents are being sought.",
+      "id": "s301"
+    },
+    {
+      "text": "Failing this there will be no valid requirement.",
+      "id": "s302"
+    },
+    {
+      "text": "I do not think that this passage provides support for an argument that a notice must specify the relevant matter.",
+      "id": "s303"
+    },
+    {
+      "text": "To the contrary, it cautions against careless recitation of language of the provision.",
+      "id": "s304"
+    },
+    {
+      "text": "Severance\n It has been held that a notice under s 264 which is bad in part may be severed.",
+      "id": "s305"
+    },
+    {
+      "text": "So much was held by Burchett J in Fieldhouse at 204 and by Hill J at 210.",
+      "id": "s306"
+    },
+    {
+      "text": "Lockhart J clearly assumed such a power to exist.",
+      "id": "s307"
+    },
+    {
+      "text": "However, on the facts in Fieldhouse , both Lockhart and Burchett JJ thought that severance was not practical because the provision of the copies was central to the notice so that parts of it no longer made sense if the paragraphs dealing with copies were excised.",
+      "id": "s308"
+    },
+    {
+      "text": "Hill J, on the other hand, did not share this concern.",
+      "id": "s309"
+    },
+    {
+      "text": "I do not think that the notice in this case suffers from that problem.",
+      "id": "s310"
+    },
+    {
+      "text": "Paragraphs (a), (c), (d) and (g) can be severed from the notice without the balance of it losing coherence.",
+      "id": "s311"
+    },
+    {
+      "text": "It should be noted in passing that the form of reg 168(2) may well present difficulties of application in the case of electronically held records, but it is not, presently, necessary to address the issues thereby arising.",
+      "id": "s312"
+    },
+    {
+      "text": "Interference with course of criminal jurisdiction\n Sam also challenged the notice on the general ground of its capacity to interfere with the criminal proceedings facing him.",
+      "id": "s313"
+    },
+    {
+      "text": "It is, I think, important to bring out into the open a suppressed premise upon which that argument rested.",
+      "id": "s314"
+    },
+    {
+      "text": "It was that the notice presently requires CAP to do something.",
+      "id": "s315"
+    },
+    {
+      "text": "In fact, the time for compliance with the notice expired on 9 February 2009 and it is no longer capable of being complied with.",
+      "id": "s316"
+    },
+    {
+      "text": "There is presently no legal obligation upon CAP to provide the information sought in the notice.",
+      "id": "s317"
+    },
+    {
+      "text": "It would not be possible to obtain a court order to compel CAP to provide the information.",
+      "id": "s318"
+    },
+    {
+      "text": "In a real sense, the notice is spent.",
+      "id": "s319"
+    },
+    {
+      "text": "The possible relevance of the notice seems therefore only to be twofold: \n(a) Although it is no longer capable of being complied with, the non-compliance may have been a criminal offence.",
+      "id": "s320"
+    },
+    {
+      "text": "If the information which was originally required by the notice were now volunteered by CAP it might be relevant to any penalty which was imposed upon it.",
+      "id": "s321"
+    },
+    {
+      "text": "A related concern, I would think, is the capacity of the continuing failure to provide the information to constitute professional misconduct.",
+      "id": "s322"
+    },
+    {
+      "text": "Voluntary production may well be likely reduce the seriousness of these matters.",
+      "id": "s323"
+    },
+    {
+      "text": "The Board itself made this point in its letter of 6 March 2009 which in terms said:\n \nAs the Board has not withdrawn its Notice to give evidence to the Board dated 16 January 2009, you are required to comply.",
+      "id": "s324"
+    },
+    {
+      "text": "Failure to do so may result in prosecution under regulation 168 of the Income Tax Assessment Act 1936 .",
+      "id": "s325"
+    },
+    {
+      "text": "Any conviction may reflect poorly on your good fame, integrity, character and fitness and propriety.",
+      "id": "s326"
+    },
+    {
+      "text": "(b) It is possible that CAP may be prosecuted for a failure to comply with the notice.",
+      "id": "s327"
+    },
+    {
+      "text": "Despite these rather indirect incentives to provide the information to the Board, there was no evidence before me that CAP was proposing now to do so.",
+      "id": "s328"
+    },
+    {
+      "text": "David's evidence on this issue was: \nI wanted the Notice issue determined as I do not want to be prosecuted for failure to comply.",
+      "id": "s329"
+    },
+    {
+      "text": "I do not want to be issued with further notices that I believe are beyond what the Board is entitled to serve.",
+      "id": "s330"
+    },
+    {
+      "text": "Sam gave no evidence on this issue at all.",
+      "id": "s331"
+    },
+    {
+      "text": "There is, therefore, no evidence that CAP is intending voluntarily to produce the information previously sought in the notice.",
+      "id": "s332"
+    },
+    {
+      "text": "It is not the case that CAP is under a present obligation to provide the information sought.",
+      "id": "s333"
+    },
+    {
+      "text": "In that circumstance, the notice appears to present no real risk to the conduct of the criminal proceedings against Sam.",
+      "id": "s334"
+    },
+    {
+      "text": "Absent a real risk to the administration of justice in those proceedings, the notice should not be set aside on the basis that it constitutes a contempt: BLF at 56 per Gibbs CJ.",
+      "id": "s335"
+    },
+    {
+      "text": "Conclusion\n Sam is entitled to a grant of injunctive relief restraining the Board from conveying to third parties the content, result or outcome of any of its investigations whilst the criminal proceedings against him remain on foot.",
+      "id": "s336"
+    },
+    {
+      "text": "He is also entitled during the pendency of the criminal proceedings to an injunction restraining the Board from determining whether to suspend or cancel the registration of CAP or David on the basis of the circumstances surrounding the depositing of the Midnight Seas cheque.",
+      "id": "s337"
+    },
+    {
+      "text": "CAP itself is not entitled to be protected from the notice of suspension by reason of double jeopardy.",
+      "id": "s338"
+    },
+    {
+      "text": "However, it is entitled to have the notice of suspension set aside because that notice on its face reveals jurisdictional error.",
+      "id": "s339"
+    },
+    {
+      "text": "The suspension of David's registration should, therefore, also be set aside.",
+      "id": "s340"
+    },
+    {
+      "text": "CAP's challenge to the legality of the notice to produce information largely fails but paragraphs (a), (c), (d) and (g) of the notice should be set aside.",
+      "id": "s341"
+    },
+    {
+      "text": "Sam's contention that that notice has the capacity to undermine the integrity of his proceedings should be rejected.",
+      "id": "s342"
+    },
+    {
+      "text": "It appears to me that all of this relief may be granted pursuant to s 39B of the Judiciary Act 1903 (Cth).",
+      "id": "s343"
+    },
+    {
+      "text": "To the extent that it cannot and relief is needed under the Administrative Decisions (Judicial Review) Act 1977 (Cth) I would extend the time for bringing the present proceeding pursuant to s 11(1)(c) of that Act.",
+      "id": "s344"
+    },
+    {
+      "text": "I do that because of the substance of some of the grounds advanced, the seriousness to the applicants of declining relief, the relatively short delay involved and the absence of real prejudice to the Board.",
+      "id": "s345"
+    },
+    {
+      "text": "The parties are to bring in short minutes of order giving effect to these reasons for judgment.",
+      "id": "s346"
+    },
+    {
+      "text": "I will hear the parties on costs.",
+      "id": "s347"
+    },
+    {
+      "text": "I certify that the preceding seventy-eight (78) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Perram.",
+      "id": "s348"
+    },
+    {
+      "text": "Associate:\n \n \nDated: 10 June 2009\n \n Counsel for the Applicants: Mr R Dubler SC with Mr DA Allen \n \n Solicitor for the Applicants: Proctor &amp; Associates \n \n Counsel for the Respondents: Mr R Wright SC with Mrs M Hirschhorn \n \n Solicitor for the Respondents: Australian Government Solicitor \n Date of Hearing: 28 April 2009 \n \n Date of Judgment: 10 June 2009 \n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2009/619.html",
+      "id": "s349"
+    }
+  ]
+}

@@ -1,0 +1,676 @@
+{
+  "name": "GenRx Pty Limited v Les Laboratoires Servier [2007] FCA 442 (26 March 2007)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2007/442.html",
+  "catchphrases": [
+    {
+      "text": "misleading and deceptive conduct",
+      "id": "c0"
+    },
+    {
+      "text": "interlocutory injunction",
+      "id": "c1"
+    },
+    {
+      "text": "advertisement and stamp with statement that brand substitution not permitted",
+      "id": "c2"
+    },
+    {
+      "text": "serious question to be tried as to whether representation in advertisement of \"improved stability\" is misleading",
+      "id": "c3"
+    },
+    {
+      "text": "serious question to be tried as to whether a stamp specifying no substitution of a specific product is misleading",
+      "id": "c4"
+    },
+    {
+      "text": "burden of recalling stamps outweighs potential damage to the applicant",
+      "id": "c5"
+    },
+    {
+      "text": "advertisement restrained",
+      "id": "c6"
+    },
+    {
+      "text": "no order as to recall",
+      "id": "c7"
+    },
+    {
+      "text": "trade practices",
+      "id": "c8"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "1 The respondents (together 'Servier') distribute perindopril, a drug primarily used for the treatment of hypertension.",
+      "id": "s0"
+    },
+    {
+      "text": "Perindopril has been sold in Australia by Servier under the brand name \"Coversyl\" since 1992 as an erbumine salt.",
+      "id": "s1"
+    },
+    {
+      "text": "That formulation was listed on the Pharmaceutical Benefits Scheme ('PBS').",
+      "id": "s2"
+    },
+    {
+      "text": "It has recently been replaced as an arginine salt sold under the same name, Coversyl.",
+      "id": "s3"
+    },
+    {
+      "text": "Perindopril has the effect of lowering blood pressure by blocking the activity of angiotensin-converting enzyme ('ACE') in the plasma and at the tissue level.",
+      "id": "s4"
+    },
+    {
+      "text": "Coversyl is currently ranked in fifth position by value of sales in the Australian market for all pharmaceuticals and first in the sub-category for plain ACE inhibitors.",
+      "id": "s5"
+    },
+    {
+      "text": "2 The applicant ('GenRx') distributes a generic form of the perindopril erbumine salt.",
+      "id": "s6"
+    },
+    {
+      "text": "Its formulation is included in the Australian Register of Therapeutic Goods and its perindopril products have been \"a\"-flagged on the PBS against the new Coversyl arginine salt.",
+      "id": "s7"
+    },
+    {
+      "text": "This means that a doctor may exercise his or her discretion to prescribe a GenRx perindopril product in substitute for Coversyl.",
+      "id": "s8"
+    },
+    {
+      "text": "Further, if a doctor writes a prescription for a pharmaceutical such as Coversyl which is \"a\"-flagged on the PBS and does not otherwise specify, the pharmacist may dispense the (cheaper) generic alternative if:\n \n (a) the patient agrees to the substitution;\n (b) the prescriber has not indicated on the prescription form that substitution is not to occur; and\n (c) substitution is permitted in the relevant state or territory.",
+      "id": "s9"
+    },
+    {
+      "text": "The application \n \n3 GenRx relevantly alleges that Servier has contravened ss 52 , 53 and 55 of the Trade Practices Act 1974 (Cth) ('the Act') in the course of advertising and promoting Coversyl.",
+      "id": "s10"
+    },
+    {
+      "text": "It seeks an interlocutory injunction to restrain Servier from so advertising and promoting Coversyl pending the determination of the proceedings.",
+      "id": "s11"
+    },
+    {
+      "text": "4 The first subject of complaint by GenRx is an advertisement published in the Medical Observer Weekly on 8 December 2006 ('the advertisement').",
+      "id": "s12"
+    },
+    {
+      "text": "The advertisement is directed to doctors.",
+      "id": "s13"
+    },
+    {
+      "text": "A second advertisement ('the banner advertisement') is no longer an issue in this application for interlocutory relief, as Servier has given an undertaking not to publish it pending the determination of the proceedings.",
+      "id": "s14"
+    },
+    {
+      "text": "5 The Medical Observer is a weekly medical trade publication for Australian general practitioners and allied health professionals and has a circulation of around 23,000 nationally.",
+      "id": "s15"
+    },
+    {
+      "text": "Similar advertisements have been published in other professional magazines.",
+      "id": "s16"
+    },
+    {
+      "text": "The advertisement has been in one or more editions of different magazines in the period between January to March 2007.",
+      "id": "s17"
+    },
+    {
+      "text": "GenRx seeks orders prohibiting further publication of the advertisement.",
+      "id": "s18"
+    },
+    {
+      "text": "6 The second ground of complaint is with respect to a stamp that Servier has distributed to doctors.",
+      "id": "s19"
+    },
+    {
+      "text": "Approximately 10,000 of these stamps are in existence, of which about 3,000 have been distributed.",
+      "id": "s20"
+    },
+    {
+      "text": "GenRx became aware of prescriptions bearing the impression of the stamp on 12 February 2007.",
+      "id": "s21"
+    },
+    {
+      "text": "A letter of demand was sent on 13 February 2007.",
+      "id": "s22"
+    },
+    {
+      "text": "The stamp is to be used on prescriptions in addition to, or in substitution for, the box on the standard form prescription and bears the words \"Brand substitution not permitted for Coversyl\".",
+      "id": "s23"
+    },
+    {
+      "text": "There is a box for the initials of the prescribing doctor.",
+      "id": "s24"
+    },
+    {
+      "text": "Servier has undertaken not to distribute further stamps pending the determination of the proceedings.",
+      "id": "s25"
+    },
+    {
+      "text": "GenRx seeks orders to recall those stamps distributed to date.",
+      "id": "s26"
+    },
+    {
+      "text": "7 The market for perindopril in Australia is worth about $71.6 million annually.",
+      "id": "s27"
+    },
+    {
+      "text": "GenRx, as the first company to market generic perindopril, has obtained and wishes to retain its market share.",
+      "id": "s28"
+    },
+    {
+      "text": "A reduction in that market share, if pharmacists or patients understand that for some reason generic substitution of Coversyl is not permitted, will result in damage to GenRx.",
+      "id": "s29"
+    },
+    {
+      "text": "That damage is difficult to quantify.",
+      "id": "s30"
+    },
+    {
+      "text": "It would extend beyond the loss of the product prescribed in the single prescription if the pharmacist or patient formed the view that there was a clinical or regulatory reason not to substitute GenRx products for Coversyl.",
+      "id": "s31"
+    },
+    {
+      "text": "Servier's evidence is that, if it loses 10% of its sales of Coversyl as a result of patients switching to GenRx products, it stands to lose approximately $7.2 million in revenue a year.",
+      "id": "s32"
+    },
+    {
+      "text": "Losses so incurred, if sufficient, could impede Servier's contribution to research and development in Australia and investment generally.",
+      "id": "s33"
+    },
+    {
+      "text": "8 Both GenRx and Servier are prohibited from advertising prescription pharmaceuticals to the public and so cannot clarify any misconception that might arise on the part of patients.",
+      "id": "s34"
+    },
+    {
+      "text": "9 The High Court considered the principles applicable to the grant of an interlocutory injunction in Australian Broadcasting Corporation v O'Neill [2006] HCA 46 ; (2006) 229 ALR 457.",
+      "id": "s35"
+    },
+    {
+      "text": "At [65] , Gummow and Hayne JJ applied Beecham Group Limited v Bristol Laboratories Pty Ltd [1968] HCA 1 ; (1968) 118 CLR 618 at 622-3 where it was observed that the two main enquiries are as follows:\n \n 'The first is whether the plaintiff has made out a prima facie case, in the sense that if the evidence remains as it is there is a probability that at the trial of the action the plaintiff will be held entitled to relief...The second inquiry is...whether the inconvenience or injury which the plaintiff would be likely to suffer if an injunction were refused outweighs or is outweighed by the injury which the defendant would suffer if an injunction were granted.",
+      "id": "s36"
+    },
+    {
+      "text": "' \n \n\n10 GenRx must show sufficient likelihood of success to justify in the circumstances the preservation of the status quo pending the trial.",
+      "id": "s37"
+    },
+    {
+      "text": "This depends on the nature of the rights and the practical consequences likely to flow from the orders sought ( O'Neill at [65] --- [72] per Gummow and Hayne JJ).",
+      "id": "s38"
+    },
+    {
+      "text": "It is in this context that the formulation \"serious question to be tried\" has effect when the Court asks whether an applicant has shown that there is a serious question to be tried as to the applicant's entitlement to relief, that the applicant is likely to suffer injury for which damages will not be an adequate remedy and has shown that the balance of convenience favours the granting of an injunction ( O'Neill at [19] per Gleeson CJ and Crennan J).",
+      "id": "s39"
+    },
+    {
+      "text": "In considering the balance of convenience, the Court may take into account whichever course appears to carry the lower risk of injustice if the injunction is granted to a party who fails to establish its right at trial or in failing to grant an injunction to a party who succeeds at trial ( Bradto Pty Ltd v State of Victoria [2006] V ConvR 54-722 at [35]).",
+      "id": "s40"
+    },
+    {
+      "text": "The advertisement \n \n11 The advertisement is reproduced in Annexure A to these reasons.",
+      "id": "s41"
+    },
+    {
+      "text": "12 The following should be noted:\n \n &#8226; The advertisement is only placed in publications directed to doctors.",
+      "id": "s42"
+    },
+    {
+      "text": "&#8226; Doctors are routinely the subject of advertising from pharmaceutical firms.",
+      "id": "s43"
+    },
+    {
+      "text": "&#8226; Coversyl is one of the most prescribed drugs in Australia.",
+      "id": "s44"
+    },
+    {
+      "text": "&#8226; Coversyl had been on the Australian market for about 14 years.",
+      "id": "s45"
+    },
+    {
+      "text": "&#8226; The green colour of the advertisement is in the same colour as the Coversyl packaging.",
+      "id": "s46"
+    },
+    {
+      "text": "&#8226; The advertisement refers to the trade name Coversyl and the fact that the name is registered as a trade mark.",
+      "id": "s47"
+    },
+    {
+      "text": "&#8226; Three of the four matters referred to under the heading \"there is no substitute for\" are matters not directly associated with Coversyl but with the company that sells Coversyl.",
+      "id": "s48"
+    },
+    {
+      "text": "&#8226; The fourth matter, \"improved stability\" with the elucidator '[c] ompared to perindopril erbumine ' is directly associated with Coversyl.",
+      "id": "s49"
+    },
+    {
+      "text": "&#8226; The reader is exhorted to \"tick the box\" for \"brand substitution not permitted\".",
+      "id": "s50"
+    },
+    {
+      "text": "&#8226; There is a reference to Servier Laboratories (Australia) Pty Ltd, the second respondent, but it is questionable whether it would be noticed by the casual observer.",
+      "id": "s51"
+    },
+    {
+      "text": "13 It is not presently in dispute that a doctor reading the advertisement would be familiar with the fact that successful pharmaceuticals are frequently sold in a generic form if they are no longer the subject of patent protection and the generic company can establish bioequivalence.",
+      "id": "s52"
+    },
+    {
+      "text": "It is also not presently in dispute that a doctor reading the advertisement would be familiar with his or her ability to indicate on a prescription that there was not to be brand substitution of the product the subject of that prescription where the trade name was used by the doctor.",
+      "id": "s53"
+    },
+    {
+      "text": "The standard form of Medicare Australia prescription and stationery used in conjunction with most computer-based prescribing software contain a box with the accompanying words \"brand substitution not permitted\".",
+      "id": "s54"
+    },
+    {
+      "text": "If that box is ticked, the dispensing pharmacist is not permitted to substitute a generic product.",
+      "id": "s55"
+    },
+    {
+      "text": "14 There is evidence that some doctors feel strongly about the three matters referred to that are associated with Servier.",
+      "id": "s56"
+    },
+    {
+      "text": "GenRx accepts that it is permissible to persuade doctors that brand substitution should not occur --- that is, to exhort them to \"tick the box\" which appears on prescriptions.",
+      "id": "s57"
+    },
+    {
+      "text": "Its complaint is that that method of persuasion cannot be misleading or deceptive.",
+      "id": "s58"
+    },
+    {
+      "text": "15 The aspect of the advertisements on which GenRx relies has, during the hearing of the application, been somewhat refined.",
+      "id": "s59"
+    },
+    {
+      "text": "As crystallised in its written submissions, GenRx now relies primarily upon the reference to \"improved stability\" as a comparative claim about Coversyl and generic substitutes, rather than about Servier.",
+      "id": "s60"
+    },
+    {
+      "text": "GenRx submits that the suggestion is of some improvement, benefit or superior product performance of Coversyl over the generic substitutes.",
+      "id": "s61"
+    },
+    {
+      "text": "The implication said to arise is that substitution is not permitted because of this benefit or product superiority and that the advertisement as a whole is misleading.",
+      "id": "s62"
+    },
+    {
+      "text": "GenRx submits that, although the evidence is to the effect that improved stability is not an advantage and does not result in superior product performance, doctors may be misled by the implication that it is an advantage.",
+      "id": "s63"
+    },
+    {
+      "text": "16 Servier submits that the representation is true.",
+      "id": "s64"
+    },
+    {
+      "text": "GenRx does not accept that the representation is true.",
+      "id": "s65"
+    },
+    {
+      "text": "That is not a matter for determination at this stage.",
+      "id": "s66"
+    },
+    {
+      "text": "17 Servier submits that a doctor would take the advertisement as a whole to indicate that the makers of Coversyl are urging him or her to exercise the discretion not to permit substitution of Coversyl for, inter alia, reasons of improved stability.",
+      "id": "s67"
+    },
+    {
+      "text": "This gives rise to the question of the importance of stability to the doctor.",
+      "id": "s68"
+    },
+    {
+      "text": "18 I accept that there is a serious question in the O'Neill sense.",
+      "id": "s69"
+    },
+    {
+      "text": "19 There is little evidence on the number of advertisements presently \"in the pipeline\" or the difficulties faced by Servier if it were ordered not to place further advertisements asserting improved stability.",
+      "id": "s70"
+    },
+    {
+      "text": "I conclude that no serious inconvenience or injustice would be suffered if no further advertisements referring to stability were to be placed until further order.",
+      "id": "s71"
+    },
+    {
+      "text": "20 It is therefore appropriate that Servier be prohibited from placing any further advertisements containing the reference to \"improved stability\" until further order.",
+      "id": "s72"
+    },
+    {
+      "text": "The stamp \n \n21 The stamp is reproduced in Annexure B to these reasons.",
+      "id": "s73"
+    },
+    {
+      "text": "22 GenRx does not object to the use of a stamp of general application that does not specify Coversyl.",
+      "id": "s74"
+    },
+    {
+      "text": "GenRx submits that this stamp, which specifically mentions Coversyl, conveys an impermissible suggestion or representation to other doctors, pharmacists and patients that brand substitution is not permitted for a reason different from the doctor's clinical choice; that is, that brand substitution is not permitted by virtue of the legal restrictions imposed by the normal regulatory system.",
+      "id": "s75"
+    },
+    {
+      "text": "23 A second generic company is to market a generic form of Coversyl in the same form as the GenRx product: the erbumine salt form, being the previous form of the Servier product.",
+      "id": "s76"
+    },
+    {
+      "text": "While that company has been licensed by Servier to sell the product, it will also be affected by doctors affixing the stamp to prescriptions.",
+      "id": "s77"
+    },
+    {
+      "text": "24 To explain the need for the stamp, Servier draws attention to the fact that Coversyl may often be prescribed on a single prescription form together with other products and the doctor may wish only to state that substitution of Coversyl should not be made.",
+      "id": "s78"
+    },
+    {
+      "text": "It submits that, rather than write a separate prescription or appropriately endorse the standard form of box by, for example, ticking it and adding ' for Coversyl ' the doctor may simply not bother.",
+      "id": "s79"
+    },
+    {
+      "text": "The pharmacist is then free to make the substitution with a generic product and Servier loses the profit on that sale.",
+      "id": "s80"
+    },
+    {
+      "text": "25 Servier submits that the purpose of the stamp is to assist a doctor to make a clear and visible statement to the pharmacist that brand substitution is not permitted for Coversyl specifically.",
+      "id": "s81"
+    },
+    {
+      "text": "Servier says that the stamp enables a doctor to indicate that brand substitution is not permitted for Coversyl in circumstances where other medications are prescribed and brand substitution for those medications (but not Coversyl) is permitted.",
+      "id": "s82"
+    },
+    {
+      "text": "The stamp is also said to avoid a situation where a tick is placed in the relevant (standard form) box and is overlooked by the pharmacist.",
+      "id": "s83"
+    },
+    {
+      "text": "26 There is no evidence of the proportion or quantification of these asserted facts.",
+      "id": "s84"
+    },
+    {
+      "text": "27 GenRx submits that another doctor, a pharmacist or a patient, upon seeing the stamp, may conclude that there is some particular issue with the substitutability of other perindopril products.",
+      "id": "s85"
+    },
+    {
+      "text": "While Servier submits that this is unlikely, there is no evidence that stamps, naming the product, are distributed by other innovator drug companies to assist doctors to specify that generic substitution is not permitted.",
+      "id": "s86"
+    },
+    {
+      "text": "28 If the use of the stamp is legitimately to encourage doctors to ensure that there is no substitution for Coversyl where they would not otherwise do so, the loss of market share and profit to Servier would also be difficult to quantify.",
+      "id": "s87"
+    },
+    {
+      "text": "If the stamp does make the representations alleged, GenRx not only suffers loss of the sale of the product the subject of the prescription but also the consequences of a belief as to the suitability of its generic perindopril by pharmacists who will decide whether to offer substitution of perindopril in cases where the doctor has not specified no substitution and by patients who may be long term users of perindopril.",
+      "id": "s88"
+    },
+    {
+      "text": "This may result in loss of sales that cannot be determined or quantified.",
+      "id": "s89"
+    },
+    {
+      "text": "29 There is a serious question to be tried with respect to the representations conveyed by the stamp.",
+      "id": "s90"
+    },
+    {
+      "text": "Servier has already taken steps to ensure that no further stamps are distributed.",
+      "id": "s91"
+    },
+    {
+      "text": "That leaves for consideration whether Servier should be ordered to recall the distributed stamps pending the determination of the proceedings.",
+      "id": "s92"
+    },
+    {
+      "text": "30 If the stamp is recalled pending the determination of these proceedings, there is nothing to prevent doctors specifying that there be no substitution of Coversyl in the time honoured way of ticking the box on the standard form or, where there are to be multiple products prescribed, writing a separate script for Coversyl or endorsing the ticked box as applicable only to Coversyl.",
+      "id": "s93"
+    },
+    {
+      "text": "There is no evidence that a doctor wishing to prevent substitution would not do so without the stamp.",
+      "id": "s94"
+    },
+    {
+      "text": "The evidence suggests that some doctors feel sufficiently strongly about brand substitution generally, or with respect to Servier as the company which markets Coversyl, that they will tick the standard box preventing substitution with or without the stamp.",
+      "id": "s95"
+    },
+    {
+      "text": "There is also evidence of other possible reasons relating to potential patient confusion that may affect a doctor's decision to permit substitution.",
+      "id": "s96"
+    },
+    {
+      "text": "Doctors may specify that brand substitution is not permitted to avoid the risk of patients, who may be familiar with the particular package, tablet appearance or dose and may be elderly or cognitively impaired, from being confused upon substitution of the branded product for a generic.",
+      "id": "s97"
+    },
+    {
+      "text": "On this basis, Servier would suffer no loss or a reduced loss of sales.",
+      "id": "s98"
+    },
+    {
+      "text": "31 Servier points to the risk that pharmacists will not notice the box that has been ticked on the standard form prescription to prohibit brand substitution.",
+      "id": "s99"
+    },
+    {
+      "text": "There is no clear evidence that this does occur or the extent of such occurrence.",
+      "id": "s100"
+    },
+    {
+      "text": "Servier also suggests that doctors may forget to \"tick the box\" without the stamp.",
+      "id": "s101"
+    },
+    {
+      "text": "There is no present evidence of the extent of such likelihood or of the likelihood that possession of the stamp will make a difference and remind the doctor.",
+      "id": "s102"
+    },
+    {
+      "text": "I am therefore unable to assess and take into account the effect of such failure on the part of the pharmacist or doctor on the loss of sales or effect on patients in the time before trial.",
+      "id": "s103"
+    },
+    {
+      "text": "32 Both GenRx and Servier allege damage to reputation.",
+      "id": "s104"
+    },
+    {
+      "text": "33 Servier submits that its reputation would suffer if it were required to inform doctors that it had or might have engaged in inappropriate conduct.",
+      "id": "s105"
+    },
+    {
+      "text": "This can be mitigated by careful explanation of the circumstances of that requirement.",
+      "id": "s106"
+    },
+    {
+      "text": "It is also concerned that doctors may migrate to prescribing GenRx perindopril or other ACE inhibitors, which trend may not be reversible.",
+      "id": "s107"
+    },
+    {
+      "text": "34 Servier submits that recall would be tantamount to final relief and that no redistribution could ever put right the harm to it caused by the confusion to doctors created by the recall.",
+      "id": "s108"
+    },
+    {
+      "text": "Such confusion would extend to doctors who have not received the stamp and may extend to confusion as to their entitlement to exercise their discretion to prevent substitution for Coversyl.",
+      "id": "s109"
+    },
+    {
+      "text": "This would \"flow on\" to confuse those patients for whom substitution would be inappropriate, including for reasons of patient confusion.",
+      "id": "s110"
+    },
+    {
+      "text": "Servier emphasises that there is no public safety issue mandating recall.",
+      "id": "s111"
+    },
+    {
+      "text": "GenRx submits that its reputation is damaged if an impression is conveyed that it or its product are \"not above-board\".",
+      "id": "s112"
+    },
+    {
+      "text": "This impression is said to be conveyed every time the stamp is used.",
+      "id": "s113"
+    },
+    {
+      "text": "35 Neither party supported the sending of a letter to doctors who possess the stamp asking them not to use it pending the determination of the proceedings.",
+      "id": "s114"
+    },
+    {
+      "text": "Both parties observe that a letter may not be received by the doctor or be considered by a busy practitioner.",
+      "id": "s115"
+    },
+    {
+      "text": "GenRx submits that the only way to ensure that use of the stamp ceases until further order is to order a recall of the stamps.",
+      "id": "s116"
+    },
+    {
+      "text": "36 The stamps are presently in the hands of doctors.",
+      "id": "s117"
+    },
+    {
+      "text": "If they are not being used, no damage is occasioned.",
+      "id": "s118"
+    },
+    {
+      "text": "No more doctors will receive them.",
+      "id": "s119"
+    },
+    {
+      "text": "If they are being used, any confusion on the part of the pharmacists seeing those stamped prescriptions and patients of those doctors or misleading of those persons will, for the most part, have already occurred.",
+      "id": "s120"
+    },
+    {
+      "text": "If GenRx is successful at trial, it will be affected by the continuation of the conduct in terms of confusion and loss of sales.",
+      "id": "s121"
+    },
+    {
+      "text": "GenRx can mitigate some of the confusion in its contact with pharmacists.",
+      "id": "s122"
+    },
+    {
+      "text": "It cannot affect the approach of patients or the impact of the use of the stamp, in contrast to the standard form of indicating that there be no substitution, on its sales.",
+      "id": "s123"
+    },
+    {
+      "text": "The latter will be minimised for both parties by an early hearing date.",
+      "id": "s124"
+    },
+    {
+      "text": "37 If Servier is ordered to recall the stamps and then is successful in the proceedings it will have the opportunity to reissue the stamps.",
+      "id": "s125"
+    },
+    {
+      "text": "It is reasonable to assume that, on the reissue, it could explain the circumstances but both parties seem to accept that a covering letter may not be read by the doctor.",
+      "id": "s126"
+    },
+    {
+      "text": "This would mean that any confusion on the part of the doctor as to his or her ability to prevent substitution of Coversyl may not be avoided.",
+      "id": "s127"
+    },
+    {
+      "text": "Such confusion engendered by the recall, itself with perhaps a covering letter, may extend to a mistaken belief that there is a reason for not restricting substitution of Coversyl.",
+      "id": "s128"
+    },
+    {
+      "text": "38 GenRx relies on what it describes as Servier's ' sophisticated systems for product recalls as required by regulation '.",
+      "id": "s129"
+    },
+    {
+      "text": "Servier asserts, however, that its sales representatives do not ordinarily keep records of their distribution of the stamps.",
+      "id": "s130"
+    },
+    {
+      "text": "It submits that a recall would likely require contact with all of the approximately 20,000 general practitioners in Australia by the Servier sale team.",
+      "id": "s131"
+    },
+    {
+      "text": "This reinforces Servier's concern that the recall of the stamps may be perceived as affecting the prescription of the product itself and the company's reputation.",
+      "id": "s132"
+    },
+    {
+      "text": "39 On balance, the burden of the recall in a manner to ensure its success and the numbers of people involved, as well as the possible loss to Servier from confusion if Servier is subsequently successful outweighs the potential damage to GenRx if those stamps that have been distributed remain with the doctors pending the hearing.",
+      "id": "s133"
+    },
+    {
+      "text": "Timing \n \n40 Servier's advertising campaign relevantly began in December 2006.",
+      "id": "s134"
+    },
+    {
+      "text": "The Medical Observer is a weekly publication.",
+      "id": "s135"
+    },
+    {
+      "text": "GenRx became aware of the advertisement in mid-January 2007.",
+      "id": "s136"
+    },
+    {
+      "text": "41 Servier submits that GenRx has delayed unduly in seeking these orders.",
+      "id": "s137"
+    },
+    {
+      "text": "GenRx was first aware of the advertisements in mid-January and of the stamp on 12 February 2007.",
+      "id": "s138"
+    },
+    {
+      "text": "As I have noted, a letter of demand was sent in respect of the stamp on 13 February 2007 but the notice of motion seeking interlocutory relief was not filed until 9 March 2007.",
+      "id": "s139"
+    },
+    {
+      "text": "42 On 14 February 2007, GenRx commenced these proceedings by filing an application, inter alia, to revoke a patent in the name of the first respondent.",
+      "id": "s140"
+    },
+    {
+      "text": "On 23 February 2007, GenRx wrote to Servier's solicitors seeking undertakings in respect of the stamp and the advertisements.",
+      "id": "s141"
+    },
+    {
+      "text": "At the same time it served a notice of motion seeking to amend the application and statement of claim to plead contraventions of the Act by reason of the misleading nature of the stamp and advertisements.",
+      "id": "s142"
+    },
+    {
+      "text": "As I have noted, the present application for interlocutory relief was commenced on 9 March 2007.",
+      "id": "s143"
+    },
+    {
+      "text": "43 While there appears to have been delay in the filing of this application, in view of the complexity of the various proceedings involving the parties, such delay as occurred does not preclude the relief sought.",
+      "id": "s144"
+    },
+    {
+      "text": "Conclusion \n \n44 GenRx seeks a recall of the stamps and an injunction preventing further publication of the advertisement.",
+      "id": "s145"
+    },
+    {
+      "text": "The parties have agreed to an expedited timetable and an early hearing.",
+      "id": "s146"
+    },
+    {
+      "text": "I note the undertakings already given with respect to the banner advertisement and any further distribution of the stamps.",
+      "id": "s147"
+    },
+    {
+      "text": "It is appropriate to make an order that Servier be restrained from placing further advertisements which make reference to the \"improved stability\" of the Coversyl product until further order.",
+      "id": "s148"
+    },
+    {
+      "text": "It is not appropriate to order a recall of the stamps already distributed.",
+      "id": "s149"
+    },
+    {
+      "text": "45 There is a question as to the security for the undertaking as to damages.",
+      "id": "s150"
+    },
+    {
+      "text": "I will direct that the parties submit proposed orders to give effect to these reasons, including orders with respect to the undertaking as to damages.",
+      "id": "s151"
+    },
+    {
+      "text": "46 GenRx submits that, as it succeeded in obtaining undertakings during the course of the proceedings with respect to the banner advertisement and further distribution of the stamp, it should have its costs of the interlocutory application.",
+      "id": "s152"
+    },
+    {
+      "text": "The undertakings were only proffered during the hearing.",
+      "id": "s153"
+    },
+    {
+      "text": "GenRx has been successful in large part but not successful in pressing for recall of the stamps.",
+      "id": "s154"
+    },
+    {
+      "text": "It is appropriate that Servier pay 80% of GenRx's costs of the application.",
+      "id": "s155"
+    },
+    {
+      "text": "I certify that the preceding forty-six (46) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Bennett.",
+      "id": "s156"
+    },
+    {
+      "text": "Associate:\n\nDated: 28 March 2007\n\n Counsel for the Applicant: D K Catterns QC and S J Goddard \n \n Solicitor for the Applicant: Freehills \n \n Counsel for the Respondents: B N Caine SC and A J Ryan \n \n Solicitor for the Respondents: Allens Arthur Robinson \n \n Date of Hearing: 21 March 2007 \n \n Date of Final Submissions: 23 March 2007 \n \n Date of Judgment: 26 March 2007 ANNEXURE A\n\n \nANNEXURE B\n\n \n\n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/442.html",
+      "id": "s157"
+    }
+  ]
+}

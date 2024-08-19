@@ -1,0 +1,1120 @@
+{
+  "name": "Australian Liquor, Hospitality and Miscellaneous Workers Union v Prestige Property Services Pty Ltd [2006] FCA 11 (23 January 2006)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2006/11.html",
+  "catchphrases": [
+    {
+      "text": "award",
+      "id": "c0"
+    },
+    {
+      "text": "breach",
+      "id": "c1"
+    },
+    {
+      "text": "failure to pay rates of pay specified",
+      "id": "c2"
+    },
+    {
+      "text": "rates of pay for employees of contractors cleaning premises of state government departments and instrumentalities",
+      "id": "c3"
+    },
+    {
+      "text": "whether victorian arts centre trust a state government instrumentality",
+      "id": "c4"
+    },
+    {
+      "text": "ordinary meaning of instrumentality",
+      "id": "c5"
+    },
+    {
+      "text": "whether meaning affected by history of award and context in which it was made",
+      "id": "c6"
+    },
+    {
+      "text": "transition from state to federal regulation of contract cleaning industry",
+      "id": "c7"
+    },
+    {
+      "text": "whether common understanding",
+      "id": "c8"
+    },
+    {
+      "text": "purpose of provision in award",
+      "id": "c9"
+    },
+    {
+      "text": "whether terms of art used",
+      "id": "c10"
+    },
+    {
+      "text": "relevance of list of government bodies in another award in an unrelated industry",
+      "id": "c11"
+    },
+    {
+      "text": "relevance of capital initials",
+      "id": "c12"
+    },
+    {
+      "text": "relevance of possible anomalies not affecting case itself",
+      "id": "c13"
+    },
+    {
+      "text": "quantum of appropriate penalty",
+      "id": "c14"
+    },
+    {
+      "text": "state government departments and instrumentalities",
+      "id": "c15"
+    },
+    {
+      "text": "workplace relations",
+      "id": "c16"
+    },
+    {
+      "text": "words and phrases",
+      "id": "c17"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "The nature of the proceeding \n \n\n \n 1 The principal issue in this proceeding is whether the Victorian Arts Centre falls within the category of 'premises of State Government Departments and Instrumentalities', for the purposes of provisions in industrial awards relating to rates of payment for persons employed in cleaning those premises.",
+      "id": "s0"
+    },
+    {
+      "text": "In turn, this depends upon whether the Victorian Arts Centre Trust, a statutory corporation established by the Victorian Arts Centre Act 1979 (Vic) ('the VAC Act'), is properly described as a State Government department or instrumentality, for the purposes of the award provisions.",
+      "id": "s1"
+    },
+    {
+      "text": "2 The applicant seeks penalties, pursuant to s 178 of the Workplace Relations Act 1996 (Cth) ('the WR Act') for breaches of the terms of two awards.",
+      "id": "s2"
+    },
+    {
+      "text": "The first award is the Building Services (Victoria) Award 1994 ('the 1994 Award').",
+      "id": "s3"
+    },
+    {
+      "text": "The second is the Building Services (Victoria) Award 2003 ('the 2003 Award').",
+      "id": "s4"
+    },
+    {
+      "text": "In each case, the respondent is alleged to have failed to pay named employees amounts it was required to pay by a specified clause of the award.",
+      "id": "s5"
+    },
+    {
+      "text": "The applicant seeks an order, pursuant to s 178(6) of the WR Act, that the respondent pay to each of those employees the amount owing to him or her.",
+      "id": "s6"
+    },
+    {
+      "text": "The applicant also seeks that those payments include interest, pursuant to s 179A of the WR Act.",
+      "id": "s7"
+    },
+    {
+      "text": "Pursuant to s 356 of the WR Act, the applicant also seeks an order that each penalty be paid to it.",
+      "id": "s8"
+    },
+    {
+      "text": "The admitted or agreed facts \n \n\n \n 3 The following is a summary of the facts admitted on the pleadings or agreed between the parties prior to the trial.",
+      "id": "s9"
+    },
+    {
+      "text": "4 The applicant is an organisation of employees, registered pursuant to the WR Act.",
+      "id": "s10"
+    },
+    {
+      "text": "The respondent is a company and is capable of being sued as such.",
+      "id": "s11"
+    },
+    {
+      "text": "The 1994 Award is an award made by the Australian Industrial Relations Commission ('the Commission'), pursuant to the Industrial Relations Act 1988 (Cth), which subsequently became the WR Act.",
+      "id": "s12"
+    },
+    {
+      "text": "Each of the applicant and the respondent is a party to, and bound by, the 1994 Award.",
+      "id": "s13"
+    },
+    {
+      "text": "Similarly, the 2003 Award is an award made by the Commission, pursuant to the WR Act.",
+      "id": "s14"
+    },
+    {
+      "text": "Each of the applicant and the respondent is a party to, and bound by, the 2003 Award.",
+      "id": "s15"
+    },
+    {
+      "text": "(The fact that the applicant is a party to each of the awards gives it standing to sue for a penalty for a breach of a term of each of the awards, pursuant to s 178(5)(b) of the WR Act.",
+      "id": "s16"
+    },
+    {
+      "text": ") \n\n\n \n 5 Between 1 February 1998 and 23 January 2003, the respondent employed a number of persons in the contract cleaning industry, to perform work at the Victorian Arts Centre at 100 St Kilda Road, Melbourne.",
+      "id": "s17"
+    },
+    {
+      "text": "Specifically, it employed the following persons in the following classifications, prescribed by cl 8 of the 1994 Award: \n\n\n (a) employed in the classification of Building Attendant Grade 1 were Maria \n Andronikis, Stavroula Athinis, Emanuel Azzopardi, Peter Blanas, Menka \n Crneska, Fay Dervenis, Koray Mehmet Dincer, Randolph Patrick Guiman,\n Trajanka Jancev, Athanasios Kasapis, Eugenia Kasapi, John Markopoulos, \n Vasilios Paganis, Nick Papoutsoglou, John Peroustianis, Vijoleta Rzanovska, \n Souze Stylianos, Maria Tapia, Suzana Tasevski, Athina Tsalparos, Despina \n Tsirakidis, Cvetanka Vermeska and Gorica Zatkoska;\n\n (b) employed within the classification of Building Attendant Grade 2 were Peter\n Koukouvaos, Kanelos Pyliotis and Peter Skevis; and\n\n (c) Helen Kostakis was employed in the classification of Building Attendant \n Grade 3.",
+      "id": "s18"
+    },
+    {
+      "text": "6 Throughout the period from 1 February 1998 to 23 January 2003, cl 8A of the 1994 Award provided relevantly as follows: \n\n\n \n 'That in addition to the rates of pay prescribed in clause 8 --- Classifications and wage rates, the following payments shall be made for all purposes of the award.",
+      "id": "s19"
+    },
+    {
+      "text": "Adult employees \n \n (a)(i)... \n \n (ii) S.G.D.I.",
+      "id": "s20"
+    },
+    {
+      "text": ": In premises of State Government Departments and Instrumentalities.",
+      "id": "s21"
+    },
+    {
+      "text": "Full-time; per week \n \n Building Attendant Grade One $24.70 \n Building Attendant Grade Two $25.90 \n Building Attendant Grade Three $28.40 \n \n Part-time; per hour \n \n Building Attendant Grade One Mon --- Fri $0.75 \n Saturday $1.07 \n Sunday $1.40 \n Public Holidays $1.72 \n \n Building Attendant Grade Two Mon --- Fri $0.78 \n Saturday $1.12 \n Sunday $1.46 \n Public holiday $1.80 \n \n Building Attendant Grade Three Mon --- Fri $0.86 \n Saturday $1.23 \n Sunday $1.61 \n Public holidays $1.98' \n \n \n 7 The second period in respect of which the applicant claims is the period between 23 January 2003 and 1 June 2003.",
+      "id": "s22"
+    },
+    {
+      "text": "During that period, the respondent employed a number of persons in the contract cleaning industry, to perform work at the Victorian Arts Centre.",
+      "id": "s23"
+    },
+    {
+      "text": "Specifically, the following employees were employed within the following classifications listed in cl 15 of the 2003 Award: \n\n\n (a) employed within the classification of Building Attendant Grade 1 were Maria\n Andronikis, Stavroula Athinis, Emanuel Azzopardi, Peter Blanas, Menka \n Crneska, Fay Dervenis, Koray Mehmet Dincer, Randolph Patrick Guiman, \n Trajanka Jancev, Athanasios Kasapis, Eugenia Kasapi, John Markopoulos, \n Vasilios Paganis, Nick Papoutsoglou, John Peroustianis, Vijoleta Rzanovska, \n Souze Stylianos, Maria Tapia, Suzana Tasevski, Athina Tsalparos, Despina \n Tsirakidis, Cvetanka Vermeska and Gorica Zatkoska.",
+      "id": "s24"
+    },
+    {
+      "text": "(b) employed within the classification of Building Attendant Grade 2 were Peter \n Koukouvaos, Kanelos Pyliotis and Peter Skevis.",
+      "id": "s25"
+    },
+    {
+      "text": "(c) Helen Kostakis was employed within the classification of Building Attendant \n Grade 3.",
+      "id": "s26"
+    },
+    {
+      "text": "8 Throughout the period between 23 January 2003 and 1 June 2003, cl 15.3 of the 2003 Award provided relevantly as follows: \n\n\n \n 'That in addition to the rates of pay prescribed in clause 15 --- Classifications and wage rates, the following payments shall be made for all purposes of the award.",
+      "id": "s27"
+    },
+    {
+      "text": "15.3.1 Adult employees \n \n 15.3.1(a)... \n \n 15.3.1(b) S.G.D.I --- in premises of State Government Departments and \n Instrumentalities \n \n Full-time --- per week $ \n \n Building Attendant Grade 1 24.70 \n Building Attendant Grade 2 25.90 Building Attendant Grade 3 28.40 \n \n \n Part-time --- per hour $ \n \n Building Attendant Grade 1 Mon-Fri 0.75 \n \n Saturday 1.07 \n Sunday 1.40 \n Public holidays 1.72 \n \n Building Attendant Grade 2 Mon-Fri 0.78 \n Saturday 1.12 \n Sunday 1.46 \n Public holidays 1.80 \n \n Building Attendant Grade 3 Mon-Fri 0.86 \n Saturday 1.23 \n Sunday 1.61 \n Public holidays 1.98' \n \n \n 9 The respondent concedes that it has not made the payments required by cl 8A(a)(ii) of the 1994 Award and cl 15.3.1(b) of the 2003 Award to any of its employees performing work at the Victorian Arts Centre.",
+      "id": "s28"
+    },
+    {
+      "text": "The respondent contends that it is not bound to make such payments.",
+      "id": "s29"
+    },
+    {
+      "text": "If it is required to make such payments, the parties are agreed that the respondent has underpaid the following persons by the following amounts in respect of the two periods concerned: \n\n\n \n \n Name Amount \n \n Maria Andronikis $ 4,688.04\n Stavroula Athinis $ 7,570.93\n Emanuel Azzopardi $ 7,987.31\n Peter Blanas $ 5,930.38\n Menka Crneska $ 3,137.42\n Fay Dervenis $ 3,170.22\n Koray Mehmet Dincer $ 707.93\n Randolph Patrick Guiman $ 6,752.25\n Trajanka Jancev $ 9,316.66\n Athanasios Kasapis $ 1,383.58\n Eugenia Kasapi $ 4,094.56\n Helen Kostakis $13,195.85\n Peter Koukouvaos $ 7,066.19\n John Markopoulos $ 4,510.81\n Vasilios Paganis $ 6,728.50\n Nick Papoutsoglou $ 7,156.83\n John Peroustianis $ 1,951.67\n Kanelos Pyliotis $ 8,712.20\n Vijoleta Rzanovska $10,903.80\n Peter Skevis $ 7,925.81\n Souze Stylianos $ 3,817.75\n Maria Tapia $ 2,424.32\n Suzana Tasevski $ 1,658.34\n Athina Tsalparos $ 5,661.93\n Despina Tsirakidis $ 5,531.25\n Cvetanka Vermeska $ 2,021.19\n Gorica Zatkoska $ 1,737.28\n \n \n The Victorian Arts Centre Trust \n \n\n \n 10 The legislative history of the Victorian Arts Centre Trust ('the Trust') goes back at least to the National Art Gallery and Cultural Centre Act 1956 (Vic) ('the 1956 Act').",
+      "id": "s30"
+    },
+    {
+      "text": "The preamble to the 1956 Act recited that a power to reserve certain land as a site for a National Art Gallery and Cultural Centre had been given to the Governor-in-Council under the Melbourne South Land Act 1946 (Vic), and that it was expedient to make provision for the vesting of such land in a committee constituted for the purpose of raising funds and providing a suitable building on such site.",
+      "id": "s31"
+    },
+    {
+      "text": "Section 3(1) of the 1956 Act provided: \n\n\n \n 'For the purposes of raising funds for the erection of a suitable building on the land reserved under the Principal Act and for the erection of such a building on such land there shall be a committee which committee shall be a body corporate under the name of the \" National Art Gallery and Cultural Centre Building Committee \" with perpetual succession and a common seal and shall be capable in law of suing and being sued.",
+      "id": "s32"
+    },
+    {
+      "text": "' \n \n \n 11 Section 5 provided for the grant to the National Art Gallery and Cultural Centre Building Committee ('the Building Committee') of land reserved as a site for a National Art Gallery and Cultural Centre.",
+      "id": "s33"
+    },
+    {
+      "text": "Section 8 made provision for part of the land concerned to be used as a road, without such use operating to dedicate it as a public highway, and for part of the land to be used for ornamental purposes, for which the City of Melbourne was to have responsibility.",
+      "id": "s34"
+    },
+    {
+      "text": "Section 9(1) provided that the Building Committee would be entitled to the rents and profits of any land granted to it by the Crown.",
+      "id": "s35"
+    },
+    {
+      "text": "12 The 1956 Act was amended by Act No.",
+      "id": "s36"
+    },
+    {
+      "text": "6522 of 1959.",
+      "id": "s37"
+    },
+    {
+      "text": "The amendments included the insertion among the powers of the Building Committee of the power to borrow on terms and conditions approved by the Treasurer of Victoria and the addition of a power, granted to the Treasurer of Victoria, to guarantee the repayment of any sum borrowed by the Building Committee with the Treasurer's approval and any interest on such sum.",
+      "id": "s38"
+    },
+    {
+      "text": "13 By s 12(1)(b) of Act No.",
+      "id": "s39"
+    },
+    {
+      "text": "8249 of 1972, the Building Committee was renamed the Victorian Arts Centre Building Committee.",
+      "id": "s40"
+    },
+    {
+      "text": "14 The Trust was established by the VAC Act, which came into operation on 13 March 1980.",
+      "id": "s41"
+    },
+    {
+      "text": "Section 4 provided: \n\n\n \n '(1) There shall be established a body corporate by the name of the \n Victorian Arts Centre Trust which shall have perpetual succession and \n a common seal and shall be capable in law of suing and of being sued \n and of taking purchasing holding demising selling transferring \n conveying mortgaging or otherwise disposing of real and personal \n property for the purposes of and subject to this Act and of being and \n suffering all acts matters and things which bodies corporate may by \n law do and suffer.",
+      "id": "s42"
+    },
+    {
+      "text": "(2) Subject to the general direction and control of the Minister the Trust \n shall be responsible for the management of the Centre.",
+      "id": "s43"
+    },
+    {
+      "text": "' \n \n \n 15 The word 'Centre' is defined in s 3 of the VAC Act as including the relevant land, and the buildings and improvements erected on it.",
+      "id": "s44"
+    },
+    {
+      "text": "By s 2(a) and (b) of the VAC Act, the Building Committee went out of office on the day on which the VAC Act came into operation, and the Trust became its successor in law.",
+      "id": "s45"
+    },
+    {
+      "text": "By s 2(d) of the VAC Act, all property vested in the Building Committee became vested in the Trust on that date.",
+      "id": "s46"
+    },
+    {
+      "text": "16 The functions of the Trust are set out in s 5 of the VAC Act: \n\n\n \n '(1) The functions of the Trust are&#8722; \n \n (a) to control, manage, operate, promote, develop and maintain \n the Centre; and \n \n (b) to present and produce theatrical performances, operas, plays, \n dramas, ballets and musical and other performances and \n entertainment of any kind at any place; and \n \n (c) to promote the use of the theatres, concert hall and other \n places of assembly by suitable persons and bodies; and \n \n (d) to provide leadership in the promotion and development of the \n performing arts; and \n \n (e) to ensure the maintenance, conservation, development and \n promotion of the State collection of performing arts material; \n and \n \n (f) to oversee the exhibition of performing arts material from the \n State collection and make any performing arts material from \n the State collection available on loan to persons or institutions; \n and \n \n (fa) to establish, maintain, conserve, develop, promote and exhibit \n the public art collection; and \n \n (fb) to make any object from the public art collection available for \n study or loan to persons or institutions, subject to any \n conditions that the Trust determines; and \n \n (g) to carry on, whether within or outside Victoria, whether alone \n or in association with any other person or persons and whether \n or not in relation to the Centre, a business of providing \n ticketing, inventory management of admissions, marketing and \n related services; and \n \n (h) to perform any other functions appropriate to the Centre as the \n Minister may approve; and \n \n (i) to carry out any other function conferred on the Trust under \n this Act.",
+      "id": "s47"
+    },
+    {
+      "text": "(2) In carrying out its functions, the Trust must endeavour to contribute to \n the enrichment of the cultural, educational, social and economic life of \n the people of Victoria.",
+      "id": "s48"
+    },
+    {
+      "text": "' \n \n \n 17 The powers of the Trust, conferred by s 6 of the VAC Act, are the sorts of powers ordinarily conferred on a statutory corporation, with the addition of some that might be considered unusual for a government body.",
+      "id": "s49"
+    },
+    {
+      "text": "For example, s 6(2) confers on the Trust the following powers: \n\n\n \n '(e) to apply for and hold any licence or permit under the Liquor Control \n Reform Act 1998 or any other Act; \n \n (f) to register, purchase or apply for or otherwise acquire either wholly \n or in part any invention, copyright, trade-mark or other mark or \n design, patent, patent rights and privileges, licences, concessions or \n other like rights which in the opinion of the Trust will be of assistance \n to the Trust in carrying out its functions and to sell, dispose of, use, \n exercise and develop such rights or inventions or to grant licences or \n privileges in respect thereof; \n \n ... \n \n (h) to install, use, work and maintain film cameras and projectors and \n broadcasting and television apparatus, and to grant the right of \n installing, using, working and maintaining the same within the areas \n under its control upon such terms and conditions and subject to the \n payment of such charges as may be determined by the Trust; \n \n (i) to print or reproduce in any manner or form and to publish or to \n arrange for the printing or reproduction or publishing of plays, music, \n programmes, posters and advertisements and such other material as \n the Trust may deem expedient and to acquire the copyright therein; \n \n (j) to commission plays, compositions, musicals, ballets, operas or other \n works;' \n \n \n 18 The Trust's borrowing powers, conferred by s 7 of the VAC Act, are confined to borrowing with the approval of the Treasurer and subject to such terms, conditions and limits as the Treasurer imposes.",
+      "id": "s50"
+    },
+    {
+      "text": "The Treasurer has power, given by s 7(3), to guarantee repayment and the payment of interest, charges and expenses.",
+      "id": "s51"
+    },
+    {
+      "text": "19 By amendment to the VAC Act in 2000, s 14(4) provides that a person employed by the Trust is not, in respect of that employment, subject to the provisions of the Public Sector Management and Employment Act 1998 (Vic).",
+      "id": "s52"
+    },
+    {
+      "text": "Also by later amendment, ss 3A and 3B of the VAC Act provide that the Trust has vested in it collections of performing arts material and artworks.",
+      "id": "s53"
+    },
+    {
+      "text": "By s 18 of the VAC Act, the Trust may not sell or dispose of any item that is part of those collections without advertising its intention.",
+      "id": "s54"
+    },
+    {
+      "text": "If any objection is received, the decision whether to sell is one for the Minister, or a delegate of the Minister.",
+      "id": "s55"
+    },
+    {
+      "text": "By amendment of the VAC Act in 1994, s 18A was inserted, to give the Trust power to make by-laws.",
+      "id": "s56"
+    },
+    {
+      "text": "20 It may be relevant to observe how the Trust sees itself.",
+      "id": "s57"
+    },
+    {
+      "text": "In its annual report for 2003-2004, the Trust described itself as follows: \n\n\n \n 'Purpose and statutory functions \n \n The core purpose of the Victorian Arts Centre Trust (the Trust) is to enrich the lives of Victorians --- culturally, educationally, socially and economically \n ( Victorian Arts Centre Act 1979 Section 5 ).",
+      "id": "s58"
+    },
+    {
+      "text": "The Trust's responsibilities include: \n \n &#8226; to control, manage, operate, promote, develop and maintain the Arts \n Centre; \n \n &#8226; to produce and present theatrical performances of any kind; \n \n &#8226; to promote the use of the Arts Centre by the community; \n \n &#8226; to ensure the maintenance, conservation, development, promotion \n and exhibition of the State collection of performing arts materials \n and the public art collection, as well as making material available \n for study or loan.",
+      "id": "s59"
+    },
+    {
+      "text": "Our role \n \n &#8226; providing leadership in the creation, presentation, promotion and \n advocacy of the performing arts; \n \n &#8226; stimulating curiosity and understanding of the performing arts; \n\n &#8226; increasing accessibility and enjoyment of the performing arts; \n\n &#8226; creating partnerships that increase the value and potential of the \n performing arts; \n \n &#8226; exercising responsible care and presentation of publicly owned \n cultural assets.",
+      "id": "s60"
+    },
+    {
+      "text": "Our vision \n \n Our vision is of a society that values the performing arts.",
+      "id": "s61"
+    },
+    {
+      "text": "' \n \n \n 21 In two places on its web site, the Trust describes itself as: \n\n\n \n 'a statutory authority of the Arts Portfolio.",
+      "id": "s62"
+    },
+    {
+      "text": "The Arts Portfolio is \n administered by Arts Victoria, a division of the Department of Premier \n and Cabinet.",
+      "id": "s63"
+    },
+    {
+      "text": "' \n \n \n 22 Further, on its web page, the Trust says: \n\n\n \n 'The Arts Centre is the flagship of the performing arts in Victoria, and the focal point of Melbourne's cultural precinct.",
+      "id": "s64"
+    },
+    {
+      "text": "The Arts Centre is owned by the people of Victoria, and we welcome people at large to experience all that the Arts Centre has to offer.",
+      "id": "s65"
+    },
+    {
+      "text": "In assocciation [ sic ] with some of Australia's top performing arts companies, and an array of national and international companies, we present a unique diversity of arts and entertainment choices all year round.",
+      "id": "s66"
+    },
+    {
+      "text": "The Arts Centre also offers eating and exhibitions to appeal to every age, taste and budget.",
+      "id": "s67"
+    },
+    {
+      "text": "' \n \n \n 23 The Arts Victoria Act 1972 (Vic) creates the office of Director, Arts Victoria, and provides for the appointment of a body called the Victorian Council of the Arts.",
+      "id": "s68"
+    },
+    {
+      "text": "Section 4 of that Act provides, in relation to the Department of Premier and Cabinet: \n\n\n \n 'The objects of the Department under this Act are&#8722; \n \n (a) to develop and improve the knowledge understanding appreciation \n and practice of the Arts in Victoria; \n \n (b) to increase the availability and accessibility of the Arts to the public of \n Victoria; \n \n (c) to encourage and assist in the provision of facilities to enable the Arts \n to be performed or displayed; \n \n (d) to continually survey and assess the position of the Arts in Victoria \n and to report to the Parliament at least once in every year on the \n condition of the Arts in Victoria and to suggest ways in which the Arts \n may be further and better assisted; \n \n (e) to administer the Acts and enactments for which the Minister is \n responsible; \n \n (f) to advise and co-operate with other Departments of the Government \n public statutory authorities municipalities and other persons or bodies \n concerned with the promotion or practice of the Arts in Victoria.",
+      "id": "s69"
+    },
+    {
+      "text": "' \n \n \n 24 It is clear that the Trust is not a State Government department, for the purposes of the phrase 'State Government Departments and Instrumentalities' in the award clauses with which this case is concerned.",
+      "id": "s70"
+    },
+    {
+      "text": "There is a clear contrast between the Trust and Arts Victoria, which is described as a division of what is undoubtedly a State Government department.",
+      "id": "s71"
+    },
+    {
+      "text": "The test for determining whether a particular body is an 'instrumentality' of a State, within the ordinary meaning of that term, is found in Re Anti-Cancer Council of Victoria; Ex parte State Public Services Federation [1992] HCA 53 ; (1992) 175 CLR 442 at 448, where the High Court said: \n\n\n \n 'It is well settled that union eligibility rules are to be interpreted liberally and according to their ordinary and popular meaning.",
+      "id": "s72"
+    },
+    {
+      "text": "However, the expression \"State instrumentality\" is one that carries much the same meaning in popular usage as in a legal context.",
+      "id": "s73"
+    },
+    {
+      "text": "That meaning directs attention to the purpose or end served, so that a body is a State instrumentality if it is empowered to and does, in fact, serve some State government purpose.",
+      "id": "s74"
+    },
+    {
+      "text": "And that is so even if it is neither a servant nor an agent of the State.",
+      "id": "s75"
+    },
+    {
+      "text": "' [Footnotes omitted]\n \n \n 25 Among the authorities cited for the central proposition is the passage in the judgment of Isaacs and Rich JJ in Federated Municipal and Shire Council Employees' Union of Australia v Melbourne Corporation [1919] HCA 72 ; (1919) 26 CLR 508 at 530---531, where their Honours said: \n\n\n \n 'If a municipality either (1) is legally empowered to perform and does perform any function whatever for the Crown, or (2) is lawfully empowered to perform and does perform any function which constitutionally is inalienably a Crown function &#8722; as, for instance, the administration of justice &#8722; the municipality is in law presumed to represent the Crown, and the exemption applies.",
+      "id": "s76"
+    },
+    {
+      "text": "Otherwise, it is outside that exemption, and, if impliedly exempted at all, some other principle must be resorted to.",
+      "id": "s77"
+    },
+    {
+      "text": "The making and maintenance of streets in the municipality is not within either proposition.",
+      "id": "s78"
+    },
+    {
+      "text": "' \n \n \n 26 In the Anti-Cancer Council case, the court held that the Anti-Cancer Council of Victoria ('the ACCV') was not a 'State instrumentality', within the meaning of that expression in a trade union's eligibility rules.",
+      "id": "s79"
+    },
+    {
+      "text": "The ACCV was not under ministerial control.",
+      "id": "s80"
+    },
+    {
+      "text": "Its only function that might have been described as serving a State Government purpose was the receipt of reports and the keeping and compiling of a register, for which the ACCV received a small amount of government funding.",
+      "id": "s81"
+    },
+    {
+      "text": "Significantly, there was no obligation imposed on the ACCV with respect to the reports it received or the cancer register.",
+      "id": "s82"
+    },
+    {
+      "text": "The court held that the ACCV fell within another limb of the rule of the trade union in question, which defined those eligible for membership.",
+      "id": "s83"
+    },
+    {
+      "text": "27 Counsel for the respondent relied on R v Industrial Court of South Australia; Ex parte Australian Broadcasting Commission (1976) 13 SASR 460.",
+      "id": "s84"
+    },
+    {
+      "text": "The Full Court of the Supreme Court of South Australia held that the Australian Broadcasting Commission ('the ABC') was not an 'instrumentality or agency of the Government of the Commonwealth', within the meaning of s 114 of the Industrial Conciliation and Arbitration Act 1972---1975 (SA).",
+      "id": "s85"
+    },
+    {
+      "text": "At 284, Bray CJ, with whom Hogarth J agreed, referred to Electricity Trust of South Australia v Linterns Ltd [1950] SASR 133, in which it was held that the Electricity Trust of South Australia was a government instrumentality, as it managed the undertaking for the supply of electricity and the mining of coal in South Australia, exercised its functions on behalf of the Crown, and was the means or agency for managing a Crown asset.",
+      "id": "s86"
+    },
+    {
+      "text": "At 284---285, Bray CJ conceded that the ABC might be regarded as an instrumentality of the Commonwealth, but expressed the view that it could not be regarded as an instrumentality of the 'Government' of the Commonwealth.",
+      "id": "s87"
+    },
+    {
+      "text": "His Honour took the view that the word 'Government', with a capital initial, in s 114 meant the executive government of the Commonwealth.",
+      "id": "s88"
+    },
+    {
+      "text": "At 285, his Honour examined various provisions of the statute creating the ABC, emphasising the degree of autonomy from the executive government enjoyed by the ABC (with ministerial control only over a small number of specified functions, or in some exceptional specified circumstances), and the obligation of the ABC to indemnify the Postmaster-General in respect of any claim for anything done by the Postmaster-General's Department at the request of the ABC.",
+      "id": "s89"
+    },
+    {
+      "text": "His Honour also pointed out that there was nothing in the statute declaring that the ABC held its assets on behalf of the Crown.",
+      "id": "s90"
+    },
+    {
+      "text": "At 285---286, Bray CJ also regarded as relevant the question whether the degree of ministerial control was sufficient to entitle the ABC to the shield of the Crown.",
+      "id": "s91"
+    },
+    {
+      "text": "Assuming it to have been decided correctly, the ABC case is readily distinguishable from the present.",
+      "id": "s92"
+    },
+    {
+      "text": "28 In the present case, one of the most striking features of the Trust is the extent to which it is subject to ministerial control.",
+      "id": "s93"
+    },
+    {
+      "text": "By s 4(2) of the VAC Act, the Trust's management of the Victorian Arts Centre is expressly subject to the general direction and control of the relevant Minister of the Crown.",
+      "id": "s94"
+    },
+    {
+      "text": "The Trust can only perform functions outside those expressly conferred by s 5(1) if the Minister approves of such functions (see s5(1)(h)).",
+      "id": "s95"
+    },
+    {
+      "text": "The exercise of the Trust's borrowing power is only possible with the approval of the Treasurer, under s 7.",
+      "id": "s96"
+    },
+    {
+      "text": "The extent of ministerial control is such that the Trust would be very likely to have the benefit of the immunity of the Crown from the application of legislation not expressed to bind the Crown, or from being sued or convicted of a criminal offence.",
+      "id": "s97"
+    },
+    {
+      "text": "In determining whether a statutory authority has such immunity, the extent to which it is subject to ministerial control under its establishing legislation is of great importance.",
+      "id": "s98"
+    },
+    {
+      "text": "See Superannuation Fund Investment Trust v Commissioner of Stamps (SA) [1979] HCA 34 ; (1979) 145 CLR 330 at 347---350 per Stephen J, and State Bank of New South Wales v Commonwealth Savings Bank of Australia [1986] HCA 62 ; (1986) 161 CLR 639 at 650.",
+      "id": "s99"
+    },
+    {
+      "text": "29 The first function of the Trust, listed in s 5(1) of the VAC Act, is to control, manage, operate, promote, develop and maintain the Victorian Arts Centre.",
+      "id": "s100"
+    },
+    {
+      "text": "The land and buildings comprising the Victorian Arts Centre are vested in the Trust, by virtue of s 2(d) of the VAC Act, and by virtue of the vesting of what was formerly Crown land in the Trust's predecessor, the Building Committee, by the 1956 Act.",
+      "id": "s101"
+    },
+    {
+      "text": "30 The legislative history, and the terms of the VAC Act, suggest strongly that the principal purpose for the Trust's existence is to hold the title to, and to manage, a major public asset on behalf of the Crown in right of the State of Victoria.",
+      "id": "s102"
+    },
+    {
+      "text": "That this is the purpose of the VAC Act is confirmed by reference to the speech of the Minister for the Arts upon the second reading of the bill that became the VAC Act.",
+      "id": "s103"
+    },
+    {
+      "text": "In the course of that speech, the Minister said: \n\n\n \n 'The Government's investment in the project to date has been substantial.",
+      "id": "s104"
+    },
+    {
+      "text": "Its commitment to it has been a strong one.",
+      "id": "s105"
+    },
+    {
+      "text": "This Bill provides a means of protecting that investment by establishing an operating style that is flexible, business-like and expressly designed for the needs of a major performing arts centre.",
+      "id": "s106"
+    },
+    {
+      "text": "The centre is not just a set of buildings.",
+      "id": "s107"
+    },
+    {
+      "text": "' \n \n \n 31 This extract from the second reading speech also suggests that the powers to which I have referred in [17], which I have described as unusual for a government body, have been conferred on the Trust as a means of enabling the better performance by the Trust of its principal function.",
+      "id": "s108"
+    },
+    {
+      "text": "The unusual powers enable the Trust to act as an impresario and a promoter, so that it can do all that might be thought necessary to manage effectively the important public asset vested in it.",
+      "id": "s109"
+    },
+    {
+      "text": "When viewed in this way, the unusual powers do not detract from the Trust's otherwise clear status as a government instrumentality.",
+      "id": "s110"
+    },
+    {
+      "text": "Further, the removal of the employees of the Trust from the area of operation of the Public Sector Management and Employment Act 1998 (Vic), by s 14(4) of the VAC Act, is seen simply as a means of achieving the degree of flexibility thought to be necessary for the Trust to exercise its range of powers.",
+      "id": "s111"
+    },
+    {
+      "text": "Again, it should not be thought that such flexibility is necessarily inconsistent with the Trust being a government instrumentality, especially when it is viewed in the light of the ancillary nature of the unusual powers.",
+      "id": "s112"
+    },
+    {
+      "text": "32 Another significant indicator that the Trust is established to serve a government purpose is the grant to it, by s 18A of the VAC Act of the power to make by-laws.",
+      "id": "s113"
+    },
+    {
+      "text": "The delegation of legislative power suggests that the Trust carries on governmental activity.",
+      "id": "s114"
+    },
+    {
+      "text": "See State Bank of New South Wales at 651.",
+      "id": "s115"
+    },
+    {
+      "text": "33 The examination of the legislative history, and of the current state of the VAC Act, makes it difficult to avoid the conclusion that the Trust is both empowered to serve, and does serve a State Government purpose.",
+      "id": "s116"
+    },
+    {
+      "text": "That purpose is the control and management of a significant public asset, which successive governments of Victoria have wished to make available for the economic and cultural enrichment of the citizens of Victoria.",
+      "id": "s117"
+    },
+    {
+      "text": "The information on the Trust's web site confirms this view.",
+      "id": "s118"
+    },
+    {
+      "text": "The Trust therefore falls clearly within the ordinary meaning of the phrase 'State instrumentality'.",
+      "id": "s119"
+    },
+    {
+      "text": "34 Counsel for the respondent submitted that the expression 'State Government Departments and Instrumentalities' in cl 8A(a)(ii) of the 1994 Award and cl 15.3.1(b) of the 2003 Award should not bear its ordinary meaning.",
+      "id": "s120"
+    },
+    {
+      "text": "His submissions were based on the history of the making of the two awards and the circumstances surrounding them.",
+      "id": "s121"
+    },
+    {
+      "text": "He also advanced a number of other arguments about the construction of the relevant provisions, including the argument that a purposive construction of them should be adopted.",
+      "id": "s122"
+    },
+    {
+      "text": "The history and context of the awards \n \n\n \n 35 Prior to 1992, terms and conditions of employment in the contract cleaning industry in Victoria were regulated pursuant to Victorian law.",
+      "id": "s123"
+    },
+    {
+      "text": "By that time, there were two main awards regulating the contract cleaning industry, the Building Services Award and the Building Services (State Government Departments and Instrumentalities) Award .",
+      "id": "s124"
+    },
+    {
+      "text": "36 In or about 1992, the Victorian Government began to contract out the cleaning of government premises.",
+      "id": "s125"
+    },
+    {
+      "text": "As a consequence, the applicant or one of its predecessor unions applied to the Industrial Relations Commission of Victoria to vary the Building Services (State Government Departments and Instrumentalities) Award .",
+      "id": "s126"
+    },
+    {
+      "text": "The variation sought was the insertion of a clause that would ensure that the conditions in that Award, which were superior to those in the Building Services Award , would continue to be available to employees cleaning government premises in Victoria, although those employees were employed by contractors and not by the State of Victoria itself.",
+      "id": "s127"
+    },
+    {
+      "text": "On 21 September 1992, Commissioner Pimm made an order, inserting into the Building Services (State Government Departments and Instrumentalities) Award a new clause, designated as cl 1A Incidence of Award.",
+      "id": "s128"
+    },
+    {
+      "text": "So far as is relevant to this proceeding, that clause provided: \n\n\n \n 'The Building Services (State Government Departments and Instrumentalities) Award applies to the whole of the State of Victoria for persons engaged in the provision of building services in the occupations of building attendant, caretaker, cleaner, lift attendant or security officer, howsoever designated, employed --- \n \n (a) By a contractor engaged by a State Government Department or \n Instrumentality'.",
+      "id": "s129"
+    },
+    {
+      "text": "37 On 29 October 1992, when the Industrial Relations Commission of Victoria in full session made a new Building Services (State Government Departments and Instrumentalities) Award , to supersede the former award of that name, this incidence clause appeared in Pt A of that award.",
+      "id": "s130"
+    },
+    {
+      "text": "38 Counsel for the respondent contended that, both before and after the insertion of the incidence of award clause, cleaners at the Victorian Arts Centre were employed by a contractor and were not paid any allowance referable to the Trust being a government instrumentality.",
+      "id": "s131"
+    },
+    {
+      "text": "He contended that the purpose of the incidence of award clause was solely to ensure that superior terms and conditions of employment enjoyed by cleaners employed by the State of Victoria continued to apply when the State contracted out the cleaning of its premises.",
+      "id": "s132"
+    },
+    {
+      "text": "39 Not long after October 1992, there was a substantial flight from Victorian state awards to federal awards, as unions attempted to avoid new Victorian legislation.",
+      "id": "s133"
+    },
+    {
+      "text": "The applicant attempted to obtain a federal award for cleaners.",
+      "id": "s134"
+    },
+    {
+      "text": "Employers in the industry opposed this.",
+      "id": "s135"
+    },
+    {
+      "text": "Although the applicant was successful in overcoming an objection that the Commission had no jurisdiction to make an award, the Commission refused to make an interim award sought by the applicant.",
+      "id": "s136"
+    },
+    {
+      "text": "On 25 October 1993, a Full Bench of the Commission published a decision following a review of wage fixing principles.",
+      "id": "s137"
+    },
+    {
+      "text": "Among the principles it laid down for the making of first federal awards was a principle providing that: \n\n\n \n 'In awards regulating the employment of workers previously covered by a State award or determination, existing State award rates and conditions prima facie will be the proper award rates and conditions.",
+      "id": "s138"
+    },
+    {
+      "text": "' \n \n \n 40 Following negotiations about the making of a federal award for the contract cleaning industry, the applicant entered into a memorandum of agreement dated 16 March 1994 ('the memorandum of agreement'), with the Australian Building Services Association, the Property Services Council of Australia, the Victorian Employers Chamber of Commerce &amp; Industry, the Australian Chamber of Manufactures and Eski Cleaning Services.",
+      "id": "s139"
+    },
+    {
+      "text": "That memorandum of agreement provided relevantly as follows: \n\n\n \n 'The parties agree: \n \n 1.",
+      "id": "s140"
+    },
+    {
+      "text": "To make a joint application for a Federal Award that preserves rates \n of pay and allowances as they were prescribed for the contract \n cleaning industry in the expired awards of the former Industrial \n Relations Commission of Victoria, known as the Building Services \n Award, the Building Services (State Government Departments &amp; \n Instrumentalities) Award, the Miscellaneous Workers Post-Secondary \n Education (TAFE) Award and the Cleaners and Domestic Arts \n Assistants (Government Schools) Award.",
+      "id": "s141"
+    },
+    {
+      "text": "2.",
+      "id": "s142"
+    },
+    {
+      "text": "That the Award made prescribe common conditions of employment \n for the industry, other than where to prescribe such common \n conditions of employment would result in a reduction in income \n contrary to Point 1 of this agreement.",
+      "id": "s143"
+    },
+    {
+      "text": "It is acknowledged by the parties that the implementation of 1 and 2 \n of this agreement shall be staged as follows: \n \n (a) An initial application to the Commission for a minimum rates \n award, the scope and Incidence of that award being in similar \n terms to the Incidence of the former Building Services Award.",
+      "id": "s144"
+    },
+    {
+      "text": "(b) A second stage where the paid rates applicable in the former \n paid rates awards applicable to the cleaning industry are \n incorporated as separate parts into the Building Services \n Award.",
+      "id": "s145"
+    },
+    {
+      "text": "' \n \n \n 41 On 16 March 1994, a representative of the applicant announced the memorandum of agreement to Deputy President Acton of the Commission, and sought the making of an award in accordance with it.",
+      "id": "s146"
+    },
+    {
+      "text": "In the course of his submissions, the applicant's representative told Deputy President Acton: \n\n\n \n 'The award that I would be asking that the commission make, arising out of today's proceedings is a minimum rates award, the incidence of which is in similar terms to the incidence of the former Building Services Award of the former Industrial Relations Commission of Victoria.",
+      "id": "s147"
+    },
+    {
+      "text": "There will be a second stage in the implementation of this agreement at which time the parties will approach the commission and seek to have the award which we would have made today, amended to incorporate rates of pay which were expressed in the former state awards known as the Building Services State Government Departments and Instrumentalities award, the Miscellaneous Workers Post-secondary Education TAFE Award, and the Cleaners and Domestic Arts Assistance Government Schools Award, and that will be the subject of subsequent application to the commission, and of course there will need to be detailed negotiations between the parties as to the final form of such variations to the award.",
+      "id": "s148"
+    },
+    {
+      "text": "' \n \n \n 42 The applicant's representative also told Deputy President Acton that the proposed award reflected the situation as it was when the Building Services Conciliation and Arbitration Board and the Building Services State Government Departments and Instrumentalities Conciliation and Arbitration Board had been restructured by decision of the Industrial Relations Commission of Victoria on 7 March 1991.",
+      "id": "s149"
+    },
+    {
+      "text": "The abolition of those boards by statute in August 1992 led to the introduction into the Building Services (State Government Departments and Instrumentalities) Award of the incidence clause to which I have referred in [36].",
+      "id": "s150"
+    },
+    {
+      "text": "The Commission made the consent award, which is the 1994 Award.",
+      "id": "s151"
+    },
+    {
+      "text": "43 As had been promised to Deputy President Acton, a further application was made to the Commission to incorporate into the 1994 Award the specific rates derived from several former Victorian awards, including the Building Services (State Government Departments and Instrumentalities) Award .",
+      "id": "s152"
+    },
+    {
+      "text": "The Commission heard that application on 20 July 1994.",
+      "id": "s153"
+    },
+    {
+      "text": "The application was not opposed by representatives of employers, although two of them expressed concern about differential rates within the industry and foreshadowed discussions with a view to absorbing the specific rates into future general increases.",
+      "id": "s154"
+    },
+    {
+      "text": "Commissioner Bacon accepted the submission of the parties and invited them to submit an order for him to make.",
+      "id": "s155"
+    },
+    {
+      "text": "This was the origin of cl 8A of the 1994 Award.",
+      "id": "s156"
+    },
+    {
+      "text": "44 This history might be of some assistance to the respondent's case if there were any evidence that the non-payment of rates specified in the Building Services (State Government Departments and Instrumentalities) Award to those employed as cleaners at the Victorian Arts Centre had ever been the result of a conscious decision not to apply those rates, or an awareness that, for some reason, they were inapplicable.",
+      "id": "s157"
+    },
+    {
+      "text": "For present purposes, I am prepared to accept that the construction of an award can be affected by a common understanding of the parties to it about a particular state of affairs.",
+      "id": "s158"
+    },
+    {
+      "text": "If such a common understanding existed when the award was made, it should not be departed from when the Court comes to construe the award at a subsequent time.",
+      "id": "s159"
+    },
+    {
+      "text": "Care must be taken, however, to distinguish a common understanding from common inadvertence.",
+      "id": "s160"
+    },
+    {
+      "text": "If the only reason why the government instrumentality rates were not paid at the Victorian Arts Centre was that neither the union nor the employer adverted to the possibility that there was an obligation to pay them, no common understanding results.",
+      "id": "s161"
+    },
+    {
+      "text": "In order to have an understanding, it is necessary that there be a meeting of minds, a consensus.",
+      "id": "s162"
+    },
+    {
+      "text": "There can be no meeting of minds, no consensus, if no-one has thought about the issue.",
+      "id": "s163"
+    },
+    {
+      "text": "45 Such evidence as there is in the present case leads to the conclusion that it is only in recent years that the applicant has realised that there is a possibility that those employed as cleaners at the Victorian Arts Centre have been underpaid.",
+      "id": "s164"
+    },
+    {
+      "text": "There were several parties to the memorandum of agreement.",
+      "id": "s165"
+    },
+    {
+      "text": "There is no evidence that any of those parties held a view on the issue at all.",
+      "id": "s166"
+    },
+    {
+      "text": "In this respect, three significant witnesses gave evidence in this proceeding.",
+      "id": "s167"
+    },
+    {
+      "text": "Dimitrios Demos was the Operations Manager of the company that became the contractor for the cleaning of the Victorian Arts Centre from the time the Trust took possession of it in 1981.",
+      "id": "s168"
+    },
+    {
+      "text": "He worked for that company until 1987.",
+      "id": "s169"
+    },
+    {
+      "text": "During that time, he became its State Manager for Victoria.",
+      "id": "s170"
+    },
+    {
+      "text": "John Lazzari was the State Manager for Victoria of a predecessor company of the respondent from 1993.",
+      "id": "s171"
+    },
+    {
+      "text": "He had direct responsibility for overseeing the carrying out of the contract to clean the Victorian Arts Centre.",
+      "id": "s172"
+    },
+    {
+      "text": "At the time of the transition from State to federal regulation of terms and conditions of employment in the contract cleaning industry, Mr Lazzari was State President of the Building Services Contractors Association of Australia, which he said was incorrectly described in the memorandum of agreement to which I have referred in [40] as the Property Services Council of Australia.",
+      "id": "s173"
+    },
+    {
+      "text": "In that capacity, he was a signatory of the memorandum of agreement.",
+      "id": "s174"
+    },
+    {
+      "text": "John Grant was on the State Executive of the Building Services Contractors Association of Australia at the time of the transition.",
+      "id": "s175"
+    },
+    {
+      "text": "None of these three witnesses gave any evidence suggestive of a common understanding between the applicant or its predecessor and any employer, or employer association involved in the contract cleaning industry, to the effect that the Victorian Arts Centre was not regarded as premises of a State Government instrumentality.",
+      "id": "s176"
+    },
+    {
+      "text": "It is clear that no-one adverted to the status of the Trust, and to whether it was a State Government instrumentality for the purposes of either the earlier State award or the 1994 Award.",
+      "id": "s177"
+    },
+    {
+      "text": "46 It is not the case that the applicant has changed its mind and gone back on a common understanding.",
+      "id": "s178"
+    },
+    {
+      "text": "It is the case that no common understanding ever existed.",
+      "id": "s179"
+    },
+    {
+      "text": "Other construction arguments \n \n\n \n 47 The adoption of a purposive construction of the 1994 Award does not assist the respondent.",
+      "id": "s180"
+    },
+    {
+      "text": "Even if the purpose can be ascertained from the express statements of the subjective intentions of the parties to the process of making the 1994 Award, acceptance that the purpose was to reproduce the situation as it had been in Victoria does not answer the question whether there existed an obligation to pay the government instrumentality rates to those employed as cleaners at the Victorian Arts Centre.",
+      "id": "s181"
+    },
+    {
+      "text": "The stated purpose of the memorandum of agreement was to preserve rates of pay 'as they were prescribed'.",
+      "id": "s182"
+    },
+    {
+      "text": "If it could be shown that some provision of the earlier Victorian award excluded those employed to clean the premises of the Trust, the stated purpose of the memorandum of agreement would not be fulfilled if the 1994 Award, which was the result of the agreement expressed in the memorandum of agreement, were to be construed as including the Trust's premises.",
+      "id": "s183"
+    },
+    {
+      "text": "No such provision existed.",
+      "id": "s184"
+    },
+    {
+      "text": "On no view can an examination of cl 8A(a)(ii) of the 1994 Award, by itself or in the context of other provisions of the 1994 Award, yield a purpose as specific as the exclusion of the Trust from the concept of a State Government instrumentality.",
+      "id": "s185"
+    },
+    {
+      "text": "The purpose was to provide higher rates of pay for those employed in cleaning in the premises of 'State Government Departments and Instrumentalities'.",
+      "id": "s186"
+    },
+    {
+      "text": "The question remains whether that concept includes or excludes the Trust.",
+      "id": "s187"
+    },
+    {
+      "text": "48 Counsel for the respondent also attempted to argue that the phrase 'State Government Departments and Instrumentalities' had become a term of art in relation to industrial instruments operating in Victoria by the time the 1994 Award was made.",
+      "id": "s188"
+    },
+    {
+      "text": "To establish this proposition, he tendered a copy of the original print of the Metal Industry (Victorian Government Departments and Instrumentalities) Interim Award 1981 ('the Metal Industry Award'), dated 14 October 1981.",
+      "id": "s189"
+    },
+    {
+      "text": "Clause 2 of the Metal Industry Award provided: \n\n\n '2 --- PARTIES BOUND \n \n This award shall be binding upon members of The Amalgamated Metal Workers' and Shipwrights Union, Australasian Society of Engineers, the Electrical Trades Union of Australia, The Federated Ironworkers' Association of Australia and the Victorian Government Departments and Instrumentalities named hereunder in respect of their employees performing work covered by this award.",
+      "id": "s190"
+    },
+    {
+      "text": "In Part 1: \n \n Country Roads Board, Victoria.",
+      "id": "s191"
+    },
+    {
+      "text": "Forests Commission of Victoria.",
+      "id": "s192"
+    },
+    {
+      "text": "Her Majesty the Queen In Right of the State of Victoria.",
+      "id": "s193"
+    },
+    {
+      "text": "Housing Commission, Victoria.",
+      "id": "s194"
+    },
+    {
+      "text": "Melbourne and Metropolitan Board of Works.",
+      "id": "s195"
+    },
+    {
+      "text": "Melbourne and Metropolitan Tramways Board.",
+      "id": "s196"
+    },
+    {
+      "text": "State Rivers and Water Supply Commission, Victoria.",
+      "id": "s197"
+    },
+    {
+      "text": "In Part 2: \n \n State Electricity Commission of Victoria \n \n In Part 3: \n \n Geelong Harbour Trust Commissioners.",
+      "id": "s198"
+    },
+    {
+      "text": "Port of Melbourne Authority.",
+      "id": "s199"
+    },
+    {
+      "text": "Portland Harbour Trust Commissioners.",
+      "id": "s200"
+    },
+    {
+      "text": "' \n \n \n 49 Just how the making of the Metal Industry Award could operate to create a term of art for industrial instruments is unclear.",
+      "id": "s201"
+    },
+    {
+      "text": "The organisations that later amalgamated to form the applicant were not parties to the Metal Industry Award, and therefore played no part in the choice of bodies named.",
+      "id": "s202"
+    },
+    {
+      "text": "Mr Lazzari, who was a signatory to the memorandum of agreement referred to in [40], gave evidence that he was not aware of the list in the Metal Industry Award.",
+      "id": "s203"
+    },
+    {
+      "text": "It is unlikely that the concept of a State Government department or instrumentality could be frozen in time by a specific listing in one award.",
+      "id": "s204"
+    },
+    {
+      "text": "In any event, the list included 'Her Majesty the Queen In Right of the State of Victoria', an entity apt to include all statutory bodies entitled to the immunity of the Crown in right of the State of Victoria.",
+      "id": "s205"
+    },
+    {
+      "text": "On the basis that the Trust is such a body, it would be comprehended by the list in the Metal Award.",
+      "id": "s206"
+    },
+    {
+      "text": "50 Although three witnesses with long experience of the contract cleaning industry gave evidence on behalf of the respondent, no witness gave evidence to the effect that the phrase 'State Government Departments and Instrumentalities' had become a term of art in the industry, whether as a result of the Metal Industry Award or otherwise.",
+      "id": "s207"
+    },
+    {
+      "text": "51 Counsel for the respondent attempted to rely on the capitalisation of the initial letter of the word 'Instrumentalities' in each of cl 8A(a)(ii) of the 1994 Award and cl 15.3.1(b) of the 2003 Award, as well as in the earlier Victorian award, as indicative that a particular meaning of the word had been intended.",
+      "id": "s208"
+    },
+    {
+      "text": "Capitalisation of the initial letters of words in headings is a common practice.",
+      "id": "s209"
+    },
+    {
+      "text": "Inappropriate capitalisation of the initial letters of words, when not used in headings, is also common.",
+      "id": "s210"
+    },
+    {
+      "text": "It is unlikely to indicate the use of a term of art.",
+      "id": "s211"
+    },
+    {
+      "text": "In any event, if a conscious decision had been made to use the word 'Instrumentalities' as a term of art, the option of defining it in the award was available.",
+      "id": "s212"
+    },
+    {
+      "text": "It is unlikely that whoever drafted the 1994 Award made a conscious decision to use a term of art, and to indicate that a term of art had been used solely by the use of an initial capital letter.",
+      "id": "s213"
+    },
+    {
+      "text": "I do not accept that the fact that the word 'Instrumentality' has a capital initial in the 1994 Award and the earlier Victorian award that replaced it can be said to be indicative of a term of art.",
+      "id": "s214"
+    },
+    {
+      "text": "This is so, even when the word is contrasted with the word 'instrumentality' in the clause considered by the High Court in the Anti-Cancer Council case.",
+      "id": "s215"
+    },
+    {
+      "text": "52 Counsel for the respondent also attempted to argue that I should have regard to possible anomalies that might arise from the application of cl 8A(a)(ii) of the 1994 Award and cl 15.3.1(b) of the 2003 Award to high-rise buildings, occupied by a mix of tenants, only some of which were State Government entities.",
+      "id": "s216"
+    },
+    {
+      "text": "This argument is completely irrelevant to the present case.",
+      "id": "s217"
+    },
+    {
+      "text": "There is no suggestion that the Victorian Arts Centre is occupied by any entity other than the Trust.",
+      "id": "s218"
+    },
+    {
+      "text": "The question of multiple occupancy of buildings and the application of cl 8A(a)(ii) of the 1994 Award is dealt with in Liquor, Hospitality and Miscellaneous Union v Prestige Property Services Pty Ltd [2005] FCA 408 , a judgment delivered subsequent to the hearing of the present case.",
+      "id": "s219"
+    },
+    {
+      "text": "53 For these reasons, I am persuaded that the word 'Instrumentalities' when used in the composite phrase 'State Government Departments and Instrumentalities' in cl 8A(a)(ii) of the 1994 Award and cl 15.3.1(b) of the 2003 Award is used in its ordinary and natural meaning.",
+      "id": "s220"
+    },
+    {
+      "text": "When so used, as I have already found, it encompasses the Trust.",
+      "id": "s221"
+    },
+    {
+      "text": "Conclusion and orders \n \n\n \n 54 It follows that the respondent has been in breach of its obligations, imposed by cl 8A(a)(ii) of the 1994 Award and cl 15.3.1(b) of the 2003 Award, to pay the allowances required by those clauses to its employees engaged in performing cleaning services at the Victorian Arts Centre.",
+      "id": "s222"
+    },
+    {
+      "text": "55 Section 178(2) of the WR Act provides that multiple breaches of a term of an award, arising out of a course of conduct, are to be treated as a single breach.",
+      "id": "s223"
+    },
+    {
+      "text": "Counsel for the applicant accepted that all breaches of the 1994 Award were to be treated as a single breach and all breaches of the 2003 Award were to be treated as another single breach.",
+      "id": "s224"
+    },
+    {
+      "text": "This involves the concession that each of the relevant clauses contains a single 'term', for the purposes of s 178 of the WR Act.",
+      "id": "s225"
+    },
+    {
+      "text": "I am prepared to accept this concession in the present case.",
+      "id": "s226"
+    },
+    {
+      "text": "56 The maximum penalty applicable is $10 000 for each breach.",
+      "id": "s227"
+    },
+    {
+      "text": "There has been an increase in the maximum amount, by amendment to the WR Act since the proceeding was commenced, but counsel for the applicant conceded that the earlier maximum is the appropriate one.",
+      "id": "s228"
+    },
+    {
+      "text": "In fixing the appropriate penalty, I bear in mind that the real penalty for the respondent will be the necessity to make the payments of underpaid entitlements, together with interest, to each of the employees underpaid.",
+      "id": "s229"
+    },
+    {
+      "text": "This will be an expensive exercise for the respondent.",
+      "id": "s230"
+    },
+    {
+      "text": "It will have an effect on the profitability of the contract under which the respondent is responsible for the cleaning of the Victorian Arts Centre.",
+      "id": "s231"
+    },
+    {
+      "text": "I accept that that contract was negotiated without regard to the need to pay the allowances specified by the 1994 Award and the 2003 Award.",
+      "id": "s232"
+    },
+    {
+      "text": "Some reference was made to the possibility of renegotiating the contract in light of the outcome of this proceeding.",
+      "id": "s233"
+    },
+    {
+      "text": "Whether that can be done, and the Trust can be induced to pay a greater sum in respect of work already done, I do not know.",
+      "id": "s234"
+    },
+    {
+      "text": "I also accept that, at least until recent times, the breaches have arisen from inadvertence, and not from a deliberate intention to underpay.",
+      "id": "s235"
+    },
+    {
+      "text": "No suggestion was made that the respondent had a record of prior breaches of awards.",
+      "id": "s236"
+    },
+    {
+      "text": "The only aggravating factor appears to be the want of any contrition.",
+      "id": "s237"
+    },
+    {
+      "text": "In his evidence, Mr Lazzari was very dismissive of the claim, describing it as 'frivolous'.",
+      "id": "s238"
+    },
+    {
+      "text": "Obviously, there was a need for the respondent to look more closely at its obligations, when the issue was first raised by the applicant.",
+      "id": "s239"
+    },
+    {
+      "text": "57 It is also necessary to acknowledge the need for deterrence in an industry in which Mr Grant, who has held several offices in the Building Services Contractors Association over a long period, acknowledged that there is some non-compliance with awards.",
+      "id": "s240"
+    },
+    {
+      "text": "58 Taking all these factors into account, it is appropriate to fix the penalty at $2000 in respect of the breach of the term of the 1994 Award and $1500 in respect of the breach of the term of the 2003 Award.",
+      "id": "s241"
+    },
+    {
+      "text": "The usual order is that a penalty be paid to the party seeking its imposition.",
+      "id": "s242"
+    },
+    {
+      "text": "There was no submission that such an order would be inappropriate in the present case.",
+      "id": "s243"
+    },
+    {
+      "text": "Pursuant to s 356 of the WR Act, there will be an order that each penalty be paid to the applicant.",
+      "id": "s244"
+    },
+    {
+      "text": "59 I also propose to make an order that the respondent pay to each of the persons it employed at the Victorian Arts Centre the amount agreed to be outstanding.",
+      "id": "s245"
+    },
+    {
+      "text": "To each amount there should be added interest, pursuant to s 179A of the WR Act.",
+      "id": "s246"
+    },
+    {
+      "text": "In this respect, the applicant's claim is modest.",
+      "id": "s247"
+    },
+    {
+      "text": "Because of the difficulty of calculation of interest when it is payable on a series of payments that were due over a long period, the applicant has asked for interest only from 1 June 2003, ie.",
+      "id": "s248"
+    },
+    {
+      "text": "on the total sum owed to each employee in respect of the two periods claimed.",
+      "id": "s249"
+    },
+    {
+      "text": "The applicant calculated that interest only up to the date when the case was being heard.",
+      "id": "s250"
+    },
+    {
+      "text": "It should be calculated to the date of judgment.",
+      "id": "s251"
+    },
+    {
+      "text": "As to the rate, the applicant sought interest at 11 per cent per annum, that being the operative rate at 1 June 2003, pursuant to the Penalty Interest Rate Act 1983 (Vic).",
+      "id": "s252"
+    },
+    {
+      "text": "It is appropriate to choose that rate for the reasons advanced in EMCL Pty Ltd v Esanda Finance Corporation Ltd (No.",
+      "id": "s253"
+    },
+    {
+      "text": "2) (1998) 160 ALR 382 at 384, and Textile, Clothing and Footwear Union of Australia v Givoni Pty Ltd [2002] FCA 1406 at [91] .",
+      "id": "s254"
+    },
+    {
+      "text": "The rate of interest was increased to 11.25 per cent from 26 June 2003, and to 12 per cent from 1 July 2004, but counsel for the applicant forwent any entitlement to a rate greater than 11 per cent.",
+      "id": "s255"
+    },
+    {
+      "text": "The order that I make for payment to each employee will therefore include an amount of interest on the sum owing to that employee at 1 June 2003, at the rate of 11 per cent per annum (non-compounding), from 1 June 2003 to the date of judgment.",
+      "id": "s256"
+    },
+    {
+      "text": "60 The case is covered by s 347 of the WR Act, so no question of cost arises.",
+      "id": "s257"
+    },
+    {
+      "text": "I certify that the preceding sixty (60) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Gray.",
+      "id": "s258"
+    },
+    {
+      "text": "Associate:\n\nDated: 23 January 2006\n\n\n Counsel for the applicant: C Dowling \n \n Solicitor for the applicant: Australian Liquor, Hospitality and Miscellaneous Workers Union \n \n Counsel for the respondent: MD Murphy \n \n Solicitor for the respondent: Tanya Cirkovic &amp; Associates \n \n Dates of Hearing: 15, 16 March 2005 \n \n Date of Judgment: 23 January 2006 \n\n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2006/11.html",
+      "id": "s259"
+    }
+  ]
+}

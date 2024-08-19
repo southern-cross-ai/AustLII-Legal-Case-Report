@@ -1,0 +1,956 @@
+[
+  {
+    "text": "corporations",
+    "id": "cp0.0",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "management and administration",
+    "id": "cp0.1",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "motion for injunction",
+    "id": "cp0.2",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "whether procedural irregularity may cause substantial injustice which cannot be remedied by order of the court",
+    "id": "cp0.3",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "whether injunctive relief should be granted in circumstances where matter in contention is to be addressed at a forthcoming general meeting of members",
+    "id": "cp0.4",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "balance of convenience weighs against injunctive relief where forthcoming meeting is to be held",
+    "id": "cp0.5",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "application for injunctive relief and/or early trial refused",
+    "id": "cp0.6",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "corporations",
+    "id": "cp1.0",
+    "type": "cited",
+    "from": "[2007]"
+  },
+  {
+    "text": "application for approval of compulsory acquisition of securities in notice",
+    "id": "cp1.1",
+    "type": "cited",
+    "from": "[2007]"
+  },
+  {
+    "text": "s 664f corporations act 2001 (cth)",
+    "id": "cp1.2",
+    "type": "cited",
+    "from": "[2007]"
+  },
+  {
+    "text": "preliminary issue",
+    "id": "cp1.3",
+    "type": "cited",
+    "from": "[2007]"
+  },
+  {
+    "text": "whether notice sets out \"cash sum\"",
+    "id": "cp1.4",
+    "type": "cited",
+    "from": "[2007]"
+  },
+  {
+    "text": "s 664c(1)(a)",
+    "id": "cp1.5",
+    "type": "cited",
+    "from": "[2007]"
+  },
+  {
+    "text": "applicant lodged notice with asic and despatched to minority shareholders offering a cash amount per share but subject to adjustment at some unstipulated time after date of notice",
+    "id": "cp1.6",
+    "type": "cited",
+    "from": "[2007]"
+  },
+  {
+    "text": "notice did not set out \"cash sum\".",
+    "id": "cp1.7",
+    "type": "cited",
+    "from": "[2007]"
+  },
+  {
+    "text": "corporations",
+    "id": "cp2.0",
+    "type": "cited",
+    "from": "[2006]"
+  },
+  {
+    "text": "compulsory acquisition of shares",
+    "id": "cp2.1",
+    "type": "cited",
+    "from": "[2006]"
+  },
+  {
+    "text": "shareholder objection to acquisition",
+    "id": "cp2.2",
+    "type": "cited",
+    "from": "[2006]"
+  },
+  {
+    "text": "application for court approval of compulsory acquisition",
+    "id": "cp2.3",
+    "type": "cited",
+    "from": "[2006]"
+  },
+  {
+    "text": "whether applicant has satisfied provisions of part 6a.2 of the corporations act 2001 (cth)",
+    "id": "cp2.4",
+    "type": "cited",
+    "from": "[2006]"
+  },
+  {
+    "text": "whether the nomination of a company is the nomination of an individual",
+    "id": "cp2.5",
+    "type": "cited",
+    "from": "[2006]"
+  },
+  {
+    "text": "whether fair value given for preference shares",
+    "id": "cp2.6",
+    "type": "cited",
+    "from": "[2006]"
+  },
+  {
+    "text": "corporations",
+    "id": "cp3.0",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "meetings",
+    "id": "cp3.1",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "proxies",
+    "id": "cp3.2",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "power of attorney",
+    "id": "cp3.3",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether a power of attorney can be a proxy for the purposes of the corporations act",
+    "id": "cp3.4",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether a proxy is \"signed\" for the purposes of ca s.250a(1) if it is executed under a power of attorney or by an agent",
+    "id": "cp3.5",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether a proxy is valid under s.250a(1)(b) if it does not expressly state the name of the company but incorporates the name by referencemeetings",
+    "id": "cp3.6",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "voting",
+    "id": "cp3.7",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "contract",
+    "id": "cp3.8",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether a shareholder's right to vote can be taken away by contract",
+    "id": "cp3.9",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether a vote cast at a meeting in breach of contract is invalidmeeting",
+    "id": "cp3.10",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "rulings",
+    "id": "cp3.11",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether chairman's ruling as to admission of proxies correct",
+    "id": "cp3.12",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether ruling binding and conclusive",
+    "id": "cp3.13",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether erroneous ruling effective to take away member's right to votemeetings",
+    "id": "cp3.14",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "procedural irregularity",
+    "id": "cp3.15",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "substantial injustice",
+    "id": "cp3.16",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "meaning of procedural irregularity discussed",
+    "id": "cp3.17",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "meaning of substantial injustice discussed",
+    "id": "cp3.18",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether special resolution should be validated under ca s.1322(4)(a)financial assistance",
+    "id": "cp3.19",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "validity",
+    "id": "cp3.20",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "declaration",
+    "id": "cp3.21",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether, if financial assistance was provided contrary to ca s.260a(1) a declaration should be made declaring it validated by ca s.260d(1)",
+    "id": "cp3.22",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether declaration hypotheticalwrongdoing",
+    "id": "cp3.23",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "limits of maxim \"a party cannot take advantage of own wrongdoing\" discussed.acts cited:",
+    "id": "cp3.24",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "conveyancing act 1919 (nsw)",
+    "id": "cp3.25",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "s.161",
+    "id": "cp3.26",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "corporations act 2001 (cth)",
+    "id": "cp3.27",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "part 2g.2 div 6, s.249x(1) , s. 249y , s. 250a , s. 250b , s. 250d , s. 260a , s. 260b (1), s. 260b (3), s. 260d (1), s. 1322 (2), s. 1322 (4), s. 1322 (6)",
+    "id": "cp3.28",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "powers of attorney act 2003 (nsw)",
+    "id": "cp3.29",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "s.15 , s. 16",
+    "id": "cp3.30",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "cpt custodian pty ltd v commissioner of state revenue  commissioner of state revenue v karingal 2 holdings pty ltd  land tax",
+    "id": "cp4.0",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "unit trusts",
+    "id": "cp4.1",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "registered proprietors of land were trustees of unit trusts in which taxpayers held issued units",
+    "id": "cp4.2",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "trustees also held issued units in similar trusts",
+    "id": "cp4.3",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "taxpayers assessed for land tax as owners of land",
+    "id": "cp4.4",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether holder of issued units in these trusts is an \"owner\" of the land for the purposes of the land tax act 1958 (vic)",
+    "id": "cp4.5",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether holder of issued units in a trust which itself holds issued units in a further trust, the trustee of which is the registered proprietor of land, is an \"owner\" of the land",
+    "id": "cp4.6",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether holder of only some of the issued units of a unit trust stands in a different position to a beneficiary owning all issued units",
+    "id": "cp4.7",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "relevance of the rule in saunders v vautier",
+    "id": "cp4.8",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "relevance of statutory definition of \"joint owners\".  trusts",
+    "id": "cp4.9",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether \"unit trusts\" form any distinct class of trust the characteristics of which inform the meaning of the statutory term \"owner\"",
+    "id": "cp4.10",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether whenever the legal estate in property is vested in a trustee there must be some person entitled to beneficial ownership.  trusts",
+    "id": "cp4.11",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "beneficiaries",
+    "id": "cp4.12",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "rule in saunders v vautier of beneficiaries' entitlement to terminate trust where sui juris and together absolutely entitled",
+    "id": "cp4.13",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether the rule applies when trust makes provision for trust property to be available for satisfaction of trustee's and manager's fees.",
+    "id": "cp4.14",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "corporations",
+    "id": "cp5.0",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "compulsory acquisition of shares",
+    "id": "cp5.1",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "application for approval of terms of acquisition notice",
+    "id": "cp5.2",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "objections that valuer's report not independent, did not disclose reasons for valuation, was not independently verified and was not based on markets which would produce a higher price for the acquiring company to pay",
+    "id": "cp5.3",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "commissioner of taxation v linter textiles australia ltd (in liquidation)  income tax",
+    "id": "cp6.0",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "allowable deductions",
+    "id": "cp6.1",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "loss carry forward provisions",
+    "id": "cp6.2",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "losses incurred by taxpayer company in preceding years",
+    "id": "cp6.3",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "requirement of continuity during year of income of beneficial ownership in shares in the taxpayer company that carry between them various rights",
+    "id": "cp6.4",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "winding-up order made in respect of parent of taxpayer company and subsequently in respect of taxpayer company",
+    "id": "cp6.5",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "liquidators appointed in each case",
+    "id": "cp6.6",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether shares in the taxpayer company still carried between them the rights required to be attached to those shares.  income tax",
+    "id": "cp6.7",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "allowable deductions",
+    "id": "cp6.8",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "loss carry forward provisions",
+    "id": "cp6.9",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "losses incurred by taxpayer company in preceding years",
+    "id": "cp6.10",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "requirement of continuity during year of income of beneficial ownership in shares in the taxpayer company that carry between them various rights",
+    "id": "cp6.11",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "winding-up order made in respect of parent of taxpayer company and subsequently in respect of taxpayer company",
+    "id": "cp6.12",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "liquidators appointed in each case",
+    "id": "cp6.13",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether, subsequent to winding up of parent company, the shares held by parent company in the taxpayer company were not \"beneficially owned\" by the parent company.  income tax",
+    "id": "cp6.14",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "allowable deductions",
+    "id": "cp6.15",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "loss carry forward provisions",
+    "id": "cp6.16",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "losses incurred by taxpayer company in preceding years",
+    "id": "cp6.17",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "discretion in commissioner of taxation to apply additional requirements for carrying forward previous tax losses",
+    "id": "cp6.18",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "requirement that voting power in taxpayer company be controlled, or capable of being controlled, by an individual or two or more persons not being companies",
+    "id": "cp6.19",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "ultimate holding company of parent of taxpayer company was trustee of two trusts administered for benefit of a family",
+    "id": "cp6.20",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether family still controlled voting power in taxpayer company.  statutes",
+    "id": "cp6.21",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "construction",
+    "id": "cp6.22",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "loss carry forward provisions in income tax legislation",
+    "id": "cp6.23",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "meaning of requirement that shares held in taxpayer company be \"beneficially owned\" by parent company",
+    "id": "cp6.24",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "effect of intervening winding-up orders and appointment of liquidators in each company",
+    "id": "cp6.25",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "meaning and purpose of the requirement of beneficial ownership in this context",
+    "id": "cp6.26",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "relevance and utility of analysis by reference to the law of trusts and equitable ownership of property.  corporations",
+    "id": "cp6.27",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "involuntary winding up",
+    "id": "cp6.28",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether company in liquidation divested of beneficial ownership of assets",
+    "id": "cp6.29",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether liquidator trustee for the benefit of creditors.  trusts",
+    "id": "cp6.30",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether liquidator trustee for the benefit of creditors.  appeal",
+    "id": "cp6.31",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "appeal before high court",
+    "id": "cp6.32",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "application to amend notice of appeal to raise explicitly the application of statute to the facts and circumstances of the case",
+    "id": "cp6.33",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether amendment should be granted",
+    "id": "cp6.34",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether any procedural injustice involved in such amendment",
+    "id": "cp6.35",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "considerations relevant to the determination of application.",
+    "id": "cp6.36",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "corporations",
+    "id": "cp7.0",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "management and administration",
+    "id": "cp7.1",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "directors and other officers",
+    "id": "cp7.2",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "meetings of directors",
+    "id": "cp7.3",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "validity of proceedings",
+    "id": "cp7.4",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "absence of quorum",
+    "id": "cp7.5",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "procedural irregularity",
+    "id": "cp7.6",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "whether valid by virtue of the corporations act 2001 , s1322",
+    "id": "cp7.7",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "whether substantial injustice.",
+    "id": "cp7.8",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "cook v benson  bankruptcy",
+    "id": "cp8.0",
+    "type": "cited",
+    "from": "[2003]"
+  },
+  {
+    "text": "avoidance of settlement of property",
+    "id": "cp8.1",
+    "type": "cited",
+    "from": "[2003]"
+  },
+  {
+    "text": "roll-over of superannuation entitlements",
+    "id": "cp8.2",
+    "type": "cited",
+    "from": "[2003]"
+  },
+  {
+    "text": "superannuation entitlements applied in payment of contributions to other superannuation schemes",
+    "id": "cp8.3",
+    "type": "cited",
+    "from": "[2003]"
+  },
+  {
+    "text": "whether settlements of property",
+    "id": "cp8.4",
+    "type": "cited",
+    "from": "[2003]"
+  },
+  {
+    "text": "whether trustees were purchasers",
+    "id": "cp8.5",
+    "type": "cited",
+    "from": "[2003]"
+  },
+  {
+    "text": "whether trustees purchasers for valuable consideration",
+    "id": "cp8.6",
+    "type": "cited",
+    "from": "[2003]"
+  },
+  {
+    "text": "bankruptcy act 1966 (cth), s 120(1).",
+    "id": "cp8.7",
+    "type": "cited",
+    "from": "[2003]"
+  },
+  {
+    "text": "corporations",
+    "id": "cp9.0",
+    "type": "cited",
+    "from": "[2002]"
+  },
+  {
+    "text": "compulsory acquisition",
+    "id": "cp9.1",
+    "type": "cited",
+    "from": "[2002]"
+  },
+  {
+    "text": "minority interests. valuation",
+    "id": "cp9.2",
+    "type": "cited",
+    "from": "[2002]"
+  },
+  {
+    "text": "methodology",
+    "id": "cp9.3",
+    "type": "cited",
+    "from": "[2002]"
+  },
+  {
+    "text": "inclusion of additional factors",
+    "id": "cp9.4",
+    "type": "cited",
+    "from": "[2002]"
+  },
+  {
+    "text": "special benefits",
+    "id": "cp9.5",
+    "type": "cited",
+    "from": "[2002]"
+  },
+  {
+    "text": "premium for forcible taking",
+    "id": "cp9.6",
+    "type": "cited",
+    "from": "[2002]"
+  },
+  {
+    "text": "\"fair value\" -time of distribution",
+    "id": "cp9.7",
+    "type": "cited",
+    "from": "[2002]"
+  },
+  {
+    "text": "method of distribution. notice",
+    "id": "cp9.8",
+    "type": "cited",
+    "from": "[2002]"
+  },
+  {
+    "text": "compulsory acquisition",
+    "id": "cp9.9",
+    "type": "cited",
+    "from": "[2002]"
+  },
+  {
+    "text": "adequacy of notice to minority shareholders",
+    "id": "cp9.10",
+    "type": "cited",
+    "from": "[2002]"
+  },
+  {
+    "text": "disclosure",
+    "id": "cp9.11",
+    "type": "cited",
+    "from": "[2002]"
+  },
+  {
+    "text": "material information.",
+    "id": "cp9.12",
+    "type": "cited",
+    "from": "[2002]"
+  },
+  {
+    "text": "corporations",
+    "id": "cp10.0",
+    "type": "cited",
+    "from": "[2002]"
+  },
+  {
+    "text": "compulsory acquisition",
+    "id": "cp10.1",
+    "type": "cited",
+    "from": "[2002]"
+  },
+  {
+    "text": "minority interests",
+    "id": "cp10.2",
+    "type": "cited",
+    "from": "[2002]"
+  },
+  {
+    "text": "majority interests unit trust",
+    "id": "cp10.3",
+    "type": "cited",
+    "from": "[2002]"
+  },
+  {
+    "text": "minority unitholders' interests valuation",
+    "id": "cp10.4",
+    "type": "cited",
+    "from": "[2002]"
+  },
+  {
+    "text": "methodology",
+    "id": "cp10.5",
+    "type": "cited",
+    "from": "[2002]"
+  },
+  {
+    "text": "inclusion of additional factors",
+    "id": "cp10.6",
+    "type": "cited",
+    "from": "[2002]"
+  },
+  {
+    "text": "special benefits",
+    "id": "cp10.7",
+    "type": "cited",
+    "from": "[2002]"
+  },
+  {
+    "text": "premium for forcible taking",
+    "id": "cp10.8",
+    "type": "cited",
+    "from": "[2002]"
+  },
+  {
+    "text": "\"fair value\"",
+    "id": "cp10.9",
+    "type": "cited",
+    "from": "[2002]"
+  },
+  {
+    "text": "foreign exchange rates",
+    "id": "cp10.10",
+    "type": "cited",
+    "from": "[2002]"
+  },
+  {
+    "text": "time of distribution",
+    "id": "cp10.11",
+    "type": "cited",
+    "from": "[2002]"
+  },
+  {
+    "text": "method of distribution notice",
+    "id": "cp10.12",
+    "type": "cited",
+    "from": "[2002]"
+  },
+  {
+    "text": "compulsory acquisition",
+    "id": "cp10.13",
+    "type": "cited",
+    "from": "[2002]"
+  },
+  {
+    "text": "adequacy of notice to minority unitholders",
+    "id": "cp10.14",
+    "type": "cited",
+    "from": "[2002]"
+  },
+  {
+    "text": "disclosure",
+    "id": "cp10.15",
+    "type": "cited",
+    "from": "[2002]"
+  },
+  {
+    "text": "material information parties",
+    "id": "cp10.16",
+    "type": "cited",
+    "from": "[2002]"
+  },
+  {
+    "text": "representation",
+    "id": "cp10.17",
+    "type": "cited",
+    "from": "[2002]"
+  },
+  {
+    "text": "minority unitholders",
+    "id": "cp10.18",
+    "type": "cited",
+    "from": "[2002]"
+  },
+  {
+    "text": "representative defendants",
+    "id": "cp10.19",
+    "type": "cited",
+    "from": "[2002]"
+  }
+]

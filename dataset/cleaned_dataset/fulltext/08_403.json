@@ -1,0 +1,968 @@
+{
+  "name": "Australian Competition and Consumer Commission v PRK Corporation Limited [2008] FCA 403 (28 March 2008)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2008/403.html",
+  "catchphrases": [
+    {
+      "text": "motions to strike out statement of claim pleading contravention of s 45(2) of the trade practices act 1974 (cth)",
+      "id": "c0"
+    },
+    {
+      "text": "whether question of law should be determined on a strike out application",
+      "id": "c1"
+    },
+    {
+      "text": "whether statement of claim pleads all material facts",
+      "id": "c2"
+    },
+    {
+      "text": "practice and procedure",
+      "id": "c3"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "THE PROCEEDINGS \n \n1 In these proceedings, the Australian Competition and Consumer Commission (' ACCC ') seeks:\n \n \n &#8226; declarations pursuant to s 21 of the Federal Court of Australia Act 1976 (Cth) (' Federal Court Act ');\n &#8226; pecuniary penalties pursuant to s 76 of the Trade Practices Act 1974 (Cth) (' TP Act ');\n &#8226; injunctions pursuant to s 80 of the TP Act ; and\n &#8226; non-punitive orders pursuant to s 86C of the TP Act , \n \n\nin respect of conduct allegedly in contravention of s 45(2) of the TP Act .",
+      "id": "s0"
+    },
+    {
+      "text": "2 There are thirteen respondents to the proceedings.",
+      "id": "s1"
+    },
+    {
+      "text": "At the heart of the ACCC's case is that in June to August 2001, corporations within the Patrick Group entered into an arrangement (' the first arrangement ') with corporations within the P &amp; O Group, whereby they agreed to operate existing and future automotive terminals at Australian ports jointly, rather than competing to provide individually operated terminals.",
+      "id": "s2"
+    },
+    {
+      "text": "The ACCC alleges that this and a subsequent second arrangement contained provisions that had the purpose, effect or likely effect of substantially lessening competition in a variety of markets, including those for the supply of automotive terminal services and automotive stevedoring services in particular ports.",
+      "id": "s3"
+    },
+    {
+      "text": "Accordingly, by making the arrangements, or by giving effect to provisions of the arrangements, the corporations contravened s 45(2)(a)(ii) and s 45(2)(b)(ii) of the TP Act.",
+      "id": "s4"
+    },
+    {
+      "text": "The ACCC claims that the corporations and other respondents, including the individual respondents, aided and abetted or were knowingly concerned in various contraventions of s45(2).",
+      "id": "s5"
+    },
+    {
+      "text": "3 According to the Amended Statement of Claim (' Statement of Claim ') an automotive terminal comprises infrastructure for the loading or unloading of motor vehicles into or from a motor vehicle carrier and the temporary storage of those motor vehicles.",
+      "id": "s6"
+    },
+    {
+      "text": "The infrastructure includes a wharf at which a motor vehicle carrier can berth, quarantine and customs facilities and an area contiguous to the wharf for temporary storage of vehicles.",
+      "id": "s7"
+    },
+    {
+      "text": "The Statement of Claim defines ' automotive terminal services ' to mean access to and use of an automotive terminal supplied by an ' automotive terminal operator '.",
+      "id": "s8"
+    },
+    {
+      "text": "The expression ' automotive stevedoring services ' is defined to mean loading or unloading motor vehicles into and from a motor vehicle carrier at an automotive terminal and ancillary services.",
+      "id": "s9"
+    },
+    {
+      "text": "The ancillary services include arranging for customs and quarantine inspection, delivery and storage of the vehicles and provision of security systems.",
+      "id": "s10"
+    },
+    {
+      "text": "4 Each of the respondents has filed or joined in a motion seeking to strike out the whole or various portions of the Amended Application (' Application ') and the Statement of Claim filed by the ACCC.",
+      "id": "s11"
+    },
+    {
+      "text": "For the purposes of dealing with the motions I have assumed that the allegations of fact made in the pleadings are true.",
+      "id": "s12"
+    },
+    {
+      "text": "If and when the matter goes to trial, many of the allegations will no doubt be disputed.",
+      "id": "s13"
+    },
+    {
+      "text": "THE LEGISLATION \n \n5 Subsections 45(2) and (4) of the TP Act provide as follows:\n \n '(2) A corporation shall not: \n \n \n \n \n (a) make a contract or arrangement, or arrive at an understanding, if: \n \n (i) ... \n (ii) a provision of the proposed contract, arrangement or understanding has the purpose or would have or be likely to have the effect, of substantially lessening competition; or \n \n (b) give effect to a provision of a contract, arrangement or understanding ..., if that provision: \n \n (i) ... \n \n \n \n (ii) has the purpose, or has or is likely to have the effect, of substantially lessening competition.",
+      "id": "s14"
+    },
+    {
+      "text": "... \n \n \n \n (4) For the purposes of the application of this section in relation to a particular corporation, a provision of a contract, arrangement or understanding or of a proposed contract, arrangement or understanding shall be deemed to have or to be likely to have the effect of substantially lessening competition if that provision and any one or more of the following provisions, namely: \n \n \n \n \n \n (a) the other provisions of that contract, arrangement or understanding or proposed contract, arrangement or understanding; and \n \n (b) the provisions of any other contract, arrangement or understanding or proposed contract, arrangement or understanding to which the corporation or a body corporate related to the corporation is or would be a party; \n \n \n \n \n together have or are likely to have that effect.",
+      "id": "s15"
+    },
+    {
+      "text": "' \n \n\n6 Section 4(1) of the TP Act states that the expression ' give effect to ':\n \n 'in relation to a provision of a contract, arrangement or understanding, includes do an act or thing in pursuance of or in accordance with or enforce or purport to enforce'.",
+      "id": "s16"
+    },
+    {
+      "text": "7 Federal Court Rules (' FCR '), O 11 r 16, provide that the Court may strike out the whole or any part of a pleading which:\n \n \n '(a) discloses no reasonable cause of action or defence or other case appropriate to the nature of the pleading; \n \n \n \n \n \n (b) has a tendency to cause prejudice, embarrassment or delay in the proceeding; or \n \n (c) is otherwise an abuse of the process of the Court.",
+      "id": "s17"
+    },
+    {
+      "text": "' \n \n \n \n THE RESPONDENTS \n \n8 The thirteen respondents fall into five distinct categories, three of which consist of a single respondent.",
+      "id": "s18"
+    },
+    {
+      "text": "Each of the five categories of respondents was separately represented at the hearing.",
+      "id": "s19"
+    },
+    {
+      "text": "The five categories are identified below.",
+      "id": "s20"
+    },
+    {
+      "text": "Patrick Respondents \n \n \n &#8226; The first respondent (' Patrick ') was at all material times prior to 15 June 2007, the holding company of the remaining four Patrick Respondents and, from 1 July 2006, a wholly owned subsidiary of Toll Holdings Ltd (' Toll ').",
+      "id": "s21"
+    },
+    {
+      "text": "&#8226; The second respondent (' Patrick Holdings ') was a subsidiary of Patrick until 15 June 2007 and the holding company of the third and fourth respondents.",
+      "id": "s22"
+    },
+    {
+      "text": "&#8226; The third respondent (' Patrick Operations ') and the fourth respondent (' Patrick Operations No 2 ') were wholly owned subsidiaries of Patrick Holdings.",
+      "id": "s23"
+    },
+    {
+      "text": "&#8226; The fifth respondent (' Plzen ') was a subsidiary of Patrick until 15 June 2007.",
+      "id": "s24"
+    },
+    {
+      "text": "9 The Patrick Respondents have filed a motion seeking orders striking out the Application and Statement of Claim pursuant to FCR , O 11 r 16.",
+      "id": "s25"
+    },
+    {
+      "text": "They say that the Statement of Claim is embarrassing because it:\n \n \n &#8226; does not identify which of the Patrick Respondents engaged in the pleaded conduct in contravention of s 45(2) of the TP Act ; \n \n\n&#8226; fails to plead material facts in support of allegations of accessorial liability;\n \n \n &#8226; impermissibly pleads that arrangements to which the Patrick Respondents are parties included implied terms, when there is no room under the TP Act for provisions of such arrangements to be implied;\n &#8226; in any event, pleads implications that are untenable; and\n &#8226; fails to address the effect or likely effect on competition of the impugned provisions at the date of the alleged arrangements, or at the date when they were allegedly given effect.",
+      "id": "s26"
+    },
+    {
+      "text": "P&amp;O Respondents \n \n10 The P&amp;O Respondents comprise three corporations and two individuals:\n \n \n &#8226; The sixth respondent (' P&amp;O Australia ') was the holding company of the seventh and eighth respondents.",
+      "id": "s27"
+    },
+    {
+      "text": "&#8226; The seventh respondent (' P&amp;O Ports ') was a subsidiary of P&amp;O Australia and the holding company of the eighth respondent.",
+      "id": "s28"
+    },
+    {
+      "text": "&#8226; The eighth respondent (' P&amp;O Wharf Management ') was a subsidiary of P&amp;O Ports and, since 11 July 2002, the beneficial owner of 50 per cent of the shares in the ninth respondent.",
+      "id": "s29"
+    },
+    {
+      "text": "&#8226; The twelfth respondent (' Mr Burgess ') had the authority and responsibilities of chief executive officer for P&amp;O Australia and P&amp;O Ports from 31 January 2001 to 30 June 2002.",
+      "id": "s30"
+    },
+    {
+      "text": "&#8226; The thirteenth respondent (' Mr Blood ') at all material times before June 2002 was the senior executive who had responsibility, subject to the direction of Mr Burgess, for P&amp;O Ports' terminal and automotive stevedoring operations.",
+      "id": "s31"
+    },
+    {
+      "text": "11 The P&amp;O Respondents seek to strike out the whole of the Statement of Claim or, alternatively, paragraphs 280-289 and 302-308.",
+      "id": "s32"
+    },
+    {
+      "text": "Paragraphs 280-289 allege, inter alia , that P&amp;O Australia, P&amp;O Ports and P&amp;O Wharf Management (' P&amp;O Corporations ') entered into arrangements containing provisions which had the purpose or likely effect of substantially lessening competition in certain markets, in contravention of s 45(2)(a)(ii) of the TP Act .",
+      "id": "s33"
+    },
+    {
+      "text": "Paragraphs 302-308 allege that Mr Burgess and Mr Blood aided and abetted or were knowingly concerned in the contraventions.",
+      "id": "s34"
+    },
+    {
+      "text": "12 The P&amp;O Respondents also seek an order striking out paras 66 and 67 of the Application.",
+      "id": "s35"
+    },
+    {
+      "text": "These paragraphs seek injunctions:\n \n \n &#8226; restraining each respondent from giving effect to, or being knowingly concerned in another person's giving effect to, any provisions of the pleaded arrangements held to fall within s 45(2)(a)(ii) of the TP Act (par 66); \n &#8226; restraining the Patrick Respondents and the P&amp;O Corporations: \n \n \n \n \n 'whilst they or their related entities are competitors for the supply of automotive stevedoring services in any port in Australia, from entering into or giving effect directly or indirectly to any arrangement or understanding with a competitor in that port to acquire, operate, manage or control, by joint venture or through a third party or otherwise, automotive terminals in that port, unless they have first obtained from the applicant a determination in writing pursuant to [s 90 of the TP Act ] authorising the arrangement or understanding ' (par 67) .",
+      "id": "s36"
+    },
+    {
+      "text": "13 The P&amp;O Respondents complain particularly about four aspects of the Statement of Claim:\n \n \n &#8226; The pleaded contraventions of the TP Act are embarrassing because they merely recite the provisions of the legislation and fail adequately to identify the material facts which, if proved, would establish the pleaded contraventions.",
+      "id": "s37"
+    },
+    {
+      "text": "&#8226; A number of allegations involve conduct said to have occurred ' through ' other bodies.",
+      "id": "s38"
+    },
+    {
+      "text": "One consequence is that conduct in one market is relied on to establish a contravention in another market.",
+      "id": "s39"
+    },
+    {
+      "text": "This form of pleading is confusing and embarrassing.",
+      "id": "s40"
+    },
+    {
+      "text": "&#8226; The pleading is internally inconsistent, insofar as it alleges conduct in the ' counterfactual ' world (that is, without the contravening conduct) inconsistent with the pleading relating to the various markets relied on by the ACCC.",
+      "id": "s41"
+    },
+    {
+      "text": "&#8226; The Statement of Claim alleges events that occurred after the making of the impugned arrangements and asserts that these events had the effect of substantially lessening competition in various markets.",
+      "id": "s42"
+    },
+    {
+      "text": "The pleading fails to identify material facts establishing the necessary link between the making of the arrangements, or giving effect to provisions contained therein, and the subsequent events.",
+      "id": "s43"
+    },
+    {
+      "text": "AAT \n \n14 The ninth respondent (' AAT ') was incorporated on 16 October 2001, at the instance of one or more of the Patrick Respondents.",
+      "id": "s44"
+    },
+    {
+      "text": "From December 2002, AAT carried on business in Australia managing and developing automotive terminals and supplying automotive terminal services to stevedores.",
+      "id": "s45"
+    },
+    {
+      "text": "15 It is part of the ACCC's case (paras 162, 165.1) that by an arrangement made in April 2002 (' the second arrangement '), the Patrick Respondents and the P&amp;O Corporations made an arrangement containing a provision that AAT would be established:\n \n 'as a joint venture company to assume management of the parties' existing superior automotive terminals and operate them for the mutual benefit of both parties and to establish shared motor vehicle and general cargo terminals throughout Australia to be managed by the [joint venture] company on the parties' behalf.",
+      "id": "s46"
+    },
+    {
+      "text": "' \n \n\nIt is also alleged (paras 165.7, 165.10) that the arrangement contained provisions that:\n \n '[AAT] would take over the management of the parties' existing superior automotive terminals in Brisbane, Adelaide, Melbourne and Sydney, and would manage the terminals on behalf of the parties and for their mutual benefit, and would grant access only to the parties.... \n \n the parties would not compete for the acquisition of leases of facilities at other sites throughout Australia but would, as the opportunity arose, cause AAT to secure leases in AAT's name on behalf of the parties and, if successful, to operate the leases on behalf of the parties and for their joint benefit.",
+      "id": "s47"
+    },
+    {
+      "text": "' \n \n\n16 AAT seeks orders striking out the Statement of Claim or, alternatively, the claims for relief seeking to restrain AAT from continuing to carry on business.",
+      "id": "s48"
+    },
+    {
+      "text": "It also seeks orders requiring the ACCC to provide a case summary stating:\n \n 'the counterfactual situation absent the alleged contravening arrangements and ... how it is alleged giving effect to such arrangements has the alleged effect or likely effect on competition in a relevant market'.",
+      "id": "s49"
+    },
+    {
+      "text": "17 AAT's principal concern is that the ACCC has declined to provide an assurance that it will not seek to restrain AAT conducting its business, including performing its contractual obligations with third parties.",
+      "id": "s50"
+    },
+    {
+      "text": "AAT argues that, if the ACCC is right, anything it does in the conduct of its business, such as paying rent or performing obligations under its lease, constitutes giving effect to a provision of an allegedly contravening agreement.",
+      "id": "s51"
+    },
+    {
+      "text": "AAT submits that as a matter of law this cannot be the correct construction of s 45(2)(b)(ii) of the TP Act.",
+      "id": "s52"
+    },
+    {
+      "text": "Mr Corrigan \n \n18 The tenth respondent (' Mr Corrigan ') was a director of various of the Patrick Respondents and, at all material times until the end of 2006, the chief executive officer of Patrick and Patrick Holdings.",
+      "id": "s53"
+    },
+    {
+      "text": "Mr Corrigan was a director of AAT from October 2001 to October 2002 and he has been a director of P&amp;O Wharf since April 2007.",
+      "id": "s54"
+    },
+    {
+      "text": "19 Mr Corrigan seeks to strike out paras 293 to 296 of the Statement of Claim, which allege that he aided and abetted or was knowingly concerned in contraventions by other parties.",
+      "id": "s55"
+    },
+    {
+      "text": "Mr Corrigan's principal complaint is that the pleading is deficient because it lacks material facts to support the allegations against him.",
+      "id": "s56"
+    },
+    {
+      "text": "Mr Smithwick \n \n20 The eleventh respondent (' Mr Smithwick ') seeks orders striking out the whole of the Statement of Claim or, alternatively, paras 297 to 301.",
+      "id": "s57"
+    },
+    {
+      "text": "Mr Smithwick, at all material times until July 2006, was the senior executive who had authority, subject to Mr Corrigan's direction, within the Patrick Group for all aspects of its automotive terminal operations and automotive stevedoring operations.",
+      "id": "s58"
+    },
+    {
+      "text": "He was also a director of AAT from October 2001 to October 2002.",
+      "id": "s59"
+    },
+    {
+      "text": "21 Paragraphs 297 to 301 plead a case of accessorial liability against Mr Smithwick in similar terms to those pleaded against Mr Corrigan.",
+      "id": "s60"
+    },
+    {
+      "text": "Mr Smithwick's response is much the same as Mr Corrigan's.",
+      "id": "s61"
+    },
+    {
+      "text": "REASONING \n Addressing the Issues \n \n22 The ACCC and the five categories of respondents were each separately represented at the hearing, by a total of eleven counsel.",
+      "id": "s62"
+    },
+    {
+      "text": "There was a good deal of overlap among the written submissions filed on behalf of the various respondents.",
+      "id": "s63"
+    },
+    {
+      "text": "In addition, at the hearing each category of respondents adopted, to a greater or lesser extent, the submissions made on behalf of the other respondents.",
+      "id": "s64"
+    },
+    {
+      "text": "23 The hearing proceeded on the basis that one of the respondents' counsel would take responsibility for presenting the argument on the issue of greatest concern to his client or clients.",
+      "id": "s65"
+    },
+    {
+      "text": "After affording counsel for the other respondents the opportunity to make any additional submissions on that issue, I invited Mr Burnside QC, senior counsel for the ACCC, to respond.",
+      "id": "s66"
+    },
+    {
+      "text": "24 In relation to some issues, I was able to express a view at the hearing that the proposition advanced by the respondents was or was not well-founded.",
+      "id": "s67"
+    },
+    {
+      "text": "Since the reasons for the conclusions expressed by me at the hearing appear sufficiently from the transcript, I do not explain my reasoning for these conclusions in any great detail in this judgment.",
+      "id": "s68"
+    },
+    {
+      "text": "On other issues, I informed the parties that I would consider the arguments and give my conclusions and reasons in a reserved judgment.",
+      "id": "s69"
+    },
+    {
+      "text": "I address the various issues debated at the hearing in the order in which they were dealt with in oral argument.",
+      "id": "s70"
+    },
+    {
+      "text": "Issue 1 AAT: Giving Effect to a Provision \n \n25 The first submission addressed in oral argument was advanced by Mr Bannon SC, who appeared with Ms Morgan for AAT.",
+      "id": "s71"
+    },
+    {
+      "text": "Mr Bannon pointed out that the Statement of Claim alleges, among other things, that AAT is giving effect to certain provisions of the second arrangement, made in April 2002, by entering into leases of facilities and supplying automotive terminal services to customers.",
+      "id": "s72"
+    },
+    {
+      "text": "Mr Bannon contended that as a matter of law a corporation cannot give effect to a provision in an arrangement to which it is not a party.",
+      "id": "s73"
+    },
+    {
+      "text": "Since the ACCC does not allege that AAT was a party to the relevant arrangements, the pleading against it is defective.",
+      "id": "s74"
+    },
+    {
+      "text": "26 Mr Bannon submitted that this construction of s 45(2)(b)(ii) of the TP Act was supported by several matters.",
+      "id": "s75"
+    },
+    {
+      "text": "&#8226; First, s 45(4) of the TP Act, a deeming provision, assumes that a corporation which is potentially the subject of an allegation that it has contravened s 45(2)(b)(ii) must have been party to the original arrangement.",
+      "id": "s76"
+    },
+    {
+      "text": "&#8226; Secondly, the definition of ' give effect to ' in s 4 of the TP Act also appears to be drafted on the assumption that only a party to the arrangement can do an act in pursuance of or in accordance with a provision of the arrangement.",
+      "id": "s77"
+    },
+    {
+      "text": "&#8226; Thirdly, the authorities indicate that a corporation can give effect to a provision in an arrangement independently of that corporation's motive.",
+      "id": "s78"
+    },
+    {
+      "text": "It would create an unrealistic burden on corporations (so Mr Bannon argued) if their conduct could give effect to an anti-competitive provision in an arrangement without the corporation being a party to the arrangement or realising that its actions constitute a contravention of the TP Act: Tradestock Pty Ltd v TNT (Management) Pty Ltd (1978) 32 FLR 420, at 432, per Smithers J; Australian Competition and Consumer Commission v Leahy Petroleum Pty Ltd [2004] FCA 1678 , at [294], per Merkel J.",
+      "id": "s79"
+    },
+    {
+      "text": "27 In the course of argument I put to Mr Bannon the proposition that if he wished to raise a discrete question of law, the appropriate course was to file a motion seeking a determination of the question separately from any other question before the trial, pursuant to FCR, O 29 r 2(a).",
+      "id": "s80"
+    },
+    {
+      "text": "Mr Bannon responded that there might be difficulties with such a course.",
+      "id": "s81"
+    },
+    {
+      "text": "He accepted, however, that the burden faced by AAT in satisfying the Court on a strike out motion was higher than the burden that would apply on the determination of a separate question.",
+      "id": "s82"
+    },
+    {
+      "text": "28 It is sometimes appropriate to decide a pure question of law on a strike out motion: Esanda Finance Corporation Ltd v Peat Marwick Hungerfords [1997] HCA 8 ; (1997) 188 CLR 241.",
+      "id": "s83"
+    },
+    {
+      "text": "But the authorities do not suggest that a court is bound to do so ( Morgan v Union Shipping (Nz) Ltd [2001] NSWSC 325 , at [9], per Sperling J and authorities cited there).",
+      "id": "s84"
+    },
+    {
+      "text": "Mr Bannon did not submit otherwise.",
+      "id": "s85"
+    },
+    {
+      "text": "29 In the present case, I do not think it appropriate to attempt to resolve the question of law presented by Mr Bannon on behalf of AAT.",
+      "id": "s86"
+    },
+    {
+      "text": "The contention is arguable, but its correctness is by no means self-evident.",
+      "id": "s87"
+    },
+    {
+      "text": "The authorities recognise, for example, that the expression ' in accordance with ' in the definition of ' give effect to ' in s 4 of the TP Act :\n \n 'are intended to cover the situation where what is done is or may be done for reasons other than to implement the understanding.",
+      "id": "s88"
+    },
+    {
+      "text": "' \n \n\n Tradestock v TNT, at 432.",
+      "id": "s89"
+    },
+    {
+      "text": "In other words, the expression indicates that a corporation may give effect to an arrangement otherwise than by implementing it.",
+      "id": "s90"
+    },
+    {
+      "text": "The statutory language may suggest, therefore, that a corporation can give effect to a provision of an arrangement even though it is not party to the arrangement.",
+      "id": "s91"
+    },
+    {
+      "text": "30 In any event, the question of construction raised by AAT ultimately may be resolved by reference to the particular facts of the case which, of course have not yet been found.",
+      "id": "s92"
+    },
+    {
+      "text": "AAT is not in the same situation as a third party which has no involvement with an alleged arrangement but which subsequently does something that happens to be connected to the goals sought to be achieved by the parties to the arrangement.",
+      "id": "s93"
+    },
+    {
+      "text": "The ACCC alleges that the very point of the two of the pleaded arrangements was to allow the Patrick Respondent and the P&amp;O Corporations to utilise AAT as the vehicle for carrying into effect the anti-competitive elements of the arrangement.",
+      "id": "s94"
+    },
+    {
+      "text": "AAT may well be in quite a different position to a third party that had no prior knowledge of the arrangement and was never intended to have any particular role to play in implementing the anti-competitive provisions of the arrangement.",
+      "id": "s95"
+    },
+    {
+      "text": "31 For these reasons, it is not appropriate to resolve the question of law raised by AAT on the strike out application.",
+      "id": "s96"
+    },
+    {
+      "text": "The question is arguable and should be resolved at the trial.",
+      "id": "s97"
+    },
+    {
+      "text": "Issue 2 An Injunction Against AAT \n \n32 Mr Bannon submitted on behalf of AAT that the pleading in support of the injunctive relief claimed in para 66 of the Application is defective because it does not specifically allege continuing contraventions of s 45(2)(b)(ii), or being knowingly concerned in such contraventions.",
+      "id": "s98"
+    },
+    {
+      "text": "I indicated at the hearing ( Ts 32-33 ) that I considered that this submission was sound.",
+      "id": "s99"
+    },
+    {
+      "text": "Mr Burnside accepted that the pleading needed to be amended to overcome the deficiency.",
+      "id": "s100"
+    },
+    {
+      "text": "Issue 3 AAT: An Inconsistency?",
+      "id": "s101"
+    },
+    {
+      "text": "33 Mr Bannon submitted that there is an inconsistency in the pleading alleging that AAT gave effect to the second arrangement.",
+      "id": "s102"
+    },
+    {
+      "text": "As has been seen, the Statement of Claim alleges, inter alia , that it was a provision of the arrangement that the parties create AAT as a joint venture company to manage their existing superior automotive terminals and to establish shared motor vehicle and general cargo terminals throughout Australia (para 165.1).",
+      "id": "s103"
+    },
+    {
+      "text": "The Statement of Claim also alleges that it was a provision of the second arrangement that the parties would not compete for the acquisition of the Glebe Island lease, but would cause AAT to negotiate and finalise an exclusive lease over Glebe Island (para 165.6).",
+      "id": "s104"
+    },
+    {
+      "text": "AAT is said to have given effect to these provisions by entering into the ' Glebe Island lease ' in December 2002 (paras 220, 291.1.3) and by thereupon supplying automotive terminal services at Glebe Island (para 222).",
+      "id": "s105"
+    },
+    {
+      "text": "Mr Bannon contended that the Glebe Island lease, which is in evidence, is inconsistent with the concept of a ' shared ' terminal because, under the lease, third party access to the terminal was guaranteed.",
+      "id": "s106"
+    },
+    {
+      "text": "34 In oral argument Mr Burnside stated that the allegations in paras 220 and 291.1.3 relate not to the pleading in para 165.1, but to that in para 95.6.",
+      "id": "s107"
+    },
+    {
+      "text": "Paragraph 95.6 alleges that the first arrangement, made between about June and August 2001, contained a provision that the parties would not compete for the acquisition of the Glebe Island motor vehicle terminal, but would jointly tender for the joint venture company (ultimately AAT) to acquire the lease.",
+      "id": "s108"
+    },
+    {
+      "text": "This must be read with the allegation that P&amp;O's automotive terminal at Glebe Island, as at January 2001, was a superior automotive terminal than the Patrick terminal at Darling Harbour and the other P&amp;O terminal at White Bay (para 65).",
+      "id": "s109"
+    },
+    {
+      "text": "Further, by March 2001, Sydney Ports Corporation had informed the P&amp;O Group that it proposed not to renew P&amp;O's lease at Glebe Island beyond the expiration of the lease in October 2002 (para 66) and on March 2001 sought expressions of interest for the lease from P&amp;O Ports and the Patrick Group (para 67).",
+      "id": "s110"
+    },
+    {
+      "text": "35 I indicated to the parties that, on the basis explained by Mr Burnside, I did not think that Mr Bannon's argument on this particular issue warranted striking out any part of the Statement of Claim and, in particular, para 220 ( Ts 40-41 ).",
+      "id": "s111"
+    },
+    {
+      "text": "However, I invited Mr Burnside to clear up in writing any ambiguity of the kind that had prompted AAT to make its submission.",
+      "id": "s112"
+    },
+    {
+      "text": "Should a request for clarification be made by or on behalf of AAT in relation to the issue dealt with here, I would expect the ACCC to respond appropriately.",
+      "id": "s113"
+    },
+    {
+      "text": "Issue 4 Substantial Lessening of Competition \n \n36 AAT, supported by other respondents, submitted that the Statement of Claim does not plead material facts demonstrating (if the allegations are made out) that any of the arrangements resulted in a substantial lessening of competition in the terminal services market.",
+      "id": "s114"
+    },
+    {
+      "text": "Mr Bannon developed the submission by reference to the allegations concerning the supply of automotive terminal services in the Port of Sydney.",
+      "id": "s115"
+    },
+    {
+      "text": "He pointed out that prior to the first arrangement, both the Patrick Group and the P&amp;O Group conducted vertically integrated operations in the Port of Sydney.",
+      "id": "s116"
+    },
+    {
+      "text": "Each had its own terminal pursuant to a lease from the Port authority.",
+      "id": "s117"
+    },
+    {
+      "text": "Neither offered to supply terminal services to the other nor to any other stevedore.",
+      "id": "s118"
+    },
+    {
+      "text": "37 The Statement of Claim alleges that the first arrangement contained a provision that the parties would establish a joint venture company to manage existing superior automotive terminals for their mutual benefit and to establish shared terminals throughout Australia (para 95.1).",
+      "id": "s119"
+    },
+    {
+      "text": "It also alleges that the parties would not compete for the acquisition of the Glebe Island terminal (para 95.6, [34] above) and that the joint venture company would take over the existing superior automotive terminals in the major Australian ports and manage them for the mutual benefit of the parties (para 95.7).",
+      "id": "s120"
+    },
+    {
+      "text": "It is then said the provisions pleaded in paras 95.1 and 95.7 had the purpose and effect or likely effect, inter alia , of: substantially lessening competition in:\n \n \n &#8226; the Sydney terminal acquisition market (para 97); and\n &#8226; the Sydney terminal services market (para 98).",
+      "id": "s121"
+    },
+    {
+      "text": "38 According to Mr Bannon, the Statement of Claim does not plead sufficient material facts to justify the pleading that these provisions had the effect or likely effect of substantially lessening competition in the terminal services market.",
+      "id": "s122"
+    },
+    {
+      "text": "In particular, the Statement of Claim does not plead the nature of the competitive market that would have existed but for the impugned provisions of the arrangement.",
+      "id": "s123"
+    },
+    {
+      "text": "39 Mr Burnside explained the ACCC's case in relation to the alleged arrangement for the Patrick Respondents and the P&amp;O Corporations to bid jointly for the Glebe Island lease.",
+      "id": "s124"
+    },
+    {
+      "text": "I indicated to Mr Burnside ( Ts 59-63 ) that I understood that the ACCC was putting a case that the arrangement between the Patrick Respondents and the P&amp;O Corporations (or some of them) had the purpose or effect of substantially lessening competition in the terminal acquisition market in Sydney by eliminating competition between them for the acquisition of the Glebe Island lease.",
+      "id": "s125"
+    },
+    {
+      "text": "However, I also said that I had difficulty in understanding Mr Burnside's explanation as to how the arrangement is alleged to have lessened competition in that market by preventing or inhibiting Toll Holdings Ltd (' Toll '), a potential entrant into the market, from bidding for the Glebe Island lease.",
+      "id": "s126"
+    },
+    {
+      "text": "Similarly, I had difficulty in understanding how the ACCC puts its case that Toll had been prevented from entering the automotive stevedoring services market in Sydney, given the state of affairs prior to the arrangement (whereby the Patrick Respondents and P&amp;O Corporations, respectively, controlled the relevant terminals) and the absence of any constraint on Toll bidding for leases of terminals when they became available.",
+      "id": "s127"
+    },
+    {
+      "text": "40 Mr Burnside ultimately accepted that the pleading in its present form lacks material facts, possibly as the result of omitted cross-references, to support the allegations relating to the effect of the provisions on Toll's potential entry into the Sydney terminal acquisition and automotive stevedoring services markets.",
+      "id": "s128"
+    },
+    {
+      "text": "Accordingly, he accepted that the Statement of Claim requires amendment to add material facts to deal with the issues to which I have referred.",
+      "id": "s129"
+    },
+    {
+      "text": "41 Attention was then specifically directed in argument to the pleading (para 98) that provisions of the first arrangement had the purpose or effect of substantially lessening competition in the terminal services market.",
+      "id": "s130"
+    },
+    {
+      "text": "As I have noted, the two provisions relied on by the ACCC are those relating to the establishment of the joint venture company (para 95.1, [37] above) and to the joint venture company taking over management of the parties' existing superior automotive terminals (para 95.7, [37] above).",
+      "id": "s131"
+    },
+    {
+      "text": "The Statement of Claim alleges that these provisions had a substantial purpose and the effect of:\n \n \n &#8226; reducing or removing competition between the parties for the acquisition of port land and for the development of automotive terminals (para 96.1.1);\n &#8226; allowing the parties to control the automotive terminals in the various ports for their own benefit (para 96.1.3); and\n &#8226; allowing the parties to achieve a monopoly in the terminal services market in the various ports (para 96.1.4).",
+      "id": "s132"
+    },
+    {
+      "text": "42 I indicated to Mr Burnside ( Ts 81-82 ) my view that the pleading appears to assume, rather than explicitly allege, that the agreement to share facilities had the effect or likely effect of reducing the ability of the Patrick Respondents and the P&amp;O Corporations to compete with each other in the provision of terminal services.",
+      "id": "s133"
+    },
+    {
+      "text": "The assumption is made notwithstanding that it appears that, prior to the pleaded arrangements, the Patrick Respondents and the P&amp;O Corporations each exclusively occupied their own automotive terminals in the Port of Sydney.",
+      "id": "s134"
+    },
+    {
+      "text": "In these circumstances, I expressed the opinion that the ACCC should plead additional material facts calculated to demonstrate that the effect or likely effect of the provisions was to substantially lessen competition in the terminal services market.",
+      "id": "s135"
+    },
+    {
+      "text": "Mr Burnside intimated that the ACCC was willing to take this course.",
+      "id": "s136"
+    },
+    {
+      "text": "43 I expressed the same view in relation to para 99 of the Statement of Claim, which pleads that various provisions of the first and second arrangements had the purpose and effect or likely effect of substantially lessening competition in the Sydney stevedoring market.",
+      "id": "s137"
+    },
+    {
+      "text": "44 I suggested ( Ts 83-84 ) that, having regard to the views I had expressed, the appropriate course was to strike out paras 97, 98 and 99 of the Statement of Claim, with the ACCC having leave to replead.",
+      "id": "s138"
+    },
+    {
+      "text": "Mr Burnside proposed an alternative course, namely that the ACCC should have leave to file a Further amended Statement of Claim addressing the issues dealt with in argument, without prejudice to any further applications to strike out the whole or part of the fresh pleading.",
+      "id": "s139"
+    },
+    {
+      "text": "I consider that to be a sensible course since it allows the ACCC to address any difficulties with the pleading that were flagged in argument but not necessarily finally resolved, or that are exposed by the conclusions I have expressed.",
+      "id": "s140"
+    },
+    {
+      "text": "Issue 5 Bidding for the Glebe Island Terminal \n \n45 Mr Bathurst, on behalf of the P&amp;O Respondents, submitted that the plea that the first arrangement contained a provision that had the purpose or likely effect of substantially lessening competition in the Sydney terminal acquisition market lacked material facts to support it.",
+      "id": "s141"
+    },
+    {
+      "text": "Although this argument is related to a contention that I have already addressed, it perhaps raises other issues.",
+      "id": "s142"
+    },
+    {
+      "text": "46 Mr Bathurst submitted that the provision pleaded in para 95.6 (that the parties would not compete for the acquisition of the Glebe Island motor vehicle terminal) could not support, of itself, the pleading (para 125) that the provision had the purpose or likely effect of reducing or removing competition between the parties for the acquisition of the Glebe Island lease.",
+      "id": "s143"
+    },
+    {
+      "text": "Mr Bathurst argued that the allegation (para 126) that the provision had the purpose or likely effect of substantially lessening competition in the Sydney terminal acquisition market therefore could not be sustained.",
+      "id": "s144"
+    },
+    {
+      "text": "47 Mr Burnside made it clear that it was not part of the ACCC's case that the joint bid was any different than the bids that otherwise would have been made by the Patrick Respondents and the P&amp;O Corporations bidding against each other.",
+      "id": "s145"
+    },
+    {
+      "text": "I indicated ( Ts 91-92 ) that, while the ACCC's approach, as explained by Mr Burnside, might face difficulties in due course, I did not think that the potential difficulties justified striking out paras 125 and 126.",
+      "id": "s146"
+    },
+    {
+      "text": "Issue 6 Identification of Parties \n \n48 The Patrick Respondents contend that the Statement of Claim is unsatisfactory because it repeatedly uses the formula ' one or more members of the Patrick Group ' or ' the members of the Patrick Group ' in alleging conduct contravening s 45(2) of the TP Act.",
+      "id": "s147"
+    },
+    {
+      "text": "An example is para 89, which is as follows:\n \n 'On or about 15 August 2001, the members of the Patrick Group adopted the draft in principle agreement, with minor changes, to produce the document annexed to this statement of claim and marked 'A' (\"the First in Principle Agreement \").",
+      "id": "s148"
+    },
+    {
+      "text": "' (Emphasis in original).",
+      "id": "s149"
+    },
+    {
+      "text": "49 The First in Principle Agreement is expressed to be between P&amp;O Ports and ' Patrick the Australian Stevedore (Patrick) '.",
+      "id": "s150"
+    },
+    {
+      "text": "The Agreement, which is dated July 2001, states that P&amp;O Ports and ' Patrick ' have:\n \n 'agreed to establish shared motor vehicle wharf facilities in order to achieve better utilisation of premium wharf land and berths'.",
+      "id": "s151"
+    },
+    {
+      "text": "The First in Principle Agreement records that this is to be achieved in six stages, the details of which are spelled out in the document.",
+      "id": "s152"
+    },
+    {
+      "text": "50 The Patrick Respondents point out that the offending formulae are capable of being satisfied by any one of 31 possible combinations.",
+      "id": "s153"
+    },
+    {
+      "text": "Moreover, the particulars supplied by the ACCC, so they argue, demonstrate that it simply does not know which of the Patrick Respondents engaged in the pleaded conduct.",
+      "id": "s154"
+    },
+    {
+      "text": "For example, in response to the Patrick Respondents' request for further and better particulars, the ACCC said this:\n \n 'We accept that the applicant is obliged, so far as possible, to identify the member of the group against which an allegation is made and we have endeavoured to answer your particular questions directed to that issue, or to explain in each instance why we have not done so.",
+      "id": "s155"
+    },
+    {
+      "text": "In some instances, it is difficult to identify the relevant company with confidence, as is often the case with corporate groups where governance is not always conducted with astute attention to corporate divisional lines.",
+      "id": "s156"
+    },
+    {
+      "text": "In such situations, the applicant is entitled to identify the company that appears to be most properly the subject of the relevant allegation but to plead others in the alternative, bearing in mind that the roles and functions of the various companies are matters within the knowledge of the Patrick Group.",
+      "id": "s157"
+    },
+    {
+      "text": "An example is the lodgement of the tenders for Glebe Island.",
+      "id": "s158"
+    },
+    {
+      "text": "On 27 August 2001 Mr Smithwick wrote on letterhead that bore the brand \"Patrick the Australian Stevedore\" (a trading name owned by the third respondent) and also the name and ABN of Patrick Stevedores Operations Pty Limited (the third respondent) to invite P&amp;O Ports Limited and \"ourselves\" to \"work together in submitting a Tender for Glebe Island Motor Vehicle Terminal\".",
+      "id": "s159"
+    },
+    {
+      "text": "Patrick's and AAT's bids were duly submitted under cover of a letter dated 11 October 2001 signed by Mr Smithwick.",
+      "id": "s160"
+    },
+    {
+      "text": "That letterhead also bore the brand \"Patrick the Australian Stevedore\" but with the name and ABN of Patrick Stevedores Holdings Pty Ltd (the second respondent).",
+      "id": "s161"
+    },
+    {
+      "text": "The letter submitted a separate tender \"for Patrick Stevedores Operations No 2 Pty Ltd [the fourth respondent] to lease [premises]\".",
+      "id": "s162"
+    },
+    {
+      "text": "In respect of the AAT submission, the letter stated that the submission was \"subject to Patrick Board approval\" which was presumably a reference to the first respondent.",
+      "id": "s163"
+    },
+    {
+      "text": "The letter stated that \"senior executives of Patrick\" were available to discuss and elaborate on \"our offers\" (semble, both the Patrick submission and the AAT submission).",
+      "id": "s164"
+    },
+    {
+      "text": "Mr Smithwick was a senior executive of Patrick but could not say in his s 155 examination which entity employed him.",
+      "id": "s165"
+    },
+    {
+      "text": "The Patrick tender itself was signed at Appendix D (to confirm financial information provided in the expression of interest) by Mr Wilson \"on behalf of Patrick Stevedores\", apparently there a reference to the fourth respondent since it was the entity that lodged the expression of interest.",
+      "id": "s166"
+    },
+    {
+      "text": "Following appendix D, the discussion of the proposed development refers only to \"Patrick\".",
+      "id": "s167"
+    },
+    {
+      "text": "No one is better placed than the first to fourth respondents to say who lodged the tender for [Glebe Island motor vehicle terminal] and on whose behalf, and yet you have asked us ... to unravel the confusion of those underlying documents.",
+      "id": "s168"
+    },
+    {
+      "text": "In other instances, the problem is more fundamental because it is not clear whether the distinction between corporate entities was adverted to at all at the time of the relevant act or negotiation.",
+      "id": "s169"
+    },
+    {
+      "text": "An example is the first In Principle Agreement, recorded as being between P&amp;O Ports Limited and \"Patrick the Australian Stevedore\".",
+      "id": "s170"
+    },
+    {
+      "text": "As noted above, that is a trading name owned by the third respondent but the next iteration of that document (the second IPA) named \"Patrick Corporation Pty Limited\" (presumably intended as a reference to the first respondent) and the implementation of the provisions of both arrangements required the involvement of the other Patrick respondents, which were ultimately controlled by the first respondent.",
+      "id": "s171"
+    },
+    {
+      "text": "In those circumstances, the case the Patrick respondents have to meet is that the arrangements were entered into on behalf of each of them.",
+      "id": "s172"
+    },
+    {
+      "text": "' \n \n\n51 Mr Hutley, as I understand his submissions, did not object to a pleading to the effect that one or more of four related corporations contravened s 45(2) of the TP Act in circumstances where the ACCC does not know which of the corporations was responsible for the contravening conduct.",
+      "id": "s173"
+    },
+    {
+      "text": "His objection is to a pleading which does not identify which of the Patrick Respondents was responsible for particular acts and then goes on to allege (para 261) that:\n \n 'In the premises Patrick: \n \n 261.1 by reason of the matters pleaded in: \n \n 261.1.1 [specified paragraphs] gave effect to those provisions of the first arrangement pleaded in paragraphs 95.1 and 95.6; \n \n 261.1.2 ... \n \n and thereby contravened s 45(2)(b)(ii) of the [TP Act]'.",
+      "id": "s174"
+    },
+    {
+      "text": "In other words, having in effect admitted that it does not know which of the Patrick Respondents was responsible for the conduct pleaded in earlier paragraphs, the ACCC alleges that Patrick alone was responsible for giving effect to the promises of the first arrangement.",
+      "id": "s175"
+    },
+    {
+      "text": "52 In my opinion, the matters to which Mr Hutley points do not establish that the Statement of Claim is embarrassing or otherwise fails to plead the case properly.",
+      "id": "s176"
+    },
+    {
+      "text": "The ACCC has explained the reasons why it is unable to be more specific in identifying the members of the Patrick Group which committed particular acts or entered into certain arrangements.",
+      "id": "s177"
+    },
+    {
+      "text": "These are matters within the knowledge of the Patrick Respondents.",
+      "id": "s178"
+    },
+    {
+      "text": "In due course the evidence may reveal the true position.",
+      "id": "s179"
+    },
+    {
+      "text": "In the meantime there is no unfairness to the Patrick Respondents in pleading the case this way.",
+      "id": "s180"
+    },
+    {
+      "text": "53 Nor, in my view, is any difficulty created by the allegation that one of the Patrick Respondents (Patrick) gave effect to the provisions of the alleged arrangement.",
+      "id": "s181"
+    },
+    {
+      "text": "The ACCC has chosen to confine the allegation to Patrick.",
+      "id": "s182"
+    },
+    {
+      "text": "There is no inconsistency between that allegation and the earlier allegations.",
+      "id": "s183"
+    },
+    {
+      "text": "The Patrick Respondents sufficiently understand the case they have to meet on this issue.",
+      "id": "s184"
+    },
+    {
+      "text": "Issue 7 Implied Terms \n \n54 The Patrick Respondents point out that each of the first and second arrangements pleaded in the Statement of Claim is said to be ' partly in writing and partly to be implied '.",
+      "id": "s185"
+    },
+    {
+      "text": "By the first arrangement, for example, the Patrick Respondents and the P&amp;O Corporations are alleged to have:\n \n 'agreed to operate existing and future automotive terminals throughout Australia jointly rather than competing to provide individually-operated terminals'.",
+      "id": "s186"
+    },
+    {
+      "text": "55 The particulars to para 92 state that, insofar as the agreement was in writing, it was contained in the unsigned First in Principle Agreement.",
+      "id": "s187"
+    },
+    {
+      "text": "Insofar as the agreement was implied, it was to be implied ( sic : inferred) from the facts and matters alleged in paras 63 to 91 and 132 to 157.",
+      "id": "s188"
+    },
+    {
+      "text": "Paragraphs 63 to 91 deal with competition in various markets prior to the first arrangement, while paras 132 to 157 plead events occurring after the making of the first arrangement.",
+      "id": "s189"
+    },
+    {
+      "text": "56 Mr Hutley submitted on behalf of the Patrick Respondents that there is no room for the implication of provisions that are said to contravene s 45(2) of the TP Act.",
+      "id": "s190"
+    },
+    {
+      "text": "He contended that there is a fundamental inconsistency in alleging that a provision of an arrangement or understanding is implied.",
+      "id": "s191"
+    },
+    {
+      "text": "This is so because, by hypothesis, an implied provision is one to which the parties have not turned their minds, while an arrangement, for the purposes of s45(2), requires the parties to have a meeting of minds.",
+      "id": "s192"
+    },
+    {
+      "text": "57 The argument put by Mr Hutley, in my view, to some extent reflects an ambiguity in the pleading created by the inappropriate use of the word ' implied '.",
+      "id": "s193"
+    },
+    {
+      "text": "I expressed the view at the hearing ( Ts 114-115 ) that the real difficulty with the pleading, so far as this particular complaint is concerned, is that the Statement of Claim leaves certain matters unclear.",
+      "id": "s194"
+    },
+    {
+      "text": "In particular:\n \n&#8226; Is it alleged that the arrangement was made simply by the parties assenting to the terms of the First in Principle Agreement?",
+      "id": "s195"
+    },
+    {
+      "text": "Or is it alleged that the arrangement was made as the result of other acts, or understandings reached, by the parties?",
+      "id": "s196"
+    },
+    {
+      "text": "If the latter, what were the acts or understandings?",
+      "id": "s197"
+    },
+    {
+      "text": "&#8226; Is it said that the provisions of the alleged arrangement are to be found entirely within the four corners of the First in Principle Agreement?",
+      "id": "s198"
+    },
+    {
+      "text": "Or is it alleged that the pleaded provisions have their source in some other transactions or understandings?",
+      "id": "s199"
+    },
+    {
+      "text": "58 I indicated my view that these matters need to be clarified in any amended pleading.",
+      "id": "s200"
+    },
+    {
+      "text": "Mr Burnside responded that the ACCC is content to do so.",
+      "id": "s201"
+    },
+    {
+      "text": "Issue 8 Sydney Terminal Services Market \n \n59 Mr Bathurst on behalf of the P&amp;O Respondents submitted that there is a difficulty with para 49 of the Statement of Claim.",
+      "id": "s202"
+    },
+    {
+      "text": "This paragraph alleges that the Sydney terminal services market was a market in which, but for the pleaded arrangements, P&amp;O Ports supplied or was likely to supply automotive terminal services (para 49.1).",
+      "id": "s203"
+    },
+    {
+      "text": "60 The P&amp;O Respondents sought further particulars of the allegation, specifically whether the allegation is that P&amp;O Ports, but for the arrangements, was likely to supply automotive terminal services to anyone other than P&amp;O Ports or an associated corporation.",
+      "id": "s204"
+    },
+    {
+      "text": "The ACCC's response can fairly be described as vague.",
+      "id": "s205"
+    },
+    {
+      "text": "I expressed the view ( Ts 127-128 ) that the pleading lacks material facts and is therefore deficient.",
+      "id": "s206"
+    },
+    {
+      "text": "Issue 9 Accessorial Liability \n \n61 The Patrick Respondents point out that the Statement of Claim alleges that each of the Patrick Respondents aided and abetted and was knowingly concerned in the contraventions of each of the others.",
+      "id": "s207"
+    },
+    {
+      "text": "They submit that the Statement of Claim fails to plead material facts, including the knowledge of the essential elements of the contravention and intentional participation: Yorke v Lucas [1985] HCA 65 ; (1985) 158 CLR 661.",
+      "id": "s208"
+    },
+    {
+      "text": "Mr Hutley, in his oral argument, pointed out that the complaint is of practical importance since Patrick is now a subsidiary of Toll, but the other four Patrick Respondents are within another corporate group.",
+      "id": "s209"
+    },
+    {
+      "text": "62 Mr Hutley illustrated the point by reference to the pleading alleging contraventions by Patrick.",
+      "id": "s210"
+    },
+    {
+      "text": "Paragraph 260 pleads that ' in the premises ' Patrick:\n \n \n '260.1 by entering into the first arrangement, made an arrangement ... containing provisions which had the purpose ... or likely effect of substantially lessening competition in each of [twelve markets].",
+      "id": "s211"
+    },
+    {
+      "text": "and thereby contravened [s 45(2)(a)(ii) of the TP Act ]; or alternatively \n \n 260.2 aided and abetted, or was knowingly concerned in: \n \n \n \n 260.2.1 the contravention by Patrick Holdings in making the first arrangement...; \n \n 260.2.2 the contravention by Patrick Operations in making the first arrangement ...; \n \n 260.2.3 the contravention by Patrick Operations No 2 in making the first arrangement...'.",
+      "id": "s212"
+    },
+    {
+      "text": "63 The pleadings follow a similar pattern in relation to Patrick's alleged contravention of s 45(2)(b)(ii) of the TP Act and its knowing participation in the contraventions of that sub-paragraph by each of the other three named Patrick Respondents (para 261).",
+      "id": "s213"
+    },
+    {
+      "text": "They also follow a similar pattern in relation to the second arrangement (paras 262-263).",
+      "id": "s214"
+    },
+    {
+      "text": "The same form of pleading is repeated for each of those three Patrick Respondents.",
+      "id": "s215"
+    },
+    {
+      "text": "64 Mr Hutley, supported by all other respondents, submitted that the standard form pleading leaves it unclear as to what is being alleged against each of the relevant Patrick Respondents.",
+      "id": "s216"
+    },
+    {
+      "text": "The expression ' in the premises ', so he argued, is of no assistance in identifying the material facts said to establish the requisite knowledge on the part of each of the Patrick Respondents.",
+      "id": "s217"
+    },
+    {
+      "text": "In effect, they are being asked to guess as to which facts or combinations of facts are being relied upon to establish accessorial liability.",
+      "id": "s218"
+    },
+    {
+      "text": "65 None of the Patrick Respondents is an individual.",
+      "id": "s219"
+    },
+    {
+      "text": "Mr Bathurst, however, argued that the problems identified by Mr Hutley are even more acute so far as Mr Burgess and other individual respondents are concerned.",
+      "id": "s220"
+    },
+    {
+      "text": "He also pointed out that there is no allegation that Mr Burgess was aware of the precise material facts and circumstances constituting the contraventions of s 45(2): see Rural Press Ltd v Australian Competition and Consumer Commission [2002] FCAFC 213 ; (2002) 118 FCR 236 , at 283 [162], per curiam.",
+      "id": "s221"
+    },
+    {
+      "text": "66 In answer to these submissions, Mr Burnside used the pleaded allegations of accessorial liability against Mr Burgess to illustrate the argument.",
+      "id": "s222"
+    },
+    {
+      "text": "Mr Burnside contended that a number of specific allegations are made about the extent of Mr Burgess' knowledge of relevant matters.",
+      "id": "s223"
+    },
+    {
+      "text": "In response to a question, Mr Burnside stated that the case against Mr Burgess does not depend on which of the P&amp;O Respondents happened to be a party to the pleaded arrangements, or to have given effect to the provisions of the pleaded arrangements.",
+      "id": "s224"
+    },
+    {
+      "text": "67 I expressed the view ( Ts 136 ) that if this was the ACCC's case, the Statement of Claim should be amended to make it quite clear.",
+      "id": "s225"
+    },
+    {
+      "text": "The pleading should explicitly allege that by reason of specific matters known to Mr Burgess, he aided and abetted, or was knowingly concerned in, any contraventions that might be established against either or both of the P&amp;O Respondents.",
+      "id": "s226"
+    },
+    {
+      "text": "The pleading should also identify unambiguously the matters known to Mr Burgess and the other individual respondents that are said to show that each was aware of the material facts and circumstances constituting the contraventions of s 45(2) of the TP Act.",
+      "id": "s227"
+    },
+    {
+      "text": "68 In my view, the same considerations apply to the allegations of accessorial liability against each corporate respondent.",
+      "id": "s228"
+    },
+    {
+      "text": "The pleading must identify unambiguously the matters known to each of the Patrick Respondents and the P&amp;O Corporations alleged to have aided and abetted or been knowingly concerned in contraventions by other parties.",
+      "id": "s229"
+    },
+    {
+      "text": "CONCLUSION \n \n69 The orders I propose to make are that the ACCC file a Further Amended Statement of Claim within 28 days, without prejudice to the entitlement of any respondent to file a motion seeking orders striking out the whole or portion of the Further Amended Statement of Claim.",
+      "id": "s230"
+    },
+    {
+      "text": "I would expect the amended pleading to address the matters discussed at the hearing and in this judgment.",
+      "id": "s231"
+    },
+    {
+      "text": "70 Although I have accepted some of the contentions advanced by the respondents, it is appropriate to order that the motions be dismissed.",
+      "id": "s232"
+    },
+    {
+      "text": "Unless any party files written submissions within seven days seeking some other costs order, the costs of the various motions should be costs in the cause.",
+      "id": "s233"
+    },
+    {
+      "text": "I certify that the preceding seventy (70) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Sackville.",
+      "id": "s234"
+    },
+    {
+      "text": "Associate:\n\nDated: 28 March 2008\n\n\n Counsel for the Applicant: Mr J Burnside QC with Mr I G Waller SC and Ms J Gleeson \n \n Solicitor for the Applicant: Australian Government Solicitor \n \n Counsel for the First to Fifth Respondents: \n Mr N Hutley SC with Mr S Goodman \n \n Solicitor for the First to Fifth Respondents: \n Clayton Utz Lawyers \n \n Counsel for the Ninth Respondent: \nMr A J Bannon SC with Ms K Morgan \n \n Solicitor for the Ninth Respondent: \nGilbert and Tobin Lawyers \n \n Counsel for the Sixth, Seventh, Eighth, Twelfth and Thirteenth Respondents: \n\nMr T F Bathurst QC with Mr A J Payne \n \n Solicitor for the Sixth, Seventh, Eighth, Twelfth and Thirteenth Respondents: \n\nEbsworth and Ebsworth Lawyers \n \n Counsel for the Tenth Respondent: \nMr J R J Lockhart \n \n Solicitor for the Tenth Respondent: \nArnold Bloch Leibler Lawyers \n \n Counsel for the Eleventh Respondent: \nMr I Wylie \n \n Solicitor for the Eleventh Respondent: \nJohnson Winter and Slattery \n \n Date of Hearing: 3, 4 March 2008 \n \n Date of Judgment: 28 March 2008 \n\n\n \n\n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2008/403.html",
+      "id": "s235"
+    }
+  ]
+}

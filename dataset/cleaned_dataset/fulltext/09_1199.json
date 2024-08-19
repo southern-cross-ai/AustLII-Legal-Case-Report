@@ -1,0 +1,408 @@
+{
+  "name": "Sims, in the matter of Destra Corporation Limited [2009] FCA 1199 (23 October 2009)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2009/1199.html",
+  "catchphrases": [
+    {
+      "text": "group of 23 companies in liquidation",
+      "id": "c0"
+    },
+    {
+      "text": "previously in voluntary administration",
+      "id": "c1"
+    },
+    {
+      "text": "earlier proposal for deed of company arrangement (doca) in respect of each company had come to nothing because of non-fulfilment of conditions precedent",
+      "id": "c2"
+    },
+    {
+      "text": "fresh proposal for doca submitted to liquidators",
+      "id": "c3"
+    },
+    {
+      "text": "leave granted under s 436b(2) of corporations act 2001 (cth) (the act) to liquidators to appoint themselves as administrators",
+      "id": "c4"
+    },
+    {
+      "text": "leave granted under s 448c(1) of the act for them to accept appointment as administrators of new doca",
+      "id": "c5"
+    },
+    {
+      "text": "order made under s 447a of the act: that s 436e 's requirement of a first meeting of creditors not again apply; that the second meeting of creditors be able to be held at any time during the convening period, notwithstanding s 439a(2) of the act; and that the liquidators, if appointed as doca administrators, be permitted to treat as proofs of debt those proofs of debt that had previously been submitted by creditors.",
+      "id": "c6"
+    },
+    {
+      "text": "corporations",
+      "id": "c7"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Introduction\n On 8 October 2009 I made the orders that are attached to these reasons for judgment.",
+      "id": "s0"
+    },
+    {
+      "text": "The following are the reasons why I made those orders.",
+      "id": "s1"
+    },
+    {
+      "text": "Legislation\n The plaintiffs are the liquidators of each of the companies listed in Schedule A to the orders made on 8 October 2009.",
+      "id": "s2"
+    },
+    {
+      "text": "One of them, Destra Corporation Limited (DCL), is named in the title to this proceeding.",
+      "id": "s3"
+    },
+    {
+      "text": "I will call all of those companies collectively the Destra Group.",
+      "id": "s4"
+    },
+    {
+      "text": "Section 436B(2) of the Act provides that a liquidator of a company must not appoint himself or herself, or any of his or her partners, as an administrator of the company in question unless at a meeting of the company's creditors, the creditors pass a resolution approving the appointment or the appointment is made with the leave of the Court.",
+      "id": "s5"
+    },
+    {
+      "text": "The plaintiffs have sought the leave of the Court in order to appoint themselves as administrators of the companies in the Destra Group.",
+      "id": "s6"
+    },
+    {
+      "text": "Section 448C(1) of the Act provides that except with the leave of the Court, certain persons must not seek or consent to be appointed as, or act as, administrator of a DOCA.",
+      "id": "s7"
+    },
+    {
+      "text": "One of those persons is a partner of an officer of the company: s 448C(1)(g).",
+      "id": "s8"
+    },
+    {
+      "text": "The term \"officer\" is defined in s 9 in relation to a corporation to mean, relevantly, \n \n (f) a liquidator of the corporation.",
+      "id": "s9"
+    },
+    {
+      "text": "The plaintiff-liquidators are partners of each other, and therefore each of them is a partner of an officer of each company in the Destra Group.",
+      "id": "s10"
+    },
+    {
+      "text": "Therefore, in order to consent to being appointed as administrators of a proposed DOCA in respect of each company in the Destra Group (see below), arguably the plaintiffs need the Court's leave.",
+      "id": "s11"
+    },
+    {
+      "text": "I say \"arguably\" because it must be hypothesised that by that time the plaintiffs will have become administrators of the company, their functions and powers as liquidators will have been suspended (see s 437C(1) of the Act); and s 444A(2) of the Act provides that where creditors resolve that the company execute a DOCA, the administrator of the company \"is to be\" the administrator of the DOCA unless the creditors appoint someone else to that office.",
+      "id": "s12"
+    },
+    {
+      "text": "Section 447A of the Act provides that the Court may make such order as it thinks appropriate about how Part 5.3A of the Act is to operate in relation to a particular company.",
+      "id": "s13"
+    },
+    {
+      "text": "It appeared to me for the reasons that I give below that it would be: superfluous and wasteful for the plaintiffs to have to convene the first meeting of creditors otherwise required by s 436E of the Act; too restrictive that the requirement imposed by s 439A(2) of the Act that the \"second\" meeting of creditors be held within five business days before or within five business days after the end of the convening period apply (cf Re Daisytek Australia Pty Ltd (admin apptd) [2003] FCA 575 ; (2003) 45 ACSR 446) ; and superfluous and wasteful for the plaintiffs to have to invite and deal with fresh proof of debt forms when proof of debt forms have previously been lodged with them in the circumstances referred to below.",
+      "id": "s14"
+    },
+    {
+      "text": "Facts\n DCL is a publicly listed company and is the holding company of the other 22 companies in the Destra Group.",
+      "id": "s15"
+    },
+    {
+      "text": "The Destra Group's core business encompasses media and entertainment interests including video, music, magazine, online communities, media sales and brand funded content production activities.",
+      "id": "s16"
+    },
+    {
+      "text": "DCL's largest shareholder is Prime Media Group Ltd (Prime) which holds 43.96% of the shares in DCL.",
+      "id": "s17"
+    },
+    {
+      "text": "DCL's shares have been suspended from trade on the Australian Stock Exchange since 12 November 2008.",
+      "id": "s18"
+    },
+    {
+      "text": "St George Bank Limited (St George) holds first ranking fixed and floating charges over 19 of the companies in the Destra Group, including DCL itself.",
+      "id": "s19"
+    },
+    {
+      "text": "On 13 November 2008 each of the companies in the Destra Group appointed the plaintiffs administrators of that company pursuant to s 436A of the Act.",
+      "id": "s20"
+    },
+    {
+      "text": "On the same day, St George appointed Messrs D Winterbottom and M Brereton of Korda Mentha (Receivers) as receivers and managers of DCL and of the other 18 companies within the Destra Group in respect of which St George held security.",
+      "id": "s21"
+    },
+    {
+      "text": "On 3 December 2008 the plaintiffs obtained orders in this Court pursuant to s 439A(6) of the Act extending the time for the convening of the second meeting of creditors until and including 12 February 2009 (in proceeding NSD 1867/2008).",
+      "id": "s22"
+    },
+    {
+      "text": "The Receivers commenced an orderly sale of assets.",
+      "id": "s23"
+    },
+    {
+      "text": "The evidence shows that all of the assets the subject of St George's security have been realised.",
+      "id": "s24"
+    },
+    {
+      "text": "As at the time of the appointment of the plaintiffs as administrators, the Destra Group owed St George in excess of $29 million, and 23 September 2009 the Destra Group still owes approximately $21 million to St George.",
+      "id": "s25"
+    },
+    {
+      "text": "On or about 6 February 2009, the plaintiffs sent out notice of the second concurrent meeting of creditors to be held on 19 February 2009.",
+      "id": "s26"
+    },
+    {
+      "text": "At or prior to this meeting, Prime advised the plaintiffs that it intended to submit a DOCA proposal.",
+      "id": "s27"
+    },
+    {
+      "text": "On 19 February 2009 the creditors resolved to adjourn the second meeting in order to allow time for creditors to consider the foreshadowed DOCA.",
+      "id": "s28"
+    },
+    {
+      "text": "(Five companies failed to obtain a quorum of creditors at the second meeting, and it was the administrators who adjourned the second meeting of the creditors of those companies).",
+      "id": "s29"
+    },
+    {
+      "text": "On 13 March 2009, the plaintiffs received the DOCA proposal from Prime.",
+      "id": "s30"
+    },
+    {
+      "text": "Under that proposal, Prime was to contribute $1.4 million in addition to $350,000.00 already contributed.",
+      "id": "s31"
+    },
+    {
+      "text": "The sum of $1.4 million was to be paid into a fund for the benefit of unsecured creditors.",
+      "id": "s32"
+    },
+    {
+      "text": "However, the DOCA proposal was conditional upon the plaintiffs, St George and the companies in the Destra Group executing full releases in favour of Prime, the Destra Group and the directors and associates of the members of the Destra Group.",
+      "id": "s33"
+    },
+    {
+      "text": "At subsequent creditors' meetings, creditors of a majority of the companies within the Destra Group resolved that DOCAs should be executed in terms reflecting Prime's DOCA proposal, while the creditors of other companies within the Destra Group resolved on 24 April 2009 that those companies should be placed into liquidation.",
+      "id": "s34"
+    },
+    {
+      "text": "The DOCAs that were approved were expressed to be subject to the fulfilment of a number of conditions precedent by 11 May 2009.",
+      "id": "s35"
+    },
+    {
+      "text": "One of these was that St George agree to execute releases and covenants not to sue in favour of Prime, all former, present and future directors and associates of Prime, the companies in the Destra Group, and all former, present and future directors and associates of those companies.",
+      "id": "s36"
+    },
+    {
+      "text": "As well, St George was to agree by 11 May 2009 not to prove in respect of the deed fund to be created by the DOCAs.",
+      "id": "s37"
+    },
+    {
+      "text": "The conditions precedent were not fulfilled, with the result that the DOCAs were automatically terminated and the companies that had been the subject of them were placed into liquidation.",
+      "id": "s38"
+    },
+    {
+      "text": "In the result, all 23 companies within the Destra Group are now in liquidation and the plaintiffs are their liquidators.",
+      "id": "s39"
+    },
+    {
+      "text": "On 10 September 2009 the plaintiffs received a letter from Prime which: \n (a) advised that Prime and St George had entered into settlement deeds in relation to the releases that had been the subject of the conditions precedent in the previous DOCAs;\n \n (b) outlined the terms of a new DOCA proposal in terms substantially similar to the earlier one;\n \n (c) advised that St George had agreed to vote in favour of the new DOCA proposal and that it would not participate in the fund to be created under it for the benefit of unsecured creditors; and\n \n (d) requested that the plaintiffs as liquidators apply to the Court under s 436B of the Act for leave to appoint themselves as administrators so that creditors might consider and vote upon the new DOCA proposal.",
+      "id": "s40"
+    },
+    {
+      "text": "The plaintiffs are of the opinion that it will be in the interests of the unsecured creditors to agree to the new DOCA proposal because they will stand to receive a dividend of 0.05 cents in the dollar as opposed to no dividend at all should the DOCA not be accepted and the Destra Group companies remain in liquidation.",
+      "id": "s41"
+    },
+    {
+      "text": "Employees will receive their full entitlements plus a dividend of 22.85 cents in the dollar in respect of \"loyalty payments\" provided for in their respective contracts of employment.",
+      "id": "s42"
+    },
+    {
+      "text": "Consideration\n Whether leave should be granted to the plaintiffs to appoint themselves as administrators depends on whether they are appropriate persons to be appointed to that office.",
+      "id": "s43"
+    },
+    {
+      "text": "As I noted in Palmer and Collis and Terraplanet Limited (in liquidation), in the matter of Terraplanet Limited (in liquidation) [2007] FCA 2092 at [22] , a liquidator is at liberty under s 436B(1) of the Act to appoint another person as administrator without the necessity of leave.",
+      "id": "s44"
+    },
+    {
+      "text": "The requirement of leave is therefore not directed to the liquidator's view and decision that the company should be placed in administration, but to the identity of the person to be appointed administrator.",
+      "id": "s45"
+    },
+    {
+      "text": "Also as I noted there, it has been suggested that the court should also have in mind considerations of commercial morality: see Re Data Homes Pty Limited (in Liq) [1972] 2 NSWLR 22 ; Re Depsun Pty Ltd (1994) 13 ACSR 644 ; Deputy Commissioner of Taxation v Foodcorp Pty Limited (1994) 13 ACSR 796 at [798]-[9].",
+      "id": "s46"
+    },
+    {
+      "text": "I am satisfied that the plaintiffs are appropriate persons to fill the office of administrators and that there are no considerations of commercial morality telling against their appointment.",
+      "id": "s47"
+    },
+    {
+      "text": "The plaintiffs are familiar with the history of the Destra Group.",
+      "id": "s48"
+    },
+    {
+      "text": "Each of the plaintiffs has practised in insolvency for many years.",
+      "id": "s49"
+    },
+    {
+      "text": "Each is a registered liquidator and an official liquidator.",
+      "id": "s50"
+    },
+    {
+      "text": "There is evidence negating any suggestion of conflict between interest and duty.",
+      "id": "s51"
+    },
+    {
+      "text": "I also considered it appropriate to dispense with the first meeting of creditors because it would be wasteful to allow s 436E to operate under circumstances in which a first meeting of creditors was previously held.",
+      "id": "s52"
+    },
+    {
+      "text": "Section 439A(2) of the Act requires the second meeting to be held within five business days before or within five business days after the end of the convening period.",
+      "id": "s53"
+    },
+    {
+      "text": "According to this provision, if the plaintiffs are ready to convene and hold the meeting earlier, they must \"sit on their hands\" until five business days before the end of the convening period.",
+      "id": "s54"
+    },
+    {
+      "text": "The plaintiffs should be at liberty to convene the meeting to be held on an earlier date during the convening period.",
+      "id": "s55"
+    },
+    {
+      "text": "It also seemed desirable, efficient and economical for the plaintiffs to be at liberty to treat the proofs of debt that have previously been lodged with them as having been lodged in the new administration which will commence once they have appointed themselves as administrators: see s 435C(1)(a) of the Act.",
+      "id": "s56"
+    },
+    {
+      "text": "The plaintiffs have received 204 proofs of debt since their initial appointment as administrators on 13 November 2008.",
+      "id": "s57"
+    },
+    {
+      "text": "Clause 11 of the previous DOCAs provided for creditors to prove their debts in accordance with Subdivisions A, B, C and E of Div 6 of Pt 5.6 of the Act.",
+      "id": "s58"
+    },
+    {
+      "text": "It would be wasteful if the plaintiffs had to ignore those proofs and to seek proofs again from the same creditors.",
+      "id": "s59"
+    },
+    {
+      "text": "Conclusion\n It was for the above reasons that I made the orders I made on 8 October 2009 mentioned at the outset.",
+      "id": "s60"
+    },
+    {
+      "text": "I certify that the preceding twenty-seven (27) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Lindgren.",
+      "id": "s61"
+    },
+    {
+      "text": "Associate:\n \n \nDated: 23 October 2009\n \n Counsel for the Plaintiffs: Mr J Baird \n \n Solicitors for the Plaintiffs: Blake Dawson \n Date of Hearing: 8 October 2009 \n \n Date of Judgment: 8 October 2009 \n \n Date of Publication of Reasons: 23 October 2009 \n SCHEDULE A \n # COMPANY ACN A.C.N.",
+      "id": "s62"
+    },
+    {
+      "text": "119608669 PTY LTD \n (FORMERLY MESS AND NOISE PTY LTD) A.C.N.",
+      "id": "s63"
+    },
+    {
+      "text": "119 608 669 A.C.N.",
+      "id": "s64"
+    },
+    {
+      "text": "007 357 495 PTY LTD \n (FORMERLY AUSTRALIAN FOOTBALL VIDEO PTY LTD) A.C.N.",
+      "id": "s65"
+    },
+    {
+      "text": "007 357 495 BECKER MAGNA FILMS PTY LTD A.C.N.",
+      "id": "s66"
+    },
+    {
+      "text": "095 385 783 A.C.N.",
+      "id": "s67"
+    },
+    {
+      "text": "100 517 860 PTY LTD \n (FORMERLY BRAND NEW MEDIA PTY LTD) A.C.N.",
+      "id": "s68"
+    },
+    {
+      "text": "100 517 860 A.C.N.",
+      "id": "s69"
+    },
+    {
+      "text": "118 954 046 PTY LTD \n (FORMERLY BRAND NEW MEDIA LIVE PTY LTD) A.C.N.",
+      "id": "s70"
+    },
+    {
+      "text": "118 954 046 A.C.N.",
+      "id": "s71"
+    },
+    {
+      "text": "073 153 705 PTY LTD \n (FORMERLY CENTRAL STATION PTY LTD) A.C.N.",
+      "id": "s72"
+    },
+    {
+      "text": "073 153 705 A.C.N.",
+      "id": "s73"
+    },
+    {
+      "text": "064 966 963 PTY LTD \n (FORMERLY CENTRAL STATION (HOLDINGS) PTY LTD) A.C.N.",
+      "id": "s74"
+    },
+    {
+      "text": "064 966 963 DESTRA CORPORATION LTD A.C.N.",
+      "id": "s75"
+    },
+    {
+      "text": "006 070 480 DESTRA MEDIA PTY LTD A.C.N.",
+      "id": "s76"
+    },
+    {
+      "text": "094 832 694 DESTRA MUSIC PTY LTD A.C.N.",
+      "id": "s77"
+    },
+    {
+      "text": "122 385 826 DESTRA MUSIC (HOLDINGS) PTY LTD A.C.N.",
+      "id": "s78"
+    },
+    {
+      "text": "128 663 721 DESTRA VISION PTY LTD A.C.N.",
+      "id": "s79"
+    },
+    {
+      "text": "128 657 278 DESTRA MP PTY LTD (FORMERLY MAGNA PACIFIC PTY LTD) A.C.N.",
+      "id": "s80"
+    },
+    {
+      "text": "010 465 666 DESTRA MP (HOLDINGS) PTY LTD (FORMERLY MAGNA PACIFIC (HOLDINGS) PTY LTD) A.C.N.",
+      "id": "s81"
+    },
+    {
+      "text": "010 731 718 MP3.COM.AU PTY LTD A.C.N 093 883 295 MRA ENTERTAINMENT GROUP PTY LTD A.C.N.",
+      "id": "s82"
+    },
+    {
+      "text": "083 796 178 NICE SHORTS PTY LTD A.C.N.",
+      "id": "s83"
+    },
+    {
+      "text": "119 343 654 RAJON DISTRIBUTION PTY LTD A.C.N.",
+      "id": "s84"
+    },
+    {
+      "text": "107 483 474 RAJON VISION PTY LTD A.C.N.",
+      "id": "s85"
+    },
+    {
+      "text": "113 091 393 ROCVALE ENTERTAINMENT PTY LTD A.C.N.",
+      "id": "s86"
+    },
+    {
+      "text": "081 708 590 THE SQUARE GROUP PTY LTD A.C.N.",
+      "id": "s87"
+    },
+    {
+      "text": "113 147 916 A.C.N.",
+      "id": "s88"
+    },
+    {
+      "text": "056 128 235 PTY LTD \n (FORMERLY VISUAL ENTERTAINMENT GROUP PTY LTD) A.C.N.",
+      "id": "s89"
+    },
+    {
+      "text": "056 128 235 3D WORLD AUSTRALIA PTY LTD A.C.N.",
+      "id": "s90"
+    },
+    {
+      "text": "127 775 928 \n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2009/1199.html",
+      "id": "s91"
+    }
+  ]
+}

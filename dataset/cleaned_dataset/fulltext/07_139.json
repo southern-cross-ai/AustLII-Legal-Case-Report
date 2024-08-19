@@ -1,0 +1,452 @@
+{
+  "name": "Cirillo v Consolidated Press Property Pty Ltd(formerly known as Citicorp Australia Limited) [2007] FCA 139 (16 February 2007)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2007/139.html",
+  "catchphrases": [
+    {
+      "text": "proceedings to set aside bankruptcy notice under s 41(7) of the bankruptcy act 1966 (cth)",
+      "id": "c0"
+    },
+    {
+      "text": "notice founded on consent orders for costs",
+      "id": "c1"
+    },
+    {
+      "text": "alleged set-off or counter-claim summarily dismissed in parallel proceedings",
+      "id": "c2"
+    },
+    {
+      "text": "fresh set-off or counter-claim proposed",
+      "id": "c3"
+    },
+    {
+      "text": "need first to have consent order for costs set aside",
+      "id": "c4"
+    },
+    {
+      "text": "assertion of counter-claim or set-off unsupported by evidence",
+      "id": "c5"
+    },
+    {
+      "text": "assertion that cross claim or set-off is equal to or exceeds the amount of the judgment debt unsupported by evidence",
+      "id": "c6"
+    },
+    {
+      "text": "bankruptcy",
+      "id": "c7"
+    },
+    {
+      "text": "bankruptcy",
+      "id": "c8"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "1 This is an application to have set aside a bankruptcy notice on the basis that I should be satisfied that the debtor, Vincenzo Cirillo, has a counter-claim, set-off, or cross demand that equals or exceeds the amount of a judgment debt payable under an order of the Supreme Court of South Australia.",
+      "id": "s0"
+    },
+    {
+      "text": "That debt is in the sum of $500,000 and resulted from a consent order between Mr Cirillo and the four respondents in this matter.",
+      "id": "s1"
+    },
+    {
+      "text": "They are respectively Consolidated Press Property Pty Ltd (\"CPP\") (formerly known as Citicorp Australia Limited) (\"CAL\"), C.W.",
+      "id": "s2"
+    },
+    {
+      "text": "Construction Pty Ltd (Receivers &amp; Managers Appointed) (in liquidation) (\"CWC\"), John Harold Heard and Stephen Elliot Young.",
+      "id": "s3"
+    },
+    {
+      "text": "2 That costs order was in respect of proceedings initiated by Mr Cirillo against the four respondents on 4 April 1997.",
+      "id": "s4"
+    },
+    {
+      "text": "THE BACKGROUND LITIGATION \n \n3 This matter has an exceptionally long history which some number of Judges both of this court and of the Supreme Court of South Australia have been obliged to narrate in detail.",
+      "id": "s5"
+    },
+    {
+      "text": "In my judgment in Cirillo v Consolidated Press Property Pty Ltd (formerly known as Citicorp Australia Limited) [2007] FCA 60 I set out a chronology at some length.",
+      "id": "s6"
+    },
+    {
+      "text": "I will not repeat it here other than to say that Mr Cirillo sought an inquiry as to damages in respect of an undertaking given when an injunction was awarded against him in 1985 restraining him from dealing with a particular piece of property described as \"the Poclain\".",
+      "id": "s7"
+    },
+    {
+      "text": "That injunction lapsed in February 1993 and the inquiry was sought in respect of that period.",
+      "id": "s8"
+    },
+    {
+      "text": "There were considerable interlocutory issues raised in that proceeding which, as I will later indicate, bear on the present matter.",
+      "id": "s9"
+    },
+    {
+      "text": "Suffice it to say that for present purposes in July 2000 a Master of the Supreme Court ordered the preliminary hearing of five issues from the apparently substantial number of issues that had arisen between the parties.",
+      "id": "s10"
+    },
+    {
+      "text": "Two of those issues were not prosecuted, the remaining three all were decided adversely to Mr Cirillo.",
+      "id": "s11"
+    },
+    {
+      "text": "A judge of the Supreme Court held, first, that he did not have standing to pursue his claim for relief in light of the events which had occurred; secondly, that he was not at any relevant time the legal or beneficial owner of the property in question nor did he have any right to possession of it; and, thirdly, he was estopped from asserting that he was a beneficial owner at any relevant time.",
+      "id": "s12"
+    },
+    {
+      "text": "His enquiry as to damages was dismissed.",
+      "id": "s13"
+    },
+    {
+      "text": "Mr Cirillo appealed unsuccessfully to the Full Court and a special leave application to the High Court was refused.",
+      "id": "s14"
+    },
+    {
+      "text": "The consent order founding the bankruptcy notice was made on 28 July 2005.",
+      "id": "s15"
+    },
+    {
+      "text": "THE PRESENT APPLICATION \n \n4 The applicant filed the present application on 11 July 2006.",
+      "id": "s16"
+    },
+    {
+      "text": "Counsel for the applicant has not read much of the affidavit filed in support of that application.",
+      "id": "s17"
+    },
+    {
+      "text": "It would appear that what was foreshadowed in it was an action in tort for abuse of process against four respondents plus their then solicitors, Finlaysons.",
+      "id": "s18"
+    },
+    {
+      "text": "The nature of that abuse has been said to be similar to that contained in a subsequent Federal Court proceeding to which I will refer to below.",
+      "id": "s19"
+    },
+    {
+      "text": "5 The set aside application was heard and reserved by a Registrar of the Federal Magistrates Court after a hearing over several days.",
+      "id": "s20"
+    },
+    {
+      "text": "Before the Registrar came to give judgment a further affidavit was filed by Mr Cirillo.",
+      "id": "s21"
+    },
+    {
+      "text": "Counsel for Mr Cirillo subsequently sought to have the hearing before the Registrar re-opened for the purpose of admitting that affidavit into evidence.",
+      "id": "s22"
+    },
+    {
+      "text": "By that stage Mr Cirillo had instituted proceedings in this court against the same five respondents.",
+      "id": "s23"
+    },
+    {
+      "text": "He purported to claim damages for breaches of duties of care he alleged were owed him by all respondents.",
+      "id": "s24"
+    },
+    {
+      "text": "While he characterised the conduct of the respondents as an abuse of process he did not plead that tort as such.",
+      "id": "s25"
+    },
+    {
+      "text": "The alleged wrongdoing of which complaint was made was concealment of an alleged agreement in 1997 by CAL in which it was supposed to have transferred secured debts owed to it by CWC to other corporate entities.",
+      "id": "s26"
+    },
+    {
+      "text": "The effect of this was said to be that CAL had in consequence not disclosed that it had no right to defend the inquiry as to damages proceedings at least on the basis that it had a set-off against Mr Cirillo's claims by virtue of its secured debt which was in turn supported by a personal guarantee by Mr Cirillo.",
+      "id": "s27"
+    },
+    {
+      "text": "Allied to this was a claim under the Trade Practices Act 1974 (Cth) against all of the respondents for damages for a contravention of s 52.",
+      "id": "s28"
+    },
+    {
+      "text": "6 Prior to applying to have the bankruptcy notice set aside, Mr Cirillo had been advised not to seek to have the costs order set aside but rather to initiate Supreme Court proceedings of the type I mentioned above.",
+      "id": "s29"
+    },
+    {
+      "text": "This is of no little importance.",
+      "id": "s30"
+    },
+    {
+      "text": "7 All five respondents in the above Federal Court proceedings sought to have the application struck out as vexatious or an abuse of process or to have it summarily dismissed on the basis that it had no reasonable prospects of success: see Federal Court of Australia Act 1976 (Cth), s 31A.",
+      "id": "s31"
+    },
+    {
+      "text": "The judgment of mine referred to above dismissed Mr Cirillo's application against all respondents with costs.",
+      "id": "s32"
+    },
+    {
+      "text": "The principal basis of my so doing was that, for as long as the Supreme Court costs order stood, the principal of finality embodied in the doctrine of res judicata precluded an examination of the incidents of costs albeit indirectly in a tort action such as foreshadowed in the then present statement of claim.",
+      "id": "s33"
+    },
+    {
+      "text": "That action was simply a collateral attack on the order.",
+      "id": "s34"
+    },
+    {
+      "text": "Additionally, I indicated I would not give leave to re-plead as the statement of claim that had been filed was truly embarrassing.",
+      "id": "s35"
+    },
+    {
+      "text": "8 At the end of the hearing of that matter counsel for Mr Cirillo surrendered to the inevitable but did foreshadow his intention to initiate a further proceeding in the Supreme Court of South Australia.",
+      "id": "s36"
+    },
+    {
+      "text": "It had been the case that throughout that proceeding, as also in the proceeding before the Registrar in the Bankruptcy Act 1966 (Cth) proceedings, Mr Cirillo steadfastly refused to entertain the prospect of an application to set aside the costs order.",
+      "id": "s37"
+    },
+    {
+      "text": "He was to change his mind.",
+      "id": "s38"
+    },
+    {
+      "text": "9 By a series of procedural moves, the bankruptcy notice application was removed to this Court and it was agreed that I should first hear the strike out application before I dealt with issues relating to the bankruptcy notice.",
+      "id": "s39"
+    },
+    {
+      "text": "It was anticipated that the fate of the bankruptcy notice would depend on the fate of the strike out application.",
+      "id": "s40"
+    },
+    {
+      "text": "If that was an expectation entertained by, amongst others, me, it was misplaced.",
+      "id": "s41"
+    },
+    {
+      "text": "When I handed down judgment in the strike out application I thought as a matter of fairness I should give Mr Cirillo a short opportunity in which to consider that judgment before proceeding to finalise the bankruptcy notice matter.",
+      "id": "s42"
+    },
+    {
+      "text": "Mr Cirillo in turn proceeded to file a fresh affidavit in the present matter which foreshadowed a new application to the Supreme Court of South Australia.",
+      "id": "s43"
+    },
+    {
+      "text": "That new application differs in quite considerable respects from the one that I had summarily dismissed.",
+      "id": "s44"
+    },
+    {
+      "text": "10 The statement of claim, as best I understand it, seeks damages against CAL and Finlaysons on the basis of the tort of abuse of process.",
+      "id": "s45"
+    },
+    {
+      "text": "The basis of that claim was pleaded in the following terms:\n \n \n \"21.",
+      "id": "s46"
+    },
+    {
+      "text": "The defence of the Poclain proceeding on the basis that CAL had a set-off based upon moneys owed by CWC to CAL which were guaranteed by Cirillo, was brought by CAL in the knowledge that it had no right to do so and for a predominant and improper purpose which was collateral to its defence of the Poclain proceeding namely: \n \n \n \n \n \n 21.1 to increase the costs and the duration of the Poclain proceeding in the expectation that Cirillo would exhaust his funds and/or his preparedness to litigate against CAL with regard to matters pertaining to CWC; and/or \n \n 21.2 to increase the costs and the duration of the Poclain proceeding in the expectation that Cirillo would be declared bankrupt and releases from litigation might then be more readily obtained from the trustee of Cirillo's bankrupt estate; and/or\n \n 21.3 to maintain the fiction that CAL was a creditor of CWC which would enable CAL to maintain its appointment of Heard and Young as receivers and managers of CWC and thereby continue to maintain its control of CWC which it continues to do to this day.",
+      "id": "s47"
+    },
+    {
+      "text": "\"\n \n \n \n\nFinlaysons is said to have aided or abetted CAL in the prosecution of this purpose.",
+      "id": "s48"
+    },
+    {
+      "text": "An estoppel claim in turn is raised against the other respondents such as would preclude them from seeking to enforce the July 2005 costs order.",
+      "id": "s49"
+    },
+    {
+      "text": "11 The damages claimed were said to be costs associated with interlocutory applications and disputes in the inquiry as to damages proceedings which it is baldly asserted approximated $300,000 and costs of the trial time occupied in the preliminary hearing in so far as it considered the monies owing by CWC to CAL which the plaintiff estimates to exceed $200,000.",
+      "id": "s50"
+    },
+    {
+      "text": "The statement of claim earlier seeks exemplary damages.",
+      "id": "s51"
+    },
+    {
+      "text": "12 Finally the statement of claim seeks an order setting aside the costs order of 28 July.",
+      "id": "s52"
+    },
+    {
+      "text": "It is pleaded as follows:\n \n \"26.",
+      "id": "s53"
+    },
+    {
+      "text": "Further, or alternatively and by reasons of the foregoing the consent of the plaintiff to the order described in paragraph 16 herein was obtained in circumstances where the defendants abused the process of the Court and withheld material facts which would have negated the consent of the plaintiff and resulted in an order in favour of the plaintiff had the true situation been known.",
+      "id": "s54"
+    },
+    {
+      "text": "Particulars \n \n \n \n The defendants would not have been entitled to an order for those costs expended by them on ascertaining the extent of the indebtedness of CWC to CAL and they would have in turn been obliged to pay to Cirillo his costs incurred on that issue.",
+      "id": "s55"
+    },
+    {
+      "text": "23.",
+      "id": "s56"
+    },
+    {
+      "text": "(sic) By reason of the foregoing the plaintiff is entitled to an order pursuant to Rule 84.12 of the Rules of this Honourable Court setting aside or otherwise varying the order for costs made on 28 July 2005 and in lieu thereof an order to be made\n \n 23.1 disallowing costs to the defendants for all of those costs incurred by them of and incidental to the issue of what monies were owed by CWC to CAL; and/or \n \n 23.2 in favour of the plaintiff for all of those costs incurred by him of and incidental to the issue of what monies were owed by CWC to CAL.",
+      "id": "s57"
+    },
+    {
+      "text": "\"\n \n\nHow the Court was to vary the consent order in the way indicated is not revealed.",
+      "id": "s58"
+    },
+    {
+      "text": "THE PRESENT APPLICATION \n \n13 By way of background I should refer to the relevant provisions of sections 40 and 41 of the Bankruptcy Act 1966 (Cth).",
+      "id": "s59"
+    },
+    {
+      "text": "Section 40(1)(g) provides:\n \n \n \" 40(1) A debtor commits an act of bankruptcy in each of the following cases: \n \n ...\n \n (g) if a creditor who has obtained against the debtor a final judgment or final order, being a judgment or order the execution of which has not been stayed, has served on the debtor in Australia ... a bankruptcy notice under this Act and the debtor does not:\n \n \n \n \n \n (i) where the notice was served in Australia --- within the time specified in the notice; \n \n ...\n \n \n \n \n \n comply with the requirements of the notice or satisfy the Court that he or she has a counter-claim, set-off or cross demand equal to or exceeding the amount of the judgment debt or sum payable under the final order, as the case may be, being a counter-claim, set-off or cross demand that he or she could not have set up in the action or proceeding in which the judgment or order was obtained.",
+      "id": "s60"
+    },
+    {
+      "text": "\"\n \n \n\n14 In turn s 41 of the Act insofar as presently relevant provides:\n \n \" 41(6A) Where, before the expiration of the time fixed for compliance with the requirements of a bankruptcy notice: \n \n \n \n \n \n \n \n (a) proceedings to set aside a judgment or order in respect of which the bankruptcy notice was issued have been instituted by the debtor; or\n \n (b) an application has been made to the Court to set aside the bankruptcy notice; \n \n The Court may, subject to subsection (6C), extend the time for compliance with the bankruptcy notice.",
+      "id": "s61"
+    },
+    {
+      "text": "41(6C) Where:\n \n (a) a debtor applies to the Court for an extension of the time for complying with a bankruptcy notice on the ground that proceedings to set aside a judgment or order in respect of which the bankruptcy notice was issued have been instituted by the debtor; and\n \n (b) the Court is of the opinion that the proceedings to set aside the judgment or order:\n \n (i) have not been instituted bona fide ; or\n \n (ii) are not being prosecuted with due diligence; \n \n The Court shall not extend the time for compliance with the bankruptcy notice.",
+      "id": "s62"
+    },
+    {
+      "text": "41(7) Where, before the expiration of the time fixed for compliance with the requirements of a bankruptcy notice, the debtor has applied to the Court for an order setting aside the bankruptcy notice on the ground that the debtor has such a counter-claim, set-off or cross demand as is referred to in paragraph 40(1)(g), and the Court has not, before the expiration of that time, determined whether it is satisfied that the debtor has such a counter-claim, set-off or cross demand, that time shall be deemed to have been extended, immediately before its expiration, until and including the day on which the Court determines whether it is so satisfied.",
+      "id": "s63"
+    },
+    {
+      "text": "\"\n \n\n15 I do not have direct evidence to which I have been taken of when the time fixed for compliance with the bankruptcy notice actually expired for the purposes of s 41(6A) of the Bankruptcy Act .",
+      "id": "s64"
+    },
+    {
+      "text": "It is sufficient for present purposes to note that it will have expired long since given that the present application itself has been on foot for over seven months.",
+      "id": "s65"
+    },
+    {
+      "text": "I also emphasise that the first intimation that has been given of an intent to institute proceedings to set aside the 2005 costs order is contained in the draft Statement of Claim appended to Mr Cirillo's affidavit of 9 February 2007 filed in this matter.",
+      "id": "s66"
+    },
+    {
+      "text": "16 It is clear that Mr Cirillo does not fall within the provisions of s 41(6A)(a) insofar as concerns his foreshadowed claim.",
+      "id": "s67"
+    },
+    {
+      "text": "Under that provision the proceedings to set aside the relevant order had to have been instituted before the expiration of the time fixed for compliance with the bankruptcy notice.",
+      "id": "s68"
+    },
+    {
+      "text": "17 Equally, it does not appear that any order extending time was made under s 41(6A)(b).",
+      "id": "s69"
+    },
+    {
+      "text": "Mr Cirillo's application seems to be founded solely upon s 41(7) of the Bankruptcy Act , his claim being that his tort action against the five respondents would satisfy the requirements of a counter-claim, set-off or cross demand for the purposes of that subsection.",
+      "id": "s70"
+    },
+    {
+      "text": "As I indicated in my judgment in the strike out proceedings, unless and until the costs order is set aside, it is simply not open to Mr Cirillo to make the claim he seeks to make founded on the tort of abuse of process claiming damages in respect of costs incurred in the inquiry as to damages proceeding.",
+      "id": "s71"
+    },
+    {
+      "text": "For this reason he cannot now point to an existing cross claim had by him that could be set-off against the costs order: Guss v Johnstone (2000) 171 ALR 598 at 607.",
+      "id": "s72"
+    },
+    {
+      "text": "18 The present application properly characterised is a belated attempt to have time extended to institute proceedings to set aside the costs order rather than to set up a counter-claim, set-off or cross demand.",
+      "id": "s73"
+    },
+    {
+      "text": "This becomes immediately apparent once it is appreciated that if the costs order is set aside the judgment debt founding the bankruptcy notice would disappear.",
+      "id": "s74"
+    },
+    {
+      "text": "On this straightforward ground I would dismiss the application.",
+      "id": "s75"
+    },
+    {
+      "text": "19 I would not, though, wish it to be thought that, even if this application could competently have been brought under s 41(7) , I would have the relevant level of satisfaction required to set aside the bankruptcy notice.",
+      "id": "s76"
+    },
+    {
+      "text": "20 The foundation of Mr Cirillo's claim is that CAL disposed of its assets to third parties such that it no longer had any interest in the secured loan.",
+      "id": "s77"
+    },
+    {
+      "text": "In consequence, it is said it could not rely upon that debt or Mr Cirillo's personal guarantee of it by way of set-off in the inquiry as to damages proceedings.",
+      "id": "s78"
+    },
+    {
+      "text": "Mr Cirillo does not assert that either he or CWC had ever received any notice in writing that CWC's debt had been assigned and it would appear to be his positive case that he did not receive such notice.",
+      "id": "s79"
+    },
+    {
+      "text": "As is well known and well understood, a debt being a chose in action can only be assigned at law if the requirements of s 15 of the Law of Property Act 1936 (SA) are satisfied.",
+      "id": "s80"
+    },
+    {
+      "text": "Mr Cirillo appears to accept, although this is by no means clear, that CWC remained the legal owner of the chose.",
+      "id": "s81"
+    },
+    {
+      "text": "He then goes on to assert that, as the pleading indicates, using the debt as a basis for asserting the set-off was abusive because it was done for an improper collateral purpose.",
+      "id": "s82"
+    },
+    {
+      "text": "Mr Cirillo simply has not countenanced the possibility that this set-off may in fact have been either validly raised by way of defence or else raised mistakenly but in good faith.",
+      "id": "s83"
+    },
+    {
+      "text": "I have been asked to infer that there was a reasonable probability that that collateral purpose was there.",
+      "id": "s84"
+    },
+    {
+      "text": "21 I should interpolate that CAL/CPP denies that there was an assignment in any event but goes on to assert that, if there had been, it would only have been effective in equity, hence as legal owner it could properly raise a defence of set off in the 1997 proceedings.",
+      "id": "s85"
+    },
+    {
+      "text": "22 Mr Cirillo's counsel has not been able to point me to one item of evidence which would point towards the improper purpose alleged.",
+      "id": "s86"
+    },
+    {
+      "text": "I simply am asked to draw the conclusion proposed because Mr Cirillo believes he has suffered grave injustice at the hands of the respondents.",
+      "id": "s87"
+    },
+    {
+      "text": "23 It is well accepted that in proceedings under s 41(7) the affidavit material in support of an application must do more than merely assert the existence of a counter-claim etc.",
+      "id": "s88"
+    },
+    {
+      "text": "It must contain evidence which establishes that there is an effective and bona fide claim which is real.",
+      "id": "s89"
+    },
+    {
+      "text": "Mr Cirillo's belief, no matter how strongly and earnestly held, is not a substitute for such evidence.",
+      "id": "s90"
+    },
+    {
+      "text": "On this ground alone I would have dismissed the application under s 41(7) , if it was in fact competent.",
+      "id": "s91"
+    },
+    {
+      "text": "24 I equally should indicate that I have no material before me which could lead to the requisite satisfaction that the counter-claim etc on which Mr Cirillo intends to rely would, if quantified, be in a sum equal to or in excess of the amount of the costs order.",
+      "id": "s92"
+    },
+    {
+      "text": "There are simply bald assertions of sums of costs incurred by Mr Cirillo both in interlocutory proceedings and in the preliminary hearing.",
+      "id": "s93"
+    },
+    {
+      "text": "These are not the subject of any evidence that could satisfy me that he has any reasonable probability of recovery of such sums in his foreshadowed proceedings: see Patone v Asteron Ltd (formerly Royal and Sun Alliance Financial Services Ltd) (ACN 001 698 228) [2004] FCA 232 at [74] - [75] .",
+      "id": "s94"
+    },
+    {
+      "text": "25 As to the alleged loss he incurred in unsuccessfully prosecuting the preliminary hearing it is difficult to see how this could be said to represent a recoverable loss in any event.",
+      "id": "s95"
+    },
+    {
+      "text": "26 I have concluded that the present application is an incompetent one.",
+      "id": "s96"
+    },
+    {
+      "text": "Mr Cirillo cannot engage the power to extend time conferred by s 41(6A) of the Bankruptcy Act insofar as he wishes so to do for the purposes of instituting proceedings to set aside the 2005 costs order of the Supreme Court of South Australia.",
+      "id": "s97"
+    },
+    {
+      "text": "Nor are the circumstances ones in which he can have the bankruptcy notice itself set aside under s 41(7) of the Bankruptcy Act .",
+      "id": "s98"
+    },
+    {
+      "text": "Accordingly, I will order that the application be dismissed and I order the applicant to pay the respondents' costs of the application.",
+      "id": "s99"
+    },
+    {
+      "text": "I certify that the preceding twenty-six (26) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Finn J.",
+      "id": "s100"
+    },
+    {
+      "text": "Associate:\n\nDated: 16 February 2007\n\n Counsel for the Applicant: Mr J Ribbands \n \n Solicitor for the Applicant: McNamara Business &amp; Property Law \n \n Counsel for the Respondent: Mr W M Ericson \n \n Solicitor for the Respondent: Finlaysons \n \n Date of Hearing: 13 February 2007 \n \n Date of Judgment: 16 February 2007 \n\n\n\n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/139.html",
+      "id": "s101"
+    }
+  ]
+}

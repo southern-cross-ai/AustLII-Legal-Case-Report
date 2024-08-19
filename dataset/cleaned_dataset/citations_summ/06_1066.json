@@ -1,0 +1,518 @@
+[
+  {
+    "text": "patents",
+    "id": "cp0.0",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "validity",
+    "id": "cp0.1",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "construction",
+    "id": "cp0.2",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "lack of inventive step",
+    "id": "cp0.3",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "novelty",
+    "id": "cp0.4",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "fair basis",
+    "id": "cp0.5",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "sufficiency of description of invention",
+    "id": "cp0.6",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "disclosure of best method of invention",
+    "id": "cp0.7",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "date of assessment",
+    "id": "cp0.8",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "false suggestion",
+    "id": "cp0.9",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "patent for treatment of erectile dysfunction",
+    "id": "cp0.10",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "common general knowledge at priority date",
+    "id": "cp0.11",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "relevant prior art",
+    "id": "cp0.12",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "use of evidence of overseas witnesses",
+    "id": "cp0.13",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "trade practices",
+    "id": "cp1.0",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "misleading conduct",
+    "id": "cp1.1",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "sale of vineyard and winery",
+    "id": "cp1.2",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "misrepresentation by vendors of area occupied by vines",
+    "id": "cp1.3",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether misrepresentation also made by selling agent",
+    "id": "cp1.4",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether selling agent merely passing on information supplied, and known to purchaser to have been supplied, by vendors. trade practices",
+    "id": "cp1.5",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "misleading conduct",
+    "id": "cp1.6",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "sale of vineyard and winery",
+    "id": "cp1.7",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "misrepresentation by vendors of volume of available bore water as 1800 gallons per hour",
+    "id": "cp1.8",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "in support, vendors handed to purchaser an 'invoice' given to them more than two years previously by water drilling contractor referring to '1800 gph' (1800 gallons per hour)",
+    "id": "cp1.9",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "contractor had in fact orally informed vendors water flow from bore was 400 gallons per hour",
+    "id": "cp1.10",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "400 gallons per hour is approximately 1800 litres per hour",
+    "id": "cp1.11",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "trial judge accepted that contractor had inadvertently written '1800 gph' rather than '1800 lph' and that if vendors had read the invoice at the time, they would have appreciated the error",
+    "id": "cp1.12",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether contractor liable to purchaser as a result of vendors having handed over the invoice to them more than two years later",
+    "id": "cp1.13",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether chain of causation broken.",
+    "id": "cp1.14",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "corporations",
+    "id": "cp2.0",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "purchase by applicant companies of interests in oil leases",
+    "id": "cp2.1",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "whether bona fide transaction",
+    "id": "cp2.2",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "whether purchase price fraudulently ramped",
+    "id": "cp2.3",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "whether directors of applicants aware that transaction not at arm's length and not bona fide",
+    "id": "cp2.4",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "whether directors party to conspiracy to injure by unlawful means",
+    "id": "cp2.5",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "whether in breach of fiduciary duty",
+    "id": "cp2.6",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "whether liable to pay compensation for a contravention of s.229 of the companies (south australia) code.  corporations",
+    "id": "cp2.7",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "common directors of applicant and respondent companies",
+    "id": "cp2.8",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "respondent companies purporting to provide financial assistance to applicant to purchase interests in oil leases",
+    "id": "cp2.9",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "whether knowledge of common directors that purchase was part of fraudulent scheme to injure the applicants attributed to respondent companies",
+    "id": "cp2.10",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "whether financing transactions totally in fraud of respondent companies",
+    "id": "cp2.11",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "whether transactions by design or result for benefit of respondents",
+    "id": "cp2.12",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "whether moneys paid by applicant in purported repayment of loans received by respondents with knowledge that applicant's money paid in breach of directors' fiduciary duty",
+    "id": "cp2.13",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "whether constructive trust",
+    "id": "cp2.14",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "whether respondents knowingly concerned in contravention of sub.s.229(1) of the companies (south australia) code.  principal and agent",
+    "id": "cp2.15",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "directors acting for company",
+    "id": "cp2.16",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "liability of company for fraud of directors",
+    "id": "cp2.17",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "whether directors acting within the scope of their authority",
+    "id": "cp2.18",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "attribution of knowledge of directors to the company.  trade practices",
+    "id": "cp2.19",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "misleading or deceptive conduct",
+    "id": "cp2.20",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "common directors of applicant and respondent companies",
+    "id": "cp2.21",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "respondent companies providing financial assistance to applicant to purchase interests in oil leases in usa",
+    "id": "cp2.22",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "whether in trade or commerce in australia",
+    "id": "cp2.23",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "common directors participants in fraudulent scheme",
+    "id": "cp2.24",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "common directors failing to disclose to the applicant that the purchase and provision of finance were not bona fide transactions",
+    "id": "cp2.25",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "whether directors knowledge and conduct knowledge and conduct of the respondent companies",
+    "id": "cp2.26",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "whether conduct misleading or deceptive.  tort",
+    "id": "cp2.27",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "deceit",
+    "id": "cp2.28",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "whether constituted by failure by one party to disclose to the other party to a commercial transaction that the transaction is not bona fide",
+    "id": "cp2.29",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "whether failure to disclose amounts to a representation.  affirmation",
+    "id": "cp2.30",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "estoppel",
+    "id": "cp2.31",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "whether applicant company became aware of facts giving rise to right to impugn the transaction",
+    "id": "cp2.32",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "whether applicant thereafter affirmed transaction.",
+    "id": "cp2.33",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "negligence",
+    "id": "cp3.0",
+    "type": "cited",
+    "from": "[1959]"
+  },
+  {
+    "text": "action",
+    "id": "cp3.1",
+    "type": "cited",
+    "from": "[1959]"
+  },
+  {
+    "text": "collision between motor vehicles",
+    "id": "cp3.2",
+    "type": "cited",
+    "from": "[1959]"
+  },
+  {
+    "text": "no direct evidence of negligence",
+    "id": "cp3.3",
+    "type": "cited",
+    "from": "[1959]"
+  },
+  {
+    "text": "matter of inference from proved facts",
+    "id": "cp3.4",
+    "type": "cited",
+    "from": "[1959]"
+  },
+  {
+    "text": "sufficiency of facts to support inference.  practice",
+    "id": "cp3.5",
+    "type": "cited",
+    "from": "[1959]"
+  },
+  {
+    "text": "direction to jury",
+    "id": "cp3.6",
+    "type": "cited",
+    "from": "[1959]"
+  },
+  {
+    "text": "inference of negligence open on proved circumstances",
+    "id": "cp3.7",
+    "type": "cited",
+    "from": "[1959]"
+  },
+  {
+    "text": "whether inference should be drawn",
+    "id": "cp3.8",
+    "type": "cited",
+    "from": "[1959]"
+  },
+  {
+    "text": "defendant able to explain facts from &amp;which inference sought to be drawn",
+    "id": "cp3.9",
+    "type": "cited",
+    "from": "[1959]"
+  },
+  {
+    "text": "failure of defendant to give evidence",
+    "id": "cp3.10",
+    "type": "cited",
+    "from": "[1959]"
+  },
+  {
+    "text": "what reliance to be placed by jury on such failure in deciding whether or not to draw inference",
+    "id": "cp3.11",
+    "type": "cited",
+    "from": "[1959]"
+  },
+  {
+    "text": "nature of direction to jury.  practice",
+    "id": "cp3.12",
+    "type": "cited",
+    "from": "[1959]"
+  },
+  {
+    "text": "non-suit",
+    "id": "cp3.13",
+    "type": "cited",
+    "from": "[1959]"
+  },
+  {
+    "text": "verdict by direction",
+    "id": "cp3.14",
+    "type": "cited",
+    "from": "[1959]"
+  },
+  {
+    "text": "history",
+    "id": "cp3.15",
+    "type": "cited",
+    "from": "[1959]"
+  },
+  {
+    "text": "application in new south wales.",
+    "id": "cp3.16",
+    "type": "cited",
+    "from": "[1959]"
+  },
+  {
+    "text": "trade practices",
+    "id": "cp4.0",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "consumer protection",
+    "id": "cp4.1",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "sale by retailer of children's toys in contravention of fair trading (safety standards) (children's toys) regulations 2004 and of toys in contravention of permanent ban orders",
+    "id": "cp4.2",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "declarations, cease trading injunction, corrective advertising, and destruction orders sought",
+    "id": "cp4.3",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "consideration of terms of an appropriate relief",
+    "id": "cp4.4",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "fair trading act 1999 , ss.33, 40, 44, 129a , 149a , 151a , 153 , 158 .",
+    "id": "cp4.5",
+    "type": "citing",
+    "from": "[2010]"
+  }
+]

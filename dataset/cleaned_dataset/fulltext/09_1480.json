@@ -1,0 +1,932 @@
+{
+  "name": "Scantech Ltd v Asbury [2009] FCA 1480 (11 December 2009)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2009/1480.html",
+  "catchphrases": [
+    {
+      "text": "application to amend statement of claim",
+      "id": "c0"
+    },
+    {
+      "text": "where claims for misuse of confidential information, misleading and deceptive conduct under the trade practices act 1974 (cth) and breach of contractual duties and duties under the corporations act 2001 (cth)",
+      "id": "c1"
+    },
+    {
+      "text": "where applicants originally pleaded that the respondents had sold and offered for sale a coal analyser that was developed by using the applicants' information, and had publicly promoted themselves as specialists in the supply, maintenance and support of the applicants' coal analyser",
+      "id": "c2"
+    },
+    {
+      "text": "where applicants sought to amend statement of claim to include allegation that respondents had serviced, and manufactured, sold and installed a retrofit kit for, the applicants' coal analyser",
+      "id": "c3"
+    },
+    {
+      "text": "practice and procedure",
+      "id": "c4"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "There is before the Court two notices of motion seeking interlocutory orders.",
+      "id": "s0"
+    },
+    {
+      "text": "Broadly speaking, the applicants' claim against the respondents relates to the improper use by the respondents of the applicants' information, including information alleged by the applicants to be confidential information, and misleading and deceptive conduct by the respondents in contravention of s 52 of the Trade Practices Act 1974 (Cth) (\"the TPA\").",
+      "id": "s1"
+    },
+    {
+      "text": "On 24 July 2009, the applicants issued a notice of motion seeking various interlocutory orders.",
+      "id": "s2"
+    },
+    {
+      "text": "The two principal orders sought by the applicants are leave to amend their statement of claim to make additional allegations and plead additional causes of action and an order that the issue of liability be heard and determined before issues of damages and all other remedies.",
+      "id": "s3"
+    },
+    {
+      "text": "The respondents oppose the making of these orders.",
+      "id": "s4"
+    },
+    {
+      "text": "On 11 August 2009, the respondents issued their own notice of motion in which they sought, among other things, an order that leave to amend the statement of claim granted on 26 June 2009 be revoked.",
+      "id": "s5"
+    },
+    {
+      "text": "In order to understand these reasons, it is necessary for me to summarise the applicants' claims as they presently stand and the allegations and claims they seek to introduce by way of amendment.",
+      "id": "s6"
+    },
+    {
+      "text": "In undertaking this exercise I make two things clear.",
+      "id": "s7"
+    },
+    {
+      "text": "First, the summary which follows is based on the applicants' allegations and, at this stage, they are only allegations.",
+      "id": "s8"
+    },
+    {
+      "text": "Secondly, the summary which follows is a general summary sufficient for the purposes of dealing with this notice of motion.",
+      "id": "s9"
+    },
+    {
+      "text": "There are a number of allegations which, although likely to be relevant at trial, are not relevant at this stage.",
+      "id": "s10"
+    },
+    {
+      "text": "To mention them will add unnecessarily to the length of these reasons.",
+      "id": "s11"
+    },
+    {
+      "text": "The applicants' claims\n The existing statement of claim is an Amended Statement of Claim dated 6 March 2009.",
+      "id": "s12"
+    },
+    {
+      "text": "The following summary is taken from that document.",
+      "id": "s13"
+    },
+    {
+      "text": "There are presently two applicants.",
+      "id": "s14"
+    },
+    {
+      "text": "They seek an order that one of them, Scantech Services Pty Ltd, be removed from the proceeding and replaced by another company called Scantech International Pty Ltd. That order should be made subject to the question of costs.",
+      "id": "s15"
+    },
+    {
+      "text": "Scantech Limited is the first applicant and it is the sole shareholder of the other two companies.",
+      "id": "s16"
+    },
+    {
+      "text": "All companies are part of a group of companies and, for present purposes, I can approach the matter as if there is one applicant.",
+      "id": "s17"
+    },
+    {
+      "text": "I will refer to the applicants as \"the applicant\".",
+      "id": "s18"
+    },
+    {
+      "text": "The applicant designs, develops and manufactures a range of equipment and markets and sells that equipment.",
+      "id": "s19"
+    },
+    {
+      "text": "For present purposes, the relevant piece of equipment is a coal analyser which is a machine used for analysing the quality of coal.",
+      "id": "s20"
+    },
+    {
+      "text": "A coal analyser is a sophisticated piece of machinery which tests the quality of coal through the use of nuclear radiation directed through, or radiated from, the material which is being tested.",
+      "id": "s21"
+    },
+    {
+      "text": "Coal analysers provide a method for the testing of coal while the coal is being carried on a moving conveyer belt.",
+      "id": "s22"
+    },
+    {
+      "text": "The applicant sells a range of coal analysers called \"Coalscan\".",
+      "id": "s23"
+    },
+    {
+      "text": "The first respondent, Mr James Hubert Asbury (\"Mr Asbury\"), was employed by the applicant between September 1995 and March 2001, and he held various directorships.",
+      "id": "s24"
+    },
+    {
+      "text": "For present purposes, the precise details are not relevant.",
+      "id": "s25"
+    },
+    {
+      "text": "The applicant has settled its claims against the second and third respondents and notices of discontinuance have been filed.",
+      "id": "s26"
+    },
+    {
+      "text": "The fourth respondent, Real Time Instruments Pty Ltd (\"Real Time\"), was incorporated on 30 June 2000 and deregistered on 30 July 2008.",
+      "id": "s27"
+    },
+    {
+      "text": "Mr Asbury was a director and shareholder of Real Time from 3 September 2002 to 30 July 2008.",
+      "id": "s28"
+    },
+    {
+      "text": "Between 30 June 2000 and February 2004, Real Time carried on a business involving the supply and servicing of coal analysers.",
+      "id": "s29"
+    },
+    {
+      "text": "The fifth respondent, RTI Pty Ltd (\"RTI\"), was incorporated on 18 February 2004.",
+      "id": "s30"
+    },
+    {
+      "text": "Since its incorporation, it has carried on business in Australia as a manufacturer and supplier of, amongst other things, coal analysers and it has carried on its business as a manufacturer of coal analysers in association with Real Time and in competition with Scantech.",
+      "id": "s31"
+    },
+    {
+      "text": "Since 18 February 2004, the first respondent has been a director of RTI.",
+      "id": "s32"
+    },
+    {
+      "text": "The respondents' coal analyser is called \"Ashscan\".",
+      "id": "s33"
+    },
+    {
+      "text": "Scantech made various developments and improvements to its scanner over the years and, by 2001, Scantech had progressively developed a scanner with certain features and functions not found in other coal scanners available for sale in Australia and internationally.",
+      "id": "s34"
+    },
+    {
+      "text": "It is not necessary for me to set out the details.",
+      "id": "s35"
+    },
+    {
+      "text": "Some of the developments and improvements reflect or embody what the applicant alleges is confidential information.",
+      "id": "s36"
+    },
+    {
+      "text": "Mr Asbury was privy to the confidential information.",
+      "id": "s37"
+    },
+    {
+      "text": "Mr Asbury owed various duties to the applicant, namely, express duties under his general terms of employment with the applicant and statutory duties under s 183 of the Corporations (SA) Law or Corporations Act 2001 (Cth) (\" Corporations Act \").",
+      "id": "s38"
+    },
+    {
+      "text": "Mr Asbury became aware of the confidential information in the course of his employment with the applicant and in the course of holding positions as director and managing director of the applicant.",
+      "id": "s39"
+    },
+    {
+      "text": "On 4 July 2000, the applicant appointed Real Time as its agent at Mackay in the State of Queensland for the marketing and servicing of the applicant's products, including coal analysers, in the State of Queensland.",
+      "id": "s40"
+    },
+    {
+      "text": "The agency was terminated by letter from the applicant to Real Time dated 18 October 2005.",
+      "id": "s41"
+    },
+    {
+      "text": "Real Time owed (it is alleged) \"contractual fiduciary duties\" to the applicant as a result of the agency agreement.",
+      "id": "s42"
+    },
+    {
+      "text": "Since 30 June 2005, Real Time and RTI have used the applicant's confidential information in the design, manufacturing and offering for sale its Ashscan coal analyser.",
+      "id": "s43"
+    },
+    {
+      "text": "In causing or assisting those respondents to act in this way, Mr Asbury has breached the contractual and statutory duties he owed to the applicant.",
+      "id": "s44"
+    },
+    {
+      "text": "Real Time has breached fiduciary duties and duties it owed to the applicant under the Corporation Law and Corporations Act .",
+      "id": "s45"
+    },
+    {
+      "text": "The applicant claims that since 18 February 2004, RTI, and, since 30 June 2005, Real Time, have engaged in misleading or deceptive conduct contrary to s 52 of the TPA, s 56 of the Fair Trading Act 1987 (SA) and s 38 of the Fair Trading Act 1989 (Qld).",
+      "id": "s46"
+    },
+    {
+      "text": "The particulars of the conduct are pleaded in the following way: \n \n \"37.1 Real Time and RTI have offered for sale and have sold the Ashscan Coal Analyser which has incorporated, by use of Scantech's Confidential Information, Scantech's developments and improvements to the DUET Technology.",
+      "id": "s47"
+    },
+    {
+      "text": "37.2 In offering for sale and in selling the Ashscan Coal Analyser, Real Time or RTI falsely represented to the potential purchasers of coal analysers that they, or either of them, was lawfully entitled to incorporate Scantech's developments and improvements of the DUET Technology in the Ashscan Coal Analyser.",
+      "id": "s48"
+    },
+    {
+      "text": "37.3 Real Time and RTI have publicly promoted themselves as specialists in the supply, maintenance and support of the Scantech range of Coalscan analysers.",
+      "id": "s49"
+    },
+    {
+      "text": "The said promotion has been by way of brochures distributed by Real Time, or RTI, or both of them, at coal industry conferences and trade shows.",
+      "id": "s50"
+    },
+    {
+      "text": "37.4 By publicly promoting themselves as specialists in the supply, maintenance and support of the Scantech range of Coalscan analysers Real Time and RTI have impliedly represented to owners and operators of Scantech Coalscan analysers that Real Time and/or RTI have the authorisation, approval or consent of Scantech to publicly offer those services on behalf of Scantech and that Real Time and/or RTI have the authorisation, approval or consent of Scantech to access and apply Scantech's Confidential Information for the purpose of providing those services.",
+      "id": "s51"
+    },
+    {
+      "text": "\" \n \n\n Mr Asbury is alleged to have been knowingly concerned in the contraventions by Real Time and RTI.",
+      "id": "s52"
+    },
+    {
+      "text": "The applicant claims to have suffered loss and damage as a result of the respondent's wrongful conduct.",
+      "id": "s53"
+    },
+    {
+      "text": "The particulars in the existing statement of claim are as follows: \n \n \"39.",
+      "id": "s54"
+    },
+    {
+      "text": "As a result of the respondents' wrongful conduct, Scantech has suffered loss and damage.",
+      "id": "s55"
+    },
+    {
+      "text": "Particulars of loss\n 39.1 Real Time and RTI have offered for sale, and have sold, the ASHSCAN in competition with Scantech's Coalscan Coal Analyser as a result of which Scantech has lost sales of its analysers;\n 39.2 The Ashscan Coal Analyser has unlawfully incorporated Scantech's developments and improvements of DUET Technology;\n 39.3 Scantech will supply particulars of its loss of sales of the Coalscan Coal Analyser after discovery of documents by the respondents.",
+      "id": "s56"
+    },
+    {
+      "text": "RTI and/or Real Time have earned profits by the use of Scantech's Confidential Information in the design, manufacture and sale of the Ashscan Coal Analyser.",
+      "id": "s57"
+    },
+    {
+      "text": "RTI and/or Real Time have earned profits by the use of Scantech's Confidential Information in the provision of the supply, maintenance and support services for Scantech's Coalscan Analyser as referred to in paragraph 37.4 above.",
+      "id": "s58"
+    },
+    {
+      "text": "\"\n The applicant claims various declarations and injunctions.",
+      "id": "s59"
+    },
+    {
+      "text": "It also claims damages or an account of profits.",
+      "id": "s60"
+    },
+    {
+      "text": "The new allegations and causes of action\n The proposed amendments introduce new allegations and causes of action.",
+      "id": "s61"
+    },
+    {
+      "text": "I will summarise them briefly.",
+      "id": "s62"
+    },
+    {
+      "text": "The proposed amendments introduce an allegation that RTI was also a servicer of coal analysers.",
+      "id": "s63"
+    },
+    {
+      "text": "They also make it clear that the applicant complains about the misuse of not only confidential information, but also information it claims was its property.",
+      "id": "s64"
+    },
+    {
+      "text": "The proposed amendments plead more clearly the conduct of Mr Asbury, Real Time and RTI which founds the causes of action alleged against them.",
+      "id": "s65"
+    },
+    {
+      "text": "It may be summarised as follows: \n(1) The improper use of the applicant's information in the development and manufacture of the respondents' Ashscan coal analyser and manufacture and sale of that analyser in competition with the applicant's Coalscan coal analyser.",
+      "id": "s66"
+    },
+    {
+      "text": "(2) The manufacture, sale and installation of an electronics retrofit kit (\"retrofit kit\") by Real Time and RTI.",
+      "id": "s67"
+    },
+    {
+      "text": "A retrofit kit is installed in a coal analyser.",
+      "id": "s68"
+    },
+    {
+      "text": "The applicant alleges that Real Time and RTI installed retrofit kits in the applicant's Coalscan coal analysers.",
+      "id": "s69"
+    },
+    {
+      "text": "The applicant alleges that the retrofit kit cannot be designed and installed without access to its information, including its confidential information.",
+      "id": "s70"
+    },
+    {
+      "text": "Furthermore, the retrofit kits installed by the respondents affected adversely the applicant's Coalscan coal analyser.",
+      "id": "s71"
+    },
+    {
+      "text": "The allegations in (1) are in the existing statement of claim.",
+      "id": "s72"
+    },
+    {
+      "text": "The allegations in (2) are new.",
+      "id": "s73"
+    },
+    {
+      "text": "The conduct in (2) is alleged to have infringed the applicant's rights in a number of ways, namely the improper use of the applicant's information by Mr Asbury and representations by RTI (with which Mr Asbury is said to be knowingly concerned or to have induced or to have aided, abetted, counselled or procured) about its authority to service Coalscan coal analysers and the quality of the services provided.",
+      "id": "s74"
+    },
+    {
+      "text": "By making the representations, RTI is alleged to have contravened ss 52 (misleading or deceptive conduct), 53(aa) (falsely representing services of a particular standard, quality, value or grade) and s 53(ea) (false or misleading representations concerning availability of services for the repair of goods or of spare parts for goods).",
+      "id": "s75"
+    },
+    {
+      "text": "The proposed amendments plead the loss and damage and the loss of profits alleged by the applicant in the following way: \n \n \"LOSS AND DAMAGE \n \n As a result of the contraventions pleaded in paragraphs [32] to [34] to [38] and [45] herein, Scantech and Scantech International have suffered loss and damage.",
+      "id": "s76"
+    },
+    {
+      "text": "Particulars \n 47.1 RTI has offered for sale, and has sold, the Ashscan in competition with Scantech's Coalscan Coal Analyser as a result of which Scantech has lost sales of its analysers.",
+      "id": "s77"
+    },
+    {
+      "text": "47.2 Scantech and Scantech International have lost the opportunity to charge to Asbury and/or RTI a royalty fee in respect of the use of Scantech's Information and Scantech's Confidential Information in relation to both the Ashscan and the retrofit kit.",
+      "id": "s78"
+    },
+    {
+      "text": "47.3 By virtue of RTI's activities in purporting to service Coalscan Analysers:\n 47.3.1 Scantech has lost and in the future stands to lose goodwill in the marketplace by virtue of the retrofitting of its branded products with inferior electronic components; and\n 47.3.2 Scantech has lost revenue from service, repair and maintenance services it might otherwise have been able to perform in relation to Coalscan customers affected by RTI's activities.",
+      "id": "s79"
+    },
+    {
+      "text": "PROFIT \n \n Further and in the alternative, RTI has earned profits by reason of the contraventions pleaded in paragraphs [32], [34], [38] and [45] herein and is liable to account to Scantech and Scantech International in respect of such profits.",
+      "id": "s80"
+    },
+    {
+      "text": "\"\n A comparison between these paragraphs and paragraphs 39-41 of the existing Statement of Claim (set out in [15] above) leads to the conclusion that the principal effect of the proposed amendments is to introduce a number of allegations relating to the manufacture, sale and installation of the retrofit kit.",
+      "id": "s81"
+    },
+    {
+      "text": "The application for leave to amend\n The applicant sought pre-action discovery in the Supreme Court before commencing the proceeding.",
+      "id": "s82"
+    },
+    {
+      "text": "It obtained access to an Ashscan coal analyser, hardware, software and drawings.",
+      "id": "s83"
+    },
+    {
+      "text": "It commenced the proceeding in this Court on 4 July 2008.",
+      "id": "s84"
+    },
+    {
+      "text": "At that time it had experts' reports from the applicant.",
+      "id": "s85"
+    },
+    {
+      "text": "Those reports were reports of Dr Sowerby.",
+      "id": "s86"
+    },
+    {
+      "text": "Various interlocutory orders were made at directions hearings held in the proceeding.",
+      "id": "s87"
+    },
+    {
+      "text": "They related to the filing of pleadings, discovery, non-expert affidavits and the respondents' expert evidence.",
+      "id": "s88"
+    },
+    {
+      "text": "The applicant did not comply with an order about filing non-expert affidavits and this led the respondents to issue a notice of motion seeking the dismissal of the proceeding under O 35A r 3(1) of the Federal Court Rules .",
+      "id": "s89"
+    },
+    {
+      "text": "The respondents' notice of motion is dated 24 June 2009.",
+      "id": "s90"
+    },
+    {
+      "text": "The proceeding came before me on 26 June 2009 and, on that day, I made the following orders, relevantly: \n \n \"1.",
+      "id": "s91"
+    },
+    {
+      "text": "The Notice of Motion filed on behalf of the First and Fifth Respondents and dated 24 June 2009 be adjourned for mention to 13 August 2009 at 9.15 am.",
+      "id": "s92"
+    },
+    {
+      "text": "... \n \n The Applicants have leave to file a Further Amended Statement of Claim and any Further Amended Statement of Claim is to be filed and served by 24 July 2009.",
+      "id": "s93"
+    },
+    {
+      "text": "\" On 26 June 2009, the following exchange took place between the Court and counsel for the applicant (Ms Charlesworth) and then counsel for the respondents (Mr Harris QC): \n \n \"HIS HONOUR: Yes, why do you need to amend your statement of claim?",
+      "id": "s94"
+    },
+    {
+      "text": "MS CHARLESWORTH: There are two reasons for that.",
+      "id": "s95"
+    },
+    {
+      "text": "First, there are some nuts and bolts amendments going to the discontinuance against the second and third respondents.",
+      "id": "s96"
+    },
+    {
+      "text": "There has been a request for better particulars that the applicants insist remains properly addressed, but the claim can be better phrased.",
+      "id": "s97"
+    },
+    {
+      "text": "So there are some typographical and phrasing issues in the claim that can be improved.",
+      "id": "s98"
+    },
+    {
+      "text": "There are, however, some substantive amendments that the applicants propose to make.",
+      "id": "s99"
+    },
+    {
+      "text": "And I've foreshadowed that such amendments might be made to my learned friend, and I understand that his consent to these orders is subject to the objections they might then make to deficiencies or any other consequences of those substantive amendments.",
+      "id": "s100"
+    },
+    {
+      "text": "So general leave is sought in paragraph 3.",
+      "id": "s101"
+    },
+    {
+      "text": "...\n MR HARRIS: Your Honour, our attitude is essentially a pragmatic one, and that is that it was likely that a time would be sought to address the notice of motion that was before you today.",
+      "id": "s102"
+    },
+    {
+      "text": "The time that is sought to actually comply with the order, which is ultimately what we want, is a timeline in July.",
+      "id": "s103"
+    },
+    {
+      "text": "So we're talking three weeks.",
+      "id": "s104"
+    },
+    {
+      "text": "So our attitude, as I said, is essentially a pragmatic one.",
+      "id": "s105"
+    },
+    {
+      "text": "We would like to keep the notice of motion alive in the event that there is non-compliance from here to the ordered dates, but it's on that basis that we are prepared to agree to it being stood over.",
+      "id": "s106"
+    },
+    {
+      "text": "On the question of general leave, which is order 3, our attitude is essentially this, the parties have still been exchanging correspondence as recently as 15 June on particulars, that is, the particulars of the statement of claim, and there has been a response made at that time by the applicants which we are still considering.",
+      "id": "s107"
+    },
+    {
+      "text": "What we would have in mind is providing a response to the applicants' solicitors as to whether or not we think the current statement of claim still needs additional particularity within the next short time, and that can be taken up or not taken up as the applicant sees fit in the proposed amended pleading.",
+      "id": "s108"
+    },
+    {
+      "text": "I am always a little nervous about general leave to amend to the applicant at this stage of the proceedings, but, at the end of the day, the important thing is to get the issues crystallised.",
+      "id": "s109"
+    },
+    {
+      "text": "So I have the qualification that if the landscape dramatically changes from what we are presently looking at, I might be heard to complain when we're back before your Honour next, because it may have consequences on the other orders that are already in place.",
+      "id": "s110"
+    },
+    {
+      "text": "But subject to that \n \n\n \n \n HIS HONOUR: Well, it's almost as indefinite a qualification as the leave given is indefinite, Mr Harris.",
+      "id": "s111"
+    },
+    {
+      "text": "I mean, if I give leave to bring in a further amended statement of claim, I will note what Ms Charlesworth has said and I can then, if you like, give effect to that by giving you, if it goes further than what's contemplated, additional time and so on, but I don't think I can then say afterwards, \"Cut down the form of the leave.",
+      "id": "s112"
+    },
+    {
+      "text": "\" It either needs to be done now or not at all.",
+      "id": "s113"
+    },
+    {
+      "text": "MR HARRIS: And I'm not expecting that that could be so, your Honour \n \n\n \n \n HIS HONOUR: Yes.",
+      "id": "s114"
+    },
+    {
+      "text": "MR HARRIS: but it may have those downstream consequences, in terms of the other timetable.",
+      "id": "s115"
+    },
+    {
+      "text": "HIS HONOUR: Yes.",
+      "id": "s116"
+    },
+    {
+      "text": "MR HARRIS: We would rather have the applicant nail its colours to the mast \n \n\n \n \n HIS HONOUR: Yes.",
+      "id": "s117"
+    },
+    {
+      "text": "MR HARRIS: if the case is to go forward.",
+      "id": "s118"
+    },
+    {
+      "text": "\" \n \n\n The applicant did not file and serve a Further and Amended Statement of Claim by 24 July 2009.",
+      "id": "s119"
+    },
+    {
+      "text": "Instead, it filed a notice of motion dated that day and an affidavit to which the proposed Further Amended Statement of Claim was an annexure.",
+      "id": "s120"
+    },
+    {
+      "text": "As I understand it, the applicant did not wish to file the document until the issue of proper parties had been regularised by Court order.",
+      "id": "s121"
+    },
+    {
+      "text": "The applicant filed two non-expert affidavits on 24 July 2009.",
+      "id": "s122"
+    },
+    {
+      "text": "The first is from a Mr Kenneth Graham Smith sworn on 23 July 2009.",
+      "id": "s123"
+    },
+    {
+      "text": "He is the applicant's Chief Scientist.",
+      "id": "s124"
+    },
+    {
+      "text": "His affidavit is a long one but part of it deals with the retrofit kit.",
+      "id": "s125"
+    },
+    {
+      "text": "He saw a retrofit kit in a Coalscan coal analyser in a coal mine in Utah in the United States of America in May 2008.",
+      "id": "s126"
+    },
+    {
+      "text": "He gives evidence of the retrofit kit being a product of RTI and of it being sold in the United States and in Australia.",
+      "id": "s127"
+    },
+    {
+      "text": "He then states the following: \n \n \"By virtue of my experience as Scantech's Chief Scientist, I am aware that for the Retro-fit kit to function as a replacement electronics unit for the 3500 and 2500 Coalscan analysers it will necessarily have to be completely compatible with all of Scantech's operating protocols that were applied in those analysers and implement the same methodologies that are employed, particularly those for Dead time correction, Compton scatter correction and standardisation that are referred to in paragraphs 41.2, 41.3 and 41.4 above.",
+      "id": "s128"
+    },
+    {
+      "text": "The implementation of these methodologies requires knowledge of Scantech's confidential information and is an inescapable consequence of the dual source/single detector configuration of the Scantech instrument.",
+      "id": "s129"
+    },
+    {
+      "text": "The Retro-fit kit must necessarily also use the same protocols as the original Scantech instrument for interfacing with the coal plant's computer.",
+      "id": "s130"
+    },
+    {
+      "text": "\" \n \n\n The respondents claim that this is expert evidence.",
+      "id": "s131"
+    },
+    {
+      "text": "That is not an issue I propose to try and resolve on this application.",
+      "id": "s132"
+    },
+    {
+      "text": "It appears that the respondents made discovery in April 2009 and that there was nothing in the discovery relating to the retrofit kit.",
+      "id": "s133"
+    },
+    {
+      "text": "Mr Smith's affidavit was delayed because he needed an opportunity to review the discovered documents.",
+      "id": "s134"
+    },
+    {
+      "text": "He was overseas on duties related to his employment from 24 April 2009 to about mid-July 2009.",
+      "id": "s135"
+    },
+    {
+      "text": "The second affidavit is from a Mr David John Lindiberg who is the applicant's Managing Director.",
+      "id": "s136"
+    },
+    {
+      "text": "The applicant's primary argument is that it simply needed an extension of time to file the Further Amended Statement of Claim.",
+      "id": "s137"
+    },
+    {
+      "text": "In the alternative, if the question of leave is to be considered afresh, the applicant submits that leave should be granted.",
+      "id": "s138"
+    },
+    {
+      "text": "The amendments are arguable and they are closely related or linked to the existing allegations.",
+      "id": "s139"
+    },
+    {
+      "text": "Any prejudice to the respondents can be cured by an order for costs.",
+      "id": "s140"
+    },
+    {
+      "text": "The respondents submit that the amendments go well beyond what they contemplated by the leave granted on 26 June 2009 and that leave should be revoked.",
+      "id": "s141"
+    },
+    {
+      "text": "They point to the fact that they did not contemplate further expert evidence in chief from the applicant.",
+      "id": "s142"
+    },
+    {
+      "text": "The respondents correctly point to the fact that the applicant now seeks to put forward further expert evidence in chief.",
+      "id": "s143"
+    },
+    {
+      "text": "The respondents submit, that if the amendments are allowed, the timetable will be put back and that that will lead to considerable delay and additional expense.",
+      "id": "s144"
+    },
+    {
+      "text": "The respondents submit that that should not be permitted where there is no adequate explanation as to why the allegations concerning the retrofit kit were not raised shortly after Mr Smith saw such a kit in May 2008.",
+      "id": "s145"
+    },
+    {
+      "text": "The applicant should not be permitted to amend the statement of claim at this stage without an adequate explanation as to why the allegations were not raised earlier.",
+      "id": "s146"
+    },
+    {
+      "text": "I have decided that the amendments should be allowed irrespective of the leave granted on 26 June 2009.",
+      "id": "s147"
+    },
+    {
+      "text": "In the circumstances, I do not need to consider the scope of that leave or whether it should be revoked.",
+      "id": "s148"
+    },
+    {
+      "text": "O 13 r 2(1) and (2) of the Federal Court Rules are as follows: \n \n \"(1) Subject to the following provisions of this rule, the Court may, at any stage of any proceeding, order that any document in the proceeding be amended, or that any party have leave to amend any document in the proceeding, in either case in such manner as the Court thinks fit.",
+      "id": "s149"
+    },
+    {
+      "text": "(2) All necessary amendments shall be made for the purpose of determining the real questions raised by or otherwise depending on the proceeding, or of correcting any defect or error in any proceeding, or of avoiding multiplicity of proceedings.",
+      "id": "s150"
+    },
+    {
+      "text": "\" \n \n\n Order 13 r 2(1) uses the word may , whereas O 13 r 2(2) uses the word shall , although r 2(2) also refers to necessary amendments.",
+      "id": "s151"
+    },
+    {
+      "text": "The applicant's submissions proceeded on the basis that there was a general discretion to allow or disallow the proposed amendments.",
+      "id": "s152"
+    },
+    {
+      "text": "That suggests reliance on O 13 r 2(1).",
+      "id": "s153"
+    },
+    {
+      "text": "There were no detailed submissions from counsel about the differences between O 13 r 2(1) and O 13 r 2(2).",
+      "id": "s154"
+    },
+    {
+      "text": "Counsel for the applicant made passing reference to the need to avoid a multiplicity of proceedings.",
+      "id": "s155"
+    },
+    {
+      "text": "He submitted that, subject to Anshun principles ( Port of Melbourne Authority v Anshun Pty Ltd [1981] HCA 45 ; (1981) 147 CLR 589 (\" Anshun \")), the proposed amendments should be allowed to avoid a multiplicity of proceedings.",
+      "id": "s156"
+    },
+    {
+      "text": "There are difficulties with that submission and they were not addressed in submissions by either the applicant or the respondents.",
+      "id": "s157"
+    },
+    {
+      "text": "It seems to me that it would be a surprising construction of O 13 r 2(2) to give it the effect that a party has a right to amend at any stage unless it can be said that Anshun principles preclude a further proceeding.",
+      "id": "s158"
+    },
+    {
+      "text": "Even if this is the correct construction of the sub-rule, there seem to me some possible difficulties in applying the Anshun principles on an application to amend.",
+      "id": "s159"
+    },
+    {
+      "text": "In AON Risk Services Australia Limited v Australian National University [2009] HCA 27 ; (2009) 83 ALJR 951 (\"AON\"), the High Court addressed a rule (r 501 Court Procedure Rules 2006 (ACT)) in similar terms to O 13 r 2(2) and some of these difficulties (at [32]-[34] per French CJ; at [86]-[88] per Gummow, Hayne, Crennan, Kiefel and Bell JJ).",
+      "id": "s160"
+    },
+    {
+      "text": "In the absence of detailed submissions about the operation of O 13 r 2(2) and the way in which the matter was argued, I will consider the application for leave to amend under O 13 r 2(1).",
+      "id": "s161"
+    },
+    {
+      "text": "The High Court considered the scope of a similar rule (r 502) in AON .",
+      "id": "s162"
+    },
+    {
+      "text": "The Court Procedure Rules 2006 (ACT) also included r 21 which was in the following terms: \n \n \"(1) The purpose of this chapter, and the other provisions of these rules in their application to civil proceedings, is to facilitate the just resolution of the real issues in civil proceedings with minimum delay and expense.",
+      "id": "s163"
+    },
+    {
+      "text": "(2) Accordingly, these rules are to be applied by the courts in civil proceedings with the objective of achieving --- \n (a) the just resolution of the real issues in the proceedings; and\n (b) the timely disposal of the proceedings, and all other proceedings in the court, at a cost affordable by the respective parties.",
+      "id": "s164"
+    },
+    {
+      "text": "(3) The parties to a civil proceeding must help the court to achieve the objectives.",
+      "id": "s165"
+    },
+    {
+      "text": "(4) The court may impose appropriate sanctions if a party does not comply with these rules or an order of the court.",
+      "id": "s166"
+    },
+    {
+      "text": "\" \n \n\n In his reasons for judgment, French CJ said that the efficient use of public resources was a relevant consideration in the exercise of the discretion in r 502 and its equivalents ([24], [27]).",
+      "id": "s167"
+    },
+    {
+      "text": "Justices Gummow, Hayne, Crennan, Kiefel and Bell dealt with r 502 and r 21 together, but their Honours' reasons (at [92]) suggest that they considered that the objectives specified in r 21 and the principles of case management were, in any event, an accepted aspect of the system of civil justice administered by courts in Australia.",
+      "id": "s168"
+    },
+    {
+      "text": "Their Honours said (at [102]-[103]): \n \n \"The objectives stated in r 21 do not require that every application for amendment should be refused because it involves the waste of some costs and some degree of delay, as it inevitably will.",
+      "id": "s169"
+    },
+    {
+      "text": "Factors such as the nature and importance of the amendment to the party applying cannot be overlooked.",
+      "id": "s170"
+    },
+    {
+      "text": "Whilst r 21 assumes some ill effects will flow from the fact of a delay, that will not prevent the parties dealing with its particular effects in their case in more detail.",
+      "id": "s171"
+    },
+    {
+      "text": "It is the extent of the delay and the costs associated with it, together with the prejudice which might reasonably be assumed to follow and that which is shown, which are to be weighed against the grant of permission to a party to alter its case.",
+      "id": "s172"
+    },
+    {
+      "text": "Much may depend upon the point the litigation has reached relative to a trial when the application to amend is made.",
+      "id": "s173"
+    },
+    {
+      "text": "There may be cases where it may properly be concluded that a party has had sufficient opportunity to plead their case and that it is too late for a further amendment, having regard to the other party and other litigants awaiting trial dates.",
+      "id": "s174"
+    },
+    {
+      "text": "Rule 21 makes it plain that the extent and the effect of delay and costs are to be regarded as important considerations in the exercise of the court's discretion.",
+      "id": "s175"
+    },
+    {
+      "text": "Invariably the exercise of that discretion will require an explanation to be given where there is delay in applying for amendment.",
+      "id": "s176"
+    },
+    {
+      "text": "The fact that an explanation had been offered for the delay in raising the defence was regarded as a relevant consideration in J L Holdings .",
+      "id": "s177"
+    },
+    {
+      "text": "Generally speaking, where a discretion is sought to be exercised in favour of one party, and to the disadvantage of another, an explanation will be called for.",
+      "id": "s178"
+    },
+    {
+      "text": "The importance attached by r 21 to the factor of delay will require that, in most cases where it is present, a party should explain it.",
+      "id": "s179"
+    },
+    {
+      "text": "Not only will they need to show that their application is brought in good faith, but they will also need to bring the circumstances giving rise to the amendment to the court's attention, so that they may be weighed against the effects of any delay and the objectives of the Rules.",
+      "id": "s180"
+    },
+    {
+      "text": "There can be no doubt that an explanation was required in this case.",
+      "id": "s181"
+    },
+    {
+      "text": "\" (Citation omitted.",
+      "id": "s182"
+    },
+    {
+      "text": ") \n \n\n The explanation for the delay in bringing forward the amendments in relation to the retrofit kit is not entirely clear.",
+      "id": "s183"
+    },
+    {
+      "text": "However, there is no reason to think that there was a tactical reason for not bringing them forward earlier.",
+      "id": "s184"
+    },
+    {
+      "text": "The most likely explanation is that the significance of the evidence about the retrofit kit was not appreciated by the applicant's officers or by the pleader.",
+      "id": "s185"
+    },
+    {
+      "text": "It was only when the evidence had to be reduced to writing and filed with the Court that minds were focused.",
+      "id": "s186"
+    },
+    {
+      "text": "The fact that the timetable will be put back if the amendments are allowed is significant.",
+      "id": "s187"
+    },
+    {
+      "text": "That results in further delay and additional expense and, from the respondents' point of view, the worry of unresolved litigation.",
+      "id": "s188"
+    },
+    {
+      "text": "On the other hand, no trial date has been fixed and the amendments are fairly arguable and closely linked to the existing allegations.",
+      "id": "s189"
+    },
+    {
+      "text": "At least some of the prejudice to the respondents can be remedied by an order for costs.",
+      "id": "s190"
+    },
+    {
+      "text": "On balance, I think the amendments should be allowed.",
+      "id": "s191"
+    },
+    {
+      "text": "The application for an order as to separate questions\n The Court's power to order that separate questions be decided is contained in O 29 r 2 of the Federal Court Rules .",
+      "id": "s192"
+    },
+    {
+      "text": "The applicant seeks an order that \"the issue of liability is to be tried separately from the issues of damages and all other remedies\".",
+      "id": "s193"
+    },
+    {
+      "text": "It is not entirely clear to me what effect such an order would have in relation to the claims for declarations and injunctions with respect to breaches or contraventions of the Corporations Act and the TPA.",
+      "id": "s194"
+    },
+    {
+      "text": "However, I do not need to pursue this because I think the order should be refused on more general grounds.",
+      "id": "s195"
+    },
+    {
+      "text": "I was referred to a number of authorities, but I do not need to go through them in detail.",
+      "id": "s196"
+    },
+    {
+      "text": "The general principles are well known.",
+      "id": "s197"
+    },
+    {
+      "text": "They are summarised by Branson J in Reading Australia Pty Ltd v Australian Mutual Provident Society (1999) 217 ALR 495 ; [1999] FCA 718 at [6] - [9] .",
+      "id": "s198"
+    },
+    {
+      "text": "They were applied by Kenny J in Fleming's Nurseries Pty Ltd v Hannaford [2008] FCA 591.",
+      "id": "s199"
+    },
+    {
+      "text": "Orders separating liability from damages or an account of profits are often made in intellectual property cases.",
+      "id": "s200"
+    },
+    {
+      "text": "In Liberty Financial Pty Ltd v Scott [2003] FCA 226 at [40] , Weinberg J expressed the view that intellectual property cases, or at least intellectual property cases other than patent cases, should be treated no differently from other commercial cases.",
+      "id": "s201"
+    },
+    {
+      "text": "I do not need to enter that debate because this is not an intellectual property case.",
+      "id": "s202"
+    },
+    {
+      "text": "The claims made by the applicant include claims made under the Corporations Act and the TPA.",
+      "id": "s203"
+    },
+    {
+      "text": "In any event, there is no fixed and invariable rule that an order for the determination of separate questions will be made in intellectual property cases.",
+      "id": "s204"
+    },
+    {
+      "text": "In my opinion, an order that the issue of liability be tried separately should not be made for the following reasons.",
+      "id": "s205"
+    },
+    {
+      "text": "First, the applicant ought to have made the application before orders were made for discovery or the filing of evidence.",
+      "id": "s206"
+    },
+    {
+      "text": "One of the advantages of an order for the determination of separate questions is that it may avoid the costs associated with the preparation of material relating to damages and other relief.",
+      "id": "s207"
+    },
+    {
+      "text": "Whether the applicant has complied with the orders and made discovery and filed its evidence in relation to damages is beside the point.",
+      "id": "s208"
+    },
+    {
+      "text": "I do not think the applicant can rely on its own non-compliance with general orders of the Court.",
+      "id": "s209"
+    },
+    {
+      "text": "Secondly, the order I propose to make allowing the amendments will result in further delay in any event in that the parties will need time to assemble expert evidence with respect to the retro-fit kit.",
+      "id": "s210"
+    },
+    {
+      "text": "Therefore, an order for the separate hearing and determination of liability would not result in a speedy trial because of the applicant's relatively late application to amend.",
+      "id": "s211"
+    },
+    {
+      "text": "The parties can put their cases together on damages and other relief at the same time as they are gathering their further expert evidence.",
+      "id": "s212"
+    },
+    {
+      "text": "Thirdly, although it is difficult to be certain, I am not satisfied that some witnesses relevant to liability may not also be witnesses with respect to quantum.",
+      "id": "s213"
+    },
+    {
+      "text": "It is at least possible that officers of the applicant or the experts or both may be required to give evidence with respect to both liability and damages or other relief.",
+      "id": "s214"
+    },
+    {
+      "text": "Fourthly, there is no suggestion either way as to whether the case is likely to settle after a separate determination of liability.",
+      "id": "s215"
+    },
+    {
+      "text": "Finally, the applicant submits that if it claims damages it may do so by reference to lost royalty.",
+      "id": "s216"
+    },
+    {
+      "text": "It submits that the quantum of royalty may depend on the extent to which information is found to be confidential.",
+      "id": "s217"
+    },
+    {
+      "text": "The applicant can only be sure of that after a trial and determination of the issue of liability.",
+      "id": "s218"
+    },
+    {
+      "text": "I reject this submission.",
+      "id": "s219"
+    },
+    {
+      "text": "I am not persuaded that experts cannot prepare reports based on different assumptions as to the information which is confidential, or that it would be unduly burdensome to require them to do so.",
+      "id": "s220"
+    },
+    {
+      "text": "Conclusions\n The applicant's application to amend will be allowed.",
+      "id": "s221"
+    },
+    {
+      "text": "The applicant's application for an order that the issue of liability be determined separately is rejected.",
+      "id": "s222"
+    },
+    {
+      "text": "I will give the parties the opportunity to prepare minutes of order reflecting these conclusions.",
+      "id": "s223"
+    },
+    {
+      "text": "I certify that the preceding forty-eight (48) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Besanko.",
+      "id": "s224"
+    },
+    {
+      "text": "Associate:\n \n \nDated: 11 December 2009\n \n Counsel for the Applicant: Mr I C Robertson SC with Ms N Charlesworth \n \n Solicitor for the Applicant: Kain Corporate &amp; Commercial \n \n Counsel for the Respondents: Mr A R Harris QC \n \n Solicitor for the Respondents: DLA Phillips Fox \n Date of Hearing: 25 September 2009 \n \n Date of Judgment: 11 December 2009 \n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2009/1480.html",
+      "id": "s225"
+    }
+  ]
+}

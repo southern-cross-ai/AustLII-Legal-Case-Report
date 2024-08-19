@@ -1,0 +1,568 @@
+{
+  "name": "Abrahams v Comcare [2006] FCA 1829 (6 December 2006)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2006/1829.html",
+  "catchphrases": [
+    {
+      "text": "judicial review",
+      "id": "c0"
+    },
+    {
+      "text": "grounds of review",
+      "id": "c1"
+    },
+    {
+      "text": "whether administrative appeals tribunal has jurisdiction to consider reformulated claim as to employment injury",
+      "id": "c2"
+    },
+    {
+      "text": "whether proposed reformulation of claim vexatious",
+      "id": "c3"
+    },
+    {
+      "text": "administrative law",
+      "id": "c4"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "HIS HONOUR: \n \n1 This is an unfortunate case.",
+      "id": "s0"
+    },
+    {
+      "text": "2 The applicant who appeals on questions of law from the decision of the Administrative Appeals Tribunal ('the Tribunal') is a Commonwealth public servant who has worked for the Commonwealth since 1994, apparently in a clerical capacity.",
+      "id": "s1"
+    },
+    {
+      "text": "He was first employed in what was the Commonwealth Employment Service and then subsequently with its successor known as Centrelink from 1998.",
+      "id": "s2"
+    },
+    {
+      "text": "At some point in 2001, said by the Tribunal to have been January 2001, he first experienced pain in his right arm, which he associated with his keyboard duties at work.",
+      "id": "s3"
+    },
+    {
+      "text": "On 5 June 2001 he lodged a claim with the respondent under the Safety, Rehabilitation and Compensation Act 1988 (Cth) ('the Act'), for compensation in respect of his right arm condition, which he described as: 'overuse injury affecting the right arm'.",
+      "id": "s4"
+    },
+    {
+      "text": "3 Comcare accepted liability for particular named conditions of the right upper arm, shoulder, elbow and forearm, as well as of the neck.",
+      "id": "s5"
+    },
+    {
+      "text": "However Comcare decided that as of 19 February 2003 the applicant no longer suffered from compensable affects of his accepted injury.",
+      "id": "s6"
+    },
+    {
+      "text": "4 The applicant was diagnosed in mid-2003 as having right carpal tunnel syndrome.",
+      "id": "s7"
+    },
+    {
+      "text": "The medical reports contain varying histories of when he first had pain in the region of his right wrist and hand.",
+      "id": "s8"
+    },
+    {
+      "text": "However, in the claim for compensation furnished for the purposes of s 53 of the Act, and using a form prepared by Centrelink, the applicant gave the following information:\n \n '... Injury/Illness Information.",
+      "id": "s9"
+    },
+    {
+      "text": "13.",
+      "id": "s10"
+    },
+    {
+      "text": "A Medical Certificate must be attached before your claim for compensation can be considered \n \n \n \n \n \n What is the precise diagnosis as stated on your medical certificate?",
+      "id": "s11"
+    },
+    {
+      "text": "Right Carpal Tunnel Syndrome \n \n \n \n Note The medical certificate: \n \n \n * must be an original from a legal qualified medical practitioner (a General Practitioner or Medical Specialist, unless claiming solely for medical expenses from chiropractic or osteopathic treatment, in which case a medical certificate from the treating chiropractor or osteopath will be sufficient); \n * must state a precise diagnosis (certificates containing words such as \"medical condition\", \"back pain\", \"work related stress\" will not be accepted); \n *must state the relationship between the injury/illness and your employment; must certify any claimed periods of incapacity to work.",
+      "id": "s12"
+    },
+    {
+      "text": "14.",
+      "id": "s13"
+    },
+    {
+      "text": "When did your injury first happen or when did you first notice the illness?",
+      "id": "s14"
+    },
+    {
+      "text": "Date: 01.06.2002 Time: 08.30 \n \n \n \n 15(a) What date did you first have medical treatment for your injury/illness?",
+      "id": "s15"
+    },
+    {
+      "text": "06.06.2003 \n \n (b) What is the name of the doctor, medical practice or hospital who first treated your for your injury/illness?",
+      "id": "s16"
+    },
+    {
+      "text": "Dr A Viketos \n \n 16(a) Did your Doctor refer you for any diagnostic tests such as X rays pathology, ECG's; evaluation by a psychiatrist or psychologist; or referral to a specialist?",
+      "id": "s17"
+    },
+    {
+      "text": "Yes \n \n \n \n \n \n \n 16(b) If yes, provide the following: \n \n \n Nature of Referral \n Ultrasound of the Right Hand \n \n Name and Address of Doctor \n Canberra Imaging \n Calvary Hospital \n Bruce ACT \n \n 17(a) In your own words, describe the injury or illness as fully as you can (there is no need to use medical terminology) \n Right Carpal Tunnel Syndrome \n \n 17(b) What body part is affected (eg lower back) \n Right Hand and wrist \n \n 17(c) In your own words describe how this injury now affects you (eg: I'm unable to drive a motor vehicle\", \"I cannot sit for longer than 15 mins\") \n Causes pain and swelling in right hand and wrist when typing, is often inflamed around the hand without doing anything.",
+      "id": "s18"
+    },
+    {
+      "text": "Painful to lift/move objects with the right hand.",
+      "id": "s19"
+    },
+    {
+      "text": "Decrease in strength in hand.",
+      "id": "s20"
+    },
+    {
+      "text": "18(a) Have you ever had a similar injury of illness before, work related or otherwise (even if you think it is unrelated to this injury or illness)?",
+      "id": "s21"
+    },
+    {
+      "text": "Give approximate dates.",
+      "id": "s22"
+    },
+    {
+      "text": "No \n \n \n \n 18(b) What is the name of the doctor, medical practice or hospital who treated you at the time?",
+      "id": "s23"
+    },
+    {
+      "text": "19(a) Have you claimed for the injury(ies) or illness(es) described in questions 17 &amp; 18?",
+      "id": "s24"
+    },
+    {
+      "text": "What was the approximate date(s) of the claim(s) \n \n 19(b) Who was the claim with?",
+      "id": "s25"
+    },
+    {
+      "text": "19(c) Who were you working for at the time?",
+      "id": "s26"
+    },
+    {
+      "text": "20.",
+      "id": "s27"
+    },
+    {
+      "text": "The current injury/illness happened: \n \n \n Usual Workplace \n \n \n \n 21.",
+      "id": "s28"
+    },
+    {
+      "text": "What is the address or location where the injury/illness occurred?",
+      "id": "s29"
+    },
+    {
+      "text": "Centrelink Belconnen \n Level 1 Northpoint Plaza Belconnen ACT 2617 \n \n \n \n 22.",
+      "id": "s30"
+    },
+    {
+      "text": "What is the exact location, within the above address, where the injury/illness occurred?",
+      "id": "s31"
+    },
+    {
+      "text": "(eg: my desk, machine shop, fire stairs) \n \n \n Family Assistance Office \n \n \n \n ... \n \n 24.",
+      "id": "s32"
+    },
+    {
+      "text": "Describe in detail what events contributed to your injury/illness.",
+      "id": "s33"
+    },
+    {
+      "text": "If there was a sequence of events, we need to know: \n \n \n * what started the sequence of events \n * the sequence of events \n * the final result \n Keyboard work, in particular use of numerical keyboard \n \n \n \n 25.",
+      "id": "s34"
+    },
+    {
+      "text": "Fully describe any equipment or machinery involved in the injury/illness.",
+      "id": "s35"
+    },
+    {
+      "text": "Use of keyboard ' .",
+      "id": "s36"
+    },
+    {
+      "text": "(Solecisms preserved.",
+      "id": "s37"
+    },
+    {
+      "text": ") \n \n \n \n \n\n5 That claim was rejected by Comcare, and again internally by Comcare by a review officer.",
+      "id": "s38"
+    },
+    {
+      "text": "In relation to the second decision, the applicant sought administrative review by the Tribunal of the claim.",
+      "id": "s39"
+    },
+    {
+      "text": "The Tribunal said:\n \n 'The following features of this claim are important.",
+      "id": "s40"
+    },
+    {
+      "text": "&#8226; the part of the body claimed to have been affected was \"Right Hand and wrist\"; \n \n \n \n \n \n &#8226; the injury was said to have been sustained by \"keyboard work, in particular use of numerical keyboard\"; \n \n \n \n \n \n &#8226; the injury was said to have first happened or was first noticed on 1 June 2002; \n \n \n \n \n \n &#8226; the effect of the injury was said to be that it caused \"pain and swelling in the right hand and wrist when typing, is often inflamed around the hand without doing anything.",
+      "id": "s41"
+    },
+    {
+      "text": "Painful to lift/move objects with the right hand.",
+      "id": "s42"
+    },
+    {
+      "text": "Decrease in strength in hand\"; \n \n \n \n \n \n &#8226; Mr Abrahams answered \"no\" to the question \"have you ever had a similar injury or illness before, work related or otherwise (even if you think it is unrelated to this injury or illness)?",
+      "id": "s43"
+    },
+    {
+      "text": "\"; and \n \n \n \n \n \n &#8226; both medical reports in support of the application gave the diagnosis of carpal tunnel syndrome.",
+      "id": "s44"
+    },
+    {
+      "text": "' \n \n \n \n\n6 After the applicant approached the Tribunal, and as his case was further investigated for the purposes of the Tribunal hearing, more medical information came into his and his legal advisors' hands.",
+      "id": "s45"
+    },
+    {
+      "text": "In consequence, the legal advisors formed the view that it was no longer possible to sustain a diagnosis of carpal tunnel syndrome.",
+      "id": "s46"
+    },
+    {
+      "text": "Indeed, at least one of the doctors who had propounded that viewpoint apparently had resiled from it in the light of later medical information.",
+      "id": "s47"
+    },
+    {
+      "text": "7 The effect of the medical evidence available to the applicant, however, was that the applicant appeared truthfully and genuinely to be suffering from pain in the right upper limb.",
+      "id": "s48"
+    },
+    {
+      "text": "This had included pain in the wrist and the hand region, and a range of diagnoses by different doctors was proffered.",
+      "id": "s49"
+    },
+    {
+      "text": "It seems fair to summarise them as indicating that the applicant either had some physical injury, of an aetiology difficult to establish, or had genuine psychosomatic pain arising from an initial physical injury with pain therefrom, and a long course of medical treatment and investigation, some of it involving mildly invasive treatment such as steroid injections.",
+      "id": "s50"
+    },
+    {
+      "text": "8 Counsel for the applicant candidly told the Tribunal at the outset that the case would not be pressed on the basis of carpal tunnel syndrome, but would be pressed on the basis that the applicant's wrist complaints were but part of, and subsumed in, broader, ongoing and varying difficulties over virtually the entirety of his right upper limb, the right shoulder and neck, and even headaches.",
+      "id": "s51"
+    },
+    {
+      "text": "9 The Tribunal Member had the initial view that orderly processes of administration would be subverted if he proceeded to hear the claim thus recast.",
+      "id": "s52"
+    },
+    {
+      "text": "He felt that he should take the view that, if the applicant were now saying that the wrist condition claimed for could be accounted for by the occurrence, or progression, or exacerbation of the original accepted right upper arm and shoulder injury, then the appropriate course was to seek a review of the decision which had resolved that, from February 2003, Comcare was no longer liable.",
+      "id": "s53"
+    },
+    {
+      "text": "10 The Tribunal Member considered that this matter went to the Tribunal's jurisdiction.",
+      "id": "s54"
+    },
+    {
+      "text": "He said in his reasons for decision:\n \n '...",
+      "id": "s55"
+    },
+    {
+      "text": "I decided that the Tribunal did not have jurisdiction to deal with the issue now proposed on behalf of Mr Abrahams.",
+      "id": "s56"
+    },
+    {
+      "text": "I now provide the reasons for my decision.",
+      "id": "s57"
+    },
+    {
+      "text": "' \n\n\n \nThe Senior Member noted that the Act provides a three tier process of review:\n \n 'Section 69 provides for the determination of a claim, section 62 provides for reconsideration of a determination (which then becomes a \"reviewable decision\") and section 64 then gives the Tribunal power to review the \"reviewable decision\".",
+      "id": "s58"
+    },
+    {
+      "text": "The role of this Tribunal is to review a decision that has already been reviewed by the two levels, two previous levels, of decision-maker.",
+      "id": "s59"
+    },
+    {
+      "text": "' (References omitted.",
+      "id": "s60"
+    },
+    {
+      "text": ") \n\n\n \n11 The Tribunal Member referred to the discussion of the Tribunal's jurisdiction by the Full Court in Lees v Comcare (1999) 56 ALD 84, which contained the observation (at [39]) that although the Tribunal has the powers of the original decision-maker under s 43(1) of the Administrative Appeals Tribunal Act 1975 (Cth), they are:\n \n 'powers \"[f]or the purpose of reviewing\" the reviewable decision, not powers that may be exercised at large.",
+      "id": "s61"
+    },
+    {
+      "text": "Further, the powers and discretions that the [Tribunal] may exercise under s 43(1) are the powers and discretions conferred by the Act on the determining authority for the purposes of reconsidering a determination under s 62 of the Act.",
+      "id": "s62"
+    },
+    {
+      "text": "The [Tribunal] will not be authorised on review of a reviewable decision to exercise any powers and decisions which would not have been available to the determining authority at the second tier decision-making stage, albeit that such powers and discretions might have been available to the determining authority at the first tier decision-making stage.",
+      "id": "s63"
+    },
+    {
+      "text": "' \n\n\n \n12 In Telstra Corporation Ltd v Hannaford [2006] FCAFC 87 ; (2006) 90 ALD 263, Lees was affirmed.",
+      "id": "s64"
+    },
+    {
+      "text": "In Hannaford the Court acknowledged (per Conti J at [57] with whom Heerey and Dowsett JJ agreed) that:\n \n 'The statutory scheme ... reflects a flexible scope for adjustment by way of decisions in the nature of awards to be made subsequently to the determination of s 14 liability, whether that determination be made in isolation or in the context of decision-making concerning consequential relief that may be required in the light of evolving circumstances.",
+      "id": "s65"
+    },
+    {
+      "text": "' \n\n\nHowever, the Tribunal Member thought that the Hannaford principle was distinguishable on the facts in that, in the present case, the Tribunal was being urged to make a finding that:\n \n 'even though Mr Abrahams has not suffered the injury claimed, he has suffered another injury to the same limb.",
+      "id": "s66"
+    },
+    {
+      "text": "' \n\n\nThe Tribunal Member said:\n \n 'The decision before me is a decision to deny liability for the specific injury of carpal tunnel syndrome of the right wrist.",
+      "id": "s67"
+    },
+    {
+      "text": "This is a precise injury involving pressure on the median nerve as it passes under the ligament across the front of the wrist.",
+      "id": "s68"
+    },
+    {
+      "text": "The characteristic symptom of this injury is pain and tingling in the first three or four fingers of the hand.",
+      "id": "s69"
+    },
+    {
+      "text": "' (References omitted.",
+      "id": "s70"
+    },
+    {
+      "text": "Original emphasis.",
+      "id": "s71"
+    },
+    {
+      "text": ") \n\n\nThis was information which the Tribunal Member obtained from a medical dictionary.",
+      "id": "s72"
+    },
+    {
+      "text": "13 He continued:\n \n 'Counsel now concedes that the decision to deny liability for carpal tunnel syndrome was correct but argues that the review officer had, and the Tribunal now has, the power to treat the application as one for compensation for an ongoing injury to the right arm in general.",
+      "id": "s73"
+    },
+    {
+      "text": "Counsel has argued that Mr Abrahams could have stated his injury in more general terms.",
+      "id": "s74"
+    },
+    {
+      "text": "This may be true but the inescapable fact is that he did not.",
+      "id": "s75"
+    },
+    {
+      "text": "Instead he chose to make a claim for a specific injury in support of his claim by medical reports which were equally specific.",
+      "id": "s76"
+    },
+    {
+      "text": "Correctly, in my view, Mr Abrahams claimed for an injury, not a list of symptoms.",
+      "id": "s77"
+    },
+    {
+      "text": "It is a decision rejecting liability for this injury which is before me for review and, ...",
+      "id": "s78"
+    },
+    {
+      "text": "I have all the powers of the decision-maker for all purposes related to the making of the decision.",
+      "id": "s79"
+    },
+    {
+      "text": "However, these powers do not include the power to treat the application as one for compensation for a different injury, even if that injury was one of which the decision-maker was aware.",
+      "id": "s80"
+    },
+    {
+      "text": "This is not a case of Comcare having refused to make a decision which the Tribunal can now properly make.",
+      "id": "s81"
+    },
+    {
+      "text": "Comcare dealt with the application made to it completely when it refused liability to compensate Mr Abrahams.",
+      "id": "s82"
+    },
+    {
+      "text": "...",
+      "id": "s83"
+    },
+    {
+      "text": "There is nothing to prevent Mr Abrahams seeking compensation for incapacity or treatment expenses for the injury to his right arm.",
+      "id": "s84"
+    },
+    {
+      "text": "Comcare has already accepted liability to compensate Mr Abrahams in respect of that injury.",
+      "id": "s85"
+    },
+    {
+      "text": "Counsel appears to be proposing that I should determine issues which should properly be determined on a claim based on the accepted compensable condition and in respect of which Comcare has not yet made a determination.",
+      "id": "s86"
+    },
+    {
+      "text": "This would be contrary to the three tier decision-making process.",
+      "id": "s87"
+    },
+    {
+      "text": "' (Original emphasis.",
+      "id": "s88"
+    },
+    {
+      "text": ") \n\n\nNotwithstanding that the Tribunal Member had originally said that he thought he had no jurisdiction to deal with the matter, he concluded:\n \n 'As there is no longer an issue as to the claimed injury of carpel tunnel syndrome I was satisfied that it would have been vexatious to allow Mr Abrahams to continue to have the matter heard on the basis argued by his Counsel.",
+      "id": "s89"
+    },
+    {
+      "text": "Whilst it was proper for Mr Abrahams to commence the application based on the medical advice then available to him, that advice has changed.",
+      "id": "s90"
+    },
+    {
+      "text": "An application which was properly made can become vexatious as a result of changed circumstances: Re Williams and Australian Electoral Commission (1995) 38 ALD 366.",
+      "id": "s91"
+    },
+    {
+      "text": "' \n\n\n \n14 The decision ultimately made was recorded as follows:\n \n 'Pursuant to s 42B(1) of the Administrative Appeals Tribunal Act 1975 the Tribunal was satisfied that the application for review of Comcare's decision made 6 September 2004 was vexatious and therefore dismissed the application.",
+      "id": "s92"
+    },
+    {
+      "text": "' \n\n\n \n15 Section 42B of the Act permits the Tribunal to dismiss applications if the Tribunal is satisfied that they are frivolous or vexatious.",
+      "id": "s93"
+    },
+    {
+      "text": "16 It seems to me that while, as a matter of generality, the principles stated by the Senior Member are correct, they have been, with respect, misapplied.",
+      "id": "s94"
+    },
+    {
+      "text": "The maker of the reviewable decision had the same powers in relation to the decision to be made as the original decision-maker, as had the Tribunal.",
+      "id": "s95"
+    },
+    {
+      "text": "There is certainly an orderly process of administration contemplated by the Act, and it includes, importantly, a requirement that a person may not claim for compensation unless he or she has given : 'notice in writing of the injury ... to the relevant authority ... as soon as practicable after the employee becomes aware of the injury ' per s 53(1)(a).",
+      "id": "s96"
+    },
+    {
+      "text": "17 There is no form of notice of injury legally prescribed.",
+      "id": "s97"
+    },
+    {
+      "text": "What is a 'notice of injury' complying with s 53 is, as Whitlam J noted in Frosch v Comcare [2004] FCA 1642 at [8] , a matter of law.",
+      "id": "s98"
+    },
+    {
+      "text": "18 The original decision-maker might conceivably have had many powers, the exercise of which may have been prompted by what he or she knew of the applicant's claim, without those powers being powers or discretions relevant to the exercise of the decision to be made.",
+      "id": "s99"
+    },
+    {
+      "text": "However, it seems to me that the Tribunal Member did not adequately appreciate or apply the following legal propositions, which I think are correct:\n \n \n 1.",
+      "id": "s100"
+    },
+    {
+      "text": "In construing a document purporting to be a notice of injury under the Act, a broad, generous and practical interpretation should be made, consistent with both the beneficial purposes of the Act and the likelihood that laypeople of differing levels of education, differing levels of medical advice and differing levels of legal advice (indeed in most cases they would not have any) will be giving the notice.",
+      "id": "s101"
+    },
+    {
+      "text": "2.",
+      "id": "s102"
+    },
+    {
+      "text": "In deciding what injury it is, as to which a claimant has given notice, the purposes of giving notice must be borne in mind.",
+      "id": "s103"
+    },
+    {
+      "text": "These are to enable Comcare, with the aid of the relevant employing agency, to determine whether the claim should be met.",
+      "id": "s104"
+    },
+    {
+      "text": "3.",
+      "id": "s105"
+    },
+    {
+      "text": "The powers of an original decision-maker would extend to regarding informal notice as having been given in amplification of a notice formally given.",
+      "id": "s106"
+    },
+    {
+      "text": "4.",
+      "id": "s107"
+    },
+    {
+      "text": "Those powers would further extend to enabling a consideration of a claim better explaining, or better justifying, a claim in respect of an injury in respect of which notice had been fairly given.",
+      "id": "s108"
+    },
+    {
+      "text": "5.",
+      "id": "s109"
+    },
+    {
+      "text": "There is not always a bright dividing line available to assist in the decision whether powers of the kinds mentioned are being exercised in aid of a better understanding of a claim made in respect of an injury of which notice has been given, or whether the changed notice is sufficiently fundamental as to indicate that a different injury is being asserted, which will require a different decision from a decision in respect of the originally claimed injury under consideration.",
+      "id": "s110"
+    },
+    {
+      "text": "In determining that matter, considerations of the purpose of giving notice of injury, and more generally of enabling the decision-maker to have a fair opportunity to investigate the claim properly, are paramount.",
+      "id": "s111"
+    },
+    {
+      "text": "19 While no legal criticism can be made of the Tribunal for declining to accept counsel's invitation to reconsider the matter entirely, since something new in 2002 was being propounded as the injury, it seems to me to have been over-technical, and to have been a legally impermissible mode of interpretation, to hold the applicant irretrievably to the use of what was plainly the then medical diagnosis which he had received.",
+      "id": "s112"
+    },
+    {
+      "text": "20 The claim form indicates that the diagnosis was right carpal tunnel syndrome.",
+      "id": "s113"
+    },
+    {
+      "text": "In the 'Report of injury or disease' (which apparently accompanied the claim for compensation), where the applicant answered the question: 'What injury/disease did you sustain?",
+      "id": "s114"
+    },
+    {
+      "text": "(Nature of injury):', were the words: 'Right Carpal Tunnel Syndrome'.",
+      "id": "s115"
+    },
+    {
+      "text": "In the context, it is clear that he was simply adopting the then medical diagnosis of his injury.",
+      "id": "s116"
+    },
+    {
+      "text": "It was nevertheless entirely clear that he was complaining in fact of pain, swelling and inflammation in the right hand and wrist associated with decreased ability to lift and move objects with his right hand and decreasing strength in the hand.",
+      "id": "s117"
+    },
+    {
+      "text": "21 Nothing is more common than that medical diagnoses change and evolve, or are or become various.",
+      "id": "s118"
+    },
+    {
+      "text": "In my opinion, to hold that the applicant was irretrievably asserting that he had a right carpal tunnel syndrome as the injury to his hand is to take an over-literal view of a document that, as I have indicated, should be beneficially, broadly and practically interpreted.",
+      "id": "s119"
+    },
+    {
+      "text": "22 As the applicant's counsel was at pains to say, and not shortly, there was abundant medical information to support a claim that would include, or could include, the proposition that he had suffered some further compensable injury in the period assigned in the notice of injury.",
+      "id": "s120"
+    },
+    {
+      "text": "He was, as counsel submitted, at least claiming a wrist injury occasioned in that period which had had consequences for medical expense and/or incapacity for him.",
+      "id": "s121"
+    },
+    {
+      "text": "23 It would have been open to the Tribunal to treat what counsel was saying as an informal application to amend the notice of injury, if need be, to allege an injury more broadly designated than as 'right carpal tunnel syndrome', or to change it from that designation, provided that the same symptoms, disability and timeframe were still being asserted.",
+      "id": "s122"
+    },
+    {
+      "text": "The Tribunal Member certainly had jurisdiction to consider such a claim, and it was legally erroneous to say that he had no jurisdiction further to embark on the matter.",
+      "id": "s123"
+    },
+    {
+      "text": "24 Second, there was at least a respectable argument for the point of view which I have upheld, and it was mistaken to think that it was so devoid of merit as to be able to be labelled vexatious.",
+      "id": "s124"
+    },
+    {
+      "text": "It is only when there is no reasonable prospect at all of success that a legal proceeding can properly be so termed.",
+      "id": "s125"
+    },
+    {
+      "text": "25 In the result, the appeal must be upheld and the matter remitted to the Tribunal further to consider the matter according to law and in accordance with these reasons.",
+      "id": "s126"
+    },
+    {
+      "text": "It will still be for the Tribunal to decide whether what has been sought to be litigated is in truth a claim for injury, broadly understood, to the right wrist, occurring in the limited time frame assigned to it in the notice of injury, in which case a proper exercise of the powers of the first instance decision-maker might well be to enable any material that is sought to be put on that subject to be put.",
+      "id": "s127"
+    },
+    {
+      "text": "26 If, however, it should emerge that in reality it is the injury formerly accepted by Comcare to have been sustained, and the sequelae of the original injury, and not what may have occurred at work in 2002, then it might well be a legally proper understanding of the powers of the first instance decision-maker to decline to deal with those claims in the vehicle here presented.",
+      "id": "s128"
+    },
+    {
+      "text": "Other means of having such a claim considered, or of having even a broader claim, basing injury, for example, on all keyboard activity by the applicant in his employment with the Commonwealth, exist.",
+      "id": "s129"
+    },
+    {
+      "text": "27 So far as the costs of these proceedings are concerned, while the proceedings may or may not have any practical result for the applicant, and one can but hope they might, the fact is that the applicant has succeeded in his challenge to the lawfulness of the Tribunal's decision.",
+      "id": "s130"
+    },
+    {
+      "text": "Although in a practical sense there is a good deal to be said for the concerns felt by the respondent, there is inadequate reason to depart from the usual rule.",
+      "id": "s131"
+    },
+    {
+      "text": "The respondent is to pay the applicant's costs of the proceedings.",
+      "id": "s132"
+    },
+    {
+      "text": "I certify that the preceding twenty-seven (27) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Madgwick.",
+      "id": "s133"
+    },
+    {
+      "text": "Associate:\n\nDated: 8 January 2007\n\n\n Counsel for the Applicant: A Anforth \n \n Solicitor for the Applicant: Capital Lawyers \n \n Counsel for the Respondent: L Walker \n \n Solicitor for the Respondent: Dibbs Abbott Stillman \n \n Date of Hearing: 6 December 2006 \n \n Date of Judgment: 6 December 2006 \n\n \n \n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2006/1829.html",
+      "id": "s134"
+    }
+  ]
+}

@@ -1,0 +1,648 @@
+{
+  "name": "Habib v Commonwealth of Australia [2008] FCA 489 (16 April 2008)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2008/489.html",
+  "catchphrases": [
+    {
+      "text": "federal court",
+      "id": "c0"
+    },
+    {
+      "text": "procedure and evidence",
+      "id": "c1"
+    },
+    {
+      "text": "determination of preliminary or separate issue",
+      "id": "c2"
+    },
+    {
+      "text": "effect on credibility of witness for purposes of determining remaining issues",
+      "id": "c3"
+    },
+    {
+      "text": "high court and federal court",
+      "id": "c4"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "HIS HONOUR: \n Introduction \n \n1 Mr Habib was at all material times an Australian citizen.",
+      "id": "s0"
+    },
+    {
+      "text": "In 2001 he held an Australian passport.",
+      "id": "s1"
+    },
+    {
+      "text": "In the aftermath of the New York atrocity of 11 September, 2001 (9/11), he was in Pakistan and suspected of activity in aid of persons supporting anti-Western terrorism.",
+      "id": "s2"
+    },
+    {
+      "text": "He was arrested by Pakistani authorities and detained by them on 4 October.",
+      "id": "s3"
+    },
+    {
+      "text": "Later that year he was taken to Egypt and detained there.",
+      "id": "s4"
+    },
+    {
+      "text": "By early 2002 he was detained in Afghanistan, apparently by officers of the United States of America.",
+      "id": "s5"
+    },
+    {
+      "text": "From about April or May 2002 until 27 January 2005 he was held by US forces at Guantanamo Bay in Cuba.",
+      "id": "s6"
+    },
+    {
+      "text": "He was then released and returned to Australia.",
+      "id": "s7"
+    },
+    {
+      "text": "2 He claims to have been wrongfully arrested and falsely imprisoned by the Pakistani, US and presumably Egyptian governments and to have been assaulted and tortured, in a number of ways.",
+      "id": "s8"
+    },
+    {
+      "text": "He claims that officers of the Australian government, with the authority of the government, were in various ways complicit in his maltreatment and/or took no or inadequate steps to prevent it when effective steps might have been taken to assist him.",
+      "id": "s9"
+    },
+    {
+      "text": "3 He sues on many causes of action including a species of negligence, asserting that the Australian government has a legally justiciable duty of care to its citizens abroad and in possession of an Australian passport to take all reasonable steps to ensure that when they are in the custody of foreign governments, they are treated lawfully, fairly and humanely, and that the Commonwealth failed to fulfil that duty to him.",
+      "id": "s10"
+    },
+    {
+      "text": "4 After the proceedings had been under way for some time, Mr Habib alleged that while in Islamabad he was taken on or about 24 October 2001 to the Australian High Commission where he met a man known to him as Alastar Adams, and whom he understood to be an agent of the Australian Security Intelligence Organisation (ASIO).",
+      "id": "s11"
+    },
+    {
+      "text": "Mr Habib claims that he had visible signs of beatings and that he told Adams of his kidnapping and other maltreatment and asked him for help.",
+      "id": "s12"
+    },
+    {
+      "text": "He also claims that on or about 26 October 2001 he was again taken to the High Commission and interrogated by US officers in Adams' presence.",
+      "id": "s13"
+    },
+    {
+      "text": "Adams, he says, also interrogated and threatened him.",
+      "id": "s14"
+    },
+    {
+      "text": "5 He also alleges that elsewhere in Pakistan on or about 29 October 2001, Adams was present at and complicit in further maltreatment of him and his abduction to Egypt.",
+      "id": "s15"
+    },
+    {
+      "text": "6 In the proceedings in this Court, the Commonwealth had attempted, one way and another, to have determined separately and early the question of whether there was a justiciable duty of care by the Commonwealth to its citizens as alleged, in order, if there were not, to narrow the factual issues in the case.",
+      "id": "s16"
+    },
+    {
+      "text": "That legal question is, at present, an open one: Hicks v Ruddock [2007] FCA 299 ; (2007) 156 FCR 574.",
+      "id": "s17"
+    },
+    {
+      "text": "In the course of interlocutory proceedings related to such procedural attempt by the Commonwealth, Mr Habib first made the allegation that he had actually been in the Australian High Commission to the knowledge of at least one Commonwealth officer, Mr Adams.",
+      "id": "s18"
+    },
+    {
+      "text": "Counsel for the Commonwealth then conceived, correctly as it appears to me, that such an allegation would bear strongly on whether the Commonwealth had a duty of care of the kind alleged.",
+      "id": "s19"
+    },
+    {
+      "text": "7 I was then persuaded, over the opposition of the applicant, to try the discrete question, whether Mr Habib had ever been at the Australian High Commission in Islamabad, separately pursuant to O 29 r 2 of the Federal Court Rules .",
+      "id": "s20"
+    },
+    {
+      "text": "As I indicated in the course of discussion with counsel, prima facie it seemed unlikely that any participation by an Australian officer in the maltreatment of Mr Habib, or turning of a blind eye to it, would have occurred at Australian diplomatic premises.",
+      "id": "s21"
+    },
+    {
+      "text": "Further, the circumstances alleged by Mr Habib as to how he came to believe and to assert late in the piece that he had been at the High Commission, viewed in the light of the bad treatment he says that he received in Pakistan, Egypt and at a US military base, made it unlikely that to decide the issue I would need to cast any reflection on Mr Habib's truthfulness or even general reliability, such as might prejudice or embarrass a manifestly unbiased trial of the other factual issues in the case.",
+      "id": "s22"
+    },
+    {
+      "text": "Because of my impending departure from the Court, the trial of other factual issues, and of the legal issues, in the case will be before (or as directed by) another judge.",
+      "id": "s23"
+    },
+    {
+      "text": "8 This is now my judgment on a final trial of the factual issue: was Mr Habib ever in the Australian High Commission in Islamabad before he was taken to Egypt?",
+      "id": "s24"
+    },
+    {
+      "text": "9 I have concluded that he was not, and I will so declare, for the reasons that follow.",
+      "id": "s25"
+    },
+    {
+      "text": "Islamabad \n \n10 Notoriously, Pakistan was then a poor country of well over 100 million people but with a considerable absolute number of quite wealthy people.",
+      "id": "s26"
+    },
+    {
+      "text": "Islamabad was the capital and in 2001 had a population in the order of one million people.",
+      "id": "s27"
+    },
+    {
+      "text": "The extent of Mr Habib's general knowledge of the buildings of Islamabad was not established.",
+      "id": "s28"
+    },
+    {
+      "text": "The applicant's evidence \n \n11 Mr Habib says that before December 2006 he did not know the location(s) to which he was taken when he saw Alastar Adams.",
+      "id": "s29"
+    },
+    {
+      "text": "Late in 2006 he says that he was out to dinner in Auburn and Mr Ejaz Khan introduced himself to Mr Habib.",
+      "id": "s30"
+    },
+    {
+      "text": "Mr Khan said he was a solicitor who also practised in Pakistan.",
+      "id": "s31"
+    },
+    {
+      "text": "He invited Mr Habib to consider an action against the Pakistani government.",
+      "id": "s32"
+    },
+    {
+      "text": "Mr Habib later saw Mr Khan in his office on 5 December 2006.",
+      "id": "s33"
+    },
+    {
+      "text": "Mr Khan told Mr Habib that in his opinion Mr Habib had been taken on the occasions of seeing Adams to either the US or the Australian embassies.",
+      "id": "s34"
+    },
+    {
+      "text": "Mr Khan also said that he was soon to visit Pakistan and would investigate the matter for him if Mr Habib wished.",
+      "id": "s35"
+    },
+    {
+      "text": "Mr Khan said it was common for people in Islamabad to be interrogated in the consulates of their own countries.",
+      "id": "s36"
+    },
+    {
+      "text": "This was so in respect of the UK, US and Australian consulates.",
+      "id": "s37"
+    },
+    {
+      "text": "12 When, soon after, Mr Habib saw photographs of the Australian High Commission in Islamabad he recognised it as the building to which he believed he had been taken to see Adams.",
+      "id": "s38"
+    },
+    {
+      "text": "Mr Habib says that he was blindfolded when driven to the meetings with Adams.",
+      "id": "s39"
+    },
+    {
+      "text": "He could, by tilting his head, partially see under the blindfold.",
+      "id": "s40"
+    },
+    {
+      "text": "He thus saw the steps of the building and plants that were there, indeed half way up the building at its entry.",
+      "id": "s41"
+    },
+    {
+      "text": "He also saw the fence.",
+      "id": "s42"
+    },
+    {
+      "text": "13 Inside the building, the blindfold was off.",
+      "id": "s43"
+    },
+    {
+      "text": "He was in a room like a bedroom; it had a television set, a computer, a bar --- \"everything ... five star\".",
+      "id": "s44"
+    },
+    {
+      "text": "Otherwise in the building he saw a hallway, a tea area and a huge room.",
+      "id": "s45"
+    },
+    {
+      "text": "The whole building was big and impressive, of five star quality.",
+      "id": "s46"
+    },
+    {
+      "text": "He saw no Australian flag, emblem or sign that indicated it was an Australian establishment.",
+      "id": "s47"
+    },
+    {
+      "text": "There were people dressed as servants in Pakistani dress serving food.",
+      "id": "s48"
+    },
+    {
+      "text": "He could not recall the colour of the carpet in the bedroom where he was.",
+      "id": "s49"
+    },
+    {
+      "text": "14 The only photograph tendered shows a building of good quality.",
+      "id": "s50"
+    },
+    {
+      "text": "There was no evidence to suggest that a building of that type was singular or even uncommon in Islamabad, although Mr Habib said that there were not many buildings of fine quality in that city.",
+      "id": "s51"
+    },
+    {
+      "text": "The respondent's evidence \n \n15 Mr Briskey was an Australian Federal Police officer attached to the High Commission.",
+      "id": "s52"
+    },
+    {
+      "text": "An ASIO officer known as Paul Stokes, came to Pakistan for the purpose of interviewing Mr Habib once it was known he was in Pakistani custody.",
+      "id": "s53"
+    },
+    {
+      "text": "An interview of Mr Habib was arranged for 24 October, which Mr Stokes but not he, Briskey, attended.",
+      "id": "s54"
+    },
+    {
+      "text": "Mr Stokes left the High Commission for the purpose of that interview.",
+      "id": "s55"
+    },
+    {
+      "text": "Mr Briskey's information was that Mr Habib was never at the High Commission.",
+      "id": "s56"
+    },
+    {
+      "text": "16 Mr Briskey was present at interviews with Mr Habib on 26 and 29 October 2001, attended also by an ASIO officer, not Adams.",
+      "id": "s57"
+    },
+    {
+      "text": "Neither interview was at the High Commission but at \"safe houses\" apparently controlled by Pakistanis.",
+      "id": "s58"
+    },
+    {
+      "text": "There was nothing to indicate that the safe houses were owned by Australia.",
+      "id": "s59"
+    },
+    {
+      "text": "17 The High Commissioner Mr Brown, Alastar Adams who was the Consul, Paul Stokes and Mr Briskey were involved in the decision that Stokes should meet Mr Habib and perform consular functions.",
+      "id": "s60"
+    },
+    {
+      "text": "18 Mr Habib said at interview he had been kidnapped and beaten and had been subjected to a number of incidents of mistreatment.",
+      "id": "s61"
+    },
+    {
+      "text": "19 In general, Mr Briskey was not permitted an operational role in the investigation of crimes in Australia, not even to interview Australian suspects present in Pakistan.",
+      "id": "s62"
+    },
+    {
+      "text": "No one was ever detained at the High Commission.",
+      "id": "s63"
+    },
+    {
+      "text": "There were issues of Pakistani sovereignty.",
+      "id": "s64"
+    },
+    {
+      "text": "20 The number of Australian diplomatic staff in Islamabad was reduced after 9/11.",
+      "id": "s65"
+    },
+    {
+      "text": "He said that there were about four to five Australians then at the High Commission and about 20 Pakistanis.",
+      "id": "s66"
+    },
+    {
+      "text": "21 There were several entrances to the High Commission complex.",
+      "id": "s67"
+    },
+    {
+      "text": "22 Mr Alastar Adams gave evidence that he was a long-serving officer of the Australian Department of Foreign Affairs and Trade (DFAT) on the verge of retirement.",
+      "id": "s68"
+    },
+    {
+      "text": "In October 2001 he was the Consul at the High Commission in Islamabad.",
+      "id": "s69"
+    },
+    {
+      "text": "He first had \"tangible evidence\" of the arrest by Pakistani authorities of an Australian who turned out to be Mr Habib by a report in the Pakistani media on 20 October 2001.",
+      "id": "s70"
+    },
+    {
+      "text": "He promptly asserted Australia's consular rights with the Pakistani Foreign Ministry and requested a consular visit.",
+      "id": "s71"
+    },
+    {
+      "text": "He was told to send a diplomatic \"third person note\".",
+      "id": "s72"
+    },
+    {
+      "text": "Such a note was sent on 1 November and, unanswered, was followed up by another on 9 November.",
+      "id": "s73"
+    },
+    {
+      "text": "23 He did not meet Mr Habib or attend any meeting with him in October.",
+      "id": "s74"
+    },
+    {
+      "text": "He had never seen him before he saw him on a videolink in Administrative Appeals Tribunal (AAT) proceedings in 2007.",
+      "id": "s75"
+    },
+    {
+      "text": "He had probably seen press photos of him before then.",
+      "id": "s76"
+    },
+    {
+      "text": "He had never interviewed Mr Habib.",
+      "id": "s77"
+    },
+    {
+      "text": "24 He confirmed Mr Briskey's account in part, having prepared a \"consular arrest package\" (including a card with his name on it) for Mr Stokes to take to the 24 October meeting with Mr Habib.",
+      "id": "s78"
+    },
+    {
+      "text": "25 He had no knowledge of Mr Habib having ever been at the High Commission and would expect that he would have become aware of it if Mr Habib had been there, in his capacity as Consul and generally because his office \"oversight[ed] the entrance to the Chancery, for security supervision\".",
+      "id": "s79"
+    },
+    {
+      "text": "26 It was through police/intelligence and not consular channels that the meetings with Mr Habib were arranged.",
+      "id": "s80"
+    },
+    {
+      "text": "27 After 9/11, security at the Mission was increased physically and non-essential staff were evacuated.",
+      "id": "s81"
+    },
+    {
+      "text": "28 It was inconceivable that the intelligence service of a foreign country which had detained an Australian national would take such a person to the High Commission, regarded as Australian territory, where that service would have no control over the detainee.",
+      "id": "s82"
+    },
+    {
+      "text": "29 Mr Habib's case was quite unlike the common ones of Australians actually charged with a criminal offence.",
+      "id": "s83"
+    },
+    {
+      "text": "It was the first case of a suspected terrorist he had encountered.",
+      "id": "s84"
+    },
+    {
+      "text": "30 It was suggested that Mr Adams had exhibited some animus to Mr Habib in the AAT proceedings.",
+      "id": "s85"
+    },
+    {
+      "text": "Mr Adams gave an explanation of the circumstances that gave rise to the suggestion.",
+      "id": "s86"
+    },
+    {
+      "text": "It is unnecessary to resolve that question and I refrain from doing so.",
+      "id": "s87"
+    },
+    {
+      "text": "31 Most of the Pakistani guards of the High Commission were illiterate and, despite instructions to record visitors, somebody could have come to the premises without appearing in the register of visitors.",
+      "id": "s88"
+    },
+    {
+      "text": "Mr Briskey but not Mr Stokes would have had a key to the building.",
+      "id": "s89"
+    },
+    {
+      "text": "32 Mr Brown , now the Australian Ambassador to Sweden was the head of the Australian Mission as High Commissioner in Islamabad in October 2001, and a foreign affairs officer of over 30 years' experience.",
+      "id": "s90"
+    },
+    {
+      "text": "33 The contingent of Australians in the Mission was reduced from about 13 to five after 9/11.",
+      "id": "s91"
+    },
+    {
+      "text": "Security was considerably tightened.",
+      "id": "s92"
+    },
+    {
+      "text": "Mr Brown knew nothing of Mr Habib being at the High Commission and would have expected to be aware of any such thing: he had overall responsibility for management of the Commission and would be informed of all major policy matters and significant developments.",
+      "id": "s93"
+    },
+    {
+      "text": "The possibility of Mr Habib being brought to the High Commission would have constituted both.",
+      "id": "s94"
+    },
+    {
+      "text": "He had heard of no such proposal.",
+      "id": "s95"
+    },
+    {
+      "text": "Now, after 39 years in the foreign service, he knew of no occasion when an Australian citizen had been brought to Australian diplomatic premises by officials of the host country for interview and intended return to detention in that country.",
+      "id": "s96"
+    },
+    {
+      "text": "34 Mr Brown generally confirmed the evidence of Mr Adams and Mr Briskey as to Mr Stokes' and Mr Briskey's, but not Mr Adams' involvement at meetings with Mr Habib.",
+      "id": "s97"
+    },
+    {
+      "text": "Mr Adams, he said, was not a covert officer of any Australian security service.",
+      "id": "s98"
+    },
+    {
+      "text": "35 Mr Beardsley was the Deputy Head of Mission.",
+      "id": "s99"
+    },
+    {
+      "text": "He was responsible for, among other things, the promotion of Australian security interests.",
+      "id": "s100"
+    },
+    {
+      "text": "He said that he had no knowledge of Mr Habib having been interviewed or interrogated in the High Commission as alleged by Mr Habib.",
+      "id": "s101"
+    },
+    {
+      "text": "Had that occurred, by reason of his position, he would expect to have been aware of it.",
+      "id": "s102"
+    },
+    {
+      "text": "36 The other officers who were at the High Commission at relevant times also gave evidence that they knew nothing of Mr Habib being there and would have expected to know if he had.",
+      "id": "s103"
+    },
+    {
+      "text": "37 Mr Stokes (a nom de guerre, being an assumed identity under the Crimes Act 1914 (Cth)) was an ASIO officer stationed outside Islamabad.",
+      "id": "s104"
+    },
+    {
+      "text": "He arrived in Islamabad on 22 October 2001.",
+      "id": "s105"
+    },
+    {
+      "text": "Through intelligence channels he sought to arrange access to Mr Habib.",
+      "id": "s106"
+    },
+    {
+      "text": "38 He interviewed Mr Habib on three occasions at two houses controlled by the Pakistani authorities, and not in the High Commission.",
+      "id": "s107"
+    },
+    {
+      "text": "The houses were not in or near the High Commission.",
+      "id": "s108"
+    },
+    {
+      "text": "On the last two occasions Mr Briskey was present.",
+      "id": "s109"
+    },
+    {
+      "text": "On each occasion there were others including Pakistanis present.",
+      "id": "s110"
+    },
+    {
+      "text": "Mr Adams was at none of the interviews.",
+      "id": "s111"
+    },
+    {
+      "text": "At the first interview Mr Stokes handed to Mr Habib written material which Mr Adams had given him, including a card with Adams' name on it.",
+      "id": "s112"
+    },
+    {
+      "text": "39 On 24 October he did not respond to requests by Mr Habib for assistance.",
+      "id": "s113"
+    },
+    {
+      "text": "He said that this was because he did not want to prejudice future access to Mr Habib.",
+      "id": "s114"
+    },
+    {
+      "text": "40 There was concern among Pakistani and Western authorities that an attack similar to that of 9/11 might occur.",
+      "id": "s115"
+    },
+    {
+      "text": "This was only a couple of weeks after the incursion of troops into Afghanistan.",
+      "id": "s116"
+    },
+    {
+      "text": "Evidence in reply \n \n41 Mr Habib said that it was Mr Adams who gave him the card with Adams' name on it and also had interviewed him.",
+      "id": "s117"
+    },
+    {
+      "text": "He denied that either Mr Stokes or Mr Briskey had ever interviewed him.",
+      "id": "s118"
+    },
+    {
+      "text": "At the airport, before flying to Egypt, Adams was present when he was maltreated.",
+      "id": "s119"
+    },
+    {
+      "text": "Although Mr Adams was then wearing a balaclava, Mr Habib recognised Mr Adams' tie.",
+      "id": "s120"
+    },
+    {
+      "text": "42 Although he had claimed in the original Statement of Claim that Mr Adams had visited him while he was imprisoned, he said, for the first time in the proceedings, that he had initially told his lawyers that his gaolers had indicated he would be taken to the Australian High Commission.",
+      "id": "s121"
+    },
+    {
+      "text": "He had been taken to a place better than the best hotel in Pakistan.",
+      "id": "s122"
+    },
+    {
+      "text": "43 He said Mr Stokes was not the same man who called himself that and gave evidence in the Supreme Court (Mr Evatt, counsel for the applicant in this case, represented Mr Habib in the Supreme Court proceedings and, fairly, contradicted that suggestion but did say from the bar table that he thought the amplification of Mr Stokes' voice was clearer than there).",
+      "id": "s123"
+    },
+    {
+      "text": "44 Mr Habib said that only one Australian had interviewed him and it was Mr Adams.",
+      "id": "s124"
+    },
+    {
+      "text": "45 Mr Habib's solicitor did not give evidence.",
+      "id": "s125"
+    },
+    {
+      "text": "Conclusions \n \n46 It is an old rule of good advice, perhaps honoured more in the breach than the observance (including, it must be acknowledged, by myself) that a judge should say no more than is necessary for the disposition of the case at hand.",
+      "id": "s126"
+    },
+    {
+      "text": "47 While the Commonwealth may possibly be in no position to admit, and may wish to test, some of Mr Habib's allegations of maltreatment and harm suffered, it is essentially no part of its case to deny that over the years from 5 October 2001 until his return to Australia, Mr Habib was not grossly maltreated by officials of foreign governments.",
+      "id": "s127"
+    },
+    {
+      "text": "48 It is common ground that, without any charge ever being laid against him in any country, Mr Habib was arrested and detained in Pakistan; interviewed there by at least one Australian officer; taken against his will to Egypt for reasons that cannot have been for his welfare; compulsorily transferred at some point from Pakistani to US custody; taken from there to Afghanistan; then to Guantanamo Bay, no ornament to Western civilisation; and finally released, presumably for want of credible evidence that he was ever an enemy combatant of US forces in Afghanistan or had ever aided or abetted the slaughter of innocents on 9/11.",
+      "id": "s128"
+    },
+    {
+      "text": "It is notorious that he and his family have, nevertheless, thereafter had to endure in Australia often voiced suspicions that he was an Islamist terrorist or fellow traveller or one who would give aid and comfort to such evildoers.",
+      "id": "s129"
+    },
+    {
+      "text": "On the face of things, there is little reason to doubt that his arrest and imprisonment were accompanied by measures of more active physical abuse.",
+      "id": "s130"
+    },
+    {
+      "text": "It would be unsurprising if being abused in such ways should have produced as to one matter some confusion of memory, some over-susceptibility to suggestion that at least part of his abuse was connived at by Australian governmental officials, even some tendency to exaggerate in order to try to make Australian authorities, including courts, understand what might be the central truths of his complaints.",
+      "id": "s131"
+    },
+    {
+      "text": "49 Also in his favour, the years since 9/11 have featured unfortunate instances of overreaction, seemingly irrational reactions, hubris, discarding of tried and tested high standards of public conduct and respect for traditional civil rights by various Western governments and some persons in their service.",
+      "id": "s132"
+    },
+    {
+      "text": "Any assumption that a similarly chaotic approach might not, in the close aftermath of the shattering of Western complacency by 9/11, have also afflicted one or more branches of the Australian government would be imprudent.",
+      "id": "s133"
+    },
+    {
+      "text": "I make no such assumption.",
+      "id": "s134"
+    },
+    {
+      "text": "50 However, it is clear that the DFAT officers concerned were very keen to afford, or (even if one should view the matter cynically) to be seen to afford Mr Habib due, traditional consular services.",
+      "id": "s135"
+    },
+    {
+      "text": "Even if this were only done in order to watch their own backs, and I make no finding on that question, what they did is a powerful source of improbability of the notion that they would permit, or could be ignorant of, the bringing of Mr Habib in daylight hours into the High Commission itself.",
+      "id": "s136"
+    },
+    {
+      "text": "Mr Habib must have been at least one of the outstanding matters of immediate interest to those officers.",
+      "id": "s137"
+    },
+    {
+      "text": "51 It is even more improbable that the Pakistani security authorities would take an Australian citizen whom they were holding without charge and whom, on Mr Habib's case, they had physically abused, into Australian diplomatic territory in company with Australian officials.",
+      "id": "s138"
+    },
+    {
+      "text": "52 The issue I am deciding, whether Mr Habib was taken to the Australian High Commission, does not necessitate the resolution of Mr Habib's claims that he was interviewed by Mr Adams and did not ever see Mr Briskey or Mr Stokes, far less his claim that Mr Adams, in a balaclava, benignly watched US and Pakistani officers physically abuse him immediately before his flight to Egypt.",
+      "id": "s139"
+    },
+    {
+      "text": "53 It is enough to say that there was nothing in what the respondent's witnesses said nor in the way any of them gave evidence to cause me to depart from the foregoing assessment of the objective probabilities of the accuracy of the assertion by Mr Habib that does fall for my decision.",
+      "id": "s140"
+    },
+    {
+      "text": "I do not need to make any positive finding as to their subjective truthfulness or accuracy.",
+      "id": "s141"
+    },
+    {
+      "text": "54 Likewise it is unnecessary to assume either a lack of truthfulness or any opportunistic tendency by Mr Habib to delude himself and which might account for his strongly stated beliefs about the detail of where he saw an Australian official, how many such officials he saw and their identities in Islamabad.",
+      "id": "s142"
+    },
+    {
+      "text": "The possible effects of his condition and then recent history and of his subsequent history could well account for what I think is his mistaken belief, apparently prompted by Mr Khan, that he was taken to the Australian High Commission.",
+      "id": "s143"
+    },
+    {
+      "text": "The same could account for his apparently novel suggestion at trial, which originally I thought might have more telling significance, that his Pakistani oppressors told him he would be taken to his embassy or consulate and his presumably incorrect suggestion that he had long ago told his solicitors this.",
+      "id": "s144"
+    },
+    {
+      "text": "55 Blindfolded, he could not have seen much.",
+      "id": "s145"
+    },
+    {
+      "text": "I am unpersuaded that what he says he saw was necessarily any part of the Australian High Commission in Islamabad.",
+      "id": "s146"
+    },
+    {
+      "text": "What he believes he saw is unlikely to have been sufficiently distinctive to differentiate it from other buildings in that city, which no doubt had well-built offices, hotels and private residences as well as many poorer buildings.",
+      "id": "s147"
+    },
+    {
+      "text": "56 As it seems to me, no reader and certainly no judicial reader of these reasons could fairly view my conclusion as redounding to Mr Habib's discredit on any other factual issue in the case.",
+      "id": "s148"
+    },
+    {
+      "text": "I find only that he was in one respect inaccurate about events that befell him at a time when he was sorely tried and ill-used and since when he has been further sorely tried and ill-used.",
+      "id": "s149"
+    },
+    {
+      "text": "There is therefore no new reason to consider that this finding might prejudice or embarrass the trial of other issues in the case.",
+      "id": "s150"
+    },
+    {
+      "text": "Disposition \n \n57 I will declare that when Mr Habib met one or more Australian government officers in Islamabad in October 2001, no such meeting occurred at the Australian High Commission or at any other place under the control of the respondent.",
+      "id": "s151"
+    },
+    {
+      "text": "58 Costs will be reserved for consideration in the light of the final disposition of the proceedings.",
+      "id": "s152"
+    },
+    {
+      "text": "I certify that the preceding fifty-eight (58) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Madgwick.",
+      "id": "s153"
+    },
+    {
+      "text": "Associate:\nDated: 16 April 2008\n\n Solicitor for the Applicant: Peter Erman Solicitor \n \n Counsel for the Applicant: Mr CA Evatt with Mr WB Nicholson \n \n Solicitor for the Respondent: Australian Government Solicitor \n \n Counsel for the Respondent: Mr BMJ Toomey QC with Mr AP Berger \n\n Date of Hearing: 31 January and 1 February 2008 Date of Judgment: 16 April 2008 \n\n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2008/489.html",
+      "id": "s154"
+    }
+  ]
+}

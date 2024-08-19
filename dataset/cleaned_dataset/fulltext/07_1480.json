@@ -1,0 +1,1292 @@
+{
+  "name": "Anvil Hill Project Watch Association Inc v Minister for the Environment and Water Resources [2007] FCA 1480 (20 September 2007)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2007/1480.html",
+  "catchphrases": [
+    {
+      "text": "administrative decisions (judicial review) act 1977 (cth)",
+      "id": "c0"
+    },
+    {
+      "text": "application for an order to review decision of delegate of the minister for the environment and water resources",
+      "id": "c1"
+    },
+    {
+      "text": "environment protection and biodiversity conservation act 1999 (cth)",
+      "id": "c2"
+    },
+    {
+      "text": "whether proposed action is a controlled action",
+      "id": "c3"
+    },
+    {
+      "text": "whether this is a question of jurisdictional fact",
+      "id": "c4"
+    },
+    {
+      "text": "whether delegate applied wrong test",
+      "id": "c5"
+    },
+    {
+      "text": "whether delegate misconstrued listed threatened ecological community",
+      "id": "c6"
+    },
+    {
+      "text": "environment protection and biodiversity conservation act 1999 (cth)",
+      "id": "c7"
+    },
+    {
+      "text": "whether proposed action is a controlled action",
+      "id": "c8"
+    },
+    {
+      "text": "coal mine",
+      "id": "c9"
+    },
+    {
+      "text": "anthropogenic greenhouse gas emissions",
+      "id": "c10"
+    },
+    {
+      "text": "significance of listing as a key threatening process",
+      "id": "c11"
+    },
+    {
+      "text": "correct test for assessing impact on protected matters",
+      "id": "c12"
+    },
+    {
+      "text": "listed threatened ecological community",
+      "id": "c13"
+    },
+    {
+      "text": "administrative law",
+      "id": "c14"
+    },
+    {
+      "text": "environmental law",
+      "id": "c15"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "INTRODUCTION \n \n 1 Centennial Hunter Pty Limited, the second respondent in this proceeding proposes to construct and operate an open-cut coal mine and ancillary facilities, known as the Anvil Hill Project, at Anvil Hill in the Hunter Valley, New South Wales.",
+      "id": "s0"
+    },
+    {
+      "text": "On 11 January 2007, pursuant to s 68 of the Environment Protection and Biodiversity Conservation Act 1999 (Cth) (the Act), Centennial referred the project to the Minister for the Environment and Water Resources, the first respondent in this proceeding, for a determination as to whether the project is a \"controlled action\" within the meaning of s 67 of the Act.",
+      "id": "s1"
+    },
+    {
+      "text": "On 19 February 2007, a delegate of the Minister decided that the project was not a controlled action which meant that the project could proceed without further approval being required under the Act.",
+      "id": "s2"
+    },
+    {
+      "text": "2 On 17 May 2007, the applicant, the Anvil Hill Project Watch Association, filed an application under s 5 of the Administrative Decisions (Judicial Review) Act 1977 (Cth) ( ADJR Act ) for an order of review of the delegate's determination that the Anvil Hill Project is not a controlled action.",
+      "id": "s3"
+    },
+    {
+      "text": "The applicant is an association incorporated in Australia on 21 June 2000.",
+      "id": "s4"
+    },
+    {
+      "text": "Since that time it has engaged in a series of activities in Australia for the protection of the environment.",
+      "id": "s5"
+    },
+    {
+      "text": "Its objects at the time of the delegate's decision included protection of the environment.",
+      "id": "s6"
+    },
+    {
+      "text": "By virtue of these objects and activities, by the application of s 487 of the Act , the applicant falls within the extended meaning of \"person aggrieved\" for the purposes of s 5 of the ADJR Act and thus has standing to bring this application.",
+      "id": "s7"
+    },
+    {
+      "text": "The extended standing accorded under s 487 is an indication of the importance the legislature attached to the involvement and input of concerned members of the community --- an importance that reflects the objects set out in s 3 of the Act.",
+      "id": "s8"
+    },
+    {
+      "text": "THE STATUTORY SCHEME \n \n 3 The applicant's submissions laid much stress on the objects of the Act and the scheme that the Act sets up to give effect to those actions.",
+      "id": "s9"
+    },
+    {
+      "text": "It is therefore necessary to consider the statutory provisions in some detail.",
+      "id": "s10"
+    },
+    {
+      "text": "The objects of the Act \n \n 4 The objects of the Act are set out in s 3(1): \n \n \n (a) to provide for the protection of the environment, especially those aspects of the environment that are matters of national environmental significance; and \n (b) to promote ecologically sustainable development through the conservation and ecologically sustainable use of natural resources; and \n (c) to promote the conservation of biodiversity; and \n (ca) to provide for the protection and conservation of heritage; and \n (d) to promote a co-operative approach to the protection and management of the environment involving governments, the community, land-holders and indigenous peoples; and \n (e) to assist in the co-operative implementation of Australia's international environmental responsibilities; and \n (f) to recognise the role of indigenous people in the conservation and ecologically sustainable use of Australia's biodiversity; and \n (g) to promote the use of indigenous peoples' knowledge of biodiversity with the involvement of, and in co-operation with, the owners of the knowledge.",
+      "id": "s11"
+    },
+    {
+      "text": "5 Those objects are to be achieved by various means including by intergovernmental co-operation as set out in s 3(2)(a)-(d): \n (2) In order to achieve its objects, the Act: \n \n \n \n \n (a) recognises an appropriate role for the Commonwealth in relation to the environment by focussing Commonwealth involvement on matters of national environment significance and on Commonwealth actions and Commonwealth areas; and \n \n (b) strengthens intergovernmental co-operation, and minimises duplication, through bilateral agreements; and \n \n (c) provides for the intergovernmental accreditation of environmental assessment and approval processes; and \n \n (d) adopts an efficient and timely Commonwealth environmental assessment and approval process that will ensure activities that are likely to have significant impacts on the environment are properly assessed; ... \n \n \n \n \n 6 Importantly, s 3A sets out principles of ecologically sustainable development that are relevant to decision makers under the Act.",
+      "id": "s12"
+    },
+    {
+      "text": "Those principles incorporate concern for long and short term \"economic, environmental, social and equitable considerations\".",
+      "id": "s13"
+    },
+    {
+      "text": "They direct attention to inter-generational equity, the conservation of biological diversity and ecological integrity as well as the need to balance levels of scientific certainty with the seriousness of an environmental threat.",
+      "id": "s14"
+    },
+    {
+      "text": "The section advocates the promotion of incentive mechanisms in the management of environmental issues.",
+      "id": "s15"
+    },
+    {
+      "text": "Restriction of proposed actions \n \n 7 Section 523 of the Act defines an \"action\" as including a project, development or undertaking and an activity or series of activities.",
+      "id": "s16"
+    },
+    {
+      "text": "Part 3 of the Act prohibits actions which will have or are likely to have a significant impact on matters of national environmental significance including world heritage property, wetlands of international significance, threatened and migratory species and the marine environment.",
+      "id": "s17"
+    },
+    {
+      "text": "Civil and criminal penalties are provided in respect of prohibited actions.",
+      "id": "s18"
+    },
+    {
+      "text": "8 An action that is prohibited by a provision of Part 3 is called a controlled action; s 67.",
+      "id": "s19"
+    },
+    {
+      "text": "The provision that prohibits a controlled action is called the \"controlling provision\".",
+      "id": "s20"
+    },
+    {
+      "text": "There are some exemptions to the prohibitions such as where \"there is in force a decision of the Minister under Division 2 of Part 7\" that the section imposing the prohibition is \"not a controlling provision for the action\" and, in the case of a controlled action, where there is an operative approval under Part 9.",
+      "id": "s21"
+    },
+    {
+      "text": "Section 67A provides that a person must not take a controlled action unless \"an approval of the taking of the action by the person is in operation under Part 9 for the purposes of the relevant provision of Part 3\".",
+      "id": "s22"
+    },
+    {
+      "text": "Minister may be asked to determine if action is a controlled action \n \n 9 No approval is required if the proposed action is not a controlled action.",
+      "id": "s23"
+    },
+    {
+      "text": "Obviously, however, this characterisation of an action is a matter of judgment and the consequences of wrongly assuming that the proposed action is not a controlled action are severe.",
+      "id": "s24"
+    },
+    {
+      "text": "A person proposing to take such an action may take the cautious approach and, pursuant to s 68, refer the proposal to the Minister for a decision on the issue even if he or she thinks it is not a controlled action.",
+      "id": "s25"
+    },
+    {
+      "text": "Referral under s 68 is obligatory if the person thinks the action is or may be a controlled action; s 68(1).",
+      "id": "s26"
+    },
+    {
+      "text": "Section 70 provides that the Minister may request that the referral of a proposal that he or she thinks may be a controlled action.",
+      "id": "s27"
+    },
+    {
+      "text": "As the note to s 70 points out:\n If the proposal to take the action is not referred, the person cannot get an approval under Part 9 to take the action.",
+      "id": "s28"
+    },
+    {
+      "text": "If taking the action without approval contravenes Part 3 an injunction could be sought to prevent or stop the action, or the person could be ordered to pay a pecuniary penalty.",
+      "id": "s29"
+    },
+    {
+      "text": "10 If the Minister decides that the proposal that is the subject of the referral does not involve a controlled action then the prohibitions under Part 3 of the Act do not apply to that action; see, for example, ss 12(2)(c) and 15A(4)(c).",
+      "id": "s30"
+    },
+    {
+      "text": "The protection that flows from a decision of the Minister relates more specifically to the decision that none of the provisions of Part 3 is a controlling provision.",
+      "id": "s31"
+    },
+    {
+      "text": "Where the decision that a provision of Part 3 is not a controlling provision was made because the Minister believed that the action would be taken in a manner specified in the notice of the decision give under s 77, the protection only applies if the action is taken in that manner.",
+      "id": "s32"
+    },
+    {
+      "text": "Referred proposals \n \n 11 The Minister must decide if an action which is the subject of a referred proposal is a controlled action and, is so, which provisions of Part 3 of the Act are the controlling provisions for that action; s 75(1).",
+      "id": "s33"
+    },
+    {
+      "text": "In making this decision the Minister must consider any comments received from the public; s 75(1A).",
+      "id": "s34"
+    },
+    {
+      "text": "If it is relevant to the Minister's decision to consider the impact of an action then he or she is obliged to consider all adverse impacts that the action has, will have or is likely to have, \"on the matter protected by each provision of Part 3\" and must not consider any beneficial impacts; s 75(2).",
+      "id": "s35"
+    },
+    {
+      "text": "The term \"impact\" is defined in s 527E which was introduced into the Act on 19 February 2007, which is the date of the delegate's decision made under s 75(1).",
+      "id": "s36"
+    },
+    {
+      "text": "Prior to that date the term was not defined in the Act.",
+      "id": "s37"
+    },
+    {
+      "text": "The parties have not raised any issue in respect of the definition in relation to the second respondent's proposed action.",
+      "id": "s38"
+    },
+    {
+      "text": "12 The Minister must inform other Commonwealth Ministers who may have relevant administrative responsibilities about proposal that has been referred and invite information and comments from them; s 74(1).",
+      "id": "s39"
+    },
+    {
+      "text": "Section 74(2) makes similar provision for inviting comments from the appropriate State or Territory Minister on whether the proposed action is a controlled action, if the Minister thinks the proposal relates to matters of national environment significance.",
+      "id": "s40"
+    },
+    {
+      "text": "Subsection (3) provides that the Minister must also invite public comment.",
+      "id": "s41"
+    },
+    {
+      "text": "If Minister \"believes on reasonable grounds\" that the referral does not include enough information for the Minister to make a decision under s 75(1), he or she may also request more information from the person proposing to take the action; s 76.",
+      "id": "s42"
+    },
+    {
+      "text": "13 The Minister may revoke a decision made under s 75(1) and substitute a new decision in certain specified circumstances including, in ss 78(1)(a) and (aa), if the Minister is satisfied that this is warranted by substantial new information about the impacts that the action has, will have or is likely to have on a matter protected under Part 3.",
+      "id": "s43"
+    },
+    {
+      "text": "The detailed specification in ss 78(1)(b), (ba), (c) and (ca) of the circumstances in which the power may be exercised focus on an earlier decision that the action was not a controlled action.",
+      "id": "s44"
+    },
+    {
+      "text": "Subsections 78(1)(a) and (aa) are not so confined and would appear to give the Minister power to reverse a decision that an action is a controlled action.",
+      "id": "s45"
+    },
+    {
+      "text": "14 The Act provides for a decision that an action is not a controlled action to be carefully tailored to the manner in which the action is to be taken.",
+      "id": "s46"
+    },
+    {
+      "text": "Where the decision is based on the Minister's belief that the action will be taken in a particular manner the notice of the Minister's decision provided under s 77 must specify the manner in which the action is to be taken; s 77A(1) and the action must not be taken in an inconsistent manner; s 77A(2).",
+      "id": "s47"
+    },
+    {
+      "text": "15 A decision that a proposed action is a controlled action triggers an assessment of the impact of controlled actions under Part 8 of the Act that must be made before the Minister decides whether to approve the action in accordance with Part 9; see s 133.",
+      "id": "s48"
+    },
+    {
+      "text": "Section 87 provides six methods of assessment.",
+      "id": "s49"
+    },
+    {
+      "text": "Without going into detail it is sufficient to say that these assessments involve closer scrutiny of the proposal than is required to that point.",
+      "id": "s50"
+    },
+    {
+      "text": "The Minister must also balance the negative effect of the proposed action against any positive benefits the proposal may have.",
+      "id": "s51"
+    },
+    {
+      "text": "16 Part 8 does not apply to an action where there is bilateral agreement between the Commonwealth and the State or self-governing Territory in which the action is to be taken, and the agreement declares that the class of actions to which the proposed action belongs does not need to be assessed under Part 8.",
+      "id": "s52"
+    },
+    {
+      "text": "According to the applicant there is an assessment bilateral agreement in force for New South Wales but it was not used in relation to the Anvil Hill Project.",
+      "id": "s53"
+    },
+    {
+      "text": "This issue was not in contention.",
+      "id": "s54"
+    },
+    {
+      "text": "REFERRAL OF THE ANVIL HILL MINING PROJECT TO THE MINISTER \n The written referral \n \n 17 On 11 January 2007, Unwelt (Australia) Pty Limited referred Centennial's proposal for a coal mine at Anvil Hill to the Minister to determine if the project is a controlled action within s 67 of the Act.",
+      "id": "s55"
+    },
+    {
+      "text": "Centennial is the person proposing to take the action.",
+      "id": "s56"
+    },
+    {
+      "text": "The referral stated that in Centennial's view the proposed action was not a controlled action.",
+      "id": "s57"
+    },
+    {
+      "text": "The written referral described the project as follows:\n Centennial Hunter Pty Limited ... proposes to establish an open cut coal mine and ancillary facilities including a coal preparation plant ... and rail loop.",
+      "id": "s58"
+    },
+    {
+      "text": "The proposal, known as the Anvil Hill Project ... is based on a large, undeveloped coal reserve of approximately 150 million tonnes ... that is suitable for production of thermal coal for both domestic and export markets.",
+      "id": "s59"
+    },
+    {
+      "text": "It is proposed to mine up to 10.5 million tonnes of run of mine ... coal per annum using truck and shovel methods.",
+      "id": "s60"
+    },
+    {
+      "text": "18 In compliance with the requirement to describe all activities proposed to be carried on as part of the proposed action, Centennial provided the following description of those activities:\n The Project comprises the design, construction and operation of: \n \n \n &#8226; an open cut coal mine; \n &#8226; coal handling, crushing and stockpiling facilities and a coal preparation plant (washery); \n &#8226; water management, supply and distribution infrastructure; \n &#8226; handling and placement of overburden (rock); \n &#8226; mine access road including a new intersection on Wybong Road, internal access roads and haul roads; \n &#8226; a 66kV transmission line and switchyard which are both within the Proposed Disturbance Area; \n &#8226; infrastructure including offices, staff amenities, workshop, conveyors, and ancillary services; and \n &#8226; a rail loop and rail loading infrastructure for the transport of all product coal.",
+      "id": "s61"
+    },
+    {
+      "text": "The description continued with some comments on the arrangements that had been made for efficient operation of the mine, the proposed rehabilitation of the land to minimise mining disturbance and the proposed final use of the land which was said to include:\n \n ... self sustaining indigenous vegetation communities, consisting of native and naturalised tree, shrub and grass species.",
+      "id": "s62"
+    },
+    {
+      "text": "19 The referral described the project area as follows:\n The Project Area is located in the upper Hunter Valley, on the margin of the valley floor ... .",
+      "id": "s63"
+    },
+    {
+      "text": "Surrounding the Project Area are predominantly two broad vegetation types: rugged escarpment woodlands and heaths; and valley floor woodlands and derived pastures... .",
+      "id": "s64"
+    },
+    {
+      "text": "These in turn support the broad fauna and habitat types of grassland, riparian, woodland, aquatic and escarpment habitat... .",
+      "id": "s65"
+    },
+    {
+      "text": "Two national parks and one nature reserve lie within 15 kilometres of the Project Area.",
+      "id": "s66"
+    },
+    {
+      "text": "These comprise: Wollemi National Park, approximately ten kilometres south of the Project Area; Goulburn River National Park, approximately 15 kilometres to the west of the Project Area; and Manobalai Nature Reserve approximately 10 kilometres to the north-west of the Project Area.",
+      "id": "s67"
+    },
+    {
+      "text": "In addition to these conservation areas, Myambat Military Area ... which supports a diverse array of native plants and animals, is situated about 3.5 kilometres to the south of the Project Area.",
+      "id": "s68"
+    },
+    {
+      "text": "20 The second respondent sought approval for a term of 21 years which is the duration of the mining lease.",
+      "id": "s69"
+    },
+    {
+      "text": "It proposed to begin commercial production by early 2008.",
+      "id": "s70"
+    },
+    {
+      "text": "The decision of the Minister's delegate \n \n 21 The delegate's decision was made on 19 February 2007.",
+      "id": "s71"
+    },
+    {
+      "text": "On 18 April 2007, in response to a request made under s 13 of the ADJR Act, she supplied written reasons for her decision.",
+      "id": "s72"
+    },
+    {
+      "text": "In her statement of reasons, the delegate outlined the background to the referral and gave a description of the proposed project.",
+      "id": "s73"
+    },
+    {
+      "text": "The delegate noted that the referral had been sent to the Minister for Industry, Tourism and Resources, the Minister for Defence and to the NSW Minister for Planning but no comments had been received from the Ministers.",
+      "id": "s74"
+    },
+    {
+      "text": "In summarising the submissions that had been received from the public the delegate said that 13 comments had been received from the public, including the applicant.",
+      "id": "s75"
+    },
+    {
+      "text": "The majority of these submissions contended that the second respondent's proposal should be a controlled action because it was likely to have \"significant impacts\" on matters of national environmental significance.",
+      "id": "s76"
+    },
+    {
+      "text": "22 The delegate stated that she considered the information and advice provided by the applicant and that she relied on a brief from the Department of Environment and Water Resources.",
+      "id": "s77"
+    },
+    {
+      "text": "She listed the evidence or other material in that brief on which she based her findings as follows:\n &#9675; referral for the proposed action and associated figures and maps; \n \n \n &#9675; Anvil Hill Project Environmental Assessment, Volumes 1-7, Umwelt (Australia) Pty Limited, August 2006;\n &#9675; Anvil Hill Project Environmental Assessment , Response to submissions Parts A, B &amp; C, Umwelt (Australia) Pty Limited, November 2006; \n &#9675; thirteen public submissions, including a summary of issues raised in the submissions; \n &#9675; email correspondence from Umwelt, providing further information, dated 11 January 2007 and 7 and 17 February 2007; \n &#9675; WhiteBox --- Yellow Box --- Blakely's Red Gum grassy woodlands and derived native grasslands ( EPBC Act Policy Statements, Department of the Environment and Heritage, May 2006); \n &#9675; advice from the Department relating to the potential impacts of the proposed action on matters protected under the EPBC Act.",
+      "id": "s78"
+    },
+    {
+      "text": "23 The delegate made extensive findings of fact about listed ecological communities, plant species, fauna species and migratory species protected under Part 3 of the Act and concluded that there was \"no likelihood\" that the proposed action would have a significant impact on any of them, other than listed threatened species and communities (ss 18 and 18A) and listed migratory species (ss 20 and 20A).",
+      "id": "s79"
+    },
+    {
+      "text": "She continued:\n In particular, I found that two listed ecological communities, two listed flora species and several listed fauna species are known to occur, or may occur, in the area of the proposed action.",
+      "id": "s80"
+    },
+    {
+      "text": "24 The delegate examined these communities and species separately and found that a significant impact on any of them by the proposed action was \"not likely\".",
+      "id": "s81"
+    },
+    {
+      "text": "25 The delegate then considered whether the proposed action was likely to have \"indirect impacts\" on matters protected under Part 3 of the Act \"as a result of any possible contribution to greenhouse gas emissions\".",
+      "id": "s82"
+    },
+    {
+      "text": "The delegate accepted that greenhouse gases in the Earth's atmosphere are causing changes to that atmosphere and to weather patterns and that these changes might affect matters protected by Part 3 such as the Hunter Estuary Wetlands Ramsar site.",
+      "id": "s83"
+    },
+    {
+      "text": "She found that if all the coal produced by the proposed mine were to be consumed by end users, the combustion of that coal would produce per annum the equivalent of 0.04% of the current annual global greenhouse gas emissions.",
+      "id": "s84"
+    },
+    {
+      "text": "She found that \"such emissions are a small proportion of the total possible emissions from all other sources\".",
+      "id": "s85"
+    },
+    {
+      "text": "26 The delegate accepted that the contribution to Australia's greenhouse gas emissions from the mining and use of coal is important but that it was only one of many contributions, including burning of other fossil fuels.",
+      "id": "s86"
+    },
+    {
+      "text": "Australia's emissions \"though relatively large on a per capita basis\" must be considered with the emissions made by other industrialised countries.",
+      "id": "s87"
+    },
+    {
+      "text": "The delegate found that:\n ... the amount and concentration of greenhouse gases in the atmosphere, and any resultant adverse impacts on matters protected by Part 3 of the EPBC Act, are the consequence of human activities on a global scale over a long period of time.",
+      "id": "s88"
+    },
+    {
+      "text": "[Emphasis added] \n\nIn conclusion the delegate stated:\n \n I found that, while it is clear that, at a global level, there is a relationship between the amount of carbon dioxide in the atmosphere and warming of the atmosphere, the climate system is complex and the processes linking specific additional greenhouse gas emissions to potential impacts on matters protected by Part 3 of the EPBC Act are uncertain and conjectural.",
+      "id": "s89"
+    },
+    {
+      "text": "In light of this, and in light of the relatively small contribution of the proposed action to the amount and concentration of greenhouse gases in the atmosphere, I found that a possible link between the additional greenhouse gases arising from the proposed action and a measurable or identifiable increase in global atmospheric temperature or other greenhouse impacts is not likely to be identifiable.",
+      "id": "s90"
+    },
+    {
+      "text": "27 The delegate also concluded that the emissions of greenhouse gases that would result from the mining, shipping and transport of the coal from the proposed mine were \"likely to be negligible in the context of existing emissions\".",
+      "id": "s91"
+    },
+    {
+      "text": "The present application \n \n 28 Relying on s 5 of the ADJR Act , the application for review of the delegate's decision lists seven grounds of review.",
+      "id": "s92"
+    },
+    {
+      "text": "It is alleged in grounds 1-6 that the delegate's decision involved errors of law including misconstruing the meaning of phrases used in s 75(2) of the Act, applying the wrong test in considering the likelihood of the proposed action having a significant impact on a matter protected by Part 3 of the Act, failing to take relevant considerations into account when assessing the adverse impacts the action is likely to have, misconstruing the meaning of a listed threatened ecological community and taking irrelevant considerations into account.",
+      "id": "s93"
+    },
+    {
+      "text": "These grounds are discussed in more detail below.",
+      "id": "s94"
+    },
+    {
+      "text": "29 In addition the applicant alleges in ground 7 of the application that the delegate did not have jurisdiction to make the decision and that it was not authorised by the Act because, \"as a question of jurisdictional fact, the proposed action is likely to have a significant impact on matters protected by Part 3 of the EPBC Act\".",
+      "id": "s95"
+    },
+    {
+      "text": "The particulars given for this ground refer to the alleged impact of climate change on the Great Barrier Reef World Heritage property and on the Greater Blue Mountains World Heritage Area.",
+      "id": "s96"
+    },
+    {
+      "text": "They also refer to the alleged destruction and disturbance of the Painted Diuris ( Diuris tricolor) a native orchid listed as vulnerable under the Act and a listed threatened ecological community, \"White Box --- Yellow Box --- Blakely's Red Gum Grassy Woodland and Derived Native Grassland\" which is included in the list established under s 181 of the Act.",
+      "id": "s97"
+    },
+    {
+      "text": "30 Ground 7 raises the question whether, as a matter of fact, the proposed action is likely to have a significant impact on matters protected by Part 3 of the Act.",
+      "id": "s98"
+    },
+    {
+      "text": "It is only necessary to answer this question if the applicant succeeds in its claim that the question is one of jurisdictional fact and only on that ground.",
+      "id": "s99"
+    },
+    {
+      "text": "If the applicant succeeded on any of its other grounds, that is, on its allegations of legal error then it would not be necessary to consider his ground.",
+      "id": "s100"
+    },
+    {
+      "text": "For this reason, on 25 July 2007, pursuant to Order 29, r 2(a) of the Federal Court Rules , and with the consent of the parties, I ordered that, if it is necessary to determine the question, it should be determined separately and after all other questions in the proceeding.",
+      "id": "s101"
+    },
+    {
+      "text": "Grounds of review 1-4 \n \n 31 Grounds 1-4 of the application for review all take issue with the way in which the delegate dealt with questions about the adverse impact of greenhouse gas emissions arising from the proposed mine, including the extraction, transport and use of the coal, on matters protected by Part 3 of the Act.",
+      "id": "s102"
+    },
+    {
+      "text": "The applicant's submissions amount to the proposition that in demonstrating the adverse impact of the greenhouse gas emissions and considering the likelihood of the proposed action having a significant impact, it is sufficient to show that the emissions contribute to climate change and that climate change has, will have or is likely to have a significant impact on matters protected by Part 3.",
+      "id": "s103"
+    },
+    {
+      "text": "This, it is said is a matter of common sense.",
+      "id": "s104"
+    },
+    {
+      "text": "Grounds 1 and 2 \n \n 32 The applicant submits that the delegate was in error in looking for a \"measurable or identifiable increase in the global atmospheric temperature or other greenhouse gas impacts\" consequent on the specific emissions that would be produced by the action.",
+      "id": "s105"
+    },
+    {
+      "text": "It argues that the delegate's approach \"demonstrates a scientific or philosophical approach\" whereas what is required is \"a common sense approach\".",
+      "id": "s106"
+    },
+    {
+      "text": "A plea for common sense can be problematic; it means different things to different people and, it seems to me, its meaning varies to suit the position advocated.",
+      "id": "s107"
+    },
+    {
+      "text": "As Descartes is reputed to have observed wryly, \"nothing is more fairly distributed than common sense: no one thinks he needs more of it than he already has\".",
+      "id": "s108"
+    },
+    {
+      "text": "33 The applicant's submission draws on the comments made by McHugh J in Henville v Walker [2001] HCA 52 ; (2001) 206 CLR 459 at 490 where his Honour was discussing the common law concept of causation: \n The common law concept of causation recognises that conduct that infringes a legal norm may be causally connected with the sustaining of loss or damage even though other factors may have contributed to the loss or damage.",
+      "id": "s109"
+    },
+    {
+      "text": "...",
+      "id": "s110"
+    },
+    {
+      "text": "The common law has avoided the technical controversies inherent in the logic of causation.",
+      "id": "s111"
+    },
+    {
+      "text": "Unlike science and philosophy, the common law is not concerned to discover universal connections between phenomena so as to enable predictions to be made.",
+      "id": "s112"
+    },
+    {
+      "text": "The common law concept of causation looks backward because its function is to determine whether a person should be held responsible for some past act or omission.",
+      "id": "s113"
+    },
+    {
+      "text": "Out of the many conditions that combine to produce loss or damage to a person, the common law is concerned with determining only whether some breach of a legal norm was so significant that, as a matter of common sense, it should be regarded as a cause of damage.",
+      "id": "s114"
+    },
+    {
+      "text": "34 As his Honour's submissions make clear, the common law concept of causation is concerned not only with determining cause and effect but also with attributing legal responsibility.",
+      "id": "s115"
+    },
+    {
+      "text": "This injects an evaluative element into the enquiry.",
+      "id": "s116"
+    },
+    {
+      "text": "The Minister's task under s 75 is a factual enquiry about the impact of an action.",
+      "id": "s117"
+    },
+    {
+      "text": "Although there is an element of indeterminacy injected by the requirement that the action has, will have or be likely to have a significant impact, it is quite different from an enquiry into legal causation.",
+      "id": "s118"
+    },
+    {
+      "text": "35 A submission similar to the applicant's was rejected by Dowsett J in Wildlife Preservation Society of Queensland Proserpine/Whitsunday Branch Inc v Minister for the Environment and Heritage (2006) 232 ALR 510.",
+      "id": "s119"
+    },
+    {
+      "text": "It was submitted to his Honour that the purpose of the enquiry under s 75 of the Act was \"to attribute legal responsibility for impacts to matters protected by Pt 3 of the EPBC Act in light of the subject, scope and objects of the Act\" .",
+      "id": "s120"
+    },
+    {
+      "text": "In response to this submission, at [57] of his reasons, observed:\n I am not sure that the purpose of Part 3 is to attribute legal responsibility for the causation of adverse impacts.",
+      "id": "s121"
+    },
+    {
+      "text": "To my mind the purpose of the Act is to prevent or minimise such adverse impact.",
+      "id": "s122"
+    },
+    {
+      "text": "... Causation is, of course, not mentioned in s 12 or the other analogous sections in Pt 3.",
+      "id": "s123"
+    },
+    {
+      "text": "However, it was submitted that there is necessarily a causal relationship between an action and any relevant impact.",
+      "id": "s124"
+    },
+    {
+      "text": "That is probably so, but I see no reason to introduce notions of causation into the process prescribed by s 75.",
+      "id": "s125"
+    },
+    {
+      "text": "It is not necessary to go beyond the language of the relevant sections.",
+      "id": "s126"
+    },
+    {
+      "text": "36 His Honour noted that the decision-maker in that matter had accepted the possibility that the coal might be burnt, thereby producing additional greenhouse gases which might cause climate change and said that \"The point at which he disagreed with the applicant was as to the likelihood of any adverse impact upon a protected matter and the extent thereof\".",
+      "id": "s127"
+    },
+    {
+      "text": "In my view that is precisely the position here.",
+      "id": "s128"
+    },
+    {
+      "text": "37 As the written submissions for the Minister point out, it is the link between future conduct and its potential impact that the delegate must investigate.",
+      "id": "s129"
+    },
+    {
+      "text": "The term \"impact\" was not defined in the Act until the introduction of s 527E on 19 February 2007, which is the date of the delegate's decision.",
+      "id": "s130"
+    },
+    {
+      "text": "Given the date of the section's commencement the definition applies to the delegate's decision, although it may be that the decision was made without recourse to the definition.",
+      "id": "s131"
+    },
+    {
+      "text": "There is, however, nothing in her reasons to indicate that she gave a meaning to the term different to that in the definition.",
+      "id": "s132"
+    },
+    {
+      "text": "38 Section 527E(1)(a) of the Act states that an event or circumstance is an \"impact\" of an action if it is a direct consequence of the action.",
+      "id": "s133"
+    },
+    {
+      "text": "An indirect consequence of an action is also an \"impact\" if, (subject to s 527E(2) which is not relevant here) the action is \"a substantial cause of that event or circumstance\"; s 527E(1)(b).",
+      "id": "s134"
+    },
+    {
+      "text": "As outlined in [26]-[27] above, the delegate accepted that greenhouse gases in the atmosphere are affecting global climate but, although not expressed in these words, she clearly found that the emissions from the proposed mine would not be a substantial cause of climate change affecting matters protected under Part 3 of the Act.",
+      "id": "s135"
+    },
+    {
+      "text": "39 The submission here is not distinguishable from that considered by Dowsett J in the Wildlife Preservation Society case and it should be dismissed for the reasons his Honour gave.",
+      "id": "s136"
+    },
+    {
+      "text": "The applicant attempted to distinguish the earlier case on the basis that in this case, unlike in the proceedings before Dowsett J, the delegate was provided with an estimate of the amount of greenhouse gas emissions likely to be produced each year; see [25] above.",
+      "id": "s137"
+    },
+    {
+      "text": "In my view that is not a ground of distinction.",
+      "id": "s138"
+    },
+    {
+      "text": "The question is not whether there is an impact but whether that impact is, will be or is likely to be significant.",
+      "id": "s139"
+    },
+    {
+      "text": "In my view Dowsett J was correct to reject introducing notions of causation into the process described by s 75.",
+      "id": "s140"
+    },
+    {
+      "text": "40 The applicant criticises the delegate for \"attempting to attribute a specific, identifiable and measurable rise in global temperatures or other greenhouse impacts from the mine\".",
+      "id": "s141"
+    },
+    {
+      "text": "I do not accept that this criticism is warranted.",
+      "id": "s142"
+    },
+    {
+      "text": "It may be that if the delegate had been able to detect such a link she could have reached a positive conclusion that an indirect consequence of the proposed action, namely the construction and operation of a coal mine, was likely to be a substantial and significant cause of harm to matters protected under Part 3.",
+      "id": "s143"
+    },
+    {
+      "text": "In the absence of such a link, however, the relatively small contribution of the proposed emissions to total global emissions could not be seen as having a significant impact.",
+      "id": "s144"
+    },
+    {
+      "text": "That is a conclusion that was open to her on the findings she had made.",
+      "id": "s145"
+    },
+    {
+      "text": "Context of Impact \n \n 41 Ground 2 of the application for review contains a claim that the delegate ought to have asked, \"whether the proposed action is likely to have an impact on a matter protected by Part 3 of the EPBC Act that is important, notable or of consequence having regard to its context or intensity\".",
+      "id": "s146"
+    },
+    {
+      "text": "Paragraph 56 of the applicant's written submissions expands on this argument:\n The proper approach required the delegate to ask whether the contribution of this proposal to those impacts which climate change is likely to bring to the matters protected by Part 3 of the EPBC Act is important, notable or of consequence having regard to its context not only in the total Australian and global emissions of greenhouse gases but in comparison to other actions that might reasonably be assessed under the EPBC Act .",
+      "id": "s147"
+    },
+    {
+      "text": "[emphasis added]\n 42 This submission appears to be directed to the fact that any proposed action in Australia is unlikely to appear significant in the context of global greenhouse gas emissions.",
+      "id": "s148"
+    },
+    {
+      "text": "For instance, the proposed action considered here is estimated to contribute, directly and indirectly, approximately 0.04% of annual global greenhouse emissions for every year of the life of the mine, assuming that global emissions remain at current levels.",
+      "id": "s149"
+    },
+    {
+      "text": "On a domestic level, however, the greenhouse gas emissions generated as a result of the proposed action every year would account for more than 2% of Australia's annual emissions, at 2004 levels.",
+      "id": "s150"
+    },
+    {
+      "text": "43 The applicant supports the assertion that the impact of actions should be assessed in the context of the impact of other potential actions by referring to Booth v Bosworth [2001] FCA 1453 ; (2001) 114 FCR 39, Minister for Environment and Heritage v Greentree [2004] FCA 741 ; (2004) 138 FCR 198, Greentree v Minister for Environment and Heritage [2005] FCAFC 128 ; (2005) 144 FCR 388, and Brown v Forestry Tasmania and Others (No 4) [2006] FCA 1729 ; (2006) 157 FCR 1.",
+      "id": "s151"
+    },
+    {
+      "text": "In my view none of these cases supports the applicant's argument.",
+      "id": "s152"
+    },
+    {
+      "text": "44 Whether or not, in terms of greenhouse gas emissions, this approach would materially alter the assessment of the Anvil Hill Project, I have difficulty in conceiving how one would go about assessing a proposed action in the context of hypothetical/potential actions.",
+      "id": "s153"
+    },
+    {
+      "text": "Be that as it may, however, the Act does not prescribe the frame of reference by which the Minister is to assess the significance or substantiality of an impact upon a protected matter.",
+      "id": "s154"
+    },
+    {
+      "text": "It contains no requirement that such assessment be confined to a comparison with other, hypothetical, proposed actions.",
+      "id": "s155"
+    },
+    {
+      "text": "The assessment of whether an impact is or is not significant is a question of fact; Minister for Environment and Heritage v Greentree [2004] FCA 741 ; (2004) 138 FCR 198 at [192] .",
+      "id": "s156"
+    },
+    {
+      "text": "As such, the delegate was entitled to assess the significance and substantiality of the impact of the proposal as a whole rather than merely in comparison with other potential actions.",
+      "id": "s157"
+    },
+    {
+      "text": "The applicant's assertion must be rejected.",
+      "id": "s158"
+    },
+    {
+      "text": "Grounds 3 and 4 \n \n 45 The applicant alleges that in assessing the impact of the proposed mine, the delegate failed to take a relevant consideration into account in that:\n the delegate failed to consider that the greenhouse gas emissions that will result from the action will contribute to \"loss of climatic habitat caused by anthropogenic emissions of greenhouse gas\" which is a key threatening process included in the list under s 183 of the EPBC Act.",
+      "id": "s159"
+    },
+    {
+      "text": "A process is a key threatening process if it satisfies the criteria established in s 188(3) and (4):\n \n (3) A process is a threatening process if it threatens, or may threaten, \n the survival, abundance or evolutionary development of a native \n species or ecological community.",
+      "id": "s160"
+    },
+    {
+      "text": "(4) A threatening process is eligible to be treated as a key threatening \n process if: \n \n \n \n (a) it could cause a native species or an ecological community to become eligible for listing in any category, other than conservation dependent; or \n \n \n \n (b) it could cause a listed threatened species or a listed \n \n \n \n threatened ecological community to become eligible to be listed in another category representing a higher degree of endangerment; or \n (c) it adversely affects 2 or more listed threatened species (other than conservation dependent species) or 2 or more listed threatened ecological communities.",
+      "id": "s161"
+    },
+    {
+      "text": "46 Listing a process as a key threatening process under s 183 authorises the establishment of a threat abatement plan under Part 13 Div 5 of the Environment Protection and Biodiversity Conservation Act 1999 (Cth).",
+      "id": "s162"
+    },
+    {
+      "text": "A threat abatement plan must provide for the research, management and other actions necessary to reduce the process to a level that maximises the chances of the survival of affected species and communities.",
+      "id": "s163"
+    },
+    {
+      "text": "47 Once a threat abatement plan has been established a Commonwealth agency must not take any action that contravenes it; s 268.",
+      "id": "s164"
+    },
+    {
+      "text": "In addition to this general prohibition the Act prohibits specific actions; see ss 34D(1)(c) , 34D (2)(c), 37G (c), 53 (1)(c), 53 (2)(c), 139 , 146K (2)(c), 305 (2)(a)(ii).",
+      "id": "s165"
+    },
+    {
+      "text": "The Commonwealth must implement a threat abatement plan to the extent to which it applies in Commonwealth areas, and must seek the cooperation of State/Territory governments with a view to jointly implementing any plan that applies in the State or Territory; s 269.",
+      "id": "s166"
+    },
+    {
+      "text": "The Commonwealth may also provide assistance to agencies and individuals to implement a plan; s 281.",
+      "id": "s167"
+    },
+    {
+      "text": "48 Section 270A(2) provides, however, that the Minister must not have a threat abatement plan unless he or she believes that \"having and implementing a threat abatement plan is a feasible, effective and efficient way to abate\" the key threatening process.",
+      "id": "s168"
+    },
+    {
+      "text": "The Minister may exempt specified persons from the provisions of a threat abatement plan only if \"he or she is satisfied that it is in the national interest that the provision not apply in relation to the person or the action\"; s 303A(4).",
+      "id": "s169"
+    },
+    {
+      "text": "49 There is nothing in the provisions concerning key threatening processes or threat abatement plans that relate to the determination of whether an action is a controlled action or oblige the Minster to take the listing of a process into account in making the determination.",
+      "id": "s170"
+    },
+    {
+      "text": "Even if this were not so, as discussed in relation to grounds 1 and 2, the delegate considered the substance of the threat of greenhouse gas emissions and associated global warming likely to result from the proposed action to matters protected under Part 3 of the Act and was not satisfied that there was a significant impact or the likelihood of one.",
+      "id": "s171"
+    },
+    {
+      "text": "The applicant's assertion of error in this regard cannot be substantiated.",
+      "id": "s172"
+    },
+    {
+      "text": "Grounds 5 and 6 \n \n 50 Section 18(5) of the Act specifies as a matter protected under Part 3 \"a listed threatened ecological community included in the critically endangered category\".",
+      "id": "s173"
+    },
+    {
+      "text": "The Minister is required by s 181 of the Act to establish a list of such communities by instrument published in the Gazette .",
+      "id": "s174"
+    },
+    {
+      "text": "It is not in dispute that the ecological community known as the White Box - Yellow Box - Blakely's Red Gum grassy woodlands and derived native grasslands (the \" White Box native grasslands community\") has been listed in the critically endangered community.",
+      "id": "s175"
+    },
+    {
+      "text": "The applicant challenges the delegate's finding that it was not likely that the proposed action would have a significant impact on the listed ecological community known as the White Box native grasslands Community.",
+      "id": "s176"
+    },
+    {
+      "text": "51 The legislative instrument that added the White Box native grasslands community to the list of critically endangered communities specified that the named community was \"as described in the schedule to this instrument\".",
+      "id": "s177"
+    },
+    {
+      "text": "The schedule contains a detailed description of the community and the areas where it generally occurs.",
+      "id": "s178"
+    },
+    {
+      "text": "The description illustrates the difficulty in describing ecological communities where the type of vegetation varies considerably.",
+      "id": "s179"
+    },
+    {
+      "text": "The schedule makes clear, however, that there are some essential requirements for an area to be included in the listed community.",
+      "id": "s180"
+    },
+    {
+      "text": "It states:\n White Box-Yellow Box-Blakely's Red Gum Grassy Woodland and Derived Native Grassland ... are characterised by a species-rich understorey of native tussock grasses, herbs and scatted shrubs, and the dominance, or prior dominance of White Box - Yellow Box - Blakely's Red Gum trees.",
+      "id": "s181"
+    },
+    {
+      "text": "In the Nandewar Bioregion Grey Box ... may also be dominant or co-dominant.",
+      "id": "s182"
+    },
+    {
+      "text": "The tree-cover is generally discontinuous and consists of widely-spaced trees of medium height in which the canopies are clearly separated.",
+      "id": "s183"
+    },
+    {
+      "text": "... \n Sites dominated by Western Grey Box ... or Coastal Grey Box ... without Yellow Box, White Box or Blakely's Red Gum as co-dominants are not considered to be part of the ecological community except in the Nandewar Bioregion.",
+      "id": "s184"
+    },
+    {
+      "text": "... \n ... a remnant with a continuous shrub layer, in which the shrub cover is greater than 30%, is considered to be shrubby woodland and so is not part of the listed ecological community.",
+      "id": "s185"
+    },
+    {
+      "text": "Areas in which an overstorey exists without a substantially native understorey are degraded and are no longer a viable part of the ecological community.",
+      "id": "s186"
+    },
+    {
+      "text": "Although some native species may remain, in most of these areas the native understorey is effectively irretrievable.",
+      "id": "s187"
+    },
+    {
+      "text": "In order for an area to be included in the listed ecological community, a patch must have a predominantly native understorey.",
+      "id": "s188"
+    },
+    {
+      "text": "In order to be the listed ecological community, an understorey patch, in the absence of overstorey trees, must \n \n \n &#8226; be a minimum of 0.1 hectares in size; and \n &#8226; have native species dominating the perennial vegetation of the ground layer; and \n &#8226; contain at least 12 native, non-grass understorey species ... ; and \n &#8226; contain at least one important species ... \n \n \n Areas with both an overstorey and understorey present are also considered of sufficiently good condition to be part of the listed ecological community if the understorey meets any of the conditions above, or they: \n \n \n &#8226; are a minimum of 2 hectares in size; and \n &#8226; have native species dominating the perennial vegetation of the ground layer; and \n &#8226; contain either 20 or more mature trees per hectare or natural regeneration of the overstorey species.",
+      "id": "s189"
+    },
+    {
+      "text": "[Emphasis added]\n 52 It can be seen from this description (see especially parts emphasised above) that in order to be part of the listed ecological community: \n \n \n (a) there must be a predominantly native understorey; \n (b) the presence of overstorey trees, in particular the presence of the White Box/Yellow Box/Blakely's Red Gum trees, is not essential; and \n (c) with the exception of the Nandewar Bioregion, it is essential that sites not be dominated Western Grey Box or Coastal Grey Box trees unless Yellow Box, White Box or Blakely's Red Gum are co-dominants.",
+      "id": "s190"
+    },
+    {
+      "text": "53 Although, the instrument specifically mentions only Western Grey Box or Coastal Grey Box trees as species that should not dominate, it would appear to follow from the requirement that, if there is an overstorey, Yellow Box, White Box or Blakely's Red Gum must be dominant or co-dominant, that areas in which the overstorey is dominated by other species are not within the listed ecological community.",
+      "id": "s191"
+    },
+    {
+      "text": "54 The applicant alleges that in determining whether the listed community occurred within the relevant area, the delegate erred in construing the White Box native grasslands community.",
+      "id": "s192"
+    },
+    {
+      "text": "The applicant correctly points out that what constitutes a listed community must be determined by reference to the legislative instrument that included it in the list established under s 181.",
+      "id": "s193"
+    },
+    {
+      "text": "It submits that in determining this issue the delegate construed the departmental policy statement rather than the legislative instrument and says that \"on the face of the reasons\" she did not consider the legislative instrument itself.",
+      "id": "s194"
+    },
+    {
+      "text": "The applicant points to the documents listed by the delegate (see [22] above) and notes that the instrument is not mentioned.",
+      "id": "s195"
+    },
+    {
+      "text": "One cannot, in my view, support the conclusion that the delegate did not consider the legislative instrument from that list.",
+      "id": "s196"
+    },
+    {
+      "text": "It is merely a list of the evidence and materials on which she based her finding of fact and which were included in the brief from the Department.",
+      "id": "s197"
+    },
+    {
+      "text": "It was no more necessary for the delegate to include the instrument in that list than it was necessary for her to include to the Act.",
+      "id": "s198"
+    },
+    {
+      "text": "Furthermore, in the penultimate paragraph of her reasons the delegate refers to \"the specific community listed under the EPBC Act, and as described in the Department's Policy Statement ...\".",
+      "id": "s199"
+    },
+    {
+      "text": "In this comment the delegate distinguishes between the description of the community in the Policy Statement and its listing under the Act.",
+      "id": "s200"
+    },
+    {
+      "text": "It is clear from this statement that the delegate was conscious of the description of the community in the legislative instrument.",
+      "id": "s201"
+    },
+    {
+      "text": "55 Included in the material considered by the delegate was the Anvil Hill Project Environmental Assessment prepared by Umwelt (Australia) Pty Limited (the 'Umwelt Report') as well as supplementary material and correspondence prepared by the company.",
+      "id": "s202"
+    },
+    {
+      "text": "That study noted that from a search of the Department's Protected Matters Database, the White Box native grasslands community was the only listed critically endangered community that had the potential to occur in the relevant area.",
+      "id": "s203"
+    },
+    {
+      "text": "In their written submissions for the first respondent Mr Gaegler SC and Mr Williams accurately summarised the pertinent sections of the Umwelt Report and I gratefully adopt their summary:\n \"The White Box-Yellow Box-Blakeley's Red Gum Grassy Woodland and Derived Native Grassland ecological community is listed as a threatened ecological community in the critically endangered category pursuant to s 181 of the Act (the White-Box Grassy Woodlands community).",
+      "id": "s204"
+    },
+    {
+      "text": "In the Ecological Assessment provided by Centennial Hunter Pty Ltd (Centennial) in support of its referral of the Project to the Minister (the EA), the author of the study, Umwelt Pty Ltd (Umwelt) noted that from a search of the Department's Protected Matters Database, the only EPBC-listed critically endangered ecological community that had the potential to occur in the Study Area was the White-Box Grassy Woodlands community.",
+      "id": "s205"
+    },
+    {
+      "text": "The EA covered a study area of 4142 ha.",
+      "id": "s206"
+    },
+    {
+      "text": "Umwelt undertook a vegetation mapping exercise to delineate vegetation communities across the Study Area and the local area within three kilometres of the boundary, as a result of which it recorded 17 vegetation communities.",
+      "id": "s207"
+    },
+    {
+      "text": "It described each vegetation community it recorded by reference to a floristic and structural description, the occurrence of each community in the Study Area and \" the degree of similarities with communities delineated by the Hunter Remnant Vegetation Project (Peake 2006), and the conservation status of the community \".",
+      "id": "s208"
+    },
+    {
+      "text": "The Hunter Remnant Vegetation Project to which Umwelt referred was a study conducted by Mr Travis Peake on behalf of the Hunter Central Rivers Catchment Management Authority.",
+      "id": "s209"
+    },
+    {
+      "text": "The area mapped by Peake \" covered 315,000 hectares stretching from Scone in the north to Denman in the south-west and Branxton in the south-east, and included the land now included in the Project Area \".",
+      "id": "s210"
+    },
+    {
+      "text": "In a subsequent document, Umwelt noted that the Project was \"a comprehensive study of remnant vegetation of the Central Hunter Valley, which included the entire Anvil Hill Study Area\".",
+      "id": "s211"
+    },
+    {
+      "text": "The vegetation communities identified by Umwelt included the Forest Red Gum Riparian Woodland.",
+      "id": "s212"
+    },
+    {
+      "text": "Umwelt described that community in the EA as displaying, inter alia, the following characteristics.",
+      "id": "s213"
+    },
+    {
+      "text": "\"Forest Red Gum Riparian Woodland occurs in riparian areas in the Proposed Disturbance Area, where it is restricted to Anvil Creek and Clark's Gully ....",
+      "id": "s214"
+    },
+    {
+      "text": "It forms a woodland to open forest (10-40% cover) that is usually mid-high (15-25 metres).",
+      "id": "s215"
+    },
+    {
+      "text": "Forest Red Gum ... forms the dominant canopy species, however other common trees can include rough-barked apple ... grey box ... or Blakely's red gum ..., and rarely western grey box ... or yellow box ... Black cypress pine ... may also be locally abundant in some areas.",
+      "id": "s216"
+    },
+    {
+      "text": "\"\n \n \n \n In the EA, Umwelt expressed the view that the Forest Gum Riparian Woodland was the most likely vegetation community in the Study Area that could potentially conform to the White-Box Grassy Woodlands community.",
+      "id": "s217"
+    },
+    {
+      "text": "The White-Box Grassy Woodlands community covers a very broad geographical distribution, such that its characteristic species list may not be highly indicative of the nature of the community where it occurs at the margins of its ranges, such as in the Upper Hunter Valley.",
+      "id": "s218"
+    },
+    {
+      "text": "Accordingly, in order to asses whether or not the Forest Red Gum Riparian Woodland conformed with the White-Box Grassy Woodlands community, Umwelt compared the diagnostic species of the former with the diagnostic species list of a vegetation community mapped by Peake in his study, namely the \" Upper Hunter White Box --- Ironbark Grassy Woodland \".",
+      "id": "s219"
+    },
+    {
+      "text": "Peake had identified the Upper Hunter White Box community in the vicinity of the Project Area; it was \" more or less \", in his opinion of such a composition that it \" should therefore generally be regarded as the CEEC \".",
+      "id": "s220"
+    },
+    {
+      "text": "Umwelt noted that the vegetation community mapped by Peake as existing in the general area, more or less corresponded with the White-Box Grassy Woodlands community.",
+      "id": "s221"
+    },
+    {
+      "text": "The purpose of the comparison between the vegetation community mapped by Peake and the Forest Red Gum Riparian Woodland was to assess the level of sharing of the respective diagnostic species.",
+      "id": "s222"
+    },
+    {
+      "text": "On the basis of that comparison, Umwelt concluded that the White-Box Grassy Woodlands community was not present in the study area.",
+      "id": "s223"
+    },
+    {
+      "text": "Subsequently, the applicant made a submission to the Minister in relation to the Project, which took issue with the use of a comparison between the woodland communities and identified by Peake to determine the existence of otherwise of endangered communities, rather than a comparison with the prescribed species list for those communities, referencing a submission made by Associate-Professor Paul Adam to the New South Wales Department of Planning in relation to the Environmental Assessment submitted to the Minister for Planning.",
+      "id": "s224"
+    },
+    {
+      "text": "A subsequent document prepared by Umwelt dated 7 February 2007, noted that the Department had requested additional clarification of a number of issues associated with the Project, including \" clarification on the EPBC listed White Box-Yellow Box-Blakely's Red Gum EC \" and \" an analysis of why the ECs investigated do not conform to the EPBC listed EC\".",
+      "id": "s225"
+    },
+    {
+      "text": "Umwelt noted that it had undertaken a detailed assessment of the similarity of the White-Box Grassy Woodlands community to the vegetation communities in the Study Area, based on \" floristic descriptions of the listed CEEC or other suitable vegetation communities within the region as outlined below \", as a result of which it was determined that the White-Box Grassy Woodlands community was not present.",
+      "id": "s226"
+    },
+    {
+      "text": "In addition to the Forest Red Gum Riparian Woodland, Umwelt identified a further vegetation community that \" could have potential similarity \" to the White-Box Grassy Woodlands community, namely the Ironbark Woodland Complex.",
+      "id": "s227"
+    },
+    {
+      "text": "Umwelt described this community as follows.",
+      "id": "s228"
+    },
+    {
+      "text": "\" Ironbark Woodland Complex occurs extensively across the study area.",
+      "id": "s229"
+    },
+    {
+      "text": "It is a highly variable community, both in terms of its structure and floristic composition, and is characterised by the more or less ubiquitous presence of narrow-leaved ironbark...",
+      "id": "s230"
+    },
+    {
+      "text": "It typically forms a canopy that has 10-40% cover and ranges between 10 and 25 metres in height.",
+      "id": "s231"
+    },
+    {
+      "text": "It often forms associations with several other canopy trees, including grey box ..., Blakely's red gum ..., rough-barked apple ... and kurrajong ... Bulloak ..., drooping sheoak ... or black cypress pine ... may form a sparse to occasionally dense mid-understorey in many areas.",
+      "id": "s232"
+    },
+    {
+      "text": "\"\n \n \n \n A further analysis of the diagnostic species list of the community identified by Peake, namely the Upper Hunter White Box --- Ironbark Grassy Woodland revealed that the Ironbark Woodland Complex was, in fact, more similar to a different community identified by Peake.",
+      "id": "s233"
+    },
+    {
+      "text": "As such, it was \" not compatible with any presently listed EEC or CEEC\".",
+      "id": "s234"
+    },
+    {
+      "text": "56 The delegate found on the basis of this assessment and the other material that was before her that there are two other vegetation communities in the project area, namely Forest Red Gum Riparian Woodland and the Ironbark Woodland Complex.",
+      "id": "s235"
+    },
+    {
+      "text": "She concluded, however, that these communities \"do not constitute the listed ecological community under the EPBC Act based on vegetative diagnostic plots\".",
+      "id": "s236"
+    },
+    {
+      "text": "She added:\n In particular, I found that key diagnostic species, such as White Box, Yellow Box or Blakely's Red Gum, were absent or not present as the dominant canopy species sufficient to form the listed community.",
+      "id": "s237"
+    },
+    {
+      "text": "I therefore found that a significant impact on listed ecological communities is not likely.",
+      "id": "s238"
+    },
+    {
+      "text": "57 As previously explained, (see [52] above) the presence of overstorey trees is not essential to the identification of the White Box native grasslands community.",
+      "id": "s239"
+    },
+    {
+      "text": "If there is an overstorey, however, it is essential that Yellow Box, White Box or Blakely's Red Gum be dominant or co-dominant.",
+      "id": "s240"
+    },
+    {
+      "text": "The delegate's finding that there was a tree canopy in the vegetation communities she identified, coupled with her finding that White Box, Yellow Box or Blakely's Red Gum \"were absent or not present as the dominant canopy species\", leads to the conclusion that the White Box native grasslands community does not occur in the subject area.",
+      "id": "s241"
+    },
+    {
+      "text": "As the written submissions for the second respondent express it, \"The presence of other woodlands excludes, definitionally , that ecological community\".",
+      "id": "s242"
+    },
+    {
+      "text": "58 Whether or not the delegate's conclusion is correct as a matter of fact is not the issue here.",
+      "id": "s243"
+    },
+    {
+      "text": "There is nothing in this reasoning that indicates that the delegate made the legal errors asserted by the applicant.",
+      "id": "s244"
+    },
+    {
+      "text": "For this reason grounds 5 and 6 must be rejected.",
+      "id": "s245"
+    },
+    {
+      "text": "Ground 7 --- Jurisdictional Fact \n \n 59 The applicant alleges that the delegate's decision that the second respondent's proposed action was not a controlled action was not authorised by the Act and that she did not have jurisdiction to make it.",
+      "id": "s246"
+    },
+    {
+      "text": "The delegate's decision was based on the factual finding that the proposed mine will not have and is not likely to have a significant impact on a matter protected under Part 3 of the Act.",
+      "id": "s247"
+    },
+    {
+      "text": "The applicant submits that this fact is a jurisdictional fact.",
+      "id": "s248"
+    },
+    {
+      "text": "By this it means that the existence of this fact is a precondition to the Minister making a valid decision.",
+      "id": "s249"
+    },
+    {
+      "text": "In other words, if the Minister's factual finding on this point is in error then he or she has no jurisdiction to decide that the proposed action is not a controlled action.",
+      "id": "s250"
+    },
+    {
+      "text": "A better way of stating the jurisdictional fact proposition is that to say that the Minister's determination of the fact is not conclusive and that Court has power to review the finding on the basis of evidence as to the existence or non-existence of the fact.",
+      "id": "s251"
+    },
+    {
+      "text": "As Spigelman CJ pointed out in Timbarra Protection Coalition Inc v Ross Mining NL [1999] NSWCA 8 ; (1999) 46 NSWLR 55 at 71:\n ... facts, even where they are described as \"objective\", do not have an existence independent of their identification by some process of human agency.",
+      "id": "s252"
+    },
+    {
+      "text": "An administrative decision-maker often has to determine jurisdictional facts, but does not do so conclusively.",
+      "id": "s253"
+    },
+    {
+      "text": "This has been recognised as long ago as Bunbury v Fuller (1853) 9 Ex 111at 140; 156 ER 47 at 60 \n 60 Ultimately the question whether a particular finding of fact is jurisdictional depends on the proper construction of the relevant statute.",
+      "id": "s254"
+    },
+    {
+      "text": "The consequence of characterising a fact as jurisdictional is that the finding of fact can be reviewed on the merits and the court's opinion may be substituted for that of the administrative decision-maker.",
+      "id": "s255"
+    },
+    {
+      "text": "61 The concept of jurisdictional fact was explained most lucidly by Spigelman CJ in Timbarra at 64:\n The parliament can make any fact a jurisdictional fact, in the relevant sense: that it must exist in fact (objectivity) and that the legislature intends that the absence or presence of the fact will invalidate action under the statute (essentiality) ... \n ... \n Any statutory formulation which contains a factual reference must be construed so as to determine the meaning of the words chosen by parliament, having regard to the context of that statutory formulation and the purpose or object underlying the legislation.",
+      "id": "s256"
+    },
+    {
+      "text": "There is nothing special about the task of statutory construction with regard to the determination of the issue whether the factual reference is a jurisdictional fact.",
+      "id": "s257"
+    },
+    {
+      "text": "All the normal rules of statutory construction apply.",
+      "id": "s258"
+    },
+    {
+      "text": "... \n Where the process of construction leads to the conclusion that parliament intended that the factual reference can only be satisfied by the actual existence (or non-existence) of the fact or facts, then the rule of law requires a court with a judicial review jurisdiction to give effect to that intention by inquiry into the existence of the fact or facts.",
+      "id": "s259"
+    },
+    {
+      "text": "62 In support of the submission that the fact that the proposed mine will not have, or is unlikely to have, a significant impact on matters protected under Part 3 is a jurisdictional fact, the applicant makes four points:\n (a) the construction for which it contends would best promote the declared objects of the Act;\n (b) in applying the civil offence provisions or deciding whether to grant an injunction under s 475, the Court must construe the same language, as must the State and Territory courts for the purpose of applying the criminal offence provisions.",
+      "id": "s260"
+    },
+    {
+      "text": "It would be inconsistent for the Act to provide for the Minister's determination under s 75 to be conclusive when the Court has to determine the same issue under the prohibition sections of Part 3; \n (c) there is no reference to the Minister's state of mind in s 75 whereas there is in closely related provisions of the Act; \n (d) the definition of \"controlled action\" in s 67 and the reference to such actions in s 82 do not refer to the decision of the Minister.",
+      "id": "s261"
+    },
+    {
+      "text": "63 Section 75(1) obliges the Minister to decide whether an action is a controlled action and, if it is, which provisions of Part 3 are the controlling provisions.",
+      "id": "s262"
+    },
+    {
+      "text": "The applicant rightly points out that the language of s 75 requires the Minister to recognise his jurisdiction and that it does not follow that the Minister is to determine the issue subjectively.",
+      "id": "s263"
+    },
+    {
+      "text": "It is relevant that s 75 contains no reference to the Minister's mental state by the use of words such as \"opinion\", \"belief\" or \"satisfaction\" which often signify that the decision is not a jurisdictional fact.",
+      "id": "s264"
+    },
+    {
+      "text": "While the presence of such terms would almost invariably indicate that the determination of fact is not jurisdictional (see for instance, Vanmeld Pty Ltd v Fairfield City Council [1999] NSWCA 6 ; (1999) 46 NSWLR 78 at 90-91), their absence is not decisive; see Timbarra at 64.",
+      "id": "s265"
+    },
+    {
+      "text": "See also Beyazkilinc v Baxter Immigration Reception and Processing Centre [2006] FCA 1368 ; (2006) 155 FCR 465 at 475-8 per Besanko J.",
+      "id": "s266"
+    },
+    {
+      "text": "64 I do not attach any significance to the fact that ss 67 and 82 refer to controlled actions without reference to the Minister's determination of that fact.",
+      "id": "s267"
+    },
+    {
+      "text": "Section 67 defines the term that is the subject of the Minister's determination under s75.",
+      "id": "s268"
+    },
+    {
+      "text": "It would be circular for it to define it in terms of the Minister's determination.",
+      "id": "s269"
+    },
+    {
+      "text": "65 A similar position pertains in relation to s 82.",
+      "id": "s270"
+    },
+    {
+      "text": "The Act clearly distinguishes between a controlled action and the Minister's decision that an action may be characterised as such.",
+      "id": "s271"
+    },
+    {
+      "text": "The Minister's statement that an action is a controlled action is not a performative utterance.",
+      "id": "s272"
+    },
+    {
+      "text": "The Minister may be wrong.",
+      "id": "s273"
+    },
+    {
+      "text": "The Act does not prohibit a person who believes strongly enough that the Minister is wrong and that consequently the prohibitions in Part 3 do not apply, from taking the action and if exposed to penalties testing that belief in the courts.",
+      "id": "s274"
+    },
+    {
+      "text": "Similarly the Minister has the power under s 78 to review a decision made by him under s 75(1).",
+      "id": "s275"
+    },
+    {
+      "text": "This also weighs against the conclusiveness of the initial determination and the jurisdictional fact thesis.",
+      "id": "s276"
+    },
+    {
+      "text": "66 As the first respondent points out, the Minister's decision may be made on the basis of information and comment obtained under the provisions of the Act; see, for example s 72(2) and s 75(1A).",
+      "id": "s277"
+    },
+    {
+      "text": "Were the matter to be determined by a Court it would be decided on the basis of admissible evidence.",
+      "id": "s278"
+    },
+    {
+      "text": "This difference also weighs against the submission that the decision involves a determination of a jurisdictional fact.",
+      "id": "s279"
+    },
+    {
+      "text": "67 It is significant that the Act provides for a number of consequences to flow from the fact of the Minister's decision under s 75(1) having been made as opposed to the objective fact that the proposed action is or is not a controlled action.",
+      "id": "s280"
+    },
+    {
+      "text": "For instance s 75(3) requires the Minister to designate a person as proponent of the action if the Minister decides that an action is a controlled action.",
+      "id": "s281"
+    },
+    {
+      "text": "68 A decision that the action is a controlled action leads, subject to some exceptions not presently relevant, to further assessment in accordance with Part 8 of the Act.",
+      "id": "s282"
+    },
+    {
+      "text": "Most importantly, for present purposes, exemptions from the prohibitions and penalties under Part 3 apply \"where there is in force a decision of the Minister\" under Division 2 of Part 7 (which includes s 75) that the relevant provision is not a controlling provision.",
+      "id": "s283"
+    },
+    {
+      "text": "The language is consistent with it being the fact of the decision that brings with it those consequences not the fact of there being a significant impact (or its absence).",
+      "id": "s284"
+    },
+    {
+      "text": "69 If the legislature intended these consequences to follow only from an objective determination that an action is or is not a controlled action, it would be surprising for the consequences to be expressed as following from the fact of the Minister having made the determination rather than to a statement of the fact.",
+      "id": "s285"
+    },
+    {
+      "text": "Even more telling, perhaps, is the fact that it would be unnecessary to provide exemptions from the controlling provisions in Part 3 in respect of an action that, objectively, is not a controlled action in respect of a provision.",
+      "id": "s286"
+    },
+    {
+      "text": "By definition such an action would not fall within the relevant prohibitions.",
+      "id": "s287"
+    },
+    {
+      "text": "The language is too pointed and the repetition of the exemptions too frequent for this simply to be a provision that is not strictly necessary but made in an abundance of caution.",
+      "id": "s288"
+    },
+    {
+      "text": "The exemption is repeated specifically and deliberately in every controlling provision; see for example, ss 12(2)(c), 15A(4)(c), 15B(8)(c), 15C(16)(c), 16(2)(c), 17B(4)(c), 19(3)(b), 20(2)(c) to mention just a few of the relevant subsections.",
+      "id": "s289"
+    },
+    {
+      "text": "70 The applicant submits that its jurisdictional fact thesis would best promote the objects of the Act; see [4] above.",
+      "id": "s290"
+    },
+    {
+      "text": "The Minister submits that those objects are advanced on either construction.",
+      "id": "s291"
+    },
+    {
+      "text": "In particular the legislature's aim to advance the objects of the Act by \"an efficient and timely Commonwealth environmental assessment and approval process\" is consistent with a scheme by which the Act provides an initial clearing house so that actions that are likely to have a significant impact on the environment are properly assessed and those that do not fall into that category may be identified in a timely way and not impeded.",
+      "id": "s292"
+    },
+    {
+      "text": "The availability of merits review at this stage would not assist this aim.",
+      "id": "s293"
+    },
+    {
+      "text": "71 The Minister's decision may be made, as the first respondent points out, on the basis of information and comment obtained under the provisions of the Act; see, for example s 72(2) and s 75(1A).",
+      "id": "s294"
+    },
+    {
+      "text": "Were the matter to be determined by a Court it would be decided on the basis of admissible evidence.",
+      "id": "s295"
+    },
+    {
+      "text": "This difference also weighs against the submission that the decision involves a determination of a jurisdictional fact.",
+      "id": "s296"
+    },
+    {
+      "text": "72 While there is no authority directly in point the approach of the Full Court in Minister for Environment and Heritage v Queensland Conservation Council Inc [2004] FCAFC 190 ; (2004) 139 FCR 24 impliedly accepted that the Minister's determination was not subject to merits review by the Court.",
+      "id": "s297"
+    },
+    {
+      "text": "The Full Court stated at [53] of its reasons:\n Provided that the concept [of impact] is understood and applied correctly ... it is a question of fact for the Environment Minister whether a particular adverse effect is an \"impact\" of a proposed action.",
+      "id": "s298"
+    },
+    {
+      "text": "73 There is, of course, much more that could be said for and against the proposition for which the applicant contends.",
+      "id": "s299"
+    },
+    {
+      "text": "I am satisfied, however, that for the reasons given the contention of jurisdictional fact cannot be supported.",
+      "id": "s300"
+    },
+    {
+      "text": "74 For this and all the reasons given above, it is my view that the application must be dismissed with costs.",
+      "id": "s301"
+    },
+    {
+      "text": "It follows that the question reserved on 25 July 2007 (see [30] above) does not arise.",
+      "id": "s302"
+    },
+    {
+      "text": "I certify that the preceding seventy-four (74) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Stone.",
+      "id": "s303"
+    },
+    {
+      "text": "Associate:\nDated: 20 September 2007\n Counsel for the Applicant: L McCallum SC, C McGrath Solicitor for the Applicant: Environmental Defenders Office Counsel for the First Respondent: S Gageler SC, S Lloyd, A Mitchelmore Solicitor for the First Respondent: Australian Government Solicitor Counsel for the Second Respondent: MJ Leeming SC Solicitor for the Second Respondent: Blake Dawson Waldron Date of Hearing: 21 and 22 August 2007 Date of Judgment: 20 September 2007 \n\n\n \n \n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/1480.html",
+      "id": "s304"
+    }
+  ]
+}

@@ -1,0 +1,572 @@
+{
+  "name": "MM v Australian Crime Commission [2007] FCA 2026 (19 December 2007)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2007/2026.html",
+  "catchphrases": [
+    {
+      "text": "where notices requiring production of documents issued to persons or entities other than holder of the privilege",
+      "id": "c0"
+    },
+    {
+      "text": "whether notices invalid",
+      "id": "c1"
+    },
+    {
+      "text": "whether requirement to give holder of privilege a reasonable opportunity to assert legal professional privilege.",
+      "id": "c2"
+    },
+    {
+      "text": "legal professional privilege",
+      "id": "c3"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "1 This proceeding is concerned with the validity of notices issued under the Australian Crime Commission Act 2002 (Cth) ( the Act ) requiring the production to the Australian Crime Commission ( the Commission ) of documents in respect of which there may be a claim for legal professional privilege.",
+      "id": "s0"
+    },
+    {
+      "text": "The applicants claim to have legal professional privilege in relation to documents produced by third parties in response to such notices.",
+      "id": "s1"
+    },
+    {
+      "text": "They claim the return of documents in respect of which legal professional privilege is asserted to exist.",
+      "id": "s2"
+    },
+    {
+      "text": "2 The Court has conducted a final hearing on the basis of admissions made on the pleadings.",
+      "id": "s3"
+    },
+    {
+      "text": "However, if the applicants succeed in their primary contentions, it will be necessary for there to be a further inquiry in order to identify relevant documents and to determine what consequences should flow if it be the fact that privileged documents have been produced to the Commission without the consent of the applicants.",
+      "id": "s4"
+    },
+    {
+      "text": "3 In order to put the issues raised in the proceeding in context, it is necessary to say something about the scheme of the Act.",
+      "id": "s5"
+    },
+    {
+      "text": "I shall then say something about the relevant facts arising from the pleadings.",
+      "id": "s6"
+    },
+    {
+      "text": "STATUTORY FRAMEWORK \n \n4 The Commission is established by s 7 of the Act.",
+      "id": "s7"
+    },
+    {
+      "text": "The Commission consists of the Chief Executive Officer of the Commission ( the CEO ), examiners appointed under s 46B(1) of the Act ( Examiners ) and the members of the staff of the Commission.",
+      "id": "s8"
+    },
+    {
+      "text": "The Board of the Commission is established by s 7B of the Act.",
+      "id": "s9"
+    },
+    {
+      "text": "The Board consists of the following persons:\n \n \n &#8226; the Commissioner of the Australian Federal Police;\n &#8226; the Secretary of the relevant Department;\n &#8226; the Chief Executive Officer of the Australian Customs Service;\n &#8226; the Chairperson of the Australian Securities and Investments Commission;\n &#8226; the Director-General of Security;\n &#8226; the head of the police forces of each State and Territory;\n &#8226; the CEO.",
+      "id": "s10"
+    },
+    {
+      "text": "5 The functions of the Commission include investigating, when authorised by the Board, matters relating to federally relevant criminal activity .",
+      "id": "s11"
+    },
+    {
+      "text": "The functions of the Board include authorising the Commission to investigate matters relating to federally relevant criminal activity and determining whether such an investigation is a special investigation .",
+      "id": "s12"
+    },
+    {
+      "text": "6 Before determining that an investigation is a special investigation, the Board must consider whether ordinary police methods of investigation into the matters are likely to be effective.",
+      "id": "s13"
+    },
+    {
+      "text": "Such a determination must describe the general nature of the circumstances or allegations constituting the federally relevant criminal activity and set out the purpose of the investigation.",
+      "id": "s14"
+    },
+    {
+      "text": "7 Division 2 of Part II of the Act, which consists of ss 24A to 36 inclusive, deals with examinations.",
+      "id": "s15"
+    },
+    {
+      "text": "Under s 24A an examiner may conduct an examination for the purposes of an investigation into matters relating to federally relevant criminal activity that the Commission is conducting ( ACC Operation/Investigation ).",
+      "id": "s16"
+    },
+    {
+      "text": "Section 25A deals with the conduct of such an examination.",
+      "id": "s17"
+    },
+    {
+      "text": "8 Under s 28(1) an Examiner may summon a person to give evidence and to produce such documents or other things, if any, as are referred to in the summons.",
+      "id": "s18"
+    },
+    {
+      "text": "However, under s 28(1A) , before issuing such a summons, the Examiner must be satisfied that it is reasonable in all the circumstances to do so.",
+      "id": "s19"
+    },
+    {
+      "text": "The Examiner must also record in writing the reasons for the issue of the summons.",
+      "id": "s20"
+    },
+    {
+      "text": "Under s 28(4) an Examiner who is holding an examination may require a person appearing at the examination to produce a document or other thing.",
+      "id": "s21"
+    },
+    {
+      "text": "Under s 30(2)(c) , a person appearing as a witness at an examination before an Examiner must not refuse or fail to produce a document or thing that he or she was required to produce by a summons under the Act served on him or her as prescribed.",
+      "id": "s22"
+    },
+    {
+      "text": "9 Section 29(1) of the Act provides that an Examiner may, by notice in writing served on a person, require the person to attend before an Examiner, or a member of the staff of the Commission, to produce a document or thing specified in the notice, being a document or thing that is relevant to a special ACC Operation/Investigation.",
+      "id": "s23"
+    },
+    {
+      "text": "However, before issuing such a notice, the Examiner must be satisfied that it is reasonable in all the circumstances to do so.",
+      "id": "s24"
+    },
+    {
+      "text": "The Examiner must also record in writing the reasons for the issue of the notice.",
+      "id": "s25"
+    },
+    {
+      "text": "Under s 29(3) , a person must not refuse or fail to comply with a notice served on him or her under s 29.",
+      "id": "s26"
+    },
+    {
+      "text": "10 Section 30(3) relevantly provides that, where a legal practitioner is required to produce a document at an examination before an Examiner and the document contains a privileged communication made by or to the legal practitioner in his or her capacity as a legal practitioner, the legal practitioner is entitled to refuse to comply with the requirement unless the person to whom or by whom the communication was made agrees to the legal practitioner complying with the requirement.",
+      "id": "s27"
+    },
+    {
+      "text": "Section 30(9) provides that s 30(3) does not affect the law relating to legal professional privilege.",
+      "id": "s28"
+    },
+    {
+      "text": "Under s 29(4) , those provisions apply to a person who is required to produce a document or thing by notice served on him or her under s 29 in the same manner as they apply in relation to a person who is required to produce a document or thing at an examination before an Examiner.",
+      "id": "s29"
+    },
+    {
+      "text": "11 Sections 29A and 29B of the Act were inserted by the National Crime Authority Amendment Act 1991 (Cth) ( the 1991 Amendment Act ).",
+      "id": "s30"
+    },
+    {
+      "text": "On the second reading of the Bill for the 1991 Amendment Act, the Attorney-General said that the Bill contained several proposals that were designed to improve the efficiency and effectiveness of the operations of the National Crime Authority, the predecessor of the Commission.",
+      "id": "s31"
+    },
+    {
+      "text": "The Attorney-General said that the amendments would prevent the disclosure of the existence of processes issued by the Commission in the course of its investigations and would also prevent disclosure of any information about the reference, the investigation or any hearings or proceedings to which the process relates.",
+      "id": "s32"
+    },
+    {
+      "text": "The Attorney-General said that, previously, some recipients of summonses or notices, such as financial institutions, felt obliged to inform their clients of the receipt of such documents and that that resulted in suspects being alerted to investigations and concealing or destroying evidence or going into hiding.",
+      "id": "s33"
+    },
+    {
+      "text": "The Attorney-General said that the amendments would help to prevent that happening again and would clarify the legal position of such institutions.",
+      "id": "s34"
+    },
+    {
+      "text": "The effect of ss 29A and 29B, which are critical to the issues raised in this proceeding, must be understood against that background.",
+      "id": "s35"
+    },
+    {
+      "text": "12 Section 29A(1) provides that the Examiner issuing a summons under s 28 or a notice under s 29 must, or may, as provided in s 29A(2), include in the summons or notice a notation to the effect that disclosure of information about the summons or notice, or any official matter connected with it, is prohibited except in the circumstances, if any, specified in the notation.",
+      "id": "s36"
+    },
+    {
+      "text": "Section 29A(2) provides that a notation must not be included in a summons or notice except, relevantly, as follows:\n \n \n &#8226; the Examiner must include the notation if satisfied that failure to do so would reasonably be expected to prejudice the effectiveness of an investigation;\n &#8226; the Examiner may include the notation if satisfied that the failure to do so might prejudice the effectiveness of an investigation;\n &#8226; the Examiner may include the notation if satisfied that the failure to do so might otherwise be contrary to the public interest.",
+      "id": "s37"
+    },
+    {
+      "text": "If a notation is included in a summons or notice, it must be accompanied by a written statement setting out the rights and obligations conferred or imposed by s 29B on the person who is served with, or otherwise given, the summons or notice.",
+      "id": "s38"
+    },
+    {
+      "text": "13 Section 29A(4) relevantly provides that all of the notations included under s 29A in any notices relating to an investigation are cancelled if, after the Commission has concluded the investigation concerned:\n \n \n &#8226; no evidence of an offence has been obtained; or\n &#8226; evidence of an offence or offences has been assembled and the CEO has been advised that no person will be prosecuted; or\n &#8226; evidence of an offence or offences committed by any one person has been assembled and criminal proceedings have begun against that person; or\n &#8226; evidence of an offence or offences committed by two or more persons has been assembled and criminal proceedings have begun against all those persons or criminal proceedings have begun against one or more of those persons and the CEO has advised that no other of those persons will be prosecuted.",
+      "id": "s39"
+    },
+    {
+      "text": "If a notation is cancelled by the operation of s 29A(4), the CEO must serve a written notice of that fact on each person who was given the notice containing the notation.",
+      "id": "s40"
+    },
+    {
+      "text": "14 Section 29B(1) provides that a person who is given a summons or notice containing a notation under s 29A must not disclose:\n \n \n &#8226; the existence of the summons or notice or any information about it; or\n &#8226; the existence of, or any information about, any official matter connected with the summons or notice.",
+      "id": "s41"
+    },
+    {
+      "text": "Official matter means:\n \n \n &#8226; the determination of the Board that an investigation is a special investigation;\n &#8226; an ACC operation/investigation;\n &#8226; an examination held by an Examiner;\n &#8226; a court proceeding.",
+      "id": "s42"
+    },
+    {
+      "text": "A reference in s 29B to disclosing the existence of something includes disclosing information from which a person could reasonably be expected to infer the existence of the thing.",
+      "id": "s43"
+    },
+    {
+      "text": "15 However, s 29B(1) does not prevent a person from making a disclosure:\n \n \n &#8226; in accordance with the circumstances, if any, specified in the notation; or\n &#8226; to a legal practitioner for the purpose of obtaining legal advice or representation relating to the summons, notice or matter; or\n &#8226; if the person is a legal practitioner, for the purpose of obtaining the agreement of another person, under s 30(3), to the legal practitioner producing a document at an examination before an Examiner.",
+      "id": "s44"
+    },
+    {
+      "text": "If such a permitted disclosure is made to a person, that person must not disclose the existence of, or any information about the summons or notice, or any official matter connected with it, subject to exceptions that are not presently relevant.",
+      "id": "s45"
+    },
+    {
+      "text": "16 Under s 59(1), the Chair of the Board must keep the Minister informed of the general conduct of the Commission in the performance of the Commission's functions.",
+      "id": "s46"
+    },
+    {
+      "text": "If the Minister requests the Chair to provide information concerning a specific matter relating to the Commission's conduct in the performance of its functions, the Chair must comply with the request.",
+      "id": "s47"
+    },
+    {
+      "text": "Section 59(7) provides that the CEO may give to any law enforcement agency any information that is in the Commission's possession that is relevant to the activities of that agency, if it appears to the CEO to be appropriate to do so and to do so would not be contrary to a law of the Commonwealth, a State or a Territory that would otherwise apply.",
+      "id": "s48"
+    },
+    {
+      "text": "THE RELEVANT FACTS AND CIRCUMSTANCES CONCERNING THE ISSUE OF NOTICES \n \n17 The Commission is conducting a special investigation known as the Wickenby Investigation .",
+      "id": "s49"
+    },
+    {
+      "text": "The Wickenby Investigation includes the investigation of the taxation affairs of the applicants, and entities associated with them, and involves complex questions of Australian and international taxation law.",
+      "id": "s50"
+    },
+    {
+      "text": "In connection with the Wickenby Investigation an Examiner made a decision to issue notices under s 29 of the Act to persons or entities other than the applicants.",
+      "id": "s51"
+    },
+    {
+      "text": "18 Pursuant to that decision, notices were issued to persons and entities other than the applicants, including advisers to the applicants who were accounting firms.",
+      "id": "s52"
+    },
+    {
+      "text": "Neither of the applicants was aware, and was not informed by the Commission, of the fact that notices had been issued to such persons and entities.",
+      "id": "s53"
+    },
+    {
+      "text": "Each of the notices sought the production by the recipient of the notice of documents to the Commission.",
+      "id": "s54"
+    },
+    {
+      "text": "19 At the time of the making of the decision to issue such notices, a possibility existed that a proposed recipient might be in possession of documents that might prove to be the subject of a claim for legal professional privilege held by one of the applicants.",
+      "id": "s55"
+    },
+    {
+      "text": "At the time of making the decision to issue the notices, the Examiner knew that:\n \n \n &#8226; the investigation into the applicants involved complex questions relating to Australian and international taxation law;\n &#8226; some of the advisers to the applicants to whom notices would be issued had probably advised the applicants in relation to such taxation questions; and\n &#8226; a third party had expressed concerns about documents that were the subject of a notice to that third party.",
+      "id": "s56"
+    },
+    {
+      "text": "20 The Examiner who decided to issue the notices did not take into account any entitlement of the applicants to make a claim for legal professional privilege in relation to documents that were the subject of the notices addressed to persons or entities other than the applicants.",
+      "id": "s57"
+    },
+    {
+      "text": "The Examiner who decided to issue the notices intended not to give to the applicants any prior opportunity to assert any claim for legal professional privilege over any documents that were the subject of notices issued to persons or entities other than the applicants.",
+      "id": "s58"
+    },
+    {
+      "text": "21 Each of the notices was endorsed with a notation under s 29A, which was relevantly in the following terms:\n \n \"Pursuant to subsection 29A(1) of the Australian Crime Commission Act 2002 , disclosure of information about this [notice] , or any official matter connected with it, is prohibited except... where section 29B of the Act does not prevent such disclosure.",
+      "id": "s59"
+    },
+    {
+      "text": "\" \n \n\nEach of the notices was accompanied by a written statement setting out the rights and obligations conferred or imposed by s 29B on the person who was given the notice.",
+      "id": "s60"
+    },
+    {
+      "text": "The statement satisfied the requirements of s 29A(3) and relevantly provided as follows:\n \n \n \"(1) [Pursuant to section 29A of the Act] a notation is included in the notice to which this statement is annexed, prohibiting disclosure of information about the notice.",
+      "id": "s61"
+    },
+    {
+      "text": "In order to comply with the notation, you must not disclose the existence of this notice, or any information about it, or the existence of or any information about any official matter connected with this notice.",
+      "id": "s62"
+    },
+    {
+      "text": "Also, you must not disclose information from which a person could reasonably be expected to infer the existence of this notice or of any official matter connected with it.",
+      "id": "s63"
+    },
+    {
+      "text": "If you breach this requirement, you are liable to a penalty of 20 penalty units or imprisonment for one year.",
+      "id": "s64"
+    },
+    {
+      "text": "... \n \n \n \n (2) [Section 29B of the Act] provides that you may make a disclosure in the following circumstances: \n \n \n \n \n \n (a) in accordance with the circumstances, if any, specified in the notation on the notice; or \n (b) to a legal practitioner for the purposes of obtaining legal advice or representation relating to the notice or matter.",
+      "id": "s65"
+    },
+    {
+      "text": "... \n \n (3) The above restrictions no longer apply if the notation on the notice is cancelled by [section 29A(4) of the Act] , in which case you will be notified by the Commission, or after five years from the issue of the notice, whichever is sooner.",
+      "id": "s66"
+    },
+    {
+      "text": "...\" \n \n \n\n22 Some recipients of such notices have made claims for legal professional privilege held by the applicants in relation to documents required to be produced by those recipients.",
+      "id": "s67"
+    },
+    {
+      "text": "Where such claims have been made, the relevant documents have been isolated and have not otherwise been used by the Commission.",
+      "id": "s68"
+    },
+    {
+      "text": "However, some recipients of a notice have not claimed legal professional privilege that could have been claimed on behalf of the applicants.",
+      "id": "s69"
+    },
+    {
+      "text": "The Commission has had produced to it and has taken possession of documents that are prima facie subject to legal professional privilege of one or other of the applicants.",
+      "id": "s70"
+    },
+    {
+      "text": "23 The Commission did not at any relevant time have any written or other documented policy in place in relation to the question of how the Commission would deal with, or treat, legal professional privilege in the event that documents were produced to it containing communications that were subject to legal professional privilege or if claims were made by the recipient of a notice in relation to legal professional privilege.",
+      "id": "s71"
+    },
+    {
+      "text": "THE CLAIMS MADE IN THE PROCEEDING \n \n24 By their amended application of 26 March 2007, the applicants relevantly claim declarations as follows:\n \n \n (1) each decision of an Examiner to issue a notice under s 29 of the Act was not authorised by, or was an improper exercise of the powers conferred by, ss 28 and 29 of the Act;\n (2) each such notice is void or invalid;\n (5) the Commission and the CEO are in unlawful possession of documents that have come into their possession pursuant to any such notice.",
+      "id": "s72"
+    },
+    {
+      "text": "In addition, the applicants claim an order quashing or setting aside each decision to issue a notice.",
+      "id": "s73"
+    },
+    {
+      "text": "The Commission and the CEO accept that, if the Court determines that the notices are invalid, those declarations and that order should be made.",
+      "id": "s74"
+    },
+    {
+      "text": "25 In addition, the applicants seek further orders as follows:\n \n \n (10) The Commission and the CEO return all documents obtained pursuant to a notice to the person or entity from whom the Commission and the CEO obtained them.",
+      "id": "s75"
+    },
+    {
+      "text": "(11) The Commission and the CEO identify and, in the presence of the applicants or their nominees, destroy: \n \n \n \n \n (a) all copies of such documents in their possession, custody or control;\n (b) all documents and records in their possession, custody or control that refer to such documents;\n (c) all documents and records in their possession, custody or control that were created with the use of such documents; and\n (d) all documents and records in their possession, custody or control that were based on or in any way derived from, or affected by, such documents.",
+      "id": "s76"
+    },
+    {
+      "text": "(12) The Commission and the CEO identify to the applicants each member, officer, employee, agent or external adviser of the Commission or the CEO who has any knowledge of the contents of any such documents and ensure that each such person: \n \n \n \n \n (a) is no longer involved in the Wickenby Investigation in any capacity;\n (b) is no longer involved in any further or additional investigation involving allegations against the applicants referred to in any of such documents; and\n (c) is instructed in writing not to use any of such documents.",
+      "id": "s77"
+    },
+    {
+      "text": "It is common ground that, if the Court determines that the notices are invalid, it would be necessary for the Court to conduct an inquiry to determine whether and to what extent such further relief should be granted.",
+      "id": "s78"
+    },
+    {
+      "text": "THE ISSUES \n \n26 The applicants formulate the issues for determination by the Court as follows:\n \n \n (1) Does the Act abrogate legal professional privilege such that: \n \n \n \n \n (a) an applicant did not have the right to make a claim of legal professional privilege in respect of the giving of information or the production of documents in answer to notices in so far as the legal professional privilege in that information or those documents was held by such applicant; and\n (b) the Commission could take possession of documents that in fact and law were the subject of legal professional privilege held by the applicants.",
+      "id": "s79"
+    },
+    {
+      "text": "(2) Was the decision of the relevant Examiner to issue a notice authorised by, or a proper exercise of the powers conferred by, s 29 of the Act.",
+      "id": "s80"
+    },
+    {
+      "text": "As I understand the position, it is common ground that legal professional privilege is a common law immunity, under the laws of the Commonwealth, States and Territories of Australia, to resist the giving of information or the production of documents that would reveal a confidential communications between a person or corporation, as a client, and his, her or its lawyers, being a communication made for the dominant purpose of giving or obtaining legal advice or the provision of legal services, including representation in legal proceedings.",
+      "id": "s81"
+    },
+    {
+      "text": "27 The applicants contend that the relevant notices are invalid because:\n \n \n &#8226; The applicants, as opposed to the recipient of a notice, were not provided with a reasonable opportunity, prior to the recipient being required to produce documents, to exercise a right to make a claim of legal professional privilege in respect of the giving of information or the production of documents in answer to such a notice, in so far as the legal professional privilege in that information or those documents was held by the applicants.",
+      "id": "s82"
+    },
+    {
+      "text": "&#8226; In deciding to issue a notice, the relevant Examiner did not take into account the fact that the applicants, as opposed to the recipient of the notice, had such a right to make a claim for legal professional privilege prior to the production to the Commission of documents by that recipient.",
+      "id": "s83"
+    },
+    {
+      "text": "28 The essence of the applicants' contentions is that each relevant notice is invalid because no reasonable opportunity to assert the right to make a claim for legal professional privilege was afforded to the applicants before the recipient of a notice was required to produce documents that are subject to legal professional privilege held by the applicants.",
+      "id": "s84"
+    },
+    {
+      "text": "They say that for legal professional privilege to be anything other than theoretical, they must have the opportunity to claim the privilege prior to documents in respect of which the privilege exists being produced to the Commission.",
+      "id": "s85"
+    },
+    {
+      "text": "Thus, they say, they should have been notified of the fact of the issue of a notice to a recipient where that recipient might be in possession of documents that were subject to the privilege.",
+      "id": "s86"
+    },
+    {
+      "text": "29 Alternatively, the applicants say that, by reason of the subject matter, scope and purposes of the Act, the right to claim legal professional privilege was a factor that the relevant Examiner was bound to take into account.",
+      "id": "s87"
+    },
+    {
+      "text": "They say that the relevant Examiner failed to have regard to that necessary consideration when deciding to issue a notice, in that the relevant Examiner failed to consider whether it was desirable or appropriate to provide, in a notation pursuant to s 29A on each notice, that the recipient would not be prevented from making a disclosure to the applicants of the fact that documents that were the subject of legal professional privilege were required to be produced to the Commission.",
+      "id": "s88"
+    },
+    {
+      "text": "NO ABROGATION OF PRIVILEGE \n \n30 The Commission and the CEO accept that the Act does not abrogate the right, or indeed the duty, of a recipient of a notice to claim legal professional privilege on behalf of a person who holds that privilege.",
+      "id": "s89"
+    },
+    {
+      "text": "Section 29B(2)(e) and s 30(3) do not set out the only circumstances in which legal professional privilege may be claimed.",
+      "id": "s90"
+    },
+    {
+      "text": "Accordingly, any person who is given a notice may refuse to comply with it on the ground that one or more documents required to be produced may be subject to legal professional privilege.",
+      "id": "s91"
+    },
+    {
+      "text": "Such a claim for privilege may be made, irrespective of whether the privilege is held by the recipient of the notice or by another person.",
+      "id": "s92"
+    },
+    {
+      "text": "31 It follows that each recipient of a notice was entitled to claim privilege on his or her own behalf and was entitled to claim privilege on behalf of each of the applicants.",
+      "id": "s93"
+    },
+    {
+      "text": "It also follows that each recipient of a notice was entitled to obtain legal advice in relation to a notice.",
+      "id": "s94"
+    },
+    {
+      "text": "That legal advice could encompass whether a claim of privilege could or should be made with respect to individual documents in the possession of the recipient, in respect of which the applicants were the holders of such privilege.",
+      "id": "s95"
+    },
+    {
+      "text": "Finally, it also follows that each recipient of a notice was entitled to communicate with the applicants in order to clarify the existence or otherwise of legal professional privilege of the applicants in documents in the possession of the recipient and to ascertain whether the applicants wished to claim privilege.",
+      "id": "s96"
+    },
+    {
+      "text": "32 However, while legal professional privilege is not abrogated by the Act, as a matter of pragmatic practicality, the holder of the privilege may not be in a position, himself, herself or itself, to claim or assert the privilege in relation to the production of documents pursuant to a notice under s 29 if that holder of the privilege is not aware of the existence of the notice.",
+      "id": "s97"
+    },
+    {
+      "text": "Thus, the recipient would not be permitted to, and was not entitled to, disclose to the applicants the existence of the notice or its contents or any information about it or any official matter connected with it; nor could the recipient disclose information from which the applicants could reasonably be expected to infer the existence of any such thing.",
+      "id": "s98"
+    },
+    {
+      "text": "33 Where documents that are the subject of legal professional privilege are in the possession or custody of a person other than the holder of the privilege, that is a fact of which the holder of the privilege would be aware.",
+      "id": "s99"
+    },
+    {
+      "text": "It is always open to the holder of privilege in relation to documents to require another person in whose possession or custody the documents may be to assert the holder's privilege, in any circumstances where that person is required to produce the documents to someone else.",
+      "id": "s100"
+    },
+    {
+      "text": "34 In any event, the recipient of a notice would have an obligation to claim privilege over documents in the possession of the recipient that the recipient reasonably believed were subject to the privilege of someone else, such as a client of the recipient.",
+      "id": "s101"
+    },
+    {
+      "text": "The recipient would have an obligation to preserve legal professional privilege by reason of the character or status of the documents as being privileged.",
+      "id": "s102"
+    },
+    {
+      "text": "The privilege attaches to a document and, once privileged, the document will always be privileged.",
+      "id": "s103"
+    },
+    {
+      "text": "As the possessor or custodian of a document that has such a special character or status, the recipient of a notice requiring production of such a document would have an obligation to take steps to preserve and maintain that character or status.",
+      "id": "s104"
+    },
+    {
+      "text": "The recipient of a notice would be obliged to make claims for privilege in respect of documents where the privilege might reasonably be expected to exist in order to ensure that such a claim for privilege would not be lost (see Commissioner of Taxation v Citibank Limited (1989) 20 FCR 403 at 414).",
+      "id": "s105"
+    },
+    {
+      "text": "35 A governmental authority issuing a compulsory production notice, in whatever form, must provide the recipient of the notice with a reasonable opportunity to claim legal professional privilege, both on its own behalf and on behalf of others.",
+      "id": "s106"
+    },
+    {
+      "text": "The recipient must not be denied the opportunity to make adequate claims for privilege in relation to the documents of itself or its clients that are the subject of the compulsory production notice (see Citibank at 414).",
+      "id": "s107"
+    },
+    {
+      "text": "36 However, there is no requirement for such an authority to give clients of the recipient, as distinct from the recipient, a reasonable opportunity to make claims for privilege before enforcing the compulsory production notice.",
+      "id": "s108"
+    },
+    {
+      "text": "The most that is required is that the recipient of such a notice must be afforded the opportunity of asserting legal professional privilege, either on the recipient's account or on account of another person, such as a client.",
+      "id": "s109"
+    },
+    {
+      "text": "It has not been suggested that any recipient of a notice in issue in the present proceeding was not given an opportunity to obtain legal advice or that any claim for privilege made by a recipient, on behalf of the recipient or a third party, was not respected.",
+      "id": "s110"
+    },
+    {
+      "text": "37 There is no requirement that a person other than a recipient be afforded the opportunity to claim or assert legal professional privilege and the scheme of the Act makes it clear that no such right is to be afforded to a person in the position of the applicants.",
+      "id": "s111"
+    },
+    {
+      "text": "There is no requirement for the Commission either to notify persons in the position of the applicants that a notice has been issued to a third party that may require the production of documents that are subject to a privilege of the applicants.",
+      "id": "s112"
+    },
+    {
+      "text": "Nor is there any requirement for a person in the position of the applicant to be notified by the Commission, after production of documents by a recipient of a notice, of the fact of the production of documents that may be the subject of a claim for privilege on behalf of an applicant that was not made by the recipient of the notice.",
+      "id": "s113"
+    },
+    {
+      "text": "There is no requirement, for example, that an authority issuing a compulsory production notice to a solicitor should notify the solicitor's clients that the solicitor has been given such a notice in order that the client might have the opportunity to challenge the validity of the notice on grounds of privilege (see May v Commissioner of Taxation [1999] FCA 287 ; (1999) 92 FCR 152 at [36] , [31] and [38].",
+      "id": "s114"
+    },
+    {
+      "text": "38 Further, the regime contemplated by s 29A(4) , under which a notation will be cancelled in specified circumstances, would be effective to ensure that, even if the privilege had not been claimed previously, it could be claimed as soon as a criminal proceeding is begun.",
+      "id": "s115"
+    },
+    {
+      "text": "Thus, the holder of the privilege would be able to make the claim for privilege prior to the tendering in evidence against that person of any document obtained by the Commission pursuant to a notice containing a relevant notation.",
+      "id": "s116"
+    },
+    {
+      "text": "The right of the holder of the privilege not to have privileged material used in evidence against him or her would therefore be protected.",
+      "id": "s117"
+    },
+    {
+      "text": "39 Section 29B evinces a clear intention on the part of the Parliament that, in relation to documents produced by third parties who are not lawyers, the existence of the notice pursuant to which it is produced is not to be disclosed even to a potential holder or privilege, for so long as the notation is operational.",
+      "id": "s118"
+    },
+    {
+      "text": "The Act does not take away or abrogate legal professional privilege.",
+      "id": "s119"
+    },
+    {
+      "text": "It simply has the effect that, in particular circumstances, the holder of the privilege may not know that documents that might be the subject of the privilege are the subject of a notice requiring production by the possessor or custodian of the documents.",
+      "id": "s120"
+    },
+    {
+      "text": "NO IMPROPER EXERCISE OF POWER \n \n 40 An administrative decision may be impugned if the decision maker was bound to take a factor into account in reaching his or her decision but failed to do so.",
+      "id": "s121"
+    },
+    {
+      "text": "If a statute states expressly the factors that must be taken into account, that will be decisive.",
+      "id": "s122"
+    },
+    {
+      "text": "However, if the relevant factors are not expressly stated, they must be determined by necessary implication from the subject matter, scope and purpose of the [1986] HCA 40 ; Act ( Minister for Aboriginal Affairs v Peko-Wallsend Limited (1986) 162 CLR 24 at 39-40).",
+      "id": "s123"
+    },
+    {
+      "text": "41 In the present case, s 29A(2) sets out factors that an Examiner must consider when determining whether a notation must or may be included in a notice.",
+      "id": "s124"
+    },
+    {
+      "text": "The matters that must be taken into consideration are:\n \n \n &#8226; the safety or reputation of a person;\n &#8226; the fair trial of a person who has been or may be charged with an offence;\n &#8226; the effectiveness of an operation or investigation.",
+      "id": "s125"
+    },
+    {
+      "text": "42 Further, the scheme of ss 29A and 29B recognises the existence of legal professional privilege in so far as the prohibition on disclosure does not prevent a person from making disclosure to a legal practitioner or, if the person is a legal practitioner, for the purpose of obtaining instructions as to the production of a document.",
+      "id": "s126"
+    },
+    {
+      "text": "43 Under s 30(3) a legal practitioner may refuse to comply with a requirement to produce a document containing a privileged communication unless the person with whom the communication was made agrees to the practitioner complying with the requirement.",
+      "id": "s127"
+    },
+    {
+      "text": "The subject matter, scope and purpose of the Act make it abundantly clear that an Examiner who is deciding whether or not to issue a notice and whether to include a notation in the notice is not required to have regard to the possibility that the recipient of the notice may not discharge that recipient's obligation to assert or claim legal professional privilege that may reside in a person other than the recipient in relation to the document that the recipient is required to produce.",
+      "id": "s128"
+    },
+    {
+      "text": "44 That is the clear intent and purpose of ss 29A and 29B.",
+      "id": "s129"
+    },
+    {
+      "text": "However, the clear object of ss 29A and 29B is to ensure that, in some circumstances, the object of an investigation, such as persons in the position of the applicants, is not informed of the existence of a notice.",
+      "id": "s130"
+    },
+    {
+      "text": "The relevant Examiners did not fail to take into account a consideration that they were bound to take into account simply by reason of the fact that they did not have regard to the possibility that documents that were required to be produced by a notice might be the subject of legal professional privilege of a person other than the recipient.",
+      "id": "s131"
+    },
+    {
+      "text": "CONCLUSION \n \n45 No notice or summons issued in connection with the Wickenby Investigation was invalid simply by reason of the fact that the applicants themselves were not afforded the opportunity of asserting legal professional privilege in respect of documents required by the summons or notice to be produced.",
+      "id": "s132"
+    },
+    {
+      "text": "Nor was any such summons or notice invalid simply by reason of the fact that the Examiner who decided to issue it did not have regard to the possibility that a person other than the recipient of it may have legal professional privilege in respect of a document that was the subject of the summons or notice.",
+      "id": "s133"
+    },
+    {
+      "text": "46 It follows that the proceeding should be dismissed with costs.",
+      "id": "s134"
+    },
+    {
+      "text": "I certify that the preceding forty-six (46) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Emmett.",
+      "id": "s135"
+    },
+    {
+      "text": "Associate:\n\nDated: 19 December 2007\n\n\n\n\n Counsel for the Applicants: Mr F Kunc SC \n \n Solicitor for the Applicants: Robinson Legal \n \n Counsel for the Respondents: Mr TA Game SC with Mr AJ Payne and Mr DFC Thomas \n \n Solicitor for the Respondents: Australian Government Solicitor \n \n Date of Hearing: 28 November 2007 \n \n Date of Judgment: 19 December 2007 \n\n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/2026.html",
+      "id": "s136"
+    }
+  ]
+}

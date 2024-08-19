@@ -1,0 +1,1920 @@
+{
+  "name": "Adultshop.Com Ltd v Members of the Classification Review Board [2007] FCA 1871 (29 November 2007)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2007/1871.html",
+  "catchphrases": [
+    {
+      "text": "application for review of classification review board's decision to classify sexually explicit film as x18+",
+      "id": "c0"
+    },
+    {
+      "text": "guidelines not ultra vires the uniform legislative scheme",
+      "id": "c1"
+    },
+    {
+      "text": "no failure to have regard to the merits of the application",
+      "id": "c2"
+    },
+    {
+      "text": "no wrongful rejection of applicant's expert evidence",
+      "id": "c3"
+    },
+    {
+      "text": "\"no evidence\" ground not made out",
+      "id": "c4"
+    },
+    {
+      "text": "test of \"likely to cause offence to a reasonable adult\" not mechanistic or simply majoritarian",
+      "id": "c5"
+    },
+    {
+      "text": "decision-maker required to consider views of diverse australian community",
+      "id": "c6"
+    },
+    {
+      "text": "co-operative legislative scheme for classification of films and other subject matter",
+      "id": "c7"
+    },
+    {
+      "text": "administrative law",
+      "id": "c8"
+    },
+    {
+      "text": "statutes",
+      "id": "c9"
+    },
+    {
+      "text": "censorship",
+      "id": "c10"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "\"As the judge remarked the day that he \n acquitted my Aunt Hortense, \n 'To be smut \n It must be ut- \n Terly without redeeming social importance.",
+      "id": "s0"
+    },
+    {
+      "text": "'\" \nFrom \"Smut\" by Tom Lehrer\n\n\n \n Introduction \n \n1 Viva Erotica is a film which contains real depictions of actual sexual activity between consenting adults.",
+      "id": "s1"
+    },
+    {
+      "text": "It contains no violence, sexual violence, coercion or sexual fetishes.",
+      "id": "s2"
+    },
+    {
+      "text": "The Classification Review Board, established under a co-operative legislative scheme providing for uniform classification of films throughout Australia, determined that the film is offensive to a reasonable adult.",
+      "id": "s3"
+    },
+    {
+      "text": "It classified the film as X18+.",
+      "id": "s4"
+    },
+    {
+      "text": "2 Adultshop.Com Limited, which submitted the film for classification, contended that the Review Board should classify the film as R18+.",
+      "id": "s5"
+    },
+    {
+      "text": "Both the X18+ and the R18+ classifications are restricted to persons 18 years and above.",
+      "id": "s6"
+    },
+    {
+      "text": "The practical effect of the higher X18+ classification is that it is not legally available for sale or hire in Australia, other than in the Australian Capital Territory or the Northern Territory.",
+      "id": "s7"
+    },
+    {
+      "text": "3 Adultshop seeks review of the decision of the Review Board under s 5 of the Administrative Decisions (Judicial Review) Act 1977 (Cth) (\"ADJR Act\").",
+      "id": "s8"
+    },
+    {
+      "text": "It raises a number of questions of statutory construction of the legislative scheme under which the classification is made.",
+      "id": "s9"
+    },
+    {
+      "text": "It also relies upon various grounds of review of administrative action.",
+      "id": "s10"
+    },
+    {
+      "text": "4 The uniform classification scheme was established under an agreement made in 1995 between the Commonwealth, States and Territories.",
+      "id": "s11"
+    },
+    {
+      "text": "An integral part of the scheme is the Classification (Publications, Films and Computer Games) Act 1995 (Cth) (\"the Act \").",
+      "id": "s12"
+    },
+    {
+      "text": "The scheme incorporates a code which describes the different classification categories.",
+      "id": "s13"
+    },
+    {
+      "text": "This is known as the National Classification Code (\"the Code\").",
+      "id": "s14"
+    },
+    {
+      "text": "5 The Code contains a table of classifications which I will set out in more detail later.",
+      "id": "s15"
+    },
+    {
+      "text": "For present purposes it is sufficient to say that the X18+ classification applies to films that contain real depictions of actual sexual activity between consenting adults \"in a way that is likely to cause offence to a reasonable adult.",
+      "id": "s16"
+    },
+    {
+      "text": "\"\n \n6 The legislative scheme also includes Guidelines for the Classification of Films and Computer Games 2005 (\"The Guidelines\").",
+      "id": "s17"
+    },
+    {
+      "text": "The Guidelines were made under s 12 of the Act which empowers the Minister, (that is, the Attorney-General of the Commonwealth), with the agreement of participating State and Territory Ministers, to determine guidelines to assist the decision-maker in applying the criteria set out in the Code.",
+      "id": "s18"
+    },
+    {
+      "text": "7 The Guidelines state that the X18+ classification applies to films that contain real depictions of actual sexual intercourse but they do not include the words in the Code which refer to the likelihood of offence to a reasonable adult.",
+      "id": "s19"
+    },
+    {
+      "text": "The Guidelines recognise that the R18+ classification may contain depictions of realistically simulated sexual activity.",
+      "id": "s20"
+    },
+    {
+      "text": "But they go on to say:\n \n \"The general rule is 'simulation, yes --- the real thing, no.",
+      "id": "s21"
+    },
+    {
+      "text": "'\" \n \n\n8 Adultshop contends that these two aspects of the Guidelines led the Review Board into error by determining the classification of the film without considering whether it met the criterion for the X18+ classification in the Code.",
+      "id": "s22"
+    },
+    {
+      "text": "That is to say, Adultshop contends that the Review Board failed to consider whether the film was likely to cause offence to a reasonable adult.",
+      "id": "s23"
+    },
+    {
+      "text": "9 Adultshop raised a number of grounds of review.",
+      "id": "s24"
+    },
+    {
+      "text": "First, it contended that the Guidelines are beyond the power of the Minister under s 12 of the Act because they dictate an X18+ classification without regard to s 11(a) of the Act or the provisions of the Code.",
+      "id": "s25"
+    },
+    {
+      "text": "10 Second, Adultshop contended that if the Guidelines are valid, the Review Board applied them without regard to the merits of the case.",
+      "id": "s26"
+    },
+    {
+      "text": "This ground embraces a number of separate heads of review, namely inflexible application of policy, failure to take into account relevant considerations under the Act and the Code and Wednesbury unreasonableness.",
+      "id": "s27"
+    },
+    {
+      "text": "11 Third, Adultshop contended that the Review Board failed to give effect to a proper construction of the phrase \"likely to cause offence to a reasonable adult\".",
+      "id": "s28"
+    },
+    {
+      "text": "Adultshop argued that this test was to be determined by asking whether a majority of Australian adults consider sexually explicit films to be offensive.",
+      "id": "s29"
+    },
+    {
+      "text": "12 Fourth, Adultshop contended that the Review Board's approach to the task led it to wrongly reject or discount certain survey and expert evidence called by Adultshop in support of its claim for an R18+ classification.",
+      "id": "s30"
+    },
+    {
+      "text": "13 Fifth, Adultshop pointed to a finding made by the Review Board that there was extensive community consultation in the process of updating the Guidelines in 2005.",
+      "id": "s31"
+    },
+    {
+      "text": "Adultshop contended that the 2005 review of the Guidelines did not consider the X18+ classification and there was no community consultation on that issue.",
+      "id": "s32"
+    },
+    {
+      "text": "Accordingly, Adultshop sought to raise a \"no evidence\" ground of review.",
+      "id": "s33"
+    },
+    {
+      "text": "The legislative scheme \n \n14 The legislative scheme was described by Merkel J at first instance in Brown v Classification Review Board (1997) 145 ALR 464 at 466-468, and, on appeal from that decision, in Brown v Classification Review Board (1998) 82 FCR 225 at 231-233 (per French J), and at 252-254 (per Sundberg J).",
+      "id": "s34"
+    },
+    {
+      "text": "See also New South Wales Council for Civil Liberties Inc v Classification Review Board (No.",
+      "id": "s35"
+    },
+    {
+      "text": "2) [2007] FCA 896 at [4] - [8] (per Edmonds J).",
+      "id": "s36"
+    },
+    {
+      "text": "15 The present scheme replaces an earlier co-operative legislative scheme providing for censorship of films and other publications.",
+      "id": "s37"
+    },
+    {
+      "text": "The revised scheme was established under an agreement made 28 November 1995 between the Commonwealth, States and Territories (\"the Agreement\").",
+      "id": "s38"
+    },
+    {
+      "text": "16 The Agreement provided for a revised co-operative legislative scheme for censorship in Australia.",
+      "id": "s39"
+    },
+    {
+      "text": "The effect of the Agreement was to provide for the classification of films, publications and computer games through the provisions of the Act , and to leave the enforcement of the classifications and the legislative consequences of them to the States and Territories.",
+      "id": "s40"
+    },
+    {
+      "text": "17 The Agreement provided for the scheme to be administered by the Standing Committee of Attorneys-General.",
+      "id": "s41"
+    },
+    {
+      "text": "It also provided that the Code and the classification guidelines are not to be amended without the agreement of the responsible Ministers of the Commonwealth, States and Territories.",
+      "id": "s42"
+    },
+    {
+      "text": "18 Section 3 of the Act states that its purpose is to provide for the classification of publications, films and computer games.",
+      "id": "s43"
+    },
+    {
+      "text": "The section goes on to say that the Act is intended to form part of a Commonwealth / State / Territory scheme for classification of, inter alia , films, and for the enforcement of those classifications.",
+      "id": "s44"
+    },
+    {
+      "text": "19 The Act provides for the establishment of the Classification Board and the Classification Review Board: ss 45 and 72 .",
+      "id": "s45"
+    },
+    {
+      "text": "In the appointment of Members to the Board and the Review Board, regard is to be had to the desirability of ensuring that membership is broadly representative of the Australian community: ss 48(2) and 74 (2).",
+      "id": "s46"
+    },
+    {
+      "text": "20 The Code is defined by s 5 to mean the National Classification Code, set out in the Schedule to the Act as originally enacted, as amended in accordance with s 6 of the Act .",
+      "id": "s47"
+    },
+    {
+      "text": "Section 6(2) provides that if the Minister and each participating Minister agree to an amendment of the Code, it is taken to be amended accordingly.",
+      "id": "s48"
+    },
+    {
+      "text": "21 Section 7(2) sets out the different types of classification for films in ascending order of seriousness.",
+      "id": "s49"
+    },
+    {
+      "text": "The classifications are:\n \n G General\n PG Parental Guidance\n M Mature\n MA15+ Mature Accompanied\n R18+ Restricted\n X18+ Restricted\n RC Refused Classification\n \n\n22 Division 2 of the Act deals with the classification of publications, films and computer games.",
+      "id": "s50"
+    },
+    {
+      "text": "Classifications are to be made by the Board in writing on application: see s 10(1) and s 14.",
+      "id": "s51"
+    },
+    {
+      "text": "23 Section 9 provides that films are to be classified in accordance with the Code and the Guidelines.",
+      "id": "s52"
+    },
+    {
+      "text": "Section 11 sets out matters to be considered in making the classification.",
+      "id": "s53"
+    },
+    {
+      "text": "Those provisions are central to the questions in issue in these proceedings and I will set them out in full (as they were at the time of the Review Board's decision):\n \n \"9 Publications, films and computer games are to be classified in accordance with the Code and the classification guidelines.",
+      "id": "s54"
+    },
+    {
+      "text": "... \n \n \n 11 Matters to be considered in classification \n The matters to be taken into account in making a decision on the classification of a publication, a film or a computer game include: \n \n \n \n \n (a) the standards of morality, decency and propriety generally accepted by reasonable adults; and \n (b) the literary, artistic, or educational merit (if any) of the publication, film or computer game; and \n (c) the general character of the publication, film or computer game, including whether it is of a medical, legal or scientific character; and \n (d) the persons or class of persons to or amongst whom it is published or is intended or likely to be published.",
+      "id": "s55"
+    },
+    {
+      "text": "\" \n \n\n24 I referred earlier to s 12 which provides for the determination of classification guidelines.",
+      "id": "s56"
+    },
+    {
+      "text": "Section 12(1) is in the following terms:\n \n \"(1) The Minister may, with the agreement of each participating Minister, determine guidelines to assist the Board in applying the criteria in the Code.",
+      "id": "s57"
+    },
+    {
+      "text": "\" \n \n \n\n25 Section 12(3) provides that if the Minister and each participating Minister agree to an amendment to the Classification Guidelines, they are taken to be amended accordingly.",
+      "id": "s58"
+    },
+    {
+      "text": "26 Section 20(1) requires the Board to determine consumer advice giving information about the content of a film where the Board classifies the film PG, M, MA, R18+ or X18+.",
+      "id": "s59"
+    },
+    {
+      "text": "If the Board classifies a film G, it may exercise its discretion to determine consumer advice providing information about the content: s 20(2).",
+      "id": "s60"
+    },
+    {
+      "text": "27 Part 3 of the Act deals with approval of advertisements.",
+      "id": "s61"
+    },
+    {
+      "text": "Although no question arises in relation to the advertising of Viva Erotica , counsel for the Attorney-General placed some emphasis on the provisions of s 29(4) which requires the Board to refuse approval for advertising in certain circumstances.",
+      "id": "s62"
+    },
+    {
+      "text": "I will therefore set out that sub-section in full as follows:\n \n \"The Board must refuse to approve an advertisement if, in the opinion of the Board, the advertisement: \n \n \n \n \n (a) describes, depicts or otherwise deals with matters of sex, drug misuse or addiction, crime, cruelty, violence or revolting or abhorrent phenomena in such a way that it offends against the standards of morality, decency and propriety generally accepted by reasonable adults to the extent that it should not be approved; or \n (b) depicts or describes, in a way that is likely to cause offence to a reasonable adult, a person who is, or appears to be, a child under 18 (whether the person is engaged in sexual activity or not); or \n (c) promotes crime or violence, or incites or instructs in matters of crime or violence; or \n (d) is used, or is likely to be used, in a way that is offensive to a reasonable adult.",
+      "id": "s63"
+    },
+    {
+      "text": "\" \n \n\n28 Part 5 deals with the review of decisions.",
+      "id": "s64"
+    },
+    {
+      "text": "A person who applies to the Board for classification of a film may apply to the Review Board for a review of the Board's decision: s 42(2)(b).",
+      "id": "s65"
+    },
+    {
+      "text": "So too may the publisher of the film: s 42(1)(c).",
+      "id": "s66"
+    },
+    {
+      "text": "29 The Review Board must deal with an application for review of a decision in the same way that the Board deals with the application for classification: s 44(1).",
+      "id": "s67"
+    },
+    {
+      "text": "The Review Board is therefore required to classify the film in accordance with the Code and the Guidelines as provided in s 9 and to take into account the matters referred to in s 11.",
+      "id": "s68"
+    },
+    {
+      "text": "30 Part 6 deals with the Board.",
+      "id": "s69"
+    },
+    {
+      "text": "I referred above to the provisions dealing with the establishment of the Board and the broad representation of its membership: s 45 and \n s 48(2).",
+      "id": "s70"
+    },
+    {
+      "text": "31 Part 7 deals with the Review Board.",
+      "id": "s71"
+    },
+    {
+      "text": "I referred above to the salient provisions of this Part dealing with establishment and broad representation: s 72 and s 74(2).",
+      "id": "s72"
+    },
+    {
+      "text": "The Code \n \n32 The Code states that classification decisions are to give effect, as far as possible, to four principles set out in [1] as follows:\n \n \n \"(a) adults should be able to read, hear and see what they want; \n (b) minors should be protected from material likely to harm or disturb them; \n (c) everyone should be protected from exposure to unsolicited material that they find offensive; \n (d) the need to take account of community concerns about: \n \n \n (i) depictions that condone or incite violence, particularly sexual violence; and \n (ii) the portrayal of persons in a demeaning manner.",
+      "id": "s73"
+    },
+    {
+      "text": "\" \n \n\n33 Films are to be classified in accordance with a table set out in [3] of the Code.",
+      "id": "s74"
+    },
+    {
+      "text": "The table lists the classifications in descending order of gravity.",
+      "id": "s75"
+    },
+    {
+      "text": "34 The table is as follows: \n \n\n Item Description of film Classification 1 Films that: (a) depict, express or otherwise deal with matters of sex, drug misuse or addiction, crime, cruelty, violence or revolting or abhorrent phenomena in such a way that they offend against the standards of morality, decency and propriety generally accepted by reasonable adults to the extent that they should not be classified; or (b) describe or depict in a way that is likely to cause offence to a reasonable adult, a person who is, or appears to be , a child under 18 (whether the person is engaged in sexual activity or not); or (c) promote, incite or instruct in matters of crime or violence RC 2 Films (except RC films) that: (a) contain real depictions of actual sexual activity between consenting adults in which there is no violence, sexual violence, sexualised violence, coercion, sexually assaultive language, or fetishes or depictions which purposefully demean anyone involved in that activity for the enjoyment of viewers, in a way that is likely to cause offence to a reasonable adult; and (b) are unsuitable for a minor to see X 18+ 3 Films (except RC films and X 18+ films) that are unsuitable for a minor to see R 18+ 4 Films (except RC films, X 18+ films and R 18+ films) that depict, express or otherwise deal with sex, violence or coarse language in such a manner as to be unsuitable for viewing by persons under 15 MA 15+ 5 Films (except RC films, X 18+ films, R 18+ films and MA 15+ films) that cannot be recommended for viewing by persons who are under 15 M 6 Films (except RC films, X 18+ films, R 18+ films, MA 15+ films and M films) that cannot be recommended for viewing by persons who are under 15 without the guidance of their parents or guardians PG 7 All other films G \n\n \n The Guidelines \n \n35 The Introduction to the Guidelines states that they are a tool for classifying films and that they help to explain the different classification categories and the scope and limits of material suitable for classification under each category.",
+      "id": "s76"
+    },
+    {
+      "text": "The Introduction also states that the Guidelines \"are revised from time to time, with extensive community input.",
+      "id": "s77"
+    },
+    {
+      "text": "\" \n \n36 The Guidelines list three essential principles which underlie their use.",
+      "id": "s78"
+    },
+    {
+      "text": "They are:\n&#8226; the importance of context\n&#8226; assessing impact \n \n&#8226; the six classifiable elements \n \n37 Each of these principles is explained further under the heading \"Using the Guidelines: Essential Principles.",
+      "id": "s79"
+    },
+    {
+      "text": "\" \n \n38 The Guidelines state that context is crucial in determining whether a classifiable element is justified by the story-line or themes.",
+      "id": "s80"
+    },
+    {
+      "text": "39 The Guidelines use a hierarchy, set out in ascending order of seriousness, in assessing the impact of a film.",
+      "id": "s81"
+    },
+    {
+      "text": "The hierarchy is:\n&#8226; very mild G\n&#8226; mild PG\n&#8226; moderate M\n&#8226; strong MA 15+\n&#8226; high R18+\n \n&#8226; very high RC \n \n40 Films to be classified X18+ are not included in the \"hierarchy of impact\" set out in the Guidelines.",
+      "id": "s82"
+    },
+    {
+      "text": "41 Assessing the impact of a film is said to require consideration not only of the individual elements, but also their cumulative effect.",
+      "id": "s83"
+    },
+    {
+      "text": "It also requires consideration of the purpose and tone of a sequence.",
+      "id": "s84"
+    },
+    {
+      "text": "42 The Guidelines go on to say that the impact of a film may be higher where a scene uses various visual techniques such as close-ups, accentuation techniques or repetition.",
+      "id": "s85"
+    },
+    {
+      "text": "43 The six classifiable elements of a film are stated to be:\n&#8226; themes\n&#8226; violence\n&#8226; sex\n&#8226; language\n&#8226; drug use\n&#8226; nudity \n \n44 The Guidelines state that the classification of a film takes into account the context and impact of each of the listed elements, including their frequency and intensity, as well as their cumulative effect.",
+      "id": "s86"
+    },
+    {
+      "text": "45 It is unnecessary to reproduce the explanations set out in the Guidelines for the G, PG, M, MA15+ and RC categories.",
+      "id": "s87"
+    },
+    {
+      "text": "The explanations given for the R18+ and X18+ categories are as follows:\n R 18+ - RESTRICTED \n \n Impact test\n \n The impact of material classified R18+ should not exceed high.",
+      "id": "s88"
+    },
+    {
+      "text": "Note: This classification category applies only to films.",
+      "id": "s89"
+    },
+    {
+      "text": "Material classified R18+ is legally restricted to adults.",
+      "id": "s90"
+    },
+    {
+      "text": "Some material classified R18+ may be offensive to sections of the adult community.",
+      "id": "s91"
+    },
+    {
+      "text": "Classifiable elements\n \n THEMES\n There are virtually no restrictions on the treatment of themes.",
+      "id": "s92"
+    },
+    {
+      "text": "VIOLENCE\n Violence is permitted.",
+      "id": "s93"
+    },
+    {
+      "text": "Sexual violence may be implied, if justified by context.",
+      "id": "s94"
+    },
+    {
+      "text": "SEX\n Sexual activity may be realistically simulated.",
+      "id": "s95"
+    },
+    {
+      "text": "The general rule is \"simulation, yes --- the real thing, no\".",
+      "id": "s96"
+    },
+    {
+      "text": "LANGUAGE\n There are virtually no restrictions on language.",
+      "id": "s97"
+    },
+    {
+      "text": "DRUG USE\n Drug use is permitted.",
+      "id": "s98"
+    },
+    {
+      "text": "NUDITY\n Nudity is permitted.",
+      "id": "s99"
+    },
+    {
+      "text": "X18+ - RESTRICTED \n \n CONTAINS CONSENSUAL SEXUALLY EXPLICIT ACTIVITY (Restricted to adults 18 years and over*) \n \n * Available only for sale or hire in the ACT and Northern Territory.",
+      "id": "s100"
+    },
+    {
+      "text": "Note: This classification category applies only to films.",
+      "id": "s101"
+    },
+    {
+      "text": "This classification is a special and legally restricted category which contains only sexually explicit material.",
+      "id": "s102"
+    },
+    {
+      "text": "That is material which contains real depictions of actual sexual intercourse and other sexual activity between consenting adults.",
+      "id": "s103"
+    },
+    {
+      "text": "No depiction of violence, sexual violence, sexualised violence or coercion is allowed in the category.",
+      "id": "s104"
+    },
+    {
+      "text": "It does not allow sexually assaultive language.",
+      "id": "s105"
+    },
+    {
+      "text": "Nor does it allow consensual depictions which purposefully demean anyone involved in that activity for the enjoyment of viewers.",
+      "id": "s106"
+    },
+    {
+      "text": "Fetishes such as body piercing, application of substances such as candle wax, 'golden showers', bondage, spanking or fisting are not permitted.",
+      "id": "s107"
+    },
+    {
+      "text": "As the category is restricted to activity between consenting adults, it does not permit any depictions on non-adult persons, including those aged 16 or 17, nor of adult persons who look like they are under 18 years.",
+      "id": "s108"
+    },
+    {
+      "text": "Nor does it permit persons 18 years of age or over to be portrayed as minors.",
+      "id": "s109"
+    },
+    {
+      "text": "46 The explanation under the RC classification states, inter alia , that films which exceed R18+ and X18+ will be refused classification.",
+      "id": "s110"
+    },
+    {
+      "text": "Viva Erotica \n \n47 The Review Board described the film, and made findings of fact as to its content, which are accepted as accurate by the parties to these proceedings.",
+      "id": "s111"
+    },
+    {
+      "text": "The description set out below is taken directly from the Review Board's reasons.",
+      "id": "s112"
+    },
+    {
+      "text": "48 The film is of 98 minutes duration.",
+      "id": "s113"
+    },
+    {
+      "text": "It depicts men and women having sex.",
+      "id": "s114"
+    },
+    {
+      "text": "There is no plot and the participants are not given names.",
+      "id": "s115"
+    },
+    {
+      "text": "There are six separate, unrelated \"vignettes\" containing explicit sex scenes, five involving a man and a woman and one involving two women.",
+      "id": "s116"
+    },
+    {
+      "text": "49 Various forms of sexual activity are explicitly shown including cunnilingus, fellatio, rear-entry sex, the use of dildos, self, partner and mutual masturbation, ejaculation, digital and penal vaginal penetration and tongue stimulation of the anus.",
+      "id": "s117"
+    },
+    {
+      "text": "50 The camera angles are designed to accentuate and focus on the sexual activity.",
+      "id": "s118"
+    },
+    {
+      "text": "Throughout the film there is significant and frequent use of cinematographic techniques to accentuate the sexual activity including close-ups, zooms, lighting, background music and noises by the participants.",
+      "id": "s119"
+    },
+    {
+      "text": "51 The Review Board did not consider that the film depicted fetishes, although Vignette 1 contains prolonged scenes of toe sucking and licking; Vignette 4 contains four-fingered vaginal penetration and Vignette 6 shows a man using his open hand to stimulate his erect penis.",
+      "id": "s120"
+    },
+    {
+      "text": "Review Board's Reasons \n \n52 In reviewing Adultshop's application for classification of the film, the panel was comprised of all seven members of the Review Board including the Convenor and the Deputy Convenor.",
+      "id": "s121"
+    },
+    {
+      "text": "53 The Review Board observed that s 11(a) of the Act required it to take into account standards of morality, decency and propriety generally accepted by reasonable adults.",
+      "id": "s122"
+    },
+    {
+      "text": "It accepted that these are a reflection of community standards which change over time.",
+      "id": "s123"
+    },
+    {
+      "text": "54 Although the Review Board accepted that, as a matter of principle, survey and expert evidence can be informative and persuasive, it said that:\n \n \"... the Review Board cannot simply delegate its responsibility to make a decision on community standards to others --- no matter how learned those others may be or how many people may be involved in a survey.",
+      "id": "s124"
+    },
+    {
+      "text": "\" \n \n \n\n55 Later in its reasons, the Review Board found that the expert and survey evidence did not support Adultshop's argument that reasonable adults were not offended by the film.",
+      "id": "s125"
+    },
+    {
+      "text": "It gave detailed reasons for this finding.",
+      "id": "s126"
+    },
+    {
+      "text": "56 The Review Board considered its role to be to apply, independently, its own understanding and perception of community standards.",
+      "id": "s127"
+    },
+    {
+      "text": "It referred to the requirements of \n s 74(2) of the Act that membership of the Review Board be broadly representative of the Australian community.",
+      "id": "s128"
+    },
+    {
+      "text": "It said that this selection criterion was:\n \n \" ... presumably to enable it to bring to its decision making the perspective of a wide cross section of the Australian community.",
+      "id": "s129"
+    },
+    {
+      "text": "\" \n \n \n\n57 The Review Board stated that community standards among Australian adults are not uniform on the topic of sexually explicit films; there is a wide spectrum of views.",
+      "id": "s130"
+    },
+    {
+      "text": "The Review Board continued:\n \n \"From this broad spectrum including older and younger, liberal and conservative, passionate and ambivalent views, the Review Board must use its own perception, its experience and available evidence to form the best view in the circumstances of the current standards of the Australian community and reasonable adults.",
+      "id": "s131"
+    },
+    {
+      "text": "\" (Emphasis added).",
+      "id": "s132"
+    },
+    {
+      "text": "58 In reaching its conclusion, the Review Board stated that it had regard to its perception of community standards \"as demonstrated by the process of updating the Guidelines in May 2005\".",
+      "id": "s133"
+    },
+    {
+      "text": "It said it also had regard to the debate over the amendments to the X classification at the turn of the decade and that both the updating and the debate, \n \n \"... involved extensive community consultation and a conclusion, by State, Territory and Australian Governments that the classification regime in relation to R and X rated films did not require an overhaul in light of changing community standards and that the current classifications were, broadly, working well and were in line with community expectations.",
+      "id": "s134"
+    },
+    {
+      "text": "\" \n \n \n\n59 The Review Board regarded the general rule stated in the Guidelines for R18+ \"simulation yes --- the real thing, no\" as broadly representative of current community standards.",
+      "id": "s135"
+    },
+    {
+      "text": "It considered that most reasonable adults would accept an exception to the general rule, permitting an R18+ classification for explicit sexual activity, where the film has artistic, or other merit, and the actual sex is not prolonged or detailed, having regard to the context of the film.",
+      "id": "s136"
+    },
+    {
+      "text": "60 The Review Board continued:\n \n \"However, it is the view of the Review Board that in regard to a wholly explicit film, such as Viva Erotica, where the entire film is focused solely on sexually explicit activity and titillation that the community would not accept this under the 'exception' rule and that the general rule should therefore apply.",
+      "id": "s137"
+    },
+    {
+      "text": "The Review Board noted that the Applicant made no submission as to artistic or any other merit of Viva Erotica.",
+      "id": "s138"
+    },
+    {
+      "text": "\" \n \n \n\n61 A factor which the Review Board took into account was that if it were to classify films such as Viva Erotica as R18+ there would be little more left for the X18+ classification.",
+      "id": "s139"
+    },
+    {
+      "text": "It was the Review Board's view that it should not lightly make a decision that would radically alter a regime endorsed by the governments of the Commonwealth, States and Territories without persuasive evidence that such a decision was justified by changed community standards.",
+      "id": "s140"
+    },
+    {
+      "text": "62 I do not propose to repeat the reasons given by the Review Board for finding that the expert and survey evidence was unhelpful.",
+      "id": "s141"
+    },
+    {
+      "text": "It is sufficient to say that the Review Board observed that the survey participants were not shown Viva Erotica or a similar film.",
+      "id": "s142"
+    },
+    {
+      "text": "Also, the Review Board did not consider that the evidence of the experts, Professor Lumby, Professor McKee and Ms Albury, addressed the specific question of whether a reasonable adult would be offended by the explicit content of Viva Erotica .",
+      "id": "s143"
+    },
+    {
+      "text": "63 That is not to say that the Review Board paid no regard to that evidence.",
+      "id": "s144"
+    },
+    {
+      "text": "It said:\n \n \"Overall, the Review Board noted and took into account all the expert evidence in its consideration of current community standards and of whether Viva Erotica contained depictions that would offend a reasonable adult.",
+      "id": "s145"
+    },
+    {
+      "text": "The Review Board did not regard the evidence as definitive on either issue.",
+      "id": "s146"
+    },
+    {
+      "text": "The evidence was quite general in nature.",
+      "id": "s147"
+    },
+    {
+      "text": "\" \n\n64 The Review Board also considered the general character of the film which it said was \"solely to titillate\" the audience.",
+      "id": "s148"
+    },
+    {
+      "text": "It described the film as pornographic with all the attendant directorial and \"filmic devices\".",
+      "id": "s149"
+    },
+    {
+      "text": "The Review Board considered that the character of the film pointed against a departure from the general rule that \"the real thing\" is not to be classified as R18+.",
+      "id": "s150"
+    },
+    {
+      "text": "65 The likely audience of the film, which the Review Board took into account, was persons in search of titillation.",
+      "id": "s151"
+    },
+    {
+      "text": "It noted that the effect of restrictions contained in State legislation would have the effect that the audience would be more limited if the film were classified X18+.",
+      "id": "s152"
+    },
+    {
+      "text": "It continued by saying:\n \n \"However, it is not the Review Board's task to second guess decisions of elected Governments or to ensure that a film has the widest possible audience when determining its classification.",
+      "id": "s153"
+    },
+    {
+      "text": "\" \n \n \n\n66 The Review Board took into account the four principles to which it is required to give effect under the Code.",
+      "id": "s154"
+    },
+    {
+      "text": "It emphasised the words in the Code \"as far as possible\" and noted that the principles are not absolute binding rules but really statements of principle.",
+      "id": "s155"
+    },
+    {
+      "text": "67 The Review Board concluded that, taking into account all the matters mentioned in its reasons, the film Viva Erotica would cause offence to a reasonable adult \"(either as that term is defined in the Guidelines or as defined in the Macquarie Dictionary)\" and that it was unsuitable for a minor to see.",
+      "id": "s156"
+    },
+    {
+      "text": "It found that there were no circumstances justifying a departure from the general rule in the Guidelines, that is, that \"the real thing\" should not be classified R18+, and that the most appropriate classification was X18+.",
+      "id": "s157"
+    },
+    {
+      "text": "68 The conclusion which the Review Board reached was a unanimous one.",
+      "id": "s158"
+    },
+    {
+      "text": "It decided that the X18+ classification should be accompanied with the consumer advice of \"Explicit sex\".",
+      "id": "s159"
+    },
+    {
+      "text": "The Expert Evidence \n \n69 Ordinarily, the acceptance or rejection of expert evidence, or the use made of it by a decision-maker, will be a question of fact which is not open to judicial review.",
+      "id": "s160"
+    },
+    {
+      "text": "70 However, here, Adultshop contended that the Review Board's approach to the evidence of the three experts, and the survey evidence, raised grounds of review, including failure to consider the merits of the application.",
+      "id": "s161"
+    },
+    {
+      "text": "I will therefore refer briefly to the evidence.",
+      "id": "s162"
+    },
+    {
+      "text": "71 Ms Catherine Lumby is an Associate Professor of Media and Communications at the University of Sydney.",
+      "id": "s163"
+    },
+    {
+      "text": "She has written extensively in the field of censorship and sexually explicit material.",
+      "id": "s164"
+    },
+    {
+      "text": "She has also conducted a substantial amount of research in this area, and was a \"Co-Investigator\" of a project entitled Understanding Pornography in Australia which was funded by the Australian Research Council.",
+      "id": "s165"
+    },
+    {
+      "text": "72 Professor Lumby's evidence was that:\n \n \"The evidence is overwhelming that, having regard to community standards of morality, decency and propriety, the majority of Australian adults are not offended by films that primarily involve various forms of actual sexual activity, including close-ups, between consenting adults and in which there is no depiction of coercion or violence\".",
+      "id": "s166"
+    },
+    {
+      "text": "73 Professor Lumby supported her opinion by reference to three studies conducted in Australia.",
+      "id": "s167"
+    },
+    {
+      "text": "The first was a 1992 survey conducted by the Office of Film and Literature Classification; the second was a 1999 survey carried out by Roy Morgan Research; the third was a 2006 survey conducted by AC Nielsen.",
+      "id": "s168"
+    },
+    {
+      "text": "74 She also referred to other research studies conducted in Australia and the United Kingdom .",
+      "id": "s169"
+    },
+    {
+      "text": "75 Ms Katherine Albury is a Lecturer in Gender and Cultural Studies at the University of Sydney.",
+      "id": "s170"
+    },
+    {
+      "text": "She is also an Honorary Research Associate in Media and Communications at that University.",
+      "id": "s171"
+    },
+    {
+      "text": "She has written, and carried out research in the area of contemporary community attitudes to sexually explicit media.",
+      "id": "s172"
+    },
+    {
+      "text": "She has also worked, and carried out research in the field of sexual health and sexual ethics.",
+      "id": "s173"
+    },
+    {
+      "text": "76 Ms Albury was also a \"Co-Chief Investigator\" on the project Understanding Pornography in Australia .",
+      "id": "s174"
+    },
+    {
+      "text": "77 Ms Albury's conclusions were as follows:\n \n &#8226; \"the reasonable adult\" is not offended by sexually explicit films depicting various forms of sexual activity, including close-ups, between consulting adults, provided there is no coercion or violence.",
+      "id": "s175"
+    },
+    {
+      "text": "&#8226; This conclusion is supported by research conducted in Australia since 1992 which indicates that between 56% and 75% of those surveyed believe that non violent, sexually explicit materials depicting consenting adults should be available to adults.",
+      "id": "s176"
+    },
+    {
+      "text": "&#8226; It is also supported by research which indicates that most Australians have a \"liberal\" attitude towards sexually explicit material.",
+      "id": "s177"
+    },
+    {
+      "text": "&#8226; Nevertheless, attitudes vary widely according to political, religious \"or other affiliations.",
+      "id": "s178"
+    },
+    {
+      "text": "\" \n &#8226; The views held by a minority should not be seen as unreasonable.",
+      "id": "s179"
+    },
+    {
+      "text": "78 Mr Alan McKee is an Associate Professor in the Creative Industries Faculty at the Queensland University of Technology.",
+      "id": "s180"
+    },
+    {
+      "text": "He holds a PhD in film studies from the University of Glasgow.",
+      "id": "s181"
+    },
+    {
+      "text": "He has written widely in the field of film and television, including a number of publications on sexually explicit materials.",
+      "id": "s182"
+    },
+    {
+      "text": "He was a Co-Chief Investigator on the research project Understanding Pornography in Australia with Professor Lumby and Ms Albury.",
+      "id": "s183"
+    },
+    {
+      "text": "79 The question which Professor McKee was asked was whether, having regard to current community standards, a film primarily involving various forms of actual sexual activity, including close-ups, between consenting adults, but with no coercion or violence, would be likely to cause offence to a reasonable adult.",
+      "id": "s184"
+    },
+    {
+      "text": "80 Professor McKee answered this question upon the basis of a conclusion reached by him that consumers of sexually explicit material can fairly be described as \"reasonable adults\".",
+      "id": "s185"
+    },
+    {
+      "text": "He concluded, by reference to an extensive review of available literature and a \"large-scale\" survey of consumers of sexually explicit materials, that such a film would be unlikely to cause offence \"to this sizeable group of reasonable adults in the Australian population.",
+      "id": "s186"
+    },
+    {
+      "text": "\"\n \n \n\n Whether the Guidelines are invalid \n \n81 Adultshop contends that the effect of the Guidelines is that films containing real depictions of actual sexual activity between consenting adults are to be classified X18+ regardless of the offensiveness criterion stated in the Code; that is to say, without regard to the requirement that the depiction of the activity is to be likely to cause offence to a reasonable adult.",
+      "id": "s187"
+    },
+    {
+      "text": "82 The relief sought by Adultshop, if these contentions are correct, relates to a legislative instrument made by the participating Ministers pursuant to the Agreement and the provisions of s 12(3) of the Act .",
+      "id": "s188"
+    },
+    {
+      "text": "Notice of the proceedings has been given to the relevant State and Territory Ministers but they have not sought to be joined as parties.",
+      "id": "s189"
+    },
+    {
+      "text": "I do not consider that their absence renders the proceedings incompetent.",
+      "id": "s190"
+    },
+    {
+      "text": "83 In my opinion, Adultshop's contentions as to the effect of the Guidelines are unsustainable because they are contrary to the plain meaning and effect of the legislative scheme considered as a whole.",
+      "id": "s191"
+    },
+    {
+      "text": "84 Section 7(2) of the Act sets out the different types of classification to be given to films.",
+      "id": "s192"
+    },
+    {
+      "text": "But the Act does not contain any detailed description of the types of films which fall within each of those classifications.",
+      "id": "s193"
+    },
+    {
+      "text": "The only description of the classification in the Act is found in s 7(2) in the words following each acronym.",
+      "id": "s194"
+    },
+    {
+      "text": "Relevantly, both R18+ and X18+ are described as \"Restricted\".",
+      "id": "s195"
+    },
+    {
+      "text": "85 Although s 11 lists four matters which the Review Board must take into account, it gives no guidance as to how the criteria are to be applied to the particular classifications stated in s 7(2).",
+      "id": "s196"
+    },
+    {
+      "text": "All that can be gleaned from s 11 is that each of the four listed factors must be taken into account in making a classification, whether it be PG, X18+ or any of the other classifications listed in s 7(2).",
+      "id": "s197"
+    },
+    {
+      "text": "86 The matters which the Review Board must take into account in accordance with s 11 are not limited to the standards of morality, decency and propriety generally accepted by reasonable adults.",
+      "id": "s198"
+    },
+    {
+      "text": "They include the film's artistic or educational merit (if any), its general character and likely viewing audience.",
+      "id": "s199"
+    },
+    {
+      "text": "87 Section 11 does not spell out the weight to be given by the Review Board to each of the four matters.",
+      "id": "s200"
+    },
+    {
+      "text": "All four factors must be taken into account by the Review Board in making classifications of the very wide range of films which come before it.",
+      "id": "s201"
+    },
+    {
+      "text": "Plainly enough, the Review Board would need to consider more carefully the generally-accepted standards of morality and decency in its classification of Viva Erotica than it would in classifying The Sound of Music .",
+      "id": "s202"
+    },
+    {
+      "text": "88 The pivotal section of the Act , for present purposes, is s 9.",
+      "id": "s203"
+    },
+    {
+      "text": "That section requires the Review Board to classify films in accordance with the Code and the Guidelines.",
+      "id": "s204"
+    },
+    {
+      "text": "This is a mandatory requirement: see the Explanatory Memorandum to the Classification (Publications, Films and Computer Games) Bill 1994 at [25].",
+      "id": "s205"
+    },
+    {
+      "text": "89 The gap in s 7 with respect to the description of the types of films that are covered by the specified classifications is covered by the Code.",
+      "id": "s206"
+    },
+    {
+      "text": "That is to say, as is pointed out in the Guidelines, the Act names the classification categories and the Code describes them.",
+      "id": "s207"
+    },
+    {
+      "text": "90 The table which I set out at [34] describes the film classifications in descending order of gravity.",
+      "id": "s208"
+    },
+    {
+      "text": "It commences with RC and works its way down to G. Each category, other than RC, excludes the operation of the more serious classification.",
+      "id": "s209"
+    },
+    {
+      "text": "A film which is classified RC cannot be classified as X18+.",
+      "id": "s210"
+    },
+    {
+      "text": "An X18+ film cannot be classified R18+.",
+      "id": "s211"
+    },
+    {
+      "text": "91 In this way, the Review Board would be required to work its way down from the RC classification to arrive at the appropriate one.",
+      "id": "s212"
+    },
+    {
+      "text": "In some instances the move down the classification table would be a very quick process.",
+      "id": "s213"
+    },
+    {
+      "text": "In others, difficult questions may arise as to whether the more serious classification is to be given.",
+      "id": "s214"
+    },
+    {
+      "text": "92 The Code also contains four statements of principle to which the decisions of the Review Board are to give effect.",
+      "id": "s215"
+    },
+    {
+      "text": "However, as the Review Board observed at [7.4.12], it is required to give effect to them only \" as far as possible ...they are not absolute binding rules but merely statements of principle\": see also NSW Council for Civil Liberties Inc v Classification Review Board (No.",
+      "id": "s216"
+    },
+    {
+      "text": "2) at [53].",
+      "id": "s217"
+    },
+    {
+      "text": "93 Having set out the classifications in the Act and described them in the Code, the Guidelines go on to explain the scope and limits of each classification category.",
+      "id": "s218"
+    },
+    {
+      "text": "They identify criteria which may meet particular classifications, but they are not inconsistent with the matters which the Review Board must take into account under s 11 of the Act .",
+      "id": "s219"
+    },
+    {
+      "text": "94 The Guidelines are to be read with the Act and the Code.",
+      "id": "s220"
+    },
+    {
+      "text": "They do not replace those instruments.",
+      "id": "s221"
+    },
+    {
+      "text": "They merely spell out in more detail how classification decisions may generally be made.",
+      "id": "s222"
+    },
+    {
+      "text": "They do not dictate the particular classification.",
+      "id": "s223"
+    },
+    {
+      "text": "To the contrary, they emphasise the importance of looking at each film on its own merits, having regard to the three essential guiding principles namely the context, the impact and the classifiable elements.",
+      "id": "s224"
+    },
+    {
+      "text": "95 All of these principles require the exercise of judgment of the way in which those matters appear in each film submitted for classification.",
+      "id": "s225"
+    },
+    {
+      "text": "Context requires consideration of the story-line and theme.",
+      "id": "s226"
+    },
+    {
+      "text": "Impact requires assessment of the treatment of the classifiable elements (including sex, language and nudity) as well as consideration of the purpose and tone of the film sequences.",
+      "id": "s227"
+    },
+    {
+      "text": "It also requires consideration of the cinematographic devices such as close-ups and frequency.",
+      "id": "s228"
+    },
+    {
+      "text": "96 The weight to be given to each of these matters is left to the Review Board.",
+      "id": "s229"
+    },
+    {
+      "text": "Membership of the Review Board is intended to be broadly representative of the Australian community.",
+      "id": "s230"
+    },
+    {
+      "text": "It is for the Review Board to determine, in the exercise of its judgment, what weight is to be given to the various factors.",
+      "id": "s231"
+    },
+    {
+      "text": "97 The principles stated in the Guidelines may be seen as explaining and supplementing the matters specified in s 11 of the Act .",
+      "id": "s232"
+    },
+    {
+      "text": "They are not inconsistent with the requirement of s 11 that each of those matters be taken into account.",
+      "id": "s233"
+    },
+    {
+      "text": "To the extent that they supplement those matters, there is no inconsistency with the requirements of s 11.",
+      "id": "s234"
+    },
+    {
+      "text": "That section does not contain an exhaustive list of factors.",
+      "id": "s235"
+    },
+    {
+      "text": "It does not prevent the Review Board from having regard to other matters.",
+      "id": "s236"
+    },
+    {
+      "text": "All that is required is that the Review Board include in the factors which it takes into account, the four matters stated in s 11.",
+      "id": "s237"
+    },
+    {
+      "text": "98 Nor does the explanation of each of the classification categories contained in the Guidelines conflict with the Act or the Code.",
+      "id": "s238"
+    },
+    {
+      "text": "99 The explanations of the R18+ and X18+ classifications, which I have set out at [45], make it plain that there are two categories of classifications which cover films with high sexual content.",
+      "id": "s239"
+    },
+    {
+      "text": "Both are restricted to adults.",
+      "id": "s240"
+    },
+    {
+      "text": "100 Whilst the explanations in the Guidelines seek to distinguish such films by excluding \"the real thing\" from an R18+ classification and leaving it to the X18+ category (provided it satisfies the other elements), they do not dictate that result.",
+      "id": "s241"
+    },
+    {
+      "text": "It remains for the Review Board to decide whether, in its judgment, the general rule is an accurate reflection of what is \"likely to cause offence to a reasonable adult.",
+      "id": "s242"
+    },
+    {
+      "text": "\" I will return to this issue later.",
+      "id": "s243"
+    },
+    {
+      "text": "101 Furthermore, it is quite wrong to read the general rule \"simulation, yes --- the real thing no\" as anything other than it is stated to be.",
+      "id": "s244"
+    },
+    {
+      "text": "Plainly, the general rule admits of exceptions.",
+      "id": "s245"
+    },
+    {
+      "text": "The Guidelines must be read as a whole.",
+      "id": "s246"
+    },
+    {
+      "text": "Regard must be had to context and impact.",
+      "id": "s247"
+    },
+    {
+      "text": "The Review Board must have regard to, amongst other things, the artistic merit and general character of the film: see s 11 of the Act .",
+      "id": "s248"
+    },
+    {
+      "text": "These matters are not displaced by the general rule contained in the Guidelines.",
+      "id": "s249"
+    },
+    {
+      "text": "102 That the \"real thing\" guideline admits of exceptions is exemplified by the approach which the Review Board has taken to other films which apparently contain depictions of actual sexual activity.",
+      "id": "s250"
+    },
+    {
+      "text": "The Review Board referred to the exception for films with artistic or other merit in its reasons and it gave examples of them.",
+      "id": "s251"
+    },
+    {
+      "text": "103 Thus, when read together, the Act , the Code and the Guidelines lay down a harmonious scheme for the classification of films and other subject matter.",
+      "id": "s252"
+    },
+    {
+      "text": "This is precisely what was contemplated by the Agreement made in 1995.",
+      "id": "s253"
+    },
+    {
+      "text": "The Agreement provided for the scheme to be administered by the Standing Committee of Attorneys-General.",
+      "id": "s254"
+    },
+    {
+      "text": "In their present form, the Code and the Guidelines were made with the agreement of SCAG.",
+      "id": "s255"
+    },
+    {
+      "text": "104 It was open to the SCAG to indicate in the Guidelines that, as a general rule, depictions of actual sexual activity would meet the test for films likely to cause offence to a reasonable adult.",
+      "id": "s256"
+    },
+    {
+      "text": "Whether in any particular case it does cause such offence is a matter of judgment for the Review Board in accordance with the Act , the Code and the Guidelines.",
+      "id": "s257"
+    },
+    {
+      "text": "105 The Guidelines do the very work which they are required to do by s 12(1) of the Act .",
+      "id": "s258"
+    },
+    {
+      "text": "They assist the Review Board in applying the criteria in the Code.",
+      "id": "s259"
+    },
+    {
+      "text": "The submission that they go beyond this task is rejected.",
+      "id": "s260"
+    },
+    {
+      "text": "Whether the Review Board applied the Guidelines without proper regard to the merits of the case \n \n106 Adultshop submitted that even if the Guidelines are valid, the Review Board applied them inflexibly without having regard to the merits of its case.",
+      "id": "s261"
+    },
+    {
+      "text": "107 Underlying this contention is Adultshop's submission that the Review Board failed to take into account the community standards factor stated in s 11(a) of the Act and that it failed to use the Guidelines to assist it in applying the criteria stated in the Code: s 12(1).",
+      "id": "s262"
+    },
+    {
+      "text": "108 Adultshop submitted that, instead, the Review Board failed, in particular, to properly consider the application of the X18+ classification described in the Code, under which the depiction of sexual activity must be likely to cause offence to a reasonable adult.",
+      "id": "s263"
+    },
+    {
+      "text": "Adultshop submitted that the Review Board applied the Guidelines, that is to say, \"the real thing\" guideline and the description of the X18+ category which I have set out at [45] above, as if they were determinative of the classification decision, without regard to the merits of the case.",
+      "id": "s264"
+    },
+    {
+      "text": "109 Adultshop also submitted that once the Review Board determined to approach the matter on the basis that the Guidelines accurately reflect current community standards for the X18+ classification, any evidence called by Adultshop could not be accepted by the Review Board regardless of the merit of such evidence.",
+      "id": "s265"
+    },
+    {
+      "text": "110 There is ample authority for the proposition that inflexible application of a policy, even if the policy is consistent with the statute under which the power is conferred, gives rise to reviewable error: see eg NEAT Domestic Trading Pty Limited v AWB Limited [2003] HCA 35 ; (2003) 216 CLR 277 at [24] per Gleeson CJ; Re Drake and Minister for Immigration and Ethnic Affairs (No.",
+      "id": "s266"
+    },
+    {
+      "text": "2) (1979) 2 ALD 364 at 640-641 per Brennan J; Elias v Commissioner of Taxation [2002] FCA 845 ; 123 FCR 499 at [34] per Hely J.",
+      "id": "s267"
+    },
+    {
+      "text": "Further authority for this proposition may be found in Khan v Minister for Immigration, Local Government and Ethnic Affairs (1987) 14 ALD 291; Oreb v Willcock [2004] FCA 1520 at [172] ; and Le v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2005] FCAFC 51 at [100] .",
+      "id": "s268"
+    },
+    {
+      "text": "111 However, in my opinion, it is clear from the reasons given by the Review Board that it did not arrive at its decision by an unthinking application of policy regardless of the merits of the case.",
+      "id": "s269"
+    },
+    {
+      "text": "Rather, the Review Board's reasons reveal that it paid careful attention to the merits.",
+      "id": "s270"
+    },
+    {
+      "text": "112 There are six critical aspects of the Review Board's reasons which support this finding.",
+      "id": "s271"
+    },
+    {
+      "text": "113 First, the Review Board said that it had regard to Adultshop's written and oral submissions including its survey and expert evidence and supporting material.",
+      "id": "s272"
+    },
+    {
+      "text": "The Review Board's discussion of the submissions and its consideration of the survey and expert evidence make it plain that the Review Board carefully considered all of this material.",
+      "id": "s273"
+    },
+    {
+      "text": "114 Second, the Review Board said that it was required to use \"its own perception, its experience and available evidence\" to form the best view of current community standards.",
+      "id": "s274"
+    },
+    {
+      "text": "In light of this, it cannot be suggested that it failed to give proper consideration to the merits of the application.",
+      "id": "s275"
+    },
+    {
+      "text": "115 Third, the Review Board acknowledged that community standards can and do change and that survey and expert evidence can be informative and persuasive in considering this question.",
+      "id": "s276"
+    },
+    {
+      "text": "Moreover, the Review Board noted and took into account all of that evidence, although ultimately it came to the view that the evidence was not \"definitive\" on this issue.",
+      "id": "s277"
+    },
+    {
+      "text": "116 Fourth, the Review Board indicated that it may be prepared to make a decision that had the effect of altering a regime which had the endorsement of Australia-wide governments if there was \"persuasive evidence\" of changed community standards.",
+      "id": "s278"
+    },
+    {
+      "text": "However, the Board was not persuaded that such evidence existed.",
+      "id": "s279"
+    },
+    {
+      "text": "117 Fifth, it gave consideration to whether the overall character and impact of the film justified a departure from the general rule that actual sexual activity is to be classified as X18+.",
+      "id": "s280"
+    },
+    {
+      "text": "It said that where the entire film is focused solely upon actual sexual activity, the film did not fall within the exception for artistic or other merit.",
+      "id": "s281"
+    },
+    {
+      "text": "It noted that Adultshop did not make any submission that the film had such merit.",
+      "id": "s282"
+    },
+    {
+      "text": "118 Sixth, the Review Board considered all of the expert and survey evidence provided by Adultshop but came to the view that it did not lend \"significant support\" to the contention that reasonable adults would not be offended by the film's content.",
+      "id": "s283"
+    },
+    {
+      "text": "It gave detailed reasons for this finding, all of which were open to it.",
+      "id": "s284"
+    },
+    {
+      "text": "119 It is plain from the reasons given by the Review Board that it considered the case advanced by Adultshop and rejected it.",
+      "id": "s285"
+    },
+    {
+      "text": "120 Adultshop made lengthy complaints about the Review Board's treatment of its evidence.",
+      "id": "s286"
+    },
+    {
+      "text": "However, this merely serves to emphasise that the Review Board did give proper, genuine and realistic consideration to the merits.",
+      "id": "s287"
+    },
+    {
+      "text": "Indeed, what Adultshop seeks on this application is merits review which is not the function of an application for judicial review.",
+      "id": "s288"
+    },
+    {
+      "text": "121 It is true that the description of the X18+ classification set out in the Guidelines, and reproduced at [45] above, may be seen as applying in its entirety to the content of Viva Erotica .",
+      "id": "s289"
+    },
+    {
+      "text": "It is also true that the description makes no reference to the requirement of the Code that the depictions of sexual activity would be likely to cause offence to a reasonable adult.",
+      "id": "s290"
+    },
+    {
+      "text": "122 However, it is plain that the Review Board did not simply apply this description as determinative of the classification of the film.",
+      "id": "s291"
+    },
+    {
+      "text": "It treated the description of the X18+ classification in the Guidelines as indicative of community standards.",
+      "id": "s292"
+    },
+    {
+      "text": "It also regarded the general rule \"simulation yes --- the real thing, no\" as broadly representative of current standards.",
+      "id": "s293"
+    },
+    {
+      "text": "But its observations about the relevance of artistic and other merit show that it did not treat the Guidelines as an exclusive or determinative test.",
+      "id": "s294"
+    },
+    {
+      "text": "123 Instead, the Review Board made its own finding as to current community standards based upon its perceptions, experience and available evidence.",
+      "id": "s295"
+    },
+    {
+      "text": "124 It is true that the Review Board considered that if Viva Erotica were to be classified R18+ rather than X18+, the X classification would have little work to do.",
+      "id": "s296"
+    },
+    {
+      "text": "But this does not indicate any failure to have regard to the merits.",
+      "id": "s297"
+    },
+    {
+      "text": "Rather, it reflects the Review Board's view of the proper construction of the Code; indeed it is one with which I agree.",
+      "id": "s298"
+    },
+    {
+      "text": "I will deal with this issue below.",
+      "id": "s299"
+    },
+    {
+      "text": "\"Likely to cause offence to a reasonable adult\" \n \n125 A central plank in Adultshop's attack upon the Review Board's decision was the proposition that the phrase 'likely to cause offence to a reasonable adult' imports a test of whether a majority of Australians would be likely to be offended.",
+      "id": "s300"
+    },
+    {
+      "text": "126 Senior Counsel for Adultshop called in aid the remarks of Wheeler JA in Hutchins v The State of Western Australia [2006] WASCA 258 at [4] .",
+      "id": "s301"
+    },
+    {
+      "text": "Her Honour there observed that the broad social purposes of censorship include ensuring that ordinary members of the community are not affronted by the display of material to which a majority of reasonable adults would object.",
+      "id": "s302"
+    },
+    {
+      "text": "127 It is of course well established that the general purpose and policy of a statutory provision are a guide to its proper construction: see Australian Broadcasting Authority v Project Blue Sky [1998] HCA 28 ; (1998) 194 CLR 355 at [69] --- [71]; see also CIC Insurance Limited v Bankstown Football Club Limited [1997] HCA 2 ; (1995) 187 CLR 384 at 408.",
+      "id": "s303"
+    },
+    {
+      "text": "Ordinarily, the purpose will be gleaned from the legislative history and other extrinsic material as well as from the provisions of the statute considered as a whole: Newcastle City Council v GIO General Limited [1997] HCA 53 ; (1997) 191 CLR 85 at 112-113 per McHugh J.",
+      "id": "s304"
+    },
+    {
+      "text": "Regard may be paid to an object clause but it is to be read in light of the overall statutory regime: IW v City of Perth [1997] HCA 30 ; (1997) 191 CLR 1 at 12 per Brennan CJ and McHugh J.",
+      "id": "s305"
+    },
+    {
+      "text": "128 Wheeler JA's observations in Hutchins were not based upon a consideration of the extensive material or the statute as a whole.",
+      "id": "s306"
+    },
+    {
+      "text": "Nor was her Honour considering the cooperative legislative scheme which is the subject of these proceedings.",
+      "id": "s307"
+    },
+    {
+      "text": "Rather, her Honour's remarks were directed at the broad social purpose of this type of legislation.",
+      "id": "s308"
+    },
+    {
+      "text": "A statement of legislative purpose at this level of generality cannot displace the construction of the statute which emerges from an analysis of the language of the provision in its full context: Victims Compensation Fund v Brown [2002] NSWCA 155 ; (2002) 54 NSWLR 668 at [9] --- [10] per Spigelman CJ; his Honour's dissenting judgment was approved by the High Court in Victims Compensation Fund Corporation v Brown [2003] HCA 54 ; (2003) 201 ALR 260.",
+      "id": "s309"
+    },
+    {
+      "text": "129 It follows in my view that the observations of Wheeler JA in Hutchins are not authority for the proposition that the words \"likely to cause offence to a reasonable adult\" imports a test of whether a majority of Australians would be likely to be offended.",
+      "id": "s310"
+    },
+    {
+      "text": "Moreover, if her Honour intended to say that the test is one of ascertaining the views of a simple majority, that is, 51% of the population, I respectfully disagree.",
+      "id": "s311"
+    },
+    {
+      "text": "The legislative history, overseas and Australian authority as well as the construction of the phrase in its statutory context all point against that construction.",
+      "id": "s312"
+    },
+    {
+      "text": "The legislative history \n \n130 The genesis of the co-operative legislative scheme for censorship of films and other publications is to be found in the Australian Law Reform Commission Report No.",
+      "id": "s313"
+    },
+    {
+      "text": "55, Censorship Procedure .",
+      "id": "s314"
+    },
+    {
+      "text": "The ALRC Report was produced following upon a reference from the then Commonwealth Attorney-General dated 10 May 1990.",
+      "id": "s315"
+    },
+    {
+      "text": "131 The Attorney noted in the terms of reference to the ALRC that the Commonwealth, the States and the Territories were in broad agreement as to the policy that ought to be pursued in relation to the censorship of imported and locally produced films.",
+      "id": "s316"
+    },
+    {
+      "text": "The terms of reference also noted that the ALRC was to draft legislation to give effect to its recommendations.",
+      "id": "s317"
+    },
+    {
+      "text": "132 The ALRC observed at [1.7] that the objective of Australian censorship laws is to regulate the availability of films and publications within the broad framework of 'general community standards'.",
+      "id": "s318"
+    },
+    {
+      "text": "133 The draft classification bill prepared by the ALRC was in similar, but not identical, terms to the Act .",
+      "id": "s319"
+    },
+    {
+      "text": "It provided, in draft cl 5, that publications and films were to be classified in accordance with the classification code.",
+      "id": "s320"
+    },
+    {
+      "text": "134 The ALRC's draft national classification code was set out in a schedule to the draft bill.",
+      "id": "s321"
+    },
+    {
+      "text": "It was a similar table to that which is now contained in the Code.",
+      "id": "s322"
+    },
+    {
+      "text": "The X classification applied to films that explicitly depict sexual activity between consenting adults where there is no sexual violence, coercion or non-consent of any kind 'in a way that is likely to cause offence to a reasonable adult'.",
+      "id": "s323"
+    },
+    {
+      "text": "135 The ALRC's draft explanatory memorandum did not explain the individual classifications.",
+      "id": "s324"
+    },
+    {
+      "text": "It merely said that the schedule to the draft bill reproduced the national classification code.",
+      "id": "s325"
+    },
+    {
+      "text": "However, in its report, the ALRC observed that classification decisions being made by the existing boards were to be made:\n \n \"... on a judgment of how much the material offends, or is likely to offend, the standards or sensibilities of the reasonable adult.",
+      "id": "s326"
+    },
+    {
+      "text": "This judgment is, and because of its nature can only be, a subjective one.",
+      "id": "s327"
+    },
+    {
+      "text": "\" \n \n \n\n136 The ALRC recognized the need for classification decisions to reflect the community's views.",
+      "id": "s328"
+    },
+    {
+      "text": "It said that there should be a strong emphasis on public participation and consultation in the classification boards' work: see [2.5] of the ALRC Report.",
+      "id": "s329"
+    },
+    {
+      "text": "137 The ALRC also recognized that the classification criteria in the draft code were broad.",
+      "id": "s330"
+    },
+    {
+      "text": "It agreed with the need for guidelines but recommended that they be issued by the federal Attorney-General after consultation with the States and Territories: [3.7] of the ALRC Report.",
+      "id": "s331"
+    },
+    {
+      "text": "It commented that the Guidelines are:\n \n \"... an important way of ensuring that the classification criteria reflect community standards, without the need for constant changes to the national code.\".",
+      "id": "s332"
+    },
+    {
+      "text": "See [3.8] of the ALRC Report.",
+      "id": "s333"
+    },
+    {
+      "text": "138 Although the ALRC did not explain the concept of 'a reasonable adult', three points emerge from its discussion of the test.",
+      "id": "s334"
+    },
+    {
+      "text": "First, the application of the test is to reflect 'community views'.",
+      "id": "s335"
+    },
+    {
+      "text": "Second, it involves an element of subjectivity, but it is expected to reflect community views through the broadly representative nature of the classifying body.",
+      "id": "s336"
+    },
+    {
+      "text": "139 The third point is that guidance as to community standards is to be found in the classification guidelines which are intended to be an expression of current standards, based upon public input: see ALRC Report at [3.8].",
+      "id": "s337"
+    },
+    {
+      "text": "140 The regime proposed by the ALRC, which is for present purposes virtually identical with that contained in the Act and the Code, is not the same as a majoritarian test for what is likely to cause offence to a reasonable adult.",
+      "id": "s338"
+    },
+    {
+      "text": "What the ALRC proposed was that the Review Board make its own assessment of how much the material is likely to offend the sensibilities of the reasonable adult.",
+      "id": "s339"
+    },
+    {
+      "text": "This is a value judgment which is to be guided by the classification guidelines as indicative of current community standards.",
+      "id": "s340"
+    },
+    {
+      "text": "141 The process envisaged by the ALRC was not that the Review Board would simply form an opinion as to whether 51% of the community would, or would not, be offended.",
+      "id": "s341"
+    },
+    {
+      "text": "Instead, the ALRC's emphasis upon the reaction of the reasonable adult and the importance of community views show, in my opinion, that the process was not to be a mechanistic one.",
+      "id": "s342"
+    },
+    {
+      "text": "It was to involve a value judgment about the views of the reasonable adult in the diverse Australian community.",
+      "id": "s343"
+    },
+    {
+      "text": "142 As with any value judgment, this involves an element of subjectivity which is not based upon precise measurement.",
+      "id": "s344"
+    },
+    {
+      "text": "Overseas Authority \n \n143 It is of course critical to construe the phrase at issue in these proceedings in its own statutory context.",
+      "id": "s345"
+    },
+    {
+      "text": "Overseas regimes are different and accordingly the decisions of courts in other jurisdictions will not, as a general rule, be of assistance in construing the Code.",
+      "id": "s346"
+    },
+    {
+      "text": "144 Nevertheless, it does seem to me that the approach of the House of Lords in Director of Public Prosecutions v Collins [2006] 4 All ER 602 provides some assistance in determining what is intended by the concept of \"offence to a reasonable adult\".",
+      "id": "s347"
+    },
+    {
+      "text": "145 In Director of Public Prosecutions v Collins the respondent had been charged with an offence under s 127(1)(a) of the Communications Act 2003 (UK), which provided, inter alia, that a person was guilty of an offence if he or she sent, by means of a public electronic communications system, a message that was \"grossly offensive\".",
+      "id": "s348"
+    },
+    {
+      "text": "The charges arose from telephone calls to a member of Parliament and his staff.",
+      "id": "s349"
+    },
+    {
+      "text": "The respondent had strong views on immigration policy and shouted references to \"wogs\", \"Pakis\" and \"black bastards\".",
+      "id": "s350"
+    },
+    {
+      "text": "146 Their Lordships were of the view that the question of whether a message is \"grossly offensive\" is to be determined by the standards of an open and just multi-racial society and that the words used must be considered in their context and all relevant circumstances.",
+      "id": "s351"
+    },
+    {
+      "text": "147 Lord Bingham observed at [9] that there can be no yardstick of gross offensiveness other than by the application of reasonably enlightened, and not perfectionist contemporary standards.",
+      "id": "s352"
+    },
+    {
+      "text": "His Lordship concluded at [13] that the respondent's messages were grossly offensive and would be found \"by a reasonable person\" to be so.",
+      "id": "s353"
+    },
+    {
+      "text": "148 Lord Carswell said at [18] that the Court's task was to determine whether the communications were grossly offensive \"in the eyes of reasonable people.",
+      "id": "s354"
+    },
+    {
+      "text": "\" His Lordship also said at [21] that what mattered was \"whether reasonable persons in our society would find it grossly offensive.",
+      "id": "s355"
+    },
+    {
+      "text": "\"\n \n149 Lord Carswell also referred at [22] to two factors which justified the appeal.",
+      "id": "s356"
+    },
+    {
+      "text": "He said:\n \n \"First, it appears that the justices may have placed some weight on the reaction of the actual listeners to the messages, rather than considering the reactions of reasonable members of society in general.",
+      "id": "s357"
+    },
+    {
+      "text": "Secondly, it was conceded by the respondent's counsel in the Divisional Court that a member of a relevant ethnic minority who heard the messages would have found them grossly offensive.",
+      "id": "s358"
+    },
+    {
+      "text": "If one accepts the correctness of that concession, as I believe one should, then one cannot easily escape the standards of an open and just multiracial society.",
+      "id": "s359"
+    },
+    {
+      "text": "The terms used were opprobrious and insulting, and not accidentally so.",
+      "id": "s360"
+    },
+    {
+      "text": "I am satisfied that reasonable citizens, not only members of the ethnic minorities referred to by the terms, would find them grossly offensive.",
+      "id": "s361"
+    },
+    {
+      "text": "\" \n \n \n\n150 This passage provides support for the view that the test of what is likely to cause offence to a reasonable adult is not a simple majoritarian one.",
+      "id": "s362"
+    },
+    {
+      "text": "It takes into account the wide diversity of views that may be held by different sectors within today's society.",
+      "id": "s363"
+    },
+    {
+      "text": "151 Moreover, the decision recognises that what is likely to cause offence to a reasonable adult musts be determined in each case in its entire context.",
+      "id": "s364"
+    },
+    {
+      "text": "It is not a question of whether the racial labels, or depictions of sexual activity, are likely to cause such offence.",
+      "id": "s365"
+    },
+    {
+      "text": "It is whether statements or the cinematographic images considered in their entire context meet the test.",
+      "id": "s366"
+    },
+    {
+      "text": "Australian authority \n \n152 Australian authority on offensive behaviour also recognises the need to take account of contemporary standards, the context of the act in question and the balancing exercise that is involved.",
+      "id": "s367"
+    },
+    {
+      "text": "153 In Wurramura v Haymon (1987) 44 NTR 1, the appellants had been convicted of offensive behaviour for the act of sexual intercourse in a private house, at night with the light on in full view of a public street.",
+      "id": "s368"
+    },
+    {
+      "text": "On appeal, Asche J said, at 5, that the concept of offensive behaviour depends upon the circumstances in which it takes place and it must be looked at in a contemporary light.",
+      "id": "s369"
+    },
+    {
+      "text": "154 His Honour continued as follows:\n \n \"No doubt on the question of sexual mores the present age is more tolerant than any in the last century, but there are obviously still limits to what the general public will stand.",
+      "id": "s370"
+    },
+    {
+      "text": "Even in this day and age, performance of the act of sexual intercourse in public would be considered by the normal reasonable citizen of Australia as offensive, and offensive in the sense that some form of legal prohibition should occur.",
+      "id": "s371"
+    },
+    {
+      "text": "This does not in my mind make the average Australian some form of narrow minded Puritan.",
+      "id": "s372"
+    },
+    {
+      "text": "It merely means that he or she accepts that there are boundaries (liberal though they may be) which for the sake of themselves and their families should not be transgressed.",
+      "id": "s373"
+    },
+    {
+      "text": "\" \n \n \n\n155 Justice Asche also said that behaviour is not necessarily offensive because it offends a particular person; there is a wide variety of personal idiosyncrasies.",
+      "id": "s374"
+    },
+    {
+      "text": "He quoted part of a passage from Shakespeare's The Merchant of Venice but said that, having some Scottish ancestry, he indignantly refused to quote the next few lines.",
+      "id": "s375"
+    },
+    {
+      "text": "I have no such ancestry, and will therefore happily quote the passage in full:\n \n \"Some men there are love not a gaping pig; \n Some, that are mad if they behold a cat; \n And others, when the bagpipe sings i' the nose, \n Cannot contain their urine; for affection, \n Mistress of passion, sways it to the mood \n Of what it likes or loathes.",
+      "id": "s376"
+    },
+    {
+      "text": "\" \n \n\n156 His Honour went on to say that the law on offensive behaviour is not for the unduly sensitive or the totally permissive.",
+      "id": "s377"
+    },
+    {
+      "text": "It strikes a balance.",
+      "id": "s378"
+    },
+    {
+      "text": "Construction of the phrase in its statutory context \n \n157 Both Director of Public Prosecutions v Collins and Wurramura v Haymon dealt with offensive behaviour under penal statutes rather than depictions of acts likely to cause offence to a reasonable adult under a film classification scheme.",
+      "id": "s379"
+    },
+    {
+      "text": "Nevertheless, the definition of \"offensive\" in the Guidelines adopts the ordinary meaning of that term, ie.",
+      "id": "s380"
+    },
+    {
+      "text": "material which causes outrage or extreme disgust.",
+      "id": "s381"
+    },
+    {
+      "text": "Both of the authorities to which I have referred would appear to approach the meaning of the term in that sense.",
+      "id": "s382"
+    },
+    {
+      "text": "158 It is also to be noted that although the statute under consideration in Director of Public Prosecutions v Collins did not expressly proscribe messages which were (grossly) offensive to \"a reasonable person\", both Lord Bingham and Lord Carswell proceeded upon the basis that this was to be established in order for a contravention to be made out.",
+      "id": "s383"
+    },
+    {
+      "text": "Lord Carswell drew no distinction between the concept of \"a reasonable person\" and that of \"reasonable persons.",
+      "id": "s384"
+    },
+    {
+      "text": "\"\n \n159 The Act refers in s 11(a) to the standards \"generally accepted by reasonable adults\".",
+      "id": "s385"
+    },
+    {
+      "text": "By contrast, the description of the X18+ classification in the Code refers to depictions likely to cause offence to \"a reasonable adult\".",
+      "id": "s386"
+    },
+    {
+      "text": "This distinction also appears in s 29(4)(a) and s 29(4)(b) of the Act.",
+      "id": "s387"
+    },
+    {
+      "text": "160 I do not consider that anything turns on the difference in this language.",
+      "id": "s388"
+    },
+    {
+      "text": "Director of Public Prosecutions v Collins suggests that there is no difference between those terms.",
+      "id": "s389"
+    },
+    {
+      "text": "In any event, in a cooperative legislative scheme which provides for the classification of films, it would be wrong to draw narrow distinctions between \"reasonable adults\" and \"a reasonable adult\".",
+      "id": "s390"
+    },
+    {
+      "text": "161 The words \"a reasonable adult\" in the X18+ classification are part of a composite phrase.",
+      "id": "s391"
+    },
+    {
+      "text": "That phrase has special work to do.",
+      "id": "s392"
+    },
+    {
+      "text": "It must be considered in light of the objective referred to by the ALRC, namely that censorship, and classification categories, are aimed at regulating the availability of films within the broad framework of general community standards.",
+      "id": "s393"
+    },
+    {
+      "text": "The Act and the Code establish a regime for classification of films which applies nationally.",
+      "id": "s394"
+    },
+    {
+      "text": "Community standards differ widely across Australia.",
+      "id": "s395"
+    },
+    {
+      "text": "The search is not for one reasonable representative person.",
+      "id": "s396"
+    },
+    {
+      "text": "The scheme takes account of diverse Australia-wide community standards.",
+      "id": "s397"
+    },
+    {
+      "text": "162 The Review Board said it had regard to the definition of \"reasonable adult\" either as contained in the Guidelines or in the Macquarie Dictionary.",
+      "id": "s398"
+    },
+    {
+      "text": "However, the Guidelines (ie.",
+      "id": "s399"
+    },
+    {
+      "text": "The Guidelines for Classification of Films and Computer Games) contain no definition of that term.",
+      "id": "s400"
+    },
+    {
+      "text": "(Nor, for that matter, does the Macquarie Dictionary).",
+      "id": "s401"
+    },
+    {
+      "text": "There is a definition of \"reasonable adult\" in the Guidelines for the Classification of Publications, 2005, as follows:\n \n \"Possessing common sense and an open mind, and able to balance personal opinion with generally accepted community standards.",
+      "id": "s402"
+    },
+    {
+      "text": "\" \n \n \n\n163 Even if it is legitimate to take this definition into account, it merely serves to emphasise the breadth of the value judgment which is involved.",
+      "id": "s403"
+    },
+    {
+      "text": "The concept of generally accepted community standards involves a judgment about the standards of the diverse Australian community.",
+      "id": "s404"
+    },
+    {
+      "text": "It is for the members of the Review Board, who are to be broadly representative of the community, to make that value judgment of the film in its full context.",
+      "id": "s405"
+    },
+    {
+      "text": "The analogy of the \"reasonable person\" test in the law of negligence \n \n164 In my view, the concept of \"the reasonable person\" which underlies the law of negligence is of no real assistance in construing the phrase \"likely to cause offence to a reasonable person\".",
+      "id": "s406"
+    },
+    {
+      "text": "The objectives of the regulatory scheme which govern the classification of films and other publications bears no similarity to the policy considerations which inform the law of negligence.",
+      "id": "s407"
+    },
+    {
+      "text": "165 Nevertheless, the warning recently given by the High Court against a mechanistic approach to the concept of reasonableness is apt.",
+      "id": "s408"
+    },
+    {
+      "text": "166 In New South Wales v Fahy [2007] HCA 20 ; (2007) 81 ALJR 1021, Gleeson CJ observed at [6], that the balancing exercise to be undertaken to determine the standard of \"the reasonable person\" should not be described as a \"calculus\".",
+      "id": "s409"
+    },
+    {
+      "text": "His Honour said that what is involved is a judgment about reasonableness which is not amenable to exact calculation.",
+      "id": "s410"
+    },
+    {
+      "text": "167 Chief Justice Gleeson continued at [7] by referring to an earlier authority which pointed out that there are cases in which an unduly mathematical approach to the exercise can lead to an unreasonable result.",
+      "id": "s411"
+    },
+    {
+      "text": "See also at [57] per Gummow and Hayne JJ.",
+      "id": "s412"
+    },
+    {
+      "text": "\"Likely\" \n \n168 Nor do I think that the word \"likely\" in the phrase at hand calls for a rigid or technical approach.",
+      "id": "s413"
+    },
+    {
+      "text": "Mr Walters SC, for Adultshop, referred to the discussion of the meaning of \"likely\" in Tillmanns Butcheries Pty Limited v Australasian Meat Industry Employees' Union (1979) 27 ALR 367 at 375, 380-382.",
+      "id": "s414"
+    },
+    {
+      "text": "That question arose in considering the construction of s 45D of the Trade Practices Act where entirely different considerations apply.",
+      "id": "s415"
+    },
+    {
+      "text": "169 I do not consider that a statutory body charged with the task of determining whether a sexually explicit film would be likely to cause offence need ask itself whether there is more than a 50% chance that this would be so.",
+      "id": "s416"
+    },
+    {
+      "text": "The Review Board must engage in a question of judgment, based upon its perception of the community standards of a diverse community.",
+      "id": "s417"
+    },
+    {
+      "text": "It seems to me that the degree of likelihood that it is required to assess is best described by the \"real chance or possibility\" test to which Deane J referred in Tillmanns at 382.",
+      "id": "s418"
+    },
+    {
+      "text": "Summary of the offensiveness/reasonable adult tests \n \n170 In summary, the \"offensiveness\" test for the X18+ classification in the Code is not determined by a mechanistic majoritarian approach.",
+      "id": "s419"
+    },
+    {
+      "text": "It calls for a judgment about the reaction of a reasonable adult in a diverse Australian society.",
+      "id": "s420"
+    },
+    {
+      "text": "171 The \"reasonable adult\" test must accommodate the community standards of Toorak and Newtown as well as those of Kunnanurra and Broken Hill.",
+      "id": "s421"
+    },
+    {
+      "text": "It must also accommodate the standards of various subgroups within a multi-racial, secular society which nonetheless includes persons of different ages, political, religious and social views.",
+      "id": "s422"
+    },
+    {
+      "text": "172 Even if the question of what would be likely to cause offence to a reasonable adult calls for a judgment as to \"what most people think,\" it is a value judgment which is not susceptible to a bright line test.",
+      "id": "s423"
+    },
+    {
+      "text": "173 The Code calls for the Review Board to make a judgment on the \"reasonable adult\" question in deciding whether to classify a film as X18+.",
+      "id": "s424"
+    },
+    {
+      "text": "This is plain from the words \"likely to cause offence to a reasonable adult\".",
+      "id": "s425"
+    },
+    {
+      "text": "Not every film which depicts actual sex will meet this classification.",
+      "id": "s426"
+    },
+    {
+      "text": "Yet on the approach urged by Adultshop, no film containing real depictions of actual sex between consenting adults, where there is no violence etc, would be so classified.",
+      "id": "s427"
+    },
+    {
+      "text": "This is because, on Adultshop's approach, no such film would be offensive to a reasonable adult.",
+      "id": "s428"
+    },
+    {
+      "text": "In light of its own findings on current community standards, the Review Board was correct to reject Adultshop's approach.",
+      "id": "s429"
+    },
+    {
+      "text": "Whether the Review Board improperly rejected the expert evidence \n \n174 No error is disclosed in the way in which the Review Board dealt with the expert evidence or the survey evidence.",
+      "id": "s430"
+    },
+    {
+      "text": "There are three reasons for this.",
+      "id": "s431"
+    },
+    {
+      "text": "175 First, the Review Board's findings were not directed by an inflexible application of the Guidelines.",
+      "id": "s432"
+    },
+    {
+      "text": "The Review Board considered the evidence but found it unhelpful.",
+      "id": "s433"
+    },
+    {
+      "text": "176 Second, the expert and survey evidence did not address the question which the Review Board had to answer.",
+      "id": "s434"
+    },
+    {
+      "text": "That question was whether Viva Erotica depicted actual sexual activity in a way that is likely to cause offence to a reasonable adult.",
+      "id": "s435"
+    },
+    {
+      "text": "It called for a judgment as to whether the images and the film, viewed in their full context, would cause offence to a reasonable adult member of a diverse society.",
+      "id": "s436"
+    },
+    {
+      "text": "177 This question was to be judged by contemporary Australian standards.",
+      "id": "s437"
+    },
+    {
+      "text": "It involved a consideration of the reactions of a wide variety of adults to the whole of the specific film, Viva Erotica .",
+      "id": "s438"
+    },
+    {
+      "text": "This question was not answered by evidence at the level of generality of that which was provided by Professor Lumby and Ms Albury.",
+      "id": "s439"
+    },
+    {
+      "text": "Professor McKee's evidence addressed the wrong question because he focussed only on the attitudes of consumers of sexually explicit films.",
+      "id": "s440"
+    },
+    {
+      "text": "178 The third reason why no error is disclosed is that Adultshop's submissions on this point amounted to a claim for merits review.",
+      "id": "s441"
+    },
+    {
+      "text": "This is plain from its lengthy complaints about the reasons given by the Review Board for its treatment of the expert and survey evidence.",
+      "id": "s442"
+    },
+    {
+      "text": "Wednesbury unreasonableness \n \n179 On appeal in Brown v Classification Review Board , Sundberg J said that a court should only interfere with the decision of the Board (or the Review Board) if the conclusion was not reasonably open on the material before the Board.",
+      "id": "s443"
+    },
+    {
+      "text": "This states the test for unreasonableness in similar terms to that of Gibbs J in Buck v Bavone [1976] HCA 24 ; (1976) 135 CLR 110 at 118-119.",
+      "id": "s444"
+    },
+    {
+      "text": "180 Adultshop submitted that the Review Board's decision was unreasonable within this test on two bases.",
+      "id": "s445"
+    },
+    {
+      "text": "First, the Review Board \"unreasonably refused to accept persuasive, unchallenged and uncontradicted evidence in deciding that Viva Erotica was offensive to a majority of adults.",
+      "id": "s446"
+    },
+    {
+      "text": "\" \n \n181 The second ground of unreasonableness was said to be that the Review Board relied on facts for which no supporting evidence existed.",
+      "id": "s447"
+    },
+    {
+      "text": "182 Both of these contentions fail.",
+      "id": "s448"
+    },
+    {
+      "text": "The Review Board was not bound to accept the survey and expert evidence.",
+      "id": "s449"
+    },
+    {
+      "text": "Moreover, as I have said, the question for the Review Board was not whether the film was offensive to a majority of Australian adults.",
+      "id": "s450"
+    },
+    {
+      "text": "Furthermore, for reasons set out below, the no evidence ground cannot be sustained.",
+      "id": "s451"
+    },
+    {
+      "text": "183 Finally, the X18+ classification, as described in the Guidelines, appears to apply in every respect to the content of Viva Erotica .",
+      "id": "s452"
+    },
+    {
+      "text": "It is difficult, if not impossible to see how the Wednesbury unreasonableness ground can have any application to the Review Board's decision.",
+      "id": "s453"
+    },
+    {
+      "text": "The \"no evidence\" ground \n \n184 In order to succeed on the \"no evidence\" ground contained in 5(1)(h) and 5(3)(b) of the ADJR Act , Adultshop must do more than negative the existence of a fact on which the decision is based; it must adduce evidence positively establishing the contrary fact: Australian Retailers Association v Reserve Bank of Australia [2005] FCA 1707 ; (2005) 148 FCR 446 at [580] per Weinberg J.",
+      "id": "s454"
+    },
+    {
+      "text": "185 This ground of review is confined to findings of fact; it does not extend to expressions of opinion; Reserve Bank Case at [581].",
+      "id": "s455"
+    },
+    {
+      "text": "The fact, as to which there is said to be no evidence, must be shown to be critical to the impugned decision: Minister for Immigration and Multicultural Affairs v Rajamanikkam [2002] HCA 32 ; (2002) 210 CLR 222; Reserve Bank Case at [584].",
+      "id": "s456"
+    },
+    {
+      "text": "186 Adultshop contended that the relevant fact was the finding that there had been extensive community consultation in the process of updating the Guidelines in May 2005 and in the debate over the amendments to the X classification at the turn of the decade.",
+      "id": "s457"
+    },
+    {
+      "text": "187 However, the \"no evidence\" ground is not established within the principles stated in the Reserve Bank Case .",
+      "id": "s458"
+    },
+    {
+      "text": "First, Adultshop did not positively establish the contrary fact.",
+      "id": "s459"
+    },
+    {
+      "text": "The submission contained in [131]-[134] of Adultshop's written submissions deals with the question of research into community attitudes to the X category.",
+      "id": "s460"
+    },
+    {
+      "text": "However, this was not evidence which positively established that there had been no consultation in 2000 or in 2005.",
+      "id": "s461"
+    },
+    {
+      "text": "Second, the existence of community consultation was not critical to the Review Board's ultimate finding that the film was likely to cause offence to a reasonable adult.",
+      "id": "s462"
+    },
+    {
+      "text": "Conclusion and Orders \n \n188 All of the grounds of review fail.",
+      "id": "s463"
+    },
+    {
+      "text": "The orders I will make are that the application be dismissed with costs.",
+      "id": "s464"
+    },
+    {
+      "text": "I certify that the preceding one hundred and eighty-eight (188) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Jacobson.",
+      "id": "s465"
+    },
+    {
+      "text": "Associate:\n\nDate: 29 November 2007\n\n\n Counsel for the Applicant: B Walters SC with P Bevilacqua \n \n Solicitor for the Applicant: Salter Power \n \n Counsel for the Second Respondent: S Lloyd \n \n Solicitor for the Second Respondent: Australian Government Solicitor \n \n Counsel for the amicus curiae (New South Wales Council for Civil Liberties Inc) M Bozic SC with S Callan \n \n Solicitor for the amicus curiae (New South Wales Council for Civil Liberties Inc) S Blanks \n \n Solicitor for the amicus curiae (Australian Family Association) D Tudehope \n \n Date of Hearing: 6 September 2007 \n \n Date of Judgment: 29 November 2007 \n \n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/1871.html",
+      "id": "s466"
+    }
+  ]
+}

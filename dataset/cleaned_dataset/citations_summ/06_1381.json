@@ -1,0 +1,782 @@
+[
+  {
+    "text": "courts and judges",
+    "id": "cp2.0",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "judgment",
+    "id": "cp2.1",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "order entered",
+    "id": "cp2.2",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether can be set aside",
+    "id": "cp2.3",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "unsuccessful party seeking to reopen case",
+    "id": "cp2.4",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "social security",
+    "id": "cp3.0",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "workplace injury",
+    "id": "cp3.1",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "payments of sickness benefits, disability support pension and disability support wife pension",
+    "id": "cp3.2",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "subsequent judgment requiring payment of arrears of periodic compensation payments and lump sum compensation in respect of injury",
+    "id": "cp3.3",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "recoverability of social security payments already made",
+    "id": "cp3.4",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "whether payments pursuant to judgment required to be treated as one lump sum",
+    "id": "cp3.5",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "whether provisions relating to lump sum preclusion periods applied",
+    "id": "cp3.6",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "practice and procedure",
+    "id": "cp4.0",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "vexatious litigant",
+    "id": "cp4.1",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "order 21 rule 2",
+    "id": "cp4.2",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "whether respondent habitually and persistently instituted vexatious proceedings against the applicant",
+    "id": "cp4.3",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "order made under order 21 rule 2",
+    "id": "cp4.4",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "estoppel",
+    "id": "cp12.0",
+    "type": "cited",
+    "from": "[1981]"
+  },
+  {
+    "text": "res judicata",
+    "id": "cp12.1",
+    "type": "cited",
+    "from": "[1981]"
+  },
+  {
+    "text": "issue estoppel",
+    "id": "cp12.2",
+    "type": "cited",
+    "from": "[1981]"
+  },
+  {
+    "text": "hire of plant",
+    "id": "cp12.3",
+    "type": "cited",
+    "from": "[1981]"
+  },
+  {
+    "text": "contractual indemnity by hirer against loss caused to owner from use of plant",
+    "id": "cp12.4",
+    "type": "cited",
+    "from": "[1981]"
+  },
+  {
+    "text": "action for damages against hirer and owner arising out of use of plant",
+    "id": "cp12.5",
+    "type": "cited",
+    "from": "[1981]"
+  },
+  {
+    "text": "notices of contribution between hirer and owner",
+    "id": "cp12.6",
+    "type": "cited",
+    "from": "[1981]"
+  },
+  {
+    "text": "claim of contribution by owner",
+    "id": "cp12.7",
+    "type": "cited",
+    "from": "[1981]"
+  },
+  {
+    "text": "apportionment of liability between defendants",
+    "id": "cp12.8",
+    "type": "cited",
+    "from": "[1981]"
+  },
+  {
+    "text": "subsequent action by owner for indemnity",
+    "id": "cp12.9",
+    "type": "cited",
+    "from": "[1981]"
+  },
+  {
+    "text": "whether estopped by failure in original action to plead indemnity in defence to the claim for contribution",
+    "id": "cp12.10",
+    "type": "cited",
+    "from": "[1981]"
+  },
+  {
+    "text": "wrongs act 1958 (vict.) s. 24 (1) (c).",
+    "id": "cp12.11",
+    "type": "cited",
+    "from": "[1981]"
+  },
+  {
+    "text": "veterans' affairs",
+    "id": "cp13.0",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "veterans' entitlements",
+    "id": "cp13.1",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "disability pension",
+    "id": "cp13.2",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "eligible defence service",
+    "id": "cp13.3",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "gout",
+    "id": "cp13.4",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "diabetes mellitus",
+    "id": "cp13.5",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "chronic gastritis",
+    "id": "cp13.6",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "acute stress disorder",
+    "id": "cp13.7",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "sleep apnoea",
+    "id": "cp13.8",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "erectile dysfunction",
+    "id": "cp13.9",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "carotid arterial disease",
+    "id": "cp13.10",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "cholelithiasis",
+    "id": "cp13.11",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "whether conditions exist",
+    "id": "cp13.12",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "relationship to service",
+    "id": "cp13.13",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "conditions either do not exist or are not related to service",
+    "id": "cp13.14",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "decisions under review varied and affirmed.   practice and procedure",
+    "id": "cp13.15",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "implications of applicant's decision not to give evidence",
+    "id": "cp13.16",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "relevance of previous tribunal decisions",
+    "id": "cp13.17",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "nature and extent of tribunal's obligation to inquire.   veterans' entitlement act 1986 ss 70(1), 70(5), 70(7-10), 120(1), 129(2), 120(4), 120b(3), 120b(4)",
+    "id": "cp13.18",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "practice and procedure",
+    "id": "cp14.0",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "vexatious litigant sanction",
+    "id": "cp14.1",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "application pursuant to o 21 r 1 federal court rules",
+    "id": "cp14.2",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "orders sought preventing respondent from bringing further proceedings without leave of the court",
+    "id": "cp14.3",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "whether respondent has instituted vexatious proceedings 'habitually, persistently and without reasonable grounds'",
+    "id": "cp14.4",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "requirements of o 21 r 1 satisfied",
+    "id": "cp14.5",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "exercise of court's discretion not to make an order declined",
+    "id": "cp14.6",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "orders granted  administrative law",
+    "id": "cp14.7",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "application for judicial review under s 5(1)(g) administrative decisions (judicial review) act 1977 on grounds 'that the decision was induced or affected by fraud'",
+    "id": "cp14.8",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "discussion of relevant principles",
+    "id": "cp14.9",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "\"fraud\" bears its plain meaning and so refers to the fraud of any person",
+    "id": "cp14.10",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "decision must be shown to have been actually induced or affected by fraud",
+    "id": "cp14.11",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "court must be satisfied that the fraud had a material effect on the ultimate decision under review",
+    "id": "cp14.12",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "the \"fraud\" must be a fraud of the decision-maker or on the decision maker",
+    "id": "cp14.13",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "the applicant's claim that a fraud was perpetrated on him was not capable of demonstrating a fraud on the decision maker",
+    "id": "cp14.14",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "applicant's claims also estopped and not proved",
+    "id": "cp14.15",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "application dismissed",
+    "id": "cp14.16",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "practice and procedure",
+    "id": "cp15.0",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "abuse of process",
+    "id": "cp15.1",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "no reasonable prospects of success",
+    "id": "cp15.2",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "defence &amp; war",
+    "id": "cp16.0",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "veterans",
+    "id": "cp16.1",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "entitlements",
+    "id": "cp16.2",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "invalidity service pension",
+    "id": "cp16.3",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "gastro oesophageal reflex disease (gord)",
+    "id": "cp16.4",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "whether \"defence-cause\"",
+    "id": "cp16.5",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "no evidence to connect defence service to disease",
+    "id": "cp16.6",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "decision of repatriation commission restored   practice &amp; procedure",
+    "id": "cp16.7",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "estoppel",
+    "id": "cp16.8",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "former adjudication of matters of record",
+    "id": "cp16.9",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "anshun estoppel",
+    "id": "cp16.10",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "whether commission estopped from contesting factual findings of the veterans' review board",
+    "id": "cp16.11",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "no anshun estoppel within the ascending hierarchy of merits review   practice &amp; procedure",
+    "id": "cp16.12",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "disqualification",
+    "id": "cp16.13",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "actual bias or apprehended bias",
+    "id": "cp16.14",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "disqualification refused",
+    "id": "cp16.15",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "bankruptcy",
+    "id": "cp17.0",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "appeal",
+    "id": "cp17.1",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "refusal of application for annulment of sequestration order",
+    "id": "cp17.2",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "no error in reasoning of primary judge",
+    "id": "cp17.3",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "dismissed practice and procedure",
+    "id": "cp17.4",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "appeal",
+    "id": "cp17.5",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "application to adduce further evidence on appeal",
+    "id": "cp17.6",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "did not disclose fresh evidence",
+    "id": "cp17.7",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "refused practice and procedure",
+    "id": "cp17.8",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "letter and submissions sent to the court after the hearing and without the court's leave",
+    "id": "cp17.9",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "inappropriate to write to the court and make submissions after the hearing without the court's leave",
+    "id": "cp17.10",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "social security",
+    "id": "cp18.0",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "previous aat finding of failure to provide information to centrelink",
+    "id": "cp18.1",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "decision under review by these proceedings was the raising of an overpayment of newstart allowance by failure to declare a distribution of income from a family trust",
+    "id": "cp18.2",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "application dismissed as frivolous and vexatious",
+    "id": "cp18.3",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "direction that applicant not make a subsequent application without leave",
+    "id": "cp18.4",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "administrative law",
+    "id": "cp20.0",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "review of decisions of social security appeals tribunal and administrative appeals tribunal",
+    "id": "cp20.1",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "finding by administrative appeals tribunal that appellant's application before it was frivolous and vexatious",
+    "id": "cp20.2",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "allegation of fraud on part of respondent",
+    "id": "cp20.3",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "preclusion of appellant from re-litigating matters under anshun principle",
+    "id": "cp20.4",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "compensation",
+    "id": "cp21.0",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "jurisdiction",
+    "id": "cp21.1",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "injured in course of employment",
+    "id": "cp21.2",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "request for long service leave entitlements whilst receiving compensation",
+    "id": "cp21.3",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "respondent failed to respond to request",
+    "id": "cp21.4",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "no decision, deemed decision or reconsideration for the tribunal to review",
+    "id": "cp21.5",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "no reviewable decision",
+    "id": "cp21.6",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "tribunal does not have jurisdiction to hear and determine the application",
+    "id": "cp21.7",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "application dismissed   practice and procedure",
+    "id": "cp21.8",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "anshun estoppel",
+    "id": "cp21.9",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "prevents applicant from raising matters not raised in earlier proceedings",
+    "id": "cp21.10",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "vexatious application",
+    "id": "cp21.11",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "application dismissed   practice and procedure",
+    "id": "cp21.12",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "matters not raised in earlier proceedings",
+    "id": "cp21.13",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "power of tribunal to control its own procedures",
+    "id": "cp21.14",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "application dismissed   practice and procedure",
+    "id": "cp21.15",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "frivolous or vexatious",
+    "id": "cp21.16",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "application is obviously unsustainable",
+    "id": "cp21.17",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "persistent vexatious applications",
+    "id": "cp21.18",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "present application devoid of merit",
+    "id": "cp21.19",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "direction made under s 42b(1)(b)",
+    "id": "cp21.20",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "practice and procedure",
+    "id": "cp22.0",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "security for costs",
+    "id": "cp22.1",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "appellant appealed from decision requiring him to seek leave before making further applications",
+    "id": "cp22.2",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "matters raised already determined by court.",
+    "id": "cp22.3",
+    "type": "citing",
+    "from": "[2007]"
+  }
+]

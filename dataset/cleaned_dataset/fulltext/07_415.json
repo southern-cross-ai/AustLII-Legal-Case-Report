@@ -1,0 +1,1728 @@
+{
+  "name": "Gerard Cassegrain &amp; Co Pty Ltd v Commissioner of Taxation [2007] FCA 415 (23 March 2007)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2007/415.html",
+  "catchphrases": [
+    {
+      "text": "settlement of litigation for an undissected lump sum",
+      "id": "c0"
+    },
+    {
+      "text": "side agreement between applicant company and its managing director that settlement sum was apportioned between them in respective amounts",
+      "id": "c1"
+    },
+    {
+      "text": "result would be that capital gain by company would be less than it would otherwise be",
+      "id": "c2"
+    },
+    {
+      "text": "company did not include amount agreed to be apportioned to its managing director as capital gain in its income tax return",
+      "id": "c3"
+    },
+    {
+      "text": "identification of dispositions of assets in the settlement agreement",
+      "id": "c4"
+    },
+    {
+      "text": "mixture of releases and contractual undertakings given by managing director, by company, and by both of them jointly and severally",
+      "id": "c5"
+    },
+    {
+      "text": "whether s 160zd(4) of income tax assessment act 1936 (cth) operated to require determination of part of settlement sum that might reasonably be attributed to disposal of assets by taxpayer company",
+      "id": "c6"
+    },
+    {
+      "text": "whether side agreement between company and managing director relevant",
+      "id": "c7"
+    },
+    {
+      "text": "whether that agreement was a \"sham\"",
+      "id": "c8"
+    },
+    {
+      "text": "whether administrative appeals tribunal had erred by not correctly identifying the dispositions of assets by the company, by the managing director, and by both of them jointly and severally. held : yes to this last question.",
+      "id": "c9"
+    },
+    {
+      "text": "capital gains tax",
+      "id": "c10"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "INTRODUCTION \n \n 1 The applicants appeal to the Court on questions of law from a decision of the Administrative Appeals Tribunal (\"the Tribunal\").",
+      "id": "s0"
+    },
+    {
+      "text": "2 The applicants headed their notice of appeal as if they were joint \"applicants\", but in fact there were two proceedings before the Tribunal: one being proceeding NT 289 of 2002 in which G Cassegrain &amp; Co Pty Ltd (administrator appointed) (\"GCC\") was the applicant, and the other being proceeding NT 290 of 2002 in which its wholly owned subsidiary, Clos Farming Estates Pty Limited (\"CFE\"), was the applicant.",
+      "id": "s1"
+    },
+    {
+      "text": "Each applied for review of an objection decision of the respondent (\"the Commissioner\").",
+      "id": "s2"
+    },
+    {
+      "text": "The Tribunal affirmed both objection decisions.",
+      "id": "s3"
+    },
+    {
+      "text": "GCC and CFE should have commenced separate proceedings in this Court as they had done in the Tribunal.",
+      "id": "s4"
+    },
+    {
+      "text": "A fortiori , the applicants' error should not have been compounded by a failure to distinguish between them as independent applicants in the title of the notice of appeal.",
+      "id": "s5"
+    },
+    {
+      "text": "I have remedied the latter error above.",
+      "id": "s6"
+    },
+    {
+      "text": "3 On 27 September 1993, Commonwealth Scientific and Industrial Research Organisation (\"CSIRO\") paid $9.5 million (\"the Settlement Sum\") as part of a settlement described below.",
+      "id": "s7"
+    },
+    {
+      "text": "GCC disclosed $5.25 million of this amount as assessable income in its return for the year ended 30 June 1994.",
+      "id": "s8"
+    },
+    {
+      "text": "By an amended assessment for that year, the Commissioner included the balance of $4.25 million in the assessable income of GCC.",
+      "id": "s9"
+    },
+    {
+      "text": "The difference between GCC's taxable income for 1994 as assessed in the amended assessment and as returned was $3,186,712.",
+      "id": "s10"
+    },
+    {
+      "text": "4 The central question before the Tribunal was whether GCC showed that its amended assessment for 1994 was excessive by this amount of $4.25 million or by some other amount.",
+      "id": "s11"
+    },
+    {
+      "text": "5 The Commissioner's inclusion of the sum of $4.25 million resulted in a taxable income of GCC of $3,186,712 for the 1994 year.",
+      "id": "s12"
+    },
+    {
+      "text": "Due to consequential adjustments to GCC's accumulated losses, an amended assessment was also made for the income year ended 30 June 1996, increasing GCC's taxable income for that year by $404,494.",
+      "id": "s13"
+    },
+    {
+      "text": "6 On the basis of its income as returned, GCC transferred to CFE tax losses to the extent of $194,987.",
+      "id": "s14"
+    },
+    {
+      "text": "However, a consequence of the inclusion of the sum of $4.25 million in the assessable income of GCC for 1994 was that its pre-1994 tax losses were fully absorbed, and there were no losses available for transfer.",
+      "id": "s15"
+    },
+    {
+      "text": "In consequence, CFE's amended taxable income for 1994 became $194,987 instead of nil as returned.",
+      "id": "s16"
+    },
+    {
+      "text": "7 For the 1995 income year, GCC returned a net current year loss of $569,012.",
+      "id": "s17"
+    },
+    {
+      "text": "In reliance on that loss and on pre-1994 tax losses which it claimed to have carried forward, it claimed to transfer tax losses of $933,950 to CFE.",
+      "id": "s18"
+    },
+    {
+      "text": "However, in accordance with the amended assessments, GCC was entitled to transfer, and CFE to receive a transfer of, only GCC's current year's loss of $569,012 --- a reduction in the amount of loss available to be transferred of $364,938.",
+      "id": "s19"
+    },
+    {
+      "text": "The difference between CFE's 1995 taxable income for 1995 as returned and as assessed was $364,938.",
+      "id": "s20"
+    },
+    {
+      "text": "8 For the 1996 income year, GCC returned a net current year income of $404,494.",
+      "id": "s21"
+    },
+    {
+      "text": "It claimed to set off an equal amount of prior year tax losses, and returned a taxable income of nil.",
+      "id": "s22"
+    },
+    {
+      "text": "However, as assessed by the Commissioner, GCC had no available prior year tax losses, and its taxable income for the 1996 tax year was $404,494.",
+      "id": "s23"
+    },
+    {
+      "text": "9 The Commissioner treated letters from Claude Cassegrain dated 7 December 2000 and 22 August 2001 as an objection to the amended assessments issued to GCC (for 1994 and 1996) and to CFE (for 1994 and 1995).",
+      "id": "s24"
+    },
+    {
+      "text": "10 The Commissioner notified his disallowance of the objections by notice dated 7 November 2002.",
+      "id": "s25"
+    },
+    {
+      "text": "11 On 20 December 2002, GCC and CFE each applied to the Tribunal for review of the Commissioner's objection decision relating to it.",
+      "id": "s26"
+    },
+    {
+      "text": "12 The issue is whether the sum of $4.25 million was part of the assessable income of GCC for the year ended 30 June 1994 by reason of the capital gains provisions of Pt IIIA of the Income Tax Assessment Act 1936 (\"the Act \").",
+      "id": "s27"
+    },
+    {
+      "text": "It was common ground that the sum of $9.5 million was not income in character.",
+      "id": "s28"
+    },
+    {
+      "text": "BACKGROUND FACTS \n \n 13 The following outline of the background facts is based on the Tribunal's statement of its reasons for decision.",
+      "id": "s29"
+    },
+    {
+      "text": "14 In about May 1987, representatives of GCC and CSIRO began discussions on the possible application of a soil improvement technology that CSIRO was developing, known as \"slotting\", to land on which GCC proposed to develop vineyards.",
+      "id": "s30"
+    },
+    {
+      "text": "On or about 10 July 1987, CSIRO and GCC entered into a written agreement for the conduct of research and development concerning slotting and associated activities.",
+      "id": "s31"
+    },
+    {
+      "text": "15 Soon afterwards, a joint venture company called Cassiro Pty Limited (\"Cassiro\") was formed.",
+      "id": "s32"
+    },
+    {
+      "text": "16 Later, there was a falling out between GCC and CSIRO.",
+      "id": "s33"
+    },
+    {
+      "text": "On 8 April 1992, GCC commenced proceeding NG 3062 of 1992 in this Court against CSIRO, its wholly owned subsidiary, Sirotech Limited (\"Sirotech\"), and Cassiro.",
+      "id": "s34"
+    },
+    {
+      "text": "In that proceeding, GCC made a range of claims against CSIRO and ancillary claims against Sirotech.",
+      "id": "s35"
+    },
+    {
+      "text": "17 On 7 May 1992, CSIRO commenced proceeding NG 3095 of 2002 in this Court seeking to have GCC wound up on the just and equitable ground.",
+      "id": "s36"
+    },
+    {
+      "text": "18 GCC alleged in its amended statement of facts and contentions before the Tribunal that, by April 1993, the legal advisers of GCC and Claude Cassegrain were considering amending the pleadings in proceeding NG 3062 of 1992 to include \"claims for tort and exemplary damages for the damage caused by the CSIRO parties to the reputation of Mr Cassegrain\", but in his statement of facts issues and contentions before the Tribunal, the Commissioner disputed that consideration was being given to including a claim for damage to the reputation of Mr Cassegrain.",
+      "id": "s37"
+    },
+    {
+      "text": "19 The two proceedings were heard together before Olney J commencing in early 1993.",
+      "id": "s38"
+    },
+    {
+      "text": "20 On 26 April 1993 at the chambers of Mr RV Gyles QC (as his Honour then was), senior counsel for GCC, there was a meeting attended by Mr Gyles, Claude Cassegrain, Professor Adrienne Clarke, the then chairperson of CSIRO, Mr Shears, also of CSIRO, and Mr TF Bathurst QC, senior counsel for CSIRO and Sirotech.",
+      "id": "s39"
+    },
+    {
+      "text": "The purpose of the meeting was to discuss settlement of the proceedings.",
+      "id": "s40"
+    },
+    {
+      "text": "21 Prior to a mediation referred to below, Claude Cassegrain did not join in or apply to join in as a party to GCC's proceeding, and he did not institute any separate proceeding against either of them for damages for defamation.",
+      "id": "s41"
+    },
+    {
+      "text": "However, in a letter dated 5 May 1993 that he wrote as company secretary of GCC to Professor Clarke (\"the Cassegrain Letter\"), he set out details of GCC's claim \"from a practical rather than legal viewpoint\", and included an item reading as follows:\n \"5.",
+      "id": "s42"
+    },
+    {
+      "text": "Damage to the name, reputation and standing of GC &amp; Co, Cassegrain Family name, Cassegrain Group of companies, and Claude Cassegrain and his family as a result of being publicly associated with a failed venture involving bitter litigation and disruption to the family and their associated companies' business activities --- $5,000,000\".",
+      "id": "s43"
+    },
+    {
+      "text": "(my emphasis)\n \n\nThe total amount claimed in the Cassegrain letter was $56,033,000.",
+      "id": "s44"
+    },
+    {
+      "text": "The concluding sentence in the letter was: \"It is always understood that any settlement would involve some adequate means to restore the reputation of the family, the company and myself personally\".",
+      "id": "s45"
+    },
+    {
+      "text": "No such \"adequate means\" was referred to in the letter or subsequently.",
+      "id": "s46"
+    },
+    {
+      "text": "Contrary to the applicants' written submissions, the Cassegrain Letter did not threaten that Claude Cassegrain, his family and their companies would sue CSIRO for defamation and injurious falsehood, unless such a threat is to be read into the passage from the letter set out above.",
+      "id": "s47"
+    },
+    {
+      "text": "22 On 18 May 1993, CSIRO made a written settlement offer.",
+      "id": "s48"
+    },
+    {
+      "text": "It proposed mediation.",
+      "id": "s49"
+    },
+    {
+      "text": "23 On 2 June 1993, CSIRO's solicitors, Blake Dawson Waldron (\"Blakes\"), informed GCC's solicitors, Garrett &amp; Walmsley, that the mediation should be conducted on the basis that CSIRO had a liability to GCC.",
+      "id": "s50"
+    },
+    {
+      "text": "CSIRO insisted that Claude Cassegrain be a party to any settlement.",
+      "id": "s51"
+    },
+    {
+      "text": "24 On 16 June 1993, Blakes wrote to John Garrett of Garrett &amp; Walmsley offering to settle on the basis of a payment to GCC of $7.25 million, subject to CSIRO's obtaining Ministerial approval.",
+      "id": "s52"
+    },
+    {
+      "text": "That amount was said to represent $4.32 million in respect of damages claimed by GCC in proceeding NG 3062 of 1992, $2 million for costs, and $930,000 for transfers to CSIRO of GCC's interests in certain technologies.",
+      "id": "s53"
+    },
+    {
+      "text": "For its part, CSIRO was to transfer its shares in Cassiro to GCC, and GCC was to use its best endeavours to procure that Cassiro would covenant that neither GCC nor Cassiro would conduct any future business activities in such a way as to represent that there was any connection between the business of Cassiro or GCC, and CSIRO.",
+      "id": "s54"
+    },
+    {
+      "text": "GCC was to transfer any intellectual property and other rights connected with the soil slotting technology to CSIRO or its nominee.",
+      "id": "s55"
+    },
+    {
+      "text": "Blakes's letter stated that GCC and its relevant associates (including Claude Cassegrain) and Cassiro were to grant comprehensive releases and indemnities to CSIRO and Sirotech, and that CSIRO and Sirotech were to grant similar releases and indemnities to GCC.",
+      "id": "s56"
+    },
+    {
+      "text": "25 On 29 June 1993 Garrett &amp; Walmsley wrote to Blakes advising that they were instructed to seek leave to amend in proceeding NG 3062 of 1992 to include:\n \"counts in defamation and injurious falsehood in relation to communications between servants and agents of CSIRO and Sirotech on the one hand and the State Bank of NSW on the other\".",
+      "id": "s57"
+    },
+    {
+      "text": "The State Bank of New South Wales (\"the Bank\") had financed GCC and held a mortgage debenture registered as a charge over its assets.",
+      "id": "s58"
+    },
+    {
+      "text": "26 In fact, in June 1993 a second further amended statement of claim was settled by counsel.",
+      "id": "s59"
+    },
+    {
+      "text": "It was never filed and no copy of it was given to CSIRO because the legal advisers of GCC took the view that it would be disruptive of negotiations and of the then forthcoming mediation, for a copy to be handed over at that time.",
+      "id": "s60"
+    },
+    {
+      "text": "The draft second further amended statement of claim pleaded causes of action in conspiracy to cheat and to defraud, abuse of process, and defamation and injurious falsehood.",
+      "id": "s61"
+    },
+    {
+      "text": "The defamation and injurious falsehood claims were based on letters that Dr Stocker of CSIRO had written to the Minister for Industry, Technology and Commerce concerning the conduct of GCC, and, in particular, its driving force, Claude Cassegrain.",
+      "id": "s62"
+    },
+    {
+      "text": "However, there was no suggestion of an application to amend to introduce Claude Cassegrain as an additional applicant, and the only allegation was that GCC had suffered loss and damage from the tortious conduct of CSIRO and/or Sirotech.",
+      "id": "s63"
+    },
+    {
+      "text": "27 It will be noted that Garrett &amp; Walmsley's letter of 29 June 1993 to Blakes did not suggest any proposal to introduce Mr Cassegrain as a second applicant or otherwise suggest that the threatened claims of defamation and injurious falsehood were his, as distinct from GCC's.",
+      "id": "s64"
+    },
+    {
+      "text": "28 A mediation before Sir Lawrence Street was held over three days from 28 June to 2 July 1993.",
+      "id": "s65"
+    },
+    {
+      "text": "The parties agreed on a settlement in principle with CSIRO paying $9.5 million, and both proceedings were adjourned.",
+      "id": "s66"
+    },
+    {
+      "text": "29 On Friday 2 July 1993, Sir Lawrence Street recorded in a memorandum that he had chaired lengthy mediation discussions that had resulted in an offer of $9.5 million by CSIRO to GCC.",
+      "id": "s67"
+    },
+    {
+      "text": "He expressed the opinion that the proposal settlement agreement was a \"soundly based commercial compromise of the dispute\".",
+      "id": "s68"
+    },
+    {
+      "text": "30 On Saturday 3 July 1993, there was a discussion between Claude Cassegrain, his parents, Gerard Cassegrain and Fran&ccedil;oise Cassegrain, and GCC's solicitor, Andrew Walmsley.",
+      "id": "s69"
+    },
+    {
+      "text": "Claude and Gerard Cassegrain agreed on an apportionment of the sum of $9.5 million, as to $5.2 million to GCC and as to $4.25 million to Claude Cassegrain (\"the Apportionment Agreement\").",
+      "id": "s70"
+    },
+    {
+      "text": "Fran&ccedil;oise Cassegrain was a passive bystander, although Claude Cassegrain observed in cross-examination that she could have objected if she had wanted to do so.",
+      "id": "s71"
+    },
+    {
+      "text": "31 On 6 July 1993, a letter was written on the letterhead of GCC to John Garrett of Garrett &amp; Walmsley.",
+      "id": "s72"
+    },
+    {
+      "text": "The letter was apparently signed by Gerard Cassegrain and his son Patrick Cassegrain.",
+      "id": "s73"
+    },
+    {
+      "text": "Neither of them was a director of GCC, although each was a shareholder (see below at [33]).",
+      "id": "s74"
+    },
+    {
+      "text": "The letter read:\n \"It was resolved at an extraordinary meeting held by the shareholders on Saturday 3 July 1993 that the following offer in settlement of the dispute would be accepted by Gerard Cassegrain &amp; Co Pty Ltd --- \n \n \n &#8226; $5.2m to Gerard Cassegrain &amp; Co Pty Ltd ($4.32 in respect of damages $.930m sale of GC&amp;Co's share in Cassiro Pty Ltd) \n &#8226; $4.25m personal damages payable to Claude Cassegrain.",
+      "id": "s75"
+    },
+    {
+      "text": "The legal costs will be apportioned in a manner that is yet to be discussed between the company and Claude Cassegrain.",
+      "id": "s76"
+    },
+    {
+      "text": "\" \n \n\nThe letter purports to advise Mr Garrett of the making of the agreement three days earlier that was in fact made between Gerard and Claude Cassegrain.",
+      "id": "s77"
+    },
+    {
+      "text": "Neither Gerard nor Patrick Cassegrain, as shareholders in GCC, had authority so to advise the solicitor, or, if it be relevant, to bind GCC to the arrangement reflected in the letter.",
+      "id": "s78"
+    },
+    {
+      "text": "32 On the same day, 6 July 1993, Claude Cassegrain also wrote to Mr Garrett advising him that he (Claude Cassegrain) was \"prepared to accept in settlement of the proceedings $4.25m as personal damage\".",
+      "id": "s79"
+    },
+    {
+      "text": "His letter stated: \"This has been discussed with the company at an extraordinary meeting held by the shareholders on Saturday 3 July 1993\".",
+      "id": "s80"
+    },
+    {
+      "text": "The letter added: \"The company and myself will agree on the apportionment of the legal expenses\".",
+      "id": "s81"
+    },
+    {
+      "text": "Like the letter signed by Gerard and Patrick Cassegrain, Claude Cassegrain was advising Mr Garrett of the agreement made by himself and his father three days earlier.",
+      "id": "s82"
+    },
+    {
+      "text": "33 In view of the reference to an \"extraordinary meeting\" of the members of GCC, it seems appropriate to interrupt the present chronological narrative by noting the shareholdings and directorships in GCC over the period from 1987 to 27 September 1993 (as stated in the Commissioner's statement of facts and contentions before the Tribunal) the correctness of which was not in dispute:\n \"a) Shareholdings: \n \n \n \n i) Ordinary shares: \n \n \n \n \n Gerard Cassegrain: 10 \n Fran&ccedil;oise Cassegrain: 10 \n \n \n \n \n Total 20 \n \n \n \n \n Gerard Cassegrain died on 29/10/93, and his shares were transferred to his widow, Fran&ccedil;oise, as executrix of his estate.",
+      "id": "s83"
+    },
+    {
+      "text": "ii) \"A\" Class shares: \n \n \n \n \n \n Claude Cassegrain: 10 \n Patrick Cassegrain: 10 \n Catherine Dunn: 10 \n Denis Cassegrain: 10 \n Anne-Marie Cameron: 10 \n John Cassegrain: 10 \n Claude &amp; Felicity Cassegrain jointly: 40 \n Total 100 \n \n \n \n \n b) Directors: \n \n \n \n \n Claude Cassegrain (from 3/9/89 only) \n John Cassegrain (from 30/6/88 only) \n Fran&ccedil;oise Cassegrain (to 25/9/91 only) \n Anne-Marie Cameron (29/12/89 to 25/9/91 only) \n Patrick Cassegrain (30/6/88 to 29/12/89 only) \n Gerard Cassegrain (to 29/12/89 only)\" \n \n \n \n \n 34 Gerard and Fran&ccedil;oise Cassegrain were the parents of all the other shareholders with the exception of Felicity Cassegrain, who is the wife of Claude Cassegrain.",
+      "id": "s84"
+    },
+    {
+      "text": "The only directors of GCC at the relevant times were Claude Cassegrain and his brother, John Cassegrain.",
+      "id": "s85"
+    },
+    {
+      "text": "35 The meeting of Claude Cassegrain and his parents on 3 July 1993 was not an extraordinary general meeting of GCC.",
+      "id": "s86"
+    },
+    {
+      "text": "It was an informal meeting of three shareholders, one of whom, Claude Cassegrain, was also a director, and, indeed, whether or not formally appointed as such, managing director, for the company.",
+      "id": "s87"
+    },
+    {
+      "text": "36 The Tribunal noted: \n\n&#8226; that Claude Cassegrain had testified that the apportionment had been discussed at the mediation on 2 July 1993 by Sir Lawrence Street and the parties' legal representatives; and\n \n&#8226; that the context in which that discussion took place was the demand by CSIRO that Claude Cassegrain had to be a party to the settlement.",
+      "id": "s88"
+    },
+    {
+      "text": "37 Also on 6 July 1993, Mr Garrett wrote to Blakes proposing various matters to be included in the settlement documentation.",
+      "id": "s89"
+    },
+    {
+      "text": "His letter included the following: \n \n \n \"1.",
+      "id": "s90"
+    },
+    {
+      "text": "Payment of $9.5 million to occur on execution and exchange of settlement documentation and in accordance with the written authority of Gerard Cassegrain and Co Pty Ltd (\"GC\").",
+      "id": "s91"
+    },
+    {
+      "text": "2.",
+      "id": "s92"
+    },
+    {
+      "text": "In consideration of the personal releases etc by Claude Cassegrain the amount of $9.5 million be paid as follows: \n \n \n \n \n (a) $5.25 million to Gerard Cassegrain and Co Pty Ltd ($4.32 million on account of damages and $930,000 consideration for share transfer); \n (b) $4.25 million to Claude Cassegrain.",
+      "id": "s93"
+    },
+    {
+      "text": "3.",
+      "id": "s94"
+    },
+    {
+      "text": "GC to transfer all of its shares in Cassiro Pty Limited (\"Cassiro\") to the CSIRO or its nominee.",
+      "id": "s95"
+    },
+    {
+      "text": "We understand there is 1 ordinary share and 49 B class shares in Cassiro.",
+      "id": "s96"
+    },
+    {
+      "text": "4.",
+      "id": "s97"
+    },
+    {
+      "text": "GC to transfer to CSIRO all its rights to the intellectual property of the two technologies, and in respect of the Vertical Flow Wetlands agreement of 21 December 1990 together with the Memorandum of Commercial Intent dated 19 June 1989 which agreements are otherwise terminated.",
+      "id": "s98"
+    },
+    {
+      "text": "\" \n \n \n \n 38 On 7 July 1993, CSIRO's solicitors submitted a draft deed of release that did not provide for the making of separate payments to GCC and Claude Cassegrain.",
+      "id": "s99"
+    },
+    {
+      "text": "The next day, 8 July 1993, Mr Garrett replied on a \"without instructions\" basis.",
+      "id": "s100"
+    },
+    {
+      "text": "Mr Garrett's letter stated \"settlement must be structured as far as practicable in a manner which is tax effective for GC&amp;Co\".",
+      "id": "s101"
+    },
+    {
+      "text": "He also proposed that the agreement should require that CSIRO pay to GC&amp;Co, or at its direction the sum of $9.5 million together with interest thereon, a suggestion to which CSIRO's solicitors agreed.",
+      "id": "s102"
+    },
+    {
+      "text": "39 On 5 August 1993, however, Claude Cassegrain wrote to GCC's solicitor, Mr Garrett, and counsel, Mr Tim Castle.",
+      "id": "s103"
+    },
+    {
+      "text": "In that letter, he asserted that the apportionment had been resolved at the meeting on 3 July 1993, and insisted that the settlement deed clearly reflect that result.",
+      "id": "s104"
+    },
+    {
+      "text": "However, his letter added:\n \"We are prepared to accede if CSIRO finds difficulty in embodying '... payment by cheque to GC &amp; Co $5.25m, Cassegrain $4.2m' as 2.1 [see [41] below] ; to the clause being amended to read \"... the payment by cheque jointly to GC &amp; Co and Cassegrain $9.5m...\" .",
+      "id": "s105"
+    },
+    {
+      "text": "In the latter instance we shall account to our parties privately.",
+      "id": "s106"
+    },
+    {
+      "text": "\" \n \n 40 Mr Garrett said in evidence before the Tribunal that the CSIRO parties (CSIRO and Sirotech) and the Cassegrain parties (GCC and Claude Cassegrain) could not reach agreement that the $5.25m/$4.25m apportionment be recognised in the settlement deed.",
+      "id": "s107"
+    },
+    {
+      "text": "On 6 August 1993, he wrote to Claude Griffith and Winfred Gibson of Griffith Sallaway Pty, the accountants who did the Cassegrain companies' financial and taxation work.",
+      "id": "s108"
+    },
+    {
+      "text": "He confirmed advice that he had previously communicated to Ms Gibson that CSIRO was taking the position that, even if Claude Cassegrain had been a party to the litigation, he would not have received more than approximately $500,000 in damages, and that, in those circumstances, CSIRO did not wish to be a party to a document that did not fully represent the true position as CSIRO saw it, and of which some criticism might be made.",
+      "id": "s109"
+    },
+    {
+      "text": "His letter stated: \"They [CSIRO] say they are a Federal Government instrumentality and have to be mindful of their responsibilities\".",
+      "id": "s110"
+    },
+    {
+      "text": "41 Further amendments were discussed until 27 September 1993 when the \"Deed of Settlement and Release\" (\"the Deed\") was executed.",
+      "id": "s111"
+    },
+    {
+      "text": "The parties were GCC and Claude Cassegrain (in the Deed and hereinafter, the \"Cassegrain Parties\") and CSIRO and Sirotech (in the Deed and hereinafter, the \"CSIRO Parties\") and Cassiro.",
+      "id": "s112"
+    },
+    {
+      "text": "Clauses 2 and 3 of the Deed were as follows: \n \"2.",
+      "id": "s113"
+    },
+    {
+      "text": "CONDITION PRECEDENT \n \n 2.1 The provisions of this Deed do not become binding on the parties unless and until CSIRO has paid by cheque to or at the direction of the Cassegrain Parties the sum of $9,500,000.",
+      "id": "s114"
+    },
+    {
+      "text": "2.2 If the condition precedent referred to in Clause 2.1 is satisfied, the payment of the sum referred to in Clause 2.1 will be referable: \n \n (a) as to the amount of $8,835,083 --- to: \n \n \n \n (i) the full and final discharge of any and all liabilities for which any party to this Deed has or, but for the execution of this Deed would have had, to pay costs or damages to any other party to this Deed, whether pursuant to Proceedings 3062, Proceedings 3095 or otherwise; and \n (ii) the benefit of the various covenants, releases, indemnities and warranties entered into, given and made by the Cassegrain Parties under the terms of this Deed; \n \n \n \n \n \n (b) as to the amount of $503,667 --- to: \n \n \n \n \n (i) the transfer of the GC&amp;Co Technologies (other than GC&amp;Co's right, title and interest in slotting machines) as referred to in Clause 4.2; and \n (ii) procuring the transfer of the Cassiro Technologies (other than Cassiro's right), title and interest in slotting machines) and of the right, title and interest of Cassiro in certain contracts and arrangements as referred to in Clause 4.3; \n \n \n \n \n \n (c) as to the amount of $155,000 --- to: \n \n \n \n \n (i) the transfer of the slotting machinery referred to in Part 2 of Schedule F; and \n (ii) procuring the transfer of the slotting machines referred to in Part 1 of Schedule F, \n which transfers are pursuant to Clause 4.2, 4.3 and 4.4; and \n \n \n \n \n \n (d) as to the amount of $6,250 --- to the net difference between the value of: \n \n \n \n \n (i) the goods, wares and merchandise which are transferred to GC&amp;Co as referred to in Clause 15.9(a)(ii) and 15.9(a)(iii) (which are valued in aggregate at $3,390); and \n (ii) the goods, wares and merchandise which are transferred to CSIRO as referred to in Clause 15.9(b)(i) (which are valued in aggregate at $9,640).",
+      "id": "s115"
+    },
+    {
+      "text": "3.",
+      "id": "s116"
+    },
+    {
+      "text": "AGREEMENT BINDING ON OTHER PARTIES PRIOR TO EXECUTION BY CASSIRO \n \n \n \n 3.1 It is the intention of the parties that each of them should execute this Deed, but where the CSIRO Parties and the Cassegrain Parties have all executed this Deed it binds those parties inter se (subject to Clause 2.1) from the time of execution by the last of those parties to execute, notwithstanding that Cassiro has not yet executed this Deed.",
+      "id": "s117"
+    },
+    {
+      "text": "3.2 Each of GC&amp;Co and CSIRO will take all action within its power to procure that Cassiro executes this Deed.",
+      "id": "s118"
+    },
+    {
+      "text": "\" \n \n 42 The Deed contained many undertakings by Claude Cassegrain, either alone or with GCC and Cassiro.",
+      "id": "s119"
+    },
+    {
+      "text": "These are found in the restraints contained in cl 6; the release contained in cl 8; the indemnity contained in cl 10; the representations and warranties contained in cl 14; and certain consequential indemnities, covenants and warranties in cl 15.",
+      "id": "s120"
+    },
+    {
+      "text": "In addition, there were various restraints, releases, indemnities, representations and warranties given by GCC and Claude Cassegrain jointly and severally (see cl 1.2(l) of the Deed referred to at [73] below).",
+      "id": "s121"
+    },
+    {
+      "text": "43 Recital U of the Deed recorded that in the course of negotiations leading to the execution of the Deed, Claude Cassegrain had written the Cassegrain Letter, a copy of which was contained in Schedule A to the Deed.",
+      "id": "s122"
+    },
+    {
+      "text": "Recital U referred to the facts that the Cassegrain Letter raised the matter of \"potential causes of action by [Claude] Cassegrain against either or both of the CSIRO Parties\", and that Claude Cassegrain had indicated that in the absence of the Deed, he had contemplated the possibility of pursuing those causes of action.",
+      "id": "s123"
+    },
+    {
+      "text": "In cl 16.5 of the Deed, GCC and Claude Cassegrain agreed that although the Cassegrain Letter had been marked \"without prejudice\", it operated \"for the purposes only of giving full force and effect to [the] Deed, according to its tenor, as if it had not been written 'without prejudice'\".",
+      "id": "s124"
+    },
+    {
+      "text": "44 In cross-examination before the Tribunal, Claude Cassegrain agreed that at no time did he in fact write a letter of demand for damages for defamation and that the closest he came to doing so was the Cassegrain Letter.",
+      "id": "s125"
+    },
+    {
+      "text": "He agreed that he had not received legal advice regarding the amount of damages he might receive for defamation.",
+      "id": "s126"
+    },
+    {
+      "text": "He said that the only discussion concerning apportionment of the $9.5 million was the discussion with his parents on 3 July 1993.",
+      "id": "s127"
+    },
+    {
+      "text": "Gerard Cassegrain did not discuss the apportionment with any other family member apart from his wife, Fran&ccedil;oise.",
+      "id": "s128"
+    },
+    {
+      "text": "Claude Cassegrain denied that the purpose of the Apportionment Agreement was to obtain the advantage of the exemption from capital gains tax of the amount of damages received by an individual in respect of defamation, afforded by s 160ZB(1) of the Act (see [58] below).",
+      "id": "s129"
+    },
+    {
+      "text": "45 Settlement also took place on 27 September 1993 immediately following execution of the Deed.",
+      "id": "s130"
+    },
+    {
+      "text": "The sum of $8,835,083 referred to in cl 2.2(a) of the Deed (set out at [41] above) was paid by CSIRO in accordance with the terms of a Deed Poll, also dated 27 September 1993, executed by the Bank.",
+      "id": "s131"
+    },
+    {
+      "text": "In addition to a payment of $8,309,502 to the Bank, CSIRO paid $1,170,000 to Garrett and Walmsley, solicitors for GCC, on account of their legal costs and disbursements in the two proceedings mentioned earlier.",
+      "id": "s132"
+    },
+    {
+      "text": "46 CSIRO paid the remaining $20,498 (of the $9.5 million) to Garrett and Walmsley to be set aside in that firm's trust account for the purpose of enabling GCC to pay the estimated amount of the taxation obligations of Cassiro, which, in accordance with a provision contained in the Deed, GCC had undertaken to pay.",
+      "id": "s133"
+    },
+    {
+      "text": "47 Claude Cassegrain claimed that the sum of $8,309,502 paid to the Bank included his $4,250,000 which he had lent to GCC to enable it to procure the release by the Bank.",
+      "id": "s134"
+    },
+    {
+      "text": "48 It remains to refer to another proceeding between the members of the Cassegrain family, resulting in a judgment delivered by Davies J on 15 July 1998, Cassegrain v Cassegrain [1998] FCA 811.",
+      "id": "s135"
+    },
+    {
+      "text": "His Honour declared that the actions of Claude Cassegrain in treating the $4.25 million loan account with GCC as his own entitlement to be drawn down at his will, in drawing upon it as he saw fit, and in causing the passing of a resolution of directors allowing for the payment of retrospective interest thereon, were actions which were oppressive of and unfairly prejudicial to the members of GCC.",
+      "id": "s136"
+    },
+    {
+      "text": "49 In the course of his reasons, Davies J referred to the Apportionment Agreement.",
+      "id": "s137"
+    },
+    {
+      "text": "He found that both Gerard and Claude Cassegrain had a keen eye to the reduction of tax.",
+      "id": "s138"
+    },
+    {
+      "text": "His Honour noted that Gerard probably looked upon the split between GCC and Claude Cassegrain as a tax reduction device, and that since the rate of capital gains tax was 30 percent or thereabouts, the apportionment, if effective, would save GCC almost $1.5 million in tax.",
+      "id": "s139"
+    },
+    {
+      "text": "50 His Honour rejected the evidence of Claude Cassegrain that he could not recall discussing any issue of capital gains tax with his father or with Claude Griffith, the accountant.",
+      "id": "s140"
+    },
+    {
+      "text": "His Honour was satisfied that the apportionment was agreed to with a view to reducing the capital gains tax otherwise payable on the whole $9.5 million.",
+      "id": "s141"
+    },
+    {
+      "text": "His Honour was satisfied that Gerard Cassegrain and Claude Cassegrain did not, at the time, regard the sum of $4.25 million as Claude's money.",
+      "id": "s142"
+    },
+    {
+      "text": "His Honour was satisfied that the sum of $9.5 million was paid to GCC and received by it in settlement of its claim against CSIRO, and that no attempt was ever made to arrive at a genuine estimate of a sum for any personal claim by Claude Cassegrain, including any claim falling within the terms of s 160ZB(1) of the Act .",
+      "id": "s143"
+    },
+    {
+      "text": "51 After his father's death, Claude Cassegrain drew down on the funds of GCC on the basis that it owed him the $4.25 million.",
+      "id": "s144"
+    },
+    {
+      "text": "As well, he alleged that he and his father had agreed that GCC would pay him interest on that sum.",
+      "id": "s145"
+    },
+    {
+      "text": "Since Davies J rejected Claude Cassegrain's claim that the sum of $4.25 million was his own money, it followed that GCC did not owe him that amount.",
+      "id": "s146"
+    },
+    {
+      "text": "His Honour concluded that by purporting to draw down and to charge GCC interest on it, Claude Cassegrain acted in a manner oppressive of, and unfairly prejudicial to, the other members of GCC.",
+      "id": "s147"
+    },
+    {
+      "text": "PRINCIPAL RELEVANT PROVISIONS OF PART IIIA OF THE ACT \n \n 52 Section 160AX of the Act identifies the object of Part IIIA as being \"to provide for net capital gains to be included in assessable income\".",
+      "id": "s148"
+    },
+    {
+      "text": "The section refers to s 160ZO which provides in subs (1) that where a net capital gain accrues to a taxpayer in respect of a year of income, the taxpayer's assessable income of that year includes that net capital gain.",
+      "id": "s149"
+    },
+    {
+      "text": "Under s 160ZC, capital gains accrued during the year and capital losses incurred during the year are netted in order to arrive at the net capital gain that is included in the taxpayer's assessable income under s 160ZO.",
+      "id": "s150"
+    },
+    {
+      "text": "53 Section 160A(a) provides that, unless a contrary intention appears, in Part IIIA the word \"asset\" means, relevantly, any form of property, and includes a chose in action and any other right, whether legal or equitable, and whether or not a form of property.",
+      "id": "s151"
+    },
+    {
+      "text": "54 Section 160L provides that Part IIIA applies in respect of any disposal on or after 20 September 1985 of an asset, where certain conditions are satisfied.",
+      "id": "s152"
+    },
+    {
+      "text": "It was not in dispute that those conditions were satisfied in the present case.",
+      "id": "s153"
+    },
+    {
+      "text": "55 Section 160M assumes importance.",
+      "id": "s154"
+    },
+    {
+      "text": "Subsections 160M(1), (1A), (2), (3)(b), (6), (6A), (6B) and (7) are as follows:\n \"160M(1) Subject to this Part, where a change has occurred in the ownership of an asset, the change shall be deemed, for the purposes of this Part, to have effected a disposal of the asset by the person who owned it immediately before the change and an acquisition of the asset by the person who owned it immediately after the change.",
+      "id": "s155"
+    },
+    {
+      "text": "(1A) It is declared for the avoidance of doubt that, subject to paragraphs (3)(a) and (aa), a change in the legal ownership of an asset does not constitute a change in the ownership of the asset for the purposes of this Part unless there is also a change in the beneficial ownership of the asset.",
+      "id": "s156"
+    },
+    {
+      "text": "(2) A reference in subsection (1) to a change in the ownership of an asset is a reference to a change that has occurred in any way, including any of the following ways: \n (a) by the execution of an instrument; \n (b) by the entering into of a transaction; \n (c) by the transmission of the asset by operation of law; \n (d) by the delivery of the asset; \n (e) by the doing of any other act or thing; \n (f) by the occurrence of any event.",
+      "id": "s157"
+    },
+    {
+      "text": "(3) Without limiting the generality of subsection (2), a change shall be taken to have occurred in the ownership of an asset by: \n (a) ...; \n \n \n (b) in the case of an asset being a debt, a chose in action or any other right, or an interest or right in or over property --- the cancellation, release, discharge, satisfaction, surrender, forfeiture, expiry or abandonment, at law or in equity, of the asset; ... \n \n \n \n (6) Subject to this Part (other than subsection (7) of this section), if: \n (a) a person creates an asset that is not a form of corporeal property; and \n (b) on its creation, the asset is vested in another person; \n then subsections (6A) and (6B) apply.",
+      "id": "s158"
+    },
+    {
+      "text": "(6A) If subsection (6) applies: \n \n \n (a) the person creating the asset is taken to have acquired, and to have commenced to own, the asset at the time applicable under subparagraph 160U(6)(a)(ii) or (b)(ii); and \n (b) the person creating the asset is later taken to have disposed of the asset to the other person mentioned in paragraph (6)(b) of this section at the time applicable under subparagraph 160U(6)(a)(iii) or (b(iii); and \n (c) the person so taken to dispose of the asset is taken not to have paid or given any consideration, or incurred any costs or expenditure, referred to in any of paragraphs 160ZH(1)(a) to (d) (inclusive), (2)(a) to (d) (inclusive) and (3)(a) to (d) (inclusive) in respect of the asset; and \n (d) paragraph 160ZD(2) (a) does not apply to that disposal of the asset.",
+      "id": "s159"
+    },
+    {
+      "text": "(6B) Also, if subsection (6) applies: \n \n \n (a) the other person mentioned in paragraph (6)(b) is taken to have acquired the asset from the person creating it, and to have commenced to own it, at the time applicable under subparagraph 160U(6)(a)(i) or (b)(i); and \n (b) paragraph 160ZH(9)(a) does not apply to that acquisition of the asset.",
+      "id": "s160"
+    },
+    {
+      "text": "(7) Without limiting the generality of subsection (2) but subject to the other provisions of this Part, where -- \n (a) either: \n \n \n \n (i) an act or transaction has taken place in relation to an asset, whether or not affecting the asset; or \n \n \n \n \n (ii) an event affecting an asset has occurred; \n \n \n where, in a subparagraph (i) case in which the asset was affected or in any subparagraph (ii) case, it does not matter whether the asset was affected adversely or beneficially, or neither adversely nor beneficially; and \n \n \n \n (b) the person who owned the asset at the time of the act, transaction or event has received, or is entitled to receive, an amount of money or other consideration by reason of the act, transaction or event (whether or not any asset was or will be acquired by the person paying the money or giving the other consideration) including, but not limited to, an amount of money or other consideration -- \n \n \n \n \n (i) in the case of an asset being a right -- in return for refraining from exercising the right; or \n \n \n \n \n (ii) for use or exploitation of the asset; \n \n \n the act, transaction or event constitutes a disposal by the person who received, or is entitled to receive, the money or other consideration of an asset created by the disposal and, for the purposes of the application of this Part in relation to that disposal -- \n \n \n \n (c) the money or other consideration constitutes the consideration in respect of the disposal; and \n (d) the person shall be deemed not to have paid or given any consideration, or incurred any costs or expenditure, referred to in paragraph 160ZH(1)(a), (b), (c) or (d), (2)(a), (b), (c) or (d) or (3) (a), (b), (c) or (d) in respect of the asset; and \n (e) the person is taken to have acquired and owned the asset immediately before the disposal.",
+      "id": "s161"
+    },
+    {
+      "text": "\" \n \n \n \n\nReleases of existing causes of action fall within subs (3).",
+      "id": "s162"
+    },
+    {
+      "text": "The creation of new rights upon the Deed's becoming binding on the parties, such as those arising from the various executory promises in the Deed, fall within subs (6).",
+      "id": "s163"
+    },
+    {
+      "text": "56 Subsections 160M(6A) and (6B) deal with the time of acquisition and disposal of subs (6) assets.",
+      "id": "s164"
+    },
+    {
+      "text": "Section 160U deals generally with the time of disposal and acquisition of an asset for the purposes of Part IIIA.",
+      "id": "s165"
+    },
+    {
+      "text": "Subsection 160U(3) provides that where the asset is acquired or disposed of under a contract, the time of acquisition and disposal is to be taken to have been the time of the making of the contract.",
+      "id": "s166"
+    },
+    {
+      "text": "In the present case, although the applicants make submissions directed to the question whether the acquisition and disposal occurred at the time when the Deed was entered into or at the later time when the money was paid under it, nothing turns on the later subsections of s 160U.",
+      "id": "s167"
+    },
+    {
+      "text": "57 Section 160Z provides for the determination of the amount of capital gains and capital losses.",
+      "id": "s168"
+    },
+    {
+      "text": "According to subs 160Z(1), where an asset has been disposed of during the year of income, if the consideration in respect of the disposal exceeds the indexed cost base to the taxpayer in respect of the asset, a capital gain equal to the excess is deemed to have accrued to the taxpayer during the year of income, or if that indexed cost base exceeds the consideration in respect of the disposal, a capital loss equal to the excess is deemed to have been incurred by the taxpayer.",
+      "id": "s169"
+    },
+    {
+      "text": "58 Subsection 160ZB(1) provides that a capital gain is not to be taken to have accrued to a taxpayer by reason of the taxpayer's having obtained a sum by way of compensation or damages for any wrong or injury suffered by the taxpayer in his or her profession or vocation.",
+      "id": "s170"
+    },
+    {
+      "text": "This is the provision on which the applicants rely for the proposition that a capital gain in respect of the sum of $4.25 million is not to be taken to have accrued to Claude Cassegrain.",
+      "id": "s171"
+    },
+    {
+      "text": "The argument is that he obtained that sum by way of compensation for defamation of him.",
+      "id": "s172"
+    },
+    {
+      "text": "59 Section 160ZD relates to the consideration in respect of the disposal of an asset.",
+      "id": "s173"
+    },
+    {
+      "text": "Section 160ZD(1)(a) provides that, subject to Part IIIA , for the purposes of Part IIIA where a taxpayer has received or is entitled to receive an amount or amounts of money in respect of a disposal of an asset, the consideration in respect of the disposal is that amount or the sum of those amounts.",
+      "id": "s174"
+    },
+    {
+      "text": "In the present case, the consideration furnished was an amount of money --- $9.5 million.",
+      "id": "s175"
+    },
+    {
+      "text": "The question is: what assets did GCC dispose of and what amount or amounts did it receive in respect of that disposal or those disposals?",
+      "id": "s176"
+    },
+    {
+      "text": "The Deed tells us that GCC disposed of certain technologies for $503,667 of the Settlement Sum, slotting machinery for $155,000 of the Settlement Sum and certain goods, wares and merchandise for $6,250 of the Settlement Sum, but as to the remaining $8,835,083, the Deed states that that sum was paid for two things: (i) a discharge of all and any liabilities to, relevantly, GCC and Claude Cassegrain, and (ii) the benefit of the various covenants, releases, indemnities and warranties given by GCC and Claude Cassegrain under the terms of the Deed.",
+      "id": "s177"
+    },
+    {
+      "text": "60 Subsection 160ZD(4) provides:\n \"(4) Where any consideration paid or given in respect of a transaction relates in part only to the disposal of a particular asset, so much of that consideration as may reasonably be attributed to the disposal of the asset shall be taken to relate to the disposal of the asset.",
+      "id": "s178"
+    },
+    {
+      "text": "\" \n \n 61 As noted at [41] above, parts of the Settlement Sum, namely, $503,667, $155,000 and $6,250 (totalling $664,917) were allocated in the Deed to particular things that were being transferred by GCC and in which Claude Cassegrain had no interest.",
+      "id": "s179"
+    },
+    {
+      "text": "It is in respect of the balance of $8,835,083 that s 160ZD(4) may have scope for operation.",
+      "id": "s180"
+    },
+    {
+      "text": "What is required is a careful identification: \n\n&#8226; of the assets disposed of by GCC and Claude Cassegrain respectively under the Deed, and\n \n&#8226; of that part of the said sum of $8,832,083 that might reasonably be attributed to the disposal of those assets.",
+      "id": "s181"
+    },
+    {
+      "text": "62 Section 160ZN provides in para (1)(a) that where an asset is \"owned by persons as joint tenants\", Part IIIA applies \"as if those persons owned the asset as tenants in common in equal shares\".",
+      "id": "s182"
+    },
+    {
+      "text": "Subsection (2) provides that except where a contrary intention appears, Part IIIA applies in relation to two or more persons who own an asset as trustees of the one trust estate, as if they were a single person.",
+      "id": "s183"
+    },
+    {
+      "text": "Subsection (2) makes it clear that subs (1) is directed only to beneficial ownership of an asset by persons as joint tenants.",
+      "id": "s184"
+    },
+    {
+      "text": "It is not directed to either joint tenancy at law alone, or to beneficial ownership of separate assets.",
+      "id": "s185"
+    },
+    {
+      "text": "As will appear later, I have come to the view that by the Deed, GCC disposed of certain assets alone, Claude Cassegrain disposed of different assets alone, and both of them, as beneficial owners as joint tenants, disposed of yet a third class of assets.",
+      "id": "s186"
+    },
+    {
+      "text": "THE TRIBUNAL'S DECISION AND REASONS \n \n 63 GCC submitted to the Tribunal that under the Deed it and Claude Cassegrain were entitled jointly to the sum of $9.5 million and that the effect of s 160ZN(1)(a) of the Act (see [62] above) was that they were to be treated as having become entitled to that amount in equal shares.",
+      "id": "s187"
+    },
+    {
+      "text": "64 However, the Tribunal accepted the Commissioner's submission that where joint holders had made unequal contributions to the acquisition of an asset, there being no presumption of advancement, a resulting trust is presumed for them as tenants in common in proportion to the values of their respective contributions to the consideration.",
+      "id": "s188"
+    },
+    {
+      "text": "The Tribunal referred to Calverley v Green [1984] HCA 81 ; (1984) 155 CLR 242.",
+      "id": "s189"
+    },
+    {
+      "text": "The Tribunal said that while there was some evidence as to the value of Claude Cassegrain's possible claim in defamation which he never \"commenced\", its value was by no means close to $4.25 million.",
+      "id": "s190"
+    },
+    {
+      "text": "The Tribunal accepted that the onus was on GCC and CFE to establish the value of Claude Cassegrain's rights, and that since they had not done so, it was reasonable to attribute the entire consideration of $9.5 million to the rights given up by GCC, pursuant to s 160ZD(4) of the Act , noted at [60] above.",
+      "id": "s191"
+    },
+    {
+      "text": "65 The Tribunal noted that Claude Griffith had given evidence that GCC had claimed deductions for most of its expenses incurred in the joint venture and Cassiro's activities, including concessional deductions for research and development under s 73B of the Act , and that Claude Cassegrain's evidence was that an important objective of the settlement was to recover the amount that GCC had invested in Cassiro.",
+      "id": "s192"
+    },
+    {
+      "text": "The Tribunal considered that it \"would be double counting to allow those costs to be included in the cost base of the asset (rights) given up by GCC\" (at para 41).",
+      "id": "s193"
+    },
+    {
+      "text": "Consequently, the Tribunal found that the cost base of GCC's rights disposed of in the settlement by reason of s 160M(3)(b) (which, the Tribunal observed, effectively treated a release of GCC's rights as a disposal of the rights) was nil, given that the acquisition costs were \"either not capital in nature or would be double-counted\".",
+      "id": "s194"
+    },
+    {
+      "text": "66 In the result, the Tribunal concluded that a capital gain of $9.5 million accrued to GCC under s 160Z, this being the excess of the disposal consideration over the cost base (nil) of the asset given up to acquire that sum.",
+      "id": "s195"
+    },
+    {
+      "text": "67 As what it described as \"an alternative ground\" for its decision, the Tribunal considered that the Apportionment Agreement was a sham.",
+      "id": "s196"
+    },
+    {
+      "text": "It is not clear why the Tribunal described this as an alternative ground, because the first ground, the resulting trust ground, did not depend on the effectiveness of the Apportionment Agreement.",
+      "id": "s197"
+    },
+    {
+      "text": "For the finding of \"sham\", the Tribunal relied on the findings made by Davies J in the Cassegrain v Cassegrain oppression suit.",
+      "id": "s198"
+    },
+    {
+      "text": "The Tribunal noted that that case had run for 12 days, and that his Honour had had the advantage of hearing witnesses including Patrick Cassegrain, a co-signatory with his father to the letter of 6 July 1993 to Mr Garrett.",
+      "id": "s199"
+    },
+    {
+      "text": "68 After referring to the parties' submissions and to certain authorities relating to \"sham\", the Tribunal made a series of findings to the following effect: \n \n \n &#8226; the Apportionment Agreement was not intended to confer on Claude Cassegrain beneficial entitlement to the sum of $4.25 million; rather, the intention was to maximise the after tax amount of the Settlement Sum (the Tribunal referred, in particular, to GCC's delicate position with the Bank, of which Gerard and Claude Cassegrain were conscious; to the threat of receivership; and to Claude Cassegrain's evidence that he went into the mediation with the intention of being able to pay the Bank around $15 million);\n &#8226; in about early 1993, Claude Griffith informed Claude Cassegrain of the tax consequences of GCC's receiving $15 million, and that money received in respect of personal injury was exempt from capital gains tax (a reference to s 160ZB(1) discussed at [58] above);\n &#8226; Gerard and Claude Cassegrain intended to reduce the level of tax so that as much money as possible would be available to be paid to the Bank;\n &#8226; the apportionment was not intended by Gerard and Claude Cassegrain to have legal effect, and the increase by $4.25 million in the balance of Claude Cassegrain's loan account with GCC was, likewise not intended by them to have legal effect;\n &#8226; Claude Cassegrain had told Mr Griffith that the amount (the $4.25 million) was not his, but was the family's money, and that he was holding it for the family because it was better from a tax point of view to make the net (after tax) sum as large as possible;\n &#8226; on 3 February 1994, Claude Cassegrain wrote to the other members of the family advising that GCC had invested some $7.5 million in Cassiro, and that although it had failed, he did recover $6.8 million (which, he agreed in cross-examination, represented approximately the Settlement Sum less legal fees); \n &#8226; in his statement of 3 February 2004, Claude Cassegrain asserted that he could have had half of the issued shares in Cassiro allotted to himself rather than to GCC, and he regarded GCC's interest in Cassiro as \"more or less as if it were held in trust\" for him to do with as he wished; \n &#8226; there was no real relationship between the amounts agreed and any reasonable entitlements of GCC and Claude Cassegrain respectively, the evidence being that GCC had invested over $7 million in the joint venture, while CSIRO's solicitors considered that Claude Cassegrain would not receive more than $0.5 million in damages for defamation and for the other releases and warranties he was required to provide under the Deed (the evidence of Mr Rares SC, as his Honour then was, was that when the Deed was entered into in September 1993, the highest verdict recorded for defamation in New South Wales was $0.6 million, albeit a verdict that excluded a claim for economic loss which, in Mr Rares's opinion, Claude Cassegrain could have successfully made);\n &#8226; despite a book entry increasing GCC's indebtedness to Claude Cassegrain in his loan account with the company, that entry did not reflect the intention of Gerard and Claude Cassegrain, which was to treat the entire $9.5 million as GCC's money for immediate use in paying down GCC's debt to the Bank;\n &#8226; further support for the conclusion that the Apportionment Agreement was sham is found in the findings of Davies J in Cassegrain v Cassegrain referred to above.",
+      "id": "s200"
+    },
+    {
+      "text": "69 The Tribunal then proceeded to consider the position that would have obtained if the Apportionment Agreement had not been a sham.",
+      "id": "s201"
+    },
+    {
+      "text": "The Tribunal said that it would have found that s 160M(6) of the Act , as amended by the Taxation Laws Amendment Act (No 4) 1992 (Cth), would have applied to the Apportionment Agreement itself.",
+      "id": "s202"
+    },
+    {
+      "text": "In summary, on the assumption that the Apportionment Agreement vested a beneficial entitlement to the sum of $4.25 million in Claude Cassegrain, the Tribunal's reasoning was that the effect of ss 160M(6), (6A) and (6B) was that GCC created a right that instanteously vested in Claude Cassegrain, that is to say, GCC created an asset that vested without consideration in Claude Cassegrain enforceable against GCC.",
+      "id": "s203"
+    },
+    {
+      "text": "According to the Tribunal, under the subsections mentioned, GCC would be deemed to have acquired the right immediately before the making of the Apportionment Agreement and to have disposed of it at the time of the making of that Agreement, the cost base of that asset being nil by reason of s 160M(6A)(c).",
+      "id": "s204"
+    },
+    {
+      "text": "(This approach to the matter leaves out of account the contractual undertakings given by GCC and Claude Cassegrain in the Deed, and treats the entire $9.5 million as payable for the releases and surrenders of existing potential causes of action, of which any of Claude Cassegrain are treated as being of no value.",
+      "id": "s205"
+    },
+    {
+      "text": ")\n 70 For all the above reasons, the Tribunal concluded that the objection decisions should be affirmed because GCC and CFE had not discharged the onus of proving that the amended assessments against them were excessive.",
+      "id": "s206"
+    },
+    {
+      "text": "REASONING ON THE APPEAL \n General \n \n 71 Before I identify and address the questions of law raised in the notice of appeal, I will state certain conclusions relevant to those questions.",
+      "id": "s207"
+    },
+    {
+      "text": "This will reduce the necessity of any extended discussion of most of the questions.",
+      "id": "s208"
+    },
+    {
+      "text": "72 (1) Clause 2.1 of the Deed states a condition precedent to the operation of the Deed's provisions.",
+      "id": "s209"
+    },
+    {
+      "text": "The condition precedent is the payment by CSIRO of the Settlement Sum to or at the direction of the Cassegrain Parties.",
+      "id": "s210"
+    },
+    {
+      "text": "CSIRO does not promise to pay the Settlement Sum, but if and when it does so the provisions of the Deed become binding on the parties to it --- the Cassegrain Parties, the CSIRO Parties and Cassiro.",
+      "id": "s211"
+    },
+    {
+      "text": "73 (2) Clause 1.2(l) of the Deed provides that \"a reference to any two or more persons is a reference to such persons jointly and to each of them severally\".",
+      "id": "s212"
+    },
+    {
+      "text": "Accordingly, a reference to \"the Cassegrain Parties\" is a reference to GCC and Claude Cassegrain jointly and to each of them severally.",
+      "id": "s213"
+    },
+    {
+      "text": "So, for example, a promise by the Cassegrain Parties is in the first instance a promise by them as a unit so that they may both be sued together on it, and upon the death of one, the survivor is liable to perform it, but, in the second instance, even while both live, each is severally liable to perform the promise and each can be separately sued on the promise: a proceeding is not defective if brought against one only (although the one sued may join the other).",
+      "id": "s214"
+    },
+    {
+      "text": "74 (3) The consideration in respect of the disposals of assets by the Cassegrain Parties under the Deed is to be found in both the obligations undertaken by the CSIRO Parties and in the payment of the Settlement Sum.",
+      "id": "s215"
+    },
+    {
+      "text": "It is unrealistic to regard the Settlement Sum as not forming part of the consideration furnished by the CSIRO Parties as if it were a cost-free act by CSIRO such as the waving of a flag, the firing of a gun, or the falling of rain.",
+      "id": "s216"
+    },
+    {
+      "text": "We may take it that the Cassegrain Parties would not have entered into the Deed if they had not felt confident that CSIRO would satisfy the condition precedent expressed in cl 2.1.",
+      "id": "s217"
+    },
+    {
+      "text": "75 (4) The applicants distinguish between the occasion when the Deed was entered into and the occasion a little later when the Settlement Sum was paid, as the occasion when a capital gain could have accrued.",
+      "id": "s218"
+    },
+    {
+      "text": "It was only when payment was made that the Deed, although previously executed, became operative, so it is true to say, as the applicants contend, that was when any capital gain accrued.",
+      "id": "s219"
+    },
+    {
+      "text": "The reason is that it was at that moment of time when any disposal of assets became operative: there was no disposal of assets until the Deed was executed and the condition precedent to its operation was satisfied.",
+      "id": "s220"
+    },
+    {
+      "text": "76 (5) Payment to the Bank was at the joint and several direction of GCC and Claude Cassegrain.",
+      "id": "s221"
+    },
+    {
+      "text": "The Commissioner did not challenge the Tribunal's finding that \"[a]s against the CSIRO Parties, GCC and Claude Cassegrain had a joint entitlement\" (para 40).",
+      "id": "s222"
+    },
+    {
+      "text": "77 (6) The applicants contend that \"the Tribunal's principal error of law was to ignore the terms of the Deed and to re-write it by reference to the principles of resulting trusts\".",
+      "id": "s223"
+    },
+    {
+      "text": "Although I would not describe the finding of a resulting trust as a rewriting of the Deed, I agree with the applicants that the resulting trust principle, recognised in the case of owners of land as joint tenants at law in Calverley v Green , has no application.",
+      "id": "s224"
+    },
+    {
+      "text": "The trust in question, whether called properly called \"resulting\" or \"implied\", is presumed in the absence of evidence of an intention to the contrary.",
+      "id": "s225"
+    },
+    {
+      "text": "In all the cases in which the principle has been applied of which I am aware, the trust has arisen from the provision of purchase money in a way that does not correspond with the way in which legal title is taken.",
+      "id": "s226"
+    },
+    {
+      "text": "Perhaps the principle would also apply if, although not in the form of money, the consideration could be regarded as equivalent to money.",
+      "id": "s227"
+    },
+    {
+      "text": "In the present case, however, the consideration provided for the payment of $8,835,083 and the CSIRO Parties' releases and contractual undertaking, consisted of releases and contractual undertakings by GCC and Claude Cassegrain separately and jointly and severally.",
+      "id": "s228"
+    },
+    {
+      "text": "78 (7) Arguably, a further reason why a Calverley v Green resulting trust did not come into being is that it would be inconsistent with the intention of at least one party to the Deed that it should do so.",
+      "id": "s229"
+    },
+    {
+      "text": "By making the Apportionment Agreement, Claude Cassegrain showed an intention that was inconsistent with a presumption that he and GCC were to hold the sum of $9.5 million beneficially for themselves as tenants in common in equity in whatever proportions might turn out to reflect the values of their respective contributions to the consideration provided to the CSIRO Parties.",
+      "id": "s230"
+    },
+    {
+      "text": "79 (8) So far as I know, no pre-existing asset disposed of by the Deed was owned by GCC and Claude Cassegrain as joint tenants.",
+      "id": "s231"
+    },
+    {
+      "text": "Each of them had its or his own separate potential claim against the CSIRO Parties.",
+      "id": "s232"
+    },
+    {
+      "text": "There were the claims already asserted by GCC alone in proceeding NG 3062 of 1992, with the further claims of conspiracy to cheat and defraud, abuse of process and defamation and injurious falsehood to be introduced by way of the proposed second further amended statement of claim (see [26] above).",
+      "id": "s233"
+    },
+    {
+      "text": "There was also a possible claim of defamation of Claude Cassegrain that had been obliquely referred to in the Cassegrain Letter (see [21] above).",
+      "id": "s234"
+    },
+    {
+      "text": "It is noteworthy, in passing, and only by way of interest, that in the Cassegrain Letter the amount claimed for defamation was $5 million, which was approximately one eleventh of the total amount of $56,033,000 claimed in that letter.",
+      "id": "s235"
+    },
+    {
+      "text": "The remaining $51,033,000 was clearly claimed by GCC alone.",
+      "id": "s236"
+    },
+    {
+      "text": "The sum of $5 million was not claimed for the defamation of Claude Cassegrain alone: it was claimed for defamation of \"GC&amp;Co, Cassegrain Family name, Cassegrain Group of companies and Claude Cassegrain and his family\".",
+      "id": "s237"
+    },
+    {
+      "text": "If the sum of $9.5 million were to be regarded as having been paid in conformity, on a pro rata basis, with the Cassegrain Letter, some $850,000 would be treated as having been paid in respect of the threatened defamation claim, of which, apparently Claude Cassegrain would be entitled to some unidentified part, the other parts being in respect of defamation claims by GCC, other unidentified Cassegrain companies, and other unidentified members of the Cassegrain family.",
+      "id": "s238"
+    },
+    {
+      "text": "There was, of course, no agreement that the Settlement Sum was related to the different elements identified in the Cassegrain Letter.",
+      "id": "s239"
+    },
+    {
+      "text": "80 (9) There is no reason to distinguish between CSIRO's paying $8,835,083 and the CSIRO Parties' releases and contractual undertakings, as making up the consideration for the Cassegrain Parties' releases and other contractual undertakings.",
+      "id": "s240"
+    },
+    {
+      "text": "In other words, if it were possible to apportion the value of the Cassegrain Parties' releases and contractual undertakings as between GCC and Claude Cassegrain, it would be appropriate to apply those proportions to the sum of $8,835,083 (and, if it should be relevant, to the value of the CSIRO Parties' releases and contractual undertakings).",
+      "id": "s241"
+    },
+    {
+      "text": "81 (10) If the Deed were to be regarded as comprising on the Cassegrain Parties' side, only the release, discharge, satisfaction or surrender of GCC's and Claude Cassegrain's potential rights of action, s 160M(3)(b) would deem a change in the ownership of assets, being those choses in action, to have occurred for the purposes of s 160M(1).",
+      "id": "s242"
+    },
+    {
+      "text": "82 (11) However, there was additional consideration provided by the Cassegrain Parties in the form of contractual undertakings.",
+      "id": "s243"
+    },
+    {
+      "text": "These included, in the case of Claude Cassegrain, the restraints and covenants contained in cl 6 the Deed, the indemnity he gave in cll 10 and 15, his representations, warranties and undertakings in cll 14 and 15, and other agreements on his part scattered throughout the Deed.",
+      "id": "s244"
+    },
+    {
+      "text": "The additional consideration provided by GCC similarly consisted of contractual undertakings in the form of restraints, covenants, indemnities, representations, warranties, undertakings and other agreements on its part also scattered throughout the Deed.",
+      "id": "s245"
+    },
+    {
+      "text": "83 These contractual undertakings by GCC on the one hand and by Claude Cassegrain on the other, as distinct from the releases, and, unlike the potential claims the subject of the releases, did not exist before the provisions of the Deed became binding on the parties (upon CSIRO's payment of the Settlement Sum of $9.5 million).",
+      "id": "s246"
+    },
+    {
+      "text": "Once the Deed's provisions became binding on them, each of GCC and Claude Cassegrain was deemed to have disposed of the choses in action arising from its or his said contractual undertakings, and the CSIRO Parties to have acquired them, at that time: see ss 160M(6), (6A).",
+      "id": "s247"
+    },
+    {
+      "text": "84 (12) The parties to the Deed did not apportion the sum of $8,835,083 as between the consideration provided by GCC and that provided by Claude Cassegrain, or as between the constituent elements of those considerations.",
+      "id": "s248"
+    },
+    {
+      "text": "The total of considerations for the releases of potential causes of action and the contractual undertakings by GCC and by Claude Cassegrain was $8,835,083, but it is not possible to say how much was paid for Claude Cassegrain's as against GCC's.",
+      "id": "s249"
+    },
+    {
+      "text": "In terms of s 160ZD(4) of the Act , the consideration of $8,835,083 related in various parts to the disposals of many particular assets, namely, on the one hand, the surrender of potential rights of action, and on the other hand contractual undertakings that were given, in each case by each of GCC and Claude Cassegrain .",
+      "id": "s250"
+    },
+    {
+      "text": "In these circumstances, s 160ZD(4) applied to deem so much of the sum of $8,835,083 as might reasonably be attributed to the disposal of any particular asset to relate to the disposal of that asset.",
+      "id": "s251"
+    },
+    {
+      "text": "We know that the amount that might reasonably be attributed to the disposal of all the particular assets by GCC was $8,835,083 minus the amount that might reasonably be attributed to the disposal of all the particular assets by Claude Cassegrain (not only the disposal constituted by the release of any potential cause of action that Claude Cassegrain had in defamation).",
+      "id": "s252"
+    },
+    {
+      "text": "85 (13) There was apparently value in all of the particular assets disposed of by Claude Cassegrain.",
+      "id": "s253"
+    },
+    {
+      "text": "As previously noted, CSIRO insisted on his being a party to the Deed and giving the contractual undertakings that he gave in it.",
+      "id": "s254"
+    },
+    {
+      "text": "It may have been reasonable to attribute a larger part of the consideration to the disposal of assets by GCC, particularly in view of the fact that it, and not Claude Cassegrain, had been a party to the joint venture agreement, and that it, and not Claude Cassegrain, had sued the CSIRO Parties.",
+      "id": "s255"
+    },
+    {
+      "text": "Nonetheless, certain matters must be borne in mind.",
+      "id": "s256"
+    },
+    {
+      "text": "Claude Cassegrain, rather than his parents or siblings, had been the driving force behind GCC.",
+      "id": "s257"
+    },
+    {
+      "text": "Of all of the members of the family, he was the only one who, CSIRO insisted, must be a party to the Deed.",
+      "id": "s258"
+    },
+    {
+      "text": "Indeed, it interesting to consider what value could be reasonably attributed to the contractual undertakings by GCC alone (I leave to one side its release of its alleged pre-existing causes of action the subject of the Court proceeding).",
+      "id": "s259"
+    },
+    {
+      "text": "Assume, for example, that all of the shares in GCC were sold to unrelated parties who became the directors of the company, none of the Cassegrain family any longer having any connection with it.",
+      "id": "s260"
+    },
+    {
+      "text": "GCC's contractual undertakings alone would, I assume, then be of little significance to the CSIRO Parties.",
+      "id": "s261"
+    },
+    {
+      "text": "But contractual undertakings by members of the Cassegrain family would be of importance, and of them it was only Claude Cassegrain that the CSIRO Parties insisted accept such a restraint in the Deed.",
+      "id": "s262"
+    },
+    {
+      "text": "86 (14) What I have just said does not signify that a result that attributed the greater, perhaps by far the greater, part of the sum of $8,835,083 to the particular assets disposed of by GCC could not be supported as reasonable.",
+      "id": "s263"
+    },
+    {
+      "text": "The point is that the Deed provided for separate disposals of assets by GCC and Claude Cassegrain that consisted of the creation of rights in the CSIRO Parties arising from their respective contractual undertakings, and that those had to be taken into account in the exercise called for by s 160ZD(4).",
+      "id": "s264"
+    },
+    {
+      "text": "87 (15) We cannot say what part of the sum of $8,835,083 related to any particular asset disposed of by either of the Cassegrain Parties because they and the CSIRO Parties did not agree upon an apportionment.",
+      "id": "s265"
+    },
+    {
+      "text": "The Apportionment Agreement, even if it should be regarded as having been made between GCC and Claude Cassegrain, does not fill this gap because the CSIRO Parties were not parties to it.",
+      "id": "s266"
+    },
+    {
+      "text": "Moreover, the Apportionment Agreement, even if so regarded, is not determinative of the question how much of the sum of $8,835,083 might be reasonably attributed to any particular disposal.",
+      "id": "s267"
+    },
+    {
+      "text": "Both of these propositions would be true even if the Apportionment Agreement were not a \"sham\".",
+      "id": "s268"
+    },
+    {
+      "text": "As to the second proposition, the Apportionment Agreement was not the result of a negotiation conducted by parties at arm's length, each concerned to advance its own separate interests.",
+      "id": "s269"
+    },
+    {
+      "text": "Moreover, there is no evidence that Gerard Cassegrain and Claude Cassegrain were directing their minds to the subject matter and concepts of Part IIIA.",
+      "id": "s270"
+    },
+    {
+      "text": "88 (16) The applicants relied on McLaurin v Federal Commissioner of Taxation [1961] HCA 9 ; (1961) 104 CLR 381 (\" McLaurin \"); Allsop v Federal Commissioner of Taxation [1965] HCA 48 ; (1965) 113 CLR 341 (\" Allsop \"); CSR Ltd v Federal Commissioner of Taxation (2000) 171 ALR 392 (\" CSR \") (a decision affirmed by the Full Court of the Federal Court in Commissioner of Taxation v CSR Ltd [2000] FCA 1513 ; (2000) 104 FCR 44) and Advanced Prosthetic Centre Pty Ltd v Appliance &amp; Limb Centre (Int) Pty Ltd (2002) ATR 33 (\" Advanced Prosthetic \").",
+      "id": "s271"
+    },
+    {
+      "text": "These cases were concerned with undissected lump sums paid in settlement of litigation.",
+      "id": "s272"
+    },
+    {
+      "text": "In all of them it was held, in substance, that where part of the lump sum was clearly received on capital account, it was not open to the Commissioner to bring to tax part of the lump sum as income.",
+      "id": "s273"
+    },
+    {
+      "text": "The questions that Part IIIA requires to be answered are, however, different.",
+      "id": "s274"
+    },
+    {
+      "text": "In particular, s 160ZD(4) expressly addresses the situation in which an undissected consideration relates in part only to the disposal of a particular asset.",
+      "id": "s275"
+    },
+    {
+      "text": "It requires that in these circumstances there must be a determination of \"so much of that consideration as may reasonably be attributed to the disposal of the asset\".",
+      "id": "s276"
+    },
+    {
+      "text": "89 The notice of appeal purports to state twelve questions of law.",
+      "id": "s277"
+    },
+    {
+      "text": "In their submissions, the applicants grouped them, and the Commissioner's responsive submissions were structured accordingly.",
+      "id": "s278"
+    },
+    {
+      "text": "I will conform to the parties' structure below.",
+      "id": "s279"
+    },
+    {
+      "text": "In the light of the discussion above, I can address the twelve questions of law more briefly than would otherwise have been the case.",
+      "id": "s280"
+    },
+    {
+      "text": "Second, fifth, sixth, seventh and ninth questions of law \n \n 90 The second, fifth, sixth, seventh and ninth questions of law are:\n Second question of law \n \"Did the Tribunal err in law by not concluding that the deed of settlement entered into on 27 September 1993 between G Cassegrain &amp; Co Pty Limited, Claude Cassegrain, the CSIRO and Sirotech Limited (\"the deed of settlement\"), either alone or when considered with the simultaneous payment of $9.5m thereunder to, or at the direction of, G Cassegrain &amp; Co Pty Limited and Claude Cassegrain jointly, was the only relevant transaction under which a capital gain accrued to G Cassegrain &amp; Co Pty Limited and Claude Cassegrain jointly for the purposes of Part IIIA ...?",
+      "id": "s281"
+    },
+    {
+      "text": "\" \n \n Fifth question of law \n \"Did the Tribunal err in law by declining to apply s 160ZN(1)(a), ... to the capital gain which accrued to G Cassegrain &amp; Co Pty Limited and Claude Cassegrain jointly under the deed of settlement for the purposes of determining the amount of the capital gain which accrued to each of them under that transaction?",
+      "id": "s282"
+    },
+    {
+      "text": "\" \n \n Sixth question of law \n \"Did the Tribunal err in law when it went behind the deed of settlement in order to re-construct the transaction which it consummated in reliance on the doctrine of resulting trusts and the principle of law enunciated in Calverly v Green [1984] HCA 81 ; (1985) 155 CLR 242 [sic] ?",
+      "id": "s283"
+    },
+    {
+      "text": "\" \n \n Seventh question of law \n \"Did the Tribunal err in law by concluding that the applicants bore an onus to establish the value of the rights which they surrendered under the deed of settlement in favour of CSIRO and Sirotech Limited for the purposes of Part IIIA , ...?",
+      "id": "s284"
+    },
+    {
+      "text": "\" \n \n Ninth question of law \n \"Did the Tribunal err in law when it concluded that a capital gain of $9.5m accrued to G Cassegrain &amp; Co Pty Limited pursuant to sections 160M(3)(b) and 160Z ... in consequence of its entry into the deed of settlement and the simultaneous payment of $9.5m under it?",
+      "id": "s285"
+    },
+    {
+      "text": "\" \n \n 91 The grounds stated in the notice of appeal that relate to the second question of law are directed against the Tribunal's finding of a constructive trust.",
+      "id": "s286"
+    },
+    {
+      "text": "I agree that the circumstances did not give rise to a constructive trust for reasons that I gave earlier: the case is not one of purchase money (or perhaps its equivalent) for the purchase of property.",
+      "id": "s287"
+    },
+    {
+      "text": "92 Ground 4(e) suggests that the consequence of removing constructive trust from the picture is that we are left with the result that a capital gain accrued to GCC and Claude Cassegrain:\n \"jointly, and, in consequence, as tenants in common in equal shares despite the operation of the apportionment agreement as a side agreement and, in particular, despite its operation in re-apportioning that settlement amount as between the two of them\" \n \n 93 Several matters must be noted concerning this statement.",
+      "id": "s288"
+    },
+    {
+      "text": "First, there was no promise by CSIRO to pay the Settlement Sum, and therefore no right in the Cassegrain Parties to compel it to do so, that is, no right in them to receive it.",
+      "id": "s289"
+    },
+    {
+      "text": "Rather, the condition precedent expressed in cl 2.1 was that if and when CSIRO should pay $9.5 million to the Cassegrain Parties (it may be accepted jointly) or as they might direct (it may be accepted jointly), the Deed's provisions became binding on the parties to it.",
+      "id": "s290"
+    },
+    {
+      "text": "It may be accepted that the Cassegrain Parties jointly directed CSIRO to pay as it did.",
+      "id": "s291"
+    },
+    {
+      "text": "94 Secondly, Ground 4(e) seems to accept that, even assuming the Apportionment Agreement to be effective according to its terms and not a sham, it merely provided for a re-apportionment, and was not relevant to the operation of Part IIIA on the terms of the Deed.",
+      "id": "s292"
+    },
+    {
+      "text": "I agree that, for the reasons given earlier, the Apportionment Agreement was not relevant to the operation of Part IIIA on the terms of the Deed, but hold that that Part IIIA 's operation on these terms was different from the one advanced by the applicants.",
+      "id": "s293"
+    },
+    {
+      "text": "95 Thirdly, Ground 4(e) seems to assume that s 160ZN(1)(a) produces the result that GCC and Claude Cassegrain were beneficially entitled to the sum of $9.5 million as tenants in common in equal shares.",
+      "id": "s294"
+    },
+    {
+      "text": "As indicated earlier, in my opinion, it does not produce this result.",
+      "id": "s295"
+    },
+    {
+      "text": "We are concerned with disposals of assets by GCC and Claude Cassegrain.",
+      "id": "s296"
+    },
+    {
+      "text": "According to the Deed, some of the \"disposals\" of \"assets\" for the purposes of Part IIIA were by GCC, some were by Claude Cassegrain, and some were by the two of them (jointly and severally --- see cl 1.2(l) of the Deed).",
+      "id": "s297"
+    },
+    {
+      "text": "Section 160ZN(1)(a) applies where, in accordance with general law principles, an asset is owned beneficially by persons as joint tenants.",
+      "id": "s298"
+    },
+    {
+      "text": "In the present case, however, we cannot say that all of the releases were given in respect of jointly owned potential causes of action, or that all of the contractual undertakings were given jointly and severally by GCC and Claude Cassegrain: some were owned or given, as the case may be, by the former alone and some by the latter alone.",
+      "id": "s299"
+    },
+    {
+      "text": "96 In some cases the Deed refers expressly to Claude Cassegrain as subjecting himself to an obligation.",
+      "id": "s300"
+    },
+    {
+      "text": "Even when the reference is to \"the Cassegrain Parties\", GCC and Claude Cassegrain subject themselves to the obligation jointly and severally (cl 1.2(l) --- my emphasis).",
+      "id": "s301"
+    },
+    {
+      "text": "97 Section 14ZZK within Part IVC of the Taxation Administration Act 1953 (Cth) provided, at the relevant time, that on an application to the Tribunal for review of a reviewable objection to a decision, the applicant for review was, unless the Tribunal ordered otherwise, limited to the grounds stated in the taxation objection, and had the burden of proving that the assessment was excessive.",
+      "id": "s302"
+    },
+    {
+      "text": "98 In the present case this meant that it was incumbent upon the applicants to prove that Claude Cassegrain provided part of the consideration for payment of the sum of $9.5 million.",
+      "id": "s303"
+    },
+    {
+      "text": "They did so, because they proved not only that he gave the surrender of all and any existing claims, but also that he gave contractual undertakings.",
+      "id": "s304"
+    },
+    {
+      "text": "99 Section 160ZN(1)(a) does not apply because it is concerned with beneficial ownership.",
+      "id": "s305"
+    },
+    {
+      "text": "It is with changes in beneficial ownership that Part IIIA is concerned: s 160M(1), (1A).",
+      "id": "s306"
+    },
+    {
+      "text": "There is nothing in Part IIIA that requires that GCC and Claude Cassegrain be treated as being beneficially entitled in equal shares as tenants in common to the Settlement Sum or to the relevant part of it ($8,835,083).",
+      "id": "s307"
+    },
+    {
+      "text": "First, tenth and eleventh questions of law \n \n 100 The first, tenth and eleventh questions of law are:\n First question of law \n \"Did the Tribunal err in law when it concluded that the agreement made between G Cassegrain and Co Pty Limited and Claude Cassegrain dated 3 July 1993 to apportion between themselves an offer of settlement of court proceedings made by the CSIRO ... was the relevant transaction under which a capital gain accrued to G Cassegrain &amp; Co Pty Limited for the purposes of Part IIIA , Income Tax Assessment Act 1936 ?",
+      "id": "s308"
+    },
+    {
+      "text": "\" \n \n Tenth question of law \n \"Did the Tribunal err in the law by concluding in the alternative that the apportionment agreement was a sham?",
+      "id": "s309"
+    },
+    {
+      "text": "\" \n \n Eleventh question of law \n \"Did the Tribunal err in its identification and application of the test of a sham transaction?",
+      "id": "s310"
+    },
+    {
+      "text": "\" \n \n 101 The Tribunal's primary position was that the Apportionment Agreement was a sham, but that if it was not a sham and the Tribunal erred in holding that the Deed gave rise to the capital gain in question, then the Apportionment Agreement itself gave rise to the accruing of a capital gain to GCC in the same amount.",
+      "id": "s311"
+    },
+    {
+      "text": "102 The applicants submit that the Apportionment Agreement was irrelevant.",
+      "id": "s312"
+    },
+    {
+      "text": "I agree.",
+      "id": "s313"
+    },
+    {
+      "text": "However, I do not accept their submission that the result in the present case is governed by McLaurin , Allsop , CSR and Advanced Prosthetic (discussed at [88] above), although these cases at least recognise the uncontroversial starting point that absent an apportionment by the parties of the Deed we cannot say that any particular part of the sum of $8,835,083 was paid for any particular asset.",
+      "id": "s314"
+    },
+    {
+      "text": "They were not cases involving the application of Part IIIA.",
+      "id": "s315"
+    },
+    {
+      "text": "The starting point of a Part IIIA inquiry is the identification of a \"disposal\" of an \"asset\", in each case as defined in that Part.",
+      "id": "s316"
+    },
+    {
+      "text": "103 The applicants submit that the Tribunal's finding of a resulting trust was based on the Apportionment Agreement.",
+      "id": "s317"
+    },
+    {
+      "text": "I disagree, but since I reject the Tribunal's conclusion that there was a resulting trust, and agree with the applicants that the Apportionment Agreement was irrelevant, my rejection of the applicants' present submission is inconsequential.",
+      "id": "s318"
+    },
+    {
+      "text": "104 The applicants submit that the Tribunal erroneously dealt with the Apportionment Agreement and failed to appreciate that, as finally put before the Tribunal, the applicants relied only on the Deed itself.",
+      "id": "s319"
+    },
+    {
+      "text": "105 GCC had returned its share of $9.5 million as $5.25 million which, according to the applicants' present submissions, \"it erroneously believed that it had derived under the apportionment agreement\".",
+      "id": "s320"
+    },
+    {
+      "text": "The applicants submit that they had made it clear at all times in the Tribunal as from 2 July 2004 when they filed and served their amended statement of facts, issues and contentions that they disavowed reliance on the Apportionment Agreement, and relied on the Deed alone.",
+      "id": "s321"
+    },
+    {
+      "text": "106 However, in its amended statement of facts, issues and contentions dated 2 July 2004 before the Tribunal, GCC did refer (in para 18) to an extraordinary general meeting of GCC held on or about 3 July 1993 when GCC's \"shareholders resolved\" to settle for $9.5 million and to apportion that sum as to $5.25 million to GCC and $4.25 million to Claude Cassegrain.",
+      "id": "s322"
+    },
+    {
+      "text": "In para 28 of the same document, GCC submitted that the Commissioner had erred by including in the amended assessment $4.25 million of the $9.5 million because \"Mr Cassegrain properly derived $4,250,000.00 of the settlement sum and thus this amount should not be assessed as a capital gain on the account of GC &amp; Co\".",
+      "id": "s323"
+    },
+    {
+      "text": "107 Clearly, in its amended statement of facts, issues and contentions, GCC was still asserting that the Apportionment Agreement was somehow effective to produce the result that Claude Cassegrain, rather than GCC, had made any capital gain involved to the extent of $4.25 million.",
+      "id": "s324"
+    },
+    {
+      "text": "108 The applicants' present submission resolves itself into this: the Tribunal was obliged, but failed, to confine its attention to the four corners of the Deed, and on that basis to conclude that GCC and Claude Cassegrain were entitled in equal shares to the Settlement Sum.",
+      "id": "s325"
+    },
+    {
+      "text": "I do not accept the submission: the Tribunal was obliged, but failed, to analyse the Deed in terms of the concepts and provisions of Part IIIA of the Act .",
+      "id": "s326"
+    },
+    {
+      "text": "109 The Tribunal did refer to s 160ZD(4) which was set out at [60] above.",
+      "id": "s327"
+    },
+    {
+      "text": "By implication, the Tribunal treated the consideration paid of $9.5 million as relating in part only to the surrender of Claude Cassegrain's claim, and accepted that in these circumstances so much of the $9.5 million as might \"reasonably be attributed to the disposal of the asset\" should be taken to relate to the surrender by Claude Cassegrain of his defamation claim.",
+      "id": "s328"
+    },
+    {
+      "text": "The Tribunal was simply not satisfied that the applicants had established the value of that claim.",
+      "id": "s329"
+    },
+    {
+      "text": "The surrender of that claim, however, was only one of the disposals of assets by Claude Cassegrain for which the Deed provided: there were also his contractual undertakings to be taken into account.",
+      "id": "s330"
+    },
+    {
+      "text": "110 The applicants submit that the Tribunal should have ignored the Apportionment Agreement.",
+      "id": "s331"
+    },
+    {
+      "text": "This is an odd submission in view of the fact that their returns were based fairly and squarely on it, and that it was referred to in their amended statement of facts issues and contentions.",
+      "id": "s332"
+    },
+    {
+      "text": "The Tribunal had to address the Apportionment Agreement in order to explain why it was putting to one side the possibility that the sum of $4.25 million represented a capital gain that had accrued to Claude Cassegrain.",
+      "id": "s333"
+    },
+    {
+      "text": "111 I agree with counsel for the applicants that a rejection of the Apportionment Agreement as a sham does not, without more, make the sum of $4.25 million part of a capital gain that accrued to GCC.",
+      "id": "s334"
+    },
+    {
+      "text": "112 My conclusions in relation to the Apportionment Agreement are as follows: \n\n&#8226; the Tribunal did not err in applying the test of what is a sham, and its conclusion that the Apportionment Agreement was a sham was supportable in law;\n \n&#8226; if this is wrong, nonetheless the Apportionment Agreement was one made only between Claude Cassegrain and his father, not between Claude Cassegrain and GCC;\n \n&#8226; if this is also wrong, the Apportionment Agreement did not effectively apportion the Settlement Sum into amounts that CSIRO was paying to GCC and Claude Cassegrain respectively, because CSIRO (and, if it matters, Sirotech) was not a party to it, and the Apportionment Agreement was no more than an agreement between parties not at arm's length on one side of the transaction as to how they would divide up the sum of $9.5 million between themselves.",
+      "id": "s335"
+    },
+    {
+      "text": "113 There was no error in the Tribunal's identification of the test of a sham.",
+      "id": "s336"
+    },
+    {
+      "text": "The Tribunal asked itself whether the Apportionment Agreement was intended to have the legal effect that it gave an appearance of having, or, to express the same idea differently, whether the parties took steps having the form of a legally effective transaction, which they intended should not have the legal consequences that such a transaction would have.",
+      "id": "s337"
+    },
+    {
+      "text": "This was the correct question to ask: see Cranstoun v Federal Commissioner of Taxation (1984) 75 FLR 220 at 227---228; Richard Walter Pty Ltd v Commissioner of Taxation (1996) 67 FCR 243 at 257 --- 258; Equuscorp Pty Ltd v Glengallan Investments Pty Ltd [2004] HCA 55 ; (2004) 211 ALR 101 at 111.",
+      "id": "s338"
+    },
+    {
+      "text": "The Tribunal supportably answered this question in the negative.",
+      "id": "s339"
+    },
+    {
+      "text": "114 The applicants submit that the Tribunal did not apply the test of sham that it identified.",
+      "id": "s340"
+    },
+    {
+      "text": "The submission is that GCC and Claude Cassegrain must have intended the Apportionment Agreement to have legal effect, because Davies J found in Cassegrain v Cassegrain that Claude Cassegrain's conduct in relation to the recording of GCC as being indebted to him for $4.25 million was oppressive towards other shareholders.",
+      "id": "s341"
+    },
+    {
+      "text": "The contention is that conduct that is a sham cannot be at the same time oppressive and discriminatory.",
+      "id": "s342"
+    },
+    {
+      "text": "115 I disagree.",
+      "id": "s343"
+    },
+    {
+      "text": "A director who steals from a company oppresses the other shareholders even though title to the thing stolen does not pass at law to the director.",
+      "id": "s344"
+    },
+    {
+      "text": "The notion of oppressive conduct is a wide one.",
+      "id": "s345"
+    },
+    {
+      "text": "To record GCC as being indebted to him for $4.25 million and to charge the company interest retrospectively on that sum, does not cease to be oppressive merely because shareholders can obtain a judicial determination that the underlying transaction was a sham, that the company did not become indebted for $4.25 million, and that there is no entitlement to interest.",
+      "id": "s346"
+    },
+    {
+      "text": "116 There is no inconsistency between Davies J's declaration that Claude Cassegrain had acted in a manner oppressive and unfairly prejudicial to the members of GCC by treating the $4.25 million loan account with the company as his entitlement to be drawn down at his will, in drawing upon it as he saw fit, and in causing the passing of a resolution of the directors allowing for the payment of interest retrospectively on that sum, on the one hand, and the Tribunal's finding of sham, on the other hand.",
+      "id": "s347"
+    },
+    {
+      "text": "117 I reject the applicants' further submission that a finding of sham in respect of the purported Apportionment Agreement also required a similar finding in respect of the Deed.",
+      "id": "s348"
+    },
+    {
+      "text": "118 The applicants submit that the Tribunal erred in referring to the Apportionment Agreement as an agreement made by Claude Cassegrain and his father.",
+      "id": "s349"
+    },
+    {
+      "text": "However, it was made between them.",
+      "id": "s350"
+    },
+    {
+      "text": "Claude Cassegrain's mother, Fran&ccedil;oise Cassegrain, and GCC's solicitor, Andrew Walmsley, were onlookers.",
+      "id": "s351"
+    },
+    {
+      "text": "119 Most of the shams in the cases have involved documents.",
+      "id": "s352"
+    },
+    {
+      "text": "It is in them that the \"appearance\" or \"form\" to which I have referred is found.",
+      "id": "s353"
+    },
+    {
+      "text": "In the present case, there are some documents --- the letters of 6 July 1993 to John Garrett, for example.",
+      "id": "s354"
+    },
+    {
+      "text": "What appearance did Claude Cassegrain and his father intend to create?",
+      "id": "s355"
+    },
+    {
+      "text": "It was that Claude Cassegrain had a personal claim against CSIRO and that they had, as a result of negotiation, reached agreement on an amount of $4.25 million as a fair assessment of that part of the Settlement Sum of $9.5 million that his claim represented.",
+      "id": "s356"
+    },
+    {
+      "text": "120 Whatever may have been the true value of any existing claim that Claude Cassegrain had for defamation, it was nowhere near $4.25 million.",
+      "id": "s357"
+    },
+    {
+      "text": "The applicants called Mr SD Rares SC, as his Honour then was, to give evidence before the Tribunal.",
+      "id": "s358"
+    },
+    {
+      "text": "Mr Rares had been senior junior to Mr RV Gyles QC, as his Honour then was, senior counsel for GCC in its proceeding against CSIRO.",
+      "id": "s359"
+    },
+    {
+      "text": "It was Mr Rares who had settled the second further amended statement of claim in June 1993.",
+      "id": "s360"
+    },
+    {
+      "text": "The evidence of Mr Rares was that it was probably right that at the time of the litigation between GCC and CSIRO (mid 1993), the highest amount that had been awarded for general damages for defamation in Australia was $600,000.",
+      "id": "s361"
+    },
+    {
+      "text": "That amount was about one-seventh of $4.25 million.",
+      "id": "s362"
+    },
+    {
+      "text": "121 It must be remembered that the Apportionment Agreement purported to relate only to the releases of the existing claims of GCC and Claude Cassegrain respectively, and not to the other contractual undertakings that they later gave in the Deed.",
+      "id": "s363"
+    },
+    {
+      "text": "122 Another reason why the Apportionment Agreement was not effective in law is that the constitutional organ of GCC that had power to bind it to such an agreement had not done so.",
+      "id": "s364"
+    },
+    {
+      "text": "That constitutional organ was the directors.",
+      "id": "s365"
+    },
+    {
+      "text": "An extraordinary general meeting was not given power to do so by GCC's articles of association, and, in any event, no extraordinary general meeting of GCC was ever called.",
+      "id": "s366"
+    },
+    {
+      "text": "The directors of GCC at the time were Claude and John Cassegrain, but they did not make the Apportionment Agreement on behalf of GCC.",
+      "id": "s367"
+    },
+    {
+      "text": "123 If the Apportionment Agreement was not a sham and was binding on GCC as well as on Claude Cassegrain, what then?",
+      "id": "s368"
+    },
+    {
+      "text": "The Apportionment Agreement related only to their releases of existing claims.",
+      "id": "s369"
+    },
+    {
+      "text": "But CSIRO was later to insist that the Deed contain the other contractual undertakings, and that Claude Cassegrain, as well as GCC, should be a party.",
+      "id": "s370"
+    },
+    {
+      "text": "The applicants now submit, in my view correctly, that those undertakings were significant and had some value.",
+      "id": "s371"
+    },
+    {
+      "text": "Yet GCC and Claude Cassegrain did not seek an increase in the amount of $9.5 million.",
+      "id": "s372"
+    },
+    {
+      "text": "On one view, by entering into the Deed, GCC and Claude Cassegrain impliedly terminated the Apportionment Agreement: the Deed did not provide for payment of the $9.5 million merely for the releases that had been the subject of the Apportionment Agreement.",
+      "id": "s373"
+    },
+    {
+      "text": "124 I need not embark on the (complex) analysis of the capital gains tax effects of the transaction found in the Apportionment Agreement on the false hypotheses that it was not a sham, that it bound GCC, and that the Deed could be regarded as corresponding with it by providing only for the releases of the claims to which the Apportionment Agreement was addressed.",
+      "id": "s374"
+    },
+    {
+      "text": "It may well be that on these hypotheses the Apportionment Agreement would have involved disposals of assets by GCC and Claude Cassegrain, and that the net capital gain to GCC would have been the same as it would have been under the Deed.",
+      "id": "s375"
+    },
+    {
+      "text": "Third question of law \n \n 125 The third question of law is:\n \"Did the Tribunal err in law in reaching a conclusion as to the source and amount of the capital gain which accrued to G Cassegrain &amp; Co Pty Limited in consequence of the settlement of its court proceedings against CSIRO and Sirotech Limited for the purposes of Part IIIA ... which was inconsistent with certain concessions made by the respondent in the Tribunal?",
+      "id": "s376"
+    },
+    {
+      "text": "\" \n \n 126 In Ground 4(f) in the notice of appeal, the applicants refer to the following concessions made by the Commissioner: \n \n \n \"(i) the only two transactions under which a capital gain could have accrued to G Cassegrain &amp; Co Pty Limited requiring consideration by the Tribunal for the purposes of Part IIIA ... were the deed of settlement and the apportionment agreement (Tribunal decision par 7); \n (ii) the settlement sum of $9.5m was paid by CSIRO under the terms of the deed of settlement dated 27 September 2004 (Tribunal decision par 32); \n (iii) the apportionment agreement was a sham (Tribunal decision par 33); and \n (iv) under the deed of settlement, G Cassegrain &amp; Co Pty Limited gained a joint interest in the right to receive the $9.5m settlement amount (with Claude Cassegrain) (Tribunal decision par 37).",
+      "id": "s377"
+    },
+    {
+      "text": "\" \n \n \n \n 127 As noted earlier, cl 2.1 of the Deed stated a condition precedent, and did not provide for a \"right\" to be paid anything.",
+      "id": "s378"
+    },
+    {
+      "text": "If payment had been made to GCC and Claude Cassegrain, it would have been held by them jointly (a legal possibility, notwithstanding the corporate nature of GCC --- see s 25 of the Conveyancing Act 1919 (NSW)) and it may be taken that they jointly gave the direction to CSIRO to pay.",
+      "id": "s379"
+    },
+    {
+      "text": "But the assets disposed of in consideration of which disposals CSIRO paid $8,835,083, were a mixture of releases and other contractual undertakings, in some cases by GCC alone, in other cases by Claude Cassegrain alone, and in yet a further class of cases by both of them jointly and severally.",
+      "id": "s380"
+    },
+    {
+      "text": "The fourth question of law \n \n 128 The fourth question of law is:\n \"Did the Tribunal err in law by misconstruing the applicant's submission as to the identity of the transaction which caused a capital gain to accrue to G Cassegrain &amp; Co Pty Limited and Claude Cassegrain jointly for the purposes of Part IIIA ?",
+      "id": "s381"
+    },
+    {
+      "text": "\" \n \n 129 Ground 4(g) in the notice of appeal relates to this fourth question of law and is as follows:\n \"the tribunal misunderstood and/or misconstrued the applicants' submission as to the proper construction of the deed of settlement and the $9.5m payment made under it, and in particular, it misconstrued the submission that they constituted the only operative transaction under which a capital gain accrued to G Cassegrain &amp; Co Pty Limited and Claude Cassegrain, in that the Tribunal erred by misconstruing that submission as being a submission relating to the legal operation of the apportionment agreement made between those two parties (Tribunal decision par 34).",
+      "id": "s382"
+    },
+    {
+      "text": "\" \n \n 130 The first sentence in para 34 of the Tribunal's reasons was:\n \"Further the applicants submitted that, as a result of the agreement to apportion the settlement sum, GCC and Claude Cassegrain jointly received the amount of $9.5m.",
+      "id": "s383"
+    },
+    {
+      "text": "\" \n \n 131 There is clearly a slip in this sentence.",
+      "id": "s384"
+    },
+    {
+      "text": "The reference to \"the agreement to apportion the settlement sum\" should be a reference to the Deed.",
+      "id": "s385"
+    },
+    {
+      "text": "That the Tribunal intended to refer to the Deed, is made clear in the first sentence of the following paragraph, para 35.",
+      "id": "s386"
+    },
+    {
+      "text": "In that paragraph the Tribunal notes that counsel (for the applicants) identified the relevant asset as \"the entitlement to receive jointly the $9.5m, which arose under the deed of settlement and in particular clause 2.1\".",
+      "id": "s387"
+    },
+    {
+      "text": "The Tribunal's slip or error in para 34 was inconsequential.",
+      "id": "s388"
+    },
+    {
+      "text": "In the first sentence of para 40, the Tribunal stated: \"As against the CSIRO Parties, GCC and Claude Cassegrain had a joint entitlement\".",
+      "id": "s389"
+    },
+    {
+      "text": "Thus, the Tribunal accepted the applicants' submission, wrongly only to the extent that cl 2.1 did not give an entitlement to be paid $9.5 million, but stated a condition precedent.",
+      "id": "s390"
+    },
+    {
+      "text": "The eighth question of law \n \n 132 The eighth question of law is:\n \"Did the Tribunal err in law by applying s 160ZD(4) ... to the $9.5m settlement amount paid on 27 September 1993 pursuant to the deed of settlement at the joint direction of G Cassegrain &amp; Co Pty Limited and Claude Cassegrain?",
+      "id": "s391"
+    },
+    {
+      "text": "\" \n \n 133 Ground of appeal 4(k) relates to this question and reads as follows: \n \"... the Tribunal erred when it applied s 160ZD(4) ... to effect an apportionment of the $9.5m settlement amount and the capital gain in that amount which accrued to G Cassegrain &amp; Co Pty Limited and Claude Cassegrain jointly for the purposes of Part IIIA\" \n \n 134 In my opinion, as stated earlier, the Tribunal was correct to apply s 160ZD(4), and, in doing so, to ignore the Apportionment Agreement.",
+      "id": "s392"
+    },
+    {
+      "text": "The Tribunal erred in finding a resulting trust.",
+      "id": "s393"
+    },
+    {
+      "text": "The Tribunal was required to identify all of the disposals of assets provided for in the Deed, and to determine how much of the sum of $8,835,083 might be reasonably attributed to those by GCC (and, it would follow, by a process of arithmetical subtraction, those disposed of by Claude Cassegrain).",
+      "id": "s394"
+    },
+    {
+      "text": "The Tribunal erred in failing to recognise the full extent of the disposals of assets.",
+      "id": "s395"
+    },
+    {
+      "text": "135 In his submissions counsel for the applicants suggests that s 160ZD(4) operates as follows:\n \"For example, a taxpayer agrees to transfer certain assets and surrender and release certain other assets valued at $7.5m to a purchaser and also enters into a restraint of trade covenant in the same agreement with it for a lump sum payment of $2m.",
+      "id": "s396"
+    },
+    {
+      "text": "The total consideration given to the taxpayer under the agreement is, therefore, $9.5m.",
+      "id": "s397"
+    },
+    {
+      "text": "Section 160ZD(4) operates in that situation to treat the $7.5m as the consideration for the Part IIIA assets valued at $7.5m disposed of under s 160M(1) and to quarantine out the $2m paid for the restraint agreed to as a separate Part IIIA transaction with different cost base considerations under s 160M(6).",
+      "id": "s398"
+    },
+    {
+      "text": "It could equally operate to apportion a single amount of consideration between its capital and income components.",
+      "id": "s399"
+    },
+    {
+      "text": "\" \n \n 136 There is no reason to limit s 160ZD(4) in this way.",
+      "id": "s400"
+    },
+    {
+      "text": "Indeed, the provision may have more work to do in a case such as the present one, or that last mentioned in the above passage, where payer and payee have not agreed upon an apportionment.",
+      "id": "s401"
+    },
+    {
+      "text": "137 The Settlement Sum related to the disposals of many particular assets that are referred to in the Deed.",
+      "id": "s402"
+    },
+    {
+      "text": "The question which the Tribunal was addressing (properly) in para 40 of its reasons was whether the applicants had proved that a particular part of the consideration related to particular assets disposed of by Claude Cassegrain.",
+      "id": "s403"
+    },
+    {
+      "text": "For this purpose, s 160ZD(4) might assist the applicants, and so the Tribunal referred to it.",
+      "id": "s404"
+    },
+    {
+      "text": "It would first be necessary to identify all of the particular assets disposed of by Claude Cassegrain and then to inquire how much of the sum of $8,835,083 might reasonably be attributed to them.",
+      "id": "s405"
+    },
+    {
+      "text": "Where it operates, s 160ZD(4) operates of its own force, and the Commissioner has no discretion in relation to it.",
+      "id": "s406"
+    },
+    {
+      "text": "138 The Tribunal concluded that it was reasonable to attribute the whole of the consideration of $9.5 million to the assets disposed of by GCC and no part of it to the assets disposed of by Claude Cassegrain.",
+      "id": "s407"
+    },
+    {
+      "text": "It did so, however, on the erroneous basis that the only asset disposed of by Claude Cassegrain under the Deed was his claim in defamation.",
+      "id": "s408"
+    },
+    {
+      "text": "Twelfth question of law \n \n 139 The twelfth question of law is:\n \"Did the Tribunal err in law by concluding in the further alternative that sections 160M(6) and 160M(6A) ... operated to recognise a capital gain of $4.25m accruing to G Cassegrain &amp; Co Pty Limited in consequence of its entry into the deed of settlement and the simultaneous payment of $9.5m under it?",
+      "id": "s409"
+    },
+    {
+      "text": "\" \n \n 140 Ground of appeal 4(o) relates to this question and was as follows: \n \"The Tribunal erred when it concluded that s 160M(6) ... operating alone, or alternatively, ss 160M(6) and 160M(6A) ... operating together applied to the apportionment agreement to cause a capital gain of $9.5m to accrue to G Cassegrain &amp; Co Pty Limited for the purposes of Part IIIA ...\" \n \n 141 This ground of appeal relates to paras 47-54 of the Tribunal's reasons, and s 160M(6) and (6A) of the Act , which were set out at [55] above.",
+      "id": "s410"
+    },
+    {
+      "text": "In short, in those paragraphs, the Tribunal proceeded on the assumption, in the alternative, that the Apportionment Agreement was not a sham, and bound GCC as well as Claude Cassegrain, and concluded that GCC disposed of an asset to Claude Cassegrain, by vesting in him an incorporeal asset, being his entitlement to $4.25 million of the $9.5 million Settlement Sum, whenever the latter amount might become payable in consequence of the settlement of GCC's legal action.",
+      "id": "s411"
+    },
+    {
+      "text": "142 In fact, on the hypothesis stated, GCC and Claude Cassegrain would have vested incorporeal assets in each other, and a complex analysis may well have led to the same result as would have ensued if the Deed had correspondingly dealt only with releases of claims (see [124] above).",
+      "id": "s412"
+    },
+    {
+      "text": "CONCLUSION ON THE APPEAL \n \n 143 The decision of the Tribunal should be set aside and the matter remitted to the Tribunal to be determined according to law.",
+      "id": "s413"
+    },
+    {
+      "text": "Determining the matter according to law will require the Tribunal to acknowledge the distinction between the disposals of amounts consisting of the releases and surrenders in respect of potential causes of action on the one hand, and those consisting of the giving of contractual undertakings on the other hand; acknowledging that each of GCC and Claude Cassegrain disposed of assets of both classes; and determining how much of the sum of $8,835,083 may reasonably be attributed to the disposals of the assets by GCC.",
+      "id": "s414"
+    },
+    {
+      "text": "144 I am disposed to make no order as to costs, because my reasoning differs from that to be found in the applicants' submissions.",
+      "id": "s415"
+    },
+    {
+      "text": "However, I will stand the proceeding over to a date for the making of orders as to costs, and will give directions for the making of submissions if either party wishes to make them, in relation to costs.",
+      "id": "s416"
+    },
+    {
+      "text": "I certify that the preceding one hundred and forty-four (144) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Lindgren.",
+      "id": "s417"
+    },
+    {
+      "text": "Associate:\n\nDated: 23 March 2007\n\n \n \n Counsel for Applicants: Mr CJ Bevan and Ms A Tsekouras\n \n Solicitors for the Applicants: Evangelos Patakas &amp; Associates\n \n Counsel for the Respondent: Mr ML Brabazon\n \n Solicitors for the Respondent: Australian Government Solicitor\n \n Dates of Hearing: 25 &amp; 26 July 2006\n \n Date Last Submission Received: 31 July 2006\n \n Date of Judgment: 23 March 2007\n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/415.html",
+      "id": "s418"
+    }
+  ]
+}

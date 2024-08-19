@@ -1,0 +1,1024 @@
+{
+  "name": "Commissioner of Taxation v A Taxpayer [2006] FCA 888 (12 July 2006)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2006/888.html",
+  "catchphrases": [
+    {
+      "text": "judicial scrutiny of tribunal decision",
+      "id": "c0"
+    },
+    {
+      "text": "tribunal's reasons must be read as a whole",
+      "id": "c1"
+    },
+    {
+      "text": "distinction between issues of fact and law",
+      "id": "c2"
+    },
+    {
+      "text": "when an inference of fact may demonstrate an error of law",
+      "id": "c3"
+    },
+    {
+      "text": "grounds for judicial review",
+      "id": "c4"
+    },
+    {
+      "text": "'no evidence' ground",
+      "id": "c5"
+    },
+    {
+      "text": "failure to take into account relevant consideration",
+      "id": "c6"
+    },
+    {
+      "text": "taking into account irrelevant consideration",
+      "id": "c7"
+    },
+    {
+      "text": "wednesbury unreasonableness",
+      "id": "c8"
+    },
+    {
+      "text": "failure to exercise discretion",
+      "id": "c9"
+    },
+    {
+      "text": "no error of law in tribunal's decision",
+      "id": "c10"
+    },
+    {
+      "text": "appeal",
+      "id": "c11"
+    },
+    {
+      "text": "meaning of 'serious hardship'",
+      "id": "c12"
+    },
+    {
+      "text": "factors relevant to exercise of discretion to release taxpayer from tax liability",
+      "id": "c13"
+    },
+    {
+      "text": "administrative law",
+      "id": "c14"
+    },
+    {
+      "text": "taxation",
+      "id": "c15"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "BACKGROUND \n \n1 On 3 June 2004, the applicant refused the respondent's application for release of his debt of over $133,000 in unpaid tax in respect of the financial years ending 30 June 2001 to 30 June 2004 (inclusive).",
+      "id": "s0"
+    },
+    {
+      "text": "The application was made pursuant to the Taxation Administration Act 1953 (Cth) ('the Act') s 340 --- 5 (3) which empowers the applicant to grant such a release, in whole or in part, where the respondent would suffer 'serious hardship' if required to satisfy the liability.",
+      "id": "s1"
+    },
+    {
+      "text": "The respondent's objection was disallowed but the respondent was successful in his appeal to the Small Taxation Claims Tribunal, a division of the Administrative Appeals Tribunal.",
+      "id": "s2"
+    },
+    {
+      "text": "The Tribunal ordered that the respondent be released, in part, from his income tax liability for the years ended 30 June 2001 to 30 June 2004.",
+      "id": "s3"
+    },
+    {
+      "text": "2 The respondent is married and has four children, the eldest of whom is about fourteen years old.",
+      "id": "s4"
+    },
+    {
+      "text": "The respondent's wife suffers from a chronic medical condition that makes it impossible for her to work and difficult for her to care properly for her children or maintain the family home.",
+      "id": "s5"
+    },
+    {
+      "text": "The respondent is an employed solicitor whose expertise is in a specialised area of the law; it involves him in giving advice about financial services such as superannuation, insurance and the like.",
+      "id": "s6"
+    },
+    {
+      "text": "He earns approximately $250, 000 per annum.",
+      "id": "s7"
+    },
+    {
+      "text": "Previously he was a partner in a law firm, and it was during this period that he incurred his tax debt.",
+      "id": "s8"
+    },
+    {
+      "text": "There is no evidence that this debt was incurred because of tax avoidance or participation in a scheme of any kind and no such suggestion has been made.",
+      "id": "s9"
+    },
+    {
+      "text": "Rather, it appears that the debt resulted from complicated and confusing financial distribution arrangements in the law firm where he was a partner and because the respondent was distracted by his wife's illness and other domestic responsibilities.",
+      "id": "s10"
+    },
+    {
+      "text": "PROHIBITION OF PUBLICATION \n \n3 At the hearing of this appeal I made orders, pursuant to s 50 of the Federal Court of Australia Act 1976 (Cth), prohibiting the publication of information, or documents containing information, that would identify the respondent, the respondent's immediate family, their address or the respondent's place of work.",
+      "id": "s11"
+    },
+    {
+      "text": "I was satisfied that the respondent's wife's illness is exacerbated by stress and the publication of the information and the consequential linking of the family with the matters under consideration in this proceeding would have a severely detrimental impact on her health.",
+      "id": "s12"
+    },
+    {
+      "text": "The impact of stress on the wife's health is one of the factors relied on to support the respondent's claim that he would be exposed to serious hardship should he be denied relief in respect of his tax debt.",
+      "id": "s13"
+    },
+    {
+      "text": "It is appropriate therefore, to attempt to avoid publication of the information, in the hearing of the application, that might cause the very detriment that the respondent's application for relief was designed to avoid.",
+      "id": "s14"
+    },
+    {
+      "text": "For this reason I was satisfied, as required by s 50 , that the orders were necessary to prevent prejudice to the administration of justice.",
+      "id": "s15"
+    },
+    {
+      "text": "4 To avoid including information in these reasons that would lead to the respondent and his family being identified, it is necessary to state the relevant facts in less detail and with less precision than would otherwise be the case.",
+      "id": "s16"
+    },
+    {
+      "text": "It is still possible, however, to provide sufficient facts to explain my decision.",
+      "id": "s17"
+    },
+    {
+      "text": "THE TRIBUNAL'S DECISION \n \n5 The Tribunal noted that in order to obtain relief from his tax liability the respondent needed to show serious hardship and that the onus of proof in establishing this rests with the applicant for release, in this case the respondent: s 14ZZK(b)(iii) of the Act.",
+      "id": "s18"
+    },
+    {
+      "text": "6 The Tribunal analysed the schedule of expenses provided by the respondent.",
+      "id": "s19"
+    },
+    {
+      "text": "They included the cost of renting a house within a reasonable travelling time to the respondent's place of work, the ongoing cost of treatment for the respondent's wife medical condition and the cost of educating and looking after the respondent's children.",
+      "id": "s20"
+    },
+    {
+      "text": "7 The children attend systemic Catholic schools which, while not as expensive as independent private schools, are more expensive than public education.",
+      "id": "s21"
+    },
+    {
+      "text": "The Tribunal accepted that the respondent and his wife have a strong commitment to the education of their children in a religious system.",
+      "id": "s22"
+    },
+    {
+      "text": "In addition one of the children has a learning difficulty and they have been advised that the Catholic school provides a protective environment.",
+      "id": "s23"
+    },
+    {
+      "text": "8 The Tribunal noted that the ongoing illness of the respondent's wife overshadowed any consideration of the respondent's financial circumstances.",
+      "id": "s24"
+    },
+    {
+      "text": "The wife's illness required the family to have private medical insurance because public health care could not adequately provide the treatment she needed; it necessitated domestic support and made it essential to avoid unnecessary stress.",
+      "id": "s25"
+    },
+    {
+      "text": "9 The other major factor was the likelihood, should relief in respect of the tax debt not be granted, of the respondent becoming unemployed.",
+      "id": "s26"
+    },
+    {
+      "text": "The respondent gave evidence that because of the nature of his work he would very likely be dismissed if a judgment were to be entered against him and particularly if he were to be made bankrupt.",
+      "id": "s27"
+    },
+    {
+      "text": "10 The Tribunal found that, in the circumstances, the respondent's expenses were not, for the most part, excessive and concluded: \n \n 'Should the Commissioner proceed to enter judgment against [the respondent] for his tax debt the results will be professionally and personally disastrous.",
+      "id": "s28"
+    },
+    {
+      "text": "Given [the respondent's wife's] ill health and [the respondent's] very real prospects of unemployment, the extraction of the full amount of the tax debt or the attempt to do so, will result in serious hardship.",
+      "id": "s29"
+    },
+    {
+      "text": "' \n\n11 The Tribunal commented that other results would be that the family would be unable to afford the ongoing medical support needed for the wife, 'with a possible worsening of her condition and further hospital admissions'.",
+      "id": "s30"
+    },
+    {
+      "text": "The Tribunal contemplated that the family would have to move 'with consequent disruption to the children's education and negative consequences upon the state of [the wife's] health'.",
+      "id": "s31"
+    },
+    {
+      "text": "GROUNDS OF APPEAL \n \n12 The Amended Notice of Appeal claimed that seven questions of law were raised in the appeal.",
+      "id": "s32"
+    },
+    {
+      "text": "The errors of law underlying these questions are said to be that the Tribunal: \n \n (a) applied the wrong test of 'serious hardship'; (b) made errors in dealing with the materials and evidence before it in that: (i) it made findings for which there was no evidence; (ii) it failed to take relevant considerations into account and took irrelevant considerations into account; (iii) its conclusions were affected by Wednesbury unreasonableness; and (iv) it wrongly applied the test of 'serious hardship' by finding that the respondent would suffer 'serious hardship' within the meaning of s 340- 5 (3) if he was not released from part of his tax debt, when that finding was not open to it on the evidence; \n \n (c) it failed to exercise its discretion as to relief given in s 340- 5 (3) of the Act.",
+      "id": "s33"
+    },
+    {
+      "text": "SERIOUS HARDSHIP \n \n13 The term 'serious hardship' is not defined in the Act.",
+      "id": "s34"
+    },
+    {
+      "text": "In Powell v Evreniades (1989) 21 FCR 252 (' Evreniades ') Hill J considered the term as used in s 265 of the Income Tax Assessment Act 1936 (Cth).",
+      "id": "s35"
+    },
+    {
+      "text": "His Honour, who was concerned with serious hardship to a taxpayer's dependants upon the death of the taxpayer, observed, at 258:\n \n 'There is no definition in s 265 of what is meant by 'serious hardship' nor would one expect there to be.",
+      "id": "s36"
+    },
+    {
+      "text": "Each of the words in the phrase is an ordinary English word having a well understood meaning.",
+      "id": "s37"
+    },
+    {
+      "text": "The context in which the words appear makes it clear that the Relief Board is to consider whether the exaction of the full amount of tax would involve the dependants of a deceased taxpayer in financial difficulty which in all the circumstances can be said to be serious.",
+      "id": "s38"
+    },
+    {
+      "text": "The financial difficulty will be such that the dependants will be in significant need warranting action by the Relief Board to relieve their condition.",
+      "id": "s39"
+    },
+    {
+      "text": "' \n\n14 Hill J accepted that there was a distinction between extreme and serious hardship noting that what will constitute either will depend on the circumstances.",
+      "id": "s40"
+    },
+    {
+      "text": "His Honour also said it was inappropriate to attempt to state tests of what would constitute 'serious hardship' in the abstract and commented, at 259:\n \n 'Clearly there would be severe financial hardship if the dependants of a deceased person were left destitute without any means of support.",
+      "id": "s41"
+    },
+    {
+      "text": "That is not to say that in any particular case something less than that will not constitute serious hardship.",
+      "id": "s42"
+    },
+    {
+      "text": "' \n\nThese observations were referred to with apparent approval by Gummow J in Van Grieken v Veilands (1991) 21 ATR 1639 at 1644.",
+      "id": "s43"
+    },
+    {
+      "text": "15 The applicant submitted that its Receivables Policy, which reflected Taxation Ruling IT 2440 provides guidance as to what is meant by serious hardship.",
+      "id": "s44"
+    },
+    {
+      "text": "Paragraph 6 of the Taxation Ruling states: \n \n 'The several tests applied by the Relief Board follow from a conceptual position that the term serious hardship has connotations of unduly burdensome consequences, the magnitude of which would be likely to lead to persons being deprived of necessities according to normal community standards.",
+      "id": "s45"
+    },
+    {
+      "text": "Thus, serious hardship would be seen to exist where payment of a tax liability would result in the taxpayer being left without the means to achieve reasonable acquisitions of food, clothing, medical supplies, accommodation, education for children and other basic requirements.",
+      "id": "s46"
+    },
+    {
+      "text": "' \n The wrong test of 'serious hardship' \n \n16 In the Amended Notice of Appeal the applicant complains that the Tribunal used the 'wrong test' in determining the prospect of 'serious hardship' for the respondent.",
+      "id": "s47"
+    },
+    {
+      "text": "In its written submissions it expressed its complaint somewhat differently saying that the Tribunal 'misunderstood the meaning' of the term.",
+      "id": "s48"
+    },
+    {
+      "text": "It seems to me that the latter expression is less likely to lead to confusion as it recognises, at least implicitly, that \"serious hardship\" is itself the test that has to be applied to an applicant's circumstances to decide if that applicant is eligible for relief from a tax debt.",
+      "id": "s49"
+    },
+    {
+      "text": "There is no other test, although there may be issues about which factors, in the particular circumstances, are or are not relevant to this determination.",
+      "id": "s50"
+    },
+    {
+      "text": "It is because the assessment is based so squarely on the individual circumstances that Hill J in Evreniades thought it was inappropriate to try and identify, in the abstract, the circumstances that would give rise to serious hardship.",
+      "id": "s51"
+    },
+    {
+      "text": "17 This is not to say that guidance cannot be given by examples in which the test of serious hardship would clearly be met.",
+      "id": "s52"
+    },
+    {
+      "text": "In Evreniades, Hill J gave such an example when he recognised that there would be 'severe financial hardship' if persons were left 'destitute without any means of support'.",
+      "id": "s53"
+    },
+    {
+      "text": "The Taxation Ruling gives a similar example when it says that there would be serious hardship if a taxpayer were left 'without the means to achieve reasonable acquisitions of food, clothing, medical supplies, accommodation, education for children and other basic requirements'.",
+      "id": "s54"
+    },
+    {
+      "text": "I do not see any inconsistency in these examples.",
+      "id": "s55"
+    },
+    {
+      "text": "Effect must be given to the qualification of 'reasonable' in the Taxation Ruling and, consistently with the reasoning of Hill J, these examples do not exclude the possibility that something less than destitution will constitute serious hardship.",
+      "id": "s56"
+    },
+    {
+      "text": "Whether this is so depends on the particular circumstances of each case.",
+      "id": "s57"
+    },
+    {
+      "text": "18 It is not entirely clear that the Tribunal appreciated that the Taxation Ruling allowed for consideration of individual circumstances.",
+      "id": "s58"
+    },
+    {
+      "text": "In commenting on the Ruling the Tribunal said that 'it is no more than policy and cannot bind this Tribunal'.",
+      "id": "s59"
+    },
+    {
+      "text": "This comment seems to suggest that the Tribunal misunderstood the Ruling as providing a rigid rule.",
+      "id": "s60"
+    },
+    {
+      "text": "As I have already explained, I do not think that this is the correct interpretation of the Ruling but, as the Tribunal did not apply any such rigid rule, the misunderstanding is not of present concern.",
+      "id": "s61"
+    },
+    {
+      "text": "19 The applicant submitted that the Tribunal's rejection of the Taxation Ruling indicates that it used some other unidentified test of serious hardship to make its decision.",
+      "id": "s62"
+    },
+    {
+      "text": "I do not accept this submission.",
+      "id": "s63"
+    },
+    {
+      "text": "The Tribunal noted that what is needed for proper maintenance and support is a relative question that can only be answered with regard to the whole of the taxpayer's circumstances.",
+      "id": "s64"
+    },
+    {
+      "text": "The Tribunal considered all the relevant aspects of the respondent's circumstances including whether he could achieve 'acquisitions of food, clothing, medical supplies, accommodation, education for children and other basic requirements' that were not excessive or unreasonable in all the circumstances.",
+      "id": "s65"
+    },
+    {
+      "text": "I do not accept that the Tribunal used the wrong test.",
+      "id": "s66"
+    },
+    {
+      "text": "20 In summary, I see nothing in the Tribunal's reasons to suggest that it misunderstood the meaning of serious hardship or the way in which it should proceed to make its determination.",
+      "id": "s67"
+    },
+    {
+      "text": "Other complaints about the way the Tribunal actually applied the test of serious hardship were related to the way the Tribunal dealt with the evidence and are addressed in that context; see [45] et seq.",
+      "id": "s68"
+    },
+    {
+      "text": "below.",
+      "id": "s69"
+    },
+    {
+      "text": "THE EVIDENTIARY BASIS OF THE TRIBUNAL'S DECISION \n \n21 In reviewing the way in which the Tribunal analysed the information before it there are two important issues to take into account.",
+      "id": "s70"
+    },
+    {
+      "text": "One is the proper approach to judicial review of an administrative decision where, as here, the Court's jurisdiction is confined to questions of law; Administrative Appeals Tribunal Act 1975 (Cth) s 44(1) ('AAT Act').",
+      "id": "s71"
+    },
+    {
+      "text": "The other is the distinction between errors of fact and errors of law.",
+      "id": "s72"
+    },
+    {
+      "text": "22 I am aware that under s 44(7) of the AAT Act there is a limited right for this Court to decide issues of fact but neither party here has sought to rely on that sub-section and for present purposes it can be disregarded.",
+      "id": "s73"
+    },
+    {
+      "text": "The approach to judicial review of the Tribunal's decision \n \n23 The Tribunal's task was to determine if the respondent would suffer 'serious hardship' if not given some relief from his tax debt.",
+      "id": "s74"
+    },
+    {
+      "text": "That determination required the Tribunal to consider a variety of factors and to speculate on a number of possibilities.",
+      "id": "s75"
+    },
+    {
+      "text": "These included the respondent's current expenses compared with his income; whether the applicant would seek judgment against the respondent in respect of the tax debt; if so whether the applicant, or some other creditor, would apply to have him declared bankrupt; if so whether he would lose his present job and, in that event, whether he would be able to obtain other employment and whether or not that employment would be commensurate with his present position.",
+      "id": "s76"
+    },
+    {
+      "text": "It needed to consider the effect of these possible events on his wife's health; whether he would be able to obtain appropriate medical treatment for her; whether his wife might again require hospitalisation and, if so, for how long; the impact on the respondent's four young children of any deterioration in their mother's health as well as the effect on them of other possible consequences such as needing to change schools and move house especially in the context of their mother's illness.",
+      "id": "s77"
+    },
+    {
+      "text": "In assessing the cumulative effect of these factors it is for the Tribunal to evaluate the evidence relevant to each factor and, on a relative basis, to apportion weight between them.",
+      "id": "s78"
+    },
+    {
+      "text": "24 To isolate each element of this complex factual analysis and subject it, out of context, to a detailed examination of the evidence to see if there is support for that element distorts the review process.",
+      "id": "s79"
+    },
+    {
+      "text": "The cautions of the High Court in Minister for Immigration and Ethnic Affairs v Wu Shan Liang [1996] HCA 6 ; (1996) 185 CLR 259 against over-zealous scrutiny 'by seeking to discern whether some inadequacy may be gleaned from the way in which the reasons are expressed' are peculiarly appropriate here; at 272 per Brennan CJ, Toohey, McHugh and Gummow JJ.",
+      "id": "s80"
+    },
+    {
+      "text": "25 In the same case Kirby J said, at 291:\n \n 'The reasons under challenge must be read as a whole.",
+      "id": "s81"
+    },
+    {
+      "text": "They must be considered fairly.",
+      "id": "s82"
+    },
+    {
+      "text": "It is erroneous to adopt a narrow approach, combing through the words of the decision-maker with a fine appellate tooth-comb, against the prospect that a verbal slip will be found warranting the inference of an error of law.",
+      "id": "s83"
+    },
+    {
+      "text": "' \n\nHis Honour recognised, however, that a decision-maker must establish the facts on the basis of evidence but warned, at 293, against 'an over-nice approach to the standard of proof'.",
+      "id": "s84"
+    },
+    {
+      "text": "Such an approach, 'betrays a misunderstanding of the way administrative decisions are usually made'.",
+      "id": "s85"
+    },
+    {
+      "text": "26 In this case the Tribunal, either expressly or impliedly, took into account all the factors mentioned in [23] above.",
+      "id": "s86"
+    },
+    {
+      "text": "On the basis of evidence about those factors it made inferences of fact about the likelihood of certain events occurring in the future.",
+      "id": "s87"
+    },
+    {
+      "text": "In my view the Tribunal's conclusions were open to it on the evidence.",
+      "id": "s88"
+    },
+    {
+      "text": "However even if one regarded the minute analysis suggested by the applicant as necessary, for the reasons given below, I am still of the view that the applicant has not demonstrated that the Tribunal made a legal error.",
+      "id": "s89"
+    },
+    {
+      "text": "Distinction between fact and law \n \n27 The distinction between issues of fact and law was comprehensively addressed by Mason CJ in Australian Broadcasting Tribunal v Bond [1990] HCA 33 ; (1990) 170 CLR 321 ( Bond ) where his Honour said at 355-6: \n \n 'The question whether there is any evidence of a particular fact is a question of law ...",
+      "id": "s90"
+    },
+    {
+      "text": "Likewise, the question whether a particular inference can be drawn from facts found or agreed is a question of law ...",
+      "id": "s91"
+    },
+    {
+      "text": "This is because, before the inference is drawn, there is the preliminary question whether the evidence reasonably admits of different conclusions ...",
+      "id": "s92"
+    },
+    {
+      "text": "So, in the context of judicial review, it has been accepted that the making of findings and the drawing of inferences in the absence of evidence is an error of law...' \n (citations omitted.",
+      "id": "s93"
+    },
+    {
+      "text": ") \n\n28 His Honour observed, however, that the authorities indicate that it is not an error of law to make a wrong finding of fact and at 356 expressed the following view, with which Brennan J (at 365) and Toohey &amp; Gaudron JJ, (at 387) generally agreed:\n \n 'Thus, at common law, according to the Australian authorities, want of logic is not synonymous with error of law.",
+      "id": "s94"
+    },
+    {
+      "text": "So long as there is some basis for an inference --- in other words, the particular inference is reasonably open --- even if that inference appears to have been drawn as a result of illogical reasoning, there is no place for judicial review because no error of law has taken place.",
+      "id": "s95"
+    },
+    {
+      "text": "' \n (emphasis added.",
+      "id": "s96"
+    },
+    {
+      "text": ") \n\n29 Having referred to a line of English cases that support a 'no sufficient evidence' test in the context of judicial review of findings of fact and a further line of cases that suggested that inferences of fact were reviewable where they could not be reasonably drawn from the primary facts, his Honour added at 359-60:\n \n 'a finding of fact will then be reviewable on the ground that there is no probative evidence to support it and an inference will be reviewable on the ground that it was not reasonably open on the facts, which amounts to the same thing .",
+      "id": "s97"
+    },
+    {
+      "text": "' \n (emphasis added) \n\n30 The view was echoed by Batt J in Roads Corporation v Dacakis [1995] 2 VR 508 at 520 where his Honour said:\n \n 'a finding of fact will only be open to challenge as erroneous in law if there is no probative evidence to support it (and not also if it is not reasonably open on the evidence), whilst an inference will be open to challenge as being erroneous in law if it was not reasonably open on the facts.",
+      "id": "s98"
+    },
+    {
+      "text": "But, as the statement of Mason, C.J. at 360 shows, there is virtually no difference between the tests.",
+      "id": "s99"
+    },
+    {
+      "text": "' \n\n31 In Schmid v Comcare (2003) 77 ALD 782 at 786, Weinberg J emphasised the 'high threshold' that needed to be met before a Court would find an error of law on the 'no evidence' ground.",
+      "id": "s100"
+    },
+    {
+      "text": "This high threshold was also referred to in Powley v Crimes Compensation Tribunal (1996) 11 VAR 146 where Phillips JA said at 157:\n \n 'The word 'reasonably' is used in this context, I suggest, just to emphasise that, when judging what was open and what was not open below, we are speaking of rational tribunals acting according to law, not irrational ones acting arbitrarily.",
+      "id": "s101"
+    },
+    {
+      "text": "The danger of using the word 'reasonably' lies in its being taken to suggest that a finding of fact may be overturned, on an appeal which is limited to the question of law, simply because that finding is regarded as 'unreasonable'.",
+      "id": "s102"
+    },
+    {
+      "text": "That is not the law as I understand it, at least in Australia.",
+      "id": "s103"
+    },
+    {
+      "text": "A finding of fact will be overturned on an appeal on a question of law only if that finding was not open.",
+      "id": "s104"
+    },
+    {
+      "text": "' \n\nHis Honour's comments were referred to with approval by the Full Federal Court in Minister for Immigration and Multicultural Affairs v Epeabaka [1999] FCA 1 ; (1998) 84 FCR 411 at 421 - 422.",
+      "id": "s105"
+    },
+    {
+      "text": "32 Accordingly, to establish that the Tribunal has committed an error of law in drawing its inferences of fact, the applicant needs to establish that the inferences were not reasonably open to the Tribunal in that they were not supported by probative material.",
+      "id": "s106"
+    },
+    {
+      "text": "It will not be sufficient to establish that the inferences were merely unreasonable or illogical.",
+      "id": "s107"
+    },
+    {
+      "text": "The 'no evidence' ground \n \n33 The applicant submits that the Tribunal made key (related) factual inferences that were not supported by probative evidence:\n \n \n (a) if judgment was entered against the respondent, his bankruptcy would be inevitable; \n (b) if the respondent was made bankrupt, his employment would certainly be terminated; and he would find it nearly impossible to obtain employment as a solicitor; and\n (c) the applicant's refusal to release the respondent from his tax liability or to compromise that debt would force the respondent into unemployment and make the respondent and his family depend on the social security system .",
+      "id": "s108"
+    },
+    {
+      "text": "The finding that bankruptcy would be 'inevitable' \n \n34 The applicant submitted that the Tribunal inferred that if the judgment for the tax debt were to be entered, the respondent's bankruptcy would be inevitable.",
+      "id": "s109"
+    },
+    {
+      "text": "I do not accept that the Tribunal made such a finding.",
+      "id": "s110"
+    },
+    {
+      "text": "Nowhere does the Tribunal use the word, 'inevitable' nor can it be inferred that the Tribunal intended to express its conclusion with such precision and without any attendant doubt.",
+      "id": "s111"
+    },
+    {
+      "text": "It is clear, however, that the Tribunal rated the likelihood of bankruptcy very high should the applicant enforce the full debt.",
+      "id": "s112"
+    },
+    {
+      "text": "For instance, the Tribunal said:\n \n 'Having regard to the material before me, I am satisfied that currently to require [the respondent] to pay his taxation debt in full would cause serious hardship.",
+      "id": "s113"
+    },
+    {
+      "text": "It is quite clear he cannot pay the debt and to enter judgment for the debt would result in a loss of employment, and almost certainly bankruptcy...' \n (emphasis added.",
+      "id": "s114"
+    },
+    {
+      "text": ") \n\n35 In my view, whether or not another fact finder would have come to the same conclusion, there was probative evidence on which the Tribunal could base this finding.",
+      "id": "s115"
+    },
+    {
+      "text": "Having examined the respondent's finances, the Tribunal found that he was not able to pay the whole debt.",
+      "id": "s116"
+    },
+    {
+      "text": "This evidence disclosed that, even without any attempt to pay the tax debt, the respondent faced a yearly net deficit of income over expenses of $3933 .",
+      "id": "s117"
+    },
+    {
+      "text": "The applicant contended that even if judgment were entered bankruptcy was only one of a number of options.",
+      "id": "s118"
+    },
+    {
+      "text": "The applicant did not, however, rule out bankruptcy and, given the respondent's other debts, it was not unreasonable for the Tribunal to conclude that, in such circumstances, bankruptcy was a very likely outcome, irrespective of the applicant's actions to enforce the debt.",
+      "id": "s119"
+    },
+    {
+      "text": "The Tribunal's conclusion was not inevitable but it was not without foundation.",
+      "id": "s120"
+    },
+    {
+      "text": "Respondent's employment prospects following bankruptcy \n \n36 The applicant contends that there was no probative basis for the Tribunal's findings about the respondent's employment prospects should he be made bankrupt.",
+      "id": "s121"
+    },
+    {
+      "text": "The applicant points to the fact that the Tribunal said, 'In the case of bankruptcy, termination of employment is a certainty' and that the respondent would find it 'nearly impossible' to obtain other employment as a practising solicitor 'because of his narrow field of expertise and the opprobrium which comes with bankruptcy'.",
+      "id": "s122"
+    },
+    {
+      "text": "The applicant seizes on the expression of certainty and says there is no evidence to support this inference; the only evidence as to the likelihood of termination came from the respondent himself and even he did not regard it as certain.",
+      "id": "s123"
+    },
+    {
+      "text": "This is a good example of the distortion that can result from considering one element of the Tribunal's reasoning in isolation; it ignores, for instance, the fact that the Tribunal also refers to the respondent's 'very real prospects of unemployment'.",
+      "id": "s124"
+    },
+    {
+      "text": "I do not, however, read these two comments as contradictory.",
+      "id": "s125"
+    },
+    {
+      "text": "A Tribunal making predictions as to the possible occurrence of future events is unlikely to express its views with mathematical precision.",
+      "id": "s126"
+    },
+    {
+      "text": "Its reasons must be read as a whole and, so read, the better view is that the Tribunal thought there was a very high degree of likelihood that the respondent's current employment would be terminated if he became bankrupt but not that it was inevitable.",
+      "id": "s127"
+    },
+    {
+      "text": "37 Any inference about termination of the respondent's employment is, of course, contingent upon the inference that entry of judgment in respect of the respondent's tax debt would almost certainly lead to him being bankrupted.",
+      "id": "s128"
+    },
+    {
+      "text": "There is nothing illogical in the Tribunal being less than certain as to the prospect of the respondent being made bankrupt, and more certain that, if bankruptcy did ensue, termination of the respondent's employment would follow.",
+      "id": "s129"
+    },
+    {
+      "text": "Nevertheless there must be some evidence to support that inference.",
+      "id": "s130"
+    },
+    {
+      "text": "38 Before the Tribunal, the respondent gave evidence as to his opinion of the impact bankruptcy would have on his current employment:\n \n 'I am sure I would lose my position in [the law firm], to start with, because I'd be unable to fulfil a basic term of my employment contract that I'd be admitted to practise, and the technical outcome is that I believe I would need to make special application to the Law Society for the continued ability to practise because I would have committed --- being declared a bankrupt, committed an act of bankruptcy.",
+      "id": "s131"
+    },
+    {
+      "text": "And I suspect that... even if that approval were forthcoming, I could not gain a position back with [the law firm] ' \n\n39 The respondent could not recall whether it was a condition of his employment that he should not be made bankrupt, but was certain that it was a condition that he had the right to practice in an unfettered way in New South Wales.",
+      "id": "s132"
+    },
+    {
+      "text": "40 The applicant referred to the provisions of the Legal Profession Act 2004 (NSW) to show that there was no automatic deprivation of a solicitor's right to practice if he or she becomes bankrupt.",
+      "id": "s133"
+    },
+    {
+      "text": "Rather a solicitor in that position has to show cause why he or she should not be excluded from practice.",
+      "id": "s134"
+    },
+    {
+      "text": "The respondent agreed that he was not a principal at the law firm and consequently was not required to operate a trust account and that therefore the need to do so would not be a barrier to his employment.",
+      "id": "s135"
+    },
+    {
+      "text": "41 The transcript of the hearing before the Tribunal shows that the respondent's concerns derived more from the practical and commercial factors that he expected would concern his firm than from legal requirements.",
+      "id": "s136"
+    },
+    {
+      "text": "The respondent testified that even if he were legally entitled to practice, the fact that his area of expertise is in the financial services area would mean that he would be dismissed from his present position and would make it very difficult for him to obtain a position in any other law firm that practised in this area.",
+      "id": "s137"
+    },
+    {
+      "text": "The respondent's evidence in respect of his present employment and his prospects for future employment was based on his understanding of his employment relationship with the law firm, his general understanding of the culture of law firms and the opprobrium attached to bankruptcy in the specialist field within which he operated.",
+      "id": "s138"
+    },
+    {
+      "text": "42 Although the respondent conceded that he might be able to obtain work with a company in the financial services industry at a much reduced remuneration, the Tribunal does not mention this evidence and apparently attached little weight to it compared with the factors referred to above.",
+      "id": "s139"
+    },
+    {
+      "text": "The Tribunal is not obliged to refer to every element of the evidence in its reasons and there is no error in this.",
+      "id": "s140"
+    },
+    {
+      "text": "43 The applicant's submission that there was no proof of any inevitable impediment to the continuation of the respondent's current employment or to his obtaining similar employment elsewhere ignores the impact of the respondent's evidence as to the culture in which he works.",
+      "id": "s141"
+    },
+    {
+      "text": "The respondent's evidence was necessarily speculative but the Tribunal was entitled to consider it, to assess the weight it was to be given and ultimately to draw inferences from it.",
+      "id": "s142"
+    },
+    {
+      "text": "While others may have afforded his evidence significantly less weight than the Tribunal that is not to say that the evidence relied upon to draw the inference of fact in question was not probative.",
+      "id": "s143"
+    },
+    {
+      "text": "The Tribunal's inference that, if the respondent were made bankrupt, he would lose his present position was a prediction expressed, at least at one point in the Tribunal's reasons, in terms of certainty.",
+      "id": "s144"
+    },
+    {
+      "text": "However, the submission that without unequivocal evidence of inevitability the Tribunal was not entitled to express its conclusion in this way amounts to inappropriate scrutiny of the Tribunal's language.",
+      "id": "s145"
+    },
+    {
+      "text": "In my view the inferences about the respondent's employment prospects drawn by the Tribunal were reasonably open to it.",
+      "id": "s146"
+    },
+    {
+      "text": "Dependence on social security \n \n44 The only element of the inference referred to in [33] (c) that I have not already discussed is that the family would be forced to depend on social security.",
+      "id": "s147"
+    },
+    {
+      "text": "I accept that there was no evidence to support this inference however I do not regard it as critical to the Tribunal's findings.",
+      "id": "s148"
+    },
+    {
+      "text": "There is nothing in the Tribunal's reasons to suggest that the Tribunal would have come to a different conclusion if it had not made this error.",
+      "id": "s149"
+    },
+    {
+      "text": "I do not accept this ground of appeal.",
+      "id": "s150"
+    },
+    {
+      "text": "Relevant and irrelevant considerations \n The practical consequences of bankruptcy \n \n45 The applicant claims that the Tribunal ignored a relevant consideration in that it did not take into account the practical consequences of bankruptcy, including the implications for his future employment.",
+      "id": "s151"
+    },
+    {
+      "text": "The applicant made detailed submissions on this issue and pressed its submission that these consequences left only one conclusion open to the Tribunal, namely that bankruptcy and its attendant consequences would not create serious hardship for the respondent.",
+      "id": "s152"
+    },
+    {
+      "text": "46 The transcript of the hearing before the Tribunal shows that these practical consequences were the subject of some discussion between the Tribunal and the respondent and were explored in cross-examination of the respondent by the applicant's counsel.",
+      "id": "s153"
+    },
+    {
+      "text": "The legal and practical consequences of bankruptcy were brought to the attention of the Tribunal and the Tribunal was well aware that the respondent did not deny that, in the event of bankruptcy, there was a 'possibility' that he could continue in practice.",
+      "id": "s154"
+    },
+    {
+      "text": "As I have already observed however (see [41]-[43] above), the Tribunal apparently attached more significance to the commercial implications for the respondent, given the specialised area of legal practice in which he was employed and it was entitled to do so.",
+      "id": "s155"
+    },
+    {
+      "text": "Public interest considerations \n \n47 In the applicant's submission, two points in the Tribunal's decision show that the Tribunal was distracted from its task by irrelevant considerations of what it perceived to be the public interest in maintaining the respondent in employment and paying taxes at a high rate.",
+      "id": "s156"
+    },
+    {
+      "text": "Early in its reasons the Tribunal made a somewhat acerbic comparison between the interest charged by the Commissioner and the bank rate of interest.",
+      "id": "s157"
+    },
+    {
+      "text": "Secondly, the Tribunal expressed some quite strong views critical of the applicant's attitude to the respondent's position when it said:\n \n 'It is worth stating at this point that I do not understand the Commissioner's attitude in this matter.",
+      "id": "s158"
+    },
+    {
+      "text": "I would have thought that the public interest was best served by doing everything in the Commissioner's power to assist [the respondent] to remain in well paid employment, paying income tax and making repayments at the top rate, rather than forcing him into unemployment and thus rendering [him] and his family beneficiaries of the Social Security system.",
+      "id": "s159"
+    },
+    {
+      "text": "Although the Commissioner no longer has a priority in the recovery of debts, it seems that old attitudes die hard.",
+      "id": "s160"
+    },
+    {
+      "text": "' \n\n48 The applicant says that these observations are devoid of authority, unsupported by evidence and irrelevant to what constitutes serious hardship.",
+      "id": "s161"
+    },
+    {
+      "text": "Moreover the applicant takes issue with the Tribunal's assessment of the public interest.",
+      "id": "s162"
+    },
+    {
+      "text": "49 Whilst I agree that public interest is an irrelevant consideration in determining serious hardship, I do not accept that the Tribunal was distracted from its task by this issue.",
+      "id": "s163"
+    },
+    {
+      "text": "The comments appear in the Tribunal's reasons as introductory remarks before it moves on to its consideration of the 'serious hardship' test.",
+      "id": "s164"
+    },
+    {
+      "text": "Furthermore, the Tribunal's conclusions about the issue of serious hardship (see [6]-[11] above) refer only to the perceived impact of the decision upon the respondent or his dependants; there is no mention of the public interest in this context.",
+      "id": "s165"
+    },
+    {
+      "text": "50 It seems likely that the Tribunal's references to public interest indicate either that the Tribunal considered this issue relevant to the exercise of its discretion, or were 'throw away' remarks, not considered by the Tribunal to be germane to any aspect of its task.",
+      "id": "s166"
+    },
+    {
+      "text": "In either case they do not demonstrate legal error.",
+      "id": "s167"
+    },
+    {
+      "text": "Claim that findings were not open to the Tribunal and were affected by Wednesbury unreasonableness \n \n51 The alleged errors set out in (b)(iii) and (iv) in paragraph [12] of these reasons essentially raise the same issues and can be dealt with together.",
+      "id": "s168"
+    },
+    {
+      "text": "The applicant says that a finding of serious hardship was not open to the Tribunal on the evidence before it and that the decision was totally unreasonable in the sense referred to by Lord Greene MR in Associated Provincial Picture Houses Limited v Wednesbury Corporation [1947] EWCA Civ 1 ; [1948] 1 KB 223 at 229-230.",
+      "id": "s169"
+    },
+    {
+      "text": "The principle on which the applicant relies was elaborated by Mason J in Minister for Aboriginal Affairs v Peko-Wallsend Limited [1986] HCA 40 ; (1986) 162 CLR 24 at 41-42 where his Honour said:\n \n 'It follows that, in the absence of any statutory indication of the weight to be given to various considerations, it is generally for the decision-maker and not the court to determine the appropriate weight to be given to the matters which are required to be taken into account in exercising the statutory power ...",
+      "id": "s170"
+    },
+    {
+      "text": "I say \"generally\" because both principle and authority indicate that in some circumstances a court may set aside an administrative decision which has failed to give adequate weight to a relevant factor of great importance, or has given excessive weight to a relevant factor of no great importance.",
+      "id": "s171"
+    },
+    {
+      "text": "The preferred ground on which this is done, however, is not the failure to take into account relevant considerations or the taking into account of irrelevant considerations, but that the decision is \"manifestly unreasonable\".",
+      "id": "s172"
+    },
+    {
+      "text": "...",
+      "id": "s173"
+    },
+    {
+      "text": "However, in its application, there has been considerable diversity in the readiness with which courts have found the test to be satisfied.",
+      "id": "s174"
+    },
+    {
+      "text": "...",
+      "id": "s175"
+    },
+    {
+      "text": "But guidance may be found in the close analogy between judicial review of administrative action and appellate review of a judicial discretion.",
+      "id": "s176"
+    },
+    {
+      "text": "In the context of the latter, it has been held that an appellate court may review a discretionary judgment that has failed to give proper weight to a particular matter, but it will be slow to do so because a mere preference for a different result will not suffice.",
+      "id": "s177"
+    },
+    {
+      "text": "...",
+      "id": "s178"
+    },
+    {
+      "text": "So too in the context of administrative law, a court should proceed with caution when reviewing an administrative decision on the ground that it does not give proper weight to relevant factors, lest it exceed its supervisory role by reviewing the decision on the merits.",
+      "id": "s179"
+    },
+    {
+      "text": "' \n\n52 The applicant submitted that the Tribunal's finding that, if not given relief in respect of his tax debt, the respondent would suffer serious hardship was not open to it on the evidence.",
+      "id": "s180"
+    },
+    {
+      "text": "In particular the applicant submitted there is nothing to suggest that bankruptcy, of itself, constitutes 'serious hardship'.",
+      "id": "s181"
+    },
+    {
+      "text": "The applicant phrased this complaint in terms that the Tribunal did not apply the correct test of 'serious hardship'.",
+      "id": "s182"
+    },
+    {
+      "text": "I have discussed this issue above at [16]-[20] and I have nothing further to say on that point.",
+      "id": "s183"
+    },
+    {
+      "text": "However, the applicant's complaint is more appropriately seen as being about the substance of the Tribunal's findings on the evidence and I shall deal with it on that basis.",
+      "id": "s184"
+    },
+    {
+      "text": "53 In considering the consequences of bankruptcy for this respondent, the Tribunal quite properly concentrated on the whole of the respondent's individual circumstances.",
+      "id": "s185"
+    },
+    {
+      "text": "The Tribunal took into account that the respondent's income was 'considerable' but also noted that he would have to work long hours to generate this income.",
+      "id": "s186"
+    },
+    {
+      "text": "That factor was relevant to the Tribunal's conclusion that it was not unreasonable for the respondent to rent a house close to the CBD with access to public transport and that it did not consider the costs as excessive.",
+      "id": "s187"
+    },
+    {
+      "text": "As mentioned previously the illness of the respondent's wife was a circumstance of particular importance in the Tribunal's decision as shown in the following comments:\n \n 'Overshadowing any consideration of [the respondent's] circumstances is the ongoing illness of [his wife].",
+      "id": "s188"
+    },
+    {
+      "text": "He gave evidence of her previous inmacy in a psychiatric institution and her need for ongoing treatment and support.",
+      "id": "s189"
+    },
+    {
+      "text": "From my own knowledge in other matters before this Tribunal I know that recourse to public hospitals for ongoing psychiatric treatment is inadequate so non public health care is in reality the only option.",
+      "id": "s190"
+    },
+    {
+      "text": "There is also a requirement for ongoing medication, one drug of which is not on the Pharmaceutical Benefits Scheme.",
+      "id": "s191"
+    },
+    {
+      "text": "' \n\nThe Tribunal also referred to the wife's need for domestic support because of her illness and the fact that one of the children has a learning difficulty.",
+      "id": "s192"
+    },
+    {
+      "text": "It referred to the detailed account of the wife's illness and the costs it has imposed on the family and concluded that 'none of these costs can be said to be excessive'.",
+      "id": "s193"
+    },
+    {
+      "text": "54 In considering the cost of educating the respondent's children, the Tribunal indicated that it would have regarded the cost of attending a school in the Greater Public Schools system as 'excessive in the circumstances' but did not take that view of the considerably lower cost of the Catholic systemic schools that the children attend.",
+      "id": "s194"
+    },
+    {
+      "text": "55 Implicitly, the Tribunal was assessing the respondent's individual circumstances by reference to normal community standards.",
+      "id": "s195"
+    },
+    {
+      "text": "Although the Tribunal's finding regarding bankruptcy was crucial to its decision, the Tribunal's analysis did not stop at this finding.",
+      "id": "s196"
+    },
+    {
+      "text": "I do not accept that the Tribunal, in effect, found that bankruptcy per se constituted serious hardship.",
+      "id": "s197"
+    },
+    {
+      "text": "56 The Tribunal considered the likely effect of not releasing the respondent from his tax obligation (namely, unemployment and bankruptcy) in the context of what the Tribunal regarded were reasonable expenses (accommodation, medical treatment for the respondent's wife, domestic support and education).",
+      "id": "s198"
+    },
+    {
+      "text": "In so doing, the Tribunal considered whether the respondent would be placed in a situation of need warranting action, or in other words, whether the respondent or dependants would be deprived of necessities.",
+      "id": "s199"
+    },
+    {
+      "text": "Accordingly, I find that the Tribunal properly applied the correct legal test in reaching its finding that the applicant faced 'serious hardship'.",
+      "id": "s200"
+    },
+    {
+      "text": "57 The Tribunal's decision to grant relief to a taxpayer who is in receipt of what, by community standards, is a very substantial income is initially surprising.",
+      "id": "s201"
+    },
+    {
+      "text": "However, the decision was based on a consideration of the evidence and the respondent's particular circumstances.",
+      "id": "s202"
+    },
+    {
+      "text": "As the Tribunal saw it, that income was highly vulnerable should the respondent be made bankrupt and, given the complications arising from the wife's illness, it was very likely that serious hardship would follow.",
+      "id": "s203"
+    },
+    {
+      "text": "On balance, I find that the Tribunal's conclusion was open to it and that the applicant has failed to establish the high standards of unreasonableness required for a decision to be reviewable on the Wednesbury ground.",
+      "id": "s204"
+    },
+    {
+      "text": "Whilst other minds might reasonably have disagreed with the Tribunal's inferences of fact and ultimate conclusion, the Tribunal's decision was not so unreasonable that no reasonable decision-maker could ever have come to it; see Zizza v Federal Commissioner of Taxation (1999) 42 ATR 371 at [15].",
+      "id": "s205"
+    },
+    {
+      "text": "THE TRIBUNAL'S DISCRETION \n \n58 The Tribunal's conclusion as to 'serious hardship' does not conclude the matter.",
+      "id": "s206"
+    },
+    {
+      "text": "The decision to release the respondent from his tax obligations is clearly discretionary.",
+      "id": "s207"
+    },
+    {
+      "text": "The applicant submitted that the Tribunal either failed to exercise this discretion, or failed to exercise this discretion properly.",
+      "id": "s208"
+    },
+    {
+      "text": "The existence of the Tribunal's discretion is not in doubt.",
+      "id": "s209"
+    },
+    {
+      "text": "As Wilcox J observed in Corlette v Mackenzie (1996) 62 FCR 597 at 598:\n \n 'It would be extremely odd if a taxpayer who was the author of his or her misfortunes, through imprudent or extravagant expenditure, was entitled, as a matter of right, to a release of unpaid tax.",
+      "id": "s210"
+    },
+    {
+      "text": "' \n\n59 The Tribunal was aware that it had discretion to grant or withhold relief even it was satisfied on the serious hardship point.",
+      "id": "s211"
+    },
+    {
+      "text": "This is made clear by the Tribunal's quoting from the decision of Hill J in Evreniades, where his Honour said at 262-263: \n \n 'It follows from Trebilco that in the course of consideration of the release of tax under s 265 the Board may consider not only such matters as go to the issue of serious hardship but also other matters which in the discretion of the Board may be relevant, those other matters being merely proscribed by the general principle that the discretion must be exercised bona fide and for the purposes for which it was conferred, there being jurisdiction in this Court to intervene if in the overall exercise of the discretion the Board does take into account considerations which having regard to the purposes served by s 265 , can be seen to be irrelevant,' \n\n60 I am satisfied that the Tribunal did exercise its discretion.",
+      "id": "s212"
+    },
+    {
+      "text": "Although the issue of discretion is not addressed under a separate heading there is sufficient indication of this throughout the Tribunal's reasons for me to be satisfied that this is so.",
+      "id": "s213"
+    },
+    {
+      "text": "61 It was accepted on all sides that the respondent's debt had not arisen because of avoidance or participation in any scheme.",
+      "id": "s214"
+    },
+    {
+      "text": "The applicant submitted, however, that the Tribunal failed to take into account that the respondent had earned substantial amounts of money in the relevant period without making adequate provision for his tax liability.",
+      "id": "s215"
+    },
+    {
+      "text": "The transcript of the hearing before the Tribunal shows that the Tribunal questioned the respondent about the issue.",
+      "id": "s216"
+    },
+    {
+      "text": "The respondent talked at length about the difficulties he had in the law firm where the income that gave rise to the tax debt was generated.",
+      "id": "s217"
+    },
+    {
+      "text": "He said that the firm had the capacity to reduce his income retrospectively so that amounts that he was anticipating he would receive did not materialise.",
+      "id": "s218"
+    },
+    {
+      "text": "He also referred to difficulties he had experienced on a family level in moving from interstate at a time when his wife's illness, with consequent medical expenses, first manifested itself.",
+      "id": "s219"
+    },
+    {
+      "text": "At the same time one child's learning difficulty and another's serious heart condition (now resolved) were diagnosed.",
+      "id": "s220"
+    },
+    {
+      "text": "The combination of these factors led to his neglecting his financial affairs and not realising that a debt was accumulated.",
+      "id": "s221"
+    },
+    {
+      "text": "His subsequent drop in income made it impossible to meet the debt.",
+      "id": "s222"
+    },
+    {
+      "text": "62 The applicant's second submission was that in taking into account the perceived public interest in having the respondent remain in a high paying job, paying tax at the top marginal rate the Tribunal took into account a consideration that was irrelevant to the exercise of its discretion.",
+      "id": "s223"
+    },
+    {
+      "text": "The applicant submitted that the discretion in s 340 - 5 (3) allows the Commissioner to take into account only issues relating to the particular taxpayer.",
+      "id": "s224"
+    },
+    {
+      "text": "63 As stated above, it is my view that 'public interest' is an irrelevant consideration in determining whether the respondent faced 'serious hardship' however I am not satisfied that it irrelevant to the exercise of the Tribunal's discretion.",
+      "id": "s225"
+    },
+    {
+      "text": "It is relevant for the Commissioner or, in this case the Tribunal, to consider how the goal of collecting public revenue would best be served.",
+      "id": "s226"
+    },
+    {
+      "text": "There is nothing in the language of the statute that confines the Commissioner's discretion in the manner suggested by the applicant and the applicant was not able to point to any authority for its proposition.",
+      "id": "s227"
+    },
+    {
+      "text": "64 Accordingly, I find that although the Tribunal did not expressly avert to its discretion, it nevertheless exercised that discretion in a proper manner.",
+      "id": "s228"
+    },
+    {
+      "text": "This ground of appeal must be rejected.",
+      "id": "s229"
+    },
+    {
+      "text": "65 For the above reasons I do not find any reviewable error in the Tribunal's reasons and therefore the appeal must be dismissed.",
+      "id": "s230"
+    },
+    {
+      "text": "66 At the hearing of this matter the applicant filed a copy a deed entered into between the parties, entitled Deed in relation to funding under the Test Case Litigation Program .",
+      "id": "s231"
+    },
+    {
+      "text": "The preamble to that Deed states that the purpose of the Test Case Litigation Program is to provide funding for cases that will clarify the law for the benefit of the community and the government.",
+      "id": "s232"
+    },
+    {
+      "text": "It states that the aim is to develop relevant legal precedents.",
+      "id": "s233"
+    },
+    {
+      "text": "Under clause 3.5 of the Deed the parties have agreed that irrespective of the outcome of the case they shall not seek costs orders other than in accordance with Schedule C to the Deed.",
+      "id": "s234"
+    },
+    {
+      "text": "I have some difficulty with the draft orders in Schedule C and, accordingly, I shall hear the parties as to the appropriate form of orders before making any orders as to costs.",
+      "id": "s235"
+    },
+    {
+      "text": "I certify that the preceding sixty-six (66) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Stone.",
+      "id": "s236"
+    },
+    {
+      "text": "Associate:\n\nDated: 12 July 2006\n\n\n Counsel for the Applicant: S Rushton SC with J Smith \n \n Solicitor for the Applicant: Australian Government Solicitor \n \n Counsel for the Respondent: A Iuliano \n \n Solicitor for the Respondent: Truman Hoyle \n \n Date of Hearing: 27 March 2006 \n \n Date of Judgment: 12 July 2006 \n\n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2006/888.html",
+      "id": "s237"
+    }
+  ]
+}

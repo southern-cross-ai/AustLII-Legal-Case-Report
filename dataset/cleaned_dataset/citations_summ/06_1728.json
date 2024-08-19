@@ -1,0 +1,350 @@
+[
+  {
+    "text": "negligence",
+    "id": "cp0.0",
+    "type": "cited",
+    "from": "[2002]"
+  },
+  {
+    "text": "highway rule",
+    "id": "cp0.1",
+    "type": "cited",
+    "from": "[2002]"
+  },
+  {
+    "text": "footpath",
+    "id": "cp0.2",
+    "type": "cited",
+    "from": "[2002]"
+  },
+  {
+    "text": "duty of care to pedestrian",
+    "id": "cp0.3",
+    "type": "cited",
+    "from": "[2002]"
+  },
+  {
+    "text": "roxborough v rothmans of pall mall australia limited high court of australia",
+    "id": "cp2.0",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "contracts [120]",
+    "id": "cp3.0",
+    "type": "cited",
+    "from": "[2000]"
+  },
+  {
+    "text": "construction",
+    "id": "cp3.1",
+    "type": "cited",
+    "from": "[2000]"
+  },
+  {
+    "text": "use of subsequent conduct to show whether power of attorney joint or several. contracts [166]",
+    "id": "cp3.2",
+    "type": "cited",
+    "from": "[2000]"
+  },
+  {
+    "text": "power of attorney",
+    "id": "cp3.3",
+    "type": "cited",
+    "from": "[2000]"
+  },
+  {
+    "text": "whether power of attorney by a and b to c terminates on a's death",
+    "id": "cp3.4",
+    "type": "cited",
+    "from": "[2000]"
+  },
+  {
+    "text": "whether court empowered to appoint attorney when principal on the high seas unable to be contacted. words &amp; phrases",
+    "id": "cp3.5",
+    "type": "cited",
+    "from": "[2000]"
+  },
+  {
+    "text": "\"incommunicate\".",
+    "id": "cp3.6",
+    "type": "cited",
+    "from": "[2000]"
+  },
+  {
+    "text": "restitution",
+    "id": "cp4.0",
+    "type": "cited",
+    "from": "[1999]"
+  },
+  {
+    "text": "repayment of judgment debts and costs",
+    "id": "cp4.1",
+    "type": "cited",
+    "from": "[1999]"
+  },
+  {
+    "text": "supreme court rules pt 51 aa r 18",
+    "id": "cp4.2",
+    "type": "cited",
+    "from": "[1999]"
+  },
+  {
+    "text": "whether power to make restitutionary orders should be exercised when new trial pending",
+    "id": "cp4.3",
+    "type": "cited",
+    "from": "[1999]"
+  },
+  {
+    "text": "restitution",
+    "id": "cp5.0",
+    "type": "cited",
+    "from": "[1992]"
+  },
+  {
+    "text": "money paid under mistake",
+    "id": "cp5.1",
+    "type": "cited",
+    "from": "[1992]"
+  },
+  {
+    "text": "mistake of law",
+    "id": "cp5.2",
+    "type": "cited",
+    "from": "[1992]"
+  },
+  {
+    "text": "right to recover",
+    "id": "cp5.3",
+    "type": "cited",
+    "from": "[1992]"
+  },
+  {
+    "text": "unjust enrichment",
+    "id": "cp5.4",
+    "type": "cited",
+    "from": "[1992]"
+  },
+  {
+    "text": "defences",
+    "id": "cp5.5",
+    "type": "cited",
+    "from": "[1992]"
+  },
+  {
+    "text": "change of position.  income tax (cth)",
+    "id": "cp5.6",
+    "type": "cited",
+    "from": "[1992]"
+  },
+  {
+    "text": "void covenant",
+    "id": "cp5.7",
+    "type": "cited",
+    "from": "[1992]"
+  },
+  {
+    "text": "mortgage",
+    "id": "cp5.8",
+    "type": "cited",
+    "from": "[1992]"
+  },
+  {
+    "text": "imposition on mortgagor of obligation to pay tax on interest",
+    "id": "cp5.9",
+    "type": "cited",
+    "from": "[1992]"
+  },
+  {
+    "text": "collateral agreement",
+    "id": "cp5.10",
+    "type": "cited",
+    "from": "[1992]"
+  },
+  {
+    "text": "income tax assessment act 1936 (cth), s. 261.",
+    "id": "cp5.11",
+    "type": "cited",
+    "from": "[1992]"
+  },
+  {
+    "text": "contract",
+    "id": "cp6.0",
+    "type": "cited",
+    "from": "[1982]"
+  },
+  {
+    "text": "construction",
+    "id": "cp6.1",
+    "type": "cited",
+    "from": "[1982]"
+  },
+  {
+    "text": "implied terms",
+    "id": "cp6.2",
+    "type": "cited",
+    "from": "[1982]"
+  },
+  {
+    "text": "frustration",
+    "id": "cp6.3",
+    "type": "cited",
+    "from": "[1982]"
+  },
+  {
+    "text": "contract to carry out excavations for rail authority",
+    "id": "cp6.4",
+    "type": "cited",
+    "from": "[1982]"
+  },
+  {
+    "text": "completion required by certain date",
+    "id": "cp6.5",
+    "type": "cited",
+    "from": "[1982]"
+  },
+  {
+    "text": "contractor working three shifts seven days per week",
+    "id": "cp6.6",
+    "type": "cited",
+    "from": "[1982]"
+  },
+  {
+    "text": "injunction granted to third party restraining contractor from working at certain times",
+    "id": "cp6.7",
+    "type": "cited",
+    "from": "[1982]"
+  },
+  {
+    "text": "whether implied term of contract that authority would grant reasonable extension of time and indemnify contractor against additional costs occasioned by grant of injunction",
+    "id": "cp6.8",
+    "type": "cited",
+    "from": "[1982]"
+  },
+  {
+    "text": "whether injunction frustrated contract",
+    "id": "cp6.9",
+    "type": "cited",
+    "from": "[1982]"
+  },
+  {
+    "text": "extrinsic evidence of intention.  arbitration",
+    "id": "cp6.10",
+    "type": "cited",
+    "from": "[1982]"
+  },
+  {
+    "text": "jurisdiction to entertain claim that contract frustrated",
+    "id": "cp6.11",
+    "type": "cited",
+    "from": "[1982]"
+  },
+  {
+    "text": "power to award interest on award",
+    "id": "cp6.12",
+    "type": "cited",
+    "from": "[1982]"
+  },
+  {
+    "text": "compound interest",
+    "id": "cp6.13",
+    "type": "cited",
+    "from": "[1982]"
+  },
+  {
+    "text": "supreme court act 1970 (n.s.w.), s. 94(1).",
+    "id": "cp6.14",
+    "type": "cited",
+    "from": "[1982]"
+  },
+  {
+    "text": "companies",
+    "id": "cp7.0",
+    "type": "cited",
+    "from": "[1981]"
+  },
+  {
+    "text": "charge",
+    "id": "cp7.1",
+    "type": "cited",
+    "from": "[1981]"
+  },
+  {
+    "text": "registration",
+    "id": "cp7.2",
+    "type": "cited",
+    "from": "[1981]"
+  },
+  {
+    "text": "order extending time to register",
+    "id": "cp7.3",
+    "type": "cited",
+    "from": "[1981]"
+  },
+  {
+    "text": "charge registered in reliance upon order",
+    "id": "cp7.4",
+    "type": "cited",
+    "from": "[1981]"
+  },
+  {
+    "text": "order subsequently set aside",
+    "id": "cp7.5",
+    "type": "cited",
+    "from": "[1981]"
+  },
+  {
+    "text": "effect",
+    "id": "cp7.6",
+    "type": "cited",
+    "from": "[1981]"
+  },
+  {
+    "text": "companies act, 1961 (q.), ss. 100, 103, 106.",
+    "id": "cp7.7",
+    "type": "cited",
+    "from": "[1981]"
+  },
+  {
+    "text": "conditional costs agreement",
+    "id": "cp9.0",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "costs agreement contingent on the successful outcome of district court proceedings only",
+    "id": "cp9.1",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "verdict set aside on appeal",
+    "id": "cp9.2",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "costs need not be repaid",
+    "id": "cp9.3",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "no failure of consideration",
+    "id": "cp9.4",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "no unjust enrichment",
+    "id": "cp9.5",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "whether voluntary payment",
+    "id": "cp9.6",
+    "type": "citing",
+    "from": "[2007]"
+  }
+]

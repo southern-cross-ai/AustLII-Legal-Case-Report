@@ -1,0 +1,2316 @@
+{
+  "name": "Harper v Reg-Air Pty Ltd [2009] FCA 448 (7 May 2009)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2009/448.html",
+  "catchphrases": [
+    {
+      "text": "express representation",
+      "id": "c0"
+    },
+    {
+      "text": "whether agreement to repair, maintain and service aircraft within certain timeframe",
+      "id": "c1"
+    },
+    {
+      "text": "whether representation made",
+      "id": "c2"
+    },
+    {
+      "text": "capacity in which representation made",
+      "id": "c3"
+    },
+    {
+      "text": "whether reliance on the representation",
+      "id": "c4"
+    },
+    {
+      "text": "implied representation",
+      "id": "c5"
+    },
+    {
+      "text": "whether representation to repair, maintain and service aircraft in compliance with the civil aviation act 1988 (cth) and civil aviation regulations 1988 (cth)",
+      "id": "c6"
+    },
+    {
+      "text": "whether implied that services would be rendered with due care and skill",
+      "id": "c7"
+    },
+    {
+      "text": "whether trespass to or conversion of certain parts of aircraft",
+      "id": "c8"
+    },
+    {
+      "text": "whether defence of consent made out",
+      "id": "c9"
+    },
+    {
+      "text": "trade and commerce",
+      "id": "c10"
+    },
+    {
+      "text": "trade and commerce",
+      "id": "c11"
+    },
+    {
+      "text": "torts",
+      "id": "c12"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "THE DISPUTE \n The parties\n This proceeding involves two aircraft.",
+      "id": "s0"
+    },
+    {
+      "text": "The applicant, Geoffrey Harper, owns a Piper Navajo Chieftain, registration number VH-ONC (aircraft ONC).",
+      "id": "s1"
+    },
+    {
+      "text": "Mr Harper holds a pilot's licence but his principal business is running a coach company.",
+      "id": "s2"
+    },
+    {
+      "text": "After purchase in February 2005 Mr Harper brought aircraft ONC to Bankstown airport.",
+      "id": "s3"
+    },
+    {
+      "text": "The third respondent, TS Air Charter Pty Ltd (TS Air Charter), owns a Piper Navajo Chieftain registration number VH-TSO (aircraft TSO).",
+      "id": "s4"
+    },
+    {
+      "text": "Aircraft TSO is also located at Bankstown airport.",
+      "id": "s5"
+    },
+    {
+      "text": "The second respondent, Steven Hobson, is the director of both TS Air Charter and the first respondent, Reg-Air Pty Ltd (Reg-Air).",
+      "id": "s6"
+    },
+    {
+      "text": "Mr Hobson is a licensed aircraft maintenance engineer (referred to as a LAME in the aircraft industry).",
+      "id": "s7"
+    },
+    {
+      "text": "He is employed as chief engineer by a company known as AirAg Aviation Services Pty Limited (AirAg).",
+      "id": "s8"
+    },
+    {
+      "text": "AirAg operates out of Bankstown airport.",
+      "id": "s9"
+    },
+    {
+      "text": "AirAg is not a party to this proceeding.",
+      "id": "s10"
+    },
+    {
+      "text": "Mr Harper's claims\n Mr Harper claims damages from Reg-Air, TS Air Charter and Mr Hobson in the amount of $165,342.50 and exemplary damages of $60,000.",
+      "id": "s11"
+    },
+    {
+      "text": "Mr Harper's claims are as follows: The express representations\n \n (1) During discussions between Mr Harper and Mr Hobson in April 2005 Mr Hobson, as agent for Reg-Air, represented that he was \"an authorised aircraft engineer\" and it would take Reg-Air or Mr Hobson \"four months to get [Mr Harper's] aircraft [ONC] into the air\" (the express representations).",
+      "id": "s12"
+    },
+    {
+      "text": "During the hearing, Mr Harper accepted that Mr Hobson was in fact \"an authorised aircraft engineer\".",
+      "id": "s13"
+    },
+    {
+      "text": "(2) In reliance on the express representations Mr Harper agreed to retain Reg-Air to provide services for repair, maintenance and servicing of aircraft ONC (the agreement).",
+      "id": "s14"
+    },
+    {
+      "text": "(3) In breach of the express representations Reg-Air failed to get aircraft ONC into the air within four months or at all.",
+      "id": "s15"
+    },
+    {
+      "text": "The implied representation\n \n (4) It was an implied term of the agreement between Mr Harper and Reg-Air that the services provided for aircraft ONC would comply with all requirements of the Civil Aviation Act 1988 (Cth) and Civil Aviation Regulations 1988 (Cth) (the implied representation).",
+      "id": "s16"
+    },
+    {
+      "text": "(5) In breach of the implied representation, Reg-Air and Mr Hobson did not comply with all of the requirements of the Civil Aviation Act and Civil Aviation Regulations (including by reason of tampering with aircraft ONC and keeping inadequate records).",
+      "id": "s17"
+    },
+    {
+      "text": "The implied warranty\n \n (6) It was an implied warranty of the agreement between Mr Harper and Reg-Air that the services would be rendered with due care and skill and that any materials supplied in connexion with those services would be reasonably fit for the purpose for which they were supplied within the meaning of s 74(1) of the Trade Practices Act 1974 (Cth).",
+      "id": "s18"
+    },
+    {
+      "text": "(7) In breach of the implied warranty the services were not rendered with due care and skill and the materials supplied in connexion with those services were not reasonably fit for the purpose for which they were supplied.",
+      "id": "s19"
+    },
+    {
+      "text": "Damages arising from statutory claims\n \n (8) The express representations and implied representation were conduct of Reg-Air likely to mislead or deceive within the meaning of s 52 of the Trade Practices Act and by which Mr Harper suffered loss and damage compensable under s 82 of that Act.",
+      "id": "s20"
+    },
+    {
+      "text": "(9) Alternatively, by the express representations and implied representation, Reg-Air falsely represented (within the meaning of s 53(aa) of the Trade Practices Act ) that the services to aircraft ONC would comply with the Civil Aviation Act and Civil Aviation Regulations when they did not and by which Mr Harper suffered loss and damage compensable under s 82 of the Act.",
+      "id": "s21"
+    },
+    {
+      "text": "(10) By Reg-Air's conduct in breach of the implied warranty, Mr Harper suffered compensable loss and damage.",
+      "id": "s22"
+    },
+    {
+      "text": "Trespass, conversion and damages\n \n (11) Mr Hobson, as director, servant and agent of Reg-Air and/or TS Air Charter, unlawfully and without the consent of Mr Harper, tampered with, removed, dismantled and substituted parts from aircraft ONC with parts from aircraft TSO.",
+      "id": "s23"
+    },
+    {
+      "text": "(12) Mr Hobson, as director, servant and agent of Reg-Air and/or TS Air Charter, unlawfully and without the consent of Mr Harper, removed about 500 litres of fuel from aircraft ONC.",
+      "id": "s24"
+    },
+    {
+      "text": "(13) The respondents are thus liable to Mr Harper for damages by reason of the torts of trespass to and conversion of parts of aircraft ONC.",
+      "id": "s25"
+    },
+    {
+      "text": "(14) Further, by reason of this conduct, the respondents ensured aircraft TSO remained serviceable and capable of earning income by the supply of charter services, whilst placing aircraft ONC in a condition so that it was not airworthy.",
+      "id": "s26"
+    },
+    {
+      "text": "The respondents thereby deprived Mr Harper of the capacity to use aircraft ONC to maintain his pilot's licence and otherwise for pleasure and enjoyment, as well as to earn income from supplying aircraft ONC for charter services.",
+      "id": "s27"
+    },
+    {
+      "text": "The respondents should thus be found liable to pay exemplary damages.",
+      "id": "s28"
+    },
+    {
+      "text": "Respondents' answers to claims\n The respondents deny all of Mr Harper's principal allegations.",
+      "id": "s29"
+    },
+    {
+      "text": "The respondents answer those claims generally as follows: \n(1) Mr Hobson is, and has for 20 years been, a LAME.",
+      "id": "s30"
+    },
+    {
+      "text": "Mr Hobson never made the express representations to Mr Harper (other than to the extent that he was, and could have said, he was an aircraft engineer).",
+      "id": "s31"
+    },
+    {
+      "text": "Mr Hobson and Mr Harper had different conversations from those claimed by Mr Harper including conversations in which Mr Hobson spoke about the provision of services for the repair, maintenance and servicing of aircraft ONC in his capacity as employee and chief engineer of AirAg.",
+      "id": "s32"
+    },
+    {
+      "text": "Those discussions did not include a time frame for making aircraft ONC airworthy.",
+      "id": "s33"
+    },
+    {
+      "text": "Further, as an employee of AirAg, Mr Hobson recommended more extensive works than those required for the issue of a 100 hourly maintenance release (to the effect that aircraft ONC was airworthy) in order to make aircraft ONC suitable for charter work.",
+      "id": "s34"
+    },
+    {
+      "text": "(2) There was no agreement between Mr Harper and Reg-Air as Mr Harper claimed.",
+      "id": "s35"
+    },
+    {
+      "text": "Rather, Mr Harper failed to provide AirAg with the required written authority to carry out the work necessary either for aircraft ONC to obtain a 100 hourly maintenance release or to make the aircraft suitable for charter purposes.",
+      "id": "s36"
+    },
+    {
+      "text": "Apart from that, Reg-Air sourced certain aircraft parts for Mr Harper on or about 27 September 2005 and provided tools and manuals allowing Mr Harper to install those parts on aircraft ONC, but no more.",
+      "id": "s37"
+    },
+    {
+      "text": "(3) Mr Hobson did remove certain parts from aircraft ONC but did so with Mr Harper's knowledge and consent.",
+      "id": "s38"
+    },
+    {
+      "text": "Mr Hobson re-installed some parts but others were not re-installed at Mr Harper's request.",
+      "id": "s39"
+    },
+    {
+      "text": "(4) Mr Hobson did not take 500 litres (or thereabouts) of fuel from aircraft ONC.",
+      "id": "s40"
+    },
+    {
+      "text": "On occasions he drained a small amount of fuel from the aircraft to clean his tools (which Mr Harper also used on aircraft ONC), to clean his hands, and to run the towing vehicle used to tow aircraft (including aircraft ONC) around the hangar.",
+      "id": "s41"
+    },
+    {
+      "text": "(5) Mr Harper, for his own reasons, effectively dismantled aircraft ONC.",
+      "id": "s42"
+    },
+    {
+      "text": "In so doing he used Mr Hobson's tools and manuals and sought Mr Hobson's advice as, at the same time, Mr Hobson was working on aircraft TSO in the same hangar.",
+      "id": "s43"
+    },
+    {
+      "text": "Mr Harper's dismantling of aircraft ONC meant that significant time and expense had to be incurred in obtaining a fresh maintenance release for aircraft ONC to certify it as airworthy.",
+      "id": "s44"
+    },
+    {
+      "text": "DISCUSSION \n A preliminary observation\n A preliminary observation is appropriate given the nature of this proceeding.",
+      "id": "s45"
+    },
+    {
+      "text": "Mr Harper's principal claims are based on disputed conversations which occurred more than three years ago.",
+      "id": "s46"
+    },
+    {
+      "text": "His claims involve serious allegations against Mr Hobson.",
+      "id": "s47"
+    },
+    {
+      "text": "In this context certain observations of McLelland CJ in Eq in Watson v Foxman (1995) 49 NSWLR 315 are relevant.",
+      "id": "s48"
+    },
+    {
+      "text": "His Honour said (at 318 --- 319): \n Where, in civil proceedings, a party alleges that the conduct of another was misleading or deceptive, or likely to mislead or deceive (which I will compendiously described as \"misleading\") within the meaning of s 52 of the Trade Practices Act 1974 (Cth) (or s 42 of the Fair Trading Act ), it is ordinarily necessary for that party to prove to the reasonable satisfaction of the court: (1) what the alleged conduct was; and (2) circumstances which rendered the conduct misleading.",
+      "id": "s49"
+    },
+    {
+      "text": "Where the conduct is the speaking of words in the course of a conversation, it is necessary that the words spoken be proved with a degree of precision sufficient to enable the court to be reasonably satisfied that they were in fact misleading in the proved circumstances.",
+      "id": "s50"
+    },
+    {
+      "text": "In many cases (but not all) the question whether spoken words were misleading may depend upon what, if examined at the time, may have been seen to be relatively subtle nuances flowing from the use of one word, phrase or grammatical construction rather than another, or the presence or absence of some qualifying word or phrase, or condition.",
+      "id": "s51"
+    },
+    {
+      "text": "Furthermore, human memory of what was said in a conversation is fallible for a variety of reasons, and ordinarily the degree of fallibility increases with the passage of time, particularly where disputes or litigation intervene, and the processes of memory are overlaid, often subconsciously, by perceptions or self-interest as well as conscious consideration of what should have been said or could have been said.",
+      "id": "s52"
+    },
+    {
+      "text": "All too often what is actually remembered is little more than an impression from which plausible details are then, again often subconsciously, constructed.",
+      "id": "s53"
+    },
+    {
+      "text": "All this is a matter of ordinary human experience.",
+      "id": "s54"
+    },
+    {
+      "text": "Each element of the cause of action must be proved to the reasonable satisfaction of the court, which means that the court \"must feel an actual persuasion of its occurrence or existence\".",
+      "id": "s55"
+    },
+    {
+      "text": "Such satisfaction is \"not ...attained or established independently of the nature and consequence of the fact or facts to be proved\" including the \"seriousness of an allegation made, the inherent unlikelihood of an occurrence of a given description, or the gravity of the consequences flowing from a particular finding\": Helton v Allen [1940] HCA 20 ; (1940) 63 CLR 691 at 712.",
+      "id": "s56"
+    },
+    {
+      "text": "Helton v Allen involved application of the principles established in Briginshaw v Briginshaw [1938] HCA 34 ; (1938) 60 CLR 336 , particularly at 362 where Dixon J said that while there is only one standard of proof in civil proceedings (proof on the balance of probabilities) \"(t)he seriousness of an allegation made, the inherent unlikelihood of an occurrence of a given description, or the gravity of the consequences flowing from a particular finding, are considerations which must affect the answer to the question whether the issue has been proved\".",
+      "id": "s57"
+    },
+    {
+      "text": "Some undisputed facts\n Some basic facts were not in dispute.",
+      "id": "s58"
+    },
+    {
+      "text": "On or about 24 February 2005 Mr Harper purchased aircraft ONC at an auction in Brisbane for $230,000.",
+      "id": "s59"
+    },
+    {
+      "text": "Aircraft ONC, a Piper Navajo Chieftain, is a twin engine aircraft with a capacity to seat nine passengers.",
+      "id": "s60"
+    },
+    {
+      "text": "Mr Harper intended to make aircraft ONC suitable for use for the purposes of charter.",
+      "id": "s61"
+    },
+    {
+      "text": "Aircraft ONC had a maintenance release that expired on 26 August 2005.",
+      "id": "s62"
+    },
+    {
+      "text": "Maintenance releases are regulated by Div 9 of Pt 4A of the Civil Aviation Regulations .",
+      "id": "s63"
+    },
+    {
+      "text": "Insofar as relevant to the present proceeding, an aircraft may not be flown without (amongst other things) a current maintenance release.",
+      "id": "s64"
+    },
+    {
+      "text": "Generally, maintenance to an aircraft may only be carried out by a person who holds an aircraft maintenance engineer licence covering the maintenance and if the person either holds a certificate of approval covering the maintenance or is employed by, or working under an arrangement with, a person who holds a certificate of approval covering the maintenance or under the supervision of such a person.",
+      "id": "s65"
+    },
+    {
+      "text": "To sign a maintenance release such a person must also either hold a certificate of approval covering the maintenance or be employed by, or working under an arrangement with, a person who holds a certificate of approval authorising the maintenance.",
+      "id": "s66"
+    },
+    {
+      "text": "On or about 10 March 2005, Mr Harper (with another pilot) flew aircraft ONC to Bankstown airport and placed it in a hangar.",
+      "id": "s67"
+    },
+    {
+      "text": "By April 2005 Mr Harper was looking for a new hangar in which to store aircraft ONC.",
+      "id": "s68"
+    },
+    {
+      "text": "Mr Hobson was an aircraft engineer (to be precise, a LAME).",
+      "id": "s69"
+    },
+    {
+      "text": "Mr Hobson was employed by AirAg as its chief engineer.",
+      "id": "s70"
+    },
+    {
+      "text": "Mr Hobson was working on restoring his own Piper Navajo Chieftain (aircraft TSO) in a hangar at Bankstown airport, known as hangar 273.",
+      "id": "s71"
+    },
+    {
+      "text": "AirAg holds a certificate of approval authorising it to issue maintenance releases.",
+      "id": "s72"
+    },
+    {
+      "text": "Reg-Air, TS Air Charter and Mr Hobson do not hold a certificate of approval authorising the issue of maintenance releases.",
+      "id": "s73"
+    },
+    {
+      "text": "Reg-Air had once held such a certificate but it was cancelled in mid 2001.",
+      "id": "s74"
+    },
+    {
+      "text": "In April 2005 Mr Harper and Mr Hobson spoke to each other.",
+      "id": "s75"
+    },
+    {
+      "text": "In or about May or June 2005, Mr Harper removed aircraft ONC from its old hangar and placed it in hangar 273 where aircraft TSO was also located and being restored by Mr Hobson.",
+      "id": "s76"
+    },
+    {
+      "text": "Aircraft TSO became airworthy in March 2006.",
+      "id": "s77"
+    },
+    {
+      "text": "On or about 17 October 2006 Mr Harper requested Bankstown Aircraft Maintenance Pty Ltd to carry out certain work to aircraft ONC, which it did.",
+      "id": "s78"
+    },
+    {
+      "text": "Aircraft ONC was removed from hangar 273 for this purpose.",
+      "id": "s79"
+    },
+    {
+      "text": "On or about 19 February 2007 Harbour City Aviation Pty Ltd also carried out work to aircraft ONC involving checking and refitting the avionics.",
+      "id": "s80"
+    },
+    {
+      "text": "By mid 2007 Bankstown Aircraft Maintenance's work on aircraft ONC remained incomplete.",
+      "id": "s81"
+    },
+    {
+      "text": "Repairs and maintenance to aircraft ONC ceased for a month or two in late 2007 when Mr Harper contacted the Civil Aviation Safety Authority.",
+      "id": "s82"
+    },
+    {
+      "text": "In or about December 2007, when Mr Harper took aircraft ONC back to Bankstown Aircraft Maintenance its engineer had resigned and it could not continue to work on the aircraft.",
+      "id": "s83"
+    },
+    {
+      "text": "Later in December 2007, Mr Harper took aircraft ONC to Australian Aerial Surveys Pty Ltd, also located at Bankstown airport.",
+      "id": "s84"
+    },
+    {
+      "text": "Australian Aerial Surveys was working on another plane and did not start working on aircraft ONC until August 2008.",
+      "id": "s85"
+    },
+    {
+      "text": "Mr Harper entered into an arrangement with Australian Aerial Surveys under which the cost of repairs and maintenance to aircraft ONC would be paid for by Mr Harper making aircraft ONC available to Australian Aerial Surveys for charter.",
+      "id": "s86"
+    },
+    {
+      "text": "Mr John Skidmore, a LAME employed by Australian Aerial Surveys, signed a maintenance release for aircraft ONC on 27 March 2009.",
+      "id": "s87"
+    },
+    {
+      "text": "I deal with other facts in the context of Mr Harper's specific claims.",
+      "id": "s88"
+    },
+    {
+      "text": "The express representations\n As noted, Mr Harper's claims are that: - (i) in April 2005 Mr Hobson, as agent for Reg-Air, represented to Mr Harper that Mr Hobson was \"an authorised aircraft engineer\" and it would take Reg-Air or Mr Hobson \"four months to get [Mr Harper's] aircraft [ONC] into the air\", (ii) in reliance on the express representations Mr Harper agreed to retain Reg-Air to provide services for repair, maintenance and servicing of aircraft ONC, and (iii) in breach of the express representations Reg-Air failed to get aircraft ONC into the air within four months or at all.",
+      "id": "s89"
+    },
+    {
+      "text": "Mr Harper's claims about the express representations are based on conversations with Mr Hobson.",
+      "id": "s90"
+    },
+    {
+      "text": "In his first affidavit sworn 21 May 2008 Mr Harper said that in about April 2005 he had a conversation with Mr Hobson in which Mr Hobson said: \n You can put your aircraft in Mr Criddle's hangar where I am also restoring my aircraft.",
+      "id": "s91"
+    },
+    {
+      "text": "I am AirAg Aviation Service's Chief Engineer.",
+      "id": "s92"
+    },
+    {
+      "text": "I will be happy to help you with your Aircraft when I get mine flying which will only take three months.",
+      "id": "s93"
+    },
+    {
+      "text": "It won't take long to do yours, all it needs is a fresh 100 hourly and the fuel units fitted, about one month.",
+      "id": "s94"
+    },
+    {
+      "text": "In his second affidavit sworn 8 September 2008 in reply to Mr Hobson's affidavit Mr Harper referred to another conversation with Mr Hobson in which Mr Hobson said: \n Don't get AirAg to do it, it will cost you too much.",
+      "id": "s95"
+    },
+    {
+      "text": "I can do it and sign it off and all you will have to pay AirAg is a commission to use their licence, probably about $400 to $500.",
+      "id": "s96"
+    },
+    {
+      "text": "The High Court (in Butcher v Lachlan Elder Realty Pty Limited (2004) 218 CLR 592 ; [2004] HCA 60 at [37] ) has said in the context of dealing with a claim of misleading or deceptive conduct involving a representation by a real estate agent to individual purchasers: \"it is necessary to consider the character of the particular conduct of the particular agent in relation to the particular purchasers, bearing in mind what matters of fact each knew about the other as a result of the nature of their dealings and the conversations between them, or which each may be taken to have known\".",
+      "id": "s97"
+    },
+    {
+      "text": "Further, that the agent's conduct must be considered as a whole (at [39]).",
+      "id": "s98"
+    },
+    {
+      "text": "The same approach must be applied in the present case.",
+      "id": "s99"
+    },
+    {
+      "text": "In the present case the conduct in question is the statements of Mr Hobson said to convey the express representations (being those two statements quoted above).",
+      "id": "s100"
+    },
+    {
+      "text": "I turn now to the circumstances surrounding those statements (for this purpose, assuming they were made as Mr Harper recollected).",
+      "id": "s101"
+    },
+    {
+      "text": "I am satisfied from the evidence about the following matters of fact.",
+      "id": "s102"
+    },
+    {
+      "text": "In early 2005, Mr Harper had known Mr Hobson for about 10 years.",
+      "id": "s103"
+    },
+    {
+      "text": "At all times Mr Harper knew that Mr Hobson was AirAg's chief engineer.",
+      "id": "s104"
+    },
+    {
+      "text": "He also knew that neither Mr Hobson nor Reg-Air held a certificate of approval authorising the issue of maintenance releases.",
+      "id": "s105"
+    },
+    {
+      "text": "He knew that AirAg did hold such a certificate of approval.",
+      "id": "s106"
+    },
+    {
+      "text": "He knew that Mr Hobson was working on aircraft TSO (which Mr Harper correctly viewed as, in effect, Mr Hobson's aircraft) and that aircraft TSO, like aircraft ONC, was a Piper Navajo Chieftain.",
+      "id": "s107"
+    },
+    {
+      "text": "He knew that Mr Hobson was restoring aircraft TSO to make it suitable for charter work and had available tools and manuals for that purpose.",
+      "id": "s108"
+    },
+    {
+      "text": "He knew that, with modifications, aircraft ONC could be suitable for charter work.",
+      "id": "s109"
+    },
+    {
+      "text": "Mr Harper held a pilot's licence but was not an aircraft engineer.",
+      "id": "s110"
+    },
+    {
+      "text": "Mr Harper did not have much experience in flying a Piper Navajo Chieftain and next to no experience in maintaining or running such an aircraft for charter purposes or otherwise.",
+      "id": "s111"
+    },
+    {
+      "text": "In about March 2005, before the disputed statements alleged to have been made by Mr Hobson and immediately after aircraft ONC arrived at Bankstown, Mr Harper arranged for AirAg to carry out certain work to aircraft ONC involving the fuel units and temperature probes, as well as the replacement of the nose wheel bearings.",
+      "id": "s112"
+    },
+    {
+      "text": "At this time Mr Harper delivered aircraft ONC's log books to Mr Tony Pitt of AirAg.",
+      "id": "s113"
+    },
+    {
+      "text": "These log books remained at AirAg until at least November 2005.",
+      "id": "s114"
+    },
+    {
+      "text": "Mr Harper was unhappy with the hangar in which aircraft ONC was first located at Bankstown airport because he thought they were moving his aircraft around too much.",
+      "id": "s115"
+    },
+    {
+      "text": "He wanted to store his aircraft elsewhere.",
+      "id": "s116"
+    },
+    {
+      "text": "In early April 2005 Mr Harper discussed with Mr Pitt the possibility of AirAg taking aircraft ONC into AirAg's hangar and carrying out a 100 hourly maintenance service for aircraft ONC.",
+      "id": "s117"
+    },
+    {
+      "text": "Mr Harper thought AirAg's hangar was full and that they were too busy to work on aircraft ONC at this time.",
+      "id": "s118"
+    },
+    {
+      "text": "Before AirAg started this work, Mr Harper had discussions with Mr Hobson in which, according to Mr Harper, Mr Hobson made the statement referred to in Mr Harper's first affidavit.",
+      "id": "s119"
+    },
+    {
+      "text": "Mr Harper did not say that the conversation referred to in the second affidavit occurred at this time.",
+      "id": "s120"
+    },
+    {
+      "text": "From Mr Harper's second affidavit, I infer that this conversation occurred some time after aircraft ONC moved into hangar 273.",
+      "id": "s121"
+    },
+    {
+      "text": "Also in or in about April 2005, Mr Harper and Mr Hobson had discussions about what might be required to make aircraft ONC suitable for charter work.",
+      "id": "s122"
+    },
+    {
+      "text": "Mr Hobson told Mr Harper that to make good money from chartering the aircraft, it had to look good and that Mr Harper should install certain new equipment, put new side windows in, put in new interior plastics, and repaint the plane.",
+      "id": "s123"
+    },
+    {
+      "text": "Aircraft ONC did not \"look good\" at this time.",
+      "id": "s124"
+    },
+    {
+      "text": "The side windows were difficult to see through, the paint was old and unattractive and the aircraft's navigational and piloting systems were old.",
+      "id": "s125"
+    },
+    {
+      "text": "Mr Harper wanted to charter aircraft ONC (indeed, he had bought the aircraft for that purpose) and had obtained a quote for an avionics upgrade also in or around April 2005.",
+      "id": "s126"
+    },
+    {
+      "text": "In these circumstances, do the statements of Mr Hobson (assuming, for the purposes of this discussion, that they were made) convey the express representations as pleaded?",
+      "id": "s127"
+    },
+    {
+      "text": "Take the statement in the first affidavit.",
+      "id": "s128"
+    },
+    {
+      "text": "The representation (as relevant, given that Mr Hobson is in fact an authorised aircraft engineer) is said to be that Reg-Air would have aircraft ONC flying within four months (the representation having been made in April 2005).",
+      "id": "s129"
+    },
+    {
+      "text": "According to the statement in which the representation was made, Reg-Air would do so in circumstances where, for the next three months, Mr Hobson would be working on aircraft TSO.",
+      "id": "s130"
+    },
+    {
+      "text": "In other words, according to the statement attributed to Mr Hobson, it would only take one month's work to get aircraft ONC \"in the air\".",
+      "id": "s131"
+    },
+    {
+      "text": "Mr Harper's affidavits identified Mr Hobson's statements and nothing else (such as Mr Harper's response or any other part of the conversation or its context).",
+      "id": "s132"
+    },
+    {
+      "text": "The context, however, is important and may be inferred from the evidence as a whole.",
+      "id": "s133"
+    },
+    {
+      "text": "The statement attributed to Mr Hobson in Mr Harper's first affidavit was made in a conversation between two people who had known each other for 10 years.",
+      "id": "s134"
+    },
+    {
+      "text": "Each (effectively) owned the same or similar aircraft.",
+      "id": "s135"
+    },
+    {
+      "text": "Each aircraft required work to be suitable for charter purposes.",
+      "id": "s136"
+    },
+    {
+      "text": "Mr Hobson, a LAME for some 20 years, had been working on his aircraft for a considerable time.",
+      "id": "s137"
+    },
+    {
+      "text": "Mr Harper, a pilot, had just purchased his aircraft, wanted it to be suitable for charter purposes, but had little, if any, experience in flying (let alone chartering) such an aircraft.",
+      "id": "s138"
+    },
+    {
+      "text": "Mr Hobson was aware of available space in the hangar where his aircraft was located and advised Mr Harper to that effect.",
+      "id": "s139"
+    },
+    {
+      "text": "In so doing Mr Hobson also said that he was AirAg's chief engineer (which was true and, in any event, which Mr Harper already knew), and that he would be \"happy to help\" Mr Harper with aircraft ONC once he had got \"mine flying\".",
+      "id": "s140"
+    },
+    {
+      "text": "The surrounding circumstances and language used in the statement attributed to Mr Hobson strongly suggest, at best, an informal arrangement where one aircraft owner (with relevant qualifications, experience, tools and manuals) expressed a willingness to assist another (without relevant qualifications or experience).",
+      "id": "s141"
+    },
+    {
+      "text": "The references in the statement that it would only take three months to get aircraft TSO flying and that it would not take long to do aircraft ONC \"as all it needs is a fresh 100 hourly and the fuel units fitted, about one month\" do not alter the context of the conversation from that described above.",
+      "id": "s142"
+    },
+    {
+      "text": "Mr Hobson, as Mr Harper knew, was working on aircraft TSO in his own time.",
+      "id": "s143"
+    },
+    {
+      "text": "Mr Hobson's statement is to the effect that he wanted to complete the restoration of aircraft TSO before helping Mr Harper with aircraft ONC.",
+      "id": "s144"
+    },
+    {
+      "text": "Mr Hobson's estimate of three months to complete the work on aircraft TSO was simply an estimate.",
+      "id": "s145"
+    },
+    {
+      "text": "Given that Mr Harper knew Mr Hobson was working in his spare time, Mr Harper must also have appreciated that the progress of work would depend on how much spare time Mr Hobson had available and what problems he encountered in carrying out work on aircraft TSO.",
+      "id": "s146"
+    },
+    {
+      "text": "Similarly, the reference to one month being required for the completion of the fresh 100 hourly maintenance release and to have the fuel units re-fitted was also an estimate made in the context described.",
+      "id": "s147"
+    },
+    {
+      "text": "Mr Harper must have known that, when making the estimate, Mr Hobson had not inspected aircraft ONC and thus assumed that only minor work was required.",
+      "id": "s148"
+    },
+    {
+      "text": "As noted, the context and language of Mr Hobson's statement indicate nothing more than one aircraft owner holding relevant qualifications and experience being willing to give assistance to another unqualified and inexperienced aircraft owner.",
+      "id": "s149"
+    },
+    {
+      "text": "Nothing in the context or substance of the statements suggests that Mr Hobson was speaking at that time as the agent of Reg-Air.",
+      "id": "s150"
+    },
+    {
+      "text": "The conversation, in context, is incapable of conveying a representation that Reg-Air would have aircraft ONC in the air within four months.",
+      "id": "s151"
+    },
+    {
+      "text": "Different difficulties confront the conversation to which Mr Harper referred in his second affidavit.",
+      "id": "s152"
+    },
+    {
+      "text": "Mr Harper made no mention of this statement as in any way relevant to his decision to move aircraft ONC into hangar 273 in his first affidavit.",
+      "id": "s153"
+    },
+    {
+      "text": "In his second affidavit Mr Harper was replying to Mr Hobson's evidence that, over the two to three months following Mr Harper moving aircraft ONC into hangar 273, Mr Hobson asked Mr Harper for a signed purchase or work order to be provided to AirAg.",
+      "id": "s154"
+    },
+    {
+      "text": "Mr Harper denied that Mr Hobson had done so and said that, instead, Mr Hobson had made the statement referred to in Mr Harper's second affidavit (quoted at [27] above).",
+      "id": "s155"
+    },
+    {
+      "text": "The context indicates that the second statement (if made) must have been made some months after Mr Harper moved aircraft ONC into hangar 273 (that is, two to three months after May or June 2005) and thus after the alleged express representations.",
+      "id": "s156"
+    },
+    {
+      "text": "The statement in the second affidavit is ambiguous.",
+      "id": "s157"
+    },
+    {
+      "text": "The \"work\" to which Mr Hobson was referring in his affidavit was a complete repaint and interior refurbishment of aircraft ONC including replacement of all 14 windows, complete replacement of instrument panel wiring, avionics and navigation instruments and, thereafter, the issue of a maintenance release at a cost of $150,000 to $200,000.",
+      "id": "s158"
+    },
+    {
+      "text": "The work to which Mr Harper was referring in his second affidavit could not be this work.",
+      "id": "s159"
+    },
+    {
+      "text": "Yet Mr Harper definitely wanted to have work done that was unnecessary for the issue of a 100 hourly maintenance release.",
+      "id": "s160"
+    },
+    {
+      "text": "Mr Harper wanted the internal plastics and windows replaced as Mr Hobson recommended.",
+      "id": "s161"
+    },
+    {
+      "text": "In fact, Mr Hobson obtained the parts necessary for some of this work and billed Mr Harper for them and labour costs as Reg-Air on 27 September 2005.",
+      "id": "s162"
+    },
+    {
+      "text": "These events are inconsistent with Mr Harper having understood Mr Hobson to have represented that Reg-Air would have aircraft ONC in the air within four months of April 2005.",
+      "id": "s163"
+    },
+    {
+      "text": "Further, in his oral evidence, Mr Harper gave a different (or, at least, additional) version of events.",
+      "id": "s164"
+    },
+    {
+      "text": "Mr Harper said that after aircraft ONC had been in hangar 273 for about a month Mr Hobson suggested \"that we might as well do a fresh 100 hourly and put it back into service with a clean 100 hourly that would allow him to check the plane out properly, make sure it was all okay\".",
+      "id": "s165"
+    },
+    {
+      "text": "Mr Harper said (I infer in relation to the same work) that Mr Hobson \"undertook a gentleman's agreement with me to carry out this work\".",
+      "id": "s166"
+    },
+    {
+      "text": "If this statement is part of the context of the statement attributed to Mr Hobson in the second affidavit (and I infer it must be), then it supports my inference that Mr Harper knew that, at the time of the statement referred to in the first affidavit, Mr Hobson had not inspected aircraft ONC and thus was not aware of its condition other than from a cursory external look.",
+      "id": "s167"
+    },
+    {
+      "text": "In these circumstances none of the statements are capable of conveying a representation that Reg-Air would have aircraft ONC in the air within four months of April 2005.",
+      "id": "s168"
+    },
+    {
+      "text": "Other factors are also inconsistent with Mr Harper having understood the express representations to have been made by Mr Hobson as agent for Reg-Air.",
+      "id": "s169"
+    },
+    {
+      "text": "Mr Harper knew that for aircraft ONC to fly after 26 August 2005 it needed a fresh maintenance release.",
+      "id": "s170"
+    },
+    {
+      "text": "He knew that Reg-Air and Mr Hobson did not hold certificates of approval authorising either to issue maintenance releases.",
+      "id": "s171"
+    },
+    {
+      "text": "Mr Harper knew that Mr Hobson was AirAg's chief engineer and that any maintenance release would be an AirAg document issued under AirAg's certificate of approval.",
+      "id": "s172"
+    },
+    {
+      "text": "Reg-Air is not mentioned in either (indeed, any) of the statements which Mr Harper attributed to Mr Hobson.",
+      "id": "s173"
+    },
+    {
+      "text": "For these reasons I am not satisfied that the express representations, as pleaded, were conveyed by either of the statements which Mr Harper attributed to Mr Hobson (other than the true statement that Mr Hobson is an authorised aircraft engineer).",
+      "id": "s174"
+    },
+    {
+      "text": "Accordingly, I do not need to consider s 51A of the Trade Practices Act (representations as to future matters) which, in any event, neither party mentioned.",
+      "id": "s175"
+    },
+    {
+      "text": "Even if I am incorrect in this conclusion, I am not satisfied that Mr Harper relied on a representation that Reg-Air would have aircraft ONC in the air within four months of April 2005.",
+      "id": "s176"
+    },
+    {
+      "text": "The statement in which this representation is said to have been conveyed included Mr Hobson working for three months on aircraft TSO and then one month thereafter on aircraft ONC, with the relevant work being that necessary for the issue of the 100 hourly maintenance release and the re-installation of the fuel units.",
+      "id": "s177"
+    },
+    {
+      "text": "However, Mr Harper himself, in about May to July 2005 and thus relatively soon after aircraft ONC was moved into hangar 273, undertook a course of action inconsistent with this objective.",
+      "id": "s178"
+    },
+    {
+      "text": "Even if, as Mr Harper's case proposed, he took apart the dashboard of aircraft ONC under Mr Hobson's supervision as part of the alleged agreement with Reg-Air, Mr Harper also undertook other substantial work that had nothing to do with obtaining a 100 hourly maintenance release.",
+      "id": "s179"
+    },
+    {
+      "text": "Mr Harper, in cross-examination, agreed that he had removed all of the aircraft's control surfaces (ailerons, flaps, rudder on the tail fin, and re-stabiliser elevator).",
+      "id": "s180"
+    },
+    {
+      "text": "Mr Harper did this work with Mr Hobson's assistance.",
+      "id": "s181"
+    },
+    {
+      "text": "Mr Harper did about two thirds of this work and Mr Hobson about one third.",
+      "id": "s182"
+    },
+    {
+      "text": "Some control surfaces need two people to handle them.",
+      "id": "s183"
+    },
+    {
+      "text": "Mr Harper did this work in anticipation of having aircraft ONC repainted in accordance with Mr Hobson's suggestion.",
+      "id": "s184"
+    },
+    {
+      "text": "Mr Harper also removed the pilot's and co-pilot's seats.",
+      "id": "s185"
+    },
+    {
+      "text": "He removed the passenger seats.",
+      "id": "s186"
+    },
+    {
+      "text": "In doing so, Mr Harper had to remove the internal plastic trim of the aircraft's cabin.",
+      "id": "s187"
+    },
+    {
+      "text": "Mr Harper agreed that he always intended to replace the internal plastics and the windows.",
+      "id": "s188"
+    },
+    {
+      "text": "The work Mr Harper did meant aircraft ONC appeared to have been \"gutted\".",
+      "id": "s189"
+    },
+    {
+      "text": "Mr Harper obtained quotes for repainting and an avionics upgrade.",
+      "id": "s190"
+    },
+    {
+      "text": "Mr Harper also purchased a particular fuel control management unit for the purpose of installing in aircraft ONC because Mr Hobson had one in his aircraft and recommended it to Mr Harper.",
+      "id": "s191"
+    },
+    {
+      "text": "Throughout all of this work, Mr Harper used Mr Hobson as a source of advice and used Mr Hobson's (as well as his own) tools.",
+      "id": "s192"
+    },
+    {
+      "text": "Further, in May 2006, Mr Harper sought refinance for the purpose of refurbishing the interior and exterior of aircraft ONC.",
+      "id": "s193"
+    },
+    {
+      "text": "These facts are inconsistent with Mr Harper having relied on a representation to the effect that Reg-Air would have aircraft ONC in the air within four months of April 2005.",
+      "id": "s194"
+    },
+    {
+      "text": "In about June or July 2005 another relevant event occurred.",
+      "id": "s195"
+    },
+    {
+      "text": "With Mr Harper's permission, AirAg borrowed the nose gear doors from aircraft ONC.",
+      "id": "s196"
+    },
+    {
+      "text": "AirAg did so for the purpose of modelling some nose gear doors for another aircraft where doors could not be found to fit.",
+      "id": "s197"
+    },
+    {
+      "text": "Allowing these parts to be borrowed is consistent with Mr Harper not being particularly concerned whether aircraft ONC was airworthy or not at that time or, indeed, for the whole period during which the nose gear doors were off the aircraft.",
+      "id": "s198"
+    },
+    {
+      "text": "As it turned out, these doors were not re-installed until January 2007 (an earlier attempt in October 2006 disclosed that the wrong door had been returned).",
+      "id": "s199"
+    },
+    {
+      "text": "These circumstances too are inconsistent with Mr Harper having relied on the express representations.",
+      "id": "s200"
+    },
+    {
+      "text": "I consider these facts, particularly the work Mr Harper carried out and intended to carry out to aircraft ONC, inconsistent with Mr Harper having relied on a representation that Reg-Air would have aircraft ONC in the air within four months of April 2005.",
+      "id": "s201"
+    },
+    {
+      "text": "As noted, the statement on which Mr Harper relied is one in which Mr Hobson said he would continue to work on his own aircraft TSO for three months and spend the next month on aircraft ONC re-installing the fuel control units that Mr Harper had removed and carrying out such work as necessary for the issue of a 100 hourly maintenance release.",
+      "id": "s202"
+    },
+    {
+      "text": "Yet within a month or so of arriving in hangar 273, Mr Harper commenced works which had the effect of practically gutting aircraft ONC.",
+      "id": "s203"
+    },
+    {
+      "text": "I consider that the work Mr Harper did made it impossible for aircraft ONC to obtain a maintenance release within four months of April 2005 or by a mere month's work (which was all that Mr Hobson, on Mr Harper's version of the conversation, anticipated).",
+      "id": "s204"
+    },
+    {
+      "text": "As such, Mr Harper could not have relied on the express representations.",
+      "id": "s205"
+    },
+    {
+      "text": "The actions Mr Harper took effectively ensured that the express representations, if they were made, could not be fulfilled.",
+      "id": "s206"
+    },
+    {
+      "text": "It is not strictly necessary for me to make any finding about the reasons Mr Harper undertook the course of action he did.",
+      "id": "s207"
+    },
+    {
+      "text": "Nevertheless, it is apparent that Mr Harper's actions are irreconcilable with him having relied on the express representations (if they were made) and consistent with Mr Hobson's version of what happened between him and Mr Harper between about April and September 2005.",
+      "id": "s208"
+    },
+    {
+      "text": "Counsel for Mr Harper submitted that nothing Mr Hobson said should be accepted without independent corroboration.",
+      "id": "s209"
+    },
+    {
+      "text": "I deal with this submission about Mr Hobson's credit below.",
+      "id": "s210"
+    },
+    {
+      "text": "I have concluded that the submission should not be accepted.",
+      "id": "s211"
+    },
+    {
+      "text": "Apart from one matter (concerning the cancellation of Reg-Air's certificate of approval in 2001), Mr Hobson was a frank, albeit taciturn, witness.",
+      "id": "s212"
+    },
+    {
+      "text": "Mr Hobson frequently referred to the length of time which had passed since his conversations with Mr Harper and the likely adverse effect of this on his memory.",
+      "id": "s213"
+    },
+    {
+      "text": "Mr Hobson was comfortable with the shortcomings in his own memory.",
+      "id": "s214"
+    },
+    {
+      "text": "He was willing to accept that he had said something like he was AirAg's chief engineer and would be happy to help Mr Harper after he had finished with his own aircraft.",
+      "id": "s215"
+    },
+    {
+      "text": "He was open about the restrictive attitude he took towards discovery of documents and his answers to interrogatories.",
+      "id": "s216"
+    },
+    {
+      "text": "According to Mr Hobson, he told Mr Harper that if Mr Harper wanted to charter aircraft ONC extensive works were required (that is, a complete repaint and interior refurbishment, replacement of all 14 windows, complete replacement of instrument panel wiring, avionics and navigation instruments and, thereafter, the issue of a maintenance release) and that the cost of this work would be $150,000 to $200,000.",
+      "id": "s217"
+    },
+    {
+      "text": "The work Mr Harper carried out from about May 2005 onwards which had the effect of gutting aircraft ONC is consistent with Mr Harper, at least at that time (even if he subsequently changed his mind), starting the process of these extensive works.",
+      "id": "s218"
+    },
+    {
+      "text": "So too are the quotes Mr Harper obtained and the reason he gave for refinancing the aircraft.",
+      "id": "s219"
+    },
+    {
+      "text": "Contrary to the submissions on behalf of Mr Harper, I do not find the fact that Reg-Air issued an invoice on 27 September 2005 supportive of Mr Harper's case.",
+      "id": "s220"
+    },
+    {
+      "text": "The invoice appears to relate to items which Mr Hobson agreed that he had recommended as part of the more extensive works to make aircraft ONC suitable for charter work and which Mr Harper denied wanting to carry out at this time.",
+      "id": "s221"
+    },
+    {
+      "text": "Yet, as discussed, Mr Harper took many steps consistent with the intention of carrying out these more extensive works and inconsistent with any belief that Reg-Air would have aircraft ONC in the air within four months of April 2005.",
+      "id": "s222"
+    },
+    {
+      "text": "As to the balance of the submissions said to support this aspect of Mr Harper's case: \n(1) Although Mr Harper thought AirAg was too busy to do the work, Mr Pitt said AirAg was not particularly busy at that time.",
+      "id": "s223"
+    },
+    {
+      "text": "Mr Pitt was an impressive witness with no direct interest in the outcome of the proceeding.",
+      "id": "s224"
+    },
+    {
+      "text": "While Mr Harper may have had this understanding at some time, I prefer Mr Pitt's evidence about this issue.",
+      "id": "s225"
+    },
+    {
+      "text": "(2) Mr Harper did not retrieve aircraft ONC's log books from AirAg until November 2005.",
+      "id": "s226"
+    },
+    {
+      "text": "If, as was submitted, he did so because Mr Hobson was going to do the work and not AirAg, then the period of four months said to have been conveyed as part of the express representations had already passed.",
+      "id": "s227"
+    },
+    {
+      "text": "On the basis of the express representations (if made), the work should have been completed by the end of August or perhaps September 2005.",
+      "id": "s228"
+    },
+    {
+      "text": "Yet during that period Mr Harper was dismantling aircraft ONC and had left his logbooks with AirAg.",
+      "id": "s229"
+    },
+    {
+      "text": "(3) Mr Hobson's estimate of a cost of $10,000 to $15,000 for aircraft ONC to obtain a 100 hourly maintenance release (which he accepted he might have given before any inspection) clearly did not extend to any of the works Mr Harper carried out in dismantling aircraft ONC.",
+      "id": "s230"
+    },
+    {
+      "text": "This must be so given that Mr Harper attributed to Mr Hobson, as part of the statement said to convey the express representations, a description of the required work as being limited to \"a fresh 100 hourly and the fuel units fitted\", taking only about one month to complete.",
+      "id": "s231"
+    },
+    {
+      "text": "(4) Mr Hobson's acceptance that he may well have had conversations with Mr Harper about when he might be able to help Mr Harper with aircraft ONC is consistent with Mr Hobson's version of these events in 2005, particularly given the work Mr Harper had carried out to aircraft ONC.",
+      "id": "s232"
+    },
+    {
+      "text": "(5) The fact that Mr Harper re-installed the fuel control units under Mr Hobson's supervision is also consistent with the fact that Mr Hobson gave substantial advice and assistance to Mr Harper without charge.",
+      "id": "s233"
+    },
+    {
+      "text": "The lack of any invoice from Reg-Air or Mr Hobson to Mr Harper (other than the single invoice of 27 September 2005 referred to above) supports my findings about the character of the statements attributed to Mr Hobson when considered with regard to the overall context.",
+      "id": "s234"
+    },
+    {
+      "text": "(6) Mr Hobson did not agree that the windows had to be done to obtain a 100 hourly maintenance release.",
+      "id": "s235"
+    },
+    {
+      "text": "However, he said that the work, if it were to be done, had to be done under a certificate of approval or as part of the 100 hourly maintenance release (which is different).",
+      "id": "s236"
+    },
+    {
+      "text": "In other words, I do not accept that this work was necessary for a maintenance release to be issued.",
+      "id": "s237"
+    },
+    {
+      "text": "Rather, this work appears to have been part of the more extensive works to aircraft ONC which I consider Mr Harper intended to undertake in 2005 (even if, as it seems, he subsequently changed his mind).",
+      "id": "s238"
+    },
+    {
+      "text": "(7) Mr Hobson's capacity to do private work (that is, on his own time and not in his capacity as an AirAg employee) requires consideration of all of the evidence relevant to that issue.",
+      "id": "s239"
+    },
+    {
+      "text": "In closing submissions, counsel for Mr Harper relied on one part of that evidence (Mr Hobson agreeing it was possible that he could do side work and use AirAg's certificate of approval if required).",
+      "id": "s240"
+    },
+    {
+      "text": "However, Mr Hobson, in another part of his evidence, was adamant that if a maintenance release was required he only worked for AirAg and such releases were only issued by AirAg.",
+      "id": "s241"
+    },
+    {
+      "text": "Mr Pitt gave evidence about the practice of work on the side or private work consistent with that of Mr Hobson.",
+      "id": "s242"
+    },
+    {
+      "text": "I am satisfied that the evidence should be understood as follows: - (i) Mr Hobson could carry out private work provided that it did not involve the issue of a maintenance release, and (ii) if any work required the issue of a maintenance release, Mr Hobson only carried out that work as chief engineer of AirAg.",
+      "id": "s243"
+    },
+    {
+      "text": "These facts are also consistent with Mr Harper, at least in or around April to near the end of 2005 or some time thereafter, wanting to make aircraft ONC more attractive for charter by carrying out far more extensive work than that contemplated by the express representations.",
+      "id": "s244"
+    },
+    {
+      "text": "For these reasons I do not accept that Mr Harper relied on the express representations if they were made.",
+      "id": "s245"
+    },
+    {
+      "text": "Further, and if it be necessary so to find, I prefer Mr Hobson's version of his dealings with Mr Harper about work on aircraft ONC, at least in the period from April 2005 to the end of that year (that is, a period including that to which the express representations relate).",
+      "id": "s246"
+    },
+    {
+      "text": "Consistent with the findings above, Mr Hobson's version of these events better reflects the objective circumstances.",
+      "id": "s247"
+    },
+    {
+      "text": "Mr Hobson's concessions about the frailty of his memory (particularly about disputed conversations years after the events in question) also support, rather than undermine, his evidence.",
+      "id": "s248"
+    },
+    {
+      "text": "The fact that Mr Hobson was not forthright about one matter (the circumstances surrounding the cancellation of Reg-Air's certificate of approval in 2001), does not undermine the credibility of the balance of his evidence.",
+      "id": "s249"
+    },
+    {
+      "text": "Mr Hobson's approach to the cancellation of the certificate (that he had surrendered the certificate by reason of his withdrawal of the appeal against cancellation) is plausible from a layperson's perspective.",
+      "id": "s250"
+    },
+    {
+      "text": "In any event, this matter is also peripheral to the substantive issues in dispute.",
+      "id": "s251"
+    },
+    {
+      "text": "Mr Harper's evidence about the express representations, in contrast to that of Mr Hobson, was difficult to reconcile with the objective circumstances.",
+      "id": "s252"
+    },
+    {
+      "text": "Although Mr Harper said he had a clear memory of certain statements, his evidence provides little or no information about the context in which they were alleged to be made.",
+      "id": "s253"
+    },
+    {
+      "text": "For example, in his first affidavit Mr Harper referred to a conversation in September 2006 in which he allegedly said to Mr Hobson words to the effect \"I'm fed up with this.",
+      "id": "s254"
+    },
+    {
+      "text": "My plane has been gutted and you still haven't put the magneto on\".",
+      "id": "s255"
+    },
+    {
+      "text": "In fact (as emerged during cross-examination), Mr Harper had himself substantially dismantled aircraft ONC by August 2005.",
+      "id": "s256"
+    },
+    {
+      "text": "Despite Mr Harper's apparently firm recollections, allowance must be made for the ordinary human process by which statements in a longer conversation are somewhat artificially reconstructed, particularly where (as in this case): - (i) the participants in the conversation have subsequently fallen out to the extent that litigation has ensued, (ii) the statements said to convey the representations have been reconstructed in an affidavit largely in isolation from the surrounding context including the balance of the conversation, (iii) more than three years have passed since the statements were said to have been made, and (iv) the evidence of both Mr Harper and Mr Hobson supports an inference that (unsurprisingly given that their aircraft were in the same hangar) they had numerous conversations only some of which have been elicited through this proceeding.",
+      "id": "s257"
+    },
+    {
+      "text": "Having regard to these matters significant weight must be given to the evidence of the objective circumstances.",
+      "id": "s258"
+    },
+    {
+      "text": "Those circumstances are not readily reconcilable with Mr Harper's version of the course of events.",
+      "id": "s259"
+    },
+    {
+      "text": "This conclusion does not involve any inference adverse to Mr Harper's credit but recognises the force of observations to the effect of those made in Watson v Foxman (quoted at [9] above).",
+      "id": "s260"
+    },
+    {
+      "text": "Accordingly, Mr Harper's claims based on the express representations cannot be sustained.",
+      "id": "s261"
+    },
+    {
+      "text": "The implied representation\n The implied representation alleged by Mr Harper depends on Reg-Air and Mr Harper having agreed that it would take Reg-Air four months to have aircraft ONC in the air.",
+      "id": "s262"
+    },
+    {
+      "text": "Mr Harper contended that that this agreement included an implied term that the services Reg-Air provided to aircraft ONC would comply with all requirements of the Civil Aviation Act and Civil Aviation Regulations .",
+      "id": "s263"
+    },
+    {
+      "text": "Further, that Reg-Air breached the implied representation carried by this implied term by not complying with these legislative requirements.",
+      "id": "s264"
+    },
+    {
+      "text": "For the reasons given above, I do not accept that there was any agreement between Reg-Air and Mr Harper to the effect claimed.",
+      "id": "s265"
+    },
+    {
+      "text": "Accordingly, there cannot be an implied term of the agreement, functioning as an implied representation, as claimed.",
+      "id": "s266"
+    },
+    {
+      "text": "While this conclusion is sufficient to dispose of this aspect of Mr Harper's claims there is another difficulty which these claims confront.",
+      "id": "s267"
+    },
+    {
+      "text": "Specifically, Mr Harper has not established that Mr Hobson, in his capacity as director of Reg-Air, undertook any work on aircraft ONC that did not comply with the Civil Aviation Act or Civil Aviation Regulations .",
+      "id": "s268"
+    },
+    {
+      "text": "It is true that Reg-Air invoiced Mr Harper on one occasion (27 September 2005) for the procurement of parts and labour.",
+      "id": "s269"
+    },
+    {
+      "text": "Mr Hobson explained that the labour charge on this invoice in fact related to Mr Harper using Mr Hobson's tools and manuals to carry out the work, albeit under Mr Hobson's supervision.",
+      "id": "s270"
+    },
+    {
+      "text": "As neither Mr Hobson nor Reg-Air held a certificate of approval authorising them to issue a maintenance release, I infer that Mr Hobson's supervision of Mr Harper's work in this regard must have been in Mr Hobson's capacity as the chief engineer of AirAg.",
+      "id": "s271"
+    },
+    {
+      "text": "Even if this inference is not drawn, Mr Harper's allegations about breaches of legislative requirements did not relate to this work.",
+      "id": "s272"
+    },
+    {
+      "text": "In fact, there are no invoices from Reg-Air (or Mr Hobson or TS Air Charter) in connection with the work Mr Harper alleged that Mr Hobson, as agent for Reg-Air, carried out to aircraft ONC in breach of the legislative requirements.",
+      "id": "s273"
+    },
+    {
+      "text": "Mr Harper identified ten components of work to which the allegations of breach of the implied representation related: - (i) removal of the turbo charger air intakes for both engines, (ii) removal of the left hand engine magneto, (iii) dismantling components associated with the auto pilot, (iv) dismantling the switch dial dashboard component, (v) dismantling the centre console components, (vi) dismantling the left hand steering column multi-function switch, (vii) removing inspections ports and panels from the wings and fuselage, (viii) removing and substituting the electric elevator servo trim motor and substituting a defective the electric elevator servo trim motor, (ix) removing about 500 litres of fuel, and (x) removing the stall warning delay timer and cutting its wires.",
+      "id": "s274"
+    },
+    {
+      "text": "Mr Hobson admitted that he personally removed or used the turbo charger air intakes for both engines, the left hand engine magneto, the electric elevator servo trim motor and the battery (the latter not being the subject of complaint but relevant as part of the context).",
+      "id": "s275"
+    },
+    {
+      "text": "Mr Hobson admitted that he had supervised works by Mr Harper to the fuel control unit and the electric fuel boost pumps (neither of which are the subject of complaint) and by Mr Dean Mackey of Harbour City Aviation to the electric trim (or multi purpose) switch.",
+      "id": "s276"
+    },
+    {
+      "text": "Mr Hobson also noted that Mr Pitt of AirAg had borrowed the nose gear doors from aircraft ONC with Mr Harper's permission.",
+      "id": "s277"
+    },
+    {
+      "text": "He otherwise denied the allegations.",
+      "id": "s278"
+    },
+    {
+      "text": "The works identified in Mr Hobson's admissions provide an important part of the context for the determination of these claims (particularly when it is remembered that the claim is breach of an implied representation by Reg-Air arising from an agreement between Reg-Air and Mr Harper pursuant to which Reg-Air, through Mr Hobson, would provide services of maintenance and repair to aircraft ONC).",
+      "id": "s279"
+    },
+    {
+      "text": "I consider the evidence about those works below.",
+      "id": "s280"
+    },
+    {
+      "text": "(1) The nose gear doors : In November 2005 (after Mr Harper had carried out much of his work of dismantling aircraft ONC), AirAg removed the nose gear doors for the purpose of using them as a model for another aircraft.",
+      "id": "s281"
+    },
+    {
+      "text": "Mr Harper permitted these parts to be borrowed.",
+      "id": "s282"
+    },
+    {
+      "text": "They were ultimately returned in January or February 2007 after an earlier attempt in October 2006 disclosed that one of the doors was not the original part.",
+      "id": "s283"
+    },
+    {
+      "text": "Mr Harper appears not to have demanded any earlier return of these parts.",
+      "id": "s284"
+    },
+    {
+      "text": "The evidence does not support any inference that Reg-Air was involved in these works.",
+      "id": "s285"
+    },
+    {
+      "text": "(2) The fuel control units : Cross-examination of Mr Harper disclosed that Mr Harper removed the fuel control pumps from aircraft ONC under the supervision of Mr Pitt of AirAg.",
+      "id": "s286"
+    },
+    {
+      "text": "Mr Harper also re-installed the pumps under Mr Hobson's supervision.",
+      "id": "s287"
+    },
+    {
+      "text": "Mr Hobson was qualified to perform this supervision function (which Mr Harper accepted in cross-examination).",
+      "id": "s288"
+    },
+    {
+      "text": "In context, I infer that Mr Hobson performed this function either as AirAg's chief engineer or in his personal capacity (as a friendly acquaintance of Mr Harper's of some 10 years' standing and who, according to Mr Harper, wished to see aircraft ONC in good condition and readily provided assistance to Mr Harper as and when required).",
+      "id": "s289"
+    },
+    {
+      "text": "The evidence does not support any inference that Reg-Air was involved in these works.",
+      "id": "s290"
+    },
+    {
+      "text": "(3) The battery : Mr Hobson used the battery from aircraft ONC and installed it on another aircraft (not aircraft TSO) that was due out on a charter flight and had a battery failure.",
+      "id": "s291"
+    },
+    {
+      "text": "The battery was out of aircraft ONC on a charger and the other aircraft had passengers on board ready for flight.",
+      "id": "s292"
+    },
+    {
+      "text": "Mr Hobson said he called Mr Harper for permission to use this battery and return it to the charger.",
+      "id": "s293"
+    },
+    {
+      "text": "Mr Harper said he was not aware of the use of his battery but had no concern about it.",
+      "id": "s294"
+    },
+    {
+      "text": "I prefer Mr Hobson's evidence about this as he (rather than Mr Harper) had some reason to recall this event (Mr Hobson being at the airport while the other aircraft was ready to take off when its battery failed).",
+      "id": "s295"
+    },
+    {
+      "text": "The evidence does not support any inference that Reg-Air was involved in this event.",
+      "id": "s296"
+    },
+    {
+      "text": "(4) Turbo charger air intakes : Mr Hobson removed the turbo charger air intakes from aircraft ONC and installed them on aircraft TSO in or about February 2006.",
+      "id": "s297"
+    },
+    {
+      "text": "At that time the turbo charger air intakes from aircraft TSO were being \"re-bushed\".",
+      "id": "s298"
+    },
+    {
+      "text": "Mr Hobson returned the parts on 3 April 2006 but Mr Harper refused to allow him to re-install them.",
+      "id": "s299"
+    },
+    {
+      "text": "In other words, Mr Hobson took the parts for the purpose of temporary use on aircraft TSO (which had become airworthy in March 2006).",
+      "id": "s300"
+    },
+    {
+      "text": "TS Air Charter owns aircraft TSO.",
+      "id": "s301"
+    },
+    {
+      "text": "The evidence does not support the inference that Reg-Air had anything to do with the taking of these parts.",
+      "id": "s302"
+    },
+    {
+      "text": "Moreover, the implied representation is said to arise from an agreement between Reg-Air and Mr Harper for the provision of services by Reg-Air to aircraft ONC (that is, to get aircraft ONC in the air within four months of April 2005).",
+      "id": "s303"
+    },
+    {
+      "text": "The taking of these parts did not have anything to do with the provision of services to aircraft ONC.",
+      "id": "s304"
+    },
+    {
+      "text": "They were taken to assist aircraft TSO.",
+      "id": "s305"
+    },
+    {
+      "text": "Whether they were taken with or without permission is a separate issue (dealt with under the common law claims below).",
+      "id": "s306"
+    },
+    {
+      "text": "But as these facts disclose, the taking of these parts had nothing to do with Reg-Air providing services to aircraft ONC as claimed by Mr Harper and thus could not be subject to the implied representation alleged.",
+      "id": "s307"
+    },
+    {
+      "text": "(5) Left hand engine magneto : Mr Hobson removed the left hand engine magneto from aircraft ONC on 14 May 2006.",
+      "id": "s308"
+    },
+    {
+      "text": "The magneto was taken to Albury where aircraft TSO had developed a problem apparently with the intention of using the magneto to get aircraft TSO back to Sydney.",
+      "id": "s309"
+    },
+    {
+      "text": "However, aircraft ONC's magneto was damaged in transit and could not be used.",
+      "id": "s310"
+    },
+    {
+      "text": "Mr Hobson later arranged to have this magneto repaired and \"zero timed\" so that it had a full service life.",
+      "id": "s311"
+    },
+    {
+      "text": "He returned the part to Mr Harper in October 2006 with a release note for the repair.",
+      "id": "s312"
+    },
+    {
+      "text": "Again, whether or not Mr Hobson had permission to borrow the part is a separate issue.",
+      "id": "s313"
+    },
+    {
+      "text": "On the same basis as the turbo charger air intakes discussed above, these facts disclose that the taking of this part had nothing to do with Reg-Air providing services to aircraft ONC as claimed by Mr Harper and thus could not be subject to the implied representation alleged.",
+      "id": "s314"
+    },
+    {
+      "text": "(6) Electric elevator servo trim motor : Mr Hobson removed this part from aircraft ONC in about June 2006 intending to install the part into aircraft TSO for the purpose of flying aircraft TSO to Adelaide for the auto-pilot components to be checked.",
+      "id": "s315"
+    },
+    {
+      "text": "After repairs to the components of the auto-pilot were complete and when aircraft TSO returned to Bankstown, Mr Hobson took the trim servo motor then on aircraft TSO and installed it on aircraft ONC.",
+      "id": "s316"
+    },
+    {
+      "text": "Leaving aside the many disputes concerning the trim servo motor (discussed below in respect of the common law claims), the relevant fact for present purposes is that nothing Mr Hobson did was for the purpose of servicing aircraft ONC.",
+      "id": "s317"
+    },
+    {
+      "text": "The work was done to assist aircraft TSO.",
+      "id": "s318"
+    },
+    {
+      "text": "On the same basis as discussed above, these facts disclose that the taking of this part had nothing to do with Reg-Air providing services to aircraft ONC as claimed by Mr Harper and thus could not be subject to the implied representation alleged.",
+      "id": "s319"
+    },
+    {
+      "text": "(7) Multi-purpose switch : Mr Hobson engaged Mr Mackey of Harbour City Aviation to carry out work on aircraft TSO in February 2006.",
+      "id": "s320"
+    },
+    {
+      "text": "Mr Mackey said that during that work he noticed that there was a broken tab on a little micro switch on the column of aircraft TSO.",
+      "id": "s321"
+    },
+    {
+      "text": "According to Mr Mackey, Mr Hobson told him to remove the tab from the switch on aircraft ONC and install it on aircraft TSO to replace the broken one.",
+      "id": "s322"
+    },
+    {
+      "text": "Those switches are readily available and cost about $7 or $8.",
+      "id": "s323"
+    },
+    {
+      "text": "Aircraft ONC was not airworthy at that time.",
+      "id": "s324"
+    },
+    {
+      "text": "Mr Mackey said he was not, at that time, carrying out any work on aircraft ONC.",
+      "id": "s325"
+    },
+    {
+      "text": "Mr Hobson said that they needed to check the wiring configuration on aircraft ONC to ensure that the work on aircraft TSO had been done correctly.",
+      "id": "s326"
+    },
+    {
+      "text": "When Mr Mackey inspected the wiring on aircraft ONC, he told Mr Hobson that it had perished and was a fire risk and would need to be replaced before the aircraft could be flown.",
+      "id": "s327"
+    },
+    {
+      "text": "Mr Hobson instructed Mr Mackey to leave the wiring exposed so that the wiring problem would be obvious to the person next carrying out maintenance on aircraft ONC (which he described as a requirement of his obligations as a LAME).",
+      "id": "s328"
+    },
+    {
+      "text": "Irrespective of the inconsistencies in this evidence one thing is clear --- Mr Hobson and Mr Mackey were working on aircraft TSO.",
+      "id": "s329"
+    },
+    {
+      "text": "If Mr Hobson caused a tab on a switch to be taken from aircraft ONC, he did so to assist aircraft TSO.",
+      "id": "s330"
+    },
+    {
+      "text": "On the same basis as discussed above, these facts disclose that the taking of this part had nothing to do with Reg-Air providing services to aircraft ONC as claimed by Mr Harper and thus could not be subject to the implied representation alleged.",
+      "id": "s331"
+    },
+    {
+      "text": "(8) Other works : Mr Hobson denied involvement in the other matters identified by Mr Harper.",
+      "id": "s332"
+    },
+    {
+      "text": "As to the aircraft parts, insofar as Mr Hobson agreed that panels had to be removed to access the trim servo, I infer that he must have removed those panels.",
+      "id": "s333"
+    },
+    {
+      "text": "Otherwise I do not accept that other panels had to be removed to access the trim servo motor as Mr Harper alleged.",
+      "id": "s334"
+    },
+    {
+      "text": "Consistent with the findings above, these works were not done by Reg-Air for the purpose of servicing aircraft ONC but by Mr Hobson for the purpose of assisting aircraft TSO.",
+      "id": "s335"
+    },
+    {
+      "text": "Accordingly, these works had nothing to do with Reg-Air providing services to aircraft ONC as claimed by Mr Harper and thus could not be subject to the implied representation alleged.",
+      "id": "s336"
+    },
+    {
+      "text": "(9) The fuel issue : Mr Hobson admitted draining small amounts of fuel (into a tin container) from aircraft ONC for the purpose of cleaning tools and running the towing equipment which moves aircraft (including aircraft ONC) around the hangar.",
+      "id": "s337"
+    },
+    {
+      "text": "This evidence was consistent with the observations of Jeffrey Criddle (general manager of Australian Aerial Surveys Pty Ltd and who gave evidence in the proceeding).",
+      "id": "s338"
+    },
+    {
+      "text": "Mr Hobson denied taking about 500 litres of fuel from aircraft ONC to use in aircraft TSO or otherwise.",
+      "id": "s339"
+    },
+    {
+      "text": "There are two difficulties with Mr Harper's claims about the missing fuel.",
+      "id": "s340"
+    },
+    {
+      "text": "First, insofar as Mr Harper's case is based on the implied representation (with which I am presently dealing), the taking of fuel to use in aircraft TSO as alleged has nothing to do with Reg-Air servicing aircraft ONC.",
+      "id": "s341"
+    },
+    {
+      "text": "Second, the allegation is effectively one of theft by Mr Hobson in circumstances where: - (i) Mr Harper only checked the fuel when aircraft ONC first arrived at Bankstown in March 2005 and again in October or November 2006, some 19 months later, (ii) in this period of 19 months aircraft ONC was in three different hangars, (iii) all people who had access to those hangars also had access to aircraft ONC, (iv) the people who had carried out work on aircraft ONC during that period, such as AirAg personnel, also had access to aircraft ONC, including the fuel (because the fuel tanks are not lockable), (v) Mr Harper moved the aircraft from the first hangar to hangar 273 because he was unhappy with the treatment of his aircraft in that hangar, and (vi) Mr Hobson denied the allegation other than to the (minor) extent of fuel used noted in circumstances where Mr Harper used Mr Hobson's tools on aircraft ONC without Mr Hobson demanding payment and Mr Harper benefited from the towing equipment in the hangar.",
+      "id": "s342"
+    },
+    {
+      "text": "The evidence, in these circumstances, cannot sustain a finding that Mr Hobson drained a large amount of fuel from aircraft ONC for the purpose of using it in aircraft TSO or otherwise.",
+      "id": "s343"
+    },
+    {
+      "text": "As the discussion above discloses, the reasoning underlying Mr Harper's claims about the implied representation has a number of difficulties.",
+      "id": "s344"
+    },
+    {
+      "text": "In particular, on the one hand, Mr Harper alleged, in effect, that Mr Hobson cannibalised aircraft ONC for the benefit of aircraft TSO.",
+      "id": "s345"
+    },
+    {
+      "text": "On the other hand, in order to found an allegation of breach of the implied representation, Mr Harper said these works were part of the agreement for Reg-Air to service aircraft ONC and get it flying within four months of April 2005.",
+      "id": "s346"
+    },
+    {
+      "text": "The two concepts are not readily reconcilable.",
+      "id": "s347"
+    },
+    {
+      "text": "Finally, it must also be remembered that aircraft ONC's log books remained in AirAg's office from about March until November 2005.",
+      "id": "s348"
+    },
+    {
+      "text": "Mr Harper never gave the log books to Mr Hobson either personally or in his capacity as an agent of Reg-Air.",
+      "id": "s349"
+    },
+    {
+      "text": "Neither Mr Hobson nor Reg-Air sent any invoice to Mr Harper for any work carried out on aircraft ONC apart from the invoice of 27 September 2005 discussed above.",
+      "id": "s350"
+    },
+    {
+      "text": "Mr Harper carried out extensive works which effectively gutted aircraft ONC.",
+      "id": "s351"
+    },
+    {
+      "text": "These facts are inconsistent with the agreement alleged by Mr Harper and thus also undermine his claim insofar as it was based on an agreement including an implied term founding the implied representation.",
+      "id": "s352"
+    },
+    {
+      "text": "For these reasons I do not accept Mr Harper's claims based on the alleged implied representation.",
+      "id": "s353"
+    },
+    {
+      "text": "The implied warranty\n The implied warranty claim is based on s 74(1) of the Trade Practices Act .",
+      "id": "s354"
+    },
+    {
+      "text": "This claim thus depends on the existence of a contract for supply of services by a corporation.",
+      "id": "s355"
+    },
+    {
+      "text": "I have found above that there was no agreement between Reg-Air and Mr Harper as Mr Harper alleged.",
+      "id": "s356"
+    },
+    {
+      "text": "No other agreement was pleaded in the second amended statement of claim.",
+      "id": "s357"
+    },
+    {
+      "text": "Accordingly, this claim must also be rejected.",
+      "id": "s358"
+    },
+    {
+      "text": "In any event, because this claim depends on the same facts as the implied representation claim, it suffers from the same difficulties which would require its rejection.",
+      "id": "s359"
+    },
+    {
+      "text": "In oral submissions counsel for Mr Harper proposed a different basis for liability, namely, that if (as he claimed) Mr Hobson had taken the parts with Mr Harper's permission on the basis that Mr Hobson alleged (namely, that as part of a general quid pro quo for use of tools, manuals and access to Mr Hobson's advice, Mr Harper agreed either expressly or impliedly that Mr Hobson could take parts from aircraft ONC for temporary use provided he re-installed them) then, nevertheless, there was a contract for supply by a corporation within the meaning of s 74(1) of the Trade Practices Act .",
+      "id": "s360"
+    },
+    {
+      "text": "I do not accept this argument.",
+      "id": "s361"
+    },
+    {
+      "text": "First, it was never pleaded.",
+      "id": "s362"
+    },
+    {
+      "text": "Second, there is no basis for inferring that any such agreement involved Reg-Air as opposed to Mr Hobson either in his personal capacity or as an agent of TS Air Charter.",
+      "id": "s363"
+    },
+    {
+      "text": "Third, it is difficult to see how Reg-Air was doing anything (let alone supplying services) in the course of a business when Mr Hobson borrowed parts from aircraft ONC.",
+      "id": "s364"
+    },
+    {
+      "text": "For these reasons I am not satisfied that the circumstances relied upon by Mr Harper fit within s 74(1) of the Trade Practices Act .",
+      "id": "s365"
+    },
+    {
+      "text": "Statutory claims and damages\n For the reasons given above, I do not accept any of Mr Harper's claims based on the Trade Practices Act .",
+      "id": "s366"
+    },
+    {
+      "text": "It follows that Mr Harper's claims for statutory damages (s 82) and breach of the implied warranty under s 74(1) cannot be sustained.",
+      "id": "s367"
+    },
+    {
+      "text": "It also follows that the claims of accessorial liability on the part of Mr Hobson under s 75B of the Trade Practices Act must be rejected.",
+      "id": "s368"
+    },
+    {
+      "text": "Common law claims\n Unlike the claims based on the Trade Practices Act , the common law claims of conversion of parts from, and trespass to, aircraft ONC, are made against each respondent (that is, Mr Hobson personally and acting as agent for Reg-Air and/or TS Air Charter).",
+      "id": "s369"
+    },
+    {
+      "text": "The torts of trespass to and conversion of goods protect against any \"direct interference with possessory rights in chattels\" (Fleming, John G. The Law of Torts (9 th ed).",
+      "id": "s370"
+    },
+    {
+      "text": "Law Book Company: Sydney (1998) p 58).",
+      "id": "s371"
+    },
+    {
+      "text": "Neither tort can be committed if the person with the possessory right consents to the interference.",
+      "id": "s372"
+    },
+    {
+      "text": "I will deal with the claim relating to the removal of the fuel from aircraft ONC immediately.",
+      "id": "s373"
+    },
+    {
+      "text": "As discussed above, the evidence does not establish that Mr Hobson, in any capacity, removed fuel from aircraft ONC other than small amounts for the purpose of cleaning his tools and hands as well as filling the towing device which moved aircraft around the hangar.",
+      "id": "s374"
+    },
+    {
+      "text": "In circumstances where Mr Harper used Mr Hobson's tools and had the benefit of the towing equipment in the hangar, I do not characterise such conduct as a sufficiently serious interference with Mr Harper's possessory rights to amount to the torts of trespass or conversion.",
+      "id": "s375"
+    },
+    {
+      "text": "Alternatively, I consider that the circumstances give rise to implied consent from Mr Harper to Mr Hobson to access small amounts of fuel from aircraft ONC for these limited purposes.",
+      "id": "s376"
+    },
+    {
+      "text": "Otherwise, and as noted, an unknown number of other people had access to aircraft ONC over the 19 month period between fuel readings.",
+      "id": "s377"
+    },
+    {
+      "text": "The aircraft was situated in three different hangars.",
+      "id": "s378"
+    },
+    {
+      "text": "Mr Harper thought his aircraft was being moved around too much in the first hangar and thus removed the aircraft from that hangar.",
+      "id": "s379"
+    },
+    {
+      "text": "Mr Hobson denied the allegations other than with respect to the minor amounts of fuel used for the limited purposes of tool cleaning, filling the towing equipment and cleaning his hands.",
+      "id": "s380"
+    },
+    {
+      "text": "The evidence is a manifestly inadequate basis upon which to found a conclusion that Mr Hobson took some 500 (or 450 or thereabouts) litres of fuel from aircraft ONC for use in aircraft TSO or otherwise.",
+      "id": "s381"
+    },
+    {
+      "text": "Apart from the fuel, Mr Hobson said Mr Harper permitted certain parts to be borrowed provided they were returned.",
+      "id": "s382"
+    },
+    {
+      "text": "He denied any involvement with the balance of the items the subject of Mr Harper's allegations.",
+      "id": "s383"
+    },
+    {
+      "text": "Mr Hobson said that he recalled a conversation in February 2006 in which Mr Harper said Mr Hobson could borrow the turbo charger air intakes from aircraft ONC because those on aircraft TSO were being \"re-bushed\".",
+      "id": "s384"
+    },
+    {
+      "text": "According to Mr Hobson, Mr Harper said \"No problem, as long as they're returned and put back on the aircraft\".",
+      "id": "s385"
+    },
+    {
+      "text": "Mr Hobson said the same process occurred in relation to the trim servo motor.",
+      "id": "s386"
+    },
+    {
+      "text": "Aircraft TSO had ongoing problems with the auto pilot.",
+      "id": "s387"
+    },
+    {
+      "text": "Mr Hobson approached Mr Harper in about June 2006 to borrow the trim servo from aircraft ONC so aircraft TSO could be \"hand-flown\" to Adelaide.",
+      "id": "s388"
+    },
+    {
+      "text": "Mr Hobson and Mr Harper had a discussion, possibly in the hangar.",
+      "id": "s389"
+    },
+    {
+      "text": "Mr Hobson asked to borrow the trim servo motor and Mr Harper replied in words to the effect \"No problem, as long as they're returned and put back on the aircraft\".",
+      "id": "s390"
+    },
+    {
+      "text": "Mr Hobson could not recall the details of the discussion about the magneto but recalled telling Mr Harper about the problem with aircraft TSO in Albury and a conversation including words to the effect of Mr Hobson saying \"I require one and a half hours of flying time and need to ferry the aircraft to Bankstown\" and Mr Harper responding \"Yes, you can borrow that magneto, as long as it's returned and refitted to the engine\".",
+      "id": "s391"
+    },
+    {
+      "text": "In cross-examination Mr Hobson denied that he had assumed Mr Harper's approval to borrow parts from aircraft ONC because of Mr Harper having agreed to AirAg borrowing the nose wheel doors.",
+      "id": "s392"
+    },
+    {
+      "text": "Mr Hobson agreed that he had not put the details of the conversations in his affidavits because he thought he had dealt with the issue of consent by his general statement that Mr Harper had given permission for the parts to be borrowed.",
+      "id": "s393"
+    },
+    {
+      "text": "He accepted that his memory of these conversations was not clear as he could not remember the day or month on which they occurred.",
+      "id": "s394"
+    },
+    {
+      "text": "For example, in respect of the trim servo motor he recalled asking to borrow the part but not the details of the conversation.",
+      "id": "s395"
+    },
+    {
+      "text": "He agreed that in the normal course of his business he would ask to borrow a part of he wanted to do so.",
+      "id": "s396"
+    },
+    {
+      "text": "Further, he agreed that his evidence of the conversations with Mr Harper was based on his usual practice of requesting permission to borrow parts.",
+      "id": "s397"
+    },
+    {
+      "text": "He said he recollected the conversations but not the details of them.",
+      "id": "s398"
+    },
+    {
+      "text": "Mr Harper denied all of these conversations.",
+      "id": "s399"
+    },
+    {
+      "text": "He said that he gave no permission to Mr Hobson to borrow parts except for the nose gear doors.",
+      "id": "s400"
+    },
+    {
+      "text": "According to Mr Harper, he noticed the missing magneto and trim servo motor and various switches in September 2006.",
+      "id": "s401"
+    },
+    {
+      "text": "Mr Harper also alleged conversations with Mr Hobson in which he questioned the removal of parts from his aircraft culminating in Mr Harper accusing Mr Hobson of gutting aircraft ONC on or about 25 September 2006 and instructing him not to touch aircraft ONC on or about 17 October 2006.",
+      "id": "s402"
+    },
+    {
+      "text": "Mr Hobson denied each of these conversations.",
+      "id": "s403"
+    },
+    {
+      "text": "As noted, Mr Harper's counsel submitted that Mr Hobson's evidence should not be accepted unless corroborated by independent evidence.",
+      "id": "s404"
+    },
+    {
+      "text": "This submission placed significant weight on an AirAg additional worksheet and the events surrounding the trim servo motor to support this challenge to Mr Hobson's credit.",
+      "id": "s405"
+    },
+    {
+      "text": "The AirAg additional worksheet identified works to aircraft ONC including with respect to the nose gear doors, the battery, the turbo charger air intakes, the left-hand engine magneto, and the trim servo motor.",
+      "id": "s406"
+    },
+    {
+      "text": "The worksheet refers to these parts being variously removed, returned and loaned.",
+      "id": "s407"
+    },
+    {
+      "text": "Mr Hobson said he prepared the worksheet from various notes he had made over time in respect of work he did to aircraft ONC (including yellow post-it notes stuck to his tool box).",
+      "id": "s408"
+    },
+    {
+      "text": "Mr Hobson wrote up the worksheet in one go in February 2007.",
+      "id": "s409"
+    },
+    {
+      "text": "Mr Harper's case was to the effect that Mr Hobson created the worksheet much later (October 2008 at the earliest) as a defence to Mr Harper's claims, including his claims about inadequate record keeping.",
+      "id": "s410"
+    },
+    {
+      "text": "I do not accept the submissions for Mr Harper that the additional worksheet was created in circumstances other than those asserted by Mr Hobson.",
+      "id": "s411"
+    },
+    {
+      "text": "The fact that the worksheet is in the same pen is neutral.",
+      "id": "s412"
+    },
+    {
+      "text": "Mr Hobson said he had prepared the worksheet from notes on one occasion in February 2007.",
+      "id": "s413"
+    },
+    {
+      "text": "From the evidence of Mr Richard Best and David Morgan (independent experts), as well as that of Mr Pitt, Mr Skidmore and Mr Hobson, I infer that the preparation of worksheets may, but need not, be done at the time individual items of work are carried out.",
+      "id": "s414"
+    },
+    {
+      "text": "Rather, depending on the practice of the individual, records must be prepared at the completion of each stage of maintenance or the maintenance overall.",
+      "id": "s415"
+    },
+    {
+      "text": "From the evidence, I am not satisfied that Mr Hobson had to create a worksheet for each item he borrowed from aircraft ONC at the time of borrowing.",
+      "id": "s416"
+    },
+    {
+      "text": "Further, it is not clear to me that Mr Hobson had any obligation to sign the document at any time before completion of a maintenance release.",
+      "id": "s417"
+    },
+    {
+      "text": "Given that aircraft ONC was not airworthy at any time when Mr Hobson borrowed the parts or said he created the document I am not satisfied that he acted in breach of any legislative requirement.",
+      "id": "s418"
+    },
+    {
+      "text": "Further, the fact that there is a date error in the document (a reference to \"16/10/08\" rather than \"16/10/06\") does not suggest to me that the document was written after 16 October 2008.",
+      "id": "s419"
+    },
+    {
+      "text": "If Mr Hobson had intended to create a document after 16 October 2008 and falsely claim he had written it in February 2007 then I would have expected him to exercise great care in his references to date.",
+      "id": "s420"
+    },
+    {
+      "text": "The fact that the \"16/10/08\" date is inconsistent with the balance of the document tends to indicate that it is an error as Mr Hobson said.",
+      "id": "s421"
+    },
+    {
+      "text": "Nor do I find the circumstances of disclosure of the document surprising.",
+      "id": "s422"
+    },
+    {
+      "text": "One of the features of this case is that AirAg is not a party.",
+      "id": "s423"
+    },
+    {
+      "text": "Mr Hobson did not have an obligation to discover documents held only by AirAg.",
+      "id": "s424"
+    },
+    {
+      "text": "The allegations against Mr Hobson in relation to the worksheet are serious and, as Dixon J noted in Briginshaw , this seriousness affects the answer to any question concerning the alleged suspect nature of the worksheet.",
+      "id": "s425"
+    },
+    {
+      "text": "Mr Hobson denied the allegations.",
+      "id": "s426"
+    },
+    {
+      "text": "The evidence relied on to cast doubt on his denials is at best equivocal.",
+      "id": "s427"
+    },
+    {
+      "text": "I accept Mr Hobson's evidence about the worksheet.",
+      "id": "s428"
+    },
+    {
+      "text": "I do not accept that it provides a basis for any general conclusion undermining Mr Hobson's credit.",
+      "id": "s429"
+    },
+    {
+      "text": "I have reached a similar conclusion about the circumstances surrounding the trim servo motor.",
+      "id": "s430"
+    },
+    {
+      "text": "Mr Hobson said (and I accept) that he borrowed the trim servo motor from aircraft ONC because aircraft TSO had auto-pilot problems and he needed to take the components of the auto-pilot on aircraft TSO to Adelaide for inspection and repair.",
+      "id": "s431"
+    },
+    {
+      "text": "He removed components of the auto-pilot from aircraft TSO for this purpose.",
+      "id": "s432"
+    },
+    {
+      "text": "He took the trim servo motor from aircraft ONC intending to install it on aircraft TSO to allow it to be \"hand-flown\" to Adelaide.",
+      "id": "s433"
+    },
+    {
+      "text": "However, the release note for the trim servo motor repaired in Adelaide and dated 13 June 2006 relates to the overhaul in Adelaide of trim servo motor 5096.",
+      "id": "s434"
+    },
+    {
+      "text": "This is the trim servo motor from aircraft ONC.",
+      "id": "s435"
+    },
+    {
+      "text": "In other words, the release note shows that Mr Hobson had aircraft ONC's trim servo motor inspected and certified in Adelaide and not the trim servo motor from aircraft TSO.",
+      "id": "s436"
+    },
+    {
+      "text": "It is also clear from Mr Skidmore's evidence that he removed trim servo motor 3262 from aircraft ONC in November 2007.",
+      "id": "s437"
+    },
+    {
+      "text": "Records show that this trim servo motor belongs to aircraft TSO.",
+      "id": "s438"
+    },
+    {
+      "text": "Mr Harper's case was to the effect that Mr Hobson took the trim servo motor from aircraft ONC and deliberately substituted it with the faulty trim servo motor from aircraft TSO.",
+      "id": "s439"
+    },
+    {
+      "text": "Mr Hobson's case was that there must have been a mistake which he could not explain but which was entirely innocent.",
+      "id": "s440"
+    },
+    {
+      "text": "Mr Hobson's trip to Adelaide was prompted by his need to have all components of the auto-pilot on aircraft TSO removed, checked, repaired as required, certified and re-installed on aircraft TSO.",
+      "id": "s441"
+    },
+    {
+      "text": "There is no rational reason apparent on the evidence as to why Mr Hobson instead would choose to take the trim servo motor from aircraft ONC and have it checked, repaired as required, certified and re-installed on aircraft TSO.",
+      "id": "s442"
+    },
+    {
+      "text": "However, there is an explanation consistent with the records and Mr Hobson having made a mistake.",
+      "id": "s443"
+    },
+    {
+      "text": "It is that Mr Hobson had both trim servo motors out of each aircraft.",
+      "id": "s444"
+    },
+    {
+      "text": "He intended to use the trim servo motor from aircraft ONC to fly to Adelaide so the trim servo motor from aircraft TSO could be checked and repaired.",
+      "id": "s445"
+    },
+    {
+      "text": "However, he fitted the wrong part to aircraft TSO, gave the wrong part to the repairers in Adelaide and thus re-fitted the wrong part in aircraft ONC on aircraft TSO returning to Sydney.",
+      "id": "s446"
+    },
+    {
+      "text": "This sequence of events is consistent with the AirAg additional worksheet that Mr Hobson prepared in which he said (incorrectly) that part 5096 had been re-installed in aircraft ONC.",
+      "id": "s447"
+    },
+    {
+      "text": "I consider this the most likely explanation for the circumstances relating to the trim servo motors.",
+      "id": "s448"
+    },
+    {
+      "text": "This explanation is consistent with Mr Hobson's evidence.",
+      "id": "s449"
+    },
+    {
+      "text": "I should also record that I do not draw any inference adverse to the credit of either Mr Hobson or Mr Harper by reason of matters that emerged in oral evidence but which had not been mentioned in their respective affidavits.",
+      "id": "s450"
+    },
+    {
+      "text": "Mr Hobson, in particular, was criticised on this account.",
+      "id": "s451"
+    },
+    {
+      "text": "However, Mr Harper's affidavits suffered from the same type of deficiency.",
+      "id": "s452"
+    },
+    {
+      "text": "For example, Mr Harper did not mention the work he had carried out to aircraft ONC which gave the aircraft the appearance of having been gutted.",
+      "id": "s453"
+    },
+    {
+      "text": "This evidence was elicited in cross-examination and put a different light on Mr Harper's allegation that Mr Hobson \"gutted\" aircraft ONC.",
+      "id": "s454"
+    },
+    {
+      "text": "It seems to me that the deficiencies in the affidavits of both Mr Hobson and Mr Harper should be accepted as products of poor affidavit preparation.",
+      "id": "s455"
+    },
+    {
+      "text": "Apart from the disputed conversations between Mr Harper and Mr Hobson, the other evidence relevant to the credibility of each is of limited assistance.",
+      "id": "s456"
+    },
+    {
+      "text": "Mr Mackey gave evidence about Mr Hobson instructing him to take a tab off a switch on the column of aircraft ONC and installing it on aircraft TSO.",
+      "id": "s457"
+    },
+    {
+      "text": "Such tabs were readily available and cost about $7 or $8.",
+      "id": "s458"
+    },
+    {
+      "text": "Mr Hobson gave a different version of these events which was not put to Mr Mackey.",
+      "id": "s459"
+    },
+    {
+      "text": "Nevertheless, if Mr Hobson's evidence that Mr Harper agreed that parts could be borrowed from aircraft ONC provided they were replaced is true, then Mr Mackey's evidence is not necessarily inconsistent with that of Mr Hobson.",
+      "id": "s460"
+    },
+    {
+      "text": "Mr Criddle gave evidence of having seen Mr Hobson drain fuel from aircraft ONC into a tin of about 500 mL which is consistent with Mr Hobson's evidence.",
+      "id": "s461"
+    },
+    {
+      "text": "Mr Criddle also said he had seen Mr Hobson inside the cockpit of aircraft ONC and accessing panels on that aircraft.",
+      "id": "s462"
+    },
+    {
+      "text": "That too is consistent with Mr Hobson's evidence.",
+      "id": "s463"
+    },
+    {
+      "text": "Samuel Perry, a pilot of Australian Aerial Surveys, gave evidence that after he flew aircraft TSO to Albury on 12 May 2006 he contacted Mr Hobson about the problem with the left hand engine magneto.",
+      "id": "s464"
+    },
+    {
+      "text": "Mr Hobson said he had a spare magneto and came down to Albury with the spare on 14 May 2006.",
+      "id": "s465"
+    },
+    {
+      "text": "Mr Perry also saw Mr Hobson in and around the tail section of aircraft ONC on occasions.",
+      "id": "s466"
+    },
+    {
+      "text": "Mr Hobson agreed that this conversation with Mr Perry occurred and could not see the difference between telling Mr Perry he had a spare magneto (being that from aircraft ONC) or that he had \"access to\" a spare magneto.",
+      "id": "s467"
+    },
+    {
+      "text": "While part of the surrounding circumstances, none of this evidence undermines Mr Hobson's credibility or particularly assists in resolving the dispute between Mr Harper and Mr Hobson.",
+      "id": "s468"
+    },
+    {
+      "text": "Accordingly, I have two witnesses (whose general credibility I accept) alleging that each said things the other denies.",
+      "id": "s469"
+    },
+    {
+      "text": "As such, this aspect of the dispute also must be resolved by reference to the nature of the matters in dispute, the onus of proof, and the surrounding circumstances capable of assisting in resolution of the issues.",
+      "id": "s470"
+    },
+    {
+      "text": "I deal with these considerations relevant to the common law claims next.",
+      "id": "s471"
+    },
+    {
+      "text": "If Mr Harper's claims are true, then Mr Hobson has engaged in serious misconduct.",
+      "id": "s472"
+    },
+    {
+      "text": "For example, it is part of Mr Harper's case that Mr Hobson tampered with aircraft ONC in such a way as to threaten the safety of the aircraft in breach of s 24 of the Civil Aviation Act .",
+      "id": "s473"
+    },
+    {
+      "text": "A breach of that section is a criminal offence punishable by two years imprisonment.",
+      "id": "s474"
+    },
+    {
+      "text": "It is also part of Mr Harper's case that Mr Hobson breached numerous provisions of the Civil Aviation Regulations , most of which create criminal offences for breach.",
+      "id": "s475"
+    },
+    {
+      "text": "Apart from these legislative obligations, Mr Harper's case is that Mr Hobson deliberately engaged in a course of conduct involving taking aircraft parts from aircraft ONC to benefit himself without having any permission from Mr Harper (whether express or implied) to do so.",
+      "id": "s476"
+    },
+    {
+      "text": "That in itself is a serious accusation.",
+      "id": "s477"
+    },
+    {
+      "text": "Insofar as Mr Harper's allegations relate to parts that Mr Hobson admitted borrowing from aircraft ONC, Mr Hobson had the onus of proving consent (G E Dal Pont (general editor).",
+      "id": "s478"
+    },
+    {
+      "text": "Halsbury's Laws of Australia , LexisNexis Butterworths: Sydney.",
+      "id": "s479"
+    },
+    {
+      "text": "Looseleaf service last updated April 2009, [415-455]).",
+      "id": "s480"
+    },
+    {
+      "text": "Contrary to Mr Harper's submissions, I do not characterise Mr Hobson's defence as limited to express consent.",
+      "id": "s481"
+    },
+    {
+      "text": "Consent may be express or implied.",
+      "id": "s482"
+    },
+    {
+      "text": "Either way consent is a defence to the torts of conversion and trespass.",
+      "id": "s483"
+    },
+    {
+      "text": "Insofar as Mr Harper's allegations relate to parts that Mr Hobson denied any involvement in removing, dismantling or otherwise tampering with, Mr Harper had the onus of proving the interference by Mr Hobson.",
+      "id": "s484"
+    },
+    {
+      "text": "In both cases, the assessment of the likelihood of facts relevant to the issues having occurred or not is affected by the \"the nature and consequence of the fact or facts to be proved\" ( Watson v Foxman ) and the effect of the passage of time and subsequent events on the reliability of human memory.",
+      "id": "s485"
+    },
+    {
+      "text": "Relevant surrounding circumstances include the following: \n(1) Mr Hobson has been a LAME for more than 20 years.",
+      "id": "s486"
+    },
+    {
+      "text": "From his oral evidence it was apparent that he was familiar with the terms and conditions of his licence and the requirements of the Civil Aviation Act and Civil Aviation Regulations governing his work as a LAME.",
+      "id": "s487"
+    },
+    {
+      "text": "Mr Pitt, his employer, considered Mr Hobson to have a \"very high standard\" in carrying out work to aircraft.",
+      "id": "s488"
+    },
+    {
+      "text": "Although Mr Pitt did not know about the cancellation of Reg-Air's certificate of approval there was no reason for Mr Hobson to have so informed him, particularly given the fact that this occurred in 2001.",
+      "id": "s489"
+    },
+    {
+      "text": "(2) Mr Harper was unhappy with the treatment of his aircraft in the first hangar and relocated the aircraft to hangar 273 where Mr Hobson was working on aircraft TSO.",
+      "id": "s490"
+    },
+    {
+      "text": "Until the falling out between Mr Harper and Mr Hobson (which appears to have first arisen in about September 2006), Mr Harper felt free to use Mr Hobson's tools to work on aircraft ONC and to seek Mr Hobson's advice.",
+      "id": "s491"
+    },
+    {
+      "text": "Mr Harper accepted that their relationship was a friendly one (at least before September 2006).",
+      "id": "s492"
+    },
+    {
+      "text": "Mr Harper said he had known Mr Hobson for about 10 years in 2005.",
+      "id": "s493"
+    },
+    {
+      "text": "Before their falling out, Mr Harper also considered that Mr Hobson wanted aircraft ONC to be in good condition.",
+      "id": "s494"
+    },
+    {
+      "text": "Given the lack of invoices (bar the one referred to) it appears that Mr Harper had the benefit of a significant amount of free advice from Mr Hobson.",
+      "id": "s495"
+    },
+    {
+      "text": "(3) Mr Harper agreed that aircraft ONC had more hours on its airframe than aircraft TSO.",
+      "id": "s496"
+    },
+    {
+      "text": "(4) Mr Harper wanted to use aircraft ONC for charter purposes and sought Mr Hobson's advice (amongst others) about making the aircraft suitable for that purpose.",
+      "id": "s497"
+    },
+    {
+      "text": "Mr Hobson said that he told Mr Harper extensive works were required which Mr Harper agreed to do.",
+      "id": "s498"
+    },
+    {
+      "text": "Mr Harper denied agreeing to do those works.",
+      "id": "s499"
+    },
+    {
+      "text": "However, he obtained quotes relevant to such works and agreed that he had dismantled parts of aircraft ONC himself such as to give it an appearance of being gutted.",
+      "id": "s500"
+    },
+    {
+      "text": "He started those works in the month or two before aircraft ONC's maintenance release expired.",
+      "id": "s501"
+    },
+    {
+      "text": "Those works meant that aircraft ONC was not airworthy from about May to June 2005.",
+      "id": "s502"
+    },
+    {
+      "text": "(5) In November 2005 Mr Harper agreed that AirAg could remove the nose wheel doors.",
+      "id": "s503"
+    },
+    {
+      "text": "The doors were not re-installed until January 2007 by Bankstown Aircraft Maintenance.",
+      "id": "s504"
+    },
+    {
+      "text": "Mr Harper did not demand re-installation earlier.",
+      "id": "s505"
+    },
+    {
+      "text": "Without the nose gear doors aircraft ONC was not airworthy.",
+      "id": "s506"
+    },
+    {
+      "text": "(6) Mr Harper denied that there was any agreement (express or tacit) between him and Mr Hobson by which Mr Harper could use Mr Hobson's tools and manuals and obtain free advice and Mr Hobson could use parts from aircraft ONC (which was not airworthy) provided he returned and re-installed the parts.",
+      "id": "s507"
+    },
+    {
+      "text": "However, one part of Mr Harper's cross-examination included the following exchange:\n \nNow, there was a battery missing for a period of time and that was lent to a third party?",
+      "id": "s508"
+    },
+    {
+      "text": "Yes.",
+      "id": "s509"
+    },
+    {
+      "text": "Were you aware of that?",
+      "id": "s510"
+    },
+    {
+      "text": "No.",
+      "id": "s511"
+    },
+    {
+      "text": "I wasn't distressed over it but I wasn't aware of it.",
+      "id": "s512"
+    },
+    {
+      "text": "Is that because - the reason you're saying you're not distressed sir, is because there was a general understanding that on the basis that your aircraft wasn't fit to fly, parts that would assist other aircraft owners could be used provided they were reinstalled?",
+      "id": "s513"
+    },
+    {
+      "text": "Yes, but what point do you go to - they're going to remove my undercarriage and give to someone.",
+      "id": "s514"
+    },
+    {
+      "text": "There's a bit of a difference with a battery, same with a nose wheel door.",
+      "id": "s515"
+    },
+    {
+      "text": "There's a bit of difference between a nose wheel door or pulling an engine off or pulling trim motor outer cables and that, there's a significant difference there.",
+      "id": "s516"
+    },
+    {
+      "text": "Having regard to this evidence I infer that, irrespective of his current recollections, it is more likely than not that Mr Harper, immediately after buying aircraft ONC, was keen to have the aircraft refurbished and upgraded to make it suitable for charter work.",
+      "id": "s517"
+    },
+    {
+      "text": "Further, that Mr Harper recognised that this would require a substantial investment of money.",
+      "id": "s518"
+    },
+    {
+      "text": "Mr Harper thus attempted to do as much of the work he could himself using Mr Hobson, whom he knew reasonably well and who was a LAME, as a free or cheap source of assistance (knowledge, tools, manuals and help) insofar as possible.",
+      "id": "s519"
+    },
+    {
+      "text": "To that end, Mr Harper dismantled the parts of the aircraft thereby giving it a \"gutted\" appearance.",
+      "id": "s520"
+    },
+    {
+      "text": "Mr Harper did this work in the month or two before the aircraft's maintenance release expired.",
+      "id": "s521"
+    },
+    {
+      "text": "I infer that Mr Harper must have known that the work he wanted to do would take some time, with the aircraft not being airworthy during the work.",
+      "id": "s522"
+    },
+    {
+      "text": "I infer also that during this period Mr Harper had many discussions with Mr Hobson, and regularly drew on Mr Hobson's expertise, tools and (perhaps) manuals.",
+      "id": "s523"
+    },
+    {
+      "text": "In these circumstances I consider it more likely than not that, by his words and conduct (whether or not in the words attributed to him by Mr Hobson, which Mr Hobson acknowledged he could not recall clearly), Mr Harper generally consented to Mr Hobson borrowing parts from aircraft ONC while it was not airworthy provided the parts were re-installed.",
+      "id": "s524"
+    },
+    {
+      "text": "Mr Harper appears not to have expected this arrangement to involve parts he considered significant but Mr Hobson, as a LAME, may well have had a different expectation.",
+      "id": "s525"
+    },
+    {
+      "text": "Either way, I consider the evidence supports an inference that (at the least) Mr Harper impliedly consented to Mr Hobson allowing Mr Hobson to borrow parts from aircraft ONC while it was not airworthy and subject to the parts being returned and re-installed.",
+      "id": "s526"
+    },
+    {
+      "text": "Accordingly, Mr Hobson has discharged his onus of establishing consent to the borrowing of those parts which Mr Hobson admitted borrowing.",
+      "id": "s527"
+    },
+    {
+      "text": "It is true that Mr Hobson did not return one part (the trim servo motor) whereas all other parts were returned.",
+      "id": "s528"
+    },
+    {
+      "text": "As discussed, I accept that Mr Hobson re-installed the incorrect part into aircraft ONC.",
+      "id": "s529"
+    },
+    {
+      "text": "Mr Hobson accepted his responsibility for this error and offered to pay the cost of overhauling the trim servo motor installed into aircraft ONC (of $671 according to an invoice).",
+      "id": "s530"
+    },
+    {
+      "text": "The evidence does not establish that Mr Hobson intended to keep aircraft ONC's trim servo motor.",
+      "id": "s531"
+    },
+    {
+      "text": "Nevertheless, I am satisfied that, by his error, Mr Hobson deprived Mr Harper of his right to possession of trim servo motor 5096.",
+      "id": "s532"
+    },
+    {
+      "text": "Mr Hobson thus, by his mistake, converted trim servo motor 5096 to his own use.",
+      "id": "s533"
+    },
+    {
+      "text": "These facts do not constitute trespass to the trim servo motor because, at the time of the mistake of converting the motor to his own use, Mr Hobson in fact had possession of the part, not Mr Harper (see Penfolds Wines Pty Ltd v Elliott [1946] HCA 46 ; (1946) 74 CLR 204 at 226).",
+      "id": "s534"
+    },
+    {
+      "text": "Nevertheless, they do amount to conversion (because installing the trim servo motor from aircraft ONC into aircraft TSO was a serious interference to Mr Harper's right to possession of that part and, obviously, not authorised by the consent I have found Mr Harper to have given).",
+      "id": "s535"
+    },
+    {
+      "text": "In Butler v Egg &amp; Egg Pulp Marketing Board [1966] HCA 38 ; (1966) 114 CLR 185 at 191 Taylor and Owen JJ observed that the principle governing damages for conversion, in common with all torts, is that \"the injured party should receive compensation in a sum which, so far as money can do so, will put him in the same position as he would have been in if the contract had been performed or the tort had not been committed\".",
+      "id": "s536"
+    },
+    {
+      "text": "Further, (also at 191) that: \n ...this principle is as much applicable to actions of conversion as it is to the case of other actionable wrongs.",
+      "id": "s537"
+    },
+    {
+      "text": "In most cases of conversion it is, of course, obvious that its application will result in the injured plaintiff recovering the full value of the property converted since that will usually represent the loss that he has sustained by the defendant's wrongful act.",
+      "id": "s538"
+    },
+    {
+      "text": "Hence the statement which appears so often in the books that the general rule is that the plaintiff in an action of conversion is entitled to recover the full value of the goods converted, but this statement should not be allowed to obscure the broad principle that damages are awarded by way of compensation.",
+      "id": "s539"
+    },
+    {
+      "text": "According to Mr Harper the cost of acquiring and installing a new trim servo motor would be in the order of $1500.",
+      "id": "s540"
+    },
+    {
+      "text": "I consider that this amount represents the proper assessment of Mr Harper's damage having regard to the applicable principles of compensation (and it should be noted in this regard, that Mr Harper did not suggest he had made any demand for the return of the part).",
+      "id": "s541"
+    },
+    {
+      "text": "This is consistent with the approach that, in effect, subjects a person who has converted goods to a forced purchase of them at their full value.",
+      "id": "s542"
+    },
+    {
+      "text": "In submissions, Mr Hobson's counsel accepted that the amount of $1500 would be the appropriate sum by way of damages with respect to this part.",
+      "id": "s543"
+    },
+    {
+      "text": "Insofar as Mr Harper's allegations related to parts with which Mr Hobson denied any interference, I am not satisfied that Mr Harper has discharged his onus of proof.",
+      "id": "s544"
+    },
+    {
+      "text": "Mr Harper himself undertook substantial works to aircraft ONC.",
+      "id": "s545"
+    },
+    {
+      "text": "Many other people also had access to aircraft ONC over a long period.",
+      "id": "s546"
+    },
+    {
+      "text": "Mr Hobson admitted borrowing some parts.",
+      "id": "s547"
+    },
+    {
+      "text": "It is difficult to understand why he would deny having interfered with other parts (such as switches and panels) given his case that Mr Harper generally permitted parts to be borrowed from aircraft ONC, provided they were returned.",
+      "id": "s548"
+    },
+    {
+      "text": "For these reasons I do not accept Mr Harper's common law claims of trespass and conversion against Mr Hobson other than in respect of the trim servo motor which Mr Hobson inadvertently converted to his own use on aircraft TSO.",
+      "id": "s549"
+    },
+    {
+      "text": "It also follows that Mr Harper's claim for exemplary damages cannot be sustained.",
+      "id": "s550"
+    },
+    {
+      "text": "Another observation\n One further observation should be made.",
+      "id": "s551"
+    },
+    {
+      "text": "A number of submissions for Mr Harper referred to Mr Hobson having contravened the Civil Aviation Act and Civil Aviation Regulations in various respects (particularly in relation to record-keeping).",
+      "id": "s552"
+    },
+    {
+      "text": "The pleadings, however, identify the limited role which these legislative requirements played in Mr Harper's case.",
+      "id": "s553"
+    },
+    {
+      "text": "According to the second amended statement of claim, these legislative requirements were relevant to the claims about the implied representation (which I have rejected because the making of such a representation was founded on the existence of an agreement between Mr Harper and Reg-Air that I do not accept existed) and the implied warranty (which I have also rejected for various reasons).",
+      "id": "s554"
+    },
+    {
+      "text": "CONCLUSIONS \n For the reasons I have given, I do not accept any of Mr Harper's claims based on the Trade Practices Act .",
+      "id": "s555"
+    },
+    {
+      "text": "Nor do I accept his claims based on trespass to, and conversion of, parts from aircraft ONC other than in one respect.",
+      "id": "s556"
+    },
+    {
+      "text": "Despite the fact that I accept Mr Hobson did not intend to keep the trim servo motor from aircraft ONC, I am satisfied that he installed that trim servo motor into aircraft TSO and, in so doing, committed the tort of conversion.",
+      "id": "s557"
+    },
+    {
+      "text": "Damages to compensate Mr Harper for that conversion are assessed in the sum of $1500.",
+      "id": "s558"
+    },
+    {
+      "text": "Otherwise Mr Harper's claims against the respondents are dismissed.",
+      "id": "s559"
+    },
+    {
+      "text": "For the purpose of making final orders the parties are to file agreed orders reflecting the reasons for judgment within 7 days (including any costs order if agreed).",
+      "id": "s560"
+    },
+    {
+      "text": "If the costs order or other terms of the orders cannot be agreed, the parties are to file their competing orders within 7 days and, within the same period, are to nominate an agreed date for a short hearing on costs at 9.15 am or 9.30 am within a further 7 days thereafter.",
+      "id": "s561"
+    },
+    {
+      "text": "I certify that the preceding ninety-nine (99) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Jagot.",
+      "id": "s562"
+    },
+    {
+      "text": "Associate:\n \n \nDated: 7 May 2009\n \n Counsel for the Applicant: Mr J Levingston \n \n Counsel for the First, Second and Third Respondents: Mr S W Cairns \n \n Solicitor for the Applicant: Bertock &amp; Associates \n \n Solicitor for the First, Second and Third Respondents: Peter Merity Solicitors Pty Ltd \n Date of Hearing: 30-31 March, 1 and 14 April 2009 \n \n Date of Judgment: 7 May 2009 \n \n \n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2009/448.html",
+      "id": "s563"
+    }
+  ]
+}

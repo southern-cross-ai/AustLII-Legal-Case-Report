@@ -1,0 +1,784 @@
+{
+  "name": "Mitsui &amp; Co Ltd v Hanwha (HK) Co Ltd [2007] FCA 2070 (20 December 2007)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2007/2070.html",
+  "catchphrases": [
+    {
+      "text": "application for approval of compulsory acquisition of securities in notice",
+      "id": "c0"
+    },
+    {
+      "text": "s 664f corporations act 2001 (cth)",
+      "id": "c1"
+    },
+    {
+      "text": "preliminary issue",
+      "id": "c2"
+    },
+    {
+      "text": "whether notice sets out \"cash sum\"",
+      "id": "c3"
+    },
+    {
+      "text": "s 664c(1)(a)",
+      "id": "c4"
+    },
+    {
+      "text": "applicant lodged notice with asic and despatched to minority shareholders offering a cash amount per share but subject to adjustment at some unstipulated time after date of notice",
+      "id": "c5"
+    },
+    {
+      "text": "notice did not set out \"cash sum\".",
+      "id": "c6"
+    },
+    {
+      "text": "\"cash sum\"",
+      "id": "c7"
+    },
+    {
+      "text": "s 664c(1)(a) corporations act 2001 (cth)",
+      "id": "c8"
+    },
+    {
+      "text": "corporations",
+      "id": "c9"
+    },
+    {
+      "text": "words and phrases",
+      "id": "c10"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "1 Mitsui &amp; Co. Ltd (\"Mitsui\") is a foreign public company registered with the Australian Securities and Investments Commission (\"ASIC\").",
+      "id": "s0"
+    },
+    {
+      "text": "Mitsui has a wholly owned subsidiary, Mitsui &amp; Co (Australia) Ltd (\"Mitsui Australia\").",
+      "id": "s1"
+    },
+    {
+      "text": "2 Salt Asia Holdings Pty Ltd (\"SAH\") is an Australian proprietary company.",
+      "id": "s2"
+    },
+    {
+      "text": "The shareholders of SAH (other than Mitsui and Mitsui Australia) are Hanwha (HK) Co Ltd (\"Hanwha\") (the respondent, a company incorporated in Hong Kong) and PT Sempurna Caturguna (\"Sempurna\") (a company incorporated in Indonesia).",
+      "id": "s3"
+    },
+    {
+      "text": "3 Onslow Salt Pty Ltd (\"Onslow Salt\") is a wholly owned subsidiary of SAH.",
+      "id": "s4"
+    },
+    {
+      "text": "Prior to May 2007, SAH held a 92.7% interest in Onslow Salt.",
+      "id": "s5"
+    },
+    {
+      "text": "4 Akzo Nobel Chemicals International BV (\"Akzo\") and Akzo Nobel NV (\"Akzo NV\") are companies incorporated in the Netherlands.",
+      "id": "s6"
+    },
+    {
+      "text": "MITSUI: 90% HOLDER IN SAH \n \n5 On 31 July 2006, Mitsui and Mitsui Australia acquired all of their aggregate 94.2% interest in the ordinary shares of SAH and 73.9% interest in the A class shares of SAH pursuant to a Share Sale Agreement dated 31 May 2006 (\"Share Sale Agreement\") between Mitsui, Akzo and Akzo NV.",
+      "id": "s7"
+    },
+    {
+      "text": "These acquisitions by Mitsui constituted it a \"90% Holder\" in relation to securities in SAH by reason of s 664A of the Act.",
+      "id": "s8"
+    },
+    {
+      "text": "COMPULSORY ACQUISITION PROCESS \n \n6 On 1 August 2006, Mitsui informed Sempurna and Hanwha that it would exercise its right under the provisions of the Corporations Act 2001 (Cth) (\"the Act \") to compulsorily acquire the remaining shares of SAH held by Sempurna and Hanwha.",
+      "id": "s9"
+    },
+    {
+      "text": "7 On 19 January 2007, PKF Corporate Advisory Services (NSW) Pty Ltd provided Mitsui with its independent expert report.",
+      "id": "s10"
+    },
+    {
+      "text": "PFK concluded, among other things, that the terms proposed by Mitsui for the acquisition of Hanwha's and Sempurna's shares equalled or exceeded PKF's assessment of fair value for their shares in SAH.",
+      "id": "s11"
+    },
+    {
+      "text": "8 Mitsui offered, under the compulsory acquisition notice dated 25 January 2007 concerning the shares of SAH (\"Notice\"), to pay Hanwha the same amount per share that Mitsui (and Mitsui Australia) paid Akzo under the Share Sale Agreement for its ordinary shares in SAH.",
+      "id": "s12"
+    },
+    {
+      "text": "Sempurna was offered the same price for its ordinary shares.",
+      "id": "s13"
+    },
+    {
+      "text": "9 By the Notice, Mitsui offered to pay a cash amount that was effectively subject to four specified adjustments contained in a summary of the Share Sale Agreement (SSA) between Mitsui and Akzo and attached, as Annexure 'A' to the Notice.",
+      "id": "s14"
+    },
+    {
+      "text": "The nature of the adjustments was the subject of specific definition, in the Notice, relevantly, as follows: \n \n \n '4.",
+      "id": "s15"
+    },
+    {
+      "text": "The 90% Holder hereby gives notice that it proposes to compulsorily acquire ordinary shares that you hold for the cash amount of $16.1657119780 per share, as calculated in accordance with item (e)(iii)(B) of Annexure A and subject to the further adjustments in items (c), (d) and (e)(ii) of Annexure A.",
+      "id": "s16"
+    },
+    {
+      "text": "\"Annexure A\" \n \n .",
+      "id": "s17"
+    },
+    {
+      "text": ".",
+      "id": "s18"
+    },
+    {
+      "text": ".",
+      "id": "s19"
+    },
+    {
+      "text": "(c) An adjustment is to be made to the Initial Purchase Price pursuant to an agreed formula if Onslow receives any insurance payment (\"Cyclone Insurance Payment\") in relation to claims made by Onslow under its property damage and business interruption insurance (\"Insurance Claim\") in connection with Tropical Cyclones Glenda and Hubert in March and April 2006 (\"Cyclones\").",
+      "id": "s20"
+    },
+    {
+      "text": "At the date of this notice, there has been no adjustment pursuant to this provision.",
+      "id": "s21"
+    },
+    {
+      "text": "This adjustment to Hanwha will be calculated as follows: \n \n \n \n \n (Cyclone Insurance Payment net of all costs incurred by Onslow in connection with the enforcement of the Insurance Claim (if any), and any tax payable by Onslow in respect thereof) X 0.0347.",
+      "id": "s22"
+    },
+    {
+      "text": "(d) An adjustment is to be made to the Initial Purchase Price in accordance with an agreed formula to restore assets of the Group to their original working order prior to the Cyclones.",
+      "id": "s23"
+    },
+    {
+      "text": "At the date of this notice, there has been no adjustment pursuant to this provision.",
+      "id": "s24"
+    },
+    {
+      "text": "This adjustment to Hanwha will be calculated by multiplying 0.0347 with any balance amount between the actual liabilities Onslow will incur for the repairs and the amount of the write-down of the fixed assets in the Completion Accounts (as defined in paragraph (e) below), according to the agreed scope of repair work under the SSA.",
+      "id": "s25"
+    },
+    {
+      "text": "(e) An adjustment is to be made to the Initial Purchase Price in the event that Akzo's interest in the net assets (\"Net Assets Amount\") of the Company and Onslow (together, the \"Group\") as at the close of business on 31 July 2006 (\"Completion Date\") as set out in audited financial statements for the Group (\"Completion Accounts\") is more or less than the aggregate of Akzo's interest in the net assets as at 31 December 2005 (\"Accounts Net Asset Amount\") and the estimated amount by which the Accounts Net Asset Amount changed between 31 December 2005 and Completion Date.",
+      "id": "s26"
+    },
+    {
+      "text": ".",
+      "id": "s27"
+    },
+    {
+      "text": ".",
+      "id": "s28"
+    },
+    {
+      "text": ".",
+      "id": "s29"
+    },
+    {
+      "text": "(ii) However, each of the parties has disputed the Completion Accounts pursuant to the SSA and the disputed matters are currently the subject of a dispute resolution procedure which requires the dispute to be determined by a firm of chartered accountants (\"Independent Accountant\").",
+      "id": "s30"
+    },
+    {
+      "text": "The Independent Accountant's determination will be final and binding on the parties and the Initial Purchase Price will be adjusted in accordance with that determination.",
+      "id": "s31"
+    },
+    {
+      "text": "The adjustment may be in accordance with the Completion Accounts as set out in paragraph (i) above, the 90% Holder's dispute notice or Akzo's dispute notice as set out in paragraphs (iii) or (iv) below, or such other amount determined by the Independent Accountant.",
+      "id": "s32"
+    },
+    {
+      "text": "It is expected that the Independent Accountant's determination will be finalised in February 2007.",
+      "id": "s33"
+    },
+    {
+      "text": "'\n \n\n10 Hanwha lodged an objection under s 664E of the Act to the compulsory acquisition of its 206,897 ordinary shares and 3,793,103 A class shares in SAH.",
+      "id": "s34"
+    },
+    {
+      "text": "Sempurna has lodged an objection under s 664E of the Act to the compulsory acquisition of the 2,062,500 A class shares it holds in SAH.",
+      "id": "s35"
+    },
+    {
+      "text": "11 Mitsui has applied, given the objections, for approval, under s 664F of the Act , of its compulsory acquisition of the ordinary and A class shares in SAH held by Hanwha and Sempurna.",
+      "id": "s36"
+    },
+    {
+      "text": "12 By Orders dated 11 April 2007, Nicholson J, under para 2, ordered, relevantly, that Hanwha be entitled to file a statement listing the grounds of and reasons for its objection to the compulsory acquisition of its shares in SAH by Mitsui.",
+      "id": "s37"
+    },
+    {
+      "text": "13 Hanwha filed such a statement on 4 May 2007 entitled \"Hanwha's statement pursuant to paragraph 2 of the orders made by Nicholson J on 11 April 2007\" (Hanwha's Statement).",
+      "id": "s38"
+    },
+    {
+      "text": "Ground 1(a) in Hanwha's Statement is in the following terms: \n \n The Compulsory Acquisition Notice given by the plaintiff to Hanwha does not set out the \"cash sum\" for which the plaintiff proposes to acquire the ordinary shares of SAH held by Hanwha.",
+      "id": "s39"
+    },
+    {
+      "text": "(The Cash Sum Objection)\n \n\n14 By Notice of Motion dated 8 October 2007, Mitsui sought an order that the Cash Sum Objection be determined by the Court as a preliminary issue.",
+      "id": "s40"
+    },
+    {
+      "text": "15 It also sought an order that the period set out in section 664AA of the Act be extended, pursuant to s 1322(4)(d) of the Act , so that the period ends three months after the date of such an order being made (\"Extension of Time Order\").",
+      "id": "s41"
+    },
+    {
+      "text": "The effect of s 664AA is that the 90% holder may compulsorily acquire the relevant securities only if it lodged the compulsory acquisition notice for the acquisition with ASIC within the period of 6 months after it became a 90% holder.",
+      "id": "s42"
+    },
+    {
+      "text": "16 In order to avoid an interlocutory dispute in the present proceeding as to whether the Court has power to make the Extension of Time Order, Mitsui instituted a further proceeding, Action No WAD 203 of 2007, to seek the Extension of Time Order.",
+      "id": "s43"
+    },
+    {
+      "text": "By consent on 25 October 2007, orders were made, to the effect that ground 1(a) in Hanwha's Statement be decided as a preliminary issue to be heard at the same time as the applicant's Originating Process in Action No WAD 203 of 2007.",
+      "id": "s44"
+    },
+    {
+      "text": "PRELIMINARY ISSUE \n \n17 Accordingly, the preliminary issue for determination by the Court is whether on the proper construction and application of s 664C(1)(a), the Notice sets out a 'cash sum' for which Mitsui, as 90% Holder, proposes to acquire Hanwha's ordinary shares in SAH.",
+      "id": "s45"
+    },
+    {
+      "text": "18 If the preliminary issue is decided in favour of Mitsui, it will proceed under s 664F of the Act to seek approval from the Court of its acquisition of the ordinary (and A class) shares of SAH held by Hanwha and Sempurna.",
+      "id": "s46"
+    },
+    {
+      "text": "19 If the preliminary issue is decided against Mitsui, it cannot, without further order of the Court, seek to compulsorily acquire the ordinary shares, as the 6 month period for issuing a notice of compulsory acquisition has ended.",
+      "id": "s47"
+    },
+    {
+      "text": "In this event, it will be necessary to determine Mitsui's application, in Action No WAD 203 of 2007 for the Extension of Time Order.",
+      "id": "s48"
+    },
+    {
+      "text": "THE AFFIDAVIT EVIDENCE \n \n20 The application is supported by the following affidavits: \n \n 1.",
+      "id": "s49"
+    },
+    {
+      "text": "Affidavit of Hirofumi Matsuyama sworn 27 March 2007\n \n 2.",
+      "id": "s50"
+    },
+    {
+      "text": "Affidavit of Mark Frank Gerus sworn 26 April 2007 \n \n 3.",
+      "id": "s51"
+    },
+    {
+      "text": "Second affidavit of Hirofumi Matsuyama sworn 9 October 2007 \n \n 4.",
+      "id": "s52"
+    },
+    {
+      "text": "Affidavit of Dane Robert Chandler affirmed 24 October 2007 \n \n 5.",
+      "id": "s53"
+    },
+    {
+      "text": "Third affidavit of Hirofumi Matsuyama sworn 9 November 2007 \n \n 6.",
+      "id": "s54"
+    },
+    {
+      "text": "Fourth affidavit of Hirofumi Matsuyama sworn 5 December 2007\n \n\n \n21 Hanwha relies upon the affidavit of Craig Sharp sworn 1 November 2007.",
+      "id": "s55"
+    },
+    {
+      "text": "THE BACKGROUND TO THE LEGISLATIVE REQUIREMENT FOR A \"CASH SUM\" \n \n22 The Legal Committee of the Companies and Securities Advisory Committee published its Compulsory Acquisition Report in January 1996.",
+      "id": "s56"
+    },
+    {
+      "text": "The Report, relevantly, contained the following: \n \n \n (a) In paragraph 10.5, in outlining its proposal for a new compulsory acquisition power in favour of a holder of 90% of securities in a particular class: \n \n \n \"The Key elements of this procedure are:\n \n \n \n \n &#8226; the controlling entity could make an unconditional cash offer to acquire all the remaining securities of a class\"; \n \n \n \n \n \n (b) In paragraph 10.16, in relation to notification of the offer by the 90% holder: \n \n \"A controlling entity would initiate the controlling acquisition procedure by circulating, at its own cost, an identical offer to all remaining holders of a particular class of securities to acquire the securities at a specific price.",
+      "id": "s57"
+    },
+    {
+      "text": "The offer could not be selective or conditional\".",
+      "id": "s58"
+    },
+    {
+      "text": "23 In the explanatory memorandum to the Corporate Law Economic Reform Program Bill 1998 at paragraph 7.43, the following appears with respect to compulsory acquisitions: \n \n \"To protect minority shareholders and keep markets informed, the person acquiring the securities will be required to provide a notice of acquisition.",
+      "id": "s59"
+    },
+    {
+      "text": "The notice will set out the offer price for the securities to be acquired .",
+      "id": "s60"
+    },
+    {
+      "text": ".",
+      "id": "s61"
+    },
+    {
+      "text": ".\".",
+      "id": "s62"
+    },
+    {
+      "text": "THE STATUTORY FRAMEWORK \n Compulsory Acquisition Provisions of the Corporations Act \n \n24 Part 6A.2 Div 1 of the Act provides for the compulsory acquisition of minority securities by a holder of 90% or more of the securities in the subject entity.",
+      "id": "s63"
+    },
+    {
+      "text": "25 The legislative scheme provides that within a specified period of 6 months after becoming a 90% holder, such holder can give a notice of compulsory acquisition setting out a cash price for the minority securities: see ss 664AA(b) and 664C (1).",
+      "id": "s64"
+    },
+    {
+      "text": "26 The price must be a \"cash sum\" and not differentiate between minority holders: s 664B.",
+      "id": "s65"
+    },
+    {
+      "text": "No benefit outside the price formally notified can be offered to any individual holder at any time: s 664D.",
+      "id": "s66"
+    },
+    {
+      "text": "Under the statutory regime, minority holders are entitled to object to the acquisition: s 664E.",
+      "id": "s67"
+    },
+    {
+      "text": "Where persons who hold at least 10% of the minority securities object to the acquisition then the acquisition can proceed only if the Court gives approval: ss 664F , 664A (3)(b).",
+      "id": "s68"
+    },
+    {
+      "text": "27 The Court must approve the acquisition if the 90% holder establishes that the terms set out in the notice \"give a fair value for the securities\": s 664F(3).",
+      "id": "s69"
+    },
+    {
+      "text": "Where fair value is not established, the Court must confirm that the acquisition will not take place: see s 664F(3).",
+      "id": "s70"
+    },
+    {
+      "text": "The Expression \"Cash Sum\" \n \n28 The expression \"cash sum\" is not defined in the Act .",
+      "id": "s71"
+    },
+    {
+      "text": "29 The following sections of chapter 6A of the Act are relevant to the construction of \"cash sum\" (italics added) \n \n \n \n 664B(1) [ Terms of Payment ] The 90% holder may acquire the securities in the class for a cash sum only and, subject to sub-section (2), must pay the same amount for each security in the class acquired.",
+      "id": "s72"
+    },
+    {
+      "text": "664C(1) [ Compulsory acquisition notice ] To compulsorily acquire securities under section 664A , the 90% holder must prepare a notice in the prescribed form that: \n \n \n \n \n \n (a) sets out the cash sum for which the 90% holder proposes to acquire the securities; ... \n \n \n \n \n \n 664F(3) [ Obligation to approve acquisition ] If the 90% holder establishes that the terms set out in the compulsory acquisition notice give a fair value for the securities, the Court must approve the acquisition of the securities on those terms.",
+      "id": "s73"
+    },
+    {
+      "text": "Otherwise it must confirm that the acquisition will not take place.",
+      "id": "s74"
+    },
+    {
+      "text": "666A(1) [ Completion to be by private treaty or statutory procedure ] A person entitled to acquire securities under section 661A or 664A must either: \n \n \n \n (a) pay, issue or transfer the consideration to the holder, take a transfer of the securities from the holder and have the company that issued the securities register the transfer; or \n \n (b) complete the procedure laid down in section 666B ; \n \n by the end of the period referred to in subsection (2) or (3).",
+      "id": "s75"
+    },
+    {
+      "text": "666A(3) Time for completing compulsory acquisition under Part 6A.2 .",
+      "id": "s76"
+    },
+    {
+      "text": "For an acquisition under section 664A or 664F , the period ends 14 days after the later of: \n \n \n \n \n (a) the end of the objection period; or \n \n (b) if an application for approval of the acquisition is made to the Court under section 664F in relation to the securities --- the application is finally determined .",
+      "id": "s77"
+    },
+    {
+      "text": "666B(1) [ Procedure of acquisition ] Under this section, the person acquiring the securities must: ... \n \n \n \n \n \n (b) pay, issue or transfer the consideration for the transfer to the company that issued the securities.",
+      "id": "s78"
+    },
+    {
+      "text": "666B(2) [ Procedure upon receipt of documents ] If the person acquiring the securities complies with subsection (1), the company that issued the securities must: ... \n \n \n \n \n (b) hold the consideration received under subsection (1) in trust for the person who held the securities immediately before registration; and\n (c) give written notice to the person referred to in paragraph (b) as soon as practicable that the consideration has been received and is being held by the company pending their instructions as to how it is to be dealt with.",
+      "id": "s79"
+    },
+    {
+      "text": "666B(3) [ Obligation in relation to money ] If the consideration held under subsection (2) consists of, or includes, money, that money must be paid into a bank account opened and maintained for that purpose only.",
+      "id": "s80"
+    },
+    {
+      "text": "30 The consequence of those provisions is that:\n \n \n (a) a 90% holder may compulsorily acquire minority shareholders' securities for a \"cash sum \" only (ss 664B(1) and 664C (1));\n \n (b) a Court must approve of the 90% holder's compulsory acquisition if the terms set out in the compulsory acquisition notice, (which include the \"cash sum\" ) give a \"fair value\" for the minority shareholders' shareholdings (ss.664F(3)) ; and \n \n (c) if a Court approves of the compulsory acquisition the \"consideration\" , which may include \"money\", must be paid within 14 days of the court orders (ss 666A and 666B ).",
+      "id": "s81"
+    },
+    {
+      "text": "Meaning of \"Cash\" \n \n31 The definition of \"cash\", in the Macquarie Dictionary, 4th Ed includes:\n \n \n 1. money, especially money on hand, as opposed to a money equivalent (as a cheque);\n \n 2. money paid at the time of making a purchase, or sometimes an equivalent (as a cheque), as opposed to credit; or\n \n \n \n 3. to give or obtain cash for (a cheque, etc).",
+      "id": "s82"
+    },
+    {
+      "text": "32 The relevant sections of chapter 6A of the Act cited above distinguish \" cash sum \", \"consideration\" and \"money\" .",
+      "id": "s83"
+    },
+    {
+      "text": "Section 664B provides that Mitsui may acquire Hanwha's and Sempurna's shares in SAH for a \" cash sum only \", but s 666B provides, in effect, that at completion of the acquisition Mitsui must pay, issue or transfer the \"consideration\" , which may include \"money\" .",
+      "id": "s84"
+    },
+    {
+      "text": "33 Mitsui submits that the reference to payment of \"consideration \", and not to a \"cash sum\" , in s 666B of the Act may be understood on the basis that s 666B concerns not only completion of a compulsory acquisition by a 90% holder in accordance with s 664A , as in this case, but also the completion of a compulsory acquisition in accordance with s 661A by a bidder under a takeover bid.",
+      "id": "s85"
+    },
+    {
+      "text": "Section 666B must use the more general term \"consideration\" because, under s 621(1) , a bidder may make an off-market bid by offering \" any form of consideration \".",
+      "id": "s86"
+    },
+    {
+      "text": "34 Mitsui submits that the principal distinction in the Act between the forms of consideration is between (at s 621(1)): \n \n (a) a cash sum; or\n \n \n \n (b) securities (including shares, debentures, interests in a managed investment scheme or options); or\n \n \n \n (c) a combination of a cash sum and securities.",
+      "id": "s87"
+    },
+    {
+      "text": "35 I accept this submission so far as it goes.",
+      "id": "s88"
+    },
+    {
+      "text": "However there is, in my opinion, a further reason for using the word \"consideration\", in ss 666A and 666B rather than say, relevant to a case such as this, 'cash sum'.",
+      "id": "s89"
+    },
+    {
+      "text": "It is because at settlement, the consideration paid in 'money' may or may not be the same as the 'cash sum' set out in the Notice.",
+      "id": "s90"
+    },
+    {
+      "text": "36 It may not be the same, for example, by operation of s 664B which is in the following terms: \n \n 664B THE TERMS FOR COMPULSORY ACQUISITION \n \n (1) The 90% holder may acquire the securities in the class for a cash sum only and, subject to subsection (2), must pay the same amount for each security in the class acquired.",
+      "id": "s91"
+    },
+    {
+      "text": "(2) The 90% holder may pay different amounts for the securities in the class acquired if the differences are attributable to either or both of the following: \n \n (a) the fact that there are differences in the accrued dividend or distribution entitlements of the securities; \n \n (b) the fact that there are differences in the amounts paid up, or that remain unpaid, on the securities.",
+      "id": "s92"
+    },
+    {
+      "text": "37 Accordingly, any such compulsory acquisition notice must be read with the provisions of s 664B in mind.",
+      "id": "s93"
+    },
+    {
+      "text": "It may not be known at the date of compulsory acquisition notice whether any of the provisions in that section will have application because, for example, the 'differences' may only crystallise after the date of the notice and before settlement.",
+      "id": "s94"
+    },
+    {
+      "text": "38 There may also be an equitable set off available to the acquirer arising from a distribution, in the case of units, or payment of a dividend in the case of shares, such that the consideration paid at settlement is less than the cash sum in the Notice: Capricorn Diamonds Investments Pty Ltd v Catto [2002] VSC 105 ; (2002) 5 VR 61 at [99] - [100] .",
+      "id": "s95"
+    },
+    {
+      "text": "See also Brierley v Dextran Pty Ltd (1990) 9 ACLC 30, although the adjustment at settlement there, arose not in equity or under any statutory provision but by reason of the terms of the offer referrable to accretions, accruing for whatever reason, directly or indirectly to the shares.",
+      "id": "s96"
+    },
+    {
+      "text": "The offer in that case was to acquire the shares, with accretions for a cash sum.",
+      "id": "s97"
+    },
+    {
+      "text": "Where the offerees prior to settlement received benefits by way of accretions to the shares (an interim dividend), there was a set-off available to the offeror to that extent.",
+      "id": "s98"
+    },
+    {
+      "text": "There was no issue as to what was the \"cash sum\", or whether the offer was for a \"cash sum\".",
+      "id": "s99"
+    },
+    {
+      "text": "The \"cash sum\" was $2.30 per share.",
+      "id": "s100"
+    },
+    {
+      "text": "The question was whether at settlement, the amount payable was the cash sum less the interim dividend paid on the shares to the offerees prior to settlement.",
+      "id": "s101"
+    },
+    {
+      "text": "39 Capricorn was in similar vein.",
+      "id": "s102"
+    },
+    {
+      "text": "The cash sum offered in the notice of compulsory acquisition was $2 for each unit.",
+      "id": "s103"
+    },
+    {
+      "text": "The benefit of distributions undeclared at the time of a compulsory acquisition notice accrues to an acquirer under s 664A of the Act : Capricorn at [92].",
+      "id": "s104"
+    },
+    {
+      "text": "The question in that case was whether at settlement the acquirer was liable to set off against the cash sum of $2 the amount of benefit by way of distributions paid to the offerees between the date of the notice of compulsory acquisition and settlement.",
+      "id": "s105"
+    },
+    {
+      "text": "Neither Brierley nor Capricorn , in my opinion, assists the construction of \"cash sum\".",
+      "id": "s106"
+    },
+    {
+      "text": "40 The present case is very different.",
+      "id": "s107"
+    },
+    {
+      "text": "The question here is whether the base dollar figure subject to four adjustments together constitutes a \"cash sum\" within the meaning of s 664C(1)(a) of the Act .",
+      "id": "s108"
+    },
+    {
+      "text": "Meaning of \"Sum\" \n \n41 The definition of \"sum\", as a noun, in the Macquarie Dictionary, 4th Ed includes:\n \n \n 1. the aggregate of two or more numbers, magnitudes, quantities, or particulars as determined by a mathematical process;\n \n \n \n 2. a particular aggregate or total, especially with reference to money;\n \n 3. a quantity or amount, especially of money;\n \n 4. a series of numbers or quantities to be added up;\n \n 5a.",
+      "id": "s109"
+    },
+    {
+      "text": "an arithmetical calculation.",
+      "id": "s110"
+    },
+    {
+      "text": "42 Hanwha concedes, correctly in my opinion, that \"cash sum\" in s 664C(1)(a) permits a formulative description of the cash sum if the cash sum may thereby be arithmetically calculated.",
+      "id": "s111"
+    },
+    {
+      "text": "At first blush that is to agree with the submissions put by Mitsui.",
+      "id": "s112"
+    },
+    {
+      "text": "The difference between them is in the detail.",
+      "id": "s113"
+    },
+    {
+      "text": "43 Mitsui relied upon a number of authorities in support of its submission that the language of s 664C(1)(a) squarely permits a construction under which \"cash sum\" includes a \"money sum\", payable at settlement, which is determined in a specified manner, and which will arrive at an objective and definite result, or determined by a mechanism which permits the definite calculation of the price.",
+      "id": "s114"
+    },
+    {
+      "text": "44 Re Korda; in the matter of Stockford Ltd [2004] FCA 1682 , was concerned with what is meant by \"such remuneration as is fixed by a resolution of the company's creditors ...\" under s 449E(1)(a) of the Act .",
+      "id": "s115"
+    },
+    {
+      "text": "45 A creditors meeting had purported to fix the administration remuneration by approving specific sums of money for each of the first two weeks of the administration and prospectively approving further remuneration by reference to hourly rates set out in the creditors report subject to the committee of creditors reviewing and confirming the details of the remuneration claim.",
+      "id": "s116"
+    },
+    {
+      "text": "The hourly rates contained in the creditors' reports included a range of rates the administrators were entitled to charge for the same types of work.",
+      "id": "s117"
+    },
+    {
+      "text": "At [24] Finkelstein J said: \n \n The second reason is that even if it be permissible to \"fix\" remuneration prospectively by reference to a rate or scale of charges, such as an hourly rate, which is open ended and has no upper limit (which is what the administrators argue) here the resolutions go far beyond that.",
+      "id": "s118"
+    },
+    {
+      "text": "The natural meaning of the word \"fix\" in the context of an entitlement to \"such remuneration as is fixed by a resolution of [creditors]\" is, so it seems to me, to quantify that remuneration, that is to calculate or ascertain the amount of remuneration: Mayne v Jaques [1960] HCA 23 ; (1960) 101 CLR 169, 173, 174, 180.",
+      "id": "s119"
+    },
+    {
+      "text": "See also In re Gallard; Ex parte Harris [1892] 1 QB 532, 544.",
+      "id": "s120"
+    },
+    {
+      "text": "Thus, remuneration will be \"fixed\" if it is stated as a money sum, or is based on a formula which is capable of being applied according to some objective standard so the sum \"can be calculated or ascertained definitely\": Fraser Henleins v Cody [1945] HCA 49 ; (1945) 70 CLR 100, 128.",
+      "id": "s121"
+    },
+    {
+      "text": "In the case of a formula all the objective elements must be identified.",
+      "id": "s122"
+    },
+    {
+      "text": "46 Racecourse Co-operative Sugar Association Ltd v Attorney-General of the State of Queensland [1979] HCA 50 ; (1979) 142 CLR 460 at 481, concerned the meaning of \"... prices ... fixed\" in s 6(1) of the Sugar Acquisition Act 1915 Qld).",
+      "id": "s123"
+    },
+    {
+      "text": "47 At p 480 Gibbs J stated (relevant page numbers included): \n \n In a series of cases under the National Security (Prices) Regulations, this Court discussed the manner in which the power given by those regulations to fix prices might validly be exercised.",
+      "id": "s124"
+    },
+    {
+      "text": "It is enough to refer to King Gee Clothing Co Pty Ltd v The Commonwealth [1945] HCA 23 ; (1945) 71 CLR 184 and Cann's Pty Ltd v The Commonwealth [1946] HCA 5 ; (1946) 71 CLR 210 .",
+      "id": "s125"
+    },
+    {
+      "text": "In King Gee Clothing Co Pty Ltd v The Commonwealth , Dixon J. said at p 197: \n \n \n\"But it is another matter when the basis of the price, however clearly described, involves some matter which is not an ascertainable fact or figure but a matter of estimate, assessment, discretionary allocation, or apportionment, resulting in the attribution of an amount or figure as a matter of judgment.",
+      "id": "s126"
+    },
+    {
+      "text": "When that is done no certain objective standard is prescribed; it is not a calculation and the result is not a price fixed or a fixed price.",
+      "id": "s127"
+    },
+    {
+      "text": "In the same case, Williams J at p 208, repeated an earlier statement that \"a bare power to 'fix' a price cannot be validly exercised without naming a money sum, or prescribing a certain standard by the application of which it can be calculated or ascertained definitely.",
+      "id": "s128"
+    },
+    {
+      "text": "\" In Cann's Pty.",
+      "id": "s129"
+    },
+    {
+      "text": "Ltd v The Commonwealth , Latham C.J. said at p 217 that where the prices are fixed by reference to a standard, \"the standard must not be such that any element therein can be ascertained only by the exercise of discretion in apportionment, allotment, allocation or otherwise.",
+      "id": "s130"
+    },
+    {
+      "text": "\" \n \n \n \n \n\n48 Gibbs J continued (p 481):\n \n A power given to one person to determine a value or fix a price will not be validly exercised by allowing another to exercise a wide and unreviewable discretion in determining that price, although the person upon whom the power is conferred may, instead of actually fixing a money sum himself, \"lay down a method of finding it which will produce the same result whoever applies it, so long as he uses it correctly.",
+      "id": "s131"
+    },
+    {
+      "text": "\": Cann's Pty Ltd v The Commonwealth at p 228.",
+      "id": "s132"
+    },
+    {
+      "text": "49 Fraser Henliens Pty Ltd v Cody [1945] HCA 49 ; (1945) 70 CLR 100 concerned whether particular formulative phrases embodied in a Prices Regulation Order made under the Black Marketing Act 1942 were so vague and uncertain as to make the order invalid as not fixing a price.",
+      "id": "s133"
+    },
+    {
+      "text": "Dixon J said (p 128) that a \"bare power to \"fix\" a price cannot be validly exercised without naming a money sum, or prescribing a certain standard by the application of which it can be calculated or ascertained definitely.",
+      "id": "s134"
+    },
+    {
+      "text": "Otherwise the price is not \"fixed\".",
+      "id": "s135"
+    },
+    {
+      "text": "\"\n \n50 Hanwha points to the same authorities in support of its submissions that \"cash sum\" means a specified or fixed amount of money, which is not subject to any condition or indeterminate adjustment.",
+      "id": "s136"
+    },
+    {
+      "text": "It conceded, as I said, that a formula or mechanism for arriving at the \"cash sum\" may be used but submitted that it must be one that can be calculated or ascertained definitely; King Gee Clothing Co Ltd v The Commonwealth [1945] HCA 23 ; (1945) 71 CLR 184 at p 208 per Williams J.",
+      "id": "s137"
+    },
+    {
+      "text": "It must be a \"method which will produce the same result whoever applies it so long as he uses it correctly\": Cann's Pty Ltd v The Commonwealth [1946] HCA 5 ; (1946) 71 CLR 210 at p 228.",
+      "id": "s138"
+    },
+    {
+      "text": "51 Hanwha submits that assistance can be drawn from other provisions in the Act which use the expression \"cash sum\".",
+      "id": "s139"
+    },
+    {
+      "text": "Section 621 \n \n52 The words \"cash sum\" are used in s 621 in the sense of a fixed amount of money, which is not conditional or subject to adjustment.",
+      "id": "s140"
+    },
+    {
+      "text": "It is for that reason that s 621(4) provides that the value of consideration that is not a \"cash sum\" is to be ascertained as at the time the relevant offer, purchase or agreement is made.",
+      "id": "s141"
+    },
+    {
+      "text": "The \"cash sum\" is ascertained as at the time the relevant offer, purchase or agreement is made, since it is a fixed amount of money .",
+      "id": "s142"
+    },
+    {
+      "text": "Section 636(1)(h) \n \n53 Section 636(1)(h) provides for the information about the consideration that must be included in a bidder's statement.",
+      "id": "s143"
+    },
+    {
+      "text": "It is clear that, to the extent that the consideration is a \"cash sum\", such amount included in the statement must be fixed and certain, in the same way that, to the extent to which the consideration is quoted securities, the bidder must set out the market price per security of those securities (that is, a fixed and certain amount) and, to the extent to which the consideration is neither a \"cash sum\" nor a \"security\", the bidder must set out the value per security of that consideration (that is, a fixed and certain amount).",
+      "id": "s144"
+    },
+    {
+      "text": "54 Section 666A(1) of the Act relevantly requires a person entitled to acquire securities under s 664A to pay the consideration to the holder by the end of the period referred to in subsection (2) or (3).",
+      "id": "s145"
+    },
+    {
+      "text": "These subsections provide for a range of possible periods depending on whether for example no objection has been lodged or if an objection has been lodged the 90% holder has elected to seek Court approval under s 664F.",
+      "id": "s146"
+    },
+    {
+      "text": "55 The earliest period relevant to a compulsory acquisition is provided for under s 666A(3)(a).",
+      "id": "s147"
+    },
+    {
+      "text": "It required completion by the end of the period of 14 days after the end of the objection period.",
+      "id": "s148"
+    },
+    {
+      "text": "56 If the \"cash sum\" could be an uncertain, unquantified or conditional amount the 90% holder may very well not be able to comply with s 666A(1).",
+      "id": "s149"
+    },
+    {
+      "text": "Contravention of s 666(1A) is by virtue of s 666(1A), an offence of strict liability.",
+      "id": "s150"
+    },
+    {
+      "text": "REASONING \n \n57 In my opinion, \"cash sum\" means either a specified sum of money or a stated mechanism or formula which is capable of being applied according to some objective standard so that the sum \"can be calculated or ascertained definitely\": Fraser Henleins v Cody at 128.",
+      "id": "s151"
+    },
+    {
+      "text": "It could, of course, be a combination of the two.",
+      "id": "s152"
+    },
+    {
+      "text": "The approach taken, analogously, in each Re Korda; Racecourse Co-operative Sugar also supports this construction.",
+      "id": "s153"
+    },
+    {
+      "text": "58 Mitsui submits that the Notice does set out a \"cash sum\" because the four adjustments, when each is known and applied to the cash amount of $16.1657119780 per share contained in the Notice, will arrive at an objective and definite price.",
+      "id": "s154"
+    },
+    {
+      "text": "59 However, I consider that, to the extent that \"cash sum\" is expressed in a formulative way, it must be capable of definite ascertainment as at the date of the notice.",
+      "id": "s155"
+    },
+    {
+      "text": "60 I have had regard to the provisions of s 664B(2) and the cases of Brierley and Capricorn relied upon by Mitsui, but for reasons which I have already explained, these do not inform the meaning of \"cash sum\" in s 664C(1)(a) of the Act.",
+      "id": "s156"
+    },
+    {
+      "text": "Rather, they are concerned with the amounts paid in due course for the securities.",
+      "id": "s157"
+    },
+    {
+      "text": "61 I have so concluded because where the Court is required to evaluate whether the terms set out in a notice of compulsory acquisition give a fair value for the securities, it must determine this at or about the date that the notice was lodged with ASIC and the notice was despatched to shareholders: Capricorn at [88]-[90].",
+      "id": "s158"
+    },
+    {
+      "text": "This statutory evaluation by the Court necessarily requires that the \"cash sum\" be ascertainable as at the date of the notice.",
+      "id": "s159"
+    },
+    {
+      "text": "It would be an extraordinary result if this could be evaluated by the Court by reference to information not known or capable of being ascertained as at the date of the notice.",
+      "id": "s160"
+    },
+    {
+      "text": "Likewise the recipient of a notice of compulsory acquisition ought be able to calculate the definite cash sum in order, importantly, to decide whether or not to object.",
+      "id": "s161"
+    },
+    {
+      "text": "62 A formula or mechanism which is incapable of ascertaining a precise dollar amount for each of the shares in question at or about the date of a notice of compulsory acquisition does not, in my opinion, constitute a \"cash sum\", within the meaning of s 664C(1)(a) of the Act.",
+      "id": "s162"
+    },
+    {
+      "text": "63 It is not sufficient that at some indeterminate date in the future, if at all, a determinate amount of money may be calculated as the \"cash sum\" for the purpose of the Notice.",
+      "id": "s163"
+    },
+    {
+      "text": "This is a different matter from any statutory adjustment under s 664B(2) or equitable or contractual set offs to be applied to the cash amount offered in a notice of compulsory acquisition: Brierley and Capricorn.",
+      "id": "s164"
+    },
+    {
+      "text": "64 I have come to this conclusion concerning the relevant date having regard also to the submissions of Hanwha in relation to other provisions in the Act where \"cash sum\" is contained: ss 621; 636(1)(h) of the Act.",
+      "id": "s165"
+    },
+    {
+      "text": "I accept those submissions.",
+      "id": "s166"
+    },
+    {
+      "text": "The conclusion is reinforced by the provisions in s 666A(1) and (1A) to which I have referred.",
+      "id": "s167"
+    },
+    {
+      "text": "65 The notice in this case does not meet the test which I have posited.",
+      "id": "s168"
+    },
+    {
+      "text": "66 The information necessary to ascertain definitely the \"cash sum\" in the Notice was not available at the date of the Notice.",
+      "id": "s169"
+    },
+    {
+      "text": "Indeed even at the date of the hearing before me such a calculation could not be made.",
+      "id": "s170"
+    },
+    {
+      "text": "There was not any certainty as to when it would, if at all, be made.",
+      "id": "s171"
+    },
+    {
+      "text": "67 One adjustment, the Rainfall Adjustment [Annexure 'A' --- item (e)(iii)(B)], was finally determined on 21 September 2006 (ie, before the notice was issued) and was included in the base amount.",
+      "id": "s172"
+    },
+    {
+      "text": "Two adjustments, the \"Cyclone Insurance Payment\" adjustment [Annexure 'A' --- item (c)] and the \"Completions Account\" adjustment [Annexure 'A' --- item (e)(ii)] were finally determined on 28 April and 25 May 2007 respectively, i.e.",
+      "id": "s173"
+    },
+    {
+      "text": "after the notice was given.",
+      "id": "s174"
+    },
+    {
+      "text": "The fourth adjustment, the \"Repair Liabilities\" adjustment, [Annexure 'A' --- item (d)] has not yet been finally determined.",
+      "id": "s175"
+    },
+    {
+      "text": "68 Senior counsel for Mitsui, quite rightly brought to the attention of the Court that the Notice contained a price determination mechanism which may not necessarily be capable of calculating a fixed sum by the \"requisite settlement date\".",
+      "id": "s176"
+    },
+    {
+      "text": "69 Of course, that concession was directed to the characterisation of the mechanism set against the \"requisite settlement date\".",
+      "id": "s177"
+    },
+    {
+      "text": "I have concluded that the settlement date whatever it may transpire to be, if it occurs at all, is not the relevant date for a consideration of whether or not the Notice has set out a \"cash sum\".",
+      "id": "s178"
+    },
+    {
+      "text": "70 I will invite counsel to bring in an appropriate Minute of Orders to give effect to these reasons.",
+      "id": "s179"
+    },
+    {
+      "text": "Mitsui will be liable for the costs of Hanwha.",
+      "id": "s180"
+    },
+    {
+      "text": "I certify that the preceding seventy (70) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Gilmour.",
+      "id": "s181"
+    },
+    {
+      "text": "Associate: \n\nDated: 20 December 2007 \n\n\n Counsel for the Applicant: Mr C L Zelestis QC and Mr R Douglas \n \n Solicitors for the Applicant: Blakiston &amp; Crabb \n \n Counsel for the Respondent: Mr M Goldblatt \n \n Solicitors for the Respondent: Freehills \n \n Date of Hearing: 10 December 2007 \n \n Date of Judgment: 20 December 2007 \n\n\n\n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/2070.html",
+      "id": "s182"
+    }
+  ]
+}

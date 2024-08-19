@@ -1,0 +1,876 @@
+{
+  "name": "Aged Care Standards and Accreditation Agency Ltd v Administrative Appeals Tribunal [2009] FCA 1514 (17 December 2009)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2009/1514.html",
+  "catchphrases": [
+    {
+      "text": "jurisdiction of the administrative appeals tribunal",
+      "id": "c0"
+    },
+    {
+      "text": "applicant agency accredits nursing homes",
+      "id": "c1"
+    },
+    {
+      "text": "decision regarding period of accreditation of second respondent reviewed internally by applicant under s 2.32 aged care accreditation principles 1999 (cth)",
+      "id": "c2"
+    },
+    {
+      "text": "second respondent dissatisfied with agency's decision not to vary original accreditation period",
+      "id": "c3"
+    },
+    {
+      "text": "whether decision not to vary original accreditation period a decision reviewable by aat under s 7.1 item 2",
+      "id": "c4"
+    },
+    {
+      "text": "meaning of s 7.1 item 2 \"variation of period for which residential care service is to be accredited\"",
+      "id": "c5"
+    },
+    {
+      "text": "principles of statutory interpretation",
+      "id": "c6"
+    },
+    {
+      "text": "whether plain reading of s 7.1 item 2 is absurd",
+      "id": "c7"
+    },
+    {
+      "text": "intent of legislature",
+      "id": "c8"
+    },
+    {
+      "text": "administrative law",
+      "id": "c9"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "This is an application to review a decision of the Administrative Appeals Tribunal (\"Tribunal\") dated 9 September 2009 made under the Administrative Appeals Tribunal Act 1975 (Cth) (\"AAT Act\").",
+      "id": "s0"
+    },
+    {
+      "text": "The sole ground of the application is that the Tribunal erred in law and committed a jurisdictional error in determining that it had jurisdiction to review a specific decision of the applicant.",
+      "id": "s1"
+    },
+    {
+      "text": "The applicant submits that, properly understood, that decision, made in respect of review application No AAT Q2009/1524, was not a decision to which the Tribunal has jurisdiction conferred by the AAT Act or any other Act.",
+      "id": "s2"
+    },
+    {
+      "text": "The applicant seeks the following relief pursuant to s 39B of the Judiciary Act 1903 (Cth) and s 21 of the Federal Court of Australia Act 1976 (Cth): A writ of prohibition restraining the first respondent from proceeding to review application No AATQ2009/1524.",
+      "id": "s3"
+    },
+    {
+      "text": "A writ in the nature of certiorari quashing the decision of the first respondent dated 9 September 2009, that the Tribunal has jurisdiction to review application No AATQ2009/1524.",
+      "id": "s4"
+    },
+    {
+      "text": "A declaration that the Tribunal does not have jurisdiction to review application No AATQ2009/1524.",
+      "id": "s5"
+    },
+    {
+      "text": "Costs.",
+      "id": "s6"
+    },
+    {
+      "text": "Further, the applicant claims under the Administrative Decisions (Judicial Review) Act 1977 (Cth) (\"ADJR Act\"): An order quashing or setting aside the decision of the first respondent dated 9 September 2009, that the Tribunal has jurisdiction to review application No 2009/1524.",
+      "id": "s7"
+    },
+    {
+      "text": "A declaration that the Tribunal does not have jurisdiction to review application No 2009/1524.",
+      "id": "s8"
+    },
+    {
+      "text": "It is common ground between the parties that the Court has jurisdiction to determine this application pursuant to either s 39B of the Judiciary Act 1903 (Cth) or the ADJR Act, and that the matter is amenable to the relief sought in the application.",
+      "id": "s9"
+    },
+    {
+      "text": "On the basis that the parties accept that the Court has jurisdiction to make the relief sought, I do not propose to consider the issue of jurisdiction further in this judgment.",
+      "id": "s10"
+    },
+    {
+      "text": "Summary\n In summary, the applicant contends that the Tribunal failed to correctly construe the relevant provisions of the Accreditation Grant Principles 1999 (Cth) (\"the Principles\") made pursuant to s 96-1 of the Aged Care Act 1997 (Cth) (\"the Act\").",
+      "id": "s11"
+    },
+    {
+      "text": "More specifically, the applicant contends that, in summary: Section 7.1 of the Principles requires that, in order to be a \"reviewable decision\", a decision made under s 2.32 must be a \" Variation of the period for which residential care services is to be accredited\".",
+      "id": "s12"
+    },
+    {
+      "text": "The second respondent applied for a further period of accreditation under the Principles.",
+      "id": "s13"
+    },
+    {
+      "text": "The applicant decided to grant accreditation for a further two years.",
+      "id": "s14"
+    },
+    {
+      "text": "The second respondent applied to the applicant to reconsider the decision in respect of the length of the period of accreditation.",
+      "id": "s15"
+    },
+    {
+      "text": "The applicant affirmed the reconsidered decision in respect of the two years accreditation (in other words --- the applicant did not vary the period of accreditation on reconsideration).",
+      "id": "s16"
+    },
+    {
+      "text": "On application to the Tribunal for review of the reconsidered decision, the Tribunal held that the applicant had made a \"reviewable decision\" within the meaning of s 7.1 of the Principles because \"reviewable decision\" included a decision adopting or affirming the original decision.",
+      "id": "s17"
+    },
+    {
+      "text": "The applicant contends that the Tribunal was wrong in so holding.",
+      "id": "s18"
+    },
+    {
+      "text": "The second respondent contends that the Tribunal was correct in finding that the reconsidered decision was a \"reviewable decision\" within the meaning of s 7.1 , and that any other interpretation lends itself to producing an absurdity.",
+      "id": "s19"
+    },
+    {
+      "text": "Background\n The background facts to this application are found primarily in the affidavits of Mr Michael Palfrey, solicitor with Clayton Utz lawyers, the solicitors for the applicant, and Ms Victoria Crawford, General Manager Accreditation of the applicant.",
+      "id": "s20"
+    },
+    {
+      "text": "The background facts are not in dispute in these proceedings.",
+      "id": "s21"
+    },
+    {
+      "text": "The applicant is an independent company limited by guarantee.",
+      "id": "s22"
+    },
+    {
+      "text": "It is responsible for managing the accreditation and ongoing supervision of Commonwealth-funded aged care homes.",
+      "id": "s23"
+    },
+    {
+      "text": "The applicant's functions set out in the Principles include assessing and determining applications made by accredited residential care services that wish to be accredited for a further period.",
+      "id": "s24"
+    },
+    {
+      "text": "The applicant performs this function through, inter alia , conducting accreditation site audits and review audits which involve an assessment team visiting the service's premises to undertake a review of the quality of services.",
+      "id": "s25"
+    },
+    {
+      "text": "The team then presents to the applicant a Site Report with a recommendation as to whether the service should be accredited, and, if so, the period of accreditation.",
+      "id": "s26"
+    },
+    {
+      "text": "After receiving the Site Report the agency applicant then decide whether or not to accredit the service: s 2.27 of the Principles.",
+      "id": "s27"
+    },
+    {
+      "text": "If the decision is to accredit the service provider, the agency must determine the period of accreditation, or if already accredited, the further period of accreditation: s 2.28 of the Principles.",
+      "id": "s28"
+    },
+    {
+      "text": "The second respondent is an approved provider of residential aged care.",
+      "id": "s29"
+    },
+    {
+      "text": "It has a residential aged care facility at 9 Havana Street, Rowes Bay in Queensland (\"the facility\").",
+      "id": "s30"
+    },
+    {
+      "text": "The facility has been accredited by the applicant since 27 February 2006.",
+      "id": "s31"
+    },
+    {
+      "text": "In response to an application for a further period of accreditation by the second respondent in January 2009 an assessment team of the applicant conducted a site audit of the facility between 20 and 22 January 2009 and provided the second respondent with a Site Audit Report.",
+      "id": "s32"
+    },
+    {
+      "text": "On 4 March 2009 the applicant made a decision (\"the original decision\") to accredit the second respondent, pursuant to s 2.27 and s 2.28 of the Principles, for two years from 30 March 2009 to 20 March 2011.",
+      "id": "s33"
+    },
+    {
+      "text": "It appears that the second respondent had expected to be accredited for three years.",
+      "id": "s34"
+    },
+    {
+      "text": "In practice the maximum period for which a service is accredited is three years (TS p 5 ll 46-47).",
+      "id": "s35"
+    },
+    {
+      "text": "On 10 March 2009 the second respondent applied to the applicant for reconsideration of the accreditation period pursuant to s 2.32(1) of the Principles.",
+      "id": "s36"
+    },
+    {
+      "text": "On 18 March 2009 the applicant made a further decision (\"the reconsideration decision\") namely: \n \n Not to vary the site audit decision.",
+      "id": "s37"
+    },
+    {
+      "text": "The home is accredited for two years.",
+      "id": "s38"
+    },
+    {
+      "text": "On 15 April 2009 the second respondent lodged application No AATQ2009/1524 with the Tribunal to review the reconsideration decision pursuant to s 7.2 of the Principles.",
+      "id": "s39"
+    },
+    {
+      "text": "Statutory scheme\n The statutory scheme is helpfully summarised in the decision of the Tribunal and submissions of both parties.",
+      "id": "s40"
+    },
+    {
+      "text": "In summary:\n The Act establishes that residential care subsidies are payable under Pt 3.1, to \"approved providers\" who, inter alia , meet accreditation requirements.",
+      "id": "s41"
+    },
+    {
+      "text": "\"Accreditation requirements\" are defined in Sch 1 to the Act to mean requirements set out in s 42-4 of the Act.",
+      "id": "s42"
+    },
+    {
+      "text": "Section 42-4(1) of the Act provides that a residential care service meets its accreditation requirement at all times during which there is in force an accreditation of the service by an accreditation body.",
+      "id": "s43"
+    },
+    {
+      "text": "The applicant is an accreditation body.",
+      "id": "s44"
+    },
+    {
+      "text": "Section 96-1 of the Act provides that the Minister may make, inter alia , Accreditation Grant Principles.",
+      "id": "s45"
+    },
+    {
+      "text": "These principles have been made (namely \"the Principles\" which I identified earlier in this judgment).",
+      "id": "s46"
+    },
+    {
+      "text": "Part 2 of the Principles provides for the accreditation of residential care services such as the Rowes Bay facility.",
+      "id": "s47"
+    },
+    {
+      "text": "Division 2 Pt 2 of the Principles provides for procedures for accreditation.",
+      "id": "s48"
+    },
+    {
+      "text": "Division 3 Pt 2 of the Principles provides for the procedures for the assessment of applications for accreditation.",
+      "id": "s49"
+    },
+    {
+      "text": "A decision by an accreditation body to accredit or not to accredit is made pursuant to s 2.27 of the Principles.",
+      "id": "s50"
+    },
+    {
+      "text": "If the decision is to accredit, the period of accreditation must also be decided pursuant to s 2.28 of the Principles.",
+      "id": "s51"
+    },
+    {
+      "text": "Section 2.32 of the Principles allows an applicant for accreditation to apply for reconsideration of the period for which the service is to be accredited.",
+      "id": "s52"
+    },
+    {
+      "text": "Specifically the section provides: \n \n \n (1) The applicant may, within 7 days after being told about a decision to accredit the residential care service, give to the accreditation body a written request to reconsider the period mentioned in paragraph 2.29(2)(a).",
+      "id": "s53"
+    },
+    {
+      "text": "(2) The accreditation body must, within 7 days of receiving a request: \n \n \n \n \n \n \n (a) decide whether or not to vary the period; and\n (b) tell the applicant, in writing, about its decision.",
+      "id": "s54"
+    },
+    {
+      "text": "(3) If the decision is to vary the period, the accreditation body must also give the applicant a replacement certificate setting out the revised period for which the service is to be accredited.",
+      "id": "s55"
+    },
+    {
+      "text": "Section 7.2 of the Principles provides that an application may be made to the Tribunal for review of a reviewable decision A table in s 7.1 of the Principles sets out a table of \"reviewable decisions\" as follows: \n \n 7.1 What is a reviewable decision \n \n\n \n \n Each of the following decisions of the accreditation body is a reviewable decision : \n \n\n Item Decision Section under which decision is made 2 Variation of period for which residential care service is to be accredited 2.32 3 Refusal of an application on reconsideration 2.38 4 Refusal to include an applicant's nominated assessor in an assessment team 2.44 5 Refusal to accept an applicant's objection to a quality assessor 2.45 6 Revocation of an accreditation 3.15 and 3.24 7 Variation of a period of accreditation 3.15 and 3.24 8 Refusal of an application to review registrar's decision to remove from register 8.6 \n Decision of the Tribunal ([2009] AATA 684)\n The Tribunal considered the primary contention of the applicant, namely that a decision not to vary the period of accreditation determined in the original decision was not itself a reviewable decision because it was not a \" variation of period for which residential care service is to be accredited\" within the meaning of s 7.1 of the Principles.",
+      "id": "s56"
+    },
+    {
+      "text": "The Tribunal considered that if the applicant's interpretation was correct, an adverse decision regarding the period of accreditation (for example, a decision to accredit for a shorter period) which was subsequently affirmed in the course of an internal review process was practically unreviewable by the Tribunal (at [7]).",
+      "id": "s57"
+    },
+    {
+      "text": "Importantly the Tribunal continued: \n \n 10.",
+      "id": "s58"
+    },
+    {
+      "text": "While the outcome contended for by the agency may surprise at first glance, the agency suggests it is not unusual when one has regard to the operation of the Principles.",
+      "id": "s59"
+    },
+    {
+      "text": "The agency's written submissions dated 17 July 2009 point out that a reviewable decision made under s 3.24 would be subject to the same objection if the reviewable decision affirmed what had already been decided at first instance.",
+      "id": "s60"
+    },
+    {
+      "text": "The Tribunal would only have the power to deal with the outcome of the reconsideration if the reconsideration varied what had already been decided.",
+      "id": "s61"
+    },
+    {
+      "text": "As I understand it, the agency is arguing that the legislative scheme has intentionally created an administrative regime in which an adverse decision can only be reviewed once.",
+      "id": "s62"
+    },
+    {
+      "text": "If it is unchanged upon review --- even if that review is an internal review, rather than an independent review conducted by the Tribunal --- that is the end of the matter.",
+      "id": "s63"
+    },
+    {
+      "text": "11.",
+      "id": "s64"
+    },
+    {
+      "text": "I accept that the interpretation contended for by the agency is open upon a plain reading of the words of the Principles.",
+      "id": "s65"
+    },
+    {
+      "text": "It is arguably the most obvious interpretation of what is written.",
+      "id": "s66"
+    },
+    {
+      "text": "But it does seem to be at odds with the purposes of the legislative scheme.",
+      "id": "s67"
+    },
+    {
+      "text": "That scheme has created an accreditation process that is administered by a private organisation.",
+      "id": "s68"
+    },
+    {
+      "text": "It is no surprise in the circumstances that the Principles should provide for appeal rights in respect of decisions of the agency which go to questions of accreditation.",
+      "id": "s69"
+    },
+    {
+      "text": "The scheme contemplates an internal reconsideration of a decision as the first step in the appeal process, but did the Parliament intend that the process should end there if the internal review affirmed what had already been decided?",
+      "id": "s70"
+    },
+    {
+      "text": "The answer to that question appears to depend on the nature of a reviewable decision under the Principles.",
+      "id": "s71"
+    },
+    {
+      "text": "12.",
+      "id": "s72"
+    },
+    {
+      "text": "A reviewable decision is, first and foremost, the product of a review of the original decision.",
+      "id": "s73"
+    },
+    {
+      "text": "But that review is not simply a reconsideration of the process that was undertaken at first instance.",
+      "id": "s74"
+    },
+    {
+      "text": "The Principles appear to contemplate the agency starting afresh and reviewing all of the material on reconsideration with a view to reaching a fresh decision as to what should be done.",
+      "id": "s75"
+    },
+    {
+      "text": "A perusal of the text of the reconsideration decision in this case confirms that is what occurred here.",
+      "id": "s76"
+    },
+    {
+      "text": "Where, as here, the agency decides on reconsideration of that material that the original decision to change the accreditation period was right, it is effectively adopting the decision that the period of accreditation be varied from what it was before the original decision.",
+      "id": "s77"
+    },
+    {
+      "text": "The outcome of the reconsideration decision is, in a practical sense, a variation rather than an affirmation.",
+      "id": "s78"
+    },
+    {
+      "text": "To treat it as anything else would be to prefer an overly restrictive interpretation of the words in the Principles that appears to defeat the intentions of the legislative scheme.",
+      "id": "s79"
+    },
+    {
+      "text": "That scheme favours meaningful administrative review of the private agency's decisions.",
+      "id": "s80"
+    },
+    {
+      "text": "Accordingly the Tribunal decided that it had jurisdiction to hear and determine application No AATQ2009/1524.",
+      "id": "s81"
+    },
+    {
+      "text": "Submissions of the parties\n Both written and oral submissions of the parties in this case were helpful and clear.",
+      "id": "s82"
+    },
+    {
+      "text": "In summary, the applicant submitted as follows: In reply, the second respondent submitted in summary: The Court should adopt a broader, contextual interpretation of the right of review conferred by s 7.1, so as to confer such a right in respect of all decisions made under section regardless of the outcome.",
+      "id": "s83"
+    },
+    {
+      "text": "The focus thus becomes the fact that there has been the exercise of the statutory function, rather than its outcome.",
+      "id": "s84"
+    },
+    {
+      "text": "The statutory scheme is to provide rights of external review of decisions made in the exercise of certain powers under the Principles.",
+      "id": "s85"
+    },
+    {
+      "text": "In essence, rights of review are conferred under s 7.1 where the statutory function is exercised in such a way as to cause the person affected by the decision dissatisfaction.",
+      "id": "s86"
+    },
+    {
+      "text": "On the construction contended by the applicant, if on reconsideration the accreditation body decided to vary the accreditation period, either upward or downward, by a single day, an approved provider could choose to have that decision reviewed on its merits by the Tribunal.",
+      "id": "s87"
+    },
+    {
+      "text": "However if the accreditation body decided that the period of accreditation should remain precisely the same, no appeal lies.",
+      "id": "s88"
+    },
+    {
+      "text": "The substantive statutory function exercised in the making of a decision under s 2.32(2)(a) is \"whether or not to vary the period\".",
+      "id": "s89"
+    },
+    {
+      "text": "Accordingly, it is clear that the expression \"Variation of period for which residential care service is to be accredited\" as used in item 2 of the table in s 7.1 of the Principles is a shorthand method of describing the nature of the decision to be made under s 2.32 in response to an application for reconsideration of the period of accreditation (namely whether or not to vary).",
+      "id": "s90"
+    },
+    {
+      "text": "A number of the decisions set out in s 7.1 leave the status quo unchanged, yet confer rights of review.",
+      "id": "s91"
+    },
+    {
+      "text": "It is appropriate for the Court to give effect to the legislative intent where the result otherwise would be absurd, extraordinary, capricious, irrational or obscure.",
+      "id": "s92"
+    },
+    {
+      "text": "In its decision, the Tribunal strove for an interpretation which would not promote absurdity.",
+      "id": "s93"
+    },
+    {
+      "text": "Consideration\n In these proceedings there is, in essence, only one question of substance for decision.",
+      "id": "s94"
+    },
+    {
+      "text": "Does \"variation of period for which residential care service is to be accredited\" within the meaning of s 7.1 of the principles and by reference to s 2.32 of the Principles, include a decision to confirm the period for which residential care service is to be accredited?",
+      "id": "s95"
+    },
+    {
+      "text": "If the answer to this question is no, the applicant will be successful in its appeal.",
+      "id": "s96"
+    },
+    {
+      "text": "In my view the answer to the question is reached in two stages, namely: Considering the natural meaning of \"variation\"; and Considering the meaning of the phrase \"variation of period for which residential care service is to be accredited\" in the broader context of the statutory framework.",
+      "id": "s97"
+    },
+    {
+      "text": "1.",
+      "id": "s98"
+    },
+    {
+      "text": "Natural meaning of \"variation\"\n The Shorter Oxford Dictionary (3rd edition) defines \"variation\" as follows: \n \n I.",
+      "id": "s99"
+    },
+    {
+      "text": "Difference, divergence, or discrepancy between two or more things or persons \n \n\n \n \n II.",
+      "id": "s100"
+    },
+    {
+      "text": "1.",
+      "id": "s101"
+    },
+    {
+      "text": "The fact of varying in condition, character, degree, or other quality; the fact of undergoing modification or alteration, esp within certain limits b .",
+      "id": "s102"
+    },
+    {
+      "text": "The action of making some change or alteration.",
+      "id": "s103"
+    },
+    {
+      "text": "\"Vary\" in turn is defined as: \n \n 1.",
+      "id": "s104"
+    },
+    {
+      "text": "Of things: To undergo change or alteration; to pass from one condition, state, etc., to another... 2.",
+      "id": "s105"
+    },
+    {
+      "text": "To differ, to exhibit or present divergence, from something else.",
+      "id": "s106"
+    },
+    {
+      "text": "The fact that \"vary\" imports the notion of change in some form has also been endorsed by Courts in different contexts.",
+      "id": "s107"
+    },
+    {
+      "text": "I note, for example, the following comment of Andrews J in The King (Conway) v Justices of The County Tyrone (1906) 2 IrR 164 at 170: \n \n The Court of Quarter Sessions, it will be observed, is empowered, on hearing the appeal, to confirm, vary or reverse the order appealed against.",
+      "id": "s108"
+    },
+    {
+      "text": "I think each of these three words has a separate and appropriate meaning.",
+      "id": "s109"
+    },
+    {
+      "text": "\"Confirm\" requires no explanation; \"vary\" in my opinion, means alter in part , as distinguished from discharging the entire order appealed against , and making a wholly different one; and \"reverse\", in my opinion, imports more than discharge , and means \" changed to the contrary \".",
+      "id": "s110"
+    },
+    {
+      "text": "(emphasis in original) \n \n\n In R v Industrial Court (S.A.); ex parte Mount Gunson Mines Pty Ltd (1982) 2 I.R 336 at 340, after considering The King (Conway) v Justices of The County Tyrone Mitchell J (King CJ and White J agreeing) observed: \n \n The dictionary meaning does not accord with that given by Andrews J in that there is no suggestion that the change or alteration must be a change or alteration only in part .",
+      "id": "s111"
+    },
+    {
+      "text": "The common theme in both the dictionary and judicial commentary is that plain meaning of \"variation\" entails an alteration of some kind.",
+      "id": "s112"
+    },
+    {
+      "text": "To that extent, \"variation\" is distinguishable in that sense from \"confirmation\", which entails preservation of the status quo.",
+      "id": "s113"
+    },
+    {
+      "text": "2.",
+      "id": "s114"
+    },
+    {
+      "text": "The context in which the phrase appears in section 7.1\n The more complex question however is whether, in the broader context of the statutory scheme, \"variation of period for which residential care service is to be accredited\" includes a decision by the applicant not to vary its previous decision.",
+      "id": "s115"
+    },
+    {
+      "text": "Plain meaning of words\n There is little doubt that \"variation of period for which residential care service is to be accredited\" means, prima facie , circumstances where there is a change to the period for which a residential care service is to be accredited.",
+      "id": "s116"
+    },
+    {
+      "text": "At first blush, the proposition that this includes a decision not to vary an earlier decision appears absurd.",
+      "id": "s117"
+    },
+    {
+      "text": "There is long tradition of Courts assuming that Parliament, through the enactment of legislation, intends what is enacted.",
+      "id": "s118"
+    },
+    {
+      "text": "As Lord Atkinson said in Vacher &amp; Sons Ltd v London Society of Compositors [1912] UKHL 3 ; [1913] AC 107 at 121-122: \n \n If the language of a statute is plain, admitting of only one meaning, the Legislature must be taken to have meant and intended what it has plainly expressed, and whatever it has in clear terms enacted must be enforced though it should lead to absurd or mischievous results.",
+      "id": "s119"
+    },
+    {
+      "text": "If the language of this sub-section be not controlled by some of the other provisions of the statute, it must, since its language is plain and unambiguous, be enforced, and your Lordships' House sitting judicially is not concerned with the question whether the policy it embodies is wise or unwise, or whether it leads to consequences just or unjust, beneficial or mischievous.",
+      "id": "s120"
+    },
+    {
+      "text": "More recently the High Court in Cooper Brookes (Wollongong) Pty Ltd v Federal Commissioner of Taxation [1981] HCA 26 ; (1981) 147 CLR 297 considered the risks in imputing meaning to a legislative provision, which meaning is not apparent on the face of the provision.",
+      "id": "s121"
+    },
+    {
+      "text": "As Gibbs CJ said (at 304-305): \n \n It is an elementary and fundamental principle that the object of the court, in interpreting a statute, \"is to see what is the intention expressed by the words used\": River Wear Commissioners v. Adamson (1877) 2 App Cas 743 , at p 763.",
+      "id": "s122"
+    },
+    {
+      "text": "It is only by considering the meaning of the words used by the legislature that the court can ascertain its intention.",
+      "id": "s123"
+    },
+    {
+      "text": "And it is not unduly pedantic to begin with the assumption that words mean what they say: cf.",
+      "id": "s124"
+    },
+    {
+      "text": "Cody v. J. H. Nelson Pty.",
+      "id": "s125"
+    },
+    {
+      "text": "Ltd .",
+      "id": "s126"
+    },
+    {
+      "text": "[1947] HCA 17 ; (1947) 74 CLR 629 , at p 648.",
+      "id": "s127"
+    },
+    {
+      "text": "Of course, no part of a statute can be considered in isolation from its context - the whole must be considered.",
+      "id": "s128"
+    },
+    {
+      "text": "If, when the section in question is read as part of the whole instrument, its meaning is clear and unambiguous, generally speaking \"nothing remains but to give effect to the generally speaking \"nothing remains but to give effect to the unqualified, words\": Metropolitan Gas Co. v. Federated Gas Employees' Industrial Union [1925] HCA 5 ; (1925) 35 CLR 449 , at p 455 There are cases where the result of giving words their ordinary meaning may be so irrational that the court is forced to the conclusion that the draftsman has made a mistake, and the canons of construction are not so rigid as to prevent a realistic solution in such a case: see per Lord Reid in Connaught Fur Trimmings Ltd. v. Cramas Properties Ltd .",
+      "id": "s129"
+    },
+    {
+      "text": "[1965] 1 WLR 892 , at p 899; (1965) 2 ALL ER 382 , at p 386.",
+      "id": "s130"
+    },
+    {
+      "text": "Examples of that sort of case may be found in Maxwell on the Interpretation of Statutes , 12th ed., (1969), at p. 228 et seq., and Craies on Statute Law, 7th ed., (1971), at p. 520 et seq.",
+      "id": "s131"
+    },
+    {
+      "text": "However, if the language of a statutory provision is clear and unambiguous, and is consistent and harmonious with the other provisions of the enactment, and can be intelligibly applied to the subject matter with which it deals, it must be given its ordinary and grammatical meaning, even if it leads to a result that may seem inconvenient or unjust.",
+      "id": "s132"
+    },
+    {
+      "text": "To say this is not to insist on too literal an interpretation, or to deny that the court should seek the real intention of the legislature.",
+      "id": "s133"
+    },
+    {
+      "text": "The danger that lies in departing from the ordinary meaning of unambiguous provisions is that \"it may degrade into mere judicial criticism of the propriety of the acts of the Legislature\", as Lord Moulton said in Vacher &amp; Sons Ltd. v. London Society of Compositors [1912] UKHL 3 ; (1913) AC 107 , at p 130; it may lead judges to put their own ideas of justice or social policy in place of the words of the statute.",
+      "id": "s134"
+    },
+    {
+      "text": "On the other hand, if two constructions are open, the court will obviously prefer that which will avoid what it considers to be inconvenience or injustice.",
+      "id": "s135"
+    },
+    {
+      "text": "Since language, read in its context, very often proves to be ambiguous, this last mentioned rule is one that not infrequently falls to be applied.",
+      "id": "s136"
+    },
+    {
+      "text": "Similarly, Aickin J observed (at 336-337): \n \n In Stock v. Frank Jones (Tipton) Ltd .",
+      "id": "s137"
+    },
+    {
+      "text": "[1978] 1 WLR 231 ; (1978) 1 All ER 948 , five members of the House of Lords dealt with this question and although their speeches differ in emphasis they were united in declining to read words into the Act there in question.",
+      "id": "s138"
+    },
+    {
+      "text": "Viscount Dilhorne, with whom Lord Fraser of Tullybelton agreed, said [1978] 1 WLR, at pp 234-235; (1978) 1 All ER, at p 951: \n \n\n \n \n \n It is now fashionable to talk of a purposive construction of a statute, but it has been recognised since the 17th century that it is the task of the judiciary in interpreting an Act to seek to interpret it \"according to the intent of them that made it\" (Coke 4 Inst.",
+      "id": "s139"
+    },
+    {
+      "text": "330).",
+      "id": "s140"
+    },
+    {
+      "text": "If it were the case that it appeared that an Act might have been better drafted, or that amendment to it might be less productive of anomalies, it is not open to the court to remedy the defect.",
+      "id": "s141"
+    },
+    {
+      "text": "That must be left to the Legislature.",
+      "id": "s142"
+    },
+    {
+      "text": "The appellants contend that in view of the anomalies which they say would result from the interpretation the respondent seeks to have placed on the paragraph, to have paragraph 8(2) read as if it said: \"who also took part and at the date of the dismissal were taking part in that action\".",
+      "id": "s143"
+    },
+    {
+      "text": "As Stephenson L.J.",
+      "id": "s144"
+    },
+    {
+      "text": "said in the Court of Appeal, the paragraph does not so provide.",
+      "id": "s145"
+    },
+    {
+      "text": "\"It is a strong thing to read into an Act of Parliament words which are not there, and in the absence of clear necessity it is a wrong thing to do\" said Lord Mersey in Thompson v. Goold &amp; Co. (1910) AC 409, at p 420.",
+      "id": "s146"
+    },
+    {
+      "text": "\".",
+      "id": "s147"
+    },
+    {
+      "text": ".",
+      "id": "s148"
+    },
+    {
+      "text": ".",
+      "id": "s149"
+    },
+    {
+      "text": "we are not entitled to read words into an Act of Parliament unless clear reason for it is to be found within the four corners of the Act itself\" said Lord Loreburn L.C.",
+      "id": "s150"
+    },
+    {
+      "text": "in Vickers, Sons &amp; Maxim Ltd. v. Evans (1910) AC 444 , at p 445.",
+      "id": "s151"
+    },
+    {
+      "text": "Lord Simon of Glaisdale agreed with Viscount Dilhorne but added some further observations.",
+      "id": "s152"
+    },
+    {
+      "text": "After referring to the rule in Heydon's Case [1584] EngR 9 ; (1584) 3 Co Rep 7a , (76 ER 637) his Lordship said [1978] 1 WLR, at p 236; (1978) 1 All ER, at p 953: \n \n\n \n \n \n \"The final task of construction is still, as always, to ascertain the meaning of what the draftsman has said, rather than to ascertain what the draftsman meant to say.",
+      "id": "s153"
+    },
+    {
+      "text": "But if the draftsmanship is correct these should coincide.",
+      "id": "s154"
+    },
+    {
+      "text": "So if the words are capable of more than one meaning it is a perfectly legitimate intermediate step in construction to choose between potential meanings by various tests (statutory, objective, anomaly, etc.) which throw light on what the draftsman meant to say.",
+      "id": "s155"
+    },
+    {
+      "text": "\" \n \n \n\n At 338-339 Aickin J also endorsed comments of Lord Scarman in Stock v. Frank Jones (Tipton) Ltd .",
+      "id": "s156"
+    },
+    {
+      "text": "[1978] 1 WLR 231 at 239 where his Lordship said: \n \n If the words used by Parliament are plain, there is no room for the \"anomalies\" test, unless the consequences are so absurd that, without going outside the statute, one can see that Parliament must have made a drafting mistake.",
+      "id": "s157"
+    },
+    {
+      "text": "If words \"have been inadvertently used\", it is legitimate for the court to substitute what is apt to avoid the intention of the legislature being defeated: per MacKinnon L.J.",
+      "id": "s158"
+    },
+    {
+      "text": "in Sutherland Publishing Co. Ltd. v. Caxton Publishing Co. Ltd .",
+      "id": "s159"
+    },
+    {
+      "text": "[1938] Ch 174 , at p 201 .",
+      "id": "s160"
+    },
+    {
+      "text": "This is an acceptable exception to the general rule that plain language excludes a consideration of anomalies, i.e.",
+      "id": "s161"
+    },
+    {
+      "text": "mischievous or absurd consequences.",
+      "id": "s162"
+    },
+    {
+      "text": "If a study of the statute as a whole leads inexorably to the conclusion that Parliament has erred in its choice of words, e.g.",
+      "id": "s163"
+    },
+    {
+      "text": "used \"and\" when \"or\" was clearly intended, the courts can, and must, eliminate the error by interpretation.",
+      "id": "s164"
+    },
+    {
+      "text": "But mere \"manifest absurdity\" is not enough: it must be an error (of commission or omission) which in its context defeats the intention of the Act.",
+      "id": "s165"
+    },
+    {
+      "text": "Turning now to the terms of item 2 in the table in s 7.1 of the Principles, I consider that the meaning of the words \"variation of period for which residential care service is to be accredited\" is plain.",
+      "id": "s166"
+    },
+    {
+      "text": "There is no ambiguity to warrant further exploration in an attempt to identify the intention of Parliament.",
+      "id": "s167"
+    },
+    {
+      "text": "The intention of Parliament appears clearly in the words used --- a reconsideration decision is reviewable when the accreditation body varies (either up or down) the period for which a residential care service is to be accredited.",
+      "id": "s168"
+    },
+    {
+      "text": "A reconsideration decision where the accreditation body simply confirms its original decision in relation to the period of accreditation is not a decision which \"varies\" that period --- and it is not reviewable.",
+      "id": "s169"
+    },
+    {
+      "text": "To read into \"variation\" a meaning which includes \" no variation\" strikes me as absurd, and in stark contradiction to the specific language of s 7.1.",
+      "id": "s170"
+    },
+    {
+      "text": "The second respondent submitted that an interpretation which excludes review of a reconsideration decision which merely confirms the original decision of the applicant is potentially artificial and irrational.",
+      "id": "s171"
+    },
+    {
+      "text": "However an interpretation the result of which is surprising, even illogical, does not mean that that interpretation is not sound or that Parliament did not intend that outcome.",
+      "id": "s172"
+    },
+    {
+      "text": "The second respondent also submitted that the decisions listed in the second column of the table in s 7.1 of the Principles were actually a \"shorthand\" description of decisions made under the corresponding sections identified in the first column of the table and, in that respect, strict reliance could not be placed on the language used in the second column of the table.",
+      "id": "s173"
+    },
+    {
+      "text": "As Mr Horneman-Wren submitted, the tabular format of s 7.1 does not always strictly use the wording of the provisions within the various sections, thus requiring a person construing the section to look beyond those words.",
+      "id": "s174"
+    },
+    {
+      "text": "This point is illustrated by reference to the other items listed in the table in s 7.1.",
+      "id": "s175"
+    },
+    {
+      "text": "So: Paragraph 2.38 of the Principles is headed \"Decision on reconsideration\", and so far as relevant provides that: \n \n (1) The accreditation body must, after considering an application for reconsideration, decide: \n \n \n \n \n (a) to accredit the service; or\n (b) not to accredit the service \n \n \n\n \n \n ... \n \n\n \n \n (3) If the accreditation body decides to accredit a residential care service, the accreditation body must decide: \n \n \n \n \n (a) the period for which the service is to be accredited; and\n (b) whether there are any matters in respect of which improvements must be made to improve its compliance with the Accreditation Standards; and\n (c) the form and frequency of support contacts with the service \n \n \n\n \n \n ... \n \n\n \nHowever item 3 of the table in s 7.1 refers to s 2.38 and describes the reviewable decision as \"Refusal of an application on reconsideration\".",
+      "id": "s176"
+    },
+    {
+      "text": "Paragraph 2.44 of the Principles is headed \"Accreditation body may refuse to include nominee\", and so far as relevant in subs (1) provides that: \n \n The accreditation body may refuse to include in an assessment team a quality assessor nominated by the applicant if the assessor is not eligible for inclusion in the team under subsection 2.45 (1),(2),(3), or (4).",
+      "id": "s177"
+    },
+    {
+      "text": "However item 4 of the table in s 7.1 refers to s 2.44 and describes the reviewable decision as \"Refusal to include an applicant's nominated assessor in an assessment team\".",
+      "id": "s178"
+    },
+    {
+      "text": "Paragraph 2.45 of the Principles is headed \"Eligibility for assessment team\", and so far as relevant provides that: \n \n (1)Each member of an assessment team must be a registered quality assessor \n \n\n \n \n ... \n \n\n \n \n ... \n \n\n \n \n (5) The applicant may, in writing, within 14 days after being told under subsection 2.42 (5) who is in the team, object to a quality assessor in the team because the assessor is not eligible for inclusion in the team under subsection (1), (2), (3) or (4).",
+      "id": "s179"
+    },
+    {
+      "text": "(6) If an applicant makes an objection for subsection (5), the accreditation body must decide to: \n \n \n \n \n (a) accept the objection and create a new assessment team; or\n (b) reject the objection.",
+      "id": "s180"
+    },
+    {
+      "text": "However item 5 of the table in s 7.1 refers to s 2.45 and describes the reviewable decision as \"Refusal to accept an applicant's objection to a quality assessor\".",
+      "id": "s181"
+    },
+    {
+      "text": "Paragraph 3.15 and para 3.24 of the Principles are both headed \"Decision about review audit\" and so far as relevant in subs (1) provide that: \n \n The accreditation body may decide:\n (a) to vary the period of accreditation; or\n (b) to revoke the accreditation of the service; or\n (c) not to revoke the accreditation.",
+      "id": "s182"
+    },
+    {
+      "text": "However item 6 of the table in s 7.1 refers to these sections and describes the reviewable decision as \"Revocation of an accreditation\".",
+      "id": "s183"
+    },
+    {
+      "text": "Similarly item 7 of the table in s 7.1 refers to s 3.15 and s 3.24 of the Principles and describes the reviewable decision as \"Variation of a period of accreditation\".",
+      "id": "s184"
+    },
+    {
+      "text": "Paragraph 8.6 of the Principles is headed \"Decision on application\" and so far as relevant in subs (1) provides that: \n \n (1) The accreditation body must decide whether to grant or refuse the person's application within 28 days after receiving it.",
+      "id": "s185"
+    },
+    {
+      "text": "However item 8 of the table in s 7.1 refers to s 8.6 and describes the reviewable decision as \"Refusal of an application to review registrar's decision to remove from register\".",
+      "id": "s186"
+    },
+    {
+      "text": "While it is feasible that the words in the second column of the table in s 7.1 are merely intended to act as an abridged reference to the section identified in the third column, in my view this proposition does not withstand close scrutiny.",
+      "id": "s187"
+    },
+    {
+      "text": "The better view is that the words in the second column of the table, including the words \"variation of period for which residential care service is to be accredited\" have independent significance.",
+      "id": "s188"
+    },
+    {
+      "text": "I consider that the words in the second column describe the actual decision which is reviewable, and the reference to the section in the third column is a reference to the section pursuant to which the specific reviewable decision is made.",
+      "id": "s189"
+    },
+    {
+      "text": "So, for example: I agree with Mr Bickford for the applicant that, despite the arguably inelegant drafting, the second column in the table in s 7.1 actually describes the reviewable decision and is not mere \"shorthand\".",
+      "id": "s190"
+    },
+    {
+      "text": "For this reason alone, in my view the decision of the Tribunal cannot be sustained and the appeal should be allowed.",
+      "id": "s191"
+    },
+    {
+      "text": "However in the event that I am wrong in this finding, and also in deference to the thorough and well-reasoned submissions of the second respondent, I now turn to consider whether, in the context of the legislation (including the Principles), the phrase \"variation of period for which residential care service is to be accredited\" in s 7.1 of the Principles bears the interpretation contended by the second respondent.",
+      "id": "s192"
+    },
+    {
+      "text": "Broader context\n First, I note that it is common ground that no assistance can be gleaned from explanatory memoranda or speeches in Parliament as to the meaning of the phrase \"variation of period for which residential care service is to be accredited\" in s 7.1 (TS p 5 ll 7-14).",
+      "id": "s193"
+    },
+    {
+      "text": "Accordingly, it is necessary to turn to the relevant legislative instrument itself, namely the Principles, in order to identify whether the decision of the applicant falls within the meaning of \"variation of period for which residential care service is to be accredited\" and is thus a reviewable decision for the purpose of the Principles.",
+      "id": "s194"
+    },
+    {
+      "text": "Second, a key pillar of the second respondent's case is that the statutory scheme provides for external review of decisions made in the exercise of certain powers under the Principles.",
+      "id": "s195"
+    },
+    {
+      "text": "The second respondent submitted that, in each instance in which a right of review is conferred under s 7.1, the review available extends to those aspects of the exercise of the statutory function in such a way as to cause the person affected by the decision residual dissatisfaction .",
+      "id": "s196"
+    },
+    {
+      "text": "A number of the decisions set out in s 7.1 leave the status quo unchanged, but confer rights of review.",
+      "id": "s197"
+    },
+    {
+      "text": "In fact in a number of cases it is the fact that the status quo has not changed which gives rise to a right of review.",
+      "id": "s198"
+    },
+    {
+      "text": "Accordingly, the right of review conferred by item 2 of s 7.1 should be construed in the same way.",
+      "id": "s199"
+    },
+    {
+      "text": "In my view the interpretation of s 7.1 suggested by this line of reasoning is credible.",
+      "id": "s200"
+    },
+    {
+      "text": "However after considering submissions of both parties I am not persuaded that I should so construe item 2 of s 7.1.",
+      "id": "s201"
+    },
+    {
+      "text": "I have formed this view for the following reasons: In my view, it does not therefore follow that this means that any decision of the applicant pursuant to s 2.32 with which an applicant for accreditation is dissatisfied is reviewable by the Tribunal.",
+      "id": "s202"
+    },
+    {
+      "text": "Finally, while I note the submission of the second respondent concerning to the possibility of a reconsideration decision whereby the accreditation period of a residential care facility is varied upward or downward by a single day, I am not persuaded that the interpretation of s 7.1 should be resolved by an apprehension of extreme examples and distorting possibilities (cf Singh v Commonwealth [2004] HCA 43 ; (2004) 222 CLR 322 at [155] , Forge v ASIC [2006] HCA 44 ; (2006) 229 ALR 223 at [46] , New South Wales v Commonwealth [2006] HCA 52 ; (2006) 231 ALR 1 at [188] ).",
+      "id": "s203"
+    },
+    {
+      "text": "Conclusion\n In my view the appeal should be allowed.",
+      "id": "s204"
+    },
+    {
+      "text": "I certify that the preceding forty-seven (47) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Collier.",
+      "id": "s205"
+    },
+    {
+      "text": "Associate:\n \n \nDated: 16 December 2009\n \n Counsel for the Applicant: Mr P Bickford and Ms A Wheatley \n \n Solicitor for the Applicant: Clayton Utz \n \n Counsel for the First Respondent: The First Respondents did not appear \n \n Counsel for the Second Respondent: Mr A Horneman-Wren \n \n Solicitor for the Second Respondent: McCullough Robertson \n Date of Hearing: 10 November 2009 \n \n Date of Judgment: 17 December 2009 \n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2009/1514.html",
+      "id": "s206"
+    }
+  ]
+}

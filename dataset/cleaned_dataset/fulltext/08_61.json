@@ -1,0 +1,732 @@
+{
+  "name": "In the matter of Ox Operations Pty Ltd (ACN 119 184 431) [2008] FCA 61 (11 February 2008)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2008/61.html",
+  "catchphrases": [
+    {
+      "text": "review of registrar's decision dismissing application to set aside statutory demand under s 459h of the corporations act 2001 (cth)",
+      "id": "c0"
+    },
+    {
+      "text": "whether review of no utility on basis of deemed insolvency arising from non-compliance with demand within statutory time limit",
+      "id": "c1"
+    },
+    {
+      "text": "consideration of alternative bases for review",
+      "id": "c2"
+    },
+    {
+      "text": "whether there was a genuine dispute about the existence of the debt",
+      "id": "c3"
+    },
+    {
+      "text": "whether monies the subject of transfer held on trust",
+      "id": "c4"
+    },
+    {
+      "text": "whether company accounts otherwise sufficient to establish existence of a plausible claim",
+      "id": "c5"
+    },
+    {
+      "text": "whether notice to produce should be set aside under order 33 r 12(1) of the federal court rules",
+      "id": "c6"
+    },
+    {
+      "text": "where documents called upon relate to a ground of review which is not available.",
+      "id": "c7"
+    },
+    {
+      "text": "statutory demand",
+      "id": "c8"
+    },
+    {
+      "text": "practice and procedure",
+      "id": "c9"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "INTRODUCTION AND BACKGROUND \n \n1 The plaintiff, Ox Operations Pty Ltd (\"Ox Operations\"), applies to review the decision of Registrar Moore, made on 22 November 2007, dismissing Ox Operation's application to set aside the defendant's (\"LMPD\") statutory demand dated 28 May 2007 (\"the statutory demand\").",
+      "id": "s0"
+    },
+    {
+      "text": "Ox Operations seeks an order that the statutory demand be set aside pursuant to s 459H of the Corporations Act 2001 (Cth) (\"the Act \").",
+      "id": "s1"
+    },
+    {
+      "text": "The application is made under s 459G of the Act .",
+      "id": "s2"
+    },
+    {
+      "text": "2 LMPD submitted that the application to set aside the statutory demand should be dismissed.",
+      "id": "s3"
+    },
+    {
+      "text": "First, on the basis that the review is of no utility and, secondly, if that is not so, then because Ox Operations had failed to satisfy the Court that there is a genuine dispute in relation to the debt the subject of the statutory demand.",
+      "id": "s4"
+    },
+    {
+      "text": "REVIEW OF NO UTILITY?",
+      "id": "s5"
+    },
+    {
+      "text": "3 LMPD submits there is no utility in the review because Ox Operations is deemed to be insolvent.",
+      "id": "s6"
+    },
+    {
+      "text": "Its deemed insolvency arises because it failed to comply with the statutory demand within the time required, as extended by the Registrar.",
+      "id": "s7"
+    },
+    {
+      "text": "The time for compliance with the statutory demand expired at 4.00pm on 13 December 2007.",
+      "id": "s8"
+    },
+    {
+      "text": "An application to extend the time for compliance until after 4.00pm on 13 December 2007 was not made and determined prior to that time.",
+      "id": "s9"
+    },
+    {
+      "text": "4 There is a substantial body of authority in the Federal Court and other Australian Courts that the Court has no power to extend the time for compliance after it has expired: Aussie Vic Plant Hire Pty Ltd v Esanda Finance Corporation Ltd (2007) 63 ACSR 300 and G&amp;J Gears Australia Pty Ltd v Brobo Group Pty Ltd (2006) 229 ALR 638 at [46] to [52] and the authorities referred to therein.",
+      "id": "s10"
+    },
+    {
+      "text": "5 In Aussie Vic Plant Hire , the Court of Appeal of the Supreme Court of Victoria considered that body of authority.",
+      "id": "s11"
+    },
+    {
+      "text": "Chernov JA considered that the policy of Pt 5.4 of the Act and the mischief which s 459F(2)(a)(i) seeks to abrogate makes it implicit that the Court is not empowered to extend the time for compliance with a statutory demand after the period has expired.",
+      "id": "s12"
+    },
+    {
+      "text": "His Honour considered that Pt 5.4 of the Act is a code which provides a strict and self executing regime: [84]-[97].",
+      "id": "s13"
+    },
+    {
+      "text": "Maxwell P and Neave JA disagreed: [28] to [77].",
+      "id": "s14"
+    },
+    {
+      "text": "Nettle and Ashley JJA, the remaining members of the Court of Appeal, concluded that as a matter of statutory construction of the Act and, in particular s 459F(2)(a)(i) of the Act , read with s 70 , an application to extend time for compliance with a statutory demand may be made under s 459F(2)(a)(i) after the time for compliance has expired: [118]-[124] and [183]-[187].",
+      "id": "s15"
+    },
+    {
+      "text": "However, their Honours did not the permit the time for compliance with the statutory demand to be extended after the period had expired on the basis that the view, that the Court has no power to extend the time for compliance after it has expired, had existed for more than 10 years and one could not say \"positively that it was wrong and productive of inconvenience\": [123].",
+      "id": "s16"
+    },
+    {
+      "text": "The High Court granted special leave to appeal.",
+      "id": "s17"
+    },
+    {
+      "text": "The appeal was heard on 6 February 2008 and the decision reserved.",
+      "id": "s18"
+    },
+    {
+      "text": "6 Consistent with the approach adopted by Nettle and Ashley JJA, I would not permit the time for Ox Operations to comply with the statutory demand to be extended.",
+      "id": "s19"
+    },
+    {
+      "text": "The period has expired.",
+      "id": "s20"
+    },
+    {
+      "text": "On that basis, the application for review has no utility and should be dismissed.",
+      "id": "s21"
+    },
+    {
+      "text": "7 However, in order to deal with all issues and to avoid unnecessary costs, in the event that the High Court considers that s 459F(2)(a)(i) of the Act (whether read alone or in conjunction with other provision of the Act ) enables a Court to extend the time for compliance with a statutory demand after it has expired, I propose to deal with the merits of Ox Operations application to set aside LMPD's statutory demand pursuant to ss 459G and 459H of the Act .",
+      "id": "s22"
+    },
+    {
+      "text": "NATURE OF REVIEW OF THE REGISTRAR'S DECISION \n \n8 The function of the Court, on review of such a decision, is to rehear the case and decide the facts for itself.",
+      "id": "s23"
+    },
+    {
+      "text": "It is a hearing de novo: s 35A(6) of the Federal Court of Australia Act 1976 (Cth); Mazukov v University of Tasmania [2004] FCAFC 159 at [22] to [27] and Martin v Commonwealth Bank of Australia (2001) 217 ALR 634 at [6] and [12].",
+      "id": "s24"
+    },
+    {
+      "text": "LEGAL PRINCIPLES --- APPLICATION TO SET ASIDE STATUTORY DEMAND \n \n9 The principles to be applied by the Court in determining an application to set aside a statutory demand are not in dispute.",
+      "id": "s25"
+    },
+    {
+      "text": "In the present case, the Court must be satisfied that there is a genuine dispute between Ox Operations and LMPD about the existence or amount of the debt to which the demand relates: s 459H(1)(a) of the Act .",
+      "id": "s26"
+    },
+    {
+      "text": "For a genuine dispute to exist, the dispute must \"be bona fide and truly exist in fact\".",
+      "id": "s27"
+    },
+    {
+      "text": "The grounds for alleging the existence of a dispute must be \"real and not spurious, hypothetical, illusory or misconceived\": Spencer Constructions Pty Ltd v G&amp;M Aldridge Pty Ltd [1997] FCA 681 ; (1997) 76 FCR 452 at 464.",
+      "id": "s28"
+    },
+    {
+      "text": "10 The Court's role is to determine whether a genuine dispute exists.",
+      "id": "s29"
+    },
+    {
+      "text": "That issue is determined at the time the Court hears the application: Andi-Co Australia Pty Ltd v Meyers [2004] FCA 1358 at [16] .",
+      "id": "s30"
+    },
+    {
+      "text": "The manner in which the Court approaches the task is also not in dispute.",
+      "id": "s31"
+    },
+    {
+      "text": "The Court does not resolve contested questions of fact.",
+      "id": "s32"
+    },
+    {
+      "text": "The Court does not determine where the merits lie in any contest: Kortz Ltd v Data Acquisition Pty Ltd [2006] FCA 1722 ; (2006) 155 FCR 556 at [40] .",
+      "id": "s33"
+    },
+    {
+      "text": "The Court determines whether the supporting affidavits filed and served by Ox Operations depose to facts from which the Court is able to conclude that a genuine dispute exists.",
+      "id": "s34"
+    },
+    {
+      "text": "As Young J said in John Holland Construction and Engineering Pty Ltd v Kilpatrick Green Pty Ltd (1994) 14 ACSR 250 at 253, something between mere assertion and the proof of the existence of the disputed debt is required.",
+      "id": "s35"
+    },
+    {
+      "text": "ANALYSIS \n \n11 This proceeding raises questions about the manner in which a group of companies described as the Landmark Group were conducted.",
+      "id": "s36"
+    },
+    {
+      "text": "The Landmark Group included Philidor Pty Ltd, Landmark Realty (Vic) Pty Ltd, Landmark Trading Pty Ltd, Landmark Homes (Aust) Pty Ltd, Landmark Constructions (Aust) Pty Ltd, AssetBuild Finance Pty Ltd, Ox Administration Pty Ltd (\"Ox Administration\"), LMPD and Ox Operations.",
+      "id": "s37"
+    },
+    {
+      "text": "LMPD is in liquidation.",
+      "id": "s38"
+    },
+    {
+      "text": "12 The liquidator of LMPD submits Ox Operations is indebted to LMPD in the sum of $544,574.60 (\"the debt\").",
+      "id": "s39"
+    },
+    {
+      "text": "On or about 30 May 2007, a statutory demand for payment of the debt was served on Ox Operations (\"the statutory demand\").",
+      "id": "s40"
+    },
+    {
+      "text": "The debt is said to comprise loans made by LMPD to Ox Operations from 17 March 2006 to 18 September 2006.",
+      "id": "s41"
+    },
+    {
+      "text": "The liquidator contends the debt is recorded in documents (including LMPD's business records) which came into his possession after his appointment as liquidator of LMPD.",
+      "id": "s42"
+    },
+    {
+      "text": "13 The liquidator relies principally on three types of documents as evidencing the existence of the debt.",
+      "id": "s43"
+    },
+    {
+      "text": "First, a document produced from LMPD's MYOB accounting computer software system entitled \"General Ledger [Detail]\" for the period from 1 March 2006 to 18 September 2006.",
+      "id": "s44"
+    },
+    {
+      "text": "Pages 22 to 24 of the general ledger records account number 2-3560 entitled \"Loan --- Ox Operations Pty Ltd\".",
+      "id": "s45"
+    },
+    {
+      "text": "That general ledger is said to record a debt of $598,815.27 owing by Ox Operations to LMPD.",
+      "id": "s46"
+    },
+    {
+      "text": "14 Secondly, a document produced by Ox Operations (in response to a notice to produce documents evidencing payments to LMPD between 1 February 2004 and 13 September 2006) entitled \"Account Transactions [Accrual]\" for the periods 1 April 2000 to 31 March 2005 and 1 April 2005 to 18 April 2007.",
+      "id": "s47"
+    },
+    {
+      "text": "(Ex PV5) And thirdly, bank statements issued by the National Australia Bank Limited for a cheque account in the name of LPMD together with corresponding cheque butts which correspond to the entries listed in the General Ledger: [Ex PV2 and PV3].",
+      "id": "s48"
+    },
+    {
+      "text": "15 As the liquidator of LMPD submitted, the starting point is s 1305 of the Act .",
+      "id": "s49"
+    },
+    {
+      "text": "Section 1305(1) is a facilitative provision which has been given a broad interpretation: Valoutin Pty Ltd v Furst (1998) 154 ALR 119 at 128.",
+      "id": "s50"
+    },
+    {
+      "text": "16 It provides that:\n \n \n \n (1) A book kept by a body corporate under a requirement of this Act is admissible in evidence in any proceeding and is prima facie evidence of any matter stated or recorded in the book.",
+      "id": "s51"
+    },
+    {
+      "text": "(2) A document purporting to be a book kept by a body corporate is, unless the contrary is proved, taken to be a book kept as mentioned in subsection (1).",
+      "id": "s52"
+    },
+    {
+      "text": "17 \"Books\" is defined in s 9 of the Act to include:\n \n \n (a) a register; and \n \n (b) any other record of information; and \n \n \n \n \n \n (c) financial reports or financial records, however compiled, recorded or stored; and \n \n \n \n \n \n (d) a document; \n \n but does not include an index or recording made under Subdivision D of Division 5 of Part 6.5.",
+      "id": "s53"
+    },
+    {
+      "text": "18 \"Financial records\" is also a defined term.",
+      "id": "s54"
+    },
+    {
+      "text": "It includes:\n \n \n \n (a) invoices, receipts, orders for the payment of money, bills of exchange, cheques, promissory notes and vouchers; and \n \n \n \n \n \n (b) documents of prime entry; and \n \n (c) working papers and other documents needed to explain: \n \n \n \n (i) the methods by which financial statements are made up; and \n \n \n \n \n \n (ii) adjustments to be made in preparing financial statements.",
+      "id": "s55"
+    },
+    {
+      "text": "19 The form and content of the general ledger is significant.",
+      "id": "s56"
+    },
+    {
+      "text": "First, it is one of the financial records (being a type of book) that LMPD was required to keep under the Act : see s 286 of the Act .",
+      "id": "s57"
+    },
+    {
+      "text": "Secondly, the contents of that document are admissible and prima facie evidence of the matter stated and recorded in it --- that Ox Operations was indebted to LMPD in the sum of $598,815.27.",
+      "id": "s58"
+    },
+    {
+      "text": "The difference between the amount disclosed in the general ledger and the statutory demand is explained by the fact that the liquidator of LMPD included in the statutory demand only $554,574.60.",
+      "id": "s59"
+    },
+    {
+      "text": "ISSUE \n \n20 The question is whether Ox Operations is able to displace the prima facie position?",
+      "id": "s60"
+    },
+    {
+      "text": "Ox Operations contends that it has done so.",
+      "id": "s61"
+    },
+    {
+      "text": "It sought to rely on two grounds.",
+      "id": "s62"
+    },
+    {
+      "text": "I will deal with each ground in turn.",
+      "id": "s63"
+    },
+    {
+      "text": "FIRST GROUND OF CHALLENGE --- TRUST ARRANGEMENT \n \n21 Ox Operations contends that it is not indebted to LMPD; that LMPD did not generate income and had no moneys itself to advance to Ox Operations.",
+      "id": "s64"
+    },
+    {
+      "text": "Ox Operations submitted that LMPD was in fact the treasurer of the Landmark Group and acted as a conduit to transfer moneys between group members and to pay the trade creditors of the Group.",
+      "id": "s65"
+    },
+    {
+      "text": "Any moneys it received and then provided to Ox Operations were funds held by it on trust or as agent for other members of the Landmark Group for other members of the Landmark Group which had paid money to LMPD to pay out to third parties (the \"trust argument\").",
+      "id": "s66"
+    },
+    {
+      "text": "22 John Grezos, a director of Ox Operations, explained the company's position in an affidavit sworn on 16 June 2007 in the following terms:\n \n \n \n 6.",
+      "id": "s67"
+    },
+    {
+      "text": "In my capacity as a director of each of the entities in the Landmark Group ... between 1 February 2001 to 13 September 2006, and pursuant to an arrangement , monies were paid to [LMPD] by myself, Chris Garris, Philador, Homes, Realty, Assetbuild and Constructions (\"the monies\") (\"the arrangement\") which are quantified in paragraph 11 below.",
+      "id": "s68"
+    },
+    {
+      "text": "7.",
+      "id": "s69"
+    },
+    {
+      "text": "These monies were transferred and or paid into the LMPD bank account for the sole purpose to on-lend to other companies and persons who are ... involved in the Landmark Group ...",
+      "id": "s70"
+    },
+    {
+      "text": "Included in those payments was the moneys paid to [LMPD] for the benefit of Ox [Operations} in the sum of $554,574.60.",
+      "id": "s71"
+    },
+    {
+      "text": "At the date of swearing this my affidavit all the monies actually paid to [LMPD] for the benefit of the Landmark Group ... has been applied to the Landmark Group.",
+      "id": "s72"
+    },
+    {
+      "text": "8.",
+      "id": "s73"
+    },
+    {
+      "text": "It was a term of this arrangement between the Landmark Group ... that the above ... payments into [LMPD] were to be held by [LMPD] to be paid out to the recipients of that money previously paid into [LMPD] as and when they required such payments.",
+      "id": "s74"
+    },
+    {
+      "text": "Such monies were not to be used for any other purpose than that for which is referred to above and were to be held by [LMPD] in trust until such payments to other members of the Landmark Group were effected.",
+      "id": "s75"
+    },
+    {
+      "text": "...\n \n 11.",
+      "id": "s76"
+    },
+    {
+      "text": "I say that Ox [Operations] denies that it is indebted to LMPD in the sum of $554,574.64 or at all as [LMPD] did not advance any of its own monies to Ox [Operations].",
+      "id": "s77"
+    },
+    {
+      "text": "The only monies which were paid to Ox [Operations] by [LMPD] were in fact monies entrusted to [LMPD] by other members of the Landmark Group ..., together with myself and Chris Garris to only be used for such purposes .",
+      "id": "s78"
+    },
+    {
+      "text": "The majority of monies, which total to $1,343,912.62 were provided by myself in the amount of $88,304.77, Philador in the amount of $51,500.00, Homes in the amount of $108,500.00, Realty in the amount of $982,607.95, Asset Build in the amount of $46,500.00, Construction in the amount of $61,500.00 and Chris Garris in the amount of $5,000.00.",
+      "id": "s79"
+    },
+    {
+      "text": "12.",
+      "id": "s80"
+    },
+    {
+      "text": "It is incorrect to say that there are any monies due and payable by Ox [Operations] to [LMPD].",
+      "id": "s81"
+    },
+    {
+      "text": "Any liability that Ox [Operations] has in relation to the amount claimed is to other members of the Landmark Group ... together with myself and Chris Garris.",
+      "id": "s82"
+    },
+    {
+      "text": "... \n \n \n \n \n \n (Emphasis added.",
+      "id": "s83"
+    },
+    {
+      "text": ")\n \n \n\n23 The trust argument is, in my view, fundamentally flawed.",
+      "id": "s84"
+    },
+    {
+      "text": "First, none of the affidavits filed for and on behalf of Ox Operations displace the prima facie position established by the contents of the general ledger.",
+      "id": "s85"
+    },
+    {
+      "text": "On the contrary, the affidavits support the prima facie position.",
+      "id": "s86"
+    },
+    {
+      "text": "So much is made clear by para [7] of Mr Grezos' affidavit of 16 June 2007 when he stated that the monies received by LMPD were \" transferred and or paid into the LMPD bank account for the sole purpose to on-lend to other companies and persons who are involved in the Landmark Group .",
+      "id": "s87"
+    },
+    {
+      "text": "\" In other words, the transaction was a loan.",
+      "id": "s88"
+    },
+    {
+      "text": "That is what the financial records of LMPD record and upon which the statutory demand is based.",
+      "id": "s89"
+    },
+    {
+      "text": "24 Secondly, none of the affidavits rise higher than mere assertion about the existence of a so called \"arrangement\" which is inconsistent with or contrary to the existence of the loan as recorded in the general ledger.",
+      "id": "s90"
+    },
+    {
+      "text": "Not only are the terms of the arrangement not disclosed but the Court is unable to discern who were the parties to such arrangement and when it was entered into.",
+      "id": "s91"
+    },
+    {
+      "text": "25 Thirdly, the books of LMPD do not support the contention that LMPD was acting as trustee or agent and provided the funds on behalf of a number of identified entities and persons.",
+      "id": "s92"
+    },
+    {
+      "text": "For example, the bank statements for LMPD's bank account do not support that contention.",
+      "id": "s93"
+    },
+    {
+      "text": "The bank account was a mixed account.",
+      "id": "s94"
+    },
+    {
+      "text": "It operated as a trading overdraft account.",
+      "id": "s95"
+    },
+    {
+      "text": "The bank statements reveal that, even if the so called trust arrangement existed, of the payments made to Ox Operations totalling $521,548.23, the maximum amount that could have been a loan or advance from an entity other than LMPD was $265,138.95.",
+      "id": "s96"
+    },
+    {
+      "text": "The balance of $256,409.28 ($521,548.23 less $265,138.95) was directly sourced not from another entity or individual but from funds received by LMPD on a monthly basis and deposited directly into LMPD's bank account from a source outside the Landmark Group.",
+      "id": "s97"
+    },
+    {
+      "text": "The funds were monthly GST refunds from the Australian Taxation Office.",
+      "id": "s98"
+    },
+    {
+      "text": "The refunds were the result of GST paid by LMPD to Crema (Vic) Pty Ltd which had been contracted by LMPD to construct a building in Lonsdale Street, Melbourne.",
+      "id": "s99"
+    },
+    {
+      "text": "26 Fourthly, the evidence of Mr Tolya Rayzman, an employee of Harold Sztainbok &amp; Co Pty Ltd Mr Wallace's firm, was that monies were advanced to Ox Operations by LMPD and that he instructed the bookkeeper to place all of the intra group transactions into \" appropriate loan accounts\" .",
+      "id": "s100"
+    },
+    {
+      "text": "Mr Rayzman's evidence was not that the loan accounts did not exist but that he would use the entries in the loan accounts to determine who would be repaid when \" Ox [Operations] refinanced its activities\" .",
+      "id": "s101"
+    },
+    {
+      "text": "The only entity listed in the general ledger as requiring \" repayment\" when Ox [Operations] refinanced its activities\" was LMPD.",
+      "id": "s102"
+    },
+    {
+      "text": "27 Finally, in response to a notice to produce \" [t]he documents evidencing payments to [LMPD] between 1 February 2004 to 13 September 2006 \", Ox Operations produced to LMPD an incomplete ledger for LMPD.",
+      "id": "s103"
+    },
+    {
+      "text": "That general ledger recorded the various payments to LMPD as loans rather than payments received as trustee or subject to some other arrangement.",
+      "id": "s104"
+    },
+    {
+      "text": "28 Ox Operations' written submissions referred to Walsh v Salzer Constructions Pty Ltd [2000] VSCA 228 as support for the proposition that the fact that a company acts as a treasurer for other entities within the same group does not by itself give rise to a debtor --- creditor relationship.",
+      "id": "s105"
+    },
+    {
+      "text": "So much may be accepted.",
+      "id": "s106"
+    },
+    {
+      "text": "But that is not the only relevant fact in this application.",
+      "id": "s107"
+    },
+    {
+      "text": "The more significant fact is the existence of the prima facie position reflected in the general ledger of LMPD --- a loan to Ox Operations.",
+      "id": "s108"
+    },
+    {
+      "text": "The decision may be put to one side.",
+      "id": "s109"
+    },
+    {
+      "text": "29 For those reasons, I do not accept that the first ground of challenge raises a genuine dispute.",
+      "id": "s110"
+    },
+    {
+      "text": "SECOND GROUND OF CHALLENGE \n \n30 On review, Ox Operations also sought to set aside the statutory demand on a second basis: that Ox Operations was not indebted to LMPD and that the general ledger did not and could not reflect the true position.",
+      "id": "s111"
+    },
+    {
+      "text": "31 LMPD submitted that the Second Ground of Challenge was not available to Ox Operations by reason of the principles in Graywinter Properties Pty Ltd v Gas &amp; Fuel Corporation Superannuation Fund (1996) 70 FCR 452 at 459-460 as explained in Hansmar Investments Pty Ltd v Perpetual Trustee Co Ltd (2007) 61 ACSR 321 at 326.",
+      "id": "s112"
+    },
+    {
+      "text": "LMPD submitted that the second ground of challenge was not \" raised expressly, by necessary inference, or by a reasonably available inference \" in the affidavit of Mr Grezos sworn on 16 June 2007 (\"the First Grezos Affidavit\") and filed in support of the application to set aside the statutory demand: Hansmar at [28].",
+      "id": "s113"
+    },
+    {
+      "text": "32 In my view, the Second Ground of Challenge was not \" raised expressly, by necessary inference, or by a reasonably available inference \" in the First Grezos Affidavit.",
+      "id": "s114"
+    },
+    {
+      "text": "The basis of the First Grezos Affidavit was that (1) monies were transferred and or paid into the LMPD bank account; (2) for the sole purpose to on-lend to other companies and persons who are involved in the Landmark Group and (3) included in those payments was the moneys paid to LMPD for the benefit of Ox Operations in the sum of $554,575.60.",
+      "id": "s115"
+    },
+    {
+      "text": "Neither the supporting affidavit nor the documents annexed to it raise the suggestion that the payments were not made to LMPD but to another entity.",
+      "id": "s116"
+    },
+    {
+      "text": "The second ground of challenge is not available to Ox Operations.",
+      "id": "s117"
+    },
+    {
+      "text": "33 If I was wrong to conclude that the second ground of challenge was not available to Ox Operations, I am nonetheless of the view that the second ground of challenge does not raise a genuine dispute.",
+      "id": "s118"
+    },
+    {
+      "text": "Four categories of payments recorded in the general ledger were said by Ox Operations to demonstrate that the general ledger could not be relied upon as accurate thereby establishing, consistent with the principles set out above (see [9] and [10]), the existence of a genuine dispute.",
+      "id": "s119"
+    },
+    {
+      "text": "34 The first category were payments recorded in the general ledger of LMPD as being a loan to Ox Operations where the source documents (the cheque butts or the bank statements or both) do not refer to \"Ox Operations\" but \"Ox\" (for example, folios 19, 38 and 40 of Ex \"PV2\").",
+      "id": "s120"
+    },
+    {
+      "text": "At least two companies in the Landmark Group contained the word \"Ox\" --- Ox Operations, Ox Administration.",
+      "id": "s121"
+    },
+    {
+      "text": "Ox Operations contended that there were insufficient facts or material before the Court to enable the Court to ascertain which of the Ox entities was the beneficiary of the payment.",
+      "id": "s122"
+    },
+    {
+      "text": "In my view, Ox Operations' claim is misconceived.",
+      "id": "s123"
+    },
+    {
+      "text": "Ox Operations bore the onus of displacing the prima facie position of indebtedness.",
+      "id": "s124"
+    },
+    {
+      "text": "It failed to do so.",
+      "id": "s125"
+    },
+    {
+      "text": "Mr Grezos, the principal of Ox Operations and the Landmark Group, informed the Court that he was not responsible for the making of entries in LMPD's books of account, he had little independent recollection about what the individual payments recorded in the general ledger relate [par 5 of 01.02.08] and that he could not say with any certainty which of Ox Operations, Ox Administration and Ox Group Pty Ltd received the benefit of the payments.",
+      "id": "s126"
+    },
+    {
+      "text": "Even if Mr Grezos had little independent recollection of those matters, he could have at least explained the role played by each of the Ox entities or instructed an accountant to undertake the task of identifying that the beneficiary of one or more of the payments was not Ox Operations.",
+      "id": "s127"
+    },
+    {
+      "text": "And to the extent that there was evidence filed about the entries in the general ledger, that evidence does not assist Ox Operations.",
+      "id": "s128"
+    },
+    {
+      "text": "As noted earlier, the evidence of Mr Tolya Rayzman, an employee of Harold Sztainbok &amp; Co Pty Ltd, was that he instructed the bookkeeper to place all of the intra group transactions into \" appropriate loan accounts\" .",
+      "id": "s129"
+    },
+    {
+      "text": "Other than mere assertion or speculation, there is nothing to suggest that transactions placed into the loan account in the name of Ox Operations in LMPD's general ledger was anything other than appropriate.",
+      "id": "s130"
+    },
+    {
+      "text": "35 The second category of payments are those dated prior to incorporation of Ox Operations on 7 April 2006.",
+      "id": "s131"
+    },
+    {
+      "text": "Pre-incorporation expenses are common.",
+      "id": "s132"
+    },
+    {
+      "text": "The cost of them is often borne by the entity that is subsequently incorporated.",
+      "id": "s133"
+    },
+    {
+      "text": "This fact either alone or in conjunction with the other matters raised by Ox Operations does not satisfy me that there is a genuine dispute.",
+      "id": "s134"
+    },
+    {
+      "text": "36 The third category of payments are those where the cheque butt refers to 'Ox Holdings' or 'Ox Capital' (for example, folios 39, 41 and 45 of Ex \"PV2\").",
+      "id": "s135"
+    },
+    {
+      "text": "Again, this fact either alone or in conjunction with the other matters raised by Ox Operations does not satisfy me that there is a genuine dispute.",
+      "id": "s136"
+    },
+    {
+      "text": "It is by no means clear whether there is an entity known as 'Ox Capital'.",
+      "id": "s137"
+    },
+    {
+      "text": "There is nothing to evidence the relationship between Ox Operations or any other 'Ox' entity.",
+      "id": "s138"
+    },
+    {
+      "text": "In my view, other than mere assertion or speculation, there is nothing to suggest that transactions placed into the loan account in the name of Ox Operations in LMPD's general ledger in the manner described above (see [33]) was anything other than appropriate.",
+      "id": "s139"
+    },
+    {
+      "text": "If consistent with the principles for setting aside a statutory demand, Ox Operations was to seek to dispute that allocation, more was required.",
+      "id": "s140"
+    },
+    {
+      "text": "37 Finally, there is a bundle of payments where the source documents (the cheque butts) do not refer to \"Ox Operations\" but to an individual's name and, in some cases, the word \"wages\" is referred to (for example, folios 51 and 52 of Ex \"PV2\".",
+      "id": "s141"
+    },
+    {
+      "text": "This category of complaint fails for the same reason as the complaints made in relation to categories 1 and 3.",
+      "id": "s142"
+    },
+    {
+      "text": "38 In the circumstances, the Court cannot be satisfied that there is a genuine dispute between Ox Operations and LMPD about the existence or amount of the debt to which the demand relates.",
+      "id": "s143"
+    },
+    {
+      "text": "I would therefore dismiss the notice of motion dated 11 December 2007 and order the plaintiff to pay the defendant's costs of the proceeding, to be taxed in default of agreement.",
+      "id": "s144"
+    },
+    {
+      "text": "NOTICE TO PRODUCE \n \n39 At the commencement of the hearing, Ox Operations called on a Notice to Produce it had served on LMPD the previous day.",
+      "id": "s145"
+    },
+    {
+      "text": "The Notice sought production of the following documents:\n \n \n \n 1.",
+      "id": "s146"
+    },
+    {
+      "text": "The files and notes of Paul Vartelas acting as the liquidator of Ox Capital Pty Ltd (in liquidation) ACN 109 029 165 and National Pacific Securities Pty Ltd (in liquidation) ACN 105 407 841.",
+      "id": "s147"
+    },
+    {
+      "text": "2.",
+      "id": "s148"
+    },
+    {
+      "text": "All documents, files and invoices with respect to its retainer to act for Ox Capital Pty Ltd (in liquidation), Ox Operations Pty Ltd, John Grezos, Ox Holding Pty Ltd including: \n \n \n \n \n \n \n \n (a) email correspondence from Comlaw Barristers &amp; Solicitors to bmcmalson@lawyer.com dated 27 March 2006 11.39am and attachments thereto; and\n \n (b) email correspondence from Comlaw Barristers [&amp;] Solicitors to jordon.ross@minterellison.com dated 27 March 2006 at 11.31 am and attached thereto.",
+      "id": "s149"
+    },
+    {
+      "text": "(c) email from Jordon Ross [jordon.ross@minterellison.com] to comlawbs@bigpond.net.au dated 29 March 2006 at 12.00 pm and attachment thereto; \n \n \n \n \n \n \n \n (d) copy of invoice from Comlaw dated 27 April 2006 for the sum of $3,344.00 in respect [of] legal services provided in relation to Ox Capital Pty Ltd and/or Ox Holdings Pty Ltd together with copies of your retainer agreement in respect [of] any legal work undertaken in relation to the Ox Group of companies.",
+      "id": "s150"
+    },
+    {
+      "text": "Ox Operations did not persist with the request in para [1] of the Notice.",
+      "id": "s151"
+    },
+    {
+      "text": "40 Counsel for LMPD made an oral application to set aside para [2] of the notice to produce.",
+      "id": "s152"
+    },
+    {
+      "text": "I granted that application.",
+      "id": "s153"
+    },
+    {
+      "text": "What follows are my reasons for doing so.",
+      "id": "s154"
+    },
+    {
+      "text": "41 Order 33 r 12(1) of the Federal Court Rules provides that where a party to a proceeding serves on another party a notice requiring the party served to produce at any trial or hearing in the proceedings, any document for the purpose of evidence and the document is in the possession, custody or power of the party served, the party served shall, unless the Court otherwise orders, produce the document without the need for any subpoena for production.",
+      "id": "s155"
+    },
+    {
+      "text": "42 As has been said many times, a notice under O 33 r 12 has the same coercive effect as a subpoena for production.",
+      "id": "s156"
+    },
+    {
+      "text": "Compliance is mandatory unless the Court otherwise orders: Potts v Dennis Jones &amp; Co Pty Ltd (No.",
+      "id": "s157"
+    },
+    {
+      "text": "2) (1995) 58 FCR 61 at 70.",
+      "id": "s158"
+    },
+    {
+      "text": "Similarly, the considerations which apply to the setting aside of a subpoena are equally applicable to a notice to produce: Jefferson Ford Pty Ltd v Ford Motor Company of Australia Pty Ltd [2007] VSC 450 and Crown Joinery Pty Ltd v Lyleho Pty Ltd [2007] VSC 214.",
+      "id": "s159"
+    },
+    {
+      "text": "The grounds on which a notice to produce may be set include that it is too wide, oppressive or fishing.",
+      "id": "s160"
+    },
+    {
+      "text": "The issues in the case and the possible relevance of the document or documents to those issues are obviously relevant in deciding whether the notice is fishing: Seven Network Ltd v News Ltd (No 11) [2006] FCA 174 at [6] .",
+      "id": "s161"
+    },
+    {
+      "text": "43 Paragraph [2] of the Notice was far from clear.",
+      "id": "s162"
+    },
+    {
+      "text": "During the course of argument, it became apparent that Ox Operations sought production of documents relating to work undertaken by Comlaw, a firm of solicitors.",
+      "id": "s163"
+    },
+    {
+      "text": "(The documents were said to concern the payments listed at folios 17, 55 and 56 of Ex \"PV2\").",
+      "id": "s164"
+    },
+    {
+      "text": "Ox Operations sought production of the documents to demonstrate that Ox Operations was not indebted to LMPD in respect of the sums identified in those folios.",
+      "id": "s165"
+    },
+    {
+      "text": "I set aside par [2] of the Notice to Produce.",
+      "id": "s166"
+    },
+    {
+      "text": "The documents relate to the Second Ground of Challenge, a ground which is not available to Ox Operations for the reasons set out earlier (see [32]).",
+      "id": "s167"
+    },
+    {
+      "text": "ORDERS \n \n44 In the circumstances, the notice of motion dated 11 December 2007 is dismissed and I will order the plaintiff to pay the defendant's costs of the proceeding, to be taxed in default of agreement.",
+      "id": "s168"
+    },
+    {
+      "text": "I certify that the preceding forty-four (44) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Gordon.",
+      "id": "s169"
+    },
+    {
+      "text": "Associate:\n\nDated: 11 February 2008\n\n Counsel for the Plaintiff: Mr HA Aizen with Mr TJ Sowden \n \n Solicitor for the Plaintiff: Paul Egan &amp; Associates \n \n Counsel for the Defendant: Mr JL Evans \n \n Solicitor for the Defendant: ComLaw \n \n Date of Hearing: 5 February 2008 \n \n Date of Judgment: 11 February 2008 \n \n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2008/61.html",
+      "id": "s170"
+    }
+  ]
+}

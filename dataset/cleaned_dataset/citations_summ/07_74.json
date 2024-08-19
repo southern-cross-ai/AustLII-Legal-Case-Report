@@ -1,0 +1,818 @@
+[
+  {
+    "text": "contract",
+    "id": "cp0.0",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "formation",
+    "id": "cp0.1",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "novation",
+    "id": "cp0.2",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "implied novation",
+    "id": "cp0.3",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "assignment of chose of action",
+    "id": "cp0.4",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether right of rescission of contract assignable",
+    "id": "cp0.5",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "implied term",
+    "id": "cp0.6",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "good faith and fair dealing",
+    "id": "cp0.7",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "contract",
+    "id": "cp1.0",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "offer and acceptance",
+    "id": "cp1.1",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "whether letter constituted contractual offer to vary existing contract and create new contract between parties",
+    "id": "cp1.2",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "where language of offer ambiguous",
+    "id": "cp1.3",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "assessment of mutually known facts re contractual background and shared beliefs of parties",
+    "id": "cp1.4",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "whether conduct partially conforming to letter of offer constituted implied acceptance",
+    "id": "cp1.5",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "mutually understood purpose of offer",
+    "id": "cp1.6",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "whether response to offer was rejection of it",
+    "id": "cp1.7",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "whether response to offer merely constituted posturing and negotiation  contract",
+    "id": "cp1.8",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "consideration",
+    "id": "cp1.9",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "no immediate or guaranteed increase in earnings",
+    "id": "cp1.10",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "likelihood of future increases in earnings  contract",
+    "id": "cp1.11",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "construction of terms",
+    "id": "cp1.12",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "meaning of \"general commercial refuse\"",
+    "id": "cp1.13",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "in context of agreement with local council to operate waste depot",
+    "id": "cp1.14",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "meaning of \"additional income\"",
+    "id": "cp1.15",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "in context of moneys required to be remitted to local council from fees charged for receipt of liquid waste at waste depot  remedies",
+    "id": "cp1.16",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "restitution",
+    "id": "cp1.17",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "doctrine of unjust enrichment",
+    "id": "cp1.18",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "discussion about controversy and debate in australia surrounding development of doctrine and its applicability to claims in contract",
+    "id": "cp1.19",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "vendor and purchaser",
+    "id": "cp3.0",
+    "type": "cited",
+    "from": "[1989]"
+  },
+  {
+    "text": "sale of land",
+    "id": "cp3.1",
+    "type": "cited",
+    "from": "[1989]"
+  },
+  {
+    "text": "contract",
+    "id": "cp3.2",
+    "type": "cited",
+    "from": "[1989]"
+  },
+  {
+    "text": "breach",
+    "id": "cp3.3",
+    "type": "cited",
+    "from": "[1989]"
+  },
+  {
+    "text": "rescission",
+    "id": "cp3.4",
+    "type": "cited",
+    "from": "[1989]"
+  },
+  {
+    "text": "time of essence",
+    "id": "cp3.5",
+    "type": "cited",
+    "from": "[1989]"
+  },
+  {
+    "text": "intimation by vendors before date for completion of inability to complete",
+    "id": "cp3.6",
+    "type": "cited",
+    "from": "[1989]"
+  },
+  {
+    "text": "notice of rescission by purchasers",
+    "id": "cp3.7",
+    "type": "cited",
+    "from": "[1989]"
+  },
+  {
+    "text": "purchasers' readiness and willingness to complete",
+    "id": "cp3.8",
+    "type": "cited",
+    "from": "[1989]"
+  },
+  {
+    "text": "estoppel",
+    "id": "cp3.9",
+    "type": "cited",
+    "from": "[1989]"
+  },
+  {
+    "text": "whether vendors estopped from asserting purchasers' inability to complete.",
+    "id": "cp3.10",
+    "type": "cited",
+    "from": "[1989]"
+  },
+  {
+    "text": "landlord and tenant",
+    "id": "cp4.0",
+    "type": "cited",
+    "from": "[1985]"
+  },
+  {
+    "text": "torrens system land",
+    "id": "cp4.1",
+    "type": "cited",
+    "from": "[1985]"
+  },
+  {
+    "text": "unregistered lease",
+    "id": "cp4.2",
+    "type": "cited",
+    "from": "[1985]"
+  },
+  {
+    "text": "effect",
+    "id": "cp4.3",
+    "type": "cited",
+    "from": "[1985]"
+  },
+  {
+    "text": "covenant to pay rent",
+    "id": "cp4.4",
+    "type": "cited",
+    "from": "[1985]"
+  },
+  {
+    "text": "breach",
+    "id": "cp4.5",
+    "type": "cited",
+    "from": "[1985]"
+  },
+  {
+    "text": "re-entry",
+    "id": "cp4.6",
+    "type": "cited",
+    "from": "[1985]"
+  },
+  {
+    "text": "right of landlord to damages for loss of benefit of covenant",
+    "id": "cp4.7",
+    "type": "cited",
+    "from": "[1985]"
+  },
+  {
+    "text": "fundamental breach",
+    "id": "cp4.8",
+    "type": "cited",
+    "from": "[1985]"
+  },
+  {
+    "text": "repudiation.",
+    "id": "cp4.9",
+    "type": "cited",
+    "from": "[1985]"
+  },
+  {
+    "text": "contract",
+    "id": "cp5.0",
+    "type": "cited",
+    "from": "[1984]"
+  },
+  {
+    "text": "exclusive distribution agreement",
+    "id": "cp5.1",
+    "type": "cited",
+    "from": "[1984]"
+  },
+  {
+    "text": "statements preceding contract",
+    "id": "cp5.2",
+    "type": "cited",
+    "from": "[1984]"
+  },
+  {
+    "text": "whether promissory",
+    "id": "cp5.3",
+    "type": "cited",
+    "from": "[1984]"
+  },
+  {
+    "text": "statement that distributor would devote best efforts to distribute products",
+    "id": "cp5.4",
+    "type": "cited",
+    "from": "[1984]"
+  },
+  {
+    "text": "whether warranty or mere representation",
+    "id": "cp5.5",
+    "type": "cited",
+    "from": "[1984]"
+  },
+  {
+    "text": "implied terms",
+    "id": "cp5.6",
+    "type": "cited",
+    "from": "[1984]"
+  },
+  {
+    "text": "term implied by statute that distributor would \"use best efforts\" to promote products",
+    "id": "cp5.7",
+    "type": "cited",
+    "from": "[1984]"
+  },
+  {
+    "text": "whether further term implied that distributor not to do anything inimical to market for products",
+    "id": "cp5.8",
+    "type": "cited",
+    "from": "[1984]"
+  },
+  {
+    "text": "distributor developing own capacity to manufacture principal's products",
+    "id": "cp5.9",
+    "type": "cited",
+    "from": "[1984]"
+  },
+  {
+    "text": "orders for principal's products deferred to be met with distributor's products",
+    "id": "cp5.10",
+    "type": "cited",
+    "from": "[1984]"
+  },
+  {
+    "text": "whether breach of best efforts term",
+    "id": "cp5.11",
+    "type": "cited",
+    "from": "[1984]"
+  },
+  {
+    "text": "uniform commercial code (u.s.), s. 2-306(2).  trusts",
+    "id": "cp5.12",
+    "type": "cited",
+    "from": "[1984]"
+  },
+  {
+    "text": "constructive trust",
+    "id": "cp5.13",
+    "type": "cited",
+    "from": "[1984]"
+  },
+  {
+    "text": "fiduciary duty",
+    "id": "cp5.14",
+    "type": "cited",
+    "from": "[1984]"
+  },
+  {
+    "text": "breach",
+    "id": "cp5.15",
+    "type": "cited",
+    "from": "[1984]"
+  },
+  {
+    "text": "distributorship agreement",
+    "id": "cp5.16",
+    "type": "cited",
+    "from": "[1984]"
+  },
+  {
+    "text": "whether fiduciary relationship between parties",
+    "id": "cp5.17",
+    "type": "cited",
+    "from": "[1984]"
+  },
+  {
+    "text": "importation of fiduciary duties into commercial transactions",
+    "id": "cp5.18",
+    "type": "cited",
+    "from": "[1984]"
+  },
+  {
+    "text": "relevance of terms of contract to existence of fiduciary relationship.",
+    "id": "cp5.19",
+    "type": "cited",
+    "from": "[1984]"
+  },
+  {
+    "text": "landlord and tenant",
+    "id": "cp6.0",
+    "type": "cited",
+    "from": "[1982]"
+  },
+  {
+    "text": "lease",
+    "id": "cp6.1",
+    "type": "cited",
+    "from": "[1982]"
+  },
+  {
+    "text": "rent",
+    "id": "cp6.2",
+    "type": "cited",
+    "from": "[1982]"
+  },
+  {
+    "text": "covenant to pay",
+    "id": "cp6.3",
+    "type": "cited",
+    "from": "[1982]"
+  },
+  {
+    "text": "breach",
+    "id": "cp6.4",
+    "type": "cited",
+    "from": "[1982]"
+  },
+  {
+    "text": "right to re-enter",
+    "id": "cp6.5",
+    "type": "cited",
+    "from": "[1982]"
+  },
+  {
+    "text": "re-entry",
+    "id": "cp6.6",
+    "type": "cited",
+    "from": "[1982]"
+  },
+  {
+    "text": "whether landlord entitled to damages for breach of covenant.",
+    "id": "cp6.7",
+    "type": "cited",
+    "from": "[1982]"
+  },
+  {
+    "text": "judge : vickery j where held : melbourne dates of hearing : 5",
+    "id": "cp9.0",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "7, 9, 13",
+    "id": "cp9.1",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "15, 19",
+    "id": "cp9.2",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "22, 26, 28",
+    "id": "cp9.3",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "29 october 2009;",
+    "id": "cp9.4",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "judge : vickery j where held : melbourne dates of hearing : 5",
+    "id": "cp9.5",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "7, 9, 13",
+    "id": "cp9.6",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "15, 19",
+    "id": "cp9.7",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "22, 26, 28",
+    "id": "cp9.8",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "29 october 2009; 9",
+    "id": "cp9.9",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "10, 12",
+    "id": "cp9.10",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "13 november 2009 date of judgment : 12 march 2010 case may be cited as : ambridge investments pty ltd v baker &amp; ors medium neutral citation : [2010] vsc 59",
+    "id": "cp9.11",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "joint venture",
+    "id": "cp9.12",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "definition of \"joint venture\"",
+    "id": "cp9.13",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "conduct giving rise to implied agreement of joint venture",
+    "id": "cp9.14",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "equitable fiduciary obligations arising in negotiation towards a joint venture",
+    "id": "cp9.15",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "equitable fiduciary obligations arising in a joint venture",
+    "id": "cp9.16",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "statute of frauds",
+    "id": "cp9.17",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "s.126 instruments act 1958",
+    "id": "cp9.18",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "no acquisition or disposition of land under joint venture agreement.  equity",
+    "id": "cp9.19",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "entitlement to equitable relief",
+    "id": "cp9.20",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "discretionary factors",
+    "id": "cp9.21",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "conduct alleged not sufficiently related to plaintiff's cause of action",
+    "id": "cp9.22",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "claim for a declaration not a claim for equitable relief",
+    "id": "cp9.23",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "equitable fiduciary obligations arising in negotiation towards a joint venture",
+    "id": "cp9.24",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "equitable fiduciary obligations arising in a joint venture.  estoppel",
+    "id": "cp9.25",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "alleged detriment out of proportion to relief sought.  evidence",
+    "id": "cp9.26",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "admissions by conduct in a civil proceeding",
+    "id": "cp9.27",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "adoption of company accounts by directors",
+    "id": "cp9.28",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "conduct giving rise to implied agreement",
+    "id": "cp9.29",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "admissibility and use of post contractual conduct.  practice and procedure",
+    "id": "cp9.30",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "order 18 of supreme court (general civil procedure) rules 2005",
+    "id": "cp9.31",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "representative action",
+    "id": "cp9.32",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "whether applies to trust property",
+    "id": "cp9.33",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "prosecution of proceeding by plaintiff not in a representative capacity.  trust",
+    "id": "cp9.34",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "creation of express trust by words and conduct",
+    "id": "cp9.35",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "contempt of court",
+    "id": "cp10.0",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "injunction preventing the use of a trademark",
+    "id": "cp10.1",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "steps taken to avoid injunction",
+    "id": "cp10.2",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "whether it is appropriate to seek a further injunction or move for contempt",
+    "id": "cp10.3",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "further injunction granted",
+    "id": "cp10.4",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "contract",
+    "id": "cp11.0",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "licence of trade mark",
+    "id": "cp11.1",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "non derogation from grant",
+    "id": "cp11.2",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "independent rule of law not an implied term",
+    "id": "cp11.3",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "not confined to dealings in land",
+    "id": "cp11.4",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "applied to trade mark licence so as not to frustrate that licence contract",
+    "id": "cp11.5",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "implied term",
+    "id": "cp11.6",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "restraining applicant from operating or allowing or permitting another to operate restaurant using a particular trade mark in proximity to respondent's restaurant practice and procedure",
+    "id": "cp11.7",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "declaration",
+    "id": "cp11.8",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "whether declaration should be amended trade mark",
+    "id": "cp11.9",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "licence to use trade mark to operate a restaurant",
+    "id": "cp11.10",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "whether change in ownership avoids licence",
+    "id": "cp11.11",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "meaning of 'operate'",
+    "id": "cp11.12",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "practice and procedure",
+    "id": "cp12.0",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "pleadings",
+    "id": "cp12.1",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "amendment",
+    "id": "cp12.2",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "whether futile",
+    "id": "cp12.3",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "whether likely to occasion irremediable prejudice.",
+    "id": "cp12.4",
+    "type": "citing",
+    "from": "[2007]"
+  }
+]

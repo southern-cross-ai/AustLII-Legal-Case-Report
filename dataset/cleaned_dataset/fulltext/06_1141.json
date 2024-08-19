@@ -1,0 +1,2804 @@
+{
+  "name": "United Salvage Pty Ltd v Louis Dreyfus Armateurs SNC [2006] FCA 1141 (1 September 2006)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2006/1141.html",
+  "catchphrases": [
+    {
+      "text": "salvage",
+      "id": "c0"
+    },
+    {
+      "text": "amount of salvage reward",
+      "id": "c1"
+    },
+    {
+      "text": "factors relevant to assessment",
+      "id": "c2"
+    },
+    {
+      "text": "liability salvage",
+      "id": "c3"
+    },
+    {
+      "text": "whether excluded from consideration",
+      "id": "c4"
+    },
+    {
+      "text": "1989 convention on salvage",
+      "id": "c5"
+    },
+    {
+      "text": "interpretation",
+      "id": "c6"
+    },
+    {
+      "text": "extrinsic aids",
+      "id": "c7"
+    },
+    {
+      "text": "vienna convention",
+      "id": "c8"
+    },
+    {
+      "text": "travaux preparatoires",
+      "id": "c9"
+    },
+    {
+      "text": "proof of beneficial ownership",
+      "id": "c10"
+    },
+    {
+      "text": "shipping",
+      "id": "c11"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "The central issue in these proceedings concerns the determination of an appropriate salvage reward for salvage efforts provided by the plaintiffs to the ship \"La Pampa\" at Gladstone Harbour, Queensland, on 27 March 2002.",
+      "id": "s0"
+    },
+    {
+      "text": "The plaintiffs claim a reward in the vicinity of A$4.4 --- $A6.6 million.",
+      "id": "s1"
+    },
+    {
+      "text": "This is opposed by the defendants, who have made an open offer to pay a salvage reward of A$750,000.00 plus interest plus costs.",
+      "id": "s2"
+    },
+    {
+      "text": "During the hearing, this offer was reduced to A$500,000.00 plus interest.",
+      "id": "s3"
+    },
+    {
+      "text": "The action began as a claim by the issue of a writ on 28 March 2002 against the \"La Pampa\" in Matter No.",
+      "id": "s4"
+    },
+    {
+      "text": "NSD 246 of 2002.",
+      "id": "s5"
+    },
+    {
+      "text": "The plaintiffs, United Salvage Pty Ltd (\"United Salvage\") and Gladstone Tug Services Pty Ltd, claimed a maritime lien for services provided pursuant to s 4(3)(g) of the Admiralty Act 1988 (Cth).",
+      "id": "s6"
+    },
+    {
+      "text": "United Salvage is an international salvage operator that purports to provide salvage services around the Australian coastline.",
+      "id": "s7"
+    },
+    {
+      "text": "Gladstone Tug Services is the owner of one of the tugs, \"Tom Tough,\" that assisted the \"La Pampa\" on 27 March 2006.",
+      "id": "s8"
+    },
+    {
+      "text": "An arrest warrant was issued on 28 March 2006 and the ship was arrested the following morning.",
+      "id": "s9"
+    },
+    {
+      "text": "Upon the provision of a substantial sum of security, the ship was released from arrest on 3 April 2002.",
+      "id": "s10"
+    },
+    {
+      "text": "On 6 June 2002, the fourth defendant in the current proceedings, Oltramare Shipping Co. S.A. (\"Oltramare\"), filed an appearance on behalf of the ship.",
+      "id": "s11"
+    },
+    {
+      "text": "Oltramare described its relation with the ship as \"Demise Charterer\".",
+      "id": "s12"
+    },
+    {
+      "text": "A Statement of Claim was filed in the same Matter No.",
+      "id": "s13"
+    },
+    {
+      "text": "(NSD 246 of 2002) on 24 December 2002.",
+      "id": "s14"
+    },
+    {
+      "text": "Queensland Tug &amp; Salvage Co Pty Ltd, owner of the tugs \"Wistari\" and \"Kuttabul,\" joined the proceedings as the third plaintiff.",
+      "id": "s15"
+    },
+    {
+      "text": "Oltramare was listed as the first defendant and two other entities, Sollac Meditaranee and Bocimar NV, as second and third defendants.",
+      "id": "s16"
+    },
+    {
+      "text": "The plaintiffs sought US$1,419,500.00, reflecting five percent of the value of the salved property, or alternatively an amount determined by the Court.",
+      "id": "s17"
+    },
+    {
+      "text": "The expenses incurred in performing the salvage operation amounted to A$34,944.88 and these were also claimed.",
+      "id": "s18"
+    },
+    {
+      "text": "On 15 March 2006, an Amended Notice of Appearance was lodged on behalf of the ship by Oltramare, which referred to its relationship with the \"La Pampa\" as \"Registered Owner and Demise Charterer\".",
+      "id": "s19"
+    },
+    {
+      "text": "An Application dated 26 March 2004 was then filed by the plaintiffs in Matter No.",
+      "id": "s20"
+    },
+    {
+      "text": "NSD 430 of 2004 claiming a salvage reward against the first three defendants in these proceedings, namely Louis Dreyfus Armateurs SNC, Louis Dreyfus SAS and Societe Anonyme Louis Dreyfus et Compagnie.",
+      "id": "s21"
+    },
+    {
+      "text": "An amount of A$2,729,807.60 was claimed, together with the expenses as detailed above.",
+      "id": "s22"
+    },
+    {
+      "text": "Oltramare was not named as a defendant on this Application.",
+      "id": "s23"
+    },
+    {
+      "text": "The Statement of Claim in this matter was filed on the same day.",
+      "id": "s24"
+    },
+    {
+      "text": "On 21 June 2005, I ordered that the two proceedings - NSD 246 of 2002 and NSD 430 of 2004 - be consolidated.",
+      "id": "s25"
+    },
+    {
+      "text": "I also granted leave to the plaintiffs to file an Amended Statement of Claim.",
+      "id": "s26"
+    },
+    {
+      "text": "This was filed by the three salvors on 11 July 2005 in the consolidated proceedings against the present four defendants.",
+      "id": "s27"
+    },
+    {
+      "text": "An Amended Defence was filed on 5 October 2005 and a Further Amended Defence was filed on 6 March 2006.",
+      "id": "s28"
+    },
+    {
+      "text": "CENTRAL ISSUES IN THE PROCEEDINGS This matter raises two key questions.",
+      "id": "s29"
+    },
+    {
+      "text": "The first concerns the determination of the amount of an appropriate salvage reward.",
+      "id": "s30"
+    },
+    {
+      "text": "It is common ground between the parties that salvage services were provided and that there is an entitlement to a salvage reward.",
+      "id": "s31"
+    },
+    {
+      "text": "The plaintiffs maintain that having regard to all relevant considerations, this is an appropriate case for a reward approximating A$6 million.",
+      "id": "s32"
+    },
+    {
+      "text": "The defendants oppose this claim, arguing that the quantum of the salvage reward sought by the plaintiffs is out of proportion to the services actually provided to the vessel on 27 March 2002.",
+      "id": "s33"
+    },
+    {
+      "text": "The second question relates to the identity and role of the parties involved in the salvage operation.",
+      "id": "s34"
+    },
+    {
+      "text": "There are two sub-issues related to this second question that require consideration.",
+      "id": "s35"
+    },
+    {
+      "text": "Firstly, in performing the salvage services, were the second and third plaintiffs acting on behalf of the first plaintiff?",
+      "id": "s36"
+    },
+    {
+      "text": "The plaintiffs contend that the determination of this question bears on the assessment of the salvage reward, arguing that if this is the case, the reward should be enhanced considering that the first plaintiff operates salvage activities on an Australia-wide basis.",
+      "id": "s37"
+    },
+    {
+      "text": "The second issue to be determined is whether the third defendant was the \"beneficial owner\" of the salved vessel at the time the services were provided on 27 March 2006.",
+      "id": "s38"
+    },
+    {
+      "text": "THE VESSELS INVOLVED IN THE INCIDENT THE VESSEL IN DISTRESS: THE \"LA PAMPA\" The \"La Pampa\" is a capesize bulk carrier having nine holds with accommodation, navigating bridge and machinery conventionally arranged at her stern.",
+      "id": "s39"
+    },
+    {
+      "text": "The vessel was constructed in Poland, and was approximately seven years old at the time of the salvage operation.",
+      "id": "s40"
+    },
+    {
+      "text": "The registered owner of the vessel is the fourth defendant.",
+      "id": "s41"
+    },
+    {
+      "text": "The \"La Pampa\" has a gross tonnage of 91,651 tonnes and a net tonnage of 50,709 tonnes.",
+      "id": "s42"
+    },
+    {
+      "text": "Her dead weight is 165,289 tonnes with a draft of 17.825 metres.",
+      "id": "s43"
+    },
+    {
+      "text": "She is 281.84 metres in length with a moulded breadth of 44.9 metres.",
+      "id": "s44"
+    },
+    {
+      "text": "The vessel is propelled by a two stroke single acting Sulzer diesel engine, and the main engine is rated to develop 12,000 kilowatts (\"kw\").",
+      "id": "s45"
+    },
+    {
+      "text": "At the time of the incident, the estimated value of the \"La Pampa\" was US$20 million.",
+      "id": "s46"
+    },
+    {
+      "text": "This is agreed by both parties.",
+      "id": "s47"
+    },
+    {
+      "text": "When the vessel went aground, she had just been loaded with 160,927 metric tonnes of coal valued at US$5 million.",
+      "id": "s48"
+    },
+    {
+      "text": "She was fully laden and also carrying in her bunkers 2,993 metric tonnes of fuel oil, 163 metric tonnes of diesel oil and 80 tonnes of lubricating oil.",
+      "id": "s49"
+    },
+    {
+      "text": "The total value of the bunkers at the time of the incident was US$390,000.00.",
+      "id": "s50"
+    },
+    {
+      "text": "THE TUGS: \"TOM TOUGH,\" \"WISTARI\" AND \"KUTTABUL\" There were three tugs involved in the salvage operation.",
+      "id": "s51"
+    },
+    {
+      "text": "The \"Tom Tough\", the \"Wistari\" and the \"Kuttabul\" were all mobilised on the morning of 27 March 2006 to assist the \"La Pampa\" when the Pilot of the vessel requested assistance at 7.10 hours.",
+      "id": "s52"
+    },
+    {
+      "text": "As noted above, the second plaintiff, Gladstone Tug Services Pty Ltd, owned the \"Tom Tough\".",
+      "id": "s53"
+    },
+    {
+      "text": "The \"Wistari\" and the \"Kuttabul\" were both owned by the third defendant, Queensland Tug and Salvage Co Pty Ltd.",
+      "id": "s54"
+    },
+    {
+      "text": "The \"Tom Tough\" and the \"Wistari\" are both salvage capable tugs.",
+      "id": "s55"
+    },
+    {
+      "text": "(a) The \"Tom Tough\": \nThe tug \"Tom Tough\" is a 'Gabo' class purpose built coastal salvage tug with a gross tonnage of 396 and net tonnage of 117.",
+      "id": "s56"
+    },
+    {
+      "text": "The tug's dimensions are 34 by 10 metres and it is fitted with an oil engine developing 3,600 horse power (\"hp\").",
+      "id": "s57"
+    },
+    {
+      "text": "The tug has a bollard pull of 52 tonnes and is equipped with salvage gear.",
+      "id": "s58"
+    },
+    {
+      "text": "It is manned by a crew of three hands.",
+      "id": "s59"
+    },
+    {
+      "text": "The Master of the \"Tom Tough\" was a former Harbour Master of the Port of Gladstone and has some salvage experience.",
+      "id": "s60"
+    },
+    {
+      "text": "(b) The \"Wistari\": \nThe tug \"Wistari\" is a 'Gabo' class purpose built coastal salvage tug with a gross tonnage of 396 and net tonnage of 117.",
+      "id": "s61"
+    },
+    {
+      "text": "The tug's dimensions are 34 by 10 metres and it is fitted with an oil engine developing 3,600hp.",
+      "id": "s62"
+    },
+    {
+      "text": "The tug has a bollard pull of 52 tonnes and is equipped with salvage gear.",
+      "id": "s63"
+    },
+    {
+      "text": "It is manned by a crew of three hands.",
+      "id": "s64"
+    },
+    {
+      "text": "(c) The \"Kuttabul\": \nThe tug \"Kuttabul\" is a 'Kungurri' class purpose built coastal salvage twin screw tug with a gross tonnage of 428 and net tonnage of 129.",
+      "id": "s65"
+    },
+    {
+      "text": "The tug's dimensions are 33 by 10 metres, and it is fitted with two oil engines developing 4,200hp in all, having a bollard pull of 55 tonnes.",
+      "id": "s66"
+    },
+    {
+      "text": "It is manned by a crew of three hands.",
+      "id": "s67"
+    },
+    {
+      "text": "SETTING THE SCENE: THE \" LA PAMPA\" AND THE PORT OF GLADSTONE A plan, outlined below, indicates some of the major locations referred to in these reasons.",
+      "id": "s68"
+    },
+    {
+      "text": "This plan is to be regarded as a general guide only and is not to scale.",
+      "id": "s69"
+    },
+    {
+      "text": "PLAN OF HARBOUR \n \n \n\n SALVING THE \"LA PAMPA\": THE EVENTS OF 27 MARCH 2006 At about 06.10 hours on 27 March 2002, the ship \"La Pampa\" departed from the Clinton Loading Berth in Gladstone Harbour laden with a full cargo of coal.",
+      "id": "s70"
+    },
+    {
+      "text": "Her draft was about 17.6 metres forward and about 18 metres aft.",
+      "id": "s71"
+    },
+    {
+      "text": "A pilot was on board.",
+      "id": "s72"
+    },
+    {
+      "text": "High water was predicted for 08.12 hours, with a rise of 4.55m.",
+      "id": "s73"
+    },
+    {
+      "text": "The three tugs, referred to above, assisted the vessel to unberth, and were released near the A7 marker in the Auckland Channel.",
+      "id": "s74"
+    },
+    {
+      "text": "They then proceeded back to their berths at the Adsteam tug wharf and arrived there at approximately 07.00 hours.",
+      "id": "s75"
+    },
+    {
+      "text": "At about 07.10 hours on 27 March 2002, the Pilot on board the \"La Pampa\" was heard over the VHF radio requesting the assistance of all tugs as the vessel appeared to have suffered steering failure.",
+      "id": "s76"
+    },
+    {
+      "text": "The Master of the vessel agreed, or acquiesced, to the Pilot's decision to radio for assistance.",
+      "id": "s77"
+    },
+    {
+      "text": "All tugs immediately mobilised.",
+      "id": "s78"
+    },
+    {
+      "text": "At 07.12 hours, the Pilot reported that the \"La Pampa\" was aground in the Auckland Channel.",
+      "id": "s79"
+    },
+    {
+      "text": "It transpired that the vessel had veered to port and grounded between markers A1 and A3.",
+      "id": "s80"
+    },
+    {
+      "text": "At this point, the vessel's bow was encroaching into the channel at a maintained depth of 6.8 metres and her aft part protruded into the channel at an angle of approximately 30 degrees.",
+      "id": "s81"
+    },
+    {
+      "text": "At this time and in this position, the vessel was in a state of distress.",
+      "id": "s82"
+    },
+    {
+      "text": "At 07.15 hours, all three tugs were moving towards the \"La Pampa\" stranded in the channel.",
+      "id": "s83"
+    },
+    {
+      "text": "The \"Kuttabul\" was the first tug to arrive on the scene and began to push at full power on the vessel's port shoulder at 07.20.",
+      "id": "s84"
+    },
+    {
+      "text": "The \"Tom Tough\" arrived shortly after at 07.22 hours and commenced pushing at full power on the port side aft.",
+      "id": "s85"
+    },
+    {
+      "text": "At 07.30 hours, the \"Wistari\" arrived and connected to the vessel's starboard shoulder, where she towed at full power.",
+      "id": "s86"
+    },
+    {
+      "text": "The \"La Pampa\" refloated shortly thereafter under control of the tugs.",
+      "id": "s87"
+    },
+    {
+      "text": "Her draft forward was noted to be 17.6 metres.",
+      "id": "s88"
+    },
+    {
+      "text": "By 08.05 hours, the vessel's draft forward was noted to be 18.2 metres.",
+      "id": "s89"
+    },
+    {
+      "text": "At this time, members of the vessel's crew were seen near hatches 1 and 2 on the port side taking internal soundings.",
+      "id": "s90"
+    },
+    {
+      "text": "The \"Kuttabul\" then connected to the port shoulder and the \"Tom Tough\" connected astern.",
+      "id": "s91"
+    },
+    {
+      "text": "With the \"Wistari\" still towing from the starboard shoulder, the tugs manoeuvred the vessel down the Auckland Channel and the Gatcombe Channel to the South Trees Anchorage.",
+      "id": "s92"
+    },
+    {
+      "text": "The tugs experienced some difficulty in controlling the \"La Pampa\" during this passage.",
+      "id": "s93"
+    },
+    {
+      "text": "When the tugs were manoeuvring the vessel to line up on Manning Reef light, the vessel shifted too far to port.",
+      "id": "s94"
+    },
+    {
+      "text": "The resultant correction caused the \"La Pampa\" to sheer to starboard towards the Boyne Wharf, and the \"Tom Tough\" had to move quickly to apply pressure to the vessel's port quarter in order to correct the swing.",
+      "id": "s95"
+    },
+    {
+      "text": "The tugs conducted the \"La Pampa\" down the Gatcombe Channel, bringing her up in the channel opposite South Trees Anchorage at 08.50 hours.",
+      "id": "s96"
+    },
+    {
+      "text": "In a manoeuvre that took the three tugs one hour to complete, the tugs then swung the vessel through an 180 degree rotation to stem the ebb tide.",
+      "id": "s97"
+    },
+    {
+      "text": "At 09.50 hours, the vessel let go of her starboard anchor to nine shackles.",
+      "id": "s98"
+    },
+    {
+      "text": "By 10.00 hours, the tugs had assisted the \"La Pampa\" to bring up the anchor stemming the ebb tide.",
+      "id": "s99"
+    },
+    {
+      "text": "As low water was predicted for 14.36 hours with a rise of 0.39 metres, the Pilot asked the tugs to remain in attendance to prevent re-grounding.",
+      "id": "s100"
+    },
+    {
+      "text": "It was anticipated that the vessel would swing due to the change of tide or the strength of the north/north-easterly wind.",
+      "id": "s101"
+    },
+    {
+      "text": "From 10.00 hours until 13.45 hours, the \"Tom Tough\" was connected astern and applied power continuously.",
+      "id": "s102"
+    },
+    {
+      "text": "At 12.20 hours, the vessel began to swing as the tide changed.",
+      "id": "s103"
+    },
+    {
+      "text": "At 12.50 hours, the Pilot requested that the \"Wistari\" position herself to push at the starboard side at the position of hatch nine.",
+      "id": "s104"
+    },
+    {
+      "text": "At 13.10 hours, the Pilot requested that the \"Kuttabul\" make contact with the \"La Pampa\" at the port quarter.",
+      "id": "s105"
+    },
+    {
+      "text": "With the assistance of the tugs, the vessel was successfully swung to stem the flood tide by 14.54 hours.",
+      "id": "s106"
+    },
+    {
+      "text": "During this process, the vessel took the ground briefly in way of her port side forward at 14.30 hours.",
+      "id": "s107"
+    },
+    {
+      "text": "At this point, the tides continued to be monitored closely.",
+      "id": "s108"
+    },
+    {
+      "text": "The next high water was predicted for 20.40 hours, with a rise of 4.08 metres anticipated.",
+      "id": "s109"
+    },
+    {
+      "text": "Between 14.54 hours and 16.18 hours, the tugs stood by in preparation for the movement of the vessel out of the port over the forthcoming high water.",
+      "id": "s110"
+    },
+    {
+      "text": "Discussions were held with the Pilot in considering the best way to deploy the tugs.",
+      "id": "s111"
+    },
+    {
+      "text": "At 16.18 hours, the Pilot advised all tugs to stand by.",
+      "id": "s112"
+    },
+    {
+      "text": "The \"Wistari\" was ordered to push on the port quarter at 16.25 hours.",
+      "id": "s113"
+    },
+    {
+      "text": "At 16.48 hours, the \"Tom Tough\" connected to the vessel's centre lead forward, where she pulled to starboard at full power to help the vessel recover her anchor.",
+      "id": "s114"
+    },
+    {
+      "text": "At this point, the \"Kuttabul\" began pushing at full power on the port shoulder.",
+      "id": "s115"
+    },
+    {
+      "text": "The \"Wistari\" was moved forward at 17.30 hours to push at full power alongside the \"Kuttabul\".",
+      "id": "s116"
+    },
+    {
+      "text": "Between 17.30 and 18.00 hours, the vessel's anchor was weighed.",
+      "id": "s117"
+    },
+    {
+      "text": "During the course of this process, it appeared that the \"La Pampa\" grounded again.",
+      "id": "s118"
+    },
+    {
+      "text": "The anchor could not be recovered until full power from all three tugs was applied and when the vessel finally began to move, she did so with a rush.",
+      "id": "s119"
+    },
+    {
+      "text": "The tugs then immediately ceased to apply power.",
+      "id": "s120"
+    },
+    {
+      "text": "After the vessel's anchor was aweigh, the \"Wistari\" connected through the centre lead aft.",
+      "id": "s121"
+    },
+    {
+      "text": "At 18.20 hours, the \"Kuttabul\" positioned herself at the port side aft, but later had to move up and down the port side to help control the vessel.",
+      "id": "s122"
+    },
+    {
+      "text": "At this point, the vessel was veering and yawing across the channel because each time that power was applied with her main engine, her rudder went hard to port.",
+      "id": "s123"
+    },
+    {
+      "text": "At all material times, the rudder appeared jammed in this position.",
+      "id": "s124"
+    },
+    {
+      "text": "The \"Tom Tough\" shifted to the port shoulder at 18.46 hours and connected there.",
+      "id": "s125"
+    },
+    {
+      "text": "At 19.37 hours, the \"Tom Tough\" moved to connect when the vessel was entering the Golding Cutting abeam of marker G1.",
+      "id": "s126"
+    },
+    {
+      "text": "Although the tug masters were aware that the vessel had to leave the port over the forthcoming high water, difficulties in controlling the \"La Pampa\" kept the towing speed at about 3 knots.",
+      "id": "s127"
+    },
+    {
+      "text": "As the yawing of the vessel became more pronounced, the \"Tom Tough\" parted her connection at 20.24 hours near marker S1.",
+      "id": "s128"
+    },
+    {
+      "text": "The \"La Pampa\" then veered to starboard, and only prompt pushing action by the \"Wistari\" prevented grounding.",
+      "id": "s129"
+    },
+    {
+      "text": "The \"Tom Tough\" connected to the port shoulder soon after.",
+      "id": "s130"
+    },
+    {
+      "text": "At 20.50 hours, the \"Kuttabul\" lost her connection at the port quarter.",
+      "id": "s131"
+    },
+    {
+      "text": "The Pilot accepted the Master's advice that the \"Kuttabul\" would be best deployed at the starboard quarter, and the tug soon connected in this position.",
+      "id": "s132"
+    },
+    {
+      "text": "The wind was now blowing in an easterly direction at a pressure of Force 4.",
+      "id": "s133"
+    },
+    {
+      "text": "The sea conditions were moderate and a swell of approximately 1-1.5 metres had risen.",
+      "id": "s134"
+    },
+    {
+      "text": "These conditions caused some inconvenience to the tugs working close to the vessel's hull due to the reflection of the sea and swell from this area.",
+      "id": "s135"
+    },
+    {
+      "text": "At 21.15 hours, the vessel was abeam of marker S15 and was turned to port into the Boyne Cutting.",
+      "id": "s136"
+    },
+    {
+      "text": "At 21.44 hours, the vessel was abeam of marker S9 and was turned to port.",
+      "id": "s137"
+    },
+    {
+      "text": "Each of these turns was made challenging due to the ebb tide which was setting the vessel to starboard in the channel, although this was offset to some extent due to the jamming of the vessel's rudder to port.",
+      "id": "s138"
+    },
+    {
+      "text": "At 22.16 hours, the \"La Pampa\" was abeam of the entrance markers S1 and S 2 .",
+      "id": "s139"
+    },
+    {
+      "text": "At 22.32 hours, she passed the Fairway Buoy outbound.",
+      "id": "s140"
+    },
+    {
+      "text": "At approximately this time, the swell increased.",
+      "id": "s141"
+    },
+    {
+      "text": "The \"Kuttabul\" connected astern at 23.00 hours, but then parted her line when pulling into the wind.",
+      "id": "s142"
+    },
+    {
+      "text": "The \"Kuttabul\" subsequently re-positioned at the port quarter and pushed at half ahead.",
+      "id": "s143"
+    },
+    {
+      "text": "At 23.10 hours, the anchor was let go.",
+      "id": "s144"
+    },
+    {
+      "text": "At 23.30 hours, the vessel was safely anchored 3.5 miles north-east of the Fairway Buoy and inside the Gladstone pilotage area.",
+      "id": "s145"
+    },
+    {
+      "text": "ASSESSING THE DAMAGE TO THE \" LA PAMPA\" After the incident in Gladstone on 27 March 2006, a survey company called \"De La Menardiere\" inspected the \"La Pampa.",
+      "id": "s146"
+    },
+    {
+      "text": "\" The damage caused to the vessel was assessed in a report dated 29 August 2002.",
+      "id": "s147"
+    },
+    {
+      "text": "De La Menardiere commenced the survey on 8 June 2002, when the vessel had been moved to Brest, France.",
+      "id": "s148"
+    },
+    {
+      "text": "Photographs attached to this report indicate that the vessel suffered heavy setting-in of the structure of the No.",
+      "id": "s149"
+    },
+    {
+      "text": "1 port double-bottom tank.",
+      "id": "s150"
+    },
+    {
+      "text": "This damage occurred along almost the entire length of the tank, which extends between frames No.",
+      "id": "s151"
+    },
+    {
+      "text": "286 and No.",
+      "id": "s152"
+    },
+    {
+      "text": "290 at the fore-peak bulkhead.",
+      "id": "s153"
+    },
+    {
+      "text": "The report also noted that the maximum indentation was at the turn of the bilge.",
+      "id": "s154"
+    },
+    {
+      "text": "The web-frames and stiffeners had experienced heavy deformation, and associated deformation of other internal stiffening was also present.",
+      "id": "s155"
+    },
+    {
+      "text": "In addition, heavy indentation and buckling was present on the shell plating.",
+      "id": "s156"
+    },
+    {
+      "text": "The shell plating had ruptured at or near to frame No.",
+      "id": "s157"
+    },
+    {
+      "text": "268, and also near to frame No.",
+      "id": "s158"
+    },
+    {
+      "text": "279.",
+      "id": "s159"
+    },
+    {
+      "text": "The damaged area on the \"La Pampa\" was situated on the port side at the right of the No.",
+      "id": "s160"
+    },
+    {
+      "text": "1 water ballast tank and was caused by the grounding of the vessel.",
+      "id": "s161"
+    },
+    {
+      "text": "The rectangular zone of damage was 21.5 metres in length and had an expanded height of 10.5 metres.",
+      "id": "s162"
+    },
+    {
+      "text": "In this area, the spaces between the frames were 900 millimetres.",
+      "id": "s163"
+    },
+    {
+      "text": "On internal examination, the surveyors noted some damage to the port-side water ballast in the form of deformity between the rear bulkhead of No.",
+      "id": "s164"
+    },
+    {
+      "text": "266 and the front bulkhead of No.",
+      "id": "s165"
+    },
+    {
+      "text": "290.",
+      "id": "s166"
+    },
+    {
+      "text": "The report notes that the bulkheads at interior walls No.",
+      "id": "s167"
+    },
+    {
+      "text": "266 and 290 did not sustain deformity.",
+      "id": "s168"
+    },
+    {
+      "text": "On the starboard side, there appeared to be only shallow cavities of no importance.",
+      "id": "s169"
+    },
+    {
+      "text": "The surveyors noted some traces of wear were practically visible over the whole surface of the underside, where a large part of the keel protection had disappeared.",
+      "id": "s170"
+    },
+    {
+      "text": "In places, the presence of rust revealed bare iron, with the antifouling layer and the anti-corrosion layer having largely been broached on the port side and, to a lesser degree, on the starboard side up to the rolling keel.",
+      "id": "s171"
+    },
+    {
+      "text": "The damaged surface represented approximately 75 percent of the 7300 square metres of the vessel's underside.",
+      "id": "s172"
+    },
+    {
+      "text": "The maximum indentation on the port side was approximately 400 millimetres in the damaged zone at frames No.",
+      "id": "s173"
+    },
+    {
+      "text": "273 to No.",
+      "id": "s174"
+    },
+    {
+      "text": "275.",
+      "id": "s175"
+    },
+    {
+      "text": "The repair of the vessel required 63 tonnes of replacement steel consisting of sheet iron, small frames and associated reinforcements.",
+      "id": "s176"
+    },
+    {
+      "text": "These repairs were carried out between 7 June 2002 and 28 June 2002.",
+      "id": "s177"
+    },
+    {
+      "text": "PARTICULARS OF SALVAGE SERVICES PROVIDED BY THE PLAINTIFFS In Schedule 2 attached to the Statement of Claim, the plaintiffs outline the particulars of the services provided and present an assessment of the danger and distress experienced by both the \"La Pampa\" and the tugs in the course of the salvage operation on 27 March 2006.",
+      "id": "s178"
+    },
+    {
+      "text": "In this document, the plaintiffs note that the salvage services were promptly and efficiently rendered.",
+      "id": "s179"
+    },
+    {
+      "text": "It is emphasised that the operation was entirely successful and that the local knowledge of the tug masters was an advantage to the vessel.",
+      "id": "s180"
+    },
+    {
+      "text": "The salvors state that the tugs made considerable efforts over a sustained period of time, demonstrating a high level of skill and good co-operation with each other and the pilot of the \"La Pampa.",
+      "id": "s181"
+    },
+    {
+      "text": "\" Second, the plaintiffs note that the vessel was a very large vessel, fully laden and deep drafted.",
+      "id": "s182"
+    },
+    {
+      "text": "They contend that the size of the \"La Pampa\" was at the upper limit, if not beyond, the magnitude of a vessel which could safely lie in the South Trees Anchorage.",
+      "id": "s183"
+    },
+    {
+      "text": "It is claimed that the size and condition of the vessel meant that there was a continuing risk of the salvage work being unsuccessful.",
+      "id": "s184"
+    },
+    {
+      "text": "It was necessary to swing the \"La Pampa\" through 180 degrees on two occasions.",
+      "id": "s185"
+    },
+    {
+      "text": "Handling the vessel in the channel also proved to be difficult due to the combination of the problems she was experiencing with her rudder and the tidal and sea conditions.",
+      "id": "s186"
+    },
+    {
+      "text": "The salvors contend that the tugs' total available power of 11,400hp power was committed to the casualty for nearly 19 hours.",
+      "id": "s187"
+    },
+    {
+      "text": "During the provision of the above services, the tugs and their crews were at risk of physical damage and personal injury.",
+      "id": "s188"
+    },
+    {
+      "text": "Third, the plaintiffs stress that the services rendered by the salvors were of considerable benefit to the port and its users because the duration of the port closure was minimised.",
+      "id": "s189"
+    },
+    {
+      "text": "It is emphasized that the first plaintiffs are high-class professional salvors of international repute, and that their investment in salvage is reflected in the design and construction of the tugs, which have a dual harbour and coastal salvage role.",
+      "id": "s190"
+    },
+    {
+      "text": "The \"Wistari\" and the \"Tom Tough\" also carry portable salvage equipment.",
+      "id": "s191"
+    },
+    {
+      "text": "The plaintiffs also note that the first plaintiff's senior salvage Master, who was in New Zealand at the time of the incident, was placed on alert and assembled a standby team of experienced personnel ready to proceed to Gladstone by air from Sydney and Cairns.",
+      "id": "s192"
+    },
+    {
+      "text": "Moreover, the first, second and third plaintiffs have a policy of performing salvage services whenever required.",
+      "id": "s193"
+    },
+    {
+      "text": "As demonstrated by the facts in this case, the skilled staff and resources of the salvors were available to the \"La Pampa\" when the vessel ran into difficulty Fourth, the plaintiffs claim that the \"La Pampa\" was salved from a position of considerable danger thanks to the salvage services provided.",
+      "id": "s194"
+    },
+    {
+      "text": "Due to her steering failure, the vessel was immobilised throughout the operations until she was assisted by powerful and well-handled tugs.",
+      "id": "s195"
+    },
+    {
+      "text": "It is maintained that when she was grounded in the Auckland Channel, there was a serious risk that the \"La Pampa\" could have suffered from bottom damage caused by mounting pressure during the impending and succeeding low waters.",
+      "id": "s196"
+    },
+    {
+      "text": "The vessel's immobilisation aground was aggravated by the fact that she was taking water forward.",
+      "id": "s197"
+    },
+    {
+      "text": "Fifth, the plaintiffs claim that if the \"La Pampa\" had been fractured in way of a bunker tank, significant pollution would have been released into the area causing significant damage to the marine environment and also increasing the risk of civil and criminal liabilities.",
+      "id": "s198"
+    },
+    {
+      "text": "The plaintiffs suggest that the potential environmental damage included the possibility of pollution in environmentally sensitive areas within Port Curtis as well as the surrounding areas that stretch out to the Great Barrier Reef.",
+      "id": "s199"
+    },
+    {
+      "text": "Sixth, the plaintiffs argue that after the vessel's initial grounding, and in the event of a subsequent re-grounding, the \"La Pampa\" was in danger of pivoting on the ebb tide so that her bow and stern would be grounded on adjacent banks of the channel.",
+      "id": "s200"
+    },
+    {
+      "text": "The plaintiffs stress that had the \"La Pampa\" swung across the channel in this way, the vessel's stern gear, double-bottom tank, hull and/or machinery may have been significantly damaged.",
+      "id": "s201"
+    },
+    {
+      "text": "In addition, it is claimed the vessel faced a significant risk of foundering on the banks of the channel, and, in a worst-case scenario, breaking up and thereby necessitating wreck removal.",
+      "id": "s202"
+    },
+    {
+      "text": "Finally, the plaintiffs note that even in her original position of distress, the vessel was blocking the Auckland Channel.",
+      "id": "s203"
+    },
+    {
+      "text": "Once afloat, the \"La Pampa\" had to be removed to outside the port in order to lie safely at anchor for repairs.",
+      "id": "s204"
+    },
+    {
+      "text": "This required that the tugs assist the vessel on its trip towards the South Trees Anchorage, where there was also a period of some delay.",
+      "id": "s205"
+    },
+    {
+      "text": "During this move, the vessel was at risk of re-grounding with all its possible consequences.",
+      "id": "s206"
+    },
+    {
+      "text": "In the anchorage, the \"La Pampa\" had barely sufficient water in which to lie.",
+      "id": "s207"
+    },
+    {
+      "text": "It was submitted that she was at continuing risk of grounding and being damaged, especially when swinging to the tide.",
+      "id": "s208"
+    },
+    {
+      "text": "Thereafter, the vessel was at risk of re-grounding in the process of being conducted out of the port.",
+      "id": "s209"
+    },
+    {
+      "text": "By reason of her predicament, the port was closed by the Port Authority.",
+      "id": "s210"
+    },
+    {
+      "text": "The plaintiffs argue that in the light of these circumstances, the Court should take into account that the owners of the \"La Pampa\" faced a risk of civil liability to any person whose trading was interrupted by the closure of the port.",
+      "id": "s211"
+    },
+    {
+      "text": "It is maintained that the salvage services provided enabled the vessel to be taken to a position of safety as quickly and as safely as possible.",
+      "id": "s212"
+    },
+    {
+      "text": "It is emphasised by the plaintiffs that the salved value of the ship and its cargo was considerable and that no alternative assistance was available when the vessel ran into difficulties.",
+      "id": "s213"
+    },
+    {
+      "text": "THE 1989 CONVENTION ON SALVAGE AND \"LIABILITY SALVAGE\" The question of salvage reward is to be fixed by reference to the International Convention on Salvage, 1989 (\"the 1989 Convention\").",
+      "id": "s214"
+    },
+    {
+      "text": "This Convention appears at Schedule 9 to the Navigation Act 1912 (Cth) .",
+      "id": "s215"
+    },
+    {
+      "text": "By s 315 of that Act, Articles 6 to 8, 12 to 19, 21 to 22, 26 and 30 of the Convention have the force of law in Australia.",
+      "id": "s216"
+    },
+    {
+      "text": "This section also states that the \"common understanding\" concerning Articles 13 and 14 similarly has the force of law.",
+      "id": "s217"
+    },
+    {
+      "text": "In interpreting the Articles listed in s 315, it is necessary to read them in the context of Article 1 of the 1989 Convention which provides definitions for several important terms.",
+      "id": "s218"
+    },
+    {
+      "text": "For instance, Article 1(a) outlines that for the purpose of the Convention, \"salvage operation\" refers to any act or activity undertaken to assist a vessel or any other property in danger in any waters, navigable or otherwise.",
+      "id": "s219"
+    },
+    {
+      "text": "Article 12 states that only salvage operations which have had a useful result give right to a reward.",
+      "id": "s220"
+    },
+    {
+      "text": "This is a re-statement of the traditional salvage \"no cure, no pay\" principle.",
+      "id": "s221"
+    },
+    {
+      "text": "However, an exception is provided under Article 12(2).",
+      "id": "s222"
+    },
+    {
+      "text": "This paragraph flags that the 1989 Convention incorporates an exception to the traditional position, stating that \"except as otherwise provided under this Convention,\" no payment is due if the salvage operations have had no useful result.",
+      "id": "s223"
+    },
+    {
+      "text": "In the present proceedings, there is no dispute between the parties that the salvage operation qualifies for a reward or that the salvors achieved a useful result.",
+      "id": "s224"
+    },
+    {
+      "text": "Article 14 is of particular interest as it provides the exception to the \"no cure, no pay\" principle as articulated in Article 12.",
+      "id": "s225"
+    },
+    {
+      "text": "Where a salvor carries out an operation in circumstances where there is threatened damage to the environment but does not qualify for a reward under Article 13 because it has achieved no \"useful result,\" --- that is, the vessel and the property have been lost - there is provision in Article 14 for \"special compensation\" to be awarded.",
+      "id": "s226"
+    },
+    {
+      "text": "This is assessed as at least equivalent to the expenses incurred, and may be increased up to a maximum of 30 percent of the expenses.",
+      "id": "s227"
+    },
+    {
+      "text": "There is also power to increase such special compensation further up to 100 percent of expenses if the salvors are considered to have performed particularly well with regard to the factors listed in Article 13.",
+      "id": "s228"
+    },
+    {
+      "text": "In these proceedings, Article 14 is not applicable because the eligible expenses available under Article 14 are less than the amount claimed by the salvors.",
+      "id": "s229"
+    },
+    {
+      "text": "In the present case, the actual expenses incurred by the plaintiffs are approximately A$35,000.00 and the defendants initially made an open offer of settlement in an amount of A$750,000.00 This is greater than the maximum amount the plaintiffs could claim under Article 14 and accordingly that Article has no application.",
+      "id": "s230"
+    },
+    {
+      "text": "However, the existence of Article 14 bears on the interpretation of Article 13.",
+      "id": "s231"
+    },
+    {
+      "text": "Article 13 is of central importance.",
+      "id": "s232"
+    },
+    {
+      "text": "Article 13(1) prescribes the criteria for fixing the salvage reward in the event that the salvors' efforts are successful.",
+      "id": "s233"
+    },
+    {
+      "text": "Article 13(3) also caps the potential reward available to the salvors so that it must not exceed the value of the salved property, including the value of the vessel.",
+      "id": "s234"
+    },
+    {
+      "text": "Article 13(1) requires that the reward must be fixed \"with a view to encouraging salvage operations,\" taking into account criteria set out in subparagraphs (a)-(j) inclusive.",
+      "id": "s235"
+    },
+    {
+      "text": "These criteria are not ranked in any order of weight or significance.",
+      "id": "s236"
+    },
+    {
+      "text": "The Article is silent as to whether the considerations are exhaustive, or whether other matters can be taken into account.",
+      "id": "s237"
+    },
+    {
+      "text": "Article 13 (1) reads: \n \n for fixing the reward \n \n The reward shall be fixed with a view to encouraging salvage operations, taking into account the following criteria without regard to the order in which they are presented below.",
+      "id": "s238"
+    },
+    {
+      "text": "the salved value of the vessel and other property ; \n \n the skill and efforts of the salvors in preventing or minimising damage to the environment ; \n \n the measure of success obtained by the salvor; \n \n the nature and degree of the danger; \n \n the skill and efforts of the salvors in salving the vessel , other property and life; \n \n the time used and expenses and losses incurred by the salvors; \n \n the risk of liability and other risks run by the salvors or their equipment ; \n \n the promptness of the services rendered; \n \n the availability and use of vessels or other equipment intended for salvage operations ; \n \n the state of readiness and efficiency of the salvor's equipment and the value thereof.",
+      "id": "s239"
+    },
+    {
+      "text": "\" (Emphasis added) \n \n At the commencement of the hearing, the plaintiffs formulated a Statement of Issues.",
+      "id": "s240"
+    },
+    {
+      "text": "In this document, it is claimed that the Court in fixing the quantum of the salvage reward under the 1989 Convention can consider the vessel's potential exposure to liability in the hypothetical event that the salvage services provided by the plaintiffs had not been provided.",
+      "id": "s241"
+    },
+    {
+      "text": "It is claimed that the Court should have regard to the fact that had the \"La Pampa\" received no assistance from the tugs, claims may have been brought against it in relation to the closure of the port, the blockage of the channel or part of it, wreck removal, economic and physical loss to third parties, possible pollution and environmental clean up costs and other liabilities which could have been incurred by the salved vessel.",
+      "id": "s242"
+    },
+    {
+      "text": "The submission raises an important question as to the basis and extent to which the Court can have regard to questions of the vessel's exposure to liability claims by third parties for losses arising from the incident giving rise to the salvage operation, as well as the operation itself.",
+      "id": "s243"
+    },
+    {
+      "text": "In other words, in determining the salvage amount, should the Court treat as a relevant consideration whether any potential liability of the vessel or its owners may have been avoided by the actions of the salvors.",
+      "id": "s244"
+    },
+    {
+      "text": "In these proceedings, the determination of this question had an effect in relation to the admissibility of evidence as well as to the determination of the quantum of an appropriate salvage reward.",
+      "id": "s245"
+    },
+    {
+      "text": "The issue of \"liability salvage\" was first raised by way of an objection by the defendants to certain evidence.",
+      "id": "s246"
+    },
+    {
+      "text": "After hearing detailed argument on the evidentiary point, I decided to allow evidence in relation to this question and to give my conclusions and reasons for my views in this judgment.",
+      "id": "s247"
+    },
+    {
+      "text": "I considered that it was inappropriate to finally resolve as a question of evidence this important question as to whether liability to which the salved vessel might be exposed is a matter that the Court is required to take into account.",
+      "id": "s248"
+    },
+    {
+      "text": "The defendants submit that under the 1989 Convention, the Court cannot pay any regard to the consideration that the salvage operations may have had the effect of preventing or reducing the exposure of the vessel to liability to third parties for damage or economic loss.",
+      "id": "s249"
+    },
+    {
+      "text": "The defendants refer to the language used in Article 13, the Travaux Preparatoires of the 1989 Convention on Salvage (\"The Travaux \"), the previous Convention for the Unification of Certain Rules at Law Relating to Assistance and Salvage at Sea (1910) (\"The 1910 Brussels Convention\"), and the fact that the decided cases relied on by the plaintiffs are distinguishable and preceded the 1989 Convention.",
+      "id": "s250"
+    },
+    {
+      "text": "They conclude that in light of these considerations, liability salvage cannot be considered either in the exercise of discretion or under any specific factor in Article 13(1) in the fixing of a salvage reward.",
+      "id": "s251"
+    },
+    {
+      "text": "INTERPRETING THE 1989 CONVENTION ON SALVAGE THE TRAVAUX PREPARATOIRES According to the Vienna Convention on the Law of Treaties (1969), a treaty should be interpreted in accordance with the ordinary meaning of its terms in light of its object and purpose (Article 31).",
+      "id": "s252"
+    },
+    {
+      "text": "Recourse can be taken to supplementary aids, such as the Travaux , where the ordinary interpretation leaves the meaning ambiguous or obscure, or leads to a result which is clearly unreasonable (Article 32).",
+      "id": "s253"
+    },
+    {
+      "text": "In this case, I do not consider that the language is unambiguous or so clear that recourse to extrinsic material is not appropriate.",
+      "id": "s254"
+    },
+    {
+      "text": "I have therefore considered the extrinsic evidence.",
+      "id": "s255"
+    },
+    {
+      "text": "The Travaux , and the other circumstances to which I have been taken in this case, indicate that after the \"Torrey Canyon\" environmental disaster in 1967 and that of the \"Amoco Cadiz\" in 1978, there were extensive debates and proposals enlivened in the maritime community representing competing interests as to whether the 1910 Brussels Convention on Salvage should be replaced or modified to provide greater incentives to salvors and to protect the environment.",
+      "id": "s256"
+    },
+    {
+      "text": "In the \"Torrey Canyon\" operations, great expense was incurred by the salvors to avoid contamination but because the efforts to save the vessel were unsuccessful, under the 1910 Brussels Convention they were unable to obtain a reward for their skills and efforts.",
+      "id": "s257"
+    },
+    {
+      "text": "This was perceived by salvors to be plainly inequitable.",
+      "id": "s258"
+    },
+    {
+      "text": "These discussions led to negotiations which culminated in the 1989 Convention.",
+      "id": "s259"
+    },
+    {
+      "text": "The extensive discussions, reports and debates to which I have been referred include proposals to provide for the insertion of liability salvage as a separate factor for consideration in fixing the salvage reward.",
+      "id": "s260"
+    },
+    {
+      "text": "In the decade preceding the 1989 Convention, there were extensive discussions and proposals directed to include liability salvage, but in the final draft these were not successful and are not reflected in the terms of the 1989 Convention.",
+      "id": "s261"
+    },
+    {
+      "text": "In 1984, the Executive Counsel of the International Maritime Organisation (\"IMO\") approved a report by Mr Bent Nielsen which discussed the proposals concerning the fixing of the salvage reward.",
+      "id": "s262"
+    },
+    {
+      "text": "This report states that: \n \n Comite Maritime International (CMI) felt that it would be preferable to enumerate the relevant considerations without attempting to lay down rules as to when a particular consideration should be relevant, or as to the weight to be given to it, particularly in relation to relevant considerations.",
+      "id": "s263"
+    },
+    {
+      "text": "It is expressly stated that the order in which the particulars are enumerated is not intended to provide a guidance on such matters.",
+      "id": "s264"
+    },
+    {
+      "text": "\" \n \n Mr Nielsen also writes that: \n \n draft Convention deals with many matters that have not been provided for in the 1910 Convention.",
+      "id": "s265"
+    },
+    {
+      "text": "Nevertheless, the draft convention is not intended to set out the law of salvage in any exhaustive manner .",
+      "id": "s266"
+    },
+    {
+      "text": "The CMI considers that as regards certain questions the solution adopted in the various national laws on salvage differ to such an extent that the acceptability of the draft convention might be reduced if an attempt were made now to bring about international uniformity by provisions which deal with such matters.",
+      "id": "s267"
+    },
+    {
+      "text": "\" (Emphasis added) \n \n The Nielsen Report has been used as a helpful resource in interpreting Article 14 of the 1989 Convention, although at times with some reservations: see, for example, \"The Nagasaki Spirit\" [1997] AC 455 at 469 per Lord Mustill.",
+      "id": "s268"
+    },
+    {
+      "text": "In relation to the definition of \"damage to the environment\", it is notable that the Nielsen Report states that the provision relates to \"physical damage\" to persons or property, and not to the economic consequences thereof.",
+      "id": "s269"
+    },
+    {
+      "text": "An important point that emerges from the consideration of this document is that the 1989 Convention clearly represents a delicate balance struck between competing interests.",
+      "id": "s270"
+    },
+    {
+      "text": "ACADEMIC COMMENTARY AND JUDICIAL AUTHORITIES Experienced text writers differ in their approach as to whether any regard to liability salvage is totally excluded from consideration when fixing salvage reward under the 1989 Convention.",
+      "id": "s271"
+    },
+    {
+      "text": "In their Shipping and the Environment (1998), La Rue and Anderson categorically assert at 583 that liability salvage, in the context of operations which prevent the escape of pollutants, is not a factor recognised by Article 13.",
+      "id": "s272"
+    },
+    {
+      "text": "Brice in his Maritime Law of Salvage (1999, 3 rd edn) considers at [6-79] --- [6-85] that the concept of liability salvage should be considered as a distinct new form of salvage which is not yet part of the law of salvage.",
+      "id": "s273"
+    },
+    {
+      "text": "He notes that there are enormous practical difficulties in the path of its introduction as a separate consideration.",
+      "id": "s274"
+    },
+    {
+      "text": "Kennedy and Rose in The Law of Salvage (2002, 6 th edn) conclude at 150-170 that under the 1989 Convention, liability salvage lies outside of the range of independent subjects of salvage reward.",
+      "id": "s275"
+    },
+    {
+      "text": "They observe that while averting or minimizing the risk of a vessel's liability to third parties has not in itself been recognized as a subject for consideration in fixing salvage reward, it is noted that the concept had been treated by some decided authorities as a valid factor in assessing the reward.",
+      "id": "s276"
+    },
+    {
+      "text": "They refer to five cases including \" The Whippingham \" (1934) 48 Ll.",
+      "id": "s277"
+    },
+    {
+      "text": "L.Rep 49.",
+      "id": "s278"
+    },
+    {
+      "text": "These cases were decided prior to the Convention and are of little assistance.",
+      "id": "s279"
+    },
+    {
+      "text": "The plaintiffs placed emphasis on the decision of Lynch J, a District Judge of the US Ninth Circuit, in Westar Marine Services v Heerema Marine Contractors, S.A. (1985) 621 F Supp.",
+      "id": "s280"
+    },
+    {
+      "text": "1135.",
+      "id": "s281"
+    },
+    {
+      "text": "That case was decided before the 1989 Convention but having regard to the extrinsic material surrounding its drafting.",
+      "id": "s282"
+    },
+    {
+      "text": "After considering the relevant decisions in the United Kingdom, his Honour concluded that the Court could not consider the prevention of liability to third parties, the public interest, or benefits to the shipowner as distinct and independent factors in arriving at a salvage reward.",
+      "id": "s283"
+    },
+    {
+      "text": "It is important to note that his Honour's decision was limited to a finding that such matters could not be considered independently.",
+      "id": "s284"
+    },
+    {
+      "text": "In the final paragraph of the reasons, his Honour noted that the Court was still left with considerable discretion as to how the specified factors should be weighed so that a fair salvage amount that best serves the interest of the parties and the public can be awarded.",
+      "id": "s285"
+    },
+    {
+      "text": "Ultimately, the proposition that the Court, in exercising its discretion to take account of the need for encouragement of salvage operations, is not entitled to look at the question of possible liability to third parties, even in a general way, does not find support in this case.",
+      "id": "s286"
+    },
+    {
+      "text": "A GENERAL APPROACH Taking into account the language of the Convention, the Travaux and the Nielsen Report as well as the decided authorities, I consider that the preferable view and approach to be taken in the present case in relation to the question of whether liability salvage can be considered is that expressed by Brice at [6-21] to [6-24]: \n \n even if the prospect of damage to the property of third parties is not expressly included in the Convention, national laws may , it seems, be permitted to include without there being breach of an international obligation ... the removal by the salvor of the threat of claims against the owner of the salved property can properly be regarded albeit very generally as one of the elements showing the merit of the salvor's services and to that extent an enhancing feature.",
+      "id": "s287"
+    },
+    {
+      "text": "it is inappropriate in a salvage action to investigate in detail who would have been liable in damages to third parties and for how much.",
+      "id": "s288"
+    },
+    {
+      "text": "evidence and findings directed to answering these questions are beyond the scope of a salvage action.",
+      "id": "s289"
+    },
+    {
+      "text": "Save in the most straightforward case where the existence of liability on the owner of salved property is self evident, all the Tribunal can say is that but for the success of the salvage services claims against the owner by third party owners of damaged property would have been made and would have had to have been investigated and defended.",
+      "id": "s290"
+    },
+    {
+      "text": "\" (Emphasis added) \n \n In consideration of this issue, there are no bright lines, controlling considerations or set formulas in fixing an appropriate award for salvage services.",
+      "id": "s291"
+    },
+    {
+      "text": "As outlined above, a global figure must be determined having regard to the factors in Article 13.",
+      "id": "s292"
+    },
+    {
+      "text": "The weight to be assigned to each factor is dependent on the circumstances.",
+      "id": "s293"
+    },
+    {
+      "text": "In one sense, the higher the monetary reward given, the greater is the incentive to undertake salvage operations.",
+      "id": "s294"
+    },
+    {
+      "text": "The fact that the Court should apply a liberal and generous assessment to the fixing the reward with this aim in mind does not entitle the Court to award an unreasonable or extravagant amount.",
+      "id": "s295"
+    },
+    {
+      "text": "In considering the interpretation of Article 13, I set out below my reasons for concluding that on a fair reading, none of the individual paragraphs calls for an investigation of the nature and extent of any possible third party liability which the property salved or the owners of the vessel might attract as a consequence of the circumstances leading to the salvage operation.",
+      "id": "s296"
+    },
+    {
+      "text": "In my view, a correct construction of each of the paragraphs does not import any obligation on the Court to investigate the extent to which third party liability has been avoided by the vessel as a consequence of the incident.",
+      "id": "s297"
+    },
+    {
+      "text": "Nevertheless, the question arises as to whether any consideration of potential liability is excluded by the Convention.",
+      "id": "s298"
+    },
+    {
+      "text": "In an analysis of this issue, the starting point is that the Convention does not specifically in its terms exclude the consideration of such liability.",
+      "id": "s299"
+    },
+    {
+      "text": "Moreover, I do not consider that the extrinsic aids to construction prevent the Court, if it sees fit, from having regard to this consideration.",
+      "id": "s300"
+    },
+    {
+      "text": "In an appropriate case, this consideration may support, in a very general way, an enhancement of the reward without the Court investigating in any degree of detail the fact that the salvors' efforts may have resulted in limiting or eliminating prospective exposure on behalf of the vessel.",
+      "id": "s301"
+    },
+    {
+      "text": "This is not a consideration that should be scrutinized or examined with a view to reaching any specific conclusion.",
+      "id": "s302"
+    },
+    {
+      "text": "Rather, it should be recognized as one circumstance in the context of the salvage operation.",
+      "id": "s303"
+    },
+    {
+      "text": "In the light of the fact that the specific enumerated factors listed in Article 13 have been the subject of numerous international debates and agendas, and are discussed in negotiations, proposals, counter-proposals and published opinions over many years, I consider that the paragraphs cannot be read to recognise the concept of third party liability as a specific factor.",
+      "id": "s304"
+    },
+    {
+      "text": "In my view, the Court should approach the question in the following way.",
+      "id": "s305"
+    },
+    {
+      "text": "The Court should consider that the factor of potential exposure to third party liability operates generally to inform the fixation of the global figure, which results from the evaluation of the criteria listed in Article 13 that may be relevant in the particular case.",
+      "id": "s306"
+    },
+    {
+      "text": "It would not be appropriate to investigate, admit and consider detailed evidence as to the nature and extent of such liability.",
+      "id": "s307"
+    },
+    {
+      "text": "Having considered the authorities, the Travaux , the Convention history and the detailed submissions made by the parties, I conclude that consideration of the vessel's exposure to liability is not excluded by the Convention.",
+      "id": "s308"
+    },
+    {
+      "text": "It may be appropriate in particular circumstances to take into account the consideration that some liability on the part of the vessel may have been avoided by the intervention of the salvors.",
+      "id": "s309"
+    },
+    {
+      "text": "And, in appropriate circumstances, this may inform the fixing of the reward as an enhancement without any determination, detailed investigation, consideration of detailed evidence or attempt to form any definitive conclusion as to the amount of any such liability.",
+      "id": "s310"
+    },
+    {
+      "text": "The possible existence of such liability can be relevant but it does not warrant consideration as an independent factor.",
+      "id": "s311"
+    },
+    {
+      "text": "In some circumstances, it may not be of any significant weight.",
+      "id": "s312"
+    },
+    {
+      "text": "It may be said that such an approach introduces an additional element of unpredictability in fixing a reward, but it must be kept in mind that the whole exercise is not one of arithmetic precision.",
+      "id": "s313"
+    },
+    {
+      "text": "It is an exercise of evaluation, judgment, and the balancing of broad considerations.",
+      "id": "s314"
+    },
+    {
+      "text": "In this particular case, having regard to the circumstances to which I refer below, the prospective exposure to liability of the vessel is a matter to which I have given little weight as a general enhancing factor in fixing the reward.",
+      "id": "s315"
+    },
+    {
+      "text": "I now turn to consider the specific considerations.",
+      "id": "s316"
+    },
+    {
+      "text": "ARTICLE 13 (1) (a) --- SALVED VALUE The salved value is agreed between the parties at A$37,914,691.94.",
+      "id": "s317"
+    },
+    {
+      "text": "This is one of the matters which I have taken into account and given some weight.",
+      "id": "s318"
+    },
+    {
+      "text": "The approach to be taken by Courts when considering the weight to be given to the \"salved value\" was expressed by the Privy Council in The \"Amerique\" (1874) 6 LR 6 PC 468 at 475: \n \n rule seems to be that though the value of the property salved is to be considered in the estimate of the remuneration, it must not be allowed to raise the quantum to an amount altogether out of proportion to the services actually rendered .",
+      "id": "s319"
+    },
+    {
+      "text": "And this is consistent with what is said by Lord Stowell in The Blenden v Hall 1 Dodson, 421: \"In fixing a proportion of the value the Court is in the habit of giving a smaller proportion where the property is large and a higher proportion where the value is small, and for this obvious reason, that in property of small value a small proportion would not hold out a sufficient consideration, whereas in cases of considerable value a smaller proportion would have afford no inadequate compensation.",
+      "id": "s320"
+    },
+    {
+      "text": "' (Emphasis added) \n \n In that case, although deferring to the primary judge, the Judicial Committee considered that undue weight had been given to the value of the property salved leading to an award which, having regard to the services rendered, was pronounced to be excessive.",
+      "id": "s321"
+    },
+    {
+      "text": "Of course, there may be a correlation between the size and value of the vessel and the difficulty of the salvage, the degree of skill of the salvor and the risk of liability to the salvor.",
+      "id": "s322"
+    },
+    {
+      "text": "A further warning against assigning excessive weight to the salved value of the vessel and property was given by Stephen J in Fisher v The \"Oceanic Grandeur\" [1972] HCA 51 ; (1972) 127 CLR 312 at 342, who said, after accepting the salved value to be A$3.7 million, that: \n \n when such high values are in question, the precise value appears to me to be of little significance and a value higher by even half a million would not, in the present case, have any material effect upon salvage reward.",
+      "id": "s323"
+    },
+    {
+      "text": "' \n \n His Honour considered the specific facts affecting the salvors.",
+      "id": "s324"
+    },
+    {
+      "text": "The vessel in that case was very large, being over 58,000 tons deadweight and carrying 55,000 tons of crude oil.",
+      "id": "s325"
+    },
+    {
+      "text": "She was also surrounded by large areas of open water.",
+      "id": "s326"
+    },
+    {
+      "text": "In particular, he referred at 342 to \"a quite measurable degree of danger\" to the whole of the crew during the transhipment of oil.",
+      "id": "s327"
+    },
+    {
+      "text": "Twelve out of seventeen tanks had taken water, and the ship was suffering a considerable list to port.",
+      "id": "s328"
+    },
+    {
+      "text": "After referring in a general way to the evidence, his Honour expressed satisfaction that each of the circumstances contributed to the danger of the operation caused by the potentially hazardous nature of the cargo.",
+      "id": "s329"
+    },
+    {
+      "text": "At 342-343, his Honour accepted that the work undertaken by the crew concerned with the complex transhipment of crude oil was carried out in a careful and skilful way, and he paid regard to the skill of the first officer in \"devising much of the quite complex, imaginative and, to a degree, novel procedures which were employed\".",
+      "id": "s330"
+    },
+    {
+      "text": "Importance was attached to the arduous nature of the work over many hours, and to the considerable responsibility carried by the Captain.",
+      "id": "s331"
+    },
+    {
+      "text": "He considered the case did not involve any \"acts of particular heroism\" or the rescue of the salved vessel from \"an immediate danger of great magnitude,\" but rather the performance of a quite difficult and complex task against a background of the possible risk of a sudden disastrous fire if any one of a number of possible mishaps occurred.",
+      "id": "s332"
+    },
+    {
+      "text": "He then evaluated other matters as indicating a relatively modest award, when compared to the agreed salved value, in selecting a figure of A$20,000.",
+      "id": "s333"
+    },
+    {
+      "text": "This was a small percentage of salved value.",
+      "id": "s334"
+    },
+    {
+      "text": "In that case, the Court was not concerned with a consideration of the 1989 Convention.",
+      "id": "s335"
+    },
+    {
+      "text": "In the present circumstances, the plaintiffs have pressed their case using the salved value of the \"La Pampa\" of approximately A$38 million as a benchmark by which to evaluate the other criteria.",
+      "id": "s336"
+    },
+    {
+      "text": "They submit that in this case, it is appropriate that the award be fixed as at least 10 percent of the ship's value.",
+      "id": "s337"
+    },
+    {
+      "text": "At a maximum, they refer to a figure of between 15 to 20 percent and a figure exceeding A$6 million.",
+      "id": "s338"
+    },
+    {
+      "text": "The measure of the reward as a percentage of the salved value has been used by the plaintiffs in this case as a point of comparison in relation to rewards given in other salvage operations.",
+      "id": "s339"
+    },
+    {
+      "text": "For example, they point to the fact that in the case of The Korowa v The Kooraka [1949] SASR 45 the reward was 20 percent of the salved value.",
+      "id": "s340"
+    },
+    {
+      "text": "Another instance of a 20 percent award (in relation to a low salved value of A$35,000) is referred to in the observation of Olney J in The Kristy Mae v The Santa Rita [1984] WAR 95, where his Honour considered at 100 that $A7,000 was not \"necessarily extravagant.",
+      "id": "s341"
+    },
+    {
+      "text": "\" In that case the Full Court reduced the salved value to $A35,000 and remitted an assessment of the salvage amount to the primary Judge.",
+      "id": "s342"
+    },
+    {
+      "text": "The percentage of salved value is not an arithmetic formula which directs the Court in fixing a reward.",
+      "id": "s343"
+    },
+    {
+      "text": "As pointed out in \" The Amerique \" at 473, unlike French courts at that time, English Courts have since the 17 th century consistently rejected any hard and fast rule as to the reward being calculated by the application of a fixed percentage of salved value.",
+      "id": "s344"
+    },
+    {
+      "text": "In the present case, the Court was taken by counsel to many cases where rewards were made in amounts of over 4 percent.",
+      "id": "s345"
+    },
+    {
+      "text": "A few rewards were fixed by reference to smaller percentages and there were some instances where rewards of over 2 percent of the salved value were made.",
+      "id": "s346"
+    },
+    {
+      "text": "These authorities, as an analysis of the facts discloses in each case, involved widely differing factual matrices.",
+      "id": "s347"
+    },
+    {
+      "text": "It is important to note that given the significant differences in the salvage operations, surrounding circumstances and legal regimes applicable to the fixing of a reward, it can be misleading in the extreme to isolate the salved value and base a reward on a percentage of that amount.",
+      "id": "s348"
+    },
+    {
+      "text": "There will naturally often be a tendency to award a higher percentage of salved value in the case of property with a lower salved value.",
+      "id": "s349"
+    },
+    {
+      "text": "There is a useful table of comparative awards, including a sketch of the relative circumstances, which is annexed to the judgment of Sheppard J in Delosa v Clippers Anchorage Pty Ltd (NSWSC, 6 November 1978, unreported).",
+      "id": "s350"
+    },
+    {
+      "text": "I have considered his Honour's reasons for judgment, the summary in the schedule and other cases in forming a view as to the appropriate lower and upper extremities of a spectrum in which an award could be made in the present case.",
+      "id": "s351"
+    },
+    {
+      "text": "I have treated these only as indicative, in a general way, in forming an opinion as to the relative importance of the specific matters referred to in Article 13 in the current proceedings.",
+      "id": "s352"
+    },
+    {
+      "text": "The \" Nagasaki Spirit \", for example, was an exceptional case.",
+      "id": "s353"
+    },
+    {
+      "text": "As a result of a collision between this vessel and a containership named \"Ocean Blessing\" in the Malacca Straits, 12,000 tonnes of heavy crude oil escaped and caught fire.",
+      "id": "s354"
+    },
+    {
+      "text": "All the crew of \"Ocean Blessing\" lost their lives and only two crew members of the \" Nagasaki Spirit \" survived the fire.",
+      "id": "s355"
+    },
+    {
+      "text": "In the light of these exceptional circumstances, it was deemed appropriate to make a very large award.",
+      "id": "s356"
+    },
+    {
+      "text": "However, in no way is that case comparable in any respect with the circumstances before me in this matter.",
+      "id": "s357"
+    },
+    {
+      "text": "The range and discrepancy between the value-percentage rewards, as reflected in the authorities, demonstrates the highly fact-specific nature of each case.",
+      "id": "s358"
+    },
+    {
+      "text": "While a uniform percentage may encourage and lead to certainty and predictability of outcome so as to enable parties to resolve their disputes more readily by agreement, such an approach suffers the disadvantage that a proportionate equitable award may not be fixed in a particular case.",
+      "id": "s359"
+    },
+    {
+      "text": "The fact that specific factors are enumerated, and are required to be taken into account, indicates an intention to focus on those factors insofar as they are relevant in the particular circumstances.",
+      "id": "s360"
+    },
+    {
+      "text": "It may be that in a specific case, some of the factors carry no weight, carry a negative weight or are significantly outweighed by other factors that are presumed to be more important in light of the particular circumstances.",
+      "id": "s361"
+    },
+    {
+      "text": "Article 13 expressly states that the criteria are not ranked in any order of importance and there is no justification for concluding that the salved value or a percentage thereof as derived from other cases is to be a controlling consideration.",
+      "id": "s362"
+    },
+    {
+      "text": "There may be instances, for example, where the salved value is very high, but the care, skill and other factors indicate that the salvage performed was a relatively minor operation.",
+      "id": "s363"
+    },
+    {
+      "text": "In such a case it would be artificial to contend that any fixed range or percentage should substitute for a careful, although necessarily imprecise, balance struck from a consideration of the specified factors.",
+      "id": "s364"
+    },
+    {
+      "text": "The salved value as a figure is significant in the context of the 1989 Convention because Article 13(3) specifically caps the salvage reward at the salved value of the vessel and property.",
+      "id": "s365"
+    },
+    {
+      "text": "Although other cases may provide points of contrast and similarity to the present circumstances, there is no single case or group of cases - and one would not expect there to be --- based on which one could fix a particular value-percentage reward in relation to the salvage services provided to the \"La Pampa\".",
+      "id": "s366"
+    },
+    {
+      "text": "Where higher rewards as a percentage of the salved property have been viewed as appropriate, the surrounding conditions and circumstances of those operations have been relatively extreme.",
+      "id": "s367"
+    },
+    {
+      "text": "In fixing the reward in this case and carefully considering the criteria, I have taken into account the substantial agreed value of the salved property and treated it as an important consideration.",
+      "id": "s368"
+    },
+    {
+      "text": "ARTICLE 13 (1)( b): SALVORS SKILL AND EFFORTS IN PREVENTING DAMAGE TO THE ENVIRONMENT Under this paragraph, the Court must take into account the \"skill and efforts\" of the salvors in preventing or minimising damage to the environment.",
+      "id": "s369"
+    },
+    {
+      "text": "The expression \"damage to the environment\" in Article 13 (1)(b) is defined in Article 1 of the 1989 Convention to mean substantial physical damage to human health or to marine life or resources in coastal or inland waters or adjacent areas caused by pollution, contamination, fire, explosion or similar major incidents.",
+      "id": "s370"
+    },
+    {
+      "text": "I accept that within and near the Port of Gladstone, there exist species of world class and highly sensitive marine life and also significant marine resources that may be vulnerable to damage caused by pollution.",
+      "id": "s371"
+    },
+    {
+      "text": "It is arguable that the Boyne Wharf and other structures could also be encompassed in the term \"marine resources\" as outlined in Article 1.",
+      "id": "s372"
+    },
+    {
+      "text": "In the interests of taking a generous approach and bearing in mind the objective of encouraging salvage, I have adopted a broad interpretation and paid some regard to this possibility, insofar as there may have been the potential for physical damage to affect the wharf and other structures in the absence of the skill and efforts of the salvors.",
+      "id": "s373"
+    },
+    {
+      "text": "Article 13 (1)(b) is premised on the finding that there was a real risk of substantial physical damage which has been avoided by the skill and efforts of the salvors.",
+      "id": "s374"
+    },
+    {
+      "text": "This risk must be a risk arising from the circumstances in which the vessel was placed as a consequence of the grounding and the consequent movements of the vessel.",
+      "id": "s375"
+    },
+    {
+      "text": "In the present case, the possible risks that may have arisen had the tugs not provided assistance include the release of oil, damage to or blockage of the channel, damage to adjoining structures or resources or livestock, or even, in the worst-case scenario, the break-up of the vessel.",
+      "id": "s376"
+    },
+    {
+      "text": "The possible pollutants or sources of contamination include the oil and dirty ballast water that may have escaped from the damaged ship and, in the event of the break-up of the vessel, pieces of wreckage that would be scattered in the area surrounding the vessel.",
+      "id": "s377"
+    },
+    {
+      "text": "This provision is not concerned with remote, possible or hypothetical damage to those specified aspects of the environment, but with the prevention of substantial physical damage.",
+      "id": "s378"
+    },
+    {
+      "text": "The paragraph uses the expression \" in minimising or preventing \" which points to the implementation of some process and the existence of an actual risk or danger.",
+      "id": "s379"
+    },
+    {
+      "text": "This stands in contrast with the term \" threatened \" damage as used in the context of Article 14(1).",
+      "id": "s380"
+    },
+    {
+      "text": "In Article 13 (1)(b), the language does not refer to skill and efforts which \"aim\" to minimise or prevent damage, but to those used in the process of preventing or minimising damage to the environment.",
+      "id": "s381"
+    },
+    {
+      "text": "Importantly, the provision is not concerned with economic loss which the vessel may incur by way of liability for environmental damage.",
+      "id": "s382"
+    },
+    {
+      "text": "Rather, it is directed to the skill and efforts of the salvors in preventing or minimising any potential damage caused by major incidents.",
+      "id": "s383"
+    },
+    {
+      "text": "The collocation of adjectives listed in this paragraph to describe the type of incident clearly contemplates a significant event.",
+      "id": "s384"
+    },
+    {
+      "text": "In my view, it is not open on any reasonable reading of this provision to open up, or give weight to, considerations relating to the extent to which the efforts of the salvors avoided any potential liability of the vessel to third parties.",
+      "id": "s385"
+    },
+    {
+      "text": "The provision is directed to substantial physical damage, and is focused on the level of skill in combination with the amount of work, and difficulty of that work, which is required to prevent physical damage to the vessel and the surrounding environment.",
+      "id": "s386"
+    },
+    {
+      "text": "In considering this paragraph, the Court must assess whether there was some realistic prospect of significant or substantial physical damage to the environment caused by the incident that is the subject of the proceedings.",
+      "id": "s387"
+    },
+    {
+      "text": "In considering the events of 27 March 2002, I find that there was no major incident which seriously affected or posed a direct threat to the environment.",
+      "id": "s388"
+    },
+    {
+      "text": "Nor was there any notable escape of pollutants or contamination into the surrounding areas which required containment or prevention measures to be implemented.",
+      "id": "s389"
+    },
+    {
+      "text": "The grounding of the \"La Pampa\" and the consequential salvage operations could be described as incidents, but I do not consider they could be characterised as major incidents which affected or threatened the environment in the manner required by this paragraph.",
+      "id": "s390"
+    },
+    {
+      "text": "At the time of the incident, the \"La Pampa\" was carrying 2993 tonnes of heavy fuel oil and 163 tonnes of diesel oil, as well as lubricating oil and engine wastes containing oil and ballast water.",
+      "id": "s391"
+    },
+    {
+      "text": "Having regard to the position in which the oil was stored, I find that there was merely a remote possibility of a failure such as would lead to the release of any of that oil.",
+      "id": "s392"
+    },
+    {
+      "text": "Furthermore, the arrangement plans and the tank plans for the \"La Pampa\" indicate that the fuel tanks were at the rear of the vessel, well away from areas where there was any real prospect of rupture or failure which could lead to the escape of contaminants that might pollute the environment.",
+      "id": "s393"
+    },
+    {
+      "text": "I have come to the conclusion that there existed only a remote possibility of the escape of any contaminants or pollutants.",
+      "id": "s394"
+    },
+    {
+      "text": "Although I consider that the salvors have exercised considerable skill and effort in salving the endangered property as specified under this paragraph, I do not consider that there was any imminent, present or substantial threat to the environment prevented by their skill and efforts.",
+      "id": "s395"
+    },
+    {
+      "text": "In my view, there was virtually no real - as opposed to remote - possibility that oil or ballast water in any significant quantity could escape as a result of the grounding, and therefore I have not assigned any significant weight to this consideration.",
+      "id": "s396"
+    },
+    {
+      "text": "Nor do I consider that there was any real risk of breakage of the vessel so that the environment would be adversely affected.",
+      "id": "s397"
+    },
+    {
+      "text": "In light of the evidence, I am not persuaded that there was any danger of substantial physical damage or injury to human health, marine life or resources due to the escape of oil or other pollutants, or the blockage of the channel.",
+      "id": "s398"
+    },
+    {
+      "text": "Nor was there any danger of substantial damage to marine resources caused by any major incident similar to fire, pollution or contamination.",
+      "id": "s399"
+    },
+    {
+      "text": "The plaintiffs have not established that that there was any proximate prospect of such a consequence as opposed to pointing to the existence of a remote possibility.",
+      "id": "s400"
+    },
+    {
+      "text": "I also note that the time frame during which the salvage efforts were made was of relatively short duration.",
+      "id": "s401"
+    },
+    {
+      "text": "Therefore I have given some, but not great, weight to this consideration in forming my conclusion as to the proper quantum of the reward.",
+      "id": "s402"
+    },
+    {
+      "text": "ARTICLE 13 (1)( c): MEASURE OF SUCCESS OBTAINED BY THE SALVOR Article 13 (1)(c) requires that the reward is fixed taking into account the \"measure of success obtained by the salvor.",
+      "id": "s403"
+    },
+    {
+      "text": "\" In this phrase, the term \"success\" refers to the salving of the property and ship in danger.",
+      "id": "s404"
+    },
+    {
+      "text": "The expression \"success obtained by the salvor\" should not be construed to mean success in avoiding the danger of the vessel or its owners or crew being sued for economic loss by third parties.",
+      "id": "s405"
+    },
+    {
+      "text": "The salvage operation, as Article 1 indicates, is the operation of salving \"a vessel or property\" in danger.",
+      "id": "s406"
+    },
+    {
+      "text": "It is directed to physical loss or damage.",
+      "id": "s407"
+    },
+    {
+      "text": "It is not directed to protecting the vessel from potential third party litigation claims for loss suffered by third parties by way of damage or economic loss or the expense and expenditure of time in defending any proceeding.",
+      "id": "s408"
+    },
+    {
+      "text": "In the present case, the salvage operation was a one hundred percent success and I have given significant weight to this factor accordingly.",
+      "id": "s409"
+    },
+    {
+      "text": "ARTICLE 13.1(d) --- NATURE AND DEGREE OF THE DANGER \n This paragraph requires that the salvage reward be fixed considering the \"nature and degree of the danger.",
+      "id": "s410"
+    },
+    {
+      "text": "\" In considering this criterion, it is necessary to identify the \"danger\" referred to.",
+      "id": "s411"
+    },
+    {
+      "text": "Some guidance can be found by examining other Articles in the 1989 Convention.",
+      "id": "s412"
+    },
+    {
+      "text": "For instance, and as previously noted, Article 1 defines \"salvage operations\" as activities undertaken to assist a vessel or property in danger.",
+      "id": "s413"
+    },
+    {
+      "text": "In my view, this paragraph does not contemplate danger to the environment but rather the focus is on the degree of danger to the salved vessel itself and the persons and property in it.",
+      "id": "s414"
+    },
+    {
+      "text": "This factor is directed to assessing the danger to human life and the risk of loss, injury or damage in relation to the salved property.",
+      "id": "s415"
+    },
+    {
+      "text": "When considering Article 13.1(d), it is useful to note that paragraphs (a) and (e) support the conclusion that the subject of the salvage operation is the \"vessel and other property\" salved.",
+      "id": "s416"
+    },
+    {
+      "text": "The 1989 Convention refers expressly to \"the environment\" in several other provisions, but does not do so in paragraph (d): see, for example, Articles 1, 6, 8, 11, 13(b) and 14.",
+      "id": "s417"
+    },
+    {
+      "text": "It is also notable that the 1989 Convention uses the expression \"danger\" in relation to the \"vessel and other property and life\" as opposed to the expression \"damage\", which is used in relation to adverse effects on the environment: see, for example, the Preamble and Articles 1, 8, 10, 11, 13, 14 and 16.",
+      "id": "s418"
+    },
+    {
+      "text": "In this case, the evidence does not indicate that the events of 27 March 2006 presented any significant danger to life or person.",
+      "id": "s419"
+    },
+    {
+      "text": "Nevertheless, the vessel itself became vulnerable to danger when the steering gear failed.",
+      "id": "s420"
+    },
+    {
+      "text": "This led to the grounding of the vessel and rendered it unable to manoeuvre safely.",
+      "id": "s421"
+    },
+    {
+      "text": "Using considerable skill and effort, the tugs were able to control and manoeuvre the vessel.",
+      "id": "s422"
+    },
+    {
+      "text": "At times the operation presented great difficulties to the salvors arising from a number of complex interacting factors including the constant yawing and veering of the vessel, the tidal currents, the narrowness of the channel, the weather conditions, the jamming of the rudder to port, the breaking of the tow lines, the limited tolerance for keel clearance and certain time constraints.",
+      "id": "s423"
+    },
+    {
+      "text": "Having regard to these factors, it is clear that any danger to the vessel and property would have been significantly greater had the tugs had not come to the vessel's assistance.",
+      "id": "s424"
+    },
+    {
+      "text": "Once the tugs arrived, their efforts in combination with the directions of the Pilot, the co-operation of the Master and the input of the harbour authority enabled the potential risk-generating factors to be contained and danger avoided.",
+      "id": "s425"
+    },
+    {
+      "text": "Although Article 13.1(d) is limited to a consideration of the actual danger that the vessel experienced during the operation, regard should still be paid to the potential danger the vessel may have faced if tug assistance had not been available.",
+      "id": "s426"
+    },
+    {
+      "text": "The plaintiffs submit that if tug assistance had not been available, there was a continuing danger of global or local failure to the salved property until the vessel was safely moved from the point of grounding out of the port.",
+      "id": "s427"
+    },
+    {
+      "text": "It was claimed that the danger of damage to the vessel in the Auckland Channel was of a high degree, and that this danger was present and continuous until the vessel anchored at the deep sea anchorage near the Fairway Buoy.",
+      "id": "s428"
+    },
+    {
+      "text": "The scenario advanced by the plaintiffs is that with the vessel aground and the bow pinned on the northern side of the Auckland Channel, there was a significant risk of further damage to the vessel in the absence of tug assistance.",
+      "id": "s429"
+    },
+    {
+      "text": "The plaintiffs maintain this danger would have arisen whether the \"La Pampa\" remained on the northern bank with the change of tide, or whether she refloated without the use of her rudder and was therefore unable to maintain her position in the channel without further grounding.",
+      "id": "s430"
+    },
+    {
+      "text": "One risk was said to be that the stern could collide with the northern bank in the Auckland Channel as a consequence of the tide.",
+      "id": "s431"
+    },
+    {
+      "text": "This could have led to rudder, propeller and local hull failure near the stern, depending on the rate of swing with the remaining tide.",
+      "id": "s432"
+    },
+    {
+      "text": "The plaintiffs refer to evidence presented by Mr Squire, Captain Hancox, Captain Wilson, Captain Noble, Captain Fraser and Dr Binks, which they say establishes that due to the heavy grounding of the \"La Pampa\", on the balance of probabilities she was likely to remain aground at high tide if there was no assistance.",
+      "id": "s433"
+    },
+    {
+      "text": "They contended that the witnesses agreed that the vessel was most likely to swing across the channel, remaining pinned to the bow and hitting the south bank with her stern.",
+      "id": "s434"
+    },
+    {
+      "text": "It was argued that if the \"La Pampa,\" when swinging on the ebb tide and making contact with the southern bank, remained aground by her stern and bow, she would be subject to bending forces as she was held up on the banks with the falling tide due to a loss of buoyancy.",
+      "id": "s435"
+    },
+    {
+      "text": "Although there is considerable speculation as to the likelihood of that bending moment and its probable extent, as well as similar conjecture in relation to the resulting shear forces, the plaintiffs submit that the evidence indicates a real and imminent prospect that the vessel could have been exposed to global failure with the consequent escape of oil and blockage to the channel.",
+      "id": "s436"
+    },
+    {
+      "text": "Reliance was placed on the evidence of Dr Phipps, a geologist, who gave very limited evidence that the southern side of the bank contained hard matter identified by core sampling as very stiff.",
+      "id": "s437"
+    },
+    {
+      "text": "The plaintiffs' case as to global failure largely depends on evidence given by Mr Squire, a naval architect, to the effect that on one possible scenario, the bending moment and shear forces could exceed the vessel's likely capacity to withstand those forces and this would result in global structural failure.",
+      "id": "s438"
+    },
+    {
+      "text": "It was also submitted that, given the influence of tides and swell in the channels, there was a risk of global failure if the vessel had re-grounded.",
+      "id": "s439"
+    },
+    {
+      "text": "It is further contended that if the vessel had struck the south bank and had not been held up, she would have slipped down the bank to the channel bottom or sunk into soft sand or mud with the tide.",
+      "id": "s440"
+    },
+    {
+      "text": "This would have caused substantial damage to the vessel's stern gear, propeller and rudder, and risked her hull being further penetrated at the stern adjacent to the engine room.",
+      "id": "s441"
+    },
+    {
+      "text": "Another danger posed by the plaintiffs is that if the vessel had refloated without tug assistance, she would have been unable to manoeuvre down the channel without her rudder, which was either locked to port or moving freely as the vessel's propeller turned.",
+      "id": "s442"
+    },
+    {
+      "text": "It is submitted that in those circumstances, the vessel was likely to re-ground as she attempted to manoeuvre with her engine alone or as the tide changed.",
+      "id": "s443"
+    },
+    {
+      "text": "This could have led to further risk of hull damage to different parts of the vessel, potentially resulting in water ingress which would make the vessel unstable and the pumps incapable of preventing or minimising flooding in various parts of the ship.",
+      "id": "s444"
+    },
+    {
+      "text": "In response, the defendants submit that the \"La Pampa\" was never in great danger after the tugs came to her assistance.",
+      "id": "s445"
+    },
+    {
+      "text": "They note that the Pilots were able to safely manage and manoeuvre the vessel with the assistance of the tugs.",
+      "id": "s446"
+    },
+    {
+      "text": "This is despite the problems referred to by the plaintiffs including the narrowness of the channel, the tidal currents and the yawing.",
+      "id": "s447"
+    },
+    {
+      "text": "The defendants say the actual risk of danger after the tugs came to the assistance of the vessel was remote.",
+      "id": "s448"
+    },
+    {
+      "text": "Even when the tow lines had broken, appropriate steps were taken to reconnect the lines and the operation continued.",
+      "id": "s449"
+    },
+    {
+      "text": "In the defendants' submission, there is no evidence that the vessel came close to contacting the sides or the bottom of the channel.",
+      "id": "s450"
+    },
+    {
+      "text": "For the plaintiffs, it was argued that the Court should draw adverse inferences based on the defendants' failure to call evidence from the Master or the Engineer of the \"La Pampa\", and also the fact that no course recorder and depth sounder records from the vessel were produced.",
+      "id": "s451"
+    },
+    {
+      "text": "It was contended by the plaintiffs that these records would provide information in relation to the depth and the extent of veering and yawing, and thus were relevant to the question of danger.",
+      "id": "s452"
+    },
+    {
+      "text": "I have taken these matters into account, but I do not consider they carry much weight.",
+      "id": "s453"
+    },
+    {
+      "text": "The defendants submit that it was not necessary for them to call the Master or the Engineer in the light of the fact that other witnesses on the bridge gave evidence.",
+      "id": "s454"
+    },
+    {
+      "text": "Moreover, the defendants have acknowledged that there was substantial yawing and veering of the vessel, and agree that the water was shallow under the keel.",
+      "id": "s455"
+    },
+    {
+      "text": "Having regard to these concessions, they submit that no adverse inference could be brought or strengthened as a consequence of a failure to call evidence from the crew of the vessel or produce the relevant records.",
+      "id": "s456"
+    },
+    {
+      "text": "In relation to the plaintiff's submission that there was a danger of global failure caused by buckling of the deck and the breaking of the two bottom skins near the middle of the ship, the defendants say that although this was a possible outcome, it was so remote that this fact should not carry any significant weight.",
+      "id": "s457"
+    },
+    {
+      "text": "The defendants argue the qualified experts were in consensus that the risk of the vessel breaking her back was very low.",
+      "id": "s458"
+    },
+    {
+      "text": "They note that Mr Squire for the plaintiffs concludes in his first report that the hull was not likely to fail due to sagging, and that although a risk of global failure did exist, it was a small one.",
+      "id": "s459"
+    },
+    {
+      "text": "The defendants also highlight that of the three potential scenarios described by Mr Squire in his report, the worst-case scenario --- where the hull would be at high risk of failure (Case 2) --- is deemed by Mr Squire to be less likely that the other two.",
+      "id": "s460"
+    },
+    {
+      "text": "In relation to the other two possible scenarios, Mr Squire states that in Case 1 there is no realistic prospect of the collapse of the hull as a whole and in Case 3 the probability of hull failure is very low.",
+      "id": "s461"
+    },
+    {
+      "text": "Moreover, the worst-case scenario presented by Mr Squire (Case 2) made the unsubstantiated assumption that the vessel grounds fore and aft at the very top of the tide.",
+      "id": "s462"
+    },
+    {
+      "text": "As pointed out by Dr Binks, a naval architect called for the defendants, Case 2 is based on several problematic assumptions.",
+      "id": "s463"
+    },
+    {
+      "text": "Firstly, this scenario assumes that there is no sinkage or slippage of the ship's bow on the north bank or of the ship's stern when grounded on the south bank.",
+      "id": "s464"
+    },
+    {
+      "text": "Secondly, it is assumed that that the ship's stern swings to such an extent that a length of over 40 metres (measured from the aft perpendicular) makes contact with the south bank of the channel.",
+      "id": "s465"
+    },
+    {
+      "text": "He does not accept these assumptions, and considers that they are speculative.",
+      "id": "s466"
+    },
+    {
+      "text": "In addition, Mr Squire points out the difference between Case 2 (high probability of failure) and Case 3 (a very low probability of hull failure) is that in Case 3, instead of the vessel going aground fore and aft at the very top of the tide, she grounds at a lower point or sinks into the sea-bed by a distance of 0.68 metres.",
+      "id": "s467"
+    },
+    {
+      "text": "This is a relatively small difference.",
+      "id": "s468"
+    },
+    {
+      "text": "If the distance is less than that, the degree of risk falls between Case 2 and Case 3.",
+      "id": "s469"
+    },
+    {
+      "text": "Mr Squire accepted that the vessel must ground part of the way up the sides of the channel, and that whether she would drop with the tide would depend on the material and the steepness at the point of contact.",
+      "id": "s470"
+    },
+    {
+      "text": "The defendants note that there is no definitive evidence as to the shape of the south bank and that the evidence concerning the material of the south bank is limited.",
+      "id": "s471"
+    },
+    {
+      "text": "It was also stressed that Mr Squire acknowledged considerable uncertainty about his prediction in relation to global failure.",
+      "id": "s472"
+    },
+    {
+      "text": "On the expert evidence, I am not satisfied that in the present case there was any real probability of global failure, or indeed any danger of global failure.",
+      "id": "s473"
+    },
+    {
+      "text": "Dr Binks says, and I accept, that it is unlikely that the vessel would have become grounded with her bow on the north bank and her stern on the south bank because one would expect this scenario to have been prevented by the actions of the crew.",
+      "id": "s474"
+    },
+    {
+      "text": "He also considered that the general blockage scenario as presented in Case 2 could arise in the event that no action was taken by the crew, but he disagreed with the assumptions made by Mr Squire to justify the view that there was a significant prospect of global failure.",
+      "id": "s475"
+    },
+    {
+      "text": "There was simply not enough material to warrant the adoption of this conclusion based on these assumptions.",
+      "id": "s476"
+    },
+    {
+      "text": "The plaintiffs also claim that in addition to the danger of global failure, there was a significant chance that the grounding of the vessel could cause \"local damage\" to the stern plates, the propeller and/or the rudder.",
+      "id": "s477"
+    },
+    {
+      "text": "The defendants respond that that the evidence as to the potential damage to the rudder, the propeller and the stern plates has not been given by reference to any detailed calculations regarding the likely effect of the impact and extent of the damage.",
+      "id": "s478"
+    },
+    {
+      "text": "Therefore, they say, the evidence as to the nature and extent of possible local damage is merely speculative.",
+      "id": "s479"
+    },
+    {
+      "text": "It is acknowledged that the prospective damage, to a large extent, depends on the hardness of the material that could be struck by the rear of the vessel at any particular point.",
+      "id": "s480"
+    },
+    {
+      "text": "This point was addressed by Dr Phipps, who gave geotechnical evidence based on core data from a number of boreholes referred to in drill logs made in respect of samples taken in 1981.",
+      "id": "s481"
+    },
+    {
+      "text": "The boreholes drilled were 250 millimetres in diameter.",
+      "id": "s482"
+    },
+    {
+      "text": "The data obtained did not indicate a uniform pattern in the consistency of the material.",
+      "id": "s483"
+    },
+    {
+      "text": "In the view of Dr Phipps, the closest bore sample to the position of grounding is borehole number 81/39 on the northern side of the Auckland Channel.",
+      "id": "s484"
+    },
+    {
+      "text": "The log of that borehole refers to clayey, sandy gravel over fine to coarse sand and containing some pebbles.",
+      "id": "s485"
+    },
+    {
+      "text": "The depth of this borehole was 4.75 metres.",
+      "id": "s486"
+    },
+    {
+      "text": "Dr Phipps describes the sediment on the north side as unconsolidated but relatively compact.",
+      "id": "s487"
+    },
+    {
+      "text": "He considered that this sample showed that the material became more compact with depth.",
+      "id": "s488"
+    },
+    {
+      "text": "He conceded that no bedrock was shown in any of the samples.",
+      "id": "s489"
+    },
+    {
+      "text": "On the south side of the Auckland Channel, the most relevant sample is borehole 81/40.",
+      "id": "s490"
+    },
+    {
+      "text": "The log describes the material here as sandy clay with high plasticity and also notes a penetrometer reading greater than 500 kPa in the additional comments column.",
+      "id": "s491"
+    },
+    {
+      "text": "At various depths, the recordings of the penetrometer are also shown to be 200 and 400 kPa.",
+      "id": "s492"
+    },
+    {
+      "text": "The log refers to samples below 1.8 metres in this borehole as being \"very slurried\" with the bore-hole collapsing.",
+      "id": "s493"
+    },
+    {
+      "text": "However, I note that in the case of borehole 81/48, which was taken on the south side of the Channel further to the west, there is a description of sandy, silty clay of low plasticity characterised as being very stiff with penetrometer readings of 300 kPa and 200 kPA.",
+      "id": "s494"
+    },
+    {
+      "text": "In my view, this evidence, which dates back to 1981, is of limited assistance given the considerable variations between the samples and the approximation of the location in relation to the grounding.",
+      "id": "s495"
+    },
+    {
+      "text": "Because there is considerable doubt as to the precise location where the grounding occurred and where any potential impact with the bottom or the sides of the channel could have occurred, the application of the core samples to form a reliable conclusion as to the potential effect of any impact is of minimal use.",
+      "id": "s496"
+    },
+    {
+      "text": "When this is taken together with the distances between the core samples and the physical size of the samples, the uncertainty is compounded.",
+      "id": "s497"
+    },
+    {
+      "text": "While some guidance is given to the interpretation of this data, it is quite inadequate to make any reliable estimate as to the possible damage which may be caused by the impact of the vessel grounding or swinging across the channel to impact on the southern bank.",
+      "id": "s498"
+    },
+    {
+      "text": "Any such prediction is speculative at best.",
+      "id": "s499"
+    },
+    {
+      "text": "I do not accept the evidence of Dr Phipps that the vessel grounded on bedrock on the northern side of the channel.",
+      "id": "s500"
+    },
+    {
+      "text": "He concedes that the information available on the sediments on the north side of the channel is limited and draws inferences from scour marks as to what might have happened.",
+      "id": "s501"
+    },
+    {
+      "text": "He is not qualified, in my view, to interpret the causes of damage to the hull of the vessel.",
+      "id": "s502"
+    },
+    {
+      "text": "In these circumstances, given the uncertainties, reservations, difficulties of determining location and the limited size and distancing of the samples, I do not consider that they are of any real assistance.",
+      "id": "s503"
+    },
+    {
+      "text": "In relation to this matter, I accept the evidence of Dr Binks to the effect that he would not expect there to be much difference between matter with a penetrometer reading of 300 kPa and that of 500 kPa.",
+      "id": "s504"
+    },
+    {
+      "text": "Dr Binks performed some calculations on the basis of this data in relation to the potential impact on the rudder or propeller of the vessel.",
+      "id": "s505"
+    },
+    {
+      "text": "He noted that only one of the bore holes was in the order of 500 kPa hardness.",
+      "id": "s506"
+    },
+    {
+      "text": "He did not consider, as a naval architect, that there would be a significant difference in the impact and damage to the vessel if it struck material of 300 kPa compared to that of 500 kPa.",
+      "id": "s507"
+    },
+    {
+      "text": "Moreover, he did not accept the assumptions on which the conclusions of Dr Phipps and other witnesses were based.",
+      "id": "s508"
+    },
+    {
+      "text": "He also considered that, with action by the crew, it was most unlikely that the vessel would even strike the south bank.",
+      "id": "s509"
+    },
+    {
+      "text": "My conclusion in relation to this consideration is that there was danger to the vessel of suffering further damage if the tugs had not intervened.",
+      "id": "s510"
+    },
+    {
+      "text": "It is possible, but not probable, that in such circumstances the vessel could have blocked the Auckland Channel.",
+      "id": "s511"
+    },
+    {
+      "text": "It is not possible to determine for what period this could have lasted.",
+      "id": "s512"
+    },
+    {
+      "text": "There was also a danger that the \"La Pampa\" could have re-grounded and suffered further damage.",
+      "id": "s513"
+    },
+    {
+      "text": "I do not consider there was a danger to life.",
+      "id": "s514"
+    },
+    {
+      "text": "The vessel may have been unable to manoeuvre out of the port and may possibly have come into contact with the Boyne Wharf.",
+      "id": "s515"
+    },
+    {
+      "text": "Therefore, I have given weight to these matters but I do not accept the failure scenario posed by the plaintiffs and its witnesses.",
+      "id": "s516"
+    },
+    {
+      "text": "I prefer the evidence of Dr Binks to that of Mr Squire and the other witnesses where they are in conflict.",
+      "id": "s517"
+    },
+    {
+      "text": "ARTICLE 13.1( e) --- SKILL AND EFFORT IN SALVING THE VESSEL In fixing salvage reward, Article 13(1)(e) directs attention to the skill and efforts employed by the salvors in salving the vessel, other property and life.",
+      "id": "s518"
+    },
+    {
+      "text": "The defendants submit that in the circumstances of this case, this is the most important consideration in quantifying the award because it is largely the skill and efforts (including experience) brought to bear by particular salvors which distinguishes one salvage operation from another.",
+      "id": "s519"
+    },
+    {
+      "text": "They submit that in this case, the level of skill should be rated as a 1 on a scale of 0 to 10.",
+      "id": "s520"
+    },
+    {
+      "text": "The defendants point to evidence of Captain Noble in particular, and to his assessment of the measure and nature of the skill and efforts employed.",
+      "id": "s521"
+    },
+    {
+      "text": "They submit that although Captain Noble agreed on several occasions during questioning with counsel for the plaintiffs that many of the actions undertaken by the tugs on 27 March 2006 were not \"normal harbour towage,\" this factor is not important.",
+      "id": "s522"
+    },
+    {
+      "text": "By contrast, it is contended that the emphasis should be placed on a comparison with other salvage operations to inform a proper appreciation of the demands of the present operation.",
+      "id": "s523"
+    },
+    {
+      "text": "Captain Noble gave evidence that the skill and efforts employed by the tugs in this instance were, in his experience, less significant than those required in a number of salvage operations of which he was aware.",
+      "id": "s524"
+    },
+    {
+      "text": "In the view of Captain Noble, normal tug crews are equipped and should ordinarily be competent to manoeuvre large vessels in all weather as well as handle situations where tow lines break.",
+      "id": "s525"
+    },
+    {
+      "text": "The reality in the present case is that the conditions were favourable at the time of the incident.",
+      "id": "s526"
+    },
+    {
+      "text": "The vessel was refloated approximately ten minutes after the \"Kuttabul\" arrived and no \"special\" methods were used to effect the refloating.",
+      "id": "s527"
+    },
+    {
+      "text": "It is true there was a movement towards the Boyne Smelter, which brought the vessel approximately one hundred metres from the wharf, but on the evidence there was no substantial danger of collision.",
+      "id": "s528"
+    },
+    {
+      "text": "Most of the day, the \"La Pampa\" was at anchor and the tugs were present but idle for substantial periods.",
+      "id": "s529"
+    },
+    {
+      "text": "Later in the day, their work was concentrated in one location.",
+      "id": "s530"
+    },
+    {
+      "text": "The vessel was manoeuvred with some difficulty to the outer anchorage using ordinary harbour tow lines and tug operations.",
+      "id": "s531"
+    },
+    {
+      "text": "There was some shearing and yawing on the way up to the outer anchorage, but these movements were able to be corrected without the use of unusual methods.",
+      "id": "s532"
+    },
+    {
+      "text": "The breaking of the tow lines was able to be rectified, and at all times the tugs were directed by a pilot.",
+      "id": "s533"
+    },
+    {
+      "text": "The defendants also emphasise that the tug operations were only one of a number of operations involved in the organisation and implementation of the salvage operation, which was under the control of the Pilots with the co-operation of the vessel's Master, Captain Brailo and the Acting Harbour Master, Captain Fraser.",
+      "id": "s534"
+    },
+    {
+      "text": "These circumstances, submit the defendants, called for a small degree of skill and little or no unusual efforts on the part of the salvors.",
+      "id": "s535"
+    },
+    {
+      "text": "The defendants also direct attention to evidence that there was no salvage master appointed but that overall actual control of the salvage was in the hands of the Pilot and the Acting Harbour Master.",
+      "id": "s536"
+    },
+    {
+      "text": "The crew of the tugs carried out instructions given by the Pilot.",
+      "id": "s537"
+    },
+    {
+      "text": "No critical decisions were made by the plaintiffs as to where the vessel would be moved, for example.",
+      "id": "s538"
+    },
+    {
+      "text": "The operation took place within the Gladstone Port limits and not in the open sea.",
+      "id": "s539"
+    },
+    {
+      "text": "No specialist vessels or equipment were in fact used and none of the tug crew members were called to use any special skill.",
+      "id": "s540"
+    },
+    {
+      "text": "The crews were not specialist salvage crews and took no steps to deal with contaminants because there was no escape of pollutants or any real danger to the environment.",
+      "id": "s541"
+    },
+    {
+      "text": "The defendants' submissions in relation the decision-making process in the course of the operations is encapsulated as follows: \n \n all times, the operation was under the control of the pilots who, together with the Master of the \"La Pampa\" and the Harbour Master, made the decisions as to where the vessel was to be taken and how the vessel was to be manoeuvred.",
+      "id": "s542"
+    },
+    {
+      "text": "No salvage master was appointed.",
+      "id": "s543"
+    },
+    {
+      "text": "Neither the tug masters, nor any representative of United Salvage, participated in the making of decisions concerning where the vessel was to be taken and when.",
+      "id": "s544"
+    },
+    {
+      "text": "At all times, the tug masters acted under the direction of the pilots.",
+      "id": "s545"
+    },
+    {
+      "text": "Further, no salvage expertise was used or brought to bear by the plaintiffs to assist in the decision-making or in the manoeuvring of the vessel nor in any other aspect of the operation.",
+      "id": "s546"
+    },
+    {
+      "text": "' \n \n Both parties have referred to and analysed a substantial number of decisions in relation to the making of awards in different salvage operations in support of their respective cases.",
+      "id": "s547"
+    },
+    {
+      "text": "I have referred to several of these cases earlier in these reasons.",
+      "id": "s548"
+    },
+    {
+      "text": "None of these are of any direct assistance beyond establishing that particular scenarios and rewards can range from the catastrophic conjunction of extreme circumstances to the simplest of operations.",
+      "id": "s549"
+    },
+    {
+      "text": "This broad range of factual scenarios is reflected in the numerous awards cited.",
+      "id": "s550"
+    },
+    {
+      "text": "Even more arbitrary is the conclusion sought to be derived by taking a percentage of the salved value of the vessel as reflecting any meaningful measure or level of award appropriate to this case.",
+      "id": "s551"
+    },
+    {
+      "text": "In the present proceedings, the comparison of relevant conditions and difficulties in various cases offers only a rough indication of an appropriate reward, although more extreme cases may present guidelines for the outer parameters as to the fixing of quantum.",
+      "id": "s552"
+    },
+    {
+      "text": "In this case, it is clear that the vessel lost her steering a short time after she released the tugs that had assisted her to leave the Clinton Wharf.",
+      "id": "s553"
+    },
+    {
+      "text": "Her rudder went hard to port and she ran aground at a speed of six knots in a channel only 180 metres wide shortly prior to high tide.",
+      "id": "s554"
+    },
+    {
+      "text": "As the vessel came to rest aground, her bow rose and she developed a list to port of between 5 and 10 degrees with part of her anti-fouling visible.",
+      "id": "s555"
+    },
+    {
+      "text": "It is not clear from the evidence, but I conclude that the vessel did not appear to move at the first push by the \"Kuttabul.",
+      "id": "s556"
+    },
+    {
+      "text": "\" The damages to the \"La Pampa\" and the appearance of a puff of smoke both indicate a significant degree of contact and attachment to the side of the channel.",
+      "id": "s557"
+    },
+    {
+      "text": "In the video footage, the puff of smoke can be seen rising from the \"Kuttabul\" shortly after she comes alongside the vessel, suggesting she was applying engine power.",
+      "id": "s558"
+    },
+    {
+      "text": "The footage demonstrates that it was necessary for both the \"Kuttabul\" and the \"Tom Tough\" to push with the \"La Pampa's\" engines set to full power in order to refloat the vessel.",
+      "id": "s559"
+    },
+    {
+      "text": "Once the \"La Pampa\" was refloated in the channel, assistance and backup was given by the three tugs which manoeuvred her through a difficult passage to the South Trees Anchorage.",
+      "id": "s560"
+    },
+    {
+      "text": "Considerable skill was required in guiding the \"La Pampa\" through this passage.",
+      "id": "s561"
+    },
+    {
+      "text": "The rudder of the \"La Pampa\" was freed from hard to port, but could not be controlled and swung from side to side.",
+      "id": "s562"
+    },
+    {
+      "text": "The operation was a difficult passage at slow speed, and the vessel veered strongly at times.",
+      "id": "s563"
+    },
+    {
+      "text": "During this passage the tugs were often making alterations to the direction of the \"La Pampa\" using a significant amount of power in various positions.",
+      "id": "s564"
+    },
+    {
+      "text": "The anchoring process at the South Trees Anchorage was a challenging operation.",
+      "id": "s565"
+    },
+    {
+      "text": "The vessel's engines could not be used as they would have made her turn, and the size of the \"La Pampa\" posed some difficulties in this position.",
+      "id": "s566"
+    },
+    {
+      "text": "I accept that without tug assistance, there was some risk of re-grounding at the South Trees Anchorage and that this could have caused additional damage.",
+      "id": "s567"
+    },
+    {
+      "text": "Low tide occurred at 14.15 hours, and tug assistance was given to enable the vessel to remain at anchor and avoid swinging with the current towards shallower water and re-grounding.",
+      "id": "s568"
+    },
+    {
+      "text": "The tugs were working in close proximity at full power to maintain the vessel at anchor with the changing tide.",
+      "id": "s569"
+    },
+    {
+      "text": "By 16.25 hours, a strong tidal current had developed and the tugs were assisting the vessel to maintain her anchorage without moving towards shallower water.",
+      "id": "s570"
+    },
+    {
+      "text": "One of the tugs applied pressure on the starboard bow, another pushed on the long line centre lead forward and the third pushed up on the port bow.",
+      "id": "s571"
+    },
+    {
+      "text": "I am satisfied that a significant amount of work was done while the vessel was at anchor in order to maintain her in a safe position.",
+      "id": "s572"
+    },
+    {
+      "text": "I also consider that the passage to the Fairway Buoy involved considerable skill and effort in light of the tight time frame within which operations had to be carried out in order to take advantage of the next high tide at 20.40 hours.",
+      "id": "s573"
+    },
+    {
+      "text": "After the \"La Pampa\" commenced her passage at 18.20 hours and before berthing at the Fairway Buoy, a number of difficult circumstances arose which required significant skill and effort on the part of the salvors.",
+      "id": "s574"
+    },
+    {
+      "text": "The steering failed again and the rudder jammed hard to port once more.",
+      "id": "s575"
+    },
+    {
+      "text": "At one point the vessel began to sheer to port, but the tugs were able to control and maintain her in the channel.",
+      "id": "s576"
+    },
+    {
+      "text": "Lines were used at times by the tugs to assist the steering of the vessel.",
+      "id": "s577"
+    },
+    {
+      "text": "When the \"La Pampa\" began to veer towards the channel in the Goulding Cutting, the tugs moved quickly to correct the vessel's change in direction.",
+      "id": "s578"
+    },
+    {
+      "text": "In order to maintain the speed necessary to guide the \"La Pampa\" from the channels within the tidal window, the forward tugs were used extensively to push the vessel.",
+      "id": "s579"
+    },
+    {
+      "text": "The ship's engines could not be constantly engaged because this had the effect of causing the vessel to steer to port.",
+      "id": "s580"
+    },
+    {
+      "text": "When the use of the \"La Pampa's\" engine caused the vessel to turn, the power of the after tug was applied to correct this tendency.",
+      "id": "s581"
+    },
+    {
+      "text": "Apart from the narrow time frame and significant tidal movements, major challenges that necessitated the skill and efforts of the tugs included the tendency of the vessel to veer and yaw and the inability to steer her due to the jamming of the rudder hard to port.",
+      "id": "s582"
+    },
+    {
+      "text": "In my view, this consideration is important.",
+      "id": "s583"
+    },
+    {
+      "text": "The skill and effort required and exercised by the salvage operators was of a high order, and I have made appropriate allowance for this.",
+      "id": "s584"
+    },
+    {
+      "text": "ARTICLE 13.1( f) --- TIME USED AND EXPENSES INCURRED BY SALVORS This paragraph requires that time used and the expenses and losses of the salvors be taken into account in the fixing of the reward.",
+      "id": "s585"
+    },
+    {
+      "text": "In this case, the period of the operation was in the order of 17 hours.",
+      "id": "s586"
+    },
+    {
+      "text": "With respect to actual expenses, the plaintiffs claim approximately $A35,000.00.",
+      "id": "s587"
+    },
+    {
+      "text": "The defendants submit that this must be discounted for an overestimation of fuel expenses requiring a discount to about $A30,000.00.",
+      "id": "s588"
+    },
+    {
+      "text": "I have taken this discounting into account, but it is of minor significance.",
+      "id": "s589"
+    },
+    {
+      "text": "The salvors' costs and expenses included fuel in a sum of A$8,093.00, replacement tow lines in the sum of A$26,851.00 and repairs to damage on the \"Kuttabul\" of A$345.40.",
+      "id": "s590"
+    },
+    {
+      "text": "In addition, the plaintiffs claim a cost in respect of tug hire in an amount of A$102,389.00, making a total expense claim of approximately A$137,000.00.",
+      "id": "s591"
+    },
+    {
+      "text": "I am satisfied, notwithstanding the submissions of the defendants to the contrary, that the amount of tug hire should be considered in determining the time and expenses incurred by the salvors.",
+      "id": "s592"
+    },
+    {
+      "text": "The defendants have stressed the importance of examining the actual costs and expenses as a starting point against which to assess whether an award is appropriate.",
+      "id": "s593"
+    },
+    {
+      "text": "This submission has some merit.",
+      "id": "s594"
+    },
+    {
+      "text": "The task of the Court, however, is to consider and evaluate the prescribed criteria in Article 13.",
+      "id": "s595"
+    },
+    {
+      "text": "There may be many circumstances in which the actual costs and expense of the salvage operation to the salvors is a minor factor in light of adverse circumstances faced and the efforts required by the salvor.",
+      "id": "s596"
+    },
+    {
+      "text": "For example, the use of great skill may avoid the loss of, or damage to, salved property even when the value of the vessel may be small.",
+      "id": "s597"
+    },
+    {
+      "text": "In such circumstances, a substantial award which greatly exceeds the actual expenses incurred may well be justified.",
+      "id": "s598"
+    },
+    {
+      "text": "Although the actual expenses in this case were relatively small, I consider that on balance, a reward very substantially above that figure should be awarded.",
+      "id": "s599"
+    },
+    {
+      "text": "ARTICLE 13.1( g) --- RISKS RUN BY SALVORS AND EQUIPMENT This paragraph requires that consideration must be given to the risk of liability and other risks run by the salvors or their equipment.",
+      "id": "s600"
+    },
+    {
+      "text": "In this regard, the plaintiffs point to the extreme difficulty they faced in controlling the movements of the \"La Pampa\" within a limited space after refloating.",
+      "id": "s601"
+    },
+    {
+      "text": "The vessel had a tendency to turn to port when the ship's engines were deployed, and extensive tug control was necessary at close range in some instances.",
+      "id": "s602"
+    },
+    {
+      "text": "It was necessary to use short lines to tow the vessel at certain points and this also exposed the tugs to greater swell reaction.",
+      "id": "s603"
+    },
+    {
+      "text": "The close interaction of the tugs with the vessel caused several tow line breakages, and the \"Kuttabul\" suffered some damage to her fenders.",
+      "id": "s604"
+    },
+    {
+      "text": "There is evidence that when one tow line parted, a very loud noise was heard.",
+      "id": "s605"
+    },
+    {
+      "text": "This is consistent with a sudden sharp strong strain or force.",
+      "id": "s606"
+    },
+    {
+      "text": "In addition, the evidence of Captain Beecroft refers to his concerns about a \"rush\" in the movement of the vessel which occurred on two occasions.",
+      "id": "s607"
+    },
+    {
+      "text": "He notes that at both the time of the original refloating and also when the vessel began to move at approximately 18.00 hours, it was necessary to control the speed of her movement.",
+      "id": "s608"
+    },
+    {
+      "text": "Captain Beecroft also expressed his concern that the tugs were in danger at about 08.33 hours when the \"La Pampa\" began to veer to starboard toward the Boyne Wharf.",
+      "id": "s609"
+    },
+    {
+      "text": "The \"Tom Tough\" was relocated to forestall the possibility of a collision, although for a few minutes it appeared that the tug may be unable to stop the vessel coming towards the wharf.",
+      "id": "s610"
+    },
+    {
+      "text": "The Captain noted that at this point he was concerned for the safety of the tugs as the ship headed towards the berths.",
+      "id": "s611"
+    },
+    {
+      "text": "Captain Beecroft also stated that later in the day, at 18.28 hours, the \"La Pampa\" lost steering and it was necessary for the \"Tom Tough\" to lash up to the port shoulder.",
+      "id": "s612"
+    },
+    {
+      "text": "At about 19.37 hours, the tug was put back on a long line.",
+      "id": "s613"
+    },
+    {
+      "text": "The sea conditions deteriorated after the \"La Pampa\" passed marker G1.",
+      "id": "s614"
+    },
+    {
+      "text": "The \"Tom Tough's\" long line parted at 20.24 and the tug was then lashed up to the vessel's port shoulder.",
+      "id": "s615"
+    },
+    {
+      "text": "Captain Beecroft said that just after the \"Tom Tough\" had parted her stern line, the vessel veered off to port and nearly ran out of the South Channel, almost colliding with marker S29.",
+      "id": "s616"
+    },
+    {
+      "text": "It was very difficult to correct the swing at about this point.",
+      "id": "s617"
+    },
+    {
+      "text": "The tide was dropping and the window of opportunity within which the vessel had sufficient water to exit the harbour was limited.",
+      "id": "s618"
+    },
+    {
+      "text": "The difficulty of the operation was increased by the swell in the passage out towards the Fairway Buoy, which was approximately 1-1.5 metres and rebounding off the vessel in certain areas.",
+      "id": "s619"
+    },
+    {
+      "text": "It is common ground that there was some risk to the tugs.",
+      "id": "s620"
+    },
+    {
+      "text": "However, the defendants contend that the risk was not so great that the reward should be substantially increased on this basis.",
+      "id": "s621"
+    },
+    {
+      "text": "They also point to the limited cost of repairing the actual damage to the tugs.",
+      "id": "s622"
+    },
+    {
+      "text": "In my view, however, there was a substantial element of risk to the tugs in the operation arising from the above considerations and other matters referred to in the evidence.",
+      "id": "s623"
+    },
+    {
+      "text": "In particular, the need to work closely with such a large vessel in a short time frame where there was a narrow channel and varying tidal movements placed the tugs in a position of significant risk.",
+      "id": "s624"
+    },
+    {
+      "text": "This is an important consideration.",
+      "id": "s625"
+    },
+    {
+      "text": "The defendants submit that the risk of the salvors incurring liability was very remote since the operation was controlled and directed by Pilots and critical decisions were taken by the Acting Harbour Master.",
+      "id": "s626"
+    },
+    {
+      "text": "Therefore, it is argued that there was little risk of liability being established against the tugs, their crews or their owners in the event that the tug masters were negligent in the way in which they executed the orders of the Pilot or Acting Harbour Master.",
+      "id": "s627"
+    },
+    {
+      "text": "Again, I consider that there existed some risk of this nature, but I do not treat this prospect as an important consideration in fixing an appropriate reward.",
+      "id": "s628"
+    },
+    {
+      "text": "In final submissions, the defendants referred to the limitation of the potential liability of the salvors as regards to third parties provided for by the Convention on Limitation of Liability for Marine Claims (1976), which was applicable in Australia at the relevant time under s 6 of the Limitation of Liability for Maritime Claims Act 1989 (Cth).",
+      "id": "s629"
+    },
+    {
+      "text": "They point out that at the outer limit, the plaintiffs could only have been liable to third parties in the most extreme case for a maximum of A$785,000.00 per tug for all death and personal injury claims and a maximum of A$395,000.00 per tug for other contractual and negligence claims.",
+      "id": "s630"
+    },
+    {
+      "text": "In the present case, there was not even a remote possibility that such a claim would be made and these figures do not provide any useful indicator.",
+      "id": "s631"
+    },
+    {
+      "text": "Therefore, the risk of liability incurred by the salvors, so far as it relates either to liability to the vessel or liability to third parties is not a consideration that should be given any weight.",
+      "id": "s632"
+    },
+    {
+      "text": "My conclusion in relation to this criterion is that a significant allowance should be made for the risk of damage to equipment and, much more remotely, for the risk of possible injury to members of the tug crews.",
+      "id": "s633"
+    },
+    {
+      "text": "I consider that in this case, the risk of liability to third parties was remote.",
+      "id": "s634"
+    },
+    {
+      "text": "However, some minor allowance should be made for the possibility that, notwithstanding the strength of available defences, there was potentially a possibility that the salvors could become embroiled in litigation.",
+      "id": "s635"
+    },
+    {
+      "text": "In the present circumstances, I do not consider that there was any significant risk of loss of life or injury to the tug crews.",
+      "id": "s636"
+    },
+    {
+      "text": "ARTICLE 13.1( h) --- PROMPTNESS OF THE SERVICES RENDERED This paragraph requires that the Court consider the promptness of the services rendered in fixing the reward.",
+      "id": "s637"
+    },
+    {
+      "text": "This criterion is not in dispute.",
+      "id": "s638"
+    },
+    {
+      "text": "Both parties agree that the services were rendered promptly, and in my view, significant weight should be given to this factor in fixing the quantum of the reward.",
+      "id": "s639"
+    },
+    {
+      "text": "It is highly desirable that salvage resources and capacity should be available on reasonably short notice in order to promptly and efficiently deal with disasters, groundings, collisions, fires, explosives and other potential maritime incidents.",
+      "id": "s640"
+    },
+    {
+      "text": "This is particularly relevant to a nation such as Australia, which is so dependent on maritime trade and has such an extensive coastline.",
+      "id": "s641"
+    },
+    {
+      "text": "ARTICLE 13.1( i) --- AVAILABILITY AND USE OF VESSELS OR OTHER EQUIPMENT INTENDED FOR SALVAGE OPERATIONS This paragraph requires consideration of the availability and use of vessels and other salvage-specific equipment.",
+      "id": "s642"
+    },
+    {
+      "text": "In the present case, two of the three tugs were \"salvage capable\" and fitted out with special equipment.",
+      "id": "s643"
+    },
+    {
+      "text": "The defendants stress that this particular salvage equipment was not utilised during the operation.",
+      "id": "s644"
+    },
+    {
+      "text": "Nevertheless, the availability of properly equipped salvage capable tugs is an important consideration.",
+      "id": "s645"
+    },
+    {
+      "text": "There was extensive evidence presented in relation to the different characteristics and costs of salvage capable tugs as opposed to harbour tugs, and I have taken the availability of these special features into account.",
+      "id": "s646"
+    },
+    {
+      "text": "For instance, there was a salvage tow line stored on board the \"Wistari\", so this capability was available even though it was not in fact used.",
+      "id": "s647"
+    },
+    {
+      "text": "Other vessels were also available to assist in the salvage operation, but they were not required.",
+      "id": "s648"
+    },
+    {
+      "text": "These are considerations of importance in this case, having regard to the difficulty in manoeuvring a vessel of the size of the \"La Pampa\" which has lost her steering capacity.",
+      "id": "s649"
+    },
+    {
+      "text": "The fact that the second and third plaintiffs are professional salvors in Gladstone is an additional consideration.",
+      "id": "s650"
+    },
+    {
+      "text": "I have given weight to this factor on the basis that there were other vessels which could have been made available to service Gladstone Harbour.",
+      "id": "s651"
+    },
+    {
+      "text": "Finally, I have taken into account the fact that the first salvor operates its business on a national basis, and given this consideration weight.",
+      "id": "s652"
+    },
+    {
+      "text": "ARTICLE 13.1( j) --- STATE OF READINESS AND EFFICIENCY OF THE SALVOR'S EQUIPMENT AND THE VALUE THEREOF The plaintiffs submit that I should take into account that the first plaintiff is the only national professional salvor with the ability to provide salvage services along the whole of the Australian coast.",
+      "id": "s653"
+    },
+    {
+      "text": "In addition, it is put forward that I should approach the reward on the general basis that the resources were provided by the plaintiffs as a group.",
+      "id": "s654"
+    },
+    {
+      "text": "I think this is a proper way to approach the task.",
+      "id": "s655"
+    },
+    {
+      "text": "The first plaintiff has equipment with a market value substantially above its depreciated value of $A70,000.00.",
+      "id": "s656"
+    },
+    {
+      "text": "It is agreed that value of the tug owned by the second plaintiff, the \"Tom Tough\" is $A3.7 million.",
+      "id": "s657"
+    },
+    {
+      "text": "It is also acknowledged that the third plaintiff is the owner of the \"Wistari\" (valued at $A3.7 million) and the \"Kuttabul\" ($A3.3 million) as well as other vessels which were not used, including the salvage capable tugs the \"Austral Salvor\" ($A6.0 million) and the \"Redcliffe\" ($A6.0 million).",
+      "id": "s658"
+    },
+    {
+      "text": "In considering this factor, there is no real dispute.",
+      "id": "s659"
+    },
+    {
+      "text": "It is common ground that the equipment was efficient and immediately available.",
+      "id": "s660"
+    },
+    {
+      "text": "It is also significant that Article 13 points to the desirability of ensuring that salvage operations are to be encouraged with a view to saving life and property.",
+      "id": "s661"
+    },
+    {
+      "text": "There is some suggestion that the tow lines may have broken because they were not up to standard, but I do not accept this.",
+      "id": "s662"
+    },
+    {
+      "text": "I accept that the lines failed due to the exceptional strain placed on them during the course of the salvage operation.",
+      "id": "s663"
+    },
+    {
+      "text": "I have given significant weight to this consideration.",
+      "id": "s664"
+    },
+    {
+      "text": "THE ISSUE OF \"BENEFICIAL OWNERSHIP\" AND THE THIRD DEFENDANT The parties are at issue as to whether judgment can be entered against the third defendant, Societe Anonyme Louis Dreyfus et Compagnie, on the basis that it is the beneficial owner of the vessel.",
+      "id": "s665"
+    },
+    {
+      "text": "The plaintiffs contend that the evidence supports such a judgment because, among other considerations, it is recorded as the beneficial owner of the vessel at the relevant time in the Lloyd's Register records.",
+      "id": "s666"
+    },
+    {
+      "text": "It is also noted that this entity received the hire in respect of the vessel pursuant to the apparent demise charter and that it received the proceeds of the sale of the vessel in 2003.",
+      "id": "s667"
+    },
+    {
+      "text": "Counsel for the defendant correctly submits that the register is an information service, and that the certificate states that although the information has been obtained from sources believed to be reliable, the accuracy of all details cannot be guaranteed.",
+      "id": "s668"
+    },
+    {
+      "text": "The certificate notes that the records of merchant ships registered in some countries are incomplete due to a lack of official information, and that the register does not provide conclusive proof of title but records information.",
+      "id": "s669"
+    },
+    {
+      "text": "In my view, the register cannot be ignored, but it is by no means conclusive.",
+      "id": "s670"
+    },
+    {
+      "text": "The defendants submit that the evidence shows that the third defendant received funds, not because it was the beneficial owner of the vessel, but rather pursuant to an internal agreement within the Louis Dreyfus Group akin to a cash management agreement.",
+      "id": "s671"
+    },
+    {
+      "text": "I was taken to an agreement made between members of the group on 7 June 1995.",
+      "id": "s672"
+    },
+    {
+      "text": "This agreement provides that the third defendant would manage the group cash flow and operate as an agent for the other companies in the group.",
+      "id": "s673"
+    },
+    {
+      "text": "In my view, this assists the rebuttal of an inference of beneficial ownership which might be otherwise available from the payment of funds to the third defendant.",
+      "id": "s674"
+    },
+    {
+      "text": "I was also taken by counsel to an extensive series of documents relating to financing, transactions, meeting minutes, insurance contracts and bills of sale which record dealings concerning the vessel.",
+      "id": "s675"
+    },
+    {
+      "text": "These documents lend support to the conclusion that the third defendant did not have a beneficial interest in the \"La Pampa\".",
+      "id": "s676"
+    },
+    {
+      "text": "In particular, there are meeting minutes and bills of sale dated from March-April 2003 which support the conclusion that the third defendant was not the beneficial owner at that time.",
+      "id": "s677"
+    },
+    {
+      "text": "The plaintiffs submit that since no witness was called by the defendants to testify as to beneficial ownership, an available inference may be drawn that the third defendant was the beneficial owner.",
+      "id": "s678"
+    },
+    {
+      "text": "The defendants, however, say that this inference is not available because beneficial ownership is not apparent on the documents.",
+      "id": "s679"
+    },
+    {
+      "text": "Having regard to the documentary records referred to by the defendants, I am not persuaded that at the relevant time --- that is, 27-28 March 2002 - the third defendant was the beneficial owner of the vessel.",
+      "id": "s680"
+    },
+    {
+      "text": "I therefore do not consider that judgment can be entered against it.",
+      "id": "s681"
+    },
+    {
+      "text": "CONCLUSION Having regard to all the circumstances in the present case, and taking account of the 1989 Convention and its aim of encouraging salvage operations, I have adopted a liberal view in fixing the salvage reward.",
+      "id": "s682"
+    },
+    {
+      "text": "Considering the factors outlined under Article 13 and referred to above, I fix the salvage reward in this matter on a global basis at $A850,000.00.",
+      "id": "s683"
+    },
+    {
+      "text": "I direct the parties to bring in Short Minutes to give effect to these reasons.",
+      "id": "s684"
+    },
+    {
+      "text": "I certify that the preceding one hundred and forty (140) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Tamberlin.",
+      "id": "s685"
+    },
+    {
+      "text": "Associate:\n\nDated: 1 September 2006\n\n\n Counsel for the Plaintiff: A W Street SC\nE Cox \n \n Solicitor for the Plaintiff: Norton White \n \n Counsel for the Defendant: J E Sexton SC\nG Rich \n \n Solicitor for the Respondent: Thynne &amp; Macartney \n \n Dates of Hearing: 13-17 March, 20-22 March, 27-31 March, 3-5 April 2006 \n \n Date of Judgment: 1 September 2006 \n \n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2006/1141.html",
+      "id": "s686"
+    }
+  ]
+}

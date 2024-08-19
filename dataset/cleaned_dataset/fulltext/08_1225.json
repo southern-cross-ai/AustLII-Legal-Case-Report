@@ -1,0 +1,1816 @@
+{
+  "name": "Delnorth Pty Ltd v Dura-Post (Aust) Pty Ltd [2008] FCA 1225 (13 August 2008)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2008/1225.html",
+  "catchphrases": [
+    {
+      "text": "innovation patents",
+      "id": "c0"
+    },
+    {
+      "text": "patents in suit for \"steel flex\" roadside post comprised of flexible sheet spring steel",
+      "id": "c1"
+    },
+    {
+      "text": "application for declaration of infringement of patents in suit by respondent through manufacture and sale of \"flexi-steel\" roadside post",
+      "id": "c2"
+    },
+    {
+      "text": "cross-claim for revocation of patents in suit as invalid",
+      "id": "c3"
+    },
+    {
+      "text": "whether flexi-steel post elastically bendable through 90 degrees about a transverse axis transverse to its longitudinal axis so as to infringe patents in suit",
+      "id": "c4"
+    },
+    {
+      "text": "whether patents in suit entitled to priority date of provisional specification",
+      "id": "c5"
+    },
+    {
+      "text": "whether steel flex post a manner of manufacture so as to be a patentable invention",
+      "id": "c6"
+    },
+    {
+      "text": "whether steel flex post novel in light of prior art",
+      "id": "c7"
+    },
+    {
+      "text": "whether steel flex post varies from prior art in ways that make a substantial contribution to the working of the invention so as to involve an innovative step",
+      "id": "c8"
+    },
+    {
+      "text": "requirements for innovative step",
+      "id": "c9"
+    },
+    {
+      "text": "whether claims of patents in suit clear and succinct",
+      "id": "c10"
+    },
+    {
+      "text": "whether certain claims of patents in suit fairly based on matters set out in specifications in suit",
+      "id": "c11"
+    },
+    {
+      "text": "whether claims have utility",
+      "id": "c12"
+    },
+    {
+      "text": "patents",
+      "id": "c13"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "1 This case concerns alleged infringement of, and alleged invalidity of, three innovation patents, a new breed of patent that was introduced into the Patents Act 1990 (Cth) (the Act) effective from 24 May 2001 by the Patents Amendment (Innovation Patents) Act 2000 (Cth).",
+      "id": "s0"
+    },
+    {
+      "text": "It followed the Report of the Advisory Council on Intellectual Property (ACIP).",
+      "id": "s1"
+    },
+    {
+      "text": "The Explanatory Memorandum stated the objectives of the amendment as follows:\n The purpose of the proposed innovation patent system is to stimulate innovation in Australian [Small to Medium Enterprises].",
+      "id": "s2"
+    },
+    {
+      "text": "It would do this by providing Australian businesses with industrial property rights for their lower level inventions.",
+      "id": "s3"
+    },
+    {
+      "text": "Industrial property rights are not available for these inventions at present, which means competitors may be able to copy them.",
+      "id": "s4"
+    },
+    {
+      "text": "For this reason, a firm making lower level inventions cannot be certain of capturing the benefits that come from their commercial exploitation.",
+      "id": "s5"
+    },
+    {
+      "text": "This lowers the incentive to innovate.",
+      "id": "s6"
+    },
+    {
+      "text": "2 The term of an innovation patent is eight years rather than 20 years as is the case with a standard patent (s 68).",
+      "id": "s7"
+    },
+    {
+      "text": "Claims are limited to five (s 40(2)(c)).",
+      "id": "s8"
+    },
+    {
+      "text": "3 If a complete application for an innovation patent is made, and if it passes what is described as a formalities check, the Commissioner must accept the patent request and complete specification (s 52).",
+      "id": "s9"
+    },
+    {
+      "text": "There is a special regime for examination, re-examination and opposition to innovation patents set out in Ch 9A of the Act.",
+      "id": "s10"
+    },
+    {
+      "text": "The grounds for revocation by the Commissioner on examination are set out in s 101B and, in the case of re-examination, s 101G.",
+      "id": "s11"
+    },
+    {
+      "text": "The grounds of opposition are set out in s 101M.",
+      "id": "s12"
+    },
+    {
+      "text": "Revocation of innovation patents, otherwise than in the course of examination, re-examination and opposition, is dealt with by s 138 in the same manner as revocation of a standard patent, the grounds being set out in s 138(3).",
+      "id": "s13"
+    },
+    {
+      "text": "\"Patentable invention\" is differently defined for the purposes of a standard patent and for the purposes of an innovation patent in s 18 of the Act --- the principal difference lies in the fact that, for the former, an inventive step is required and, for the latter, an innovative step.",
+      "id": "s14"
+    },
+    {
+      "text": "There is apparently no overseas equivalent of innovation patents and the researches of counsel have not turned up any relevant decisions dealing with revocation of innovation patents.",
+      "id": "s15"
+    },
+    {
+      "text": "4 On 23 June 2003, Australian Provisional Patent Application No 2003903188 was filed by the applicant Delnorth Pty Ltd (Delnorth).",
+      "id": "s16"
+    },
+    {
+      "text": "The field of the invention was described as \"roadside posts for supporting signage or delineating paths, roadways or boundaries\".",
+      "id": "s17"
+    },
+    {
+      "text": "On 10 June 2004, Australian Standard Patent Application No 2004249786 was filed.",
+      "id": "s18"
+    },
+    {
+      "text": "The field of the invention was described in the same manner.",
+      "id": "s19"
+    },
+    {
+      "text": "It contained 32 claims.",
+      "id": "s20"
+    },
+    {
+      "text": "5 On 25 November 2005, Application for Innovation Patent No 2005100978 (Patent No 1) was filed and was certified on 2 February 2006.",
+      "id": "s21"
+    },
+    {
+      "text": "On 24 February 2006, this proceeding was commenced by Delnorth against the respondent Dura-Post (Australia) Pty Ltd (Dura-Post) for infringement of Patent No 1 based upon the manufacture and sale of roadside posts under the name Flexi-Steel post.",
+      "id": "s22"
+    },
+    {
+      "text": "6 On 18 April 2006, Application for Innovation Patent No 2006100297 (Patent No 2) was filed and it was certified on 6 July 2006.",
+      "id": "s23"
+    },
+    {
+      "text": "The cross-claim and particulars of invalidity were filed by Dura-Post on 5 May 2006.",
+      "id": "s24"
+    },
+    {
+      "text": "7 On 15 August 2006, Application for Innovation Patent No 2006100696 (Patent No 3) was filed and certified on 5 October 2006.",
+      "id": "s25"
+    },
+    {
+      "text": "By 15 August 2006 Delnorth had manufactured and sold what was known as an \"Ezy-Drive Steel Flex\" post.",
+      "id": "s26"
+    },
+    {
+      "text": "The pleadings were amended to allege infringement of Patent No 2 and Patent No 3.",
+      "id": "s27"
+    },
+    {
+      "text": "Dura-Post denies infringement and claims that Patents No 1, 2 and 3 are each invalid.",
+      "id": "s28"
+    },
+    {
+      "text": "Each of Patents No 1, 2 and 3 was a divisional of the standard application No 2004249786.",
+      "id": "s29"
+    },
+    {
+      "text": "8 The parties have co-operated in preparing a schedule of issues, including the evidence relating to those issues.",
+      "id": "s30"
+    },
+    {
+      "text": "The submissions have been focused upon those issues.",
+      "id": "s31"
+    },
+    {
+      "text": "That relieves me of burdening this judgment with a good deal of recitation of background.",
+      "id": "s32"
+    },
+    {
+      "text": "A knowledge of each of the patent applications and patents to which I have referred will be assumed, together with knowledge of the particulars of invalidity and of the prior publications and prior use that are cited.",
+      "id": "s33"
+    },
+    {
+      "text": "I will assume familiarity with the Act.",
+      "id": "s34"
+    },
+    {
+      "text": "In addition, the parties have usefully identified some 25 integers in the claims of Patents Nos 1, 2 and 3 and a table has been prepared identifying integers with claims.",
+      "id": "s35"
+    },
+    {
+      "text": "I will work on that basis.",
+      "id": "s36"
+    },
+    {
+      "text": "INFRINGEMENT \n \n9 A Flexi-Steel post manufactured and sold by Dura-Post, which is alleged to have infringed the patents in suit, is in evidence.",
+      "id": "s37"
+    },
+    {
+      "text": "The issue of infringement largely turns upon construction of the relevant claims.",
+      "id": "s38"
+    },
+    {
+      "text": "Both parties sought to lead evidence from experts about construction and infringement.",
+      "id": "s39"
+    },
+    {
+      "text": "The scope for that evidence in the case of a relatively uncomplicated object, such as a roadside post having a conventional use well within the range of judicial notice, is limited, as I made clear in rulings during the course of the evidence.",
+      "id": "s40"
+    },
+    {
+      "text": "10 The first issue on Infringement (issue 6) is: does the body of the Flexi-Steel post have a transverse axis transverse to its longitudinal axis?",
+      "id": "s41"
+    },
+    {
+      "text": "That reflects issue 2 in relation to Construction: what is the proper construction of the phrase \"transverse axis transverse to the said longitudinal axis\" as used in the claims?",
+      "id": "s42"
+    },
+    {
+      "text": "[integer 4].",
+      "id": "s43"
+    },
+    {
+      "text": "In the context of this specification it is apparent that \"transverse\" effectively means 'at right angles to the longitudinal axis' --- if the longitudinal axis is vertical, the transverse axis is horizontal.",
+      "id": "s44"
+    },
+    {
+      "text": "The primary meaning of \"axis\" is that about which something turns --- in the present case, about which something bends.",
+      "id": "s45"
+    },
+    {
+      "text": "It is identified in figure 1 of the drawings as a straight line across the length of the post at a particular place but, if used, as it is, in relation to bending, could be theoretically at any point along the longitudinal length of the post.",
+      "id": "s46"
+    },
+    {
+      "text": "11 It seems to me that the real question here arises in issue 7: is the body of the Flexi-Steel post \"elastically bendable through 90deg.",
+      "id": "s47"
+    },
+    {
+      "text": "from an unbent state about said transverse axis\"?",
+      "id": "s48"
+    },
+    {
+      "text": "[integers 8, 16] involving:\n \n(i) Is a Flexi-Steel post \"elastically bendable\"?",
+      "id": "s49"
+    },
+    {
+      "text": "(ii) If so, has Delnorth established it is \"elastically bendable\" through 90deg.",
+      "id": "s50"
+    },
+    {
+      "text": "from an unbent state about said transverse axis?",
+      "id": "s51"
+    },
+    {
+      "text": "(issue 4 under Construction)\n \n12 This argument, as it developed, was somewhat curious.",
+      "id": "s52"
+    },
+    {
+      "text": "Delnorth submitted that the phrase \"elastically bendable through 90deg.",
+      "id": "s53"
+    },
+    {
+      "text": "\" in this context means that the body of the post be capable of being bent through an angle of 90deg.",
+      "id": "s54"
+    },
+    {
+      "text": "about a transverse axis (that is, any axis extending across the body of the post, at right angles to the longitudinal axis of the body) and then fully recovering so that it returns to its original shape without any observable plastic deformation of a permanent kind such as folding, creasing or warping.",
+      "id": "s55"
+    },
+    {
+      "text": "The Chambers Dictionary of Science and Technology included a definition of \"elastic deformation\" as \"[a]ny change in shape in response to an applied force in which the initial shape is recoverable with no sensible time delay when the applied force is removed\" (applicant's submissions on infringement, 51 and following).",
+      "id": "s56"
+    },
+    {
+      "text": "On the applicant's case, this was proved by Mr Dowling having taken the Flexi-Steel post and manually manipulated it from each end so that one end was at 90deg.",
+      "id": "s57"
+    },
+    {
+      "text": "to the other and then releasing the force so that it returned to its original position and condition.",
+      "id": "s58"
+    },
+    {
+      "text": "13 Dura-Post contended that the manual manipulation by Mr Dowling did not establish the necessary integer.",
+      "id": "s59"
+    },
+    {
+      "text": "Taken in context, it required a post that was capable of being elastically bendable through 90deg.",
+      "id": "s60"
+    },
+    {
+      "text": "after a wheel over impact depressing it to an angle of 90deg.",
+      "id": "s61"
+    },
+    {
+      "text": "from the vertical base of the post embedded in the ground around an axis located at that point (as indicated in the drawings (figure 3)) and then returning to its original position in a reasonable time.",
+      "id": "s62"
+    },
+    {
+      "text": "It is submitted that Delnorth had simply not proved infringement of an essential integer of each of the claims of each of the patents.",
+      "id": "s63"
+    },
+    {
+      "text": "It is submitted that there were well-known testing protocols which were available to establish the necessary facts, including bench testing.",
+      "id": "s64"
+    },
+    {
+      "text": "It was submitted that it could be safely concluded that, if there were a 90deg.",
+      "id": "s65"
+    },
+    {
+      "text": "wheel over of a post such as that described by a vehicle with no recess in the ground, plastic deformation of some kind would be the result, even if the post did return to its normal position.",
+      "id": "s66"
+    },
+    {
+      "text": "On the other hand, Dura-Post submits that there is no requirement that there be no visible permanent deformation at all such as folding, creasing or warping.",
+      "id": "s67"
+    },
+    {
+      "text": "14 In my opinion, the claims describe the article by reference to its physical features and characteristics as such, not by reference to any particular situation or location.",
+      "id": "s68"
+    },
+    {
+      "text": "In other words, the material must have the capacity to be elastically bendable in the manner described.",
+      "id": "s69"
+    },
+    {
+      "text": "The phrase is not a means of limiting the claim by result, rather it deals with the choice of material --- spring steel with the described characteristic of elastic bendability.",
+      "id": "s70"
+    },
+    {
+      "text": "The choice of that material is, of course, explained by the desire to have a post that will recover after suffering impact from vehicles, including wheel-overs.",
+      "id": "s71"
+    },
+    {
+      "text": "The objective as stated is to \"substantially overcome or at least ameliorate one or more of the disadvantages of the prior art\" not to have a perfect result.",
+      "id": "s72"
+    },
+    {
+      "text": "The alternative construction is, in essence, circular.",
+      "id": "s73"
+    },
+    {
+      "text": "There would be no infringement unless the article worked perfectly under stringent conditions even if designed to be effective.",
+      "id": "s74"
+    },
+    {
+      "text": "15 The necessary degree of flexibility was established by the manipulation by Mr Dowling.",
+      "id": "s75"
+    },
+    {
+      "text": "In any event, Dura-Post concedes that the Flexi-Post will be effective in returning to its original position within a reasonable time, although it is not said that there would be no observable permanent deformation of some kind after one or more complete wheel-overs.",
+      "id": "s76"
+    },
+    {
+      "text": "Thus, the answers to each of the questions of item 6 and item 7 are in the affirmative and infringement is established.",
+      "id": "s77"
+    },
+    {
+      "text": "VALIDITY \n Priority date \n \n16 Issue 8: Is the applicant entitled to a priority date for Patent No 3 earlier than 15 August 2006?",
+      "id": "s78"
+    },
+    {
+      "text": "Are claims incorporating integer 25 (surface coating) fairly based on the matter disclosed in the provisional specification?",
+      "id": "s79"
+    },
+    {
+      "text": "17 The provisional specification included the following:\n The post 10 is powder-coated to Australian standards to prevent corrosion.",
+      "id": "s80"
+    },
+    {
+      "text": "18 The relevant portion of claim 1 of Patent No 3 was:\n ... [a] surface coating, applied to said body front and rear faces, providing an exposed front face and an exposed rear face of said roadside post, respectively.",
+      "id": "s81"
+    },
+    {
+      "text": "19 It is accepted by Delnorth that \"surface coating\" is clearly wider than \"powder coating\".",
+      "id": "s82"
+    },
+    {
+      "text": "20 The principles involved in \"fair basing\" between the claim in the question and a provisional specification were outlined by the Full Court in CCOM Pty Ltd v Jiejing Pty Ltd [1994] FCA 1168 ; (1994) 51 FCR 260 during discussion of the authorities, particularly at 279-282.",
+      "id": "s83"
+    },
+    {
+      "text": "The related question arising under s 40(3) of the Act was discussed by the High Court in Lockwood Security Products Pty Ltd v Doric Products Pty Ltd [2004] HCA 58 ; (2004) 217 CLR 274.",
+      "id": "s84"
+    },
+    {
+      "text": "The paraphrase which is used is that there must be a \"real and reasonably clear disclosure\" of the subject matter of the claim in the provisional specification.",
+      "id": "s85"
+    },
+    {
+      "text": "That test is quite different from that involved in judging anticipation.",
+      "id": "s86"
+    },
+    {
+      "text": "The general approach is well described by Buckley LJ in Re Stauffer Chemical Company's Application [1977] RPC 33 at 54 where he said:\n If a new feature were a development along the same line of thought which constitutes or underlies the invention described in the earlier document, it might be that that development could properly be regarded as fairly based on the matter disclosed in the earlier document, and that the new process described in the later document which incorporates that development could as a whole be regarded as fairly based upon the matter disclosed in the earlier document.",
+      "id": "s87"
+    },
+    {
+      "text": "If, on the other hand, the additional feature involves a new inventive step or brings something new into the combination which represents a departure from the idea of the invention described in the earlier document, it could not, I think, be properly described as fairly based upon the earlier document.",
+      "id": "s88"
+    },
+    {
+      "text": "21 In Coopers Animal Health Australia Ltd v Western Stock Distributors Pty Ltd (1987) 15 FCR 382 the statement by Buckley LJ was approved and Fox J added:\n Where the holder of the provisional specification proceeds with a complete specification with a view to the grant of a patent, it is recognised that greater definition, as a result of further experimentation or otherwise, may be achieved before the later step is taken and the result expressed therein.",
+      "id": "s89"
+    },
+    {
+      "text": "Some generality of expression in the provisional specification is accepted.",
+      "id": "s90"
+    },
+    {
+      "text": "Each of these statements was cited with approval by the Court in CCOM Pty Ltd 51 FCR at 281.",
+      "id": "s91"
+    },
+    {
+      "text": "22 The idea of coating the steel surfaces was expressly flagged in the provisional specification.",
+      "id": "s92"
+    },
+    {
+      "text": "In my view that is a sufficient disclosure to permit fair basing of a claim to surface coating of the same surfaces, albeit not as limited in type of coating.",
+      "id": "s93"
+    },
+    {
+      "text": "It is the kind of development that Fox J had in mind.",
+      "id": "s94"
+    },
+    {
+      "text": "There is no suggestion in the complete specification of Patent No 3 that the coating has any purpose going beyond the prevention of corrosion.",
+      "id": "s95"
+    },
+    {
+      "text": "Patent No 3 therefore has the earlier priority date.",
+      "id": "s96"
+    },
+    {
+      "text": "Manner of manufacture \n \n23 Issue 9: Is the claimed roadside post a manner of manufacture?",
+      "id": "s97"
+    },
+    {
+      "text": "It is submitted for Dura-Post that the patents fail the threshold test described in s 18(1A)(a) of the Act that there be a \"patentable invention\".",
+      "id": "s98"
+    },
+    {
+      "text": "It is submitted that the \"invention\" is, when analysed, the use of sheet spring steel as a material for the construction of roadside posts.",
+      "id": "s99"
+    },
+    {
+      "text": "It is clear from the body of the specification that sheet spring steel was an existing known material.",
+      "id": "s100"
+    },
+    {
+      "text": "It is submitted that the specifications did not claim any inventiveness in the features necessary for the assembling of roadside posts once the material was chosen.",
+      "id": "s101"
+    },
+    {
+      "text": "There was no assertion of inventiveness in the selection of integers to make various combinations in the form of the particular claims as drafted in Patents Nos 1, 2 and 3.",
+      "id": "s102"
+    },
+    {
+      "text": "It is submitted that the following passages from the decision of the High Court in Commissioner of Patents v Microcell Ltd [1959] HCA 71 ; (1959) 102 CLR 232 respectively govern the situation:\n \n(102 CLR at 248): \n If stainless steel and its properties were known, and many kinds of articles had been made of it, it would not be possible for a man to claim a monopoly for making kitchen sinks of stainless steel merely because he was the first man who thought of doing this.",
+      "id": "s103"
+    },
+    {
+      "text": "(102 CLR at 249):\n ... it is not an inventive idea for which a monopoly can be claimed to take a substance which is known and used for the making of various articles, and make out of it an article for which its known properties make it suitable, although it has not in face been used to make that article before.",
+      "id": "s104"
+    },
+    {
+      "text": "24 It is submitted that the specification effectively contained admissions to the effect that the spring steel roadside post of the claim is no more than an analogous use of a known material for the purpose of making flexible roadside posts with known features.",
+      "id": "s105"
+    },
+    {
+      "text": "There was therefore a lack of inventive step admitted on the face of specification ( NV Philips Gloeilampenfabrieken v Mirabella International Pty Ltd [1995] HCA 15 ; (1995) 183 CLR 655).",
+      "id": "s106"
+    },
+    {
+      "text": "25 There would be much to be said for the argument if the invention were a claim for making a roadside post out of sheet spring steel.",
+      "id": "s107"
+    },
+    {
+      "text": "However, the matter must be judged claim by claim in accordance with the wording of s 18(1A).",
+      "id": "s108"
+    },
+    {
+      "text": "No claim is as broad as that considered in Microcell [1959] HCA 71 ; 102 CLR 232.",
+      "id": "s109"
+    },
+    {
+      "text": "Each involves a form of article with features additional to the material of spring sheet steel.",
+      "id": "s110"
+    },
+    {
+      "text": "It cannot be concluded that there is no \"new\" manner of manufacture from the face of the specification.",
+      "id": "s111"
+    },
+    {
+      "text": "This ground of invalidity fails.",
+      "id": "s112"
+    },
+    {
+      "text": "Lack of novelty \n \n26 Issue 10: Is the claimed roadside post novel in the light of US6375385 (Kennedy)?",
+      "id": "s113"
+    },
+    {
+      "text": "This applies to claims 1---3 of the Patents Nos 2 and 3 only.",
+      "id": "s114"
+    },
+    {
+      "text": "27 It arises from s 138(3), from s 18(1A)(b)(i) and s 7(1).",
+      "id": "s115"
+    },
+    {
+      "text": "The critical point about the Kennedy patent can be sufficiently gleamed from the summary of the invention in the complete specification:\n The present invention comprises a flexible support which may be used as a traffic delineator, or for supporting a larger sign or other object as desired.",
+      "id": "s116"
+    },
+    {
+      "text": "The present support is formed by mechanically securing a plurality of elongate curved metal slats or leaves together to form a laminated structure, with the curvature being about the longitudinal axis of the structure.",
+      "id": "s117"
+    },
+    {
+      "text": "The assembly is installed preferably with the concave side of the curvature facing the normal direction of traffic.",
+      "id": "s118"
+    },
+    {
+      "text": "When the device is struck by a vehicle, the multiple laminations of thin metal leaves permit the support to flex to absorb the impact, while the curvature and resistance of the spring metal slats cause the support to resume its normal upright position after the impact force is removed.",
+      "id": "s119"
+    },
+    {
+      "text": "(Emphasis added.",
+      "id": "s120"
+    },
+    {
+      "text": ") \n28 The significance of the multiple laminations is underlined by the manner in which the prior art is distinguished in the specification.",
+      "id": "s121"
+    },
+    {
+      "text": "It is seen as a point of difference from a number of them, eg US Patent No 4092081; US Patent No 4245922; US Patent No 4958954; US Patent No 5028166 and US Patent No 5267523.",
+      "id": "s122"
+    },
+    {
+      "text": "The distinction with US Patent No 4486117 (Blau) is said to be as follows:\n The single leaf of the Blau device is considerably more flexible than the plural laminations of the present column or support, and cannot provide the combination of rigidity for supporting a relatively large sign, and flexibility for precluding damage when struck, as provided by the present invention.",
+      "id": "s123"
+    },
+    {
+      "text": "Moreover, the single lamination of the Blau device provides no means for adjusting the friction, and thus the resilience, between the adjacent members, as provided by the present invention.",
+      "id": "s124"
+    },
+    {
+      "text": "29 I do not accept Dura-Post's contention that Kennedy discloses a guidepost in the form of a single layer of sheet spring steel.",
+      "id": "s125"
+    },
+    {
+      "text": "It was suggested that the following words in describing the preferred embodiment lead to that result:\n The number of laminations may be adjusted as desired, with fewer elements being used for such purposes as traffic delineators where greater flexibility and no support of another object are required, with a larger number of elements being used with a stiffer support is required for supporting one or more larger traffic signs or the like, or other objects.",
+      "id": "s126"
+    },
+    {
+      "text": "That passage follows the initial statement that the flexible support \"is basically formed by a plurality of identical individual thin, wide, elongate, flexible spring steel elements 12, congruently laminated together.",
+      "id": "s127"
+    },
+    {
+      "text": "\" \n \n30 The fact that Delnorth's expert agreed in the course of cross-examination that the sentence relied upon was capable of the construction that the laminations could be reduced to a single lamination, does not affect my conclusion.",
+      "id": "s128"
+    },
+    {
+      "text": "The witness made it clear that that conclusion from a single sentence would be inconsistent with numerous other parts of the document.",
+      "id": "s129"
+    },
+    {
+      "text": "In my view, as a matter of ordinary English, the sentence does not mean what Dura-Post suggests, whether or not Mr Dowling agreed.",
+      "id": "s130"
+    },
+    {
+      "text": "In my opinion, it is quite clear that what is disclosed is a flexible support with a plurality of thin sheets of material laminated together and, further, that the multiple laminations played a role in utility going beyond mere dimensions.",
+      "id": "s131"
+    },
+    {
+      "text": "31 The real question here is that thrown up by issue 1 under construction: what is the proper construction of the phrase \"a roadside post comprising an elongate body formed sheet spring steel\" as used in the claims [integers 1, 2].",
+      "id": "s132"
+    },
+    {
+      "text": "It is submitted on behalf of Dura-Post that this integer is not limited to a single sheet of spring steel (as compared with claim 1 of Patent No 3) and will include roadside posts made of multiple layers of sheet spring steel.",
+      "id": "s133"
+    },
+    {
+      "text": "32 I do not agree with that construction.",
+      "id": "s134"
+    },
+    {
+      "text": "In my opinion a body \"formed of sheet spring steel\" indicates a homogeneous body rather than one with multiple layers or laminations.",
+      "id": "s135"
+    },
+    {
+      "text": "That view is confirmed by the contents of the complete specifications.",
+      "id": "s136"
+    },
+    {
+      "text": "For example, the summary of the invention says \" The sheet spring steel has a thickness of 0.9 mm to 1.5 mm\" (emphasis added).",
+      "id": "s137"
+    },
+    {
+      "text": "The description of the preferred embodiments includes (in dealing with figure 2(a)), \"The sheet spring steel from which the body 30 is formed has a thickness of 1.2 mm. ... Other variations of the body will generally have ... sheet thickness of 0.9 to 1.5 mm.\" In dealing with figure 2(b) it is said \"The transverse width and sheet thickness are the same as the embodiment of Fig 2a\".",
+      "id": "s138"
+    },
+    {
+      "text": "Figures 8---10, showing the plurality of longitudinally extending ribs is inconsistent with their being any layers or laminations of the body itself.",
+      "id": "s139"
+    },
+    {
+      "text": "None of the drawings indicate any plurality of sheets or laminations.",
+      "id": "s140"
+    },
+    {
+      "text": "There is no reference to any such feature, expressly or impliedly, in any of the descriptions or drawings.",
+      "id": "s141"
+    },
+    {
+      "text": "33 In short, in my opinion, no version of the Kennedy patent, if manufactured would contravene any claim of the patents in suit because it is not formed of sheet spring steel in the required sense.",
+      "id": "s142"
+    },
+    {
+      "text": "There is no anticipation.",
+      "id": "s143"
+    },
+    {
+      "text": "34 Issue 11: Is the claimed roadside post novel in the light of US Patent No 4486117 (Blau)?",
+      "id": "s144"
+    },
+    {
+      "text": "This applies to claims 1 and 2 of Patents Nos 2 and 3 only.",
+      "id": "s145"
+    },
+    {
+      "text": "The Blau patent was mentioned and distinguished as prior art in Kennedy.",
+      "id": "s146"
+    },
+    {
+      "text": "The abstract of the invention is as follows:\n A flexible traffic standard which includes an anchor support assembly consisting of a hollow cylindrical tube and a driving point, and a resilient standard assembly comprising a tempered spring steel strap, the bottom end of which is disposed within a rigid tube, and a resilient tubular cover which encloses the strap and tube.",
+      "id": "s147"
+    },
+    {
+      "text": "The resilient standard assembly is disposed within the hollow cylindrical tube of the anchor support assembly and is secured by means of a pair of compression bolts.",
+      "id": "s148"
+    },
+    {
+      "text": "A rain boot prevents water from running down into the tube and a rain cap prevents the entry of water through the top of the flexible standard.",
+      "id": "s149"
+    },
+    {
+      "text": "The tempered spring steel strap which forms the resilient core of the device is reversely folded at its midpoint, to form a pair of upwardly extending resilient arms which are laterally outwardly offset by means of a twist in the spring steel at the midpoint reverse point.",
+      "id": "s150"
+    },
+    {
+      "text": "Straps are utilized as spacers to maintain the spring steel strap arms in properly spaced apart position with respect to one another so that the resilient tubular cover is snugly fitted about the arms.",
+      "id": "s151"
+    },
+    {
+      "text": "35 Consideration of the figures, particularly figure 2, reveals how far apart Blau is from these patents.",
+      "id": "s152"
+    },
+    {
+      "text": "Figure 2 depicts the general arrangement with the tempered spring steel strap being number 13, the rigid cube number 14 and the resilient tubular cover which encloses the strap and tube being number 15.",
+      "id": "s153"
+    },
+    {
+      "text": "That assembly is disposed within the hollow cylindrical tube at 11 and secured by means of a pair of compression bolts 16.",
+      "id": "s154"
+    },
+    {
+      "text": "36 In my opinion, apart from the use of tempered spring steel, there is no disclosure of any of the claims of any of the patents in suit in Blau.",
+      "id": "s155"
+    },
+    {
+      "text": "37 Issue 12: Is the claimed roadside post novel in the light of the use (etc) of the applicant's Steel-Flex post commencing in late 2003?",
+      "id": "s156"
+    },
+    {
+      "text": "The answer to this question is in the negative, because of the decision made about the priority date.",
+      "id": "s157"
+    },
+    {
+      "text": "38 Issue 12A: Is the claimed roadside post novel in the light of US Patent No 3312156 (Pellowski)?",
+      "id": "s158"
+    },
+    {
+      "text": "This applies to claims 1---3 of the Patents Nos 2 and 3 only.",
+      "id": "s159"
+    },
+    {
+      "text": "39 In my opinion, the highway marking device which is disclosed by Pellowski is a device which is attached to, or on, or in the surface of the roadway whereas all claims of the patents in suit relate to a post in the ground adjacent to the roadway.",
+      "id": "s160"
+    },
+    {
+      "text": "The general purpose is for \"signalling the location of traffic lanes, highway center lines, and the like\".",
+      "id": "s161"
+    },
+    {
+      "text": "An object is \"to provide ready flexibility upon impact from vehicles travelling along the roadway\" (emphasis added).",
+      "id": "s162"
+    },
+    {
+      "text": "Another object includes an element \"adapted for positioning along the center line and shoulders of a roadway to clearly and impressively outline or delineate traffic lines along the highway\".",
+      "id": "s163"
+    },
+    {
+      "text": "Another object includes the provision of an elongated strip element embedded within a recess in a roadway --- for anchoring the strip elements at spaced locations along the roadway.",
+      "id": "s164"
+    },
+    {
+      "text": "40 At first sight the reference to \"shoulders of the roadway\" may indicate to the contrary, particularly as the same description is used in the patents in suit for the location of the roadside post.",
+      "id": "s165"
+    },
+    {
+      "text": "So far as the former is concerned, figure 4 and the commentary upon it show the marking devices said to be on the shoulders as within the bounds of the roadway and claim 1 is quite explicit in claiming a means for securing and supporting \"one end of the strip in the roadway\" (emphasis added).",
+      "id": "s166"
+    },
+    {
+      "text": "41 By contrast, the patents in suit use \"shoulder\" in the sense of one of the meanings in The Macquarie Dictionary (3 rd edn, The Macquarie Library Pty Ltd, 1998), namely, \"either of two strips of land bordering a road, especially that part on which the vehicles can be parked in an emergency\".",
+      "id": "s167"
+    },
+    {
+      "text": "The description \"roadside\" posts taken with the examples given is itself sufficient to indicate the posts are not designed for use on the roadway.",
+      "id": "s168"
+    },
+    {
+      "text": "42 Applying the reverse infringement test, no disclosure in the Pellowski patent would infringe the claims of the patents in suit because there is no roadside post disclosed.",
+      "id": "s169"
+    },
+    {
+      "text": "Innovative step \n \n43 Issue 13: What is the proper construction of s 7(4) of the Act?",
+      "id": "s170"
+    },
+    {
+      "text": "Section 7(4), (5) and (6) are as follows:\n Innovative step \n \n (4) For the purposes of this Act, an invention is to be taken to involve an innovative step when compared with the prior art base unless the invention would, to a person skilled in the relevant art, in the light of the common general knowledge as it existed in the patent area before the priority date of the relevant claim, only vary from the kinds of information set out in subsection (5) in ways that make no substantial contribution to the working of the invention.",
+      "id": "s171"
+    },
+    {
+      "text": "(5) For the purposes of subsection (4), the information is of the following kinds: \n \n \n \n \n (a) prior art information made publicly available in a single document or through doing a single act;\n (b) prior art information made publicly available in 2 or more related documents, or through doing 2 or more related acts, if the relationship between the documents or acts is such that a person skilled in the relevant art would treat them as a single source of that information.",
+      "id": "s172"
+    },
+    {
+      "text": "(6) For the purposes of subsection (4), each kind of information set out in subsection (5) must be considered separately.",
+      "id": "s173"
+    },
+    {
+      "text": "44 \"Prior art base\" is defined in Sch 1 to mean (so far as is relevant):\n \n \n (a) in relation to deciding whether an invention does or does not involve an inventive step or an innovative step: \n \n \n \n \n (i) information in a document that is publicly available, whether in or out of the patent area; and\n (ii) information made publicly available through doing an act, whether in or out of the patent area.",
+      "id": "s174"
+    },
+    {
+      "text": "\"Prior art information\" is defined in Sch 1 to mean (so far as is relevant):\n \n \n (c) for the purposes of subsection 7(5)--information that is part of the prior art base in relation to deciding whether an invention does or does not involve an innovative step.",
+      "id": "s175"
+    },
+    {
+      "text": "45 This issue lies at the heart of the difference between an innovation patent and a standard patent.",
+      "id": "s176"
+    },
+    {
+      "text": "So far as the latter is concerned, s 7(2) and s 7(3) are as follows: \n Inventive step \n \n (2) For the purposes of this Act, an invention is to be taken to involve an inventive step when compared with the prior art base unless the invention would have been obvious to a person skilled in the relevant art in the light of the common general knowledge as it existed in the patent area before the priority date of the relevant claim, whether that knowledge is considered separately or together with the information mentioned in subsection (3).",
+      "id": "s177"
+    },
+    {
+      "text": "(3) The information for the purposes of subsection (2) is:\n (a) any single piece of prior art information; or\n (b) a combination of any 2 or more pieces of prior art information;\n being information that the skilled person mentioned in subsection (2) could, before the priority date of the relevant claim, be reasonably expected to have ascertained, understood, regarded as relevant and, in the case of information mentioned in paragraph (b), combined as mentioned in that paragraph.",
+      "id": "s178"
+    },
+    {
+      "text": "46 Section 18(1A) commences with the words:\n ... an invention is a patentable invention for the purposes of an innovation patent if the invention, so far as claimed in any claim: \n \n ...\n (b) when compared with the prior art base as it existed before the priority date of that claim: \n ...\n (ii) involves an innovative step;\n \n \n\nThat is the same in structure as s 18(1) dealing with standard patents and an inventive step.",
+      "id": "s179"
+    },
+    {
+      "text": "47 It is submitted for Dura-Post that there is a difference between the invention, on the one hand, and the innovative step, on the other, based upon the language of s 18(1A) and s 7(4) as the invention has to \"involve\" an innovative step.",
+      "id": "s180"
+    },
+    {
+      "text": "Reference was made to what was said by the Full Court in Fresenius Medical Care Australia Pty Ltd v Gambro Pty Ltd [2005] FCAFC 220 , (2005) 224 ALR 168 , (2005) 67 IPR 230 at [159] in the context of inventive step: \n The inventive step is not necessarily coextensive with the invention as claimed.",
+      "id": "s181"
+    },
+    {
+      "text": "The requirement is that the invention, so far as claimed in the claims, involved an inventive step.",
+      "id": "s182"
+    },
+    {
+      "text": "It was not an error to examine the inventive step by reference to the specification and the purposes or object of the invention, a system capable of providing continuous on-line production.",
+      "id": "s183"
+    },
+    {
+      "text": "The primary judge accepted that the inventive idea as claimed by Gambro lay in part in the conception of the improvement in existing machines to implement on-line production of liquid bicarbonate concentrate solution.",
+      "id": "s184"
+    },
+    {
+      "text": "(Original emphasis.",
+      "id": "s185"
+    },
+    {
+      "text": ") \nIt is submitted that the language of s 7(2) and s 7(4) cannot be relevantly distinguished.",
+      "id": "s186"
+    },
+    {
+      "text": "48 It is then submitted that it is necessary to ascertain what the inventive step or advance in the art is, which must be involved in the invention as claimed.",
+      "id": "s187"
+    },
+    {
+      "text": "It is submitted that, when read in the light of common general knowledge, persons skilled in the art would find the advance in the art being the use of sheet spring steel in making roadside posts that possessed the feature of being elastically bendable through 90deg.",
+      "id": "s188"
+    },
+    {
+      "text": "from an unbent state about the transverse axis.",
+      "id": "s189"
+    },
+    {
+      "text": "This is represented in the combination of features 1---8 which represent the broadest claim of the patents as claim 1 of Patent No 2 and which is common to all of the claims and in each of the patents.",
+      "id": "s190"
+    },
+    {
+      "text": "It was submitted that that approach was endorsed by the High Court in Lockwood Security Products Pty Ltd [2004] HCA 58 ; 217 CLR 274 at [36] , [60]---[65].",
+      "id": "s191"
+    },
+    {
+      "text": "49 It was then submitted that all combinations containing additional integers beyond integers 1---8 served only to narrow the scope of monopoly claimed but, in the light of the common general knowledge, did not alter the nature of the advance against which the prior art in s 7(5) must be tested.",
+      "id": "s192"
+    },
+    {
+      "text": "Put another way, the \"working of the invention\", is that of the broadest form of the invention consistently with what was said by Dixon CJ in Griffin v Isaacs (1938) 12 ALJR 169 , (1938) 1B IPR 619 at 624.",
+      "id": "s193"
+    },
+    {
+      "text": "It was submitted that none of the narrowing integers differed from what was already known in a way that is not merely superficial or peripheral to the invention.",
+      "id": "s194"
+    },
+    {
+      "text": "50 I do not agree that s 7(4) should be construed in that way.",
+      "id": "s195"
+    },
+    {
+      "text": "It is fundamentally inconsistent with approaching the issue claim by claim as required by the language of the sections and as well entrenched in relation to judgment of inventive merit ( Lockwood Security Products Pty Ltd v Doric Products Pty Ltd (No 2) [2007] HCA 21 ; (2007) 235 ALR 202 , (2007) 81 ALJR 1070 , (2007) 72 IPR 447 , at [148]---[149]; Kimberly-Clark Australia Pty Ltd v Arico Trading International Pty Ltd [2001] HCA 8 ; (2001) 207 CLR 1 at [18] ---[21]).",
+      "id": "s196"
+    },
+    {
+      "text": "51 The inventive step may not be coterminous with the invention as claimed in each claim in the sense that the inventive step is the difference between the invention as claimed and that which it is being compared with.",
+      "id": "s197"
+    },
+    {
+      "text": "On the other hand, the word \"involve\" does not necessarily mean that the two are not coterminous.",
+      "id": "s198"
+    },
+    {
+      "text": "After all, the root of involve is \"involvere\" --- to roll in or on, enwrap, involve ( The Macquarie Dictionary (3 rd edn, The Macquarie Library Pty Ltd, 1998).",
+      "id": "s199"
+    },
+    {
+      "text": "52 There is no need to search for some particular advance in the art to be described as an innovative step which governs the consideration of each claim.",
+      "id": "s200"
+    },
+    {
+      "text": "The first step is to compare the invention as claimed in each claim with the prior art base and determine the difference or differences.",
+      "id": "s201"
+    },
+    {
+      "text": "The next step is to look at those differences through the eyes of a person skilled in the relevant art in the light of common general knowledge as it existed in Australia before the priority date of the relevant claim and ask whether the invention as claimed only varies from the kinds of information set out in s 7(5) in ways that make no substantial contribution to the working of the invention.",
+      "id": "s202"
+    },
+    {
+      "text": "It may be that there is a feature of each claim which differs from the prior art base and that could be described as the main difference in each case but that need not be so.",
+      "id": "s203"
+    },
+    {
+      "text": "Section 7(4), in effect, deems a difference between the invention as claimed and the prior art base as an innovative step unless the conclusion which is set out can be reached.",
+      "id": "s204"
+    },
+    {
+      "text": "If there is no difference between the claimed invention and the prior art base then, of course, the claimed invention is not novel.",
+      "id": "s205"
+    },
+    {
+      "text": "53 The phrase \"no substantial contribution to the working of the invention\" involves quite a different kind of judgment from that involved in determining whether there is an inventive step.",
+      "id": "s206"
+    },
+    {
+      "text": "Obviousness does not come into the issue.",
+      "id": "s207"
+    },
+    {
+      "text": "The idea behind it seems to be that a claim which avoids a finding of no novelty because of an integer which makes no substantial contribution to the working of the claimed invention should not receive protection but that, where the point of differentiation does contribute to the working of the invention, then it is entitled to protection, whether or not (even if), it is obvious.",
+      "id": "s208"
+    },
+    {
+      "text": "Indeed, the proper consideration of s 7(4) is liable to be impeded by traditional thinking about obviousness.",
+      "id": "s209"
+    },
+    {
+      "text": "54 There is a question as to the proper construction of \"substantial\" in this context.",
+      "id": "s210"
+    },
+    {
+      "text": "In some situations it may mean \"great\" or \"weighty\"; elsewhere it may mean \"more than insubstantial\" or \"of substance\" (for example, there is debate in the fields of both trade practices and copyright).",
+      "id": "s211"
+    },
+    {
+      "text": "55 The provenance of the language is summarised in Dura-Post's submissions.",
+      "id": "s212"
+    },
+    {
+      "text": "The Report of the Advisory Council on Intellectual Property (ACIP) recommended that: \n The inventive level for innovation patents should be lower than for standard patents.",
+      "id": "s213"
+    },
+    {
+      "text": "The test for this inventive level should be a modified form of the expanded novelty test set out in Griffin v Isaacs.",
+      "id": "s214"
+    },
+    {
+      "text": "The test would be worded something along the lines of: an innovation patent should not be granted if the innovation is not novel; if an innovation varies from a previously publicly available article, product or process, only in ways which make no substantial contribution to the effect of the product or working of the article or process, then it cannot be considered to be novel.",
+      "id": "s215"
+    },
+    {
+      "text": "56 In its formal response to the ACIP report [Government response to the Recommendations of the Advisory Council on Industrial Property \"review of the Petty Patent system\"] the government nominally accepted this proposal and agreed \"in principle\" that the test be a modified form of the novelty test set out in Griffin v Isaacs (1938) 1B IPR 619 , although there were ultimately significant differences between the wording of s 7(4) and that proposed by ACIP.",
+      "id": "s216"
+    },
+    {
+      "text": "In Griffin, a novelty case, the High Court there found that whilst an item of prior art did not possess all of the integers of the claims of the patent in suit, still the invention was not novel [the so-called \"doctrine\" in Griffin v Isaacs was the subject of detailed consideration by Waddell J in Windsurfing International inc v Petit [1984] 2 NSWLR 545 at 564 and in the decisions of the Full Court of the Federal Court in RD Werner &amp; Co Inc v Bailey Aluminium Products Pty Ltd (1988) 25 FCR 565 and Nicaro Holdings Pty Ltd v Martin Engineering Co (1990) 16 IPR 545 at 564].",
+      "id": "s217"
+    },
+    {
+      "text": "Dixon CJ said (at 624):\n \n \n Where variations from a device previously published consist in matters which make no substantial contribution to the working of the thing or involve no ingenuity or inventive step and the merit if any of the two things, considered as inventions, is the same, it is, I think, impossible to treat the differences as giving novelty ... \n \n \n\n57 The reference to what was said in Griffin 12 ALJR 169 , 1B IPR 619 is somewhat confusing.",
+      "id": "s218"
+    },
+    {
+      "text": "That was an appeal to the High Court from a decision of the Commissioner of Patents in opposition proceedings refusing to accept the applicant's application for the grant of letters patent on the ground of lack of novelty.",
+      "id": "s219"
+    },
+    {
+      "text": "The application could not be refused on the ground of lack of subject matter or obviousness as the law then stood.",
+      "id": "s220"
+    },
+    {
+      "text": "The purported invention related to improvements in the means for supporting trousers and skirts by a method which included the use of a band made from elastic and non-elastic material fitted in conjunction with the waist band.",
+      "id": "s221"
+    },
+    {
+      "text": "The opponent had made public a trouser top which was claimed to be similar to the applicant's trouser top.",
+      "id": "s222"
+    },
+    {
+      "text": "There were differences between the opponent's trouser top and the trouser top claimed in the patent application.",
+      "id": "s223"
+    },
+    {
+      "text": "The High Court dismissed the appeal.",
+      "id": "s224"
+    },
+    {
+      "text": "Latham CJ referred to there not being established \"any substantial difference between the two waist bands\" ( Griffin 12 ALJR 169 , 1B IPR 619 at 621).",
+      "id": "s225"
+    },
+    {
+      "text": "Starke J said ( Griffin 12 ALJR 169 , 1B IPR 619 at 622):\n Nothing is disclosed that is not already known to or well within the range of knowledge of competent workmen in the trade of manufacturing trousers.",
+      "id": "s226"
+    },
+    {
+      "text": "The passage from Dixon J has been set out above.",
+      "id": "s227"
+    },
+    {
+      "text": "McTiernan J said:\n Although the applicant's counsel made the best possible use of all formal differences between the opponents construction and the alleged invention, I do not think the latter is a manner of manufacture which is substantially different.",
+      "id": "s228"
+    },
+    {
+      "text": "58 That decision has been discussed at some length in later cases in this Court, starting with Dennison Manufacturing Co v Monarch Marking Systems Inc (1983) 66 ALR 265 per Fox J at 274 and Franki J at 284; then in RD Werner &amp; Co Inc v Bailey Aluminium Products Pty Ltd (1989) 25 FCR 565 per Lockhart J at 580---581 and 583, and Gummow J (with whom Jenkinson J agreed) at 589---591 and 601---602; and then in Nicaro Holdings Pty Ltd v Martin Engineering Co (1990) 91 ALR 513 per Lockhart J (indirectly) at 517 and Gummow J (indirectly) at 527---528 in dealing with novelty and workshop improvements.",
+      "id": "s229"
+    },
+    {
+      "text": "59 These discussions indicate that a wider view of lack of novelty was taken in the High Court prior to the Patents Act 1952 (Cth) than could properly be taken thereafter, at least in relation to appeals from the Commissioner.",
+      "id": "s230"
+    },
+    {
+      "text": "Be that as it may, the feature of what Dixon J said was the disjunctive nature of the concepts --- one was \"make no substantial contribution to the working of the thing\"; the other was \"involve no ingenuity or inventive step\".",
+      "id": "s231"
+    },
+    {
+      "text": "The first alternative has been taken by Parliament virtually verbatim from the judgment.",
+      "id": "s232"
+    },
+    {
+      "text": "The focus is upon working of the invention (as claimed) not to the degree or kind of variation from the kinds of information set out in s 7(5).",
+      "id": "s233"
+    },
+    {
+      "text": "In other words, the variation from the kinds of information might be slight but, if a substantial contribution is made to the working of the invention, then there is an innovative step.",
+      "id": "s234"
+    },
+    {
+      "text": "60 There may also be difficulties in particular cases of applying the phrase \"the working of the invention\" but it is not necessary to discuss that in the abstract.",
+      "id": "s235"
+    },
+    {
+      "text": "61 In my view the provenance of the phrase \"make no substantial contribution to the working of the invention\" indicates that \"substantial\" in this context means \"real\" or \"of substance\" as contrasted with distinctions without a real difference.",
+      "id": "s236"
+    },
+    {
+      "text": "That confirms my impression from construction of the words of the section itself.",
+      "id": "s237"
+    },
+    {
+      "text": "62 Issue 14: What is the content of common general knowledge?",
+      "id": "s238"
+    },
+    {
+      "text": "In this case it is not necessary to endeavour to summarise the whole of relevant common general knowledge in Australia at the priority date.",
+      "id": "s239"
+    },
+    {
+      "text": "It is best to have regard to that question where necessary, in dealing with the particular issues.",
+      "id": "s240"
+    },
+    {
+      "text": "I can find, however, that use of sheet spring steel was not known for use in connection with roadside posts or analogous uses and that none of the cited patents was part of common general knowledge in Australia at the time.",
+      "id": "s241"
+    },
+    {
+      "text": "The description of the start of the art in the specifications of the patents in suit gives a good summary of the position.",
+      "id": "s242"
+    },
+    {
+      "text": "That included the use of PVC material.",
+      "id": "s243"
+    },
+    {
+      "text": "63 Issue 15: Does the claimed roadside post involve an innovative step over the use (etc) of the SupaFlex plastic guide post?",
+      "id": "s244"
+    },
+    {
+      "text": "In my opinion, the answer to that question must be \"yes\".",
+      "id": "s245"
+    },
+    {
+      "text": "Each of the claims involves construction by sheet spring steel.",
+      "id": "s246"
+    },
+    {
+      "text": "The SupaFlex post is plastic.",
+      "id": "s247"
+    },
+    {
+      "text": "The materials are quite different, although, no doubt, they each have the same objective.",
+      "id": "s248"
+    },
+    {
+      "text": "As I have endeavoured to explain, the question is not whether flexible sheet steel is better than flexible PVC --- it is certainly different.",
+      "id": "s249"
+    },
+    {
+      "text": "It cannot be seriously argued that the material sheet spring steel does not make a substantial contribution to the working of the roadside post claimed in each claim.",
+      "id": "s250"
+    },
+    {
+      "text": "64 Issue 16: Does the claimed roadside post involve an innovative step over the SupaFlex brochure?",
+      "id": "s251"
+    },
+    {
+      "text": "The answer to this question must again be \"yes\" for the reasons set out in relation to issue 15.",
+      "id": "s252"
+    },
+    {
+      "text": "65 Issue 17: Does the claimed roadside post involve an innovative step over information made publicly available in relation to a prototype steel post developed by Mr Dennison and Mr P Turner in Tasmania?",
+      "id": "s253"
+    },
+    {
+      "text": "Has Dura-Post established what information was made publicly available by the doing of an act for this purpose?",
+      "id": "s254"
+    },
+    {
+      "text": "66 The evidence given by Messrs Denison, P Turner and M Turner in their affidavits concerning the disclosures was not seriously challenged.",
+      "id": "s255"
+    },
+    {
+      "text": "The substance of that evidence is as follows:\n \n67 Mr Denison was self-employed in farming and building activities but had an interest in engineering and developing devices for which he foresaw a possible use.",
+      "id": "s256"
+    },
+    {
+      "text": "He gave the following evidence:\n I am and have been for many years a friend of Mr Peter Turner, who in 1999 approximately I understood to be the proprietor of the business Dura-Post.",
+      "id": "s257"
+    },
+    {
+      "text": "In 1999 my residence in Flowery Gully, Tasmania was approximately ten minutes from the manufacturing premises of Dura-Post in Winkleigh, and from time to time I would visit Peter Turner and amongst other things I would discuss with Peter Turner Dura-Post's products and operations in relation to guide posts.",
+      "id": "s258"
+    },
+    {
+      "text": "To the best of my current recollection, in or about 1999, while discussing flexible roadside posts with Peter Turner at his premises in Winkleigh, I conceived the idea of constructing a post from flexible steel (\"my concept\").",
+      "id": "s259"
+    },
+    {
+      "text": "At that time, I was aware that Peter Turner had devised posts with flexible joints.",
+      "id": "s260"
+    },
+    {
+      "text": "I thought that if the post itself was made from steel with sufficient flexibility, a much simpler device could be produced which had no need for joints or moving parts, and which could be installed easily by being driven into the ground.",
+      "id": "s261"
+    },
+    {
+      "text": "I visualised a post which had the same curved profile as a venetian blind, and which had the same ability as a venetian blind to flex back to its initial position when bent.",
+      "id": "s262"
+    },
+    {
+      "text": "When forming my concept in 1999 I was aware of the availability of flexible steel material, which I generally referred to as \"spring steel\", with a 'memory' that allowed it to spring back to an original shape when bent.",
+      "id": "s263"
+    },
+    {
+      "text": "I was not aware at that time of any other person producing or developing a post constructed from flexible steel of any kind.",
+      "id": "s264"
+    },
+    {
+      "text": "After discussing the concept with Peter Turner, I searched for a suitable sample of flexible steel.",
+      "id": "s265"
+    },
+    {
+      "text": "The only steel that I found with the degree of flexibility that I considered necessary was a material referred to as \"crinoline strip\", which I purchased from Steel Mark in Launceston, which was approximately 0.8 to 1.2mm thick.",
+      "id": "s266"
+    },
+    {
+      "text": "I have conducted a search for the order form or receipt for this material but it appears that I have disposed of these documents.",
+      "id": "s267"
+    },
+    {
+      "text": "For approximately a week, Peter Turner and I worked with the material to form a guide post.",
+      "id": "s268"
+    },
+    {
+      "text": "We used a brake press to form the steel into a curved shape, which gave the post rigidity.",
+      "id": "s269"
+    },
+    {
+      "text": "We constructed a full sized post which was modelled on and had a width and curved profile which were similar to a PVC post produced by SVP Industries Pty Ltd which was supplied to Dura-Post for sale by Dura Post.",
+      "id": "s270"
+    },
+    {
+      "text": "Exhibited hereto and marked \"JSD1\" are true copies of drawings of the post which I have prepared from my recollection of its shape and dimensions.",
+      "id": "s271"
+    },
+    {
+      "text": "To the extent that it was developed by Peter Turner and I, the post functioned relatively well.",
+      "id": "s272"
+    },
+    {
+      "text": "We clamped the post and bent it in various directions at differing angles, including right angles, and observed that the post sprung back to its original position.",
+      "id": "s273"
+    },
+    {
+      "text": "The post did not spring back as quickly as I would have liked, and had we pursued the project I would have liked to trial the use of other flexible steels of different tempering and thickness to perfect the post's performance..",
+      "id": "s274"
+    },
+    {
+      "text": "However, I was content with the essential shape, dimensions and functioning of the post we developed.",
+      "id": "s275"
+    },
+    {
+      "text": "I perceived no urgency to proceed to the final stages of the development of the post, and as Peter Turner and I became involved with other matters we did not proceed any further with it.",
+      "id": "s276"
+    },
+    {
+      "text": "There were several Dura-Post employees who were working at Peter Turner's manufacturing premises while we were worked on the flexible steel post.",
+      "id": "s277"
+    },
+    {
+      "text": "There were also a number of people, who I understood to be customers and suppliers, who came and went from the premises while I was there.",
+      "id": "s278"
+    },
+    {
+      "text": "...",
+      "id": "s279"
+    },
+    {
+      "text": "I did not treat our activity in relation to the post as secret or confidential, ... \nExhibit JSD1 was as follows:\n \n \n \n68 Mr Peter Turner established a business known as Dura-Post in November 1996 and sold it in mid-2002 --- it was subsequently incorporated and is the respondent in the proceedings.",
+      "id": "s280"
+    },
+    {
+      "text": "His evidence was as follows:\n I have extensive experience in the design and manufacture of metal products.",
+      "id": "s281"
+    },
+    {
+      "text": "In 1984 I established a business known as Saxon, which employed approximately 50 people and specialised in the production of wood burning heaters.",
+      "id": "s282"
+    },
+    {
+      "text": "I was primarily involved in research and development for the various components of the heaters.",
+      "id": "s283"
+    },
+    {
+      "text": "In November 1996 I established a business which traded as 'Dura-Post' and manufactured and supplied roadside guide posts.",
+      "id": "s284"
+    },
+    {
+      "text": "I conducted its research, development and production activities.",
+      "id": "s285"
+    },
+    {
+      "text": "I developed a mild steel rigid roadside guide post and.",
+      "id": "s286"
+    },
+    {
+      "text": "a plastic guide post with a flexible joint.",
+      "id": "s287"
+    },
+    {
+      "text": "Dura-Post was also involved in the supply of flexible PVC posts which it purchased from SVP Industries Pty Ltd.",
+      "id": "s288"
+    },
+    {
+      "text": "Although I do not recall the exact dates, in or about 1999 or 2000 and well before I sold the Dura-Post business in 2002, I worked on the development of a roadside guide post constricted of a flexible steel.",
+      "id": "s289"
+    },
+    {
+      "text": "I engaged in this activity after the concept was suggested to me by Mr John Denison, a farmer and friend of mine living in the same area as I.",
+      "id": "s290"
+    },
+    {
+      "text": "Mr Denison told me that he had looked at the shape and behaviour of a venetian blind slat and thought that a roadside post could be constructed from a \"spring\" steel formed to a similar curved shape, which would have the ability to return to its original form when bent.",
+      "id": "s291"
+    },
+    {
+      "text": "At that time, there was no roadside post on the market which was formed from a \"spring steel\", and I was not aware of any competitor in the industry that was researching or using that material.",
+      "id": "s292"
+    },
+    {
+      "text": "After my discussion with Mr Denison, Mr Denison and I sourced a thin flexible steel from a specialty steel supplier and began experimenting with the material to make a roadside guide post.",
+      "id": "s293"
+    },
+    {
+      "text": "I cannot recall which supplier we used, but it was likely to have been a business located in Tasmania.",
+      "id": "s294"
+    },
+    {
+      "text": "I cut the steel with a guillotine and shaped it with a brake press to create a prototype post which emulated the curved or 'cap' shape of a venetian blind slat.",
+      "id": "s295"
+    },
+    {
+      "text": "I modelled the post on the dimensions of existing posts of the time and experimented with dimensions for the post to achieve what I considered to be a suitable combination of rigidity and flexibility.",
+      "id": "s296"
+    },
+    {
+      "text": "The project reached a stage where the essential shape and structure of the body of the post had been formed.",
+      "id": "s297"
+    },
+    {
+      "text": "The development of the post was very simple and I do not remember preparing any drawings or specifications in relation to it.",
+      "id": "s298"
+    },
+    {
+      "text": "I did not complete the post by adding further ... design features, such as a depth marker, barb, removal hole, bracket slot or powder coating.",
+      "id": "s299"
+    },
+    {
+      "text": "...",
+      "id": "s300"
+    },
+    {
+      "text": "I remember testing the flexibility of the post by bending it in the workshop, and possibly also by driving it into the ground to test its performance in use.",
+      "id": "s301"
+    },
+    {
+      "text": "From what I can recall, the post sprang back to its original position when bent.",
+      "id": "s302"
+    },
+    {
+      "text": "If I had proceeded with the project, it is likely that I would have experimented with other samples of steel to optimise the performance of the post.",
+      "id": "s303"
+    },
+    {
+      "text": "I did not consider my development to be confidential or secret.",
+      "id": "s304"
+    },
+    {
+      "text": "I worked on the prototype over a period of time at Dura-Post's manufacturing warehouse constructed on my farm.",
+      "id": "s305"
+    },
+    {
+      "text": "in Winkleigh, Tasmania, ...",
+      "id": "s306"
+    },
+    {
+      "text": "I received numerous visitors at the warehouse ...",
+      "id": "s307"
+    },
+    {
+      "text": "I considered the development of a flexible steel post to be a side project which.",
+      "id": "s308"
+    },
+    {
+      "text": "I worked on from time to time.",
+      "id": "s309"
+    },
+    {
+      "text": "There was no commercial need or urgency for me to proceed further with the prototype given that Dura-Post was experiencing success in the sale of its mild steel and plastic posts, having approximately 250 customers throughout Australia at one point.",
+      "id": "s310"
+    },
+    {
+      "text": "I also had concerns regarding the safety risk that would be created by a spring steel post, given the potential for the thin steel to injure motorcyclists or other persons if it were to be hit from the side.",
+      "id": "s311"
+    },
+    {
+      "text": "I do not know where the flexible steel prototype is now.",
+      "id": "s312"
+    },
+    {
+      "text": "I lost interest in the project and, given that there were many items in my workshop, the post was eventually misplaced.",
+      "id": "s313"
+    },
+    {
+      "text": "69 Mr Michael Turner is the Managing Director of a group of companies which includes SVP Industries Pty Ltd, which is involved in the business of injection moulding and extrusion of plastic products and profiles, including roadside guide posts.",
+      "id": "s314"
+    },
+    {
+      "text": "Those products include the SupaFlex guide post.",
+      "id": "s315"
+    },
+    {
+      "text": "It manufactures other posts including flexible posts manufactured to customers' specifications.",
+      "id": "s316"
+    },
+    {
+      "text": "His evidence was as follows:\n I first learnt of a proposed use of flexible steel in relation to roadside guide posts in or about 1998 or 1999 during a visit to Peter Turner (the then owner of Dura-Post), to the workshop on his farm near Winkleigh and Flowery Gully in the West Tamar municipality of Tasmania.",
+      "id": "s317"
+    },
+    {
+      "text": "I remember that the visit occurred two to three years before Dura-Post relocated its operations to St Leonards.",
+      "id": "s318"
+    },
+    {
+      "text": "I was visiting Mr Turner's premises to discuss the injection moulding of a proposed cap to fit the Dura-Post steel post (being the post shown in the annexure marked \"MRT10\") and whilst there, discussion arose regarding the design of a cap to potentially fit a new form of roadside guide post made of flexible steel that Mr Turner told me he was in the process of developing.",
+      "id": "s319"
+    },
+    {
+      "text": "Mr Turner showed to me and I handled the flexible steel material which Mr Turner was working with.",
+      "id": "s320"
+    },
+    {
+      "text": "During that meeting, Mr Turner said to me words to the effect: \"I'm designing a post made of spring steel.",
+      "id": "s321"
+    },
+    {
+      "text": "Can you make up an injection moulded plastic cap to fit it to overcome the problem of sharp edges?",
+      "id": "s322"
+    },
+    {
+      "text": "\" I recall, although I no longer have any documents concerning it, that SVP's engineering department subsequently provided an indicative quote for the cap, but so far as I recall this injection moulding project did not proceed and until recently as referred to in paragraphs 67 and 68 below, I did not see a flexible steel roadside post being used in practice.",
+      "id": "s323"
+    },
+    {
+      "text": "70 If the article described by the witnesses had been exhibited at a public exhibition, I would be satisfied that there was no significant difference between that and integers 1 to 8 with the exception that it would not properly be described as a roadside post as development was not complete.",
+      "id": "s324"
+    },
+    {
+      "text": "However, given the generality of claim 1 in Patents Nos 2 and 3, making it into a roadside post would be a simple task.",
+      "id": "s325"
+    },
+    {
+      "text": "It is arguable that it also had a substantially arcuate transverse cross-section.",
+      "id": "s326"
+    },
+    {
+      "text": "I do not accept that there is any satisfactory evidence that there was a marker hole.",
+      "id": "s327"
+    },
+    {
+      "text": "The substantially arcuate transverse cross-section clearly makes a substantial contribution to the working of the invention in the claims.",
+      "id": "s328"
+    },
+    {
+      "text": "I accept the view of Mr Dowling that the marker hole makes a real contribution which is of substance to the working of the invention, as the embedding of the post in the ground is a significant aspect of the operation of a roadside post and the marker hole undoubtedly assists in that regard.",
+      "id": "s329"
+    },
+    {
+      "text": "71 The second aspect of this matter is --- whether, and, if so, what, information was made publicly available by the doing of an act.",
+      "id": "s330"
+    },
+    {
+      "text": "The \"act\" pleaded was \"the development and design of a post formed of spring steel by Mr Peter Turner ... which act was made publicly available when disclosed at least to Mr Michael Turner in approximately 1999\".",
+      "id": "s331"
+    },
+    {
+      "text": "The somewhat awkward statutory phrase is \"information made publicly available ... through doing [an] act\".",
+      "id": "s332"
+    },
+    {
+      "text": "Construed liberally, this could encompass giving the prototype to Mr Michael Turner.",
+      "id": "s333"
+    },
+    {
+      "text": "72 This topic was discussed by the Full Court recently in Insta Image Pty Ltd v KD Kanopy Australasia Pty Ltd [2008] FCAFC 139 , the principle being discussed at [121]---[125].",
+      "id": "s334"
+    },
+    {
+      "text": "Reference was made to the earlier discussion of the topic by the Full Court in Jupiters Ltd v Neurizon Pty Ltd [2005] FCAFC 90 , (2005) 222 ALR 155 , (2005) 65 IPR 86 and Merck &amp; Co Inc v Arrow Pharmaceuticals Ltd [2006] FCAFC 91 ; (2006) 154 FCR 31 , particularly at [98]---[103].",
+      "id": "s335"
+    },
+    {
+      "text": "73 The present case is not like Jupiters [2005] FCAFC 90 , 222 ALR 155 , 65 IPR 86 , where the system was operating in what amounted to a public place and could be observed.",
+      "id": "s336"
+    },
+    {
+      "text": "In my view, the evidence does not enable any such finding to be made here.",
+      "id": "s337"
+    },
+    {
+      "text": "Even if it was left around the factory, nobody was invited to look at it and nobody would have had any occasion to take any notice of it.",
+      "id": "s338"
+    },
+    {
+      "text": "In any event, the matter was not pleaded in that way.",
+      "id": "s339"
+    },
+    {
+      "text": "Rather, the case turns on the principle that, if a product is made available to a member of the public without restraint at law or in equity as to the use of that product that is regarded as public disclosure.",
+      "id": "s340"
+    },
+    {
+      "text": "That principle has been applied for a very long time when various formulations of the statutory test have applied.",
+      "id": "s341"
+    },
+    {
+      "text": "In the present context, that would be the equivalent of making the information publicly available by an act.",
+      "id": "s342"
+    },
+    {
+      "text": "It is well-recognised that a duty of confidence in the recipient would negate the public nature of the act.",
+      "id": "s343"
+    },
+    {
+      "text": "74 Insta Image [2008] FCAFC 139 illustrates both branches.",
+      "id": "s344"
+    },
+    {
+      "text": "It was held that there was public disclosure at motocross and jet-ski races open to the public where the article was present.",
+      "id": "s345"
+    },
+    {
+      "text": "On the other hand, the inventor went to a metal fabricator to have parts welded and that fabricator and his employee were involved and observed the articles.",
+      "id": "s346"
+    },
+    {
+      "text": "The trial judge had held that the circumstances strongly suggested that the information contained was confidential and could not be imparted by the fabricator to others or used by himself.",
+      "id": "s347"
+    },
+    {
+      "text": "The Full Court said the following ( Insta Image [2008] FCAFC 139 at [153] ---[156]):\n The primary Judge recorded that Mr McKinnon showed the Original to Mr Forster and Mr Soward for the purposes of their assisting in the design and manufacture of the structure (at [65]).",
+      "id": "s348"
+    },
+    {
+      "text": "Mr Soward was the \"owner\" of Tom Soward Steel Fabrication Pty Ltd which was to undertake the manufacture of the brackets.",
+      "id": "s349"
+    },
+    {
+      "text": "Mr Forster was an employee.",
+      "id": "s350"
+    },
+    {
+      "text": "The primary Judge concluded that the circumstances of the collaboration were such that it could not be inferred that they were at liberty to make use of the Original.",
+      "id": "s351"
+    },
+    {
+      "text": "The circumstances, she said, strongly suggested that the information available from an inspection of the Original was confidential and could not be imparted to others or utilised by Mr Soward or Mr Forster (at [72]).",
+      "id": "s352"
+    },
+    {
+      "text": "The appellants maintain that they did not rely on Mr Soward and Mr Forster seeing the structure in the course of design and manufacture as an instance of public use.",
+      "id": "s353"
+    },
+    {
+      "text": "They rely upon evidence not adverted to by the primary Judge concerning the showing of the Original to Mr Soward after his company had fabricated the brackets and Mr McKinnon had taken them away to assemble his canopy.",
+      "id": "s354"
+    },
+    {
+      "text": "This, the appellants submit, constituted an open disclosure, unaffected by any confidentiality, and a demonstration to Mr Soward of the way in which the canopy worked.",
+      "id": "s355"
+    },
+    {
+      "text": "We are not satisfied that the evidence establishes that the confidential relationship between Mr McKinnon and Mr Soward, as found by her Honour, did not still exist when Mr McKinnon showed Mr Soward the finished product.",
+      "id": "s356"
+    },
+    {
+      "text": "We are not satisfied that her Honour was in error in finding that the showing of the canopy to Mr Soward did not constitute a prior use for novelty purposes within the meaning of the Act, whether the demonstration was of the finished product before or after parts were manufactured by Mr Soward.",
+      "id": "s357"
+    },
+    {
+      "text": "Her Honour specifically concluded that the circumstances of the relationship with Mr McKinnon \"suggest strongly that the information ... was confidential and could not be imparted to others\" (at [72]).",
+      "id": "s358"
+    },
+    {
+      "text": "No error is shown in this conclusion or in her Honour's resolution of the issue of disclosure to Mr Soward and Mr Forster.",
+      "id": "s359"
+    },
+    {
+      "text": "75 To like effect is the judgment of Kiefel J in Richsell Pty Ltd v Khoury [1994] FCA 1538 ; (1994) 30 IPR 129 at 135---136 dealing with designs in a similar context.",
+      "id": "s360"
+    },
+    {
+      "text": "See also Lloyd-Jacob J in Re Gallay Ltd's Application [1959] RPC 141 , particularly at 144---145, in circumstances more complex than the present, but similar in substance.",
+      "id": "s361"
+    },
+    {
+      "text": "76 In my opinion, Mr Michael Turner was not given or shown the prototype in order that he could use it as he sought fit without restraint.",
+      "id": "s362"
+    },
+    {
+      "text": "In my opinion, he was under a duty not to use it or disclose it without the consent of Mr Peter Turner.",
+      "id": "s363"
+    },
+    {
+      "text": "It is also clear enough that there was a duty of confidence between Mr Turner and Mr Denison.",
+      "id": "s364"
+    },
+    {
+      "text": "Indeed, that case was not made.",
+      "id": "s365"
+    },
+    {
+      "text": "Thus, in my view, the information represented by the prototype was not made publicly available through doing an act as alleged.",
+      "id": "s366"
+    },
+    {
+      "text": "77 Issue 18: Does the claimed roadside post involve an innovative step over AU 526808 and 539998 (Schmanski)?",
+      "id": "s367"
+    },
+    {
+      "text": "That patent relates to \"an impact resistant elongate web structure consisting of fibre reinforced synthetic material\".",
+      "id": "s368"
+    },
+    {
+      "text": "That is a different material from sheet spring steel and, for the reasons referred to in relation to the SupaFlex post, there is an innovative step.",
+      "id": "s369"
+    },
+    {
+      "text": "78 Issue 19: Does the claimed roadside post involve an innovative step over US No 6375385 (Kennedy)?",
+      "id": "s370"
+    },
+    {
+      "text": "This patent specification has been discussed in relation to lack of novelty.",
+      "id": "s371"
+    },
+    {
+      "text": "The mechanical lamination of a number of flexible members together is different from a flexible support constructed or formed of a sheet of spring steel.",
+      "id": "s372"
+    },
+    {
+      "text": "As I have indicated earlier, the Kennedy specification draws a clear distinction between the multi-laminated post, on the one hand, and a single sheet, on the other, in dealing with the prior art --- a good example was what was said about the Blau patent.",
+      "id": "s373"
+    },
+    {
+      "text": "The different material contributes substantially to the manner in which that invention as claimed performs.",
+      "id": "s374"
+    },
+    {
+      "text": "As I have said earlier, it is not a question as to whether these claims are better than the disclosure by Kennedy, or whether it was obvious to move from Kennedy to this invention.",
+      "id": "s375"
+    },
+    {
+      "text": "Therefore, there is an innovative step over Kennedy.",
+      "id": "s376"
+    },
+    {
+      "text": "79 Issue 20: Does the claimed roadside post involve an innovative step over US No 4486117 (Blau)?",
+      "id": "s377"
+    },
+    {
+      "text": "This specification has also been dealt with in the context of lack of novelty.",
+      "id": "s378"
+    },
+    {
+      "text": "The structure of the post, the shape of the tempered spring steel trap, the way it is attached and enclosed bears no relationship with the structure of any of the posts claimed in the patents in suit.",
+      "id": "s379"
+    },
+    {
+      "text": "The geometry is quite different.",
+      "id": "s380"
+    },
+    {
+      "text": "It follows that there is an innovative step over Blau.",
+      "id": "s381"
+    },
+    {
+      "text": "80 Issue 20A: Does the claimed roadside post involve an innovative step over US No 3312156 (Pellowski)?",
+      "id": "s382"
+    },
+    {
+      "text": "Again, this specification has been considered in relation to lack of novelty.",
+      "id": "s383"
+    },
+    {
+      "text": "In my opinion, it is the only specification which requires close examination for the purposes of deciding whether there is an innovative step.",
+      "id": "s384"
+    },
+    {
+      "text": "81 Once the issue of roadside post is set aside, I can see no real difference between claim 1 of Patent No 2 (integers 1 to 8) and that which was disclosed by Pellowski.",
+      "id": "s385"
+    },
+    {
+      "text": "I do not accept that Pellowski was limited in its dimensions, particularly its height, in the way submitted for Delnorth.",
+      "id": "s386"
+    },
+    {
+      "text": "Scaling off from non-scaled drawings and deductions from statements of particular use would not be sufficient for that purpose.",
+      "id": "s387"
+    },
+    {
+      "text": "Whilst 90deg.",
+      "id": "s388"
+    },
+    {
+      "text": "is not specifically mentioned in Pellowski, the description of resilience and flexibility and the description of the use to which the material would be put are consistent with the material having that capacity.",
+      "id": "s389"
+    },
+    {
+      "text": "Indeed, it seems to me that what is described would also encompass claim 2 of Patent No 2 where the body is elastically bendable to either side of the longitudinal axis.",
+      "id": "s390"
+    },
+    {
+      "text": "Mr Dowling does not suggest to the contrary.",
+      "id": "s391"
+    },
+    {
+      "text": "Neither does he suggest that the body does not have a substantially arcuate transverse cross-section.",
+      "id": "s392"
+    },
+    {
+      "text": "82 I agree with the contentions of Delnorth, conveniently put through Mr Dowling, that the use of a marker hole, the use of a barb, the use of a taper, longitudinally extended in ribs and the particular dimensions of claim 3 of each of Patents Nos 1, 2 and 3 are not found in Pellowski and that each of them makes a substantial contribution to the working of the roadside posts.",
+      "id": "s393"
+    },
+    {
+      "text": "83 I would not regard a surface coating, applied to the body, front and rear faces, as making a substantial contribution to the working of the invention as claimed in claim 1 in Patent No 3.",
+      "id": "s394"
+    },
+    {
+      "text": "I do not suggest that it has no functional purpose, rather that the contribution is not significant enough.",
+      "id": "s395"
+    },
+    {
+      "text": "Clarity \n \n84 Issue 21: Are certain of the claims of the patents clear and succinct?",
+      "id": "s396"
+    },
+    {
+      "text": "This issue relates to the words \"faces transversely extending generally parallel to said transverse axis\" [integer 7].",
+      "id": "s397"
+    },
+    {
+      "text": "All of the transverse (cross) faces are parallel with --- ie, they follow the form of --- the transverse axis.",
+      "id": "s398"
+    },
+    {
+      "text": "It does not require the surface to be flat, although the surface would be consistent.",
+      "id": "s399"
+    },
+    {
+      "text": "In any event, the word \"generally\" would cater for any departure from the surface being flat if that were required.",
+      "id": "s400"
+    },
+    {
+      "text": "The issue concerns secondly the words \"substantially arcuate transverse cross-section\" [integer 9].",
+      "id": "s401"
+    },
+    {
+      "text": "Again, in my view, the description is clear enough --- it means curved around the longitudinal axis.",
+      "id": "s402"
+    },
+    {
+      "text": "I do not see the two concepts as inconsistent.",
+      "id": "s403"
+    },
+    {
+      "text": "Fair basis \n \n85 Issue 22: Are certain of the claims of the patents fairly based on the matter described in the specification?",
+      "id": "s404"
+    },
+    {
+      "text": "This contention relates to the alleged necessity of a recess which is not an integer of the relevant claims.",
+      "id": "s405"
+    },
+    {
+      "text": "It is contended for Dura-Post that there is a real and reasonably clear disclosure in the specification of a roadside post that will avoid the adverse consequences of creasing in the event of a wheel over.",
+      "id": "s406"
+    },
+    {
+      "text": "It is said that this will occur only where the post is used with a recess, but the roadside post claims contain no limitation that reflects the nature of the invention as disclosed and described in the body of the specification.",
+      "id": "s407"
+    },
+    {
+      "text": "It is submitted that the invention disclosed in the body of the specification is truly a use of a method of using a spring steel post in conjunction with a recess but that the claims are not so limited and are, therefore, not fairly based upon the specification.",
+      "id": "s408"
+    },
+    {
+      "text": "Reference was made to Pfizer Overseas Pharmaceuticals v Eli Lilly &amp; Co [2005] FCAFC 224 , (2005) 225 ALR 416 , (2005) 68 IPR 1 at [268] and following; Atlantis Corp Pty Ltd v Schindler (1997) 39 IPR 29 , discussed by the High Court in Lockwood Security Products Pty Ltd [2004] HCA 58 ; 217 CLR 274 at [87] .",
+      "id": "s409"
+    },
+    {
+      "text": "86 I do not agree that the authorities cited lead to the conclusion sought to be drawn.",
+      "id": "s410"
+    },
+    {
+      "text": "The specification does not suggest that the roadside posts described could only be used if there was a recess.",
+      "id": "s411"
+    },
+    {
+      "text": "Short of that there is no reason why there should not be separate claims for the articles.",
+      "id": "s412"
+    },
+    {
+      "text": "If there is a problem it is not lack of fair basis.",
+      "id": "s413"
+    },
+    {
+      "text": "Utility \n \n87 Issue 23: Is the claimed roadside post useful?",
+      "id": "s414"
+    },
+    {
+      "text": "This, again, turns upon the alleged necessity of a recess.",
+      "id": "s415"
+    },
+    {
+      "text": "The manner in which this point is pleaded is that the invention is not useful insofar as it claims a flexible post bendable through 90deg.",
+      "id": "s416"
+    },
+    {
+      "text": "because, in the absence of a recess in the ground immediately adjacent to the body of the roadside guidepost, a post of claim 1 will crease and thereby fail to meet the promise of the specification.",
+      "id": "s417"
+    },
+    {
+      "text": "This is linked back to the statement in the specification concerning direct wheel overs.",
+      "id": "s418"
+    },
+    {
+      "text": "The object of the invention was stated to be \"to substantially overcome or at least ameliorate one or more of the disadvantages of the prior art\".",
+      "id": "s419"
+    },
+    {
+      "text": "A creasing after a complete wheel over at a tight right angle was one of those disadvantages.",
+      "id": "s420"
+    },
+    {
+      "text": "A number of other disadvantages of the prior art are set out in the specification.",
+      "id": "s421"
+    },
+    {
+      "text": "For example, so far as steel posts are concerned, up to that time they were generally not resilient, plastically deforming upon impact, and had to be manually restraightened.",
+      "id": "s422"
+    },
+    {
+      "text": "Timber posts would fracture on impact.",
+      "id": "s423"
+    },
+    {
+      "text": "Plastic or plastic/rubber composite posts deteriorated due to UV exposure and repeated impacts over time.",
+      "id": "s424"
+    },
+    {
+      "text": "There were problems with hinging mechanisms.",
+      "id": "s425"
+    },
+    {
+      "text": "It cannot be concluded that the invention did not substantially overcome, or at least ameliorate, one or more of those disadvantages.",
+      "id": "s426"
+    },
+    {
+      "text": "There could be no serious claim that the roadside posts when claimed would not be well adapted as roadside posts with advantages over most, if not all, of the existing posts commonly available.",
+      "id": "s427"
+    },
+    {
+      "text": "How they might be fixed to the ground is a matter for the installer.",
+      "id": "s428"
+    },
+    {
+      "text": "In point of fact, both the specification and the claims point to a way of doing so using a recess which would lead to maximum utility.",
+      "id": "s429"
+    },
+    {
+      "text": "That is no reason to limit the claims for the articles themselves.",
+      "id": "s430"
+    },
+    {
+      "text": "CONCLUSION \n \n88 Claims 1 and 2 of Patent No 2 are invalid.",
+      "id": "s431"
+    },
+    {
+      "text": "Claims 1 and 2 of Patent No 3 are invalid.",
+      "id": "s432"
+    },
+    {
+      "text": "The dependent claims need consideration.",
+      "id": "s433"
+    },
+    {
+      "text": "Infringement is established.",
+      "id": "s434"
+    },
+    {
+      "text": "The proceeding will stand over to enable orders to be settled including costs.",
+      "id": "s435"
+    },
+    {
+      "text": "I certify that the preceding eighty-eight (88) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Gyles.",
+      "id": "s436"
+    },
+    {
+      "text": "Associate:\nDated: 13 August 2008\n\n Counsel for the Applicant/ Cross-Respondent: Mr R Cobden SC, Mr C Dimitriadis \n \n Counsel for the Applicant/ Cross-Respondent: Spruson &amp; Ferguson Lawyers \n \n Counsel for the Respondent/ Cross-Claimant: Mr SCG Burley SC, Ms P Arcus \n \n Solicitor for the Respondent/ Cross-Claimant: Norman Waterhouse Lawyers \n\n Date of Hearing: 10---13, 17---18 and 20 March; 14---15 April; 22 July 2008 \n \n Date of Judgment: 13 August 2008 \n\n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2008/1225.html",
+      "id": "s437"
+    }
+  ]
+}

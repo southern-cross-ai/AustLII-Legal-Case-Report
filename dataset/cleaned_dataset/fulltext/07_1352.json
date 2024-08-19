@@ -1,0 +1,1824 @@
+{
+  "name": "Roche Products Pty Limited v National Drugs and Poisons Schedule Committee [2007] FCA 1352 (30 August 2007)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2007/1352.html",
+  "catchphrases": [
+    {
+      "text": "application under administrative decisions (judicial review) act 1977 (cth)",
+      "id": "c0"
+    },
+    {
+      "text": "whether \"decision\" of administrative or legislative character",
+      "id": "c1"
+    },
+    {
+      "text": "relevant considerations",
+      "id": "c2"
+    },
+    {
+      "text": "no one consideration determinative",
+      "id": "c3"
+    },
+    {
+      "text": "held: exercise of power under s 52d(2) of therapeutic goods act 1989 (cth) is legislative in character",
+      "id": "c4"
+    },
+    {
+      "text": "therapeutic goods act 1989 (cth)",
+      "id": "c5"
+    },
+    {
+      "text": "statutory scheme for classification and scheduling of drugs",
+      "id": "c6"
+    },
+    {
+      "text": "application to review decision of national drugs &amp; poisons schedule committee",
+      "id": "c7"
+    },
+    {
+      "text": "alleged errors of law under ss 52c , 52d and 52e of act",
+      "id": "c8"
+    },
+    {
+      "text": "proper construction of s 52e",
+      "id": "c9"
+    },
+    {
+      "text": "whether impact of advertising of substance and pharmacists' experience a relevant consideration",
+      "id": "c10"
+    },
+    {
+      "text": "allegation of wednesbury unreasonableness and irrationality",
+      "id": "c11"
+    },
+    {
+      "text": "whether denial of natural justice",
+      "id": "c12"
+    },
+    {
+      "text": "whether exercise of power improper because exercised at behest of another",
+      "id": "c13"
+    },
+    {
+      "text": "held: application dismissed",
+      "id": "c14"
+    },
+    {
+      "text": "administrative law",
+      "id": "c15"
+    },
+    {
+      "text": "administrative law",
+      "id": "c16"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "INTRODUCTION \n \n1 Xenical, the brand name for orlistat in 120 mg capsule blister packs, is a medicine that has been registered in the Australian Register of Therapeutic Goods (\"the Register\") pursuant to Chapter 3 of the Therapeutic Goods Act 1989 (Cth) (\"the Act \") since 11 April 2000.",
+      "id": "s0"
+    },
+    {
+      "text": "The applicant (\"Roche\") is the sponsor of orlistat within the meaning of the Act .",
+      "id": "s1"
+    },
+    {
+      "text": "Relevantly a sponsor in relation to particular therapeutic goods is a person who imports the goods into Australia or manufactures, or arranges the manufacture, of the goods in Australia\n \n2 Orlistat is a treatment for excessive body weight.",
+      "id": "s2"
+    },
+    {
+      "text": "It is intended for persons with a body mass index (\"BMI\") greater than or equal to 30 (ie those who are obese) or persons with a BMI greater than or equal to 27 (ie those who are significantly overweight but not obese) in the presence of other risk factors such as diabetes and hypertension.",
+      "id": "s3"
+    },
+    {
+      "text": "Material before the Court suggests that orlistat may thus be an appropriate treatment option for approximately 2.7 million obese adults and approximately 1.6 million overweight adults in Australia.",
+      "id": "s4"
+    },
+    {
+      "text": "3 Since 1 May 2004 orlistat has been included in Schedule 3 of the Poisons Standard (see [12] below).",
+      "id": "s5"
+    },
+    {
+      "text": "Consequently, since that date it has been able to be supplied to a consumer by a healthcare professional such as a pharmacist without a prescription.",
+      "id": "s6"
+    },
+    {
+      "text": "In February 2006 the respondent, the National Drug and Poisons Schedule Committee (\"the Committee\") decided additionally to include orlistat in Appendix H of the Poisons Standard.",
+      "id": "s7"
+    },
+    {
+      "text": "The inclusion of a medicine in Appendix H has the consequence that the medicine can be advertised directly to consumers.",
+      "id": "s8"
+    },
+    {
+      "text": "4 The decision to include orlistat in Appendix H was confirmed by the Committee in June 2006 and took effect from 1 September 2006.",
+      "id": "s9"
+    },
+    {
+      "text": "On or about 12 October 2006, following its receipt of complaints concerning the advertising of Xenical, the Committee decided to reconsider orlistat's inclusion in Appendix H. On 22 February 2007, the Committee decided to remove orlistat from Appendix H. On 26 June 2007 the Committee confirmed that decision with effect from 1 October 2007.",
+      "id": "s10"
+    },
+    {
+      "text": "5 This proceeding was instituted on 8 June 2007 pursuant to the Administrative Decisions (Judicial Review) Act 1977 (Cth) (\"the ADJR Act \") and s 39B of the Judiciary Act 1903 (Cth) (\"the Judiciary Act ') to challenge the decision or conduct of the Committee of 12 October 2006 and the decision or conduct of the Committee of 22 February 2007.",
+      "id": "s11"
+    },
+    {
+      "text": "An amended application was filed by consent on 9 July 2007 to include a challenge to the confirmation decision made on 26 June 2007.",
+      "id": "s12"
+    },
+    {
+      "text": "6 For the reasons set out below I have concluded that the amended application should be dismissed with costs.",
+      "id": "s13"
+    },
+    {
+      "text": "THERAPEUTIC GOODS ACT 1989 ( CTH) \n \n7 The objects of the Act are to do the following, so far as the Constitution permits:\n \n \n (a) provide for the establishment and maintenance of a national system of controls relating to the quality, safety, efficacy and timely availability of therapeutic goods that are: \n \n \n \n \n (i) used in Australia, whether produced in Australia or elsewhere; or \n (ii) exported from Australia; \n \n \n \n \n (b) to provide a framework for the States and Territories to adopt a uniform approach to control the availability and accessibility, and ensure the safe handling, of poisons in Australia.",
+      "id": "s14"
+    },
+    {
+      "text": "8 The Act includes an express acknowledgement that it is not intended to apply to the exclusion of a law of a State, of the Australian Capital Territory or of the Northern Territory to the extent that the law is capable of operating concurrently with the Act (see s 4(2)).",
+      "id": "s15"
+    },
+    {
+      "text": "Each of these jurisdictions has enacted complementary legislation to regulate the availability of therapeutic goods and poisons (see: Poisons &amp; Therapeutic Goods Act 1966 (NSW) and Poisons and Therapeutic Goods Regulation 2002 (NSW); Drugs, Poisons and Controlled Substances Act 1981 (Vic); Health (Drugs and Poisons) Regulation 1996 (Qld); Controlled Substances Act 1984 (SA) and Controlled Substances (Poisons) Regulations 1996 (SA); Poisons Act 1971 (Tas) and Poisons Regulations 2002 (Tas); Poisons and Dangerous Drugs Act 1983 (NT); Poisons and Drugs Act 1978 (ACT) and Poisons Act 1964 (WA).",
+      "id": "s16"
+    },
+    {
+      "text": ")\n \n9 Chapter 2 of the Act provides for the maintenance of the Australian Register of Therapeutic Goods for the purpose of compiling information in relation to, and providing for evaluation of, therapeutic goods for use in humans (s 9A).",
+      "id": "s17"
+    },
+    {
+      "text": "Chapter 3 is concerned with medicines and other therapeutic goods that are not medical devices.",
+      "id": "s18"
+    },
+    {
+      "text": "This chapter provides for the determination of standards for such goods and for their registration and listing.",
+      "id": "s19"
+    },
+    {
+      "text": "It additionally controls their manufacture in Australia.",
+      "id": "s20"
+    },
+    {
+      "text": "Chapter 5 is concerned with, among other things, the advertising of therapeutic goods.",
+      "id": "s21"
+    },
+    {
+      "text": "Chapter 6 is concerned with the administration of the Act.",
+      "id": "s22"
+    },
+    {
+      "text": "Part 3 of Chapter 6 contains provisions concerning the Committee.",
+      "id": "s23"
+    },
+    {
+      "text": "NATIONAL DRUGS AND POISONS SCHEDULE COMMITTEE \n \n10 The Committee was established as a statutory body in 1999 when s 52B was inserted into the Act (see Therapeutic Goods Legislation Amendment Act 1999 (Cth)).",
+      "id": "s24"
+    },
+    {
+      "text": "The Commonwealth, each State, the Northern Territory and the Australian Capital Territory are each entitled to nominate a representative on the Committee (s 52B(3)).",
+      "id": "s25"
+    },
+    {
+      "text": "The explanatory memorandum in respect of the Therapeutic Goods Legislation Amendment Bill 1999 indicated that the assured representation of State and Territory Governments on the Committee was intended to encourage a uniform approach to the classification of substances throughout Australia for regulatory purposes.",
+      "id": "s26"
+    },
+    {
+      "text": "Subject to the assured representation of State and Territory Governments on the Committee, the Committee is to be constituted, and to hold meetings and make decisions, in accordance with the regulations (s 52B(2)).",
+      "id": "s27"
+    },
+    {
+      "text": "11 The functions of the Committee include the making of decisions in relation to the classification and scheduling of substances (s 52C(a)), the maintenance of the Poisons Standard (s 52C(c)), and the undertaking of public consultation with respect to matters relating to the classification and scheduling of substances that are of public interest or significance (s 52C(e)).",
+      "id": "s28"
+    },
+    {
+      "text": "Section 52A defines \"substance\" to mean any medicine or poison and \"scheduling\" in relation to a substance to mean determining the schedule or schedules in the Poisons Standard in which the name or a description of the substance is to be included.",
+      "id": "s29"
+    },
+    {
+      "text": "12 The Poisons Standard is a document the full title of which is the Standard for the Uniform Scheduling of Drugs and Poisons .",
+      "id": "s30"
+    },
+    {
+      "text": "This document was initially published by the Australian Health Ministers' Advisory Council (s 52A).",
+      "id": "s31"
+    },
+    {
+      "text": "Section 52D(2) gives the Committee power to amend the current Poisons Standard or to prepare a new document in substitution for it.",
+      "id": "s32"
+    },
+    {
+      "text": "Section 52D(4) requires the Committee to cause a notice to be published in the Gazette in respect of each amendment of the current Poisons Standard.",
+      "id": "s33"
+    },
+    {
+      "text": "The content of the Gazette notice is regulated by reg 42ZCY of the Therapeutic Goods Regulations 1990 (Cth) (\"the Regulations\") (see [20] below).",
+      "id": "s34"
+    },
+    {
+      "text": "13 It is appropriate to set out s 52E in full:\n \n \n (1) In exercising its powers under subsection 52D(2), the Committee must take the following matters into account (where relevant): \n \n \n \n \n (a) the toxicity and safety of a substance; \n (b) the risks and benefits associated with the use of a substance; \n (c) the potential hazards associated with the use of a substance; \n (d) the extent and patterns of use of a substance; \n (e) the dosage and formulation of a substance; \n (f) the need for access to a substance, taking into account its toxicity compared with other substances available for a similar purpose; \n (g) the potential for abuse of a substance; \n (h) the purposes for which a substance is to be used; \n (i) any other matters that the Committee considers necessary to protect public health, including the risks (whether imminent or long term) of death, illness or injury resulting from its use; \n \n \n \n \n and may take into account the labelling, packaging and presentation of a substance.",
+      "id": "s35"
+    },
+    {
+      "text": "(2) In taking into account the matters referred to in subsection (1), the Committee must comply with any guidelines of the Australian Health Ministers' Advisory Council or the subcommittee of the Council known as the National Co-ordinating Committee on Therapeutic Goods, notified to the Committee for the purposes of this section.",
+      "id": "s36"
+    },
+    {
+      "text": "14 Division 3A of Part 6 of the Regulations is concerned with the Committee.",
+      "id": "s37"
+    },
+    {
+      "text": "The membership of the Committee is governed by reg 42ZCD which provides:\n \n \n (1) The Committee comprises each jurisdictional member and other persons appointed by the Minister under this regulation.",
+      "id": "s38"
+    },
+    {
+      "text": "(2) The Minister may appoint as a member an expert or a representative.",
+      "id": "s39"
+    },
+    {
+      "text": "(3) Each of the following persons is an expert : \n \n \n (a) a medical practitioner expert in clinical pharmacology; \n (b) an expert in veterinary medicine or pathology; \n (c) an expert in toxicology; \n (d) an expert in occupational health.",
+      "id": "s40"
+    },
+    {
+      "text": "(4) Each of the following persons is a representative : \n \n \n (a) a person nominated by the Therapeutic Goods Administration; \n \n \n \n \n (b) a person nominated by the National Registration Authority for Agricultural and Veterinary Chemicals; \n (c) a person nominated by an agency of the New Zealand government responsible for the regulation of medicines for human use; \n (d) a person nominated by an agency of the New Zealand government responsible for the regulation of agricultural, veterinary and household chemicals; \n (e) a person whom the Minister is satisfied represents the pharmaceutical, chemical, agricultural and veterinary industries; \n (f) a person whom the Minister is satisfied represents practising pharmacists; \n \n \n \n \n (g) a person whom the Minister is satisfied represents consumers.",
+      "id": "s41"
+    },
+    {
+      "text": "(5) For each category mentioned in subregulation (4), 1 representative only may be appointed.",
+      "id": "s42"
+    },
+    {
+      "text": "15 Regulation 42ZCE provides that the following persons are jurisdictional members of the Committee:\n \n (a) each representative nominated under subsection 52B (3) of the Act; \n \n \n (b) each of the persons appointed as a representative under paragraph 42ZCD (4) (c) or (d).",
+      "id": "s43"
+    },
+    {
+      "text": "The persons appointed as representatives under regs 42ZCD(4)(c) and (d) will each have been nominated by an agency of the New Zealand Government.",
+      "id": "s44"
+    },
+    {
+      "text": "16 Subdivision 4 of Division 3A sets out the procedures that the Committee must follow in holding meetings.",
+      "id": "s45"
+    },
+    {
+      "text": "The Committee is required to act with as little formality and as quickly as the requirements of the regulations, and a proper consideration of the issues before the Committee, allow (reg 42ZCN(b)).",
+      "id": "s46"
+    },
+    {
+      "text": "It is not bound by the rules of evidence and may obtain information about an issue in any way it considers appropriate (reg 42ZCN(c) and (d)).",
+      "id": "s47"
+    },
+    {
+      "text": "17 Regulation 42ZCO(1) authorises the Chair of the Committee, by written notice to the committee, to \"direct the committee to hold meetings at the times and places, and to deal with matters in the manner, stated in the notice\" .",
+      "id": "s48"
+    },
+    {
+      "text": "18 Regulation 42ZCR governs how decisions of the Committee are to be reached.",
+      "id": "s49"
+    },
+    {
+      "text": "It relevantly provides:\n \n \n (1) A decision of the Committee is made by a majority of the members present and voting for the decision at a Committee meeting.",
+      "id": "s50"
+    },
+    {
+      "text": "(2) However, a decision has no effect unless the majority includes a majority of the jurisdictional members present and voting.",
+      "id": "s51"
+    },
+    {
+      "text": "The Committee is obliged to keep a record of its proceedings (reg 42ZCS(1)).",
+      "id": "s52"
+    },
+    {
+      "text": "19 Subdivision 5 of Division 3A is concerned with scheduling procedures.",
+      "id": "s53"
+    },
+    {
+      "text": "Before a Committee meeting for the scheduling of a substance the Chair of the Committee must publish notice of the meeting in the Gazette and invite public submissions to be made by a date mentioned in the notice (reg 42ZCU).",
+      "id": "s54"
+    },
+    {
+      "text": "The Committee, in making a decision in relation to the classification and scheduling of a substance, must consider all public submissions made by the closing date that address a matter mentioned in s 52E of the Act (reg 42ZCV).",
+      "id": "s55"
+    },
+    {
+      "text": "A relevant submission prepared in relation to a substance by a Committee member and submitted before or at the meeting must be considered by the Committee at the meeting (reg 42ZCW(1)).",
+      "id": "s56"
+    },
+    {
+      "text": "20 There must be public notification of an amendment to the current Poisons Standard (see [12] above) (s 52D(4)).",
+      "id": "s57"
+    },
+    {
+      "text": "The Gazette notice concerning an amendment must include:\n \n (a) an indication of the amendment; and \n \n \n (b) instructions on how the record of the reasons for the amendment may be accessed; and \n (c) an invitation to persons who made a public submission in relation to the substance the subject of the amendment to make a further submission (reg 42ZCY(1).",
+      "id": "s58"
+    },
+    {
+      "text": "An amendment must not be expressed to come into force earlier than four weeks after publication of the notice (reg 42ZCY(2)).",
+      "id": "s59"
+    },
+    {
+      "text": "21 Regulation 42ZCZ provides as follows:\n \n \n (1) A submission in response to an invitation mentioned in paragraph 42ZCY (1) (c) must be made within 2 weeks after publication of the notice making the invitation.",
+      "id": "s60"
+    },
+    {
+      "text": "(2) The submission must: \n \n \n \n \n (a) address a matter mentioned in section 52E of the Act; and \n (b) be relevant to the reasons recorded for making the amendment.",
+      "id": "s61"
+    },
+    {
+      "text": "(3) If a submission is made to the Committee under this regulation, the Committee must consider the submission and then: \n \n \n \n \n (a) confirm the amendment; or \n (b) vary the amendment; or \n (c) set aside the amendment, replace it with a new scheduling decision and publish notice of the decision under section 52D of the Act.",
+      "id": "s62"
+    },
+    {
+      "text": "POISONS STANDARD \n \n22 A copy of the Poisons Standard was not provided to the Court.",
+      "id": "s63"
+    },
+    {
+      "text": "However, the applicant's written submissions described those aspects of it that are relevant to this proceeding.",
+      "id": "s64"
+    },
+    {
+      "text": "The respondent accepted the accuracy of this description.",
+      "id": "s65"
+    },
+    {
+      "text": "I therefore do likewise.",
+      "id": "s66"
+    },
+    {
+      "text": "The following description is taken from the applicant's written submissions.",
+      "id": "s67"
+    },
+    {
+      "text": "23 The Poisons Standard contains nine schedules although only Schedules 2-9 are used.",
+      "id": "s68"
+    },
+    {
+      "text": "Generally speaking medicines are included in schedules 2, 3 4 and 8; poisons are included in Schedules 5, 6 and 7; and prohibited substances (such as cannabis and heroin) are included in Schedule 9.",
+      "id": "s69"
+    },
+    {
+      "text": "The Poisons Standard also contains a number of appendices which supplement the schedules by setting out additional controls, qualifications and exemptions for some substances.",
+      "id": "s70"
+    },
+    {
+      "text": "24 The schedule and appendix to the Poisons Standard in which a medicine or poison is included may affect the way in which matters such as the advertising, supply, storage and labelling of that medicine or poison are regulated by Commonwealth, State and Territory legislation.",
+      "id": "s71"
+    },
+    {
+      "text": "For instance, broadly speaking, a substance included in Schedule 4 cannot be supplied except upon the written prescription of a healthcare professional with prescribing authority, whereas a substance included in Schedule 3 can generally be supplied without a prescription but cannot be supplied, except under licence, other than by a healthcare professional.",
+      "id": "s72"
+    },
+    {
+      "text": "25 Section 42DL(1)(f) of the Act makes it an offence to publish or broadcast an advertisement about therapeutic goods that refers to goods, or substances or preparations containing goods, included in Schedules 3, 4 or 8 to the Poisons Standard.",
+      "id": "s73"
+    },
+    {
+      "text": "However, it is a defence to such an offence if the goods, substance or preparations are mentioned in Appendix H of the Poisons Standard.",
+      "id": "s74"
+    },
+    {
+      "text": "DECISION UNDER S 52D(2) LEGISLATIVE IN CHARACTER \n \n26 The ADJR Act authorises judicial review of administrative decisions only.",
+      "id": "s75"
+    },
+    {
+      "text": "For this reason, to the extent that Roche claims relief under the ADJR Act , it is necessary for the Court to be satisfied that an exercise of the power of the Committee under s 52D(2) of the Act to amend the current Poisons Standard gives rise to a decision of an administrative character.",
+      "id": "s76"
+    },
+    {
+      "text": "27 As the Full Court observed in RG Capital Radio Ltd v Australian Broadcasting Authority [2001] FCA 855 ; (2001) 113 FCR 185 (\"R G Capital\" ) at 194 at [40], there is no simple rule for determining whether a decision is of an administrative or legislative character.",
+      "id": "s77"
+    },
+    {
+      "text": "At 194 at [44] the Court cited the following passage from the judgment of the Full Court in Minister for Industry and Commerce v Tooheys Ltd (1982) 42 ALR 260 at 265:\n \n The distinction is essentially between the creation or formulation of new rules of law having general application and the application of those general rules to particular cases: Commonwealth v Grunseit [(1943) [1943] HCA 44 ; 67 CLR 58] ; Hamblin v Duffy No 2 [34 ALR 333] and de Smith's Judicial Review of Administrative Action 4th ed, p 71.",
+      "id": "s78"
+    },
+    {
+      "text": "In Commonwealth v Grunseit , Latham CJ expressed ... the distinction in these terms: 'The general distinction between legislation and the execution of legislation is that legislation determines the content of a law as a rule of conduct or a declaration as to power, right or duty, whereas executive authority applies the law in particular cases'.",
+      "id": "s79"
+    },
+    {
+      "text": "28 In reaching a decision as to whether in exercising its powers under s 52D(2) of the Act the Committee was acting legislatively or administratively, it is necessary to have regard to considerations traditionally regarded as relevant for this purpose.",
+      "id": "s80"
+    },
+    {
+      "text": "Nonetheless, the task ultimately is an evaluative one; a judgment must be made taking into account all relevant considerations, but no single consideration is likely to be decisive ( RG Capital Radio at 194 at [42]).",
+      "id": "s81"
+    },
+    {
+      "text": "29 In Visa International Services Association v Reserve Bank of Australia [2003] FCA 977 ; (2003) 131 FCR 300 at 424 at [592] Tamberlin J summarised the matters which were regarded as relevant in RG Capital Radio as follows:\n \n \n &#8226; Whether the decisions determined rules of general application or whether there was an application of rules to particular cases.",
+      "id": "s82"
+    },
+    {
+      "text": "&#8226; Whether there was Parliamentary control of the decision.",
+      "id": "s83"
+    },
+    {
+      "text": "&#8226; Whether there was public notification of the making of the regulation.",
+      "id": "s84"
+    },
+    {
+      "text": "&#8226; Whether there has been public consultation and the extent of any such consultation.",
+      "id": "s85"
+    },
+    {
+      "text": "&#8226; Whether there were broad policy considerations imposed.",
+      "id": "s86"
+    },
+    {
+      "text": "&#8226; Whether the regulations could be varied.",
+      "id": "s87"
+    },
+    {
+      "text": "&#8226; Whether there was power of executive variation or control.",
+      "id": "s88"
+    },
+    {
+      "text": "&#8226; Whether provision exists for merits review.",
+      "id": "s89"
+    },
+    {
+      "text": "&#8226; Binding effect.",
+      "id": "s90"
+    },
+    {
+      "text": "30 In this case I have found the following considerations, each of which tends to suggest that an exercise of power under s 52D(2) is legislative in character, to be significant.",
+      "id": "s91"
+    },
+    {
+      "text": "31 First, the inclusion of a substance in a particular schedule of the Poisons Standard, or an appendix thereto, determines the future lawfulness of conduct in relation to that substance (eg publishing or broadcasting advertisements about the substance: s 42DL of the Act; supply of the substance without required information: reg 9A(1A) of the Regulations ; importation, exportation, supply or manufacture of the substance: s 19B of the Act and reg 12(1) and Schedule 5 of the Regulations ).",
+      "id": "s92"
+    },
+    {
+      "text": "That is, a decision under s 52D determines the content of rules of general application.",
+      "id": "s93"
+    },
+    {
+      "text": "32 Secondly, although a sponsor of therapeutic goods may initiate the process which leads to a decision under s 52D(2), any decision made under the subsection will apply to the substance in general, not merely to the substance when manufactured or supplied by that sponsor.",
+      "id": "s94"
+    },
+    {
+      "text": "33 Thirdly, public consultation is an important element of the process that leads to a decision under s 52D(2) (see [19] ---[21] above).",
+      "id": "s95"
+    },
+    {
+      "text": "34 Fourthly, the Poisons Standard is an important element of a national system of controls relating to the quality, safety, efficacy and timely availability of therapeutic goods.",
+      "id": "s96"
+    },
+    {
+      "text": "It is also intended to, and does, form part of a framework for the States and Territories to adopt a uniform approach to the control and regulation of poisons in Australia (see [8] above).",
+      "id": "s97"
+    },
+    {
+      "text": "Section 52B(3) of the Act, which provides that the Commonwealth, each State, the Northern Territory and the Australian Capital Territory are each entitled to nominate a representative on the Committee, is plainly intended to assist the achievement of uniform, national regulation of substances included in the Poisons Standard.",
+      "id": "s98"
+    },
+    {
+      "text": "The significance of the jurisdictional members of the Committee is underlined by reg 42ZCR(2) which provides that a decision of the Committee has no effect unless the majority includes a majority of the jurisdictional members present and voting.",
+      "id": "s99"
+    },
+    {
+      "text": "35 As indicated above, decisions under s 52B(2) have significance not only under the Act and Regulations but also under legislation enacted by the States and Territories to regulate the availability of therapeutic goods and poisons (see [8] above).",
+      "id": "s100"
+    },
+    {
+      "text": "Not surprisingly in this context, the matters to which the Committee may have regard in exercising its power under s 52D(2) include broad policy considerations concerning public health.",
+      "id": "s101"
+    },
+    {
+      "text": "Moreover, having regard to this statutory framework it would be surprising if the legislature did not intend that the jurisdictional members of the Committee should be free, particularly on controversial issues, to advance the views of their respective governments on the matters identified in s 52E(1).",
+      "id": "s102"
+    },
+    {
+      "text": "This is particularly the case, in my view, since the jurisdictional members include persons nominated by agencies of another sovereign polity, namely the New Zealand Government.",
+      "id": "s103"
+    },
+    {
+      "text": "36 Fifthly, there is no provision for merits review of the decision of the Committee --- other than by the Committee itself as provided for by reg 42ZCZ.",
+      "id": "s104"
+    },
+    {
+      "text": "37 Finally, as mentioned above, decisions under s 52B(2) are required to be published in the Gazette and, subject to the special positions of the jurisdictional members of the Committee, are not amenable to executive variation or control.",
+      "id": "s105"
+    },
+    {
+      "text": "38 In arguing that decisions of the Committee under s 52D(2) are administrative in character, Roche placed reliance on Pro Health Products Pty Limited v McEwen [2004] FCA 1790.",
+      "id": "s106"
+    },
+    {
+      "text": "In that case Emmett J described a scheduling decision of the Committee as \"clearly an administrative one\".",
+      "id": "s107"
+    },
+    {
+      "text": "However, it appears that the true character of a scheduling decision of the Committee was not the subject of argument in that case which, moreover, was decided under significant time constraints.",
+      "id": "s108"
+    },
+    {
+      "text": "I do not regard his Honour's description as reflecting a considered view on the question.",
+      "id": "s109"
+    },
+    {
+      "text": "39 Roche additionally drew attention to what it described as the tightly drawn nature of the matters which s 52E(1) requires or allows the Committee to take into account when exercising its power under s 52D(2) of the Act.",
+      "id": "s110"
+    },
+    {
+      "text": "I give consideration below to the nature of these matters.",
+      "id": "s111"
+    },
+    {
+      "text": "I do not accept that they are as tightly drawn as Roche contends.",
+      "id": "s112"
+    },
+    {
+      "text": "In particular, I regard it as significant that s 52E(1)(i) requires the Committee to take into account \"any other matter that the Committee considers necessary to protect public health\" .",
+      "id": "s113"
+    },
+    {
+      "text": "Considerations necessary to protect public health, as the paragraph recognises, includes risks, whether imminent or long term, of death, illness or injury from the use of the substance in question but may extend beyond these considerations.",
+      "id": "s114"
+    },
+    {
+      "text": "Taken together, the matters identified in s 52E(1) call for the evaluation of broad policy considerations touching upon an important area of public administration.",
+      "id": "s115"
+    },
+    {
+      "text": "40 I accept that the failure of the legislature to provide for disallowance by Parliament of decisions made under s 52D(2) of the Act is a factor which tends in favour of a finding that the decisions are administrative, rather than legislative, in character ( Aerolineas Argentinas v Federal Airports Corporation (1995) 63 FCR 100 at 110; Vietnam Veterans' Affairs Association v Cohen (1996) 70 FCR 419 at 428-429).",
+      "id": "s116"
+    },
+    {
+      "text": "Nonetheless, no single consideration is determinative of the proper characterisation of an exercise of power under s 52D(2).",
+      "id": "s117"
+    },
+    {
+      "text": "41 I conclude that an exercise of power under s 52D(2) of the Act is legislative, rather than administrative in character.",
+      "id": "s118"
+    },
+    {
+      "text": "For this reason the application in this matter is incompetent to the extent that it seeks to invoke the jurisdiction of the Court under the ADJR Act .",
+      "id": "s119"
+    },
+    {
+      "text": "This conclusion is of limited significance because of the reliance placed by Roche on s 39B of the Judiciary Act .",
+      "id": "s120"
+    },
+    {
+      "text": "However, certain of the grounds of review upon which Roche relies assume that the Committee was exercising an administrative power.",
+      "id": "s121"
+    },
+    {
+      "text": "My conclusion that this assumption is erroneous means that those grounds necessarily fail.",
+      "id": "s122"
+    },
+    {
+      "text": "BACKGROUND FACTS \n \n42 As mentioned above, orlistat has been included in Schedule 3 of the Poisons Standard since 1 May 2004.",
+      "id": "s123"
+    },
+    {
+      "text": "At the 43 rd meeting of the Committee, which was held on 22-23 February 2005, consideration was given to including orlistat in Appendix H. However, the Committee at that time decided against the inclusion of orlistat in Appendix H. The record of reasons of the meeting records the outcome of the consideration in the following way:\n \n The Committee did not support the inclusion of orlistat in Appendix H of the SUSDP.",
+      "id": "s124"
+    },
+    {
+      "text": "The Committee noted the available data in the clinical trials setting using orlistat for weight loss resulted in modest efficacy and reduced long-term efficacy.",
+      "id": "s125"
+    },
+    {
+      "text": "Members were concerned that omission of this information in advertising campaigns could potentially create a consumer demand based on unrealistic expectations of the product's effectiveness.",
+      "id": "s126"
+    },
+    {
+      "text": "43 The above decision was confirmed by the Committee at its 44 th meeting held on 21-23 June 2005.",
+      "id": "s127"
+    },
+    {
+      "text": "The record of reasons of this meeting records that the Committee remained concerned that branded advertising of orlistat would convey an inappropriate public health message that pharmacotherapy is the first-line treatment for obesity or overweight conditions and could expose the public to unnecessary risks.",
+      "id": "s128"
+    },
+    {
+      "text": "Additionally, the Committee considered that such advertising could increase consumer expectations and make them less likely to accept advice from pharmacists.",
+      "id": "s129"
+    },
+    {
+      "text": "44 After its June 2005 meeting, the Committee received a new submission from Roche seeking the inclusion of orlistat in Appendix H. That submission was considered by the Committee at its 46 th meeting held on 21-23 February 2006.",
+      "id": "s130"
+    },
+    {
+      "text": "The record of reasons of this meeting records the outcome of its consideration in the following way:\n \n The Committee agreed to include orlistat in Appendix H on the grounds of potential public health benefit.",
+      "id": "s131"
+    },
+    {
+      "text": "The Committee noted additional information on post-marketing surveillance study, media survey and consumer/market research, as well as the experience gained by pharmacists on screening and consulting patients on the suitability of orlistat for other [conditions] .",
+      "id": "s132"
+    },
+    {
+      "text": "The Committee also believed that the newly amended TGAC [Therapeutic Goods Advertising Code] which has been strengthened with regards to the advertising of weight loss products shall [sic] ensure responsible and appropriate [branded] advertising of the orlistat product ... by the sponsor.",
+      "id": "s133"
+    },
+    {
+      "text": "45 The Committee considered post-meeting comments received in relation to the above decision at the 47 th meeting which was held on 20-22 June 2006.",
+      "id": "s134"
+    },
+    {
+      "text": "After noting that those comments were supportive of the decision, it confirmed the decision to include orlistat in Appendix H on the ground of potential public health benefit.",
+      "id": "s135"
+    },
+    {
+      "text": "46 The 48 th meeting of the Committee was held on 10-12 October 2006.",
+      "id": "s136"
+    },
+    {
+      "text": "Orlistat was again on the agenda; on this occasion for the purpose of enabling the Committee to consider \"the current media attention on the direct to consumer advertising\" .",
+      "id": "s137"
+    },
+    {
+      "text": "The agenda paper on this item reported:\n \n There has been recent media coverage on the advertising of Xenical during the television programme Australian Idol.",
+      "id": "s138"
+    },
+    {
+      "text": "Both the Australian Medical Association (AMA) and the Australian Consumers Association (ACA) have criticised the advertising of Xenical during prime time TV.",
+      "id": "s139"
+    },
+    {
+      "text": "The AMA has stated that advertising Xenical direct to consumers gives a misleading message and that it is a medication that shouldn't be allowed to be advertised direct to consumer.",
+      "id": "s140"
+    },
+    {
+      "text": "The AMA have also commented that the decision to allow direct to consumer advertising needs to be reviewed, as must the decision allowing orlistat to be available without prescription.",
+      "id": "s141"
+    },
+    {
+      "text": "The ACA believes that the advertising campaign is in breach of the TGAC.",
+      "id": "s142"
+    },
+    {
+      "text": "Their argument is that the code prohibits the advertising of pharmaceuticals to people under the age of 18 and the core audience for the Australian Idol program is girls in the 13-17 year age group.",
+      "id": "s143"
+    },
+    {
+      "text": "The ACA also express concern that the advertisements for Xenical send the message to young women that taking a pill is a solution to weight problems rather than undertaking a balanced diet and exercise regimen.",
+      "id": "s144"
+    },
+    {
+      "text": "47 The record of reasons of the 48 th meeting of the Committee records the following outcome concerning orlistat:\n \n After discussion, the Committee agreed to foreshadow consideration of the current Appendix H listing of orlistat at the February 2007 NDPSC Meeting in order to give interested parties the opportunity to put forward submissions on the issue.",
+      "id": "s145"
+    },
+    {
+      "text": "Post meeting, the Chair decided to also bring consideration of orlistat's current Schedule 3 status to the Committee for consideration at the February 2007 NDPSC meeting.",
+      "id": "s146"
+    },
+    {
+      "text": "48 A notice was published in the Gazette concerning the February 2007 meeting of the Committee as required by reg 42ZCU.",
+      "id": "s147"
+    },
+    {
+      "text": "The notice advised that the scheduling of orlistat would be under consideration and that the closing day for submissions was 24 January 2007.",
+      "id": "s148"
+    },
+    {
+      "text": "49 The agenda paper concerning orlistat prepared for the 49 th meeting of the Committee, which was held in February 2007, was lengthy.",
+      "id": "s149"
+    },
+    {
+      "text": "It reviewed the scheduling history of orlistat and also the circumstances giving rise to the decision to reconsider the scheduling status of orlistat.",
+      "id": "s150"
+    },
+    {
+      "text": "It summarised submissions received concerning the agenda item, including those from Roche and the Australian Consumers Association (\"ACA\") respectively.",
+      "id": "s151"
+    },
+    {
+      "text": "It set out the findings of the Complaints Resolution Panel (\"CRP\") on the complaint made by the ACA concerning Roche's advertising of Xenical during the television program Australian Idol on 19 October 2006.",
+      "id": "s152"
+    },
+    {
+      "text": "It noted that a number of submissions had been received supporting the continued Schedule 3 and Appendix H listing of orlistat on the basis of public health need; others had been received supporting the Schedule 3 listing of orlistat; and yet others supporting the retention of orlistat in Appendix H. It also noted that submissions had been received opposing the inclusion of orlistat in Appendix H and that the Australian Medical Association (AMA) had provided a submission calling for orlistat to be withdrawn as a Schedule 3 substance.",
+      "id": "s153"
+    },
+    {
+      "text": "The Pharmacy Guild of Australia (PGA) had put forward a proposal to strengthen the Standard for the Uniform Scheduling of Drugs and Poisons (SUSDP) regulations regarding the advertising of Schedule 3 substances.",
+      "id": "s154"
+    },
+    {
+      "text": "50 The agenda paper identified the following options:\n \n OPTION 1.",
+      "id": "s155"
+    },
+    {
+      "text": "THE COMMITTEE AGREES THAT DUE TO THE EMERGING CONCERNS REGARDING INAPPROPRIATE USE OF THE SUBSTANCE, TO INCLUDE ORLISTAT IN SCHEDULE 4 OF THE SUSDP AND, AS A CONSEQUENCE, REMOVE IT FROM APPENDIX H OF THE SUSDP.",
+      "id": "s156"
+    },
+    {
+      "text": "Schedule 4 --- Amend entry \n \n ORLISTAT \n \n OPTION 2.",
+      "id": "s157"
+    },
+    {
+      "text": "THE COMMITTEE AGREES THAT THE CURRENT SCHEDULING OF ORLISTAT REMAINS APPROPRIATE BUT DUE TO THE POTENTIAL FOR DIRECT TO CONSUMER ADVERTISING TO BE MISUNDERSTOOD BY CONSUMERS THAT ORLISTAT BE REMOVED FROM APPENDIX H OF THE SUSDP.",
+      "id": "s158"
+    },
+    {
+      "text": "Appendix H --- Delete entry \n \n Orlistat \n \n OPTION 3.",
+      "id": "s159"
+    },
+    {
+      "text": "THE COMMITTEE AGREES THAT THE CURRENT SCHEDULING OF ORLISTAT REMAINS APPROPRIATE BUT THAT THE CURRENT REGULATIONS IN PART 3 OF THE SUSDP REQUIRE REVISION.",
+      "id": "s160"
+    },
+    {
+      "text": "OPTION 4.",
+      "id": "s161"
+    },
+    {
+      "text": "THE COMMITTEE AGREES THAT THE CURRENT SCHEDULING OF ORLISTAT REMAINS APPROPRIATE.",
+      "id": "s162"
+    },
+    {
+      "text": "51 An extract from a transcript of the 49 th meeting of the Committee was received in evidence on this application.",
+      "id": "s163"
+    },
+    {
+      "text": "It reveals that the Committee discussed the above options.",
+      "id": "s164"
+    },
+    {
+      "text": "One Committee member is recorded as saying:\n \n ... just in the interests of transparency, I'd just like to state that the advice from my department is that I should vote against Schedule 3 and Appendix H listing.",
+      "id": "s165"
+    },
+    {
+      "text": "Another member is recorded as saying:\n \n I have voting instructions as well.",
+      "id": "s166"
+    },
+    {
+      "text": "It is agreed that each of the above members was a jurisdictional member.",
+      "id": "s167"
+    },
+    {
+      "text": "52 When a vote was taken on Option 1 that option was defeated.",
+      "id": "s168"
+    },
+    {
+      "text": "The Chair is then recorded as saying:\n \n Therefore, Option 2, that the committee agrees that the current scheduling of orlistat remains appropriate but, due to the potential for direct to consumer advertising to be misunderstood by consumers, that orlistat be removed from Appendix H and the SUSDP.",
+      "id": "s169"
+    },
+    {
+      "text": "Those in favour?",
+      "id": "s170"
+    },
+    {
+      "text": "You'll just need to put your hands up and we'll just count.",
+      "id": "s171"
+    },
+    {
+      "text": "Those against?",
+      "id": "s172"
+    },
+    {
+      "text": "Okay.",
+      "id": "s173"
+    },
+    {
+      "text": "And State and Territories in favour?",
+      "id": "s174"
+    },
+    {
+      "text": "[counting] for.",
+      "id": "s175"
+    },
+    {
+      "text": "And against?",
+      "id": "s176"
+    },
+    {
+      "text": "So that is carried which means that the Appendix H listing for orlistat be removed.",
+      "id": "s177"
+    },
+    {
+      "text": "It remains in Schedule 3.",
+      "id": "s178"
+    },
+    {
+      "text": "53 Shortly thereafter a member of the Committee is recorded as expressing concern that the Committee might be understood to have approved a survey undertaken by the ACA concerning pharmacy performance.",
+      "id": "s179"
+    },
+    {
+      "text": "Another member is recorded as questioning the appropriateness of the wording of Option 2.",
+      "id": "s180"
+    },
+    {
+      "text": "54 The Secretary is then recorded as saying:\n \n That's not going to be the final wording --- the outcome.",
+      "id": "s181"
+    },
+    {
+      "text": "55 Immediately thereafter the Chair is recorded as saying:\n \n Yes, I think --- the criteria for including the Schedule 3 substance in Appendix H --- matters that we would consider are the potential for public health benefit --- I would have thought that that was the primary issue that we would refer to in our decision --- and the likelihood of advertising of the substance leading to inappropriate patterns of medication use --- I would have thought that that was another key point.",
+      "id": "s182"
+    },
+    {
+      "text": "The other things we need to take into consideration are the wider regulatory system through the Advertising Code and therapeutic goods registration process, whether the application may result in the advertising of goods for an indication other than those included in the ARTG --- and we've clearly seen evidence of that --- the responsibility of pharmacists to be actively involved in the supply of substances included in Schedule 3, available CMI [ie consumer medicine information] , the level of patient education necessary to ensure correct use, and the desire of consumers to manage their own medication.",
+      "id": "s183"
+    },
+    {
+      "text": "56 The record of reasons for the 49 th meeting of the Committee records the decision concerning orlistat in the following terms:\n \n While acknowledging the importance of the obesity problem in Australia, the Committee decided that, on balance, there was insufficient public health benefit associated with allowing direct-to-consumer advertising of orlistat.",
+      "id": "s184"
+    },
+    {
+      "text": "Orlistat is currently only indicated for use in a relatively small group of patients with serious and significant weight problems (those with a Body Mass Index (BMI) greater than 27 with other serious diseases, or those with a BMI greater than 30), not for the general population who might wish to manage more minor weight issues.",
+      "id": "s185"
+    },
+    {
+      "text": "The Committee noted the advice from professionals and consumers that direct-to-consumer advertising increased pressure on pharmacists to provide orlistat to consumers.",
+      "id": "s186"
+    },
+    {
+      "text": "This in turn had the potential to result in inappropriate patterns of use, in patients for whom orlistat was neither indicated nor appropriate.",
+      "id": "s187"
+    },
+    {
+      "text": "By retaining it in Schedule 3, the Committee has ensured that orlistat remains available for appropriate patients with professional advice from pharmacists.",
+      "id": "s188"
+    },
+    {
+      "text": "Appendix H --- Amendment \n \n Orlistat --- Delete entry \n \n\n57 The 50 th meeting of the Committee was held on 26-28 June 2007.",
+      "id": "s189"
+    },
+    {
+      "text": "Orlistat was on the agenda for the purpose of considering public submissions on the February 2007 decision to remove orlistat from Appendix H. The agenda paper noted that 33 form letters had been received from pharmacists who supported the Appendix H listing of orlistat.",
+      "id": "s190"
+    },
+    {
+      "text": "These were in addition to another 607 form letters that were received as part of the post-meeting submission made by the PGA.",
+      "id": "s191"
+    },
+    {
+      "text": "The paper also summarised a further submission from Roche, which called for the Appendix H listing of orlistat to be reinstated, and a submission from the Australian Self Medication Industry which also supported reinstatement.",
+      "id": "s192"
+    },
+    {
+      "text": "The paper additionally noted that the PGA had reiterated its opposition to the removal of orlistat from Appendix H and that the Pharmaceutical Society of Australia (\"PSA\") had made a submission after the deadline for submissions that opposed the listing of orlistat in Appendix H.\n \n58 The Committee decided to affirm the February 2007 decision.",
+      "id": "s193"
+    },
+    {
+      "text": "Its reasons for the decision are set out in [68] below.",
+      "id": "s194"
+    },
+    {
+      "text": "THE COMMITTEE'S REASONS \n October 2006 \n \n59 Review of the record of reasons of the Committee's October 2006 meeting suggests that its decision to revisit the decision to include orlistat in Appendix H was based, at least primarily, on the criticisms made by ACA and others of the advertising of Xenical during Australian Idol .",
+      "id": "s195"
+    },
+    {
+      "text": "February 2007 \n \n60 As is noted above (see [52]), in February 2007 the Committee voted to adopt a resolution that orlistat be removed from Appendix H \"due to the potential for direct to consumer advertising to be misunderstood by consumers\" .",
+      "id": "s196"
+    },
+    {
+      "text": "It voted on this resolution having earlier received an agenda paper which identified four options as possible outcomes from its reconsideration of the scheduling of orlistat.",
+      "id": "s197"
+    },
+    {
+      "text": "The resolution adopted was the second of the four options.",
+      "id": "s198"
+    },
+    {
+      "text": "61 Submissions were not advanced on whether this agenda paper constituted a written notice from the Chair of the Committee pursuant to reg 42ZCO(1) (see [17] above).",
+      "id": "s199"
+    },
+    {
+      "text": "It is therefore inappropriate to determine that question.",
+      "id": "s200"
+    },
+    {
+      "text": "However, the agenda paper plainly placed Committee members on notice of resolutions upon which they could be invited to vote at the meeting.",
+      "id": "s201"
+    },
+    {
+      "text": "62 Decisions of the Committee are required to be made by a process of voting at a Committee meeting (reg 42ZCR) (see [18] above).",
+      "id": "s202"
+    },
+    {
+      "text": "At the Committee meeting held in February 2007, the Committee voted to adopt the second of the four optional resolutions concerning orlistat of which Committee members had been given advance notice.",
+      "id": "s203"
+    },
+    {
+      "text": "For this reason I accept the submission of Roche that the decision taken by the Committee concerning orlistat at its February 2007 meeting was to remove it from Appendix H because of the potential for direct-to-consumer advertising to be misunderstood by consumers.",
+      "id": "s204"
+    },
+    {
+      "text": "The Committee made its decision by voting on a resolution which so identified its reason for decision.",
+      "id": "s205"
+    },
+    {
+      "text": "63 Nonetheless, the true meaning of the resolution is to be derived from the context in which the resolution was adopted.",
+      "id": "s206"
+    },
+    {
+      "text": "That context included the Committee's earlier decision to include orlistat in Appendix H and its consideration of matters identified in s 52E(1) at that time.",
+      "id": "s207"
+    },
+    {
+      "text": "The agenda papers before the Committee in February 2007 included, or made reference to, the materials before it at the time of the earlier decision and the minutes of the earlier meeting.",
+      "id": "s208"
+    },
+    {
+      "text": "Having regard to its terms and context, the meaning of the February 2007 resolution is, it seems to me, that orlistat should be removed from Appendix H because the Committee concluded that the potential for direct-to-consumer advertising to be misunderstood by consumers had been underestimated at the time of its previous decision.",
+      "id": "s209"
+    },
+    {
+      "text": "That is, having re-estimated that potential, the Committee concluded that the appropriate decision was that orlistat should not be included in Appendix H.\n \n64 I accept, however, that the record of reason of the 49 th meeting of the Committee (see [56] above) accurately records matters taken into account by the Committee in reaching its February 2007 decision.",
+      "id": "s210"
+    },
+    {
+      "text": "I did not understand Roche to suggest otherwise.",
+      "id": "s211"
+    },
+    {
+      "text": "65 I note incidentally that reg 42ZCS(1) requires the Committee to keep a record of its proceedings.",
+      "id": "s212"
+    },
+    {
+      "text": "As the matters set out in [51]-[55] above disclose, the Secretary and the Chair of the Committee apparently considered themselves free to prepare a record of the Committee's proceedings that did not include the terms of the resolution passed by the Committee.",
+      "id": "s213"
+    },
+    {
+      "text": "Plainly what reg 42ZCS(1) requires is that the Committee keep an accurate record of its proceedings.",
+      "id": "s214"
+    },
+    {
+      "text": "This does not mean that the Committee must keep a record of every observation made at a meeting.",
+      "id": "s215"
+    },
+    {
+      "text": "However, as decisions of the Committee are made by a process of voting, a record of proceedings that does not include reference to a resolution moved, voted upon and adopted by the Committee does not comply with the requirements of reg 42ZCS(1).",
+      "id": "s216"
+    },
+    {
+      "text": "66 It appears that some or all of the Committee also considered it appropriate to prepare a record that referred to the Committee having \"decided that, on balance, there was insufficient public health benefit associated with allowing direct-to-consumer advertising of orlistat\" when no resolution in those terms was voted on by the Committee.",
+      "id": "s217"
+    },
+    {
+      "text": "Again, as reg 42ZCR provides, decisions of the Committee are made by a voting process, a record that refers to a \"decision\" of the Committee when no vote on the subject matter of the alleged decision has been taken, is not a record that complies with the requirements of reg 42ZCS(1).",
+      "id": "s218"
+    },
+    {
+      "text": "67 Additionally, it seems to me that the legitimacy of the Committee's apparent practice of not recording the number of votes cast for and against resolutions moved at its meetings is open to serious doubt.",
+      "id": "s219"
+    },
+    {
+      "text": "However, it was not contended in this case that the Act or Regulations disclose an intention that deficiencies in a record of proceeding of the Committee affect the validity of any conduct or decision of the Committee to which the record relates (see Project Blue Sky Inc v Australian Broadcasting Authority [1998] HCA 28 ; (1998) 153 ALR 490).",
+      "id": "s220"
+    },
+    {
+      "text": "June 2007 \n \n68 The parties agreed that the best evidence available concerning the reasons for the June 2007 decision of the Committee to confirm the decision to remove orlistat from Appendix H is found in the draft minutes of that meeting.",
+      "id": "s221"
+    },
+    {
+      "text": "No ratified minutes of the meeting had come into existence at the time of hearing.",
+      "id": "s222"
+    },
+    {
+      "text": "The draft minutes record that the reasons of the Committee include:\n \n \n &#8226; that direct-to-consumer advertising had the potential to lead to inappropriate extent and patterns of use of orlistat outside its registered indications; \n \n \n \n \n \n &#8226; that direct-to-consumer advertising may adversely affect the ability of pharmacists to provide advice about other appropriate weight management strategies; \n \n \n \n \n \n &#8226; that there were concerns about the ability of direct-to-consumer advertising to accurately present information about the potential toxicity, safety, risks and benefits of orlistat and the specific indications for use; \n \n \n \n \n \n &#8226; that while acknowledging the need to address the problems of obesity in the Australian community, pharmacotherapy was not the first line of treatment for weight management and direct-to-consumer advertising had the potential to over-emphasise its role over those of lifestyle change; \n \n \n \n \n \n &#8226; that the safeguards that allowed inclusion in Schedule 3, such as education programmes for pharmacists and consumer information, did not remove the potential for direct-to-consumer advertising to adversely affect appropriate provision of orlistat; \n \n \n \n \n \n &#8226; that the changes to the wording of the Therapeutic Goods Advertising Code (TGAC) aimed at strengthening the requirements of advertising weight loss products had not sufficiently prevented messages promoting inappropriate use of orlistat and the Committee did not feel that the current TGAC was able to prevent advertising from over-emphasising the role of pharmacotherapy.",
+      "id": "s223"
+    },
+    {
+      "text": "&#8226; on balance, the NDPSC believed that direct-to-consumer advertising worsened the risk-benefit balance of access to orlistat and the committee felt it necessary to protect public health by preventing direct to consumer advertising.",
+      "id": "s224"
+    },
+    {
+      "text": "69 The draft minutes summarise the Committee's June 2007 decision in the following way:\n \n In summary, after considering all post-meeting submissions, the [Committee] decided to confirm its February 2007 decision to revoke the Appendix H listing as, under section 52E of the Act and according to the NCCTG Guidelines, it is not appropriate for orlistat to be advertised direct-to-consumers.",
+      "id": "s225"
+    },
+    {
+      "text": "ERRORS OF LAW --- SECTIONS 52C, 52D AND 52E \n \n70 Roche contended that the decisions of the Committee made on 12 October 2006, 22 February 2007 and 26 June 2007 respectively all involved errors of law in that the Committee misconstrued s 52C(a), s 52C(e), s 52D(2) and s 52E(1) of the Act as requiring or permitting the Committee:\n \n (a) in determining whether to review the schedule or schedules of the Poisons Standard in which orlistat is included: \n \n \n (i) to have regard to the advertising of orlistat, including media coverage and criticism of the advertising of orlistat during the Australian Idol television program; and\n (ii) to have regard to the alleged experiences and/or practices of some pharmacists in dispensing orlistat to consumers; \n \n \n and\n (b) to determine to review the inclusion of orlistat in Schedule 3 and Appendix H to the Poisons Standard in the absence of any new data about the risks or benefits of using orlistat.",
+      "id": "s226"
+    },
+    {
+      "text": "71 The contents of s 52C, s 52C(e) and s 52D(2) are identified in [11]-[12] above.",
+      "id": "s227"
+    },
+    {
+      "text": "Proper Construction of s 52E \n \n72 As Roche acknowledged, the proper construction of s 52E, which is set out in [13] above, is critical to the above contention.",
+      "id": "s228"
+    },
+    {
+      "text": "73 The first issue concerning the proper construction of s 52E that requires to be addressed is whether the section sets out exhaustively the matters to which the Committee must or may take into account in exercising its powers under s 52D(2).",
+      "id": "s229"
+    },
+    {
+      "text": "The Committee contended that, while it was obliged to take into account the matters identified in s 52E(1)(a)-(i) where they were relevant, and it was free to take into account the labelling, packaging and presentation of a substance, it was also entitled to take into account additional matters that can properly be seen as having a bearing on the issue for its consideration.",
+      "id": "s230"
+    },
+    {
+      "text": "I reject this contention.",
+      "id": "s231"
+    },
+    {
+      "text": "In my view, the following aspects of the language of s 52E suggests against a legislative intention to leave the exercise of the powers of the Committee under s 52D(2) unrestrained in this way.",
+      "id": "s232"
+    },
+    {
+      "text": "First, subs (1) identifies only a limited class of matters that the Committee \"may take into account\" .",
+      "id": "s233"
+    },
+    {
+      "text": "Had the legislature intended that the Committee was also free to take into account other matters that it considered relevant, it could easily have so provided.",
+      "id": "s234"
+    },
+    {
+      "text": "Secondly, the qualification contained in the opening words of subsection (2) suggests that subsection (1) identifies the totality of the matters that the Committee must or may take into account in exercising its powers under s 52D(2).",
+      "id": "s235"
+    },
+    {
+      "text": "Were the position otherwise, the qualification would significantly undermine the apparent purpose of subsection (2).",
+      "id": "s236"
+    },
+    {
+      "text": "This is because, when considering matters other than those identified in subs (1), the Committee would not be constrained by the requirement to comply with any guidelines notified to the Committee for the purpose of subs (2).",
+      "id": "s237"
+    },
+    {
+      "text": "74 Nonetheless, it would be inappropriate to take a narrow view of the matters identified in s 52E(1)(a)-(i).",
+      "id": "s238"
+    },
+    {
+      "text": "In particular, the reference in (i) to \"any other matters that the Committee considers necessary to protect public health\" discloses a legislative intention that the Committee should be free to give consideration to a wide range of matters concerning public health.",
+      "id": "s239"
+    },
+    {
+      "text": "75 The second issue concerning s 52E is the extent of the obligation placed on the Committee by s 52E(2).",
+      "id": "s240"
+    },
+    {
+      "text": "Roche did not dispute that certain guidelines received in evidence and headed Interim Guidelines for the National Drug &amp; Poisons Schedule Committee (\"the Guidelines\") were notified to the Committee for the purpose of s 52E.",
+      "id": "s241"
+    },
+    {
+      "text": "It did not challenge the validity of the Guidelines.",
+      "id": "s242"
+    },
+    {
+      "text": "It therefore accepted that, in taking into account the matters referred to in s 52E(1), the Committee was obliged by s 52E(2) to comply with the Guidelines.",
+      "id": "s243"
+    },
+    {
+      "text": "It argued, however, that the Committee was only entitled to have regard to the Guidelines in the context of its consideration of one of the matters identified in s 52E(1).",
+      "id": "s244"
+    },
+    {
+      "text": "That is, that the Guidelines were relevant to a decision of the Committee only to the extent that they had something to say about one of the matters identified in s 52E(1).",
+      "id": "s245"
+    },
+    {
+      "text": "76 In my view, the construction of s 52E(2) for which Roche contends is artificially narrow.",
+      "id": "s246"
+    },
+    {
+      "text": "It seems to me that the legislative intent behind s 52E(2) is to require the Committee, when exercising its powers under s 52D(2) in the manner prescribed by s 52E(1), to comply with the entirety of any guidelines of the kind identified in s 52E(2).",
+      "id": "s247"
+    },
+    {
+      "text": "77 The third issue concerning s 52E is whether the Committee, in taking into account the matters identified in s 52E(1), may have regard to matters concerning the advertising of a particular product, including the impact of such advertising on consumer demands on pharmacists.",
+      "id": "s248"
+    },
+    {
+      "text": "As identified above, Roche submitted that by having regard to the advertising of orlistat, including media coverage and criticism of the advertising of Xenical during the Australian Idol television program, the Committee breached limits placed on the power granted to it by s 52D(2) of the Act.",
+      "id": "s249"
+    },
+    {
+      "text": "Roche drew attention to the detailed and comprehensive legislative framework that regulates the advertising of therapeutic goods.",
+      "id": "s250"
+    },
+    {
+      "text": "It argued that this framework showed that the legislature had gone to considerable lengths to make provision for the effective regulation of pharmaceutical products and had not vested responsibility for the advertising of pharmaceutical products in the Committee.",
+      "id": "s251"
+    },
+    {
+      "text": "In particular Roche argued that it is no part of the function of the Committee to second guess the efficacy of the Code or the CRP or to make assumptions about the ability of the pharmacy profession to withstand any pressure to sell a particular product that may flow from the advertising of that product.",
+      "id": "s252"
+    },
+    {
+      "text": "78 The legislative framework on which Roche placed reliance includes Part 5 of the Act, Part 2 of the Regulations and the Therapeutic Goods Advertising Code 2006 (Cth) (\"the Code\").",
+      "id": "s253"
+    },
+    {
+      "text": "That framework, Roche observed, is supplemented by the more general requirements of the Trade Practices Act 1974 (Cth) (\"TP Act\"), its State and Territory equivalents and the common law.",
+      "id": "s254"
+    },
+    {
+      "text": "79 It is necessary to examine in a little detail the framework upon which Roche placed reliance.",
+      "id": "s255"
+    },
+    {
+      "text": "The object of the Code is to ensure that the marketing and advertising of therapeutic goods to consumers is conducted in a manner that promotes the quality use of therapeutic goods, is socially responsible and does not mislead or deceive the consumer (s 1(1) of the Code).",
+      "id": "s256"
+    },
+    {
+      "text": "Advertisements for therapeutic goods must comply with the general principles set out in s 4 of the Code.",
+      "id": "s257"
+    },
+    {
+      "text": "The general principles include that an advertisement must contain correct and balanced statements only (s 4(1)(b)) and must not be likely to arouse unwarranted and unrealistic expectations of product effectiveness (s 4(2)(a)) or encourage, or be likely to encourage, inappropriate or excessive use (s 4(2)(f)) or, generally speaking, be directed to minors (s 4(2)(j).",
+      "id": "s258"
+    },
+    {
+      "text": "Section 7(3) of the Code requires advertisements for therapeutic goods containing claims for weight management to have an appropriate balance between the claims and references to a healthy, energy-controlled diet and physical activity.",
+      "id": "s259"
+    },
+    {
+      "text": "A person is guilty of an offence if the person publishes or broadcasts an advertisement about therapeutic goods and the advertisement does not comply with the Code (s 42DM of the Act).",
+      "id": "s260"
+    },
+    {
+      "text": "80 Additionally, for some therapeutic goods (including orlistat) advertising on television, and the other specified media, is not permitted without approval from the Secretary of the Department of Health and Ageing (Division 2 of Part 2 of the Regulations ).",
+      "id": "s261"
+    },
+    {
+      "text": "I note, incidentally, that it is not in dispute that the Xenical advertisement that was screened during Australian Idol had the necessary approval.",
+      "id": "s262"
+    },
+    {
+      "text": "81 Responsibility for the implementation of the framework that regulates the advertising of therapeutic goods lies with a number of statutory bodies established for that purpose.",
+      "id": "s263"
+    },
+    {
+      "text": "One of these bodies is the Therapeutic Goods Advertising Code Council (\"TGACC\") established by reg 42A of the Regulations .",
+      "id": "s264"
+    },
+    {
+      "text": "The functions of the TGACC include considering requirements for the advertising of therapeutic goods and changes to the Code, to accept submissions for this purpose and to advise the Minister accordingly (reg 42B(1)(a)).",
+      "id": "s265"
+    },
+    {
+      "text": "Its membership of 15 must include two advertising industry members, two consumer members and three healthcare professional members (reg 42C).",
+      "id": "s266"
+    },
+    {
+      "text": "Another relevant body is the CRP established by reg 42R.",
+      "id": "s267"
+    },
+    {
+      "text": "The function of the CRP is to receive and consider complaints about advertisements of therapeutic goods and to take action, and to make recommendations to the Secretary, on the complaint (reg 42S).",
+      "id": "s268"
+    },
+    {
+      "text": "Its membership of eight includes consumer members and healthcare professional members but no provision is made for an advertising industry member (reg 42T).",
+      "id": "s269"
+    },
+    {
+      "text": "The chairperson of the panel is nominated by the TGACC (reg 42T(1)(a)).",
+      "id": "s270"
+    },
+    {
+      "text": "82 For the following reasons I conclude that the Committee, in taking into account the matters identified in s 52E(1), may have regard to matters concerning the advertising of a particular product, including the impact of such advertising on consumer demands on pharmacists.",
+      "id": "s271"
+    },
+    {
+      "text": "83 First, s 3 of the Act contains the following provision:\n \n advertisement , in relation to therapeutic goods, includes any statement, pictorial representation or design, however made, that is intended, whether directly or indirectly, to promote the use or supply of the goods.",
+      "id": "s272"
+    },
+    {
+      "text": "presentation , in relation to therapeutic goods, means the way in which the goods are presented for supply, and includes matters relating to the name of the goods, the labelling and packaging of the goods and any advertising and other informational material associated with the goods.",
+      "id": "s273"
+    },
+    {
+      "text": "That is, the three matters identified in s 52E(1) as matters that the Committee may take into account (ie the labelling, packaging and presentation of the substance) are, or may be, aspects of advertising.",
+      "id": "s274"
+    },
+    {
+      "text": "84 Secondly, s 52E(2) requires the Committee, in taking into account the matters referred to in s 52E(1), to comply with certain guidelines notified to the Committee.",
+      "id": "s275"
+    },
+    {
+      "text": "As mentioned above, Roche accepted that the Guidelines were lawfully notified to the Committee under s 52E(2).",
+      "id": "s276"
+    },
+    {
+      "text": "Relevantly the Guidelines provide:\n \n The NDPSC may also consider an application to amend the SUSDP by adding to Appendix H a substance already in Schedule 3.",
+      "id": "s277"
+    },
+    {
+      "text": "In making a decision, as to whether a substance included in Schedule 3 of the SUSDP may be advertised to the public, the NDPSC will consider the following matters:- \n \n \n \n &#8226; The potential public health benefit.",
+      "id": "s278"
+    },
+    {
+      "text": "It is acknowledged it may not always be possible to present data to quantify the extent of any claim of public health benefit.",
+      "id": "s279"
+    },
+    {
+      "text": "In such circumstances, qualitative data maybe acceptable.",
+      "id": "s280"
+    },
+    {
+      "text": "For example, matters which may be considered might include more appropriate use of scarce health resources, a better informed community, and matters related to decreasing risk of injury due to fewer side effects; \n \n \n \n \n \n &#8226; The likelihood of advertising of the substance leading to inappropriate patterns of medication use; \n \n \n \n \n \n &#8226; The wider regulatory system through both the Therapeutic Goods Advertising Code Council [http://www.tgacc.com.au] and the therapeutic goods registration process; \n \n \n \n \n \n &#8226; The provisions of the Therapeutic Goods Advertising Code (TGAC) [http://www.comlaw.gov.au] that apply to all brand advertisements, specifically the provisions on: \n \n \n \n \n o the Objects of the Code, Clause 1; Compliance and Application, Clause 3; and Principles, Clause 4; \n o the representations listed in Part 1 of Appendix 6 that are prohibited under Regulation 6(1)(a) and item 1, Part 1, Schedule 2, (Therapeutic Goods Regulations ) [http://www.comlaw.gov.au]; \n o the restricted representations listed in Part 2 of Appendix 6; \n \n \n \n \n &#8226; Whether the application may result in the advertising of goods for an indication other than those included in the Australian Register of Therapeutic Goods (see the note below on how this is an offence under Section 22(5) of the Therapeutic Goods Act 1989 [http://www.comlaw.gov.au]); \n &#8226; The responsibility of pharmacists to be actively involved in the supply of substance(s) included in Schedule 3 of SUSDP; \n &#8226; Available consumer medicine information; \n &#8226; The level of patient education necessary to ensure correct use; \n &#8226; The desire of consumers to manage their own medication; and \n &#8226; The requirement under Clause 6.2(e) of the TGAC [http://comlaw.gov.au] to include words to the effect of: \n \"Your pharmacist's advice is required\" \n in all advertisements for therapeutic goods containing Schedule 3 substances that are listed in Appendix H of the SUSDP.",
+      "id": "s281"
+    },
+    {
+      "text": "85 It is plain that the Guidelines are advertising guidelines.",
+      "id": "s282"
+    },
+    {
+      "text": "By their terms the Guidelines require the Committee, in making a decision as to whether a substance included in Schedule 3 of the Poisons Schedule may be advertised to the public, to consider the likelihood of advertising of the substance leading to inappropriate patterns of medication use.",
+      "id": "s283"
+    },
+    {
+      "text": "86 Thirdly, one of the powers that the Committee exercises under s 52D(2) can be, as it was in this case, the power to determine whether a substance included in Schedule 3 of the Poisons Standard may be advertised to the public (ie included in Appendix H).",
+      "id": "s284"
+    },
+    {
+      "text": "It seems impossible to accept that the legislature intended that the Committee, in exercising this power, could not have regard to matters concerning advertising including the actual or likely impact of a substance being advertised to consumers and the impact of such advertising on consumer demands on pharmacists.",
+      "id": "s285"
+    },
+    {
+      "text": "87 Nonetheless, the conclusion that the Committee, in taking into account the matters identified in s 52E(1) , may have regard to matters concerning advertising, does not mean that s 52E is to be construed in a way which would allow the Committee to usurp the role of the TGACC and the CRP respectively.",
+      "id": "s286"
+    },
+    {
+      "text": "Each of these bodies has a distinct role to play in the statutory regime of the regulation of the advertising of therapeutic goods.",
+      "id": "s287"
+    },
+    {
+      "text": "It would be inappropriate, for example, for the Committee to seek to regulate the content of particular advertisements for therapeutic goods.",
+      "id": "s288"
+    },
+    {
+      "text": "Similarly s 52E is not to be construed in a way which would allow the Committee to usurp the role of regulating the pharmacy industry.",
+      "id": "s289"
+    },
+    {
+      "text": "88 The fourth issue concerning s 52E is the ambit of the matter identified by s 52E(1)(d) , namely \"the extent and patterns of use of a substance\" .",
+      "id": "s290"
+    },
+    {
+      "text": "Roche argued that, on the proper construction of s 52E(1)(d) , the Committee was only authorised to consider the actual extent and patterns of use of a substance; that is, that the Committee was not entitled to speculate as to the likely extent and patterns of use of the substance should it exercise its powers under s 52D(2).",
+      "id": "s291"
+    },
+    {
+      "text": "Roche drew attention to the reference in s 52E(1)(c) to \"the potential hazards\" and in s 52E(1)(g) to \"the potential for abuse\" and to the absence of the word \"potential\", or a similar word, in s 52E(1)(d) .",
+      "id": "s292"
+    },
+    {
+      "text": "89 I reject the argument that the language of s 52E(1)(d) discloses a legislative intention that the Committee may not give consideration to the likely effect of an exercise of its powers under s 52D(2) on the extent and patterns of use of a substance.",
+      "id": "s293"
+    },
+    {
+      "text": "The references to potentialities in the description of other matters that the Committee is to take into account do not, in my view, carry the significance that Roche attributes to them.",
+      "id": "s294"
+    },
+    {
+      "text": "The potential hazards associated with use of a substance and the potential for abuse of the substance are factors inherent in the substance --- albeit that they may be identified in part by speculation as to the uses that may be made of the substance.",
+      "id": "s295"
+    },
+    {
+      "text": "Just as the Committee is entitled to take into account the likely effect of its decision on the extent and patterns of use of a substance, it is also entitled to take into account the likely effect of its decision on the potential hazards associated with the use of the substance and on the potential for abuse of the substance.",
+      "id": "s296"
+    },
+    {
+      "text": "The Advertising of Xenical \n \n90 Orlistat was included as an agenda item for the October 2006 meeting of the Committee to allow the Committee to consider the media attention generated by the direct-to-consumer advertising of Xenical (see [46] above).",
+      "id": "s297"
+    },
+    {
+      "text": "91 The functions of the Committee include the making of decisions in relation to classification and scheduling of substances, the maintenance of the Poisons Standard and the undertaking of public consultations with respect to matters relating to the classification and scheduling of substances that are of public interest or significance (s 52C(a) , (c) and (e)).",
+      "id": "s298"
+    },
+    {
+      "text": "Having regard to the functions of the Committee, the decision of the Committee to consider the legitimacy of apparently responsible and informed criticism of its earlier decisions concerning the classification and scheduling of orlistat was plainly appropriate.",
+      "id": "s299"
+    },
+    {
+      "text": "It was impossible for the Committee to consider that criticism without having regard to the advertising of Xenical, including media coverage of the advertising of Xenical during the Australian Idol program.",
+      "id": "s300"
+    },
+    {
+      "text": "Nothing in s 52C(a) , s 52C(e) , s 52D(2) or s 52E(1) of the Act rendered it impermissible for it to do so.",
+      "id": "s301"
+    },
+    {
+      "text": "92 The relevant decision made by the Committee in February 2007 was, as I have found, that the potential for direct-to-consumer advertising to be misunderstood by consumers was sufficient to mean that, after evaluation of the relevant matters identified in s 52E(1), the appropriate decision was that orlistat be removed from Appendix H. The agenda papers for the February 2007 meeting drew attention to the advertising of Xenical, including media coverage and criticism of the advertising of Xenical during the Australian Idol program.",
+      "id": "s302"
+    },
+    {
+      "text": "I conclude that these were matters that the Committee took into account in making its decision.",
+      "id": "s303"
+    },
+    {
+      "text": "93 Roche submitted that it is self evident that any advertising has the potential to be misunderstood by consumers and that is no doubt why, in the context of therapeutic goods, the Code exists to supplement the more generally applicable TP Act .",
+      "id": "s304"
+    },
+    {
+      "text": "It argued that, both on the proper construction of s 52E, and in the more general context of the scheme of the Act as a whole, concerns as to the efficacy of the prospective advertising of orlistat under its brand name Xenical are not matters which the Committee is entitled to take into account.",
+      "id": "s305"
+    },
+    {
+      "text": "Roche drew attention to the fact that the membership of the Committee does not include experts in advertising or the effects of advertising.",
+      "id": "s306"
+    },
+    {
+      "text": "It further submitted that the thrust of the legislative scheme is to sever public health considerations (the province of the Committee) from the regulation of advertising (the province of the Code and the CRP).",
+      "id": "s307"
+    },
+    {
+      "text": "94 As discussed above, a decision about whether a substance should be included in Appendix H is a decision about whether the substance should be allowed to be advertised to consumers.",
+      "id": "s308"
+    },
+    {
+      "text": "That is the significance which attaches to inclusion in Appendix H (see s 42AA and s 42DL of the Act).",
+      "id": "s309"
+    },
+    {
+      "text": "For this reason I accept the submission of the Committee that, in determining whether a substance should be included in, or removed from, Appendix H, the Committee must be entitled to consider, in the context of the matters identified in s 52E(1) that are relevant to the particular case, the actual or likely consequences of the substance being advertised to consumers.",
+      "id": "s310"
+    },
+    {
+      "text": "Notwithstanding that s 52E(1) makes no reference to either the regulatory regime governing the advertising of therapeutic goods or the regulatory and professional disciplinary regime applying to the conduct of pharmacists, the Committee's appreciation of the nature and effectiveness of those regimes will necessarily inform its consideration of the matters identified in s 52E(1).",
+      "id": "s311"
+    },
+    {
+      "text": "95 I conclude that nothing in s 52C(a), s 52C(e), s 52D(2) or s 52E(1) rendered it impermissible for the Committee to have regard to the advertising of Xenical, including media coverage and criticism of the advertising of Xenical during the Australian Idol program, in the context of the decision made by it in February 2007.",
+      "id": "s312"
+    },
+    {
+      "text": "96 In June 2007 the Committee confirmed its February 2007 decision that orlistat be removed from Appendix H. I note incidentally that, as Roche observed, the draft minutes of the Committee's June 2007 meeting, which were prepared after the institution of this proceeding, appear to reflect a greater appreciation of the statutory regime within which its powers under s 52D(2) of the Act are to be exercised than earlier records of its proceedings.",
+      "id": "s313"
+    },
+    {
+      "text": "The draft minutes confirm that the reasons for the decision of the Committee included conclusions drawn from consideration of the advertising of Xenical.",
+      "id": "s314"
+    },
+    {
+      "text": "I consider it appropriate to infer that the advertising to which the Committee had regard included the advertising of Xenical on the Australian Idol program and that the Committee further had regard to criticism, including media criticism, of that advertising.",
+      "id": "s315"
+    },
+    {
+      "text": "For the reason given above in respect of the October 2006 and the February 2007 decisions, I conclude that nothing in s 52C(a), s 52C(e), s 52D(2) or s 52E(1) rendered it impermissible for the Committee to have regard to that material in the context of the decision made by it in June 2007.",
+      "id": "s316"
+    },
+    {
+      "text": "Alleged Experiences and Practices of Pharmacists \n \n97 Roche's concern about the Committee having regard to \"the alleged experiences and/or practices of some pharmacists in dispensing orlistat to consumers\" appears to derive from two categories of information provided to the Committee.",
+      "id": "s317"
+    },
+    {
+      "text": "The first category was reports of anecdotal evidence that some girls as young as thirteen in the healthy weight range were asking pharmacists for Xenical.",
+      "id": "s318"
+    },
+    {
+      "text": "The second category was information provided by the ACA of a \"shadow shop\" of thirty pharmacists in the Sydney metropolitan area.",
+      "id": "s319"
+    },
+    {
+      "text": "The purpose of the shadow shop was to determine:\n \n (a) if people with a BMI of less than 30 with no risk factors were sold Xenical by pharmacies; and\n (b) if pharmacies were following the procedure developed by PSA in respect to sales of Xenical.",
+      "id": "s320"
+    },
+    {
+      "text": "98 ACA reported that 80% of the pharmacies were not following the guidelines when dispensing orlistat.",
+      "id": "s321"
+    },
+    {
+      "text": "99 The shadow shop information had not been collected at the time of the October 2006 meeting of the Committee.",
+      "id": "s322"
+    },
+    {
+      "text": "The relevant agenda paper for the Committee's October 2006 meeting did not refer to any alleged experiences or practices of pharmacists although an email from the ACA to a departmental officer, which was included with the agenda papers, refers to an allegation that girls as young as thirteen had been asking pharmacists for the drug since the Xenical advertisement appeared on Australian Idol .",
+      "id": "s323"
+    },
+    {
+      "text": "100 The record of reasons of the Committee's meeting of October 2006 contains only the following reference to the alleged experiences and practices of pharmacists:\n \n A Member informed the Committee that there had been a large number of anecdotal reports of patients for whom orlistat is not indicated seeking it from pharmacies and that this had followed the advertising of the product.",
+      "id": "s324"
+    },
+    {
+      "text": "Another member noted that this was anecdotal only and there was no documented evidence of this as a result of the product's inclusion in Appendix H. \n \n\n101 As indicated in [59] above, a review of the record of reason suggests that the decision taken by the Committee in October 2006 was based, at least primarily, on the criticisms made by the ACA and others of the advertising of Xenical during Australian Idol .",
+      "id": "s325"
+    },
+    {
+      "text": "Although some members of the Committee may have placed weight on the alleged experiences and practices of some pharmacists in dispensing orlistat to consumers, it seems unlikely that this matter affected the decision taken.",
+      "id": "s326"
+    },
+    {
+      "text": "In any event, and particularly having regard to the nature of the decisions taken by it at that time (ie to foreshadow consideration of the Appendix H listing of orlistat in order to give interested parties the opportunity to put forward submissions on the issue), I do not consider that anything in s 52C(a), s 52C(e), s 52D(2) or s 52E(1) of the Act rendered it impermissible for the Committee to have regard to the alleged experiences or practices of pharmacists in making its October 2006 decision.",
+      "id": "s327"
+    },
+    {
+      "text": "102 The relevant agenda paper for the Committee's February 2007 meeting referred to both categories of information concerning the alleged experiences and practices of some pharmacists in dispensing orlistat to consumers (see [97] above).",
+      "id": "s328"
+    },
+    {
+      "text": "Under the heading \"Pre-Meeting Submissions\" a detailed report is provided of the ACA \"shadow shopper\" survey.",
+      "id": "s329"
+    },
+    {
+      "text": "103 The agenda paper also includes a detailed analysis of the response provided by Roche to the TGA concerning the advertising of Xenical during Australian Idol .",
+      "id": "s330"
+    },
+    {
+      "text": "That response stressed the role of pharmacists in the supply of Xenical and described their involvement as an \"inherent safeguard\" against inappropriate supply of the product.",
+      "id": "s331"
+    },
+    {
+      "text": "Additionally the agenda paper summarises the main points made by Roche in its pre-hearing submission to the Committee.",
+      "id": "s332"
+    },
+    {
+      "text": "Within those points references are made to the experiences and practices of pharmacists generally and in dispensing orlistat to consumers.",
+      "id": "s333"
+    },
+    {
+      "text": "The agenda paper reported that Roche argued that \"direct to consumer advertising gives the greatest opportunity for the most appropriate patients to be guided by pharmacists\" .",
+      "id": "s334"
+    },
+    {
+      "text": "104 The agenda paper also made reference to a submission by PSA in opposition to the inclusion of orlistat in Appendix H. The PSA submission stated:\n \n As anticipated by the pharmacy profession, the commencement of branded advertising of orlistat has led to an increase in consumer demand for the product through community pharmacies.",
+      "id": "s335"
+    },
+    {
+      "text": "This could be viewed as a positive outcome if it has raised awareness in more people about health and weight management issues and available options for better and appropriate management.",
+      "id": "s336"
+    },
+    {
+      "text": "However, PSA has received feedback from its member pharmacists that branded advertising has also created at times unreasonable consumer expectations.",
+      "id": "s337"
+    },
+    {
+      "text": "While the Schedule 3 classification of orlistat is intended to provide the necessary and appropriate avenues for health professional intervention, this need is not readily understood by consumers.",
+      "id": "s338"
+    },
+    {
+      "text": "Not all consumers view orlistat from a quality use of medicines perspective.",
+      "id": "s339"
+    },
+    {
+      "text": "Consumers are increasingly taking the step to assume responsibility to self-manage their condition.",
+      "id": "s340"
+    },
+    {
+      "text": "Pharmacists report to PSA that when a consumer has seen a branded advertisement and subsequently come into a pharmacy seeking that product, in the majority of cases they have already made their own assessment about the need for and suitability of the product.",
+      "id": "s341"
+    },
+    {
+      "text": "Under these circumstances the intervention of the pharmacist as required for all Schedule 3 products and any clinical assessment to determine the actual suitability of the product for the individual are not always readily accepted by the consumer.",
+      "id": "s342"
+    },
+    {
+      "text": "In some cases, consumers have become angry as they resent the need to be assessed by the pharmacist when they have already made their own assessment and choice to self-medicate.",
+      "id": "s343"
+    },
+    {
+      "text": "PSA notes the various provisions in place that apply to all brand advertisements including additional specific clauses relating to weight management products to ensure advertisements have an appropriate balance between claims and references to diet and physical activity.",
+      "id": "s344"
+    },
+    {
+      "text": "Even with such provisions, pharmacists have encountered consumers who are very keen to self manage their condition and are convinced that orlistat is the product best suited to them.",
+      "id": "s345"
+    },
+    {
+      "text": "105 Additionally, the agenda paper makes reference to a number of submissions, including submissions from pharmacy industry bodies, supporting the retention of orlistat in Appendix H. Copies of all submissions received by the Committee were provided to Committee members with the agenda paper.",
+      "id": "s346"
+    },
+    {
+      "text": "106 The record of reasons of the February 2007 meeting refers to both categories of information concerning the dispensing of orlistat by pharmacies.",
+      "id": "s347"
+    },
+    {
+      "text": "It refers in some detail to the shadow shop survey and to related submissions made by the ACA.",
+      "id": "s348"
+    },
+    {
+      "text": "It also refers in some detail to the pre-meeting submission made by Roche.",
+      "id": "s349"
+    },
+    {
+      "text": "It summarised other submissions that supported the retention of orlistat in Appendix H and also submissions that opposed the appendix H listing of orlistat.",
+      "id": "s350"
+    },
+    {
+      "text": "107 The record of reasons highlights observations and comments made by various Committee members.",
+      "id": "s351"
+    },
+    {
+      "text": "It is noted that the Committee agreed that the ACA might more appropriately have directed its concerns regarding the shadow shop and pharmacist practice to the Pharmacy Board of NSW.",
+      "id": "s352"
+    },
+    {
+      "text": "It is also noted that a member questioned the validity of the selection of the pharmacies chosen for the shadow shop but that the Committee agreed that the results of the exercise were concerning.",
+      "id": "s353"
+    },
+    {
+      "text": "108 The terms in which the decision of the Committee is recorded are set out in [56] above.",
+      "id": "s354"
+    },
+    {
+      "text": "Relevantly those terms include reference to direct-to-consumer advertising having increased pressure on pharmacists to provide orlistat to consumers and the potential for this to result in inappropriate patterns of use in patients for whom orlistat is neither indicated nor appropriate.",
+      "id": "s355"
+    },
+    {
+      "text": "As noted above, notwithstanding the wording of the resolution adopted by the Committee, I accept that it is to be inferred from the terms in which the decision is formally recorded that in making its decision the Committee had regard to the alleged experiences and practices of some pharmacists in dispensing orlistat to consumers.",
+      "id": "s356"
+    },
+    {
+      "text": "109 I reject the submission that the Committee breached limits on its statutory powers by having regard to the alleged experiences and practices of some pharmacists in dispensing orlistat to consumers.",
+      "id": "s357"
+    },
+    {
+      "text": "Information before the Committee touching on these issues was capable of being regarded by the Committee as relevant to not only the extent and patterns of use of the substance (s 52E(1)(d)), but also the potential for abuse of the substance (s 52E(1)(g) and the purposes for which a substance is to be used (s 52E(1)(h).",
+      "id": "s358"
+    },
+    {
+      "text": "Reduction in the risk of inappropriate practice by pharmacists was also open to be regarded by the Committee as another matter that it considered necessary to protect public health (s 52E(1)(i).",
+      "id": "s359"
+    },
+    {
+      "text": "110 As indicated in [89] above, I also reject the submission that the Committee breached the limits placed upon its grant of power by considering potential rather than actual patterns of use of orlistat.",
+      "id": "s360"
+    },
+    {
+      "text": "111 The agenda paper for the June 2007 meeting of the Committee summarised the submissions received following the decision of February 2007 to delete orlistat from Appendix H. These included submissions from pharmacists, the PGA and the Australian Self Medication Industry as well as a detailed submission from Roche calling for the Appendix H status of orlistat to be reinstated.",
+      "id": "s361"
+    },
+    {
+      "text": "112 As noted above, the decision of the Committee in June 2007 was to confirm its February 2007 decision to revoke the Appendix H listing of orlistat.",
+      "id": "s362"
+    },
+    {
+      "text": "The draft minutes of the June 2007 identify the Committee's reasons for this decision as including the possibility that direct-to-consumer advertising may adversely affect the ability of pharmacists to provide advice about other appropriate weight management strategies and that safeguards such as education programs for pharmacists did not remove the potential for direct-to-consumer advertising to adversely affect appropriate provision of orlistat.",
+      "id": "s363"
+    },
+    {
+      "text": "113 Again, I consider it appropriate to infer that in making its decision the Committee had regard to the alleged experiences and practices of some pharmacists in dispensing orlistat to consumers.",
+      "id": "s364"
+    },
+    {
+      "text": "However, for the reasons set out in [72]-[89] above, I do not accept that the Committee thereby breached the limits of the power granted to it by s 52D(2) and s 52E.",
+      "id": "s365"
+    },
+    {
+      "text": "No New Data \n \n114 It is not clear whether Roche pressed the grounds of review that each of the October 2006, February 2007 and June 2007 decisions involved an error of law in that the Committee misconstrued s 52C(a), s 52C(e), s 52D(2) and s 52E(1) of the Act by construing one or more of those provisions as requiring or permitting it to determine to review the inclusion of orlistat in Schedule 3 and Appendix H to the Poisons Standard in the absence of any new data about the risks and benefits of using orlistat.",
+      "id": "s366"
+    },
+    {
+      "text": "Assuming that Roche did press these grounds of review, I reject them.",
+      "id": "s367"
+    },
+    {
+      "text": "As mentioned above, the functions of the Committee include making decisions in relation to the classification and scheduling of substances, maintaining the current Poisons Standard and undertaking public consultations with respect to matters relating to the classification and scheduling of substances.",
+      "id": "s368"
+    },
+    {
+      "text": "Nothing in the Act or the Regulations suggests that, having made a scheduling decision, the Committee becomes functus officio with respect to that substance unless and until new data about the risks and benefits of using the substance become available.",
+      "id": "s369"
+    },
+    {
+      "text": "As mentioned above, it is appropriate for the Committee to monitor the impact of decisions made by it under s 52D(2) and, provided that it follows the procedures mandated for scheduling decisions, to reconsider earlier decisions as it deems appropriate.",
+      "id": "s370"
+    },
+    {
+      "text": "Moreover, the Committee is not bound by the rules of evidence and may obtain information about an issue in any way its considers appropriate (reg 42ZCN).",
+      "id": "s371"
+    },
+    {
+      "text": "DECISION UNREASONABLE \n \n115 Roche submitted that the October 2006, February 2007 and June 2007 decisions were so unreasonable that no reasonable person could have exercised the power in the way the Committee did ( Associated Provincial Picture Houses Limited v Wednesbury Corporation [1947] EWCA Civ 1 ; [1948] 1 KB 223).",
+      "id": "s372"
+    },
+    {
+      "text": "It also submitted that the decisions lacked a \"legally defensible foundation\" in their factual material and in logic ( Luu v Renevier (1989) 91 ALR 39); were capricious and irrational ( Tickner v Bropho (1993) 40 FCR 183 at 197-199) or were so at variance with the material before the Committee as to be unreasonable ( Fuduche v Minister for Immigration, Local Government and Ethnic Affairs (1993) 45 FCR 515).",
+      "id": "s373"
+    },
+    {
+      "text": "116 The Committee accepted that its decisions are open to review under s 39B of the Judiciary Act on the ground of unreasonableness notwithstanding that the Court does not have jurisdiction to review those decisions under the ADJR Act .",
+      "id": "s374"
+    },
+    {
+      "text": "117 Roche placed particular weight on the following statement in the record of reason concerning the Committee's February 2007 decision:\n \n Orlistat is currently only indicated for use in a relatively small group of patients with serious and significant weight problems (those with a Body Mass Index (BMI) greater than 27 with other serious diseases, or those with a BMI greater than 30), not for the general population who might wish to manage more minor weight issues.",
+      "id": "s375"
+    },
+    {
+      "text": "118 As noted above it is not in dispute that there are approximately 1.6 million adults with a BMI greater than 27 with other serious diseases and 2.7 million adults with a BMI greater than 30 in Australia.",
+      "id": "s376"
+    },
+    {
+      "text": "I accept that this would not ordinarily be described as a relatively small group of patients.",
+      "id": "s377"
+    },
+    {
+      "text": "Indeed, the record of reasons of the Committee's February 2007 meeting records the Committee's appreciation that obesity is a major public health concern in Australia and its understanding that 67% of adult males and 52 percent of adult females were overweight or obese in 1999-2000.",
+      "id": "s378"
+    },
+    {
+      "text": "119 The record of reasons of the Committee are \"not to be scrutinised upon over-zealous judicial review by seeking to discern whether some inadequacy may be gleaned from the way in which the reasons are expressed\" ( Minister for Immigration and Ethnic Affairs v Wu Shan Liang [1996] HCA 6 ; (1996) 185 CLR 259 per Brennan CJ, Toohey, McHugh and Gummow JJ at 272).",
+      "id": "s379"
+    },
+    {
+      "text": "In particular, in the circumstances of this case, the different contexts in which the Committee evaluated the prevalence of obesity and other significant weight problems are important.",
+      "id": "s380"
+    },
+    {
+      "text": "120 In February 2006 the Committee agreed to include orlistat in Appendix H on the grounds of potential public health benefit.",
+      "id": "s381"
+    },
+    {
+      "text": "It was then concerned to identify the total number of adults in Australia for whom orlistat might be indicated.",
+      "id": "s382"
+    },
+    {
+      "text": "By contrast, in February 2007 the Committee was concerned to review the current scheduling and Appendix H listing of orlistat in the context of criticism of its earlier decision.",
+      "id": "s383"
+    },
+    {
+      "text": "That criticism was based in large part upon the advertising of Xenical during the television program Australian Idol .",
+      "id": "s384"
+    },
+    {
+      "text": "The reference in the Committee's record of reasons of February 2007 to the \"relatively small group of patients with serious and significant weight problems\" is, in my view, to be understood as a reference to the relatively small proportion of the viewers of Australian Idol who were likely to have serious and significant weight problems.",
+      "id": "s385"
+    },
+    {
+      "text": "That is, it is to be understood as a reflection on the audience to which the Committee understood the advertisements to be directed.",
+      "id": "s386"
+    },
+    {
+      "text": "The Committee, it may be assumed, would have adopted a different approach had Roche directed the advertisement to an audience comprised mainly or significantly of overweight adults by, for example, placing the advertisements in a magazine directed to adults with weights problems.",
+      "id": "s387"
+    },
+    {
+      "text": "121 For the above reasons, I do not accept that the reference in the Committee's record of reasons of February 2007 to a \"relatively small group of patients with serious and significant weight problems\" is suggestive of unreasonableness affecting the decision of the Committee.",
+      "id": "s388"
+    },
+    {
+      "text": "122 The other matters upon which Roche placed reliance in characterising the Committee's decisions as unreasonable were:\n \n \n &#8226; the Committee's earlier considered decision to include orlistat in Schedule 3 and Appendix H. \n \n \n \n \n \n &#8226; the detailed regime for regulating the advertising of the product, including the controls to ensure the proper targeting and balance of such advertising; \n \n \n \n \n \n &#8226; the powerful medical case in support of the product which had led to the decision to permit the advertisement of the branded product and which was accepted by the Committee in February 2006, and confirmed without demur (and with further support) in June 2006; \n \n \n \n \n \n &#8226; the absence of any new data about the risks or benefits of using orlistat (other than the fact that it had been scheduled by the FDA in the United States); \n \n \n \n \n \n &#8226; the detailed regime for the regulation of pharmacists governing the dispensing of Schedule 3 substances; \n \n \n \n \n \n &#8226; the extensive material before the Committee from pharmacists in support of the advertising of the product; \n \n \n \n \n \n &#8226; the Committee's consideration of unverified material concerning the alleged experiences or practices of pharmacists including anecdotal evidence and the \"shadow shop\" survey; \n \n \n \n \n \n &#8226; the \"fact\" that the removal of orlistat from Appendix H in the circumstances would bring the Committee and its scheduling decisions into disrepute; and \n \n \n \n \n \n &#8226; the fact that unproven and unsafe alternatives to orlistat may be advertised.",
+      "id": "s389"
+    },
+    {
+      "text": "123 I have already concluded that the Committee was entitled to reconsider its earlier decision and that it was permissible for the Committee to have regard to the advertising of Xenical and to the alleged experiences of pharmacists in dispensing orlistat to consumers.",
+      "id": "s390"
+    },
+    {
+      "text": "Although there were submissions before the Committee from pharmacists who supported the advertising of Xenical, there were also submissions before it from pharmacy industry bodies and others which opposed such advertising.",
+      "id": "s391"
+    },
+    {
+      "text": "In inviting the Court to review the above matters (some of which are contestable) for the purpose of finding that the decision of the Committee was unreasonable, Roche in reality invited the Court to engage in merits review of the decisions of the Committee.",
+      "id": "s392"
+    },
+    {
+      "text": "124 I reject the contention that by reason of any of the above matters, or the cumulative impact of some or all of them, the October 2006, February 2007 and June 2007 decisions of the Committee were so unreasonable that no reasonable person could have exercised the s 52D(2) power in the way that the Committee did.",
+      "id": "s393"
+    },
+    {
+      "text": "Nor am I satisfied that the decisions were otherwise capricious or irrational or without a legally defensible foundation.",
+      "id": "s394"
+    },
+    {
+      "text": "NO EVIDENCE/IMPROPER EXERCISE OF POWER \n \n125 Roche also contended that there was no evidence or other material to justify the making of the October 2006, February 2007 or June 2007 decisions of the Committee.",
+      "id": "s395"
+    },
+    {
+      "text": "This contention may be understood as a complaint concerning irrationality.",
+      "id": "s396"
+    },
+    {
+      "text": "126 Additionally Roche contended that the making of the decisions was an improper exercise of the power conferred by s 52C(a) and (e) of the Act.",
+      "id": "s397"
+    },
+    {
+      "text": "Section 52C is concerned with the functions rather than the power of the Committee.",
+      "id": "s398"
+    },
+    {
+      "text": "This contention is appropriately understood as a challenge to the Committee's exercise of power under s 52D(2).",
+      "id": "s399"
+    },
+    {
+      "text": "Roche complained that the Committee took into account irrelevant considerations and failed to take into account relevant considerations.",
+      "id": "s400"
+    },
+    {
+      "text": "127 For the reasons given above for rejecting the complaint of Wednesbury unreasonableness, I reject both of these contentions.",
+      "id": "s401"
+    },
+    {
+      "text": "NO PROPER DECISION \n \n128 Roche submitted that each of the February and June 2007 decisions involved the exercise of a personal power at the behest of another person or the exercise of a discretionary power in accordance with a rule or policy without regard to the merits of the particular case.",
+      "id": "s402"
+    },
+    {
+      "text": "It placed reliance on the extract from the transcript of the February 2007 meeting of the Committee set out in [51] above.",
+      "id": "s403"
+    },
+    {
+      "text": "The significance of the statements made by Committee members as recorded in that extract from the transcript of the meeting is explained by documents produced by two Committee members in response to subpoenas served on them.",
+      "id": "s404"
+    },
+    {
+      "text": "129 Shortly before the February 2007 meeting of the Committee, Mr James Galloway, the jurisdictional member of the Committee who represented Tasmania, advised Mr Roscoe Taylor, the Tasmanian Director of Public Health, that the Schedule 3 and Appendix H listing of orlistat was to be reconsidered at the Committee's February 2007 meeting and asked: \"Do you wish to direct me on voting on this matter?",
+      "id": "s405"
+    },
+    {
+      "text": "\" Mr Taylor responded: \"Unless you have any arguments to the contrary, I would like Tasmania to strongly support rescheduling Orlistat to S4\" .",
+      "id": "s406"
+    },
+    {
+      "text": "130 In early February 2007 Mr Healey, the jurisdictional member of the Committee who represented Queensland, advised the Chief Health Officer of Queensland that the scheduling status of orlistat would be reconsidered at the Committee's February 2007 meeting.",
+      "id": "s407"
+    },
+    {
+      "text": "He sought endorsement of a proposed Queensland position, namely that the approval for the continued advertising of orlistat be rescinded.",
+      "id": "s408"
+    },
+    {
+      "text": "The Chief Health Officer indicated her approval of the proposed position by an endorsement on the memorandum.",
+      "id": "s409"
+    },
+    {
+      "text": "131 I accept that the above evidence demonstrates that at least two jurisdictional members of the Committee sought advice from appropriately qualified senior officers of the executive branches of their respective governments as to the way in which they should vote when the issue of whether orlistat should be included in Appendix H was reconsidered by the Committee.",
+      "id": "s410"
+    },
+    {
+      "text": "There is no evidence that either of the two jurisdictional members exercised his vote at either of the February or June 2007 meetings contrary to his personal views or without regard to the merits of the case.",
+      "id": "s411"
+    },
+    {
+      "text": "However, I accept that it is more likely than not that each of them exercised his vote at the direction of another.",
+      "id": "s412"
+    },
+    {
+      "text": "In reaching this conclusion I place weight on the failure of either of them to give evidence.",
+      "id": "s413"
+    },
+    {
+      "text": "132 Nonetheless, I am not persuaded that their conduct resulted in the decision of the Committee being an improper exercise of the power vested in the Committee by s 52D(2) of the Act.",
+      "id": "s414"
+    },
+    {
+      "text": "This is because of the view which I take of the character of that power.",
+      "id": "s415"
+    },
+    {
+      "text": "133 Whether an exercise of a statutory power is improper so as to render the exercise a nullity is to be determined as a question of statutory construction.",
+      "id": "s416"
+    },
+    {
+      "text": "For the reasons set out in [26]-[41], I have concluded that at least the jurisdictional members of the Committee who are representatives of the Commonwealth, the States, the Northern Territory and the Australian Capital Territory are entitled to exercise their votes as members of the Committee at the direction of their respective governments.",
+      "id": "s417"
+    },
+    {
+      "text": "134 For this reason I also reject the submission of Roche that, because at least two jurisdictional members exercised their vote at the direction of others, procedures required to be observed in connection with the making of the decision were not observed.",
+      "id": "s418"
+    },
+    {
+      "text": "The procedures that Roche identified as necessary for a valid exercise of the Committee's power under s 52D(2) were that the decisions were required to be made by the Committee as a whole with all members present and voting:\n \n (a) participating in the meeting;\n (b) considering all arguments, including submissions and arguments made at the meeting; and\n (c) voting following such consideration.",
+      "id": "s419"
+    },
+    {
+      "text": "135 It is not necessary for a decision to be reached in this matter as to the validity of the above submission so far as it reaches to members of the Committee other than jurisdictional members.",
+      "id": "s420"
+    },
+    {
+      "text": "However, I do not accept its validity so far as jurisdictional members are concerned.",
+      "id": "s421"
+    },
+    {
+      "text": "In my view, neither the Act nor the Regulations discloses an intention that a decision of the Committee under s 52D(2) should be a nullity because jurisdictional members cast their votes as directed by their respective governments.",
+      "id": "s422"
+    },
+    {
+      "text": "DENIAL OF NATURAL JUSTICE \n \n136 It is not clear that Roche pressed its grounds of review that the October 2006 and the February 2007 decisions of the Committee involved breaches of the rules of natural justice.",
+      "id": "s423"
+    },
+    {
+      "text": "It advanced no submissions in support of the grounds.",
+      "id": "s424"
+    },
+    {
+      "text": "137 The extent to which the rules of natural justice apply to decisions of the Committee under s 52D(2) is controlled by the relevant provisions of the Act and Regulations ( Kioa v West [1985] HCA 81 ; (1985) 159 CLR 550 per Mason J at 577, Wilson J at 594, Brennan J at 609 and Deane J at 633).",
+      "id": "s425"
+    },
+    {
+      "text": "138 As outlined above (see [19]-[20]) the Regulations require advance public notice to be given of a meeting of the Committee at which a decision is to be made concerning the scheduling of a substance.",
+      "id": "s426"
+    },
+    {
+      "text": "They do not require advance notice to be given of a decision to foreshadow consideration of the scheduling of a substance.",
+      "id": "s427"
+    },
+    {
+      "text": "The Regulations establish a regime for the receipt and consultation of public submissions both before and following a scheduling decision.",
+      "id": "s428"
+    },
+    {
+      "text": "A sponsor who seeks a scheduling decision concerning a substance will, it may be assumed, make a submission in support of the scheduling decision sought by it.",
+      "id": "s429"
+    },
+    {
+      "text": "Certainly Roche did in respect of the scheduling of orlistat.",
+      "id": "s430"
+    },
+    {
+      "text": "A scheduling decision does not come into effect until after the Committee has had the opportunity to consider the further submissions, if any, made in response to its decision by those who made submissions concerning the scheduling decision.",
+      "id": "s431"
+    },
+    {
+      "text": "A record of the Committee's reasons for the decision are to be publicly accessible.",
+      "id": "s432"
+    },
+    {
+      "text": "139 In my view the statutory provisions which govern the exercise of the Committee's power under s 52D(2) of the Act do not disclose an intention that the exercise of that power is conditioned on sponsors of substances being given rights to be heard additional to the rights to make the submissions for which the Regulations provide.",
+      "id": "s433"
+    },
+    {
+      "text": "CONCLUSION \n \n140 The application will be dismissed with costs.",
+      "id": "s434"
+    },
+    {
+      "text": "I certify that the preceding one hundred and forty (140) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Branson.",
+      "id": "s435"
+    },
+    {
+      "text": "Associate:\n\nDated: 30 August 2007\n\n\n Counsel for the Applicant: Dr A S Bell SC and Mr M J Darke \n \n Solicitor for the Applicant: Minter Ellison \n \n Counsel for the Respondent: Mr G R Kennett \n \n Solicitor for the Respondent: Australian Government Solicitor \n \n Date of Hearing: 25, 26 and 27 July 2007 \n \n Date of Final Submissions: 7 August 2007 \n \n Date of Judgment: 30 August 2007 \n\n\n \n\n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/1352.html",
+      "id": "s436"
+    }
+  ]
+}

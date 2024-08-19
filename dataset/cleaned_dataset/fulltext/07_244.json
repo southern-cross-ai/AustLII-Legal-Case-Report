@@ -1,0 +1,556 @@
+{
+  "name": "QPSX Limited v Ericsson Australia Ltd (No 5) [2007] FCA 244 (1 March 2007)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2007/244.html",
+  "catchphrases": [
+    {
+      "text": "discovery of documents",
+      "id": "c0"
+    },
+    {
+      "text": "implied undertaking",
+      "id": "c1"
+    },
+    {
+      "text": "proposed release of discovered documents by applicant to litigation funder",
+      "id": "c2"
+    },
+    {
+      "text": "litigation funder not empowered to control or direct proceedings",
+      "id": "c3"
+    },
+    {
+      "text": "contractual entitlement in relation to settlement of proceedings",
+      "id": "c4"
+    },
+    {
+      "text": "insufficient specificity of purpose or range of documents to be disclosed to litigation funder",
+      "id": "c5"
+    },
+    {
+      "text": "application refused",
+      "id": "c6"
+    },
+    {
+      "text": "pleadings",
+      "id": "c7"
+    },
+    {
+      "text": "particulars",
+      "id": "c8"
+    },
+    {
+      "text": "insufficiency of particulars",
+      "id": "c9"
+    },
+    {
+      "text": "parts of pleading struck out as embarrassing",
+      "id": "c10"
+    },
+    {
+      "text": "practice and procedure",
+      "id": "c11"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Introduction \n \n1 In these proceedings QPSX Limited (QPSX) and its subsidiary sue Ericsson Australia Pty Ltd and its parent company, Telefonaktiebolaget LM Ericsson, together with Longreach Group Limited and Longreach Networks Pty Ltd.",
+      "id": "s0"
+    },
+    {
+      "text": "The causes of action relate to breach of a licensing agreement with respect to patent rights in technology used in telecommunications.",
+      "id": "s1"
+    },
+    {
+      "text": "Claims for misleading or deceptive conduct are also made.",
+      "id": "s2"
+    },
+    {
+      "text": "The proceedings were commenced on 4 May 2004.",
+      "id": "s3"
+    },
+    {
+      "text": "It is unnecessary to canvass the pleadings in detail as they have been reviewed in previous interlocutory judgments.",
+      "id": "s4"
+    },
+    {
+      "text": "2 The progress of this litigation has been punctuated by debate about the range of documents to be discovered, which is substantial, the pleadings and the involvement of a litigation funder, IMF (Australia) Limited (IMF).",
+      "id": "s5"
+    },
+    {
+      "text": "Directions hearings and case management conferences have been held.",
+      "id": "s6"
+    },
+    {
+      "text": "At this stage the parties are unlikely to be ready for trial before the beginning of 2008 and I have foreshadowed that I will be contemplating fixing trial dates at the next directions hearing.",
+      "id": "s7"
+    },
+    {
+      "text": "3 At a case management conference held on 23 February 2007 two matters were stood over for decision.",
+      "id": "s8"
+    },
+    {
+      "text": "They were:\n \n 1.",
+      "id": "s9"
+    },
+    {
+      "text": "The sufficiency of particulars of the further amended statement of claim provided by the applicants pursuant to an earlier order of the Court.",
+      "id": "s10"
+    },
+    {
+      "text": "2.",
+      "id": "s11"
+    },
+    {
+      "text": "Whether documents discovered by the Ericsson parties to the applicants should be made available to the applicants' litigation funder, IMF, for inspection.",
+      "id": "s12"
+    },
+    {
+      "text": "Other directions were made at the conference which was adjourned to 31 May 2007.",
+      "id": "s13"
+    },
+    {
+      "text": "4 For the reasons that follow I do not regard the particulars provided as sufficient to justify the conclusionary terms used in two paragraphs of the further amended statement of claim.",
+      "id": "s14"
+    },
+    {
+      "text": "Those words will be struck out of those paragraphs which can otherwise remain.",
+      "id": "s15"
+    },
+    {
+      "text": "The applicants have also failed to justify the general disclosure of discovered documents to their litigation funder.",
+      "id": "s16"
+    },
+    {
+      "text": "A more narrowly-based application, properly justified, will be entertained if made.",
+      "id": "s17"
+    },
+    {
+      "text": "The sufficiency of the applicants' particulars \n \n5 The present form of the applicants' statement of claim is a Further Amended Statement of Claim which was amended by leave on 31 October 2006 in terms of a minute filed on 15 August 2006.",
+      "id": "s18"
+    },
+    {
+      "text": "The orders made on 31 October 2006, subject to a requirement that the parties propose a timetable for their implementation, were replaced by orders on 23 November 2006 which repeated, but added to them, and fixed dates for compliance.",
+      "id": "s19"
+    },
+    {
+      "text": "6 The intellectual property in issue in this case includes patents referred to, in the further amended statement of claim, as the SAR Patents which relate to a method and apparatus for segmentation and reassembly technology in telecommunications.",
+      "id": "s20"
+    },
+    {
+      "text": "Another group of patents referred to as the QP Patents relate to a queuing protocol for a communications network for queued transmission of information in packets.",
+      "id": "s21"
+    },
+    {
+      "text": "7 Paragraphs 10 and 11 of the further amended statement of claim are in the following terms: \n \n \n 10 The method which is the subject of the SAR Patents, and the protocol which is the subject of the QP Patents, are integral parts of the Distributed Queue Dual Bus technology, which is also known as Queued Packet and Synchronous Exchange technology.",
+      "id": "s22"
+    },
+    {
+      "text": "Since 1988, the Distributed Queue Dual Bus technology has been an integral part of the international telecommunications standard approved by the Institute of Electrical and Electronics Engineers for metropolitan area networks known as IEEE 802.6.",
+      "id": "s23"
+    },
+    {
+      "text": "(Emphasis added)\n \n 11 A protocol known as Asynchronous Transfer Mode ( ATM ) has been developed as the networking standard for high-speed, high-capacity, voice, data, video and graphics transmission.",
+      "id": "s24"
+    },
+    {
+      "text": "The method which is the subject of the SAR patents is a fundamental element of the ATM protocol and is incorporated into the international ATM standard set by the International Telecommunication Union known as ITU specification I.363.5.",
+      "id": "s25"
+    },
+    {
+      "text": "(Emphasis added)\n \n \n\nParticulars of [11] are provided in the further amended statement of claim.",
+      "id": "s26"
+    },
+    {
+      "text": "8 The orders made on 23 November 2006 required the applicant to file and serve, by 15 December 2006, further particulars of the amended statement of claim: \n \n \n 3(a) i) as to paragraph 10, particulars of the facts relied upon to support the plea that the method which is the subject of the SAR Patents and the protocol which is the subject of the QP Patents are 'integral parts' of the Distributed Queue Dual Bus Technology and that the Distributed Queue Dual Bus Technology 'is an integral part' of the IEEE 802.6 Standard; \n ii) as to paragraph 10, particulars of the QP protocol; \n iii) as to paragraph 11, particulars of the facts relied upon to support the plea that the method which is the subject of the SAR patent is a 'fundamental element of the ATM protocol'.",
+      "id": "s27"
+    },
+    {
+      "text": "In Order 3(b) direction was also made that in any expert evidence which they filed in the proceedings the applicants to identify those aspects relied upon to support the particulars of [10] and [11].",
+      "id": "s28"
+    },
+    {
+      "text": "9 The particulars were not provided until 15 January 2007.",
+      "id": "s29"
+    },
+    {
+      "text": "The first part of those particulars relate to the plea in [10].",
+      "id": "s30"
+    },
+    {
+      "text": "They substantially repeat the facts set out in [8] and [9] of the further amended statement of claim and offer, as a conclusion based on those facts, the conclusion in [10].",
+      "id": "s31"
+    },
+    {
+      "text": "In [3] of these particulars the applicants assert a common feature of the SAR Patents Distributed Queue Dual Bus Technology and the IEEE 802.6 standard.",
+      "id": "s32"
+    },
+    {
+      "text": "The common feature is that each outlines a segmentation and reassembly method involving the transmission of variable length messages on a network from a source to a destination in fixed length slots which include a header field and a message segment.",
+      "id": "s33"
+    },
+    {
+      "text": "The method which is the common feature is then described in [4] of the particulars.",
+      "id": "s34"
+    },
+    {
+      "text": "The presence of the common feature is said, in [5] of the particulars, to mean that \"the method which is the subject of the SAR Patents is integral to the Distributed Queue Dual Bus technology, and that, in turn, the Distributed Queue Dual Bus technology is integral to the IEEE 802.6 Standard\".",
+      "id": "s35"
+    },
+    {
+      "text": "In my view the logic of the proposition that one is an integral part of the other because of a common feature is not apparent.",
+      "id": "s36"
+    },
+    {
+      "text": "The significance of the word \"integral\" remains unexplained.",
+      "id": "s37"
+    },
+    {
+      "text": "10 The particulars provided at [11] expand slightly upon those set out in the further amended statement of claim.",
+      "id": "s38"
+    },
+    {
+      "text": "They provide no intelligible basis for the description of the method the subject of the SAR Patents as \"a fundamental element of the ATM protocol\".",
+      "id": "s39"
+    },
+    {
+      "text": "Again, they identify a common feature of the SAR Patents and the AAL5 Standard, being the segmentation and reassembly method referred to in [1] of the particulars and further described in [2] of the particulars.",
+      "id": "s40"
+    },
+    {
+      "text": "11 There is, in any event, an inherent vice in the use of the words \"integral\" and \"fundamental\" which lie at the heart of the Ericsson objections.",
+      "id": "s41"
+    },
+    {
+      "text": "They are evaluative and difficult to justify by the provision of particulars.",
+      "id": "s42"
+    },
+    {
+      "text": "They are certainly not justified by the particulars which have been provided.",
+      "id": "s43"
+    },
+    {
+      "text": "No basis has been disclosed for their inclusion in [10] and [11].",
+      "id": "s44"
+    },
+    {
+      "text": "In my opinion I should strike out those two words from [10] and [11] on the basis that they are embarrassing.",
+      "id": "s45"
+    },
+    {
+      "text": "I will not strike out the balance of the paragraphs since the relationships described by the use of the words \"part\" and \"element\" are defined and limited by reference to the common features described albeit it is an awkward definition.",
+      "id": "s46"
+    },
+    {
+      "text": "The words\" part\" and \"element\" normally imply a greater whole in which they are incorporated.",
+      "id": "s47"
+    },
+    {
+      "text": "12 I will not order further particulars of the paragraphs.",
+      "id": "s48"
+    },
+    {
+      "text": "They will stand or fall according to the evidence relevant to them which will have to be disclosed and identified in accordance with Order 3(b) of the Orders made on 23 November 2006.",
+      "id": "s49"
+    },
+    {
+      "text": "I will entertain no further debate about the particulars or this pleading.",
+      "id": "s50"
+    },
+    {
+      "text": "Whether documents discovered to the applicants may be disclosed to IMF \n \n13 The applicants seek orders that they be permitted to provide IMF with a copy of the Ericsson parties' discovered documents in these proceedings (excluding category 17 documents to which confidentiality undertakings apply).",
+      "id": "s51"
+    },
+    {
+      "text": "They seek such an order because of the implied undertaking by solicitors for a party to whom documents are produced on discovery: \n \n ... that he himself will not use or allow the documents or copies of them to be used for any collateral or ulterior purpose of his own, his client or anyone else; and any breach of that implied undertaking is a contempt of court by the solicitor himself.",
+      "id": "s52"
+    },
+    {
+      "text": "Harman v Secretary of State for the Home Department [1983] 1 AC 280 at 304 (Lord Diplock).",
+      "id": "s53"
+    },
+    {
+      "text": "14 The rationale for the implied undertaking has been variously expressed.",
+      "id": "s54"
+    },
+    {
+      "text": "Lord Keith propounded it thus ( Harman [1983] 1 AC at 308): \n \n Discovery constitutes a very serious invasion of the privacy and confidentiality of a litigant's affairs.",
+      "id": "s55"
+    },
+    {
+      "text": "It forms part of English legal procedure because the public interest in securing that justice is done between parties is considered to outweigh the private and public interest in the maintenance of confidentiality.",
+      "id": "s56"
+    },
+    {
+      "text": "But the process should not be allowed to place upon the litigant any harsher or more oppressive burden than is strictly required for the purpose of securing that justice is done.",
+      "id": "s57"
+    },
+    {
+      "text": "In Lord Diplock's reasoning reliance appeared to be placed upon the unfair advantage that a party acquiring documents through the judicial process of discovery would obtain if empowered to use them for purposes unconnected with the proper conduct of the action.",
+      "id": "s58"
+    },
+    {
+      "text": "15 The majority in Harman 1 AC 280 applied the limitation even to documents which had been received or read in evidence.",
+      "id": "s59"
+    },
+    {
+      "text": "On the latter point, Lords Scarman and Simon dissented (at 313).",
+      "id": "s60"
+    },
+    {
+      "text": "The consideration which divided the dissenters from the majority is not material for present purposes and, in any event, has been overtaken by O 15 r 18 of the Federal Court Rules which provides, inter alia, that the implied undertaking ceases to apply to a document after it has been read to or by the Court or referred to in open court in such terms as to disclose its contents unless the Court otherwise orders.",
+      "id": "s61"
+    },
+    {
+      "text": "16 The application of the implied undertaking to proceedings in this Court was asserted by Northrop J in National Mutual Holdings Pty Ltd v Sentury Corporation &amp; Ors [1990] FCA 245 when his Honour said (at [17]): \n \n It is clear that according to Australian law a person who acquires a document pursuant to the processes of the Court is under a duty not to disclose or make use of that document for purposes other than the Court proceedings without the leave of the Court or the person from whom the document has been obtained.",
+      "id": "s62"
+    },
+    {
+      "text": "17 In Crest Homes Plc v Marks [1987] AC 829, which followed the decision of the House of Lords in Harman [1983] 1 AC at 280, Lord Oliver allowed that the undertaking could be modified to authorise use of discovered documents in other proceedings where there were \"special circumstances\".",
+      "id": "s63"
+    },
+    {
+      "text": "In Holpitt Pty Ltd v Varimu Pty Ltd (1991) 29 FCR 576, Burchett J commented on that test (at 578): \n \n As far as the expression \"special circumstances\" is concerned, it is an expression which is liable to be misunderstood unless care is taken to ask and answer the question, special in relation to what?",
+      "id": "s64"
+    },
+    {
+      "text": "\"Special\" is one of those words which derive almost all their meaning from the context ...",
+      "id": "s65"
+    },
+    {
+      "text": "If all that is required is that, among the great number of cases in the court in which documents have been discovered, this one must evince some special feature which affords a reason for releasing or modifying the undertaking, there will be no difficulty.",
+      "id": "s66"
+    },
+    {
+      "text": "Circumstances in which there is a legitimate reason why documents discovered in one proceeding should be made available in another will, viewed in this way, be rare.",
+      "id": "s67"
+    },
+    {
+      "text": "Lockhart J took a like approach in Sweetman v Australian Thoroughbred Pty Ltd [1992] FCA 1059 and both were followed by Wilcox J in Springfield Nominees Pty Limited v Bridgelands Securities Limited (1992) 38 FCR 217 at 223-225.",
+      "id": "s68"
+    },
+    {
+      "text": "In the latter case Wilcox J said (at 225): \n \n \n For \"special circumstances\" to exist it is enough that there is a special feature of the case which affords a reason for modifying or releasing the undertaking and is not usually present.",
+      "id": "s69"
+    },
+    {
+      "text": "The matter then becomes one of the proper exercise of the court's discretion, many factors being relevant.",
+      "id": "s70"
+    },
+    {
+      "text": "It is neither possible nor desirable to propound an exhaustive list of those factors.",
+      "id": "s71"
+    },
+    {
+      "text": "But plainly they include the nature of the document, the circumstances under which it came into existence, the attitude of the author of the document and any prejudice the author may sustain, whether the document pre-existed litigation or was created for that purpose and therefore expected to enter the public domain, the nature of the information in the document (in particular whether it contains personal data or commercially sensitive information), the circumstances in which the document came into the hands of the applicant for leave and, perhaps most important of all, the likely contribution of the document to achieving justice in the second proceeding.",
+      "id": "s72"
+    },
+    {
+      "text": "18 In the present case the applicants, in effect, seek to step around the special circumstances rule on the basis that their litigation funder, IMF, has a legitimate interest in the conduct of the litigation.",
+      "id": "s73"
+    },
+    {
+      "text": "On that basis they contend, in effect, that disclosure of discovered documents to IMF is consistent with the implied undertaking.",
+      "id": "s74"
+    },
+    {
+      "text": "19 In Cadence Asset Management Pty Ltd v Concept Store Ltd [2006] FCA 711 , Finkelstein J, faced with a similar application in relation to the same litigation funder said (at [6] and [7]):\n \n [6] The view that I take is that the implied undertaking does not prevent absolutely a party giving discovered documents to a non-party.",
+      "id": "s75"
+    },
+    {
+      "text": "There are circumstances in which a party has a legitimate interest in disclosing discovered documents to a non-party.",
+      "id": "s76"
+    },
+    {
+      "text": "Obvious examples include showing a discovered document to an actual or prospective witness or to an expert non-witness.",
+      "id": "s77"
+    },
+    {
+      "text": "Of course that is permissible; because in each case the document is being used for the action.",
+      "id": "s78"
+    },
+    {
+      "text": "There are also cases where a non-party has a legitimate interest in seeing discovered documents.",
+      "id": "s79"
+    },
+    {
+      "text": "...",
+      "id": "s80"
+    },
+    {
+      "text": "The reason permission is not required is that the provision of the documents is not for an ulterior or foreign purpose.",
+      "id": "s81"
+    },
+    {
+      "text": "Another way of putting it is that the non-party is not a true stranger to the action.",
+      "id": "s82"
+    },
+    {
+      "text": "[7] The private interests of the opposite parties are not affected if the documents are handed over.",
+      "id": "s83"
+    },
+    {
+      "text": "This is because the implied undertaking will bind any person to whom the documents are given ... at least once he is aware that the documents have been obtained by way of discovery...\n \n\nHis Honour held in that case that IMF was not a stranger to the action.",
+      "id": "s84"
+    },
+    {
+      "text": "It had a sufficient interest to be provided with the discovered documents or at least those it needed to assess the merits of the action.",
+      "id": "s85"
+    },
+    {
+      "text": "In my opinion the general disclosure of discovered documents and information derived there from to a party's litigation funder raises concerns which are not answered by saying that the litigation funder has an interest in the case.",
+      "id": "s86"
+    },
+    {
+      "text": "I note that Finkelstein J adverted to a possible limitation that disclosure to the litigation funder might go no further than was needed for it to assess the merits of the case.",
+      "id": "s87"
+    },
+    {
+      "text": "20 IMF is not a legal practitioner.",
+      "id": "s88"
+    },
+    {
+      "text": "It is in the business of financing litigation for reward.",
+      "id": "s89"
+    },
+    {
+      "text": "A large international corporation involved in many commercial transactions might well be concerned that the general disclosure of its discovered documents to such an entity could give rise to a risk that information derived from them could be placed on a database and at some time in the future used for other purposes or other proceedings.",
+      "id": "s90"
+    },
+    {
+      "text": "I do not suggest that this is likely to happen in the present case.",
+      "id": "s91"
+    },
+    {
+      "text": "However, the generic risk associated with the wider disclosure of the discovered documents is something which the party discovering those documents is entitled to take into account and be concerned about.",
+      "id": "s92"
+    },
+    {
+      "text": "It is entitled to seek specificity as to the documents to be disclosed and the purpose for which they are to be disclosed.",
+      "id": "s93"
+    },
+    {
+      "text": "This is particularly so given that the litigation funder, as in this case, does not have an interest in the cause of action nor any right to direct or control the conduct of the proceedings.",
+      "id": "s94"
+    },
+    {
+      "text": "It has certain rights in relation to their settlement which were referred to in my earlier judgment in relation to the application for a stay.",
+      "id": "s95"
+    },
+    {
+      "text": "Its limited involvement was a basis upon which its support of these proceedings was found not to be an abuse of process.",
+      "id": "s96"
+    },
+    {
+      "text": "As Callinan and Heydon JJ said in Campbells Cash and Carry Pty Ltd v Fostif Pty Ltd [2006] HCA 41 ; (2006) 229 ALR 58 at 131 [277] :\n \n It is a factor pointing against an abuse of process that the funder of litigation \"does not meddle at all\" or by its contract is left \"very little room to intermeddle\".",
+      "id": "s97"
+    },
+    {
+      "text": "Conversely, the more room to intermeddle, the more likely is it that the litigation is an abuse of process.",
+      "id": "s98"
+    },
+    {
+      "text": "Their Honours cited the earlier decision in these proceedings: QPSX Ltd v Ericsson Australia Pty Ltd (No 3) (2005) 219 ALR 1 at 16 [61].",
+      "id": "s99"
+    },
+    {
+      "text": "The second quotation in the above judgment came from that judgment.",
+      "id": "s100"
+    },
+    {
+      "text": "To the extent that general disclosure of documents to the funder increases the risk of \"intermeddling\" by the funder it undermines the basis upon which the proceedings were held not to involve an abuse of process.",
+      "id": "s101"
+    },
+    {
+      "text": "The rationale for the implied undertaking enunciated in Harman [1983] 1 AC 280, which also informs the \"special circumstances\" threshold, has relevance in this situation even if, which it is not necessary to decide, special circumstances would not be necessary to justify specific disclosures to the funder.",
+      "id": "s102"
+    },
+    {
+      "text": "21 The application to disclose documents to IMF was supported by an affidavit sworn by Mr Rollnik, a senior associate employed with the solicitors for the applicants.",
+      "id": "s103"
+    },
+    {
+      "text": "Mr Rollnik deposed that under its funding agreement with the applicants IMF had paid a sum of money on account of their legal costs and disbursements.",
+      "id": "s104"
+    },
+    {
+      "text": "He asserted that in consideration of that payment IMF had earned \"a legally enforceable interest in the outcome of the litigation\".",
+      "id": "s105"
+    },
+    {
+      "text": "A copy of the funding agreement was attached.",
+      "id": "s106"
+    },
+    {
+      "text": "22 There is a tension between that statement and the position taken by the applicants in opposition to the stay application made on the basis that they were in a champertous relationship with IMF.",
+      "id": "s107"
+    },
+    {
+      "text": "As I said in the judgment on that point in QPSX Ltd (No 3) 219 ALR at [51]:\n \n In my opinion the arrangements between IMF and the applicants do not constitute an assignment of the applicants' cause of action.",
+      "id": "s108"
+    },
+    {
+      "text": "The contractual obligation to pay a percentage of the sum (if any) recovered in the proceedings does not, without more, amount to such an assignment.",
+      "id": "s109"
+    },
+    {
+      "text": "23 I further observed at [60] in that judgment that: \n \n The obligation on the applicants to disclose information to IMF is said to conflict with their implied undertaking not to disclose documents obtained on discovery or pursuant to other coercive powers of the Court.",
+      "id": "s110"
+    },
+    {
+      "text": "As to that the contractual obligations cannot, in my opinion, overcome the implied undertaking not to disclose discovered or similar documents and the contract should be so read.",
+      "id": "s111"
+    },
+    {
+      "text": "Any breach of that undertaking by the applicants would be a contempt to which no contractual obligation would be a defence.",
+      "id": "s112"
+    },
+    {
+      "text": "24 In a letter dated 10 November 2006 Mr Rollnik wrote to the solicitors for the Ericsson parties stating that they were instructed that IMF had a funding agreement with the applicants and \"a recognised interest in this dispute\".",
+      "id": "s113"
+    },
+    {
+      "text": "He referred to Cadence Asset Management Pty Ltd [2006] FCA 711.",
+      "id": "s114"
+    },
+    {
+      "text": "In a further letter dated 29 November 2006 he described IMF's purpose in accessing the discovery as being \"to look after its interest in the litigation as set out in the Funding Agreement\".",
+      "id": "s115"
+    },
+    {
+      "text": "25 The Ericsson parties submitted that the Court should not entertain the applicants' application until they had had a reasonable opportunity to consider confidentiality issues with respect to specific documents the subject of the application.",
+      "id": "s116"
+    },
+    {
+      "text": "The broad brush approach of the applicants was said to place an unreasonable burden on them.",
+      "id": "s117"
+    },
+    {
+      "text": "Subject to the identification of specific documents the Ericsson parties might accede to the \"release\" of some or all of the documents identified.",
+      "id": "s118"
+    },
+    {
+      "text": "26 I agree with the submission of the Ericsson parties.",
+      "id": "s119"
+    },
+    {
+      "text": "I am not prepared to accede to the applicants' application in the general terms in which it is made.",
+      "id": "s120"
+    },
+    {
+      "text": "I do not think a general licence to disclose documents to IMF on the broad basis that it has a legitimate interest in the proceedings is a sufficient basis for such disclosure in light of the considerations to which I have earlier referred.",
+      "id": "s121"
+    },
+    {
+      "text": "I will therefore refuse the application.",
+      "id": "s122"
+    },
+    {
+      "text": "I certify that the preceding twenty-six (26) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice French.",
+      "id": "s123"
+    },
+    {
+      "text": "Associate:\nDated: 1 March 2007\n\n Counsel for the First and Second Applicants: Mr J A Thomson and Mr M Lundberg \n \n Solicitor for the First and Second First and Second Applicants: Mallesons Stephen Jaques \n \n Counsel for the First and Second Respondents: Dr J McL Emmerson QC and Mr RA Heath \n \n Solicitor for the First and Second Respondents: Carrick Kellow Smyth \n \n Date of Hearing: 22 February 2007 \n \n Date of Judgment: 1 March 2007 \n\n\n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/244.html",
+      "id": "s124"
+    }
+  ]
+}
