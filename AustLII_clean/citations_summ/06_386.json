@@ -1,0 +1,272 @@
+[
+  {
+    "text": "evidence",
+    "id": "cp0.0",
+    "type": "cited",
+    "from": "[2006]"
+  },
+  {
+    "text": "whether survey evidence is admissible",
+    "id": "cp0.1",
+    "type": "cited",
+    "from": "[2006]"
+  },
+  {
+    "text": "whether exception to the hearsay rule applies",
+    "id": "cp0.2",
+    "type": "cited",
+    "from": "[2006]"
+  },
+  {
+    "text": "whether discretion should be exercised to exclude survey evidence",
+    "id": "cp0.3",
+    "type": "cited",
+    "from": "[2006]"
+  },
+  {
+    "text": "non-compliance with practice note 11.",
+    "id": "cp0.4",
+    "type": "cited",
+    "from": "[2006]"
+  },
+  {
+    "text": "evidence",
+    "id": "cp1.0",
+    "type": "cited",
+    "from": "[2006]"
+  },
+  {
+    "text": "opinion evidence as to likely consumer behaviour excluded",
+    "id": "cp1.1",
+    "type": "cited",
+    "from": "[2006]"
+  },
+  {
+    "text": "not outside the knowledge and experience of a trier of fact",
+    "id": "cp1.2",
+    "type": "cited",
+    "from": "[2006]"
+  },
+  {
+    "text": "evidence of opinion as to ordinary human nature not admissible",
+    "id": "cp1.3",
+    "type": "cited",
+    "from": "[2006]"
+  },
+  {
+    "text": "alternatively evidence would be excluded on discretionary grounds",
+    "id": "cp1.4",
+    "type": "cited",
+    "from": "[2006]"
+  },
+  {
+    "text": "patents",
+    "id": "cp3.0",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "validity",
+    "id": "cp3.1",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "patent for (+)-enantiomer of the racemate, citalopram, and for method of obtaining that enantiomer",
+    "id": "cp3.2",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "patentee also held previous patent for the racemate",
+    "id": "cp3.3",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "both the racemate and the enantiomer, drugs for the treatment of depression",
+    "id": "cp3.4",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "(+)-citalopram claimed to be therapeutically more effective than citalopram",
+    "id": "cp3.5",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "challenge to validity of claim for (+)-citalopram",
+    "id": "cp3.6",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "construction of claim",
+    "id": "cp3.7",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "whether for (+)-enantiomer as an independently existing molecule or whether also for (+)-enantiomer when part of racemate",
+    "id": "cp3.8",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "whether claim for (+)-enantiomer anticipated by patent for citalopram",
+    "id": "cp3.9",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "whether (+)-enantiomer as an independent molecule was obvious",
+    "id": "cp3.10",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "australian test for obviousness",
+    "id": "cp3.11",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "application of that test to product claims for the (+)-enantiomer, and to method claim for the method of obtaining it",
+    "id": "cp3.12",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "lack of utility",
+    "id": "cp3.13",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "product claim for a dosage that, inter alia , was less than and more than a useful dosage range. held : (1) upon its proper construction, product claimed was the independently existing enantiomer; (2) the invention of the independently existing enantiomer was not anticipated by the patent for the racemate; (3) the australian \"matter of routine\" test for obviousness, when applied to the invention of the product, equated to the question whether those skilled in the art, as a matter of routine, would have had the goal of obtaining separate enantiomers in the expectation that one would be a desirable drug for the treatment of depression; (4) one of the product claims relating to dosage failed test of utility; (5) on the evidence, neither the (+)-enantiomer nor the method for obtaining it was obvious at the priority date.   patents",
+    "id": "cp3.14",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "extension of term",
+    "id": "cp3.15",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "patent for (+)-enantiomer of the racemate, citalopram, and for method of obtaining that enantiomer",
+    "id": "cp3.16",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "patentee also held previous patent for the racemate",
+    "id": "cp3.17",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "both the racemate and the enantiomer, drugs for the treatment of depression",
+    "id": "cp3.18",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "(+)-citalopram claimed to be therapeutically more effective than citalopram",
+    "id": "cp3.19",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "both cipramil (goods based on racemic citalopram) and lexapro (goods based on (+)-citalopram) entered in australian register of therapeutic goods (artg)",
+    "id": "cp3.20",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "application for extension of term of patent for (+)-citalopram",
+    "id": "cp3.21",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "commissioner of patents initially granted extension sought",
+    "id": "cp3.22",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "subsequently, following hearing before her delegate, decided to reduce term of extension on ground that \"first regulatory approval date\" was date when goods cipramil based on racemate had been entered in artg",
+    "id": "cp3.23",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "appeal by patentee",
+    "id": "cp3.24",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "opponent pharmaceutical company contending that no extension at all should have been granted because application for extension had been made outside six month period following date of first inclusion in artg of goods containing the (+)-enantiomer, namely, cipramil, of which the active pharmaceutical substance was the racemate",
+    "id": "cp3.25",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "questions of proper construction of patents act 1990 (cth) ss 70 , 71 , 77",
+    "id": "cp3.26",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "whether goods based on racemate \"contain\" individual enantiomer",
+    "id": "cp3.27",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "meaning of \"first regulatory approval date\" in s 70(5) of act. held : (1) cipramil contained pharmaceutical substance (+)-citalopram; (2) application for extension of term of patent had not been made within six months of first inclusion in artg of cipramil; (3) in circumstances, commissioner had lacked power to grant any extension to term of patent; (4) register of patents to be rectified by removal of particulars of extension.   patents",
+    "id": "cp3.28",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "infringement",
+    "id": "cp3.29",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "patent for (+)-enantiomer of the racemate, citalopram, and for method of obtaining that enantiomer",
+    "id": "cp3.30",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "generic company applying to therapeutic goods administration (tga) for registration of generic drug based on (+)-enantiomer of citalopram",
+    "id": "cp3.31",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "whether doctrine of \"mechanical equivalents\" or \"non-essential integers\" applicable to method of obtaining pharmaceutical compound",
+    "id": "cp3.32",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "generic pharmaceutical company producing generic drug only for purpose of applying for regulatory approval",
+    "id": "cp3.33",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "s 78(2) of patents act 1990 (cth).",
+    "id": "cp3.34",
+    "type": "citing",
+    "from": "[2008]"
+  }
+]

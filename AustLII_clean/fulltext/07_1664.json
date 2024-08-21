@@ -1,0 +1,712 @@
+{
+  "name": "Bailey v Veda Advantage Information Services and Solutions Limited [2007] FCA 1664 (2 November 2007)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2007/1664.html",
+  "catchphrases": [
+    {
+      "text": "representative proceedings",
+      "id": "c0"
+    },
+    {
+      "text": "application to strike out paragraphs of pleading",
+      "id": "c1"
+    },
+    {
+      "text": "application for summary dismissal",
+      "id": "c2"
+    },
+    {
+      "text": "three class actions by individuals claiming that credit information provider had supplied to subscribing credit providers misleading and deceptive and defamatory information concerning their credit worthiness",
+      "id": "c3"
+    },
+    {
+      "text": "challenge to identification of group members",
+      "id": "c4"
+    },
+    {
+      "text": "challenge to specification of common questions of fact and law",
+      "id": "c5"
+    },
+    {
+      "text": "whether pleaded imputations merely repeated express terms",
+      "id": "c6"
+    },
+    {
+      "text": "issue whether s 65a of trade practices act 1974 (cth) provides defence to credit information provider to the claim of contravention of s 52 of that act.",
+      "id": "c7"
+    },
+    {
+      "text": "three class actions by individuals claiming that credit information provider had supplied to subscribing credit providers misleading and deceptive and defamatory information concerning their credit worthiness",
+      "id": "c8"
+    },
+    {
+      "text": "challenge to identification of group members",
+      "id": "c9"
+    },
+    {
+      "text": "challenge to specification of common questions of fact and law",
+      "id": "c10"
+    },
+    {
+      "text": "whether pleaded imputations merely repeated express terms",
+      "id": "c11"
+    },
+    {
+      "text": "issue whether s 65a of trade practices act 1974 (cth) provides defence to credit information provider to the claim of contravention of s 52 of that act.",
+      "id": "c12"
+    },
+    {
+      "text": "three class actions by individuals claiming that credit information provider had supplied to subscribing credit providers misleading and deceptive and defamatory information concerning their credit worthiness",
+      "id": "c13"
+    },
+    {
+      "text": "challenge to identification of group members",
+      "id": "c14"
+    },
+    {
+      "text": "challenge to specification of common questions of fact and law",
+      "id": "c15"
+    },
+    {
+      "text": "whether pleaded imputations merely repeated express terms",
+      "id": "c16"
+    },
+    {
+      "text": "issue whether s 65a of trade practices act 1974 (cth) provides defence to credit information provider to the claim of contravention of s 52 of that act.",
+      "id": "c17"
+    },
+    {
+      "text": "practice and procedure",
+      "id": "c18"
+    },
+    {
+      "text": "defamation",
+      "id": "c19"
+    },
+    {
+      "text": "trade practices",
+      "id": "c20"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "(motions for striking out and summary dismissal) \n INTRODUCTION \n \n1 These reasons relate to motions brought by three amended notices of motion filed on 4 October 2007.",
+      "id": "s0"
+    },
+    {
+      "text": "The motions are brought by the respondent (Veda).",
+      "id": "s1"
+    },
+    {
+      "text": "They seek:\n \n \n &#8226; a striking out of certain paragraphs of the amended application in each of three proceedings pursuant to s 33ZF(1) of the Federal Court of Australia Act 1976 (Cth) (the FCA Act);\n &#8226; a striking out of certain paragraphs of the amended statement of claim in each of the proceedings pursuant to O 11 r 16 of the Federal Court Rules ;\n &#8226; a dismissal of certain claims pursuant to s 31A or s 33ZF(1) of the FCA Act in so far as the claims are based on certain parts of the amended statements of claim; and \n &#8226; an order pursuant to O 12 r 5(1) of the Federal Court Rules that each applicant supply particulars.",
+      "id": "s2"
+    },
+    {
+      "text": "2 The three proceedings are three of nine representative proceedings under Pt IVA of the FCA Act against Veda.",
+      "id": "s3"
+    },
+    {
+      "text": "The present three relate to events in New South Wales.",
+      "id": "s4"
+    },
+    {
+      "text": "Three of the others relate to events in Victoria and the remaining three to events in Queensland.",
+      "id": "s5"
+    },
+    {
+      "text": "3 All nine are brought by individuals on behalf of themselves and others whose complaints concern information provided by Veda to credit providers relating to the creditworthiness of the applicants and of the group members they respectively represent.",
+      "id": "s6"
+    },
+    {
+      "text": "Veda is a credit reporting agency, that is to say, it is a corporation that carries on a credit reporting business (I am using expressions taken from the Privacy Act 1988 (Cth), ss 6 and 11A ).",
+      "id": "s7"
+    },
+    {
+      "text": "4 Credit providers subscribe to Veda in order to have the benefit of information related to the creditworthiness of individuals who apply to them for credit.",
+      "id": "s8"
+    },
+    {
+      "text": "Veda maintains credit information files on a computer database in relation to individuals.",
+      "id": "s9"
+    },
+    {
+      "text": "The credit providers who subscribe are able to access, by computer, the credit information files that are part of the system set up by Veda.",
+      "id": "s10"
+    },
+    {
+      "text": "In addition, the subscribers themselves may update the information on those files by providing information known to them concerning individuals.",
+      "id": "s11"
+    },
+    {
+      "text": "5 Accordingly, Veda's subscribers are both the suppliers of information to the credit information files and the recipients of information from those files.",
+      "id": "s12"
+    },
+    {
+      "text": "I was told that on the final hearing there will be considerable evidence concerning the way in which the system just outlined operates.",
+      "id": "s13"
+    },
+    {
+      "text": "6 In the way in which the proceedings have been cast, each of the three relates to the reporting of a particular kind of problem associated with a person's creditworthiness.",
+      "id": "s14"
+    },
+    {
+      "text": "In the case of proceeding NSD 368/2007 in which Ms Szyczew is the applicant, the complaint is that the word \"Bankrupts\" was recorded and conveyed to subscribers in respect of Ms Szyczew and the members of the group on whose behalf she sues.",
+      "id": "s15"
+    },
+    {
+      "text": "In the case of proceeding NSD 371/2007 in which Mr Bailey is the applicant, the complaint is that the expression \"Clearouts\" or \"Clearouts (watched)\" was recorded and conveyed to subscribers in respect of Mr Bailey and the members of the group on whose behalf he sues.",
+      "id": "s16"
+    },
+    {
+      "text": "I infer that what is meant by those expressions is that the person, owing money, has ceased to be contactable.",
+      "id": "s17"
+    },
+    {
+      "text": "In proceeding NSD 393/2007 in which Mr Knochell is the applicant, the complaint is that the expression \"Payment Default\" was recorded and conveyed to subscribers in respect of Mr Knochell and the members of the group on whose behalf he sues.",
+      "id": "s18"
+    },
+    {
+      "text": "7 In each of the three proceedings, claims are made of contravention by Veda of s 52 of the Trade Practices Act 1974 (Cth) (the TP Act), defamation and negligence.",
+      "id": "s19"
+    },
+    {
+      "text": "THE DEFINITION OF THE CLAIM GROUP --- PARAGRAPHS 1 AND 2 OF THE AMENDED NOTICES OF MOTION \n \n8 Section 33C(1) of the FCA Act provides:\n \n (1) Subject to this Part, where: \n \n \n (a) 7 or more persons have claims against the same person; and \n \n \n \n \n (b) the claims of all those persons are in respect of, or arise out of, the same, similar or related circumstances; and\n (c) the claims of all those persons give rise to a substantial common issue of law or fact; \n \n \n \n \n a proceeding may be commenced by one or more of those persons as representing some or all of them.",
+      "id": "s20"
+    },
+    {
+      "text": "9 Section 33H of the FCA Act provides:\n \n \n (1) An application commencing a representative proceeding, or a document filed in support of such an application, must, in addition to any other matters required to be included: \n \n \n \n \n (a) describe or otherwise identify the group members to whom the proceeding relates; and\n (b) specify the nature of the claims made on behalf of the group members and the relief claimed; and\n (c) specify the questions of law or fact common to the claims of the group members.",
+      "id": "s21"
+    },
+    {
+      "text": "(2) In describing or otherwise identifying group members for the purposes of subsection (1), it is not necessary to name, or specify the number of, the group members.",
+      "id": "s22"
+    },
+    {
+      "text": "Order 73 r 3 of the Federal Court Rules provides that a representative proceeding must be commenced by filing an application in accordance with Form 129.",
+      "id": "s23"
+    },
+    {
+      "text": "The contents of Form 129 are framed with reference to s 33H(1)(a), (b), (c) of the FCA Act.",
+      "id": "s24"
+    },
+    {
+      "text": "That is to say, the applicant must identify the group members (para (a)), the claims made and the relief sought (para (b)), and the questions of law or fact common to the claims of the group members (para (c)).",
+      "id": "s25"
+    },
+    {
+      "text": "10 An unsatisfactory course was followed by the applicants in connection with the motions.",
+      "id": "s26"
+    },
+    {
+      "text": "The amended notices of motion were brought in respect of an \"amended application (as at 03.08.07)\" filed in each proceeding on 3 August 2007.",
+      "id": "s27"
+    },
+    {
+      "text": "Each applicant then prepared a \"proposed further amended application (as at 03.10.07)\" but it was impossible to address this document because paragraph and subparagraph numbers were repeated.",
+      "id": "s28"
+    },
+    {
+      "text": "The confusing nature of that document came to light after the hearing had begun.",
+      "id": "s29"
+    },
+    {
+      "text": "The applicants then sought leave, which I granted, to file a notice of motion seeking leave to file a further amended application in the form of the \"proposed further amended application as at 03.10.07\" in which the paragraph numbering had been corrected.",
+      "id": "s30"
+    },
+    {
+      "text": "Such a notice of motion was filed in Court on 4 October 2007 in proceeding NSD 371/2007 only.",
+      "id": "s31"
+    },
+    {
+      "text": "11 There were yet further unsatisfactory features of the hearing.",
+      "id": "s32"
+    },
+    {
+      "text": "Counsel for the applicant began by indicating yet further amendments the applicants proposed to make to their applications and statements of claim, and invited counsel for Veda to indicate if he would still have any objections.",
+      "id": "s33"
+    },
+    {
+      "text": "Counsel for the applicants said:\n \n ...we do accept that we need to make some changes there [in relation to group membership], but we submit they are fairly minor.",
+      "id": "s34"
+    },
+    {
+      "text": "I'll foreshadow the changes that we believe are indicated so that my friend knows what we are proposing to do, so if there's anything else, he can raise it at least at this stage, but it's really just a matter of clearing up a few small aspects, we submit, your Honour.",
+      "id": "s35"
+    },
+    {
+      "text": "Counsel proceeded to identify changes, apparently expecting counsel for Veda and the Court to address the proposed further amended application (as at 03.10.07) as if it were further amended by what counsel was saying.",
+      "id": "s36"
+    },
+    {
+      "text": "12 Counsel for Veda commenced his submission in reply by stating:\n \n It puts your Honour in a very difficult position to make a determination about leave to amend ... when the document before your Honour is being changed, amended, added to and deleted from on the run.",
+      "id": "s37"
+    },
+    {
+      "text": "I agree and expressed my agreement at the time.",
+      "id": "s38"
+    },
+    {
+      "text": "The result was a direction of the Court that the applicant in each proceeding supply a proposed further amended application and proposed further amended statement of claim incorporating all foreshadowed amendments.",
+      "id": "s39"
+    },
+    {
+      "text": "In Mr Bailey's and Mr Knochell's proceedings (NSD 371/2007 and NSD 393/2007) a \"proposed further amended application (as at 10.10.07)\" and a \"proposed further amended statement of claim (as at 10.10.07)\" were distributed on 15 October 2007.",
+      "id": "s40"
+    },
+    {
+      "text": "By consent between the parties, a proposed further amended application and a proposed further amended statement of claim are to be distributed in Ms Szyczew's proceeding (NSD 368/2007) by 7 November 2007.",
+      "id": "s41"
+    },
+    {
+      "text": "13 The course that has been followed by the applicants has been most unsatisfactory.",
+      "id": "s42"
+    },
+    {
+      "text": "It creates an intolerable burden on the Court, having heard detailed argument on one document, to have to address a new document and work out which arguments remain relevant and which do not.",
+      "id": "s43"
+    },
+    {
+      "text": "I have no doubt that in these reasons I will refer to some deficiencies that the applicants concede need to be remedied.",
+      "id": "s44"
+    },
+    {
+      "text": "Moreover, I find it convenient in some instances to refer to parts of superseded documents because the parties' submissions were addressed to them and apparently those parts have been carried forward in the superseding document.",
+      "id": "s45"
+    },
+    {
+      "text": "14 As will appear below, Veda succeeds on its motions in many respects and I will give the applicants leave to amend.",
+      "id": "s46"
+    },
+    {
+      "text": "However, I will require, as a condition of the exercise of that leave, that the solicitors and counsel for the applicants certify that they have carefully checked any amended documents that are to be filed and that those documents are correct so far as form is concerned.",
+      "id": "s47"
+    },
+    {
+      "text": "15 The importance of the identification of the group members on whose behalf a representative proceeding under Pt IVA of the FCA Act is brought, and of the specification of the common questions of law and fact hardly needs to be emphasised: see, for example, Bright v Femcare Limited (2002) 195 ALR 574; Petrusevski v Bulldogs Rugby League Ltd [2003] FCA 61.",
+      "id": "s48"
+    },
+    {
+      "text": "The reasons for careful identification of the group members have been explained in those two authorities.",
+      "id": "s49"
+    },
+    {
+      "text": "16 I will address the identification of the group in the amended application and amended statement of claim in Mr Bailey's proceeding (NSD 371/2007) but what I say will also relate to the other two proceedings.",
+      "id": "s50"
+    },
+    {
+      "text": "17 (1) Paragraph 1 of the proposed further amended application (as at 03.10.07) refers to Veda's \"databases, credit information files and credit reports\", yet the \"group membership criteria\" that follow refer only to a \"credit report\".",
+      "id": "s51"
+    },
+    {
+      "text": "I accept Veda's submission that a person reading the description would be left in doubt as to whether the person fell within the group if the reference to \"Clearouts\" or \"Clearouts (watched)\" was in only one of the three, and, in particular, if it appeared only in a database or credit information file but not in a credit report.",
+      "id": "s52"
+    },
+    {
+      "text": "I understand that the applicant accepts that paragraph 1 must be amended to omit the phrase \"databases, credit information files and\".",
+      "id": "s53"
+    },
+    {
+      "text": "18 (2) Also in paragraph 1 of the proposed further amended application (as at 03.10.07), the words \"more specifically\" are embarrassing since they leave unclear whether it is only persons within the six criteria (a) to (f) who satisfy the criteria for group membership.",
+      "id": "s54"
+    },
+    {
+      "text": "The words \"more specifically\" suggest that there may be two groups: one group that satisfies the words that precede the expression \"more specifically\" and another that satisfies the words that follow that expression.",
+      "id": "s55"
+    },
+    {
+      "text": "I note that the phrase still appears in the proposed further amended application (as at 10.10.07).",
+      "id": "s56"
+    },
+    {
+      "text": "19 (3) Paragraph 1(c) of the proposed further amended application (as at 03.10.07) refers to a document \"referred to in Schedule A\", but there is no Schedule A, other than the one annexed to the proposed further amended statement of claim.",
+      "id": "s57"
+    },
+    {
+      "text": "20 (4) Paragraph 1(c) concludes with the words \"which ... the Respondent also described in the Respondent's internet user guide as a \"serious credit infringement (confirmed clearouts only)\".",
+      "id": "s58"
+    },
+    {
+      "text": "The words are embarrassing surplusage.",
+      "id": "s59"
+    },
+    {
+      "text": "21 (5) Schedule \"A\" to the proposed further amended statement of claim (as at 10.10.07) relates only to the applicant, not to the group members.",
+      "id": "s60"
+    },
+    {
+      "text": "22 (6) Paragraph 2(f) of the same document wrongly contains \"particulars\".",
+      "id": "s61"
+    },
+    {
+      "text": "If that which is stated as particulars is truly part of a criterion, multiple groups are suggested.",
+      "id": "s62"
+    },
+    {
+      "text": "The applicant might well consider omitting the particulars entirely.",
+      "id": "s63"
+    },
+    {
+      "text": "23 The defects referred to in (1) and (4) above are repeated in paragraphs 1 and 2 of the existing amended statement of claim (as at 03.08.07).",
+      "id": "s64"
+    },
+    {
+      "text": "PURPORTED COMMON QUESTIONS OF FACT OR LAW --- PARAGRAPH 1 OF THE AMENDED NOTICES OF MOTION \n \n24 Paragraph 4 of the proposed further amended application (as at 03.10.07) in Mr Bailey's proceeding (NSD 371/2007) begins:\n \n The questions of fact common to the claims of the Applicant and the group members are --- \n \n \n (i) The facts, matters and circumstances pleaded in paragraphs 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 15, 16, 17, 18, 19, 20, 22 of the Amended Statement of Claim (\"ASOC\") --- particularly, but not limited to, the Respondent's method of business as pertaining to the Respondent's \"Honour System\" (as defined at paras 6(f), 6(g) &amp; 22 thereof).",
+      "id": "s65"
+    },
+    {
+      "text": "More specifically: ...\n \n \n\n25 Paragraph 4 does not pass muster in view of the words \"more specifically\".",
+      "id": "s66"
+    },
+    {
+      "text": "It is not possible to have a m&eacute;lange of \"facts, matters and circumstances\" which are \"more specifically\" questions of fact.",
+      "id": "s67"
+    },
+    {
+      "text": "26 I turn now to the paragraphs of the amended statement of claim referred to in paragraph 4 which Veda contends do not constitute common questions of fact.",
+      "id": "s68"
+    },
+    {
+      "text": "27 (1) Mr Bates of counsel who argued this aspect of the matter for the applicant conceded that paragraph 7 could not be relied on as stating a question of fact because it posed a question of law as to whether Veda was obliged to take reasonable steps at all material times directed to certain ends.",
+      "id": "s69"
+    },
+    {
+      "text": "28 (2) Paragraph 9 of the existing amended statement of claim (as at 03.08.07) relates only to the particular applicant and not to the represented group members.",
+      "id": "s70"
+    },
+    {
+      "text": "29 (3) I do not accept Veda's criticism that the extrinsic facts referred to in paragraph 10 of the existing amended statement of claim (as at 03.08.07) do not constitute a common question of fact because I construe that paragraph as meaning that there was only one single internet user guide known to all subscribing credit providers at all times.",
+      "id": "s71"
+    },
+    {
+      "text": "If the evidence shows that the internet user guide to which subscribers had access was in a different form from time to time, the applicant will fail on this point.",
+      "id": "s72"
+    },
+    {
+      "text": "However, that is an evidentiary matter for the trial.",
+      "id": "s73"
+    },
+    {
+      "text": "As a matter of pleading, the applicant succeeds on the point because he has relied on a single form of internet user guide having been available to subscribers throughout.",
+      "id": "s74"
+    },
+    {
+      "text": "If the applicant accepts that the content of the internet user guide did indeed change from time to time, the applicant will need to seek leave to amend.",
+      "id": "s75"
+    },
+    {
+      "text": "30 (4) I agree with Veda that paragraph 15 of the existing amended statement of claim (as at 03.08.07) does not specify a common question of fact, the suffering of loss and damage being a matter peculiar to the individual.",
+      "id": "s76"
+    },
+    {
+      "text": "31 (5) Paragraph 19 does not raise a common question of fact for the same reasons.",
+      "id": "s77"
+    },
+    {
+      "text": "32 (6) Paragraph 22 of the existing amended statement of claim (as at 03.08.07) does not raise a common question of fact.",
+      "id": "s78"
+    },
+    {
+      "text": "Whether something was \"untrue\" or \"false and misleading\" in relation to the applicant and each of the other group members is a question individual to each of them.",
+      "id": "s79"
+    },
+    {
+      "text": "33 (7) Paragraph 4(i) of the proposed further amended application (as at 03.10.07) (set out at [24] above) states \"more specifically\" before it lists six proposed questions of fact, each commencing \"Whether ...\".",
+      "id": "s80"
+    },
+    {
+      "text": "I have previously sustained the objection to the use of the term \"more specifically\" (see [18] above).",
+      "id": "s81"
+    },
+    {
+      "text": "34 I will now address the six questions listed in paragraph 4.",
+      "id": "s82"
+    },
+    {
+      "text": "(ii) This paragraph does specify a common question of fact.",
+      "id": "s83"
+    },
+    {
+      "text": "(iii) As related to a \"question\", the reference to the particulars to paragraphs 9 and 10 of the amended statement of claim (as at 03.08.07) is embarrassing, but a common mixed question of fact and law is specified.",
+      "id": "s84"
+    },
+    {
+      "text": "(iv) Paragraph 12 of the amended statement of claim (as at 03.08.07) does not specify a common question of fact.",
+      "id": "s85"
+    },
+    {
+      "text": "(v) This paragraph does not specify a common question of fact, although a question of fact may be able to be got out of it if it were reframed.",
+      "id": "s86"
+    },
+    {
+      "text": "(vi) This paragraph does specify a common question of fact.",
+      "id": "s87"
+    },
+    {
+      "text": "(vii) This paragraph does not specify a common question of fact.",
+      "id": "s88"
+    },
+    {
+      "text": "35 (8) I now turn to the proposed common questions of law.",
+      "id": "s89"
+    },
+    {
+      "text": "I will address these by reference to paragraph 5 and its subparagraphs in the proposed further amended application (as at 10.10.07): \n \n \n (i) Paragraphs 7(a) and 7(b) of the amended statement of claim do not plead an obligation owed by Veda to the applicant and to each of the group members , although I think this is implied.",
+      "id": "s90"
+    },
+    {
+      "text": "Generally speaking, the question whether an obligation (I prefer \"duty\") was owed is a common question of law.",
+      "id": "s91"
+    },
+    {
+      "text": "(ii) This paragraph specifies a common question of law.",
+      "id": "s92"
+    },
+    {
+      "text": "(iii) This paragraph commences \"The interaction and proper construction, on the pleaded facts, as between s 52 and s 65A of the Trade Practices Act 1974 (Cth).",
+      "id": "s93"
+    },
+    {
+      "text": "More specifically: ...\".",
+      "id": "s94"
+    },
+    {
+      "text": "The words \"more specifically\" are objectionable.",
+      "id": "s95"
+    },
+    {
+      "text": "It suffices to say in relation to (a) to (e) that although there is undoubtedly a common question of law in relation to s 65A , it is not appropriately captured in any of these paragraphs.",
+      "id": "s96"
+    },
+    {
+      "text": "(iv) This paragraph does not specify a common question of law.",
+      "id": "s97"
+    },
+    {
+      "text": "It is infected with the \"more specifically\" defect.",
+      "id": "s98"
+    },
+    {
+      "text": "The words following \"More specifically:\" do specify a common question of law, although I do not understand its relevance to the case.",
+      "id": "s99"
+    },
+    {
+      "text": "(v) This paragraph is again infected by the \"more specifically\" problem.",
+      "id": "s100"
+    },
+    {
+      "text": "As in (iv), the words following \"More specifically:\" do specify a common question of law, although, again, I do not understand its relevance to the case.",
+      "id": "s101"
+    },
+    {
+      "text": "IMPUTATIONS --- PARAGRAPH 2 OF THE AMENDED NOTICES OF MOTION \n \n36 Paragraphs in the amended statements of claim (as at 03.08.07) plead imputations alleged to have been conveyed by the disclosure of the applicants' credit reports.",
+      "id": "s102"
+    },
+    {
+      "text": "Each of these subparagraphs follows the same form.",
+      "id": "s103"
+    },
+    {
+      "text": "They are as follows:\n \n \n Bailey : \"17(f) The Applicant and each other group member is properly described as 'clearout' or 'clearout watched'\".",
+      "id": "s104"
+    },
+    {
+      "text": "Szyczew : \"17(b) The Applicant and each Group Member have been unable to pay their debts and were declared bankrupt in the Federal Court through the issue of a Sequestration Order\".",
+      "id": "s105"
+    },
+    {
+      "text": "Knochell : \"17(d) The Applicant and each other Group Member was not a properly described as having a Payment Default\".",
+      "id": "s106"
+    },
+    {
+      "text": "(It was agreed that there is an error in this subparagraph and that the words \"not a\" should be omitted.",
+      "id": "s107"
+    },
+    {
+      "text": ") \n\n37 The objection made is that these are not true imputations because, in substance, they simply repeat the express terms \"Bankrupts\", \"Clearouts\" or \"Clearouts (watched)\" or \"Payment Default\" as the case may be.",
+      "id": "s108"
+    },
+    {
+      "text": "Veda relies on Harvey v John Fairfax Publications Pty Ltd [2005] NSWCA 255 at [83] ff.",
+      "id": "s109"
+    },
+    {
+      "text": "In my view the criticism is well made.",
+      "id": "s110"
+    },
+    {
+      "text": "The pleading does not impute an act to, or state about, the applicant or other group member beyond that which is inherent in the expression used in Schedule \"A\" to the amended statement of claim.",
+      "id": "s111"
+    },
+    {
+      "text": "PUBLICATION BY OR TO A COMPUTER --- THE COMPUTER-TO-COMPUTER ISSUE --- PARAGRAPH 2 OF THE AMENDED NOTICES OF MOTION \n \n38 This issue arises from paragraph 18 of the amended statement of claim (as at 03.08.07).",
+      "id": "s112"
+    },
+    {
+      "text": "Paragraph 18 (common to all three proceedings) pleads a case alternative to publication to the minds of officers of the subscribing credit providers.",
+      "id": "s113"
+    },
+    {
+      "text": "It commences:\n \n \n 18.",
+      "id": "s114"
+    },
+    {
+      "text": "To the extent, if at all (which is not admitted), that the Court found that, notwithstanding the publication of the information in paragraph 16 above, the said information was not read in its entirety by an individual on behalf of the subscribers of the Respondent to whom such information was published, but was interpreted or assessed, wholly or in part, by a computer, which computer recommended that any application for credit be declined, the latter information and/or recommendation was nevertheless published by the Respondent (via computer) to the said subscriber or subscribers of the Respondent, and the said publication was read and comprehended by the said subscribers (by one or more natural persons who were servants or agents of each such subscriber) and conveyed the following imputations ...\n \n \n\n39 On 31 July 2007, Ebsworth &amp; Ebsworth, solicitors for Veda, wrote to Gerard Malouf &amp; Partners, solicitors for the applicants, asking them to specify the facts, matters and circumstances relied on in support of the allegation that Veda \"nevertheless published\" the information and/or recommendation.",
+      "id": "s115"
+    },
+    {
+      "text": "Gerard Malouf &amp; Partners replied that paragraph 18 spoke for itself.",
+      "id": "s116"
+    },
+    {
+      "text": "40 Ebsworth &amp; Ebsworth also noted that they assumed that the \"computer\" referred to in paragraph 18 was the credit provider's computer, but asked Gerard Malouf &amp; Partners to specify whose computer was referred to if that was not the case.",
+      "id": "s117"
+    },
+    {
+      "text": "Gerard Malouf &amp; Partners replied that \"It is either the Credit Provider's (subscriber's) computer or the Respondent's computer\".",
+      "id": "s118"
+    },
+    {
+      "text": "41 It is plain that on the pleading it is the computer of the credit provider (subscriber) only that is referred to.",
+      "id": "s119"
+    },
+    {
+      "text": "On the current pleading I would disallow the applicant to attempt to prove under paragraph 18 as presently formulated any different case.",
+      "id": "s120"
+    },
+    {
+      "text": "The applicant will need leave to amend if he wishes to have the option of proving a different case.",
+      "id": "s121"
+    },
+    {
+      "text": "CLAIM UNDER s 52 OF THE TP ACT AND THE OPERATION OF s 65A OF THE TP ACT --- PARAGRAPHS 5 AND 6 OF THE AMENDED NOTICES OF MOTION \n \n42 By paragraphs 5 and 6 of the amended notices of motion, Veda seeks to have the claims of contravention of s 52 of the TP Act struck out.",
+      "id": "s122"
+    },
+    {
+      "text": "In this respect the motions raised an interesting and important issue.",
+      "id": "s123"
+    },
+    {
+      "text": "That issue is whether the claim of contravention of s 52 of the TP Act cannot succeed by reason of s 65A of that Act.",
+      "id": "s124"
+    },
+    {
+      "text": "So far as relevant, s 65A provides:\n \n \n (1) Nothing in section 52, 53, 53A, 55, 55A or 59 applies to a prescribed publication of matter by a prescribed information provider, other than:\n (a) a publication of matter in connection with: \n \n \n \n \n (i) the supply or possible supply of goods or services; \n \n \n \n (ii) the sale or grant, or possible sale or grant, of interests in land;\n (iii) the promotion by any means of the supply or use of goods or services; or\n (iv) the promotion by any means of the sale or grant of interests in land; \n \n \n where: \n \n \n (v) the goods or services were relevant goods or services, or the interests in land were relevant interests in land, as the case may be, in relation to the prescribed information provider; or\n (vi) ... \n \n \n (b) a publication of an advertisement.",
+      "id": "s125"
+    },
+    {
+      "text": "(2) For the purposes of this section, a publication by a prescribed information provider is a prescribed publication if: \n \n \n \n \n (a) in any case -- the publication was made by the prescribed information provider in the course of carrying on a business of providing information; or\n (b) in the case of a person who is a prescribed information provider by virtue of paragraph (a), (b) or (c) of the definition of prescribed information provider in subsection (3) (whether or not the person is also a prescribed information provider by virtue of another operation of that definition) -- the publication was by way of a radio or television broadcast by the prescribed information provider.",
+      "id": "s126"
+    },
+    {
+      "text": "(3) In this section:\n prescribed information provider means a person who carries on a business of providing information and, without limiting the generality of the foregoing, includes: \n \n \n \n (a) the holder of a licence granted under the Broadcasting Services Act 1992 ; and\n (aa) a person who is the provider of a broadcasting service under a class licence under that Act; and\n (ab) the holder of a licence continued in force by subsection 5(1) of the Broadcasting Services (Transitional Provisions and Consequential Amendments) Act 1992 ; and \n \n \n \n \n (b) the Australian Broadcasting Corporation; and\n (c) the Special Broadcasting Service Corporation.",
+      "id": "s127"
+    },
+    {
+      "text": "relevant goods or services in relation to a prescribed information provider, means goods or services of a kind supplied by the prescribed information provider or, where the prescribed information provider is a body corporate, by a body corporate that is related to the prescribed information provider.",
+      "id": "s128"
+    },
+    {
+      "text": "43 Veda submits that it is a prescribed information provider because it provides information in relation to the creditworthiness of individuals.",
+      "id": "s129"
+    },
+    {
+      "text": "It submits that the pleaded publication by Veda to its subscribers was a \"prescribed publication\" because it was made by Veda \"in the course of carrying on a business of providing information\".",
+      "id": "s130"
+    },
+    {
+      "text": "44 On their face, these two propositions seem straightforward enough.",
+      "id": "s131"
+    },
+    {
+      "text": "45 Veda submits that the only exception to s 65A that is arguably relevant is a publication of matter in connection with the supply of services where the services were \"services of a kind supplied by\" Veda.",
+      "id": "s132"
+    },
+    {
+      "text": "46 Senior counsel for the applicant submits that it is inappropriate for this issue to be determined on the present motions.",
+      "id": "s133"
+    },
+    {
+      "text": "At the foundation of his submission is the special nature of the arrangement by which the information is recorded and supplied.",
+      "id": "s134"
+    },
+    {
+      "text": "Subscribers themselves cause information to be included in Veda's database, and access that database directly.",
+      "id": "s135"
+    },
+    {
+      "text": "The argument is, therefore, that Veda is not itself providing the information to the subscribers: they are providing the information to each other.",
+      "id": "s136"
+    },
+    {
+      "text": "47 I indicated to senior counsel for the applicant that it seemed to me that this argument raised an acute difficulty for the applicant.",
+      "id": "s137"
+    },
+    {
+      "text": "It is plain that according to his amended statement of claim (03.08.07) he has pleaded that Veda collected and supplied information.",
+      "id": "s138"
+    },
+    {
+      "text": "Indeed, in particulars to paragraph 6 of that pleading, the applicant actually refers to s 65A of the TP Act.",
+      "id": "s139"
+    },
+    {
+      "text": "It is not open to the applicant on the existing pleading to run a case that Veda did not supply the information to the credit providers.",
+      "id": "s140"
+    },
+    {
+      "text": "48 But let it be assumed that the applicant chose to run that case.",
+      "id": "s141"
+    },
+    {
+      "text": "It would seem to be quite clear that he would then be suing the wrong entity since his case would be that subscribing credit providers were the suppliers of the information, not Veda.",
+      "id": "s142"
+    },
+    {
+      "text": "49 Both parties referred me to several authorities in which s 65A of the TP Act has arisen for consideration: Horwitz Grahame Books Pty Ltd v Performance Publications Pty Ltd (1987) 8 IPR 25; Bond v Barry [2007] FCA 1484 ; Australian Competition &amp; Consumer Commission v Seven Network Limited [2007] FCA 1505.",
+      "id": "s143"
+    },
+    {
+      "text": "None of these cases resolves the issue raised here.",
+      "id": "s144"
+    },
+    {
+      "text": "50 As I see it, the applicant must elect between saying, as he says at present, that Veda supplied the information to its subscribing credit providers in the course of carrying on its business, in which case the applicant has sued the right entity but s 65A affords a complete answer to his claim, or saying that rather than Veda providing the information, the subscribing credit providers provided it to each other, in which case s 65A may be circumvented but the applicant would be shown to have sued the wrong entity.",
+      "id": "s145"
+    },
+    {
+      "text": "51 I would be reluctant to dismiss the claim based on the alleged contravention of s 52 of the TP Act under s 31A of the FCA Act at this stage because Mr Hale SC, senior counsel for the applicant, seemed to suggest that he may wish to amend the pleading to take into account in some way special features of the system operated by Veda with a view to circumventing s 65A.",
+      "id": "s146"
+    },
+    {
+      "text": "At present I do not see how he can do so, but I would not wish to deny him the opportunity.",
+      "id": "s147"
+    },
+    {
+      "text": "52 If the pleading is not amended, I would propose to grant the relief sought in paragraphs 5 and 6 of the amended notice of motion.",
+      "id": "s148"
+    },
+    {
+      "text": "CONCLUSION \n \n53 I propose to publish these reasons and give the parties an opportunity to consider them and to address me on the appropriate orders to be made, including orders as to costs.",
+      "id": "s149"
+    },
+    {
+      "text": "54 At present I am inclined to the view that certain paragraphs of the proposed further amended application (as at 03.10.07) should be struck out with liberty to amend; that the amended statement of claim (03.08.07) should be struck out in its entirety with liberty to file a further amended statement of claim, and that the respective applicants should pay Veda's costs of the motions.",
+      "id": "s150"
+    },
+    {
+      "text": "As noted above at [14], a condition of the applicants' exercise of the leave to amend would be that the solicitors and counsel for the applicants certify that any amended documents that are to be filed have been carefully checked and found to be correct so far as form is concerned.",
+      "id": "s151"
+    },
+    {
+      "text": "55 I would urge the parties to seek to agree on the orders to be made.",
+      "id": "s152"
+    },
+    {
+      "text": "I certify that the preceding fifty-five (55) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Lindgren.",
+      "id": "s153"
+    },
+    {
+      "text": "Associate:\n\nDated: 2 November 2007\n\n\n Proceedings NSD 368 of 2007, NSD 371 of 2007 and NSD 393 of 2007 \n\n Counsel for the Applicant\nin each proceeding: Mr T S Hale SC, Mr P W Bates and Mr P Nagle \n \n Solicitor for the Applicant\nin each proceeding: Gerard Malouf &amp; Partners \n \n Counsel for the Respondent\nin each proceeding: Mr P M Wood and Mr M S White \n \n Solicitor for the Respondent\nin each proceeding: Ebsworth &amp; Ebsworth \n \n Date of Hearing: 4 October 2007 \n \n Date of Judgment: 2 November 2007 \n\n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/1664.html",
+      "id": "s154"
+    }
+  ]
+}

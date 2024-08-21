@@ -1,0 +1,368 @@
+{
+  "name": "Commissioner of Taxation v Cumins [No 2] [2008] FCA 354 (17 March 2008)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2008/354.html",
+  "catchphrases": [
+    {
+      "text": "discovery",
+      "id": "c0"
+    },
+    {
+      "text": "applicant already provided significant discovery",
+      "id": "c1"
+    },
+    {
+      "text": "failure by respondent to articulate need for discovery of further documents",
+      "id": "c2"
+    },
+    {
+      "text": "whether it would be oppressive to grant discovery.",
+      "id": "c3"
+    },
+    {
+      "text": "practice and procedure",
+      "id": "c4"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "1 Mr Cumins, the respondent in the bankruptcy petition brought by the Deputy Commissioner of Taxation, seeks discovery of documents by motion dated 21 January 2008.",
+      "id": "s0"
+    },
+    {
+      "text": "BACKGROUND \n \n2 The respondent, Mr Cumins, invested in excess of $5 million in what he described as \"Infomercial Schemes\" between 1996 and 1998.",
+      "id": "s1"
+    },
+    {
+      "text": "An \"Infomercial\", according to the respondent, is an advertising film which is generally shown on television and promotes a product in an informative and objective style.",
+      "id": "s2"
+    },
+    {
+      "text": "3 On 23 October 2000, the applicant issued Notices of Amended Assessments to the respondent for the years ended 30 June as follows:\n Year Ended Amount \n 1996 $ 3,344,884.24\n 1997 $ 2,836,956.98\n 1998 $12,954,263.05\n TOTAL $19,136,104.27\n \n4 Those assessments were related to tax deductions claimed by the respondent in connection with his investments in the Infomercial Schemes.",
+      "id": "s3"
+    },
+    {
+      "text": "Those tax deductions were disallowed by the applicant.",
+      "id": "s4"
+    },
+    {
+      "text": "5 On 23 November 2000 the applicant issued further Notices of Amended Assessments to the respondent for the years ended 30 June as follows: \n Year Amount \n 1995 $ 243,360.31\n 1996 $ 123,141.55\n 1998 $2,619,580.49\n \n TOTAL $2,986,082.35\n \n6 In February 2001 the applicant filed a writ in the Supreme Court of Western Australia to recover from the respondent the amounts of both the October and November 2000 assessments as well as interest and other charges.",
+      "id": "s5"
+    },
+    {
+      "text": "7 On 3 August 2001 the respondent commenced review proceedings in the AAT in respect of each of the applicant's decisions to disallow the respondent's objections to the assessments issued on 23 October 2000.",
+      "id": "s6"
+    },
+    {
+      "text": "In February 2005 the respondent withdrew the proceedings.",
+      "id": "s7"
+    },
+    {
+      "text": "The respondent says that he did so because he did not have the assistance of the promoters of the Infomercial Schemes including Mr Peter Leslie Ambrosy and that without his assistance it was not possible for him to present his case in the AAT.",
+      "id": "s8"
+    },
+    {
+      "text": "Pursuant to s 42(A)1B of the Administrative Appeals Tribunal Act 1975 , the affect of the withdrawal was that the AAT proceedings were considered to have been dismissed.",
+      "id": "s9"
+    },
+    {
+      "text": "8 In Australian Securities &amp; Investments Commission v Infomercial Management Group Pty Ltd [2002] VSC 262 at [58] the Supreme Court of Victoria held that certain Infomercial schemes were a fraud on the investors, if not on the Australian Taxation Office.",
+      "id": "s10"
+    },
+    {
+      "text": "These schemes, so claims the respondent, were the ones in which he had invested.",
+      "id": "s11"
+    },
+    {
+      "text": "9 Importantly, other than in relation to a very small sum comprised in the 1998 assessment, none of the November 2000 assessments concerned the respondent's investments in the Infomercial Schemes.",
+      "id": "s12"
+    },
+    {
+      "text": "The assessment for 1998 for $2,619580.49 was subject to objections by the respondent.",
+      "id": "s13"
+    },
+    {
+      "text": "These objections failed as did a subsequent review before the Administrative Appeals Tribunal (AAT).",
+      "id": "s14"
+    },
+    {
+      "text": "In February 2005 an appeal to this Court from the decision of the AAT was dismissed by consent.",
+      "id": "s15"
+    },
+    {
+      "text": "The November 2000 assessments for 1995 and 1996 have never been the subject of an application for review or legal challenge.",
+      "id": "s16"
+    },
+    {
+      "text": "10 On 15 June 2005 a summary judgment was entered in the Supreme Court proceedings against the respondent for the sum of $38,084,522.24 including interest.",
+      "id": "s17"
+    },
+    {
+      "text": "The respondent did not consent to the judgment but did not oppose it.",
+      "id": "s18"
+    },
+    {
+      "text": "The amount of the judgment attributable to the assessments made on 23 November 2000 was $4,778,969.82 including interest charges.",
+      "id": "s19"
+    },
+    {
+      "text": "The amount of $243,360.31 contained in the amended assessment issued on 23 November 2000 in respect of the 1995 financial year was not included in the judgment sum because it had by then been paid.",
+      "id": "s20"
+    },
+    {
+      "text": "However interest on this sum was claimed in the writ.",
+      "id": "s21"
+    },
+    {
+      "text": "11 On 17 March 2006 the Deputy Commissioner issued a bankruptcy notice which was duly served on the respondent requiring payment, within 21 days after service, in the amount of $38,051,066.24.",
+      "id": "s22"
+    },
+    {
+      "text": "The amount demanded comprised the sum of the judgment less an amount of $33,456 described in the bankruptcy notice as \"payments made and/or credits allowed since date of judgments or orders\".",
+      "id": "s23"
+    },
+    {
+      "text": "12 On 23 August 2006 the respondent filed a Notice of Appeal in the Supreme Court (CACV 107 of 2006) out of time, to set aside the summary judgment on the basis that he was defrauded by the promoters of a tax avoidance scheme.",
+      "id": "s24"
+    },
+    {
+      "text": "In February 2007 a single judge dismissed the respondent's application for an extension of time to appeal.",
+      "id": "s25"
+    },
+    {
+      "text": "In February 2007 the respondent filed an application for review by the Court of Appeal, which was ultimately dismissed.",
+      "id": "s26"
+    },
+    {
+      "text": "13 The respondent also failed in proceedings in this Court by which he had sought to set aside the Bankruptcy Notice.",
+      "id": "s27"
+    },
+    {
+      "text": "This culminated in his appeal to the Full Court (WAD 361 of 2006) being dismissed on 24 December 2007: Cumins v Deputy Commissioner of Taxation [2007] FCAFC 207.",
+      "id": "s28"
+    },
+    {
+      "text": "14 In November 2007 the respondent applied to the AAT to reinstate the proceedings which had been dismissed in 2005.",
+      "id": "s29"
+    },
+    {
+      "text": "15 On 29 January 2008 the District Registrar made orders that the respondent be permitted to use all documents filed in the AAT proceedings.",
+      "id": "s30"
+    },
+    {
+      "text": "Orders were also made that the applicant give discovery of any document recording or relating to any record of any kind dealing with any Running Balance Account as defined by s 8AAZA of the Taxation Administration Act 1953 (Cth) established by the applicant in relation to the respondent since 1 July 2000 as well as any record of any kind dealing with the receipt and application of payments made on behalf of the respondent to the applicant since 1 July 2004.",
+      "id": "s31"
+    },
+    {
+      "text": "Discovery in accordance with those orders was given by a list of documents filed on 6 February 2008.",
+      "id": "s32"
+    },
+    {
+      "text": "It comprised 19 volumes of documents.",
+      "id": "s33"
+    },
+    {
+      "text": "THE DOCUMENTS \n \n16 It is only the balance of the documents set out in the motion which are now sought.",
+      "id": "s34"
+    },
+    {
+      "text": "These are contained in paras 1(a) and 1(b) as follows: \n \n \n 1.",
+      "id": "s35"
+    },
+    {
+      "text": "That the Applicant give discovery of any document in its possession, custody or control (including any communication, note or memorandum of a conversation, note or memorandum of a meeting, memorandum, note, report, working paper, or any draft thereof) recording or relating to: \n \n (a) the Respondent since 1995;\n \n \n \n \n \n (b) the Applicant's investigations into the Infomercial Projects between 1995 and 2003.",
+      "id": "s36"
+    },
+    {
+      "text": "17 It is said that the documents are required in order to prepare the respondent for addressing this Court on the merit of the underlying debt in accordance with Wren v Mahony [1972] HCA 5 ; (1972) 126 CLR 212 at 224.",
+      "id": "s37"
+    },
+    {
+      "text": "In other words the respondent seeks to go behind the Supreme Court summary judgment.",
+      "id": "s38"
+    },
+    {
+      "text": "18 The respondent filed an affidavit sworn on 15 March 2007 in support of his opposition to the petition.",
+      "id": "s39"
+    },
+    {
+      "text": "He has filed further affidavits sworn by him on 6 December 2007, 21 January 2008 and 13 February 2008.",
+      "id": "s40"
+    },
+    {
+      "text": "19 The applicant submits that it would be oppressive to be required to discover these documents.",
+      "id": "s41"
+    },
+    {
+      "text": "Ms Yen-Lin Chong, a litigator employed in the Legal Services Branch of the Australian Taxation Office deposes as follows: \n \n \n 63.",
+      "id": "s42"
+    },
+    {
+      "text": "Some of the documents in the applicant's possession, custody or control pertaining to the respondent since 1995 and the applicant's investigations into the Infomercial Project between 1995 and 2003 are contained in two six-foot high double-doored cabinets and approximately fifty lever arch files.",
+      "id": "s43"
+    },
+    {
+      "text": "64.",
+      "id": "s44"
+    },
+    {
+      "text": "The volume of documents which fall into the categories identified by the respondent are so voluminous that: \n \n \n \n \n \n \n 64.1. the time required to locate, identify and inspect the documents would take weeks, if not months, as would the process of preparing a list of discovered documents; and \n \n \n \n \n \n \n \n 64.2. the process of discovery would be a very costly and time consuming exercise to the extent of being oppressive.",
+      "id": "s45"
+    },
+    {
+      "text": "65.",
+      "id": "s46"
+    },
+    {
+      "text": "I verily believe that the time and cost of discovery in the terms sought by the respondent would grossly outweigh the benefit, if any, obtained and would only serve to further delay the determination of the applicant's petition for bankruptcy.",
+      "id": "s47"
+    },
+    {
+      "text": "20 The respondent submits that the list of documents filed in these proceedings on 6 February 2008 has created areas of interest which should be the subject of further discovery.",
+      "id": "s48"
+    },
+    {
+      "text": "In particular he submits that:\n \n \n (a) the Applicant appears to have kept running balance accounts in relation to him, this being in issue in the Full Federal Court Appeal (WAD 361 of 2006).",
+      "id": "s49"
+    },
+    {
+      "text": "(b) the garnishee payment for June 2005 seems to have been paid to the Applicant but not credited in Applicant's account history for him in accordance with the method employed in relation to the other garnishee payments.",
+      "id": "s50"
+    },
+    {
+      "text": "(c) there should be a record of when the Applicant became aware of PAYG withholding payments which are absent from the running balance accounts furnished to him to date.",
+      "id": "s51"
+    },
+    {
+      "text": "21 Orders were made by Registrar Jan on 29 January 2008 in terms of paragraph 1(c) of the motion.",
+      "id": "s52"
+    },
+    {
+      "text": "This responds to the respondent's submissions set out at para 20(a) above.",
+      "id": "s53"
+    },
+    {
+      "text": "The matter of garnishee payments had been the subject of a prior affidavit of Nola Kathleen Rice, an officer employed within the Australian Taxation Office, sworn 28 August 2006 in response to an application by the respondent to set aside the bankruptcy notice in which at [19] she sets out the garnishee payments on behalf of the respondent received by the applicant.",
+      "id": "s54"
+    },
+    {
+      "text": "In his affidavit sworn 5 September 2006 in that same action the respondent [3] responds by annexing the notices of assessment but otherwise taking no issue with Ms Rice's summary of payments, including in particular that any payments made by the respondent have been omitted.",
+      "id": "s55"
+    },
+    {
+      "text": "The garnishee payments are further explained in the affidavit of Yen-Lin Faith Chong sworn 19 February 2008.",
+      "id": "s56"
+    },
+    {
+      "text": "The matter raised in written submissions set out at para 20(c) above was not explained and it is difficult to discern its relevance to any matter at issue in the Bankruptcy proceeding.",
+      "id": "s57"
+    },
+    {
+      "text": "22 No submissions were made as to why all of the applicant's documents in respect to its investigations into the Infomercial Schemes between 1995 and 2003 should be discovered other than to the effect that they must be relevant to the respondent.",
+      "id": "s58"
+    },
+    {
+      "text": "I do not regard that as satisfactory.",
+      "id": "s59"
+    },
+    {
+      "text": "No attempt was made by counsel for the respondent to articulate an issue, or answer, or a possible answer to the Bankruptcy petition to which any of these documents would be relevant.",
+      "id": "s60"
+    },
+    {
+      "text": "I do not regard what the respondent deposed to at paras [29]-[30] in his affidavit of 23 August 2006, in relation to his Notice of Appeal in the Supreme Court, as support for the orders sought.",
+      "id": "s61"
+    },
+    {
+      "text": "These statements of the respondent's belief are conjectural and argumentative.",
+      "id": "s62"
+    },
+    {
+      "text": "They were not the subject of specific submissions by counsel.",
+      "id": "s63"
+    },
+    {
+      "text": "23 Likewise, no attempt was made to justify the need for discovery of all documents in the applicant's possession, custody or control relating to the respondent since 1995.",
+      "id": "s64"
+    },
+    {
+      "text": "24 At a further hearing on 10 March 2008, it was submitted by the respondent that the summary judgment figure had been overstated by $243,360.31.",
+      "id": "s65"
+    },
+    {
+      "text": "This is the Amended Tax Assessment figure issued on 23 November 2000 for the year ended 30 June 1995 and set out at para [17.1] of Ms Chong's affidavit sworn 29 January 2008.",
+      "id": "s66"
+    },
+    {
+      "text": "25 It is common ground that this amount has already been paid.",
+      "id": "s67"
+    },
+    {
+      "text": "26 The evidence of Ms Chong in her affidavit of 29 January 2008 which was before the Court at the first hearing is to the effect that the amount of $243,360.31 was not included in the summary judgment amount: [68].",
+      "id": "s68"
+    },
+    {
+      "text": "That figure is not amongst those which comprise the debt of $38,032,100.01 claimed in the creditor's petition.",
+      "id": "s69"
+    },
+    {
+      "text": "27 The document which the respondent relies upon in his attempt to controvert this fact is the Notice of Amended Assessment for the year ended 30 June 2005 which is at p 82 of the affidavit of Ms Chong of 29 January 2008.",
+      "id": "s70"
+    },
+    {
+      "text": "It contains the figure of $243,360.31.",
+      "id": "s71"
+    },
+    {
+      "text": "It was however paid after the Assessment was issued and before Summary Judgment was entered.",
+      "id": "s72"
+    },
+    {
+      "text": "I do not accept that there was any such overstatement in the Summary Judgment amount.",
+      "id": "s73"
+    },
+    {
+      "text": "28 On 21 February 2008 the respondent's solicitors wrote to the applicant's solicitor enclosing a copy of a letter sent by the ATO to the respondent dated 15 November 2000 together with a number of attached schedules.",
+      "id": "s74"
+    },
+    {
+      "text": "29 The respondent submits that Ms Chong's statement in her supplementary affidavit [3] that she had not previously seen the letter from the ATO to the respondent dated 15 November 2000 together with enclosed schedules justified the respondent's concerns about the adequacy of the applicant's discovery.",
+      "id": "s75"
+    },
+    {
+      "text": "30 The letter concerned set out how income tax returns for the respondent and the Cumins Family Trust for the financial years 1995 and 1998 would be amended in accordance with the position papers previously sent and the attached schedules.",
+      "id": "s76"
+    },
+    {
+      "text": "One of the attached schedules, which was for the year ended 30 June 1998, disclosed an adjustment figure of $9,375 for \"Interest re monies borrowed re: Infomercials\".",
+      "id": "s77"
+    },
+    {
+      "text": "31 It was not said why the fact that Ms Chong had not seen the letter and its attachments before gave cause for concern as the adequacy of the applicant's discovery.",
+      "id": "s78"
+    },
+    {
+      "text": "In the circumstances, it does not provide any cogent reason for ordering the further discovery sought by the respondent.",
+      "id": "s79"
+    },
+    {
+      "text": "32 I am not persuaded that it is necessary to discover these documents: Federal Court Rules O 15 r 15.",
+      "id": "s80"
+    },
+    {
+      "text": "Further it would, in my opinion, be oppressive in the circumstances identified in the affidavit of Ms Chong sworn on 29 January 2008 to order discovery as sought in paragraphs 1(a) and (b) of the motion.",
+      "id": "s81"
+    },
+    {
+      "text": "33 The motion will be dismissed with costs.",
+      "id": "s82"
+    },
+    {
+      "text": "I certify that the preceding thirty-three (33) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Gilmour.",
+      "id": "s83"
+    },
+    {
+      "text": "Associate:\n\nDated: 17 March 2008\n\n Counsel for the Applicant: Mr L A Tsaknis \n \n Solicitor for the Applicant: Australian Government Solicitor \n \n Counsel for the Respondent: Ms E Hensler \n \n Solicitor for the Respondent: Q Legal \n \n Date of Hearing: 20 February 2008, 10 March 2008 \n \n Date of Judgment: 17 March 2008 \n \n \n \n \n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2008/354.html",
+      "id": "s84"
+    }
+  ]
+}

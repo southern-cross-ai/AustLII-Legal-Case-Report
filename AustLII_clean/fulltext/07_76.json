@@ -1,0 +1,500 @@
+{
+  "name": "CHIZANNE KAVANAGH v DEPUTY COMMISSIONER OF TAXATION [2007] FCA 76 (9 February 2007)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2007/76.html",
+  "catchphrases": [
+    {
+      "text": "collection and recovery of tax",
+      "id": "c0"
+    },
+    {
+      "text": "applicant director of a company that went into liquidation while owing money to australian taxation office",
+      "id": "c1"
+    },
+    {
+      "text": "respondent sought to recover monies owed from applicant pursuant to income tax assessment act",
+      "id": "c2"
+    },
+    {
+      "text": "five penalty notices sent to applicant",
+      "id": "c3"
+    },
+    {
+      "text": "validity of 'address' appearing on the notices and envelopes in which they were posted",
+      "id": "c4"
+    },
+    {
+      "text": "whether 'woolaston rd warrnambool vic 3280' is an 'address' for the purposes of s 222aof of the income tax assessment act",
+      "id": "c5"
+    },
+    {
+      "text": "meaning of address discerned by its legislative context",
+      "id": "c6"
+    },
+    {
+      "text": "application of ss 28a, s29 acts interpretation act",
+      "id": "c7"
+    },
+    {
+      "text": "s 222aof deemed a facilitative provision",
+      "id": "c8"
+    },
+    {
+      "text": "'address' used by respondent valid",
+      "id": "c9"
+    },
+    {
+      "text": "taxation",
+      "id": "c10"
+    },
+    {
+      "text": "statutory interpretation",
+      "id": "c11"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "1 On 15 August 1994 the applicant became a director of what she describes as her \"father's company, Max Kavanagh &amp; Sons Pty Ltd.\" She was, at that time 18 years of age.",
+      "id": "s0"
+    },
+    {
+      "text": "A liquidator was appointed to the company on 23 May 2001.",
+      "id": "s1"
+    },
+    {
+      "text": "The applicant continued as a director until 28 June 2004.",
+      "id": "s2"
+    },
+    {
+      "text": "At the time it went into liquidation the company owed a considerable sum to the Australian Taxation Office.",
+      "id": "s3"
+    },
+    {
+      "text": "The Deputy Commissioner of Taxation sought to recover the monies from the applicant.",
+      "id": "s4"
+    },
+    {
+      "text": "He was able to do this because of provisions in the Income Tax Assessment Act 1936 (Cth) (\"the Act \") which permitted the transfer of liability to make taxation payments from an insolvent company to its directors.",
+      "id": "s5"
+    },
+    {
+      "text": "In order to render a director liable it was necessary for a notice to be issued under the Act to the director.",
+      "id": "s6"
+    },
+    {
+      "text": "Five notices were issued to the applicant between 19 October 2000 and 2 March 2001.",
+      "id": "s7"
+    },
+    {
+      "text": "She asserts that she did not become aware that the notices had been issued until about 21 May 2005.",
+      "id": "s8"
+    },
+    {
+      "text": "She did not actually see copies of the notices until about 8 September 2005.",
+      "id": "s9"
+    },
+    {
+      "text": "2 On 11 July 2006 she filed an application, supported by affidavit, in which she sought to impugn the validity of the notices and thereby be absolved from liability to make the payments sought.",
+      "id": "s10"
+    },
+    {
+      "text": "When the matter came on for Directions various deficiencies in the application were identified, and, at a further Directions hearing, the applicant sought leave to substitute an amended application.",
+      "id": "s11"
+    },
+    {
+      "text": "The amended application identified the \"decisions of the respondent\" which it was sought to impugn as follows:\n \n i.",
+      "id": "s12"
+    },
+    {
+      "text": "That the respondent has given the applicant the following five Penalty Notices under section 222AOE and 222AOF of the Income Tax Assessment Act 1936 (\"the tax act\"): - \n \n \n \n (a) Penalty Notice dated 19/10/00; \n (b) Penalty Notice dated 3/11/00; \n (c) Penalty Notice dated 11/12/00; \n (d) Penalty Notice dated 15/1/01; \n (e) Penalty Notice dated 2/3/01; \n \n all claiming that the applicant is liable to pay to the Commissioner of Taxation by way of penalty an amount equal to the unpaid amount of each liability of Max Kavanagh &amp; Sons Pty Ltd (ACN 066 059 452) (in liquidation) (\"the penalty notices\").",
+      "id": "s13"
+    },
+    {
+      "text": "ii.",
+      "id": "s14"
+    },
+    {
+      "text": "That the respondent was and is entitled to recover the penalty referred to in the penalty notices from the applicant under section 222AOE of the tax act.",
+      "id": "s15"
+    },
+    {
+      "text": "iii.",
+      "id": "s16"
+    },
+    {
+      "text": "That an address for the purposes of section 222AOF of the tax act does not require a place of residence to be identified.",
+      "id": "s17"
+    },
+    {
+      "text": "iv.",
+      "id": "s18"
+    },
+    {
+      "text": "That an ASIC company extract is an ASIC document for the purposes of section 222OAF of the tax act.",
+      "id": "s19"
+    },
+    {
+      "text": "(\"the decisions\") \n \n \n \n \n \n AND/OR \n \n B.",
+      "id": "s20"
+    },
+    {
+      "text": "Application to review the conduct of the respondent whereby it has treated the penalty notices as having been given to the applicant under sections 222AOE and 222AOF of the tax act and where by it has recovered the amount of $404.89 by way of offset of an income tax credit against the penalties referred to in the penalty notices, debited the applicant's tax account and demanded payment.",
+      "id": "s21"
+    },
+    {
+      "text": "AND/OR \n \n C. APPLICATION to review conduct in which the respondent proposes to engage in being that it proposes to treat the penalty notices as having been given to the applicant under sections 222AOE and 222AOF of the tax act and to recover the penalties referred to in the penalty notices by debiting the applicant's tax account, offsetting credits owing by the respondent to the applicant, demanding payment and/or commencing recovery proceedings against the applicant.",
+      "id": "s22"
+    },
+    {
+      "text": "\" \n \n\nThe decisions and the conduct about which complaint is made were challenged under the Administrative Decisions (Judicial Review) Act 1977 (Cth) (\"the ADJR Act \") and s 39B(1) and (1A)(c) of the Judiciary Act 1903 (Cth).",
+      "id": "s23"
+    },
+    {
+      "text": "Various declarations and orders were sought under both the ADJR Act and the Judiciary Act .",
+      "id": "s24"
+    },
+    {
+      "text": "3 At a further Directions hearing the respondent advised the Court that he opposed the application for leave to amend the original application or substitute a revised application.",
+      "id": "s25"
+    },
+    {
+      "text": "Various reasons for such opposition were advanced.",
+      "id": "s26"
+    },
+    {
+      "text": "They included objections that the proceedings were commenced out of time; that the alleged decision and conduct of the respondent were not reviewable pursuant to the ADJR Act ; that the proposed application was vexatious or frivolous or an abuse of process because it would tend to prejudice, embarrass or delay a fair hearing; and that the Court otherwise lacked jurisdiction to entertain such an application.",
+      "id": "s27"
+    },
+    {
+      "text": "4 Directions were given with a view to having these objections dealt with as a preliminary issue.",
+      "id": "s28"
+    },
+    {
+      "text": "5 Notwithstanding the infelicities of language which beset the proposed amended application and the procedural problems to which it gives rise, it was clear from her written submissions that there were two grounds on which the applicant sought to rely in order to avoid liability to pay the penalties referred to in the notices.",
+      "id": "s29"
+    },
+    {
+      "text": "They were that the \"address\" appearing on the various notices and on the envelopes in which they were posted did not constitute an \"address\" within the meaning of the Act and that the Australian Securities Commission (\"ASC\") documents to which the respondent had resort for the purpose of ascertaining the applicant's \"address\" were not \"ASC documents\" within the meaning of s 222AOF of the Act .",
+      "id": "s30"
+    },
+    {
+      "text": "The parties were agreed that the determination of these two points would avoid unnecessary delay and expense and agreed that the Court should hear argument and resolve them on a final basis.",
+      "id": "s31"
+    },
+    {
+      "text": "The applicant contended and the respondent conceded that the Court had jurisdiction to entertain the application under s 39B(1A)(c) of the Judiciary Act .",
+      "id": "s32"
+    },
+    {
+      "text": "There was a justiciable controversy between the parties as to whether or not a statutory precondition to the recovery by the respondent of penalties from the applicant had been satisfied.",
+      "id": "s33"
+    },
+    {
+      "text": "If the precondition had not been satisfied no obligation to make payments would have arisen and the applicant would have been immune from any liability to pay the penalties: c.f.",
+      "id": "s34"
+    },
+    {
+      "text": "Felton v Mulligan [1971] HCA 39 ; (1971) 124 CLR 367 at 374, 408, 416; Guss v Commissioner of Taxation [2006] FCAFC 88 ; (2006) 152 FCR 88 at 91, 103.",
+      "id": "s35"
+    },
+    {
+      "text": "THE LEGISLATIVE CONTEXT \n \n6 Sub division 16-B in Schedule 1 to the Taxation Administration Act 1953 (Cth) is entitled: \"To pay withheld amounts to the Commissioner.",
+      "id": "s36"
+    },
+    {
+      "text": "\" Section 16 -70 requires an entity that withholds amounts from salaries and wages of employees as taxation deductions to pay those amounts to the Commissioner in accordance with Sub division 16-B.",
+      "id": "s37"
+    },
+    {
+      "text": "Section 16 -70 is what is known as a \"remittance provision\" for the purposes of Division 9 of Part VI of the Income Tax Assessment Act 1936 (Cth): see ss 222ANB(1) and 222AFB (1).",
+      "id": "s38"
+    },
+    {
+      "text": "Division 9 is entitled: \"Penalties for directors of non-remitting companies\".",
+      "id": "s39"
+    },
+    {
+      "text": "The purpose of Division 9 is stated in s 222ANA as follows:\n \n \"222ANA \n \n (1) The purpose of this Division is to ensure that a company either meets its obligations under [a remittance provision], or goes promptly into voluntary administration under Part 5.3A of the Corporations Law or into liquidation.",
+      "id": "s40"
+    },
+    {
+      "text": "(2) The Division imposes a duty on the directors to cause the company to do so.",
+      "id": "s41"
+    },
+    {
+      "text": "The duty is enforced by penalties.",
+      "id": "s42"
+    },
+    {
+      "text": "However, a penalty can be recovered only if the Commissioner gives written notice to the person concerned.",
+      "id": "s43"
+    },
+    {
+      "text": "The penalty is automatically remitted if the company meets its obligations, or goes into voluntary administration or liquidation, within 14 days after the notice is given.",
+      "id": "s44"
+    },
+    {
+      "text": "(3) A penalty recovered under this Division is applied towards meeting the company's obligations under the relevant Division.",
+      "id": "s45"
+    },
+    {
+      "text": "Conversely, amounts paid by the company reduce the amount of a penalty.",
+      "id": "s46"
+    },
+    {
+      "text": "(4) ...\" \n\n Section 222AOB imposes an obligation on directors of a company to do the things comprehended by s 222ANA.",
+      "id": "s47"
+    },
+    {
+      "text": "If the obligation is not complied with within the prescribed period the persons who are directors of the company remain under a continuing obligation to meet their statutory responsibilities: see s 222AOB(3).",
+      "id": "s48"
+    },
+    {
+      "text": "If the obligations imposed by s 222AOB are not met the directors become liable to pay to the Commissioner a penalty equal to the unpaid amount.",
+      "id": "s49"
+    },
+    {
+      "text": "The Commissioner is not entitled to recover such a penalty unless he first issues a statutory notice.",
+      "id": "s50"
+    },
+    {
+      "text": "Section 222AOE(1) provides:\n \n \"222AOE(1) \n \n The Commissioner is not entitled to recover from a person a penalty payable under this Subdivision until the end of 14 days after the Commissioner gives to the person a notice that: \n \n \n \n (a) sets out details of the unpaid amount of the liability referred to in subsection 222AOC(1) ....; and \n \n \n \n \n \n (b) states that the person is liable to pay to the Commissioner, by way of penalty, an amount equal to that unpaid amount, but that the penalty will be remitted if, at the end of 14 days after the notice is given: \n \n \n \n (i) the liability has been discharged; or \n \n (ii) an agreement relating to the liability is enforced under s 222ALA ; or \n \n (iii) the company is under administration within the meaning of the Corporations Law; or \n \n (iv) the company is being wound up.",
+      "id": "s51"
+    },
+    {
+      "text": "\" \n \n\n Section 222AOF is of central importance in the present proceeding.",
+      "id": "s52"
+    },
+    {
+      "text": "At relevant times it provided:\n \n \"222AOF(1) \n \n If it appears from ASC documents that a persons is, or has been within the last seven days, a director of the company, the Commissioner may give the person a notice under s 222AOE by leaving at, or sending it by post to, an address that appears from such documents to be, or to have been within the last seven days, the person's place of residence or business.",
+      "id": "s53"
+    },
+    {
+      "text": "(2) In this section: \n \n \n \n \n \n 'ASC documents means a return: \n \n \n \n \n \n (a) lodged with the Australian Securities Commission under s 242 or 335 of the Corporations Law of a state or territory; or \n \n \n \n \n \n \n \n \n \n (b) lodged with a person under a law that, for the purposes of the Corporations Law of a state or territory, is a previous law corresponding to s 242 or 335 of that Law.",
+      "id": "s54"
+    },
+    {
+      "text": "\" \n \n \n\nAt relevant times s 242 of the Corporations Law required companies to lodge returns from time to time with the ASC.",
+      "id": "s55"
+    },
+    {
+      "text": "Companies were required, inter alia, to advise the ASC of the name and address of any director within one month of the appointment of the director.",
+      "id": "s56"
+    },
+    {
+      "text": "There was also an obligation to advise the ASC of any change to a director's usual residential address within one month of that change occurring.",
+      "id": "s57"
+    },
+    {
+      "text": "7 Reference should also be made to two provisions of the Acts Interpretation Act 1901 (Cth).",
+      "id": "s58"
+    },
+    {
+      "text": "Section 28A(1) provides that, where any Commonwealth Act permits a document to be given to a person, the document may be served on a natural person by \"sending it by prepaid post to the address of the place of residence or business of the person last known to the person serving the document\".",
+      "id": "s59"
+    },
+    {
+      "text": "Section 29(1) provides that, where a Commonwealth Act authorises service by post, \"the service shall be deemed to be effected by properly addressing, prepaying, and posting the document as a letter, and, unless the contrary is provided, to have been effected at the time at which the letter would be delivered in the ordinary course of post.",
+      "id": "s60"
+    },
+    {
+      "text": "\"\n THE RELEVANT FACTS \n \n8 As already noted the applicant was, at relevant times, a director of Max Kavanagh &amp; Sons Pty Ltd. At relevant times the computer records of company returns, made to the ASC, recorded the principal place of business of the company as \"Woolaston Road, Warrnambool Vic 3280\".",
+      "id": "s61"
+    },
+    {
+      "text": "The applicant was recorded as being a director and her \"address\" was the same as that of the principal place of business of the company.",
+      "id": "s62"
+    },
+    {
+      "text": "Each of the five notices was sent by prepaid post to the applicant, addressed to her at Woolaston Road, Warrnambool Vic 3280.",
+      "id": "s63"
+    },
+    {
+      "text": "The applicant resided at 199 Woolaston Road Warrnambool until November 1998.",
+      "id": "s64"
+    },
+    {
+      "text": "She has not lived there since.",
+      "id": "s65"
+    },
+    {
+      "text": "None of the notices was returned undelivered to the respondent.",
+      "id": "s66"
+    },
+    {
+      "text": "Despite this, the applicant gave evidence that she did not receive copies of the notices until, following a request by her, each was sent to her by the respondent under cover of a letter dated 8 September 2005.",
+      "id": "s67"
+    },
+    {
+      "text": "The letter was sent by the respondent to the applicant at her accountant's place of business in Mansfield.",
+      "id": "s68"
+    },
+    {
+      "text": "THE APPELLANT'S SUBMISSIONS \n \n9 The appellant submitted that \"Woolaston Road, Warrnambool Vic 3280\" was not an \"address\" within the meaning of s 222AOF of the Act .",
+      "id": "s69"
+    },
+    {
+      "text": "This was so even though it was the address supplied to the ASC as the residential address of the applicant in her capacity as a director of the company.",
+      "id": "s70"
+    },
+    {
+      "text": "She contended that the position was equivalent to that which would have arisen had no details of an address been included in the returns sent to the ASC.",
+      "id": "s71"
+    },
+    {
+      "text": "Counsel for the applicant agreed in argument that she could only succeed if it were accepted that a road or street name together with the name of a suburb or town could never constitute an \"address\" unless a street or road number also appeared.",
+      "id": "s72"
+    },
+    {
+      "text": "The applicant did not press her written submission that the respondent was not entitled to rely on information appearing in the ASC's database but rather was required to have resort to the original returns for the purpose of ascertaining the applicant's address.",
+      "id": "s73"
+    },
+    {
+      "text": "THE RESPONDENT'S SUBMISSIONS \n \n10 The respondent submitted that the provisions of s 222AOF were facilitative in nature.",
+      "id": "s74"
+    },
+    {
+      "text": "The respondent was entitled to rely on what appeared in the database to be the residential address of the applicant in circumstances where the information was supplied by the company pursuant to a statutory obligation.",
+      "id": "s75"
+    },
+    {
+      "text": "The Commissioner was also entitled to assume that the address was current given the failure by the company to advise of any change.",
+      "id": "s76"
+    },
+    {
+      "text": "\"Woolaston Road, Warrnambool Vic 3280\" reasonably appeared to the respondent to be an address to which notices could be sent to the applicant.",
+      "id": "s77"
+    },
+    {
+      "text": "CONSIDERATION \n \n11 The word \"address\" bears many meanings: see, for example, those collected in Sheen v Burke [1993] 1 VR 584 at 586.",
+      "id": "s78"
+    },
+    {
+      "text": "The meaning to be attributed to the word as it appears in s 222AOF(1) of the Act , must be discerned from the legislative context in which it appears.",
+      "id": "s79"
+    },
+    {
+      "text": "Section 222AOF is a facilitative provision.",
+      "id": "s80"
+    },
+    {
+      "text": "When read with s 28A of the Acts Interpretation Act , it provides for various methods by which the notices contemplated by s 222AOE may be served on directors who the Commissioner of Taxation considers are liable to pay penalties when a company fails to meet its statutory obligations.",
+      "id": "s81"
+    },
+    {
+      "text": "One method of service is the sending of notices by prepaid post to \"an address\" that \"appears\" from returns lodged by the relevant company with the ASC to be the director's place of residence or business.",
+      "id": "s82"
+    },
+    {
+      "text": "Service would be deemed to be effected even if the notice is not received by the director: Deputy Commissioner of Taxation v Gruber (1998) 43 NSWLR 271 at 277.",
+      "id": "s83"
+    },
+    {
+      "text": "Evidence by a director that he or she has not received a notice served in accordance with a provision such as s 28A or s 29 of the Acts Interpretation Act does not constitute proof of non delivery: Fancourt v Mercantile Credits Ltd [1983] HCA 25 ; (1983) 154 CLR 87 at 96-97.",
+      "id": "s84"
+    },
+    {
+      "text": "12 Records held on the ASC database, to which the respondent had resort prior to sending the notices to the applicant, disclosed that Max Kavanagh &amp; Sons Pty Ltd made periodic returns to the ASC.",
+      "id": "s85"
+    },
+    {
+      "text": "Such returns were made pursuant to statutory requirement.",
+      "id": "s86"
+    },
+    {
+      "text": "Those acting on behalf of the company advised the ASC that the principal place of business of the company was at Woolaston Road Warrnambool.",
+      "id": "s87"
+    },
+    {
+      "text": "The ASC was also advised that this was the address of one of the company's directors, the applicant.",
+      "id": "s88"
+    },
+    {
+      "text": "No notice of variation to these details was provided to the ASC.",
+      "id": "s89"
+    },
+    {
+      "text": "This was so despite the fact that the applicant ceased to reside in Woolaston Road in November 1998.",
+      "id": "s90"
+    },
+    {
+      "text": "13 The first question of law which arises in the present proceeding is whether \"Woolaston Road Warrnambool Vic 3280\" is an \"address\" for the purposes of s 222AOF of the Act .",
+      "id": "s91"
+    },
+    {
+      "text": "In my view it was.",
+      "id": "s92"
+    },
+    {
+      "text": "It was so regarded by company officers who made the periodic returns to the ASC.",
+      "id": "s93"
+    },
+    {
+      "text": "It bore the hallmarks of an address.",
+      "id": "s94"
+    },
+    {
+      "text": "Although no street number was included there was nothing, on its face, to suggest that it was other than an address where the company conducted business and the applicant could be contacted.",
+      "id": "s95"
+    },
+    {
+      "text": "Not all streets or roads, particularly in country areas, have numbered properties in them.",
+      "id": "s96"
+    },
+    {
+      "text": "Such streets and roads may be long or short; they may or may not have numbers allocated to allotments which abut them.",
+      "id": "s97"
+    },
+    {
+      "text": "The absence of a number adjacent to a street or road name will not necessarily suggest that what appears in a return is not an address.",
+      "id": "s98"
+    },
+    {
+      "text": "For present purposes, however, it is enough that the \"address\" proffered by the company and its director should \"appear\" to be the director's place of residence or business.",
+      "id": "s99"
+    },
+    {
+      "text": "There is nothing in the advice that the applicant's address was \"Woolaston Road Warrnambool Vic 3280\" which would reasonably suggest to the reader that it was anything other than an \"address\" at which the applicant could be contacted.",
+      "id": "s100"
+    },
+    {
+      "text": "The provisions of the Act dealing with the service of notices are designed to assist the respondent in the performance of his statutory duties.",
+      "id": "s101"
+    },
+    {
+      "text": "They enable him to rely on information supplied by companies when despatching notices and give him the benefit of deeming provisions which enable the assumption to be made that service has been effected.",
+      "id": "s102"
+    },
+    {
+      "text": "This whole scheme would be undermined were a director to be able to assert that a notice was invalid because what purported to be an address, supplied to the ASC by the company, was not an \"address\" to which notices could be sent.",
+      "id": "s103"
+    },
+    {
+      "text": "14 The second point originally advanced but not pressed by the applicant was that the respondent erred by examining the ASC database rather than the original returns, provided by the company, the contents of which were subsequently entered on the database.",
+      "id": "s104"
+    },
+    {
+      "text": "The point made was that s 222AOF limits the range of ASC documents to which the Commissioner may have resort in determining an address to returns lodged with the ASC.",
+      "id": "s105"
+    },
+    {
+      "text": "15 The applicant was correct not to press this argument.",
+      "id": "s106"
+    },
+    {
+      "text": "It was bound to fail for the reasons given by Santow JA in Deputy Commissioner of Taxation v Nercessian [2006] NSWCA 268 at [22] - [30] .",
+      "id": "s107"
+    },
+    {
+      "text": "DISPOSITION \n \n16 The application should be dismissed with costs.",
+      "id": "s108"
+    },
+    {
+      "text": "I certify that the preceding sixteen (16) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice TRACEY.",
+      "id": "s109"
+    },
+    {
+      "text": "Associate:\n\nDated: 9 February 2007\n\n\n Counsel for the Applicant: Mr M O'Connor \n \n Solicitor for the Applicant: Maddens Lawyers \n \n Counsel for the Respondent: Ms D Harding \n \n Solicitor for the Respondent: Australian Taxation Office \n \n Date of Hearing: 7 February 2007 \n \n Date of Judgment: 9 February 2007 \n\n\n \n \n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/76.html",
+      "id": "s110"
+    }
+  ]
+}

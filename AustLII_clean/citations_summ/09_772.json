@@ -1,0 +1,740 @@
+[
+  {
+    "text": "corporations",
+    "id": "cp0.0",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "meetings",
+    "id": "cp0.1",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "proxies",
+    "id": "cp0.2",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "power of attorney",
+    "id": "cp0.3",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether a power of attorney can be a proxy for the purposes of the corporations act",
+    "id": "cp0.4",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether a proxy is \"signed\" for the purposes of ca s.250a(1) if it is executed under a power of attorney or by an agent",
+    "id": "cp0.5",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether a proxy is valid under s.250a(1)(b) if it does not expressly state the name of the company but incorporates the name by referencemeetings",
+    "id": "cp0.6",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "voting",
+    "id": "cp0.7",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "contract",
+    "id": "cp0.8",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether a shareholder's right to vote can be taken away by contract",
+    "id": "cp0.9",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether a vote cast at a meeting in breach of contract is invalidmeeting",
+    "id": "cp0.10",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "rulings",
+    "id": "cp0.11",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether chairman's ruling as to admission of proxies correct",
+    "id": "cp0.12",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether ruling binding and conclusive",
+    "id": "cp0.13",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether erroneous ruling effective to take away member's right to votemeetings",
+    "id": "cp0.14",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "procedural irregularity",
+    "id": "cp0.15",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "substantial injustice",
+    "id": "cp0.16",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "meaning of procedural irregularity discussed",
+    "id": "cp0.17",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "meaning of substantial injustice discussed",
+    "id": "cp0.18",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether special resolution should be validated under ca s.1322(4)(a)financial assistance",
+    "id": "cp0.19",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "validity",
+    "id": "cp0.20",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "declaration",
+    "id": "cp0.21",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether, if financial assistance was provided contrary to ca s.260a(1) a declaration should be made declaring it validated by ca s.260d(1)",
+    "id": "cp0.22",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether declaration hypotheticalwrongdoing",
+    "id": "cp0.23",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "limits of maxim \"a party cannot take advantage of own wrongdoing\" discussed.acts cited:",
+    "id": "cp0.24",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "conveyancing act 1919 (nsw)",
+    "id": "cp0.25",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "s.161",
+    "id": "cp0.26",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "corporations act 2001 (cth)",
+    "id": "cp0.27",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "part 2g.2 div 6, s.249x(1) , s. 249y , s. 250a , s. 250b , s. 250d , s. 260a , s. 260b (1), s. 260b (3), s. 260d (1), s. 1322 (2), s. 1322 (4), s. 1322 (6)",
+    "id": "cp0.28",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "powers of attorney act 2003 (nsw)",
+    "id": "cp0.29",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "s.15 , s. 16",
+    "id": "cp0.30",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "trusts",
+    "id": "cp3.0",
+    "type": "cited",
+    "from": "[2000]"
+  },
+  {
+    "text": "application for judicial advice",
+    "id": "cp3.1",
+    "type": "cited",
+    "from": "[2000]"
+  },
+  {
+    "text": "application by responsible entity of scheme for advice as to whether resolutions at a requisitioned meeting should be put as ordinary or special resolutions",
+    "id": "cp3.2",
+    "type": "cited",
+    "from": "[2000]"
+  },
+  {
+    "text": "appropriateness of procedure for judicial advice; corporations",
+    "id": "cp3.3",
+    "type": "cited",
+    "from": "[2000]"
+  },
+  {
+    "text": "managed investment schemes",
+    "id": "cp3.4",
+    "type": "cited",
+    "from": "[2000]"
+  },
+  {
+    "text": "statutory rights of members to remove responsible entity and requisition a meeting for that purpose",
+    "id": "cp3.5",
+    "type": "cited",
+    "from": "[2000]"
+  },
+  {
+    "text": "whether statutory rights exclude rights under constitution",
+    "id": "cp3.6",
+    "type": "cited",
+    "from": "[2000]"
+  },
+  {
+    "text": "whether statutory right requires a special or extraordinary resolution.",
+    "id": "cp3.7",
+    "type": "cited",
+    "from": "[2000]"
+  },
+  {
+    "text": "corporation",
+    "id": "cp4.0",
+    "type": "cited",
+    "from": "[1999]"
+  },
+  {
+    "text": "public company limited by guarantee",
+    "id": "cp4.1",
+    "type": "cited",
+    "from": "[1999]"
+  },
+  {
+    "text": "validity of meeting of members",
+    "id": "cp4.2",
+    "type": "cited",
+    "from": "[1999]"
+  },
+  {
+    "text": "inadequate notice",
+    "id": "cp4.3",
+    "type": "cited",
+    "from": "[1999]"
+  },
+  {
+    "text": "requisitionists' proper purpose",
+    "id": "cp4.4",
+    "type": "cited",
+    "from": "[1999]"
+  },
+  {
+    "text": "appropriateness of time and place",
+    "id": "cp4.5",
+    "type": "cited",
+    "from": "[1999]"
+  },
+  {
+    "text": "election of directors by single resolution",
+    "id": "cp4.6",
+    "type": "cited",
+    "from": "[1999]"
+  },
+  {
+    "text": "discretion to cure defects",
+    "id": "cp4.7",
+    "type": "cited",
+    "from": "[1999]"
+  },
+  {
+    "text": "project blue sky inc &amp; ors v australian broadcasting authority  statutes",
+    "id": "cp5.0",
+    "type": "cited",
+    "from": "[1998]"
+  },
+  {
+    "text": "construction",
+    "id": "cp5.1",
+    "type": "cited",
+    "from": "[1998]"
+  },
+  {
+    "text": "reconciliation of conflicting provisions",
+    "id": "cp5.2",
+    "type": "cited",
+    "from": "[1998]"
+  },
+  {
+    "text": "intention of legislature",
+    "id": "cp5.3",
+    "type": "cited",
+    "from": "[1998]"
+  },
+  {
+    "text": "presumption that provisions intended to achieve consistent goals",
+    "id": "cp5.4",
+    "type": "cited",
+    "from": "[1998]"
+  },
+  {
+    "text": "leading and subordinate provisions",
+    "id": "cp5.5",
+    "type": "cited",
+    "from": "[1998]"
+  },
+  {
+    "text": "grammatical meaning and legal meaning.  statutes",
+    "id": "cp5.6",
+    "type": "cited",
+    "from": "[1998]"
+  },
+  {
+    "text": "construction",
+    "id": "cp5.7",
+    "type": "cited",
+    "from": "[1998]"
+  },
+  {
+    "text": "acts done in breach of a condition regulating a statutory power",
+    "id": "cp5.8",
+    "type": "cited",
+    "from": "[1998]"
+  },
+  {
+    "text": "whether invalid",
+    "id": "cp5.9",
+    "type": "cited",
+    "from": "[1998]"
+  },
+  {
+    "text": "mandatory and directory provisions",
+    "id": "cp5.10",
+    "type": "cited",
+    "from": "[1998]"
+  },
+  {
+    "text": "purpose-based test.  media law",
+    "id": "cp5.11",
+    "type": "cited",
+    "from": "[1998]"
+  },
+  {
+    "text": "television",
+    "id": "cp5.12",
+    "type": "cited",
+    "from": "[1998]"
+  },
+  {
+    "text": "regulation of programming",
+    "id": "cp5.13",
+    "type": "cited",
+    "from": "[1998]"
+  },
+  {
+    "text": "australian broadcasting authority",
+    "id": "cp5.14",
+    "type": "cited",
+    "from": "[1998]"
+  },
+  {
+    "text": "standard prescribing australian content requirements",
+    "id": "cp5.15",
+    "type": "cited",
+    "from": "[1998]"
+  },
+  {
+    "text": "whether inconsistent with legislative requirement that functions be performed consistently with australia's international obligations.  media law",
+    "id": "cp5.16",
+    "type": "cited",
+    "from": "[1998]"
+  },
+  {
+    "text": "television",
+    "id": "cp5.17",
+    "type": "cited",
+    "from": "[1998]"
+  },
+  {
+    "text": "regulation of programming",
+    "id": "cp5.18",
+    "type": "cited",
+    "from": "[1998]"
+  },
+  {
+    "text": "australian broadcasting authority",
+    "id": "cp5.19",
+    "type": "cited",
+    "from": "[1998]"
+  },
+  {
+    "text": "power to make standards that \"relate to ... the australian content of programs\"",
+    "id": "cp5.20",
+    "type": "cited",
+    "from": "[1998]"
+  },
+  {
+    "text": "whether restricted to standards conferring preferential treatment.  trade law",
+    "id": "cp5.21",
+    "type": "cited",
+    "from": "[1998]"
+  },
+  {
+    "text": "australia new zealand closer economic relations trade agreement.  broadcasting services act 1992 (cth), ss 3 , 122 , 158, 160.  broadcasting services (transitional provisions and consequential amendments) act 1992 (cth), s 21.  tasker v fullwood [1978] 1 nswlr 20 at 23-24 applied.",
+    "id": "cp5.22",
+    "type": "cited",
+    "from": "[1998]"
+  },
+  {
+    "text": "workers' compensation (w.a.)",
+    "id": "cp7.0",
+    "type": "cited",
+    "from": "[1991]"
+  },
+  {
+    "text": "entitlement",
+    "id": "cp7.1",
+    "type": "cited",
+    "from": "[1991]"
+  },
+  {
+    "text": "personal injury while travelling on journey",
+    "id": "cp7.2",
+    "type": "cited",
+    "from": "[1991]"
+  },
+  {
+    "text": "injury suffered during long journey between temporary residence and permanent residence",
+    "id": "cp7.3",
+    "type": "cited",
+    "from": "[1991]"
+  },
+  {
+    "text": "whether journey undertaken in accordance with terms and conditions of employment",
+    "id": "cp7.4",
+    "type": "cited",
+    "from": "[1991]"
+  },
+  {
+    "text": "whether reasonable to undertake journey",
+    "id": "cp7.5",
+    "type": "cited",
+    "from": "[1991]"
+  },
+  {
+    "text": "day's preparation for journey",
+    "id": "cp7.6",
+    "type": "cited",
+    "from": "[1991]"
+  },
+  {
+    "text": "whether substantial interruption",
+    "id": "cp7.7",
+    "type": "cited",
+    "from": "[1991]"
+  },
+  {
+    "text": "workers' compensation and assistance act 1981 (w.a.), ss. 19(1)(a)(iii), 5(c).",
+    "id": "cp7.8",
+    "type": "cited",
+    "from": "[1991]"
+  },
+  {
+    "text": "corporations",
+    "id": "cp9.0",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "constitution and replaceable rules",
+    "id": "cp9.1",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "types of companies",
+    "id": "cp9.2",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "construction of constitution",
+    "id": "cp9.3",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "company incorporated for multiple occupancy living in a rural environment",
+    "id": "cp9.4",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "dispute about members' right to use common property for grazing cattle",
+    "id": "cp9.5",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "constitution does not grant a right to graze cattle on common property to members",
+    "id": "cp9.6",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "whether resolution of members passed in march 1999 is effective to withdraw permission to graze cattle on common property",
+    "id": "cp9.7",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "whether resolution modifies class rights in contravention of procedure prescribed under the company's constitution",
+    "id": "cp9.8",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "whether company's affairs conducted oppressively",
+    "id": "cp9.9",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "application for winding up company adjourned so parties can modify their affairs on the basis of the court's judgment",
+    "id": "cp9.10",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "held",
+    "id": "cp9.11",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "resolution not effective to withdraw permission to graze cattle resolution is not a rule or regulation under memorandum of association clause 2(a)(iii)",
+    "id": "cp9.12",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "no interference with class rightstorts",
+    "id": "cp9.13",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "trespass",
+    "id": "cp9.14",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "trespass to land",
+    "id": "cp9.15",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "defence of licence to enter property",
+    "id": "cp9.16",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "whether defendants liable in trespass to the company for grazing their cattle on common property",
+    "id": "cp9.17",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "held",
+    "id": "cp9.18",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "defendants not liable in trespass as existing permission to graze cattle on common property not validly withdrawn by members resolution of march 1999contracts",
+    "id": "cp9.19",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "general contractual principles",
+    "id": "cp9.20",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "whether company has breached contract with member by failing to issue lease to member in conformity with company's constitution",
+    "id": "cp9.21",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "held",
+    "id": "cp9.22",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "no breach foundmisleading and deceptive conduct",
+    "id": "cp9.23",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "whether company misled members about the right to graze cattle on common property",
+    "id": "cp9.24",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "held",
+    "id": "cp9.25",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "no misleading or deceptive conduct found.",
+    "id": "cp9.26",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "corporations",
+    "id": "cp10.0",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "meeting of members of registered managed investment scheme",
+    "id": "cp10.1",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "responsible entity and associates cannot vote if have an interest in the resolution other than as a member",
+    "id": "cp10.2",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "associate is a person who acts or proposes to act in concert with the responsible entity  corporations",
+    "id": "cp10.3",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "decision by chairperson to exclude votes",
+    "id": "cp10.4",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "whether decision amenable to review",
+    "id": "cp10.5",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "whether chairperson acted in bad faith or made an error of law",
+    "id": "cp10.6",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "consideration of what is meant by 'bad faith'",
+    "id": "cp10.7",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "whether the chairperson acted impartially and without bias or prejudgment  corporations",
+    "id": "cp10.8",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "decision by chairperson to exclude votes",
+    "id": "cp10.9",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "whether decision amenable to review",
+    "id": "cp10.10",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "whether chairperson acted in bad faith or made an error of law",
+    "id": "cp10.11",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "no separate obligation to act on reasonable grounds",
+    "id": "cp10.12",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "any decision made in good faith and according to law is final and conclusive",
+    "id": "cp10.13",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "irrationality and illogicality in fact-finding does not constitute an error of law",
+    "id": "cp10.14",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "judicial review of administrative decision-making not an apt analogy",
+    "id": "cp10.15",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "wednesbury unreasonableness limited to discretionary decisions",
+    "id": "cp10.16",
+    "type": "citing",
+    "from": "[2010]"
+  }
+]

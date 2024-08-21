@@ -1,0 +1,368 @@
+{
+  "name": "Australian Medic-Care Company Ltd v Hamilton Pharmaceutical Pty Limited (ACN 008 204 635) (No 4) [2008] FCA 1038 (10 July 2008)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2008/1038.html",
+  "catchphrases": [
+    {
+      "text": "hearsay rule",
+      "id": "c0"
+    },
+    {
+      "text": "s 69 evidence act 1995 (cth) business records exception",
+      "id": "c1"
+    },
+    {
+      "text": "s 69(3) qualification where documents prepared or obtained in contemplation of australian or overseas proceedings",
+      "id": "c2"
+    },
+    {
+      "text": "application of s 69(3) to documents prepared or obtained in the context of distinct proceedings against a third party",
+      "id": "c3"
+    },
+    {
+      "text": "evidence",
+      "id": "c4"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "1 The following three rulings deal in differing ways with whether, if at all, certain documentary evidence should be admitted and, if it is, the use that should be permitted to be made of it.",
+      "id": "s0"
+    },
+    {
+      "text": "The first relates to whether, though business records, the documents contain representations which are rendered inadmissible under s 69 of the Evidence Act 1995 (Cth) because of the exception prescribed in s 69(3).",
+      "id": "s1"
+    },
+    {
+      "text": "The second is whether, if the documents are otherwise admissible notwithstanding that they are inadmissible under s 69 , they should nonetheless be excluded from evidence under s 135 of the Evidence Act .",
+      "id": "s2"
+    },
+    {
+      "text": "The third concerns whether, if otherwise admissible, their permitted use should be limited under s 136 of the Act.",
+      "id": "s3"
+    },
+    {
+      "text": "1.",
+      "id": "s4"
+    },
+    {
+      "text": "The s 69(3) Objection \n \n2 The applicant, Australian Medic-Care Company Ltd (AMC), seeks to tender a bundle of 16 documents which it says are its own business records.",
+      "id": "s5"
+    },
+    {
+      "text": "The documents all relate to an investigation instituted by Dr Kenneth Keung, the executive director of AMC, into alleged parallel importing into Hong Kong of products manufactured by the respondent, Hamilton Pharmaceutical Pty Ltd. AMC had an exclusive distributorship from Hamilton in respect of the products said to be the subject of parallel importation.",
+      "id": "s6"
+    },
+    {
+      "text": "The documents to which I have referred cover a period from 5 August 2002 to 10 October 2002 and purport individually to contain the tabulated results of investigations made by employees of AMC as to whether dispensaries and retailers in Hong Kong were selling packages of \"Fuyunhon 10% urea cream 50g\" which were not provided by AMC.",
+      "id": "s7"
+    },
+    {
+      "text": "This cream was the principal product the subject of the exclusive distributorship.",
+      "id": "s8"
+    },
+    {
+      "text": "3 As Dr Keung indicated in his first affidavit at para 279 and reiterated to the same effect in evidence-in-chief:\n In August 2002, at my direction, AMC employees undertook an investigation of the availability of parallel imported Fuyunhon 10% urea cream 50g in the OTC [over the counter] market in Hong Kong.",
+      "id": "s9"
+    },
+    {
+      "text": "I directed AMC's employees to purchase samples of Fuyunhon 10% urea cream 50g from a range of dispensaries and retailers and note whether the boxes of the samples purchased contained AMC's advertising leaflets, referred to above.",
+      "id": "s10"
+    },
+    {
+      "text": "Casebook 385-400 is a bundle of notes and records of their investigations provided to me by AMC employees.",
+      "id": "s11"
+    },
+    {
+      "text": "4 The detailed supervision of the investigation was conducted by a Dr Calvin Lam who had been previously engaged by AMC for a \"success fee\".",
+      "id": "s12"
+    },
+    {
+      "text": "From October 2001, at Dr Lam's suggestion, AMC inserted a small leaflet into the box of each unit of the 10% urea cream which it received from Hamilton before that unit was despatched to AMC customers.",
+      "id": "s13"
+    },
+    {
+      "text": "The purpose of this strategy was to permit AMC to distinguish those products in the market which were supplied by AMC from those which were not, hence the reference in the quotation above to boxes containing AMC's advertising leaflets.",
+      "id": "s14"
+    },
+    {
+      "text": "5 In the period from August 2002 to at least September 2002, Dr Keung and Dr Lam engaged in increasingly tense communications with Hamilton complaining both that it was the supplier of the parallel imports being brought into Hong Kong and of Hamilton's apparent lack of intent to cooperate with AMC to bring a halt to the selling of those parallel imports.",
+      "id": "s15"
+    },
+    {
+      "text": "Correspondence relied upon by Hamilton does suggest that by at least early September 2002 Dr Keung was representing to Richard Blake, Hamilton's Managing Director, that law suits were pending in Hong Kong against local distributors and/or retailers: see eg the facsimile from Dr Keung to Mr Blake of 6 September 2002.",
+      "id": "s16"
+    },
+    {
+      "text": "6 On the material before me it is clear that by 16 October 2002 legal proceedings had been initiated against a company in Hong Kong which traded under the name \"Forward Company\" in respect both of alleged infringements of AMC's trademark used on packaging of the 10% urea cream and of its involvement in the distribution of the alleged parallel imports in Hong Kong and elsewhere.",
+      "id": "s17"
+    },
+    {
+      "text": "While correspondence that has been relied upon for present purposes between AMC and Hamilton does allude to the potential for litigation between the two companies, I am not satisfied that by this time such \"threats\" as were being made particularly by Dr Keung and Dr Lam were intended otherwise than to obtain leverage with Hamilton in bringing the parallel importation to an end.",
+      "id": "s18"
+    },
+    {
+      "text": "I will return to this matter below.",
+      "id": "s19"
+    },
+    {
+      "text": "7 The tender of the 16 documents has been objected to by Hamilton.",
+      "id": "s20"
+    },
+    {
+      "text": "First, and faintly, it was alleged that they did not constitute business records for the purposes of s 69 of the Evidence Act 1995 (Cth).",
+      "id": "s21"
+    },
+    {
+      "text": "I considered that objection untenable in the circumstances and have already ruled upon it.",
+      "id": "s22"
+    },
+    {
+      "text": "Secondly, and more substantially, they have contended that those documents are rendered inadmissible by the provisions of s 69(3) of the Evidence Act .",
+      "id": "s23"
+    },
+    {
+      "text": "To appreciate the sub-section's context it is convenient to set out the provisions of s 69(1) -(3):\n 69 Exception: business records \n \n (1) This section applies to a document that: \n \n \n \n \n (a) either: \n \n \n (i) is or forms part of the records belonging to or kept by a person, body or organisation in the course of, or for the purposes of, a business; or (ii) at any time was or formed part of such a record; and \n \n \n (b) contains a previous representation made or recorded in the document in the course of, or for the purposes of, the business.",
+      "id": "s24"
+    },
+    {
+      "text": "(2) The hearsay rule does not apply to the document (so far as it contains the representation) if the representation was made: \n \n \n \n \n \n \n (a) by a person who had or might reasonably be supposed to have had personal knowledge of the asserted fact; or \n \n (b) on the basis of information directly or indirectly supplied by a person who had or might reasonably be supposed to have had personal knowledge of the asserted fact.",
+      "id": "s25"
+    },
+    {
+      "text": "(3) Subsection (2) does not apply if the representation:\n \n \n \n \n \n (a) was prepared or obtained for the purpose of conducting, or for or in contemplation of or in connection with, an Australian or overseas proceeding; or \n \n (b) was made in connection with an investigation relating or leading to a criminal proceeding.",
+      "id": "s26"
+    },
+    {
+      "text": "8 There is now a considerable body of authority dealing with this provision although its proper application is not altogether free from difficulty.",
+      "id": "s27"
+    },
+    {
+      "text": "The first matter to emphasise about the exception in subs (3) is that it applies not to a document as such but to a representation or representations contained in a document.",
+      "id": "s28"
+    },
+    {
+      "text": "It is well accepted that the hearsay rule contained in s 69(2) is founded on the \"rationale of reliability\" of business records generally.",
+      "id": "s29"
+    },
+    {
+      "text": "The exception to that subsection is founded on a \"rationale of unreliability\" of representations made in the circumstances envisaged by subs (3): see generally Australian Competition and Consumer Commission v Advanced Medical Institute Pty Ltd [2005] FCA 1357 ; (2005) 147 FCR 235 at [27] .",
+      "id": "s30"
+    },
+    {
+      "text": "As Barrett J put the matter in Vitali v Stachnik [2001] NSWSC 303 at [12] :\n The purpose of the exclusion is ... to prevent the introduction through this exception to the hearsay rule of hearsay material which is prepared in an atmosphere or context which may cause it to be self-serving in the sense of possibly being prepared to assist the proof of something known or at least apprehended to be relevant to the outcome of identifiable legal proceedings.",
+      "id": "s31"
+    },
+    {
+      "text": "9 His Honour went on to note that the contemplation or existence of any proceedings might lead even persons of good intent to make purely self-serving statements which would otherwise be admissible through the scheme of s 69 and that it was the tendency for such self serving statements to be made which led to their exclusion from the ambit of s 69(2).",
+      "id": "s32"
+    },
+    {
+      "text": "10 The focus of the contemplation referred to in subs (3)(a) is, as Lindgren J indicated in the Advanced Medical Institute case, upon the contemplation of the person who \"prepared\" or \"obtained\" the relevant representation.",
+      "id": "s33"
+    },
+    {
+      "text": "As his Honour said at [25]-[27]:\n \n \n 25.",
+      "id": "s34"
+    },
+    {
+      "text": "...",
+      "id": "s35"
+    },
+    {
+      "text": "In order for s 69(3)(a) to apply, a person must have \"prepared\" or \"obtained\" the representation (not the document) in contemplation of a proceeding.",
+      "id": "s36"
+    },
+    {
+      "text": "It is an unusual use of language to refer to the \"preparing\" of a representation, but I think that the intention is clear enough; the reference is to the person who prepared, formulated, shaped or framed the terms in which the representation is made.",
+      "id": "s37"
+    },
+    {
+      "text": "This will typically, perhaps always, be or include the maker of the representation.",
+      "id": "s38"
+    },
+    {
+      "text": "26.",
+      "id": "s39"
+    },
+    {
+      "text": "The person who \"obtains\" a representation is a person who seeks the representation or procures it to be made.",
+      "id": "s40"
+    },
+    {
+      "text": "This person is not the maker of the representation, but may be a person who \"prepared\" it.",
+      "id": "s41"
+    },
+    {
+      "text": "27.",
+      "id": "s42"
+    },
+    {
+      "text": "By referring to persons who prepared or obtained the representation, the legislature was attempting to encompass all those who might cause a representation to be made in the form which it takes.",
+      "id": "s43"
+    },
+    {
+      "text": "11 It is well established that before it can be said that a representation was prepared or obtained in contemplation of a proceeding, it must be established that a proceeding was \"likely\" or \"reasonably probable\": see Nikolaidis v Legal Services Commissioner [2007] NSWCA 130 at [61] and the cases there mentioned.",
+      "id": "s44"
+    },
+    {
+      "text": "The two questions which need to be determined for present purposes are, first, can it be said that legal proceedings were in contemplation and, second, if so, were they in the contemplation of the person or persons who prepared or obtained the relevant representations?",
+      "id": "s45"
+    },
+    {
+      "text": "For present purposes I am satisfied that representations contained in the documents which indicate that there were products purchased from retailers which did not contain AMC's insert in the packaging (ie products which were parallel imports) are at least presently relevant representations.",
+      "id": "s46"
+    },
+    {
+      "text": "As to the question whether legal proceedings were in contemplation at that time between AMC and Hamilton, I am not satisfied on the material before me such was the case.",
+      "id": "s47"
+    },
+    {
+      "text": "As I indicated above, the evidence does not suggest there was a likelihood or reasonable probability of legal proceedings at the relevant time.",
+      "id": "s48"
+    },
+    {
+      "text": "While the relationship of the parties at this time was undoubtedly tense, they had by then been in a long term relationship spanning 14 years.",
+      "id": "s49"
+    },
+    {
+      "text": "Such references as were made in correspondence to Hamilton's alleged responsibility to compensate AMC either for Dr Lam's success fee or for loss sustained by AMC from parallel importing could at best only be properly treated as reflecting a negotiating process between the parties at this stage.",
+      "id": "s50"
+    },
+    {
+      "text": "12 When one turns to the contemplation of legal proceedings in Hong Kong, the situation is quite different.",
+      "id": "s51"
+    },
+    {
+      "text": "It is clear that from August 2002, as the investigation into parallel importing appeared to bear fruit in AMC's eyes, the prospect of taking proceedings against distributors and retailers was a very real one.",
+      "id": "s52"
+    },
+    {
+      "text": "Notwithstanding that AMC obviously was wishing to resolve disputes without resort to legal proceedings --- and the correspondence reflects this --- it also makes it perfectly plain that litigation was contemplated.",
+      "id": "s53"
+    },
+    {
+      "text": "It suggests that, by early September, proceedings were pending and on the evidence before me a writ had been issued by mid-October which, coincidentally, was the time at which the last group of documents in the bundle were referrable.",
+      "id": "s54"
+    },
+    {
+      "text": "For this reason I am prepared to infer that so far as Dr Keung and Dr Lam were concerned, legal proceedings throughout the time period covered by the business records in question were likely or reasonably probable against Hong Kong distributors and/or retailers involved in alleged parallel importing.",
+      "id": "s55"
+    },
+    {
+      "text": "13 Those proceedings of course would not have involved Hamilton, ie it could not be said that the representations were made in contemplation of proceedings involving Hamilton and in which proceedings it was subsequently sought to have them tendered.",
+      "id": "s56"
+    },
+    {
+      "text": "In Kang v Kwan [2002] NSWSC 1187 Santow J, in a very brief passage in his judgment, held that the relevant misrepresentation must have been prepared or obtained in contemplation of the very proceedings in which the document is sought to be used.",
+      "id": "s57"
+    },
+    {
+      "text": "No reference was made by his Honour to authorities dealing with this question under either the Evidence Act or earlier similar provisions.",
+      "id": "s58"
+    },
+    {
+      "text": "14 For my own part, I am satisfied that the decision of Santow J places an undue limitation upon the clear wording of s 69(3) and is inconsistent with the underlying purpose of the provision itself.",
+      "id": "s59"
+    },
+    {
+      "text": "Section 69(3) refers only to a proceeding without any limitation as to parties: see the observations of Hamilton J in Lewis v Nortex Pty Ltd (in liq) [2002] NSWSC 1083 at [4] (4).",
+      "id": "s60"
+    },
+    {
+      "text": "15 The unreliability of evidence of representations made or prepared in a context which might cause the representation to be self serving is, in my view, as likely to exist whether or not the proceedings in contemplation was the one in which the representation was sought to be tendered.",
+      "id": "s61"
+    },
+    {
+      "text": "It is, in my view, unsurprising that the decision of Santow J has in this respect attracted criticism: see Odgers, Uniform Evidence Law (7 th ed) at [1.3.2880].",
+      "id": "s62"
+    },
+    {
+      "text": "For my own part I am not prepared to follow the Kang v Kwan decision.",
+      "id": "s63"
+    },
+    {
+      "text": "I am satisfied that the legal proceedings in contemplation referred to in s 69(3) relate to any legal proceedings in which the representation might become admissible and is not confined to the proceedings in which the statement is sought to be tendered: cf Feltafield Pty Limited v Heidelberg Graphic Equipment (1995) 56 FCR 481 at [487A].",
+      "id": "s64"
+    },
+    {
+      "text": "16 The remaining question is whether it can properly be said that either or both of Drs Keung or Lam, but particularly Dr Keung, prepared or obtained the representations to which I have referred.",
+      "id": "s65"
+    },
+    {
+      "text": "In light of Dr Keung's own evidence and of the function being performed by Dr Lam in the parallel importing investigation, I am satisfied that each can properly be said to be so involved in obtaining or procuring the making of the representations as to satisfy that requirement of s 69(3).",
+      "id": "s66"
+    },
+    {
+      "text": "I equally am satisfied from the communications and documents relied upon by the respondent that they had the contemplation envisaged by the subsection.",
+      "id": "s67"
+    },
+    {
+      "text": "17 Accordingly, I rule representations contained in pp 385-400 of the applicant's court book not to be admissible under s 69(2) of the Evidence Act .",
+      "id": "s68"
+    },
+    {
+      "text": "2.",
+      "id": "s69"
+    },
+    {
+      "text": "&amp; 3.",
+      "id": "s70"
+    },
+    {
+      "text": "The s 135 Objection and s 136 Submission \n \n18 It is the case, as Hamilton contends, that the 16 documents suffer from clear and obvious inadequacies and their probative value is correspondingly qualified.",
+      "id": "s71"
+    },
+    {
+      "text": "The notes they contain are partly in Chinese, though Dr Keung in evidence-in-chief gave some indication of how most of them should properly be read.",
+      "id": "s72"
+    },
+    {
+      "text": "Though Dr Keung's second affidavit at [47] identifies the persons who participated in the parallel importing investigation and the person who was responsible for the actual preparation of the business records, it is not obvious whether they together constitute the totality of the notes made in the investigation Dr Keung commissioned, or are merely a selection of them.",
+      "id": "s73"
+    },
+    {
+      "text": "What is clear, in my view, is that the number of retail outlets visited to which reference is made in the documents represent only a small proportion of such outlets in Hong Kong.",
+      "id": "s74"
+    },
+    {
+      "text": "19 Hamilton contends that the inadequacies of the documents are such that, absent any capacity to cross-examine Dr Lam on them, it would be unfairly prejudiced by their reception into evidence and that I should exclude them under s 135 of the Evidence Act .",
+      "id": "s75"
+    },
+    {
+      "text": "20 I have already indicated that the representations contained in the documents are not admissible as hearsay exceptions under s 69 of the Act.",
+      "id": "s76"
+    },
+    {
+      "text": "AMC, as a fall back position, seeks to have them tendered simply as part of the evidentiary matrix of materials which informed Dr Keung's, hence AMC's, beliefs about the incidence and provenance of parallel importing of 10% urea cream in Hong Kong.",
+      "id": "s77"
+    },
+    {
+      "text": "21 In his first and second affidavits, Dr Keung indicated how (inter alia) the investigation informed both his views about parallel importing and AMC's subsequent actions in relation to it.",
+      "id": "s78"
+    },
+    {
+      "text": "Notwithstanding the deficiencies in the documentary evidence sought to be tendered of which Dr Keung took account, I am satisfied it ought be admitted into evidence as evidence of the fact of the investigation and as part of the matrix of materials which informed his --- and AMC's --- belief and actions in relation to the alleged parallel importing.",
+      "id": "s79"
+    },
+    {
+      "text": "To this extent I am unwilling to rule it inadmissible under s 135 of the Evidence Act notwithstanding the questions that can be raised about the documents themselves which I have noted above.",
+      "id": "s80"
+    },
+    {
+      "text": "22 However, while I will admit the documents for the above purposes, I will under s 136 of the Evidence Act limit the use that can be made of them to those purposes as I am satisfied that to admit them for all purposes would be unfairly prejudicial to Hamilton and, given their deficiencies, would be likely to mislead.",
+      "id": "s81"
+    },
+    {
+      "text": "CONCLUSION \n \n23 Accordingly, I rule that representations contained in the business records to be found at pp 385 to 400 of the applicant's court book are not admissible under s 69(2) of the Evidence Act but are admissible for the limited purposes specified in these reasons.",
+      "id": "s82"
+    },
+    {
+      "text": "I certify that the preceding twenty-three (23) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Finn.",
+      "id": "s83"
+    },
+    {
+      "text": "Associate:\n\nDated: 14 July 2008\n\n Counsel for the Applicant/Cross-Respondents: Mr I Robertson with Ms A Barnett \n \n Solicitor for the Applicant/Cross-Respondents: Piper Alderman \n \n Counsel for the Respondent/Cross-Claimant: Mr P McNamara QC with Mr T Cox \n \n Solicitor for the Respondent/Cross-Claimant: Crawford Legal \n\n Date of Hearing: 10 July 2008 \n \n Date of Ruling: 10 July 2008 \n\n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2008/1038.html",
+      "id": "s84"
+    }
+  ]
+}

@@ -1,0 +1,536 @@
+[
+  {
+    "text": "corporations",
+    "id": "cp0.0",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "practice and procedure",
+    "id": "cp0.1",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "application to set aside statutory demand on ground of disputed debt",
+    "id": "cp0.2",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "adequacy of affidavit in support of application",
+    "id": "cp0.3",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "sufficiency of affidavit accompanying statutory demand",
+    "id": "cp0.4",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "extent of compliance with rules",
+    "id": "cp0.5",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "whether form of affidavit leading to substantial injustice",
+    "id": "cp0.6",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "corporations",
+    "id": "cp1.0",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "application to set aside a statutory demand",
+    "id": "cp1.1",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "compliance with s459g of the corporations law",
+    "id": "cp1.2",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "unintended omissions from affidavit supporting application to set aside but no discrepancy between affidavit filed and affidavit served",
+    "id": "cp1.3",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "affidavit in support of application conforms to s459g(3)",
+    "id": "cp1.4",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "genuine dispute established.",
+    "id": "cp1.5",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "corporations law",
+    "id": "cp2.0",
+    "type": "cited",
+    "from": "[2000]"
+  },
+  {
+    "text": "application to set aside statutory demand",
+    "id": "cp2.1",
+    "type": "cited",
+    "from": "[2000]"
+  },
+  {
+    "text": "whether application properly made",
+    "id": "cp2.2",
+    "type": "cited",
+    "from": "[2000]"
+  },
+  {
+    "text": "whether a failure to serve a complete copy of the annexures to the supporting affidavit a failure to serve a copy of the affidavit",
+    "id": "cp2.3",
+    "type": "cited",
+    "from": "[2000]"
+  },
+  {
+    "text": "corporations",
+    "id": "cp3.0",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "statutory demand",
+    "id": "cp3.1",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "setting aside",
+    "id": "cp3.2",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "supporting affidavit",
+    "id": "cp3.3",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "whether condition of jurisdiction",
+    "id": "cp3.4",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "minimum requirements of affidavit.",
+    "id": "cp3.5",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "corporations",
+    "id": "cp5.0",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "statutory demand",
+    "id": "cp5.1",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "whether court had jurisdiction to hear application to set aside",
+    "id": "cp5.2",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "when statutory demand served",
+    "id": "cp5.3",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "when application to set aside served",
+    "id": "cp5.4",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "whether good service by facsimile transmission",
+    "id": "cp5.5",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "affidavit served without exhibits",
+    "id": "cp5.6",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "corporations act 2001 (cth) ss 109x , 459g , acts interpretation act 1901 (cth) s 29 , evidence act 2008 (cth) s 160, judiciary act 1903 (cth) s79.",
+    "id": "cp5.7",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "corporations",
+    "id": "cp6.0",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "statutory demand",
+    "id": "cp6.1",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "application to set aside",
+    "id": "cp6.2",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "claim of genuine dispute about existence of debt",
+    "id": "cp6.3",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "claim that \"some other reason\" why the demand should be set aside",
+    "id": "cp6.4",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "whether demand specified a fixed sum payable",
+    "id": "cp6.5",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "whether amount payable sufficiently verified",
+    "id": "cp6.6",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "corporations act 2001 (cth) ss 459g , 459h , 459j",
+    "id": "cp6.7",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "corporations",
+    "id": "cp7.0",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "statutory demand",
+    "id": "cp7.1",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "application to set aside a statutory demand",
+    "id": "cp7.2",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "whether application complied with s 459g(3) of the corporations act 2001 (cth) where facsimile copy of affidavit in support of application to set aside demand was missing a line of text, and subsequent email copy was missing signatures",
+    "id": "cp7.3",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "meaning of 'copy'",
+    "id": "cp7.4",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "complete version of affidavit received albeit in the form of two documents",
+    "id": "cp7.5",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "whether a genuine dispute that the debt claimed in statutory demand was not due and payable",
+    "id": "cp7.6",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "default event under convertible note deed meant debt had become due and payable",
+    "id": "cp7.7",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "plaintiff contended oral variation of deed suspended obligation to repay, conditional upon plaintiff making two interest payments",
+    "id": "cp7.8",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "plaintiff failed to make second interest payment",
+    "id": "cp7.9",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "no genuine dispute that debt not due and payable",
+    "id": "cp7.10",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "application dismissed",
+    "id": "cp7.11",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "corporations",
+    "id": "cp8.0",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "statutory demand",
+    "id": "cp8.1",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "application under s 459h of the corporations act 2001 (cth) to set aside",
+    "id": "cp8.2",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "whether genuine dispute as to existence or amount of debt or off-setting claim.  practice and procedure",
+    "id": "cp8.3",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "review of a registrar's decision",
+    "id": "cp8.4",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "applicable principles",
+    "id": "cp8.5",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "whether further evidence may be adduced",
+    "id": "cp8.6",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "whether grounds of review limited",
+    "id": "cp8.7",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "weight of registrar's decision.",
+    "id": "cp8.8",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "statutory demand",
+    "id": "cp9.0",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "review of registrar's decision dismissing application to set aside statutory demand under s 459h of the corporations act 2001 (cth)",
+    "id": "cp9.1",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "whether review of no utility on basis of deemed insolvency arising from non-compliance with demand within statutory time limit",
+    "id": "cp9.2",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "consideration of alternative bases for review",
+    "id": "cp9.3",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "whether there was a genuine dispute about the existence of the debt",
+    "id": "cp9.4",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "whether monies the subject of transfer held on trust",
+    "id": "cp9.5",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "whether company accounts otherwise sufficient to establish existence of a plausible claim practice and procedure",
+    "id": "cp9.6",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "whether notice to produce should be set aside under order 33 r 12(1) of the federal court rules",
+    "id": "cp9.7",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "where documents called upon relate to a ground of review which is not available.",
+    "id": "cp9.8",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "corporations",
+    "id": "cp10.0",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "corporations",
+    "id": "cp10.1",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "statutory demand",
+    "id": "cp10.2",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "affidavit in support of application to set aside",
+    "id": "cp10.3",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "whether s 459g(3) of the corporations act 2001 (cth) requires service of exhibits to affidavit within 21-day period",
+    "id": "cp10.4",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "held it does not. corporations",
+    "id": "cp10.5",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "statutory demand",
+    "id": "cp10.6",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "application for order setting aside under s 459g of the corporations act",
+    "id": "cp10.7",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "whether grounds for application raised expressly or by reasonable inference in affidavit in support of application in accordance with graywinter principle",
+    "id": "cp10.8",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "held that plaintiff not entitled to rely upon ground which should be reasonably apparent from what has passed between parties but is not raised expressly or by reasonable inference in affidavit in support of application",
+    "id": "cp10.9",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "where supporting affidavit clearly raised liability of defendant to each of third party and plaintiff arising from costs orders in their favour",
+    "id": "cp10.10",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "held that plaintiff entitled to rely on grounds that there is a genuine dispute or offsetting claims arising from costs orders in favour of plaintiff and deponent",
+    "id": "cp10.11",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "plaintiff entitled to set off amount owed to it by defendant pursuant to costs order in favour of plaintiff.corporations",
+    "id": "cp10.12",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "statutory demand",
+    "id": "cp10.13",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "application for order setting aside under s 459g of the corporations act",
+    "id": "cp10.14",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "offsetting claim",
+    "id": "cp10.15",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "whether costs order in favour of third party to statutory demand can be availed of by plaintiff as an offsetting claim, where debt the subject of the statutory demand is owed jointly and severally by third party and plaintiff to defendant",
+    "id": "cp10.16",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "held that a joint and several obligor who is sued alone cannot raise a set-off to which his or her co-obligor is entitled.",
+    "id": "cp10.17",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "corporations law",
+    "id": "cp11.0",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "consideration of the exercise of discretion in awarding costs in the light of the judgment in kortz ltd v data acquisition pty ltd [2006] fca 1722.",
+    "id": "cp11.1",
+    "type": "citing",
+    "from": "[2007]"
+  }
+]

@@ -1,0 +1,2260 @@
+{
+  "name": "SZHEW v Minister for Immigration and Citizenship [2009] FCA 783 (24 July 2009)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2009/783.html",
+  "catchphrases": [
+    {
+      "text": "alleged inadequacy of interpretation of hearing before the tribunal",
+      "id": "c0"
+    },
+    {
+      "text": "whether interpretation gave rise to a breach of s 425 migration act 1958 (cth) and procedural unfairness",
+      "id": "c1"
+    },
+    {
+      "text": "circumstances of the case",
+      "id": "c2"
+    },
+    {
+      "text": "whether federal magistrate's treatment of expert evidence on standard of interpretation was in error",
+      "id": "c3"
+    },
+    {
+      "text": "whether federal magistrate's findings with respect to appellant's credibility in error",
+      "id": "c4"
+    },
+    {
+      "text": "whether judgment in first respondent's favour following appellant's failure to appear gave rise to a res judicata",
+      "id": "c5"
+    },
+    {
+      "text": "whether judgment determining whether application should be re-instated gave rise to a res judicata",
+      "id": "c6"
+    },
+    {
+      "text": "principles to be applied in determining whether a res judicata arises",
+      "id": "c7"
+    },
+    {
+      "text": "whether final determination of the merits of the case so as to give rise to a res judicata",
+      "id": "c8"
+    },
+    {
+      "text": "whether prior proceedings gave rise to anshun estoppel",
+      "id": "c9"
+    },
+    {
+      "text": "whether further application an abuse of process",
+      "id": "c10"
+    },
+    {
+      "text": "migration",
+      "id": "c11"
+    },
+    {
+      "text": "estoppel",
+      "id": "c12"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "INTRODUCTION \n This is an appeal against the dismissal of an application for review of a decision of the Refugee Review Tribunal ( the Tribunal ) by the Federal Magistrates Court ( SZHEW (No 3) v Minister for Immigration [2008] FMCA 1714 ( SZHEW No 3 )).",
+      "id": "s0"
+    },
+    {
+      "text": "Grounds 2 to 4 of the appellant's notice of appeal relate to the Federal Magistrate's conclusion that the appeal was precluded by reason of the doctrine of res judicata (arising from the decision in SZHEW v Minister for Immigration and Citizenship (No 2) [2006] FMCA 1750 ( SZHEW No 2 )) and/or an Anshun estoppel (referring to Port of Melbourne Authority v Anshun Pty Ltd [1981] HCA 45 ; (1981) 147 CLR 589).",
+      "id": "s1"
+    },
+    {
+      "text": "Grounds 5 to 10 relate to the Federal Magistrate's dismissal of the appellant's claims of a denial of a fair hearing before the Tribunal by reason of inadequate interpretation.",
+      "id": "s2"
+    },
+    {
+      "text": "The first respondent ( the Minister ) filed a notice of contention seeking that the Court affirm the Federal Magistrate's decision on the grounds that: - (i) the decision in SZHEW v Minister for Immigration &amp; Anor [2006] FMCA 1483 ( SZHEW No 1 ) gave rise to a res judicata, and (ii) the proceeding was an abuse of process.",
+      "id": "s3"
+    },
+    {
+      "text": "For the reasons given below, I have concluded that the proceeding is not precluded by the doctrines of res judicata or Anshun estoppel and does not constitute an abuse of process.",
+      "id": "s4"
+    },
+    {
+      "text": "Nevertheless, I have also concluded that the appeal must be dismissed as the appellant has not established any error by the Federal Magistrate about the alleged inadequate interpretation.",
+      "id": "s5"
+    },
+    {
+      "text": "BACKGROUND \n The appellant is a citizen of China.",
+      "id": "s6"
+    },
+    {
+      "text": "He is from Fujian where the dialect of Fuqing is spoken.",
+      "id": "s7"
+    },
+    {
+      "text": "He arrived in Australia on 5 November 2004 and applied for a protection visa on 15 December 2004.",
+      "id": "s8"
+    },
+    {
+      "text": "He claimed to have practiced Falun Gong for years and to fear persecution in China on this account.",
+      "id": "s9"
+    },
+    {
+      "text": "The Minister's delegate refused the application on 7 March 2005.",
+      "id": "s10"
+    },
+    {
+      "text": "On 6 April 2005 the appellant lodged an application for review of this decision by the Tribunal.",
+      "id": "s11"
+    },
+    {
+      "text": "The appellant attended the hearing before the Tribunal on 27 July 2005.",
+      "id": "s12"
+    },
+    {
+      "text": "The Tribunal affirmed the decision of the Minister's delegate on 29 July 2005, with the decision sent to the appellant by letter dated 18 August 2005.",
+      "id": "s13"
+    },
+    {
+      "text": "The appellant applied for a review of the Tribunal's decision.",
+      "id": "s14"
+    },
+    {
+      "text": "The application was fixed for hearing before the Federal Magistrates Court on 25 September 2006.",
+      "id": "s15"
+    },
+    {
+      "text": "The appellant failed to appear.",
+      "id": "s16"
+    },
+    {
+      "text": "In SZHEW No 1 Scarlett FM dismissed the application on 25 September 2006 relying on r 13.03A(c) of the Federal Magistrates Court Rules 2001 (Cth) as then in force (dismissal for a failure to appear).",
+      "id": "s17"
+    },
+    {
+      "text": "The appellant filed a notice of motion seeking to set aside the orders of 25 September 2006 and thereby to reinstate his application as permitted by r 16.05 of the Federal Magistrates Court Rules as then in force.",
+      "id": "s18"
+    },
+    {
+      "text": "The appellant was not legally represented but had received legal advice about his application to set aside the orders.",
+      "id": "s19"
+    },
+    {
+      "text": "The appellant's affidavit in support of the motion said that he had changed address and did not receive notice of the hearing, only of the dismissal of his application.",
+      "id": "s20"
+    },
+    {
+      "text": "The substantive application grounds claimed that the Tribunal failed to consider two matters, being the appellant's illiteracy and its impact on his ability to study Falun Gong and evidence of a photograph showing the appellant wearing a Falun Gong badge.",
+      "id": "s21"
+    },
+    {
+      "text": "Scarlett FM dismissed this application in SZHEW No 2 on 27 November 2006.",
+      "id": "s22"
+    },
+    {
+      "text": "The reasons for decision in SZHEW No 2 disclose that the application to set aside the orders of 25 September 2006 was initially listed for hearing on 20 November 2006 when a Mandarin interpreter was present.",
+      "id": "s23"
+    },
+    {
+      "text": "The Minister did not appear and the appellant requested an interpreter in the Fujian dialect, Fuqing (at [8]).",
+      "id": "s24"
+    },
+    {
+      "text": "Scarlett FM adjourned the hearing and arranged for a Fuqing interpreter to be present on the next occasion.",
+      "id": "s25"
+    },
+    {
+      "text": "At the hearing on 24 November 2006 the appellant gave evidence assisted by a Fuqing interpreter about the reasons for his non-appearance (at [9]-[11]) and his claims that the Tribunal had erred (at [13]-[17]).",
+      "id": "s26"
+    },
+    {
+      "text": "As part of his evidence the appellant said he had \"very little Mandarin\" (at [15]) and also emphasised his lack of education and illiteracy (at [17]).",
+      "id": "s27"
+    },
+    {
+      "text": "Scarlett FM considered the merits of the appellant's claims of error by the Tribunal and concluded that his \"independent examination of the material [did] not disclose any arguable case of jurisdictional error\" (at [24]).",
+      "id": "s28"
+    },
+    {
+      "text": "Orders thus were made dismissing the notice of motion seeking that the orders of 25 September 2006 be set aside.",
+      "id": "s29"
+    },
+    {
+      "text": "The appellant sought leave to appeal in the Federal Court against this decision.",
+      "id": "s30"
+    },
+    {
+      "text": "On 1 March 2007 Gilmour J dismissed this application for leave in SZHEW v Minister for Immigration and Citizenship [2007] FCA 243.",
+      "id": "s31"
+    },
+    {
+      "text": "Again, the appellant was not represented but had received legal advice about his application for leave.",
+      "id": "s32"
+    },
+    {
+      "text": "The substantive grounds of review foreshadowed were the same as those considered by Scarlett FM.",
+      "id": "s33"
+    },
+    {
+      "text": "Gilmour J dismissed the application for leave as he was satisfied that there was no error by Scarlett FM (at [28]) and that the substantive grounds of review then relied upon had no reasonable prospects of success (at [29]).",
+      "id": "s34"
+    },
+    {
+      "text": "On 19 October 2007 the appellant filed a further application in the Federal Magistrates Court for review of the same decision of the Tribunal.",
+      "id": "s35"
+    },
+    {
+      "text": "That application was amended twice and, as amended, formed the basis for the decision the subject of this appeal.",
+      "id": "s36"
+    },
+    {
+      "text": "In this further application the appellant claimed for the first time jurisdictional error by reason of inadequate interpretation before the Tribunal.",
+      "id": "s37"
+    },
+    {
+      "text": "In SZHEW No 3 Federal Magistrate Orchiston dismissed this application on the grounds that res judicata and Anshun estoppel precluded the further application having regard to the decision in SZHEW No 2 .",
+      "id": "s38"
+    },
+    {
+      "text": "Federal Magistrate Orchiston also decided that the substantive ground of review (jurisdictional error by reason of inadequate interpretation) was unsustainable.",
+      "id": "s39"
+    },
+    {
+      "text": "The appellant appeals against the decision in SZHEW No 3 , effectively, on all grounds.",
+      "id": "s40"
+    },
+    {
+      "text": "The Minister's notice of contention is that the Federal Magistrate's decision is sustainable by reference to the decision in not only SZHEW No 2 , but also SZHEW No 1 and the principles about abuse of process.",
+      "id": "s41"
+    },
+    {
+      "text": "RES JUDICATA, ANSHUN ESTOPPEL AND ABUSE OF PROCESS \n Res judicata\n Neither party identified any decision about the doctrine of res judicata analogous to the circumstances of the present case.",
+      "id": "s42"
+    },
+    {
+      "text": "The Minister emphasised the decision in Linprint Pty Ltd v Hexham Textiles Pty Ltd (1991) 23 NSWLR 508 in which a default judgment entered in favour of a plaintiff was held to found a res judicata.",
+      "id": "s43"
+    },
+    {
+      "text": "The appellant observed, however, that there is no provision in the Federal Magistrates Act 1999 (Cth) or Federal Magistrates Court Rules equivalent to that in Linprint about the finality of all judgments and orders.",
+      "id": "s44"
+    },
+    {
+      "text": "It is also apparent that Linprint involved a default judgment in favour of a plaintiff and not a mere dismissal of a proceeding for failure to appear as was the case in SZHEW No 1 .",
+      "id": "s45"
+    },
+    {
+      "text": "A default judgment is a final decision whereas a dismissal for want of prosecution is not (see Spencer Bower, G. The Doctrine of Res Judicata .",
+      "id": "s46"
+    },
+    {
+      "text": "3 rd ed.",
+      "id": "s47"
+    },
+    {
+      "text": "Butterworths: London (1996) at [163] and [164] (hereafter, Spencer Bower )).",
+      "id": "s48"
+    },
+    {
+      "text": "A dismissal for a failure to appear at a hearing is more akin to a dismissal for want of prosecution than a default judgment.",
+      "id": "s49"
+    },
+    {
+      "text": "The Minister also relied on Applicant A321 of 2002 v Minister for Immigration and Multicultural and Indigenous Affairs [2004] FCA 306 in which Wilcox J held that a claim under s 39B of the Judiciary Act 1903 (Cth) which had been dismissed precluded a later claim under s 75(v) of the Constitution by reason of the principle of res judicata.",
+      "id": "s50"
+    },
+    {
+      "text": "In the present case, the Federal Magistrate applied this reasoning, thereby concluding that the new ground (inadequate interpretation) did not avoid the consequence that the further application was precluded by the doctrine of res judicata (at [44]-[46]).",
+      "id": "s51"
+    },
+    {
+      "text": "Yet in Applicant A321 of 2002 the first decision was heard and determined on the merits.",
+      "id": "s52"
+    },
+    {
+      "text": "The case did not involve a dismissal for want of attendance at the hearing and rejection of a subsequent application to set aside the orders.",
+      "id": "s53"
+    },
+    {
+      "text": "The appellant said the present case was analogous to Applicant A184 of 2003 v Minister for Immigration and Multicultural and Indigenous Affairs (2004) 210 ALR 543 ; [2004] FCA 1076.",
+      "id": "s54"
+    },
+    {
+      "text": "In that case Hely J had dismissed an appeal seeking to set aside a decision of the Tribunal on the basis of an applicant's failure to appear and, in so doing, expressed the opinion that the appeal was hopeless in any event.",
+      "id": "s55"
+    },
+    {
+      "text": "The applicant applied for constitutional writs in the High Court to set aside the same decision of the Tribunal.",
+      "id": "s56"
+    },
+    {
+      "text": "The High Court referred this application to the Federal Court but the applicant filed his initiating process out of time.",
+      "id": "s57"
+    },
+    {
+      "text": "Mansfield J considered and dismissed the applicant's application to extend time.",
+      "id": "s58"
+    },
+    {
+      "text": "The application for leave to appeal against the decision of Mansfield J came before Lander J for determination.",
+      "id": "s59"
+    },
+    {
+      "text": "Lander J discussed the principles of res judicata in respect of default judgments (at [97]-[111]).",
+      "id": "s60"
+    },
+    {
+      "text": "His Honour concluded that the decision of Hely J was not a decision on the merits and decided no issue of fact or law (at [112]-[118]).",
+      "id": "s61"
+    },
+    {
+      "text": "Accordingly, Hely J's decision did not give rise to a res judicata.",
+      "id": "s62"
+    },
+    {
+      "text": "In Applicant A184 of 2003 Hely J's decision is equivalent to that in SZHEW No 1 .",
+      "id": "s63"
+    },
+    {
+      "text": "In SZHEW No 1 there was a mere dismissal for failure to appear without any consideration of the merits of the appellant's claims.",
+      "id": "s64"
+    },
+    {
+      "text": "This is clear from the fact that Scarlett FM dismissed the application for failure to appear relying on r 13.03A(c) of the Federal Magistrates Court Rules (as then in force) and not r 13.03A(e).",
+      "id": "s65"
+    },
+    {
+      "text": "The former permits dismissal if an applicant fails to appear.",
+      "id": "s66"
+    },
+    {
+      "text": "The latter permits the Court to proceed with the hearing in a party's absence.",
+      "id": "s67"
+    },
+    {
+      "text": "Lander J made a similar observation about the different methods of proceeding in Applicant 184 of 2003 (at [84]-[90]).",
+      "id": "s68"
+    },
+    {
+      "text": "In the present case, by way of contrast to Applicant 184 of 2003 , there was a further decision in SZHEW No 2 in which the merits of the appellant's claims were considered.",
+      "id": "s69"
+    },
+    {
+      "text": "In SZHEW No 2 Scarlett FM considered the merits of the application for review of the Tribunal's decision but for the purpose only of determining whether the orders dismissing the application should be set aside.",
+      "id": "s70"
+    },
+    {
+      "text": "If anything, the decision in SZHEW No 2 (an application to set aside an order, involving a discretionary decision) is analogous to that of Mansfield J in Applicant A184 of 2003 .",
+      "id": "s71"
+    },
+    {
+      "text": "Lander J did not need to consider the status of that decision other than to extent of noting that it was interlocutory so that the applicant required leave to appeal against it.",
+      "id": "s72"
+    },
+    {
+      "text": "The Minister sought support from the fact that, in this case, the appellant had explained the reason for his failure to appear, which explanation Scarlett FM (and Gilmour J) found unsatisfactory.",
+      "id": "s73"
+    },
+    {
+      "text": "In contrast, there had been no such explanation available with respect to the case before Lander J in Applicant 184 of 2003 (at [113]).",
+      "id": "s74"
+    },
+    {
+      "text": "I do not consider this circumstance of any real assistance.",
+      "id": "s75"
+    },
+    {
+      "text": "It seems to me that Lander J in [113] was doing no more than observing that other evidence might be relevant to the question of a res judicata; this is consistent with the view that a court is not limited to the terms of the order in deciding this question (Spencer Bower at [204]).",
+      "id": "s76"
+    },
+    {
+      "text": "Although it appears that the parties did not refer the Federal Magistrate to Applicant A184 of 2003 , the reasoning in that decision provides a detailed analysis supporting the Federal Magistrate's conclusion in SZHEW No 3 that the decision in SZHEW No 1 , not being a decision on the merits of the application, cannot found a res judicata.",
+      "id": "s77"
+    },
+    {
+      "text": "The Minister's notice of contention on that basis should not be upheld.",
+      "id": "s78"
+    },
+    {
+      "text": "Applicant A184 of 2003 does not, however, provide the appellant with much assistance in relation to the decision in SZHEW No 2 , on which the Federal Magistrate's conclusions of res judicata and Anshun estoppel were based.",
+      "id": "s79"
+    },
+    {
+      "text": "In SZHEW No 3 (at [42]) the Federal Magistrate considered that the decision in SZHEW No 2 became a final decision on the cause of action raised in the original application on the dismissal of the application for leave to appeal by Gilmour J.",
+      "id": "s80"
+    },
+    {
+      "text": "I agree that the decision in SZHEW No 2 became a final decision on Gilmour J dismissing the application for leave to appeal.",
+      "id": "s81"
+    },
+    {
+      "text": "The question is whether it was a final decision on the merits of the cause of action raised in the original application (so as to preclude any further application) or merely a final decision on the merits of an application to set aside the order (so as to preclude only any further application on that cause of action).",
+      "id": "s82"
+    },
+    {
+      "text": "This question involves consideration of the steps necessary to the decision in SZHEW No 2 (see the discussion in Spencer Bower at [183]-[186]).",
+      "id": "s83"
+    },
+    {
+      "text": "The appellant submitted that there is a difference between, on the one hand, considering the merits of an application to set aside an order dismissing an application for a failure to appear and, on the other hand, determining an application itself.",
+      "id": "s84"
+    },
+    {
+      "text": "It is true that the former is carried out in the context of the exercise of discretion.",
+      "id": "s85"
+    },
+    {
+      "text": "The latter involves an application of the law to the facts as found.",
+      "id": "s86"
+    },
+    {
+      "text": "Further, the order resulting from the former is either dismissal of the application to set aside the original order for dismissal or the setting aside of that order leaving the original application on foot.",
+      "id": "s87"
+    },
+    {
+      "text": "The order resulting from the latter is the dismissal or upholding of the original application.",
+      "id": "s88"
+    },
+    {
+      "text": "These matters may indicate that the two decisions do not involve consideration of the merits of the same question which is an essential component of a res judicata; but they are not decisive.",
+      "id": "s89"
+    },
+    {
+      "text": "The doctrine of res judicata is said to apply to any matter \"which it was necessary to decide, and which was actually decided, as the groundwork of the decision itself, though not then directly the point at issue\" (Spencer Bower at [184] citing R v Hartington, Middle Quarter Inhabitants [1855] EngR 264 ; (1855) 4 E &amp; B 780 at 794-797; see also Applicant A184 of 2003 at [101] citing Rogers v Legal Services Commission of South Australia (1995) 64 SASR 572).",
+      "id": "s90"
+    },
+    {
+      "text": "Spencer Bower (also at [184]) identifies this criterion of necessity as involving a \"judicial determination of some question of law or issue of fact, in the sense that the decision could not have been legitimately or rationally pronounced by the tribunal without determining the question or issue in a particular way..., such determination, even though not declared on the face of the decision, constitutes an integral part of it: but beyond these limits, there can be no such thing as a res judicata by implication\".",
+      "id": "s91"
+    },
+    {
+      "text": "Did the decision in SZHEW No 2 involve a judicial determination of the requisite character with respect not only to the appellant's application to set aside the order of 25 September 2006 dismissing the application for judicial review of the Tribunal's decision, but also the application for judicial review itself?",
+      "id": "s92"
+    },
+    {
+      "text": "An assessment of the prospects of success of the judicial review application is a necessary step in the determination of an application to set aside an order for dismissal for a failure to appear.",
+      "id": "s93"
+    },
+    {
+      "text": "Yet can it be said that such an assessment, in the context of a discretionary decision, involved a judicial determination of an issue such that Scarlett FM's decision in SZHEW No 2 could not have been legitimately or rationally pronounced but for that assessment?",
+      "id": "s94"
+    },
+    {
+      "text": "It seems to me that the better view is that this question should be answered in the negative.",
+      "id": "s95"
+    },
+    {
+      "text": "SZHEW No 2 did not involve a judicial determination of the issue whether the Tribunal's decision was affected by jurisdictional error.",
+      "id": "s96"
+    },
+    {
+      "text": "It involved a judicial determination of whether the order of 25 September 2006 should be set aside.",
+      "id": "s97"
+    },
+    {
+      "text": "Although assessment of the prospects of success was a necessary part of the determination of the application to set aside the dismissal, there was no judicial determination of the question of jurisdictional error in the sense required.",
+      "id": "s98"
+    },
+    {
+      "text": "The assessment was part of a broader process of weighing up various factors relevant to the exercise of discretion.",
+      "id": "s99"
+    },
+    {
+      "text": "The decision could have been rationally and legitimately made without the question of the prospects of success being determined in a particular way, depending on the strength of other factors (such as the appellant's reason for not appearing).",
+      "id": "s100"
+    },
+    {
+      "text": "It follows from these observations that I do not accept that SZHEW No 2 involved a final decision on the merits of the appellant's cause of action for jurisdictional error by the Tribunal.",
+      "id": "s101"
+    },
+    {
+      "text": "It involved a final decision as to whether an order dismissing an application for a failure to appear should be set aside.",
+      "id": "s102"
+    },
+    {
+      "text": "In the course of that decision, Scarlett FM considered whether the application had prospects of success (and reached the view it did not), which contributed to his refusal to exercise a discretionary power in favour of the appellant.",
+      "id": "s103"
+    },
+    {
+      "text": "But there was no final determination of the cause of action (namely, whether the Tribunal's decision was vitiated by jurisdictional error) in fact or law.",
+      "id": "s104"
+    },
+    {
+      "text": "For these reasons I consider that the appellant's further application was not precluded by a res judicata.",
+      "id": "s105"
+    },
+    {
+      "text": "In this regard, I do not accept the Minister's observation, accepted by the Federal Magistrate at [45], that this enables an applicant to bring multiple proceedings about the same decision.",
+      "id": "s106"
+    },
+    {
+      "text": "First, a final decision on the merits of an application for judicial review ordinarily would give rise to a res judicata.",
+      "id": "s107"
+    },
+    {
+      "text": "Second, certain cases may give rise to an issue estoppel (properly, not raised by the parties in this case).",
+      "id": "s108"
+    },
+    {
+      "text": "Third, some cases will be precluded by an Anshun estoppel.",
+      "id": "s109"
+    },
+    {
+      "text": "Fourth, and as noted below, others may involve an abuse of process.",
+      "id": "s110"
+    },
+    {
+      "text": "Anshun estoppel\n Given my conclusion that there has been no final determination of the question whether the Tribunal's decision was vitiated by jurisdictional error, a different conclusion than that reached by the Federal Magistrate about Anshun estoppel also necessarily follows.",
+      "id": "s111"
+    },
+    {
+      "text": "The principles of Anshun estoppel involve asking whether an issue properly belonged to or \"was so relevant to the subject matter of the earlier action that it would be unreasonable not to have raised it at that time\" ( Wong v Minister for Immigration and Multicultural and Indigenous Affairs (2004) 146 FCR 10; [2004] FCAFC 242 at [37] ).",
+      "id": "s112"
+    },
+    {
+      "text": "If there had been a final determination on the merits of the appellant's application for judicial review, then it would be difficult to conclude that merely identifying a new ground of judicial review (that is, the inadequate interpretation ground) could avoid an Anshun estoppel.",
+      "id": "s113"
+    },
+    {
+      "text": "The Federal Magistrate's finding to this effect was warranted on the basis of her characterisation of the decision in SZHEW No 2 as giving rise to a res judicata.",
+      "id": "s114"
+    },
+    {
+      "text": "Moreover, it may be accepted that, before Scarlett FM and Gilmour J, the appellant could have raised the inadequacy of interpretation as a ground of jurisdictional error upon which he proposed to rely.",
+      "id": "s115"
+    },
+    {
+      "text": "This would then have been a relevant factor in the application before Scarlett FM to set aside the dismissal order and before Gilmour J on the application for leave to appeal.",
+      "id": "s116"
+    },
+    {
+      "text": "But the matter the subject of adjudication in the earlier cases was the application to set aside orders for failure to appear.",
+      "id": "s117"
+    },
+    {
+      "text": "The matter was not the appellant's claim to set aside the Tribunal's decision.",
+      "id": "s118"
+    },
+    {
+      "text": "As such, I have reached a different conclusion on Anshun estoppel from that reached by the Federal Magistrate.",
+      "id": "s119"
+    },
+    {
+      "text": "The Minister referred to the decision in MZWKJ v Minister for Immigration and Multicultural Affairs [2006] FCA 761 , in which an Anshun estoppel was found to arise.",
+      "id": "s120"
+    },
+    {
+      "text": "But that case involved different facts.",
+      "id": "s121"
+    },
+    {
+      "text": "In that case, the applicants had made an application to the High Court for an order nisi in respect of the Tribunal's decision.",
+      "id": "s122"
+    },
+    {
+      "text": "The High Court remitted the matter to this Court.",
+      "id": "s123"
+    },
+    {
+      "text": "Weinberg J refused the application and Finkelstein J then refused an application for leave to appeal (at [3]).",
+      "id": "s124"
+    },
+    {
+      "text": "The applicants then filed an application for review with the Federal Magistrates Court.",
+      "id": "s125"
+    },
+    {
+      "text": "The Federal Magistrate found an Anshun estoppel.",
+      "id": "s126"
+    },
+    {
+      "text": "On appeal Kenny J agreed.",
+      "id": "s127"
+    },
+    {
+      "text": "The facts of that case are thus analogous to Applicant A321 of 2002 v Minister for Immigration and Multicultural and Indigenous Affairs [2004] FCA 306 (discussed above) and dissimilar from the present case.",
+      "id": "s128"
+    },
+    {
+      "text": "In these circumstances I do not accept that the principles necessary for an Anshun estoppel to arise are satisfied.",
+      "id": "s129"
+    },
+    {
+      "text": "There has never been any judicial decision determining the judicial review application.",
+      "id": "s130"
+    },
+    {
+      "text": "Given this conclusion, it may not be appropriate for me to attempt to consider the question whether special circumstances displace any Anshun estoppel if I am incorrect.",
+      "id": "s131"
+    },
+    {
+      "text": "If required to do so, however, I would place significant weight on the fact that the claim of inadequate interpretation has never been the subject of any judicial consideration before this proceeding.",
+      "id": "s132"
+    },
+    {
+      "text": "Further, the appellant has not had the benefit of legal representation before this proceeding.",
+      "id": "s133"
+    },
+    {
+      "text": "It is true that lack of legal representation is insufficient of itself to avoid an Anshun estoppel ( MZWKJ v Minister for Immigration and Multicultural Affairs [2006] FCA 761 at [19] ; MZWGJ v Minister for Immigration and Multicultural and Indigenous Affairs [2005] FCA 1501 at [11] ).",
+      "id": "s134"
+    },
+    {
+      "text": "But that is not the only relevant factor in this case.",
+      "id": "s135"
+    },
+    {
+      "text": "Substantial resources have been necessary to mount the argument including the preparation of the transcript of the hearing before the Tribunal and the obtaining of Ms Qian's evidence.",
+      "id": "s136"
+    },
+    {
+      "text": "Taking all of these considerations together, I would be prepared to conclude that there are special circumstances in this case.",
+      "id": "s137"
+    },
+    {
+      "text": "Abuse of process\n The appellant and the Minister disagreed about the capacity for there to be any abuse of process without satisfaction of the requirements for a res judicata or an Anshun estoppel.",
+      "id": "s138"
+    },
+    {
+      "text": "The appellant relied on Miller v University of New South Wales (2003) 132 FCR 147 ; [2003] FCAFC 180 at [81] in which Ryan and Gyles JJ said: \n In our opinion, there is considerable difficulty in finding a proper basis for the concept of staying proceedings as an abuse of process upon the ground of re-litigation in the case of proceedings between the same parties which goes beyond the effect of res judicata, issue estoppel and Anshun estoppel (incorporating the English Henderson v Henderson estoppel); (see the illuminating discussion of the broad topic by the learned author of The Doctrine of Res Judicata (3 rd ed) 1996, Ch 26).",
+      "id": "s139"
+    },
+    {
+      "text": "Indeed, if the principle is so broad, it is difficult to understand why the various kinds of estoppel are maintained at all.",
+      "id": "s140"
+    },
+    {
+      "text": "In our view, near enough to an estoppel is not good enough to establish abuse of process between the same parties without some other element being present.",
+      "id": "s141"
+    },
+    {
+      "text": "There is the danger that persistent or unattractive litigants with awkward cases might be refused access to the courts if there is a broad and imprecise discretion to stay actions which are somewhat like a previous proceeding.",
+      "id": "s142"
+    },
+    {
+      "text": "The Minister relied on the analysis in Spalla v St George Motor Finance Ltd (ACN 007 656 555) (No 6) [2004] FCA 1699 at [58] - [70] and Quall v Northern Territory of Australia [2009] FCA 18 at [100] - [102] .",
+      "id": "s143"
+    },
+    {
+      "text": "In the former, French J said at [66]: \n The doctrines of res judicata , issue estoppel and Anshun do not exhaust the circumstances in which a proceeding may be regarded as amounting to an abuse of process by way of attempted re-litigation of a dispute already judicially determined.",
+      "id": "s144"
+    },
+    {
+      "text": "As another Full Court said in Coffey v Secretary, Department of Social Security [1999] FCA 375 ; (1999) 86 FCR 434 (at 443): \n\n \n 'An attempt to litigate in the Court a dispute or issue which has been resolved in earlier litigation in another court or tribunal may constitute an abuse of process even though the earlier proceeding did not give rise to a res judicata or issue estoppel: see Sea Culture International v Scoles [1991] FCA 523 ; (1991) 32 FCR 275 at 279 and Walton v Gardiner (1993) 177 CLR 378 at 393-394.",
+      "id": "s145"
+    },
+    {
+      "text": "Whether it does depends on the facts of the particular case.",
+      "id": "s146"
+    },
+    {
+      "text": "' \n\n Contrary to the appellant's approach, I do not see any inconsistency between these decisions.",
+      "id": "s147"
+    },
+    {
+      "text": "The critical words in Miller are \"without some other element being present\"; in such a case, near enough to an estoppel is not good enough.",
+      "id": "s148"
+    },
+    {
+      "text": "This does not mean that a party which has failed to establish a res judicata or Anshun estoppel is thereby prevented from pointing to factors which would satisfy the requirements for an abuse of process.",
+      "id": "s149"
+    },
+    {
+      "text": "For example, if the appellant in this proceeding had done nothing more than sought to re-agitate the same arguments in fact considered by Scarlett FM and Gilmour J then a claim of abuse of process might well be sustainable.",
+      "id": "s150"
+    },
+    {
+      "text": "In the present case, however, I am satisfied that there is no abuse of process.",
+      "id": "s151"
+    },
+    {
+      "text": "The claim of jurisdictional error by reason of inadequate interpretation has never been the subject of previous judicial determination.",
+      "id": "s152"
+    },
+    {
+      "text": "Although the ground could have been raised in the original application and foreshadowed as a ground to be raised in subsequent applications, there are other considerations.",
+      "id": "s153"
+    },
+    {
+      "text": "Having failed to appear at his hearing, the appellant was not thereafter prosecuting his application for jurisdictional error but, rather, seeking to set aside the dismissal order.",
+      "id": "s154"
+    },
+    {
+      "text": "The appellant had legal advice but not legal representation until the proceeding before Federal Magistrate Orchiston.",
+      "id": "s155"
+    },
+    {
+      "text": "Although I agree with the Minister that lack of legal representation is insufficient by itself to avoid an abuse of process, it is a factor that can be taken into account (by analogy to the decisions noted in [33] above).",
+      "id": "s156"
+    },
+    {
+      "text": "Further, the appellant's claim of inadequate interpretation is supported by evidence and prima facie arguable.",
+      "id": "s157"
+    },
+    {
+      "text": "It is a claim which has never been considered on its merits other than in the proceeding in SZHEW No 3 from which this appeal is brought.",
+      "id": "s158"
+    },
+    {
+      "text": "The consequences of the appellant not having a hearing on the merits are serious for the appellant; on his evidence, if he is to return to China he will be subject to ongoing persecution because of his practice of Falun Gong.",
+      "id": "s159"
+    },
+    {
+      "text": "In these circumstances I do not accept the ground in the Minister's notice of contention to the effect that the Federal Magistrate's dismissal of the further application filed in October 2007 may be sustained because the application involves an abuse of process.",
+      "id": "s160"
+    },
+    {
+      "text": "It follows that it is necessary to consider the alternative basis upon which the Federal Magistrate dismissed the application, namely, that the appellant had not established any jurisdictional error.",
+      "id": "s161"
+    },
+    {
+      "text": "In consequence, the decision is a \"privative clause decision\" and not amenable to judicial review under s 474 of the Migration Act 1958 (Cth).",
+      "id": "s162"
+    },
+    {
+      "text": "THE INADEQUATE INTERPRETATION GROUNDS \n Introduction\n As noted above, the appellant is a citizen of China from the province of Fujian where the dialect of Fuqing is spoken.",
+      "id": "s163"
+    },
+    {
+      "text": "The applications lodged on his behalf for a protection visa and a review of the decision of the Minister's delegate both sought the services of an interpreter in Mandarin.",
+      "id": "s164"
+    },
+    {
+      "text": "The appellant attended the hearing before the Tribunal on 27 July 2005.",
+      "id": "s165"
+    },
+    {
+      "text": "Because the appellant had not notified the Tribunal of his intention to attend, an interpreter had not been arranged.",
+      "id": "s166"
+    },
+    {
+      "text": "The Tribunal delayed the start of the hearing and made arrangements to find an interpreter.",
+      "id": "s167"
+    },
+    {
+      "text": "The Tribunal found an interpreter in Mandarin.",
+      "id": "s168"
+    },
+    {
+      "text": "The hearing before the Tribunal proceeded on the basis of interpretation from Mandarin into English and English into Mandarin.",
+      "id": "s169"
+    },
+    {
+      "text": "The appellant contends that his poor command of Mandarin as well as his Fuqing accent when he spoke Mandarin resulted in the hearing before the Tribunal miscarrying by reason of inadequate interpretation.",
+      "id": "s170"
+    },
+    {
+      "text": "Statutory provisions and principles\n Section 427(7) of the Migration Act provides that \"if a person appearing before the Tribunal to give evidence is not proficient in English, the Tribunal may direct that communication with that person during his or her appearance proceed through an interpreter\".",
+      "id": "s171"
+    },
+    {
+      "text": "Failure to provide adequate interpretation services may constitute a breach of the Tribunal's obligation in s 425(1) of the Migration Act to \"invite the applicant to appear before the Tribunal to give evidence and present arguments relating to the issues arising in relation to the decision under review\" and also may amount to a denial of procedural fairness.",
+      "id": "s172"
+    },
+    {
+      "text": "Not every error or inadequacy in interpretation can be said to have resulted in an appellant being effectively denied the opportunity which s 425 guarantees.",
+      "id": "s173"
+    },
+    {
+      "text": "Questions of fact and degree are involved.",
+      "id": "s174"
+    },
+    {
+      "text": "In Applicant P119/2002 v Minister for Immigration and Multicultural and Indigenous Affairs [2003] FCAFC 230 (at [17] and [22]) Mansfield and Selway JJ adopted the test which the Minister proposed in that case, namely, that an applicant claiming inadequate interpretation must establish that: \n (a) the standard of interpretation at the Tribunal hearing was so inadequate that the appellant was effectively prevented from giving evidence at the Tribunal; or\n (b) errors made by the interpreter at the Tribunal hearing were material to the conclusions of the Tribunal adverse to the appellant.",
+      "id": "s175"
+    },
+    {
+      "text": "This approach reflects the reasoning of Kenny J in Perera v Minister for Immigration and Multicultural Affairs (1999) 92 FCR 6 ; [1999] FCA 507.",
+      "id": "s176"
+    },
+    {
+      "text": "Kenny J (at [45]) held that in order to constitute vitiating error, the departure from the standard of adequate interpretation must \"relate to a matter of significance for the applicant's claim or the Tribunal's decision\".",
+      "id": "s177"
+    },
+    {
+      "text": "In deciding whether that had occurred, Kenny J considered \"the responsiveness of the interpreted answers to the questions asked, the coherence of those answers, the consistency of one answer with another and the rest of the case sought to be made and, more generally, any evident confusion in exchanges between the Tribunal and the interpreter\" (at [41]).",
+      "id": "s178"
+    },
+    {
+      "text": "Mansfield J adopted a similar approach in Tobasi v Minister for Immigration and Multicultural Affairs (2002) 122 FCR 322 ; [2002] FCA 1050.",
+      "id": "s179"
+    },
+    {
+      "text": "At [61] his Honour concluded that the evidence did not establish that \"the applicant was not invited to give evidence at the hearing, or that his opportunity to give evidence was to any real measure frustrated\".",
+      "id": "s180"
+    },
+    {
+      "text": "Mansfield J continued: \n It is inevitable that interpreters may use different words to convey the same meaning from time to time.",
+      "id": "s181"
+    },
+    {
+      "text": "The fluency of interpretation, with the advantage of more time to translate, may sometimes present a more cogent expression of the response than that given during a hearing.",
+      "id": "s182"
+    },
+    {
+      "text": "But in this matter I am far from persuaded that, in substance, the appellant was \"prevented from giving his evidence\" (per Kenny J in Perera at [38]) because of any incompetence on the part of the interpreter.",
+      "id": "s183"
+    },
+    {
+      "text": "I do not think that the Tribunal made findings adverse to the applicant by reason of any erroneous interpretation of the applicant's evidence (cf Ismail v Minister for Immigration and Multicultural Affairs (1999) 59 ALD 733).",
+      "id": "s184"
+    },
+    {
+      "text": "Nor am I persuaded that its adverse view of the applicant's reliability was contributed to by any inadequacies in the interpretation of the applicant's evidence at the hearing (cf Long v Minister for Immigration and Multicultural Affairs [2000] FCA 1172 ; (2000) 106 FCR 183).",
+      "id": "s185"
+    },
+    {
+      "text": "Finkelstein J applied the approach in Perera in VWFY v Minister for Immigration and Multicultural and Indigenous Affairs [2005] FCA 1723 , as did Gray J in M175 of 2002 v Minister for Immigration and Citizenship [2007] FCA 1212.",
+      "id": "s186"
+    },
+    {
+      "text": "Gray J also provided a detailed explanation of the national scheme for interpreters, the National Accreditation Authority for Translators and Interpreters Ltd ( NAATI ) and its levels of accreditation (at [23]-[30]).",
+      "id": "s187"
+    },
+    {
+      "text": "It is apparent from these (and other) decisions in which inadequate interpretation has been claimed that the question whether the inadequacy has been such as to deprive an appellant of the opportunity given by s 425 of the Migration Act involves a qualitative assessment of the conduct of the hearing before the Tribunal as a whole.",
+      "id": "s188"
+    },
+    {
+      "text": "The hearing before and reasons of the Federal Magistrates Court\n The Federal Magistrates Court had the benefit of a transcript in English of the hearing before the Tribunal, evidence from the appellant, and expert evidence from Yan Qian and Cathy Yong Xie.",
+      "id": "s189"
+    },
+    {
+      "text": "The appellant and the experts were also each cross-examined.",
+      "id": "s190"
+    },
+    {
+      "text": "In his affidavit sworn 5 November 2007 the appellant said that he speaks Fuqing but does not read or write in any language.",
+      "id": "s191"
+    },
+    {
+      "text": "He said he had only a \"basic understanding of Mandarin\".",
+      "id": "s192"
+    },
+    {
+      "text": "According to the appellant he became anxious before the hearing because he could not understand the interpreter who spoke Mandarin.",
+      "id": "s193"
+    },
+    {
+      "text": "She told him not to be nervous and to try to speak very slowly.",
+      "id": "s194"
+    },
+    {
+      "text": "The appellant said that, because of his very poor Mandarin, he did not understand many of the words the interpreter used or the questions asked.",
+      "id": "s195"
+    },
+    {
+      "text": "He asked her for clarification when he did not understand and, if he still could not understand, simply guessed.",
+      "id": "s196"
+    },
+    {
+      "text": "He also often felt the interpreter did not understand what he was saying.",
+      "id": "s197"
+    },
+    {
+      "text": "He claimed that the interpreter made him repeat answers and asked for clarification many times.",
+      "id": "s198"
+    },
+    {
+      "text": "Ms Qian is accredited by NAATI as a level 3 interpreter in the Mandarin language and is a lecturer in translation and interpretation at Macquarie University.",
+      "id": "s199"
+    },
+    {
+      "text": "Ms Qian does not understand Fuqing, which she described as one of the dialects of Fujian.",
+      "id": "s200"
+    },
+    {
+      "text": "Ms Qian listened to the tape of the hearing before the Tribunal.",
+      "id": "s201"
+    },
+    {
+      "text": "She concluded that the appellant could understand Mandarin most of the time in his communications with the interpreter but sometimes had difficulty; specifically, when giving short and simple answers he expressed himself adequately in Mandarin but had difficulty when giving longer explanations.",
+      "id": "s202"
+    },
+    {
+      "text": "He spoke Mandarin with a heavy accent which the interpreter found difficult to understand thus causing confusion.",
+      "id": "s203"
+    },
+    {
+      "text": "Ms Qian gave five examples of confusion she considered significant.",
+      "id": "s204"
+    },
+    {
+      "text": "(1) The appellant used the Mandarin word \"kongzhi\" (meaning \"control\") which the interpreter queried as \"kongzhu\" and had difficulty interpreting.",
+      "id": "s205"
+    },
+    {
+      "text": "The appellant subsequently used the Mandarin word \"juliu\" which means \"to detain\" or \"detained\".",
+      "id": "s206"
+    },
+    {
+      "text": "This caused some confusion.",
+      "id": "s207"
+    },
+    {
+      "text": "In the same context the appellant tended to pronounce words like \"which\" or \"that\" with the same tones as if they were interchangeable, randomly used single and plural forms of pronouns, and tended to use meaningless words as fillers.",
+      "id": "s208"
+    },
+    {
+      "text": "(2) The appellant used two Mandarin words together (\"chabuduo\" meaning \"nearly\" and \"zuoyou\" meaning \"about\") when only one or the other was necessary.",
+      "id": "s209"
+    },
+    {
+      "text": "(3) The interpreter did not understand the appellant's use of the word \"yinian\" meaning \"practice in thought\".",
+      "id": "s210"
+    },
+    {
+      "text": "(4) The appellant did not understand the Mandarin word \"jianli\" (\"found\") and the interpreter tried again by substituting the word \"faqi\".",
+      "id": "s211"
+    },
+    {
+      "text": "(5) The appellant and the interpreter were confused by reason of their accents when dealing with the words \"jinqu\" (\"join in\") and \"jinhzi\" (\"ban\").",
+      "id": "s212"
+    },
+    {
+      "text": "Ms Xie is a NAATI accredited interpreter at level 3 in Mandarin and has worked for 12 years as an interpreter with the Community Relations Commission of New South Wales.",
+      "id": "s213"
+    },
+    {
+      "text": "Ms Xie recognises many other regional accents including Fujian (Fuqing).",
+      "id": "s214"
+    },
+    {
+      "text": "Ms Xie listened to the tape of the hearing before the Tribunal.",
+      "id": "s215"
+    },
+    {
+      "text": "She observed that the appellant spoke with a Fuqing accent.",
+      "id": "s216"
+    },
+    {
+      "text": "Contrary to the appellant's evidence, Ms Xie noted that he requested the interpreter to repeat something only once and did not hesitate in giving answers.",
+      "id": "s217"
+    },
+    {
+      "text": "Further, Ms Xie did not hear the interpreter ask the appellant to repeat anything or ask for clarification many times.",
+      "id": "s218"
+    },
+    {
+      "text": "Ms Xie considered that the appellant spoke adequate Mandarin, using proper words, proper form, and proper sentence construction.",
+      "id": "s219"
+    },
+    {
+      "text": "In response to Ms Qian's evidence, Ms Xie said that the appellant spoke in accurate Mandarin when giving short and simple answers and could express himself adequately in Mandarin when giving longer explanations.",
+      "id": "s220"
+    },
+    {
+      "text": "Although he spoke with a Fuqing accent, the interpreter could understand him and when there were difficulties they were resolved through the course of the hearing.",
+      "id": "s221"
+    },
+    {
+      "text": "Ms Xie considered each of the examples of confusion Ms Qian identified but did not share her concerns.",
+      "id": "s222"
+    },
+    {
+      "text": "\"Kongzhi\" and \"kongzhu\" involved the appellant's pronunciation and was resolved by use of the alternative \"juliu\".",
+      "id": "s223"
+    },
+    {
+      "text": "The appellant's meaningless filling words were not interpreted.",
+      "id": "s224"
+    },
+    {
+      "text": "Otherwise there was no problem apparent from the tape as Ms Qian identified in her first example.",
+      "id": "s225"
+    },
+    {
+      "text": "\"Chabuduo\" meaning \"nearly\" and \"zuoyou\" meaning \"about\" can be used together.",
+      "id": "s226"
+    },
+    {
+      "text": "\"Yinian\" does not mean \"practice in thought\" but \"mindful\", \"thought\", or \"thinking of something\" (and thereby was correctly interpreted).",
+      "id": "s227"
+    },
+    {
+      "text": "The appellant understood \"jianli\", correctly pronounced it, and the interpretation of his answer was correct.",
+      "id": "s228"
+    },
+    {
+      "text": "The interpreter pronounced \"jinhzi\" correctly.",
+      "id": "s229"
+    },
+    {
+      "text": "This is a very ordinary Chinese word and in common usage.",
+      "id": "s230"
+    },
+    {
+      "text": "Consistent with authority, the Federal Magistrate accepted that inadequate interpretation could give rise to jurisdictional error (at [60]).",
+      "id": "s231"
+    },
+    {
+      "text": "Her Honour observed at [65] that, during the hearing before the Tribunal, the appellant never requested a Fuqing interpreter nor complained about the adequacy of the interpretation available.",
+      "id": "s232"
+    },
+    {
+      "text": "Nor did the appellant raise any such concern in the month in between the hearing and the handing down of the Tribunal's decision.",
+      "id": "s233"
+    },
+    {
+      "text": "Further, the appellant never raised this issue in SZHEW No 1 , SZHEW No 2 or the earlier appeal to this Court dismissed by Gilmour J.",
+      "id": "s234"
+    },
+    {
+      "text": "The Federal Magistrate also noted (at [68]) that the application form for review by the Tribunal requested a Mandarin interpreter (although the appellant disavowed involvement in the preparation of the form).",
+      "id": "s235"
+    },
+    {
+      "text": "Further, the appellant indicated to the Tribunal that he had no objection to the Mandarin interpreter.",
+      "id": "s236"
+    },
+    {
+      "text": "The Federal Magistrate quoted the following extract from the transcript: \n Tribunal: First thing I am going to ask you about Madam Interpreter is if you are having any difficulty understanding her.",
+      "id": "s237"
+    },
+    {
+      "text": "Applicant: Me?",
+      "id": "s238"
+    },
+    {
+      "text": "Tribunal: Yes, you.",
+      "id": "s239"
+    },
+    {
+      "text": "Applicant: No, I don't really have many problems, but sometimes, some of the words I don't understand.",
+      "id": "s240"
+    },
+    {
+      "text": "Tribunal: Well, why don't you understand some of the words?",
+      "id": "s241"
+    },
+    {
+      "text": "Applicant: I haven't got much education therefore some words in Mandarin I don't quite understand.",
+      "id": "s242"
+    },
+    {
+      "text": "Tribunal: Can I ask you then, if you don't understand a word to ask me or Madam Interpreter to explain it to you and to try to use another word.",
+      "id": "s243"
+    },
+    {
+      "text": "Applicant: Okay.",
+      "id": "s244"
+    },
+    {
+      "text": "Tribunal: The second question I'd like to ask you about Madam Interpreter is if you have any objections to her whatsoever .",
+      "id": "s245"
+    },
+    {
+      "text": "Applicant: No objections [emphases added].",
+      "id": "s246"
+    },
+    {
+      "text": "The Federal Magistrate (at [71]) rejected the appellant's submission that the reference to \"in Mandarin\" in this exchange should have put the Tribunal on notice immediately that Mandarin was not the appellant's \"mother tongue\" concluding that: \n It is for the applicant to inform the Tribunal on a matter of this nature, not for the Tribunal to be called upon to infer such a construction from the use of these two words, \"in Mandarin\", as they fell in the context of an on-going conversation.",
+      "id": "s247"
+    },
+    {
+      "text": "The Federal Magistrate considered each of the examples of error or confusion which Ms Qian identified.",
+      "id": "s248"
+    },
+    {
+      "text": "Her Honour found as follows: \n(1) The confusion about \"kongzhi\" was resolved once the appellant used the word \"juliu\" to convey his meaning to the Tribunal.",
+      "id": "s249"
+    },
+    {
+      "text": "The evidence the appellant was giving was not in response to any question from the Tribunal.",
+      "id": "s250"
+    },
+    {
+      "text": "Hence, and contrary to the appellant's submission, it could not be said that this confusion contributed to the Tribunal's conclusion that the appellant was being evasive (at [79]-[82]).",
+      "id": "s251"
+    },
+    {
+      "text": "(2) The difference between \"chabuduo\" meaning \"nearly\" and \"zuoyou\" meaning \"about\" was minor and did not result in any material misunderstanding (at [83]-[85]).",
+      "id": "s252"
+    },
+    {
+      "text": "(3) The word \"yinian\" was the subject of evidence from Ms Xie who said it meant \"mindful\", \"thought\", \"thinking of something\", and not \"practice in thought\" as Ms Qian said.",
+      "id": "s253"
+    },
+    {
+      "text": "Ms Qian also acknowledged in cross-examination that the word could take this meaning, which was consistent with the meaning attributed to it by the interpreter (at [86]-[89]).",
+      "id": "s254"
+    },
+    {
+      "text": "(4) The appellant did not ask for clarification of the word \"jianli\" and had not given evidence of any failure to understand that word.",
+      "id": "s255"
+    },
+    {
+      "text": "The evidence did not demonstrate any material error in translation or any material misunderstanding between the appellant and the interpreter (at [90]-[93]).",
+      "id": "s256"
+    },
+    {
+      "text": "(5) There was an initial misunderstanding about the words \"jinqu\" (\"join in\") and \"jinhzi\" (\"ban\") but the appellant eventually understood the Tribunal's question and gave a responsive answer (at [94]-[96]).",
+      "id": "s257"
+    },
+    {
+      "text": "The appellant identified other errors in the interpretation process which the Federal Magistrate also considered as follows: \n(1) When asked to identify the main Falun Gong text, the appellant answered \"yinian\".",
+      "id": "s258"
+    },
+    {
+      "text": "The interpreter did not translate the word, thereby leaving the Tribunal with the impression that the appellant identified \"Yi Nian\" as the name of the main Falun Gong text.",
+      "id": "s259"
+    },
+    {
+      "text": "Ms Xie agreed that she would have translated this word into English whilst noting the word was unclear as to its meaning in this context.",
+      "id": "s260"
+    },
+    {
+      "text": "Ms Xie thought she would have said \"yinian\" and then stated her belief that the intended meaning was \"thinking\".",
+      "id": "s261"
+    },
+    {
+      "text": "The interpreter did not do this and the Tribunal was left with the impression that the appellant thought this was the name of the text.",
+      "id": "s262"
+    },
+    {
+      "text": "The Federal Magistrate accepted the Minister's submission that there was no evidence that the appellant misunderstood the question about the main Falun Gong text and hence no prejudice was caused by the interpreter not translating \"yinian\" as \"thinking\".",
+      "id": "s263"
+    },
+    {
+      "text": "The appellant's answer to the Tribunal's question was simply incorrect (at [98]-[99]).",
+      "id": "s264"
+    },
+    {
+      "text": "(2) At the start of the hearing the interpreter failed to translate \"lushi\" into English.",
+      "id": "s265"
+    },
+    {
+      "text": "\"Lushi\" means \"lawyer\" in the Fuqing dialect but the interpreter referred to \"Ms Lu Shi\".",
+      "id": "s266"
+    },
+    {
+      "text": "This engendered confusion from the start of the hearing as the transcript discloses in the following extract:\n \n Tribunal: Now [applicant] I did not know you were coming to the hearing today because you have not responded to your invitation.",
+      "id": "s267"
+    },
+    {
+      "text": "Interpreter: The letter was still with Lu Shi and I haven't got the letter.",
+      "id": "s268"
+    },
+    {
+      "text": "They didn't give me the letter.",
+      "id": "s269"
+    },
+    {
+      "text": "Tribunal: So how did you know to come here today, if you did not have the letter?",
+      "id": "s270"
+    },
+    {
+      "text": "Interpreter: They just tell me about the hearing.",
+      "id": "s271"
+    },
+    {
+      "text": "Tribunal: Who is \"they\"[?",
+      "id": "s272"
+    },
+    {
+      "text": "]\n Interpreter: Ms Lu Shi.",
+      "id": "s273"
+    },
+    {
+      "text": "Tribunal: Who is Lu Shi?",
+      "id": "s274"
+    },
+    {
+      "text": "I don't know you are talking about.",
+      "id": "s275"
+    },
+    {
+      "text": "Interpreter: Lu Shi is the person who helped me to apply.",
+      "id": "s276"
+    },
+    {
+      "text": "The Federal Magistrate did not accept that this error was material, as nothing suggested that the Tribunal had attached any significance to it.",
+      "id": "s277"
+    },
+    {
+      "text": "The Tribunal did not refer to this matter in its \"Findings and Reasons\" and no findings of fact depended on it (at [100]-[102]).",
+      "id": "s278"
+    },
+    {
+      "text": "(3) There were various communication difficulties concerning the appellant's evidence before the Tribunal that he had been detained in China between May and October 2002 in circumstances where no such claim appeared in the appellant's protection visa application.",
+      "id": "s279"
+    },
+    {
+      "text": "The Federal Magistrate concluded that the only difficulty disclosed by the transcript was the appellant repeatedly failing to answer the Tribunal's question.",
+      "id": "s280"
+    },
+    {
+      "text": "The Federal Magistrate also accepted the Minister's submission that Ms Qian had not suggested any interpretation difficulty with respect to these exchanges (at [103]-[105]).",
+      "id": "s281"
+    },
+    {
+      "text": "(4) The interpreter made comments during the hearing before the Tribunal about the appellant not speaking clearly.",
+      "id": "s282"
+    },
+    {
+      "text": "The Federal Magistrate accepted Ms Xie's evidence that the appellant spoke in accurate Mandarin when giving short and simple answers and could express himself adequately in Mandarin when giving longer explanations.",
+      "id": "s283"
+    },
+    {
+      "text": "Further, that the interpreter understood the appellant despite his Fuqing accent and difficulties caused thereby were resolved during the course of the hearing before the Tribunal (at [106]-[114]).",
+      "id": "s284"
+    },
+    {
+      "text": "The Federal Magistrate considered that the appellant's evidence disclosed that he could understand and speak at least some Mandarin, which undermined his evidence that his Mandarin was \"very poor\" (at [116]-[117]).",
+      "id": "s285"
+    },
+    {
+      "text": "The Federal Magistrate considered that the appellant's evidence disclosed the appellant's attempts to distance himself from his capacity to speak Mandarin (at [119]-[123]).",
+      "id": "s286"
+    },
+    {
+      "text": "In consequence, the Federal Magistrate found the appellant not to be a credible or reliable witness and concluded that his claims of lack of knowledge of his protection visa application and inadequate interpreting services being provided by the Tribunal were fabricated (at [124]).",
+      "id": "s287"
+    },
+    {
+      "text": "The Federal Magistrate also noted that the Migration Act imposed no requirement on interpreters to have NAATI accreditation (at [125]).",
+      "id": "s288"
+    },
+    {
+      "text": "Her Honour referred to the commonly acknowledged impossibility of perfect interpretation (at [126]) and thereafter concluded (at [127]) that she was not satisfied that: \n ...the matters relied upon by the applicant, either individually or collectively, demonstrate that the standard of interpretation at the Tribunal hearing was such that the applicant was materially hindered, or prevented, from giving evidence at the Tribunal hearing, or that the Tribunal was hindered or prevented from hearing that evidence, or that any errors made by the interpreter at the Tribunal hearing were material to any conclusions of the Tribunal, adverse to the applicant.",
+      "id": "s289"
+    },
+    {
+      "text": "In response to a further submission that the examples of interpretation difficulties should not be segregated and considered in isolation, the Federal Magistrate (at [134]) said that this appeared to be contrary to the appellant's own reliance on individual examples.",
+      "id": "s290"
+    },
+    {
+      "text": "In any event, her Honour accepted that \"each example should be considered in its particular context and in light of the evidence as a whole\".",
+      "id": "s291"
+    },
+    {
+      "text": "The Federal Magistrate (at [135]-[138] and [140]-[141]) also rejected the appellant's submission (put in various ways) that the evidence as a whole disclosed that the interpretation errors contributed to the impression the Tribunal formed of the appellant as evasive or, at the least, that this possibility could not be excluded even where the difficulties had been resolved during the course of the hearing.",
+      "id": "s292"
+    },
+    {
+      "text": "Accordingly, the Federal Magistrate concluded that there was no breach of s 425 of the Migration Act or denial of procedural fairness to the appellant on the basis of inadequate interpretation (at [143]-[144]).",
+      "id": "s293"
+    },
+    {
+      "text": "The grounds of appeal\n As noted at [3] above, grounds 5 to 10 in the notice of appeal deal with the allegation of inadequate interpretation.",
+      "id": "s294"
+    },
+    {
+      "text": "I deal with each ground in the order presented in the appellant's written submissions.",
+      "id": "s295"
+    },
+    {
+      "text": "Ground 9\n The appellant contended that the Federal Magistrate erred in finding the Tribunal acted reasonably in failing to realise that Mandarin was not the appellant's native tongue and that he could not make himself understood through the interpreter provided.",
+      "id": "s296"
+    },
+    {
+      "text": "This contention appears to relate to the Federal Magistrate's findings that the Tribunal acted properly (at [68]) and that it was difficult to imagine how the Tribunal might have conducted itself differently in the circumstances (at [73]).",
+      "id": "s297"
+    },
+    {
+      "text": "The problem with this contention is that the relevant test is not whether the Tribunal should or should not have realised something.",
+      "id": "s298"
+    },
+    {
+      "text": "It is whether, in fact, the obligation imposed by s 425 of the Migration Act was contravened by reason of any inadequacy in the interpretation provided.",
+      "id": "s299"
+    },
+    {
+      "text": "It is thus difficult to see how this contention can stand separately from the appellant's substantive allegation that inadequate interpretation effectively deprived the appellant of the opportunity to give evidence or materially contributed to conclusions of the Tribunal adverse to the appellant.",
+      "id": "s300"
+    },
+    {
+      "text": "The appellant's wide-ranging submissions in support of this contention disclose this difficulty.",
+      "id": "s301"
+    },
+    {
+      "text": "Insofar as this ground might be capable of independent consideration, I do not accept it.",
+      "id": "s302"
+    },
+    {
+      "text": "I agree with the Federal Magistrate's analysis of the submissions put by the appellant about this issue.",
+      "id": "s303"
+    },
+    {
+      "text": "The Tribunal asked the appellant whether he had any difficulty in understanding the interpreter and whether he had any objection to the interpreter \"whatsoever\".",
+      "id": "s304"
+    },
+    {
+      "text": "The appellant said he did not.",
+      "id": "s305"
+    },
+    {
+      "text": "The appellant's other answers were not such as to put the Tribunal on notice of the facts asserted by the appellant (that Mandarin was not the appellant's native tongue and that he could not make himself understood through the interpreter provided).",
+      "id": "s306"
+    },
+    {
+      "text": "To the contrary, the answers indicated that the appellant had no real problem in communicating with the interpreter except for some words which he did not understand due to his lack of education.",
+      "id": "s307"
+    },
+    {
+      "text": "The appellant's focus on the words \"in Mandarin\" as the basis for this contention is unjustified for the reasons the Federal Magistrate gave (at [70]-[73]).",
+      "id": "s308"
+    },
+    {
+      "text": "The words have to be considered in context.",
+      "id": "s309"
+    },
+    {
+      "text": "As the Federal Magistrate found, the context indicates that the appellant was informing the Tribunal that he did not really have many problems with the words but did not have much education and thus could not understand some words in Mandarin.",
+      "id": "s310"
+    },
+    {
+      "text": "It would be unreasonable and contrary to the appellant's own evidence to expect the Tribunal to take from that exchange an understanding of the facts asserted by the appellant.",
+      "id": "s311"
+    },
+    {
+      "text": "It must be recognised (as the Federal Magistrate did at [65]) that the appellant made no objections to the interpretation provided and raised no concern with the Tribunal in that respect.",
+      "id": "s312"
+    },
+    {
+      "text": "The Tribunal, moreover, invited the appellant to seek clarification of any word he did not understand and specifically sought to elicit from the appellant any objections he might have about the interpreter \"whatsoever\".",
+      "id": "s313"
+    },
+    {
+      "text": "The appellant said he had no objections.",
+      "id": "s314"
+    },
+    {
+      "text": "The hearing then proceeded.",
+      "id": "s315"
+    },
+    {
+      "text": "As discussed in more detail below, nothing occurred in the course of the hearing which ought to have caused the Tribunal to recognise the facts now asserted by the appellant.",
+      "id": "s316"
+    },
+    {
+      "text": "The appellant sought to rely on three interjections by the interpreter to support ground 9 in the notice of appeal.",
+      "id": "s317"
+    },
+    {
+      "text": "They were as follows: \n(1) \"Actually he didn't say this very clearly so I couldn't translate it very clearly\".",
+      "id": "s318"
+    },
+    {
+      "text": "(2) \"Excuse me Ma'am but I don't think he can understand the Mandarin word 'practice'\" and related discussion between the Tribunal and interpreter.",
+      "id": "s319"
+    },
+    {
+      "text": "(3) \"He didn't say it very clearly though\".",
+      "id": "s320"
+    },
+    {
+      "text": "These examples have to be considered in context.",
+      "id": "s321"
+    },
+    {
+      "text": "In terms of the overall hearing as evidenced by the transcript, these are isolated instances of relatively minor difficulties in communication arising either from the appellant's words or the Tribunal's words.",
+      "id": "s322"
+    },
+    {
+      "text": "The first cause for interjection was resolved.",
+      "id": "s323"
+    },
+    {
+      "text": "The second appears to have involved a conceptual difficulty about the difference between \"practice\" and \"thought\" but did not prevent the appellant from telling the Tribunal what he wanted about his involvement with Falun Gong.",
+      "id": "s324"
+    },
+    {
+      "text": "The third appears to have been the interpreter advising the Tribunal that she had done her best to interpret a rather confusing statement by the appellant.",
+      "id": "s325"
+    },
+    {
+      "text": "Contrary to the appellant's submission, the unfairness of the hearing is not apparent from reading the transcript.",
+      "id": "s326"
+    },
+    {
+      "text": "Read as a whole, the transcript suggests that the appellant and the Tribunal generally communicated effectively.",
+      "id": "s327"
+    },
+    {
+      "text": "The examples of difficulty apparent from the face of the transcript are isolated.",
+      "id": "s328"
+    },
+    {
+      "text": "Many parts of the transcript show no difficulty at all in the communications between the appellant and Tribunal.",
+      "id": "s329"
+    },
+    {
+      "text": "Other discontinuities in the transcript, where apparent, seem to arise from either the common habit of people to interject or talk over the top of one another, or the appellant's eagerness to assert his status as a refugee and tell his story to the Tribunal in his own way, irrespective of the Tribunal's questions.",
+      "id": "s330"
+    },
+    {
+      "text": "The Tribunal's adverse findings about the appellant's evasiveness arose after the appellant failed to answer the Tribunal's questions about his reason for not mentioning his detention in his application documents.",
+      "id": "s331"
+    },
+    {
+      "text": "No difficulty in interpretation is apparent in the transcript from that exchange.",
+      "id": "s332"
+    },
+    {
+      "text": "Applying the approach in Perera at [41] (that is, to have regard to \"the responsiveness of the interpreted answers to the questions asked, the coherence of those answers, the consistency of one answer with another and the rest of the case sought to be made and, more generally, any evident confusion in exchanges between the Tribunal and the interpreter\"), I do not accept that the Tribunal should have realised that Mandarin was not the appellant's native tongue and that he could not make himself understood through the interpreter provided.",
+      "id": "s333"
+    },
+    {
+      "text": "Ground 8\n This ground contains five alleged errors by the Federal Magistrate said to undermine the conclusion that the Tribunal complied with s 425 of the Migration Act .",
+      "id": "s334"
+    },
+    {
+      "text": "As to the first alleged error, the appellant submitted that the Federal Magistrate placed \"undue emphasis\" on the Tribunal being blameless in providing a Mandarin interpreter because the appellant had previously not indicated he required a Fuqing interpreter.",
+      "id": "s335"
+    },
+    {
+      "text": "The appellant said this was an irrelevant consideration under the Migration Act .",
+      "id": "s336"
+    },
+    {
+      "text": "The appellant's assertion of irrelevance of the Tribunal's culpability is difficult to reconcile with ground 9 discussed above.",
+      "id": "s337"
+    },
+    {
+      "text": "In any event, I do not accept the submission.",
+      "id": "s338"
+    },
+    {
+      "text": "The Federal Magistrate did not unduly emphasise the culpability or otherwise of the Tribunal.",
+      "id": "s339"
+    },
+    {
+      "text": "The Federal Magistrate applied principles consistent with authority, as apparent from her Honour's reasons in [61], [113], [114], [127]-[130], [133], [136] and [142]-[144].",
+      "id": "s340"
+    },
+    {
+      "text": "Her Honour's observations about the course of conduct of the appellant and the Tribunal are relevant to an assessment of facts informing the application of principle to the particular case.",
+      "id": "s341"
+    },
+    {
+      "text": "For example, a finding of fact that an applicant could not understand Mandarin might be more readily made if the applicant made a complaint to that effect at the time which the Tribunal disregarded.",
+      "id": "s342"
+    },
+    {
+      "text": "As to the second alleged error, the Federal Magistrate did not say that the appellant had a positive obligation to request a Fuqing interpreter in [62] and [65] of the reasons or elsewhere.",
+      "id": "s343"
+    },
+    {
+      "text": "These paragraphs contain observations relevant to an assessment of a fact in issue, namely, the capacity of the appellant to understand and speak Mandarin.",
+      "id": "s344"
+    },
+    {
+      "text": "Again, and for example, if an applicant requests a Fuqing interpreter yet is provided with a Mandarin interpreter that fact might support an inference that the appellant could not adequately understand Mandarin.",
+      "id": "s345"
+    },
+    {
+      "text": "Equally, a lack of any such request is potentially relevant to the same process of inference drawing.",
+      "id": "s346"
+    },
+    {
+      "text": "No error as alleged by the appellant is disclosed in the Federal Magistrate's decision.",
+      "id": "s347"
+    },
+    {
+      "text": "As to the third alleged error, the Federal Magistrate did not say that the appellant had a positive obligation to inform the Tribunal that Mandarin was not his native tongue either at [62] and [71] of the reasons or elsewhere.",
+      "id": "s348"
+    },
+    {
+      "text": "The observation in [62] merely records the undisputed facts that the appellant's application for review by the Tribunal requested a Mandarin interpreter and the appellant never requested a Fuqing interpreter.",
+      "id": "s349"
+    },
+    {
+      "text": "The comments in [71] need to be read in context.",
+      "id": "s350"
+    },
+    {
+      "text": "The Federal Magistrate in that paragraph is dealing with the submission that the Tribunal should have gleaned that Mandarin was not the appellant's native tongue by his statement that \"I haven't got much education therefore some words in Mandarin I don't quite understand\".",
+      "id": "s351"
+    },
+    {
+      "text": "The Federal Magistrate rejected that submission (correctly in my view).",
+      "id": "s352"
+    },
+    {
+      "text": "In the course of so doing, her Honour observed that it was not for the Tribunal to infer this asserted fact from the words \"in Mandarin\" but for the appellant so to inform the Tribunal.",
+      "id": "s353"
+    },
+    {
+      "text": "There is nothing inappropriate about that observation read in context.",
+      "id": "s354"
+    },
+    {
+      "text": "As to the fourth alleged error, the Federal Magistrate did not say that the appellant had any obligation to lodge a complaint about the interpreting services provided within one month of the Tribunal hearing.",
+      "id": "s355"
+    },
+    {
+      "text": "The observation in [65] also has to be read in context.",
+      "id": "s356"
+    },
+    {
+      "text": "The Federal Magistrate is recording the fact that the appellant did not make any complaint about the interpretation provided in the one month period between the hearing and the handing down of the Tribunal's decision or, indeed, any such complaint at any time until this proceeding.",
+      "id": "s357"
+    },
+    {
+      "text": "These facts are relevant because they are capable of bearing upon the question whether the appellant's Mandarin was so poor that the provision of a Mandarin interpreter meant he was effectively denied the opportunity of a hearing as guaranteed by s 425.",
+      "id": "s358"
+    },
+    {
+      "text": "As to the fifth alleged error, the Federal Magistrate provided reasons for rejecting the appellant's claim that he could not make himself understood by the Tribunal through the interpreter provided.",
+      "id": "s359"
+    },
+    {
+      "text": "The transcript of the hearing, read fairly and as a whole, demonstrates to the contrary of the appellant's claim and the Federal Magistrate was correct to reject it.",
+      "id": "s360"
+    },
+    {
+      "text": "Ground 6\n Ground 6 in the notice of appeal claims that the Federal Magistrate erred in finding that the standard of interpretation provided was adequate for the appellant to understand the questions put to him and for his answers to be correctly represented to the Tribunal.",
+      "id": "s361"
+    },
+    {
+      "text": "The submissions in the appeal sought to support this proposition in a number of ways.",
+      "id": "s362"
+    },
+    {
+      "text": "Insofar as the appellant relied on the terms of the transcript as a whole, I have rejected that submission above.",
+      "id": "s363"
+    },
+    {
+      "text": "Insofar as the appellant relied on the specific errors identified by Ms Qian and in the appellant's submissions, I discern no error in the Federal Magistrate's consideration of each example.",
+      "id": "s364"
+    },
+    {
+      "text": "The findings made were open on the evidence.",
+      "id": "s365"
+    },
+    {
+      "text": "A realistic assessment supports the Federal Magistrate's conclusions.",
+      "id": "s366"
+    },
+    {
+      "text": "The confusion over \"lushi\" went nowhere and may be properly inferred to have played no part in the Tribunal's reasoning process.",
+      "id": "s367"
+    },
+    {
+      "text": "The \"control\" and \"detain\" confusion was short-lived.",
+      "id": "s368"
+    },
+    {
+      "text": "The \"nearly\" and \"about\" issue is trivial; redundancy and repetition are common features of all communication.",
+      "id": "s369"
+    },
+    {
+      "text": "The \"practice\" and \"thought\" issue was drawn to the Tribunal's attention.",
+      "id": "s370"
+    },
+    {
+      "text": "It was also open to the Federal Magistrate to accept Ms Xie's evidence that \"yinian\" means thought or thinking, consistent with the interpretation which was provided to the Tribunal.",
+      "id": "s371"
+    },
+    {
+      "text": "In any event, this issue did not prevent the appellant from giving his evidence about his relationship with Falun Gong.",
+      "id": "s372"
+    },
+    {
+      "text": "The problem with \"Yi Nian\" as the name of a book does not alter the fact that the appellant could not answer the Tribunal's question about the main Falun Gong text.",
+      "id": "s373"
+    },
+    {
+      "text": "It was for the Tribunal to accord to this answer the weight it thought fit, given the appellant's known illiteracy.",
+      "id": "s374"
+    },
+    {
+      "text": "The issue about \"found\" was resolved.",
+      "id": "s375"
+    },
+    {
+      "text": "That about \"join\" and \"ban\" was also clear to the Tribunal.",
+      "id": "s376"
+    },
+    {
+      "text": "Insofar as the appellant said that the Federal Magistrate erred by considering the examples of error in isolation rather than the evidence as a whole, I do not agree.",
+      "id": "s377"
+    },
+    {
+      "text": "It was necessary for the Federal Magistrate to assess each of the examples of inadequate interpretation on which the appellant relied.",
+      "id": "s378"
+    },
+    {
+      "text": "The Federal Magistrate did not, thereby, err by unjustifiably \"segregating and analysing in isolation\" each example.",
+      "id": "s379"
+    },
+    {
+      "text": "The Federal Magistrate did consider the evidence as a whole as the observations in [127] and [134]-[136] disclose.",
+      "id": "s380"
+    },
+    {
+      "text": "Moreover, the appellant submitted to the Federal Magistrate that the whole of the evidence supported a finding of jurisdictional error.",
+      "id": "s381"
+    },
+    {
+      "text": "As part of this claim, the appellant said that the evidence showed that the Tribunal had built an impression of the appellant being evasive in circumstances where the inadequacies of interpretation had contributed to this impression.",
+      "id": "s382"
+    },
+    {
+      "text": "The Federal Magistrate considered and rejected this claim (at [135]-[143]).",
+      "id": "s383"
+    },
+    {
+      "text": "In these circumstances, it cannot be said that the Federal Magistrate failed to consider the whole of the evidence or wrongly considered each example of alleged error in isolation.",
+      "id": "s384"
+    },
+    {
+      "text": "The Federal Magistrate considered the whole of the evidence but reached a different conclusion from that advocated by the appellant.",
+      "id": "s385"
+    },
+    {
+      "text": "That does not support any finding of error by the Federal Magistrate.",
+      "id": "s386"
+    },
+    {
+      "text": "Insofar as the appellant relied on the lack of NAATI accreditation by the interpreter before the Tribunal, I agree with the reasoning of the Federal Magistrate rejecting this submission in [125].",
+      "id": "s387"
+    },
+    {
+      "text": "Lack of accreditation, whether in isolation or considered with every other claim made by the appellant, is insufficient to found jurisdictional error in the circumstances of this case.",
+      "id": "s388"
+    },
+    {
+      "text": "Cases of jurisdictional error based on inadequate interpretation inevitably involve questions of fact and degree.",
+      "id": "s389"
+    },
+    {
+      "text": "The lack of NAATI accreditation may bear upon the drawing of inferences about the adequacy of the interpretation.",
+      "id": "s390"
+    },
+    {
+      "text": "But neither the lack nor the holding of NAATI accreditation provides a necessary answer to the question as to whether a hearing miscarried by reason of inadequate interpretation.",
+      "id": "s391"
+    },
+    {
+      "text": "The appellant also said that the Federal Magistrate erred by confusing the ability and performance of the interpreter to interpret Mandarin with the applicant's ability to understand Mandarin.",
+      "id": "s392"
+    },
+    {
+      "text": "The Federal Magistrate's reasons do not support the attribution of this error.",
+      "id": "s393"
+    },
+    {
+      "text": "Further, it is not the case, as the appellant appeared to suggest, that the obligation in s 425 may only be satisfied by providing an interpreter who is capable of speaking an applicant's \"mother tongue\".",
+      "id": "s394"
+    },
+    {
+      "text": "Hence, even if the appellant's \"mother tongue\" is Fuqing the provision of an interpreter of Mandarin does not involve any necessary contravention of s 425.",
+      "id": "s395"
+    },
+    {
+      "text": "The issues remain those identified in the authorities discussed above.",
+      "id": "s396"
+    },
+    {
+      "text": "Accordingly, I reject the submission that the Tribunal had an obligation to provide the appellant with a Fuqing interpreter merely because he was a native of Fujian and spoke Fuqing.",
+      "id": "s397"
+    },
+    {
+      "text": "In this case, the appellant also spoke Mandarin.",
+      "id": "s398"
+    },
+    {
+      "text": "He requested a Mandarin interpreter in both applications.",
+      "id": "s399"
+    },
+    {
+      "text": "When asked, he said he had no objection to the interpreter provided.",
+      "id": "s400"
+    },
+    {
+      "text": "Nothing in s 427(7) of the Migration Act , or the authorities on which the appellant relied, supports a conclusion that the Tribunal had to provide the appellant with a Fuqing interpreter in order to discharge its statutory obligations.",
+      "id": "s401"
+    },
+    {
+      "text": "Insofar as this ground depends on the treatment of the expert evidence and other errors which the appellant alleged but which do not relate specifically to any appeal ground, I deal with both below.",
+      "id": "s402"
+    },
+    {
+      "text": "Ground 5\n The appellant contended that the Federal Magistrate erred in preferring the evidence of Ms Xie to that of Ms Qian.",
+      "id": "s403"
+    },
+    {
+      "text": "The appellant submitted as part of this ground that the Federal Magistrate ought to have accepted Ms Qian's evidence both generally and as to the specific examples she identified.",
+      "id": "s404"
+    },
+    {
+      "text": "The expert evidence of Ms Qian, however, did not stand alone.",
+      "id": "s405"
+    },
+    {
+      "text": "The Federal Magistrate had the benefit of Ms Xie's evidence as well.",
+      "id": "s406"
+    },
+    {
+      "text": "The appellant's submission that the Federal Magistrate should have preferred the evidence of Ms Qian to that of Ms Xie failed to identify any error in the Federal Magistrate's weighing up of the expert opinions.",
+      "id": "s407"
+    },
+    {
+      "text": "The fact that Ms Xie did not know that the appellant was illiterate and had little formal education does not undermine her principal conclusions based on listening to the tape of the hearing before the Tribunal.",
+      "id": "s408"
+    },
+    {
+      "text": "The appellant said that Ms Xie's opinions were affected by her unwarranted assumptions about Chinese government policy and exposure of the appellant to formal education and thus had to be discounted.",
+      "id": "s409"
+    },
+    {
+      "text": "But Ms Xie's opinions based on listening to the tape of the hearing were clear.",
+      "id": "s410"
+    },
+    {
+      "text": "Ms Xie, equally clearly, held an opinion that Fuqing was a dialect and not a language and the existence of many dialects in China had prompted a policy of strong promotion of the use of Mandarin throughout China (noting, as her affidavit disclosed, that she had lived in China for about 21 years).",
+      "id": "s411"
+    },
+    {
+      "text": "I can see no basis for the appellant's submission that Ms Xie's evidence was inherently entitled to less weight than that of Ms Qian for these reasons.",
+      "id": "s412"
+    },
+    {
+      "text": "Nor can I see any error in the Federal Magistrate's treatment of the expert evidence.",
+      "id": "s413"
+    },
+    {
+      "text": "Similarly, the complaint about Ms Xie not being an academic specialising in translation and interpretation (as Ms Qian is) is difficult to comprehend.",
+      "id": "s414"
+    },
+    {
+      "text": "Ms Xie is a level 3 accredited interpreter.",
+      "id": "s415"
+    },
+    {
+      "text": "Unlike Ms Qian, Ms Xie can understand Fuqing.",
+      "id": "s416"
+    },
+    {
+      "text": "Ms Xie has worked as an interpreter for the Community Relations Commission of New South Wales for 12 years.",
+      "id": "s417"
+    },
+    {
+      "text": "Ms Xie's experience gave her specialised knowledge (of Mandarin and Fuqing) and thus enabled her to give opinions about the adequacy of the interpretation evident from the hearing tape in accordance with s 79 of the Evidence Act 1995 (Cth).",
+      "id": "s418"
+    },
+    {
+      "text": "The appellant submitted further in this context that the Federal Magistrate misunderstood the case by finding at [112] and [113] that the applicant could speak accurate Mandarin when giving short answers and adequate Mandarin when giving longer explanations, consistent with Ms Xie's evidence.",
+      "id": "s419"
+    },
+    {
+      "text": "This is because, according to the appellant, the only relevant issue is whether communication and comprehension problems existed between the appellant and the interpreter such as to render the hearing meaningless.",
+      "id": "s420"
+    },
+    {
+      "text": "The appellant's contention was that the Federal Magistrate somehow asked the wrong question by focusing on Ms Xie's capacity to understand the tape of the hearing after repeated listening.",
+      "id": "s421"
+    },
+    {
+      "text": "The contention is unfounded.",
+      "id": "s422"
+    },
+    {
+      "text": "Ms Xie listened to the tape (as did Ms Qian) for the purpose of ascertaining whether the appellant and the Tribunal could communicate with each other via the interpreter, thereby addressing the very issue the appellant said was relevant.",
+      "id": "s423"
+    },
+    {
+      "text": "The appellant's submission thus attributes a misunderstanding to the Federal Magistrate when the reasons disclose no such misunderstanding.",
+      "id": "s424"
+    },
+    {
+      "text": "Ms Xie was not giving evidence about her own ability to understand the appellant on repeatedly listening to the tape (and nor was Ms Qian).",
+      "id": "s425"
+    },
+    {
+      "text": "Ms Xie (and Ms Qian) listened to the tape to enable opinions to be given about the adequacy of the communications between the appellant and the interpreter in Mandarin.",
+      "id": "s426"
+    },
+    {
+      "text": "As her evidence discloses, Ms Xie analysed the appellant's capacity to use words and form sentences in Mandarin.",
+      "id": "s427"
+    },
+    {
+      "text": "She analysed the degree to which the appellant's accent might have affected his pronunciation of words in Mandarin.",
+      "id": "s428"
+    },
+    {
+      "text": "She assessed whether there was evidence of confusion by reason of the appellant or interpreter asking for things to be repeated or asking for clarification or other hesitation in the flow of the communications.",
+      "id": "s429"
+    },
+    {
+      "text": "She analysed whether the interpreter gave an accurate interpretation of what the appellant and the Tribunal had said.",
+      "id": "s430"
+    },
+    {
+      "text": "All of those matters bear upon the question whether the hearing miscarried by reason of inadequate interpretation, as the discussion in Perera at [41] confirms.",
+      "id": "s431"
+    },
+    {
+      "text": "The Federal Magistrate did not misunderstand the issue requiring determination.",
+      "id": "s432"
+    },
+    {
+      "text": "Further, and contrary to the appellant's submission, an interpreter can give meaningful expert evidence about the apparent capacity of a person to comprehend a language.",
+      "id": "s433"
+    },
+    {
+      "text": "In one sense it is always the case that one person can never know the true level of comprehension of another whether they are communicating in the same language or through an interpreter.",
+      "id": "s434"
+    },
+    {
+      "text": "But that fact does not prevent an interpreter from analysing a person's questions and answers in a language and from that analysis providing a cogent opinion about that person's apparent capacity to communicate in, and thus comprehend, that language.",
+      "id": "s435"
+    },
+    {
+      "text": "If the communications were in English a court could undertake this task itself from the transcript and, if available, the tape of the hearing.",
+      "id": "s436"
+    },
+    {
+      "text": "But where the communications are in a foreign language, as here, the assistance of experts with specialised knowledge of the language to address this issue is necessary and appropriate.",
+      "id": "s437"
+    },
+    {
+      "text": "The appellant criticised the Federal Magistrate's statement in [112] that she accepted the evidence of Ms Xie over that of Ms Qian in respect of any differences between them as an impermissible bare assertion without any supporting analysis.",
+      "id": "s438"
+    },
+    {
+      "text": "The criticism is unfounded.",
+      "id": "s439"
+    },
+    {
+      "text": "The paragraph is the culmination of the whole of the analysis from [58] onwards.",
+      "id": "s440"
+    },
+    {
+      "text": "This is not a case in which the Federal Magistrate simply stated a preference for one expert over another without any reasoned analysis in support.",
+      "id": "s441"
+    },
+    {
+      "text": "None of the expert evidence supported the appellant's claims of very poor Mandarin.",
+      "id": "s442"
+    },
+    {
+      "text": "Ms Qian said the appellant seemed to understand Mandarin \"most of the time\", with his difficulty limited to the giving of longer explanations and the difficulty of the interpreter limited to the appellant's accent.",
+      "id": "s443"
+    },
+    {
+      "text": "Ms Qian gave specific examples said to establish these difficulties.",
+      "id": "s444"
+    },
+    {
+      "text": "Ms Xie considered the appellant's Mandarin accurate for shorter sentences and adequate for longer explanations and that there was no evidence of the interpreter not understanding the appellant's accent.",
+      "id": "s445"
+    },
+    {
+      "text": "The Federal Magistrate only accepted Ms Xie after discussing, in considerable detail, the reasons for not accepting Ms Qian's evidence.",
+      "id": "s446"
+    },
+    {
+      "text": "No error is thereby disclosed.",
+      "id": "s447"
+    },
+    {
+      "text": "Ground 7\n The appellant contended that the Federal Magistrate erred by treating the appellant's present ability to communicate in Mandarin as indicative of his ability to speak Mandarin at the time of the hearing before the Tribunal in the face of evidence that his Mandarin had improved.",
+      "id": "s448"
+    },
+    {
+      "text": "The paragraphs of the reasons said to give rise to this error are [115]-[118].",
+      "id": "s449"
+    },
+    {
+      "text": "Those paragraphs do not support the submission.",
+      "id": "s450"
+    },
+    {
+      "text": "The transcript references provided (9 September 2008 at 9-17) are to questions asked of the appellant about the evidence he gave on 28 May 2008 that, when in China, he spoke through his wife to people who used a different dialect or Mandarin.",
+      "id": "s451"
+    },
+    {
+      "text": "The cross-examination primarily concerned the appellant's ability, at that time, to speak to people (such as his neighbours in Sanming City) in Mandarin.",
+      "id": "s452"
+    },
+    {
+      "text": "Those questions which involved the appellant's present capacity to speak Mandarin were clear (for example, see p 14 of the transcript of 9 September 2008).",
+      "id": "s453"
+    },
+    {
+      "text": "The Federal Magistrate specifically requested that the cross-examiner ensure she clarified whether the questions related to the appellant's present or past ability to speak Mandarin (9 September 2008 at 14.15-25).",
+      "id": "s454"
+    },
+    {
+      "text": "The observations in [115]-[118] do not indicate that the Federal Magistrate erroneously relied on the appellant's present capacity to speak Mandarin to found her conclusions.",
+      "id": "s455"
+    },
+    {
+      "text": "The Federal Magistrate's reasons disclose a focus on the appellant's capacities at the time of the hearing before the Tribunal.",
+      "id": "s456"
+    },
+    {
+      "text": "In any event, I am not persuaded that any such error as alleged, if it had occurred, would be sufficient to vitiate the Federal Magistrate's decision.",
+      "id": "s457"
+    },
+    {
+      "text": "Nor am I satisfied that the Federal Magistrate used the appellant's present ability to speak Mandarin as a basis for the adverse credit findings.",
+      "id": "s458"
+    },
+    {
+      "text": "The Federal Magistrate's adverse credit findings were based on a range of other considerations including: - (i) the inconsistency between the appellant confirming to the Tribunal that his application was true and correct and subsequent evidence that he had no involvement in the preparation of the application (at [119]), (ii) the inconsistency between the appellant's claims to have personally recruited people to join Falun Gong and subsequent evidence of only communicating with others, including his Falun Gong friends, in Mandarin through his wife (at [120]-[122]), and (iii) the inconsistency of the appellant's claim to have a very poor command of Mandarin and the transcript of the hearing before the Tribunal which discloses the appellant communicating in Mandarin through the interpreter (at [123]).",
+      "id": "s459"
+    },
+    {
+      "text": "The Federal Magistrate does not refer to the appellant's present capacity to speak Mandarin in these findings.",
+      "id": "s460"
+    },
+    {
+      "text": "Her Honour's conclusion in [124] about the appellant's credibility specifically refers to the appellant's capacities \"when he gave evidence before the Tribunal\".",
+      "id": "s461"
+    },
+    {
+      "text": "The appellant made a separate submission that the finding in [124] (that the appellant fabricated his claims of lack of knowledge of the content of his applications for a protection visa and before the Tribunal, as well as his claim of inadequate interpretation) was not open because the allegation of fabrication had never been put to the appellant.",
+      "id": "s462"
+    },
+    {
+      "text": "There are several difficulties with this submission.",
+      "id": "s463"
+    },
+    {
+      "text": "The notice of appeal did not identify this issue as a ground on which the Federal Magistrate's decision was to be impugned.",
+      "id": "s464"
+    },
+    {
+      "text": "The appeal book did not include the transcript of submissions before the Federal Magistrate so it is not possible to know whether the Minister invited the making of this finding or not.",
+      "id": "s465"
+    },
+    {
+      "text": "At the least, the quote from the Minister's submissions in [123] of the Federal Magistrate's reasons indicates that the appellant's claim of very poor Mandarin, and thus the very essence of his case, was subject to direct challenge in closing submissions.",
+      "id": "s466"
+    },
+    {
+      "text": "If the Minister's closing submissions breached the rule in Browne v Dunn (1893) 6 R 67 about matters that must be put to a witness in cross-examination based on considerations of fairness then the issue should have been raised with the Federal Magistrate.",
+      "id": "s467"
+    },
+    {
+      "text": "In any event, the Federal Magistrate accepted the evidence of Ms Xie that the interpretation before the Tribunal was adequate (at [114]) without any consideration of the appellant's evidence or credit.",
+      "id": "s468"
+    },
+    {
+      "text": "This is consistent with the fact that the Federal Magistrate had the benefit of the transcript of the hearing before the Tribunal and the expert evidence about the course of that hearing.",
+      "id": "s469"
+    },
+    {
+      "text": "It is also consistent with the way in which the Federal Magistrate expressed her essential conclusions in [128] and [129] dealing first with the question of the adequacy of the interpretation provided and thereafter with the appellant's credibility.",
+      "id": "s470"
+    },
+    {
+      "text": "More specifically, the Tribunal itself had made an adverse credit finding on the basis of inconsistency between the application for review and the appellant's oral evidence.",
+      "id": "s471"
+    },
+    {
+      "text": "Further, there is an obvious credit issue for a person who requests a Mandarin interpreter in their applications yet later claims inadequate interpretation due to their poor Mandarin.",
+      "id": "s472"
+    },
+    {
+      "text": "The appellant's affidavit of 5 November 2007, in asserting no involvement with the preparation of the applications, was clearly intended to address the inconsistency.",
+      "id": "s473"
+    },
+    {
+      "text": "But the evidence in the affidavit was just as clearly inconsistent with the evidence the appellant gave to the Tribunal that his signature appeared on the protection visa application and the content of the application was true and correct.",
+      "id": "s474"
+    },
+    {
+      "text": "The Federal Magistrate did not have to accept the appellant's explanations even if they were not challenged in cross-examination; the inconsistencies were manifest on the evidence as a whole.",
+      "id": "s475"
+    },
+    {
+      "text": "The fundamental premise of the appellant's case before the Federal Magistrate was that his Mandarin was so poor that the provision of a Mandarin interpreter effectively deprived him of the opportunity to be heard by the Tribunal.",
+      "id": "s476"
+    },
+    {
+      "text": "It was obvious that the appellant's capacity to understand Mandarin at the time of the Tribunal hearing was the main dispute between the parties.",
+      "id": "s477"
+    },
+    {
+      "text": "That is what the expert evidence from each party addressed.",
+      "id": "s478"
+    },
+    {
+      "text": "It is what the appellant addressed in his affidavit.",
+      "id": "s479"
+    },
+    {
+      "text": "It was put to the appellant (in a variety of ways) in cross-examination that he could speak adequate Mandarin when giving evidence before the Tribunal.",
+      "id": "s480"
+    },
+    {
+      "text": "It was also put to him that he had never raised with the Tribunal any concern about the interpretation provided.",
+      "id": "s481"
+    },
+    {
+      "text": "In other words, it was being put to him that he in fact had no concern at the relevant time.",
+      "id": "s482"
+    },
+    {
+      "text": "The finding in [124] of the Federal Magistrate's reasons is the culmination of a series of observations about issues undermining the appellant's credibility starting at [119].",
+      "id": "s483"
+    },
+    {
+      "text": "In [119]-[122] the Federal Magistrate gave reasons for characterising the appellant's evidence as having sought to distance himself from: (i) his applications (requesting a Mandarin interpreter), (ii) his use of Mandarin in his everyday life in China where he asserted that he spoke through his wife compared to the claims in his application for a protection visa in which he said he had recruited more than 30 people to join Falun Gong, and (iii) his use of Mandarin as part of the running of his tyre repair business.",
+      "id": "s484"
+    },
+    {
+      "text": "In these circumstances the appellant's credibility was plainly in issue.",
+      "id": "s485"
+    },
+    {
+      "text": "The issue was whether the appellant's Mandarin at the time of the hearing before the Tribunal was as poor as he claimed in order to support his allegation of the provision of inadequate interpretation.",
+      "id": "s486"
+    },
+    {
+      "text": "It is true that the Federal Magistrate did not need to make the specific finding of fabrication in order to find against the appellant.",
+      "id": "s487"
+    },
+    {
+      "text": "Further, and as the High Court said in Smith v New South Wales Bar Association (No 2) [1992] HCA 36 ; (1992) 176 CLR 256 at 268, there \"is a difference between the rejection of a person's evidence and a finding that he or she deliberately lied\".",
+      "id": "s488"
+    },
+    {
+      "text": "But in the circumstances of this case an obvious corollary of not accepting the appellant's evidence was the conclusion that his claims of having such poor Mandarin were untrue (or, in the Federal Magistrate's words at [124], \"fabricated to support his second application to this Court\").",
+      "id": "s489"
+    },
+    {
+      "text": "It is true that the appellant said in an earlier hearing in November 2006 ( SZHEW No 2 ) that he spoke very little Mandarin (at [15]).",
+      "id": "s490"
+    },
+    {
+      "text": "But he did so in the context of more general complaints about his lack of English, his illiteracy and lack of education.",
+      "id": "s491"
+    },
+    {
+      "text": "Importantly, he did not say the interpretation provided was inadequate.",
+      "id": "s492"
+    },
+    {
+      "text": "The appellant did not say so despite having requested a Fuqing interpreter for the hearing in November 2006.",
+      "id": "s493"
+    },
+    {
+      "text": "By the time of the hearing in SZHEW No 2 the appellant thus must have known that such interpreters were available.",
+      "id": "s494"
+    },
+    {
+      "text": "Similarly, in 2007 in SZHEW v Minister for Immigration and Citizenship [2007] FCA 243 (before Gilmour J) the appellant's grounds of appeal did not suggest that he had received inadequate interpretation services during the hearing before the Tribunal.",
+      "id": "s495"
+    },
+    {
+      "text": "The fact that the appellant mentioned his poor Mandarin during the November 2006 hearing does not undermine the Federal Magistrate's findings that his claims of lack of involvement with the preparation of his applications for a protection visa and inadequate interpretation before the Tribunal were fabrications.",
+      "id": "s496"
+    },
+    {
+      "text": "For these reasons, and contrary to the appellant's submissions, the Federal Magistrate's finding that the appellant's claims in this regard were fabricated was not affected by a mistake of fact so as to give rise to error (cf Smith v New South Wales Bar Association (No 2) at 273).",
+      "id": "s497"
+    },
+    {
+      "text": "Ground 10\n The appellant contended that the Federal Magistrate erred by giving undue or any weight to the appellant's statement at the hearing that the contents of his application to the Tribunal were true and correct (at [64]).",
+      "id": "s498"
+    },
+    {
+      "text": "The appellant said that, given the evidence of his lack of comprehension of Mandarin, this constituted an error by the Federal Magistrate.",
+      "id": "s499"
+    },
+    {
+      "text": "The submission cannot be sustained.",
+      "id": "s500"
+    },
+    {
+      "text": "The appellant did confirm to the Tribunal that the application was true and correct.",
+      "id": "s501"
+    },
+    {
+      "text": "He did not indicate any difficulty in understanding the question at the time.",
+      "id": "s502"
+    },
+    {
+      "text": "He had no trouble in communicating a negative answer when he wished to, as the transcript of the hearing before the Tribunal discloses.",
+      "id": "s503"
+    },
+    {
+      "text": "The Federal Magistrate preferred Ms Xie's evidence about the appellant's proficiency in Mandarin to that of Ms Qian.",
+      "id": "s504"
+    },
+    {
+      "text": "Her Honour rejected the appellant's evidence about his capacity to communicate in Mandarin as lacking credibility.",
+      "id": "s505"
+    },
+    {
+      "text": "These findings were open on the evidence.",
+      "id": "s506"
+    },
+    {
+      "text": "Accordingly, the Federal Magistrate was entitled to have regard to the obvious inconsistency between the request for an interpreter in Mandarin on the application forms and the appellant's subsequent claims.",
+      "id": "s507"
+    },
+    {
+      "text": "The Federal Magistrate was also entitled to consider the inconsistency between the appellant's confirmation to the Tribunal that the content of his protection visa application was true and correct and his subsequent disavowal of involvement in the preparation of the applications, as well as the adequacy of his explanation that he had not prepared the application documents.",
+      "id": "s508"
+    },
+    {
+      "text": "Other submissions\n The appellant made further submissions in support of the allegation of jurisdictional error by reason of inadequate interpretation not directly referable to any ground of appeal.",
+      "id": "s509"
+    },
+    {
+      "text": "I deal with those further submissions below.",
+      "id": "s510"
+    },
+    {
+      "text": "The appellant referred to the incapacity to exclude a possibility that an inadequacy of interpretation contributed in some way to the Tribunal having formed an adverse impression of the appellant.",
+      "id": "s511"
+    },
+    {
+      "text": "But lack of capacity to exclude a mere possibility is insufficient.",
+      "id": "s512"
+    },
+    {
+      "text": "There are countless possibilities that may not be able to be excluded by any process of rational inference from available evidence.",
+      "id": "s513"
+    },
+    {
+      "text": "That does not establish jurisdictional error.",
+      "id": "s514"
+    },
+    {
+      "text": "It was a matter for the appellant to establish, on the whole of the evidence, contravention of s 425 of the Migration Act by reason of inadequate interpretation.",
+      "id": "s515"
+    },
+    {
+      "text": "The appellant's submission that the Federal Magistrate (at [92]) effectively reversed the onus by requiring a complaint from the appellant at the time to support any allegation of inadequate interpretation should not be accepted.",
+      "id": "s516"
+    },
+    {
+      "text": "The appellant's reliance on the statement in M175 of 2002 at [56] (\"A person who requires the services of an interpreter in order to give evidence can hardly be expected to know that the interpreter has failed to translate the evidence correctly\") in this regard is misplaced.",
+      "id": "s517"
+    },
+    {
+      "text": "In M175 of 2002 there were significant errors in the interpretation from Sinhalese into English.",
+      "id": "s518"
+    },
+    {
+      "text": "As the applicant did not speak English, he could not be expected to have complained about these errors.",
+      "id": "s519"
+    },
+    {
+      "text": "This is the reason for Gray J's observation at [56].",
+      "id": "s520"
+    },
+    {
+      "text": "In the present case, by contrast, the appellant claimed to have poor Mandarin.",
+      "id": "s521"
+    },
+    {
+      "text": "He was provided with a Mandarin interpreter and thus had to speak Mandarin during the Tribunal hearing.",
+      "id": "s522"
+    },
+    {
+      "text": "In this different context, the lack of any complaint by the appellant is a relevant factor to the assessment of the facts in issue (namely, the appellant's proficiency in Mandarin).",
+      "id": "s523"
+    },
+    {
+      "text": "Accordingly, there was no impermissible reversal of any onus of proof by the Federal Magistrate.",
+      "id": "s524"
+    },
+    {
+      "text": "Nor did the Federal Magistrate impermissibly impose any unreasonable requirement for a complaint to be made at the time of the hearing before the Tribunal.",
+      "id": "s525"
+    },
+    {
+      "text": "As noted above, the lack of complaint was relevant to a fact in issue, being the appellant's capacity to speak and understand Mandarin.",
+      "id": "s526"
+    },
+    {
+      "text": "The appellant's complaint about the Federal Magistrate's acceptance (at [123]) of a submission comparing the present case to SZKBL v Minister for Immigration and Citizenship [2008] FCA 1064 is also unsustainable.",
+      "id": "s527"
+    },
+    {
+      "text": "It is true that each case asserting inadequate interpretation must be considered on its own facts.",
+      "id": "s528"
+    },
+    {
+      "text": "The point that the Federal Magistrate was making in [123] about similarities to SZKBL is not inconsistent with this proposition.",
+      "id": "s529"
+    },
+    {
+      "text": "In the present case, as in SZKBL , the appellant did not make any complaint to the Tribunal about the interpretation service provided.",
+      "id": "s530"
+    },
+    {
+      "text": "Similarly, the appellant in each case was given an opportunity to tell the Tribunal anything he wished before the end of the hearing and accepted that opportunity.",
+      "id": "s531"
+    },
+    {
+      "text": "Further, as in SZKBL , the tenor of some of the Tribunal's interactions with the appellant is capable of giving rise to some initial concerns.",
+      "id": "s532"
+    },
+    {
+      "text": "Those initial concerns have to be assessed against the context of the transcript as a whole and the fact that, from a transcript, it is not possible to assess the tone of any interaction.",
+      "id": "s533"
+    },
+    {
+      "text": "A statement which is capable of appearing peremptory on paper may not have been in the context of the actual discussion then occurring.",
+      "id": "s534"
+    },
+    {
+      "text": "Further, in the present case, the Tribunal attempted to assist the appellant by inviting him to seek explanations if necessary.",
+      "id": "s535"
+    },
+    {
+      "text": "The appellant agreed to do so.",
+      "id": "s536"
+    },
+    {
+      "text": "The appellant was capable of asserting his status as a refugee and giving clear details about his detention.",
+      "id": "s537"
+    },
+    {
+      "text": "Yet his answers to the Tribunal's questions about the preparation of his application documents and the lack of any reference to detention therein were unresponsive.",
+      "id": "s538"
+    },
+    {
+      "text": "His answers to questions seeking details of his practice of Falun Gong were vague.",
+      "id": "s539"
+    },
+    {
+      "text": "For the reasons already given, I do not accept that these matters resulted from, or were materially contributed to, by interpretation difficulties.",
+      "id": "s540"
+    },
+    {
+      "text": "The focus in oral submissions on the appellant's illiteracy also does not found any jurisdictional error.",
+      "id": "s541"
+    },
+    {
+      "text": "The appellant told the Tribunal that he had little education and could not read.",
+      "id": "s542"
+    },
+    {
+      "text": "The Tribunal recognised the appellant's illiteracy at p 6 of its reasons.",
+      "id": "s543"
+    },
+    {
+      "text": "The weight to give to that factor in the assessment of the credibility of the appellant's evidence was a matter for the Tribunal, as the Federal Magistrate correctly found (at [138]).",
+      "id": "s544"
+    },
+    {
+      "text": "CONCLUSION \n The appellant has not demonstrated error by the Federal Magistrate in respect of the issues on appeal relating to the provision of interpretation services to the appellant in the hearing before the Tribunal.",
+      "id": "s545"
+    },
+    {
+      "text": "For this reason the appeal must be dismissed.",
+      "id": "s546"
+    },
+    {
+      "text": "The usual order as to costs should be made.",
+      "id": "s547"
+    },
+    {
+      "text": "I certify that the preceding one hundred and twenty seven (127) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Jagot.",
+      "id": "s548"
+    },
+    {
+      "text": "Associate:\n \n \nDated: 24 July 2009\n \n Counsel for the Appellant: Mr S E J Prince \n \n Counsel for the First Respondent: Ms T L Wong \n \n Solicitor for the Appellant: SBA Lawyers \n \n Solicitor for the First Respondent: Australian Government Solicitor \n Date of Hearing: 24 April and 7 July 2009 \n \n Date of Judgment: 24 July 2009 \n \n \n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2009/783.html",
+      "id": "s549"
+    }
+  ]
+}

@@ -1,0 +1,1898 @@
+[
+  {
+    "text": "income tax",
+    "id": "cp0.0",
+    "type": "cited",
+    "from": "[2007]"
+  },
+  {
+    "text": "superannuation",
+    "id": "cp0.1",
+    "type": "cited",
+    "from": "[2007]"
+  },
+  {
+    "text": "payment to non-complying fund by way of discretionary trust",
+    "id": "cp0.2",
+    "type": "cited",
+    "from": "[2007]"
+  },
+  {
+    "text": "no fringe benefits tax payable",
+    "id": "cp0.3",
+    "type": "cited",
+    "from": "[2007]"
+  },
+  {
+    "text": "no deduction under s 82aae income tax assessment act 1936 (cth) income tax",
+    "id": "cp0.4",
+    "type": "cited",
+    "from": "[2007]"
+  },
+  {
+    "text": "payment to superannuation fund capital not revenue expense",
+    "id": "cp0.5",
+    "type": "cited",
+    "from": "[2007]"
+  },
+  {
+    "text": "admiralty and maritime",
+    "id": "cp1.0",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "shipping and navigation",
+    "id": "cp1.1",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "compulsory pilotage",
+    "id": "cp1.2",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "construction and interpretation of s 410b of navigation act 1912 (cth) and ss 85 and 86 of the ports corporatisation and waterways management act 1995 (nsw)",
+    "id": "cp1.3",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "shipowner liable for fault of pilot, though pilot not properly licensed. trade practices act",
+    "id": "cp1.4",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "no reliance by master of ship on conduct of the pilot contract",
+    "id": "cp1.5",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "formation",
+    "id": "cp1.6",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "no contract between shipowner and pilotage service provider tort",
+    "id": "cp1.7",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "contributory negligence",
+    "id": "cp1.8",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "no relevant causal link between conduct of the plaintiff and the damage",
+    "id": "cp1.9",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "stevens v kabushiki kaisha sony computer entertainment  intellectual property",
+    "id": "cp2.0",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "copyright",
+    "id": "cp2.1",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "circumvention devices",
+    "id": "cp2.2",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "circumvention of a technological protection measure",
+    "id": "cp2.3",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "definition of \"technological protection measure\" in s 10(1) of the copyright act 1968 (cth) (\"the act \")",
+    "id": "cp2.4",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "respondents produced and sold computer games on cd-roms for use with playstation consoles",
+    "id": "cp2.5",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "access codes on the cd-roms could not be reproduced by conventional cd recording or copying devices",
+    "id": "cp2.6",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "games could only be played if access codes were read by the boot rom device within a playstation console",
+    "id": "cp2.7",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "appellant sold and installed \"mod chips\" into playstation consoles which allowed unauthorised copies of games to be played",
+    "id": "cp2.8",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether appellant had knowingly sold or distributed a circumvention device which was capable of circumventing, or facilitating the circumvention of, a technological protection measure",
+    "id": "cp2.9",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether access codes and boot rom were technological protection measures",
+    "id": "cp2.10",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether access codes and boot rom prevented or inhibited the infringement of copyright by preventing access to unauthorised copies of games.  intellectual property",
+    "id": "cp2.11",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "copyright",
+    "id": "cp2.12",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "circumvention devices",
+    "id": "cp2.13",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "literary works",
+    "id": "cp2.14",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "computer programs",
+    "id": "cp2.15",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "reproduction in a material form",
+    "id": "cp2.16",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "definition of \"material form\" in s 10(1) of the act",
+    "id": "cp2.17",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "parts of program code reproduced in the random access memory (\"ram\") of a playstation console as game is being played",
+    "id": "cp2.18",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether access codes and boot rom prevented or inhibited the infringement of copyright in a literary work by preventing a substantial part of a computer program from being reproduced in ram",
+    "id": "cp2.19",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether ram a \"material form\" for the purposes of the act .  intellectual property",
+    "id": "cp2.20",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "copyright",
+    "id": "cp2.21",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "circumvention devices",
+    "id": "cp2.22",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "subject-matter",
+    "id": "cp2.23",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "cinematograph films",
+    "id": "cp2.24",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "part of the aggregate of visual images contained in program code copied in the ram of a playstation console as game is being played",
+    "id": "cp2.25",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether access codes and boot rom prevented or inhibited the infringement of copyright in a cinematograph film by preventing a copy of the film being made in ram",
+    "id": "cp2.26",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether a substantial part of a cinematograph film is embodied in ram as game is being played.  statutes",
+    "id": "cp2.27",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "statutory construction",
+    "id": "cp2.28",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "approach where provision is ambiguous",
+    "id": "cp2.29",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "approach where provision is the product of legislative debate over evolving technology and compromise",
+    "id": "cp2.30",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "use of extrinsic materials",
+    "id": "cp2.31",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "relevance of legislative history",
+    "id": "cp2.32",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "relevance of policy considerations",
+    "id": "cp2.33",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "preference for interpretation which upholds fundamental rights.",
+    "id": "cp2.34",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "taxation",
+    "id": "cp3.0",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "goods and services tax",
+    "id": "cp3.1",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "apportionment of credits",
+    "id": "cp3.2",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether full input tax credits available to taxpayer",
+    "id": "cp3.3",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "appeal from administrative appeals tribunal",
+    "id": "cp3.4",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "taxpayer acquired services in a taxable supply by way of a feasibility study as to whether it should acquire debts and recover them",
+    "id": "cp3.5",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "taxpayer carrying on enterprise of acquiring debts and recovering them, acquisition of debts a financial supply",
+    "id": "cp3.6",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "taxpayer also acquired services relating to recovery of debts",
+    "id": "cp3.7",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether input credits disallowed as relating to the making of a financial supply (the acquisition of the debts) which would be input taxed",
+    "id": "cp3.8",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether credits disallowed where acquisition of recovery services related to the financial supply (the acquisition of the debts) a new tax system (goods and services tax) act 1999 (cth), ss 11 -15(2)(a), 11 -5, 11 -20, div 132 a new tax system (goods and services tax) regulations 1999 (cth), regs 70-5.02, 40-5.09",
+    "id": "cp3.9",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "network ten pty limited v tcn channel nine pty limited  copyright",
+    "id": "cp4.0",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "infringement",
+    "id": "cp4.1",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "television broadcast",
+    "id": "cp4.2",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "television programme broadcast by appellant contained excerpts from programmes previously broadcast by respondent",
+    "id": "cp4.3",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "each excerpt of brief duration",
+    "id": "cp4.4",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "meaning of the \"subject matter\" of broadcast copyright",
+    "id": "cp4.5",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "whether each visual image capable of being observed as a separate image on a television screen and accompanying sounds is \"a television broadcast\" in which copyright subsists",
+    "id": "cp4.6",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "whether a \"substantial part\" of a television broadcast must be copied to constitute infringement.  statutes",
+    "id": "cp4.7",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "construction and interpretation",
+    "id": "cp4.8",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "relevance of legislative history and context",
+    "id": "cp4.9",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "relevance of legislative history and context of similar united kingdom statute",
+    "id": "cp4.10",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "copyright act 1968 (cth), ss 25(4) , 87 .",
+    "id": "cp4.11",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "eastman v director of public prosecutions (act)  administrative law",
+    "id": "cp7.0",
+    "type": "cited",
+    "from": "[2003]"
+  },
+  {
+    "text": "injunction and declaration sought to prevent magistrate from conducting an inquiry under s 475 crimes act 1900 (act)",
+    "id": "cp7.1",
+    "type": "cited",
+    "from": "[2003]"
+  },
+  {
+    "text": "whether supreme court judge had power to instigate such an inquiry in the circumstances",
+    "id": "cp7.2",
+    "type": "cited",
+    "from": "[2003]"
+  },
+  {
+    "text": "whether a doubt as to an accused person's fitness to plead is a doubt as to the \"guilt\" of that person",
+    "id": "cp7.3",
+    "type": "cited",
+    "from": "[2003]"
+  },
+  {
+    "text": "whether \"guilt\" means \"guilt as established by the conviction\" or only the occurrence of the acts or omissions that constitute the offence",
+    "id": "cp7.4",
+    "type": "cited",
+    "from": "[2003]"
+  },
+  {
+    "text": "whether a doubt as to the fitness to plead of an accused person is relevant to such an inquiry.  criminal law",
+    "id": "cp7.5",
+    "type": "cited",
+    "from": "[2003]"
+  },
+  {
+    "text": "inquiry after conviction",
+    "id": "cp7.6",
+    "type": "cited",
+    "from": "[2003]"
+  },
+  {
+    "text": "inquiry under s 475 crimes act 1900 (act) instituted",
+    "id": "cp7.7",
+    "type": "cited",
+    "from": "[2003]"
+  },
+  {
+    "text": "whether supreme court judge had power to instigate such an inquiry in the circumstances",
+    "id": "cp7.8",
+    "type": "cited",
+    "from": "[2003]"
+  },
+  {
+    "text": "whether a doubt as to an accused person's fitness to plead is a doubt as to the \"guilt\" of that person",
+    "id": "cp7.9",
+    "type": "cited",
+    "from": "[2003]"
+  },
+  {
+    "text": "whether \"guilt\" means \"guilt as established by the conviction\" or only the occurrence of the acts or omissions that constitute the offence",
+    "id": "cp7.10",
+    "type": "cited",
+    "from": "[2003]"
+  },
+  {
+    "text": "whether a doubt as to the fitness to plead of an accused person is relevant to such an inquiry.  statutes",
+    "id": "cp7.11",
+    "type": "cited",
+    "from": "[2003]"
+  },
+  {
+    "text": "interpretation",
+    "id": "cp7.12",
+    "type": "cited",
+    "from": "[2003]"
+  },
+  {
+    "text": "provision for inquiry into a suggested doubt or question as to the guilt of a person convicted of a criminal offence",
+    "id": "cp7.13",
+    "type": "cited",
+    "from": "[2003]"
+  },
+  {
+    "text": "construction of words of legislation so that all integers operate congruously and harmoniously",
+    "id": "cp7.14",
+    "type": "cited",
+    "from": "[2003]"
+  },
+  {
+    "text": "construction by reference to words included and omitted",
+    "id": "cp7.15",
+    "type": "cited",
+    "from": "[2003]"
+  },
+  {
+    "text": "construction by reference to legal history of australian and english progenitors to the subject provision",
+    "id": "cp7.16",
+    "type": "cited",
+    "from": "[2003]"
+  },
+  {
+    "text": "construction to give effect to a beneficial, remedial provision",
+    "id": "cp7.17",
+    "type": "cited",
+    "from": "[2003]"
+  },
+  {
+    "text": "adoption of a purposive approach to statutory construction.",
+    "id": "cp7.18",
+    "type": "cited",
+    "from": "[2003]"
+  },
+  {
+    "text": "hollis v vabu pty ltd t/as crisis couriers  negligence",
+    "id": "cp8.0",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "vicarious liability",
+    "id": "cp8.1",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "employee or independent contractor",
+    "id": "cp8.2",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "control",
+    "id": "cp8.3",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "bicycle courier negligently injured plaintiff",
+    "id": "cp8.4",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "bicycle courier wearing defendant's uniform but otherwise unidentified",
+    "id": "cp8.5",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "whether defendant vicariously liable for courier's negligence",
+    "id": "cp8.6",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "whether relationship between bicycle courier and defendant one of employment or independent contract",
+    "id": "cp8.7",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "whether bicycle courier is agent carrying out activity as principal's authorised representative dealing with third party.  employer and employee",
+    "id": "cp8.8",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "independent contractor",
+    "id": "cp8.9",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "bicycle courier and courier company",
+    "id": "cp8.10",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "whether bicycle courier's relationship is that of employment or independent contract.",
+    "id": "cp8.11",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "corporation of the city of enfield v development assessment commission  administrative law",
+    "id": "cp9.0",
+    "type": "cited",
+    "from": "[2000]"
+  },
+  {
+    "text": "judicial review of administrative discretion",
+    "id": "cp9.1",
+    "type": "cited",
+    "from": "[2000]"
+  },
+  {
+    "text": "jurisdictional facts",
+    "id": "cp9.2",
+    "type": "cited",
+    "from": "[2000]"
+  },
+  {
+    "text": "consent of statutory authority to provisional development plan",
+    "id": "cp9.3",
+    "type": "cited",
+    "from": "[2000]"
+  },
+  {
+    "text": "consent prohibited if development \"non-complying\"",
+    "id": "cp9.4",
+    "type": "cited",
+    "from": "[2000]"
+  },
+  {
+    "text": "classification a jurisdictional fact",
+    "id": "cp9.5",
+    "type": "cited",
+    "from": "[2000]"
+  },
+  {
+    "text": "whether statutory authority exceeded power",
+    "id": "cp9.6",
+    "type": "cited",
+    "from": "[2000]"
+  },
+  {
+    "text": "whether weight to be accorded to opinion of statutory authority upon judicial review",
+    "id": "cp9.7",
+    "type": "cited",
+    "from": "[2000]"
+  },
+  {
+    "text": "whether court restricted to evidence before statutory authority.  courts and judges",
+    "id": "cp9.8",
+    "type": "cited",
+    "from": "[2000]"
+  },
+  {
+    "text": "jurisdiction",
+    "id": "cp9.9",
+    "type": "cited",
+    "from": "[2000]"
+  },
+  {
+    "text": "equity",
+    "id": "cp9.10",
+    "type": "cited",
+    "from": "[2000]"
+  },
+  {
+    "text": "public law",
+    "id": "cp9.11",
+    "type": "cited",
+    "from": "[2000]"
+  },
+  {
+    "text": "restraint of apprehended breach of law",
+    "id": "cp9.12",
+    "type": "cited",
+    "from": "[2000]"
+  },
+  {
+    "text": "error with respect to jurisdictional fact.  administrative law",
+    "id": "cp9.13",
+    "type": "cited",
+    "from": "[2000]"
+  },
+  {
+    "text": "remedies",
+    "id": "cp9.14",
+    "type": "cited",
+    "from": "[2000]"
+  },
+  {
+    "text": "error with respect to jurisdictional fact",
+    "id": "cp9.15",
+    "type": "cited",
+    "from": "[2000]"
+  },
+  {
+    "text": "availability of prerogative writs and equitable remedies.",
+    "id": "cp9.16",
+    "type": "cited",
+    "from": "[2000]"
+  },
+  {
+    "text": "project blue sky inc &amp; ors v australian broadcasting authority  statutes",
+    "id": "cp10.0",
+    "type": "cited",
+    "from": "[1998]"
+  },
+  {
+    "text": "construction",
+    "id": "cp10.1",
+    "type": "cited",
+    "from": "[1998]"
+  },
+  {
+    "text": "reconciliation of conflicting provisions",
+    "id": "cp10.2",
+    "type": "cited",
+    "from": "[1998]"
+  },
+  {
+    "text": "intention of legislature",
+    "id": "cp10.3",
+    "type": "cited",
+    "from": "[1998]"
+  },
+  {
+    "text": "presumption that provisions intended to achieve consistent goals",
+    "id": "cp10.4",
+    "type": "cited",
+    "from": "[1998]"
+  },
+  {
+    "text": "leading and subordinate provisions",
+    "id": "cp10.5",
+    "type": "cited",
+    "from": "[1998]"
+  },
+  {
+    "text": "grammatical meaning and legal meaning.  statutes",
+    "id": "cp10.6",
+    "type": "cited",
+    "from": "[1998]"
+  },
+  {
+    "text": "construction",
+    "id": "cp10.7",
+    "type": "cited",
+    "from": "[1998]"
+  },
+  {
+    "text": "acts done in breach of a condition regulating a statutory power",
+    "id": "cp10.8",
+    "type": "cited",
+    "from": "[1998]"
+  },
+  {
+    "text": "whether invalid",
+    "id": "cp10.9",
+    "type": "cited",
+    "from": "[1998]"
+  },
+  {
+    "text": "mandatory and directory provisions",
+    "id": "cp10.10",
+    "type": "cited",
+    "from": "[1998]"
+  },
+  {
+    "text": "purpose-based test.  media law",
+    "id": "cp10.11",
+    "type": "cited",
+    "from": "[1998]"
+  },
+  {
+    "text": "television",
+    "id": "cp10.12",
+    "type": "cited",
+    "from": "[1998]"
+  },
+  {
+    "text": "regulation of programming",
+    "id": "cp10.13",
+    "type": "cited",
+    "from": "[1998]"
+  },
+  {
+    "text": "australian broadcasting authority",
+    "id": "cp10.14",
+    "type": "cited",
+    "from": "[1998]"
+  },
+  {
+    "text": "standard prescribing australian content requirements",
+    "id": "cp10.15",
+    "type": "cited",
+    "from": "[1998]"
+  },
+  {
+    "text": "whether inconsistent with legislative requirement that functions be performed consistently with australia's international obligations.  media law",
+    "id": "cp10.16",
+    "type": "cited",
+    "from": "[1998]"
+  },
+  {
+    "text": "television",
+    "id": "cp10.17",
+    "type": "cited",
+    "from": "[1998]"
+  },
+  {
+    "text": "regulation of programming",
+    "id": "cp10.18",
+    "type": "cited",
+    "from": "[1998]"
+  },
+  {
+    "text": "australian broadcasting authority",
+    "id": "cp10.19",
+    "type": "cited",
+    "from": "[1998]"
+  },
+  {
+    "text": "power to make standards that \"relate to ... the australian content of programs\"",
+    "id": "cp10.20",
+    "type": "cited",
+    "from": "[1998]"
+  },
+  {
+    "text": "whether restricted to standards conferring preferential treatment.  trade law",
+    "id": "cp10.21",
+    "type": "cited",
+    "from": "[1998]"
+  },
+  {
+    "text": "australia new zealand closer economic relations trade agreement.  broadcasting services act 1992 (cth), ss 3 , 122 , 158, 160.  broadcasting services (transitional provisions and consequential amendments) act 1992 (cth), s 21.  tasker v fullwood [1978] 1 nswlr 20 at 23-24 applied.",
+    "id": "cp10.22",
+    "type": "cited",
+    "from": "[1998]"
+  },
+  {
+    "text": "statute",
+    "id": "cp12.0",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "crown",
+    "id": "cp12.1",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "whether bound",
+    "id": "cp12.2",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "implication",
+    "id": "cp12.3",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "prohibition of destruction of aboriginal sites and objects",
+    "id": "cp12.4",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "operation upon crown servants and agents",
+    "id": "cp12.5",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "aboriginal heritage act 1972 (w.a.), ss. 6 , 10 , 17 , 18 .",
+    "id": "cp12.6",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "negligence",
+    "id": "cp13.0",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "vicarious liability",
+    "id": "cp13.1",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "employee or independent contractor",
+    "id": "cp13.2",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "supervision",
+    "id": "cp13.3",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "control",
+    "id": "cp13.4",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "logging operations",
+    "id": "cp13.5",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "trucker injured by negligence of snigger",
+    "id": "cp13.6",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "liability of sawmiller for whom both performed work",
+    "id": "cp13.7",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "independent contractor",
+    "id": "cp13.8",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "liability of principal for injury sustained in performing work",
+    "id": "cp13.9",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "extra-hazardous activities",
+    "id": "cp13.10",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "safe system of work",
+    "id": "cp13.11",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "duty of principal to provide",
+    "id": "cp13.12",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "breach of duty.",
+    "id": "cp13.13",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "contract",
+    "id": "cp14.0",
+    "type": "cited",
+    "from": "[1985]"
+  },
+  {
+    "text": "carriage of goods",
+    "id": "cp14.1",
+    "type": "cited",
+    "from": "[1985]"
+  },
+  {
+    "text": "duties and liabilities",
+    "id": "cp14.2",
+    "type": "cited",
+    "from": "[1985]"
+  },
+  {
+    "text": "special contracts",
+    "id": "cp14.3",
+    "type": "cited",
+    "from": "[1985]"
+  },
+  {
+    "text": "exemption clauses",
+    "id": "cp14.4",
+    "type": "cited",
+    "from": "[1985]"
+  },
+  {
+    "text": "contracts by which persons contract out of remedies for negligence of other persons driving motor vehicle declared void by statute",
+    "id": "cp14.5",
+    "type": "cited",
+    "from": "[1985]"
+  },
+  {
+    "text": "third party claim for property damage",
+    "id": "cp14.6",
+    "type": "cited",
+    "from": "[1985]"
+  },
+  {
+    "text": "\"person\"",
+    "id": "cp14.7",
+    "type": "cited",
+    "from": "[1985]"
+  },
+  {
+    "text": "motor vehicles act 1959(s.a.), s. 133.  statutes",
+    "id": "cp14.8",
+    "type": "cited",
+    "from": "[1985]"
+  },
+  {
+    "text": "construction",
+    "id": "cp14.9",
+    "type": "cited",
+    "from": "[1985]"
+  },
+  {
+    "text": "divisions and headings",
+    "id": "cp14.10",
+    "type": "cited",
+    "from": "[1985]"
+  },
+  {
+    "text": "section operating independently of other sections in part",
+    "id": "cp14.11",
+    "type": "cited",
+    "from": "[1985]"
+  },
+  {
+    "text": "heading of part.",
+    "id": "cp14.12",
+    "type": "cited",
+    "from": "[1985]"
+  },
+  {
+    "text": "workers' compensation (w.a.)",
+    "id": "cp15.0",
+    "type": "cited",
+    "from": "[1963]"
+  },
+  {
+    "text": "servant or independent contractor",
+    "id": "cp15.1",
+    "type": "cited",
+    "from": "[1963]"
+  },
+  {
+    "text": "timber faller",
+    "id": "cp15.2",
+    "type": "cited",
+    "from": "[1963]"
+  },
+  {
+    "text": "payment per load",
+    "id": "cp15.3",
+    "type": "cited",
+    "from": "[1963]"
+  },
+  {
+    "text": "to supply own equipment and employ swamper",
+    "id": "cp15.4",
+    "type": "cited",
+    "from": "[1963]"
+  },
+  {
+    "text": "whether remuneration \"in substance a return for manual labour\"",
+    "id": "cp15.5",
+    "type": "cited",
+    "from": "[1963]"
+  },
+  {
+    "text": "workers' compensation act, 1912-1960 (w.a.), s. 5*.",
+    "id": "cp15.6",
+    "type": "cited",
+    "from": "[1963]"
+  },
+  {
+    "text": "taxation and revenue",
+    "id": "cp18.0",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "income tax",
+    "id": "cp18.1",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "personal services income obtained through a personal services entity",
+    "id": "cp18.2",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "whether personal services entity is conducting a personal services business",
+    "id": "cp18.3",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "whether results test met in relevant years",
+    "id": "cp18.4",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "whether income is for producing a result",
+    "id": "cp18.5",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "decision under review affirmed    income tax assessment act 1997: ss 87-15 , 87-18 , 87-20 , 87-65",
+    "id": "cp18.6",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "taxation and revenue",
+    "id": "cp19.0",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "income tax",
+    "id": "cp19.1",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "personal services income obtained through a personal services entity",
+    "id": "cp19.2",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "whether personal services entity is conducting a personal services business",
+    "id": "cp19.3",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "whether possible to be \"forever exempt\"",
+    "id": "cp19.4",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "whether results test met in relevant years",
+    "id": "cp19.5",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "whether income is for producing a result",
+    "id": "cp19.6",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "penalty",
+    "id": "cp19.7",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "failure to take reasonable case to comply with a taxation law",
+    "id": "cp19.8",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "whether discretion to remit penalty should be exercised",
+    "id": "cp19.9",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "decision under review varied    income tax assessment act 1997 (cth) part 2",
+    "id": "cp19.10",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "42 , ss 84-5, 86-15, 87-15, 87-18   tax administration act 1953 (cth) sch 1 ss 284-75, 284-90",
+    "id": "cp19.11",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "taxation",
+    "id": "cp20.0",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "income tax and penalty assessments issued by commissioner of taxation",
+    "id": "cp20.1",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "allegedly false or misleading statements as to personal services by the appellant as to his income resulting in a tax shortfall",
+    "id": "cp20.2",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "whether the income received by a new zealand incorporated company from an australian company was mainly a reward for the appellant's personal efforts or skills",
+    "id": "cp20.3",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "whether the aforementioned income constituted the appellant's \"personal services income\"",
+    "id": "cp20.4",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "whether the new zealand company was a \"personal services entity\"",
+    "id": "cp20.5",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "whether 80% of the appellant's personal services income was from the same entity",
+    "id": "cp20.6",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "whether the appellant met the results test under s 87-18 income tax assessment act 1997 (cth)",
+    "id": "cp20.7",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "whether an overseas company can be a personal services entity in relation to the assessment of personal services income of an individual",
+    "id": "cp20.8",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "whether the attribution of income paid to the new zealand company by the australian company as the appellant's personal services income is contrary to the australia-new zealand double taxation agreement",
+    "id": "cp20.9",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "whether the penalty assessment for intentional disregard of a taxation law was assessed correctly",
+    "id": "cp20.10",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "whether the commissioner's related penalty remission decision was attended with error such that the court should reach its own conclusion on that subject",
+    "id": "cp20.11",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "held payments from australian company to new zealand company constituted part of the appellant's \"personal services income\"",
+    "id": "cp20.12",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "held payments were an additional commission reward for services or skills provided to australian company",
+    "id": "cp20.13",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "held new zealand company was a \"personal services entity\"",
+    "id": "cp20.14",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "held appellant's \"personal services income\" was not income from conducting a \"personal services business\"",
+    "id": "cp20.15",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "held new zealand company can be a \"personal services entity\" in respect of part 2",
+    "id": "cp20.16",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "42 of the income tax assessment act 1997 (cth)",
+    "id": "cp20.17",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "held nz double taxation agreement subjects the appellant to taxation in australia in respect of the appellant's \"personal services income\" pursuant to part 2",
+    "id": "cp20.18",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "42 of the income tax assessment act 1997 (cth)",
+    "id": "cp20.19",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "held appeal allowed",
+    "id": "cp20.20",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "question as to whether possible by court order to increase the amount of an assessment on an appeal from an objection decision",
+    "id": "cp20.21",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "reserved for consideration after receipt of supplementary submissions   taxation",
+    "id": "cp20.22",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "goods and services tax",
+    "id": "cp20.23",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "whether the assessment of the gst net amount and related penalty assessment was excessive",
+    "id": "cp20.24",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "whether any of the items the subject of the claimed input tax credits were acquired by the partnership in carrying on an \"enterprise\"",
+    "id": "cp20.25",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "characterisation of the \"enterprise\" of the partnership",
+    "id": "cp20.26",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "whether the items the subject of the claimed input tax credits were of a private or domestic nature",
+    "id": "cp20.27",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "whether the statutory pre-conditions to the assessment of the base penalty were satisfied",
+    "id": "cp20.28",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "whether the commissioner of taxation properly exercised his discretion not to remit the base penalty",
+    "id": "cp20.29",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "whether the commissioner of taxation's opinion that there was an avoidance of tax due to fraud or evasion was an error of law",
+    "id": "cp20.30",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "held gst assessment excessive",
+    "id": "cp20.31",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "held entitlement to claim tax credits in respect of forestry enterprise was an entitlement",
+    "id": "cp20.32",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "held no entitlement to claim tax credits in respect of accountancy practice and naturist retreat",
+    "id": "cp20.33",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "held commissioner of taxation's remission decision was a error of law",
+    "id": "cp20.34",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "held appeal allowed",
+    "id": "cp20.35",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "taxation",
+    "id": "cp21.0",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "departure authorisation certificate",
+    "id": "cp21.1",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "humanitarian grounds",
+    "id": "cp21.2",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "whether applicant unable to give security within the meaning of s 14u(1)(b)(ii) taxation administration act 1953 (cth)",
+    "id": "cp21.3",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "taxation",
+    "id": "cp22.0",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "departure prohibition order",
+    "id": "cp22.1",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "departure authorisation certificate",
+    "id": "cp22.2",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "whether unable to give security",
+    "id": "cp22.3",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "meaning of \"unable\".",
+    "id": "cp22.4",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "taxation",
+    "id": "cp23.0",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "income tax",
+    "id": "cp23.1",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "personal services income",
+    "id": "cp23.2",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "whether a personal services entity was conducting a personal services business",
+    "id": "cp23.3",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "results test",
+    "id": "cp23.4",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "whether the income of the entity was for producing a result",
+    "id": "cp23.5",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "relevance of statements made by treasurer in a doorstop interview",
+    "id": "cp23.6",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "relevance of the general law tests for an independent contractor",
+    "id": "cp23.7",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "other personal services business tests",
+    "id": "cp23.8",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "unrelated clients test",
+    "id": "cp23.9",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "employment test",
+    "id": "cp23.10",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "\"principal work\"",
+    "id": "cp23.11",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "business premises test",
+    "id": "cp23.12",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "none of the personal services business tests met",
+    "id": "cp23.13",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "income of personal services entity attributed to taxpayer",
+    "id": "cp23.14",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "certain deductions disallowed",
+    "id": "cp23.15",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "other matters best dealt with by commissioner",
+    "id": "cp23.16",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "objection decision affirmed in part",
+    "id": "cp23.17",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "outstanding issues remitted to commissioner for reconsideration in accordance with these reasons",
+    "id": "cp23.18",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "corporations",
+    "id": "cp24.0",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "constitution",
+    "id": "cp24.1",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "interpretation",
+    "id": "cp24.2",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "directors' powers",
+    "id": "cp24.3",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "retirement deed",
+    "id": "cp24.4",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "whether board of directors had authority to enter into retirement deed with director",
+    "id": "cp24.5",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "whether board had to adopt scheme or plan before conferring retirement benefits on directorcorporations",
+    "id": "cp24.6",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "directors",
+    "id": "cp24.7",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "retirement benefits",
+    "id": "cp24.8",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "conferral without member approval",
+    "id": "cp24.9",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "whether retirement deed contravened provisions relating to termination payments in part 2d.2 of [&lt;i&gt;corporations law&lt;/i&gt;]",
+    "id": "cp24.10",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "qualification of prohibition in s 200b on giving retirement benefits by s 200g",
+    "id": "cp24.11",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "payment limit fixed by s 200g(2)",
+    "id": "cp24.12",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "whether payments to third party for provision of director's services constituted part of director's total remuneration",
+    "id": "cp24.13",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "definition of \"remuneration\" by reference to disclosure requirements in accounting standard (aasb 1017)",
+    "id": "cp24.14",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "whether remuneration to be calculated by reference to period during which recipient was an officer of corporation",
+    "id": "cp24.15",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "[&lt;i&gt;corporations law&lt;/i&gt;], ss 200b, 200ginterest",
+    "id": "cp24.16",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "pre-judgment interest",
+    "id": "cp24.17",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "whether third party should be paid interest on amount ordered",
+    "id": "cp24.18",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "whether proceedings for specific performance were \"proceedings for the recovery of any money\"",
+    "id": "cp24.19",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "whether order that money be paid involved \"amount for which judgment is given\"",
+    "id": "cp24.20",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "whether judgment referred only to judgment in action at law",
+    "id": "cp24.21",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "[&lt;i&gt;civil procedure act&lt;/i&gt;] 2005 (nsw), s 100remedies",
+    "id": "cp24.22",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "standing of plaintiffs to seek relief",
+    "id": "cp24.23",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "where specific performance sought",
+    "id": "cp24.24",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "whether director and third party provided consideration for variation deedstatutory interpretation",
+    "id": "cp24.25",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "accounting standards",
+    "id": "cp24.26",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "purposive interpretation",
+    "id": "cp24.27",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "interpretation of \"remuneration\" in [&lt;i&gt;corporations law&lt;/i&gt;] by reference to accounting standard (aasb 1017)",
+    "id": "cp24.28",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "[&lt;i&gt;australian securities and investments commission act&lt;/i&gt;] 1989 (cth) ss 224, 228",
+    "id": "cp24.29",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "[&lt;i&gt;corporations law&lt;/i&gt;], s 9statutory interpretation",
+    "id": "cp24.30",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "correction of typographical error",
+    "id": "cp24.31",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "[&lt;i&gt;corporations law&lt;/i&gt;], ss 200bwords &amp; phrases",
+    "id": "cp24.32",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "\"action\"",
+    "id": "cp24.33",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "\"indirectly\"",
+    "id": "cp24.34",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "\"may be effected\"",
+    "id": "cp24.35",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "\"otherwise made available\"",
+    "id": "cp24.36",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "\"payment limit\"",
+    "id": "cp24.37",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "\"remuneration\"",
+    "id": "cp24.38",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "taxation",
+    "id": "cp25.0",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "gst",
+    "id": "cp25.1",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "meaning of supply",
+    "id": "cp25.2",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "acquisition of quarry in accordance with notice in the gazette",
+    "id": "cp25.3",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "whether some form of action is required for the purposes of section 9-10(1) of the gst act",
+    "id": "cp25.4",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "acquisition in consequence of a right analogous to a statutory put option",
+    "id": "cp25.5",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "whether a legal obligation was incurred under para (g) of subsection (2)",
+    "id": "cp25.6",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "surrender under para (d) of subsection (2)",
+    "id": "cp25.7",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "relevance of deed of release in respect of the compensation which was paid.",
+    "id": "cp25.8",
+    "type": "citing",
+    "from": "[2008]"
+  }
+]

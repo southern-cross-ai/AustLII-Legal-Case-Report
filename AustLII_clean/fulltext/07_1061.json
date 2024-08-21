@@ -1,0 +1,1456 @@
+{
+  "name": "P Dawson Nominees Pty Ltd v Multiplex Limited [2007] FCA 1061 (19 July 2007)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2007/1061.html",
+  "catchphrases": [
+    {
+      "text": "group proceeding",
+      "id": "c0"
+    },
+    {
+      "text": "criterion for membership",
+      "id": "c1"
+    },
+    {
+      "text": "all group members to retain a single litigation funder",
+      "id": "c2"
+    },
+    {
+      "text": "whether criterion inconsistent with the group proceeding provisions",
+      "id": "c3"
+    },
+    {
+      "text": "practice and procedure",
+      "id": "c4"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "1 This case raises for consideration the legitimacy of a securities fraud class action against two companies in the Multiplex group, Multiplex Limited (Multiplex) and Multiplex Funds Management Limited (MFM).",
+      "id": "s0"
+    },
+    {
+      "text": "The action is brought by an investor, P Dawson Nominees Pty Ltd.",
+      "id": "s1"
+    },
+    {
+      "text": "It sues on its own behalf and on behalf of all investors who (1) during a defined period acquired an interest in securities in, or issued by, one of the respondents; (2) suffered loss and damage by reason of the conduct alleged against the respondents; and (3) had \"as at the commencement of the [the] proceeding entered a litigation funding agreement with International Litigation Funding Partners, Inc.",
+      "id": "s2"
+    },
+    {
+      "text": "(ILF).",
+      "id": "s3"
+    },
+    {
+      "text": "\" The question in issue is whether the last criterion is permissible.",
+      "id": "s4"
+    },
+    {
+      "text": "2 Multiplex is a public company whose shares are listed on the Australian Stock Exchange (ASX).",
+      "id": "s5"
+    },
+    {
+      "text": "MFM, a related company, is the responsible entity (see Part 5C of the Corporations Act 2001 (Cth)) of both the Multiplex Property Trust, a managed investment scheme established on 19 September 2003 and the Multiplex SITES Trust established on 12 November 2004.",
+      "id": "s6"
+    },
+    {
+      "text": "Ordinary shares in Multiplex give the holder an interest in Multiplex group stapled securities --- that is an ordinary share in Multiplex is stapled to an ordinary unit in the Multiplex Property Trust.",
+      "id": "s7"
+    },
+    {
+      "text": "Stapled securities are traded on the ASX.",
+      "id": "s8"
+    },
+    {
+      "text": "Investors can also acquire an interest in Multiplex Step-up Income Distributing Trust Issued Exchangeable Securities (Multiplex SITES).",
+      "id": "s9"
+    },
+    {
+      "text": "Multiplex SITES are also traded on the ASX.",
+      "id": "s10"
+    },
+    {
+      "text": "3 Multiplex is a substantial construction company with operations in several countries.",
+      "id": "s11"
+    },
+    {
+      "text": "In 2000 a Multiplex subsidiary, Multiplex Constructions (UK) Ltd, entered into a contract to design and build the Wembley Stadium at Wembley in the United Kingdom.",
+      "id": "s12"
+    },
+    {
+      "text": "It is common knowledge that the stadium was not completed within time and the final cost of construction well exceeded the budgeted cost.",
+      "id": "s13"
+    },
+    {
+      "text": "This had a substantial adverse effect on profits and consequently on the price of Multiplex shares, stapled securities and Multiplex SITES.",
+      "id": "s14"
+    },
+    {
+      "text": "4 In this action P Dawson Nominees seeks to recover the losses it has suffered on its investment.",
+      "id": "s15"
+    },
+    {
+      "text": "It relies on several causes of action, of which I need mention only two.",
+      "id": "s16"
+    },
+    {
+      "text": "First, P Dawson Nominees contends that by about 2 August 2004 Multiplex knew, or reasonably would have known, that it was likely (or at least there was a material risk) that the Wembley Stadium project was well behind schedule.",
+      "id": "s17"
+    },
+    {
+      "text": "It alleges that the information about the project and its affect on profits was material information which (contrary to the listing rules of the ASX) the Multiplex group failed to disclose to the ASX.",
+      "id": "s18"
+    },
+    {
+      "text": "A failure to comply with the disclosure requirements of the listing rules is a breach of s 674 of the Corporations Act permitting the court under s 1317HA to order that damages suffered by any person be made good.",
+      "id": "s19"
+    },
+    {
+      "text": "5 Second, P Dawson Nominees alleges that the Multiplex group misrepresented the situation regarding the Wembley Stadium project in several reports to the ASX and in other reports to the public.",
+      "id": "s20"
+    },
+    {
+      "text": "The reporting history is as follows.",
+      "id": "s21"
+    },
+    {
+      "text": "On 18 August 2004 Multiplex group announced that work on the Wembley Stadium project continued to progress at a rate which would permit completion of the project ahead of schedule and that a contractual dispute with the structural steelwork subcontractor would not affect the construction program or impact on Multiplex group earnings.",
+      "id": "s22"
+    },
+    {
+      "text": "In its Annual Report for 2004 it was stated that nothing had arisen since the end of the previous financial period that was likely to effect significantly the Multiplex group operations.",
+      "id": "s23"
+    },
+    {
+      "text": "On 8 November 2004 Multiplex group announced that it had received a claim for approximately &#8356;20.9 million from the structural steelwork subcontractor of which &#8356;14.9 million related to costs contained in the contract and only approximately &#8356;6 million had not been provided for.",
+      "id": "s24"
+    },
+    {
+      "text": "On 24 February 2005 Multiplex group announced that the Wembley Stadium project was still on schedule; the Multiplex group board believed that the result for the 2005 financial year remained broadly in line to achieve a net profit after tax and before stapling eliminations of $235.3 million; aside from matters set out in the financial statements, there had not arisen any item, transaction or event of a material or unusual nature likely in the opinion of the directors to affect significantly the operations of the consolidated entity, the results of those operations or the state of affairs of the Multiplex group in future financial periods.",
+      "id": "s25"
+    },
+    {
+      "text": "On 28 February 2005 Multiplex group announced that the Wembley Stadium project had not impacted on full year 2005 forecasts and that full year 2005 aggregated profits (before stapled eliminations) guidance of $235.3 million was maintained.",
+      "id": "s26"
+    },
+    {
+      "text": "6 It is alleged that the true position was much worse, as the Multiplex group acknowledged in later reports.",
+      "id": "s27"
+    },
+    {
+      "text": "For example, on 27 May 2005 Multiplex group announced that it had received an interim report that indicated that the margin position of the Wembley Stadium project may have deteriorated significantly; the possible outcomes from the Wembley Stadium project included a loss significantly greater than that which would be covered by an indemnity for $50 million provided by the Roberts family (a significant shareholder) and that it had requested a trading halt from ASX.",
+      "id": "s28"
+    },
+    {
+      "text": "On 30 May 2005 Multiplex group announced that it had revised its forecast aggregated group profit after tax before stapling eliminations for the 2005 financial year from $235 million to $170 million; Multiplex group anticipated the loss in relation to the Wembley Stadium project to be $109 million (excluding the Roberts family indemnity) and the revision included an after tax provision for a $41 million loss on the Wembley Stadium project.",
+      "id": "s29"
+    },
+    {
+      "text": "7 P Dawson Nominees contends that by reason of the reports made on and before 28 February 2005 Multiplex group made the following misleading representations: (1) The Wembley Stadium project had not substantially exceeded its costs as those costs were then budgeted; (2) The Wembley Stadium project would not substantially exceed its then budgeted costs; (3) Multiplex group was not aware and ought reasonably not to have been aware of any matters which made it likely that the Wembley Stadium project would substantially exceed its then budgeted costs; (4) Multiplex group was not aware and ought reasonably not to have been aware of any matters which meant there was a material risk that the Wembley Stadium project would substantially exceed its budgeted costs; (5) The Wembley Stadium project was not significantly behind the then construction schedule for the project; (6) The Wembley Stadium project would not fall significantly behind the then construction schedule for the project; and (7) Multiplex group was not aware and ought not to have been aware of any matters which made it likely that the Wembley Stadium project would fall significantly behind the construction schedule for the project.",
+      "id": "s30"
+    },
+    {
+      "text": "8 If the representations were made and are found to be misleading or deceptive there will be a contravention of several statutory provisions, including s 1041H(1) of the Corporations Act , s 12DA(1) of the Australian Securities and Investments Commission Act 2001 (Cth) and s 9 of the Fair Trading Act 1999 (Vic).",
+      "id": "s31"
+    },
+    {
+      "text": "Once again, damages could be awarded to make good any loss suffered in consequence of the contravening conduct.",
+      "id": "s32"
+    },
+    {
+      "text": "9 P Dawson Nominees and the group members it represents (more than 40) purchased their respective interests in Multiplex securities between 2 August 2004 and 30 May 2005.",
+      "id": "s33"
+    },
+    {
+      "text": "They claim to have suffered loss as a result of the alleged failure to comply with the disclosure requirements and the allegedly misleading or deceptive conduct.",
+      "id": "s34"
+    },
+    {
+      "text": "The statement of claim asserts that the securities were acquired in a regulated market in which misleading or deceptive statements had been made as a result of which the market price for the securities was substantially greater than their true value and in any event greater than the market price that would have prevailed but for the contraventions.",
+      "id": "s35"
+    },
+    {
+      "text": "10 It seems the way the case will be put is based on the hypothesis (in some quarters an article of faith) that had the Corporations Act and ASX listing rules been complied with the market in Multiplex securities would have been open and efficient and the price of the securities would be determined on the basis that all material information regarding the company was publicly available.",
+      "id": "s36"
+    },
+    {
+      "text": "The consequence of this hypothesis is the premise that the market price of the securities would have been negatively affected if there had been proper and not misleading disclosure about the Wembley Stadium project.",
+      "id": "s37"
+    },
+    {
+      "text": "11 It may also be argued that there is a rebuttable presumption of reliance (if it is necessary to establish reliance) on the existence of an open and efficient market for Multiplex securities.",
+      "id": "s38"
+    },
+    {
+      "text": "In the United States this is referred to as the fraud-on-the-market theory.",
+      "id": "s39"
+    },
+    {
+      "text": "In Basic Inc v Levinson 485 US 224 (1988) the Supreme Court of the United States held that securities class action plaintiffs are entitled to a presumption of reliance that the market for the securities in question was efficient and that the plaintiffs traded in reliance on the integrity of the market price for those securities.",
+      "id": "s40"
+    },
+    {
+      "text": "The fraud-on-the-market presumption is rebuttable.",
+      "id": "s41"
+    },
+    {
+      "text": "The defendant bears the burden of establishing that the presumption should not apply.",
+      "id": "s42"
+    },
+    {
+      "text": "There are usually three ways a defendant can rebut the presumption.",
+      "id": "s43"
+    },
+    {
+      "text": "They are: (1) that the non-disclosures did not affect the market price; (2) that the plaintiffs would have purchased a stock at the same price had they known the information that was not disclosed; and (3) that the plaintiffs actually knew the information that was not disclosed to the market: Fine v American Solar King Corporation 919 F 2d 290, 299 (5th cir, 1990).",
+      "id": "s44"
+    },
+    {
+      "text": "12 The respondents contend that this proceeding cannot continue as a class action.",
+      "id": "s45"
+    },
+    {
+      "text": "They point to the third criterion for group membership, namely that an investor must have entered into a funding agreement with ILF, and argue that this criterion is \"[an] 'opt-in' requirement ... [that is] inconsistent with the terms and policy of [the representative proceeding provisions]\", that is Part IVA of the Federal Court of Australia Act 1976 (Cth), comprising ss 33A to 33ZJ .",
+      "id": "s46"
+    },
+    {
+      "text": "On this basis they ask for an order under s 33N that the proceeding no longer continue as a representative proceeding.",
+      "id": "s47"
+    },
+    {
+      "text": "13 To place the controversy in its context it is necessary briefly to describe the characteristics of a group proceeding for which Part IVA provides.",
+      "id": "s48"
+    },
+    {
+      "text": "Class actions have their origins in chancery.",
+      "id": "s49"
+    },
+    {
+      "text": "A common law action involved only two parties, the plaintiff and the defendant.",
+      "id": "s50"
+    },
+    {
+      "text": "Proceedings in equity often affected a number of persons.",
+      "id": "s51"
+    },
+    {
+      "text": "The problem with such proceedings was the rule that only a party to an action was bound by the judgment.",
+      "id": "s52"
+    },
+    {
+      "text": "If the parties were numerous joining everyone was often impracticable.",
+      "id": "s53"
+    },
+    {
+      "text": "So chancery developed three broad exceptions to the principle that all interested persons should be made parties.",
+      "id": "s54"
+    },
+    {
+      "text": "The first was representation by rule of law: Cockburn v Thompson (1809) 16 Ves 321; (1809) 33 ER 1005.",
+      "id": "s55"
+    },
+    {
+      "text": "An executor or administrator represented the legatee, a trustee in bankruptcy represented the creditors, the Attorney-General represented the public, and so on.",
+      "id": "s56"
+    },
+    {
+      "text": "The second exception was where there was a right asserted against a large and indefinite number of persons with their limits unascertainable.",
+      "id": "s57"
+    },
+    {
+      "text": "In Adair v The New River Company (1805) 11 Ves 429, 445; (1805) 32 ER 1153, 1159 Lord Eldon said that in such a case it was sufficient to join, \"so many, that it can justly be said, they will fairly and honesty try the legal right between themselves, all other persons interested, and the Plaintiff.",
+      "id": "s58"
+    },
+    {
+      "text": "\" The third exception arose out of claims by or against definite persons who were large in number and it was impracticable to bring them all to court.",
+      "id": "s59"
+    },
+    {
+      "text": "For that kind of case the rule was developed that a party could represent the group: Taylor v Salmon (1838) 4 My &amp; Cr 134; Adair v New River (1805) 11 Ves 429, 444; (1805) 32 ER 1153; Meax v Maltby (1818) 2 Sw 277; (1818) 36 ER 621.",
+      "id": "s60"
+    },
+    {
+      "text": "In the only major treatise on the topic, the author explained that \"where the parties are so numerous, as to render it inconvenient or impracticable that they should be parties to the record, if they also have one common interest, a few may sue [or be sued] on behalf of themselves, and of all ...\" Calvert on Parties 2nd ed (1847).",
+      "id": "s61"
+    },
+    {
+      "text": "14 Modern class actions follow the same goals, permitting litigation of a suit involving common questions where there are too many plaintiffs for proper joinder.",
+      "id": "s62"
+    },
+    {
+      "text": "Section 33C(1) sets out the three conditions that must be satisfied for a class action to commence.",
+      "id": "s63"
+    },
+    {
+      "text": "They are: (1) numerosity (\"seven or more persons [must] have claims against the same person\"); (2) connectivity (\"the claims of all those persons are in respect of, or arise out of, the same, similar or related circumstances\"); and (3) commonality (\"the claims of all those persons give rise to a substantial common issue of law or fact\").",
+      "id": "s64"
+    },
+    {
+      "text": "15 An interesting feature of the Australian legislation is that it is not necessary for the represented group to include every person who has a claim against the defendant that arises out of the same or related circumstances.",
+      "id": "s65"
+    },
+    {
+      "text": "This seems to be a surprising omission.",
+      "id": "s66"
+    },
+    {
+      "text": "The Law Reform Commission Report No.",
+      "id": "s67"
+    },
+    {
+      "text": "46 into Grouped Proceedings in the Federal Court recommended that if a class action did not include all persons with related claims the court should have power to stay the action until the position was regularised.",
+      "id": "s68"
+    },
+    {
+      "text": "In its draft Bill the LRC included a provision (cl 14) to that effect.",
+      "id": "s69"
+    },
+    {
+      "text": "Parliament did not accept the LRC recommendation.",
+      "id": "s70"
+    },
+    {
+      "text": "Instead, s 33C(1) provides that if each of the three conditions is satisfied a proceeding may be commenced by one or more group members \"as representing some or all of them\".",
+      "id": "s71"
+    },
+    {
+      "text": "Moreover, there is nothing in Part IVA that restricts the characteristics by reference to which persons with related claims may be omitted from the group.",
+      "id": "s72"
+    },
+    {
+      "text": "At least there is nothing express in that regard.",
+      "id": "s73"
+    },
+    {
+      "text": "16 A judgment given in a representative proceeding binds all group members, save those who affirmatively elect to be excluded: s 33ZB.",
+      "id": "s74"
+    },
+    {
+      "text": "To this end, s 33J provides that a group member may \"opt out\" of a representative proceeding before the date fixed by the court for that purpose.",
+      "id": "s75"
+    },
+    {
+      "text": "17 On this aspect Parliament had to choose between (in broad terms) an \"opt out\" model (favoured by most jurisdictions that permit class actions) and an \"opt in\" model.",
+      "id": "s76"
+    },
+    {
+      "text": "The \"opt in\" model recognises the liberty of an individual to choose whether to bring an action, and avoids roping in a person who may not want to litigate at all.",
+      "id": "s77"
+    },
+    {
+      "text": "Opt out models are sometimes favoured because they can ensure that unsophisticated claimants as well as those who through timidity or ignorance of legal proceedings will not take the necessary step to be included in the group may still have the benefit of the litigation.",
+      "id": "s78"
+    },
+    {
+      "text": "However, the model selected by Parliament for the Federal Court does not have this effect because it allows a subset of all possible plaintiffs to constitute a group and there is no express restriction on how this subset is defined.",
+      "id": "s79"
+    },
+    {
+      "text": "18 Part IVA does not have a procedure by which a class action has to be certified by the court before it can proceed.",
+      "id": "s80"
+    },
+    {
+      "text": "In most jurisdictions there is a certification procedure.",
+      "id": "s81"
+    },
+    {
+      "text": "In the Federal Court class actions can proceed provided they meet the conditions set out in s 33C.",
+      "id": "s82"
+    },
+    {
+      "text": "The LRC said that there was \"no value in imposing an additional costly procedure, with a strong risk of appeals involving further delay and expense, which will not achieve the aims of protecting parties or ensuring efficiency\": LRC Report at 63-64.",
+      "id": "s83"
+    },
+    {
+      "text": "Experience of class actions suggests that the absence of a certification process is itself the cause of numerous interlocutory applications with resultant expense and delay.",
+      "id": "s84"
+    },
+    {
+      "text": "19 Although the LRC rejected certification it acknowledged that there had to be some mechanism to ensure that the class action procedure was not abused or used inappropriately or inefficiently.",
+      "id": "s85"
+    },
+    {
+      "text": "Several provisions were introduced for that purpose, with s 33N being one of them.",
+      "id": "s86"
+    },
+    {
+      "text": "20 Section 33N is an important section.",
+      "id": "s87"
+    },
+    {
+      "text": "It relevantly provides that: \n \n \n \"(1) The Court may, on application by the respondent or of its own motion, order that a proceeding no longer continue under this Part where it is satisfied that it is in the interests of justice to do so because: \n \n \n \n \n \n \n (a) the costs that would be incurred if the proceeding were to continue as a representative proceeding are likely to exceed the costs that would be incurred if each group member conducted a separate proceeding; or \n \n (b) all the relief sought can be obtained by means of a proceeding other than a representative proceeding under this Part; or \n \n (c) the representative proceeding will not provide an efficient and effective means of dealing with the claims of group members; or \n \n (d) it is otherwise inappropriate that the claims be pursued by means of a representative proceeding.",
+      "id": "s88"
+    },
+    {
+      "text": "\" \n \n \n \n\n21 The regime created by s 33N involves a two step process.",
+      "id": "s89"
+    },
+    {
+      "text": "First the court must decide whether one of the conditions in paras (1)(a) to (d) has been satisfied.",
+      "id": "s90"
+    },
+    {
+      "text": "If it has, then, and only then, is the court entitled to consider whether, because of the existence of that condition, it is in the interests of justice to make a discontinuance order.",
+      "id": "s91"
+    },
+    {
+      "text": "In Bright v Femcare Ltd (2002) 195 ALR 574, 588, a decision of the Full Court of the Federal Court, Lindgren J said that the first step \"raise(s) practical questions which require that the Part IVA proceeding be compared with other proceedings that are available to the applicant and group members as a means of resolving their claims.",
+      "id": "s92"
+    },
+    {
+      "text": "\" In the same case I said, in a somewhat similar vein, that to exercise the power to make an order under s 33N(1) one of the conditions in paras (a) to (d) had to be satisfied and that was to be decided upon an objective assessment of the facts.",
+      "id": "s93"
+    },
+    {
+      "text": "22 As regards the second step I went on to say that the question whether or not it was in the interests of justice to make a discontinuance order had to be weighed against the public interest in the administration of justice that favours class actions.",
+      "id": "s94"
+    },
+    {
+      "text": "I described the principal objectives of the class action procedure to be to: (1) promote the efficient use of court time and the parties' resources by eliminating the need to separately try the same issue; (2) provide a remedy in favour of persons who may not have the funds to bring a separate action or who may not bring an action because the cost of litigation is disproportionate to the value of the claim; and (3) protect defendants from multiple suits and the risk of inconsistent findings.",
+      "id": "s95"
+    },
+    {
+      "text": "23 It is appropriate in the present context to add a word or two about those objectives.",
+      "id": "s96"
+    },
+    {
+      "text": "On the second reading of the Federal Court of Australia Amendment Bill 1991 which introduced Part IVA the Attorney-General said that the class action procedure was needed for two purposes.",
+      "id": "s97"
+    },
+    {
+      "text": "\"The first is to provide a real remedy where, although many people are affected and the total amount at issue is significant, each person's loss is small and not economically viable to recover in individual actions ...",
+      "id": "s98"
+    },
+    {
+      "text": "The second purpose ... is to deal efficiently with the situation where the damages sought by each claimant are large enough to justify individual actions and a large number of persons wish to sue the respondent.",
+      "id": "s99"
+    },
+    {
+      "text": "The new procedure will mean that groups of persons, whether they be shareholders or investors, or people pursuing consumer claims, will be able to obtain redress and do so more cheaply and efficiently than would be the case with individual actions.",
+      "id": "s100"
+    },
+    {
+      "text": "\"\n \n24 This rationale divides class actions into two broad categories, viz, \"small claimant classes\" and \"large claimant classes\": J C Coffee Jr \"Class Wars: The Dilemma of the Mass Tort Class Action\", 95 Columbia Law Review 1343, p 1351 (1995).",
+      "id": "s101"
+    },
+    {
+      "text": "The reason for permitting plaintiffs to pool claims that would be uneconomical to litigate individually (the so-called small claimant class) is self-evident.",
+      "id": "s102"
+    },
+    {
+      "text": "It affords plaintiffs a remedy where absent the possibility of a class action they would have none.",
+      "id": "s103"
+    },
+    {
+      "text": "The classic statement of this theory is to be found in H Kalven Jr and M Rosenfield \"The Contemporary Function of the Class Suit\", 8 University of Chicago Law Review 684 (1940-1941).",
+      "id": "s104"
+    },
+    {
+      "text": "25 Large claimant class actions provide different benefits.",
+      "id": "s105"
+    },
+    {
+      "text": "The benefits are economies of scale (time, effort and expense).",
+      "id": "s106"
+    },
+    {
+      "text": "Perhaps the most significant benefit for members of this class is the reduction of the costs of litigation, in particular the legal costs, by spreading the burden among group members.",
+      "id": "s107"
+    },
+    {
+      "text": "In Deposit Guaranty National Bank Jackson Mississippi v Roper 445 US 326 (1980) Burger CJ, in delivering the opinion of the Supreme Court, noted (at footnote 9) that: \"[a] significant benefit to claimants who choose to litigate their individual claims in a class action context is the prospect of reducing their costs of litigation, particularly attorney's fees, by allocating such costs among all members of the class who benefit from any recovery\".",
+      "id": "s108"
+    },
+    {
+      "text": "See also United States Parole Commission v Geraghty 445 US 388, 402-403 (1980).",
+      "id": "s109"
+    },
+    {
+      "text": "26 There are circumstances in which the prosecution of a class action will not produce the benefits for which it was designed.",
+      "id": "s110"
+    },
+    {
+      "text": "On occasions, for example, the class action is used opportunistically with persons other than the class members hoping to recover the bulk of the benefits.",
+      "id": "s111"
+    },
+    {
+      "text": "In addition, several commentators and judges have referred to the \"strike suit\" or the blackmail aspect of a class action: see eg The Hon J B Weinstein \" Some Reflections on the 'Abusiveness' of Class Actions\" 58 Federal Rules Decisions 299 (1973).",
+      "id": "s112"
+    },
+    {
+      "text": "Professor Miller of Harvard University, one of the authors of rule 23 of the Federal Court Rules of Civil Procedure (US) which introduced class actions in the Federal Court, published a comment on the rule entitled \"Of Frankenstein Monsters and Shining Knights: Myth, Reality, and the 'Class Action Problem'\" 92 Harvard Law Review 664 (1979) in which some of the problems are discussed.",
+      "id": "s113"
+    },
+    {
+      "text": "Professor Moller, a senior fellow at the Cato Institute, described the class action as a rent seeking action: M Moller \"The Rule of Law Problem: Unconstitutional Class Actions and Options for Reform\" 28 Harv Journal of Law &amp; Pub.",
+      "id": "s114"
+    },
+    {
+      "text": "Policy 855 (2005).",
+      "id": "s115"
+    },
+    {
+      "text": "Whether these undesirable aspects of a class action can be avoided by safety provisions such as s 33N remains to be seen.",
+      "id": "s116"
+    },
+    {
+      "text": "27 Returning to the action at bar, it has accurately been described by the respondents as \"factually intense and highly complex\".",
+      "id": "s117"
+    },
+    {
+      "text": "At the heart of the case are complex factual questions relating to the rate of progress of the construction of the Wembley Stadium at various points of time, and the reasonableness of the representations made by the Multiplex group in the light of what was known to their officers.",
+      "id": "s118"
+    },
+    {
+      "text": "As the respondents have pointed out, whether or not Multiplex had reasonable grounds for making the representations will involve a detailed appreciation of the true status of the Wembley Stadium project at the time of the representations in the light of the relevant parties' contractual rights and obligations.",
+      "id": "s119"
+    },
+    {
+      "text": "A similar comment may be made about the non-disclosure allegation.",
+      "id": "s120"
+    },
+    {
+      "text": "28 It will come as no surprise to learn that this action will be very expensive to run.",
+      "id": "s121"
+    },
+    {
+      "text": "But just how much it will cost will likely shock most lay persons and some lawyers to boot.",
+      "id": "s122"
+    },
+    {
+      "text": "Each side has several lawyers, including multiple counsel, working on the case, some probably on a full-time basis.",
+      "id": "s123"
+    },
+    {
+      "text": "P Dawson Nominees' lawyers, Maurice Blackburn Cashman (MBC), initial estimate of the cost of running the action was in excess of $7.5 million (the actual estimate is confidential).",
+      "id": "s124"
+    },
+    {
+      "text": "Their current estimate may be much higher.",
+      "id": "s125"
+    },
+    {
+      "text": "The respondents' lawyers have made an estimate of their clients' costs for the purposes of a still extant motion for security for costs.",
+      "id": "s126"
+    },
+    {
+      "text": "They estimate the costs to the completion of discovery to be $24,137,672, of which $23,963,837 is for discovery.",
+      "id": "s127"
+    },
+    {
+      "text": "For the time being P Dawson Nominees does not seek general discovery and has asked for discovery of a limited class of documents.",
+      "id": "s128"
+    },
+    {
+      "text": "This has reduced the cost of discovery to $6,429,737, so it is claimed.",
+      "id": "s129"
+    },
+    {
+      "text": "29 On any view, this is an action that few people could afford.",
+      "id": "s130"
+    },
+    {
+      "text": "It is certainly not an action P Dawson Nominees could run on its own.",
+      "id": "s131"
+    },
+    {
+      "text": "I suspect the same is true of most (if not all) members of the group it represents.",
+      "id": "s132"
+    },
+    {
+      "text": "30 How then did this action begin?",
+      "id": "s133"
+    },
+    {
+      "text": "What happened was this.",
+      "id": "s134"
+    },
+    {
+      "text": "MBC have run several major shareholder class actions.",
+      "id": "s135"
+    },
+    {
+      "text": "They describe themselves as \"the only legal firm in Australia with an established track record in shareholder class actions\" (their emphasis).",
+      "id": "s136"
+    },
+    {
+      "text": "MBC investigates the potential of bringing more class actions.",
+      "id": "s137"
+    },
+    {
+      "text": "It seems they investigated whether it would be fruitful to bring a class action against Multiplex and decided that it would be.",
+      "id": "s138"
+    },
+    {
+      "text": "So, by advertisement and perhaps by word of mouth, they put together a group of investors willing to bring the action.",
+      "id": "s139"
+    },
+    {
+      "text": "The group comprises more than 40 investors.",
+      "id": "s140"
+    },
+    {
+      "text": "In a radio interview given by an MBC lawyer the group was described as ranging from small retail investors to large institutions.",
+      "id": "s141"
+    },
+    {
+      "text": "31 Each member of the group has entered into a retainer agreement with MBC.",
+      "id": "s142"
+    },
+    {
+      "text": "It is a condition of the retainer agreement that the group member has entered into a funding agreement with ILF, a foreign company whose business includes providing legal funding to litigants in return for a share of the proceeds of the funded action.",
+      "id": "s143"
+    },
+    {
+      "text": "By the retainer agreement MBC was instructed to commence and prosecute the claim against Multiplex \"as a Class Action, Group Action or Test Case as MBC considers appropriate.",
+      "id": "s144"
+    },
+    {
+      "text": "\" No fees, costs or disbursements are payable by the group members.",
+      "id": "s145"
+    },
+    {
+      "text": "They are to be paid by ILF on the members' behalf.",
+      "id": "s146"
+    },
+    {
+      "text": "The group member is entitled to terminate the retainer on seven days' written notice.",
+      "id": "s147"
+    },
+    {
+      "text": "The retainer terminates automatically if, in the case of a class action, the group member opts out before the opt out date set by the court.",
+      "id": "s148"
+    },
+    {
+      "text": "The retainer also terminates automatically if the group member settles his or her claim against Multiplex otherwise than in a group settlement.",
+      "id": "s149"
+    },
+    {
+      "text": "In the event of termination MBC is still entitled to its costs from ILF.",
+      "id": "s150"
+    },
+    {
+      "text": "MBC promises not to recover from the group member any professional fees and disbursements that ILF refuses to pay.",
+      "id": "s151"
+    },
+    {
+      "text": "32 Turning to the funding agreement, there are several provisions that should be mentioned.",
+      "id": "s152"
+    },
+    {
+      "text": "The first is a so-called \"cooling off period\" of 21 days during which the group member can withdraw from the agreement without any cost.",
+      "id": "s153"
+    },
+    {
+      "text": "Once the agreement is in operation the group member is only permitted to change his lawyer (MBC) \"after consultation [with ILF]\".",
+      "id": "s154"
+    },
+    {
+      "text": "The principal provision of the agreement is that by which ILF promises to pay all costs and disbursements reasonably incurred in prosecuting the action against Multiplex and any costs that may be ordered against the group member.",
+      "id": "s155"
+    },
+    {
+      "text": "In the event that it becomes necessary to do so, ILF also promises to put up any security for costs that may be ordered.",
+      "id": "s156"
+    },
+    {
+      "text": "For his part, the group member agrees that any sum received in satisfaction of his claim against Multiplex (whether by settlement or judgment) is to be deal with in the following order.",
+      "id": "s157"
+    },
+    {
+      "text": "First, in payment of the costs and disbursements of the action and any appeal.",
+      "id": "s158"
+    },
+    {
+      "text": "Second, in payment of a not insignificant percentage to ILF by way of a fee and an additional percentage if there is an appeal.",
+      "id": "s159"
+    },
+    {
+      "text": "Finally, the balance goes to the group member.",
+      "id": "s160"
+    },
+    {
+      "text": "33 Provision is made for the termination of the funding agreement.",
+      "id": "s161"
+    },
+    {
+      "text": "The agreement will terminate if the group member settles his claim against Multiplex or opts out of the class action.",
+      "id": "s162"
+    },
+    {
+      "text": "In the former case, and in the latter if the group member recovers damages from Multiplex, the group member is still required to apply the amount received as if the agreement remained in force.",
+      "id": "s163"
+    },
+    {
+      "text": "34 The advantage of the retainer and the funding agreements to each group member is obvious.",
+      "id": "s164"
+    },
+    {
+      "text": "If it were not for those agreements and the class action procedure, the action would probably not have gotten off the ground.",
+      "id": "s165"
+    },
+    {
+      "text": "Individually, most group members would not have the financial strength to bring their opponents to court.",
+      "id": "s166"
+    },
+    {
+      "text": "For those that do the potential benefits of bringing an action would be outweighed by the quantum of the costs.",
+      "id": "s167"
+    },
+    {
+      "text": "Mr Dawson, who with his wife controls P Dawson Nominees, said that his company could only litigate its claim against Multiplex because it is a class action in which his costs are covered.",
+      "id": "s168"
+    },
+    {
+      "text": "35 It is the funding criterion for group membership that forms the basis of the present application.",
+      "id": "s169"
+    },
+    {
+      "text": "It will be recalled that one criterion that an investor must satisfy to be a group member is that he has \"at the commencement of this proceeding, entered into a litigation funding agreement with [ILF].",
+      "id": "s170"
+    },
+    {
+      "text": "\" The criterion is attacked.",
+      "id": "s171"
+    },
+    {
+      "text": "The argument is that the criterion 'amounts to a requirement that group members take (or have taken) a positive step in order to \"opt in\" to the proceedings', a requirement which is said to be inconsistent with \"the terms and policy of Part IVA.",
+      "id": "s172"
+    },
+    {
+      "text": "\" The respondents also say that not only the impugned criterion but also the \"contractual disincentives to termination of [the funding] agreement subvert the \"opt out\" process which is central to Part IVA [and] amounts to an abuse of the court's processes.",
+      "id": "s173"
+    },
+    {
+      "text": "\" Finally it is contended that it is inimical to Part IVA to require a person who wishes to be a group member to enter into a funding agreement with a particular funder.",
+      "id": "s174"
+    },
+    {
+      "text": "For those reasons the respondents seek an order under s 33N(1) that the proceeding no longer continue as a representative proceeding.",
+      "id": "s175"
+    },
+    {
+      "text": "The trigger that is said to enliven the power to make such an order that \"it is ... inappropriate that the claims be pursued by means of a representative proceeding.",
+      "id": "s176"
+    },
+    {
+      "text": "\": s 33N(1)(d).",
+      "id": "s177"
+    },
+    {
+      "text": "36 Before dealing with the argument it is convenient to make some additional comments about class actions that will bear on the ultimate issue.",
+      "id": "s178"
+    },
+    {
+      "text": "The first comment takes me back to the Attorney-General's two purposes for class actions, namely (1) to allow small individually uneconomic claims to be brought and, (2) to allow large claims to be handled with greater efficiency.",
+      "id": "s179"
+    },
+    {
+      "text": "The Attorney-General did not say how those objectives would be achieved through the medium of class actions.",
+      "id": "s180"
+    },
+    {
+      "text": "He did not mean they would happen by some kind of magic.",
+      "id": "s181"
+    },
+    {
+      "text": "He certainly did not mean that a class action was a simpler and cheaper procedure than an action brought by a single plaintiff seeking to vindicate his individual rights.",
+      "id": "s182"
+    },
+    {
+      "text": "What the Attorney-General had in mind, and what the class action procedure around the world is designed to achieve, is that group members will combine to share the costs of the action.",
+      "id": "s183"
+    },
+    {
+      "text": "37 The most obvious and direct form of cost sharing is for group members to put up their own cash in sufficient quantity to cover the likely costs.",
+      "id": "s184"
+    },
+    {
+      "text": "But the costs need not be obtained by direct contribution.",
+      "id": "s185"
+    },
+    {
+      "text": "Contingency fee agreements are no longer unlawful in most jurisdictions.",
+      "id": "s186"
+    },
+    {
+      "text": "Under this type of arrangement a class action can be funded by a lawyer in exchange for a promise from group members to take his fees out of the proceeds, perhaps at a higher than usual rate.",
+      "id": "s187"
+    },
+    {
+      "text": "The financial incentive for lawyers to act on a contingency fee basis has been described as 'a natural outgrowth of the increasing reliance on the \"private attorney-general\" for the vindication of legal rights': Deposit Guaranty National Bank Jackson Mississippi v Roper 445 US 326, 338 (1980).",
+      "id": "s188"
+    },
+    {
+      "text": "38 Group members can also purchase the funding they need to bring an action.",
+      "id": "s189"
+    },
+    {
+      "text": "That is precisely what the group members in this case have done under their agreements with ILF.",
+      "id": "s190"
+    },
+    {
+      "text": "The funding agreement is not illegal for being contrary to public policy.",
+      "id": "s191"
+    },
+    {
+      "text": "Nor is it an abuse of process to prosecute an action in which the plaintiffs receive their funding under this type of funding agreement: Campbells Cash &amp; Carry v Fostif Pty Ltd [2006] HCA 41 ; (2006) 80 ALJR 1441.",
+      "id": "s192"
+    },
+    {
+      "text": "39 The second additional comment is a reminder.",
+      "id": "s193"
+    },
+    {
+      "text": "The classic class action is where one or more members of an injured group without the consent of the other group members are able to sue on behalf of all of them.",
+      "id": "s194"
+    },
+    {
+      "text": "In Australia, however, Parliament has chosen not to adopt the classic model.",
+      "id": "s195"
+    },
+    {
+      "text": "Instead, the action may be brought on behalf of only some members of the injured group.",
+      "id": "s196"
+    },
+    {
+      "text": "40 The third comment concerns the expressions \"opt out\" and \"opt in\".",
+      "id": "s197"
+    },
+    {
+      "text": "In ordinary usage these expressions mean to choose not to participate in something or to choose to participate in something.",
+      "id": "s198"
+    },
+    {
+      "text": "In the context of class actions, they refer to the right of a person to participate in or not participate in (as the case may be) an existing action.",
+      "id": "s199"
+    },
+    {
+      "text": "In one case (that of opting in) the person must take some step, usually notifying the court, to signify that he wishes to be bound by the action.",
+      "id": "s200"
+    },
+    {
+      "text": "In the other case (opting out) any person who falls within the description of the class will be bound by the action unless he takes some step (often notifying the court) that he does not wish to be treated as part of that class.",
+      "id": "s201"
+    },
+    {
+      "text": "See generally: Ontario Law Reform Commission, Report on Class Actions, Report No 48 (1982) p 467 (\"The term 'opt in' has been employed to describe a procedure that is the converse of the kind discussed above ['opt out'].",
+      "id": "s202"
+    },
+    {
+      "text": "In other words, in a class suit employing an opt in procedure, a class member must 'opt in' to or join a class action shortly after certification in order to be bound by the judgment.",
+      "id": "s203"
+    },
+    {
+      "text": "\"); Scottish Law Commission, Multi-Party Actions: Court Proceedings and Funding , Discussion Paper No 98 (1995) at [7.28] (\"Under an option scheme the class member is automatically excluded from the class action and must take some prescribed step within a prescribed period before he will be bound by the result.",
+      "id": "s204"
+    },
+    {
+      "text": "\"); Alberta Law Reform Institute, Class Actions , Final Report No 85 (2000), pp 92-99 (\"... a person must take some prescribed step within a prescribed period before they become a member of the group and bound by the results of the litigation.",
+      "id": "s205"
+    },
+    {
+      "text": "\"); Ireland Law Reform Commission, Consultation Paper on Multi-Party Litigation (Class Actions) , Consultation Paper No 25 (2003) at [4.69] (\"An important issue is how membership in a class should be determined.",
+      "id": "s206"
+    },
+    {
+      "text": "There are two principle options to be considered: whether potential class members should be automatically included in the class but given an opportunity to opt-out of the proceedings or whether they should be required to take positive action to join the proceedings.\").",
+      "id": "s207"
+    },
+    {
+      "text": "See also R Mulheron, The Class Action in Common Law Legal Systems --- A Comparative Perspective , (2004), pp 29-38.",
+      "id": "s208"
+    },
+    {
+      "text": "41 Part IVA adopts this terminology.",
+      "id": "s209"
+    },
+    {
+      "text": "Section 33J confers on a \"group member\" the ability to \"opt out\" of a representative proceeding.",
+      "id": "s210"
+    },
+    {
+      "text": "A \"group member\" is a person on whose behalf a representative proceeding has been commenced: see the definition in s 33A.",
+      "id": "s211"
+    },
+    {
+      "text": "If the group member opts out he will not be bound by any judgment given in the proceeding: s 33ZB(2).",
+      "id": "s212"
+    },
+    {
+      "text": "42 I have made the observation that \"opt in\" and \"opt out\" have a special meaning without overlooking the fact that on occasion the prior agreement to be a party to an action yet to be commenced has been described as an \"opt in\" procedure.",
+      "id": "s213"
+    },
+    {
+      "text": "43 Prior to 1984 representative proceedings in Victoria (not class actions) were dealt with by rules of court, in particular O 16, rules 1 and 9 of the Rules of the Supreme Court 1916 and later 1958 (Vic).",
+      "id": "s214"
+    },
+    {
+      "text": "The rules were modelled on the English rules and can be traced back to the practice followed in the Chancery Court: Templeton v Leviathan Pty Ltd [1921] HCA 55 ; (1921) 30 CLR 34, 76.",
+      "id": "s215"
+    },
+    {
+      "text": "The rules were unsatisfactory in several respects.",
+      "id": "s216"
+    },
+    {
+      "text": "One problem was that the rules did not permit a representative action when the remedy the plaintiffs sought was in damages: Markt &amp; Co Ltd v Knight Steamship Company Ltd [1910] 2 KB 1021.",
+      "id": "s217"
+    },
+    {
+      "text": "To get rid of the effect of this decision the Supreme Court Act 1958 (Vic) was amended by the introduction of s 62(1C).",
+      "id": "s218"
+    },
+    {
+      "text": "That section provided that: \"Where provision is made by any Act, law or rule for two or more persons to be joined in one action as plaintiffs one or more ... may ... sue on behalf of or for the benefit of all persons who may be so joined.",
+      "id": "s219"
+    },
+    {
+      "text": "\" \n \n44 The new section had its own difficulties.",
+      "id": "s220"
+    },
+    {
+      "text": "In Marino v Esanda Ltd [1986] VR 735 it was held that the only \"Act, law or rule\" by reference to which plaintiffs could be joined in one action was O 16, rule 1 and that required the right to relief to arise out of \"the same ... series of transactions.",
+      "id": "s221"
+    },
+    {
+      "text": "\" The effect of this decision was reversed by ss 34 and 35 of the Supreme Court Act which were introduced in 1986.",
+      "id": "s222"
+    },
+    {
+      "text": "I need not go into the detail of the new provisions but it is necessary to note the requirements that had to be complied with before a representative proceeding could be instituted.",
+      "id": "s223"
+    },
+    {
+      "text": "They were that: (1) three or more persons had the right to the same or substantially the same relief against the same person; (2) if separate proceedings were brought by each person in respect of that right, some common question or law or fact would arise in all the proceedings; and (3) all persons being represented in the proceeding consented in writing to being represented and must be named in the originating process.",
+      "id": "s224"
+    },
+    {
+      "text": "Incidentally, the sections contained no restriction on the arrangements that might be made between the persons who had agreed to commence the representative proceeding.",
+      "id": "s225"
+    },
+    {
+      "text": "45 The new sections did not work very well.",
+      "id": "s226"
+    },
+    {
+      "text": "Many of the problems were identified in Zentahope Pty Ltd v Bellotti (unreported, Full Court, Supreme Court of Victoria, 2 March 1992).",
+      "id": "s227"
+    },
+    {
+      "text": "As a result the Victorian government decided to investigate the possibility of a complete overhaul.",
+      "id": "s228"
+    },
+    {
+      "text": "The Attorney-General's Law Reform Advisory Council commissioned V Morabito and J Epstein to produce a report on class actions.",
+      "id": "s229"
+    },
+    {
+      "text": "The report was delivered in August 1995.",
+      "id": "s230"
+    },
+    {
+      "text": "It was entitled \"Class Actions in Victoria --- Time for a New Approach\" .",
+      "id": "s231"
+    },
+    {
+      "text": "In that report ss 34 and 35 were referred to as having established \"a class action\" or \"class suit\" and the requirement that all persons represented must have consented in writing to being represented was described as an \"opt in\" procedure: See also V Morabito \"Class Actions: The Right to Opt Out Under Part IVA of the Federal Court of Australia Act 1976 (Cth)\" (1993-1994) MULR 615 , where the usage is repeated.",
+      "id": "s232"
+    },
+    {
+      "text": "This use of language was both loose and incorrect.",
+      "id": "s233"
+    },
+    {
+      "text": "First, representative proceedings are fundamentally different from modern class actions: Esanda Finance Corporation Ltd v Carnie (1992) 29 NSWLR 382, 390-391; D Grave and K Adams, \" Class Actions in Australia \" (2005) [1.120-1.160].",
+      "id": "s234"
+    },
+    {
+      "text": "Second, the Victorian provisions neither established a class action nor did they create an \"opt in\" procedure in the strict meaning of that expression.",
+      "id": "s235"
+    },
+    {
+      "text": "46 I propose now to consider the following three questions: (1) Is the funding agreement requirement an illegitimate method of determining group membership?",
+      "id": "s236"
+    },
+    {
+      "text": "; (2) In any event, does the existence of the funding agreement criterion bring the case within s 33N(1)(d)?",
+      "id": "s237"
+    },
+    {
+      "text": "; (3) If it does should an order be made under s 33N(1) to discontinue the group proceeding?",
+      "id": "s238"
+    },
+    {
+      "text": "47 With regard to question (1), the first thing to observe is that the description of group members is not as complex as appears in the statement of claim.",
+      "id": "s239"
+    },
+    {
+      "text": "In reality the group members simply comprises a number of individuals.",
+      "id": "s240"
+    },
+    {
+      "text": "Section 33H provides that the application or a document filed in support of the application must describe or identify the group members.",
+      "id": "s241"
+    },
+    {
+      "text": "Here they could have been identified by name.",
+      "id": "s242"
+    },
+    {
+      "text": "Instead they were identified by the factors that brought them together.",
+      "id": "s243"
+    },
+    {
+      "text": "48 The second thing to observe is that the only persons excluded from the group are free riders, that is persons who make no direct or indirect contribution toward the costs of the action.",
+      "id": "s244"
+    },
+    {
+      "text": "In my opinion this is not inconsistent with Part IVA.",
+      "id": "s245"
+    },
+    {
+      "text": "When Parliament rejected the LRC's recommendation that the represented group should include all persons with common claims, it must have had in mind the likelihood that the represented group would be selected by criterion that bore no necessary relationship to the causes of action being pursued.",
+      "id": "s246"
+    },
+    {
+      "text": "There may be circumstances in which the factors that define a particular group are inconsistent with Part IVA in the sense that a group proceeding instituted to benefit only that group is not a proceeding which was contemplated by Part IVA.",
+      "id": "s247"
+    },
+    {
+      "text": "Putting that possibility (which on any view must be remote) to one side, a group that excludes free riders cannot be criticised.",
+      "id": "s248"
+    },
+    {
+      "text": "On the contrary, there are economically rational reasons to establish such a group.",
+      "id": "s249"
+    },
+    {
+      "text": "The most obvious is that it provides each potential group member with an incentive to agree to contribute.",
+      "id": "s250"
+    },
+    {
+      "text": "It also keeps the cost or the burden of purchasing the costs down for each individual.",
+      "id": "s251"
+    },
+    {
+      "text": "There are other advantages in keeping group numbers down.",
+      "id": "s252"
+    },
+    {
+      "text": "For one thing, it is probably easier to settle a smaller claim.",
+      "id": "s253"
+    },
+    {
+      "text": "For another, there is a greater prospect of obtaining a higher percentage of the amount claimed by way of compromise.",
+      "id": "s254"
+    },
+    {
+      "text": "Even respondents may benefit from the prospect of a smaller payout.",
+      "id": "s255"
+    },
+    {
+      "text": "Indeed, it is odd to hear a complaint from a defendant that there are too few plaintiffs.",
+      "id": "s256"
+    },
+    {
+      "text": "49 I acknowledge that in the usual case a class action is brought without the express consent of all of group members.",
+      "id": "s257"
+    },
+    {
+      "text": "Section 33E contemplates that course, except in presently irrelevant circumstances.",
+      "id": "s258"
+    },
+    {
+      "text": "While consent to bring an action is not required by Part IVA , it is not forbidden.",
+      "id": "s259"
+    },
+    {
+      "text": "In effect the question raised by the respondents is whether a class action can be commenced consensually by a self selected group that has decided to exclude others who also have claims against the respondents.",
+      "id": "s260"
+    },
+    {
+      "text": "The basis for the selection seems to be irrelevant.",
+      "id": "s261"
+    },
+    {
+      "text": "I see no reason why that course should not be permitted.",
+      "id": "s262"
+    },
+    {
+      "text": "50 For one thing, the prior agreement to commence a class action is not \"opting into\" the action.",
+      "id": "s263"
+    },
+    {
+      "text": "Even if it could be so described, all that Part IVA requires (assuming for the moment that it is not permissible to contract out of s 33J) is that a group member can opt out of a group proceeding.",
+      "id": "s264"
+    },
+    {
+      "text": "That is what these group members can do.",
+      "id": "s265"
+    },
+    {
+      "text": "In other words, if a group member decides that he does not want to be bound by any judgment in the action there is nothing preventing him from opting out at the appropriate time.",
+      "id": "s266"
+    },
+    {
+      "text": "51 It is, in any event, by no means self evident that an agreement that prevents a group member from opting out would, or indeed should be, overridden by s 33J.",
+      "id": "s267"
+    },
+    {
+      "text": "That section is designed to protect the rights of persons who find themselves members of a group without their prior knowledge.",
+      "id": "s268"
+    },
+    {
+      "text": "They can leave the group.",
+      "id": "s269"
+    },
+    {
+      "text": "On the other hand, willing participants do not need the protection of s 33J.",
+      "id": "s270"
+    },
+    {
+      "text": "52 However that may be, whether or not it is difficult for a group member to opt out is beside the point.",
+      "id": "s271"
+    },
+    {
+      "text": "For example, if a group member enters an agreement with a third party the effect of which is to make it financially unattractive to opt out, such an agreement is neither inconsistent with any provision in, nor is it contrary to the policy behind, Part IVA.",
+      "id": "s272"
+    },
+    {
+      "text": "Indeed, in my view Part IVA is indifferent to such an arrangement.",
+      "id": "s273"
+    },
+    {
+      "text": "In part this is because Part IVA is not concerned with the arrangements that bring group members together.",
+      "id": "s274"
+    },
+    {
+      "text": "53 Strictly speaking, the foregoing discussion is not directly relevant to an application under s 33N.",
+      "id": "s275"
+    },
+    {
+      "text": "For that section to apply it is necessary in this case first to determine whether the impugned criterion leads to the conclusion \"that it is inappropriate that the claims be pursued by means of a representative proceeding.",
+      "id": "s276"
+    },
+    {
+      "text": "\" I see nothing \"inappropriate\" about the claims going ahead in such a proceeding.",
+      "id": "s277"
+    },
+    {
+      "text": "By and large, I regard this action as a very good example of litigation that is best suited for class action procedures.",
+      "id": "s278"
+    },
+    {
+      "text": "The counter-factual is either 40 or more separate actions where the plaintiff in each makes the same allegations as are made here, or, which is more probable, only one or two actions.",
+      "id": "s279"
+    },
+    {
+      "text": "The idea that it is better to have 40 or so large and complex actions each costing millions of dollars to run when all the issues can be litigated in one action can be dismissed out of hand.",
+      "id": "s280"
+    },
+    {
+      "text": "That is particularly so when it is clear that on any objective standard the benefit to the respondents of having at most a few actions instead of 40 or more is as great as it is for group members.",
+      "id": "s281"
+    },
+    {
+      "text": "Further, the notion that it is inappropriate for this action to proceed as a representative proceeding if the true alternative is that there will be no action to vindicate the rights of any group member is equally unacceptable.",
+      "id": "s282"
+    },
+    {
+      "text": "This last point is of more relevance in the second step of the investigation required by s 33N.",
+      "id": "s283"
+    },
+    {
+      "text": "54 On that issue I do not see how it is possible to be satisfied that it would be in the interests of justice to order this proceeding not continue as a representative proceeding.",
+      "id": "s284"
+    },
+    {
+      "text": "Obtaining individual redress for the damages allegedly suffered by group members would involve expense totally disproportionate to the value of each individual's claim.",
+      "id": "s285"
+    },
+    {
+      "text": "In any event, if each group member is left to assert his rights alone there may be only one or two claimants with the financial capacity to prosecute their claim.",
+      "id": "s286"
+    },
+    {
+      "text": "Most will be forced to give up.",
+      "id": "s287"
+    },
+    {
+      "text": "That result is unfair for two reasons.",
+      "id": "s288"
+    },
+    {
+      "text": "It is unfair for those group members who will not be able to pursue any claim at all.",
+      "id": "s289"
+    },
+    {
+      "text": "It is also unfair because it would undermine the deterrent effect of the existence of sanctions for contraventions of the law regulating securities.",
+      "id": "s290"
+    },
+    {
+      "text": "55 There is nothing, or nothing much, to weigh in the balance.",
+      "id": "s291"
+    },
+    {
+      "text": "According to the evidence, MBC is still seeking investors to bring claims against the respondents.",
+      "id": "s292"
+    },
+    {
+      "text": "If more investors come forward, application will be made to have them added to the group in this action or they may bring a separate representative proceeding.",
+      "id": "s293"
+    },
+    {
+      "text": "The respondents point to the unfairness of potentially being forced to defend many separate representative proceedings.",
+      "id": "s294"
+    },
+    {
+      "text": "I am not convinced that facing many representative actions is worse than facing multiple individual actions.",
+      "id": "s295"
+    },
+    {
+      "text": "What the respondents fear is in any event unlikely to eventuate.",
+      "id": "s296"
+    },
+    {
+      "text": "If more investors wish to sue the respondents and do not join this action but institute a separate action, it is likely the new action will be tried together with this action.",
+      "id": "s297"
+    },
+    {
+      "text": "In any case, if the respondents really prefer to be sued by all investors they may be able to secure that result by an application to amend the class under s 33ZF.",
+      "id": "s298"
+    },
+    {
+      "text": "In Darcy v Medtel Pty Limited [2002] FCA 925 Sackville J made an order under that section the practical effect of which was to enlarge the group membership.",
+      "id": "s299"
+    },
+    {
+      "text": "56 I note in passing that by subpoena and notice to produce the respondents sought production from MBC of its communications with those investors from whom it was seeking instructions to bring proceedings.",
+      "id": "s300"
+    },
+    {
+      "text": "The purpose of gaining access to the documents was to discover what was likely to happen with those persons.",
+      "id": "s301"
+    },
+    {
+      "text": "MBC claimed that the documents were privileged.",
+      "id": "s302"
+    },
+    {
+      "text": "With the consent of the parties I have looked at the documents to rule on privilege.",
+      "id": "s303"
+    },
+    {
+      "text": "Having looked at them for that purpose I have decided that none need be produced.",
+      "id": "s304"
+    },
+    {
+      "text": "My decision is not based solely on a finding that the documents are privileged, although many of them are.",
+      "id": "s305"
+    },
+    {
+      "text": "(On this aspect I have proceeded on the basis that instructions provided by a person to a lawyer in the expectation or possibility of a solicitor and client relationship arising are privileged communications.",
+      "id": "s306"
+    },
+    {
+      "text": ") I think the documents need not be made available because they do not add anything to the concession made by counsel for P Dawson Nominees that 'it is possible that [an] application will be made in these proceedings to join further persons ... and it is possible that other proceedings might be brought in respect of claims.",
+      "id": "s307"
+    },
+    {
+      "text": "' The documents do little more than confirm this concession.",
+      "id": "s308"
+    },
+    {
+      "text": "57 For the foregoing reasons I propose to dismiss the respondents' application unless Dorajay Pty Ltd v Aristocrat Leisure Ltd [2005] FCA 1483 ; (2005) 147 FCR 394 requires a different result.",
+      "id": "s309"
+    },
+    {
+      "text": "That was also a securities fraud class action.",
+      "id": "s310"
+    },
+    {
+      "text": "The shareholders alleged that the defendant, a publicly listed company, had made misleading representations about the company's profitability.",
+      "id": "s311"
+    },
+    {
+      "text": "There was also an allegation that the company had failed to disclose information that was material to its share price.",
+      "id": "s312"
+    },
+    {
+      "text": "The group on whose behalf the action had been commenced was described as: \"persons for whom the solicitors for the Applicant have instructions to act at any particular time, who at some time during the period between 20 September 2002 and 16 May 2003 inclusive ... acquired an interest in shares in [the defendant] and who suffered loss and damage by or resulting from the conduct of [the defendant alleged in the statement of claim].",
+      "id": "s313"
+    },
+    {
+      "text": "\" The obligation to instruct the solicitors was referred to as the \"MBC criterion\".",
+      "id": "s314"
+    },
+    {
+      "text": "58 The MBC criterion was not without its problems.",
+      "id": "s315"
+    },
+    {
+      "text": "It contemplated that group membership could change from day to day up to the day of judgment.",
+      "id": "s316"
+    },
+    {
+      "text": "This may not be permissible.",
+      "id": "s317"
+    },
+    {
+      "text": "It will be recalled that s 33H requires there to be a description or identification of the group members to whom the group proceeding relates.",
+      "id": "s318"
+    },
+    {
+      "text": "A group member is a member of a group of persons on whose behalf a representative proceeding has been commenced.",
+      "id": "s319"
+    },
+    {
+      "text": "The assumption seems to be that subject to s 33K (enacted to deal with causes of action accruing after the commencement of the proceeding) a person must be a group member at the time the group proceeding is commenced.",
+      "id": "s320"
+    },
+    {
+      "text": "If that is the proper construction of the relevant provision, group membership cannot be dependent upon some future event; nor could unborn children or future beneficiaries of a trust be group members.",
+      "id": "s321"
+    },
+    {
+      "text": "59 The judge, Stone J, was of opinion that the MBC criterion was bad for different reasons.",
+      "id": "s322"
+    },
+    {
+      "text": "First, she thought it established an illegitimate opt in procedure.",
+      "id": "s323"
+    },
+    {
+      "text": "The judge said (at 429): \n \n \"Rather than being able to be a member of the group without taking any positive step (as envisaged in the Attorney-General's Second Reading Speech) a person is required to opt into the group by retaining MBC.",
+      "id": "s324"
+    },
+    {
+      "text": "The fact that an opt out procedure would still be required is not to the point.",
+      "id": "s325"
+    },
+    {
+      "text": "The legislature has made a clear choice that was consistent with the recommendation of the ALRC on this issue.",
+      "id": "s326"
+    },
+    {
+      "text": "Whatever advantages, real or apparent, may flow from the ability to identify each member of the class at the outset, a decision to apply an opt in procedure can only be made by the legislature.",
+      "id": "s327"
+    },
+    {
+      "text": "\" \n \n\n The judge went on to say (at 430) that this so called opt in procedure was \"inconsistent with the terms and policy of Pt IVA\" as well as being \"an abuse of the Court's processes as established by Pt IVA.",
+      "id": "s328"
+    },
+    {
+      "text": "\" \n \n60 The second reason which according to the judge gave rise to \"perhaps [an] even more fundamental objection to the MBC criterion\" was that it \"dictates who should represent group members\".",
+      "id": "s329"
+    },
+    {
+      "text": "This had \"no support in principle or authority ... and [was] repugnant to the policy of the Act.",
+      "id": "s330"
+    },
+    {
+      "text": "\" \n \n61 On the first point (the subversion of the opt out process) there is the problem with the criterion that I have identified.",
+      "id": "s331"
+    },
+    {
+      "text": "On a literal reading of the MBC criterion (and there is no reason to give it anything other than a literal reading) a person could by retaining or terminating the retainer of MBC opt in or out of the process at will, both before and after the time fixed for giving an opt out notice.",
+      "id": "s332"
+    },
+    {
+      "text": "62 The judge took a narrower view and held the criterion bad simply because it required a person to opt into the group proceeding.",
+      "id": "s333"
+    },
+    {
+      "text": "The problem with this approach is that the judge found the MBC criterion amounts to an illegitimate opt in procedure without really analysing why it was an opt in procedure at all.",
+      "id": "s334"
+    },
+    {
+      "text": "She did not, for example, discuss in what way it was inconsistent with Part IVA for members of a group to get together and bring a class action that excludes other potential group members.",
+      "id": "s335"
+    },
+    {
+      "text": "She did not say how her analysis was consistent with Parliament's rejection of the LRC's recommendation that class actions should be brought on behalf of all affected persons.",
+      "id": "s336"
+    },
+    {
+      "text": "63 Putting those criticisms to one side there is, in any event, a more fundamental problem with Dorajay .",
+      "id": "s337"
+    },
+    {
+      "text": "I have pointed out that in Bright v Femcare the Full Court held that before a judge can consider whether it is in the interests of justice to make an order under s 33N(1) he or she must first determine whether at least one of the conditions in paras (1)(a) to (d) has been satisfied.",
+      "id": "s338"
+    },
+    {
+      "text": "As Lindgren J pointed out, that requires some comparison to be made between the class action and other proceedings that are available to the applicant and group members as a means of resolving their claims.",
+      "id": "s339"
+    },
+    {
+      "text": "Stone J did not undertake that comparison at all.",
+      "id": "s340"
+    },
+    {
+      "text": "Indeed, the judge made findings which, with the greatest of respect, would require that, were the criteria to be applied, they would not have been satisfied.",
+      "id": "s341"
+    },
+    {
+      "text": "The judge accepted, for example, that an order under s 33N(1) might: (1) \"prevent some of the small claimants from pursuing their claims in this Court and, perhaps, at all\"; and (2) \"require each of the group members to institute separate proceedings or, more likely, to join together in a proceeding where each is a party to the action.",
+      "id": "s342"
+    },
+    {
+      "text": "This would likely result in greater costs to the parties and to the relevant courts in which the claims were brought.",
+      "id": "s343"
+    },
+    {
+      "text": "\" But rather than deal with the first step she simply asked and answered the question: \"Is [it] in the interests of justice that the proceeding no longer continue under Part IVA\", as she put it \"for one of the reasons set out in s 33N(1)(a) to (d)\".",
+      "id": "s344"
+    },
+    {
+      "text": "That is not the approach mandated by Bright v Femcare .",
+      "id": "s345"
+    },
+    {
+      "text": "The judge should have, but did not, in the first instance determine whether the condition for the exercise of the power had been satisfied and, if it had, then go on to decide whether the power should be exercised.",
+      "id": "s346"
+    },
+    {
+      "text": "64 I was also referred to Rod Investments (Vic) Pty Ltd v Clark [2005] VSC 449 which followed Dorajay .",
+      "id": "s347"
+    },
+    {
+      "text": "There the judge did no more than apply the reasoning in Dorajay .",
+      "id": "s348"
+    },
+    {
+      "text": "He did not support the result by a different analysis.",
+      "id": "s349"
+    },
+    {
+      "text": "65 I need say nothing about the second basis for finding the MBC criterion bad for there is nothing like it here.",
+      "id": "s350"
+    },
+    {
+      "text": "In passing over that finding it is, I think, appropriate to make the observation that it has always been the practice of courts that follow the common law tradition that, special circumstances apart, regardless of their number, all plaintiffs in an action must be represented by one firm of solicitors and one set of counsel.",
+      "id": "s351"
+    },
+    {
+      "text": "The MBC criterion sought to impose a broader regime but one that was not all that far removed from the common law rule.",
+      "id": "s352"
+    },
+    {
+      "text": "66 I decline to grant the relief sought in paragraph (1) of the respondents' motion filed on 1 March 2007.",
+      "id": "s353"
+    },
+    {
+      "text": "The respondents will be required to pay P Dawson Nominees' costs of that part of the motion.",
+      "id": "s354"
+    },
+    {
+      "text": "I certify that the preceding sixty-six (66) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Finkelstein.",
+      "id": "s355"
+    },
+    {
+      "text": "Associate:\n\nDated: 19 July 2007\n\n\n\n\n Counsel for the Applicant: N C Hutley SC and M B J Lee \n \n Solicitor for the Applicant: Maurice Blackburn Cashman \n \n Counsel for the Respondents: T F Bathurst QC and A S Bell SC \n \n Solicitor for the Respondents \n(at date of hearing): Mallesons Stephen Jaques \n \n Date of Hearing: 27 April 2007 \n \n Date of Judgment: 19 July 2007 \n\n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/1061.html",
+      "id": "s356"
+    }
+  ]
+}

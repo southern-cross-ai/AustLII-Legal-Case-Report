@@ -1,0 +1,1640 @@
+{
+  "name": "Hamilton-Smith v George [2006] FCA 1551 (21 November 2006)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2006/1551.html",
+  "catchphrases": [
+    {
+      "text": "appeal against sequestration order made by federal magistrate",
+      "id": "c0"
+    },
+    {
+      "text": "order made on creditor's petition",
+      "id": "c1"
+    },
+    {
+      "text": "where concurrent proceedings in state court considering question of whether judgment debt satisfied",
+      "id": "c2"
+    },
+    {
+      "text": "where appellant asserts accord and satisfaction in respect of judgment debt",
+      "id": "c3"
+    },
+    {
+      "text": "where appellant elected not to prove accord and satisfaction before federal magistrate",
+      "id": "c4"
+    },
+    {
+      "text": "whether magistrate erred in finding debt still owing",
+      "id": "c5"
+    },
+    {
+      "text": "where appellant's counsel conceded in federal magistrates court that appellant could not prove solvency",
+      "id": "c6"
+    },
+    {
+      "text": "whether magistrate erred in failing to find that debtor was able to pay debts",
+      "id": "c7"
+    },
+    {
+      "text": "whether magistrate erred in failing to find that petition issued for improper purpose",
+      "id": "c8"
+    },
+    {
+      "text": "whether magistrate should have exercised discretion pursuant to s 52 of bankruptcy act 1966 (cth) to dismiss or adjourn petition.",
+      "id": "c9"
+    },
+    {
+      "text": "direct speech",
+      "id": "c10"
+    },
+    {
+      "text": "where evidence of contents of conversations given on affidavit",
+      "id": "c11"
+    },
+    {
+      "text": "where evidence of conversations not evidence of actual words used",
+      "id": "c12"
+    },
+    {
+      "text": "whether rule of practice that evidence of conversations be in the form of direct speech",
+      "id": "c13"
+    },
+    {
+      "text": "whether evidence of conversations may be in the form of indirect speech where direct speech not possible",
+      "id": "c14"
+    },
+    {
+      "text": "where witness did not directly state that indirect evidence represented best recollection",
+      "id": "c15"
+    },
+    {
+      "text": "whether impossibility of evidence in the form of direct speech can be inferred from wording of affidavit",
+      "id": "c16"
+    },
+    {
+      "text": "effect of s 56 of evidence act 1995 (cth).",
+      "id": "c17"
+    },
+    {
+      "text": "bankruptcy",
+      "id": "c18"
+    },
+    {
+      "text": "evidence",
+      "id": "c19"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "1 This is an appeal by Ms Tanya Hamilton-Smith against a sequestration order against her estate made by a Federal Magistrate.",
+      "id": "s0"
+    },
+    {
+      "text": "The order was made on a creditor's petition presented by Ms Heidi George and Ms George is the respondent to the appeal.",
+      "id": "s1"
+    },
+    {
+      "text": "The order was made on 19 July 2006.",
+      "id": "s2"
+    },
+    {
+      "text": "2 A Registrar of the Federal Magistrates Court heard the creditor's petition and on 20 June 2006 she made a sequestration order against the appellant's estate.",
+      "id": "s3"
+    },
+    {
+      "text": "The Registrar also ordered that the petitioning creditor's costs be taxed and paid from the estate of the appellant in accordance with the Bankruptcy Act 1966 (Cth) ('the Act').",
+      "id": "s4"
+    },
+    {
+      "text": "In hearing and determining the creditor's petition the Registrar was exercising a power delegated to her under ss 102 and 103 of the Federal Magistrates Act 1999 (Cth).",
+      "id": "s5"
+    },
+    {
+      "text": "3 The sequestration order made by the Federal Magistrate on 19 July 2006 was made on a review of the Registrar's decision and order under s 104(2) and (3) of the Federal Magistrates Act 1999 (Cth).",
+      "id": "s6"
+    },
+    {
+      "text": "Such a review is to proceed by way of a hearing de novo and the powers of a Federal Magistrate on a review are set out in r 20.03 of the Federal Magistrates Court Rules 2001 .",
+      "id": "s7"
+    },
+    {
+      "text": "4 There was debate before me as to whether, even if I concluded that the Magistrate was correct, it was appropriate for him to make a sequestration order.",
+      "id": "s8"
+    },
+    {
+      "text": "It was suggested that on reaching the conclusion he did, he should have done no more than dismiss the application for review.",
+      "id": "s9"
+    },
+    {
+      "text": "In view of the conclusions I have reached on the appeal, it is not necessary for me to resolve this particular issue.",
+      "id": "s10"
+    },
+    {
+      "text": "5 The Acting Chief Justice has directed that the appellate jurisdiction of the Court in relation to this appeal be exercised by a single Judge: Federal Court of Australia Act 1976 (Cth) s 25(1A).",
+      "id": "s11"
+    },
+    {
+      "text": "The facts \n \n6 This matter has a long history and it will be necessary for me to outline that history in some detail.",
+      "id": "s12"
+    },
+    {
+      "text": "7 The starting point is the judgment debt which forms the basis of the creditor's petition.",
+      "id": "s13"
+    },
+    {
+      "text": "The respondent allegedly lent moneys to the appellant and those moneys were not repaid.",
+      "id": "s14"
+    },
+    {
+      "text": "On 12 November 2002 the respondent brought a claim in the Magistrates Court of South Australia to recover the moneys and on 25 August 2003 she obtained judgment against the appellant in the sum of $4,079.80.",
+      "id": "s15"
+    },
+    {
+      "text": "That judgment is the judgment debt.",
+      "id": "s16"
+    },
+    {
+      "text": "It was affirmed on review on 27 November 2003.",
+      "id": "s17"
+    },
+    {
+      "text": "The respondent could not recover the moneys from the appellant and on 24 June 2005 she issued a bankruptcy notice against the appellant.",
+      "id": "s18"
+    },
+    {
+      "text": "On 26 September 2005 the respondent presented a creditor's petition against the appellant.",
+      "id": "s19"
+    },
+    {
+      "text": "8 The appellant claims that on 13 or 14 December 2003 she agreed to transfer to the respondent certain items of manchester (owned by the appellant) in satisfaction of the judgment debt.",
+      "id": "s20"
+    },
+    {
+      "text": "She claims that the items of manchester transferred to the respondent were valued at about $5,600.",
+      "id": "s21"
+    },
+    {
+      "text": "It is not clear why she transferred manchester items of that value having regard to the amount of the judgment debt, but the resolution of that question is not necessary for present purposes.",
+      "id": "s22"
+    },
+    {
+      "text": "The respondent denies that she reached any agreement or arrangement with the appellant and denies that she received any manchester items from her.",
+      "id": "s23"
+    },
+    {
+      "text": "9 On 25 October 2005 the appellant brought a claim in the Magistrates Court of South Australia in relation to the events she said occurred on 13 or 14 December 2005.",
+      "id": "s24"
+    },
+    {
+      "text": "In those proceedings she claims either a declaration that the judgment debt has been satisfied, or alternatively, payment for goods sold and delivered by her to the respondent.",
+      "id": "s25"
+    },
+    {
+      "text": "It is important to note that in the proceedings in the Magistrates Court of South Australia the appellant does not assert that there was no judgment debt but, rather, that there was an accord and satisfaction whereby the debt was satisfied.",
+      "id": "s26"
+    },
+    {
+      "text": "Alternatively, she claims that she is entitled to a money judgment against the respondent greater than or at least equal to the judgment debt.",
+      "id": "s27"
+    },
+    {
+      "text": "I will refer to these proceedings as the State Magistrates Court proceedings.",
+      "id": "s28"
+    },
+    {
+      "text": "10 I turn now to consider the proceedings which have taken place in the bankruptcy jurisdiction of the Federal Magistrates Court.",
+      "id": "s29"
+    },
+    {
+      "text": "A number of them took place before the commencement of the State Magistrates Court proceedings.",
+      "id": "s30"
+    },
+    {
+      "text": "11 On 24 June 2005 the respondent issued a bankruptcy notice against the appellant based on the judgment debt and that notice was served on the appellant on 1 July 2005.",
+      "id": "s31"
+    },
+    {
+      "text": "12 On 21 July 2005 the appellant applied for an order setting aside the bankruptcy notice: s 30 of the Act.",
+      "id": "s32"
+    },
+    {
+      "text": "She claimed that the judgment debt had been satisfied on the basis of the events which occurred on 13 or 14 December 2003.",
+      "id": "s33"
+    },
+    {
+      "text": "The application came on for hearing before Registrar Christie.",
+      "id": "s34"
+    },
+    {
+      "text": "After hearing evidence, Registrar Christie said that the appellant had not satisfied her on the balance of probabilities that the judgment debt was satisfied before the issue of the bankruptcy notice, or at all.",
+      "id": "s35"
+    },
+    {
+      "text": "It is not clear to me to what extent the appellant alleged before the Registrar that the bankruptcy notice was issued for an improper purpose or was an abuse of process but, in any event, the Registrar rejected both arguments.",
+      "id": "s36"
+    },
+    {
+      "text": "The Registrar made an order that the application to set aside the bankruptcy notice be dismissed and that the appellant pay the respondent's costs.",
+      "id": "s37"
+    },
+    {
+      "text": "13 The appellant did not seek a review of the Registrar's decision.",
+      "id": "s38"
+    },
+    {
+      "text": "14 On 26 September 2005 the respondent presented a creditor's petition against the appellant.",
+      "id": "s39"
+    },
+    {
+      "text": "15 On 25 November 2006 (and a month after the appellant brought the State Magistrates Court proceedings) the appellant filed and served a notice of intention to oppose petition in the following terms (relevantly):\n ' NOTICE OF INTENTION TO OPPOSE APPLICATION OR PETITION \n I TANYA HAMILTON-SMITH, the Respondent intends to oppose the Creditor's Petition on the following grounds: \n \n \n 1.",
+      "id": "s40"
+    },
+    {
+      "text": "That I am able to pay the amount of the judgment debt in which case I ask that this Honourable Court exercise the discretion afforded to it under section 52(2)(a) of the Bankruptcy Act 1996 and dismiss the petition.",
+      "id": "s41"
+    },
+    {
+      "text": "2.",
+      "id": "s42"
+    },
+    {
+      "text": "I say that: \n \n \n \n 2.1 there has been accord and satisfaction of the judgment debt in the sum of $4,079.80 which sum is the subject matter of the Applicant's Creditor's Petition; or \n 2.2 in the alternative I say that I have a counterclaim, set off or cross demand against the Applicant in the sum of $6,316.00 for goods received by the Applicant but not paid for which claim has not yet been finally determined.",
+      "id": "s43"
+    },
+    {
+      "text": "in which case I ask that this Honourable Court exercise the discretion afforded to it under section 52(2)(b) of the Bankruptcy Act 1996 and dismiss the petition.",
+      "id": "s44"
+    },
+    {
+      "text": "' \n \n \n\n16 The creditor's petition came on for hearing before Registrar Christie on 22 December 2005.",
+      "id": "s45"
+    },
+    {
+      "text": "She adjourned the hearing of the petition to 17 February 2006.",
+      "id": "s46"
+    },
+    {
+      "text": "She delivered reasons for her decision to adjourn the creditor's petition in which she outlines the history of the matter and sets out her conclusions at that time on a number of issues argued before her.",
+      "id": "s47"
+    },
+    {
+      "text": "17 The Registrar referred to the fact that interested creditors --- Bernsteen Pty Ltd (in liquidation) ('Bernsteen') and CFS Managed Property Limited and Perpetual Nominees Limited ('CFS') had filed notices of appearance and were given leave to be heard at the hearing of the petition.",
+      "id": "s48"
+    },
+    {
+      "text": "The Registrar referred to the various legal proceedings between each of the interested creditors and the appellant and between the respondent and the appellant.",
+      "id": "s49"
+    },
+    {
+      "text": "18 CFS brought a claim against the appellant in the Magistrates Court of South Australia on 3 October 2002 for unpaid rent and outgoings pursuant to a lease.",
+      "id": "s50"
+    },
+    {
+      "text": "The appellant brought a counterclaim against CFS.",
+      "id": "s51"
+    },
+    {
+      "text": "The claim and counterclaim proceeded to trial and the result was a judgment in favour of CFS in the sum of $38,739.23 and an order dismissing the counterclaim.",
+      "id": "s52"
+    },
+    {
+      "text": "On appeal to the Supreme Court of South Australia, Duggan J, on 6 December 2005, reduced the judgment debt to $5,618.79 and dismissed the appeal in relation to the counterclaim.",
+      "id": "s53"
+    },
+    {
+      "text": "19 Bernsteen is in liquidation and the liquidator is Mr Peter Macks.",
+      "id": "s54"
+    },
+    {
+      "text": "On 6 August 2002 Bernsteen brought a claim against the appellant for goods sold and delivered.",
+      "id": "s55"
+    },
+    {
+      "text": "The appellant brought a counterclaim against Bernsteen.",
+      "id": "s56"
+    },
+    {
+      "text": "The appellant failed to comply with certain interlocutory orders and Bernsteen obtained judgment against the appellant in the sum of $29,068.55.",
+      "id": "s57"
+    },
+    {
+      "text": "The appellant successfully applied to have the default judgment set aside and the counterclaim reinstated.",
+      "id": "s58"
+    },
+    {
+      "text": "Bernsteen obtained an order for costs in its favour and an interim allocatur was issued in the sum of $2,215.37.",
+      "id": "s59"
+    },
+    {
+      "text": "The appellant unsuccessfully appealed against the order for costs made against her to the Supreme Court of South Australia.",
+      "id": "s60"
+    },
+    {
+      "text": "Anderson J dismissed the appeal and ordered the appellant to pay the costs of the appeal.",
+      "id": "s61"
+    },
+    {
+      "text": "An interim allocatur was issued on 4 April 2005 in the sum of $1,903.20.",
+      "id": "s62"
+    },
+    {
+      "text": "In August 2004 and then in or about May 2005 the appellant unsuccessfully applied first to Anderson J and then to the Full Court of the Supreme Court of South Australia for leave to appeal against the orders of Anderson J dismissing her appeal.",
+      "id": "s63"
+    },
+    {
+      "text": "She was ordered by the Full Court to pay the costs of the unsuccessful leave application to it.",
+      "id": "s64"
+    },
+    {
+      "text": "The appellant has applied to the High Court of Australia against the Full Court's refusal to grant leave to appeal.",
+      "id": "s65"
+    },
+    {
+      "text": "20 Bernsteen issued a bankruptcy notice against the appellant founded on the two interim allocaturs totalling $4,118.57.",
+      "id": "s66"
+    },
+    {
+      "text": "On 31 August 2005 the bankruptcy notice was set aside by a Registrar and Bernsteen was ordered to pay the appellant's costs.",
+      "id": "s67"
+    },
+    {
+      "text": "21 On 25 August 2005 an allocatur was issued in Bernsteen's favour pursuant to the costs order made by the Magistrate on 25 March 2004 in the sum of $12,000, and on 25 October 2005 the Supreme Court issued an allocatur in Bernsteen's favour in the amount of $9,288.60 pursuant to the order made by Anderson J on 22 July 2004.",
+      "id": "s68"
+    },
+    {
+      "text": "22 The Registrar noted that although the appellant asserted that she was able to pay her debts within s 52(2)(a), the appellant's submissions were focused mainly on whether there was 'other sufficient cause' why a sequestration order should not be made within s 52(2)(b).",
+      "id": "s69"
+    },
+    {
+      "text": "23 The Registrar said that irrespective of the question of estoppel there was no evidence or fresh evidence which would cause her to alter the conclusion she had reached on the application to set aside the bankruptcy notice that it had not been established that the judgment debt had been satisfied, that is to say, that there had been an accord and satisfaction as alleged by the appellant or that the appellant had a good claim against the respondent based on the provision of items of manchester in December 2003.",
+      "id": "s70"
+    },
+    {
+      "text": "She said that she was not satisfied that the alleged accord and satisfaction and claim for goods sold and delivered, and the actions relating thereto, provide a basis for dismissing the petition.",
+      "id": "s71"
+    },
+    {
+      "text": "24 The Registrar considered the evidence as to the appellant's ability to pay her debts (s 52(2)(a) of the Act).",
+      "id": "s72"
+    },
+    {
+      "text": "She described the evidence as 'limited in the extreme'.",
+      "id": "s73"
+    },
+    {
+      "text": "The Registrar took the view that the appellant had not put before the Court the evidence necessary to establish that she was able to pay her debts within s 52(2)(a) of the Act.",
+      "id": "s74"
+    },
+    {
+      "text": "25 The Registrar considered whether there was 'other sufficient cause' why a sequestration order ought not to be made (s 52(2)(b)).",
+      "id": "s75"
+    },
+    {
+      "text": "She rejected an assertion of improper motive by the respondent and the other interested creditors.",
+      "id": "s76"
+    },
+    {
+      "text": "26 Despite reaching these conclusions, the Registrar considered that there was good reason to adjourn the hearing of the petition for a relatively short period and in the circumstances she adjourned it to 17 February 2006.",
+      "id": "s77"
+    },
+    {
+      "text": "27 The creditor's petition came back before Registrar Christie on 28 February 2006.",
+      "id": "s78"
+    },
+    {
+      "text": "She noted that the debt to CFS had been paid.",
+      "id": "s79"
+    },
+    {
+      "text": "She also noted that the appellant had tendered payment of the judgment debt and interest but this had been refused.",
+      "id": "s80"
+    },
+    {
+      "text": "She said that she remained of the view that the appellant had not shown that she was able to pay her debts.",
+      "id": "s81"
+    },
+    {
+      "text": "The Registrar said that she was unwilling to infer that the respondent's purpose in pursuing the creditor's petition was to 'stifle litigation in the Bernsteen action'.",
+      "id": "s82"
+    },
+    {
+      "text": "For reasons set out in the following passage, the Registrar concluded that it was appropriate to adjourn the hearing of the creditor's petition to 5 June 2006 ([27]):\n \n 'Even taking into account the public interest in having petitions dealt with as expeditiously as possible, in the circumstances of this case as it now stands, I have formed the view that the prejudice to the debtor if a sequestration order was made at this time now outweighs the prejudice to the petitioning creditor and the interested creditor of adjourning the matter.",
+      "id": "s83"
+    },
+    {
+      "text": "I have therefore formed the view that it would be appropriate to adjourn this matter to June, despite the fact that the petitioning creditor is not involved in the Bernsteen action, and although this is not the preferred course of either party, subject to the petitioning creditor's interests also being safeguarded.",
+      "id": "s84"
+    },
+    {
+      "text": "This should allow time for the Bernsteen action to be heard or resolved and, should the parties so choose, crystallisation of any other outstanding issues.",
+      "id": "s85"
+    },
+    {
+      "text": "' \n \n\n28 The respondent applied for a review of the Registrar's decision to adjourn the hearing of the creditor's petition to 5 June 2006.",
+      "id": "s86"
+    },
+    {
+      "text": "On the review Federal Magistrate Raphael upheld the Registrar's decision to adjourn the hearing of the creditor's petition and in fact he altered the adjourned date from 5 June 2006 to 20 June 2006: George v Hamilton-Smith [2006] FMCA 566.",
+      "id": "s87"
+    },
+    {
+      "text": "The following passages from the Federal Magistrate's reasons of 21 April 2006 should be noted (at [4], [12] and [13]):\n \n \n '4.",
+      "id": "s88"
+    },
+    {
+      "text": "The debtor claims she is solvent.",
+      "id": "s89"
+    },
+    {
+      "text": "She says that she has tendered payment of the petitioning creditor's debt and has a substantial cross claim against Bernsteen which would effectively nullify any debt that she has to that company.",
+      "id": "s90"
+    },
+    {
+      "text": "Bernsteen is not in a position to make any payment to her as it is a company in liquidation.",
+      "id": "s91"
+    },
+    {
+      "text": "She argues that another petitioning creditor, CFS, who had initially claimed a sum in excess of $20,000.00, has had its claim reduced to some $4,297.53 which has now been paid.",
+      "id": "s92"
+    },
+    {
+      "text": "What the debtor does not do is provide the court with any evidence about her financial circumstances.",
+      "id": "s93"
+    },
+    {
+      "text": "There is no affidavit indicating what real property she owns, what is the status of her bank accounts and what other assets are owned by her.",
+      "id": "s94"
+    },
+    {
+      "text": "There is no evidence of other creditors.",
+      "id": "s95"
+    },
+    {
+      "text": "There is no evidence that it was the debtor herself who paid the CFS debt or provided the funds for the tender to the petitioning creditor.",
+      "id": "s96"
+    },
+    {
+      "text": "This lack of evidence meant that Registrar Christie was unable to be satisfied that the debtor was solvent and I am likewise unable to be satisfied of her solvency.",
+      "id": "s97"
+    },
+    {
+      "text": "As Registrar Christie said in her judgment: \n \n \n \n \n \"The debtor has not put before me the strong and tangible evidence necessary to establish that she is able to pay all her debts as and when they fall due (see Weinberg J in Esanda Finance Corporation Limited v Velissaris [1999] FCA 1359 at [17] .",
+      "id": "s98"
+    },
+    {
+      "text": "\" \n \n \n \n \n ... \n 12.",
+      "id": "s99"
+    },
+    {
+      "text": "Even though the existence of the proceedings may not constitute sufficient cause to dismiss the sequestration order their existence might bear heavily upon an application for adjournment.",
+      "id": "s100"
+    },
+    {
+      "text": "We are now in April.",
+      "id": "s101"
+    },
+    {
+      "text": "The proceedings between the debtor and Bernsteen are set down for hearing in May.",
+      "id": "s102"
+    },
+    {
+      "text": "The proceedings between the debtor and the creditor are set down for hearing in early June.",
+      "id": "s103"
+    },
+    {
+      "text": "I have heard nothing about any additional creditors but I am aware that the debtor has obtained an order for security for costs in the sum of $6,000.00 against Bernsteen in respect of those proceedings.",
+      "id": "s104"
+    },
+    {
+      "text": "It is possible, given the existence of these proceedings, that Bernsteen could obtain a similar (and probably larger) order against the debtor if she was permitted to pursue her cross claim.",
+      "id": "s105"
+    },
+    {
+      "text": "13.",
+      "id": "s106"
+    },
+    {
+      "text": "I have taken all these matters into account when considering whether or not to adjourn this petition.",
+      "id": "s107"
+    },
+    {
+      "text": "As much as there is a public interest in bringing petitions to finality and thus preventing the possibility of insolvent trading or the incurring of debts a bankrupt is unable to repay there is also the fact that the making of a sequestration order has quasi criminal consequences: Re A Judgment Debtor [1908] 3 K.B. 474.",
+      "id": "s108"
+    },
+    {
+      "text": "It puts severe restraints upon a bankrupt's freedom of movement and ability to do business and it is these effects which must be weighed by a court considering an adjournment rather than the prejudice to the debtor or the prejudice to the creditor as suggested by Registrar Christie at [27] of her judgment.",
+      "id": "s109"
+    },
+    {
+      "text": "In truth evidence on both of these matters is sorely lacking but I note that the debtor has not been totally unsuccessful in her previous litigious skirmishes, e.g.",
+      "id": "s110"
+    },
+    {
+      "text": "in reducing the CFS debt down to a manageable figure.",
+      "id": "s111"
+    },
+    {
+      "text": "I am of the view that whilst the current timetable for the forthcoming proceedings remains fixed with hearings in May and June the petition should be adjourned to allow those proceedings to be heard.",
+      "id": "s112"
+    },
+    {
+      "text": "But if the debtor is unable to mount her cross claim without a significant adjournment or if the claim against the creditor is delayed then the rationale for the adjournment of the petition (the speedy resolution of outstanding disputes) will no longer apply.",
+      "id": "s113"
+    },
+    {
+      "text": "Registrar Christie was unaware of the date of the hearing of the claim in the Magistrates Court between the creditor and the debtor but I have been informed that it is to take place on 13 June.",
+      "id": "s114"
+    },
+    {
+      "text": "I will adjourn the petition until 20 June 2006 but I will grant the parties liberty to apply so that in the event that these hearing dates are not kept to an application can be made for an earlier hearing.",
+      "id": "s115"
+    },
+    {
+      "text": "The petition and any such application will be returnable before Registrar Christie.",
+      "id": "s116"
+    },
+    {
+      "text": "' \n \n \n\n29 On 20 June 2006 Registrar Christie heard and refused an application for discovery by the appellant which had only been filed the day before and she made the sequestration order which was reviewed by the Federal Magistrate.",
+      "id": "s117"
+    },
+    {
+      "text": "30 On 5 July 2006 Federal Magistrate Raphael heard the application for review and on 19 July 2006 he made the sequestration order which is the subject of this appeal.",
+      "id": "s118"
+    },
+    {
+      "text": "The appellant's contentions \n \n31 The notice of appeal contains 38 grounds of appeal and some of those grounds contain a number of sub-grounds.",
+      "id": "s119"
+    },
+    {
+      "text": "Counsel for the appellant submitted that there were in effect four issues raised by the appeal and both his submissions and those of counsel for the respondent were directed to the four issues counsel had identified.",
+      "id": "s120"
+    },
+    {
+      "text": "The first issue is whether the Magistrate erred in being satisfied that the judgment debt was still outstanding.",
+      "id": "s121"
+    },
+    {
+      "text": "This was referred to in the course of submissions as the petitioner's debt point.",
+      "id": "s122"
+    },
+    {
+      "text": "The second issue is whether the Magistrate erred in failing to be satisfied that the appellant was able to pay her debts.",
+      "id": "s123"
+    },
+    {
+      "text": "This was referred to in the course of submissions as the solvency point.",
+      "id": "s124"
+    },
+    {
+      "text": "The third issue is whether the Magistrate erred in failing to find that the respondent was pursuing the petition for an improper purpose.",
+      "id": "s125"
+    },
+    {
+      "text": "This was referred to in the course of submissions as the improper purpose point.",
+      "id": "s126"
+    },
+    {
+      "text": "The fourth issue is whether, assuming the appellant succeeded on one or more of the preceding points, the discretion should have been exercised so as to dismiss or adjourn the petition.",
+      "id": "s127"
+    },
+    {
+      "text": "This was referred to in the course of submissions as the discretion point.",
+      "id": "s128"
+    },
+    {
+      "text": "I will also refer to the relevant issues in this way.",
+      "id": "s129"
+    },
+    {
+      "text": "32 Before considering the submissions on appeal, it is necessary to examine the course of submissions before the Federal Magistrate and his reasons for judgment.",
+      "id": "s130"
+    },
+    {
+      "text": "I have read the relevant papers including the transcript of the submissions made to the Federal Magistrate.",
+      "id": "s131"
+    },
+    {
+      "text": "The course of submissions before the Magistrate must be considered because the respondent submits that the appellant's conduct of her case before the Magistrate is relevant to the assessment and determination of the appellant's submissions on appeal.",
+      "id": "s132"
+    },
+    {
+      "text": "The course of submissions before the Federal Magistrate and the Magistrate's reasons \n \n33 In the State Magistrates Court proceedings a Magistrate had entered judgment against the appellant with costs on 13 June 2006.",
+      "id": "s133"
+    },
+    {
+      "text": "It is unnecessary to refer in any detail to the events before the State Magistrate on 13 June 2006.",
+      "id": "s134"
+    },
+    {
+      "text": "The appellant applied for an adjournment of the hearing and, when that was refused, declined to proceed with her case.",
+      "id": "s135"
+    },
+    {
+      "text": "Judgment was entered against her.",
+      "id": "s136"
+    },
+    {
+      "text": "34 Before the Federal Magistrate the appellant referred to her application for leave to appeal from the judgment entered in the State Magistrates Court proceedings.",
+      "id": "s137"
+    },
+    {
+      "text": "There were a number of submissions directed to the merits of her application and proposed appeal.",
+      "id": "s138"
+    },
+    {
+      "text": "The appellant submitted that she did not have to show that the application and proposed appeal would succeed but that it was sufficient that she establish a real and arguable case that the application and proposed appeal would succeed.",
+      "id": "s139"
+    },
+    {
+      "text": "She submitted that she had established that and, in those circumstances, the petition should be dismissed or adjourned because ultimately the appellant may establish in the State Magistrates Court proceedings that the judgment debt had been satisfied, or that she had a right to a money judgment against the respondent greater than or at least equal to the judgment debt.",
+      "id": "s140"
+    },
+    {
+      "text": "35 The question of whether the appellant was submitting that she was able to pay her debts was raised by the Federal Magistrate with the appellant's counsel.",
+      "id": "s141"
+    },
+    {
+      "text": "He appeared to concede that that contention was not being put.",
+      "id": "s142"
+    },
+    {
+      "text": "36 The appellant submitted that the creditor's petition was being pursued for an improper purpose and in support of that contention she sought to tender an affidavit sworn by a Mr Michael Gawronski on 9 June 2006.",
+      "id": "s143"
+    },
+    {
+      "text": "The Federal Magistrate rejected the tender (as had the Registrar on the application for discovery) of what were said by the appellant to be crucial paragraphs in the affidavit.",
+      "id": "s144"
+    },
+    {
+      "text": "Mr Gawronski has known the respondent 'on and off' for about 10 years.",
+      "id": "s145"
+    },
+    {
+      "text": "The respondent was a close friend of Mr Gawronski's ex-wife.",
+      "id": "s146"
+    },
+    {
+      "text": "Mr Gawronski states that he is aware of certain background details of the dispute between the appellant and the respondent.",
+      "id": "s147"
+    },
+    {
+      "text": "Mr Gawronski states that he had a conversation with the respondent in late January or early February 2006 at a shopping centre.",
+      "id": "s148"
+    },
+    {
+      "text": "Paragraph 13 of his affidavit contains particulars of the conversation in the following terms (relevantly)\n \n \n '13 Ms George and I chatted for a while and we got onto the subject of my ex wife, old mutual acquaintances and later she started talking about Hamilton-Smith and made derogatory remarks about her.",
+      "id": "s149"
+    },
+    {
+      "text": "Ms George then said to me words to the effect: \n \n \n \n \n 13.1 that a liquidator called Peter Max who I now know to be Peter Ivan Macks of the firm PPB (\"Macks\") was out to \"get\" Hamilton-Smith because Ms George said John Viscariello (whom I an [sic] aware is Hamilton-Smith's partner and a lawyer) and Macks were in some big dispute and Macks wanted to get Hamilton-Smith to get at Viscariello; \n 13.2 Macks' lawyer contacted her last year about her claim against Hamilton-Smith and said that Macks was trying to bankrupt Hamilton-Smith and asked if she would help Macks bankrupt her, that Macks would make it worth her while.",
+      "id": "s150"
+    },
+    {
+      "text": "After some discussions she said she did a deal with Macks whereby; \n \n \n \n 13.2.1 Macks paid to Ms George the amount of claim against Hamilton-Smith of $4,000.00 in exchange for her co-operation: \n 13.2.1.1 in denying that Hamilton-Smith had given her Manchester to pay off the debt; \n 13.2.1.2 in that Macks would take care of everything and instruct and pay his lawyers and barristers in all the actions in court and that all she had to do was let Macks use her name to sue Hamilton-Smith and sign papers and affidavits when his lawyers wanted her to; \n 13.2.1.3 in that Macks would pursue the debt against Hamilton-Smith using her as the \"front\" for the action for Macks; \n 13.2.1.4 to the extent that Macks would protect her and would pay all of the lawyers costs of the Court actions but that Macks would get all the money off Hamilton-Smith after he bankrupted her; \n 13.2.1.5 the deal between Macks and her would have to be kept strictly confidential and not disclosed to anyone especially the Court; \n \n \n \n 13.3 Ms George went on to brag to me about the great deal she had done with Macks because she told me that: \n \n \n \n 13.3.1 the Court had made Hamilton-Smith liable for her ex husband's debt when she knew she had loaned the $4,000.00 to Hamilton-Smith's ex husband and she never expected that the court would make Hamilton-Smith pay the debt; \n 13.3.2 Hamilton-Smith gave her $6,500.00 in Manchester for her $4,000.00 debt; \n 13.3.3 Macks had paid her another $4,000.00 on top in exchange for allowing Macks to run her claim to help him bankrupt Hamilton-Smith.",
+      "id": "s151"
+    },
+    {
+      "text": "13.4 Ms George said to me words to the effect that Macks would \"fix\" anyone that stood in his way which given the manner and tone in which Ms George said it to me I took it to be a threat toward me that if I said anything about this to anyone that she would tell Macks and Macks had the power to and would hurt me and/or my family and/or my business.",
+      "id": "s152"
+    },
+    {
+      "text": "13.5 Ms George said that Macks would do whatever it took to bankrupt Hamilton-Smith to prove a point to Viscariello and that he did not care how much money it would cost him.",
+      "id": "s153"
+    },
+    {
+      "text": "' \n \n \n \n \n\n37 Paragraphs 13.1 to 13.5 inclusive were the subject of objection by the respondent and the Federal Magistrate ruled that they were not admissible.",
+      "id": "s154"
+    },
+    {
+      "text": "38 After that ruling the appellant did not apply to call Mr Gawronski to give oral evidence.",
+      "id": "s155"
+    },
+    {
+      "text": "Nor was any discussion on the application to tender of whether the respondent sought to cross-examine Mr Gawronski and, if so, whether he was available to be cross-examined.",
+      "id": "s156"
+    },
+    {
+      "text": "39 I turn now to examine the Federal Magistrate's reasons for judgment ( George v Hamilton-Smith (No 2) [2006] FMCA 1018).",
+      "id": "s157"
+    },
+    {
+      "text": "The Magistrate noted that the appellant was unsuccessful in having the bankruptcy notice issued by the respondent set aside.",
+      "id": "s158"
+    },
+    {
+      "text": "He referred to the proceedings between Bernsteen and the appellant.",
+      "id": "s159"
+    },
+    {
+      "text": "Those proceedings involved a claim by Bernsteen and a cross-claim by the appellant and had not yet come on for trial.",
+      "id": "s160"
+    },
+    {
+      "text": "The Federal Magistrate did not consider those proceedings to be of significance unless Bernsteen sought to be substituted for the respondent.",
+      "id": "s161"
+    },
+    {
+      "text": "40 The Federal Magistrate outlined the events before the State Magistrate in the State Magistrates Court proceedings on 13 June 2006 and the circumstances leading to the entry of judgment against the appellant with costs.",
+      "id": "s162"
+    },
+    {
+      "text": "The Federal Magistrate discussed the arguments that the appellant said that she would put in favour of her (then) application for leave to appeal from the orders made by the State Magistrate.",
+      "id": "s163"
+    },
+    {
+      "text": "The Federal Magistrate described the appellant's submissions in the following way:\n \n 'The debtor argues that the decision of the learned Magistrate was so clearly wrong and so clearly appellable that I should exercise my discretion not to make a sequestration order so that what he describes as the \"very real dispute between the parties\" can be allowed to be litigated.",
+      "id": "s164"
+    },
+    {
+      "text": "He argues that given the small amount of the judgment debt this would be the appropriate course of action to take because of the lengthy delay that may occur between now and the final determination of the dispute, assuming that the Supreme Court of South Australia allows his appeal.",
+      "id": "s165"
+    },
+    {
+      "text": "Alternatively, he asks that the court adjourn the hearing of the petition until the matter is decided.",
+      "id": "s166"
+    },
+    {
+      "text": "' \n \n\n41 The Federal Magistrate said that the relevant paragraphs of Mr Gawronski's affidavit were put forward to prove that there was a 'secret agreement' between the respondent and the liquidator of Bernsteen.",
+      "id": "s167"
+    },
+    {
+      "text": "He rejected the tender of the relevant paragraphs of Mr Gawronski's affidavit (ie, paragraphs 13.1 to 13.5 inclusive) because the paragraphs were not 'in proper form because the conversations deposed to were not set out in direct speech but consisted of a summary of the conversation'.",
+      "id": "s168"
+    },
+    {
+      "text": "The Federal Magistrate said that there was insufficient evidence that the creditor's petition was brought for an improper or collateral purpose.",
+      "id": "s169"
+    },
+    {
+      "text": "42 On the question of whether the appellant was able to pay her debts, the Federal Magistrate said that the appellant had provided no evidence about her assets or liabilities.",
+      "id": "s170"
+    },
+    {
+      "text": "The Federal Magistrate said that he had commented on this in his reasons for judgment on 21 April 2006 (see [28] above), 'but no evidence has been tendered on this matter in this proceeding'.",
+      "id": "s171"
+    },
+    {
+      "text": "43 After referring to his reasons for judgment delivered on 21 April 2006, the Federal Magistrate said:\n \n \n '12.",
+      "id": "s172"
+    },
+    {
+      "text": "It is clear from those reasons if there was not to be a speedy resolution of the principle dispute concerning the manchester payment I was inclined to make the sequestration order.",
+      "id": "s173"
+    },
+    {
+      "text": "I had discussed the authorities on s.52(2).",
+      "id": "s174"
+    },
+    {
+      "text": "The views there expressed, which echoed those of the Registrar, indicated that the debtor had not satisfied the court of the existence of \"other sufficient cause\".",
+      "id": "s175"
+    },
+    {
+      "text": "The dispute concerning the manchester payment has not been resolved.",
+      "id": "s176"
+    },
+    {
+      "text": "I am advised that the Bernsteen proceedings have also been put off for some months.",
+      "id": "s177"
+    },
+    {
+      "text": "Whatever views I may have concerning the possibility of success on the appeal against the decision of O'Connor SM not to grant an adjournment, such an appeal would not conclude the matter.",
+      "id": "s178"
+    },
+    {
+      "text": "At best the case would be referred back to the Magistrates Court to be heard.",
+      "id": "s179"
+    },
+    {
+      "text": "Registrar Christie has already heard some evidence about that dispute and came to a conclusion prejudicial to the debtor.",
+      "id": "s180"
+    },
+    {
+      "text": "Her decision does not bind me in any way but her analysis of the evidence that was before her at the time is a matter I think I can legitimately take into account when deciding whether or not to exercise my discretion to dismiss the petition.",
+      "id": "s181"
+    },
+    {
+      "text": "' \n \n \n \n\n44 In the result, the Federal Magistrate said that he would not exercise his discretion in the appellant's favour.",
+      "id": "s182"
+    },
+    {
+      "text": "He was not satisfied that there was 'other sufficient cause' within s 52(2) of the Act.",
+      "id": "s183"
+    },
+    {
+      "text": "He said:\n \n \n '14.",
+      "id": "s184"
+    },
+    {
+      "text": "I am of the view that the actions of the debtor are not consistent with my exercising my discretions in her favour.",
+      "id": "s185"
+    },
+    {
+      "text": "The provisions of s.52 have clearly been satisfied subject to the matter of affidavits to which I will later refer.",
+      "id": "s186"
+    },
+    {
+      "text": "Although it is clear there is a dispute between the debtor and the creditor about the manchester payment the manner in which the dispute has been litigated gives cause for concern.",
+      "id": "s187"
+    },
+    {
+      "text": "The case seemed to take quite a long time to come on for trial, and when it did we had the unexplained conduct of the debtor's counsel in withdrawing when it must have been clear that there was a possibility that the adjournment application would be not be granted.",
+      "id": "s188"
+    },
+    {
+      "text": "We have the situation of the appeal against the decision of O'Connor SM being brought as an application for leave to appeal where no holding or protective appeal was lodged.",
+      "id": "s189"
+    },
+    {
+      "text": "We have the continued refusal of the debtor to provide the court with any indication of her solvency and her financial situation.",
+      "id": "s190"
+    },
+    {
+      "text": "We have the further delay in the Bernsteen proceedings, and we have the failure of the debtor to put into admissible form what she claims to be a vital affidavit.",
+      "id": "s191"
+    },
+    {
+      "text": "These matters weigh heavily against the exercise of discretion even though I am troubled by the smallness of the debt and the refusal of the respondent creditor to accept the tender.",
+      "id": "s192"
+    },
+    {
+      "text": "15.",
+      "id": "s193"
+    },
+    {
+      "text": "In all the circumstances I am not satisfied as of today that there is \"other sufficient cause\" to dismiss the petition under s.52(2) and I would make a sequestration order against the estate of Tanya Hamilton- Smith.",
+      "id": "s194"
+    },
+    {
+      "text": "There is one problem however.",
+      "id": "s195"
+    },
+    {
+      "text": "Because a review of a Registrar's decision is a hearing de novo it is generally considered that an applicant for a sequestration order must establish those matters required by s.52 of the Act as at the date of the review hearing.",
+      "id": "s196"
+    },
+    {
+      "text": "This would mean that the applicant should file affidavits of search and debt.",
+      "id": "s197"
+    },
+    {
+      "text": "I am not aware that they did so.",
+      "id": "s198"
+    },
+    {
+      "text": "I will adjourn the matter until 2:15p.m.",
+      "id": "s199"
+    },
+    {
+      "text": "Sydney time on 19 July 2006 so that those affidavits can be provided by fax to my associate prior thereto.",
+      "id": "s200"
+    },
+    {
+      "text": "If they are provided and the usual undertakings are given to file the originals, I would propose to make a sequestration order in the usual form against the estate of the debtor.",
+      "id": "s201"
+    },
+    {
+      "text": "The hearing will be by video link, which has been arranged.",
+      "id": "s202"
+    },
+    {
+      "text": "' \n \n \n \n\n45 The affidavit(s) was subsequently filed and the Federal Magistrate made the sequestration order on 19 July 2006.",
+      "id": "s203"
+    },
+    {
+      "text": "46 In summary, in terms of the submissions made on the appeal the important conclusions of the Federal Magistrate were as follows:\n \n 1.",
+      "id": "s204"
+    },
+    {
+      "text": "The Federal Magistrate referred to the dispute between the appellant and the respondent in the State Magistrates Court proceedings.",
+      "id": "s205"
+    },
+    {
+      "text": "He did not try to resolve that dispute in the way the Registrar had on the hearing of the appellant's application to set aside the bankruptcy notice.",
+      "id": "s206"
+    },
+    {
+      "text": "His approach reflects the way in which submissions were made to him by the appellant's counsel.",
+      "id": "s207"
+    },
+    {
+      "text": "2.",
+      "id": "s208"
+    },
+    {
+      "text": "The Magistrate was not satisfied that the appellant was able to pay her debts within s 52(2)(a).",
+      "id": "s209"
+    },
+    {
+      "text": "3.",
+      "id": "s210"
+    },
+    {
+      "text": "The affidavit of Mr Gawronski was not admissible because it was not expressed in direct speech but was a summary of the conversation.",
+      "id": "s211"
+    },
+    {
+      "text": "There was no other evidence sufficient to establish that the creditor's petition was brought for an improper purpose.",
+      "id": "s212"
+    },
+    {
+      "text": "Issues on appeal \n \n47 I have reached the conclusion that the Federal Magistrate erred in rejecting the tender of paragraphs 13.1 to 13.5 inclusive of Mr Gawronski's affidavit on the ground upon which he relied.",
+      "id": "s213"
+    },
+    {
+      "text": "If findings are ultimately made in accordance with the evidence in those paragraphs a finding of an improper purpose may be appropriate and an order made that the petition be dismissed.",
+      "id": "s214"
+    },
+    {
+      "text": "The appeal must be allowed and the sequestration order made by the Federal Magistrate must be set aside.",
+      "id": "s215"
+    },
+    {
+      "text": "I will hear the parties on other appropriate orders.",
+      "id": "s216"
+    },
+    {
+      "text": "48 I will deal with the appellant's submissions in the order identified in [31] above.",
+      "id": "s217"
+    },
+    {
+      "text": "The petitioner's debt point \n \n49 The relevant provisions of s 52 of the Act are as follows:\n \n '52.",
+      "id": "s218"
+    },
+    {
+      "text": "(1) At the hearing of a creditor's petition, the Court shall require proof of: \n \n \n \n (a) the matters stated in the petition (for which purpose the Court may accept the affidavit verifying the petition as sufficient); \n \n \n \n \n (b) service of the petition; and \n \n \n \n \n (c) the fact that the debt or debts on which the petitioning creditor relies is or are still owing; \n \n \n \n and, if it is satisfied with the proof of those matters, may make a sequestration order against the estate of the debtor.",
+      "id": "s219"
+    },
+    {
+      "text": "... \n (2) If the Court is not satisfied with the proof of any of those matters, or is satisfied by the debtor: \n \n \n (a) that he or she is able to pay his or her debts; or \n \n \n \n \n (b) that for other sufficient cause a sequestration order ought not to be made; \n \n \n \n it may dismiss the petition.",
+      "id": "s220"
+    },
+    {
+      "text": "' \n \n\n50 As I have said, the appellant claims that the events which she asserts took place on 13 or 14 December 2003 gave rise to an accord and satisfaction in relation to the judgment debt, and that it is no longer owing.",
+      "id": "s221"
+    },
+    {
+      "text": "In other words, she asserts not that there should never have been a judgment debt but, rather, that it has been paid.",
+      "id": "s222"
+    },
+    {
+      "text": "In the alternative, she asserts that she has a right to a money judgment greater than or at least equal to the judgment debt arising out of the delivery of manchester items to the respondent on 13 or 14 December 2003.",
+      "id": "s223"
+    },
+    {
+      "text": "I have some difficulty in seeing how the alternative case might be established if the appellant's primary case fails but that is not a matter I need to determine on the appeal.",
+      "id": "s224"
+    },
+    {
+      "text": "51 On her application to set aside the bankruptcy notice, the appellant relied on these assertions as grounds to set aside the notice.",
+      "id": "s225"
+    },
+    {
+      "text": "After considering the evidence put before her, Registrar Christie did not accept that there was an accord and satisfaction or claim greater than or at least equal to the judgment debt.",
+      "id": "s226"
+    },
+    {
+      "text": "The application to set aside the bankruptcy notice was dismissed.",
+      "id": "s227"
+    },
+    {
+      "text": "52 The appellant then set out to establish an accord and satisfaction or a claim greater than or at least equal to the judgment debt through the State Magistrates Court proceedings.",
+      "id": "s228"
+    },
+    {
+      "text": "At the time of the hearing before the Federal Magistrate, a State Magistrate in those proceedings had awarded judgment against the appellant with costs.",
+      "id": "s229"
+    },
+    {
+      "text": "That decision was the subject of a proposed appeal to a single Judge of the Supreme Court of South Australia.",
+      "id": "s230"
+    },
+    {
+      "text": "At the time this appeal was heard, the appeal to a single Judge of the Supreme Court was pending.",
+      "id": "s231"
+    },
+    {
+      "text": "53 The submission put to the Federal Magistrate by the appellant was that the appeal or proposed appeal to the Supreme Court of South Australia was reasonably arguable and that in the circumstances the petition should be dismissed or at least adjourned pending the outcome of the appeal to the Supreme Court.",
+      "id": "s232"
+    },
+    {
+      "text": "That submission was rejected by the Federal Magistrate for reasons which I have quoted in [43] and [44] above.",
+      "id": "s233"
+    },
+    {
+      "text": "The main challenge on appeal was not to that conclusion.",
+      "id": "s234"
+    },
+    {
+      "text": "Insofar as there was a challenge to that conclusion, I would reject it.",
+      "id": "s235"
+    },
+    {
+      "text": "It was open to the Federal Magistrate to conclude that in the circumstances there was not 'other sufficient cause' to dismiss the petition, or indeed to adjourn it.",
+      "id": "s236"
+    },
+    {
+      "text": "54 On appeal, counsel for the appellant approached the issue in a different way.",
+      "id": "s237"
+    },
+    {
+      "text": "He submitted that the Federal Magistrate should have determined for himself whether there had been an accord and satisfaction in relation to the judgment debt because that was relevant to whether the judgment debt was still owing within s 52(1)(c) or there was other sufficient cause why a sequestration order ought not to be made within s 52(2)(b).",
+      "id": "s238"
+    },
+    {
+      "text": "55 The fact that the Registrar determined this question against the appellant on the application to set aside the bankruptcy notice did not give rise to an issue estoppel preventing the appellant from raising the question again on the hearing of a creditor's petition: Makhoul v Barnes (1995) 60 FCR 572.",
+      "id": "s239"
+    },
+    {
+      "text": "However, the Court is not bound to allow the matter to be raised again and ordinarily the Court will accept that the judgment debt is still owing.",
+      "id": "s240"
+    },
+    {
+      "text": "In Makhoul v Barnes the Full Court of this Court said (at 582):\n \n 'However, the Court has a discretion whether to make a sequestration order even where an act of bankruptcy has been committed.",
+      "id": "s241"
+    },
+    {
+      "text": "If the Court determines that the circumstances are such that the Court should go behind the judgment debt relied upon in a bankruptcy notice and having done so is not satisfied that there has been shown to be real consideration for it, it will, in the sense discussed above in the exercise of that discretion, dismiss the petition notwithstanding a proved act of bankruptcy.",
+      "id": "s242"
+    },
+    {
+      "text": "Where the Court has already investigated that question on an application to set aside the bankruptcy notice, it would no doubt rarely, if ever, do so again.",
+      "id": "s243"
+    },
+    {
+      "text": "But this is not because an issue estoppel has been raised.",
+      "id": "s244"
+    },
+    {
+      "text": "It is because the debt has already been investigated by the Court so that it would not be an appropriate case to revisit the matter.",
+      "id": "s245"
+    },
+    {
+      "text": "Rather, the Court would (at least ordinarily) accept the judgment as evidence of the debt.",
+      "id": "s246"
+    },
+    {
+      "text": "' \n \n\n56 It is true that these remarks were made in the context of a claim to go behind a judgment debt, but I see no reason why they do not also apply in a case where the claim is that the judgment debt has been satisfied.",
+      "id": "s247"
+    },
+    {
+      "text": "I have read the transcript of submissions before the Federal Magistrate and it was not put to him that he should investigate and determine the question of whether there had been an accord and satisfaction.",
+      "id": "s248"
+    },
+    {
+      "text": "Furthermore, his reasons for judgment suggest that he was not asked to do this.",
+      "id": "s249"
+    },
+    {
+      "text": "He does refer to the reasons for judgment of Registrar Christie on the application to set aside the bankruptcy notice but this was in a different context, namely, in the context of considering the appellant's prospects of success in the State Magistrates Court proceedings.",
+      "id": "s250"
+    },
+    {
+      "text": "57 I have given anxious consideration to whether the appellant should be able to raise this point on appeal.",
+      "id": "s251"
+    },
+    {
+      "text": "If she is, it is a point that cannot be determined by me.",
+      "id": "s252"
+    },
+    {
+      "text": "The matter would need to go back to a Federal Magistrate for determination of the point after hearing evidence in much the same way as the Registrar did when she heard the application to set aside the bankruptcy notice.",
+      "id": "s253"
+    },
+    {
+      "text": "58 On the one hand, it was in a sense obvious that the appellant was saying that the judgment debt was not still owing and of course it was for the respondent to satisfy the Court of the matters in s 52(1) including s 52(1)(c).",
+      "id": "s254"
+    },
+    {
+      "text": "On the other hand, a Court may accept that the matters in s 52(1)(c) are established by the affidavit of the petitioning creditor and there does not seem to be a right to re-litigate a matter effectively determined on an application to set aside the bankruptcy notice.",
+      "id": "s255"
+    },
+    {
+      "text": "More importantly, the appellant chose her 'battleground' after losing before the Registrar on the application to set aside the bankruptcy notice.",
+      "id": "s256"
+    },
+    {
+      "text": "She sought to prove her case through the State Magistrates Court proceedings and she elected not to ask the Federal Magistrate to hear her claim that there had been an accord and satisfaction.",
+      "id": "s257"
+    },
+    {
+      "text": "She should be held to that election, particularly as any other course would involve the matter going back for a rehearing on the facts.",
+      "id": "s258"
+    },
+    {
+      "text": "59 I would not uphold the appeal on the petitioner's debt point.",
+      "id": "s259"
+    },
+    {
+      "text": "The solvency point \n \n60 Under s 52(2)(a) of the Act the Court may dismiss a creditor's petition if it is satisfied by the debtor that he or she is able to pay his or her debts.",
+      "id": "s260"
+    },
+    {
+      "text": "The onus of establishing that fact is on the debtor.",
+      "id": "s261"
+    },
+    {
+      "text": "The debtor must establish that he or she is able to pay his or her debts within a reasonable time.",
+      "id": "s262"
+    },
+    {
+      "text": "If a debtor establishes his or her ability to pay his or her debts then a sequestration order should not be made even if the debtor is unwilling to pay the debt which forms the basis of the petition: Re Sarina; Ex parte Council of the Shire of Wollondilly (1980) 43 FLR 163 per Deane J; (1980) 48 FLR 372 per Bowen CJ CA, Sweeney and Lockhart JJ.",
+      "id": "s263"
+    },
+    {
+      "text": "It is also true, as the appellant submitted, that a debtor with few or no assets and a modest income may have no difficulty in establishing an ability to pay his or her debts.",
+      "id": "s264"
+    },
+    {
+      "text": "At the same time a mere assertion of solvency or ability to pay debts may not be sufficient.",
+      "id": "s265"
+    },
+    {
+      "text": "A Court will assess the whole of the evidence and the fact that a debtor has not produced certain evidence relevant to his or her financial situation may be relevant to the question of whether the debtor has satisfied the onus of establishing the fact that the debtor can pay his or her debts.",
+      "id": "s266"
+    },
+    {
+      "text": "61 In this case, the appellant's counsel conceded before the Federal Magistrate that he was not contending that the appellant could satisfy the Court that she was able to pay her debts.",
+      "id": "s267"
+    },
+    {
+      "text": "The relevant passage in the transcript of the submissions is in the following terms:\n \n 'His Honour: Have you filed an affidavit giving us any idea what your client's financial circumstances are?",
+      "id": "s268"
+    },
+    {
+      "text": "Mr Sallis: No your Honour.",
+      "id": "s269"
+    },
+    {
+      "text": "His Honour: No, all right.",
+      "id": "s270"
+    },
+    {
+      "text": "Mr Sallis: Therefore, I can't argue with you about solvency.",
+      "id": "s271"
+    },
+    {
+      "text": "His Honour: No.",
+      "id": "s272"
+    },
+    {
+      "text": "' \n \n\n62 That concession was made in the context of previous statements by the Registrar and the Federal Magistrate to the effect that the evidence of the appellant's financial circumstances was very limited.",
+      "id": "s273"
+    },
+    {
+      "text": "In my opinion, the concession made before the Federal Magistrate is an answer to the argument the appellant now seeks to put on the appeal.",
+      "id": "s274"
+    },
+    {
+      "text": "The Federal Magistrate would have been entitled to rely on the concession and simply to have noted that the submission that the appellant fell within s 52(2)(a) was not pressed.",
+      "id": "s275"
+    },
+    {
+      "text": "It was not a matter where the onus was on the petitioning creditor or one where the Court was under an obligation to investigate the matter; the onus was squarely on the appellant and it was open to her to abandon the point.",
+      "id": "s276"
+    },
+    {
+      "text": "63 The appellant submitted that she is able to press the insolvency point on appeal because the Federal Magistrate did not rely on the concession.",
+      "id": "s277"
+    },
+    {
+      "text": "The focus of the Federal Magistrate's reasons is s 52(2)(b) of the Act and whether 'other sufficient cause' why a sequestration order ought not to be made had been established.",
+      "id": "s278"
+    },
+    {
+      "text": "He did say in the course of his reasons that although the appellant had asserted that she was able to pay her debts as and when they fell due, she had provided no evidence about her assets or liabilities.",
+      "id": "s279"
+    },
+    {
+      "text": "He referred to his observations in his reasons for judgment delivered on 21 April 2006 which are set out in [28] above.",
+      "id": "s280"
+    },
+    {
+      "text": "64 It would not be proper to read the Federal Magistrate's reasons for judgment as if he had put the concession to one side.",
+      "id": "s281"
+    },
+    {
+      "text": "The concession was a concession that further evidence was required and yet had not been put forward and that, in those circumstances, the contention that the matter in s 52(2)(a) had been established could not succeed.",
+      "id": "s282"
+    },
+    {
+      "text": "65 On appeal, the appellant's counsel submitted that no concession had been made or, alternatively, if it had it is irrelevant because the Magistrate did not rely on it.",
+      "id": "s283"
+    },
+    {
+      "text": "For the reasons I have given, I reject both of those submissions.",
+      "id": "s284"
+    },
+    {
+      "text": "It was not suggested that the concession was made by mistake or accident and that the appellant should be permitted to withdraw the concession on appeal for one or other of those reasons.",
+      "id": "s285"
+    },
+    {
+      "text": "66 Even if I am wrong and the Federal Magistrate did not rely on a concession, in my opinion, a conclusion that the appellant had not established that she was able to pay her debts was a conclusion that was reasonably open to the Magistrate.",
+      "id": "s286"
+    },
+    {
+      "text": "The appellant's evidence consisted of, first, no more than assertion that she was solvent and able to pay her debts and, secondly, details relating to the claims of the respondent, CFS and Bernsteen.",
+      "id": "s287"
+    },
+    {
+      "text": "The evidence put forward by the appellant established the following:\n \n 1.",
+      "id": "s288"
+    },
+    {
+      "text": "As at 6 April 2006 the appellant was working in a business and receiving an income of about $1,200 per week.",
+      "id": "s289"
+    },
+    {
+      "text": "2.",
+      "id": "s290"
+    },
+    {
+      "text": "The debt which she owed to CFS had been paid although there was no evidence as to the source of the moneys used to repay the debt.",
+      "id": "s291"
+    },
+    {
+      "text": "3.",
+      "id": "s292"
+    },
+    {
+      "text": "Bernsteen has a claim against the appellant for the sum of $29,068.55 and the appellant has a counterclaim against Bernsteen which she quantifies at a figure in excess of $50,000.",
+      "id": "s293"
+    },
+    {
+      "text": "There was no evidence as to the strength of either the claim or counterclaim and neither has come on for trial.",
+      "id": "s294"
+    },
+    {
+      "text": "4.",
+      "id": "s295"
+    },
+    {
+      "text": "Bernsteen has obtained orders for costs against the appellant.",
+      "id": "s296"
+    },
+    {
+      "text": "The making of those orders is the subject of an application for special leave to appeal to the High Court of Australia.",
+      "id": "s297"
+    },
+    {
+      "text": "However, the orders have given rise to existing liabilities subject to any orders staying the enforcement of the liabilities.",
+      "id": "s298"
+    },
+    {
+      "text": "The liability of the appellant to Bernsteen for the costs awarded by the Magistrates Court of South Australia is for the sum of $12,000.",
+      "id": "s299"
+    },
+    {
+      "text": "The enforcement of that judgment has been stayed by order of a State Magistrate.",
+      "id": "s300"
+    },
+    {
+      "text": "The liability of the appellant to Bernsteen for the costs awarded by the Supreme Court of South Australia is for the sum of $11,191.80.",
+      "id": "s301"
+    },
+    {
+      "text": "The enforcement of that judgment has not been stayed.",
+      "id": "s302"
+    },
+    {
+      "text": "5.",
+      "id": "s303"
+    },
+    {
+      "text": "Bernsteen has a liability to the appellant for the costs of the appellant's successful application to set aside the bankruptcy notice and that liability has been quantified or is likely to be quantified in the sum of $6,221.78.",
+      "id": "s304"
+    },
+    {
+      "text": "6.",
+      "id": "s305"
+    },
+    {
+      "text": "The appellant has a liability (not yet quantified) for costs to the respondent upon the discontinuance of an application for a stay of the judgment debt and the appellant may have an offsetting claim for costs against the respondent for an unsuccessful attempt by the respondent to have the appellant's State Magistrates Court proceedings struck out as an abuse of process.",
+      "id": "s306"
+    },
+    {
+      "text": "67 These matters are no doubt relevant to the appellant's financial circumstances and go some way towards establishing that the appellant is able to pay her debts.",
+      "id": "s307"
+    },
+    {
+      "text": "However, the onus is not on the petitioning creditor; it is on the judgment debtor.",
+      "id": "s308"
+    },
+    {
+      "text": "Furthermore, the appellant's assertions of solvency cannot be given any great weight particularly in light of the approach she took before the Magistrate (see [61] above).",
+      "id": "s309"
+    },
+    {
+      "text": "68 The appellant must have some ongoing expenses and, presumably she would say, some means of meeting some or all of those expenses.",
+      "id": "s310"
+    },
+    {
+      "text": "It was the absence of any evidence relevant to those matters which led the Magistrate to conclude that the appellant had not discharged the onus of establishing that she is able to pay her debts (see [28] and [42] above).",
+      "id": "s311"
+    },
+    {
+      "text": "That conclusion was open to him.",
+      "id": "s312"
+    },
+    {
+      "text": "69 I would not uphold the appeal on the solvency point.",
+      "id": "s313"
+    },
+    {
+      "text": "The improper purpose point \n \n70 If the judgment debtor can establish that the creditor's petition was brought for an improper purpose then that may constitute 'other sufficient cause' why a sequestration order ought not to be made within s 52(2)(b) and may lead the Court to dismiss the creditor's petition.",
+      "id": "s314"
+    },
+    {
+      "text": "71 The relevant principles as to what constitutes an improper purpose were stated by the High Court in Rozenbes v Kronhill [1956] HCA 65 ; (1956) 95 CLR 407.",
+      "id": "s315"
+    },
+    {
+      "text": "The Court referred to a number of English authorities on what amounts to 'extortion'.",
+      "id": "s316"
+    },
+    {
+      "text": "The Court said that the question is whether the court process is being used for illegitimate purposes such as recovering a larger amount from the debtor than could be recovered by legal proceedings.",
+      "id": "s317"
+    },
+    {
+      "text": "The Court said (at 417):\n \n 'The case seems finally to establish that the ultimate principle involved is that a court will not allow its process to be abused.",
+      "id": "s318"
+    },
+    {
+      "text": "There is an abuse of process if a pending bankruptcy petition, or a threat of proceedings in bankruptcy, is used as a means of extortion.",
+      "id": "s319"
+    },
+    {
+      "text": "The word \"extortion\" is not a technical term, and it has in bankruptcy law \"no special and artificial significance divorced altogether from the ordinary implication of the word\".",
+      "id": "s320"
+    },
+    {
+      "text": "The court will look strictly at the conduct of a creditor using or threatening bankruptcy proceedings, and extortion may be held to have taken place if the creditor has used, or attempted to use, a pending petition, or a threat of a petition, in order to extract from the debtor money which the debtor is not bound to pay, or in order to obtain some secret and unfair advantage over other creditors.",
+      "id": "s321"
+    },
+    {
+      "text": "But extortion will not be held to have taken place \"in the absence of mala fides or anything amounting to oppression in fact\".",
+      "id": "s322"
+    },
+    {
+      "text": "There must be a real intention on the part of the creditor to use the process for some other end than its legitimate end, and there must be a real exertion of pressure.",
+      "id": "s323"
+    },
+    {
+      "text": "' \n \n\n72 The other point which emerges from the case (at 419) is that even if an improper purpose is established it does not follow that a sequestration order will not be made.",
+      "id": "s324"
+    },
+    {
+      "text": "The Court retains a discretion to make such an order.",
+      "id": "s325"
+    },
+    {
+      "text": "73 Although the improper purpose point was not referred to in the appellant's Notice of Intention to Oppose Petition, there is no doubt that it was raised as a ground of challenge both before the Registrar on 20 June 2006 and the Federal Magistrate on 5 July 2006.",
+      "id": "s326"
+    },
+    {
+      "text": "74 In support of this ground of challenge the appellant sought to put forward the affidavit of Mr Michael Gawronski.",
+      "id": "s327"
+    },
+    {
+      "text": "75 Counsel for the appellant submitted that the Federal Magistrate erred in ruling that paragraphs 13.1 to 13.5 inclusive of Mr Gawronski's affidavit were inadmissible.",
+      "id": "s328"
+    },
+    {
+      "text": "Counsel submitted that those paragraphs support the appellant's case that the creditor's petition was brought for an improper purpose.",
+      "id": "s329"
+    },
+    {
+      "text": "76 I should say that a submission was made to the Federal Magistrate that even without the evidence from Mr Gawronski there was sufficient evidence of an improper purpose on the part of the respondent.",
+      "id": "s330"
+    },
+    {
+      "text": "That submission was rejected, correctly in my view, by the Federal Magistrate and as I understand it not repeated by the counsel who appeared for the appellant on the appeal.",
+      "id": "s331"
+    },
+    {
+      "text": "In other words, counsel for the appellant accepted that if, contrary to his submission, the Federal Magistrate was correct to exclude the relevant paragraphs of Mr Gawronski's affidavit, then the improper purpose point must fail.",
+      "id": "s332"
+    },
+    {
+      "text": "77 The Federal Magistrate ruled that paragraphs 13.1 to 13.5 inclusive of Mr Gawronski's affidavit were inadmissible and the transcript suggests that he delivered reasons at the time of his ruling but no copy of his reasons appears on the file.",
+      "id": "s333"
+    },
+    {
+      "text": "This potential difficulty is overcome by the fact that in his later reasons for judgment he sets out the basis upon which he excluded paragraphs 13.1 to 13.5 inclusive.",
+      "id": "s334"
+    },
+    {
+      "text": "He said:\n \n 'I also disallowed those paragraphs for the reasons given in a separate judgment, which can be summed up as the paragraph not being in proper form because the conversations deposed to were not set out in direct speech but consisted of a summary of the conversation.",
+      "id": "s335"
+    },
+    {
+      "text": "Not having the relevant part of the affidavit in evidence I would not make orders for discovery or grant an adjournment on that ground.",
+      "id": "s336"
+    },
+    {
+      "text": "I can also only give very little weight to the allegations by the debtor of collateral purpose in relation to the bankruptcy proceedings.",
+      "id": "s337"
+    },
+    {
+      "text": "As things stand they amount to an assertion of such from the debtor, and a claim that her assertion is evidenced or corroborated by the fact that the creditor has consistently refused to accept her tenders for what is in effect a very small amount of money, and that both the creditor and the supporting creditor are represented by the same firm of solicitors.",
+      "id": "s338"
+    },
+    {
+      "text": "Mr Gawronski's evidence would obviously be very important and I have difficulty in understanding why, it having been rejected by Registrar Christie, it was not put into proper form prior to the hearing before me.",
+      "id": "s339"
+    },
+    {
+      "text": "' \n \n\n78 The Federal Magistrate and the parties before me proceeded on the basis that the same rules applied to the question of the admissibility of the relevant paragraphs in the affidavit as applied had there been an attempt to give the evidence orally.",
+      "id": "s340"
+    },
+    {
+      "text": "I will proceed on that basis.",
+      "id": "s341"
+    },
+    {
+      "text": "79 In theory, evidence of a conversation may be given in any one of three forms, namely, by recounting the actual words used by the parties to the conversation, or by recounting the substance or effect of what was said, or by recounting the witness's conclusions as to the effect of the conversation.",
+      "id": "s342"
+    },
+    {
+      "text": "At common law, evidence of the conversation given in the first form is admissible and evidence of the conversation given in the third form is not.",
+      "id": "s343"
+    },
+    {
+      "text": "At common law, evidence in the second form is routinely admitted.",
+      "id": "s344"
+    },
+    {
+      "text": "Often a witness will be asked if he or she can remember the actual words used and if (as is often the case) they are not able to, they are invited to recount the conversation in terms of the substance or effect of what was said.",
+      "id": "s345"
+    },
+    {
+      "text": "When I use the word 'effect' here, I mean the effect of what was said, not the witness's mere conclusions or impressions of the conversation.",
+      "id": "s346"
+    },
+    {
+      "text": "80 In Commonwealth of Australia v Riley (1987) 5 FCR 8, the Full Court of this Court said, albeit in the context of the Extradition (Foreign States) Act 1966 (Cth) (at 34):\n \n 'Counsel submitted that there were two other categories of material which should also be disregarded: evidence of conversations which is not in the form of direct speech and statements of conclusions of witnesses.",
+      "id": "s347"
+    },
+    {
+      "text": "We disagree.",
+      "id": "s348"
+    },
+    {
+      "text": "Section 26(1)(a) of the Extradition (Foreign States) Act 1966 deals with the form of evidence in a proceeding under the Act namely: \n \n \n \"a document, duly authenticated, that purports to set out testimony given on oath, or declared or affirmed to be true, by a person in a foreign state is admissible as evidence of the matter stated in the testimony\".",
+      "id": "s349"
+    },
+    {
+      "text": "That provision is wide enough to authorise the proof of the substance of a conversation by a narrative using indirect speech.",
+      "id": "s350"
+    },
+    {
+      "text": "There is nothing in the Treaty to limit the application of that provision in proceedings to which the Treaty applies; Article XI(3) merely requires the transmission of \"such evidence, as according to the laws of the requested state, would justify his trial or committal for trial ...\".",
+      "id": "s351"
+    },
+    {
+      "text": "The provision deals only with the sufficiency, not the form, of evidence.",
+      "id": "s352"
+    },
+    {
+      "text": "The rule that evidence of conversations shall be given in direct speech is, in Australia, a rule of practice rather than of law; a practice that is probably now disregarded as often as it is followed.",
+      "id": "s353"
+    },
+    {
+      "text": "To apply to affidavits prepared in another country the rules of mere practice of our own courts would be substantially to diminish the utility of the Act; cf R v Governor of Pentonville Prison; Ex parte Passingham [1983] 2 AC 464.",
+      "id": "s354"
+    },
+    {
+      "text": "' \n \n\n81 In J D Heydon, Cross on Evidence (7 th ed, 2004) page 476, the following passage appears (footnotes omitted):\n \n 'The limits of one restriction on the form of testimony should be noted.",
+      "id": "s355"
+    },
+    {
+      "text": "Witnesses are commonly interrupted as they endeavour to recount conversations in indirect speech, and urged to give the actual words used.",
+      "id": "s356"
+    },
+    {
+      "text": "This is a counsel of virtue, but it is questionable whether it is a rule of law.",
+      "id": "s357"
+    },
+    {
+      "text": "A witness may give the witness's best recollection of the substance, effect or purport of what was said, even though the exact words cannot be recollected, and the witness may also recount the impression made on the witness by whatever words were used.",
+      "id": "s358"
+    },
+    {
+      "text": "If so, it is hard to see why witnesses must be compelled into uttering untruths on oath by giving a form of words in direct speech with which they are not happy and which they cannot actually recollect in preference to their own words in indirect speech, so long as mere conclusions are avoided.",
+      "id": "s359"
+    },
+    {
+      "text": "\"The rule that evidence of conversations shall be given in direct speech is, in Australia a rule of practice rather than of law; a practice that is probably now disregarded as often as it is followed\".",
+      "id": "s360"
+    },
+    {
+      "text": "This is particularly so where the conversations took place a long time ago.",
+      "id": "s361"
+    },
+    {
+      "text": "Similarly, there is no provision in the Cth and NSW: Evidence Acts 1995 or the Tas: Evidence Act 2001 which makes inadmissible evidence of a conversation given in indirect speech, though the possibility of discretionary rejection under s 135 is available.",
+      "id": "s362"
+    },
+    {
+      "text": "' \n \n\nSee also, LMI Australasia Pty Ltd v Baulderstone Hornibrook Pty Ltd [2001] NSWSC 688 ; (2001) 53 NSWLR 31 at [8] - [9] .",
+      "id": "s363"
+    },
+    {
+      "text": "82 In my opinion, by and large the relevant paragraphs fall within the second form referred to above.",
+      "id": "s364"
+    },
+    {
+      "text": "It would appear that the Federal Magistrate considered that the paragraphs fell within the third form (see his reference to a 'summary of the conversation') and, in so doing, in my respectful opinion, he erred.",
+      "id": "s365"
+    },
+    {
+      "text": "No doubt there appear to be one or two objectionable passages in the relevant paragraphs and I refer, for example, to the reference to the respondent bragging.",
+      "id": "s366"
+    },
+    {
+      "text": "Furthermore, the evidence is clearly only admissible against the respondent and is not admissible to prove Mr Macks' state of mind.",
+      "id": "s367"
+    },
+    {
+      "text": "Subject to those considerations, I think the evidence in the relevant paragraphs falls within the second form identified above and the only question is whether it should have been excluded because the appellant had not established by express evidence that Mr Gawronski could not give the evidence in direct speech.",
+      "id": "s368"
+    },
+    {
+      "text": "It would seem that that was not the basis upon which the Federal Magistrate excluded the evidence but it is a matter that needs to be considered.",
+      "id": "s369"
+    },
+    {
+      "text": "83 In my opinion, there is a rule of practice at common law that requires a witness to recount the actual words used in a conversation if he or she is able to do that: Commonwealth of Australia v Riley (supra); LMI Australasia Pty Ltd v Baulderstone Hornibrook Pty Ltd (supra); J H Wigmore, 3 Wigmore on Evidence SS766 (Chadbourn rev 1970).",
+      "id": "s370"
+    },
+    {
+      "text": "If the witness is unable to recall the actual words used, he or she can give evidence of the substance or effect of what was said.",
+      "id": "s371"
+    },
+    {
+      "text": "A witness might say he or she cannot remember the actual words used.",
+      "id": "s372"
+    },
+    {
+      "text": "I think that as a matter of practice it is also open to the Court to infer that that is the case.",
+      "id": "s373"
+    },
+    {
+      "text": "I would be disposed to draw that inference in the case of the relevant paragraphs in Mr Gawronski's affidavit bearing in mind the lapse of time between the conversation and the swearing of the affidavit, the apparent length and complexity of the conversation and the fact that an actual word used is from time to time identified by quotation marks.",
+      "id": "s374"
+    },
+    {
+      "text": "However, I do not need to finally determine the point because I think the evidence is admissible by reason of the provisions of the Evidence Act 1995 (Cth).",
+      "id": "s375"
+    },
+    {
+      "text": "84 Under the Evidence Act 1995 (Cth) evidence which is relevant is admissible subject to any exclusionary provision of the Act: s 56.",
+      "id": "s376"
+    },
+    {
+      "text": "The evidence in paragraphs 13.1 to 13.5 inclusive of Mr Gawronski's affidavit is relevant.",
+      "id": "s377"
+    },
+    {
+      "text": "The only possibly relevant exclusionary provision is s 135 and in my opinion there is no question of the exclusion of the evidence under that section.",
+      "id": "s378"
+    },
+    {
+      "text": "85 In my opinion, subject to the matters I have mentioned, the Federal Magistrate erred in excluding paragraphs 13.1 to 13.5 inclusive of Mr Gawronski's affidavit on the basis upon which he did.",
+      "id": "s379"
+    },
+    {
+      "text": "86 It is for the Bankruptcy Court to determine if a creditor's petition was brought for an improper purpose and if necessary to hear evidence relevant to that topic including cross-examination of witnesses.",
+      "id": "s380"
+    },
+    {
+      "text": "It is not for me to say how the point will be determined; it is sufficient for me to conclude that if findings are ultimately made in accordance with the evidence in the relevant paragraphs a finding of improper purpose may be appropriate and an order made that the petition be dismissed.",
+      "id": "s381"
+    },
+    {
+      "text": "The discretion point \n \n87 The discretion point does not arise because I reject the petitioner's debt point and the solvency point.",
+      "id": "s382"
+    },
+    {
+      "text": "The question of the discretion in relation to the improper purpose does not arise unless and until an improper purpose is found.",
+      "id": "s383"
+    },
+    {
+      "text": "Conclusions \n \n88 The appeal must be allowed and the sequestration order made by the Federal Magistrate must be set aside.",
+      "id": "s384"
+    },
+    {
+      "text": "I will hear the parties on other appropriate orders.",
+      "id": "s385"
+    },
+    {
+      "text": "I certify that the preceding eighty-eight (88) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Besanko.",
+      "id": "s386"
+    },
+    {
+      "text": "Associate:\n\nDated: 21 November 2006\n Counsel for the Appellant: G Bigmore QC \n \n Solicitor for the Appellant: McNamara Business and Property Law \n \n Counsel for the Respondent: M Livesey QC \n \n Solicitor for the Respondent: Minter Ellison \n \n Date of Hearing: 5 October 2006 \n \n Date of Judgment: 21 November 2006 \n\n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2006/1551.html",
+      "id": "s387"
+    }
+  ]
+}

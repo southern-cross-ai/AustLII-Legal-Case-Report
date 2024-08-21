@@ -1,0 +1,2132 @@
+{
+  "name": "Duncan v Commissioner of Taxation; in the matter of Trader Systems International Pty Ltd (in liq) (with Corrigendum dated 24 July 2006) [2006] FCA 885 (12 July 2006)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2006/885.html",
+  "catchphrases": [
+    {
+      "text": "insolvency",
+      "id": "c0"
+    },
+    {
+      "text": "whether transactions unfair preferences or uncommercial transactions",
+      "id": "c1"
+    },
+    {
+      "text": "order that commissioner of taxation repay monies to liquidator",
+      "id": "c2"
+    },
+    {
+      "text": "whether directors had reasonable grounds for expecting solvency",
+      "id": "c3"
+    },
+    {
+      "text": "directors bear onus of proving expectation of solvency",
+      "id": "c4"
+    },
+    {
+      "text": "no reasonable grounds",
+      "id": "c5"
+    },
+    {
+      "text": "corporations",
+      "id": "c6"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "1 These two proceedings concern the recovery of payments made by Trader Systems International Pty Ltd ('TSI') and TSI Australia Limited ('TSIA') to the Commissioner of Taxation ('the Commissioner').",
+      "id": "s0"
+    },
+    {
+      "text": "The proceedings were heard together with the consent of the parties.",
+      "id": "s1"
+    },
+    {
+      "text": "2 TSI and TSIA are related companies.",
+      "id": "s2"
+    },
+    {
+      "text": "The directors of TSI at all relevant times were Anthony James Scott ('Scott') and Andrew Ian Fairbank ('Fairbank').",
+      "id": "s3"
+    },
+    {
+      "text": "At all relevant times, the directors of TSIA were Scott, Fairbank and Mark Merwan Bayoud ('Bayoud').",
+      "id": "s4"
+    },
+    {
+      "text": "In each proceeding, the Commissioner of Taxation ('the Commissioner') has joined the relevant directors as third parties and made a claim against them pursuant to s 588FGA of the Corporations Act 2001 (Cth) ('the Act').",
+      "id": "s5"
+    },
+    {
+      "text": "Scott and Fairbank appeared and defended these claims in each proceeding.",
+      "id": "s6"
+    },
+    {
+      "text": "In the proceeding relating to TSIA, the Commissioner did not serve its cross claim on Bayoud, and no orders are sought against him.",
+      "id": "s7"
+    },
+    {
+      "text": "3 On 15 May 2003, the plaintiff and Karen Maree Mathers ('Mathers') were appointed as administrators of each company pursuant to s 436A of the Act.",
+      "id": "s8"
+    },
+    {
+      "text": "On 23 July 2003, the plaintiff and Mathers were appointed as liquidators of each company pursuant to s 439C.",
+      "id": "s9"
+    },
+    {
+      "text": "On 14 October 2004, Mathers resigned as liquidator of each company.",
+      "id": "s10"
+    },
+    {
+      "text": "4 In the first proceeding (VID 8 of 2005), the plaintiff in his capacity as liquidator of TSI claims that payments totalling $38,319.55 made by TSI to the Commissioner were unfair preferences pursuant to s 588FA and are void against the plaintiff pursuant to s 588FE of the Act.",
+      "id": "s11"
+    },
+    {
+      "text": "The relevant payments were: \n \n Date Amount \n 27 November 2002 $1,000.00\n 4 December 2002 $903.82\n 5 December 2002 $7,779.15\n 11 December 2002 $3,923.00\n 10 January 2003 $14,516.14\n 13 January 2003 $1,025.00\n 20 January 2003 $781.70\n 21 February 2003 $1,125.67\n 24 March 2003 $913.00\n 24 April 2003 $5,700.00\n 28 April 2003 $652.07\n \n\nWith the exception of the payment of $5,700.00 on 24 April 2003, all of these payments were garnishee payments.",
+      "id": "s12"
+    },
+    {
+      "text": "The payment of $5,700.00 was made by TSI by cheque.",
+      "id": "s13"
+    },
+    {
+      "text": "5 Pursuant to s 588FF of the Act, the plaintiff seeks an order that the Commissioner pay to the plaintiff the sum of $38,319.55, together with a further agreed sum of $16,865.33 on account of interest and costs.",
+      "id": "s14"
+    },
+    {
+      "text": "6 In the second proceeding (VID 9 of 2005), the plaintiff in his capacity as liquidator of TSIA alleges that the following payments, totalling $66,827.05, made by TSIA to the Commissioner were unfair preferences pursuant to s 588FA and are void against the plaintiff pursuant to s 588FE of the Act: \n \n Date Amount \n 12 December 2002 $20,000.00\n 2 January 2003 $4,114.00\n 15 January 2003 $20,000.00\n 5 March 2003 $3,540.00\n 14 March 2003 $16,813.05\n 21 March 2003 $2,360.00 \n \n \n\nThe payments were made by TSIA by cheques drawn on its bank account.",
+      "id": "s15"
+    },
+    {
+      "text": "7 In addition, the plaintiff alleges that the payments, totalling $92,988.07, were made by TSIA to the Commissioner in respect of TSI's tax liabilities.",
+      "id": "s16"
+    },
+    {
+      "text": "The plaintiff contends that these payments were uncommercial transactions pursuant to s 588FB of the Act and are void against the plaintiff pursuant to s 588FE of the Act.",
+      "id": "s17"
+    },
+    {
+      "text": "The relevant payments were: \n \n Date Amount \n 30 November 2002 $47,999.04\n 30 December 2002 $37,394.03\n 2 January 2003 $7,595.00\n \n\nThese payments were made by TSIA by cheques drawn on its bank account.",
+      "id": "s18"
+    },
+    {
+      "text": "8 Pursuant to s 588FF of the Act, the plaintiff seeks an order that the Commissioner pay to the plaintiff the sum of $159,815.12, with no order as to interest or costs.",
+      "id": "s19"
+    },
+    {
+      "text": "THE STATUTORY SCHEME \n \n 9 Section 588FF(1) relevantly provides: \n \n \n '(1) Where, on the application of a company's liquidator, a court is satisfied that a transaction of the company is voidable because of section 588FE , the court may make one or more of the following orders: \n \n \n (a) an order directing a person to pay to the company an amount equal to some or all of the money that the company has paid under the transaction; \n (b) ... \n (c) an order requiring a person to pay to the company an amount that, in the court's opinion, fairly represents some or all of the benefits that the person has received because of the transaction'.",
+      "id": "s20"
+    },
+    {
+      "text": "10 Section 588FE(2) provides that a transaction is voidable if it is an insolvent transaction of the company and it was entered into during the six months ending on the relation back day.",
+      "id": "s21"
+    },
+    {
+      "text": "In addition, s 588FE(3) provides that a transaction of the company is voidable if it is both an insolvent transaction, and an uncommercial transaction, that was entered into during the two years ending on the relation back day.",
+      "id": "s22"
+    },
+    {
+      "text": "11 For both TSI and TSIA, the relation back day is 15 May 2003, being the day on which the administration of each company began: see ss 9 , 513B and 513C .",
+      "id": "s23"
+    },
+    {
+      "text": "The relevant relation back period for unfair preferences is the six month period from 15 November 2002 to 15 May 2003.",
+      "id": "s24"
+    },
+    {
+      "text": "The longer relation back period for uncommercial transactions is of no significance in the present case as all of the relevant payments were made within the six month period between 15 November 2002 and 15 May 2003.",
+      "id": "s25"
+    },
+    {
+      "text": "12 Section 588FE needs to be read in conjunction with the provisions that define the concepts of an insolvent transaction, an unfair preference and an uncommercial transaction.",
+      "id": "s26"
+    },
+    {
+      "text": "13 Section 588FC provides:\n 'A transaction of a company is an insolvent transaction of the company if, and only if, it is an unfair preference given by the company, or an uncommercial transaction of the company, and: \n \n (a) any of the following happens at a time when the company is insolvent: \n (i) the transaction is entered into; or \n (ii) an act is done, or an omission is made, for the purpose of giving effect to the transaction; or \n \n (b) the company becomes insolvent because of, or because of matters including: \n (i) entering into the transaction; or \n (ii) a person doing an act, or making an omission, for the purpose of giving effect to the transaction.",
+      "id": "s27"
+    },
+    {
+      "text": "' \n\n\n \n 14 Section 588FA(1) provides:\n 'A transaction is an unfair preference given by a company to a creditor of the company if, and only if: \n \n (a) the company and the creditor are parties to the transaction (even if someone else is also a party); and \n (b) the transaction results in the creditor receiving from the company, in respect of an unsecured debt that the company owes to the creditor, more than the creditor would receive from the company in respect of the debt if the transaction were set aside and the creditor were to prove for the debt in a winding up of the company; \n \n even if the transaction is entered into, is given effect to, or is required to be given effect to, because of an order of an Australian court or a direction by an agency.",
+      "id": "s28"
+    },
+    {
+      "text": "' \n \n 15 Section 588FB(1) provides:\n 'A transaction of a company is an uncommercial transaction of the company if, and only if, it may be expected that a reasonable person in the company's circumstances would not have entered into the transaction, having regard to: \n \n (a) the benefits (if any) to the company of entering into the transaction; and \n (b) the detriment to the company of entering into the transaction; and \n (c) the respective benefits to other parties to the transaction of entering into it; and \n (d) any other relevant matter.",
+      "id": "s29"
+    },
+    {
+      "text": "' \n \n \n 16 The Commissioner's third party claim against the directors in each proceeding is brought pursuant to s 588FGA.",
+      "id": "s30"
+    },
+    {
+      "text": "The precondition to the making of an indemnification order against directors is that the Court must make an order under s 588FF against the Commissioner because of the payment of an amount in respect of tax liabilities arising under specified provisions of the Income Tax Assessment Act 1936 (Cth) or the Taxation Administration Act 1953 (Cth).",
+      "id": "s31"
+    },
+    {
+      "text": "Stated more simply, the effect of s 588FGA(1) is that the right of indemnity against the directors does not arise in respect of any payment to the Commissioner that is avoided by the Court under s 588FF(1).",
+      "id": "s32"
+    },
+    {
+      "text": "It only applies where the avoided payments relate to the particular tax liabilities specified in s 588FGA(1), which are commonly referred to as income tax withholding liabilities ('ITW liabilities').",
+      "id": "s33"
+    },
+    {
+      "text": "17 Where the Court makes an order of the kind referred to in s 588FGA(1) against the Commissioner, s 588FGA(2) provides that each person who was a director of the company when the payment is made is liable to indemnify the Commissioner in respect of any loss or damage resulting from the order.",
+      "id": "s34"
+    },
+    {
+      "text": "Section 588FGA(4) specifically provides that the Court may, in the same proceedings as those in which an order is made against the Commissioner, order a director to pay to the Commissioner an amount that is payable by that director pursuant to s 588FGA(2).",
+      "id": "s35"
+    },
+    {
+      "text": "Section 588FGB(3) provides that it is a defence for a director against whom indemnity is claimed by the Commissioner if it is proved that, at the payment time, the director had reasonable grounds to expect, and did expect, that the company was solvent at that time and would remain solvent even if it made the payment.",
+      "id": "s36"
+    },
+    {
+      "text": "SETTLEMENT AS BETWEEN THE PLAINTIFF AND THE COMMISSIONER \n \n 18 At the commencement of the hearing on 26 April 2006, I was informed that the liquidator and the Commissioner had settled the claims in each proceeding as between themselves and had agreed upon orders that should be made to resolve each principal proceeding.",
+      "id": "s37"
+    },
+    {
+      "text": "In arriving at this settlement, the plaintiff and the Commissioner narrowed the number of payments in contest to those which I have set out above.",
+      "id": "s38"
+    },
+    {
+      "text": "The settlement did not extend to the claims brought by the Commissioner against the directors.",
+      "id": "s39"
+    },
+    {
+      "text": "19 The agreement between the plaintiff and the Commissioner in each proceeding obviously has a direct impact upon the third parties.",
+      "id": "s40"
+    },
+    {
+      "text": "The Commissioner's third party claim only becomes available to the Commissioner if the Court makes an order against the Commissioner pursuant to s 588FF, and then only to the extent that the order relates to payments made in respect of ITW liabilities of the kind specified in s 588FGA(1).",
+      "id": "s41"
+    },
+    {
+      "text": "20 In the first proceeding, of the payments totalling $38,319.55 which are now claimed by the liquidator, the payments which related to ITW liabilities total $29,260.82.",
+      "id": "s42"
+    },
+    {
+      "text": "The amount is calculated as follows: \n Payment date Amount of payment ITW Period Amount of ITW paid 27 November 2002 $1,000.00 June 2001 $1,000.00 4 December 2002 $903.82 August 2001 $903.82 5 December 2002 $7,779.15 August 2001 $7,779.15 11 December 2002 $3,923.00 August 2001 $1,200.07 10 January 2003 $14,516.14 September 2001 $4,325.42 10 January 2003 \n October 2001 $9,024.08 13 January 2003 $1,025.00 October 2001 $533.92 13 January 2003 \n November 2001 $85.06 20 January 2003 $781.70 November 2001 $781.70 21 February 2003 $1,125.67 N/A Nil 24 March 2003 $913.00 N/A Nil 24 April 2003 $5,700.00 December 2001 $2,975.53 28 April 2003 $652.07 December 2001 $652.07 Total $38,319.55 Total $29,260.82 \n \n 21 In the second proceeding concerning TSIA, of the payments totalling $159,815.12 which are now claimed by the liquidator, the payments which were made in respect of ITW liabilities total $107,329.99.",
+      "id": "s43"
+    },
+    {
+      "text": "The amount is calculated as follows: \n Payment date Amount ITW Period Amount of ITW paid 30 November 2002 $47,999.04 (uncommercial transaction) June 2001 $10,671.78 (TSI) 30 November 2002 July 2001 $17,851.00 (TSI) 30 November 2002 August 2001 $13,394.96 (TSI) 12 December 2002 $20,000.00 June 2001 $60.25 12 December 2002 July 2001 $6,980.00 12 December 2002 August 2001 $9,748.00 12 December 2002 September 2001 $2,443.75 30 December 2002 $37,394.03 (uncommercial transaction) September 2001 $8,574.58 (TSI) 2 January 2003 $4,114.00 November 2002 $4,114.00 2 January 2003 $7,595.00 (uncommercial transaction) November 2001 $7,595.00 (TSI) 15 January 2003 $20,000.00\n October 2001 $4,524.67 15 January 2003 November 2001 $6,200.00 15 January 2003 January 2002 $6,644.08 5 March 2003 $3,540.00 January 2003 $3,540.00 14 March 2003 $16,813.05 July 2002 $2,627.92 21 March 2003 $2,360.00 February 2003 $2,360.00 Totals $159,815.12 \n $107,329.99 \n \n 22 The Court can only make an order under s 588FF(1) if it is 'satisfied' that the relevant payment transactions are voidable under s 588FE.",
+      "id": "s44"
+    },
+    {
+      "text": "This means, inter alia, that the relevant transactions must be proven to be insolvent transactions and unfair preferences and/or uncommercial transactions.",
+      "id": "s45"
+    },
+    {
+      "text": "In this case, Scott and Fairbank wish to contest the claims that the relevant payments were transactions within the meaning of s 9 , that they were unfair preferences or uncommercial transactions (as the case may be) within the meaning of ss 588FA and 588FB, and that the company was insolvent at the time when the relevant payments were made.",
+      "id": "s46"
+    },
+    {
+      "text": "Generally speaking, the right to contest issues that only arise in the principal proceeding are an accepted incident of third party status: see Helicopter Sales (Australia) Pty Ltd v Rotor Work Pty Ltd [1974] HCA 32 ; (1974) 132 CLR 1 per Barwick CJ at 5 and Mason J at 15.",
+      "id": "s47"
+    },
+    {
+      "text": "23 The authorities recognise that directors in the position of Scott and Fairbank should be able to contest the liquidator's claims against the Commissioner: see Crosbie v Commissioner of Taxation [2003] FCA 922 ; (2003) 130 FCR 275 at [4] - [7] (' Crosbie' ); Hall v Commissioner of Taxation [2004] NSWSC 985 ; (2004) 186 FLR 111 at [16] and [21]-[23] (' Hall' ), and Dean-Willcocks v Commissioner of Taxation (No 2) (2004) 49 ACSR 325.",
+      "id": "s48"
+    },
+    {
+      "text": "In Crosbie , Finkelstein J made an order that the directors have leave to defend the liquidator's claim against the Commissioner of Taxation on terms that they be bound by all decisions made in that action and they be treated as if parties to the action on any issue relating to costs.",
+      "id": "s49"
+    },
+    {
+      "text": "In Hall , Barrett J directed that the third parties have leave to appear and take part in the hearing of the plaintiffs' claims and to defend those claims: at [25].",
+      "id": "s50"
+    },
+    {
+      "text": "24 When these issues were raised, I made orders in each proceeding in the same form as those made by Finkelstein J in Crosbie .",
+      "id": "s51"
+    },
+    {
+      "text": "Specifically, I ordered that the third parties have leave to defend the plaintiff's claim against the Commissioner on terms that: (a) they each be bound by all decisions made in those actions; and (b) they each be treated as if parties to the action on any issue relating to costs.",
+      "id": "s52"
+    },
+    {
+      "text": "This order was not opposed by either the plaintiff or the Commissioner.",
+      "id": "s53"
+    },
+    {
+      "text": "25 In Crosbie , Finkelstein J also expressed the view, which was not necessary to his decision, that the Court should not act on the parties' admissions as to insolvency without satisfying itself on the evidence as to the correctness of that admission.",
+      "id": "s54"
+    },
+    {
+      "text": "In his Honour's view, this conclusion followed from the fact that the Court can only make an order under s 588FF if it is satisfied that a transaction of a company is voidable under s 588FE.",
+      "id": "s55"
+    },
+    {
+      "text": "Subsequent cases have rejected this view, and held that the Court can reach the requisite satisfaction on the basis of the parties' agreement: see Wanted World Wide (Australia) Limited v Commissioner of Taxation [2004] FCA 1063 ; (2004) 139 FCR 205 (' Wanted World Wide ') and Young v Commissioner of Taxation (2006) 56 ACSR 654 (' Young' ).",
+      "id": "s56"
+    },
+    {
+      "text": "As I see it, no practical significance attaches to the issue in this case, notwithstanding the settlement reached between the plaintiff and the Commissioner, because the claims made by the plaintiff as to solvency and other matters were contested by Scott and Fairbank.",
+      "id": "s57"
+    },
+    {
+      "text": "However, if and to the extent that the issue has any significance for this case, I prefer, and would apply, the views expressed in Wanted World Wide and Young .",
+      "id": "s58"
+    },
+    {
+      "text": "THE TSI GROUP \n \n 26 TSI and TSIA were part of a group of companies engaged in the development and marketing of an interpretative analytic software program known as 'The Trader System TM ' which was designed for use by retail options traders.",
+      "id": "s59"
+    },
+    {
+      "text": "Companies within the group were linked in various ways, including cross shareholdings, common directorships, and/or licence agreements.",
+      "id": "s60"
+    },
+    {
+      "text": "27 TSI and TSIA were subsidiaries of Trader Systems International Inc ('TSI Inc').",
+      "id": "s61"
+    },
+    {
+      "text": "The intellectual property in 'The Trader System' was apparently owned by Wire Securities Limited (a New Zealand incorporated company) which entered into a licence agreement with TSI Inc giving TSI Inc the exclusive right to use and commercially exploit The Trader System software and trademarks.",
+      "id": "s62"
+    },
+    {
+      "text": "TSI Inc granted TSI a licence allowing it to set up a website to operate The Trader System.",
+      "id": "s63"
+    },
+    {
+      "text": "TSI Inc also granted TSIA a licence authorising it to exploit and develop the software and to use the trademarks by, inter alia, selling and marketing the Trader System and daily data supplied to it by TSI.",
+      "id": "s64"
+    },
+    {
+      "text": "Under a service agreement between TSI and TSIA, TSIA was authorised to market the software and daily data supplied by TSI, in return for a service fee payable by TSI to TSIA.",
+      "id": "s65"
+    },
+    {
+      "text": "28 Swift Securities and Investments Limited ('Swift Malaysia'), a company incorporated and resident in Malaysia, and Swift Securities and Investments Pty Ltd ('Swift Australia') were also part of the group.",
+      "id": "s66"
+    },
+    {
+      "text": "Scott and Bayoud were directors of Swift Malaysia and Swift Australia.",
+      "id": "s67"
+    },
+    {
+      "text": "From time to time, Swift Malaysia and Swift Australia advanced funds to TSI and TSIA to support their operations.",
+      "id": "s68"
+    },
+    {
+      "text": "Swift Australia had the same registered office as TSI.",
+      "id": "s69"
+    },
+    {
+      "text": "THE DEFENCES RAISED BY SCOTT AND FAIRBANK \n \n 29 It is helpful to describe, in general terms, the defences raised by Scott and Fairbank.",
+      "id": "s70"
+    },
+    {
+      "text": "30 In each proceeding, Scott and Fairbank disputed the plaintiff's case that orders should be made against the Commissioner pursuant to s 588FF on essentially two grounds.",
+      "id": "s71"
+    },
+    {
+      "text": "First, and most substantially, they contended that neither TSI nor TSIA was insolvent at the time the relevant payments were made.",
+      "id": "s72"
+    },
+    {
+      "text": "They argued that both TSI and TSIA relied on, and could reasonably rely on, funds provided by Swift Malaysia to pay their respective debts as and when they fell due.",
+      "id": "s73"
+    },
+    {
+      "text": "They said that as soon as Bayoud told Scott on 13 May 2003 that Swift Malaysia would not provide further financial support to TSI and TSIA, they appointed administrators to both companies.",
+      "id": "s74"
+    },
+    {
+      "text": "Secondly, they contended that the payments made by TSI and TSIA to the Commissioner did not constitute unfair preferences within the meaning of s 588FA, as they were not transactions between the relevant company (ie TSI or TSIA as the case may be) and its creditor within the meaning of s 9 and s 588FA.",
+      "id": "s75"
+    },
+    {
+      "text": "Rather, they contended that the payments were made by Swift Malaysia or by the employees of TSI or TSIA (as the case may be) from whose wages tax payments were deducted, and not by TSI or TSIA.",
+      "id": "s76"
+    },
+    {
+      "text": "31 Aside from these defences to the principal claim, Scott and Fairbank mounted independent defences to the third party claims brought by the Commissioner pursuant to s 588FGA.",
+      "id": "s77"
+    },
+    {
+      "text": "First, they argued that, even if the Court made an order in the principal proceeding pursuant to s 588FF(1) in the terms sought by the liquidator, this would not establish that the Commissioner had suffered 'loss or damage' within the meaning of s 588FGA(2).",
+      "id": "s78"
+    },
+    {
+      "text": "In substance, they argued that the effect of any such order would simply be to require the Commissioner to repay amounts to which he was not entitled.",
+      "id": "s79"
+    },
+    {
+      "text": "In addition, Scott and Fairbank contended that neither interest nor costs paid by the Commissioner to the liquidator would constitute loss or damage resulting from an order made under s 588FF.",
+      "id": "s80"
+    },
+    {
+      "text": "32 Lastly, Scott and Fairbank contended that they had a good defence to the Commissioner's claims under s 588FGB(3).",
+      "id": "s81"
+    },
+    {
+      "text": "In their submission, the evidence proved that, at the time of each payment, they each had reasonable grounds to expect, and did expect, that TSI and TSIA were solvent and would remain solvent.",
+      "id": "s82"
+    },
+    {
+      "text": "SOLVENCY --- LEGAL PRINCIPLES \n \n 33 Section 95A of the Act provides: \n \n '(1) A person is solvent if, and only if, the person is able to pay all the person's debts, as and when they become due and payable.",
+      "id": "s83"
+    },
+    {
+      "text": "(2) A person who is not solvent is insolvent.",
+      "id": "s84"
+    },
+    {
+      "text": "' \n \n \n 34 As Sundberg J said recently in Tru Floor Service Pty Ltd v Jenkins (No 2) [2006] FCA 632 at [43] ( 'Tru Floor' ), s 95A mandates a cash flow rather than a balance sheet approach to determining solvency.",
+      "id": "s85"
+    },
+    {
+      "text": "35 The relevant principles were distilled by Palmer J in Southern Cross Interiors Pty Ltd v Deputy Commissioner of Taxation [2001] NSWSC 621 ; (2001) 53 NSWLR 213 at 224-225 ( 'Southern Cross Interiors' ):\n 'In my opinion, the following propositions may now be drawn from the authorities: \n \n (i) whether or not a company is insolvent for the purposes of the Corporations Act (Cth), ss 95A , 459B , 588FC or 588G (1)(b), is a question of fact to be ascertained from a consideration of the company's financial position taken as a whole: Sandell v Porter, Pegulan Floor Coverings Pty Ltd v Carter (1997) 24 ACSR 651; 15 ACLC 1,293 and Fryer v Powell ; \n \n (ii) in considering the company's financial position as a whole, the Court must have regard to commercial realities.",
+      "id": "s86"
+    },
+    {
+      "text": "Commercial realities will be relevant in considering what resources are available to the company to meet its liabilities as they fall due, whether resources other than cash are realisable by sale or borrowing upon security, and when such realisations are achievable: Sandell v Porter , Taylor v Australia and New Zealand Banking , Re Newark and Sheahan v Hertz ; \n \n (iii) in assessing whether a company's position as a whole reveals surmountable temporary illiquidity or insurmountable endemic illiquidity resulting in insolvency, it is proper to have regard to the commercial reality that, in normal circumstances, creditors will not always insist on payment strictly in accordance with their terms of trade but that does not result in the company thereby having a cash or credit resource which can be taken into account in determining solvency: Bank of Australasia v Hall [1906] HCA 54 ; (1907) 4 CLR 1,514 at 1,528; Re Norfolk Plumbing (at 615; 169); Taylor v Australia and New Zealand Banking (at 784; 811); Guthrie (as liq of ULT Ltd (rec apptd) (in liq)) v Radio Frequency Systems Pty Ltd (2000) 34 ACSR 572 at 575; \n \n (iv) the commercial reality that creditors will normally allow some latitude in time for payment of their debts does not, in itself, warrant a conclusion that the debts are not payable at the times contractually stipulated and have become debts payable only upon demand: Standard Chartered Bank v Antico (at 331); Hall v Press Plumbing ; Melbase (at 199; 832-3); Carrier (at 253; 777-778); Cuthbertson v Thomas (at 320); Lee Kong (at 112; 1,568); \n \n (v) in assessing solvency, the court acts upon the basis that a contract debt is payable at the time stipulated for payment in the contract unless there is evidence, proving to the court's satisfaction, that: \n &#8226; there has been an express or implied agreement between the company and the creditor for an extension of the time stipulated for payment; or \n &#8226; there is a course of conduct between the company and the creditor sufficient to give rise to an estoppel preventing the creditor from relying upon the stipulated time for payment; or \n &#8226; there has been a well established and recognised course of conduct in the industry in which the company operates, or as between the company and its creditors as a body, whereby debts are payable at a time other than that stipulated in the creditors' terms of trade or are payable only on demand: \n Newark (at 414-415); Standard Chartered Bank v Antico (at 331); Melbase ; Cuthbertson v Thomas ; Fryer v Powell (at 444-445); \n \n (vi) it is for the party asserting that a company's contract debts are not payable at the times contractually stipulated to make good that assertion by satisfactory evidence: Fryer v Powell (at 444-445); Melbase ; Cuthbertson v Thomas .",
+      "id": "s87"
+    },
+    {
+      "text": "' \n \n \n 36 As Palmer J indicated, the law takes a commercially realistic view in determining what resources are available to a company to enable it to pay its debts as and when they fall due.",
+      "id": "s88"
+    },
+    {
+      "text": "This has long been recognised.",
+      "id": "s89"
+    },
+    {
+      "text": "In Rees v Bank of New South Wales [1964] HCA 47 ; (1964) 111 CLR 210 at 218, Barwick CJ said:\n 'It is quite true that a trader, to remain solvent, does not need to have ready cash by him to cover his commitments as they fall for payment, and that in determining whether he can pay his debts as they become due regard must be had to his realizable assets.",
+      "id": "s90"
+    },
+    {
+      "text": "The extent to which their existence will prevent a conclusion of insolvency will depend on a number of surrounding circumstances, one of which must be the nature of the assets and in the case of a trader, the nature of his business.",
+      "id": "s91"
+    },
+    {
+      "text": "' \n \n 37 In Sandell v Porter [1966] HCA 28 ; (1966) 115 CLR 666 at 670-671, Barwick CJ stressed that it was important not to confuse insolvency with a temporary lack of liquidity:\n 'Insolvency is expressed in s. 95 as an inability to pay debts as they fall due out of the debtor's own money.",
+      "id": "s92"
+    },
+    {
+      "text": "But the debtor's own moneys are not limited to his cash resources immediately available.",
+      "id": "s93"
+    },
+    {
+      "text": "They extend to moneys which he can procure by realization by sale or by mortgage or pledge of his assets within a relatively short time---relative to the nature and amount of the debts and to the circumstances, including the nature of the business, of the debtor.",
+      "id": "s94"
+    },
+    {
+      "text": "The conclusion of insolvency ought to be clear from a consideration of the debtor's financial position in its entirety and generally speaking ought not to be drawn simply from evidence of a temporary lack of liquidity.",
+      "id": "s95"
+    },
+    {
+      "text": "It is the debtor's inability, utilizing such cash resources as he has or can command through the use of his assets, to meet his debts as they fall due which indicates insolvency.",
+      "id": "s96"
+    },
+    {
+      "text": "Whether that state of his affairs has arrived is a question for the Court and not one as to which expert evidence may be given in terms though no doubt experts may speak as to the likelihood of any of the debtor's assets or capacities yielding ready cash in sufficient time to meet the debts as they fall due.",
+      "id": "s97"
+    },
+    {
+      "text": "' \n \n\nThis passage was directed to a definition of solvency which was more restrictive than the definition now found in s 95A of the Act, as the previous section spoke of an inability to pay debts as they fall due 'out of the debtor's own money'.",
+      "id": "s98"
+    },
+    {
+      "text": "38 In Lewis (as liq of Doran Constructions Pty Ltd (in liq)) v Doran (2005) 219 ALR 555 at 579 [109]-[110] ( 'Lewis' ), Giles JA (with whom Hodgson and McColl JJA agreed) said: \n 'Particularly when the limiting words are no longer part of the test, there is no compelling reason to exclude from consideration funds which can be gained from borrowings secured on assets of third parties, or even unsecured borrowings.",
+      "id": "s99"
+    },
+    {
+      "text": "If the company can borrow without security, it will have funds to pay its debts as they fall due and will be solvent, provided of course that the borrowing is on deferred payment terms or otherwise such that the lender itself is not a creditor whose debt can not be repaid as and when it becomes due and payable.",
+      "id": "s100"
+    },
+    {
+      "text": "It comes down to a question of fact, in which the key concept is ability to pay the company's debts as and when they become due and payable.",
+      "id": "s101"
+    },
+    {
+      "text": "Even before the wording of s 95A , in Re RHD Power Services Pty Ltd (1991) 3 ACSR 261; 9 ACLC 27 McPherson SPJ was prepared to pay regard to ability to borrow without security.",
+      "id": "s102"
+    },
+    {
+      "text": "Kearney J in Re Adnot Pty Ltd (1982) 7 ACLR 212; 1 ACLC 307 took into account that the company \"instead of having to resort to some outside lender, is in the fortunate position of having its fellow member of the group of companies to which it belongs, available in effect as banker to provide funds required to meet any shortfall\": at ACLR 217; ACLC 311; the shortfall was until completion and sale of a shopping centre.",
+      "id": "s103"
+    },
+    {
+      "text": "In Re a Company [1986] BCLC 261 Nourse J declined to find that a company was unable to pay its debts as they fell due although it was being \"propped up by loans made to it by associated companies and possibly by others\": at 262; his Lordship noted at 263 that he had evidence from a director to the effect that there was no question of the loans being withdrawn, the loans not being repayable for some 18 months.",
+      "id": "s104"
+    },
+    {
+      "text": "' (The emphasis appears in the judgment.",
+      "id": "s105"
+    },
+    {
+      "text": ")\n \n\nGiles JA went on to add that solvency can be established even though the arrangement under which funds are to be provided by a third party is entirely voluntary.",
+      "id": "s106"
+    },
+    {
+      "text": "39 In the end, it is a question of fact to be ascertained from a consideration of a company's financial position taken as a whole whether a voluntary arrangement with a third party for the provision of funds amounts to a sufficient basis for concluding that the company is able to meet its liabilities as they fall due: see Southern Cross Interiors at 224; Lewis at 572 [79] and Tru Floor at [44].",
+      "id": "s107"
+    },
+    {
+      "text": "In Tru Floor at [44], Sundberg J said, correctly in my view, that it must also be borne in mind that the plain words of s 95A ('as and when they become due') require anticipated debts to be taken, to some extent, into account in determining solvency.",
+      "id": "s108"
+    },
+    {
+      "text": "INSOLVENCY OF TSI \n \n 40 The liquidator gave evidence that, having investigated its financial position, he was of the opinion that TSI was insolvent at all times from 1 July 1999 onwards and, in particular, during the six months relation back period ending 15 May 2003.",
+      "id": "s109"
+    },
+    {
+      "text": "There is overwhelming evidence to support this opinion.",
+      "id": "s110"
+    },
+    {
+      "text": "41 TSI's operating revenue was never sufficient to meet the costs and expenses it incurred in each period after 1 July 1999.",
+      "id": "s111"
+    },
+    {
+      "text": "It made losses consistently between 1 July 1999 and 14 May 2003, as follows:\n &#8226; a loss of $129,845.00 for the year ending 30 June 2000;\n &#8226; a loss of $1,342,904.00 for the year ending 30 June 2001;\n &#8226; a loss of $278,597.00 for the year ending 30 June 2002; and\n &#8226; a loss of $695,493.00 for the period ending 14 May 2003.",
+      "id": "s112"
+    },
+    {
+      "text": "During the period 1 July 2002 to 14 May 2003, which encompasses the six months relation back period, TSI's accounts show that only $39,430.00 was recorded in sales whilst expenses of $917,370.00 were incurred.",
+      "id": "s113"
+    },
+    {
+      "text": "These expenses included $321,407.00 in wages and salaries and $152,517.00 in rent.",
+      "id": "s114"
+    },
+    {
+      "text": "It is obvious from these figures, as the liquidator said in evidence, that TSI's profit margins were not such that the company could maintain ongoing operations without funds from sources exterior to the company.",
+      "id": "s115"
+    },
+    {
+      "text": "42 TSI had a substantial net asset deficiency throughout the period between 1 July 1999 to 15 May 2003, as follows:\n &#8226; a net asset deficiency of $94,608.00 for the year ended 30 June 2000;\n &#8226; a net asset deficiency of $1,437,512.00 for the year ended 30 June 2001;\n &#8226; a net asset deficiency of $1,716,109.00 for the year ended 30 June 2002; and\n &#8226; a net asset deficiency of $812,792.00 for the period ended 14 May 2003.",
+      "id": "s116"
+    },
+    {
+      "text": "Overall, the liquidator estimated that the total deficiency in the liquidation of TSI would be $1,279,353.00.",
+      "id": "s117"
+    },
+    {
+      "text": "43 As at 15 May 2003, Scott filed a report as to affairs of TSI in which he estimated that TSI had a total deficiency of $1,345,989.00.",
+      "id": "s118"
+    },
+    {
+      "text": "Fairbank's report as to affairs did not contain an estimate of the total deficiency confronting TSI, but it did state that his estimate of the total realisable value of TSI's assets was $41,935.00, whereas its liabilities to creditors amounted to $196,261.00, i.e.",
+      "id": "s119"
+    },
+    {
+      "text": "a total deficiency on those figures of $154,326.00.",
+      "id": "s120"
+    },
+    {
+      "text": "44 The liquidator gave evidence that it is generally accepted in the accounting profession that a company with a current ratio lower than 1:1 and a net asset deficiency has a high probability of being insolvent.",
+      "id": "s121"
+    },
+    {
+      "text": "The current ratio is the ratio of current assets to current liabilities.",
+      "id": "s122"
+    },
+    {
+      "text": "TSI's current ratio was lower than 1:1 throughout the period from 1 July 2001 to 14 May 2003.",
+      "id": "s123"
+    },
+    {
+      "text": "At year end, TSI's current ratios were:\n 30 Jun 99 30 June 00 30 Jun 01 30 Jun 02 14 May 03 \n Current Ratios 21.432:1 7.024:1 0.808:1 0.289:1 0.109:1 \n \n\nThese ratios indicate that TSI had inadequate current assets available to meet its current liabilities throughout the relation back period.",
+      "id": "s124"
+    },
+    {
+      "text": "45 TSI failed to meet its taxation liabilities to the Commissioner as and when they fell due from at least December 2001.",
+      "id": "s125"
+    },
+    {
+      "text": "On 12 March 2002, the Australian Taxation Office issued penalty notices against the directors of TSI.",
+      "id": "s126"
+    },
+    {
+      "text": "On 25 March 2002, a payment agreement was executed whereby TSI agreed to make fortnightly instalments of $4,000.00 from April 2002 onwards, and larger payments in August 2002.",
+      "id": "s127"
+    },
+    {
+      "text": "These arrangements were not complied with and, as a result, the Commissioner obtained a garnishee order against TSI's bank account with the Commonwealth Bank of Australia.",
+      "id": "s128"
+    },
+    {
+      "text": "On 3 October 2002, TSI and the Australian Taxation Office made a further arrangement for a repayment proposal to the effect that TSI would pay the Commissioner $50,000.00 per month in reduction of outstanding tax liabilities.",
+      "id": "s129"
+    },
+    {
+      "text": "TSI did not comply with this arrangement.",
+      "id": "s130"
+    },
+    {
+      "text": "On 4 March 2003, TSI's accountant contacted the Australian Taxation Office and requested that the garnishee order be lifted.",
+      "id": "s131"
+    },
+    {
+      "text": "This request was declined on the basis that TSI had already defaulted on two payment arrangements with the Commissioner.",
+      "id": "s132"
+    },
+    {
+      "text": "On 7 April 2003 the Commissioner again issued penalty notices against the directors of TSI.",
+      "id": "s133"
+    },
+    {
+      "text": "46 Throughout the period from November 2002 to April 2003, TSI's outstanding creditors were owed approximately $600,000.00.",
+      "id": "s134"
+    },
+    {
+      "text": "Debts to several creditors had been outstanding for substantial periods of time.",
+      "id": "s135"
+    },
+    {
+      "text": "These included debts owing to Baker &amp; McKenzie, the State Revenue Office of Victoria ('SRO'), and Swinburne University of Technology ('Swinburne').",
+      "id": "s136"
+    },
+    {
+      "text": "From August 2002, TSI fell behind in its obligation to make employee superannuation payments to REST Superannuation.",
+      "id": "s137"
+    },
+    {
+      "text": "By 30 April 2003, unpaid employee superannuation amounted to $4,938.00.",
+      "id": "s138"
+    },
+    {
+      "text": "In their reports as to the affairs of TSI, Scott and Fairbank estimated that unsecured creditors as at 15 May 2003 totalled approximately $1,301,575.00 and $196,261.00 respectively.",
+      "id": "s139"
+    },
+    {
+      "text": "47 TSI's largest debtors pertained to related party loans.",
+      "id": "s140"
+    },
+    {
+      "text": "As at 14 May 2003, the following loans were outstanding: \n Year ending \n 14 May 2003\n $\n IMP Unit trust 170,594\n TSI (OLD) Pty Ltd 104,515\n TSI Training and support Pty Ltd 22,010\n GASP 47,875\n Xyranet Development Pty Ltd 25,593\n \n\nThere is no evidence that any of these parties was willing or able to repay its debts.",
+      "id": "s141"
+    },
+    {
+      "text": "48 TSI was not at any stage in a position to raise funds from the sale of its assets to pay its current liabilities.",
+      "id": "s142"
+    },
+    {
+      "text": "After the appointment of the liquidator, only $35,684.00 was realised from cash at bank and the sale of assets.",
+      "id": "s143"
+    },
+    {
+      "text": "Related party debtors resulted in no recovery to date.",
+      "id": "s144"
+    },
+    {
+      "text": "49 There is further evidence that TSI was in financial difficulty for a lengthy period.",
+      "id": "s145"
+    },
+    {
+      "text": "In his answers to a questionnaire sent to him by the liquidator, Scott said that TSI's failure could be attributed to various factors, including the fact that the original investor had failed to provide the full amount of capital that he had agreed to commit, and that when a company is in difficulties it is hard to change without adequate capital or cash flow.",
+      "id": "s146"
+    },
+    {
+      "text": "Scott also said that creditors had requested payments by TSI at various times though no formal proceedings were ever commenced.",
+      "id": "s147"
+    },
+    {
+      "text": "He also said that arrangements were made with creditors either for full payments or payments in part over time.",
+      "id": "s148"
+    },
+    {
+      "text": "50 In a letter dated 16 July 2003 to the solicitors acting for the original investor in TSI, Steven Girotto, Scott made the following statements:\n 'As advised the Australian companies are now under Administration, as the business in Australia has no more money despite every effort to save the enterprise.",
+      "id": "s149"
+    },
+    {
+      "text": "In this regards Steven Girotto has been aware that the local companies have been in difficulties for sometime.",
+      "id": "s150"
+    },
+    {
+      "text": "The reason that the business has failed is due to undercapitalisation at the outset.",
+      "id": "s151"
+    },
+    {
+      "text": "In this regard, it may be noted that the original agreement for Steven Girotto to participate in the business was for him to provide capital of US$7 million but no more than one third was ever provided.",
+      "id": "s152"
+    },
+    {
+      "text": "I also note that in an effort to provide an opportunity for the TSI group to continue in Australia, Swift Securities &amp; Investments Ltd in Malaysia has advanced to the Australian companies over $2 million.",
+      "id": "s153"
+    },
+    {
+      "text": "At present, they are not in a position to continue that support due to their other commitments.",
+      "id": "s154"
+    },
+    {
+      "text": "... \n \n Since the Australian companies commenced operations, they have never traded at a profit and have been reliant on injection of funds, which were originally provided by Steven Girotto.",
+      "id": "s155"
+    },
+    {
+      "text": "' \n \n 51 In his answers to the questionnaire sent to him by the liquidator, Fairbank attributed TSI's failure to various factors, including an initial funding shortfall by the original shareholder.",
+      "id": "s156"
+    },
+    {
+      "text": "Asked when creditors had pressed TSI for payment of outstanding debts, Fairbank said that it varied: some were within normal trading terms and some had pressed for payment months before, for example, Swinburne and the Australian Taxation Office.",
+      "id": "s157"
+    },
+    {
+      "text": "Fairbank added that creditors were being paid from funds made available by Swift Malaysia pursuant to its agreement.",
+      "id": "s158"
+    },
+    {
+      "text": "52 I will return to the arrangements that were allegedly made between TSI and TSIA and certain creditors, and to the provision of funds by Swift Malaysia.",
+      "id": "s159"
+    },
+    {
+      "text": "INSOLVENCY OF TSIA \n \n 53 Having thoroughly investigated TSIA's financial position, the liquidator concluded that it was insolvent at all times from 1 July 1999 onwards and, in particular, during the six month relation back period ended 15 May 2003.",
+      "id": "s160"
+    },
+    {
+      "text": "Again, this conclusion is supported by overwhelming evidence.",
+      "id": "s161"
+    },
+    {
+      "text": "54 TSIA's trading results demonstrate that it was unable to generate sufficient revenue to meet its ongoing trading commitments or to satisfy its obligations to unsecured creditors after 1 July 2000.",
+      "id": "s162"
+    },
+    {
+      "text": "Its profit and loss statements disclose net losses for the periods ending 30 June 2000, 30 June 2001, 30 June 2002 and 14 May 2003 of $24,590.00, $277,940.00, $431,181.00, and $452,931.00 respectively.",
+      "id": "s163"
+    },
+    {
+      "text": "During the period from 1 July 2002 to 14 May 2003, TSIA's accounts indicate that only $188,496.00 was recorded in sales whilst expenses of $663,219.00 were incurred.",
+      "id": "s164"
+    },
+    {
+      "text": "These expenses included $154,403.00 in wages and salaries and $126,173.00 in royalties.",
+      "id": "s165"
+    },
+    {
+      "text": "55 In the period between 30 June 2001 and 14 May 2003, TSIA's current ratio fell significantly below 1:1 indicating that it had inadequate current assets available to meet its current liabilities:\n 30 Jun 01 30 Jun 02 14 May 03 \n Current Ratios 0.189:1 0.070:1 0.016:1 \n\n\n \n 56 The liquidator's analysis of TSIA's balance sheets discloses a net asset deficiency throughout the period from 1 July 1999 to 14 May 2003.",
+      "id": "s166"
+    },
+    {
+      "text": "Specifically, TSIA had a net asset deficiency at 30 June 2000, 30 June 2001, 30 June 2002 and 14 May 2003 of $22,196.00, $300,135.00, $731,316.00 and $894,288.00 respectively.",
+      "id": "s167"
+    },
+    {
+      "text": "As these figures indicate, TSIA's net asset deficiency increased rapidly over the period from 30 June 2000 to 14 May 2003.",
+      "id": "s168"
+    },
+    {
+      "text": "57 The liquidator estimates that TSI's overall deficiency in the liquidation will be $3,510,367.00.",
+      "id": "s169"
+    },
+    {
+      "text": "This is greater than the substantial deficiencies which were estimated by Scott and Fairbank in their reports as to affairs of $2,028,381.00 and $1,750,443.00 respectively.",
+      "id": "s170"
+    },
+    {
+      "text": "58 The answers which Scott gave in response to the liquidator's questionnaire concerning TSIA were substantially identical to the answers he gave in respect of TSI.",
+      "id": "s171"
+    },
+    {
+      "text": "The statements made by Scott in his letter to the solicitors acting for Steven Girotto were directed to both TSI and TSIA.",
+      "id": "s172"
+    },
+    {
+      "text": "59 In his answers to the questionnaire concerning TSIA, Fairbank set out the same causes of failure as he had in his answers to the TSI questionnaire.",
+      "id": "s173"
+    },
+    {
+      "text": "As for TSIA's creditors, Fairbank said that the time at which they began pressing for payment varied: some were within normal terms but some such as TSIA's accountants, the MBA Partnership Pty Ltd ('MBA'), had pressed for months.",
+      "id": "s174"
+    },
+    {
+      "text": "Again, he added that the creditors were being paid from funds being made available by Swift Malaysia pursuant to its agreement.",
+      "id": "s175"
+    },
+    {
+      "text": "60 Between November 2002 and March 2003, TSIA had outstanding creditors who were owed between (approximately) $1.91 million and $2.42 million.",
+      "id": "s176"
+    },
+    {
+      "text": "A number of creditors had debts outstanding for a very substantial period of time, including the SRO, Paul Turner (Focus Point Services), CARE Superannuation and MBA.",
+      "id": "s177"
+    },
+    {
+      "text": "61 TSIA fell behind in its employee superannuation payments from July 2002 onwards.",
+      "id": "s178"
+    },
+    {
+      "text": "Over the period from 1 August 2002 to 15 May 2003, debts amounting to $2,985.00 became payable to CARE Superannuation.",
+      "id": "s179"
+    },
+    {
+      "text": "Over the period from July 2002, TSIA also fell behind in its superannuation guarantee payments to the Australian Tax Office.",
+      "id": "s180"
+    },
+    {
+      "text": "As of May 2003, $10,293.00 was owing to the Australian Tax Office in respect of superannuation guarantee payments.",
+      "id": "s181"
+    },
+    {
+      "text": "62 TSIA did not meet its obligations to make PAYG tax payments to the Commissioner.",
+      "id": "s182"
+    },
+    {
+      "text": "In his report as to affairs, Scott said that the amount of unpaid PAYG tax owing by TSIA amounted to $73,802.00.",
+      "id": "s183"
+    },
+    {
+      "text": "TSIA was not meeting its tax liabilities prior to October 2002 and only partially meeting its ongoing tax liabilities thereafter.",
+      "id": "s184"
+    },
+    {
+      "text": "TSIA did not report PAYG withholding tax until October 2002.",
+      "id": "s185"
+    },
+    {
+      "text": "PAYG amounts withheld for the month of December 2002 and the period March 2003 to May 2003 were not reported to the Australian Taxation Office.",
+      "id": "s186"
+    },
+    {
+      "text": "TSIA wrote to the Australian Taxation Office on 12 November 2002 and made a repayment proposal which the ATO accepted after TSIA made a part payment of $20,000.00 towards outstanding tax liabilities on 15 November 2002.",
+      "id": "s187"
+    },
+    {
+      "text": "63 The largest debtors of TSIA involved related party loans to TSI and TSI Inc. As at 14 May 2003, the amounts owed to TSIA by TSI and TSI Inc were, respectively, $546,117.00 and $418,952.00.",
+      "id": "s188"
+    },
+    {
+      "text": "The liquidator gave evidence that there are no documents available to him to suggest that these related parties are willing or able to repay their debts.",
+      "id": "s189"
+    },
+    {
+      "text": "TSI is in liquidation and TSI Inc has lodged a proof of debt in the liquidation of TSIA.",
+      "id": "s190"
+    },
+    {
+      "text": "64 The proof of debt submitted by the SRO to the liquidator totals $118,408.00 and relates to unpaid payroll tax liabilities going back as far as the financial year ending 30 June 2002.",
+      "id": "s191"
+    },
+    {
+      "text": "65 The liquidator also gave evidence that TSIA was not in a position to raise funds from the sale of assets in the short term.",
+      "id": "s192"
+    },
+    {
+      "text": "Following the appointment of the liquidators, the assets of TSIA, including cash at bank and plant and equipment, have realised only $7,383.00.",
+      "id": "s193"
+    },
+    {
+      "text": "Related party debtors in the amount of $993,176.00 have resulted in nil recoveries.",
+      "id": "s194"
+    },
+    {
+      "text": "DISPUTED DEBTS \n \n 66 Scott and Fairbank disputed that the following debts were due and payable by TSI: \n SRO: $118,408.00\n Swinburne: $73,005.00\n Baker &amp; McKenzie: $13,000.00\n Gasp of Amazement Pty Ltd: $22,077.00\n Girotto Precast: $1,115,000.00 \n\n\nThe dispute takes no account of other debts which were due and payable by TSI during the relation back period, but which went unpaid: eg, a debt of $40,810.00 to Michael Saba which dates back to May 2001; a debt of $639.00 to Origin Energy Electricity Limited which was incurred but went unpaid in February, March and April 2003; and debts to REST Superannuation (totalling $4,938.00) which went unpaid from August 2002.",
+      "id": "s195"
+    },
+    {
+      "text": "67 In similar vein, Scott and Fairbank disputed that certain debts of TSIA were due and payable, as follows:\n SRO: $118,408.00\n MBA: $18,771.00 (dating from August 2002)\n Gasp of Amazement Pty Ltd: $3,409.00\n Paul Turner (Focus Point Services): $44,040.00 \n\n\nScott and Fairbank did not dispute that the following debts were due and payable, but went unpaid, during the six month period ending 15 May 2003: superannuation contributions payable to the Australian Tax Office ($10,293.00) dating from July 2002; CARE Superannuation ($2,985.00) dating from August 2002; and Index Options Australia ($9,385.00) dating from August 2002; Chenu &amp; Associates ($3,000.00) dating from January 2003; and ASIC ($900.00) dating from February 2003.",
+      "id": "s196"
+    },
+    {
+      "text": "68 As for the disputed debts, Scott and Fairbank did not advance any satisfactory evidence establishing that the debts were not due and payable.",
+      "id": "s197"
+    },
+    {
+      "text": "Instead, they relied on assertions made from the witness box largely without any prior notice to the Commissioner or the liquidator.",
+      "id": "s198"
+    },
+    {
+      "text": "This was remarkable for several reasons.",
+      "id": "s199"
+    },
+    {
+      "text": "First, both Scott and Fairbank are solicitors.",
+      "id": "s200"
+    },
+    {
+      "text": "Secondly, by orders made on 13 December 2005, Finkelstein J directed Scott and Fairbank to file any affidavits upon which they may wish to rely by 10 March 2006.",
+      "id": "s201"
+    },
+    {
+      "text": "Fairbank filed a short affidavit on 10 March 2006, but it did not dispute the existence of any of the debts relied upon by the liquidator.",
+      "id": "s202"
+    },
+    {
+      "text": "Scott did not file any affidavit in accordance with the direction.",
+      "id": "s203"
+    },
+    {
+      "text": "Instead, he sought and obtained leave to file an affidavit on the first day of the hearing.",
+      "id": "s204"
+    },
+    {
+      "text": "That affidavit contained assertions concerning the status of the debt to the SRO.",
+      "id": "s205"
+    },
+    {
+      "text": "Thirdly, Scott made assertions in oral evidence about the existence of arrangements between TSI and TSIA (as the case may be) and certain other creditors.",
+      "id": "s206"
+    },
+    {
+      "text": "There was nothing to support the existence of those arrangements other than Scott's assertions in the witness box.",
+      "id": "s207"
+    },
+    {
+      "text": "None of the arrangements were recorded in writing, as Scott conceded.",
+      "id": "s208"
+    },
+    {
+      "text": "Further, no evidence was called from any disinterested person who could give direct evidence concerning the existence of the alleged arrangements.",
+      "id": "s209"
+    },
+    {
+      "text": "Fairbank adopted the assertions made by Scott.",
+      "id": "s210"
+    },
+    {
+      "text": "State Revenue Office \n \n 69 TSI and TSIA are grouped together for payroll tax purposes and, as a result, the SRO filed a proof of debt in each liquidation in the sum of $118,408.38.",
+      "id": "s211"
+    },
+    {
+      "text": "The debt claimed by the SRO breaks down into the following components: \n \n Date \n \n Consideration \n \n Amount \n \n Basis \n \n \n 1 July 2001 to 30 June 2002 \n \n \n Primary tax due and payable pursuant to the Pay-roll Tax Act 1971 .",
+      "id": "s212"
+    },
+    {
+      "text": "$19,928.85 \n \n \n Based on actual group wages \n \n 1 July 2001 to 30 June 2002 \n \n Penalty tax due and payable pursuant to the Taxation Administration Act 1997 .",
+      "id": "s213"
+    },
+    {
+      "text": "$4,982.21 \n \n Based on actual group wages \n \n 1 July 2001 to 30 June 2002 \n \n Interest due and payable pursuant to the Taxation Administration Act 1997 .",
+      "id": "s214"
+    },
+    {
+      "text": "$1,471.22 \n \n Based on actual group wages \n \n 1 July 2002 to 14 May 2003 \n \n Primary tax due and payable pursuant to the Pay-roll Tax Act 1971 .",
+      "id": "s215"
+    },
+    {
+      "text": "$73,620.88 \n \n Based on estimated group wages \n \n 1 July 2002 to 14 May 2003 \n \n Penalty tax due and payable pursuant to the Taxation Administration Act 1997 .",
+      "id": "s216"
+    },
+    {
+      "text": "$18,405.22 \n \n Based on estimated group wages \n \n \n 70 Scott and Fairbank disputed these figures on the basis that TSI and TSIA had difficulties with their accounting system and that this had resulted in errors in the figures used by the SRO.",
+      "id": "s217"
+    },
+    {
+      "text": "However, Scott did not dispute that some debts were owing to the SRO in respect of payroll tax and that those debts dated back to the year ended 30 June 2002.",
+      "id": "s218"
+    },
+    {
+      "text": "71 In his evidence, Scott asserted that a payment arrangement had been made with the SRO by Geoff Missen ('Missen'), a partner of MBA, acting on behalf of TSI and TSIA.",
+      "id": "s219"
+    },
+    {
+      "text": "Missen was not called to give evidence.",
+      "id": "s220"
+    },
+    {
+      "text": "Scott confirmed that there was no written record of the alleged arrangement.",
+      "id": "s221"
+    },
+    {
+      "text": "Scott asserted from the witness box that Missen had told him that the SRO was prepared to wait until TSI and TSIA were in a position to submit amended accounts before pressing for payment.",
+      "id": "s222"
+    },
+    {
+      "text": "He added that the SRO had not pressed for payment.",
+      "id": "s223"
+    },
+    {
+      "text": "There is, accordingly, no direct evidence of any payment arrangement with the SRO.",
+      "id": "s224"
+    },
+    {
+      "text": "I do not accept Scott's evidence.",
+      "id": "s225"
+    },
+    {
+      "text": "I find that there was no payment arrangement with the SRO and that debts were due and payable to the SRO as set out in the SRO's proof of debt.",
+      "id": "s226"
+    },
+    {
+      "text": "Swinburne University of Technology \n \n 72 Neither Scott nor Fairbank disputed that the sum of $73,005.00 was owing by TSI to Swinburne.",
+      "id": "s227"
+    },
+    {
+      "text": "Both Scott and Fairbank listed this debt as an outstanding debt of TSI in their reports as to the affairs of TSI.",
+      "id": "s228"
+    },
+    {
+      "text": "73 In his oral evidence, Scott asserted that an arrangement had been made between Bayoud and Swinburne, and that Bayoud had told Scott in August 2002 that Swinburne would not require the debt to be paid until the beginning of the next financial year in July 2003.",
+      "id": "s229"
+    },
+    {
+      "text": "There is no written record of this arrangement.",
+      "id": "s230"
+    },
+    {
+      "text": "There is no admissible evidence to support it.",
+      "id": "s231"
+    },
+    {
+      "text": "I reject the assertion that such an arrangement was made with Swinburne.",
+      "id": "s232"
+    },
+    {
+      "text": "Baker &amp; McKenzie \n \n 74 Baker &amp; McKenzie filed a proof of debt in the liquidation of TSI claiming an outstanding debt of $13,000.00.",
+      "id": "s233"
+    },
+    {
+      "text": "The debt arose from invoices submitted during the period 19 April 2002 to 26 July 2002.",
+      "id": "s234"
+    },
+    {
+      "text": "The invoices show that much of the work related to the preparation of software licences for entities described as 'TSI- Malaysia or Australia'.",
+      "id": "s235"
+    },
+    {
+      "text": "The invoices were directed to Swift Australia and marked for the attention of Scott.",
+      "id": "s236"
+    },
+    {
+      "text": "The invoices were recorded in TSI's accounts as a debt owing by TSI to Baker &amp; McKenzie.",
+      "id": "s237"
+    },
+    {
+      "text": "Both Scott and Fairbank listed the $13,000.00 debt to Baker &amp; McKenzie as a debt of TSI in their reports as to the affairs of TSI.",
+      "id": "s238"
+    },
+    {
+      "text": "75 In his oral evidence, Scott asserted that he had made a payment arrangement with a partner of Baker &amp; McKenzie, Jacobs, under which Baker &amp; McKenzie would not require payment of the outstanding debt until July 2003.",
+      "id": "s239"
+    },
+    {
+      "text": "There is no written record of this arrangement.",
+      "id": "s240"
+    },
+    {
+      "text": "Jacobs was not called.",
+      "id": "s241"
+    },
+    {
+      "text": "No prior notice of this asserted arrangement was given by Scott to the other parties.",
+      "id": "s242"
+    },
+    {
+      "text": "It is not referred to in his affidavit.",
+      "id": "s243"
+    },
+    {
+      "text": "I do not accept Scott's evidence that such an arrangement was made.",
+      "id": "s244"
+    },
+    {
+      "text": "76 Fairbank disputed that the debt to Baker &amp; McKenzie was a debt of TSI at all, contending by reference to the invoices that it was really a debt of Swift Australia.",
+      "id": "s245"
+    },
+    {
+      "text": "Having regard to the fact that the debt was recorded in the books of account of TSI, and had previously been regarded by the directors of TSI as a company debt, I do not accept this evidence.",
+      "id": "s246"
+    },
+    {
+      "text": "Gasp of Amazement Pty Ltd \n \n 77 The books and records of the company show that TSI owed $22,077.00 to Gasp of Amazement Pty Ltd ('Gasp') and that TSIA owed $3,409.00 to Gasp.",
+      "id": "s247"
+    },
+    {
+      "text": "TSI's records show that it incurred its debt to Gasp over the period from March 2001 to June 2002.",
+      "id": "s248"
+    },
+    {
+      "text": "TSIA's records show that it incurred its debt to Gasp between February 2003 and May 2003.",
+      "id": "s249"
+    },
+    {
+      "text": "Both Scott and Fairbank asserted that Gasp was a related company and no debt was due or payable.",
+      "id": "s250"
+    },
+    {
+      "text": "I am not prepared to act on the unsubstantiated assertions by Scott and Fairbank.",
+      "id": "s251"
+    },
+    {
+      "text": "Instead, I prefer the liquidator's evidence which is supported by the company's books and records in each case.",
+      "id": "s252"
+    },
+    {
+      "text": "Girotto Precast \n \n 78 Girotto Precast Pty Ltd ('Girotto Precast') was evidently a company associated with the individual who initially provided venture capital for the group, Steven Girotto.",
+      "id": "s253"
+    },
+    {
+      "text": "Girotto Precast has filed a proof of debt in the sum of $1,115,000.00 in the liquidation of TSI.",
+      "id": "s254"
+    },
+    {
+      "text": "Both Scott and Fairbank asserted that these monies were not due and payable to Girotto Precast.",
+      "id": "s255"
+    },
+    {
+      "text": "No evidence was led to substantiate their assertions.",
+      "id": "s256"
+    },
+    {
+      "text": "The onus is on the directors to substantiate the assertion that debts recorded in the books of account of TSI are not in fact due and payable, and to do so by satisfactory evidence.",
+      "id": "s257"
+    },
+    {
+      "text": "I am not prepared to act on assertions made by Scott and Fairbank.",
+      "id": "s258"
+    },
+    {
+      "text": "Paul Turner --- Focused Point Services Pty Ltd \n \n 79 The accounts of TSI show that TSI incurred a debt of $7,707.00 to Focused Point Services Pty Ltd in October 2001 and that this debt remained unpaid.",
+      "id": "s259"
+    },
+    {
+      "text": "The accounts of TSIA record that it owed a debt of $44,040.00 to Paul Turner (Focused Point Services) which was incurred between July 2001 and October 2001 and which remained unpaid as at 15 May 2003.",
+      "id": "s260"
+    },
+    {
+      "text": "Scott did not dispute the existence or quantum of these debts.",
+      "id": "s261"
+    },
+    {
+      "text": "In his oral evidence, he asserted that he made an arrangement with Turner in February 2003 under which Turner would not require payment of the debt until the end of June 2003.",
+      "id": "s262"
+    },
+    {
+      "text": "Fairbank said that Scott had told him of this arrangement.",
+      "id": "s263"
+    },
+    {
+      "text": "Fairbank also disputed the accuracy of the figure for the debt owed to Turner and Focused Point Services.",
+      "id": "s264"
+    },
+    {
+      "text": "Again, there was no written record of this arrangement and nothing else to substantiate the assertions made by Scott and Fairbank.",
+      "id": "s265"
+    },
+    {
+      "text": "I do no accept those assertions.",
+      "id": "s266"
+    },
+    {
+      "text": "MBA Partnership \n \n 80 TSIA's accounts record that TSIA owes a debt of $18,771.00 to MBA.",
+      "id": "s267"
+    },
+    {
+      "text": "The accounts show that the debt arose over the period from August 2002 to March 2003.",
+      "id": "s268"
+    },
+    {
+      "text": "In his oral evidence, Scott asserted that he had made an arrangement with Missen of MBA in December 2002 and January 2003 to the effect that MBA would wait three to four months for payment of the debt.",
+      "id": "s269"
+    },
+    {
+      "text": "81 It is difficult to reconcile this assertion with other evidence.",
+      "id": "s270"
+    },
+    {
+      "text": "In their respective reports as to the affairs of TSIA, both Scott and Fairbank said that TSIA owed a debt of $11,728.00 to MBA.",
+      "id": "s271"
+    },
+    {
+      "text": "There was no mention that a payment arrangement had been entered into in respect of this debt.",
+      "id": "s272"
+    },
+    {
+      "text": "There is no written record of the payment arrangement.",
+      "id": "s273"
+    },
+    {
+      "text": "In addition, Fairbank answered the liquidator's questionnaire in relation to the affairs of TSIA by saying that MBA had pressed for payment of its debt for months.",
+      "id": "s274"
+    },
+    {
+      "text": "I do not accept that any payment arrangement was made with MBA.",
+      "id": "s275"
+    },
+    {
+      "text": "82 It will be apparent from the foregoing that I reject the evidence given by Scott and Fairbank concerning these payment arrangements as self-serving and untruthful.",
+      "id": "s276"
+    },
+    {
+      "text": "I infer that they did not raise these claims concerning payment arrangements earlier because they were incapable of being supported by admissible evidence and would not withstand investigation if prior notice were to be given.",
+      "id": "s277"
+    },
+    {
+      "text": "83 In any event, even if I were to have regard to the payment arrangements asserted by Scott and Fairbank in respect of one or more of the creditors in question, it would not alter my conclusions as to the insolvency of TSI and TSIA throughout the six month relation back period.",
+      "id": "s278"
+    },
+    {
+      "text": "There were other debts which were not paid by each company as and when they fell due during the relation back period.",
+      "id": "s279"
+    },
+    {
+      "text": "Further, given these other debts, the claim that various payment arrangements were entered into with creditors serves to underlie the fact that the company did not have the financial capacity to meet its debts as and when they fell due during the relation back period.",
+      "id": "s280"
+    },
+    {
+      "text": "FUNDING FROM SWIFT MALAYSIA \n \n 84 The nub of the defence advanced by Scott and Fairbank, both in answer to the liquidator's claims and in defence of the indemnity claims brought against them by the Commissioner, was that an agreement existed between Swift Malaysia on the one hand and TSI Inc, TSI and TSIA on the other, whereby Swift Malaysia would pay the debts of TSI and TSIA as and when they fell due.",
+      "id": "s281"
+    },
+    {
+      "text": "85 The agreement takes the form of a letter dated 17 July 2002 from Swift Malaysia to TSI Inc that was countersigned on behalf of TSI Inc ('the July agreement').",
+      "id": "s282"
+    },
+    {
+      "text": "The letter is signed on behalf of Swift Malaysia by Bayoud.",
+      "id": "s283"
+    },
+    {
+      "text": "The second page of the letter contains additions in a different type face by which TSI Inc states that it accepts the arrangement proposed by Swift Malaysia subject to clarifications which are then set out.",
+      "id": "s284"
+    },
+    {
+      "text": "This additional segment of the letter was signed on behalf of the TSI Inc by Steven Girotto ('Girotto') and Fairbank in their capacity as directors of TSI Inc on, it seems, 19 July 2002 and 20 July 2002 respectively.",
+      "id": "s285"
+    },
+    {
+      "text": "86 So far as relevant, the letter of 17 July 2002 provided: \n \"This is to advise that Swift Securities &amp; Investments Limited (SSI) confirms the following offer: - \n \n \n 1.",
+      "id": "s286"
+    },
+    {
+      "text": "SSI to purchase all shares in Trader Systems International Pty.",
+      "id": "s287"
+    },
+    {
+      "text": "Ltd. (TSIP/L) and TSI Australia Limited (TSIA), subject to the requirements of Paul Turner and Marco Bragagnolo.",
+      "id": "s288"
+    },
+    {
+      "text": "2.",
+      "id": "s289"
+    },
+    {
+      "text": "In return SSI agrees to take over and be responsible for the liabilities of TSIP/L and TSIA and if appropriate to compromise those liabilities.",
+      "id": "s290"
+    },
+    {
+      "text": "This is subject to SSI being provided up to date and accurate financials for these companies including Profit and Loss statements and Balance sheets.",
+      "id": "s291"
+    },
+    {
+      "text": "3.",
+      "id": "s292"
+    },
+    {
+      "text": "SSI to have its nominated directors on the board of directors of TSIP/L and TSIA.",
+      "id": "s293"
+    },
+    {
+      "text": "It is proposed that Michael Cornips be the nominated director.",
+      "id": "s294"
+    },
+    {
+      "text": "SSI agrees to allowing Paul Turner and Marco Bragagnolo as directors on those boards.",
+      "id": "s295"
+    },
+    {
+      "text": "Apart from the above, the existing board of directors to resign.",
+      "id": "s296"
+    },
+    {
+      "text": "The retiring directors to give full disclosure and indemnities for this.",
+      "id": "s297"
+    },
+    {
+      "text": "4.",
+      "id": "s298"
+    },
+    {
+      "text": "The ongoing operations of TSIP/L and TSIA must be reduced (put into hibernation) so as to only maintain the existing client and subscription base and to allow the completion of Research and Development that has been proposed on the existing retail and enterprise products and for the retail product in China.",
+      "id": "s299"
+    },
+    {
+      "text": "To this end all staff unnecessary to carry out this activity must be removed or made redundant.",
+      "id": "s300"
+    },
+    {
+      "text": "Agreement to this condition is a condition precedent to the acceptance of this offer.",
+      "id": "s301"
+    },
+    {
+      "text": "In this regard both TSIA and TSIP/L are to be self-sustaining unless SSI otherwise agrees.",
+      "id": "s302"
+    },
+    {
+      "text": "5.",
+      "id": "s303"
+    },
+    {
+      "text": "A business plan for the hibernation phase and the proposed model to relaunch the retail product to be provided within the next two weeks.",
+      "id": "s304"
+    },
+    {
+      "text": "6.",
+      "id": "s305"
+    },
+    {
+      "text": "The identification of the needed staff to be by mutual agreement and in the absence of mutual agreement, to be determined by the director appointed by SSI.",
+      "id": "s306"
+    },
+    {
+      "text": "7.",
+      "id": "s307"
+    },
+    {
+      "text": "It is noted that TSIA have provided Bonds to SSI totalling AUD $350,000.00.",
+      "id": "s308"
+    },
+    {
+      "text": "These liabilities are to remain.",
+      "id": "s309"
+    },
+    {
+      "text": "8.",
+      "id": "s310"
+    },
+    {
+      "text": "It is proposed that upon completion of the Research and Development that new retail based services will then be available.",
+      "id": "s311"
+    },
+    {
+      "text": "SSI shall at its own discretion then determine the budgets, if any for further development, marketing and sales.",
+      "id": "s312"
+    },
+    {
+      "text": "If and when appropriate SSI may at its own discretion float, sell or otherwise dispose of the business or assets of TSIP/L and or TSIA.",
+      "id": "s313"
+    },
+    {
+      "text": "Please advise whether or not you accept this arrangement at your earliest convenience.",
+      "id": "s314"
+    },
+    {
+      "text": "If this arrangement is acceptable please execute your acceptance on the foot of this letter and we shall immediately move to heads of agreement and execution of share transfers so as to expedite the implementation and completion of these arrangements.",
+      "id": "s315"
+    },
+    {
+      "text": "' \n \n 87 The clarifications which are then set out at the foot of the second page of the 17 July letter state, so far as relevant:\n ' Trader Systems International Inc (TSI) accepts this arrangement subject to the following clarifications, using the numbering in this letter: \n \n \n 1.",
+      "id": "s316"
+    },
+    {
+      "text": "TSI agrees to sell all its shares in TSI P/L and TSIA to SSI and will use its best endeavours to persuade the pre-IM shareholders in TSIA to sell their interests in TSIA for their respective original investments if SSI wishes.",
+      "id": "s317"
+    },
+    {
+      "text": "2.",
+      "id": "s318"
+    },
+    {
+      "text": "Add \"and or full access to all the financial records of those companies.",
+      "id": "s319"
+    },
+    {
+      "text": "It is noted that two of the shareholders (direct or beneficial) and two of the directors of SSI were directors of one or both of the companies and or have had access to or been responsible for the preparation of some or all of these financial records.",
+      "id": "s320"
+    },
+    {
+      "text": "\" \n \n 3.",
+      "id": "s321"
+    },
+    {
+      "text": "After \"full disclosure\" add the same addition as in 2 above.",
+      "id": "s322"
+    },
+    {
+      "text": "4, 5 &amp; 6 TSI accepts the need for the reduction in operations for the purposes stated and agrees to make the necessary changes to its standard master licence agreement to not include the performance criteria in exclusive licences for 5 years, except if SSI is no longer the majority shareholder ... ... TSI will use its best endeavours to assist in the identification of the staff needed for carrying out the \"hibernation\" phase, however, the retaining or engaging of staff to carry out the business of TSIA and TSI P/L and their obligations in the new agreements with TSI will be SSI responsibilities.",
+      "id": "s323"
+    },
+    {
+      "text": "If SSI wishes the current directors of TSIA and TSI P/L to make redundant all surplus staff, they will do so prior to their resignations provided that the funds to meet all such redundancies are first provided by SSI.",
+      "id": "s324"
+    },
+    {
+      "text": "TSI will use its best endeavours to assist in the preparation of a business plan for the hibernation phase.",
+      "id": "s325"
+    },
+    {
+      "text": "7.",
+      "id": "s326"
+    },
+    {
+      "text": "The correct amount is $250,000 (TSIA bond s dated 18/12/01, 7/5/02 and 27/5/03).",
+      "id": "s327"
+    },
+    {
+      "text": "In addition there was a Pre-IM investment of $200,000 (letter dated 3/4/02).",
+      "id": "s328"
+    },
+    {
+      "text": "8. add, \"subject to all the then existing liabilities of and obligations on these companies pursuant to the non exclusive licence agreements to be entered into by them following the share transfers, which will terminate the existing licence agreements.",
+      "id": "s329"
+    },
+    {
+      "text": "\"' \n \n \n 88 In an affidavit sworn on 24 April 2006 (two days before the hearing of this proceeding commenced), Scott said that the agreement with Swift Malaysia was embodied in the July agreement, under which Swift Malaysia agreed to take over and be responsible for the liabilities of TSI and TSIA upon the terms and conditions there set out.",
+      "id": "s330"
+    },
+    {
+      "text": "Scott deposed that in total Swift Malaysia provided approximately $861,544.00 to TSI and TSIA, of which $461,500.00 approximately was provided under the July agreement.",
+      "id": "s331"
+    },
+    {
+      "text": "Scott also said that, until 13 May 2003, whenever he made a request for payment of any liability of either TSI and TSIA, those payments were made by Swift Malaysia and he had no reason to expect that those payments would not continue.",
+      "id": "s332"
+    },
+    {
+      "text": "According to Scott, the position changed on 13 May 2003 when Bayoud told him that Swift Malaysia was no longer able to provide financial support to TSI and TSIA in accordance with the terms of the July agreement.",
+      "id": "s333"
+    },
+    {
+      "text": "89 In his oral evidence, Scott confirmed that the arrangements with Swift Malaysia were embodied in the July agreement.",
+      "id": "s334"
+    },
+    {
+      "text": "However, he also made a series of far-reaching assertions about the effect of the July agreement.",
+      "id": "s335"
+    },
+    {
+      "text": "In his evidence in chief, he asserted that the July agreement contained an undertaking by Swift Malaysia to pay the then known liabilities of TSI and TSIA as and when they arose.",
+      "id": "s336"
+    },
+    {
+      "text": "He then elaborated that the agreement was that Swift Malaysia would pay any and all debts as they arose from the time of entering that agreement and onwards.",
+      "id": "s337"
+    },
+    {
+      "text": "Later in his evidence, Scott said that the undertaking by Swift Malaysia to be responsible for the liabilities of TSI and TSIA was the quid pro quo for the transfer of the shares in TSI and TSIA from TSI Inc to Swift Malaysia.",
+      "id": "s338"
+    },
+    {
+      "text": "The shares in TSI and TSIA were never transferred by TSI Inc to Swift Malaysia.",
+      "id": "s339"
+    },
+    {
+      "text": "When asked why would Swift Malaysia go on paying liabilities of TSI and TSIA when there was no performance of the corresponding obligation of TSI Inc to transfer shares to Swift Malaysia, Scott said that it was the arrangement that had been entered into and Swift was receiving the benefit of the output of the services of TSI for its own purposes.",
+      "id": "s340"
+    },
+    {
+      "text": "90 In his affidavit sworn 10 March 2006, Fairbank also said that the agreement with Swift Malaysia was embodied in the July agreement and that, of the $861,544.00 provided by Swift Malaysia to TSI and TSIA, the sum $461,554.00 was provided pursuant to the July agreement.",
+      "id": "s341"
+    },
+    {
+      "text": "In his oral evidence and in submissions, Fairbank made similar assertions to Scott as to the effect of the July agreement.",
+      "id": "s342"
+    },
+    {
+      "text": "91 The July agreement was an agreement between Swift Malaysia and TSI Inc; neither TSI nor TSIA was a party to it.",
+      "id": "s343"
+    },
+    {
+      "text": "The crux of the agreement was that Swift Malaysia agreed to purchase, and TSI Inc agreed to sell, all of its shares in TSI and TSIA, subject to the provisions of the agreement.",
+      "id": "s344"
+    },
+    {
+      "text": "In consideration of the sale of those shares, Swift Malaysia agreed to take over and be responsible for the liabilities of TSI and TSIA.",
+      "id": "s345"
+    },
+    {
+      "text": "The plain and natural meaning of these provisions is that Swift Australia was agreeing to take over and assume responsibility for the then known liabilities of TSI and TSIA as they stood at the date of sale.",
+      "id": "s346"
+    },
+    {
+      "text": "As set out in paragraph 2 of the letter, Swift Australia wished to verify the amount of those liabilities by reference to up to date and accurate financial statements for the companies.",
+      "id": "s347"
+    },
+    {
+      "text": "This was not entirely agreed by paragraph 2 of the clarifications: words were added providing that, as an alternative to up to date financial statements, Swift Malaysia would be given full access to all of the financial records of the companies.",
+      "id": "s348"
+    },
+    {
+      "text": "92 In critical respects, the July agreement was never performed.",
+      "id": "s349"
+    },
+    {
+      "text": "TSI Inc did not transfer any shares in TSI or TSIA to Swift Malaysia.",
+      "id": "s350"
+    },
+    {
+      "text": "Swift Malaysia was not provided either in July 2002 or at any time thereafter with up to date financial statements for TSI or TSIA.",
+      "id": "s351"
+    },
+    {
+      "text": "The existing board members of TSI and TSIA did not resign, and Swift Malaysia did not have its nominated directors appointed to TSI or TSIA.",
+      "id": "s352"
+    },
+    {
+      "text": "Although the activities of TSI and TSIA were reduced after July 2002, there is no evidence that the ongoing operations of those two companies were put into hibernation to the extent contemplated by paragraph 4 of the letter.",
+      "id": "s353"
+    },
+    {
+      "text": "There is no evidence of any business plan for the hibernation phase, or any proposed model to relaunch the retail product, being provided to Swift Malaysia within two weeks of 17 July 2002 or at all.",
+      "id": "s354"
+    },
+    {
+      "text": "93 I do not accept that the July agreement had the far-reaching effect asserted by Scott and Fairbank.",
+      "id": "s355"
+    },
+    {
+      "text": "Specifically, I do not accept that the July agreement contained any undertaking or promise by Swift Malaysia to pay the on-going liabilities of TSI and TSIA, regardless of the lack of performance of the other conditions set out in the agreement, including the transfer of the shares in TSI and TSIA.",
+      "id": "s356"
+    },
+    {
+      "text": "94 The evidence establishes that Swift Malaysia provided substantial advances from time to time to assist TSI and TSIA to meet pressing liabilities.",
+      "id": "s357"
+    },
+    {
+      "text": "I am satisfied that these were ad hoc loan arrangements between related companies.",
+      "id": "s358"
+    },
+    {
+      "text": "The funds provided by Swift Malaysia were recorded in the books of account of TSI and TSIA as loan funds.",
+      "id": "s359"
+    },
+    {
+      "text": "In his evidence, Scott said that the payments made by Swift Malaysia to TSI and TSIA were recorded as loans on the basis that the loans were to be repaid after research and development activities had been completed.",
+      "id": "s360"
+    },
+    {
+      "text": "This is not consistent with the proposition that the funds were provided as a matter of obligation under the terms of the July agreement.",
+      "id": "s361"
+    },
+    {
+      "text": "The funds were not provided by Swift Malaysia pursuant to any legally binding commitment enshrined in the July agreement or otherwise.",
+      "id": "s362"
+    },
+    {
+      "text": "95 I have given careful consideration to the evidence given by Scott and Fairbank.",
+      "id": "s363"
+    },
+    {
+      "text": "I carefully observed their demeanour when they were giving evidence.",
+      "id": "s364"
+    },
+    {
+      "text": "In my opinion, neither Scott nor Fairbank was a reliable or truthful witness.",
+      "id": "s365"
+    },
+    {
+      "text": "In the absence of corroborating evidence, I am not prepared to act on their assertions.",
+      "id": "s366"
+    },
+    {
+      "text": "In particular, I reject their evidence that Swift Malaysia was bound by the July agreement to provide funds to TSI and TSIA to enable those companies to discharge their liabilities as and when they arose.",
+      "id": "s367"
+    },
+    {
+      "text": "I am satisfied that Swift Malaysia never undertook any such obligation and, moreover, that it did not perform such an obligation.",
+      "id": "s368"
+    },
+    {
+      "text": "96 I am also satisfied that the funds actually advanced by Swift Malaysia directly, or via Swift Australia, to TSI and TSIA were not sufficient to enable either TSI or TSIA to pay their debts as and when they fell due.",
+      "id": "s369"
+    },
+    {
+      "text": "On the contrary, there is clear evidence that TSI and TSIA never had sufficient funds, whether from Swift Malaysia or elsewhere, to pay all of their debts as and when they fell due.",
+      "id": "s370"
+    },
+    {
+      "text": "It does not avail the directors to say that they used funds provided by Swift Malaysia to pay some of the larger and more pressing debts of TSI and TSIA, especially those, such as the debt to the Commissioner, which might expose the directors to personal liability.",
+      "id": "s371"
+    },
+    {
+      "text": "As Kirby P said in FAI Insurances Limited v Gold Leaf Interior Decorators Pty Ltd (1988) 14 NSWLR 643 at 649, a company's failure to pay a small debt may often be the best possible evidence of the company's insolvency.",
+      "id": "s372"
+    },
+    {
+      "text": "97 Given my factual findings, the decision in Lewis does not assist the directors.",
+      "id": "s373"
+    },
+    {
+      "text": "In any event, that was a very different case.",
+      "id": "s374"
+    },
+    {
+      "text": "There, a corporate reconstruction had resulted in a number of intercompany loans.",
+      "id": "s375"
+    },
+    {
+      "text": "Following the reconstruction, over a period of slightly more than three years, the company paid all of its debts as and when they fell due with the assistance of funds provided by other companies in the group.",
+      "id": "s376"
+    },
+    {
+      "text": "Over that period, there was no evidence of any of the usual indicia of insolvency, such as unpaid group tax or payroll tax or other unpaid debts.",
+      "id": "s377"
+    },
+    {
+      "text": "Most importantly, the funds provided by other group companies were sufficient at all relevant times to enable the company to discharge its debts as and when they fell due: see at 570-573 [74]-[82].",
+      "id": "s378"
+    },
+    {
+      "text": "The present case is very different, in that the related company was never providing sufficient funds to enable TSI and TSIA to pay their respective debts as and when they fell due.",
+      "id": "s379"
+    },
+    {
+      "text": "UNFAIR PREFERENCES \n \n 98 In the first proceeding, the liquidator alleges that each of the claimed payments was an unfair preference within the meaning of s 588FA.",
+      "id": "s380"
+    },
+    {
+      "text": "In the second proceeding concerning TSIA, the liquidator alleges that six payments, totalling $66,827.05, were unfair preferences.",
+      "id": "s381"
+    },
+    {
+      "text": "99 To establish these contentions, the liquidator must establish three things: (1) the payments were transactions; (2) the Commissioner received the payments in his capacity as a creditor; and (3) each payment resulted in the Commissioner receiving in respect of an unsecured debt more than he would receive if he proved for that debt in the winding up.",
+      "id": "s382"
+    },
+    {
+      "text": "100 There was no dispute as to the last requirement.",
+      "id": "s383"
+    },
+    {
+      "text": "The liquidator gave evidence that he did not expect to make any payment to unsecured creditors in either liquidation.",
+      "id": "s384"
+    },
+    {
+      "text": "Consequently, by receiving and retaining the benefit of the payments identified by the liquidator, the Commissioner would, in the words of the statutory test, receive from the company in respect of the debt 'more than the creditor would receive from the company in respect of the debt if the transaction were set aside and the creditor were to prove for the debt in a winding up of the company'.",
+      "id": "s385"
+    },
+    {
+      "text": "101 In my opinion, each relevant payment was a transaction within the meaning of s 9 of the Act.",
+      "id": "s386"
+    },
+    {
+      "text": "In the first proceeding, TSI was a party to each payment made to the Commissioner; the payment was either made pursuant to a garnishee order on TSI's bank account or, in one case, by TSI paying an amount to the Commissioner by a cheque drawn on its bank account.",
+      "id": "s387"
+    },
+    {
+      "text": "In the second proceeding, each alleged unfair preference payment was made by TSIA by cheque drawn on its bank account.",
+      "id": "s388"
+    },
+    {
+      "text": "102 The basis upon which Scott and Fairbank contended that the payments were not transactions was utterly misconceived.",
+      "id": "s389"
+    },
+    {
+      "text": "They argued that many of the payments were made directly by Swift Malaysia, or at least using monies that had been provided by Swift Malaysia.",
+      "id": "s390"
+    },
+    {
+      "text": "Alternatively, it was put that the payments were really made by or on behalf of the employees from whose wages tax deductions had been made.",
+      "id": "s391"
+    },
+    {
+      "text": "In fact, none of the relevant payments now in issue were made directly by Swift Malaysia or Swift Australia.",
+      "id": "s392"
+    },
+    {
+      "text": "It is irrelevant to the definition of transaction in s 9 that the company in question may have used funds borrowed from Swift Malaysia.",
+      "id": "s393"
+    },
+    {
+      "text": "The argument that the payments were really made by or on behalf of employees fails to take account of the relevant legislative provisions: see Income Tax Assessment Act 1997 (Cth), ss 255 -1 and 255 -5; and Taxation Administration Act 1953 (Cth), s 2(2) and s 3AA and Sch 1 (especially ss 12 -35, 12 -45, 16 - 5 , 16 -25, 16 -70, 16 -75 and 16 -80).",
+      "id": "s394"
+    },
+    {
+      "text": "Broadly stated, the effect of these provisions is that a company is legally obliged to withhold amounts from wages on account of income tax, the amounts withheld must be paid to the Commissioner, and the amounts withheld constitute a debt that is due and payable by the company to the Commonwealth.",
+      "id": "s395"
+    },
+    {
+      "text": "103 In each proceeding, the impugned payments constitute transactions within the meaning of s 9 , and the amounts in question were received by the Commissioner in its capacity as a creditor of the relevant company.",
+      "id": "s396"
+    },
+    {
+      "text": "104 I have already found that all of the relevant payments were made at a time when TSI or TSIA (as the case may be) was insolvent.",
+      "id": "s397"
+    },
+    {
+      "text": "Accordingly, each unfair preference payment was also an insolvent transaction within the meaning of s 588FC.",
+      "id": "s398"
+    },
+    {
+      "text": "UNCOMMERCIAL TRANSACTIONS \n \n 105 In the second proceeding concerning TSIA, the liquidator alleges that three payments made by TSIA to the Commissioner in discharge of TSI's tax liabilities constituted uncommercial transactions within the meaning of s 588FB(1).",
+      "id": "s399"
+    },
+    {
+      "text": "These payments were recorded in the relevant company accounts as loans made by TSIA to TSI, and the appropriateness of this characterisation is not challenged.",
+      "id": "s400"
+    },
+    {
+      "text": "106 The test for an uncommercial transaction posed by s 588FB(1) is that it may be expected that a reasonable person in the company's circumstances would not have entered into the transaction, having regard to the benefits and detriments to it of entering into the transaction, the respective benefits to other parties to the transaction, and any other relevant matter.",
+      "id": "s401"
+    },
+    {
+      "text": "107 In my opinion, the payments in question were uncommercial transactions.",
+      "id": "s402"
+    },
+    {
+      "text": "They conferred no benefit on TSIA.",
+      "id": "s403"
+    },
+    {
+      "text": "Indeed, the payments conferred only detriments on TSIA in that they had the effect of increasing the outstanding liabilities of TSI to TSIA in circumstances where there was no prospect that TSI would be able to repay the advances.",
+      "id": "s404"
+    },
+    {
+      "text": "This conclusion is supported by the decision in D'Aloia v Commissioner of Taxation (2003) 203 ALR 609 (' D'Aloia ').",
+      "id": "s405"
+    },
+    {
+      "text": "In D'Aloia , the issue was whether payments that had been made on behalf of another company for the discharge of its taxation debts were uncommercial transactions within the meaning of the Act.",
+      "id": "s406"
+    },
+    {
+      "text": "In return for making the payment, there was a reduction in the loan account of the company making the payment.",
+      "id": "s407"
+    },
+    {
+      "text": "Merkel J held that the transaction was uncommercial.",
+      "id": "s408"
+    },
+    {
+      "text": "His Honour said (at 613):\n 'The only benefit to Damark from making payments totalling in excess of $36,000 on behalf of Gralyn appears to have been the reduction in the loan account to Gralyn in the sum of $3775 and, possibly, the use of some of Gralyn's motor vehicles.",
+      "id": "s409"
+    },
+    {
+      "text": "However, the evidence is to the effect that the benefit to Damark was minor compared to the amount it paid.",
+      "id": "s410"
+    },
+    {
+      "text": "I am not satisfied that, having regard to the matters set out in s 588FB(1), a reasonable person in Damark's circumstances would have made the payments.",
+      "id": "s411"
+    },
+    {
+      "text": "Accordingly, subject to any defence under s 588FG(2), I am satisfied that the three payments in question constituted uncommercial transactions .",
+      "id": "s412"
+    },
+    {
+      "text": "'\n \n\nThe present is a stronger case than D'Aloia .",
+      "id": "s413"
+    },
+    {
+      "text": "Neither Scott nor Fairbank pointed in evidence, or in submissions, to any benefit to TSIA in making these tax payments on behalf of TSI.",
+      "id": "s414"
+    },
+    {
+      "text": "108 The payments made by TSIA to discharge TSI's tax liabilities to the Commissioner were insolvent transactions within the meaning of s 588FC; they were uncommercial transactions which were entered into when TSIA was insolvent.",
+      "id": "s415"
+    },
+    {
+      "text": "THE LIQUIDATOR IS ENTITLED TO RELIEF \n \n 109 For the foregoing reasons, I am satisfied that each of the payments challenged by the liquidator is voidable because of s 588FE.",
+      "id": "s416"
+    },
+    {
+      "text": "Each payment in question was an insolvent transaction of the relevant company and it was entered into during the six months ending on the relation back day.",
+      "id": "s417"
+    },
+    {
+      "text": "It is unnecessary to consider the longer relation back period relating to uncommercial transactions.",
+      "id": "s418"
+    },
+    {
+      "text": "110 In these circumstances, s 588FF(1)(a) and (c) empowers me to make the orders sought by the liquidator in each proceeding.",
+      "id": "s419"
+    },
+    {
+      "text": "In my view, it is appropriate to make orders under s 588FF in each proceeding in the terms sought by the liquidator.",
+      "id": "s420"
+    },
+    {
+      "text": "INDEMNITY FROM SCOTT AND FAIRBANK \n \n 111 Having found that an order should be made against the Commissioner pursuant to s 588FF(1) in the terms sought by the liquidator, the next question is whether the Commissioner is entitled to be indemnified by Scott and Fairbank in respect of any loss or damage resulting from that order.",
+      "id": "s421"
+    },
+    {
+      "text": "112 Two defences were raised.",
+      "id": "s422"
+    },
+    {
+      "text": "The first was that there was no relevant loss or damage for which indemnity could be sought.",
+      "id": "s423"
+    },
+    {
+      "text": "The second was that Scott and Fairbank had each proved that, at the payment time, he had reasonable grounds to expect, and did expect, that the company was solvent at that time and would remain solvent even if it made the payment.",
+      "id": "s424"
+    },
+    {
+      "text": "I propose to address the second question first.",
+      "id": "s425"
+    },
+    {
+      "text": "THE EXPECTATION OF SOLVENCY DEFENCE UNDER S 588FGB(3) \n \n 113 Section 588FGB(3) is expressed in the same terms as the former s 588H of the Corporations Law.",
+      "id": "s426"
+    },
+    {
+      "text": "Austin J explained the meaning and effect of s 588H in Tourprint International Pty Ltd (in liq) v Bott (1999) 32 ACSR 201 at 215 [67]:\n '\"Expectation\", as required by s 588H(2), means a higher degree of certainty than \"mere hope or possibility\" or \"suspecting\": 3M Australia Pty Ltd v Kemish (1986) 10 ACLR 371 at 378; Dunn v Shapowloff [1978] 2 NSWLR 235 at 249; (1978) 3 ACLR 775.",
+      "id": "s427"
+    },
+    {
+      "text": "The defence requires an actual expectation that the company was and would continue to be solvent, and that the grounds for so expecting are reasonable.",
+      "id": "s428"
+    },
+    {
+      "text": "A director cannot rely on a complete ignorance of or neglect of duty ( Metal Manufacturers Ltd v Lewis (1986) 11 ACLR 122 at 129) and cannot hide behind ignorance of the company's affairs which is of their own making or, if not entirely of their own making, has been contributed to by their own failure to make further necessary inquiries: Statewide Tobacco Services Ltd v Morley (1990) 2 ACSR 405; Morley v State Wide Tobacco Services Ltd [1993] 1 VR 423; (1992) 8 ACSR 305.",
+      "id": "s429"
+    },
+    {
+      "text": "' \n \n 114 The operation of the defence was described in similar terms by Einfeld J in Metropolitan Fire Systems Pty Ltd v Miller (1997) 23 ACSR 699 at 711:\n 'The onus of proof for these defences is on the director seeking to rely on them who must establish the elements of the defences on the balance of probabilities.",
+      "id": "s430"
+    },
+    {
+      "text": "The grounds on which the director forms the view as to the company's solvency or otherwise must be reasonable.",
+      "id": "s431"
+    },
+    {
+      "text": "This implies an objective consideration of the grounds viewed against all circumstances and not whether, when looked at from the point of view of the director in question, the grounds appear reasonable.",
+      "id": "s432"
+    },
+    {
+      "text": "The defences under s 588H require that there be reasonable grounds to \"expect\", as opposed to \"suspect\", solvency as provided in s 588G.",
+      "id": "s433"
+    },
+    {
+      "text": "From the cases in which the meaning of these words has been considered, it would appear that to \"suspect\" something requires a lower threshold of knowledge or awareness than to \"expect\" it: see a discussion on \"to suspect\" by Kitto J in Queensland Bacon Pty Ltd v Rees [1966] HCA 21 ; (1966) 115 CLR 266 at 303; [1966] ALR 855; and 3M Australia at 192.",
+      "id": "s434"
+    },
+    {
+      "text": "The expectation must be differentiated from mere hope in order to satisfy this defence: Dunn v Shapowloff [1978] NSWLR 235; (1978) 3 ACLR 775.",
+      "id": "s435"
+    },
+    {
+      "text": "It implies a measure of confidence that the company is solvent.",
+      "id": "s436"
+    },
+    {
+      "text": "The directors must have reasonable grounds for regarding it as likely that the company would at the relevant date have been able to pay its debts as and when they fall due.",
+      "id": "s437"
+    },
+    {
+      "text": "' \n \n\nEinfeld J also said at 703 that the requirement for objectively reasonable grounds must be judged by the standard appropriate to a director of ordinary competence: 3M Australia Pty Ltd v Kemish (1986) 10 ACLR 371 at 373.",
+      "id": "s438"
+    },
+    {
+      "text": "115 In their respective affidavits, Scott and Fairbank swore that, because of the financial support being provided by Swift Malaysia, he expected, and had reasonable grounds to expect, that the companies were solvent during the six month period ending 15 May 2003.",
+      "id": "s439"
+    },
+    {
+      "text": "It will be apparent from the factual findings I have already made that I do not accept this evidence.",
+      "id": "s440"
+    },
+    {
+      "text": "116 I am satisfied that Scott and Fairbank knew, during the relation back period, that TSI and TSIA were not able to pay their debts as and when they fell due.",
+      "id": "s441"
+    },
+    {
+      "text": "They both knew that payment arrangements had been entered into with the Commissioner and that those arrangements had not been complied with.",
+      "id": "s442"
+    },
+    {
+      "text": "They knew that funds had been advanced, ad hoc, by Swift Malaysia to enable TSI and TSIA to make payments to the Commissioner.",
+      "id": "s443"
+    },
+    {
+      "text": "But they also knew that the company was not able to pay other creditors as and when their debts fell due.",
+      "id": "s444"
+    },
+    {
+      "text": "They knew that substantial debts were outstanding, for instance, to the SRO, but took no steps to pay those debts.",
+      "id": "s445"
+    },
+    {
+      "text": "The fact that TSI and TSIA were delaying the payment of their debts to the SRO, and the SRO was not pressing for payment, does not mean that the debt to the SRO was anything other than due and payable and not being paid.",
+      "id": "s446"
+    },
+    {
+      "text": "Similarly, TSI and TSIA were not paying other debts as and when they fell due.",
+      "id": "s447"
+    },
+    {
+      "text": "I am satisfied that both Scott and Fairbank were well aware that this was the case.",
+      "id": "s448"
+    },
+    {
+      "text": "117 I have already indicated that I do not accept the evidence given by Scott and Fairbank concerning the asserted payment arrangements with creditors such as the SRO, Swinburne, and MBA.",
+      "id": "s449"
+    },
+    {
+      "text": "Scott's unsubstantiated assertions about these payment arrangements are not capable of discharging the onus that falls on the directors to establish the defence set out in s 588FGB(3): see Superior Press Pty Ltd v Deputy Commissioner of Taxation (2004) 55 ATR 541 (' Superior Press ')at 546-547.",
+      "id": "s450"
+    },
+    {
+      "text": "118 I am also satisfied that the financial support that was provided by Swift Malaysia did not provide Scott and Fairbank with reasonable grounds to expect that TSI and TSIA were solvent during the six months ending 15 May 2003, and that they would remain solvent even if they made the payments to the Commissioner with the support of Swift Malaysia.",
+      "id": "s451"
+    },
+    {
+      "text": "I refer to my earlier findings: the July agreement does not contain any obligation or undertaking by Swift Malaysia to provide funds to TSI and TSIA on a continuing basis to enable those companies to discharge their liabilities as and when they arose; and the funds actually advanced by Swift Malaysia and/or Swift Australia to TSI and TSIA were ad hoc loans and were not sufficient to enable either company to pay its debts as and when they fell due.",
+      "id": "s452"
+    },
+    {
+      "text": "119 I also consider that there was no evidence establishing that Scott and Fairbank could reasonably rely upon Swift Malaysia to provide all of the funds necessary to enable TSI and TSIA to pay their debts, on a continuing basis, as and when they fell due.",
+      "id": "s453"
+    },
+    {
+      "text": "120 No evidence was forthcoming as to the financial position of Swift Malaysia and Swift Australia during the six months period ended 15 May 2003.",
+      "id": "s454"
+    },
+    {
+      "text": "This was despite the fact that at all relevant times Scott was a director of each of Swift Malaysia, Swift Australia, TSI and TSIA.",
+      "id": "s455"
+    },
+    {
+      "text": "Fairbank gave evidence that he never asked Scott how Swift Malaysia was travelling.",
+      "id": "s456"
+    },
+    {
+      "text": "Based on general discussions with Scott, he said he had only a limited idea of what Swift Malaysia was doing.",
+      "id": "s457"
+    },
+    {
+      "text": "I see no basis in the evidence for a reasonable expectation on the part of Scott and Fairbank that Swift Malaysia could be relied upon to go on providing funds to TSI and TSIA, in such a way as to enable TSI and TSIA to discharge all their ongoing liabilities as and when they fell due.",
+      "id": "s458"
+    },
+    {
+      "text": "121 I have concluded, therefore, that Scott and Fairbank have not established the defence afforded by s 588FGB(3).",
+      "id": "s459"
+    },
+    {
+      "text": "LOSS AND DAMAGE \n \n 122 Scott and Fairbank also submitted that no indemnification order should be made against them pursuant to s 588FGA(2) because the Commissioner had not suffered 'any loss or damage resulting from the order'.",
+      "id": "s460"
+    },
+    {
+      "text": "I reject this submission.",
+      "id": "s461"
+    },
+    {
+      "text": "123 The first part of the submission was that any order against the Commissioner requiring it to repay amounts that were paid to the Commissioner in respect of ITW liabilities would simply involve unwinding preferential payments that the Commissioner had no entitlement to receive.",
+      "id": "s462"
+    },
+    {
+      "text": "On this basis, it was submitted that the Commissioner would not suffer any loss or damage.",
+      "id": "s463"
+    },
+    {
+      "text": "I disagree.",
+      "id": "s464"
+    },
+    {
+      "text": "By the order I propose to make in favour of the liquidator, the Commissioner will be required to repay amounts it received in payment of debts that were outstanding to the Commissioner.",
+      "id": "s465"
+    },
+    {
+      "text": "To the extent that those debts relate to ITW liabilities, an order requiring that the amounts in question be paid to the liquidator will cause loss or damage within the meaning of s 588FGA(2).",
+      "id": "s466"
+    },
+    {
+      "text": "Instead of retaining payments amounting to $29,260.82 in the case of TSI's ITW liabilities, and $107,329.99 in respect of ITW liabilities owed by TSIA, the Commissioner will have to prove in the winding up of TSI and TSIA respectively.",
+      "id": "s467"
+    },
+    {
+      "text": "As the liquidator said in evidence, unsecured creditors will not receive any distribution in the winding up of those companies.",
+      "id": "s468"
+    },
+    {
+      "text": "Consequently, the orders sought against the Commissioner will result in loss or damage: see Superior Press , per Byrne J at 548 [35]-[37].",
+      "id": "s469"
+    },
+    {
+      "text": "124 In the first proceeding, the Commissioner has agreed to submit to an order that he will pay the liquidator the sum of $16,865.33 in respect of interest and costs.",
+      "id": "s470"
+    },
+    {
+      "text": "The corresponding order in the second proceeding does not make any provision for interest or costs.",
+      "id": "s471"
+    },
+    {
+      "text": "Scott and Fairbank argue that interest and costs paid by the Commissioner to the liquidator forms no part of the loss or damage resulting from the s 588FF order.",
+      "id": "s472"
+    },
+    {
+      "text": "125 In Superior Press , Byrne J accepted that interest that the Commissioner is ordered to pay to the liquidator pursuant to s 588FF will constitute loss and damage suffered by the Commissioner within the meaning of s 588FGA(2), or at least it will do so when payment is made: at 549 [38].",
+      "id": "s473"
+    },
+    {
+      "text": "However, Byrne J took into account the fact that the interest ordered under s 588FF related to all of the impugned payments, whereas the indemnity under s 588FGA only relates to those payments which were made in respect of ITW liabilities.",
+      "id": "s474"
+    },
+    {
+      "text": "Accordingly, Byrne J adjusted the amount of interest to reflect the ratio of total tax payments recovered by the liquidator to the ITW tax payments that attracted indemnity.",
+      "id": "s475"
+    },
+    {
+      "text": "I propose to adopt a similar course.",
+      "id": "s476"
+    },
+    {
+      "text": "In TSI's case, the ITW liabilities of $29,260.82 represented 76.36 per cent of the payments totalling $38,319.55 which will be the subject of the order under s 588FF; and in TSIA's case, the ITW liabilities of $107,329.99 represented 67.15 per cent of the payments totalling $159,815.12 which are to be the subject of orders under s 588FF.",
+      "id": "s477"
+    },
+    {
+      "text": "126 Scott and Fairbank also submitted that any costs that the Commissioner might be required to pay to the liquidator of TSI pursuant to s 588FF should not attract indemnity under s 588FGA(2).",
+      "id": "s478"
+    },
+    {
+      "text": "In Superior Press , Byrne J accepted that if the Commissioner is ordered to pay costs to the liquidator in an appropriate amount, that will form part of the Commissioner's recoverable loss and damage under s 588FGA(2): at 549 [39]-[40].",
+      "id": "s479"
+    },
+    {
+      "text": "I agree.",
+      "id": "s480"
+    },
+    {
+      "text": "127 For these reasons, I reject the argument that the Commissioner has not suffered any recoverable loss or damage resulting from the order I propose to make in each proceeding under s 588FF.",
+      "id": "s481"
+    },
+    {
+      "text": "To the extent that the Commissioner is ordered to pay an amount to the liquidator in each case, representing the amount of payments it received in respect of ITW liabilities, and amounts in respect of interest and costs, those amounts can properly be the subject of an indemnification order.",
+      "id": "s482"
+    },
+    {
+      "text": "I am satisfied that the figure agreed for interest and costs in the first proceeding of $16,865.33 is an appropriate sum, and less than the figure that might have been awarded in the absence of agreement.",
+      "id": "s483"
+    },
+    {
+      "text": "I will, however, adjust this figure so as to take account of the ratio of ITW payments to total payments.",
+      "id": "s484"
+    },
+    {
+      "text": "ORDERS \n \n 128 At the commencement of these reasons for judgment, I set out the orders which the liquidator seeks in each proceeding as against the Commissioner.",
+      "id": "s485"
+    },
+    {
+      "text": "I propose to make orders in each proceeding in the form sought by the liquidator.",
+      "id": "s486"
+    },
+    {
+      "text": "129 As against Scott and Fairbank, the liquidator and the Commissioner seek the following orders in the first proceeding:\n (1) Anthony James Scott and Andrew Fairbank pay the liquidator's costs of and incidental to this proceeding for the period after 14 November 2005.",
+      "id": "s487"
+    },
+    {
+      "text": "(2) Anthony James Scott and Andrew Fairbank pay to the liquidator interest on the sum of $38,319.55 for the period after 14 November 2005 to the date of judgment.",
+      "id": "s488"
+    },
+    {
+      "text": "(3) Pursuant to section 588FGA(3) of the Corporations Act 2001 , Anthony James Scott and Andrew Fairbank pay the sum of $46,126.15 to the Commissioner.",
+      "id": "s489"
+    },
+    {
+      "text": "(4) Anthony James Scott and Andrew Fairbank pay the Commissioner's costs of and incidental to its cross claim.",
+      "id": "s490"
+    },
+    {
+      "text": "130 The liquidator submits that Scott and Fairbank should pay the liquidator his costs, and interest on the moneys recovered by the liquidator, from 14 November, that being the date upon which the liquidator and the Commissioner arrived at a settlement agreement.",
+      "id": "s491"
+    },
+    {
+      "text": "The Commissioner supports this submission.",
+      "id": "s492"
+    },
+    {
+      "text": "Both the liquidator and the Commissioner argue that the settlement was reached at a mediation in which Scott and Fairbank participated and, but for the unsuccessful arguments raised by Scott and Fairbank in this proceeding, final orders could have been made disposing of the whole proceeding on 14 November 2005.",
+      "id": "s493"
+    },
+    {
+      "text": "131 While I consider that the liquidator is entitled to recover costs from Scott and Fairbank, it would be too harsh to run the calculations from 14 November 2005.",
+      "id": "s494"
+    },
+    {
+      "text": "The more appropriate date from which to calculate costs is 13 December 2005, being the date upon which Finkelstein J made directions for the contested hearing of these two proceedings.",
+      "id": "s495"
+    },
+    {
+      "text": "Aside from the settlement agreement between the liquidator and the Commissioner, the liquidator would have been entitled to recover interest from the Commissioner in each proceeding pursuant to s 51A(1) of the Federal Court of Australia Act 1976 (Cth).",
+      "id": "s496"
+    },
+    {
+      "text": "In the ordinary course, interest would relate to the period from the date of demand by the liquidator for the repayment of the preferences until the date upon which such preferences were repaid: Ferrier v Civil Aviation Authority (1994) 55 FCR 28 at 92-93.",
+      "id": "s497"
+    },
+    {
+      "text": "In these proceedings, however, the liquidator did not advance any claim for the recovery of interest from the Commissioner, save and to the extent that the orders proposed in the first proceeding include an agreed amount of $16,865.33 in respect of interest and costs.",
+      "id": "s498"
+    },
+    {
+      "text": "The liquidator has not advanced any cause of action against Scott and Fairbank that would entitle him to recover interest directly from them.",
+      "id": "s499"
+    },
+    {
+      "text": "Furthermore, the Commissioner has not made any claim for the recovery of interest from Scott and Fairbank.",
+      "id": "s500"
+    },
+    {
+      "text": "The Commissioner's only entitlement against Scott and Fairbank is for an indemnity under s 588FGA and as the Commissioner is not exposed to any liability for interest in respect of the period after 14 November 2005, there is no basis for claiming interest against Scott and Fairbank in respect of that period.",
+      "id": "s501"
+    },
+    {
+      "text": "In my opinion, it is not appropriate to order that Scott and Fairbank make any payment of interest to the liquidator.",
+      "id": "s502"
+    },
+    {
+      "text": "132 As for the order that Scott and Fairbank pay $46,126.15 to the Commissioner, the figure has two components.",
+      "id": "s503"
+    },
+    {
+      "text": "The first component represents that part of the total payments of $38,319.55 that reflects the payment of ITW liabilities, namely $29,260.82.",
+      "id": "s504"
+    },
+    {
+      "text": "The second component represents the sum agreed between the Commissioner and the liquidator for interest and costs of $16,865.33.",
+      "id": "s505"
+    },
+    {
+      "text": "In my opinion, the second component is excessive.",
+      "id": "s506"
+    },
+    {
+      "text": "As I have explained, it needs to be reduced to take account of the fact that ITW liabilities represented only 76.36 per cent of the total figure of $38,319.55.",
+      "id": "s507"
+    },
+    {
+      "text": "Applying this percentage produces a figure of $12,878.37 for interest and costs, which I consider to be the appropriate measure of the Commissioner's loss and damage in this respect.",
+      "id": "s508"
+    },
+    {
+      "text": "133 It follows that the order referred to in sub-paragraph (3) above must be adjusted by substituting the amount of $42,139.19 for the sum of $46,126.15 proposed by the Commissioner.",
+      "id": "s509"
+    },
+    {
+      "text": "134 I consider that Scott and Fairbank should be ordered to pay the Commissioner's costs of and incidental to the cross-claim.",
+      "id": "s510"
+    },
+    {
+      "text": "135 Some adjustments must also be made to the orders which the liquidator and the Commissioner seek in the second proceeding.",
+      "id": "s511"
+    },
+    {
+      "text": "At the close of submissions, the liquidator and the Commissioner sought the following orders against Scott and Fairbank:\n (1) Anthony James Scott and Andrew Fairbank pay the liquidator's costs of and incidental to this proceeding for the period after 14 November 2005.",
+      "id": "s512"
+    },
+    {
+      "text": "(2) Anthony James Scott and Andrew Fairbank pay to the liquidator interest on the sum of $159,815.12 for the period after 14 November 2005 to the date of judgment.",
+      "id": "s513"
+    },
+    {
+      "text": "(3) Pursuant to s 588FGA(3) of the Corporations Act 2001 , Anthony James Scott and Andrew Fairbank pay the sum of $107,329.99 to the Commissioner.",
+      "id": "s514"
+    },
+    {
+      "text": "(4) Anthony James Scott and Andrew Fairbank pay the Commissioner's costs of and incidental to its cross-claim.",
+      "id": "s515"
+    },
+    {
+      "text": "136 In my opinion, the liquidator is entitled to an order for costs, but not interest, as against Scott and Fairbank.",
+      "id": "s516"
+    },
+    {
+      "text": "However, the relevant costs should relate to the period from 13 December 2005 to the date of judgment.",
+      "id": "s517"
+    },
+    {
+      "text": "137 There is no proposed order in the second proceeding requiring the Commissioner to pay any amount to the liquidator on account of interest or costs.",
+      "id": "s518"
+    },
+    {
+      "text": "There is accordingly no need for any adjustment of the figures put forward by the liquidator and the Commissioner in paragraph (3) above.",
+      "id": "s519"
+    },
+    {
+      "text": "The whole of the sum of $107,329.99 represents payments that the Commissioner received in relation to ITW liabilities and which it will be ordered to repay to the liquidator.",
+      "id": "s520"
+    },
+    {
+      "text": "138 Scott and Fairbank ought, in my view, to pay the Commissioner's costs of and incidental to its cross-claim.",
+      "id": "s521"
+    },
+    {
+      "text": "I certify that the preceding one hundred and thirty-eight (138) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Young.",
+      "id": "s522"
+    },
+    {
+      "text": "Associate:\n\nDated: 12 July 2006\n\n\n\n VID 8 of 2005 \n\n Counsel for the Applicant: P Agardy \n \n Solicitor for the Applicant: Dibbs Abbott Stillman Lawyers \n \n Counsel for the Respondent: PD Crutchfield and SD Hay \n \n Solicitor for the Respondent: Australian Taxation Office Legal Services Branch \n \n Counsel for Anthony James Scott PC Golombek \n \n Counsel for Anthony James Scott Harding AG Lawyers \n \n Counsel for Andrew Ian Fairbank A Fairbank appeared in person \n \n Date of Hearing: 26 to 28 April 2006 \n \n Date of Judgment: 12 July 2006 \n\n\n VID 9 of 2005 \n\n Counsel for the Applicant: P Agardy \n \n Solicitor for the Applicant: Dibbs Abbott Stillman Lawyers \n \n Counsel for the Respondent: PD Crutchfield and SD Hay \n \n Solicitor for the Respondent: Australian Taxation Office Legal Services Branch \n \n Counsel for Anthony James Scott PC Golombek \n \n Solicitor for Anthony James Scott Harding AG Lawyers \n \n Counsel for Andrew Fairbank A Fairbank appeared in person \n \n Counsel for Mark Merwan Bayoud There was no appearance for M Bayoud \n \n Date of Hearing: 26 to 28 April 2006 \n \n Date of Judgment: 12 July 2006 \n\n\n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2006/885.html",
+      "id": "s523"
+    }
+  ]
+}

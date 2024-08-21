@@ -1,0 +1,1428 @@
+{
+  "name": "Australian Securities and Investments Commission v Beekink (with Corrigendum dated 11 April 2006) [2006] FCA 388 (7 April 2006)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2006/388.html",
+  "catchphrases": [
+    {
+      "text": "pecuniary penalties",
+      "id": "c0"
+    },
+    {
+      "text": "managed investment schemes",
+      "id": "c1"
+    },
+    {
+      "text": "failure of directors to carry out duties",
+      "id": "c2"
+    },
+    {
+      "text": "wrongful granting of authority to act by one director",
+      "id": "c3"
+    },
+    {
+      "text": "reliance by two other directors upon the third director",
+      "id": "c4"
+    },
+    {
+      "text": "late admissions of breaches",
+      "id": "c5"
+    },
+    {
+      "text": "breaches serious",
+      "id": "c6"
+    },
+    {
+      "text": "remorse and contrition",
+      "id": "c7"
+    },
+    {
+      "text": "restitution to members suffering loss",
+      "id": "c8"
+    },
+    {
+      "text": "professional impacts of proposed penalties",
+      "id": "c9"
+    },
+    {
+      "text": "unblemished prior professional records",
+      "id": "c10"
+    },
+    {
+      "text": "whether disqualification order appropriate for director principally responsible",
+      "id": "c11"
+    },
+    {
+      "text": "quantum of pecuniary penalties for all three directors",
+      "id": "c12"
+    },
+    {
+      "text": "corporations law",
+      "id": "c13"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "1 This proceeding concerns the conduct of each of the defendants in their role as directors of Australian Managed Funds Limited ('AMF') during the time that AMF was the responsible entity of a managed investment scheme, the Clifton Partners Finance Mortgage Scheme ('the Scheme').",
+      "id": "s0"
+    },
+    {
+      "text": "2 The defendants admit that in certain specified respects their conduct as directors was in breach of the Corporations Act 2001 (Cth) ('the Act').",
+      "id": "s1"
+    },
+    {
+      "text": "As a consequence of those admissions the plaintiff seeks:\n \n (a) declarations of contravention of a civil penalty provision pursuant to s 1317E of the Act; and\n (b) the imposition of a penalty against each defendant for each breach.",
+      "id": "s2"
+    },
+    {
+      "text": "It follows from the admissions made by the defendants and their agreement to the form of declarations that it is necessary for these reasons to principally address only the question of penalty.",
+      "id": "s3"
+    },
+    {
+      "text": "RELEVANT STATUTORY PROVISIONS \n \n3 Chapter 5C of the Act regulates managed investment schemes.",
+      "id": "s4"
+    },
+    {
+      "text": "Part 5C.2 Div 1 addresses 'responsibilities and powers' of the responsible entity, its officers and employees.",
+      "id": "s5"
+    },
+    {
+      "text": "4 Section 601FB(1) of the Act provides that '[T]he responsible entity of a registered scheme is to operate the scheme and perform the functions conferred on it by the scheme's constitution and this Act'.",
+      "id": "s6"
+    },
+    {
+      "text": "Section 601FB(2) provides that although the responsible entity has power to appoint an agent or to otherwise engage a person to do anything that it is authorised to do in connection with the scheme, the responsible entity is taken to have done (or failed to have done) anything that the agent or person has done (or failed to do) even if they were acting fraudulently or outside the scope of their authority or engagement.",
+      "id": "s7"
+    },
+    {
+      "text": "5 Section 601FD , relevantly to the circumstances of this proceeding, addresses duties of officers of a responsible entity in the following terms:\n \n '(1) An officer of the responsible entity of a registered scheme must: \n \n \n \n (a) act honestly; and \n (b) exercise the degree of care and diligence that a reasonable person would exercise if they were in the officer's position; and \n (c) ... \n (d) ... \n (e) ... \n (f) take all steps that a reasonable person would take, if they were in the officer's position, to ensure that the responsible entity complies with: \n \n \n \n (i) this Act; and \n (ii) any conditions imposed on the responsible entity's Australian financial services licence; and \n (iii) the scheme's constitution; and \n (iv) the scheme's compliance plan.",
+      "id": "s8"
+    },
+    {
+      "text": "(2) A duty of an officer of the responsible entity under subsection (1) overrides any conflicting duty the officer has under Part 2D.1.",
+      "id": "s9"
+    },
+    {
+      "text": "(3) A person who contravenes, or is involved in a contravention of, subsection (1) contravenes this subsection.",
+      "id": "s10"
+    },
+    {
+      "text": "(4) A person must not intentionally or recklessly contravene, or be involved in a contravention of, subsection (1).",
+      "id": "s11"
+    },
+    {
+      "text": "' \n \n\n6 The word 'involved' used in s 601FD(3) is defined by s 79 as follows:\n \n '79.",
+      "id": "s12"
+    },
+    {
+      "text": "A person is involved in a contravention if, and only if, the person: \n \n \n \n (a) has aided, abetted, counselled or procured the contravention; or \n (b) has induced, whether by threats or promises or otherwise, the contravention; or \n (c) has been in any way, by act or omission, directly or indirectly, knowingly concerned in, or party to, the contravention; or \n (d) has conspired with others to effect the contravention.",
+      "id": "s13"
+    },
+    {
+      "text": "' \n \n \n\n7 Section 1317E of the Act provides that if a Court is satisfied that a person has contravened certain provisions (which include s 601FD(3)) it must make a declaration of contravention.",
+      "id": "s14"
+    },
+    {
+      "text": "Section 1317E(2) provides that a declaration of contravention must specify:\n \n '(a) the Court that made the declaration; \n \n \n (b) the civil penalty provision that was contravened; \n (c) the person who contravened the provision; \n (d) the conduct that constituted the contravention; \n (e) if the contravention is of a corporation/scheme civil penalty provision - the corporation or registered scheme to which the conduct related.",
+      "id": "s15"
+    },
+    {
+      "text": "' \n \n\n8 Section 1317G relevantly makes provision with respect to pecuniary penalty orders, as follows:\n \n '1317G \n \n \n \n (1) A Court may order a person to pay the Commonwealth a pecuniary penalty of up to $200,000 if: \n \n \n \n (a) a declaration of contravention by the person has been made under section 1317E ; and \n (aa) the contravention is of a corporation/scheme civil penalty provision; and \n (b) the contravention: \n \n \n (i) materially prejudices the interests of the corporation or scheme, or its members; or \n (ii) materially prejudices the corporation's ability to pay its creditors; or \n (iii) is serious.",
+      "id": "s16"
+    },
+    {
+      "text": "' \n \n\n9 In the case of the first defendant, the plaintiff also seeks a disqualification order based on s 206C of the Act.",
+      "id": "s17"
+    },
+    {
+      "text": "That section reads:\n \n '206C \n \n (1) On application by ASIC, the Court may disqualify a person from managing corporations for a period that the Court considers appropriate if: \n \n (a) a declaration is made under section 1317E (civil penalty provision) that the person has contravened a corporation/scheme civil penalty provision; and \n (b) the Court is satisfied that the disqualification is justified.",
+      "id": "s18"
+    },
+    {
+      "text": "(2) In determining whether the disqualification is justified, the Court may have regard to: \n \n (a) the person's conduct in relation to the management, business or property of any corporation; and \n (b) any other matters that the Court considers appropriate.",
+      "id": "s19"
+    },
+    {
+      "text": "' \n CIRCUMSTANCES OF THE CONTRAVENTIONS \n \n10 A statement of agreed facts is before the Court.",
+      "id": "s20"
+    },
+    {
+      "text": "The following account of the circumstances of the contraventions of the Act is derived from that statement.",
+      "id": "s21"
+    },
+    {
+      "text": "11 A Dealers Licence ('the Licence') to be the responsible entity of the Scheme was issued by the plaintiff to AMF after an application was made by the defendants on its behalf.",
+      "id": "s22"
+    },
+    {
+      "text": "It was supported by the defendants' expertise in areas relevant to the type of licence sought.",
+      "id": "s23"
+    },
+    {
+      "text": "12 The Licence authorised AMF to operate the Scheme and carry on a securities business as the responsible entity of the Scheme.",
+      "id": "s24"
+    },
+    {
+      "text": "Conditions of the Licence included requirements that the responsible entity establish and maintain adequate training, supervision and compliance procedures to ensure its employees and agents did not contravene, relevantly, a securities law.",
+      "id": "s25"
+    },
+    {
+      "text": "13 The operations of the Scheme were governed by its Constitution , a Custodial Agreement and a Compliance Plan.",
+      "id": "s26"
+    },
+    {
+      "text": "The Compliance Plan required each prospectus issued by the responsible entity to be the subject of a due diligence procedure whereby material statements and assertions in the prospectus and all financial data were to be the subject of review by the directors of the responsible entity (cl 140).",
+      "id": "s27"
+    },
+    {
+      "text": "Clause 140 with cl 141 also required the directors of the responsible entity to read and review all prospectuses.",
+      "id": "s28"
+    },
+    {
+      "text": "Clauses 147 and 150 of the Compliance Plan required the responsible entity to undertake training of persons giving advice regarding prospectuses and for such training to be conducted regularly.",
+      "id": "s29"
+    },
+    {
+      "text": "14 The Scheme, as set out in the Constitution and the Licence, related to the operation of the finance broker, Clifton Partners Finance which was owned and operated by Clifton Partners Finance Pty Ltd ('Clifton Partners').",
+      "id": "s30"
+    },
+    {
+      "text": "It enabled the offer by the responsible entity to the public of interests in the Scheme consisting of the ability to participate in private mortgage loans originated and managed by Clifton Partners.",
+      "id": "s31"
+    },
+    {
+      "text": "Clifton Partners was appointed as custodian of the Scheme assets and agent of the responsible entity for the purpose of the day to day management of the Scheme pursuant to the Custodial Agreement.",
+      "id": "s32"
+    },
+    {
+      "text": "15 The interests were offered, in accordance with the requirements of the Act, to the public by way of prospectus.",
+      "id": "s33"
+    },
+    {
+      "text": "Prospectuses consisted of two parts.",
+      "id": "s34"
+    },
+    {
+      "text": "The first was a generic part explaining the respective roles of AMF as responsible entity and Clifton Partners as agent.",
+      "id": "s35"
+    },
+    {
+      "text": "The second contained details of the specific mortgage loan on offer to the public.",
+      "id": "s36"
+    },
+    {
+      "text": "16 On about 3 February 2000, a second part prospectus was issued by AMF by which it was sought to raise the sum of $320 000 from the public to be loaned to Onslow Trading Company Pty Ltd ('Onslow Trading Company') to complete the building of the Blackrock Caravan Park ('the Caravan Park') in Port Hedland.",
+      "id": "s37"
+    },
+    {
+      "text": "The sum of $2.2 million had earlier been raised by Clifton Partners to fund the building of the Caravan Park.",
+      "id": "s38"
+    },
+    {
+      "text": "17 The second part prospectus was not read by any of the defendants.",
+      "id": "s39"
+    },
+    {
+      "text": "18 The second part prospectus and the material annexed to it was materially false and misleading in the following respects: \n \n (a) It implied that the sum of $320 000 would complete the Caravan Park because constructions costs were running significantly over initial budget and construction was significantly behind schedule.",
+      "id": "s40"
+    },
+    {
+      "text": "A further $1.6 million was then budgeted as required for completion;\n (b) It did not disclose that the Caravan Park was being built in stages and that when it opened, which was incorrectly said to be in February 2000, only part of the Caravan Park would be operational.",
+      "id": "s41"
+    },
+    {
+      "text": "Further the prospectus never disclosed that the full amount of the loan was insufficient to complete the Caravan Park;\n (c) Projections of income in the prospectus were based on many incorrect assumptions including that the full sum loaned would be available for constructions costs, the Caravan Park would open on time and amounts that would be paid by the occupants;\n (d) Even though substantial monies had already been loaned to Onslow Trading Company over a period of time it did not disclose to investors that to date Onslow Trading Company had not repaid any sum out of its own funds and that of the $320 000 sought to be raised, not all of it would be available for construction costs as some would be retained as a performance bond;\n (e) It contained incorrect financial information about Onslow Trading Company and its directors who had given guarantees of repayment of the loan; and \n (f) It annexed cash flow projections and financial information relating to the guarantors that were false and misleading.",
+      "id": "s42"
+    },
+    {
+      "text": "19 The second part prospectus had been prepared by Clifton Partners, specifically by Mr William Harmer.",
+      "id": "s43"
+    },
+    {
+      "text": "It was signed by him on behalf of each of the defendants.",
+      "id": "s44"
+    },
+    {
+      "text": "The first defendant, with the acquiescence of the second and third defendants, had from the start of the Scheme assumed the power and duty to make decisions about the day to day management of the responsible entity including overseeing the operations of Clifton Partners and issuing prospectuses.",
+      "id": "s45"
+    },
+    {
+      "text": "It was the first defendant who had authorised Mr Harmer, among others, at Clifton Partners to sign prospectuses on behalf of the responsible entity without first referring the prospectus to the responsible entity or to the first defendant for a detailed review.",
+      "id": "s46"
+    },
+    {
+      "text": "20 Amounts of up to $100 000 were invested by investors to a total sum of $325 000 as a consequence of the receipt of the first and second part prospectus.",
+      "id": "s47"
+    },
+    {
+      "text": "Onslow Trading Company failed and was placed into liquidation.",
+      "id": "s48"
+    },
+    {
+      "text": "The Caravan Park was not completed and was sold for a sum significantly less than the sum required to repay investors who recovered a return on investment of only 35.3 per cent of capital.",
+      "id": "s49"
+    },
+    {
+      "text": "AGREED CONTRAVENTIONS \n \n21 As described in the agreed statement of facts, the contraventions by the defendants were as follows.",
+      "id": "s50"
+    },
+    {
+      "text": "'39.",
+      "id": "s51"
+    },
+    {
+      "text": "After appointing Clifton Partners as its custodian and agent, the defendants failed to provide adequate training to Clifton Partners and its staff to ensure that they understood their obligations in the preparation of material for a second part prospectus as required by: \n \n \n 39.1 Clause 2 of the [L]icence; and \n 39.2 Clauses 147 and 150 of the Compliance Plan, and \n \n \n this failure constitutes a breach of s.601FD(1)(f) of the Corporations Act .",
+      "id": "s52"
+    },
+    {
+      "text": "40.",
+      "id": "s53"
+    },
+    {
+      "text": "Prior to the Second Part Prospectus being distributed the defendants did not take reasonable steps to ensure that the Second Part Prospectus was read by AMF prior to the Second Part Prospectus as was required by clause 140 of the Compliance Plan and that failure constitutes a breach of s.601FD(1)(f)(iv) of the Corporations Act .",
+      "id": "s54"
+    },
+    {
+      "text": "41.",
+      "id": "s55"
+    },
+    {
+      "text": "In addition the defendants failed to take all reasonable steps to ensure that AMF undertook adequate due diligence with respect to material statements in the Second Part Prospectus and this failure constitutes a breach of s601FD(1)(f)(iv) of the Corporations Act .",
+      "id": "s56"
+    },
+    {
+      "text": "' \n \n\n22 Later in these reasons these will be described respectively as the first, second and third contraventions.",
+      "id": "s57"
+    },
+    {
+      "text": "PLAINTIFF'S GENERAL SUBMISSIONS ON PENALTY \n \n23 The plaintiff submits that one of the main objects of the imposition of a penalty is deterrence.",
+      "id": "s58"
+    },
+    {
+      "text": "Particular reliance is placed on what was said in Australian Securities and Investments Commission v Vizard [2005] FCA 1037 ; (2005) 219 ALR 714 at 723, at [33] by Finkelstein J:\n \n 'While retribution is important as a stamp of society's disapproval of particular conduct, the governing principle of \"sentencing\" in cases of the kind with which we are concerned is general deterrence.",
+      "id": "s59"
+    },
+    {
+      "text": "The sentence must be exemplary and sufficient so that members of the business community are put on notice that if they break the trust which has been reposed in them they will receive a proper punishment.",
+      "id": "s60"
+    },
+    {
+      "text": "It is vital not only in the interests of the business community but in the interests of society that leaders of that community will act honestly in all their dealings.",
+      "id": "s61"
+    },
+    {
+      "text": "Any slip from the high standards demanded of directors can put at risk the fortunes of their company and also the fortunes (large or small) of those who invest in them.",
+      "id": "s62"
+    },
+    {
+      "text": "In extreme cases the misconduct can affect the economy as a whole.",
+      "id": "s63"
+    },
+    {
+      "text": "' \n \n\nAlso see [48] of his Honour's reasons.",
+      "id": "s64"
+    },
+    {
+      "text": "24 The plaintiff submits that the breaches by each of the defendants are serious.",
+      "id": "s65"
+    },
+    {
+      "text": "The defendants did not ensure that the responsible entity's agent could do the job it was appointed to do by ensuring it was properly trained, as was required by the Licence and the Compliance Plan.",
+      "id": "s66"
+    },
+    {
+      "text": "The defendants, it is argued, did not read, much less undertake any due diligence, with respect to the issue of a prospectus seeking to raise money from the public, as was required to be done by the Compliance Plan.",
+      "id": "s67"
+    },
+    {
+      "text": "It is submitted these matters all represent a fail to comply with the obligations contained in documents containing the fundamental obligations of the Scheme.",
+      "id": "s68"
+    },
+    {
+      "text": "25 Additionally it is submitted that it is significant that each of the defendants were practising lawyers at the time of the breaches.",
+      "id": "s69"
+    },
+    {
+      "text": "This, it is said, is because they had greater expertise in ascertaining their obligations than an ordinary member of the public.",
+      "id": "s70"
+    },
+    {
+      "text": "26 Further, it is submitted that although liability is admitted it has occurred close to trial and only after the plaintiff was put to substantial proof of its case by the preparation of voluminous affidavits.",
+      "id": "s71"
+    },
+    {
+      "text": "27 The submissions in relation to disqualification will be addressed in relation to the first defendant, being the only defendant in respect of which such an order is sought.",
+      "id": "s72"
+    },
+    {
+      "text": "28 Furthermore, the plaintiff submits it should be kept in mind that it is the nature of the offence rather than the character of the offender that should be the principal consideration: Vizard at [37].",
+      "id": "s73"
+    },
+    {
+      "text": "Consequently, it is said, any contrition must therefore be weighed against the serious nature of the contraventions in this case.",
+      "id": "s74"
+    },
+    {
+      "text": "PECUNIARY PENALTY IN RESPECT OF THE SECOND AND THIRD DEFENDANTS \n PLAINTIFF'S SUBMISSIONS \n \n29 The plaintiff relies on the fact that in the application for the Licence it was proposed that the third defendant would be the managing director, having overall responsibility for running AMF, and that the second defendant would be the director to provide back up to the first defendant.",
+      "id": "s75"
+    },
+    {
+      "text": "Neither of these occurred.",
+      "id": "s76"
+    },
+    {
+      "text": "30 Further, the plaintiff submits that both the second and third defendants had significant and important roles in the operation of the responsible entity and both allowed the assumption by the first defendant of the day to day management of the responsible entity.",
+      "id": "s77"
+    },
+    {
+      "text": "Each of them is said to have acquiesced in the assumption by the first defendant of the power and duty to make day to day decisions and failed to put in place any formal and transparent processes, such as minuted meetings of directors with a reporting plan, at which the first defendant could report to them about the operations of Clifton Partners, especially in respect to the raising of funds by way of the issue of prospectuses.",
+      "id": "s78"
+    },
+    {
+      "text": "31 The plaintiff concedes that the second and third defendants relied on the first defendant who was also their partner in legal practice, to bring to their attention any change or departure from the usual and conventional practice and that neither of them was aware that the authority to sign prospectuses without review had been given by the first defendant to Clifton Partners.",
+      "id": "s79"
+    },
+    {
+      "text": "However, it is submitted by the plaintiff that this was a problem of their own making, and they clearly and completely abrogated their responsibilities.",
+      "id": "s80"
+    },
+    {
+      "text": "32 The plaintiff acknowledges the difference in the position of the second and third defendants from that of the first defendant and as a consequence states that it no longer seeks a disqualification order against either of them.",
+      "id": "s81"
+    },
+    {
+      "text": "Nevertheless, it submits that a significant civil penalty in the nature of a pecuniary penalty should be imposed against each of them.",
+      "id": "s82"
+    },
+    {
+      "text": "33 Further, the Court has been informed that a consequence flowing from the admissions is that the defendants have agreed to and offered payment to each of the investors under the prospectus.",
+      "id": "s83"
+    },
+    {
+      "text": "The total amount to be repaid is $207 040 and will recompense investors for the capital loss suffered.",
+      "id": "s84"
+    },
+    {
+      "text": "It is not total compensation because the investors have been without the money for a considerable period of time.",
+      "id": "s85"
+    },
+    {
+      "text": "This is in circumstances where the plaintiff had made the decision to not seek a compensation order.",
+      "id": "s86"
+    },
+    {
+      "text": "The first defendant will personally pay half of the monies and the remaining half is to be paid by Phillips Fox.",
+      "id": "s87"
+    },
+    {
+      "text": "DEFENDANTS' STATEMENTS AND CHARACTER EVIDENCE \n \n34 On behalf each of the defendants there is filed with the Court individual statements together with character references.",
+      "id": "s88"
+    },
+    {
+      "text": "Second defendant \n \n35 The second defendant states that he was admitted to legal practice in 1972.",
+      "id": "s89"
+    },
+    {
+      "text": "Initially he was a partner in a firm from 1974 and in 1998 his firm merged with the Perth office of Phillips Fox as it stood at the time the contravening conduct occurred, of which he became a partner.",
+      "id": "s90"
+    },
+    {
+      "text": "He worked with the first defendant in the property law and general commercial division of the firm.",
+      "id": "s91"
+    },
+    {
+      "text": "The managing partner of the firm was the third defendant.",
+      "id": "s92"
+    },
+    {
+      "text": "Since the contravening conduct occurred, the second defendant has ceased to be an equity partner of the firm, becoming a part-time salaried partner.",
+      "id": "s93"
+    },
+    {
+      "text": "36 The second defendant was a member of the Property Law Committee of the Law Society of Western Australia from 1983 - 1988 and Convenor of that Committee from 1995 - 1998.",
+      "id": "s94"
+    },
+    {
+      "text": "He has been involved in bodies associated with property law, including the Land Permanent Committee and the Settlement Agents Supervisory Board.",
+      "id": "s95"
+    },
+    {
+      "text": "He is a past board member of a primary and secondary school to which he was the honorary solicitor for a period of 25 years.",
+      "id": "s96"
+    },
+    {
+      "text": "He has also been the honorary solicitor to a charitable trust.",
+      "id": "s97"
+    },
+    {
+      "text": "He has been a board member of a not for profit community newspaper.",
+      "id": "s98"
+    },
+    {
+      "text": "37 Additionally, the second defendant has been a director of various Australian Stock Exchange listed companies since about 1983.",
+      "id": "s99"
+    },
+    {
+      "text": "He is presently a director of two private unlisted companies, as well as a director of his own family companies.",
+      "id": "s100"
+    },
+    {
+      "text": "38 In his statement, the second defendant says that as a result of discussions held prior to 22 December 1999, he formed the view that, given his greater expertise in the managed investment regime, the first defendant would have day to day responsibility for the affairs of AMF and he would draw to the second and third defendants' attention any matters that required consideration and would arrange any required meetings of directors.",
+      "id": "s101"
+    },
+    {
+      "text": "He also confirms he was not aware of any authority being given to Clifton Partners for them to sign a second part prospectus on his behalf.",
+      "id": "s102"
+    },
+    {
+      "text": "39 The second defendant expresses serious regret for his contraventions of the Act.",
+      "id": "s103"
+    },
+    {
+      "text": "He recognises there were affirmative obligations on the directors of AMF and that more should have been done to ensure proper control over the issue of the second part prospectus.",
+      "id": "s104"
+    },
+    {
+      "text": "40 The second defendant states that since he has been in legal practice he has never been the subject of any complaint that has resulted in any disciplinary or other proceeding against him.",
+      "id": "s105"
+    },
+    {
+      "text": "He has taken his responsibilities as a legal practitioner and a company director seriously and endeavoured to fulfil those obligations.",
+      "id": "s106"
+    },
+    {
+      "text": "41 The second defendant's statement is supported by three references.",
+      "id": "s107"
+    },
+    {
+      "text": "The first is from a recently retired person who held senior management positions with a number of private and public companies.",
+      "id": "s108"
+    },
+    {
+      "text": "He has known the second defendant for more than 20 years and has been involved with him in the management of a number of public companies.",
+      "id": "s109"
+    },
+    {
+      "text": "He has found him to be careful and concerned that directors act properly at all times.",
+      "id": "s110"
+    },
+    {
+      "text": "On a personal level, he has never found the second defendant other than completely honest and has no doubt as to his integrity.",
+      "id": "s111"
+    },
+    {
+      "text": "He is aware that the second defendant has been deeply affected by this proceeding and values his reputation and good standing in his profession and in the community.",
+      "id": "s112"
+    },
+    {
+      "text": "42 The second reference is from a person who has known the second defendant since the 1980s and retained him to act in a number of personal property and commercial transactions and has been involved in a number of business ventures and investments with him.",
+      "id": "s113"
+    },
+    {
+      "text": "He has found the second defendant at all times to be completely ethical, honest and careful to ensure that all commercial and company transactions were properly documented and completed.",
+      "id": "s114"
+    },
+    {
+      "text": "43 The third reference is from a solicitor in private practice who was formerly a partner of law firms with the second defendant and has been a business partner with him in a number of private investments.",
+      "id": "s115"
+    },
+    {
+      "text": "He has found him to be honest and of the highest integrity.",
+      "id": "s116"
+    },
+    {
+      "text": "He also believes the second defendant to have been genuinely affected by the proceeding.",
+      "id": "s117"
+    },
+    {
+      "text": "He states that the second defendant has always wanted to ensure that regulatory and compliance matters are attended to fully and properly.",
+      "id": "s118"
+    },
+    {
+      "text": "Third defendant \n \n44 In his statement the third defendant refers to having been admitted as a legal practitioner in 1980.",
+      "id": "s119"
+    },
+    {
+      "text": "He became a partner in 1983 and has continued in such partnership until this day.",
+      "id": "s120"
+    },
+    {
+      "text": "He is presently the managing partner of the firm.",
+      "id": "s121"
+    },
+    {
+      "text": "He is also a director of certain companies.",
+      "id": "s122"
+    },
+    {
+      "text": "45 Outside the firm the third defendant holds a number of positions on committees of his church, his profession and other bodies.",
+      "id": "s123"
+    },
+    {
+      "text": "46 He states that he became a director of AMF on 13 September 1999 because he was the managing partner.",
+      "id": "s124"
+    },
+    {
+      "text": "He says that the first defendant was a director because he had primary responsibility within the firm for work in the relevant area and the second defendant was appointed because he was a partner in the property law and general commercial division of the firm.",
+      "id": "s125"
+    },
+    {
+      "text": "47 The third defendant states that he left the day to day management of the company to the first defendant given that he had developed a greater level of expertise in the Act.",
+      "id": "s126"
+    },
+    {
+      "text": "He was aware the first defendant spent a great deal of time at the offices of Clifton Partners.",
+      "id": "s127"
+    },
+    {
+      "text": "He expected that the first defendant would inform him of any meetings of AMF directors as he had the day to day responsibility for dealing with Clifton Partners' matters.",
+      "id": "s128"
+    },
+    {
+      "text": "He was unaware of authority given by the first defendant to members of Clifton Partners to sign off on second part prospectuses.",
+      "id": "s129"
+    },
+    {
+      "text": "48 He also expresses regret at his failure as a director of AMF to fully discharge his obligations.",
+      "id": "s130"
+    },
+    {
+      "text": "49 The third defendant provides two character references.",
+      "id": "s131"
+    },
+    {
+      "text": "The first is from a financial advisor to the Archdiocese of Perth where the third defendant has served on the Archbishop's Finance Advisory Committee and Catholic Development Fund Committee, including two years as chairman.",
+      "id": "s132"
+    },
+    {
+      "text": "The reference states that he has been a straight forward and trustworthy committee member who has been relied on to deal with a number of sensitive and confidential issues.",
+      "id": "s133"
+    },
+    {
+      "text": "The second reference is from the general manager of a management service who states that the third defendant is hardworking, conscientious and honest.",
+      "id": "s134"
+    },
+    {
+      "text": "He attests to his reputation through his professionalism and general care for community values.",
+      "id": "s135"
+    },
+    {
+      "text": "DEFENDANTS' SUBMISSIONS \n \n50 For each of the defendants it is submitted that their conduct involved no recklessness, dishonesty or intention to obtain a personal benefit from their position.",
+      "id": "s136"
+    },
+    {
+      "text": "51 With respect to the first contravention it is accepted, as the admissions imply, that the defendants did not establish any system by which they, as directors of AMF, would deal with second part prospectuses.",
+      "id": "s137"
+    },
+    {
+      "text": "52 With respect to the second contravention it is accepted that there should have been a system that resulted in the directors of AMF reading and considering the Onslow Trading Company second part prospectus before it was published.",
+      "id": "s138"
+    },
+    {
+      "text": "53 With respect to the third contravention it is accepted that AMF had a duty to take care with respect to the accuracy of statements in the second part prospectus and that the defendants, as directors of AMF, had a duty to take reasonable steps to ensure that its duty was fulfilled.",
+      "id": "s139"
+    },
+    {
+      "text": "54 It is submitted, and I accept, that the second and third contraventions overlap and cover substantially the same ground.",
+      "id": "s140"
+    },
+    {
+      "text": "55 It is further submitted for the defendants that it is not part of the plaintiff's pleaded case, nor part of the agreed facts, that the conduct of the defendants caused any loss.",
+      "id": "s141"
+    },
+    {
+      "text": "56 It is said it is significant that this is not a case where the corporate structure was used to the financial detriment of investors, shareholders, creditors and persons dealing with a company: cf Re Magna Alloys &amp; Research Pty Ltd (1975) 1 ACLR 203 at 205.",
+      "id": "s142"
+    },
+    {
+      "text": "57 Further, attention is directed to the fact that the involvement of the defendants in AMF was of a very short duration.",
+      "id": "s143"
+    },
+    {
+      "text": "The extent to which participants in the relevant transactions suffered loss, they will now recover all of their capital.",
+      "id": "s144"
+    },
+    {
+      "text": "58 Further, it is said there is nothing to suggest the defendants' contraventions were caused by any lack of competence on their part.",
+      "id": "s145"
+    },
+    {
+      "text": "For them, a finding that they have contravened the Act is a matter which will be keenly felt by them.",
+      "id": "s146"
+    },
+    {
+      "text": "They have all held office as a member of boards discharging responsibilities of a public kind without any criticism or legal complaint.",
+      "id": "s147"
+    },
+    {
+      "text": "There is full acceptance on their part of the seriousness of the misconduct.",
+      "id": "s148"
+    },
+    {
+      "text": "59 It is submitted for the defendants that each should be seen as a very experienced solicitor, who, in addition to pursuing his career as a solicitor, has undertaken substantial involvement in a range of worthwhile community affairs.",
+      "id": "s149"
+    },
+    {
+      "text": "60 Reliance is placed on the fact that none of the defendants derived personal benefit from the breaches.",
+      "id": "s150"
+    },
+    {
+      "text": "Further reliance is placed on the fact that no part of the loans made to Onslow Trading Company as a result of the second part prospectus resulted in any enrichment to the defendants.",
+      "id": "s151"
+    },
+    {
+      "text": "Further, that there was no allegation that the defendants wilfully contravened the law or knowingly disregarded their obligations.",
+      "id": "s152"
+    },
+    {
+      "text": "Additionally it is said that the contraventions occurred in the infancy of AMF's operation as the responsible entity of the Scheme.",
+      "id": "s153"
+    },
+    {
+      "text": "Reliance is also placed on the fact that they each have expressed remorse and contrition.",
+      "id": "s154"
+    },
+    {
+      "text": "61 Additionally, it is submitted that each of the defendants will be significantly affected by the disposition of the proceeding.",
+      "id": "s155"
+    },
+    {
+      "text": "Contraventions of the kind they have admitted, it is said, will necessarily have an impact on their standing both amongst their professional colleagues and in the wider community.",
+      "id": "s156"
+    },
+    {
+      "text": "This is because each of them is a senior lawyer who has practised for a long time.",
+      "id": "s157"
+    },
+    {
+      "text": "62 So far as the imposition of a pecuniary penalty has a deterrent aim against repetition of like conduct, it is said it should not be greater than is necessary to achieve that object: Australian Securities Commission v Donovan (1998) 28 ACSR 583 at 608; and Re HIH Insurance Ltd (in prov liq); Australian Securities and Investments Commission v Adler (2002) 42 ACSR 80 at [125].",
+      "id": "s158"
+    },
+    {
+      "text": "Here it is said that the need for personal deterrence against repetition of like conduct should not contribute to the amount of the pecuniary penalty.",
+      "id": "s159"
+    },
+    {
+      "text": "It is submitted that each of the defendants is acutely aware of the seriousness of the contraventions and is committed to ensuring that no such lapse in attention to duty occurs again.",
+      "id": "s160"
+    },
+    {
+      "text": "It is said that there is no prior instance of similar misconduct by any of them and no real prospect of a repetition of the contravening conduct.",
+      "id": "s161"
+    },
+    {
+      "text": "63 Therefore, it is submitted that it is important that the penalty, so far as concerns general deterrence, reflects the circumstances of the case.",
+      "id": "s162"
+    },
+    {
+      "text": "It is submitted that the contraventions, while serious, are at the lower end of the range of possible contraventions and should attract a modest pecuniary penalty.",
+      "id": "s163"
+    },
+    {
+      "text": "64 Further it is argued that the defendants' conduct in arranging payment of the investors' capital loss and in recognising and admitting their default should be seen as significant mitigating circumstances.",
+      "id": "s164"
+    },
+    {
+      "text": "The first defendant will be personally responsible for half of the monies to be paid to the investors.",
+      "id": "s165"
+    },
+    {
+      "text": "Phillips Fox will pay the remaining half in recognition that the second and third defendants came to be involved in AMF because of their position in the firm.",
+      "id": "s166"
+    },
+    {
+      "text": "65 It is accepted by the defendants that a costs order will be made against them in this proceeding.",
+      "id": "s167"
+    },
+    {
+      "text": "The Court has been informed that Phillips Fox will meet the costs order that is made.",
+      "id": "s168"
+    },
+    {
+      "text": "This is to be seen against the statement made by the first defendant that he will be responsible for 'one half of all other costs ordered against the directors of AMF'.",
+      "id": "s169"
+    },
+    {
+      "text": "It is submitted that the payment of part of the costs by Phillips Fox (together with the payment to the investors by the firm) will have a financial consequence for the third defendant but will not have a direct or indirect financial consequence for the second defendant.",
+      "id": "s170"
+    },
+    {
+      "text": "66 Finally, it is submitted that the penalties imposed should also recognise the related nature of the contraventions concerning the reading and scrutinising of the draft second part prospectus.",
+      "id": "s171"
+    },
+    {
+      "text": "REASONING \n \n67 As has been seen the maximum pecuniary penalty that may be imposed for each contravention of the Act is $200 000: s 1317G(1).",
+      "id": "s172"
+    },
+    {
+      "text": "It has also been noted that each contravention is accepted as 'serious' in terms of s 1317G(1)(b)(iii).",
+      "id": "s173"
+    },
+    {
+      "text": "68 I accept that there is some degree of overlap between the second and third contraventions.",
+      "id": "s174"
+    },
+    {
+      "text": "69 In Re HIH Insurance Santow J stated at [25]:\n \n 'It is well established that the principal purpose of a pecuniary penalty is to act as a personal deterrent and a deterrent to the general public against a repetition of like conduct: Australian Securities Commission v Donovan [(1998) 28 ACSR 583] , above; Trade Practices Commission v CSR Ltd [1991] |PATPR 52-135.",
+      "id": "s175"
+    },
+    {
+      "text": "In Donovan , the court said: \n \n \n If compliance with the appropriate standards of commercial conduct within the management of corporations by deterrents is the objective, then any penalty should be no greater than is necessary to achieve this objective.",
+      "id": "s176"
+    },
+    {
+      "text": "Otherwise severity above that figure would be oppressive.",
+      "id": "s177"
+    },
+    {
+      "text": "' \n \n\n70 In his reasons at [126] Santow J also summarised the effect of decided cases on pecuniary penalty in a number of propositions.",
+      "id": "s178"
+    },
+    {
+      "text": "Among those propositions were the following:\n \n \n '(ix) Factors leading to the order of a penalty in the range of $20,000-$40,000 included: \n \n \n &#8226; defendant was aware of impropriety of actions; \n &#8226; no intention to deprive company permanently of funds; \n &#8226; amounts in question not large; \n &#8226; no deliberate falsification of accounts; \n &#8226; cases classed as being serious misconduct, but not worst cases.",
+      "id": "s179"
+    },
+    {
+      "text": "Re Tasmanian Spastics Association [; Australian Securities Commission v Nandan (1997) 23 ACSR 743] at 752; Australian Securities Commission v Donovan at 609.",
+      "id": "s180"
+    },
+    {
+      "text": "(x) relevant factors leading to the court to order the lower range penalties in the range of $4000-$5000 included: \n \n \n &#8226; remorse and contrition shown; \n &#8226; efforts to repay misappropriated funds; \n &#8226; acted upon the advice of professionals; \n &#8226; did not contest the proceedings, or sought to save costs in proceedings; \n &#8226; tended to not involve dishonesty, but negligence or carelessness; \n &#8226; previous unblemished character; \n &#8226; further contraventions unlikely.",
+      "id": "s181"
+    },
+    {
+      "text": "Australian Securities Commission v Donovan at 609; Australian Securities Commission v Spencer (1997) 25 ACSR 143 at 144-5.",
+      "id": "s182"
+    },
+    {
+      "text": "' \n\n71 These propositions require reading in the context of all the propositions derived from the authorities by his Honour.",
+      "id": "s183"
+    },
+    {
+      "text": "As he stated in proposition (vi), the circumstances of one case should not dictate the size of the penalty in another case: Australian Securities Commission v Donovan at 608.",
+      "id": "s184"
+    },
+    {
+      "text": "Equally, proposition (v) to the effect that it is important to assess whether the order will prejudice the rehabilitation of the defendant: Australian Securities Commission v Forem-Freeway Enterprises Pty Ltd (1999) 30 ACSR 339 at 352.",
+      "id": "s185"
+    },
+    {
+      "text": "72 It is a pre-condition to the liability for a pecuniary penalty that the contravention comes within one or other of the characters specified in s 1317G(1)(b).",
+      "id": "s186"
+    },
+    {
+      "text": "The applicant's case is brought on the basis that the contraventions here in question are 'serious' within s 1317G(1)(b)(iii).",
+      "id": "s187"
+    },
+    {
+      "text": "I agree the contraventions have that quality.",
+      "id": "s188"
+    },
+    {
+      "text": "This is because they are contraventions arising from a failure to observe basic requirements of the Licence, the Compliance Plan and the Act.",
+      "id": "s189"
+    },
+    {
+      "text": "73 The culpability of the second and third defendants is as stated in the submissions for the plaintiff, namely that they neglected their duties and put misplaced reliance upon the first defendant, acquiescing in the assumption of the power and duty to make day to day decisions by him.",
+      "id": "s190"
+    },
+    {
+      "text": "It is patent that neither of them acted out of motives of personal profit.",
+      "id": "s191"
+    },
+    {
+      "text": "74 The irony of the contraventions is that each of them is plainly a professional lawyer of the highest integrity, respected in their profession for the care they display on behalf of their clients and otherwise to the observance of the requirements of the law.",
+      "id": "s192"
+    },
+    {
+      "text": "They are not persons who lack competence, save as they allowed their inattention to the circumstances of the contravention as a result of their misplaced reliance upon the first defendant.",
+      "id": "s193"
+    },
+    {
+      "text": "Neither of them is a person requiring any significant deterrent against future contraventions --- the experience of the events in this proceeding is clearly deterrent enough for them, given their usually conscientious approach to such matters and the possible endangerment to their professional reputations.",
+      "id": "s194"
+    },
+    {
+      "text": "They are clearly remorseful.",
+      "id": "s195"
+    },
+    {
+      "text": "What is required in their case is a penalty sufficient to satisfy the punitive objectives of the applicable law, to be seen to be a personal deterrent and to be apparent as a deterrent to the general public against a repetition of like conduct.",
+      "id": "s196"
+    },
+    {
+      "text": "75 Their qualification and admission as solicitors is not to be seen as an exculpatory factor.",
+      "id": "s197"
+    },
+    {
+      "text": "Rather, such qualification carries with it the responsibility to ensure the law in which they are qualified is observed and applied.",
+      "id": "s198"
+    },
+    {
+      "text": "It suggests to me a higher starting point than that which would be applicable to persons not qualified in the law, nevertheless one at the lower end of available penalties.",
+      "id": "s199"
+    },
+    {
+      "text": "76 Turning to the third contravention by the second and third defendants, I consider the appropriate starting point is the sum of $8000.",
+      "id": "s200"
+    },
+    {
+      "text": "I discount that by $2000 for the contrition and late admissions.",
+      "id": "s201"
+    },
+    {
+      "text": "77 The second contravention should attract the same penalty and discount, subject to application of the totality principle.",
+      "id": "s202"
+    },
+    {
+      "text": "78 The first contravention attracts a different starting point in that the second and third defendants were, in the circumstances, at a distance from Clifton Partners.",
+      "id": "s203"
+    },
+    {
+      "text": "I consider the penalty should be $5000 discounted to $3000.",
+      "id": "s204"
+    },
+    {
+      "text": "79 The totality of the quantum of such penalties is $15 000.",
+      "id": "s205"
+    },
+    {
+      "text": "The totality principle requires that where a penalty is being imposed for a number of offences, it is necessary to ensure that the penalties in aggregate are just and appropriate: Mill v The Queen [1988] HCA 70 ; (1988) 166 CLR 59 at 63 citing Thomas, Principles of Sentencing , 2 nd ed (1979), pp 56 - 57.",
+      "id": "s206"
+    },
+    {
+      "text": "The preferred course, there approved, is for sentences to be wholly or partially concurrent.",
+      "id": "s207"
+    },
+    {
+      "text": "This is particularly apt where the subject matter of the contraventions is dependent upon the same set of facts.",
+      "id": "s208"
+    },
+    {
+      "text": "80 Applying the totality principle, I consider that the pecuniary penalty which would be just and appropriate in respect of each of the second and third defendants for the three contraventions would be the total sum of $10 000.",
+      "id": "s209"
+    },
+    {
+      "text": "Accordingly in respect of the first and third contraventions I will impose in each case a pecuniary penalty of $5000.",
+      "id": "s210"
+    },
+    {
+      "text": "In respect of the second contravention I will order that the penalty be satisfied by payment of the penalty on the third contravention.",
+      "id": "s211"
+    },
+    {
+      "text": "I have so selected the third contravention because I consider it best represents the generality of the second and third defendants' culpable conduct.",
+      "id": "s212"
+    },
+    {
+      "text": "81 In reaching this conclusion I also have had in mind parity in the relation to the first defendant.",
+      "id": "s213"
+    },
+    {
+      "text": "PENALTIES IN RESPECT OF FIRST DEFENDANT \n STATEMENT AND CHARACTER EVIDENCE \n \n82 In his statement the first defendant refers to having commenced legal practice in 1981.",
+      "id": "s214"
+    },
+    {
+      "text": "He joined his present firm in 1989, becoming a partner there in 1991.",
+      "id": "s215"
+    },
+    {
+      "text": "When the third defendant became the managing partner of the firm in 1998, the first defendant moved the focus of his practice from banking and finance to property law and general commercial work.",
+      "id": "s216"
+    },
+    {
+      "text": "However he continued to provide back up support to the banking and finance group.",
+      "id": "s217"
+    },
+    {
+      "text": "83 In respect of offices held by him, he has been a member of the Property Law Committee of the Law Society of Western Australia since 1986 and briefly served on the Law Society's Commercial Law Committee.",
+      "id": "s218"
+    },
+    {
+      "text": "In addition, he has been a member of the Council of the Institute of Financial Brokers of Western Australia Inc and subsequently a member of the Council of the Mortgage Industry Association of Australia Ltd.",
+      "id": "s219"
+    },
+    {
+      "text": "He has served on the board of a secondary school.",
+      "id": "s220"
+    },
+    {
+      "text": "Additionally, he has been a member and is currently chairman of a major charitable children's foundation.",
+      "id": "s221"
+    },
+    {
+      "text": "He is also currently a commissioner of the Catholic Education Commission (Western Australia) since 2005.",
+      "id": "s222"
+    },
+    {
+      "text": "He does not receive fees for discharging any of those offices which also include involvement in the administrative side of rowing.",
+      "id": "s223"
+    },
+    {
+      "text": "84 With regard to Clifton Partners, the first defendant mentions that he met Mr Kim Clifton while serving as a member then councillor of the Institute of Finance Brokers of WA Inc. Mr Clifton was then vice-president of the Mortgage Industry Association of Australia Ltd.",
+      "id": "s224"
+    },
+    {
+      "text": "In the course of delivering professional advice to Clifton Partners, he became aware that it had been operating for approximately 20 years.",
+      "id": "s225"
+    },
+    {
+      "text": "He had not heard of any complaints concerning it.",
+      "id": "s226"
+    },
+    {
+      "text": "He considered that Mr Clifton was a reputable finance broker.",
+      "id": "s227"
+    },
+    {
+      "text": "He also met Mr John Frame, an associate member of the Institute of Chartered Accountants who was employed by Clifton Partners to oversee the operation's legal compliance processes and in particular as they related to the licensing requirements under the Managed Investment Act 1998 (Cth).",
+      "id": "s228"
+    },
+    {
+      "text": "Mr Frame had prior experience in compliance work.",
+      "id": "s229"
+    },
+    {
+      "text": "85 Out of these contacts it was agreed that Phillips Fox would join with Clifton Partners to form AMF as the responsible entity of the Scheme to be conducted by Clifton Partners.",
+      "id": "s230"
+    },
+    {
+      "text": "In the course of work to bring the new entity into being the first defendant came to appreciate the skills of Mr Frame.",
+      "id": "s231"
+    },
+    {
+      "text": "86 The first defendant says that while both the second and third defendants were experienced in property matters, neither of them had the same level of experience that he had in relation to managed investment schemes.",
+      "id": "s232"
+    },
+    {
+      "text": "He had always intended to be the director principally responsible for the management of AMF.",
+      "id": "s233"
+    },
+    {
+      "text": "Further he understood from his discussions with the other two defendants that they would be relying on him to bring matters to their attention that either needed to be addressed by the whole board of AMF or that were different from the usual practice of the Scheme.",
+      "id": "s234"
+    },
+    {
+      "text": "87 He states that the shareholder of AMF was a company whose shares were held by Phillips Fox partners or their nominees.",
+      "id": "s235"
+    },
+    {
+      "text": "It was anticipated that the profits made by AMF would be distributed to that company and ultimately its shareholders.",
+      "id": "s236"
+    },
+    {
+      "text": "AMF charged $15 000 per annum for the services it provided Clifton Partners, a fee payable in quarterly instalments.",
+      "id": "s237"
+    },
+    {
+      "text": "He is only aware of one such payment.",
+      "id": "s238"
+    },
+    {
+      "text": "Neither he nor the second or third defendants were paid any directors fees in relation to AMF.",
+      "id": "s239"
+    },
+    {
+      "text": "88 As the first defendant had worked so closely with Mr Frame and to a lesser extent with Mr Clifton, he was confident that they had a very good knowledge and understanding of the compliance issues.",
+      "id": "s240"
+    },
+    {
+      "text": "He was confident in the abilities of the 'people at Clifton Partners'.",
+      "id": "s241"
+    },
+    {
+      "text": "89 When he reviewed the second part prospectus he reviewed it with a mindset that the information contained in the documents was valid.",
+      "id": "s242"
+    },
+    {
+      "text": "He says he was not on the lookout for proposals that included information that was inaccurate.",
+      "id": "s243"
+    },
+    {
+      "text": "Therefore, it was not his intention to verify detailed factual or financial information nor review the merit of valuers' opinions on valuation.",
+      "id": "s244"
+    },
+    {
+      "text": "90 It was in February 2000 that the first defendant authorised Clifton Partners to sign the second part prospectuses on behalf of AMF after they had been sent to him but without him having first subjected them to detailed review.",
+      "id": "s245"
+    },
+    {
+      "text": "The first defendant does not explain why this step was taken.",
+      "id": "s246"
+    },
+    {
+      "text": "He does, however, state that he did not draw the granting of this authority to the attention of the second or third defendants.",
+      "id": "s247"
+    },
+    {
+      "text": "He also accepts that he did not involve the second or third defendants in any aspect of the second part prospectus for the Caravan Park because he did not see the proposed second part prospectus for it.",
+      "id": "s248"
+    },
+    {
+      "text": "Indeed, he had not become aware that it had been issued until the plaintiff raised issues concerning it.",
+      "id": "s249"
+    },
+    {
+      "text": "91 In the circumstances he accepts that he misunderstood the full extent of the affirmative obligations on the directors of AMF as the responsible entity.",
+      "id": "s250"
+    },
+    {
+      "text": "He deeply regrets this position.",
+      "id": "s251"
+    },
+    {
+      "text": "As a lawyer, no disciplinary action has been taken against him.",
+      "id": "s252"
+    },
+    {
+      "text": "He has always endeavoured to discharge his professional duties diligently and to the best of his ability.",
+      "id": "s253"
+    },
+    {
+      "text": "92 The statement of the first defendant also confirms he will be personally responsible for one half of the monies that the defendants have agreed to pay to the investors who invested in the Caravan Park and one half of other costs ordered against the directors of AMF.",
+      "id": "s254"
+    },
+    {
+      "text": "He says this will have significant consequences on his financial position.",
+      "id": "s255"
+    },
+    {
+      "text": "93 In relation to the disqualification order sought by the plaintiff, he states that he is deeply concerned about being subjected to it, both for the immediate impact it would have on his ability to remain on boards and the stigma it would likely carry for future involvement in boards.",
+      "id": "s256"
+    },
+    {
+      "text": "He says there is every possibility that he will have to resign his positions with the charitable children's foundation, the Catholic Education Commission and the sport of rowing as a result of this matter.",
+      "id": "s257"
+    },
+    {
+      "text": "94 The first defendant's belief is that notwithstanding the lapses that have occurred he can continue to provide a service to public organisations, if permitted to do so.",
+      "id": "s258"
+    },
+    {
+      "text": "95 The statement of the first defendant is supported by three references.",
+      "id": "s259"
+    },
+    {
+      "text": "The first is from a legal practitioner who has known him since 1981.",
+      "id": "s260"
+    },
+    {
+      "text": "He regards the first defendant as reliable and conscientious and of underlying good character.",
+      "id": "s261"
+    },
+    {
+      "text": "He says that the first defendant is one of a rare breed of successful businessmen and professionals who contribute their time, energy and expertise to the benefit of the Australian community.",
+      "id": "s262"
+    },
+    {
+      "text": "The second reference comes from the Western Australian state manager of the charitable children's foundation who refers to him as a person of integrity and personal commitment.",
+      "id": "s263"
+    },
+    {
+      "text": "The third reference comes from a parish priest of the Catholic Church who has known the first defendant for eight years and says he is of the highest integrity and a person who lives by very high personal standards.",
+      "id": "s264"
+    },
+    {
+      "text": "He attests to the contribution the first defendant has made both to the board of the school on which he was involved and the Catholic Education Commission.",
+      "id": "s265"
+    },
+    {
+      "text": "DISQUALIFICATION ORDER \n \n96 In Re HIH Insurance at [126] Santow J listed as one of the propositions derived from decided cases the following:\n \n \n '(iv) in assessing a pecuniary penalty it is important to consider the consequences of an associated disqualification order for the defendant.",
+      "id": "s266"
+    },
+    {
+      "text": "If the making of such an order has significant consequences, they may operate as a factor in favour of a lesser penalty.",
+      "id": "s267"
+    },
+    {
+      "text": "Where the disqualification order does not have significant consequences for the defendant, the prohibition order is likely to be only marginally relevant: Re Tasmanian Spastics Association at 751 \n -2;' \n \n\n97 In respect of the first defendant the making of a disqualification order plainly would have significant consequences.",
+      "id": "s268"
+    },
+    {
+      "text": "As a professional person practising in commercial areas with involvement in boards of some corporations whether or not only in a private capacity, his professional reputation would be to some extent affected if the circumstances required the Court to impose a disqualification order.",
+      "id": "s269"
+    },
+    {
+      "text": "Therefore, it is necessary to turn firstly to that issue before proceeding to consider the question of pecuniary penalty in this case.",
+      "id": "s270"
+    },
+    {
+      "text": "98 The plaintiff commences by placing reliance on the reasons of Santow J in Re HIH Insurance at [56] where his Honour said:\n \n \n '(xii) The eight criteria to govern the exercise of the court's powers of disqualification set out in Commissioner for Corporate Affairs (WA) v Ekamper (1987) 12 ACLR 519 have been influential.",
+      "id": "s271"
+    },
+    {
+      "text": "It was held that in making such an order it is necessary to assess: \n \n \n &#8226; character of the offenders; \n &#8226; nature of the breaches; \n &#8226; structure of the companies and the nature of their business; \n &#8226; interests of shareholders, creditors and employees; \n &#8226; risks to others from the continuation of offenders as company directors; \n &#8226; honesty and competence of offenders; \n &#8226; hardship to offenders and their personal and commercial interests; and \n &#8226; offenders' appreciation that future breaches could result in future proceedings.",
+      "id": "s272"
+    },
+    {
+      "text": "Australian Securities Commission v Roussi at 570-1; Re Gold Coast Holdings Pty Ltd at 111;' \n \n \n \n\nLater his Honour continued:\n \n \n (xv) The factors leading to the shortest disqualifications, that is disqualifications for up to 3 years were: \n \n \n &#8226; although the defendants had personally gained from the conduct, they had endeavoured to repay or partially repay the amounts misappropriated; \n &#8226; the defendants had no immediate or discernible future intention to hold a position as manager of a company; \n &#8226; in Donovan's case, the respondent had expressed remorse and contrition, acted on advice of professionals and had not contested the proceedings; \n \n \n Australian Securities Commission v Donovan ; Re Tasmanian Spastics Association .",
+      "id": "s273"
+    },
+    {
+      "text": "' \n \n\n99 The plaintiff accepts that a disqualification order is a penalty: Rich v Australian Securities and Investments Commission [2004] HCA 42 ; (2004) 209 ALR 271 at [49] - [58] per McHugh J.",
+      "id": "s274"
+    },
+    {
+      "text": "The plaintiff says that the first defendant should be seen as a legal practitioner who held himself out in the application for a dealers licence to have particular expertise to assist in the discharge of the duties which he would assume.",
+      "id": "s275"
+    },
+    {
+      "text": "However, by reason of the matters which he has admitted, he could not in any substantial way have utilised those skills.",
+      "id": "s276"
+    },
+    {
+      "text": "100 For the first defendant it is said that any disqualification imposed by the Court should be concerned with public protection rather than be punitive: Re HIH Insurance at [56].",
+      "id": "s277"
+    },
+    {
+      "text": "It is submitted that consideration must be given to the propensity that a defendant may engage in similar conduct in the future and the likely harm that may be caused to the public.",
+      "id": "s278"
+    },
+    {
+      "text": "101 The first defendant has concerns that the making of a disqualification order would lead to his removal from the charitable and community boards on which he serves.",
+      "id": "s279"
+    },
+    {
+      "text": "It is said this would be an unfortunate consequence adding a significant, but unnecessary, element of public condemnation in his case.",
+      "id": "s280"
+    },
+    {
+      "text": "102 I find as follows on the application of the factors listed in the above quotation from Re HIH Insurance and Ekamper .",
+      "id": "s281"
+    },
+    {
+      "text": "The first defendant is a person of exemplary character.",
+      "id": "s282"
+    },
+    {
+      "text": "The breaches have involved him in most seriously neglecting his duties.",
+      "id": "s283"
+    },
+    {
+      "text": "He did so because of a misplaced confidence in the ability of persons in Clifton Partners.",
+      "id": "s284"
+    },
+    {
+      "text": "The breaches involved him not only in neglecting to perform his own duties, but also wrongly granting authority to act to Clifton Partners, failing to inform the second and third defendants he had taken that action and not putting in place systems to keep them all informed.",
+      "id": "s285"
+    },
+    {
+      "text": "103 Despite the complete lapse of attention to duty involved in the contraventions by the first defendant, he, like the second and third defendants, is also plainly a professional lawyer of the highest integrity, respected in his profession for the care he has brought on behalf of his clients and otherwise to the observance of the requirements of the law.",
+      "id": "s286"
+    },
+    {
+      "text": "He is not a person who lacks competence, save as he allowed his inattention to the circumstances of the contraventions.",
+      "id": "s287"
+    },
+    {
+      "text": "I find him to be entirely honest and, save for the lapse of the contraventions, competent.",
+      "id": "s288"
+    },
+    {
+      "text": "104 I do not consider that there are risks to others from a continuation of him as a company director.",
+      "id": "s289"
+    },
+    {
+      "text": "This is because the lapse and its consequences have had a very considerable impact on him.",
+      "id": "s290"
+    },
+    {
+      "text": "There is no likelihood he would allow such circumstances to recur.",
+      "id": "s291"
+    },
+    {
+      "text": "His professional life depends on it not doing so.",
+      "id": "s292"
+    },
+    {
+      "text": "In all other board positions he has acted appropriately.",
+      "id": "s293"
+    },
+    {
+      "text": "105 The hardship to the first defendant of disqualification would be severe.",
+      "id": "s294"
+    },
+    {
+      "text": "In my view the likely consequences to him would be disproportionate to the requirements of either punishment or deterrence.",
+      "id": "s295"
+    },
+    {
+      "text": "This is because of the likely impact on his professional engagement in the core area of his professional work.",
+      "id": "s296"
+    },
+    {
+      "text": "Such work he has discharged without blemish.",
+      "id": "s297"
+    },
+    {
+      "text": "It is only when he has mistakenly and unwisely relied on and authorised others that his usually high standards have not been observed or met.",
+      "id": "s298"
+    },
+    {
+      "text": "Noone could be more aware of the consequence of future breaches.",
+      "id": "s299"
+    },
+    {
+      "text": "Remorse and contrition are greatly evident.",
+      "id": "s300"
+    },
+    {
+      "text": "106 The consequence of these considerations is that, although I regard the first defendant's contraventions as serious, I consider that an order of disqualification in his case would be disproportionate and unmerited in the circumstances.",
+      "id": "s301"
+    },
+    {
+      "text": "This is because it would not be warranted to protect the public and personal deterrence and is not required by that means.",
+      "id": "s302"
+    },
+    {
+      "text": "PECUNIARY PENALTY \n \n107 The submissions which have been made in relation to the second and third defendants by both the plaintiff and the defendants apply so far as they go to the case of the first defendant in respect of pecuniary penalty.",
+      "id": "s303"
+    },
+    {
+      "text": "108 Additionally, matters are raised of specific relevance to the first defendant.",
+      "id": "s304"
+    },
+    {
+      "text": "109 The plaintiff submits the culpability of the first defendant must be viewed in the light of his particular responsibilities within the company structure where he was the chief compliance officer and the director responsible for compliance.",
+      "id": "s305"
+    },
+    {
+      "text": "Additionally, it was he who assumed the power and duty to make decisions about the day to day management of AMF including, but not limited to, overseeing the operations of Clifton Partners and the issue of prospectuses.",
+      "id": "s306"
+    },
+    {
+      "text": "Further, it was the first defendant who appointed the various directors and employees of Clifton Partners to be proper authority holders pursuant to the provisions of the corporations law.",
+      "id": "s307"
+    },
+    {
+      "text": "Importantly, it was he who in turn gave general authority to Clifton Partners to prepare and execute second part prospectuses for issue by AMF.",
+      "id": "s308"
+    },
+    {
+      "text": "110 Against this the plaintiff acknowledges that it is the first defendant and his partners in legal practice who have undertaken to pay to the investors who are out of pocket the balance of the amount of their capital loss.",
+      "id": "s309"
+    },
+    {
+      "text": "Nevertheless, such investors have not been paid the interest they might have been expected to receive as a consequence of the investment they made and they have been out of pocket for some considerable number of years.",
+      "id": "s310"
+    },
+    {
+      "text": "However, the plaintiff accepts that the payment goes part of the way to compensating those investors and should be taken as demonstrating contrition on the part of the first defendant.",
+      "id": "s311"
+    },
+    {
+      "text": "111 In the submissions for the defendants additional submissions are made in respect of the first defendant.",
+      "id": "s312"
+    },
+    {
+      "text": "It is said that the consequence of the contraventions is that they will have a significant financial impact on him.",
+      "id": "s313"
+    },
+    {
+      "text": "This is because he will be personally responsible for payment of half of the money that has been agreed to be paid to the investors in the Caravan Park and he will also be responsible for half of the costs which will be payable to the plaintiff.",
+      "id": "s314"
+    },
+    {
+      "text": "112 Therefore it is submitted that while the first defendant's contraventions may be regarded more seriously than those of the second and third defendants, the penalty imposed on him should reflect the fact that he will bear a significant financial burden with respect to the payment of both compensation and costs.",
+      "id": "s315"
+    },
+    {
+      "text": "113 It is also submitted that the first defendant should be treated in the lowest range of possible penalties recognised in Australian Securities Commission v Donovan while at the same differentiating between him and the other defendants having regard to their individual conduct.",
+      "id": "s316"
+    },
+    {
+      "text": "114 Further, it is said for the first defendant that his conduct in authorising Clifton Partners to execute the second part prospectuses when they had not been carefully considered by him reflected his confidence in the personnel at Clifton Partners.",
+      "id": "s317"
+    },
+    {
+      "text": "However, it is accepted it was also the product of a failure to recognise the affirmative duty that rested on the directors of AMF.",
+      "id": "s318"
+    },
+    {
+      "text": "115 I have already said that I regard the first defendant's conduct as serious.",
+      "id": "s319"
+    },
+    {
+      "text": "It is clearly more serious than that of the second and third defendants'.",
+      "id": "s320"
+    },
+    {
+      "text": "Not only did he sit by; he also took the step of wrongfully authorising Clifton Partner's to act.",
+      "id": "s321"
+    },
+    {
+      "text": "Starting with the third contravention, I consider that in the case of the first defendant the appropriate starting point is the sum of $16 000.",
+      "id": "s322"
+    },
+    {
+      "text": "I discount that figure by $2000 for his late admission.",
+      "id": "s323"
+    },
+    {
+      "text": "I further discount that figure by $3000 in recognition of the financial burdens he will bear as a result of his expression of contrition to members who have suffered losses.",
+      "id": "s324"
+    },
+    {
+      "text": "A pecuniary penalty of $11 000 would therefore be payable in respect of that contravention.",
+      "id": "s325"
+    },
+    {
+      "text": "116 The same penalty should apply with respect to the second contravention.",
+      "id": "s326"
+    },
+    {
+      "text": "117 In relation to the first contravention, the responsibility for provision of training was his.",
+      "id": "s327"
+    },
+    {
+      "text": "His culpability in this offence is high.",
+      "id": "s328"
+    },
+    {
+      "text": "The same penalty should again apply.",
+      "id": "s329"
+    },
+    {
+      "text": "118 Turning to the totality principle, the penalties as so calculated would total $33 000.",
+      "id": "s330"
+    },
+    {
+      "text": "That sum is not in parity with the other defendants and requires application of the principle.",
+      "id": "s331"
+    },
+    {
+      "text": "I would reduce the total to the sum of $25 000.",
+      "id": "s332"
+    },
+    {
+      "text": "This would be achieved by imposing for the second and third contraventions in the case of the first defendant the pecuniary penalty of $15 000.",
+      "id": "s333"
+    },
+    {
+      "text": "The penalty on the second contravention will be satisfied concurrently with the penalty on the third contravention.",
+      "id": "s334"
+    },
+    {
+      "text": "The pecuniary penalty in respect of the first contravention will be $10 000.",
+      "id": "s335"
+    },
+    {
+      "text": "This is to be paid cumulatively with the penalty on the second and third contravention.",
+      "id": "s336"
+    },
+    {
+      "text": "119 In reaching these conclusions I have taken into account parity with the second and third defendants as well as the fact that I do not consider a disqualification order should be made.",
+      "id": "s337"
+    },
+    {
+      "text": "120 The defendants should also pay the plaintiff's costs.",
+      "id": "s338"
+    },
+    {
+      "text": "I certify that the preceding one hundred-twenty (120) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Nicholson.",
+      "id": "s339"
+    },
+    {
+      "text": "Associate:\n\nDated: 7 April 2006\n\n\n Counsel for the Plaintiff: WF Buckley \n \n Solicitor for the Plaintiff: Australian Securities and Investments Commission \n \n Counsel for the Defendants: CL Zelestis QC with GM Abbott \n \n Solicitor for the Defendants: Phillips Fox \n \n Date of Hearing: 14 March 2006 \n \n Date of Judgment: 7 April 2006 \n\n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2006/388.html",
+      "id": "s340"
+    }
+  ]
+}

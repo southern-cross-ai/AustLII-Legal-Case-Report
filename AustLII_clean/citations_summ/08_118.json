@@ -1,0 +1,464 @@
+[
+  {
+    "text": "veterans affairs",
+    "id": "cp0.0",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "war-caused injury or disease",
+    "id": "cp0.1",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "appeal from decision of administrative appeals tribunal",
+    "id": "cp0.2",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether veteran suffering from a condition of meniere's disease",
+    "id": "cp0.3",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether veteran became incapacitated from a war-caused disease",
+    "id": "cp0.4",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "application of a statement of principles relating to meniere's disease developed by the repatriation medical authority",
+    "id": "cp0.5",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether error of law on the part of the tribunal in the application of the tests to determine incapacity from a war-caused disease",
+    "id": "cp0.6",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether conclusion that the tribunal supported by any evidence.",
+    "id": "cp0.7",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "immigration",
+    "id": "cp4.0",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "refugees",
+    "id": "cp4.1",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "application to review decisions of minister's delegates refusing claim for refugee status",
+    "id": "cp4.2",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "application of chan v minister for immigration and ethnic affairs [1989] hca 62 ; (1989) 169 clr 379",
+    "id": "cp4.3",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "'real chance' of persecution test",
+    "id": "cp4.4",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "whether delegates failed properly to consider real chance of persecution.   administrative law",
+    "id": "cp4.5",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "judicial review",
+    "id": "cp4.6",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "decisions as to 'refugee status'",
+    "id": "cp4.7",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "proper role of reviewing court.",
+    "id": "cp4.8",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "administrative law",
+    "id": "cp5.0",
+    "type": "cited",
+    "from": "[1989]"
+  },
+  {
+    "text": "veterans' affairs",
+    "id": "cp5.1",
+    "type": "cited",
+    "from": "[1989]"
+  },
+  {
+    "text": "appeal from administrative appeals tribunal",
+    "id": "cp5.2",
+    "type": "cited",
+    "from": "[1989]"
+  },
+  {
+    "text": "whether respondent's skin condition arose out of or was attributable to his war service",
+    "id": "cp5.3",
+    "type": "cited",
+    "from": "[1989]"
+  },
+  {
+    "text": "nature of causal nexus required",
+    "id": "cp5.4",
+    "type": "cited",
+    "from": "[1989]"
+  },
+  {
+    "text": "whether tribunal applied correct test",
+    "id": "cp5.5",
+    "type": "cited",
+    "from": "[1989]"
+  },
+  {
+    "text": "whether tribunal should have looked to additional sun exposure due to war service or to total sun exposure during war service.  veterans' entitlements act 1986 (cth)",
+    "id": "cp5.6",
+    "type": "cited",
+    "from": "[1989]"
+  },
+  {
+    "text": "ss.9(1)(b) , 9 (1)(e)(ii), 13 , 120 (4)",
+    "id": "cp5.7",
+    "type": "cited",
+    "from": "[1989]"
+  },
+  {
+    "text": "workers' compensation (cth)",
+    "id": "cp6.0",
+    "type": "cited",
+    "from": "[1982]"
+  },
+  {
+    "text": "commonwealth employees",
+    "id": "cp6.1",
+    "type": "cited",
+    "from": "[1982]"
+  },
+  {
+    "text": "death",
+    "id": "cp6.2",
+    "type": "cited",
+    "from": "[1982]"
+  },
+  {
+    "text": "failure of official doctor to diagnose disease",
+    "id": "cp6.3",
+    "type": "cited",
+    "from": "[1982]"
+  },
+  {
+    "text": "whether aggravation of disease",
+    "id": "cp6.4",
+    "type": "cited",
+    "from": "[1982]"
+  },
+  {
+    "text": "employment a contributing factor",
+    "id": "cp6.5",
+    "type": "cited",
+    "from": "[1982]"
+  },
+  {
+    "text": "compensation (commonwealth government employees) act 1971 (cth), ss. 29(1)*, 31(3)+, 104.",
+    "id": "cp6.6",
+    "type": "cited",
+    "from": "[1982]"
+  },
+  {
+    "text": "immigration",
+    "id": "cp7.0",
+    "type": "cited",
+    "from": "[1981]"
+  },
+  {
+    "text": "deportation",
+    "id": "cp7.1",
+    "type": "cited",
+    "from": "[1981]"
+  },
+  {
+    "text": "question whether weight is to be given to the fact of the minister's decision as distinct from reasons for it",
+    "id": "cp7.2",
+    "type": "cited",
+    "from": "[1981]"
+  },
+  {
+    "text": "relevance of government policy.  appeal",
+    "id": "cp7.3",
+    "type": "cited",
+    "from": "[1981]"
+  },
+  {
+    "text": "administrative appeals tribunal",
+    "id": "cp7.4",
+    "type": "cited",
+    "from": "[1981]"
+  },
+  {
+    "text": "weight of evidence in tribunal  migration act, 1973(cth) s.13(a)  administrative appeals tribunal act 1975 (cth) s.37(1) , s. 44 (1)  immigration and aliens",
+    "id": "cp7.5",
+    "type": "cited",
+    "from": "[1981]"
+  },
+  {
+    "text": "deportation",
+    "id": "cp7.6",
+    "type": "cited",
+    "from": "[1981]"
+  },
+  {
+    "text": "review of decision by administrative appeals tribunal",
+    "id": "cp7.7",
+    "type": "cited",
+    "from": "[1981]"
+  },
+  {
+    "text": "whether weight is to be given to fact of minister's decision as distinct from reasons for it",
+    "id": "cp7.8",
+    "type": "cited",
+    "from": "[1981]"
+  },
+  {
+    "text": "relevance of government policy",
+    "id": "cp7.9",
+    "type": "cited",
+    "from": "[1981]"
+  },
+  {
+    "text": "migration act 1958 cth), s. 13 (a)",
+    "id": "cp7.10",
+    "type": "cited",
+    "from": "[1981]"
+  },
+  {
+    "text": "administrative appeals tribunal act 1975 (cth), ss. 37 (1), 44 (1).  appeal",
+    "id": "cp7.11",
+    "type": "cited",
+    "from": "[1981]"
+  },
+  {
+    "text": "administrative appeals tribunal",
+    "id": "cp7.12",
+    "type": "cited",
+    "from": "[1981]"
+  },
+  {
+    "text": "appeal based on weight of evidence before tribunal",
+    "id": "cp7.13",
+    "type": "cited",
+    "from": "[1981]"
+  },
+  {
+    "text": "administrative appeals tribunal act 1975 (cth), ss. 37 (1), 44 (1). on an appeal from a decision of the administrative appeals tribunal affirming a deportation order made by the minister for immigration the appellant argued that: (1) the decision of the tribunal was against the evidence or the weight of the evidence, and that the decison was unreasonable in all the circumstances; and (2) that the tribunal erred in giving weight to an irrelevant decision.",
+    "id": "cp7.14",
+    "type": "cited",
+    "from": "[1981]"
+  },
+  {
+    "text": "workers' compensation (n.s.w.)",
+    "id": "cp8.0",
+    "type": "cited",
+    "from": "[1964]"
+  },
+  {
+    "text": "injury",
+    "id": "cp8.1",
+    "type": "cited",
+    "from": "[1964]"
+  },
+  {
+    "text": "\"aggravation, acceleration, exacerbation or deterioration of any disease\"",
+    "id": "cp8.2",
+    "type": "cited",
+    "from": "[1964]"
+  },
+  {
+    "text": "functional mental illness a disease",
+    "id": "cp8.3",
+    "type": "cited",
+    "from": "[1964]"
+  },
+  {
+    "text": "physical injury to worker suffering from pre-existing mental disease",
+    "id": "cp8.4",
+    "type": "cited",
+    "from": "[1964]"
+  },
+  {
+    "text": "new delusion of incapacity to work",
+    "id": "cp8.5",
+    "type": "cited",
+    "from": "[1964]"
+  },
+  {
+    "text": "employment a contributing factor",
+    "id": "cp8.6",
+    "type": "cited",
+    "from": "[1964]"
+  },
+  {
+    "text": "workers' compensation act, 1926-1960 (n.s.w.), s 6 (1) \"injury\"*.",
+    "id": "cp8.7",
+    "type": "cited",
+    "from": "[1964]"
+  },
+  {
+    "text": "veterans' affairs",
+    "id": "cp9.0",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "veterans' entitlements",
+    "id": "cp9.1",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "disability pension",
+    "id": "cp9.2",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "applicant rendered defence service in royal australian air force from august 1973 to august 1994",
+    "id": "cp9.3",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "applicant contracted mental disorder in or about 1992",
+    "id": "cp9.4",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "diagnosis",
+    "id": "cp9.5",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "delusional disorder or paranoid schizophrenia",
+    "id": "cp9.6",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "appropriate diagnosis is paranoid schizophrenia",
+    "id": "cp9.7",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "statement of principles (sop)",
+    "id": "cp9.8",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "inability to obtain appropriate clinical management for schizophrenia",
+    "id": "cp9.9",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "not related to defence service",
+    "id": "cp9.10",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "sop does not uphold contention that paranoid schizophrenia on balance of probabilities connected with defence service",
+    "id": "cp9.11",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "paranoid schizophrenia not defence-caused",
+    "id": "cp9.12",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "decision under review affirmed",
+    "id": "cp9.13",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "veterans' affairs",
+    "id": "cp10.0",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "claim for pension",
+    "id": "cp10.1",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "defence service",
+    "id": "cp10.2",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "claimed disabilities",
+    "id": "cp10.3",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "depressive disorder",
+    "id": "cp10.4",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "insufficient evidence of diagnosis of depressive disorder",
+    "id": "cp10.5",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "no injury or disease attributable to service",
+    "id": "cp10.6",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "decision affirmed.",
+    "id": "cp10.7",
+    "type": "citing",
+    "from": "[2008]"
+  }
+]

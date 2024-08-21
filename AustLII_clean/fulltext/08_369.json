@@ -1,0 +1,780 @@
+{
+  "name": "Hoy Mobile Pty Ltd v Allphones Retail Pty Ltd [2008] FCA 369 (26 February 2008)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2008/369.html",
+  "catchphrases": [
+    {
+      "text": "admissibility of evidence",
+      "id": "c0"
+    },
+    {
+      "text": "affidavit sworn by solicitor of party and read by it as evidence in earlier interlocutory proceeding",
+      "id": "c1"
+    },
+    {
+      "text": "subsequently at trial, affidavit sought to be adduced as evidence of admission by solicitor's client",
+      "id": "c2"
+    },
+    {
+      "text": "whether, for the purposes of s 87(1)(a) of evidence act 1995 (cth), solicitor had authority to make admission on client's behalf",
+      "id": "c3"
+    },
+    {
+      "text": "whether representations in solicitor's affidavit constituted an 'admission'",
+      "id": "c4"
+    },
+    {
+      "text": "whether hearsay rule did not apply pursuant to s 81(1) of evidence act",
+      "id": "c5"
+    },
+    {
+      "text": "whether, for purposes of definition of 'previous representation' in evidence act , earlier interlocutory proceedings were same proceedings as the trial within meaning of 'the proceeding in which evidence of the representation is sought to be adduced'",
+      "id": "c6"
+    },
+    {
+      "text": "evidence",
+      "id": "c7"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "(REVISED FROM THE TRANSCRIPT) \n \n1 This matter involves, among other things, a claim by Hoy Mobile Pty Limited that it is entitled to enforce a franchise agreement against its franchisor, Allphones Retail Pty Limited.",
+      "id": "s0"
+    },
+    {
+      "text": "The trial is now in its 11 th day.",
+      "id": "s1"
+    },
+    {
+      "text": "It is necessary to decide whether an affidavit made by Bernard Lloyd, a solicitor acting for Allphones can be tendered by Hoy Mobile as an admission by Allphones.",
+      "id": "s2"
+    },
+    {
+      "text": "The affidavit was used in support of Allphones' successful assertion of legal professional privilege during an interlocutory hearing before Tamberlin J.",
+      "id": "s3"
+    },
+    {
+      "text": "2 I am not intending to express any view about the substantive matters in issue in the trial in these reasons.",
+      "id": "s4"
+    },
+    {
+      "text": "But, it will be necessary or convenient for me to refer to matters in issue sometimes by a shorthand expression which otherwise may indicate that they are taken as facts.",
+      "id": "s5"
+    },
+    {
+      "text": "However, I have assumed these matters in order to assess the admissibility of the representations in the affidavit.",
+      "id": "s6"
+    },
+    {
+      "text": "For example there is an issue as to precisely what the franchise agreement, if any, was between the parties.",
+      "id": "s7"
+    },
+    {
+      "text": "So, in these reasons, it is necessary to assume that there was a franchise agreement in place between the parties because the issue sought to be proved by the tender of the affidavit is that Allphones, with knowledge of the facts entitling it to terminate the franchise agreement for fraud, instead affirmed it.",
+      "id": "s8"
+    },
+    {
+      "text": "3 That issue arises in this way: It is common ground that in the middle of 2003, Allphones franchised to Hoy Mobile at least the right to operate a franchised store in the East Gardens shopping centre, which is in a suburb of Sydney.",
+      "id": "s9"
+    },
+    {
+      "text": "Under the franchise arrangement, Hoy Mobile was authorised to sell, as agent for Allphones, mobile phones and to enter into dealings with retail customers for the sale of those phones and other products and services to members of the public.",
+      "id": "s10"
+    },
+    {
+      "text": "4 At some time in 2006, it came to Allphones' notice that Craig Hoy, one of the two principals of Hoy Mobile and the manager of the store, had engaged in questionable conduct in relation to the sale of mobile phones at the store.",
+      "id": "s11"
+    },
+    {
+      "text": "That conduct involved what has been described in evidence as 'unlocking' telephones.",
+      "id": "s12"
+    },
+    {
+      "text": "The supplier of the locked phones was generally a telecommunications carrier, such as Telstra, Optus or Vodafone.",
+      "id": "s13"
+    },
+    {
+      "text": "The suppliers had caused the locked telephones to be operated in such a way that they would only function on the network of that carrier.",
+      "id": "s14"
+    },
+    {
+      "text": "Thus, a customer who bought such a telephone would necessarily use the carrier's services when using it, thus generating call revenue for the carrier.",
+      "id": "s15"
+    },
+    {
+      "text": "If such a phone were unlocked, a customer would be able to use it on any network, not just that of the carrier who supplied the telephone to Allphones for retail sale in, among others, the Eastgardens shop.",
+      "id": "s16"
+    },
+    {
+      "text": "Allphones asserted that such conduct was fraudulent and a breach of the franchise agreement.",
+      "id": "s17"
+    },
+    {
+      "text": "5 There is another aspect of Mr Hoy's conduct which is in issue in relation to the unlocking of telephones.",
+      "id": "s18"
+    },
+    {
+      "text": "When reporting the sale of the telephone in the Allphones computer system, the item would be recorded as sold at its recommended retail price, that is, at the price of a locked telephone.",
+      "id": "s19"
+    },
+    {
+      "text": "That price was generally cheaper than the actual price received by Hoy Mobile for the by then unlocked phone.",
+      "id": "s20"
+    },
+    {
+      "text": "Thus, the second aspect of this conduct involved the assertion that Hoy Mobile was receiving money for which it was not accounting in respect of the sale of the unlocked telephones.",
+      "id": "s21"
+    },
+    {
+      "text": "6 Allphones gave Hoy Mobile a notice of its intention to terminate the franchise agreement in late August 2006.",
+      "id": "s22"
+    },
+    {
+      "text": "Before that occurred, but after Allphones became aware of the allegation of unlocking of the telephones, Hoy Mobile alleges that Allphones acted in a way which affirmed the franchise agreement.",
+      "id": "s23"
+    },
+    {
+      "text": "Hoy Mobile alleges that Allphones required it to do certain things in accordance with the franchise agreement.",
+      "id": "s24"
+    },
+    {
+      "text": "Hoy Mobile relies on this affirmation, or election, to deny that Allphones was entitled to terminate the franchise agreement.",
+      "id": "s25"
+    },
+    {
+      "text": "It claimed that when Allphones sought to require Hoy Mobile to comply with requirements made by it earlier in June and July 2006 that conduct was inconsistent with Allphones' subsequent attempt to exercise a right to terminate: see Sargent v ASL Developments Ltd [1974] HCA 40 ; (1974) 131 CLR 634 esp at 642 per Stephen J.",
+      "id": "s26"
+    },
+    {
+      "text": "7 The issue here is whether Allphones knew in June or July 2006 both about the unlocking of the phones and the failure to account, on which it relied, to uphold its exercise of a right to terminate.",
+      "id": "s27"
+    },
+    {
+      "text": "It gave notice of its intention to exercise the right to terminate in late August 2006.",
+      "id": "s28"
+    },
+    {
+      "text": "8 This matter has had a long history of interlocutory case management.",
+      "id": "s29"
+    },
+    {
+      "text": "During early 2007, a question arose as to whether some documents produced on discovery by Allphones were entitled to be withheld from production on the ground of legal professional privilege.",
+      "id": "s30"
+    },
+    {
+      "text": "An interlocutory hearing took place before Tamberlin J on 1 June 2007.",
+      "id": "s31"
+    },
+    {
+      "text": "At that hearing, Allphones read and relied upon a sworn affidavit by Mr Lloyd on 5 April 2007.",
+      "id": "s32"
+    },
+    {
+      "text": "He was a solicitor employed by its solicitors on the record.",
+      "id": "s33"
+    },
+    {
+      "text": "Mr Lloyd said that he deposed to the matters in the affidavit based on information and belief unless otherwise stated.",
+      "id": "s34"
+    },
+    {
+      "text": "But, relevantly, he did not identify the sources of the information and belief.",
+      "id": "s35"
+    },
+    {
+      "text": "Nonetheless, the affidavit was read in full before Tamberlin J.",
+      "id": "s36"
+    },
+    {
+      "text": "9 Allphones now objects to the affidavit being received as an admission by it of its state of knowledge during the period leading up to its giving its notice of intention to terminate.",
+      "id": "s37"
+    },
+    {
+      "text": "The critical portions of the affidavit to which objection is taken, are pars 7 and 8, which read as follows:\n \n \n '7.",
+      "id": "s38"
+    },
+    {
+      "text": "In or around May 2006, the respondent became aware that the applicant may have been engaging in fraudulent conduct in relation to its business.",
+      "id": "s39"
+    },
+    {
+      "text": "The fraudulent conduct of the applicant included the following: \n \n \n \n \n \n 7.1 Manually unbundling mobile telephones 'locked' to a particular mobile telephone network provider so that the mobile telephone could be operated through any network provider; \n \n 7.2 Selling the unbundled mobile telephones at a higher price than the 'locked' price, without accounting to the respondent for the difference in price; \n \n 7.3 Failing to disclose this conduct to the respondent, the customers who purchased the mobile telephones or the mobile telephone network providers to which the mobile telephones had been locked.",
+      "id": "s40"
+    },
+    {
+      "text": "8.",
+      "id": "s41"
+    },
+    {
+      "text": "The respondent sought legal advice in relation to the matters referred to in paragraphs 5, 6 and 7 above in June, July and August 2006 and in anticipation of proceedings being commenced by the applicant upon termination of the franchise agreement the respondent and its legal advisers spoke to and obtained statements from various persons in relation to the applicant's fraudulent conduct.",
+      "id": "s42"
+    },
+    {
+      "text": "' \n \n \n\n10 In par 7.1 Mr Lloyd referred to the unlocking of phones and in par 7.2 he referred to the failure to account each of which I have described above.",
+      "id": "s43"
+    },
+    {
+      "text": "11 The parties have asked that I give a ruling on the capacity of this material to be received as an admission before determining, were I to rule it capable of being an admission, on further matters going to the exercise of my discretion under ss 135 and 136 of the Evidence Act 1995 .",
+      "id": "s44"
+    },
+    {
+      "text": "Those further matters concern whether, at this stage of the trial and in the circumstances in which the evidence is sought to be led, the affidavit ought then be admitted into evidence.",
+      "id": "s45"
+    },
+    {
+      "text": "What the parties have suggested is a convenient approach.",
+      "id": "s46"
+    },
+    {
+      "text": "THE STATUTORY SCHEME \n \n12 The Evidence Act provides in s 81(1) that the hearsay rule does not apply to evidence of an admission.",
+      "id": "s47"
+    },
+    {
+      "text": "An admission is defined in the dictionary to the Act as:\n \n ' Admission means a previous representation, that is: \n \n \n \n (a) made by a person who is or becomes a party to a proceeding (including a defendant in a criminal proceeding); and \n \n \n \n (b) adverse to the person's interest in the outcome of the proceeding.",
+      "id": "s48"
+    },
+    {
+      "text": "' \n\n\n \nThere is no issue that if the representations in pars 7 and 8 of the affidavit are capable of being read as a previous representation, they are capable of being construed as being adverse to Allphones' interest in the outcome of the proceedings.",
+      "id": "s49"
+    },
+    {
+      "text": "However, there is a debate as to their weight and the character and context in which they ought be read.",
+      "id": "s50"
+    },
+    {
+      "text": "13 Previous representation is defined in the dictionary to the Act as follows:\n \n ' Previous representation means a representation made otherwise than in the course of giving evidence in the proceeding in which evidence of the representation is sought to be adduced.",
+      "id": "s51"
+    },
+    {
+      "text": "' \n \n \n\n14 In s 82(b) , the Act provides that s 81 does not prevent the application of the hearsay rule to evidence of an admission unless, relevantly, it is in a document in which the admission is made.",
+      "id": "s52"
+    },
+    {
+      "text": "The affidavit of Mr Lloyd is capable of being such a document within the meaning of s 82(b).",
+      "id": "s53"
+    },
+    {
+      "text": "However, there is an issue whether Mr Lloyd could make an admission binding on Allphones.",
+      "id": "s54"
+    },
+    {
+      "text": "By dint of s 87(1)(a) the Court must admit a representation for the purposes of determining whether it is taken to be an admission if it is reasonably open to find that, when the representation was made, the person had authority to make statements on behalf of the party in relation to the matter with respect to which the representation was made.",
+      "id": "s55"
+    },
+    {
+      "text": "And, s 88 provides that: \n \n 'For the purposes of determining whether evidence if an admission is admissible, the court is to find that a particular person made the admission if it is reasonably open to find that he or she made the admission.",
+      "id": "s56"
+    },
+    {
+      "text": "' \n\n\n DID THE SOLICITOR HAVE SUFFICIENT AUTHORITY TO MAKE AN ADMISSION FOR HIS CLIENT?",
+      "id": "s57"
+    },
+    {
+      "text": "15 Mr Lloyd's affidavit was read by Allphones in the interlocutory proceedings before Tamberlin J for the purposes of explaining, in part at least, its assertion of legal professional privilege in respect of the documents which it objected to producing.",
+      "id": "s58"
+    },
+    {
+      "text": "Allphones put Mr Lloyd forward to Tamberlin J as a person who was giving evidence of its case on its behalf and with its authority.",
+      "id": "s59"
+    },
+    {
+      "text": "It relied on his evidence to prove, at least in part, its claim for legal professional privilege.",
+      "id": "s60"
+    },
+    {
+      "text": "In my opinion, it is reasonably open to find that in those interlocutory proceedings Mr Lloyd had authority to make admissions on behalf of Allphones to the extent that the affidavit could otherwise be read as having done so.",
+      "id": "s61"
+    },
+    {
+      "text": "16 As a matter of common sense Mr Lloyd was relied on as a person with authority to attest to significant facts upon which Allphones' case for the claim for privilege was put to Tamberlin J. Allphones intended that his evidence be acted upon by the judge hearing the interlocutory dispute as to whether or not it was entitled to maintain its claim for legal professional privilege.",
+      "id": "s62"
+    },
+    {
+      "text": "17 Mansfield J briefly touched on the authority of counsel in separate proceedings to make admissions which affected that counsel's client in In the matter of Simionato Holdings Pty Limited; Commissioner of Taxation of the Commonwealth of Australia v Simionato Holdings Pty Limited [1997] FCA 125.",
+      "id": "s63"
+    },
+    {
+      "text": "He referred to what Franki J had earlier said in Trade Practices Commission v TNT Management Pty Limited (1984) 56 ALR 647 at 663, namely:\n \n 'In general, the passages sought to be tendered as admissions are statements made by counsel appearing in interlocutory matters and intended to be acted upon by the judge.",
+      "id": "s64"
+    },
+    {
+      "text": "I can see no reason why they should not be regarded as prima facie evidence against the client on whose behalf counsel was addressing the court.",
+      "id": "s65"
+    },
+    {
+      "text": "' \n\n\n \nHere, of course, Mr Lloyd's statements were not statements made by counsel addressing a court.",
+      "id": "s66"
+    },
+    {
+      "text": "Rather, they were statements put forward by him, on behalf of his client, in an affidavit tendered as evidence of the facts.",
+      "id": "s67"
+    },
+    {
+      "text": "18 It has long been the law that in civil cases a solicitor has implied authority to make admissions receivable by the Court against his or her client during the actual progress of litigation, either for the purposes of dispensing with proof at trial or in certain other respects.",
+      "id": "s68"
+    },
+    {
+      "text": "Thus formal admissions made by attorneys of both sides at a first trial could be relied on at the second trial after the first verdict had been set aside.",
+      "id": "s69"
+    },
+    {
+      "text": "Lord Denman CJ said that there was no doubt that the admissions were receivable at the second trial, albeit that they had been made before, and for the purposes of, the first trial: see Doe d. Wetherell v Bird (1835) 7 C &amp; P 6 at 7.",
+      "id": "s70"
+    },
+    {
+      "text": "And in Langley v Earl of Oxford (1836) 5 LJ Exch 166 at 167, Lord Abinger CB held that an admission to be used at the trial of a cause, whenever it should take place, was admissible.",
+      "id": "s71"
+    },
+    {
+      "text": "It did not matter that the admission had been made before the first trial.",
+      "id": "s72"
+    },
+    {
+      "text": "Once made, it could be used at the second trial: see also Phipson, The Law of Evidence (8 th edition, 1942) at p 234.",
+      "id": "s73"
+    },
+    {
+      "text": "19 For these reasons, I am of opinion that it is reasonably open to find, and I find, by force of ss 87 and 88 of the Evidence Act , that Mr Lloyd had authority when his affidavit was read before Tamberlin J to make statements on behalf of Allphones which, if those statements are capable as a matter of law as being treated as admissions, can be received in evidence as admissions by Allphones.",
+      "id": "s74"
+    },
+    {
+      "text": "WERE THE PROCEEDINGS BEFORE TAMBERLIN J THE SAME PROCEEDINGS AS THE TRIAL WITH THE MEANING OF 'PREVIOUS REPRESENTATION'?",
+      "id": "s75"
+    },
+    {
+      "text": "20 That, however, is only the beginning of the consideration of the question of admissibility.",
+      "id": "s76"
+    },
+    {
+      "text": "Allphones argued that Mr Lloyd's evidence cannot be a 'previous representation' within the meaning of that term in the Evidence Act because it was made in the course of giving evidence in the proceedings in which evidence of the representation was sought to be adduced.",
+      "id": "s77"
+    },
+    {
+      "text": "That is, Allphones argued that the evidence now tendered at this trial had already been given in evidence 'in the proceedings' when it was read during the interlocutory proceeding heard by Tamberlin J.",
+      "id": "s78"
+    },
+    {
+      "text": "Counsels' and my own researches have not been able to uncover any authority on the meaning of 'previous representation' in respect of representations made during earlier stage of a matter filed in a court which are later sought to be used as a 'previous representation' in the same matter.",
+      "id": "s79"
+    },
+    {
+      "text": "21 The Evidence Act was substantially the product of a report by the Australian Law Reform Commission: Report No 38, Evidence .",
+      "id": "s80"
+    },
+    {
+      "text": "When the legislation was enacted there were some departures from the recommendations in the Commission's report.",
+      "id": "s81"
+    },
+    {
+      "text": "However, the Commission explained that the Bill which it had prepared was drafted so that it applied whenever evidence was to be adduced, including in bail applications, interlocutory proceedings and proceedings heard, not in open court, but in chambers (see ALRC 38 [57]).",
+      "id": "s82"
+    },
+    {
+      "text": "And, that intention is reflected now in s 4 of the Evidence Act .",
+      "id": "s83"
+    },
+    {
+      "text": "22 The Commission also commented on the terminology which it had used in the introduction to ALRC 38.",
+      "id": "s84"
+    },
+    {
+      "text": "It said that it had made use in the draft Bill of a number of commonly used terms and observed that (ALRC 38 [59]):\n \n 'The bill is drafted on the basis that a witness in the witness box is 'giving' evidence.",
+      "id": "s85"
+    },
+    {
+      "text": "The party who is questioning the witness (whether in examination-in-chief or in cross-examination) is 'adducing' the evidence that the witness is giving.",
+      "id": "s86"
+    },
+    {
+      "text": "It is the court's function to admit or refuse to admit the evidence so adduced.",
+      "id": "s87"
+    },
+    {
+      "text": "' \n \n\n23 The Commission also stated that the draft Bill classified proceedings in three ways: namely, first, proceedings to which the Bill applied (referring to what is now s 4) , secondly, legal or administrative proceedings and, last, civil and criminal proceedings.",
+      "id": "s88"
+    },
+    {
+      "text": "The Commission noted that 'admission' was defined in its interim proposal as a representation made out of court by a party which was adverse to that party's interests in the outcome of the proceedings (ALRC 38 [152]).",
+      "id": "s89"
+    },
+    {
+      "text": "That concept was one well known at common law: namely that a person may be taken by words or conduct to have made an admission out of court, which is sought to be adduced in evidence in court.",
+      "id": "s90"
+    },
+    {
+      "text": "24 In the present case, Mr Lloyd's affidavit could in no real sense be treated as being a statement made in court in this trial.",
+      "id": "s91"
+    },
+    {
+      "text": "This is because it was not put forward in the course of him giving evidence in the trial.",
+      "id": "s92"
+    },
+    {
+      "text": "Allphones argued that, nonetheless, it contains statements or representations made by Mr Lloyd in the course of giving evidence in these 'proceedings' in a more general sense.",
+      "id": "s93"
+    },
+    {
+      "text": "25 The Evidence Act does not, itself, define the expression 'proceeding', although it does provide definitions for 'Australian or overseas proceeding', 'civil proceeding', 'criminal proceeding'.",
+      "id": "s94"
+    },
+    {
+      "text": "And in s 75 the Act also provides that the hearsay rule does not to apply in an 'interlocutory proceeding'.",
+      "id": "s95"
+    },
+    {
+      "text": "Indeed, s 4 provides that the Act is to apply in relation to 'all proceedings in a federal Court or an ACT Court', including, among others, proceedings relating to bail, interlocutory proceedings or proceedings of a similar kind, proceedings heard in chambers or, in some exceptions, sentencing proceedings.",
+      "id": "s96"
+    },
+    {
+      "text": "The dictionary defines 'judge' as:\n \n ' Judge , in relation to a proceeding, means the judge, magistrate or other person before whom the proceeding is being held.",
+      "id": "s97"
+    },
+    {
+      "text": "' \n\n\n \n26 In my opinion, the way in which the Act is drafted reflects the drafting intention expressed by the Commission (ALRC 38 [59]).",
+      "id": "s98"
+    },
+    {
+      "text": "The Act deals with rules to be applied in determining the reception or admissibility of evidence at a particular point of time in a particular context.",
+      "id": "s99"
+    },
+    {
+      "text": "The definition of 'judge', lends force to this view.",
+      "id": "s100"
+    },
+    {
+      "text": "It is frequently the case, particularly in courts which do not maintain a docket system, that different aspects or stages of a legal proceeding initiated in a particular court may be before different judicial officers at any different times up to and including a trial or final hearing (e.g.",
+      "id": "s101"
+    },
+    {
+      "text": "of an appeal).",
+      "id": "s102"
+    },
+    {
+      "text": "'Proceedings', in the loose or common usage of that term, can be heard by any number of judges (as defined) through their interlocutory stages.",
+      "id": "s103"
+    },
+    {
+      "text": "Each such stage may involve the judge (as defined) giving a judgment or decision which could be made the subject of an application for leave to appeal.",
+      "id": "s104"
+    },
+    {
+      "text": "Interlocutory decisions do not finally determine parties' rights, yet they can be the subject of substantial contests and evidence and can lead to application for leave to appeal or to appeals.",
+      "id": "s105"
+    },
+    {
+      "text": "Nor need those contests be held before the same judge who hears the trial, as indeed is the case here.",
+      "id": "s106"
+    },
+    {
+      "text": "Either party, depending on the result, could have sought leave to appeal from what Tamberlin J decided.",
+      "id": "s107"
+    },
+    {
+      "text": "The interlocutory proceeding before his Honour and any application for leave to appeal or appeal from his decision would have had to be decided on the evidence before him.",
+      "id": "s108"
+    },
+    {
+      "text": "That evidence included Mr Lloyd's representations (for the purposes of the Evidence Act ) made in his affidavit.",
+      "id": "s109"
+    },
+    {
+      "text": "27 I am of opinion that the proper construction of the definition of 'previous representation' in the Act requires that the expression 'in the course of giving evidence in the proceeding in which evidence of the representation is sought to be adduced' be treated as a reference to the hearing before the judge, as defined, in which the evidence is sought to be adduced.",
+      "id": "s110"
+    },
+    {
+      "text": "It does not extend to other hearings or phases, including any interlocutory proceeding, in which the parties have been engaged prior to that hearing.",
+      "id": "s111"
+    },
+    {
+      "text": "Of course, if a matter is part heard, on the resumption of hearing it is the same proceeding for the purposes of the definition of 'previous representation'.",
+      "id": "s112"
+    },
+    {
+      "text": "But where one can readily segregate the interlocutory or other phases of a matter from the trial, proceeding or phase in which the evidence is sought to be adduced, I am of opinion that a representation made before the current hearing is capable of being a previous representation within the meaning of that term in the Act.",
+      "id": "s113"
+    },
+    {
+      "text": "28 Allphones also argued that the word 'proceeding' in the Evidence Act should be given the extended meaning for which it contended by reference to the use of the same term in the Federal Court of Australia Act 1976 .",
+      "id": "s114"
+    },
+    {
+      "text": "There s 4 defines 'proceeding' as:\n \n ' Proceeding means a proceeding in a court, whether between parties or not, and includes an incidental proceeding in the course of, or in connection with, a proceeding, and also includes an appeal.",
+      "id": "s115"
+    },
+    {
+      "text": "' \n \n\n29 The long title of the Evidence Act is 'An Act About the Law of Evidence and for Related Purposes'.",
+      "id": "s116"
+    },
+    {
+      "text": "That Act identifies the courts and proceedings to which it is to apply in s 4.",
+      "id": "s117"
+    },
+    {
+      "text": "Expressions in the Evidence Act such as 'proceeding' cannot take their character from that same word used in a different Act, such as the Federal Court of Australia Act .",
+      "id": "s118"
+    },
+    {
+      "text": "The process of statutory construction requires the Court to have regard to the way in which the Parliament expressed itself with respect to the subject matter with which it is then dealing.",
+      "id": "s119"
+    },
+    {
+      "text": "The Evidence Act is intended to apply its series of provisions to the conduct of proceedings in a federal court (as defined) in which evidence is sought to be given.",
+      "id": "s120"
+    },
+    {
+      "text": "30 Like the Judiciary Act 1903 , the Evidence Act takes the courts to which it applies as it finds them.",
+      "id": "s121"
+    },
+    {
+      "text": "The Evidence Act deals with incidents of a proceeding which it characterises as such.",
+      "id": "s122"
+    },
+    {
+      "text": "The statutory regime which the Evidence Act itself provides, of course, does not create any civil or criminal proceeding.",
+      "id": "s123"
+    },
+    {
+      "text": "Rather, it applies the rules of evidence which it lays down for the conduct of civil or criminal proceedings to proceedings of the relevant character when and how they are constituted under other legislation.",
+      "id": "s124"
+    },
+    {
+      "text": "31 I am of opinion that the definition of 'proceeding' in the Federal Court of Australia Act does not affect the construction of 'proceeding' as that term is used in the Evidence Act .",
+      "id": "s125"
+    },
+    {
+      "text": "I am fortified in this view by the recognition that the Evidence Act itself is procedural in substance.",
+      "id": "s126"
+    },
+    {
+      "text": "It regulates how evidence is to be received and what is admissible.",
+      "id": "s127"
+    },
+    {
+      "text": "It does not itself create rights or liabilities.",
+      "id": "s128"
+    },
+    {
+      "text": "That is why the Act is careful to distinguish between various proceedings and to provide rules for the adducing of evidence in them.",
+      "id": "s129"
+    },
+    {
+      "text": "In Chief Executive Officer of Customs v Labrador Liquor Wholesale Pty Limited [2003] HCA 49 ; (2003) 216 CLR 161 at 200 [122] and 205 [133] Hayne J (with whom Gleeson CJ and McHugh J agreed) said that the rules governing the admissibility of evidence fall under the expression 'practice and procedure'.",
+      "id": "s130"
+    },
+    {
+      "text": "Gummow J, with whom Kirby J agreed on this point, said that more substantive rights were involved: Labrador 216 CLR at 173 [33].",
+      "id": "s131"
+    },
+    {
+      "text": "Kirby J referred to the assignment of the burden and identification of a standard of proof as being matters which can be of critical importance to the conduct of a trial.",
+      "id": "s132"
+    },
+    {
+      "text": "They could thereby partake of certain features of practice and procedure, but he also recognised that each was arguably something more than that because each affected, in a way, the very character of the trial.",
+      "id": "s133"
+    },
+    {
+      "text": "In that case the provisions of the Excise Act 1901 dealt with how matters might be proved: Labrador 216 CLR at 185 [76].",
+      "id": "s134"
+    },
+    {
+      "text": "32 Essentially, whether or not a previous representation amounts to an admission is a question of the law of evidence.",
+      "id": "s135"
+    },
+    {
+      "text": "That question has the character of a matter of practice or procedure.",
+      "id": "s136"
+    },
+    {
+      "text": "The Evidence Act regulates the way in which a proceeding is conducted.",
+      "id": "s137"
+    },
+    {
+      "text": "Of course, the Act applies a particular standard of proof depending on whether the proceedings are civil or criminal and in that way the application of the Act may affect substantive rights.",
+      "id": "s138"
+    },
+    {
+      "text": "But the substantive operation of the Act applies the practice and procedure apposite to regulate the adducing of evidence on each occasion on which it is tendered.",
+      "id": "s139"
+    },
+    {
+      "text": "The Act does not create any proceeding in a court.",
+      "id": "s140"
+    },
+    {
+      "text": "Rather, it provides a procedure to apply to or in an existing cause of action or matter for adducing evidence.",
+      "id": "s141"
+    },
+    {
+      "text": "33 Proof of what occurred before Tamberlin J is capable of establishing a fact that occurred on an occasion outside this trial.",
+      "id": "s142"
+    },
+    {
+      "text": "The interlocutory proceeding was not this trial of the issues between the parties.",
+      "id": "s143"
+    },
+    {
+      "text": "For these reasons, I am of opinion that what occurred before Tamberlin J did not occur in the course of giving evidence in the proceeding in which it is now sought to tender Mr Lloyd's affidavit.",
+      "id": "s144"
+    },
+    {
+      "text": "It follows that Mr Lloyd's affidavit is capable of being a previous representation and thus capable of falling within the meaning of 'admission' as a matter of law.",
+      "id": "s145"
+    },
+    {
+      "text": "WERE THE REPRESENTATIONS IN MR LLOYD'S AFFIDAVIT ADMISSIONS BY ALLPHONES?",
+      "id": "s146"
+    },
+    {
+      "text": "34 Allphones also argued that what Mr Lloyd had said in his affidavit could not be read against it.",
+      "id": "s147"
+    },
+    {
+      "text": "In British Thomson-Houston Co Limited v British Insulated and Helsby Cables Limited [1924] 2 Ch 160 at 164-165 (see also at 170-171 per Atkin LJ) Pollock MR said that affidavits or documents which a party knowingly used as true in a judicial proceeding for the purpose of proving a particular fact are capable of being evidence against that party in subsequent proceedings to prove the same fact.",
+      "id": "s148"
+    },
+    {
+      "text": "He said that the principle applied in cases where the party adducing the document, whether an affidavit or deposition, knew of its contents beforehand and elected to put it forward in support of the party's case.",
+      "id": "s149"
+    },
+    {
+      "text": "He referred to what Crompton J had said in Richards v Morgan (1863) 4 B &amp; S 641 at 659, namely:\n \n 'It must always be remembered that it is not the obtaining the affidavit or deposition but the making use of it as true with knowledge of the contents, which is the ground on which such evidence is supposed to be receivable.",
+      "id": "s150"
+    },
+    {
+      "text": "' \n\n\n \nCockburn CJ in the same case said (4 B &amp; S at 661):\n \n 'It cannot be doubted that a man's assertions are admissions, whether made in the course of a judicial proceeding or otherwise, and, in the former case, whether he was himself a party to such proceeding or not.",
+      "id": "s151"
+    },
+    {
+      "text": "It may be given in evidence against him in any suit or action in which the fact so asserted or admitted becomes material to the issue to be determined.",
+      "id": "s152"
+    },
+    {
+      "text": "And in principle, there can be no difference whether the assertion or admission be made by the party himself who is sought to be affected by it, or by someone employed, directed or invited by him to make the particular statement on his behalf.",
+      "id": "s153"
+    },
+    {
+      "text": "In like manner, a man who brings forward another for the purposes of asserting or proving some fact on his behalf, whether in a court of justice or elsewhere, must be taken himself to assert the fact that he thus seeks to establish.",
+      "id": "s154"
+    },
+    {
+      "text": "' \n \n\n35 In Prangley v Evans (1896) 17 NSWLR 416 at 418, Owen J (with whom Simpson J, citing the above passage from Cockburn CJ in Richards 4 B &amp; S at 661, and Cohen J agreed at 419-420) said:\n \n 'A client who uses an affidavit of a solicitor for a particular purpose must be taken to admit statements in the affidavit which are pertinent to the purpose for which the affidavit is prepared.",
+      "id": "s155"
+    },
+    {
+      "text": "But if there are statements in it that are irrelevant to the purpose for which it is prepared, the client is not bound by those statements.",
+      "id": "s156"
+    },
+    {
+      "text": "' \n \n\n36 Here, of course, Allphones, being a corporation, can only act by others.",
+      "id": "s157"
+    },
+    {
+      "text": "It can have no opinions because it has no mind, but it can have attributed to it a state of mind or knowledge based on what those whom it authorises to act on its behalf say or do: Lloyd v David Syme &amp; Co Ltd [1986] AC 350 at 366; (1985) 3 NSWLR 728 at 736 per Lord Keith of Kinkel.",
+      "id": "s158"
+    },
+    {
+      "text": "For these reasons, I am of opinion that Mr Lloyd was a person whose evidence can be treated as being an admission by Allphones.",
+      "id": "s159"
+    },
+    {
+      "text": "WAS THE QUALITY OF MR LLOYD'S EVIDENCE INCAPABLE OF AMOUNTING TO AN ADMISSION?",
+      "id": "s160"
+    },
+    {
+      "text": "37 Next, Allphones argued that the quality of Mr Lloyd's evidence was such that it could not be treated as being an admission of anything.",
+      "id": "s161"
+    },
+    {
+      "text": "It pointed to the fact that Mr Lloyd did not state his source of knowledge or belief in the affidavit.",
+      "id": "s162"
+    },
+    {
+      "text": "This is a complaint which does not go to the capacity of the statements to be used as evidence.",
+      "id": "s163"
+    },
+    {
+      "text": "It merely may go to their weight, albeit that Mr Lloyd's evidence was put forward by Allphones to prove some of the very facts it now says should not be accepted from the same information.",
+      "id": "s164"
+    },
+    {
+      "text": "The question is whether the representations in pars 7 and 8 are capable of showing that before giving its notice of intention to terminate, Allphones had knowledge of the failure of Hoy Mobile to account for receipts from sales of the unlocked phones.",
+      "id": "s165"
+    },
+    {
+      "text": "As Allphones pointed out the introductory phrase in par 7 'in or around May 2006' is somewhat vague.",
+      "id": "s166"
+    },
+    {
+      "text": "It also argued that pars 7 and 8 of the affidavit are vague in relation to the extent of Allphones' knowledge and the circumstances in which it was obtained.",
+      "id": "s167"
+    },
+    {
+      "text": "38 I am of opinion that these criticisms do not prevent their reception into evidence of the representations as admissions.",
+      "id": "s168"
+    },
+    {
+      "text": "In Lustre Hosiery Limited v York [1935] HCA 71 ; (1935) 54 CLR 134 at 143 to 144 Rich, Dixon, Evatt and McTiernan JJ said:\n \n 'This course of authority seems consistent with the view that words or conduct amount to an admission receivable in evidence against the party if they disclose an intention to affirm or acknowledge the existence of a fact whatever be the party's source of information or belief.",
+      "id": "s169"
+    },
+    {
+      "text": "In determining whether he intends to affirm or acknowledge the state of facts the party's knowledge or source of information may be immaterial or if he states that another person has told him of it and it appears that he has additional sources of information to the like effect it may be right to understand him as implying a belief in what he repeats or again a person who fails to contradict a statement concerning matters within his own knowledge may be understood as acquiescing in the statement if the circumstances are such as to make it unlikely that he'd allow an erroneous statement to pass unchallenged \n \n But although the meaning of his words or conduct may depend upon the state of his knowledge once that meaning appears and an intention is disclosed to assert or acknowledge the state of facts its admissibility in evidence as an admission is independent of the party's actual knowledge of the true facts.",
+      "id": "s170"
+    },
+    {
+      "text": "When admitted in evidence however its probative force must be determined by reference to the circumstances in which it's made and may depend all together upon the party's source of knowledge.",
+      "id": "s171"
+    },
+    {
+      "text": "If it appears that he had no knowledge or that although he had some means of knowledge he had formed no certain or considered belief and indicated nothing amounting to a personal judgment or conclusion of his own the probative force of the admission may be so small that a jury ought not be allowed to act upon it alone or in preference to opposing evidence.",
+      "id": "s172"
+    },
+    {
+      "text": "' \n\n\n \n39 Earlier their Honours had discussed the principles from which these statements were derived.",
+      "id": "s173"
+    },
+    {
+      "text": "The Court later applied them in Smith v Joyce [1954] HCA 15 ; (1954) 89 CLR 529 at 535-536.",
+      "id": "s174"
+    },
+    {
+      "text": "There Dixon CJ, Webb, Fullagar, Kitto and Taylor JJ said that it was a question of law whether a statement made by a party to an action is capable of constituting an admission on any relevant issue and that this, in general, must be determined by an examination of the words used: Smith 89 CLR at 535; see too Dovuro Pty Limited v Wilkins [2003] HCA 51 ; (2003) 215 CLR 317 at 340-341 [68] - [71] per Gummow J.",
+      "id": "s175"
+    },
+    {
+      "text": "40 I am of opinion that the representations made in pars 7 and 8 of Mr Lloyd's affidavit are capable of being read as statements that at least prior to the giving of the notice of intention to terminate and, perhaps some time prior to that notice, Allphones was aware of each of the three matters referred to specifically in the subpars of par 7, namely, the unlocking of phones, the failure to account and the failure to disclose that conduct to Allphones.",
+      "id": "s176"
+    },
+    {
+      "text": "In those circumstances it seems to me that this evidence is capable of being admitted into evidence in the proceedings.",
+      "id": "s177"
+    },
+    {
+      "text": "41 The parties conducted the substantial argument around pars 7 and 8.",
+      "id": "s178"
+    },
+    {
+      "text": "I should record that objection was taken to the reception into evidence of pars 1-17, 36-40 and 42 although no separate elaboration was made as to their character were I otherwise minded to admit pars 7 and 8.",
+      "id": "s179"
+    },
+    {
+      "text": "CONCLUSION \n \n42 For these reasons, I am of opinion that the paragraphs objected to in Mr Lloyd's affidavit are capable of being admissions within the meaning of ss 81 and 82 of the Evidence Act .",
+      "id": "s180"
+    },
+    {
+      "text": "However, the circumstances in which the evidence has been tendered and any potential prejudice that might occur to Allphones in dealing with that evidence have not been fully explored or argued at this stage.",
+      "id": "s181"
+    },
+    {
+      "text": "I make no ruling on those matters at the present time.",
+      "id": "s182"
+    },
+    {
+      "text": "I certify that the preceding forty-two (42) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Rares.",
+      "id": "s183"
+    },
+    {
+      "text": "Associate:\n\nDated: 18 March 2008\n\n\n Counsel for the Applicant: DA Smallbone \n \n Solicitor for the Applicant: Birch Partners \n \n Counsel for the Respondent: DR Pritchard SC and E Muston \n \n Solicitor for the Respondent: Bartier Perry \n \n Date of Hearing: 26 February 2008 \n \n Date of Judgment: 26 February 2008 \n\n\n\n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2008/369.html",
+      "id": "s184"
+    }
+  ]
+}

@@ -1,0 +1,2660 @@
+{
+  "name": "Lactos Fresh Pty Ltd v Finishing Services Pty Ltd [2006] FCA 219 (15 March 2006)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2006/219.html",
+  "catchphrases": [
+    {
+      "text": "whether notice given by landlord containing new rental assessment valid",
+      "id": "c0"
+    },
+    {
+      "text": "whether notice unequivocal and did not leave reasonable recipient in doubt as to meaning",
+      "id": "c1"
+    },
+    {
+      "text": "whether reasonable recipient credited with knowledge of terms of lease",
+      "id": "c2"
+    },
+    {
+      "text": "whether subjective reaction of recipient of notice relevant",
+      "id": "c3"
+    },
+    {
+      "text": "whether landlord's assessment required to be reasonable and not excessive",
+      "id": "c4"
+    },
+    {
+      "text": "whether an implied duty of good faith",
+      "id": "c5"
+    },
+    {
+      "text": "misleading or deceptive conduct",
+      "id": "c6"
+    },
+    {
+      "text": "provision of assessment of proper rent",
+      "id": "c7"
+    },
+    {
+      "text": "whether provision of assessment caused applicant's loss",
+      "id": "c8"
+    },
+    {
+      "text": "unconscionable conduct",
+      "id": "c9"
+    },
+    {
+      "text": "whether individual under a \"special disadvantage\"",
+      "id": "c10"
+    },
+    {
+      "text": "amendment to pleadings",
+      "id": "c11"
+    },
+    {
+      "text": "whether claim adequately pleaded",
+      "id": "c12"
+    },
+    {
+      "text": "whether amendment should be allowed after conclusion of evidence",
+      "id": "c13"
+    },
+    {
+      "text": "relevance of strength of case",
+      "id": "c14"
+    },
+    {
+      "text": "contract",
+      "id": "c15"
+    },
+    {
+      "text": "trade practices",
+      "id": "c16"
+    },
+    {
+      "text": "practice and procedure",
+      "id": "c17"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "INTRODUCTION \n \n 1 This is an application by Lactos Fresh Pty Ltd against Finishing Services Pty Ltd and Colliers International (Victoria) Pty Ltd.",
+      "id": "s0"
+    },
+    {
+      "text": "It arises out of the events surrounding the first respondent's attempt to increase the rent of a customised food processing and storage facility at 22-24 Glenvale Crescent, Mulgrave (\"the Mulgrave premises\"), that it owns and leases to the applicant.",
+      "id": "s1"
+    },
+    {
+      "text": "2 As against the first respondent, the applicant claims that the rental increase notice was invalid, that the first respondent breached an implied duty of good faith and fair dealing, and that the first respondent acted unconscionably, in breach of s 51AA of the Trade Practices Act 1974 (Cth).",
+      "id": "s2"
+    },
+    {
+      "text": "3 The second respondent provided certain information to the first respondent as to the market rate of rental that, in its opinion, was applicable to the Mulgrave premises.",
+      "id": "s3"
+    },
+    {
+      "text": "This information, in the form of a letter from the second respondent to the first respondent (\"the Colliers letter\"), was incorporated in the rental increase notice as an attachment.",
+      "id": "s4"
+    },
+    {
+      "text": "As against the second respondent, the applicant claims that it engaged in misleading or deceptive conduct under s 52 of the Trade Practices Act , causing loss or damage to the applicant.",
+      "id": "s5"
+    },
+    {
+      "text": "The claim against the second respondent is, in effect, pleaded as an alternative to the primary claim against the first respondent, that the rental increase notice was invalid.",
+      "id": "s6"
+    },
+    {
+      "text": "If the challenge to the validity of that notice succeeds, the applicant does not press any claim against the second respondent.",
+      "id": "s7"
+    },
+    {
+      "text": "BACKGROUND \n \n4 The first respondent leased the Mulgrave premises to the applicant in 1999.",
+      "id": "s8"
+    },
+    {
+      "text": "At that time, the applicant was called Nobi Holdings Pty Ltd. Prior to this, the Mulgrave premises had been leased by the first respondent to New Zealand Milk (Ausapac) Pty Ltd (\"New Zealand Milk\"), a company associated with the New Zealand Government.",
+      "id": "s9"
+    },
+    {
+      "text": "5 The applicant's business involves the cutting and wrapping of cheese.",
+      "id": "s10"
+    },
+    {
+      "text": "This process is conducted out of the Mulgrave premises.",
+      "id": "s11"
+    },
+    {
+      "text": "The applicant's parent company is Lactos Pty Ltd.",
+      "id": "s12"
+    },
+    {
+      "text": "It conducts research and development, marketing and operations activities, and is based in Burnie, Tasmania.",
+      "id": "s13"
+    },
+    {
+      "text": "Lactos Pty Ltd's parent company is a French company called Bongrain SA.",
+      "id": "s14"
+    },
+    {
+      "text": "Mr Claude Bertrand, a French national, is the General Manager of the applicant.",
+      "id": "s15"
+    },
+    {
+      "text": "6 The first respondent owns a number of industrial properties, including the Mulgrave premises.",
+      "id": "s16"
+    },
+    {
+      "text": "Its directors are John Allen, and his son Matthew.",
+      "id": "s17"
+    },
+    {
+      "text": "All references in these reasons for judgment to Mr Allen are to Mr John Allen, unless otherwise indicated.",
+      "id": "s18"
+    },
+    {
+      "text": "Mr Allen also is the principal of Allen &amp; Allen solicitors who operate out of Finishing Services' premises in Moorabbin.",
+      "id": "s19"
+    },
+    {
+      "text": "It appears that Allen &amp; Allen only do work for companies associated with Mr Allen.",
+      "id": "s20"
+    },
+    {
+      "text": "7 The lease for the Mulgrave premises is dated 1 September 1999, and is for a term of seven years, with the option of a further term (\"the lease\").",
+      "id": "s21"
+    },
+    {
+      "text": "The annual rental at the time of the signing of the lease was $244,152.",
+      "id": "s22"
+    },
+    {
+      "text": "8 Clause 3.2.2 of the lease provides for a \"market rental review\".",
+      "id": "s23"
+    },
+    {
+      "text": "The clause is prolix, to say the least.",
+      "id": "s24"
+    },
+    {
+      "text": "It relevantly provides as follows:\n \n \"MARKET RENTAL REVIEW \n \n Upon any day being not more than six months prior to 1 March 2003 and (if the Lessee exercises its option to renew) not more than 6 months prior to 1 September 2006 and 1 March 2010.",
+      "id": "s25"
+    },
+    {
+      "text": "The Lessor or the Managing Agent may give written notice to the Lessee stating the sum which the Lessor assesses to be the proper rent for the premises for the ensuing period such rent being the market rental value for the premises on the assumption that the premises are tenanted and with all fixtures and fittings and partitions, plant machinery utensils shelving safes and other articles and materials as set out in schedule 2 installed by either the Lessor or the Lessee and having regard to the rents being obtained for comparable premises within the same municipality and the rent shall be varied accordingly, such variation to take effect on and from the day immediately following the date to which such notice shall relate and if the party receiving the notice does not object in writing to the proposed market rent within 30 days it becomes the rent for the review period PROVIDED that the Lessee may by notice in writing (delivered to the Lessor or the Managing Agent within 30 days following receipt of the Lessor's or the Managing Agent's notice of assessment) state that he disputes the Lessor's assessment in which case sub-clause (a) hereof will apply AND in all respects time shall be of the essence in the delivery of the said notice within the time so stipulated.",
+      "id": "s26"
+    },
+    {
+      "text": "\" (emphasis added)\n \n\n9 Clause 3.2.2 goes on to provide a mechanism for determining the rent should the lessee dispute the lessor's assessment.",
+      "id": "s27"
+    },
+    {
+      "text": "That mechanism involves having a member of the Australian Institute of Valuers determine the proper rent.",
+      "id": "s28"
+    },
+    {
+      "text": "10 The clause, as set out above, is ungrammatical at various points.",
+      "id": "s29"
+    },
+    {
+      "text": "For example, the first sentence is incomplete, and presumably ought to be linked to the second sentence with a comma.",
+      "id": "s30"
+    },
+    {
+      "text": "It also gives rise to difficult questions of interpretation because of the imprecise manner in which it was drafted.",
+      "id": "s31"
+    },
+    {
+      "text": "Nonetheless, it has been set out verbatim.",
+      "id": "s32"
+    },
+    {
+      "text": "11 In practical terms, clause 3.2.2 provides that the lessor may serve written notice on the lessee specifying the lessor's assessment of the proper rent and, if the lessee does not object in writing within 30 days, the lessor's assessment will automatically become the new rent.",
+      "id": "s33"
+    },
+    {
+      "text": "12 Schedule 2, to which clause 3.2.2 refers, is in the following terms:\n \n \"SCHEDULE 2 \n \n \n \n 1.",
+      "id": "s34"
+    },
+    {
+      "text": "75 millimetres thick insulated refrigeration wall panels \n 2.",
+      "id": "s35"
+    },
+    {
+      "text": "Flex curtains, sliding doors, and concrete ramps to doorways and passageways \n 3.",
+      "id": "s36"
+    },
+    {
+      "text": "Suspended insulated refrigeration ceiling panels \n 4.",
+      "id": "s37"
+    },
+    {
+      "text": "Plumbing throughout including drains, sinks, grease pit and sewerage lines \n 5.",
+      "id": "s38"
+    },
+    {
+      "text": "Floor slabs, coverings and epoxy flooring \n 6.",
+      "id": "s39"
+    },
+    {
+      "text": "Refrigeration plant including 3 head Copeland compressor and associated reticulation \n 7.",
+      "id": "s40"
+    },
+    {
+      "text": "Electrical power, switchboards, reticulation and lighting.",
+      "id": "s41"
+    },
+    {
+      "text": "8.",
+      "id": "s42"
+    },
+    {
+      "text": "Security Systems \n 9.",
+      "id": "s43"
+    },
+    {
+      "text": "All lighting including mercury vapour lighting \n 10.",
+      "id": "s44"
+    },
+    {
+      "text": "Fire extinguishers \n 11.",
+      "id": "s45"
+    },
+    {
+      "text": "Hose Reels and Hoses \n 12.",
+      "id": "s46"
+    },
+    {
+      "text": "Hydrants and Hoses \n 13.",
+      "id": "s47"
+    },
+    {
+      "text": "Carpets \n 14.",
+      "id": "s48"
+    },
+    {
+      "text": "Office partitions \n 15.",
+      "id": "s49"
+    },
+    {
+      "text": "Air conditioning units \n 16.",
+      "id": "s50"
+    },
+    {
+      "text": "Hand basins \n 17.",
+      "id": "s51"
+    },
+    {
+      "text": "Pans \n 18.",
+      "id": "s52"
+    },
+    {
+      "text": "Kitchen equipment \n 19.",
+      "id": "s53"
+    },
+    {
+      "text": "Boiler and Condensate System \n 20.",
+      "id": "s54"
+    },
+    {
+      "text": "Air Compressors (1 Ecopack CA E30A and 1 Compair) \n 21.",
+      "id": "s55"
+    },
+    {
+      "text": "1 Hot Water Tank \n 22.",
+      "id": "s56"
+    },
+    {
+      "text": "Wash stations and basins and sanitising stations \n 23.",
+      "id": "s57"
+    },
+    {
+      "text": "2 new fire hose reels \n 24.",
+      "id": "s58"
+    },
+    {
+      "text": "5 new fire extinguishers \n 25.",
+      "id": "s59"
+    },
+    {
+      "text": "Assorted pallet racking existing as at 1 September 1999 \n 26.",
+      "id": "s60"
+    },
+    {
+      "text": "3 Hot Water Cylinders \n 27.",
+      "id": "s61"
+    },
+    {
+      "text": "High Pressure Grundfos Pump for hot water tank \n 28.",
+      "id": "s62"
+    },
+    {
+      "text": "Steam Plant\".",
+      "id": "s63"
+    },
+    {
+      "text": "13 Communications between the applicant and the first respondent in relation to an increase in rent commenced in late December 2002.",
+      "id": "s64"
+    },
+    {
+      "text": "A letter dated 20 December 2002 was sent by Mr Allen, on behalf of the first respondent, to the applicant.",
+      "id": "s65"
+    },
+    {
+      "text": "It bore the heading \"Notice of Rental Assessment commencing 1 March 2003 for 42-44 Glenvale Crescent, Mulgrave\".",
+      "id": "s66"
+    },
+    {
+      "text": "The letter was sent to the Mulgrave premises, addressed to \"The Manager, Nobi Holdings Pty Ltd\".",
+      "id": "s67"
+    },
+    {
+      "text": "It was received, and stamped as such, by the applicant on 23 December 2002.",
+      "id": "s68"
+    },
+    {
+      "text": "The letter stated:\n \n \"Under the terms of our lease a market review of the rent paid is to take effect from 1 March 2003.",
+      "id": "s69"
+    },
+    {
+      "text": "Please find enclosed the Managing Agent's letter in this regard which is self explanatory and will form the basis of the new rent starting 1 March 2003.",
+      "id": "s70"
+    },
+    {
+      "text": "In due course we will correspond with you regarding the new monthly rental and the appropriate GST that will be payable.",
+      "id": "s71"
+    },
+    {
+      "text": "\" \n \n\n14 The \"Managing Agent's letter\" enclosed with the notice was a letter from Lynton Williams, an Associate at Colliers International (Victoria) Pty Limited (the second respondent), addressed to \"John Allen, Finishing Services Pty Ltd\" (\"the Colliers letter\").",
+      "id": "s72"
+    },
+    {
+      "text": "It was dated 24 October 2002 and stated:\n \n \"RE: 42 --- 44 GLENVALE CRESCENT, MULGRAVE \n \n As your managing agent we draw your attention to the fact that a market value rental review is due in respect of this property on the 1 st of March 2003.",
+      "id": "s73"
+    },
+    {
+      "text": "We have investigated the current market rental levels for similar buildings that incorporate cool room and chiller facilities.",
+      "id": "s74"
+    },
+    {
+      "text": "We report that in our opinion the market rates for the various areas are as follows: \n \n Offices: 208 m2 x $155.00 p.sq.m.",
+      "id": "s75"
+    },
+    {
+      "text": "$ 32.240.00 p.a.",
+      "id": "s76"
+    },
+    {
+      "text": "Coolroom, etc: 2,768 m2 x $135,00 p.sq.m $373,680.00 p.a.",
+      "id": "s77"
+    },
+    {
+      "text": "Warehouse 400 m2 x $ 75.00 p.sq.m.",
+      "id": "s78"
+    },
+    {
+      "text": "$ 30,000.00 p.a.",
+      "id": "s79"
+    },
+    {
+      "text": "$435.920.00 p.a.",
+      "id": "s80"
+    },
+    {
+      "text": "Should you agree with the above we will notify the tenant accordingly.",
+      "id": "s81"
+    },
+    {
+      "text": "\" \n \n\n15 It was accepted by the applicant, and by the first respondent, that the rental increase notice is constituted by the letter from Mr Allen and the Colliers letter attached to that letter.",
+      "id": "s82"
+    },
+    {
+      "text": "Together I will refer to them as \"the notice\".",
+      "id": "s83"
+    },
+    {
+      "text": "16 A relevant issue is whether the parties had any oral communication in late December.",
+      "id": "s84"
+    },
+    {
+      "text": "This goes to the applicant's claims in relation to good faith and unconscionable conduct, but also to the context in which the notice was served, and the factual matrix within which it should be construed.",
+      "id": "s85"
+    },
+    {
+      "text": "Mr Bertrand originally claimed that he had a telephone conversation with Mr Allen on 23 December 2002 (a Monday).",
+      "id": "s86"
+    },
+    {
+      "text": "Mr Allen denied absolutely that any such conversation had taken place on that date.",
+      "id": "s87"
+    },
+    {
+      "text": "Indeed, he responded to Mr Bertrand's claim by pointing out that it was simply not possible for there to have been such a conversation on that date because the first respondent's factory and office had closed for the Christmas break on the afternoon of 20 December 2002.",
+      "id": "s88"
+    },
+    {
+      "text": "Mr Bertrand then altered his position, and acknowledged that the conversation must have occurred on 20 December 2002, and not as he originally thought on 23 December 2002.",
+      "id": "s89"
+    },
+    {
+      "text": "17 In any event, Mr Bertrand says that the purpose of the phone call was to arrange a meeting to discuss alterations to the Mulgrave premises.",
+      "id": "s90"
+    },
+    {
+      "text": "He says that he and Mr Allen were unable to meet until 3 February 2003 because Mr Allen was unavailable over Christmas until 15 January, and Mr Bertrand was unavailable between 15 January 2003 and 30 January 2003.",
+      "id": "s91"
+    },
+    {
+      "text": "Mr Bertrand says he believes that the conversation would have taken place before he had read the notice.",
+      "id": "s92"
+    },
+    {
+      "text": "During that telephone conversation, Mr Bertrand says that no mention was made of the rental increase.",
+      "id": "s93"
+    },
+    {
+      "text": "This claim by Mr Bertrand forms the core of the applicant's case on unconscionable conduct and good faith.",
+      "id": "s94"
+    },
+    {
+      "text": "18 After receiving the notice, Mr Bertrand telephoned Mr Greg Finkemeyer.",
+      "id": "s95"
+    },
+    {
+      "text": "Mr Finkemeyer was in charge of a Lactos facility that was rented in Dingley, Victoria, and in that role, had a relationship with Jones Lang LaSalle, a large commercial real estate agent.",
+      "id": "s96"
+    },
+    {
+      "text": "Mr Bertrand asked Mr Finkemeyer to provide him with an indication of what the current market rent would be on the Mulgrave premises.",
+      "id": "s97"
+    },
+    {
+      "text": "19 In response to this request, Mr Finkemeyer sent Mr Bertrand an email on 17 January 2003, but which was not received by Mr Bertrand until after he returned from leave on 31 January 2003.",
+      "id": "s98"
+    },
+    {
+      "text": "Mr Finkemeyer stated:\n \n \"I'm led to believe that the market price for Mulgrave is: \n \n $120 per Square mt for Refrigerated/Plant space.",
+      "id": "s99"
+    },
+    {
+      "text": "$70 for office/dry store area.",
+      "id": "s100"
+    },
+    {
+      "text": "\" \n \n\n20 These figures would equate to an annual rental on the Mulgrave premises of $374,720, $61,200 less than the figure specified in Colliers letter.",
+      "id": "s101"
+    },
+    {
+      "text": "Both figures are exclusive of GST.",
+      "id": "s102"
+    },
+    {
+      "text": "21 The applicant provided the first respondent with a written response to the notice on 3 February 2003.",
+      "id": "s103"
+    },
+    {
+      "text": "On that date, a meeting was held between the parties, primarily to discuss alterations that had taken place at the Mulgrave premises.",
+      "id": "s104"
+    },
+    {
+      "text": "Mr Bertrand says the meeting was organised during the telephone conversation that he claims to have had with Mr Allen in late December.",
+      "id": "s105"
+    },
+    {
+      "text": "Mr Allen says that the meeting was organised on 3 February 2003, after Mr Bertrand called him to inform him that the applicant had made alterations at the Mulgrave premises.",
+      "id": "s106"
+    },
+    {
+      "text": "At the meeting, Mr Bertrand gave Mr Allen a letter which stated:\n \n \"We acknowledge receipt of your letter with the assessment by your agent of the market value for the property we rent from you in Mulgrave.",
+      "id": "s107"
+    },
+    {
+      "text": "The amount of the increase you are asking for is very detrimental to our business.",
+      "id": "s108"
+    },
+    {
+      "text": "Therefore we have requested an estimation from our own agent.",
+      "id": "s109"
+    },
+    {
+      "text": "His assessment turns out to be significantly different from your agent estimation.",
+      "id": "s110"
+    },
+    {
+      "text": "His opinion on office/dry warehouse cost is $ 70 p.sq.m.",
+      "id": "s111"
+    },
+    {
+      "text": "and $ 120 p.sq.m.",
+      "id": "s112"
+    },
+    {
+      "text": "for refrigerated space.",
+      "id": "s113"
+    },
+    {
+      "text": "We would like to understand how these two numbers coming from professional agents can be so different and resolve this matter with you in due course.",
+      "id": "s114"
+    },
+    {
+      "text": "\" \n \n\n22 Both Mr Allen and Mr Bertrand agree that Mr Bertrand commented that the increase in rent would have a detrimental impact on the applicant's business.",
+      "id": "s115"
+    },
+    {
+      "text": "Mr Allen says that he said words to the effect that it was \"too late to complain\" about the rent increase now, although Mr Bertrand says he does not have any recollection of Mr Allen's reaction to the letter he handed him at the 3 February 2003 meeting.",
+      "id": "s116"
+    },
+    {
+      "text": "23 Following the meeting, Mr Allen sent a letter under cover of Allen &amp; Allen letterhead, dated 20 February 2003, to Lactos Fresh Pty Ltd c/o Lactos Pty Ltd in Burnie.",
+      "id": "s117"
+    },
+    {
+      "text": "It was marked to the attention of Alan Jarman, the company secretary of Lactos Fresh Pty Ltd. Mr Jarman was the person with whom Mr Allen usually corresponded in relation to matters involving the lease of the Mulgrave premises.",
+      "id": "s118"
+    },
+    {
+      "text": "It relevantly stated:\n \n \"Re: Lease from Finishing Services Pty Ltd \n Premises: 42-44 Glenvale Crescent, Mulgrave \n \n Please advise your bank to alter the telegraphic transfer commencing on 1 March 2003 in relation to the new rental for the current year at $39,959.33 per month of which $3,632.67 is the GST component.",
+      "id": "s119"
+    },
+    {
+      "text": "\" \n \n\n24 The applicant submitted that it was of some relevance that Mr Allen had addressed the notice to the Mulgrave premises, rather than to Mr Jarman, which it contended would have been the usual course.",
+      "id": "s120"
+    },
+    {
+      "text": "On the other hand, the lease itself provided for the service of a rent review notice at the demised premises, as well as the registered office of the lessee.",
+      "id": "s121"
+    },
+    {
+      "text": "25 Mr Bertrand then sent a letter to Mr Allen, dated 7 March 2003.",
+      "id": "s122"
+    },
+    {
+      "text": "After outlining some of the previous communications between the applicant and first respondent, it stated, amongst other things:\n \n \"It is clear then that we do not have agreement as to the market rent for the premises and as such the provisions of clause 3.2.2(a) of the Lease are now operative.",
+      "id": "s123"
+    },
+    {
+      "text": "We confirm our previous advices that we dispute that you have provided a proposed increase that is at market.",
+      "id": "s124"
+    },
+    {
+      "text": "We also note that you are estopped from relying on the time period set out in clause 3.2.2 due to your unavailability to meet during the relevant period.",
+      "id": "s125"
+    },
+    {
+      "text": "\" \n \n\n26 Mr Allen responded to this letter on 12 March 2003.",
+      "id": "s126"
+    },
+    {
+      "text": "He stated that \"[n]o written objection as required by clause 3.2.2 of the Lease was received during the 30 day period\" and \"[y]ou are therefore unable to dispute the rental as advised in our correspondence of 20 December 2002\".",
+      "id": "s127"
+    },
+    {
+      "text": "Mr Allen indicated that Lactos Fresh Pty Ltd would be in breach of the lease if it did not pay the increased rental.",
+      "id": "s128"
+    },
+    {
+      "text": "27 On 17 March 2003, a meeting was held between Mr Bertrand and Mr Allen, at which the increase in rent was discussed.",
+      "id": "s129"
+    },
+    {
+      "text": "Matthew Allen and Wayne Kelly, the plant manager for Lactos Fresh Pty Ltd, also attended the meeting.",
+      "id": "s130"
+    },
+    {
+      "text": "Mr Bertrand offered to pay the increased rent up to a figure that it had been advised reflected market value (namely, the figure obtained by Mr Finkemeyer).",
+      "id": "s131"
+    },
+    {
+      "text": "Mr Allen told Mr Bertrand that it was too late to object to the increase in rent.",
+      "id": "s132"
+    },
+    {
+      "text": "Mr Bertrand stated that Mr Allen should have told him about the 30 day deadline.",
+      "id": "s133"
+    },
+    {
+      "text": "Mr Allen rejected this suggestion.",
+      "id": "s134"
+    },
+    {
+      "text": "28 Mr Bertrand deposes to a discussion at the 17 March 2003 meeting about the alleged conversation in late December, and the fact that the parties had not been able to meet all through January.",
+      "id": "s135"
+    },
+    {
+      "text": "Mr Allen flatly denies that any such discussion took place during the course of the 17 March 2003 meeting.",
+      "id": "s136"
+    },
+    {
+      "text": "Both parties agree that the meeting ended with the parties deciding that the applicant should consider its position.",
+      "id": "s137"
+    },
+    {
+      "text": "29 On 20 March 2003, Mr Bertrand sent a letter to Mr Allen stating \"we confirm our position as set out in our letter to you of 7 March 2003\".",
+      "id": "s138"
+    },
+    {
+      "text": "Mr Bertrand then stated:\n \n \"Today, we have made an additional payment of $ 9,116.00.",
+      "id": "s139"
+    },
+    {
+      "text": "As such, we have now commenced paying rent at the amount set out in our letter to you of February 3, 2003.",
+      "id": "s140"
+    },
+    {
+      "text": "This increased payment is being made as a sign of good faith.",
+      "id": "s141"
+    },
+    {
+      "text": "It is, however, an interim measure pending the assessment of the correct amount.",
+      "id": "s142"
+    },
+    {
+      "text": "As such, we repeat our request that you implement the provisions of clause 3.2.2(a) of the Lease and request the Australian Institute of Valuers to nominate a member to determine the current fair market rent.",
+      "id": "s143"
+    },
+    {
+      "text": "\" \n \n\n30 Mr Allen responded to this letter on 31 March 2003, stating, amongst other things:\n \n \"It would appear that you totally ignored our correspondence of 12 March 2003 which was faxed to you and the original posted to you (a further copy is now enclosed).",
+      "id": "s144"
+    },
+    {
+      "text": "As you can see from that letter we rely on the written Lease between our respective companies as one does when a dispute arises.",
+      "id": "s145"
+    },
+    {
+      "text": "As you will note we rely on the Managing Agent's, Colliers International assessment of what the new rental should be --- you verbally told the writer that you were relying on a valuation from Jones Lang LaSalle and that was the basis of your letter of 3 February 2003.",
+      "id": "s146"
+    },
+    {
+      "text": "Now in your correspondence of 20 March 2003 (even though you have adopted the new rent that you say should be payable by paying the balance into our bank account, pursuant to a Valuation from Jones Lang LaSalle) you are now out in the marketplace obtaining another assessment and I guess if that is not to your liking, you will then obtain another assessment and so on, until one is found that suits your company's needs.",
+      "id": "s147"
+    },
+    {
+      "text": "Mr Bertrand, be advised that all this is what we say in the English language as \"academic\", that means that obtaining one assessment after another is a complete waste of your time and your company's money.",
+      "id": "s148"
+    },
+    {
+      "text": "The new rent has been fixed according to the Lease.",
+      "id": "s149"
+    },
+    {
+      "text": "Please have your company pay it without further procrastination which will stop further meetings and letter writing as my patience has nearly expired.",
+      "id": "s150"
+    },
+    {
+      "text": "\" \n \n\n31 Mr Bertrand responded to this letter the following day.",
+      "id": "s151"
+    },
+    {
+      "text": "He stated \"[f]or the record, please note that we do not accept the matters put forward by you\".",
+      "id": "s152"
+    },
+    {
+      "text": "Mr Bertrand then stated that Lactos Fresh Pty Ltd would make the rental payments set out in the notice, back paid to 1 March 2003.",
+      "id": "s153"
+    },
+    {
+      "text": "Mr Bertrand asserted that:\n \n \"[w]e are paying these amounts under protest.",
+      "id": "s154"
+    },
+    {
+      "text": "We shall now proceed to have an independent valuation obtained as set out in the lease between us.",
+      "id": "s155"
+    },
+    {
+      "text": "\" \n \n\n32 Mr Bertrand also stated that a valuation had been requested by the applicant from Jones Lang LaSalle, however Jones Lang LaSalle had been unable to provide a valuation as they had previously done work for the first respondent.",
+      "id": "s156"
+    },
+    {
+      "text": "33 Since 1 April 2003, the applicant has paid the increased rental, under protest.",
+      "id": "s157"
+    },
+    {
+      "text": "It commenced proceedings in this Court on 17 December 2003.",
+      "id": "s158"
+    },
+    {
+      "text": "THE CRITICAL ISSUES \n \n34 The critical issues to be determined in the proceeding against the first respondent are as follows:\n \n \n &#8226; was the rental increase notice vague and uncertain, and thereby invalid?",
+      "id": "s159"
+    },
+    {
+      "text": "&#8226; was the rental increase notice invalid upon the basis that the rental assessment failed to take into account the particular assumptions that were stipulated in clause 3.2.2, as set out in [8] of these reasons for judgment?",
+      "id": "s160"
+    },
+    {
+      "text": "&#8226; is a term of good faith to be implied into the lease and, if so, did the actions or omissions of Mr Allen surrounding the service of the notice constitute a breach of this obligation?",
+      "id": "s161"
+    },
+    {
+      "text": "&#8226; does Mr Bertrand have some kind of \"special disadvantage\" by virtue of speaking English as a second language, which enlivens the principles of unconscionable conduct under s 51AA of the Trade Practices Act ?",
+      "id": "s162"
+    },
+    {
+      "text": "35 If the rental increase notice is invalid for whatever reason, the claim against the first respondent will succeed, and the claim against the second respondent goes nowhere.",
+      "id": "s163"
+    },
+    {
+      "text": "The same is true if the applicant succeeds against the first respondent on the basis of its claims of unconscionable conduct and breach of good faith.",
+      "id": "s164"
+    },
+    {
+      "text": "However, if the notice is valid, and the applicant's other claims against the first respondent fail, the relevant issues to be determined with respect to the claim against the second respondent are:\n \n \n &#8226; was the Colliers letter misleading or deceptive?",
+      "id": "s165"
+    },
+    {
+      "text": "&#8226; if so, did it cause, or contribute to, the applicant's loss?",
+      "id": "s166"
+    },
+    {
+      "text": "THE APPLICANT'S CLAIMS \n THE NOTICE WAS NOT A VALID NOTICE UNDER CLAUSE 3.2.2 BECAUSE IT WAS VAGUE AND UNCERTAIN \n \n36 The applicant seeks a declaration that the notice was not a valid notice pursuant to clause 3.2.2 of the lease, and is of no effect.",
+      "id": "s167"
+    },
+    {
+      "text": "The first basis upon which the applicant claims the notice is invalid is that it was vague and uncertain.",
+      "id": "s168"
+    },
+    {
+      "text": "37 The applicant relied upon a number of cases as authority for the proposition that a rental increase notice has to be clear and certain to be valid, and that such notices are construed strictly.",
+      "id": "s169"
+    },
+    {
+      "text": "38 The first of these cases was Catley v Watson (1983) V ConvR |P54-003, which involved a notice of rescission served by a vendor upon a purchaser.",
+      "id": "s170"
+    },
+    {
+      "text": "In that case, \"copyright condition 5\" of the contract provided for the service of a notice of rescission.",
+      "id": "s171"
+    },
+    {
+      "text": "Brooking J stated, at 62,115:\n \n \"In my opinion, a notice under copyright condition 5 is not valid unless it is, in relation to its essential features as required by that condition, clear and unambiguous.",
+      "id": "s172"
+    },
+    {
+      "text": "By this I mean, not that its import must be clear beyond the slightest peradventure, but that its terms must be such that a reasonable person, having given it fair and proper consideration, would be left in no doubt as to its meaning.",
+      "id": "s173"
+    },
+    {
+      "text": "A notice is not unequivocal, in the sense in which such notices are required to be unequivocal in relation to their essential contents, if a reasonable person, having considered the notice as a whole, fairly and properly, might entertain a doubt as to its meaning in relation to some essential matter, even though he would form in his mind a preference for one view, rather than the other of what the notice was intended to convey.",
+      "id": "s174"
+    },
+    {
+      "text": "It must be possible to say that, after the appropriate consideration, any doubts that may have arisen would have been quieted and the purchaser would not be left in any uncertainty as to the meaning of the notice...\".",
+      "id": "s175"
+    },
+    {
+      "text": "(emphasis added)\n \n\n39 Plainly, Catley v Watson can be relied upon only by analogy as it concerns the requirements for a valid rescission notice and not the requirements for a valid rental review notice.",
+      "id": "s176"
+    },
+    {
+      "text": "40 The applicant also cited the case of Norwich Union Life Insurance Society v Tony Waller Ltd (1984) 270 EG 42.",
+      "id": "s177"
+    },
+    {
+      "text": "That case dealt with a rent review clause and a notice purportedly served pursuant to that clause.",
+      "id": "s178"
+    },
+    {
+      "text": "The notice was not addressed to the tenant by its proper title and was flawed in other respects.",
+      "id": "s179"
+    },
+    {
+      "text": "It was in the following terms:\n \n \" Without Prejudice\n Dear Sir, 19 Fawkon Walk, Hoddesdon.",
+      "id": "s180"
+    },
+    {
+      "text": "We have been instructed by your landlords, the Norwich Union Insurance Group to negotiate with you in connection with the rent review contained in your lease which becomes operative as at September 29 1982.",
+      "id": "s181"
+    },
+    {
+      "text": "It is out clients proposal to increase the rental to [sterling]11,500 per annum exclusive as from this date.",
+      "id": "s182"
+    },
+    {
+      "text": "We trust that this increase is acceptable to you and would be obliged if when replying you would enclose the name and address of the solicitors who will be acting on your behalf.",
+      "id": "s183"
+    },
+    {
+      "text": "Yours faithfully\".",
+      "id": "s184"
+    },
+    {
+      "text": "41 In that case, Harman J stated, at 43:\n \n \"I have been much impressed with Mr Pryor's argument that this document was in truth equivocal.",
+      "id": "s185"
+    },
+    {
+      "text": "It is common ground between the parties that no specific form has to be adopted in order to constitute a trigger notice.",
+      "id": "s186"
+    },
+    {
+      "text": "Mr Wood's submission was that it should be a clear and unequivocal notice giving plain intimation to anyone receiving it of what it was.",
+      "id": "s187"
+    },
+    {
+      "text": "Certainly, that is, in my view, the desirable state of all such notices.",
+      "id": "s188"
+    },
+    {
+      "text": "But it being common ground that no special form of words is necessary --- no magic formula is involved --- the question is: trying to read it as a whole, looking at its confused terminology, its meaningless heading \"Without prejudice\" and its general ineptitude, is this a document which a tenant looking at it would think was a trigger notice?",
+      "id": "s189"
+    },
+    {
+      "text": "\" \n \n\n42 His Lordship concluded by finding, at 43, that:\n \n \"although there are no magic words or magic formulae to be required before a rent review clause is invoked, ... the document does have to be clear and plain to any recipient.",
+      "id": "s190"
+    },
+    {
+      "text": "\" \n \n\n43 The applicant also relied upon the decision of the English Court of Appeal in Shirlcar Properties Ltd v Heinitz (1983) 268 EG 362 (\" Shirlcar Properties \").",
+      "id": "s191"
+    },
+    {
+      "text": "That case also involved a rent review clause and \"trigger\" notice.",
+      "id": "s192"
+    },
+    {
+      "text": "The only matter at issue as to the validity of the notice was whether there was any doubt as to its meaning.",
+      "id": "s193"
+    },
+    {
+      "text": "44 The body of the trigger notice was in the following form:\n \n \"We act on behalf of your Landlords, Shirlcar Properties Ltd, and have been instructed to deal with the rent review on the above premises due as at the 29 th September 1981.",
+      "id": "s194"
+    },
+    {
+      "text": "The rent required as from the review date is [sterling]6,000 pa exclusive, and we look forward to receiving your agreement.",
+      "id": "s195"
+    },
+    {
+      "text": "Yours faithfully\".",
+      "id": "s196"
+    },
+    {
+      "text": "45 The agent's signature then followed.",
+      "id": "s197"
+    },
+    {
+      "text": "However, as Lawton J explained at 363:\n \n \"a difficulty has arisen because the letter did not end with the signature of the estate agents: under that signature in capital letters which were underlined came the words \"subject to contract\".",
+      "id": "s198"
+    },
+    {
+      "text": "Immediately below that, also in capital letters, were the words \"recorded delivery\".",
+      "id": "s199"
+    },
+    {
+      "text": "\" \n \n\n46 The tenant submitted that the words \"subject to contract\" meant that the notice could be read as the commencement of negotiations between the landlord and tenant, with the landlord putting forward a provisional figure which was merely a precursor to the rent review machinery under the lease being activated.",
+      "id": "s200"
+    },
+    {
+      "text": "Otherwise, it was submitted, the reference to \"subject to contract\" did not make sense.",
+      "id": "s201"
+    },
+    {
+      "text": "47 The Court of Appeal (per Lawton, Kerr and Dillon LJJ) agreed and found the notice to be invalid.",
+      "id": "s202"
+    },
+    {
+      "text": "The test propounded by their Lordships was whether the reasonable tenant in receipt of such a notice would be in doubt as to its meaning.",
+      "id": "s203"
+    },
+    {
+      "text": "Lawton LJ, at 364, stated:\n \n \"Since there is an argument both ways about this matter and as, in my judgment, it is an argument which is reasonable on both sides, it seems to me that it cannot be said that the tenants, on receiving this letter, would necessarily and reasonably have inferred that it was an effective trigger notice for the purpose of the lease.",
+      "id": "s204"
+    },
+    {
+      "text": "There is doubt about its meaning and as there is doubt it seems to me that the letter was ineffective for the purposes of the rent review clause in the lease.",
+      "id": "s205"
+    },
+    {
+      "text": "\" \n \n\n48 Lastly, the applicant cited Central Pacific (Campus) Pty Ltd v Staged Developments Australia Pty Ltd (1998) V ConvR |P54-575 (\" Central Pacific \").",
+      "id": "s206"
+    },
+    {
+      "text": "That case, like Catley v Watson , involved a rescission notice.",
+      "id": "s207"
+    },
+    {
+      "text": "Callaway JA, with whom Buchanan JA agreed, stated at 66,909 that the relevant approach is to ask:\n \n \"whether a reasonable person who had considered the notice as a whole and given it fair and proper consideration would be left in any doubt as to its meaning.",
+      "id": "s208"
+    },
+    {
+      "text": "\" \n \n\n49 In that case it was found that there was no ambiguity in the meaning of the notice, and therefore, the notice was valid.",
+      "id": "s209"
+    },
+    {
+      "text": "50 Turning to the application of these principles to this proceeding, the applicant contended that there were a number of features of the notice that would leave a reasonable person in receipt of it in doubt as to whether it was a notice pursuant to clause 3.2.2, or whether it merely conveyed to the reader that a rental review was contemplated, but would take place some time in the near future.",
+      "id": "s210"
+    },
+    {
+      "text": "51 In particular, the applicant submitted that the notice would be likely to have conveyed to a reasonable person, reading it as a whole, that a rent review process was to commence on 1 March 2003.",
+      "id": "s211"
+    },
+    {
+      "text": "That impression was bolstered by the reference in the heading in Mr Allen's letter to a \"Rental Assessment \" that would commence on that date.",
+      "id": "s212"
+    },
+    {
+      "text": "Indeed, it was further bolstered by the statement in Mr Allen's letter that \"a market review of the rent paid is to take effect from 1 March 2003\".",
+      "id": "s213"
+    },
+    {
+      "text": "52 The applicant also relied upon the fact that Mr Allen concluded his letter by stating \"[i]n due course we will correspond with you regarding the new monthly rental\", thereby implying that there would be further discussions regarding the matter.",
+      "id": "s214"
+    },
+    {
+      "text": "Finally, the applicant noted that the Colliers letter stated that \"a market value rental review is due in respect of this property on the 1 st of March 2003\", once again suggesting that there would be a \" review \" prior to any notice issuing.",
+      "id": "s215"
+    },
+    {
+      "text": "Importantly, Mr Allen's letter referred to the Colliers letter, stating that it would \" form the basis of\" the new rent.",
+      "id": "s216"
+    },
+    {
+      "text": "That too was said to imply some further step having to be taken before the new rent was fixed.",
+      "id": "s217"
+    },
+    {
+      "text": "53 The applicant contended that the impression that a rent review process would commence on 1 March 2003, rather than any actual requirement to pay increased rent, might have been dispelled had the notice referred specifically to clause 3.2.2, and identified itself as a notice issued under that clause.",
+      "id": "s218"
+    },
+    {
+      "text": "However, nothing of that kind had been said.",
+      "id": "s219"
+    },
+    {
+      "text": "Rather, there had simply been a vague reference to a review \"[u]nder the terms of our lease\".",
+      "id": "s220"
+    },
+    {
+      "text": "54 The applicant further submitted that another way in which the impression might have been dispelled was if the notice had specifically drawn the applicant's attention to its entitlement, as lessee, to dispute the new rental provided that it did so within 30 days, or alternatively, within the requisite period.",
+      "id": "s221"
+    },
+    {
+      "text": "The failure to include in the notice any intimation of that type, which might have corrected an otherwise misleading impression, meant that the notice should be regarded as invalid.",
+      "id": "s222"
+    },
+    {
+      "text": "55 The applicant acknowledged that there was no formal list of requirements that a notice must satisfy in order to be valid.",
+      "id": "s223"
+    },
+    {
+      "text": "Nor was there a template that a notice must fit.",
+      "id": "s224"
+    },
+    {
+      "text": "Rather, each notice must be considered in the light of its own particular circumstances, and the language employed construed in a sensible and practical manner.",
+      "id": "s225"
+    },
+    {
+      "text": "Nonetheless, it was submitted that where the notice was expressed in terms that were uncertain, it would require features of the kind identified above to counter that uncertainty.",
+      "id": "s226"
+    },
+    {
+      "text": "56 In addition, the applicant submitted that the factual matrix within which the notice was sent should be taken into account.",
+      "id": "s227"
+    },
+    {
+      "text": "This included the alleged telephone conversation on or about 20 December 2002 when, Mr Bertrand maintained, nothing was said by Mr Allen about any rental increase despite either having sent the notice on that very day, or having been about to do so.",
+      "id": "s228"
+    },
+    {
+      "text": "The implication was that Mr Allen was acting in a manner that was less than forthright in his dealings with Mr Bertrand.",
+      "id": "s229"
+    },
+    {
+      "text": "In particular, the implication was that Mr Allen hoped that the actual significance of the notice would escape Mr Bertrand's attention, and that he would not appreciate the need to object to the rental assessment figure within the requisite 30 day period.",
+      "id": "s230"
+    },
+    {
+      "text": "That implication was said to be bolstered by the fact that the notice was sent on virtually the last working day before Christmas, and addressed to the applicant at the Mulgrave premises rather than to Mr Jarman, as would normally be the case.",
+      "id": "s231"
+    },
+    {
+      "text": "57 The applicant contended that given that the notice was itself at least ambiguous, the fact that a meeting had been arranged when the notice was sent for a date after the 30 day period (if I accept Mr Bertrand's evidence) lends further weight to the impression that the notice was not a notice pursuant to clause 3.2.2.",
+      "id": "s232"
+    },
+    {
+      "text": "Rather, the applicant submitted, this supported its contention that the notice was merely an indication that some kind of review process would occur in the future.",
+      "id": "s233"
+    },
+    {
+      "text": "The applicant contended that a reasonable person in Mr Bertrand's position, reading the notice on 23 December 2002, would have in the back of his or her mind that there was to be a meeting with Mr Allen in early February, and construe the notice accordingly.",
+      "id": "s234"
+    },
+    {
+      "text": "58 In addition, the applicant contended that I should also take into account, in considering the factual matrix within which the notice was read, the fact that Mr Bertrand, although a professional and experienced businessman, spoke English as a second language and not entirely fluently.",
+      "id": "s235"
+    },
+    {
+      "text": "THE NOTICE WAS NOT A VALID NOTICE UNDER CLAUSE 3.2.2 BECAUSE IT DID NOT COMPLY WITH THE SUBSTANTIVE REQUIREMENTS OF CLAUSE 3.2.2 \n \n59 The second basis upon which the applicant claimed that the notice was invalid was that it did not comply with the substantive requirements of clause 3.2.2.",
+      "id": "s236"
+    },
+    {
+      "text": "60 Clause 3.2.2 provides that the notice must state the sum which the lessor \"assesses to be the proper rent for the premises for the ensuing period such rent being the market rental value for the premises on the assumption that the premises are tenanted and with all fixtures and fittings and partitions, plant machinery utensils shelving safes and other articles and materials as set out in schedule 2 installed by either the Lessor or the Lessee and having regard to the rents being obtained for comparable premises within the same municipality ...\".",
+      "id": "s237"
+    },
+    {
+      "text": "61 First, the applicant submitted that the notice did not contain a statement of the lessor's assessment of the proper rent because the rent stated in the notice was known by the first respondent to be clearly excessive.",
+      "id": "s238"
+    },
+    {
+      "text": "62 Second, the applicant submitted that Mr Allen failed to assess the \"proper rent\" because he did not make the assumptions required by clause 3.2.2.",
+      "id": "s239"
+    },
+    {
+      "text": "The applicant placed particular emphasis upon the submission that the assessment had in fact included all fixtures and fittings within the Mulgrave premises, and not just those set out in schedule 2, as it claimed was specifically required by the terms of clause 3.2.2.",
+      "id": "s240"
+    },
+    {
+      "text": "Because there were additional fixtures and fittings, beyond those identified in that clause, that had been taken into account by Mr Allen, it was submitted that this had the effect of inflating the valuation.",
+      "id": "s241"
+    },
+    {
+      "text": "63 The applicant contended that once it had established that the first respondent had not made the required assumptions, the onus was on the first respondent to demonstrate that these errors were immaterial.",
+      "id": "s242"
+    },
+    {
+      "text": "In the applicant's submission, the first respondent had failed to do so.",
+      "id": "s243"
+    },
+    {
+      "text": "64 I note at this stage that there is an issue between the parties as to whether the claim in relation to the fixtures and fittings was adequately pleaded by the applicant.",
+      "id": "s244"
+    },
+    {
+      "text": "I will deal with that question separately in these reasons for judgment at [106]-[124].",
+      "id": "s245"
+    },
+    {
+      "text": "IMPLIED TERM OF GOOD FAITH \n \n65 The applicant referred to the numerous cases dealing with the implied contractual duty of good faith and fair dealing.",
+      "id": "s246"
+    },
+    {
+      "text": "It submitted that where a clause gives a party more power than is legitimately needed to protect its interests, then, a duty of good faith should be implied into the exercise of that power.",
+      "id": "s247"
+    },
+    {
+      "text": "It relied upon the decision of Sheller JA in Alcatel Australia Ltd v Scarcella (1998) 44 NSWLR 349 in support of this proposition.",
+      "id": "s248"
+    },
+    {
+      "text": "Like this proceeding, that case also involved a commercial lease.",
+      "id": "s249"
+    },
+    {
+      "text": "His Honour stated, at 368:\n \n \"If a contract confers power on a contracting party in terms wider than necessary for the protection of the legitimate interests of that party, the courts may interpret the power as not extending to the action proposed by the party in whom the power is vested or, alternatively, conclude that the powers are being exercised in a capricious or arbitrary manner or for an extraneous purpose, which is another way of saying the same thing.",
+      "id": "s250"
+    },
+    {
+      "text": "Thus, a vendor may not be allowed to exercise a contractual power where it would be unconscionable in the circumstances to do so...\".",
+      "id": "s251"
+    },
+    {
+      "text": "66 The applicant's contentions in relation to good faith are only of relevance if the notice is found to be valid.",
+      "id": "s252"
+    },
+    {
+      "text": "The applicant noted that if the notice was found to be valid, the effect of clause 3.2.2 would be to give the landlord a wide power.",
+      "id": "s253"
+    },
+    {
+      "text": "Therefore, so the applicant claimed, clause 3.2.2 is the type of clause in relation to which a duty of good faith should be implied.",
+      "id": "s254"
+    },
+    {
+      "text": "67 The applicant submitted that the implied duty of good faith and fair dealing was breached by the first respondent.",
+      "id": "s255"
+    },
+    {
+      "text": "It contended that the first respondent breached this duty through a combination of actions and omissions.",
+      "id": "s256"
+    },
+    {
+      "text": "First of these were the deficiencies in the notice, both in terms of its alleged vagueness and its substantive shortcomings.",
+      "id": "s257"
+    },
+    {
+      "text": "This was combined with sending the letter just before Christmas where, so the applicant says, a meeting had been arranged between the parties after the expiration of the 30 day period, and when the applicant says, to the knowledge of the first respondent, the 30 day period would expire when Mr Bertrand was on leave.",
+      "id": "s258"
+    },
+    {
+      "text": "The applicant also adds to these circumstances the fact that the notice was sent to Mr Bertrand, who Mr Allen know did not speak English as his first language, instead of Mr Jarman, to whom notices and other correspondence relating to the Mulgrave premises had always previously been sent.",
+      "id": "s259"
+    },
+    {
+      "text": "UNCONSCIONABLE CONDUCT \n \n68 This ground can be briefly summarised.",
+      "id": "s260"
+    },
+    {
+      "text": "The applicant claimed that the first respondent had acted unconscionably in breach of s 51AA of the Trade Practices Act .",
+      "id": "s261"
+    },
+    {
+      "text": "It claimed that the relevant \"special disadvantage\" in this case was that Mr Bertrand spoke English as a second language.",
+      "id": "s262"
+    },
+    {
+      "text": "The applicant contended that the first respondent engaged in unconscionable conduct by sending the kind of letter it did, in the circumstances it did, to Mr Bertrand, who it knew did not speak English fluently.",
+      "id": "s263"
+    },
+    {
+      "text": "MISLEADING OR DECEPTIVE CONDUCT BY THE SECOND RESPONDENT \n \n69 The applicant submitted that the second respondent did not honestly, and with proper foundation, hold the opinion that the market rent for the Mulgrave premises was $435,920, as was stated in the Colliers letter.",
+      "id": "s264"
+    },
+    {
+      "text": "In particular, the applicant contended that Mr Allen asked Mr Williams to provide a formal valuation of the market rent for the Mulgrave premises, and that Mr Williams made the same error as Mr Allen in assessing the rent by including all the fixtures and fittings, rather than those actually specified in schedule 2 to the lease.",
+      "id": "s265"
+    },
+    {
+      "text": "The applicant claimed that the evidence given by Mr Williams in terms of the work he did in preparing the Colliers assessment supported its contention that he had not formed an honest and reasonable opinion.",
+      "id": "s266"
+    },
+    {
+      "text": "70 The claim by the applicant is somewhat unorthodox in terms of causation.",
+      "id": "s267"
+    },
+    {
+      "text": "The applicant did not claim that it was misled by the second respondent.",
+      "id": "s268"
+    },
+    {
+      "text": "Rather, it claimed that it was the first respondent who was misled.",
+      "id": "s269"
+    },
+    {
+      "text": "The applicant contended that it was sufficient for it to demonstrate that the first respondent relied upon the relevant conduct and that the applicant suffered loss and damage by reason of that reliance.",
+      "id": "s270"
+    },
+    {
+      "text": "The applicant also submitted that it was not necessary for it to show that the misleading or deceptive conduct was the sole cause of the loss of damage suffered.",
+      "id": "s271"
+    },
+    {
+      "text": "71 Alternatively, the applicant claimed that if the first respondent did not rely upon the opinion of the second respondent, the notice must therefore be invalid, as it could not constitute the first respondent's assessment of the proper rent for the Mulgrave premises.",
+      "id": "s272"
+    },
+    {
+      "text": "THE FIRST RESPONDENT'S SUBMISSIONS \n \n72 The first respondent submitted that this case could be viewed very simply.",
+      "id": "s273"
+    },
+    {
+      "text": "The first respondent sent the applicant a valid notice under clause 3.2.2 of the lease.",
+      "id": "s274"
+    },
+    {
+      "text": "Under the lease the applicant had 30 days within which to object to this notice.",
+      "id": "s275"
+    },
+    {
+      "text": "The applicant failed to make such an objection and, as such, the rent proposed in the notice had automatically become the new rent payable under the lease.",
+      "id": "s276"
+    },
+    {
+      "text": "73 I will address the first respondent's contentions in response to each of the applicant's claims.",
+      "id": "s277"
+    },
+    {
+      "text": "THE NOTICE WAS NOT A VALID NOTICE UNDER CLAUSE 3.2.2 BECAUSE IT WAS VAGUE AND UNCERTAIN \n \n74 The first respondent submitted that the notice must be construed objectively and in context: Carradine Properties Ltd v Aslam [1976] 1 WLR 442 and Mannai Investment Co Ltd v Eagle Star Life Assurance Co Ltd [1997] UKHL 19 ; [1997] AC 749 at 767 (\" Mannai \").",
+      "id": "s278"
+    },
+    {
+      "text": "The first respondent also submitted that a reasonable recipient is to be credited with knowledge of the terms of the lease: Mannai .",
+      "id": "s279"
+    },
+    {
+      "text": "See also MLW Technology Pty Ltd v May [2004] VSCA 29.",
+      "id": "s280"
+    },
+    {
+      "text": "75 Mannai involved two identical notices served in relation to two leases with provisions that were relevantly identical.",
+      "id": "s281"
+    },
+    {
+      "text": "The notices were served by a tenant pursuant to a break clause in the leases which allowed the tenant to terminate the lease on six months notice.",
+      "id": "s282"
+    },
+    {
+      "text": "The notices erroneously specified that the lease was to be terminated on 12 January 1995.",
+      "id": "s283"
+    },
+    {
+      "text": "Under the leases, the tenant was only entitled to terminate on 13 January 1995 (the anniversary of the commencement of each lease).",
+      "id": "s284"
+    },
+    {
+      "text": "The House of Lords, by a majority of three to two, expressly overruled a line of authority which held that even minor, technical shortcomings in a notice invalidated that notice.",
+      "id": "s285"
+    },
+    {
+      "text": "76 Their Lordships held that the reasonable recipient of the notice, who was apprised of the fact that the lease commenced upon 13 January and was determinable on that date, would have understood that the reference to 12 January in the notice was a \"minor misdescription\".",
+      "id": "s286"
+    },
+    {
+      "text": "77 Lord Steyn stated the relevant test to be applied as follows at 767:\n \n \"The question is not how the landlord understood the notices.",
+      "id": "s287"
+    },
+    {
+      "text": "The construction of the notices must be approached objectively.",
+      "id": "s288"
+    },
+    {
+      "text": "The issue is how a reasonable recipient would have understood the notices.",
+      "id": "s289"
+    },
+    {
+      "text": "And in considering this question the notices must be construed taking into account the relevant objective contextual scene.",
+      "id": "s290"
+    },
+    {
+      "text": "\" \n \n\n78 Lord Hoffman said at 774-5:\n \n \"The reasonable recipient will see that in purporting to terminate pursuant to clause 7(13) but naming 12 January 1995 as the day upon which he will do so, the tenant has made a mistake.",
+      "id": "s291"
+    },
+    {
+      "text": "He will reject as too improbable the possibility that the tenant meant that unless he could terminate on 12 January, he did not want to terminate at all.",
+      "id": "s292"
+    },
+    {
+      "text": "He will therefore understand the notice to mean that the tenant wants to terminate on the date on which, in accordance with clause 7(13), he may do so, i.e.",
+      "id": "s293"
+    },
+    {
+      "text": "13 January.",
+      "id": "s294"
+    },
+    {
+      "text": "\" \n \n\n79 Against that background, the first respondent pointed to the following features of the notice in this proceeding:\n \n \n &#8226; it specified as its subject matter \"Notice of Rental Assessment commencing 1 March 2003\";\n &#8226; it directed the recipient's attention to the fact that \"[u]nder the terms of our lease a market review of the rent paid is to take effect from 1 March 2003\";\n &#8226; the Collier's letter (which forms part of the notice) stated that \"a market value rental review is due in respect of this property on the 1 st of March 2003\"; and\n &#8226; it \"stated\" the sum of $435,920.00 per annum \"will form the basis of the new rent starting 1 March 2003\".",
+      "id": "s295"
+    },
+    {
+      "text": "80 The first respondent submitted that a reasonable recipient, who had knowledge of the terms of the lease, would have regarded the notice as a \"trigger notice\" pursuant to clause 3.2.2.",
+      "id": "s296"
+    },
+    {
+      "text": "81 In support of this contention, the first respondent submitted that the notice closely resembled the rent review notice in Amalgamated Estates Ltd v Joystretch Manufacturing Ltd (1980) 257 EG 489 (\" Amalgamated Estates \").",
+      "id": "s297"
+    },
+    {
+      "text": "That notice was in the following terms:\n \n \"Dear Sirs, Re: 14 Regent Street and 3 Bank Street, Rugby.",
+      "id": "s298"
+    },
+    {
+      "text": "Pursuant to the terms of your Lease of the above premises dated December 7 1973, we hereby give you notice that we require a review of the yearly rental payable thereunder as from December 10 1978.",
+      "id": "s299"
+    },
+    {
+      "text": "We specify that the new rent payable as from December 10 1978 will be [sterling]10,000 per annum exclusive.",
+      "id": "s300"
+    },
+    {
+      "text": "This rent is proportionally in line with our recent lettings and reviews of other premises in the area with similar accommodation.",
+      "id": "s301"
+    },
+    {
+      "text": "Please would you kindly acknowledge safe receipt of this notice by signing the enclosed copy notice and returning it in the stamped addressed envelope provided.",
+      "id": "s302"
+    },
+    {
+      "text": "\" \n \n\n82 The notice in Amalgamated Estates was upheld as being valid.",
+      "id": "s303"
+    },
+    {
+      "text": "I shall return to Amalgamated Estates , and whether the reasoning in that case is applicable to the present proceeding later in these reasons for judgment.",
+      "id": "s304"
+    },
+    {
+      "text": "THE NOTICE WAS NOT A VALID NOTICE UNDER CLAUSE 3.2.2 BECAUSE IT DID NOT COMPLY WITH THE SUBSTANTIVE REQUIREMENTS OF CLAUSE 3.2.2 \n \n83 The first respondent contended that the only substantive requirement of clause 3.2.2 is that the lessor subjectively assess the \"proper rent for the premises\" as defined.",
+      "id": "s305"
+    },
+    {
+      "text": "There is no requirement that this assessment be objectively \"reasonable\".",
+      "id": "s306"
+    },
+    {
+      "text": "84 The first respondent relied upon a number of cases with comparable rent review clauses to support the proposition that all that the landlord must do is specify its subjective assessment of the rent --- it is up to the tenant to object.",
+      "id": "s307"
+    },
+    {
+      "text": "85 In GR Mailman &amp; Associates Pty Ltd v Wormald (Aust) Pty Ltd (1991) 24 NSWLR 80 (\" Mailman \"), the rent review clause, art 2.02(a), was in the following terms:\n \n \"Within sixty days (60) prior to the expiration of each period specified ... the Lessor may give in writing, in the form set out hereunder, to the Lessee increasing the yearly rental to an amount which the Lessor considers will be the current market rent of the Demised Premises as at the Review Date and until the following Review Date or the expiration of the term as the case may be ... having regard to all matters then relevant to the determination of such rent including the terms and conditions of this Lease and in particular the fact that the Lessee is obliged to pay to the Lessor the Outgoings provided in Article 3 thereof.",
+      "id": "s308"
+    },
+    {
+      "text": "\" \n \n\n86 In that case, Gleeson CJ stated, at 89:\n \n \"The lease also (in art 2.02(d)) states the consequences of the failure of the lessee to serve a counter-notice within the specified time.",
+      "id": "s309"
+    },
+    {
+      "text": "The lessee is deemed to have agreed upon the current market rent for the next review period.",
+      "id": "s310"
+    },
+    {
+      "text": "... \n \n Moreover, the rent that is deemed to be the current market rent may be quite different from the actual market rent, at least so long as the lessor subjectively holds the belief referred to in art 2.02(a) .",
+      "id": "s311"
+    },
+    {
+      "text": "\" (emphasis added)\n \n\n87 The first respondent also relied upon Amalgamated Estates in relation to the claim that the notice did not comply with the substantive requirements of clause 3.2.2.",
+      "id": "s312"
+    },
+    {
+      "text": "In Amalgamated Estates the obligation was to pay \"open market rental\".",
+      "id": "s313"
+    },
+    {
+      "text": "The rent review clause (clause 3(a)) provided that \"open market rental\" was first to be determined in the following manner, namely:\n \n \"specified in notice in writing signed by or on behalf of the Landlord and posted ... to the Tenant at the demised premises...\" \n \n\n88 The lease then provided for the lessee to serve a \"counter-notice\" if it objected to the rent specified by the landlord in the notice.",
+      "id": "s314"
+    },
+    {
+      "text": "In that case, Lawton LJ, with whom both Templeman LJ and O'Connor LJ agreed, stated at 491:\n \n \"There are two questions, therefore, for decision in this case: (1) should there be implied into clause 3(a) of the proviso words to the effect set out in the defence, namely, that the sum specified by the landlords should be a bona fide and genuine pre-estimate of the open market rental value?",
+      "id": "s315"
+    },
+    {
+      "text": "... \n \n As to the first point, I have no doubt at all that the words which, it was submitted, should be read into clause 3(a) cannot be so read.",
+      "id": "s316"
+    },
+    {
+      "text": "The proviso deals with definitions and procedure.",
+      "id": "s317"
+    },
+    {
+      "text": "Clause (1) of the proviso provides that the open market rental must be a rent which might reasonably be demanded by a willing landlord, etc.",
+      "id": "s318"
+    },
+    {
+      "text": "Clause (3) sets out how that reasonable rent is to be fixed and it is to be done in three stages.",
+      "id": "s319"
+    },
+    {
+      "text": "First, the landlord is to specify his figure; then there are to be negotiations for an agreement if his figure is not at once accepted.",
+      "id": "s320"
+    },
+    {
+      "text": "That is clear from clause 3(b).",
+      "id": "s321"
+    },
+    {
+      "text": "If there is no agreement then there is to be arbitration.",
+      "id": "s322"
+    },
+    {
+      "text": "It is after all those steps have been taken that a reasonable rent is to be ascertained; and I can see no room at all in this lease for implying that the figure specified by the landlord must start with a bona fide and genuine pre-estimate of the rent.",
+      "id": "s323"
+    },
+    {
+      "text": "\" \n \n\n89 Similarly, Templeman LJ stated at 493:\n \n \"The first point made by Mr de la Piquerie for the tenant is that there must be an implied term that the landlord will only specify a bona fide and genuine pre-estimate of the open market rental value.",
+      "id": "s324"
+    },
+    {
+      "text": "That appears to me to be an unnecessary and unworkable proposition.",
+      "id": "s325"
+    },
+    {
+      "text": "If a landlord puts forward a preposterous figure for rent, the tenant can always serve a counternotice.",
+      "id": "s326"
+    },
+    {
+      "text": "It would be ludicrous if the court were obliged to decide whether the landlord's figure was a bona fide and genuine pre-estimate in order to decide whether the landlord's request for an increased rent was valid or wholly void.",
+      "id": "s327"
+    },
+    {
+      "text": "The court does not exist to punish a landlord for being greedy, especially as the definition of \"greed\" varies from Shylock to Portia and from landlord to tenant.",
+      "id": "s328"
+    },
+    {
+      "text": "\" \n \n\n90 The first respondent contended that challenges similar to that made by the applicant in the present proceeding had been unsuccessful in other cases, such as Fox &amp; Widley v Guran [1998] 3 EG 142 (a case where the submission that the landlord was required to estimate a \"bona fide and genuine\" assessment in a rent review notice was rejected) and Davstone (Holdings) Ltd v Al-Rifai (1976) 32 P&amp;CR 18 at 26 (a case which concerned whether there was an obligation upon a landlord to specify an objectively \"reasonable\" figure in a rent review notice).",
+      "id": "s329"
+    },
+    {
+      "text": "91 In terms of the applicant's specific submission that the notice was invalid because the first respondent failed to have regard only to the fixtures and fittings outlined in schedule 2 of the lease, the respondents contended that this aspect of the applicant's case was not pleaded.",
+      "id": "s330"
+    },
+    {
+      "text": "Accordingly, they argued that the applicant required leave to amend its statement of claim if it wished to pursue this aspect of its application.",
+      "id": "s331"
+    },
+    {
+      "text": "I deal with the question of whether amendment is required below.",
+      "id": "s332"
+    },
+    {
+      "text": "92 However, the first respondent submitted that even if this matter is adequately pleaded or, alternatively, if such leave is granted, the applicant's construction of clause 3.2.2 is flawed.",
+      "id": "s333"
+    },
+    {
+      "text": "The first respondent contended that if clause 3.2.2 does objectively require the landlord to carry out the rental assessment on a certain basis, it is to take into account all \"fixtures and fittings and partitions, plant machinery utensils shelving safes\" and \"other articles and materials as set out in schedule 2\".",
+      "id": "s334"
+    },
+    {
+      "text": "That is, the reference to schedule 2 only qualifies the reference to \"other articles and materials\".",
+      "id": "s335"
+    },
+    {
+      "text": "The second respondent made substantially the same submission in relation to this construction of clause 3.2.2.",
+      "id": "s336"
+    },
+    {
+      "text": "IMPLIED TERM OF GOOD FAITH \n \n93 The first respondent contended that for a term to be implied, it must be \"reasonable and necessary\": Byrne v Australian Airlines Limited [1995] HCA 24 ; (1995) 185 CLR 410 at 450.",
+      "id": "s337"
+    },
+    {
+      "text": "The first respondent submitted that an implied term of good faith was neither reasonable nor necessary in this case.",
+      "id": "s338"
+    },
+    {
+      "text": "It submitted that the mechanism established by the lease, allowing the lessor to nominate the rental assessment and the lessee to object, contemplates that the rent specified in the lessor's rental assessment may not be reasonable, or otherwise acceptable to the lessee.",
+      "id": "s339"
+    },
+    {
+      "text": "The first respondent submitted that the presence of the objection mechanism demonstrates that no such implied term is necessary.",
+      "id": "s340"
+    },
+    {
+      "text": "94 The first respondent contended that the implication of such a term would alter the effect of the rent review mechanism agreed to, as it would enable a lessee to ignore a notice and \"embark upon a curial challenge\".",
+      "id": "s341"
+    },
+    {
+      "text": "95 Even if such a term were to be implied, the first respondent submitted that the content of that term would require nothing more of the first respondent than that the rental assessment contained in the notice be an honestly held opinion.",
+      "id": "s342"
+    },
+    {
+      "text": "The first respondent submitted that the evidence supports the contention that the assessment contained in the notice represented the honest opinion of Mr Allen.",
+      "id": "s343"
+    },
+    {
+      "text": "UNCONSCIONABLE CONDUCT \n \n96 The first respondent challenged the unconscionable conduct claim on a number of bases.",
+      "id": "s344"
+    },
+    {
+      "text": "First, it contended that the applicant was under no \"special disadvantage\" when it received the notice.",
+      "id": "s345"
+    },
+    {
+      "text": "Second, as outlined above, the first respondent denied the applicant's assertions that there was any conversation to arrange a meeting on either 20 or 23 December 2002, one of the circumstances the applicant argued as going to Mr Allen acting unconscionably.",
+      "id": "s346"
+    },
+    {
+      "text": "Third, the first respondent contended that even if the applicant's factual submissions are accepted, the circumstances surrounding the sending of the notice did not constitute unconscionable conduct.",
+      "id": "s347"
+    },
+    {
+      "text": "97 In addition, the first respondent submitted that the applicant had not established that the allegations of unconscionable conduct caused the applicant's loss.",
+      "id": "s348"
+    },
+    {
+      "text": "The first respondent contended that there is no evidence as to what Mr Jarman would have done if the notice had been sent to him, rather than Mr Bertrand.",
+      "id": "s349"
+    },
+    {
+      "text": "Nor is there any evidence, the respondent submitted, that Mr Bertrand would have done anything differently had he received the notice earlier, or had the notice stated explicitly that it was a notice pursuant to clause 3.2.2 of the lease.",
+      "id": "s350"
+    },
+    {
+      "text": "THE SECOND RESPONDENT'S SUBMISSIONS \n \n98 The second respondent submitted that the Colliers letter was not misleading, that it was not relied upon by the applicant, that the applicant cannot base its cause of action upon the first respondent's reliance on the Colliers letter, and that the relevant representations did not cause the applicant's loss.",
+      "id": "s351"
+    },
+    {
+      "text": "99 The second respondent argued that Mr Williams was asked by Mr Allen for a \"ball park\" figure only, and that Mr Williams relied upon information provided by Mr Allen to inform the opinion expressed in the letter.",
+      "id": "s352"
+    },
+    {
+      "text": "The second respondent contended that all that was required of Mr Williams was that the opinion he expressed was honestly held and had a proper foundation: Orion Pet Products Pty Ltd v Royal Society for the Prevention of Cruelty to Animals (Vic) Inc [2002] FCA 860 ; (2002) 120 FCR 191 at 213.",
+      "id": "s353"
+    },
+    {
+      "text": "The second respondent submitted that Mr Williams' opinion was honestly held, and that he had a proper foundation for the opinion, namely the regard he had to comparable developments at Caribbean Gardens and a development called the \"Pellicano development\".",
+      "id": "s354"
+    },
+    {
+      "text": "It contended that Mr Williams was not required to undertake a detailed independent valuation.",
+      "id": "s355"
+    },
+    {
+      "text": "The relevant \"standard\" in terms of a proper foundation for the opinion was that of a real estate agent, rather than that of an independent valuer.",
+      "id": "s356"
+    },
+    {
+      "text": "Mr Williams is a real estate agent and could never provide a detailed, independent valuation.",
+      "id": "s357"
+    },
+    {
+      "text": "100 In any event, the second respondent submitted that the figure provided by Mr Williams was within a permissible range of latitude that is appropriate for an \"assessment\" of this kind (14%), to that provided by Mr Finkemeyer.",
+      "id": "s358"
+    },
+    {
+      "text": "As such, the Colliers letter cannot be considered misleading.",
+      "id": "s359"
+    },
+    {
+      "text": "101 Should the Colliers letter be found to be misleading or deceptive conduct under s 52 of the Trade Practices Act , the second respondent contended that it is not sufficient for the applicant to claim that the first respondent relied on the representation in order to make out a claim for damages under s 82 of the Trade Practices Act .",
+      "id": "s360"
+    },
+    {
+      "text": "102 The second respondent submitted that relief for third party reliance on misleading or deceptive conduct is only available in the limited circumstance where the contravention was a \"sine qua non\" of the claimant entering into a transaction .",
+      "id": "s361"
+    },
+    {
+      "text": "It relied upon the statement by Hill, Sackville and Katz JJ in McCarthy v McIntyre [1999] FCA 784 at [50] in support of this submission:\n \n \"Where a claimant is able to show that, but for the misleading or deceptive conduct, he or she would not have entered into a transaction, then such loss as flows directly to the claimant from the transaction will satisfy the requirement of causation.",
+      "id": "s362"
+    },
+    {
+      "text": "This is so where the claimant relies upon the misleading or deceptive conduct (the usual case).",
+      "id": "s363"
+    },
+    {
+      "text": "It is also so where a third party whose action was a sina qua non of the entry by the claimant into the transaction (the present case as alleged) relies upon the misleading or deceptive conduct.",
+      "id": "s364"
+    },
+    {
+      "text": "\" \n \n\n103 No such transaction was entered into by the applicant, and nor, according to the second respondent, did the applicant itself rely upon the representation.",
+      "id": "s365"
+    },
+    {
+      "text": "104 Further, the second respondent contended that if relief is more generally available for third party reliance in the circumstances of this case, the applicant's loss was not caused by the conduct of Colliers.",
+      "id": "s366"
+    },
+    {
+      "text": "Rather, the second respondent submitted that the applicant's loss was caused by their own failure to object to the notice, and/or the unconscionable conduct of the first respondent or its breach of the implied term of good faith, if indeed these causes of action are established.",
+      "id": "s367"
+    },
+    {
+      "text": "105 The second respondent acknowledged that negligence on behalf of the \"victim\" is not a \"defence\" to a s 52 contravention (although I note that the Act has now been amended such that \"contributory negligence\" can be taken into account so as to reduce damages under s 82).",
+      "id": "s368"
+    },
+    {
+      "text": "However, the second respondent contended that this proposition does not apply where the conduct of the \"victim\" destroys the causal connection between the contravention of the Act, and the loss or damage suffered.",
+      "id": "s369"
+    },
+    {
+      "text": "In other words, the second respondent submitted that the applicant's failure to respond to the notice constituted a novus actus interveniens that broke the chain of causation.",
+      "id": "s370"
+    },
+    {
+      "text": "IS LEAVE TO AMEND REQUIRED FOR THE APPLICANT TO PLEAD ITS CASE IN RELATION TO THE SUBSTANTIVE REQUIREMENTS OF CLAUSE 3.2.2?",
+      "id": "s371"
+    },
+    {
+      "text": "106 As previously mentioned, the respondents submitted that the applicant did not adequately plead the claim that the notice is invalid because it failed to assess the rent on the assumption that only the fixtures and fittings in schedule 2 were to be taken into account.",
+      "id": "s372"
+    },
+    {
+      "text": "Nor, according to the respondents, had the claim been opened, or supported by any evidence specifically adduced in relation to it.",
+      "id": "s373"
+    },
+    {
+      "text": "As such, the respondents contended that the applicant is required to seek leave to amend its statement of claim in order to pursue this claim.",
+      "id": "s374"
+    },
+    {
+      "text": "The respondents opposed any such leave being granted.",
+      "id": "s375"
+    },
+    {
+      "text": "107 The applicant argued that this claim was adequately pleaded, and therefore no amendment to its statement of claim was necessary.",
+      "id": "s376"
+    },
+    {
+      "text": "Alternatively, should I consider that an amendment was necessary, the applicant submitted that a \"minor amendment\" should be permitted.",
+      "id": "s377"
+    },
+    {
+      "text": "108 The applicant identified a number of aspects of its statement of claim which it said demonstrated that the claim was adequately pleaded.",
+      "id": "s378"
+    },
+    {
+      "text": "The statement of claim outlined certain terms of the lease, and in doing so, it reproduced the section of clause 3.2.2 that is set out above at [8] of these reasons for judgment.",
+      "id": "s379"
+    },
+    {
+      "text": "At [11] of the statement of claim, the applicant pleaded:\n \n \"The Purported Notice did not state the proper rent for the Premises for the period from 1 March 2003 such rent being the market rental value for the Premises having regard to the rents being obtained for comparable premises within the same municipality.",
+      "id": "s380"
+    },
+    {
+      "text": "\" \n \n\n109 At [12] of the statement of claim, the applicant pleaded:\n \n \"The sum stated in the Purported Notice did not constitute any assessment by the Lessor, alternatively the Lessor's reasonable assessment of the proper rent for the Premises for the period ensuing from 1 March 2003 such rent being the market rent or value for the premises having regard to the rents being obtained for comparable premises within the same municipality.",
+      "id": "s381"
+    },
+    {
+      "text": "\" \n \n\n110 The particulars to these claims make no reference to schedule 2.",
+      "id": "s382"
+    },
+    {
+      "text": "111 The applicant also pointed to [15] to [18] of the statement of claim which pleaded that the notice was not a valid notice by virtue of the matters alleged in a number of earlier paragraphs of the pleading, none of which mention schedule 2.",
+      "id": "s383"
+    },
+    {
+      "text": "112 The applicant acknowledged that its statement of claim focuses on the requirement that the rental assessment have regard to comparable premises, but contended that \"that issue itself exposes the question of fixtures, fittings, plant and machinery\".",
+      "id": "s384"
+    },
+    {
+      "text": "It submitted that referring generally to clause 3.2.2, the validity of the notice, and the \"excessive nature\" of the increase in rent, sufficiently raises the issue of the nature and value of the fixtures, fittings, plant and machinery.",
+      "id": "s385"
+    },
+    {
+      "text": "113 The applicant submitted that it was unable to plead this matter with more specificity because it was only at trial that the respondents asserted that the increase in rent was justified by the fact that the starting rental (in 1999) did not take into account the lessor's ownership of fixtures and fittings, whereas the rental specified in the notice did.",
+      "id": "s386"
+    },
+    {
+      "text": "The applicant submitted that neither respondent pleaded this as a factor justifying the increase in rent, and it was a matter within the knowledge of the respondents.",
+      "id": "s387"
+    },
+    {
+      "text": "114 If leave to amend is required, the respondents oppose that application.",
+      "id": "s388"
+    },
+    {
+      "text": "Curiously, the second respondent provided more detailed submissions as to why the application should be refused than did the first respondent.",
+      "id": "s389"
+    },
+    {
+      "text": "I say \"curiously\" because, in one sense, it is to the second respondent's advantage if the applicant's case that the notice is invalid is strengthened by reliance upon the argument that Mr Allen had regard to the fixtures and fittings set out in schedule 2, but included in his thinking other fixtures and fittings that increased the overall valuation.",
+      "id": "s390"
+    },
+    {
+      "text": "115 The second respondent gave numerous examples of cases where it said leave to amend in similar circumstances had been refused.",
+      "id": "s391"
+    },
+    {
+      "text": "See Lewis v Sydney Flour Pty Ltd (1956) 56 SR (NSW) 189, Burnham v City of Mordialloc [1956] VLR 239, Ralph v Strutton [1969] Qd R 348 and Mercantile Mutual Insurance (Australia) Ltd v Farrington (1996) 44 NSWLR 634.",
+      "id": "s392"
+    },
+    {
+      "text": "116 The second respondent submitted that pleadings may be amended after the close of evidence provided that any new facts raised by the amendment were the subject of evidence and the other party had an opportunity to litigate them.",
+      "id": "s393"
+    },
+    {
+      "text": "It contended that this case was not one where an amendment should be permitted so that the pleadings reflect the conduct of the trial and the issues litigated between the parties.",
+      "id": "s394"
+    },
+    {
+      "text": "Rather, the second respondent \"cast its defence in a particular way on the basis of one case and is now faced with a different case that it may have fought differently\".",
+      "id": "s395"
+    },
+    {
+      "text": "See EFM Pty Ltd v New Zealand Steel (Aust) Pty Ltd [2000] VSC 290 at [24] per Warren J.",
+      "id": "s396"
+    },
+    {
+      "text": "As such, the second respondent claimed that it would be prejudiced should an amendment be allowed.",
+      "id": "s397"
+    },
+    {
+      "text": "It said that had this matter been pleaded, it could have cross-examined Mr Jarman or Mr Bertrand as to the value of the fixtures and fittings that are additional to those set out in schedule 2.",
+      "id": "s398"
+    },
+    {
+      "text": "117 The applicant submitted in closing that the onus lies upon the respondents to prove that the alleged misconstruction of clause 3.2.2 was not material.",
+      "id": "s399"
+    },
+    {
+      "text": "Although the respondents both objected to this proposition, if it were held to be correct, the second respondent submitted that it has not had the opportunity to lead evidence as to the value of the \"additional\" fixtures and fittings.",
+      "id": "s400"
+    },
+    {
+      "text": "118 The first respondent also submitted that it would have called additional evidence, and further cross-examined witnesses had this matter been pleaded.",
+      "id": "s401"
+    },
+    {
+      "text": "In particular, it said that it would have led additional evidence from Mr Allen in relation to his state of mind as to the inclusion of fixtures and fittings at the time he served the notice, would have cross-examined the applicant's witnesses as to the value of the fixtures and fittings falling outside of schedule 2, and would have considered calling further valuation evidence.",
+      "id": "s402"
+    },
+    {
+      "text": "119 In response, the applicant submitted that from the time during the trial that Mr Allen gave evidence he was not required to ignore fixtures and fittings other than those identified in schedule 2, it was clear that the applicant contended that this was a basis for invalidity of the notice.",
+      "id": "s403"
+    },
+    {
+      "text": "It relied upon the statement of the Stephen, Mason and Jacobs JJ in Leotta v Public Transport Commission (NSW) (1976) 9 ALR 437, at 446, where their Honours said:\n \n \"If in the cause of action upon which the plaintiff sued there had emerged at the conclusion of the evidence facts which, if accepted, established that cause of action, then it was the duty of the trial judge to leave the issue of negligence to the jury.",
+      "id": "s404"
+    },
+    {
+      "text": "The pleadings should have been amended in order to make the facts alleged and the particulars of negligence precisely conform to the evidence which had emerged.",
+      "id": "s405"
+    },
+    {
+      "text": "... Now, and for many years past, a plaintiff does not fail by being refused leave to amend or through failure formally to apply for amendment, where the evidence has disclosed a case in the cause of action fit to be determined by the tribunal of fact.",
+      "id": "s406"
+    },
+    {
+      "text": "Particularly is this so when the action finally determines the rights of the parties in the cause of action.",
+      "id": "s407"
+    },
+    {
+      "text": "\" \n \n\n120 In my view, it is clear that the applicant's case that the notice is invalid because it included all the fixtures and fittings in the rental assessment, was not adequately pleaded.",
+      "id": "s408"
+    },
+    {
+      "text": "In the paragraphs of the pleading extracted above which claim the notice is invalid, there is no reference to fixtures and fittings or to schedule 2.",
+      "id": "s409"
+    },
+    {
+      "text": "Moreover, these paragraphs expressly focus upon another criterion upon which the proper rent is to be assessed, namely regard being had to comparable premises in the municipality.",
+      "id": "s410"
+    },
+    {
+      "text": "As such, fixtures and fittings are expressly excluded from the question of whether the rent was invalidly assessed.",
+      "id": "s411"
+    },
+    {
+      "text": "Accordingly, the applicant requires leave to amend its statement of claim to plead this aspect of its case.",
+      "id": "s412"
+    },
+    {
+      "text": "121 Whether I should grant such leave after the conclusion of evidence is a thorny issue.",
+      "id": "s413"
+    },
+    {
+      "text": "The respondents have both claimed that to do so will prejudice their case.",
+      "id": "s414"
+    },
+    {
+      "text": "They say, with some force, that they would have presented their case differently, including possibly leading new evidence, had the pleading been amended earlier.",
+      "id": "s415"
+    },
+    {
+      "text": "However, the reasons the applicant gives for not pleading this claim earlier are persuasive as well.",
+      "id": "s416"
+    },
+    {
+      "text": "There is weight in the applicant's submission that these were matters within the knowledge of the first respondent, and that they only arose in the course of Mr Allen's cross-examination.",
+      "id": "s417"
+    },
+    {
+      "text": "As such, the applicant was in no position to either plead, or open, in relation to this matter.",
+      "id": "s418"
+    },
+    {
+      "text": "122 Amendments to pleadings should be allowed if it would not be unjust to do so: see National Australia Bank Ltd v Nobile (1988) 100 ALR 227 at 235-6 per Davies J.",
+      "id": "s419"
+    },
+    {
+      "text": "In my view, that test cannot be satisfied in the present case.",
+      "id": "s420"
+    },
+    {
+      "text": "The fact is that the respondents have been denied the opportunity to put on further evidence as to the value of the additional fixtures and fittings.",
+      "id": "s421"
+    },
+    {
+      "text": "They would be prejudiced if an amendment were allowed.",
+      "id": "s422"
+    },
+    {
+      "text": "Accordingly, leave to amend the further amended statement of claim is denied.",
+      "id": "s423"
+    },
+    {
+      "text": "123 The appropriate course for the applicant to have taken was for it to have sought leave to amend its statement of claim after the conclusion of Mr Allen's evidence.",
+      "id": "s424"
+    },
+    {
+      "text": "It was during that evidence that the applicant contended it became clear that it would rely upon this ground as a basis for invalidity of the notice.",
+      "id": "s425"
+    },
+    {
+      "text": "By doing this, it may have avoided the prejudice it now claims it will suffer as a result of the pleadings not reflecting its claims in relation to the fixtures and fittings.",
+      "id": "s426"
+    },
+    {
+      "text": "124 In any event, I would decline the application for leave to amend in part on the basis that the applicant's submission regarding the proper construction of clause 3.2.2 is by no means compelling (though it is plainly arguable).",
+      "id": "s427"
+    },
+    {
+      "text": "It is clear that the strength of the applicant's case, in relation to the proposed amendment, is a relevant consideration when determining whether to grant leave to amend.",
+      "id": "s428"
+    },
+    {
+      "text": "Had the applicant demonstrated a stronger case, regarding this issue, I may have been minded to allow the applicant to reopen its case, and the respondents to adduce further evidence in response.",
+      "id": "s429"
+    },
+    {
+      "text": "When all that can be said is that there is an arguable case, the balance of convenience weighs against adopting that course.",
+      "id": "s430"
+    },
+    {
+      "text": "THE CONTROVERSIAL EVIDENCE \n \n125 There are a number of issues where the evidence of the applicant and the respondents was in conflict.",
+      "id": "s431"
+    },
+    {
+      "text": "They include whether Mr Bertrand and Mr Allen had a conversation on or about 20 December 2002, and if so, what the substance of that conversation was, and how to treat the expert valuation evidence given before me.",
+      "id": "s432"
+    },
+    {
+      "text": "These evidential issues go to the applicant's claims of unconscionable conduct, breach of good faith and whether the \"proper rent\" was stated in the notice.",
+      "id": "s433"
+    },
+    {
+      "text": "126 Ultimately, as will become apparent in my conclusions, it is unnecessary to come to a final conclusion regarding these matters.",
+      "id": "s434"
+    },
+    {
+      "text": "It is sufficient, for present purposes, to say that had this case turned entirely upon whether Mr Bertrand's account of the alleged telephone conversation with Mr Allen, on or about 20 December 2002, should be accepted, or whether Mr Allen's firm denial of any such conversation should be preferred, I would not have found in favour of the applicant.",
+      "id": "s435"
+    },
+    {
+      "text": "In other words, I would not have found, on the balance of probabilities, that Mr Bertrand's evidence should be accepted in preference to that of Mr Allen.",
+      "id": "s436"
+    },
+    {
+      "text": "127 That does not mean, of course, that I positively disbelieved Mr Bertrand.",
+      "id": "s437"
+    },
+    {
+      "text": "It reflects nothing more than an inability to be satisfied, on the balance of probabilities, that his version was correct.",
+      "id": "s438"
+    },
+    {
+      "text": "128 It is also unnecessary to resolve what fixtures and fittings Mr Allen took into account when making his rental assessment, given my ruling in relation to the amendment of the statement of claim.",
+      "id": "s439"
+    },
+    {
+      "text": "CONCLUSIONS \n WAS THE FORM OF THE NOTICE VALID?",
+      "id": "s440"
+    },
+    {
+      "text": "129 The test to be applied to determine the validity of the notice is whether a reasonable recipient, who is credited with knowledge of the terms of the lease, and taking into account the surrounding circumstances, would have doubt as to the meaning of the notice or have regarded it as equivocal.",
+      "id": "s441"
+    },
+    {
+      "text": "If so, the notice will be found to be invalid.",
+      "id": "s442"
+    },
+    {
+      "text": "130 Since Mannai , that test has been repeatedly applied in English courts.",
+      "id": "s443"
+    },
+    {
+      "text": "See, for example, the recent decision of the Court of Appeal in Lancecrest Limited v Asiwaju [2005] EWCA Civ 117 (\" Lancecrest \").",
+      "id": "s444"
+    },
+    {
+      "text": "The test has been applied in this Court in Australasian Performing Right Association Ltd v Metro on George Pty Ltd (2004) 210 ALR 244 per Bennett J (in the context of a notice of termination).",
+      "id": "s445"
+    },
+    {
+      "text": "It has also been applied by the Victorian Court of Appeal in MLW Technology Pty Ltd v May [2005] VSCA 29 (in the context of a notice seeking enforcement of a term of a contract), by the New South Wales Court of Appeal in Etlis v New Age Constructions (NSW) Pty Ltd [2005] NSWCA 165 (in the context of a notice triggering an extension of time in relation to building work), and in the Supreme Court of New South Wales in McIntyre v Marshall [2004] NSWSC 412 (a vendor's notice to complete), Gibbins Thomson Pty Ltd v Council of the City of Liverpool [2004] NSWSC 1172 (a notice of failure to meet obligations under the contract), and Heaps v Addison Wesley Longman [1999] NSWSC 1093 (a notice from a tenant requesting the appointment of a second valuer in relation to a rent review).",
+      "id": "s446"
+    },
+    {
+      "text": "131 The authorities recognise that the application of this test can be a question of impression.",
+      "id": "s447"
+    },
+    {
+      "text": "It can also turn upon the facts of the individual case and the terms of the specific clause under which the notice is issued.",
+      "id": "s448"
+    },
+    {
+      "text": "132 The test laid down in Mannai is consistent with approaches taken to the validity of notices, or analogous documents, outside of contract law.",
+      "id": "s449"
+    },
+    {
+      "text": "For instance, in Beneficial Finance Corporation v Commissioner of Australian Federal Police (1991) 31 FCR 523, Burchett J warned, at 533, against adopting an \"overly technical view\" in considering the validity of search warrants.",
+      "id": "s450"
+    },
+    {
+      "text": "He stated, at 544, that in relation to the search warrants at issue in that case, \"[t]he language may be infelicitous\", however the nature of the offences specified in the search warrants was clear, and the search warrants were therefore valid.",
+      "id": "s451"
+    },
+    {
+      "text": "His Honour cited, at 543, New Zealand authority which adopted the test of what a \"reasonable reader\" would \"gather\" from the search warrants to determine whether they sufficiently indicated the offence involved: see Rural Timber Ltd v Hughes [1989] 3 NZLR 178.",
+      "id": "s452"
+    },
+    {
+      "text": "133 I note that bankruptcy notices arguably constitute an exception to this approach.",
+      "id": "s453"
+    },
+    {
+      "text": "In Australian Steel Company (Operations) Pty Ltd v Lewis [2000] FCA 1915 ; (2001) 109 FCR 33, the majority in a specially constituted court of five (Black CJ, Heerey and Sundberg JJ, Lee and Gyles JJ dissenting) held that the misstatement in a bankruptcy notice of the statutory provision under which interest was being claimed served to invalidate the notice.",
+      "id": "s454"
+    },
+    {
+      "text": "This was so even though the correct sum of interest was claimed.",
+      "id": "s455"
+    },
+    {
+      "text": "The majority found that it was irrelevant whether a debtor might be misled or not.",
+      "id": "s456"
+    },
+    {
+      "text": "Their Honours came to this view on the basis that the Bankruptcy Act 1966 (Cth) made the requirement to specify the relevant legislative provision essential.",
+      "id": "s457"
+    },
+    {
+      "text": "In my view, such an approach is not relevant to these proceedings.",
+      "id": "s458"
+    },
+    {
+      "text": "In any event, it would only make it more difficult for the first respondent to establish the validity of the notice.",
+      "id": "s459"
+    },
+    {
+      "text": "134 The applicant and first respondent both agree that the notice in this proceeding must be considered as a composite of the letter from Mr Allen addressed to the Manager of Nobi Holdings, and the Colliers letter.",
+      "id": "s460"
+    },
+    {
+      "text": "The applicant acknowledged, correctly in my view, that the notice did not need to refer to clause 3.2.2, and did not have to inform the recipient of the 30 day period within which to object to the increased rent.",
+      "id": "s461"
+    },
+    {
+      "text": "Nor did it have to adopt any particular form of words to be valid.",
+      "id": "s462"
+    },
+    {
+      "text": "135 Even taking this into account, I am unable to find that the notice satisfies the relevant test of validity, as outlined above at [129].",
+      "id": "s463"
+    },
+    {
+      "text": "In my view, the notice is not expressed unequivocally and would leave a reasonable person in receipt thereof in doubt as to its effect.",
+      "id": "s464"
+    },
+    {
+      "text": "136 The letter refers to the market review, and then proceeds to refer to the Collier's letter \"in this regard\" which is said to be \"self explanatory\" and \"will form the basis of the new rent\".",
+      "id": "s465"
+    },
+    {
+      "text": "It does not state a particular figure, nor does it say what the Lessor \"specifies\" or even \"proposes\" to be the new rent.",
+      "id": "s466"
+    },
+    {
+      "text": "The Colliers letter gives an opinion as to the market rates applicable to the Mulgrave premises, and then goes on to say \"[s]hould you agree with the above we will notify the tenant accordingly\".",
+      "id": "s467"
+    },
+    {
+      "text": "Mr Allen's letter ends by stating \"[i]n due course we will correspond with you regarding the new monthly rental\".",
+      "id": "s468"
+    },
+    {
+      "text": "137 In my view, reading the notice as a whole, but particularly the reference to the \"self explanatory\" Colliers letter (which itself refers to corresponding with the tenant in due course), would create sufficient doubt in the mind of a reasonable recipient as to make the notice invalid.",
+      "id": "s469"
+    },
+    {
+      "text": "Any reasonable tenant apprised of the terms of the lease would, in reality, need to get some confirmation from the landlord as to whether this was, or was not, a notice under clause 3.2.2.",
+      "id": "s470"
+    },
+    {
+      "text": "It is quite possible, as the applicant submitted, that the notice could have been construed as constituting some sort of preliminary step prior to the activation of the formal rent review machinery under the lease.",
+      "id": "s471"
+    },
+    {
+      "text": "138 I make these findings without coming to any conclusion as to whether Mr Bertrand and Mr Allen arranged the 3 February 2003 meeting at the end of December, which the applicant submitted went to the context within which the notice should be interpreted.",
+      "id": "s472"
+    },
+    {
+      "text": "139 I accept that had Mr Bertrand been aware of the rent review clause in the lease (which he acknowledged he was not when he received the notice), it is probable that he would done something about it, rather than waiting until a meeting in early February to address the issue.",
+      "id": "s473"
+    },
+    {
+      "text": "Under cross-examination, Mr Bertrand acknowledged that the first time he looked at the lease was immediately prior to the 3 February meeting, and it was at this stage that he first realised that there was a 30 day time limit to object to rent review notices.",
+      "id": "s474"
+    },
+    {
+      "text": "Mr Bertrand said that he did not look at the lease before this time because, in his mind, 1 March 2003 was the date by which he had to do something.",
+      "id": "s475"
+    },
+    {
+      "text": "140 Also under cross-examination, it was suggested to Mr Bertrand that when he received the notice, he could have:\n \n \"readily gone out and said, \"Well, what does the lease say about market review?",
+      "id": "s476"
+    },
+    {
+      "text": "\" Couldn't you?",
+      "id": "s477"
+    },
+    {
+      "text": "\" \n \n\n141 Mr Bertrand replied that he wished he had done this.",
+      "id": "s478"
+    },
+    {
+      "text": "However, it was not clear whether he was suggesting that if he had done so, he would have appreciated that the notice was a notice under clause 3.2.2, or whether he would have contacted Mr Allen to find out whether the notice was intended to be a notice under clause 3.2.2.",
+      "id": "s479"
+    },
+    {
+      "text": "142 In any event, the correct test to apply is not whether there is enough in a notice to put a reasonable tenant on inquiry to find out if a notice was indeed intended by the lessor to be a notice under 3.2.2.",
+      "id": "s480"
+    },
+    {
+      "text": "Nor is the subjective reaction of the recipient of the notice relevant: see Mannai at 767 per Lord Steyn and Lancecrest at [38]-[43] per Neuberger LJ and [88] per Brooke LJ.",
+      "id": "s481"
+    },
+    {
+      "text": "Either the notice is unequivocally a notice made pursuant to clause 3.2.2, or it is not.",
+      "id": "s482"
+    },
+    {
+      "text": "If the meaning of the notice is in doubt, objectively viewed, the notice is invalid.",
+      "id": "s483"
+    },
+    {
+      "text": "143 It is true that the notice is headed \"Notice of Rental Assessment commencing 1 March 2003 for 42-44 Glenvale Crescent, Mulgrave\".",
+      "id": "s484"
+    },
+    {
+      "text": "However, the notice must be viewed as a whole and Shirlcar Properties makes it plain that what may otherwise be a valid notice can be invalidated by additional statements which affect the clarity, and import doubt, into the rest of the notice.",
+      "id": "s485"
+    },
+    {
+      "text": "In my view, the characteristics of the notice, outlined above at [136], import uncertainty and ambiguity into the notice.",
+      "id": "s486"
+    },
+    {
+      "text": "144 The cases relied upon by the first respondent as upholding notices in a similar form are, in my view, distinguishable from the notice in this case.",
+      "id": "s487"
+    },
+    {
+      "text": "The first respondent placed particular reliance upon the notice that was upheld in Amalgamated Estates .",
+      "id": "s488"
+    },
+    {
+      "text": "That notice was in a much clearer form than that in the present case.",
+      "id": "s489"
+    },
+    {
+      "text": "The relevant clause in the lease required the landlord to specify the open market rental by notice in writing.",
+      "id": "s490"
+    },
+    {
+      "text": "The notice stated:\n \n \"Pursuant to the terms of your Lease of the above premises dated December 7 1973, we hereby give you notice that we require a review of the yearly rental payable thereunder as from December 10 1978.",
+      "id": "s491"
+    },
+    {
+      "text": "We specify that the new rent payable as from December 10 1978 will be [sterling]10,000 per annum exclusive.",
+      "id": "s492"
+    },
+    {
+      "text": "\" \n \n\n145 Moreover, the validity of the notice in Amalgamated Estates was not challenged on the basis of its form, but rather on the basis that the landlord had not specified a bona fide and genuine pre-estimate of the open market rental on the property in question.",
+      "id": "s493"
+    },
+    {
+      "text": "146 Fox &amp; Widley v Guran , another case cited by the first respondent, involved a typographical error.",
+      "id": "s494"
+    },
+    {
+      "text": "The notice stated the rent review date as being 23 May 1989, rather than 25 May 1989.",
+      "id": "s495"
+    },
+    {
+      "text": "Clarke J found that such an error could not mislead anyone, nor was there any evidence that the tenant had in fact been misled.",
+      "id": "s496"
+    },
+    {
+      "text": "147 The closest the first respondent came to finding an analogous notice, the validity of which was upheld, was GHD Pty Ltd v Wayne [2001] QSC 73 (\" GHD \").",
+      "id": "s497"
+    },
+    {
+      "text": "In that case the lease was similar in substance to clause 3.2.2 and required the relevant amount to be specified by notice in writing.",
+      "id": "s498"
+    },
+    {
+      "text": "The relevant notice stated:\n \n \"As you will be aware your lease provides for a review of rental from 29 September 1999.",
+      "id": "s499"
+    },
+    {
+      "text": "The Lessor proposes that there will be no change in the rental from the present level for the year commencing 29 September 1999.",
+      "id": "s500"
+    },
+    {
+      "text": "\" \n \n\n148 The notice then went on to deal with a proposal to renegotiate the terms of the lease to take account of the introduction of the goods and services tax legislation.",
+      "id": "s501"
+    },
+    {
+      "text": "The lessee submitted that the use of the term \"proposes\" rather than \"specifies\", and the discussion of the GST proposal, rendered the notice equivocal, and therefore invalid.",
+      "id": "s502"
+    },
+    {
+      "text": "The lessee also contended that the failure to specify an actual amount or refer to fair market rental suggested the notice represented a step in a preliminary negotiation before the rent review machinery was triggered.",
+      "id": "s503"
+    },
+    {
+      "text": "149 Mackenzie J rejected these submissions.",
+      "id": "s504"
+    },
+    {
+      "text": "His Honour noted that the matter was one of impression and that, in his view, the notice adequately conveyed the requisite meaning that the lease required to be conveyed.",
+      "id": "s505"
+    },
+    {
+      "text": "150 GHD is distinguishable from the present case.",
+      "id": "s506"
+    },
+    {
+      "text": "In GHD , Mackenzie J took the view that the GST discussion could be severed, or treated separately, from the rent review portion of the letter, and that the rent review portion of the letter was sufficiently clear.",
+      "id": "s507"
+    },
+    {
+      "text": "If, in the notice at issue before me, the first respondent had simply referred to the lease and stated, as the lessor did in GHD , \"the Lessor proposes that the rental commencing 1 March 2003 be $435,920 pa\", and there was no ambiguous reference to the Colliers letter, the notice may well have been valid.",
+      "id": "s508"
+    },
+    {
+      "text": "However, the Colliers letter cannot be severed from this notice, and the reference to it in Mr Allen's letter, and the nature of the Colliers letter itself, import doubt into the meaning of the overall notice.",
+      "id": "s509"
+    },
+    {
+      "text": "151 Accordingly, I find that the notice was not sufficiently clear to be a valid notice pursuant to clause 3.2.2 of the lease.",
+      "id": "s510"
+    },
+    {
+      "text": "152 I should note that in Central Pacific , it was suggested that the test expounded in Mannai was distinguishable from that in Catley v Watson : see Ormiston JA at 66,903 and Callaway JA at 66,909.",
+      "id": "s511"
+    },
+    {
+      "text": "153 For my part, I cannot discern any difference in the effect of the tests in Mannai and Catley v Watson .",
+      "id": "s512"
+    },
+    {
+      "text": "Nor could the Victorian Court of Appeal in MLW Technology Pty Ltd v May (see [82] per Gillard AJA (with whom Winneke P and Buchanan JA agreed)).",
+      "id": "s513"
+    },
+    {
+      "text": "WAS THE NOTICE VALID IN SUBSTANCE?",
+      "id": "s514"
+    },
+    {
+      "text": "154 As the notice has been found to be invalid on the basis of form, it is strictly unnecessary to deal with this aspect of the applicant's claim.",
+      "id": "s515"
+    },
+    {
+      "text": "I will, however, make some brief comments in relation to it.",
+      "id": "s516"
+    },
+    {
+      "text": "155 Because of my ruling in relation to the amendment of the applicant's statement of claim, the applicant is not able to pursue its claim that the notice is flawed because Mr Allen took into account fittings and fixtures additional to those in schedule 2 in assessing the proper rent.",
+      "id": "s517"
+    },
+    {
+      "text": "Therefore, the applicant's only remaining contention under this ground is whether there was a failure to specify the \"proper rent\" because the rent specified was \"excessive\".",
+      "id": "s518"
+    },
+    {
+      "text": "156 In my view, clause 3.2.2 did not require the lessor to stipulate a \"reasonable\" or \"non-excessive\" sum.",
+      "id": "s519"
+    },
+    {
+      "text": "I reject the applicant's contention that the rent review clause in Mailman was not comparable to that at issue in this proceeding.",
+      "id": "s520"
+    },
+    {
+      "text": "Mailman required the lessor to give notice of what it considered was the \"current market rent\", having regard to certain matters.",
+      "id": "s521"
+    },
+    {
+      "text": "Clause 3.2.2 requires a statement of \"the sum which the Lessor assesses to be the proper rent\", taking into account certain assumptions and having regard to certain matters.",
+      "id": "s522"
+    },
+    {
+      "text": "Consistent with Gleeson CJ's statement in Mailman , as long as Mr Allen subjectively held the belief that this sum was the \"proper rent\", the requirements of clause 3.2.2 would have been satisfied.",
+      "id": "s523"
+    },
+    {
+      "text": "I am not prepared, on the basis of the evidence before me, to infer that Mr Allen did not hold such a belief.",
+      "id": "s524"
+    },
+    {
+      "text": "IMPLIED TERM OF GOOD FAITH \n \n157 The applicant's case in relation to breach of an implied term of good faith proceeded upon the assumption that the notice was found to be valid, and that therefore, clause 3.2.2 gave the first respondent the type of wide powers that would invoke the implication of the term.",
+      "id": "s525"
+    },
+    {
+      "text": "As I have found that the notice was invalid, the issue does not strictly arise.",
+      "id": "s526"
+    },
+    {
+      "text": "I do not propose therefore to say anything further about this aspect of the proceeding.",
+      "id": "s527"
+    },
+    {
+      "text": "UNCONSCIONABLE CONDUCT \n \n158 Much the same could be said about the applicant's claim under s 51AA of the Trade Practices Act .",
+      "id": "s528"
+    },
+    {
+      "text": "However, I do wish to make some brief comments about one element of that claim.",
+      "id": "s529"
+    },
+    {
+      "text": "Section 51AA requires one party in a transaction to be under some sort of special disadvantage which the other party unconscientiously takes advantage of.",
+      "id": "s530"
+    },
+    {
+      "text": "As previously indicated, the special disadvantage in this case was said to be the fact that Mr Bertrand spoke English as a second language.",
+      "id": "s531"
+    },
+    {
+      "text": "159 Mr Bertrand was cross-examined in English and was able to communicate clearly and effectively during that process.",
+      "id": "s532"
+    },
+    {
+      "text": "He was taken to various documents and had no trouble understanding them.",
+      "id": "s533"
+    },
+    {
+      "text": "At the time of the events relevant to this application, Mr Bertrand was the General Manager of a sizeable commercial operation in Australia.",
+      "id": "s534"
+    },
+    {
+      "text": "Consequently, the applicant would have fallen well short of establishing that Mr Bertrand had a special disadvantage capable of invoking the operation of s 51AA.",
+      "id": "s535"
+    },
+    {
+      "text": "MISLEADING OR DECEPTIVE CONDUCT CLAIM AGAINST THE SECOND RESPONDENT \n \n160 As I have found the notice to be invalid, the claim against the second respondent for misleading or deceptive conduct under s 52 of the Trade Practices Act is moot.",
+      "id": "s536"
+    },
+    {
+      "text": "As the notice is invalid, the applicant cannot be said to have suffered loss or damage by virtue of the representations in the Colliers letter.",
+      "id": "s537"
+    },
+    {
+      "text": "Accordingly, the application against the second respondent is dismissed.",
+      "id": "s538"
+    },
+    {
+      "text": "161 I wish, however, to make a number of comments in relation to this claim.",
+      "id": "s539"
+    },
+    {
+      "text": "162 Had the notice been found to be valid, and had the assessment in the notice been found to constitute a breach of s 52 , I would still have regarded the case against the second respondent as fundamentally flawed.",
+      "id": "s540"
+    },
+    {
+      "text": "That is because, in my view, it would not be possible to conclude, on the evidence before me, that the applicant suffered loss or damage \"by conduct\" of the second respondent, as is required by s 82 of the Trade Practices Act .",
+      "id": "s541"
+    },
+    {
+      "text": "163 In Wardley Australia Ltd v Western Australia [1992] HCA 55 ; (1992) 175 CLR 514, the High Court held that s 82 plainly incorporates the concept of causation.",
+      "id": "s542"
+    },
+    {
+      "text": "Mason CJ stated at 525:\n \n \"The statutory cause of action arises when the plaintiff suffers loss or damage \n \"by\" contravening conduct of another person.",
+      "id": "s543"
+    },
+    {
+      "text": "\"By\" is a curious word to use.",
+      "id": "s544"
+    },
+    {
+      "text": "One might have expected \"by means of\", \"by reason of\", \"in consequence of\" or \"as a result of\".",
+      "id": "s545"
+    },
+    {
+      "text": "But the word clearly expresses the notion of causation without defining or elucidating it.",
+      "id": "s546"
+    },
+    {
+      "text": "In this situation, s.82(1) should be understood as taking up the common law practical or common-sense concept of causation recently discussed by this Court in March v. Stramare (E. &amp; M. H.) Pty.",
+      "id": "s547"
+    },
+    {
+      "text": "Ltd. , except in so far as that concept is modified or supplemented expressly or impliedly by the provisions of the Act.",
+      "id": "s548"
+    },
+    {
+      "text": "(footnote omitted) \n \n\n164 The authorities are clear that the applicant does not itself have to rely upon the misrepresentation in order to make a claim under s 82.",
+      "id": "s549"
+    },
+    {
+      "text": "It may be sufficient for a third party to rely upon the misrepresentation, and for that third party reliance to cause the applicant's loss.",
+      "id": "s550"
+    },
+    {
+      "text": "See Janssen-Cilag Pty Limited v Pfizer Pty Limited (1992) 37 FCR 526 (\" Janssen-Cilag \"), Haynes v Top Slice Deli Pty Limited (1995) ATPR (Digest) |P46-147 (\" Haynes \"), and McCarthy v McIntyre [1999] FCA 784.",
+      "id": "s551"
+    },
+    {
+      "text": "However, the authorities require a \"sufficient and direct link\", or a \"requisite element of proximity\" in order for s 82 to be satisfied.",
+      "id": "s552"
+    },
+    {
+      "text": "165 Janssen-Cilag involved a claim brought by a competitor of a company that had made misleading representations.",
+      "id": "s553"
+    },
+    {
+      "text": "The applicant claimed damages for the loss of custom which resulted from customers buying more of the competitor's products as a result of the misleading conduct.",
+      "id": "s554"
+    },
+    {
+      "text": "Lockhart J observed at 532:\n \n \"Where a corporation engages in conduct which misleads consumers, the natural and direct result of which is to cause the public to buy more of that trader's product and less of a rival trader's product, the loss to the rival is direct and immediate; it is not remote or indirect.",
+      "id": "s555"
+    },
+    {
+      "text": "The purpose of the conduct is to reduce the market share of the rival to the benefit of the trader engaging in the misleading conduct.",
+      "id": "s556"
+    },
+    {
+      "text": "That benefit is achieved by misleading consumers.",
+      "id": "s557"
+    },
+    {
+      "text": "This is a class of conduct to which s 82 is directed.",
+      "id": "s558"
+    },
+    {
+      "text": "\" \n \n\n166 In Haynes , the applicants purchased a franchise from Top Slice Deli.",
+      "id": "s559"
+    },
+    {
+      "text": "Top Slice Deli's accountants had sent misleading financial information to the bank which approved the applicants' loan to purchase the franchise.",
+      "id": "s560"
+    },
+    {
+      "text": "As against the accountants, Einfeld J found at 53,152:\n \n \"Even if the bank's approval of the loan was an antecedent condition of entry into the agreements ...there was not an effective or true nexus between the approval and the entry.",
+      "id": "s561"
+    },
+    {
+      "text": "To adopt the language of Justice Lockhart, any resulting loss from the failure of the business is both a remote and indirect, not the \"natural and direct\", result of the relevant conduct.",
+      "id": "s562"
+    },
+    {
+      "text": "It therefore falls outside section 82...\" \n \n\n167 In McCarthy v McIntyre , a bank relied upon a misleading valuation in making a loan.",
+      "id": "s563"
+    },
+    {
+      "text": "The appellant suffered loss from the transaction entered into using the funds from the loan.",
+      "id": "s564"
+    },
+    {
+      "text": "The issue in that case was whether, if the transaction would not have been entered into by the appellant had it not been for the making of the loan, was this sufficient to make a claim under s 82.",
+      "id": "s565"
+    },
+    {
+      "text": "The Full Court (Hill, Sackville and Katz JJ) stated at [48]-[50]:\n \n \"All that is necessary, in our opinion, is that there be a sufficient and direct link (ie, causation) between the loss or damage alleged to have been suffered by the claimant and the misleading or deceptive conduct.",
+      "id": "s566"
+    },
+    {
+      "text": "It is well established that the misleading or deceptive conduct need not be the sole cause of the loss.",
+      "id": "s567"
+    },
+    {
+      "text": "...",
+      "id": "s568"
+    },
+    {
+      "text": "Precisely what test should be used to judge what constitutes the sufficient causal connection required between the misleading conduct and the outcome is the subject of some difficulty.",
+      "id": "s569"
+    },
+    {
+      "text": "Perhaps there is no simple test capable of formulation.",
+      "id": "s570"
+    },
+    {
+      "text": "It is necessary that the issue of causation be approached in what the High Court in Wardley called a \"practical or commonsense\" way.",
+      "id": "s571"
+    },
+    {
+      "text": "In many areas, the courts have applied a \"but for\" test of causation.",
+      "id": "s572"
+    },
+    {
+      "text": "As McHugh, Hayne and Callinan JJ pointed out in Marks v GIO Australia Holdings Ltd at 346, the idea that a \"but for\" test is the exclusive test of causation has been found wanting in some contexts and it may yet be found to be wanting in the context of ss 82 and 87 of the Trade Practices Act (and their State equivalents).",
+      "id": "s573"
+    },
+    {
+      "text": "Whether this be the case or not, the \"but for\" test, applied in a common sense and not a pedantic way, provides still a useful approach to the issue of causation.",
+      "id": "s574"
+    },
+    {
+      "text": "Where a claimant is able to show that, but for the misleading or deceptive conduct, he or she would not have entered into a transaction, then such loss as flows directly to the claimant from the transaction will satisfy the requirement of causation.",
+      "id": "s575"
+    },
+    {
+      "text": "This is so where the claimant relies upon the misleading or deceptive conduct (the usual case).",
+      "id": "s576"
+    },
+    {
+      "text": "It is also so where a third party whose action was a sina qua non of the entry by the claimant into the transaction (the present case as alleged) relies upon the misleading or deceptive conduct.",
+      "id": "s577"
+    },
+    {
+      "text": "\" \n \n\n168 The matter was then remitted to the primary judge to make factual findings.",
+      "id": "s578"
+    },
+    {
+      "text": "The remittal judgment was also appealed.",
+      "id": "s579"
+    },
+    {
+      "text": "In that appeal ( McCarthy v McIntyre [2000] FCA 1250) , Whitlam, Emmett and Hely JJ found, at [53]:\n \n \"there is no basis for concluding that, if the valuation of the Tropicana Hotel had been in the order of $2,100,000, Westpac would not have advanced the same proportion of the valuation, namely, $1,071,000 rather than $1,622,000.",
+      "id": "s580"
+    },
+    {
+      "text": "That, of course, would have given rise to the need to borrow additional funds elsewhere.",
+      "id": "s581"
+    },
+    {
+      "text": "There is no evidence to support a conclusion that it would not have been possible to borrow the additional funds from another source.",
+      "id": "s582"
+    },
+    {
+      "text": "\" \n \n\n169 The reasoning of their Honours is relevant to this case.",
+      "id": "s583"
+    },
+    {
+      "text": "It cannot be said that \"but for\" the Collier's assessment, Mr Allen would have sent the applicant a notice for less than the sum actually specified in the notice.",
+      "id": "s584"
+    },
+    {
+      "text": "It is quite possible that a higher figure may have been specified, given that Mr Allen gave evidence that he believed Mr Williams' figure was \"a bit low\", and actually thought that the Mulgrave premises were worth more.",
+      "id": "s585"
+    },
+    {
+      "text": "Mr Allen would have been well within his rights to serve a notice which specified a higher amount, if he believed that this reflected the proper rent, taking into account the relevant criteria outlined in clause 3.2.2.",
+      "id": "s586"
+    },
+    {
+      "text": "The applicant's case would require me to make findings about \"what would have happened\" but for the alleged misleading conduct in a way that would border upon pure speculation.",
+      "id": "s587"
+    },
+    {
+      "text": "170 Not being able to satisfy the \"but for\" test would have been a serious problem for the applicant.",
+      "id": "s588"
+    },
+    {
+      "text": "There is, however, a further insurmountable hurdle in relation to the applicant's case in relation to causation.",
+      "id": "s589"
+    },
+    {
+      "text": "171 In my view, the applicant's failure to object to the notice, if it were found to be valid, would constitute a break in the chain of causation.",
+      "id": "s590"
+    },
+    {
+      "text": "Put another way, at its highest, what the second respondent would have \"caused\" was a rental assessment notice to be sent which specified an annual rental which did not reflect the \"proper rent\" as defined in clause 3.2.2.",
+      "id": "s591"
+    },
+    {
+      "text": "While negligence on the part of a \"victim\" of a contravention is not a defence to a claim for damages under s 82, this does not apply where the victim's conduct operates so as to destroy the causal connection between the contravention and the loss or damage: Henville v Walker [2001] HCA 52 ; (2001) 206 CLR 459 at 468 per Gleeson CJ.",
+      "id": "s592"
+    },
+    {
+      "text": "172 Accordingly, had the notice been valid, and had the other claims against the first respondent failed, I would not have found the second respondent liable to pay damages under s 82 even if it had, by preparing the letter, contravened s 52, because the second respondent, by its conduct, would not have caused the applicant's loss.",
+      "id": "s593"
+    },
+    {
+      "text": "ORDERS \n \n173 It is clear from what I have already stated that the applicant is entitled to a declaration that the notice upon which the first respondent relied for increasing the rent was not a valid notice pursuant to clause 3.2.2.",
+      "id": "s594"
+    },
+    {
+      "text": "It follows that the notice was of no effect.",
+      "id": "s595"
+    },
+    {
+      "text": "174 As previously indicated, the applicant has paid the rent demanded pursuant to the notice under protest.",
+      "id": "s596"
+    },
+    {
+      "text": "The question of what relief, if any, the applicant may be entitled to, arising out of these payments, will need to be addressed.",
+      "id": "s597"
+    },
+    {
+      "text": "So too will the question of costs.",
+      "id": "s598"
+    },
+    {
+      "text": "175 These questions are complicated.",
+      "id": "s599"
+    },
+    {
+      "text": "The relief sought by the applicant against the first respondent in its amended application filed on 10 November 2004 included some nineteen separate claims, many of them in the alternative.",
+      "id": "s600"
+    },
+    {
+      "text": "For example, the applicant postulated a number of possibilities, including declarations as to the current applicable rent for the premises ranging from the current figure of $275,279 to a significantly higher figure, depending upon how that rental is calculated.",
+      "id": "s601"
+    },
+    {
+      "text": "In the alternative, the applicant sought an order compelling the first respondent to request the president or other senior officer of the Australian Property Institute (being the successor to the Australian Institute of Valuers) to determine a proper rent for the premises in the manner set out in clause 3.2.2(a).",
+      "id": "s602"
+    },
+    {
+      "text": "There are other permutations of these claims.",
+      "id": "s603"
+    },
+    {
+      "text": "176 My finding that the notice was invalid leaves the question of any relief regarding the payments made under protest to be determined in accordance with general principles of common law, equity and restitution, and not pursuant to either s 87 or s 82 of the Trade Practices Act .",
+      "id": "s604"
+    },
+    {
+      "text": "Because there was evidence led as to what the proper rent determined in accordance with clause 3.2.2 should be, there may have to be a finding made regarding that matter.",
+      "id": "s605"
+    },
+    {
+      "text": "177 The figures that are suggested in the evidence range from Mr Ned Walsh (the expert called on behalf of the applicant) who fixed upon a figure of approximately $330,000 per annum including GST, Mr Finkemeyer whose original estimate was approximately $370,000 per annum without GST, Mr Brian Dudakov (the expert called on behalf of the second respondent) who valued the proper rent at approximately $440,000 per annum including GST, and the \"ballpark figure\" arrived at by Mr Williams of around $470,000 per annum including GST.",
+      "id": "s606"
+    },
+    {
+      "text": "The evidence of Mr Walsh and Mr Dudakov was directed primarily towards the liability of the second respondent, but can, of course, be utilised in determining what amount, if any, the first respondent should be required to repay to the applicant, having regard to my finding that the notice was invalid.",
+      "id": "s607"
+    },
+    {
+      "text": "I have reached no conclusion regarding that matter as it is necessary firstly to establish the basis upon which the applicant is entitled to any such repayment.",
+      "id": "s608"
+    },
+    {
+      "text": "178 Alternatively, the parties may be able to agree, between themselves, as to what form any such relief should take.",
+      "id": "s609"
+    },
+    {
+      "text": "That would obviate the need for further lengthy and expensive submissions to be made regarding this matter.",
+      "id": "s610"
+    },
+    {
+      "text": "179 In determining what orders may be appropriate, the parties may wish to consider the applicability of the principles laid down in United Scientific Holdings Ltd v Burnley Borough Council [1978] AC 904 (\" United Scientific Holdings \") in relation to the retrospective application of rent reviews completed outside the period provided for under the lease.",
+      "id": "s611"
+    },
+    {
+      "text": "180 In United Scientific Holdings , the House of Lords held that there was nothing in that case that displaced the presumption that strict adherence to the timetables specified in the relevant rent review clauses was not of the essence of the contract.",
+      "id": "s612"
+    },
+    {
+      "text": "181 There were in fact two separate cases decided in United Scientific Holdings .",
+      "id": "s613"
+    },
+    {
+      "text": "The first involved a rent review on a 99 year lease.",
+      "id": "s614"
+    },
+    {
+      "text": "The review was to occur each ten years after the commencement of the lease, with the new rent to commence on 31 August of that year.",
+      "id": "s615"
+    },
+    {
+      "text": "The rent review mechanisms provided that the revised rent was to be determined by agreement, or failing agreement, by arbitration \"during the year immediately preceding\" the 10 year period to which that rent would relate.",
+      "id": "s616"
+    },
+    {
+      "text": "By the end of the first 10 year period, such agreement had not been reached, and nor had the matter been referred to arbitration.",
+      "id": "s617"
+    },
+    {
+      "text": "182 The second case involved a 21 year lease, commencing upon 8 April 1968.",
+      "id": "s618"
+    },
+    {
+      "text": "The rent was to be reviewed every seven years.",
+      "id": "s619"
+    },
+    {
+      "text": "The relevant machinery provided for the lessor to serve a notice on the lessee, and the lessee to serve a counter-notice accepting the proposal or making a counter-offer.",
+      "id": "s620"
+    },
+    {
+      "text": "The parties were then to negotiate.",
+      "id": "s621"
+    },
+    {
+      "text": "If agreement had not been reached after a certain time, the lessor was required to appoint an independent valuer.",
+      "id": "s622"
+    },
+    {
+      "text": "In this case, the lessor's notice was served within time.",
+      "id": "s623"
+    },
+    {
+      "text": "However, no agreement had been reached by the parties, and the lessor failed to appoint an independent valuer within the time provided for under the lease.",
+      "id": "s624"
+    },
+    {
+      "text": "183 In both cases the House of Lords held that time was not of the essence in relation to the clauses in the leases which the lessors had not complied with.",
+      "id": "s625"
+    },
+    {
+      "text": "The lessors had not lost the opportunity to have the rent for the next rental period reviewed by virtue of not complying with the time periods set down in the rent review machinery clauses.",
+      "id": "s626"
+    },
+    {
+      "text": "184 The potential significance of the case for this proceeding in terms of any final orders that may be made is as follows.",
+      "id": "s627"
+    },
+    {
+      "text": "The House of Lords held that once the relevant terms were complied with (namely an arbitration concluded in the first case and independent valuation conducted in the second case), the new rent would be payable from the date that the lease provided that the new rental period was to commence.",
+      "id": "s628"
+    },
+    {
+      "text": "That is, despite the lessors' tardiness, not only did they maintain their rights to rent reviews, but once the rent reviews were completed, the revised rent applied retrospectively as if those reviews had been completed on time.",
+      "id": "s629"
+    },
+    {
+      "text": "185 Whether the parties wish to consider or rely upon United Scientific Holdings in putting forward orders to reflect my reasons for judgement is, however, a matter for them.",
+      "id": "s630"
+    },
+    {
+      "text": "186 There is also potentially a difficult question to be resolved regarding costs.",
+      "id": "s631"
+    },
+    {
+      "text": "The applicant has succeeded against the first respondent in relation to its claim that the notice was invalid.",
+      "id": "s632"
+    },
+    {
+      "text": "However, there were a number of other issues raised in relation to which it either did not succeed, or would not have succeeded.",
+      "id": "s633"
+    },
+    {
+      "text": "That is a matter that may have to be taken into account.",
+      "id": "s634"
+    },
+    {
+      "text": "187 With regard to the second respondent, it is sufficient to note, for present purposes, that the applicant's claim against it must be dismissed.",
+      "id": "s635"
+    },
+    {
+      "text": "It is clear that the second respondent will be entitled to its costs.",
+      "id": "s636"
+    },
+    {
+      "text": "Beyond these findings, it may be necessary to hear the parties further.",
+      "id": "s637"
+    },
+    {
+      "text": "188 I will direct that each party bring in proposed minutes of orders that reflect the findings made in these reasons for judgment.",
+      "id": "s638"
+    },
+    {
+      "text": "That should be done within 21 days.",
+      "id": "s639"
+    },
+    {
+      "text": "If agreement can be reached regarding the form of such orders, so much the better.",
+      "id": "s640"
+    },
+    {
+      "text": "If not, I will make available a date upon which there can be further argument as to the form that any final orders should take.",
+      "id": "s641"
+    },
+    {
+      "text": "I certify that the preceding one hundred and eighty-eight (188) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Weinberg.",
+      "id": "s642"
+    },
+    {
+      "text": "Associate:\n\nDated: 15 March 2006\n\n Counsel for the Applicant: Mr J.J. Gleeson \n \n Solicitors for the Applicant: Corrs Chambers Westgarth \n \n Counsel for the First Respondent: Mr P.J. O'Callaghan QC with Mr M.S.",
+      "id": "s643"
+    },
+    {
+      "text": "Osborne \n \n Solicitors for the First Respondent: Allen &amp; Allen \n \n Counsel for the Second Respondent: Mr P.J. Cawthorn \n \n Solicitors for the Second Respondent: Phillips Fox \n \n Dates of Hearing: 11, 12, 13, 14 and 15 July 2005 and 4, 11 and 12 August 2005 \n \n Date of Judgment: 15 March 2006 \n\n\n\n\n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2006/219.html",
+      "id": "s644"
+    }
+  ]
+}

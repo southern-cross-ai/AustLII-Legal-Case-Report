@@ -1,0 +1,206 @@
+[
+  {
+    "text": "shipping",
+    "id": "cp1.0",
+    "type": "cited",
+    "from": "[1980]"
+  },
+  {
+    "text": "sea carriage of goods",
+    "id": "cp1.1",
+    "type": "cited",
+    "from": "[1980]"
+  },
+  {
+    "text": "hague rules",
+    "id": "cp1.2",
+    "type": "cited",
+    "from": "[1980]"
+  },
+  {
+    "text": "damage to cargo",
+    "id": "cp1.3",
+    "type": "cited",
+    "from": "[1980]"
+  },
+  {
+    "text": "negligent stowing",
+    "id": "cp1.4",
+    "type": "cited",
+    "from": "[1980]"
+  },
+  {
+    "text": "perils of the sea",
+    "id": "cp1.5",
+    "type": "cited",
+    "from": "[1980]"
+  },
+  {
+    "text": "heavy weather",
+    "id": "cp1.6",
+    "type": "cited",
+    "from": "[1980]"
+  },
+  {
+    "text": "liability of carrier",
+    "id": "cp1.7",
+    "type": "cited",
+    "from": "[1980]"
+  },
+  {
+    "text": "overriding obligation to exercise due care",
+    "id": "cp1.8",
+    "type": "cited",
+    "from": "[1980]"
+  },
+  {
+    "text": "sea-carriage of goods act 1924 (cth), sch., arts. iii, r. 2, iv, r. 2 (c).",
+    "id": "cp1.9",
+    "type": "cited",
+    "from": "[1980]"
+  },
+  {
+    "text": "admiralty",
+    "id": "cp2.0",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "limitation of liability",
+    "id": "cp2.1",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "application under s 25 of the admiralty act 1988 (cth) by shipowner to limit liability under limitation of liability for maritime claims act 1989 (cth) and the convention on limitation of liability for maritime claims 1976 as affected by the 1996 protocol to amend that convention",
+    "id": "cp2.2",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "meaning of \"claims arising on any distinct occasion\" in arts 2(1)(a) and 6(1) of the convention",
+    "id": "cp2.3",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "arts 6(1)(b) and 11 of the convention permitting shipowner to apply to limit liability for all claims arising on a distinct occasion",
+    "id": "cp2.4",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "maritime liens",
+    "id": "cp2.5",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "multiple claims alleged to arise from ship's anchor fouling submarine gas pipeline, ship then going astern, ship later moving ahead, pipeline then fractured, later ship moving astern and further bending pipeline",
+    "id": "cp2.6",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "claims by pipeline's owners for repairs, loss of gas and economic loss",
+    "id": "cp2.7",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "consumers of gas claiming economic losses",
+    "id": "cp2.8",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "longer repair period because of further bending",
+    "id": "cp2.9",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "whether the different events causing damage to the pipeline on one or more distinct occasions  admiralty",
+    "id": "cp2.10",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "statutory interpretation",
+    "id": "cp2.11",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "construction of international convention given force of law by an act of the parliament",
+    "id": "cp2.12",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "construction of convention on limitation of liability for maritime claims 1976 as affected by the 1996 protocol to amend that convention",
+    "id": "cp2.13",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "construction of international conventions",
+    "id": "cp2.14",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "application of principles in vienna convention on the law of treaties of 1969",
+    "id": "cp2.15",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "purpose of limitation convention to protect shipowner from financial ruin, encourage investment in shipbuilding, international trade and commerce and provide for limited and certain insurable risks",
+    "id": "cp2.16",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "unbreakable limitation",
+    "id": "cp2.17",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "purpose only to limit the liability of shipowner for each separate act, neglect or default from which claims arise",
+    "id": "cp2.18",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "history of limitation of maritime claims laws and conventions",
+    "id": "cp2.19",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "use of domestic law precedents  practice and procedure",
+    "id": "cp2.20",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "evidence",
+    "id": "cp2.21",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "concurrent evidence",
+    "id": "cp2.22",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "direction that experts in each relevant discipline confer together, without the parties or their lawyers to prepare joint report setting out issues on which they agree and disagree, giving brief reasons for their differences",
+    "id": "cp2.23",
+    "type": "citing",
+    "from": "[2010]"
+  }
+]

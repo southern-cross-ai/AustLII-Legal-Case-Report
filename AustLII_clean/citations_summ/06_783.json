@@ -1,0 +1,440 @@
+[
+  {
+    "text": "contract",
+    "id": "cp0.0",
+    "type": "cited",
+    "from": "[1956]"
+  },
+  {
+    "text": "formation",
+    "id": "cp0.1",
+    "type": "cited",
+    "from": "[1956]"
+  },
+  {
+    "text": "land",
+    "id": "cp0.2",
+    "type": "cited",
+    "from": "[1956]"
+  },
+  {
+    "text": "interest",
+    "id": "cp0.3",
+    "type": "cited",
+    "from": "[1956]"
+  },
+  {
+    "text": "sale",
+    "id": "cp0.4",
+    "type": "cited",
+    "from": "[1956]"
+  },
+  {
+    "text": "document",
+    "id": "cp0.5",
+    "type": "cited",
+    "from": "[1956]"
+  },
+  {
+    "text": "terms",
+    "id": "cp0.6",
+    "type": "cited",
+    "from": "[1956]"
+  },
+  {
+    "text": "meaning",
+    "id": "cp0.7",
+    "type": "cited",
+    "from": "[1956]"
+  },
+  {
+    "text": "parties",
+    "id": "cp0.8",
+    "type": "cited",
+    "from": "[1956]"
+  },
+  {
+    "text": "intention",
+    "id": "cp0.9",
+    "type": "cited",
+    "from": "[1956]"
+  },
+  {
+    "text": "conduct",
+    "id": "cp0.10",
+    "type": "cited",
+    "from": "[1956]"
+  },
+  {
+    "text": "default",
+    "id": "cp0.11",
+    "type": "cited",
+    "from": "[1956]"
+  },
+  {
+    "text": "rights",
+    "id": "cp0.12",
+    "type": "cited",
+    "from": "[1956]"
+  },
+  {
+    "text": "assertion",
+    "id": "cp0.13",
+    "type": "cited",
+    "from": "[1956]"
+  },
+  {
+    "text": "abandonment",
+    "id": "cp0.14",
+    "type": "cited",
+    "from": "[1956]"
+  },
+  {
+    "text": "specific performance",
+    "id": "cp0.15",
+    "type": "cited",
+    "from": "[1956]"
+  },
+  {
+    "text": "laches",
+    "id": "cp0.16",
+    "type": "cited",
+    "from": "[1956]"
+  },
+  {
+    "text": "reasonableness",
+    "id": "cp0.17",
+    "type": "cited",
+    "from": "[1956]"
+  },
+  {
+    "text": "readiness",
+    "id": "cp0.18",
+    "type": "cited",
+    "from": "[1956]"
+  },
+  {
+    "text": "willingness",
+    "id": "cp0.19",
+    "type": "cited",
+    "from": "[1956]"
+  },
+  {
+    "text": "moratorium acts 1930-1950.",
+    "id": "cp0.20",
+    "type": "cited",
+    "from": "[1956]"
+  },
+  {
+    "text": "consumer law",
+    "id": "cp2.0",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "alleged misleading and deceptive conduct",
+    "id": "cp2.1",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "alleged product substitution scheme.  tort",
+    "id": "cp2.2",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "alleged interference with contractual relations",
+    "id": "cp2.3",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "elements",
+    "id": "cp2.4",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "whether any damage proved.  equity",
+    "id": "cp2.5",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "fiduciary obligations",
+    "id": "cp2.6",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "director",
+    "id": "cp2.7",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "senior employee.  corporations",
+    "id": "cp2.8",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "duties of officers and employees.",
+    "id": "cp2.9",
+    "type": "citing",
+    "from": "[2011]"
+  },
+  {
+    "text": "industrial law",
+    "id": "cp3.0",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "independent contractors act 2006",
+    "id": "cp3.1",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "jurisdiction to review services contract which is no longer on foot when application is filed",
+    "id": "cp3.2",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "power to vary services contract which is no longer on foot when application is filed.  industrial law",
+    "id": "cp3.3",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "breach of contract",
+    "id": "cp3.4",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "contract varied with retrospective effect by court's order pursuant to independent contractors act 2006",
+    "id": "cp3.5",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "alleged breach occurred after retroactive date of variation but before order for variation pronounced",
+    "id": "cp3.6",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "whether there could be a breach of contract in such circumstances.  industrial law",
+    "id": "cp3.7",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "breach of a contract varied under independent contractors act 2006",
+    "id": "cp3.8",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "nature of relief available.  industrial law",
+    "id": "cp3.9",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "contract for services",
+    "id": "cp3.10",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "repudiatory breach",
+    "id": "cp3.11",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "distinction between termination of services and termination of contract.  industrial law",
+    "id": "cp3.12",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "contract terminable on reasonable notice",
+    "id": "cp3.13",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "purported acceptance of non-existent repudiation cannot amount to notice to terminate contract within a reasonable time.  contract",
+    "id": "cp3.14",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "contract for services",
+    "id": "cp3.15",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "contract of indefinite duration",
+    "id": "cp3.16",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "implication of term implying right to terminate on reasonable notice",
+    "id": "cp3.17",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "identification of reasonable period of notice",
+    "id": "cp3.18",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "relevant considerations",
+    "id": "cp3.19",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "contractual relationship similar to an employment relationship",
+    "id": "cp3.20",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "criteria related to concepts of severance and redundancy not relevant considerations.  damages",
+    "id": "cp3.21",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "contract for services",
+    "id": "cp3.22",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "breach of contract",
+    "id": "cp3.23",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "damages for failure to give reasonable notice of termination.  damages",
+    "id": "cp3.24",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "breach of contract",
+    "id": "cp3.25",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "damages in the reasonable contemplation of the parties at the time of making the contract as the probable result of the breach.  jurisdiction",
+    "id": "cp3.26",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "\"matter\"",
+    "id": "cp3.27",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "express jurisdiction under independent contractors act 2006",
+    "id": "cp3.28",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "accrued jurisdiction",
+    "id": "cp3.29",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "claim under independent contractors act 2006 and related claim for damages comprised the same matter",
+    "id": "cp3.30",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "associated jurisdiction",
+    "id": "cp3.31",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "claim for damages consequent upon contractual variation pursuant to independent contractors act 2006 a federal matter associated with claim under the independent contractors act 2006 .  practice and procedure",
+    "id": "cp3.32",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "amendment of claim to include cause of action accruing after commencement of proceedings",
+    "id": "cp3.33",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "date amendment effective.",
+    "id": "cp3.34",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "contract",
+    "id": "cp4.0",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "construction",
+    "id": "cp4.1",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "inconsistency",
+    "id": "cp4.2",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "could not be corrected without rectification  contract",
+    "id": "cp4.3",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "terms of implied agreement to continue dealing after expiry of written agreement contract for services",
+    "id": "cp4.4",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "period of reasonable notice of termination appeal",
+    "id": "cp4.5",
+    "type": "citing",
+    "from": "[2007]"
+  },
+  {
+    "text": "advantages of primary judge",
+    "id": "cp4.6",
+    "type": "citing",
+    "from": "[2007]"
+  }
+]

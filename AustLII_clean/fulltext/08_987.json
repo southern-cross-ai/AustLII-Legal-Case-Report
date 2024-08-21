@@ -1,0 +1,2560 @@
+{
+  "name": "Saint v Holmes [2008] FCA 987 (4 July 2008)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2008/987.html",
+  "catchphrases": [
+    {
+      "text": "natural justice",
+      "id": "c0"
+    },
+    {
+      "text": "failure to give effect to the representation or procedure",
+      "id": "c1"
+    },
+    {
+      "text": "whether applicant suffered practical unfairness",
+      "id": "c2"
+    },
+    {
+      "text": "whether the decision maker took into account explanation given by medical practitioner for high level of servicing",
+      "id": "c3"
+    },
+    {
+      "text": "whether no evidence ground of review open in relation to adjudicative referral",
+      "id": "c4"
+    },
+    {
+      "text": "admininstrative law",
+      "id": "c5"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "1 Dr Warren Saint, the applicant, has practised as a general practitioner in Western Australia for more than 20 years.",
+      "id": "s0"
+    },
+    {
+      "text": "2 Medicare Australia, of whom the fifth respondent is its chief executive officer, is the successor to the Health Insurance Commission (the Commission).",
+      "id": "s1"
+    },
+    {
+      "text": "In 2000 the Commission administered the Medicare Benefits Scheme.",
+      "id": "s2"
+    },
+    {
+      "text": "Like other medical practitioners, Dr Saint, in the course of his practice, claimed monies under Medicare Benefits Scheme in respect of services he provided to his patients.",
+      "id": "s3"
+    },
+    {
+      "text": "The Commission kept statistics of the claims made to Medicare made by medical practitioners in respect of the services provided by them and the nature of those services.",
+      "id": "s4"
+    },
+    {
+      "text": "In 2000, by reason of the high number of daily services provided by Dr Saint, the Commission became concerned that Dr Saint may have engaged in \"inappropriate practice\" as defined by the Health Insurance Act 1973 (Cth) (the Act), by failing to provide his patients with an adequate clinical input.",
+      "id": "s5"
+    },
+    {
+      "text": "3 The Commission's concern about Dr Saint ultimately led to an enquiry being conducted under the Act by a committee comprised of the second, third and fourth respondents - all medical practitioners, with the third and fourth respondents being general practitioners.",
+      "id": "s6"
+    },
+    {
+      "text": "The committee was known as the Professional Services Review Committee 204 (the Committee).",
+      "id": "s7"
+    },
+    {
+      "text": "4 In its final report issued on 7 July 2004, the Committee found that Dr Saint had, in the manner in which he had rendered some services to his patients, namely, services described as Medicare Benefit Schedule item 36 services, engaged in conduct which in the Committee's opinion was inappropriate practice.",
+      "id": "s8"
+    },
+    {
+      "text": "The Act states that a general practitioner engages in \"inappropriate practice\" as a general practitioner in relation to the rendering of services, if the conduct is such that a Committee could reasonably conclude that the conduct would be unacceptable to the general body of general practitioners.",
+      "id": "s9"
+    },
+    {
+      "text": "5 Medicare Benefit Schedule item 36 services comprise the professional attendance of a general practitioner on a patient which involves taking a detailed history, an examination of multiple systems, arranging any necessary investigations and implementing a management plan in relation to one or more problems and lasting at least 20 minutes.",
+      "id": "s10"
+    },
+    {
+      "text": "6 In summary, the Committee's finding was that Dr Saint had in rendering some of these MBS item 36 services engaged in inappropriate practice because he had failed to provide \"adequate clinical input into the services\" and/or he had \"kept records that were deficient in essential clinical information\".",
+      "id": "s11"
+    },
+    {
+      "text": "7 The making of this final report by the Committee was the culmination of a statutory process which involved a number of prescribed stages.",
+      "id": "s12"
+    },
+    {
+      "text": "First, there was a referral of Dr Saint's conduct by a delegate of the Commission, Dr Mould, to the first respondent (the Director), called an investigative referral.",
+      "id": "s13"
+    },
+    {
+      "text": "Then there was the establishment of the Committee by the Director and a referral of Dr Saint's conduct, called an adjudicative referral, from the Director to the Committee.",
+      "id": "s14"
+    },
+    {
+      "text": "Thereafter, there was a hearing by the Committee and the issue of a draft report of its findings by the Committee.",
+      "id": "s15"
+    },
+    {
+      "text": "Finally, the Committee issued its final report.",
+      "id": "s16"
+    },
+    {
+      "text": "8 By this proceeding, Dr Saint challenged the constitutional validity of statutory process referred to above.",
+      "id": "s17"
+    },
+    {
+      "text": "Further, Dr Saint also sought judicial review of the decisions made by the decision-makers at each of the steps in the statutory process referred to above; and the processes leading to the making of the decisions.",
+      "id": "s18"
+    },
+    {
+      "text": "Dr Saint sought the remedies under the Administrative Decisions (Judicial Review) Act 1977 (Cth) (the ADJR Act) and s 39B of the Judiciary Act 1903 (Cth) .",
+      "id": "s19"
+    },
+    {
+      "text": "Background \n \n9 In June 1995, the Commission published a newsletter explaining the operation of the statutory professional services review scheme affecting medical practitioners.",
+      "id": "s20"
+    },
+    {
+      "text": "The newsletter was entitled \"Inappropriate Practice and Counselling\".",
+      "id": "s21"
+    },
+    {
+      "text": "The newsletter outlined a process which provided for a medical practitioner to be counselled in respect of his or her pattern of servicing and to be given an opportunity to change that pattern, before the Commission would take further action in respect of that pattern of servicing under the Act.",
+      "id": "s22"
+    },
+    {
+      "text": "Dr Saint said in evidence that he became aware of this newsletter in 1996.",
+      "id": "s23"
+    },
+    {
+      "text": "10 On 14 February 1996, an officer of the Commission, Dr Patrick Hertnon, interviewed Dr Saint in relation to his practice statistics for the period 1 July 1994 to 30 June 1995.",
+      "id": "s24"
+    },
+    {
+      "text": "Dr Hertnon informed Dr Saint that based on his statistics the Commission had concerns that the high volume of patients seen by Dr Saint may indicate that he had engaged in inappropriate practice.",
+      "id": "s25"
+    },
+    {
+      "text": "Prior to that meeting, Dr Hertnon had written to Dr Saint providing him with his provider statistics.",
+      "id": "s26"
+    },
+    {
+      "text": "11 On 29 October 1996, Dr Peter Laundy, another officer of the Commission, interviewed Dr Saint about the high level of services revealed by his practice statistics.",
+      "id": "s27"
+    },
+    {
+      "text": "Dr Laundy expressed to Dr Saint the high degree of concern which the Commission held that by reason of his high level of services, Dr Saint may be engaging in inappropriate practice.",
+      "id": "s28"
+    },
+    {
+      "text": "Dr Laundy told Dr Saint that the failure by him to alleviate the concerns of the Commission may result in a referral being made to the Director.",
+      "id": "s29"
+    },
+    {
+      "text": "Dr Saint told Dr Laundy that one of the problems was that one of the doctors in the practice who had formerly worked full-time was now working part-time.",
+      "id": "s30"
+    },
+    {
+      "text": "He said that he expected that the doctor would return to work full-time and that he was also expecting to engage a woman doctor to work part-time.",
+      "id": "s31"
+    },
+    {
+      "text": "12 On 4 June 1997, the Acting Manager Professional Review Branch Western Australia sent Dr Saint a letter noting a change in his practice statistics and advising him that no further action would be taken at that time.",
+      "id": "s32"
+    },
+    {
+      "text": "13 On 18 January 2000, Dr Saint was again interviewed by Dr Laundy.",
+      "id": "s33"
+    },
+    {
+      "text": "Dr Laundy prepared a report of the meeting.",
+      "id": "s34"
+    },
+    {
+      "text": "By a letter dated 25 January 2000, Dr Laundy forwarded a copy of that report to Dr Saint and invited comment on the report within 14 days.",
+      "id": "s35"
+    },
+    {
+      "text": "The report stated that Dr Laundy had advised Dr Saint of the Commission's concerns regarding his high level of services and that this many may lead to the making by the Commission of an investigative referral.",
+      "id": "s36"
+    },
+    {
+      "text": "It also said that Dr Saint had explained that the practice was very busy, he had difficulty in employing other doctors to work in the practice, there was a shortage of doctors in the area and that he liked working long hours.",
+      "id": "s37"
+    },
+    {
+      "text": "The meeting is referred to further below.",
+      "id": "s38"
+    },
+    {
+      "text": "14 By letter dated 5 February 2000, Dr Saint responded to Dr Laundy's letter.",
+      "id": "s39"
+    },
+    {
+      "text": "Dr Saint stated that the record of interview failed to mention the fact that the surgery was open on Sundays and public holidays.",
+      "id": "s40"
+    },
+    {
+      "text": "Dr Saint also mentioned that one of the doctors at the practice, Dr Rae, who had been working \"very part-time\" would from February 2000 be working two days a week and that he expected that that would take some workload off himself.",
+      "id": "s41"
+    },
+    {
+      "text": "He also asked for the Commission to supply him with further statistics to ensure that Dr Rae worked \"at a time when the practice had its greater workload.",
+      "id": "s42"
+    },
+    {
+      "text": "\" Further statistics were subsequently provided to Dr Saint.",
+      "id": "s43"
+    },
+    {
+      "text": "15 Dr Saint received a letter dated 23 March 2000 from Mr Neville Garrity, Manager of the Professional Services Review Branch WA, of the Commission.",
+      "id": "s44"
+    },
+    {
+      "text": "It stated:\n Further to your discussion with Dr Peter Laundy of 18 January 2000 regarding your high number of total annual services rendered and also high daily servicing.",
+      "id": "s45"
+    },
+    {
+      "text": "The Health Insurance Commission (HIC) notes with some concern that Dr Laundy and Dr Hertnon had already spoken to you of these issues several years ago and that a temporary decrease in servicing was followed by a gradual increase.",
+      "id": "s46"
+    },
+    {
+      "text": "The HIC will review your Provider Summary Statistics in approximately three months time looking for changes to your servicing levels, I will communicate further with you at that time.",
+      "id": "s47"
+    },
+    {
+      "text": "If significant changes do not occur, the papers may be forwarded to the Director, Professional Services Review Scheme.",
+      "id": "s48"
+    },
+    {
+      "text": "16 By a letter dated 3 July 2000 to Dr Saint, Mr Garrity stated:\n As advised to you in my letter of 23 March 2000, the proposed review of your Provider Summary Statistics has occurred.",
+      "id": "s49"
+    },
+    {
+      "text": "The Health Insurance Commission's concerns of possible inappropriate practice still remain.",
+      "id": "s50"
+    },
+    {
+      "text": "Your case is being referred to the Medical Director, Professional Review Division for further opinion.",
+      "id": "s51"
+    },
+    {
+      "text": "A referral of the case to the Director, Professional Services Review may follow.",
+      "id": "s52"
+    },
+    {
+      "text": "Further correspondence will be sent to you advising whether or not your case is proceeding to the Director, Professional Services Review.",
+      "id": "s53"
+    },
+    {
+      "text": "17 On 3 July 2000, Mr Garrity wrote to Dr Janet Mould, of the Professional Services Branch of the Commission in the following terms:\n The CMC meeting No.",
+      "id": "s54"
+    },
+    {
+      "text": "194 of 7 June 2000 noted that Dr Warren Saint has been repeatedly counselled by Health Insurance Commission Medical Advisers particularly regarding high daily and high annual servicing of his patients.",
+      "id": "s55"
+    },
+    {
+      "text": "The CMC was of the view that Dr Warrant Saint's practice may still be considered as possibly inappropriate and is referring the matter to you with a view to onforwarding to the Director, Professional Services Review.",
+      "id": "s56"
+    },
+    {
+      "text": "18 Dr Saint received a letter dated 19 July 2000 from Dr Janet Mould, Manager Professional Services Branch of the Commission.",
+      "id": "s57"
+    },
+    {
+      "text": "The letter stated:\n I refer to correspondence forwarded to you on 3 July 2000 by Mr Neville Garrity, Manager Professional Review Branch, WA, in which you were advised that your practice profile has been forwarded to me for my consideration of whether to refer your conduct in relation to inappropriate practice to the Director of Professional Services Review.",
+      "id": "s58"
+    },
+    {
+      "text": "I have allowed a suitable period of time for your statistics to reflect any changes in your practice profile.",
+      "id": "s59"
+    },
+    {
+      "text": "A review of your practice statistics reveals that the HIC concerns remain.",
+      "id": "s60"
+    },
+    {
+      "text": "Subsequently, I wish to advise that I have decided to refer your practice to the Director of Professional Services Review for his consideration on whether you have engaged in inappropriate practice under the Professional Services Review Scheme.",
+      "id": "s61"
+    },
+    {
+      "text": "19 On 21 August 2000, Dr Mould as a delegate of the Commission made an investigative referral to the Director, pursuant to s 86 of the Act, of Dr Saint's conduct in connection with rendering and initiation of services.",
+      "id": "s62"
+    },
+    {
+      "text": "20 The referred services were described in the investigative referral as services rendered during the period 1 January to 31 December 1999 from his practice location in Bassendean.",
+      "id": "s63"
+    },
+    {
+      "text": "21 The investigative referral together with its annexures was a lengthy document.",
+      "id": "s64"
+    },
+    {
+      "text": "It comprised two books and exceeded 220 pages and included a print out of a number of computer records recording the services rendered by Dr Saint.",
+      "id": "s65"
+    },
+    {
+      "text": "The referral also recorded the delegate's reasons for the referral.",
+      "id": "s66"
+    },
+    {
+      "text": "The reasons stated:\n A REASONS FOR THE INVESTIGATIVE REFERRAL The Health Insurance Commission is concerned with certain aspects of Dr Saint's practice, namely, his rendered services and daily servicing.",
+      "id": "s67"
+    },
+    {
+      "text": "These concerns have been identified and analysed by considering: \n&#8226; a review of Dr Saint's practice statistics;\n \n&#8226; a comparison of those statistics with the data concerning the practice of all active general practitioners in Australia;\n \n&#8226; reports from the counselling interviews by Health Insurance Commission Medical Advisers where the above concerns were discussed;\n \n&#8226; a review of Dr Saint's practice statistics since counselling; and\n \n&#8226; other information.",
+      "id": "s68"
+    },
+    {
+      "text": "Dr Saint's practice statistics for the counselling period (1 January 1999 to 31 December 1999) were reviewed.",
+      "id": "s69"
+    },
+    {
+      "text": "A Medical Adviser from the Health Insurance Commission met with Dr Saint on the 18 January 2000 for the purposes of counselling under the Professional Services Review Scheme.",
+      "id": "s70"
+    },
+    {
+      "text": "Dr Saint had been previously counselled by the Health Insurance Commission on 14 February 1996 and again on 29 October 1996 in relation to his rendered services.",
+      "id": "s71"
+    },
+    {
+      "text": "At the meting [sic] on 18 January 2000, the Medical Adviser outlined the Health Insurance Commission's concerns and sought an explanation from Dr Saint as to why his practice appears to be different from that of other general practitioners.",
+      "id": "s72"
+    },
+    {
+      "text": "(A history of the contacts with Dr Saint since February 1996 is included in the Chronological Record of this Referral at E).",
+      "id": "s73"
+    },
+    {
+      "text": "After counselling, the Health Insurance Commission reviewed Dr Saint's practice statistics and other available information.",
+      "id": "s74"
+    },
+    {
+      "text": "The Health Insurance Commission determined there had been insufficient change to remove the overall concerns expressed above.",
+      "id": "s75"
+    },
+    {
+      "text": "The Health Insurance Commission is concerned that, at this level of servicing, Dr Saint may not have provided appropriate professional services to his patients.",
+      "id": "s76"
+    },
+    {
+      "text": "Further, or in the alternative, the Health Insurance Commission is concerned that Dr Saint may not have satisfied the requirements of the relevant items in the Medicare Benefits Schedule.",
+      "id": "s77"
+    },
+    {
+      "text": "Consequently, the Health Insurance Commission is of the view that Dr Saint may be practising inappropriately and that the matter should be referred for consideration by the Director of Professional Services Review.",
+      "id": "s78"
+    },
+    {
+      "text": "22 The records of the interviews which Dr Hertnon had conducted with Dr Saint on 14 February 1996, and which Dr Laundy had conducted with Dr Saint on 29 October 1996 and 18 January 2000 were included in the materials comprising the investigative referral.",
+      "id": "s79"
+    },
+    {
+      "text": "Further, Dr Saint's letter of 5 February 2000 responding to Dr Laundy's record of interview of 18 January 2000, as well as subsequent correspondence arising therefrom, was also included in the documents comprising the investigative referral.",
+      "id": "s80"
+    },
+    {
+      "text": "23 The investigative referral also identified under the heading \"Specific Areas of Concern for the Investigative Referral\" the practice area of \"Rendered Services and Daily Servicing\".",
+      "id": "s81"
+    },
+    {
+      "text": "In respect of that practice area, the referral said:\n The referral period --- 1 January 1999 to 31 December 1999 During the referral period Dr Saint: &#8226; rendered 18,675 services to 4,110 patients at a total benefit of $460,922.95; &#8226; had an average of 4.54 services per patient; and &#8226; rendered 60 or more services per day on 176 occasions and 80 or more services per day on 44 occasions.",
+      "id": "s82"
+    },
+    {
+      "text": "Dr Saint's total services rendered are substantially above the 99th percentile (15,383) when compared with all active general practitioners in Australia.",
+      "id": "s83"
+    },
+    {
+      "text": "24 The investigative referral also included as Table 5 a table of Dr Saint's servicing statistics for each quarter during the period 1 January 1996 to 31 March 2000.",
+      "id": "s84"
+    },
+    {
+      "text": "25 Notice of the making of the investigative referral was given by the Commission to Dr Saint under s 88(2) of the Act.",
+      "id": "s85"
+    },
+    {
+      "text": "Dr Saint was invited to make written submissions to the Director within 14 days stating why the Director should dismiss the investigative referral without setting up a committee.",
+      "id": "s86"
+    },
+    {
+      "text": "Dr Saint was provided with a copy of the investigative referral.",
+      "id": "s87"
+    },
+    {
+      "text": "26 On 12 September 2000, Dr Saint made a 14 page submission to the Director in response to the invitation issued to him under s 88(2) of the Act.",
+      "id": "s88"
+    },
+    {
+      "text": "(The document, which is Exhibit \"A\" in the proceeding, however, bears the mistaken date of 12 August 2000.",
+      "id": "s89"
+    },
+    {
+      "text": ") The submission included the following statements:\n Further looking at Table 5.",
+      "id": "s90"
+    },
+    {
+      "text": "I was \"counselled\" once on the 18th Jan 2000 and my figures have not increased since then.",
+      "id": "s91"
+    },
+    {
+      "text": "For the last two quarters of 1999 the total rendered services is 4,930 and 4,993 respectively.",
+      "id": "s92"
+    },
+    {
+      "text": "For the first quarter of 2000 the total rendered services was 4,563 which is in fact a reduction of 9% not an increase.",
+      "id": "s93"
+    },
+    {
+      "text": "During the \"counselling\" on the 18th Jan 2000 I asked if the HIC would like me to cut back my servicing.",
+      "id": "s94"
+    },
+    {
+      "text": "Dr Laundy replied that \"The HIC was not asking him to cut back his services.",
+      "id": "s95"
+    },
+    {
+      "text": "\" In relation to \"counselling\" I note that in an extract from CMC meeting No 194 of 7 June 2000 it states \"SMA reports that he counselled Dr Saint under the provisions of the PSRS on the 18/1/2000\" and then states \"Dr Saint was previously counselled on 29/10/1996\".",
+      "id": "s96"
+    },
+    {
+      "text": "The extract then goes on to state \"In view of the multiple counsellings\" when in fact there are only two, 29/10/1996 and 18/1/2000.",
+      "id": "s97"
+    },
+    {
+      "text": "Further, in the letter that Neville Garrity wrote to Dr Janet Mould dated the 3 July 2000 he states \"The CMC meeting No 194 of 7 June 2000 noted that Dr Warren Saint has been repeatedly counselled by the Health Insurance Commission Medical Advisors...\".",
+      "id": "s98"
+    },
+    {
+      "text": "This is not an accurate account of the CMC meeting No 194 of 7 June 2000 as reported.",
+      "id": "s99"
+    },
+    {
+      "text": "27 Dr Saint also commented on each of the \"Top 40\" patients which were listed in a report known as the PIRT report, which also was included among the documents comprising the investigative referral.",
+      "id": "s100"
+    },
+    {
+      "text": "Dr Saint went on to explain in summary that he worked an average of 64.5 hours per week, enjoyed working long hours and that there was a high demand for medical services in the area.",
+      "id": "s101"
+    },
+    {
+      "text": "28 On 18 May 2001, the Director made an adjudicative referral No 204 to the Committee under s 93(1) of the Act to consider whether conduct by Dr Saint in connection with rendering the following services constituted engaging in inappropriate practices:\n [A]ll Medicare Benefits Schedule item 35 and 36 services rendered from the practice location at 39 Old Perth Road, Bassendean, Western Australia 6054 during the period on and from 1 January 1999 to and including 31 December 1999.",
+      "id": "s102"
+    },
+    {
+      "text": "29 The Director also recorded that pursuant to s 89(1), he had conducted an investigation into the referred services but that he had not dismissed the referral under s 91 of the Act.",
+      "id": "s103"
+    },
+    {
+      "text": "30 The Director's report was an attachment to the adjudicative referral.",
+      "id": "s104"
+    },
+    {
+      "text": "The Director concluded his report as follows:\n Accordingly I decided to make an adjudicative referral to a Committee in accordance with section 93 for the Committee to consider whether Dr Saint's conduct in connection with the rendering of MBS item 35 and 36 services may have constituted engaging in inappropriate practise by failing to provide appropriate professional services to his patients and/or failing to satisfy the requirements of the relevant items in the MBS and in particular by: &#8226; failing to provide adequate clinical input into the services; &#8226; rendering services that were not medically necessary; &#8226; prescribing drugs in the absence of accepted medical indications; and &#8226; keeping records that were deficient in essential clinical information.",
+      "id": "s105"
+    },
+    {
+      "text": "31 By an instrument dated 18 May 2001, Dr Holmes also established the Committee.",
+      "id": "s106"
+    },
+    {
+      "text": "32 By a letter dated 13 September 2001, the Committee advised Dr Saint that it would hold a hearing on 1 November and 2 November 2001 at which Dr Saint would be required to give evidence.",
+      "id": "s107"
+    },
+    {
+      "text": "The letter also stated that it would use a sampling process which would allow for:\n [F]indings of inappropriate practice based on sampling, if any, to be applied to the total number of services rendered during the Referral Period for the particular item number under consideration.",
+      "id": "s108"
+    },
+    {
+      "text": "33 The letter went on to state:\n The Committee will commence to consider at least 30 of the services specified in the attachment...These have been drawn from a preliminary random sample of your item 35 and 36 services provided by the Health Insurance Commission.",
+      "id": "s109"
+    },
+    {
+      "text": "After this part of the sampling process, (the exploratory sampling stage) has been completed, the Committee will calculate the initial percentage of inappropriate practice (if any).",
+      "id": "s110"
+    },
+    {
+      "text": "Having determined the percentage of inappropriate practice in the exploratory sample, the Committee would then calculate how many additional services it needed to consider to reach a statistically valid finding of overall inappropriate practice.",
+      "id": "s111"
+    },
+    {
+      "text": "You would then be required to provide the Committee with whatever additional patient records were needed to complete this second stage of the sampling process.",
+      "id": "s112"
+    },
+    {
+      "text": "34 On 1 November and 2 November 2001, the hearing was conducted.",
+      "id": "s113"
+    },
+    {
+      "text": "Dr Saint gave evidence and was questioned by the Committee.",
+      "id": "s114"
+    },
+    {
+      "text": "He was represented at this hearing by a legal practitioner.",
+      "id": "s115"
+    },
+    {
+      "text": "35 On 26 November 2001, the second respondent, Dr Ruse, who was the Chairman of the Committee, wrote to Dr Saint's solicitor stating that in light of the decision in Pradhan v Holmes [2001] FCA 1560 ; (2001) 125 FCR 280 ( Pradhan ) the Committee's hearing into the conduct of Dr Saint would be suspended until \"the legal position is clear\".",
+      "id": "s116"
+    },
+    {
+      "text": "The Pradhan case had held that an investigative referral was invalid, because it had been made in terms which, relevantly, were the same as the referral made in respect of Dr Saint's conduct.",
+      "id": "s117"
+    },
+    {
+      "text": "36 On 24 January 2003, the Director wrote to Dr Saint saying that recent amendments to the Act had validated Referral Number 204 together with a number of other referrals.",
+      "id": "s118"
+    },
+    {
+      "text": "The letter also stated that the Secretary for the Committee would contact him in due course to notify him of the resumption of the Committee's proceedings.",
+      "id": "s119"
+    },
+    {
+      "text": "37 By a letter dated 7 February 2003, the Director advised Dr Saint that the Committee did not intend to examine any MBS item 35 services.",
+      "id": "s120"
+    },
+    {
+      "text": "38 Further, in that letter the Director said that the Committee had to date employed sampling methodology in accordance with the Health Insurance (Professional Services Review --- Sampling Methodology) Determination 2000 (No 1).",
+      "id": "s121"
+    },
+    {
+      "text": "He said that if the Committee was to employ the sampling methodology in the determination it would require the Committee to examine a further 47 MBS item 36 services to obtain the final random sample.",
+      "id": "s122"
+    },
+    {
+      "text": "This was likely to require at least two further hearing days and additional medical records would need to be produced.",
+      "id": "s123"
+    },
+    {
+      "text": "The letter went on to say:\n However, under section 106K(4) of the Act, the Committee is permitted to use a different sampling methodology, provided it is certified as statistically valid by a statistician accredited by the Statistical Society of Australia.",
+      "id": "s124"
+    },
+    {
+      "text": "Having regard to the time and cost implications for all concerned of continuing with the standard methodology outlined above, the Committee is considering an alternative whereby no further services would be examined but instead the confidence interval is recalculated for the existing results.",
+      "id": "s125"
+    },
+    {
+      "text": "39 The letter also stated that Professor Des Nicholls of the Australian National University had in other cases certified an alternative approach, and it continued:\n The Committee accordingly intends to ask Professor Nicholls whether in this case it would be statistically valid to base its findings on the 38 MBS Item 36 services already examined, without examining further services.",
+      "id": "s126"
+    },
+    {
+      "text": "However, before writing to Professor Nicholls, the Committee would like to know whether you have any comments on the proposal that the Committee concludes its sampling at this point and makes its findings on the 38 MBS Item 36 services already examined.",
+      "id": "s127"
+    },
+    {
+      "text": "This means there would be no need to produce additional records and possibly attend two further sittings for the Committee to examine an additional 47 services.",
+      "id": "s128"
+    },
+    {
+      "text": "The Committee would instead commence its draft report.",
+      "id": "s129"
+    },
+    {
+      "text": "I remind you also, that you will be given a separate opportunity to make further general submissions to the Committee in writing before it starts its draft report.",
+      "id": "s130"
+    },
+    {
+      "text": "You will also be given a copy of the draft report and you will have the opportunity to make further written submissions suggesting changes to it.",
+      "id": "s131"
+    },
+    {
+      "text": "40 Dr Saint did not respond to the invitation to comment which was contained in the letter.",
+      "id": "s132"
+    },
+    {
+      "text": "41 By an email dated 21 March 2003, the Secretary of the Committee wrote to Professor Nicholls in asking for his opinion as had been foreshadowed in the letter to Dr Saint referred to in [39] above.",
+      "id": "s133"
+    },
+    {
+      "text": "42 By a letter dated 21 March 2003, Professor Nicholls replied and stated:\n Re: Professional Services Review Committee 204 I have reviewed the approach outlined in your e-mail attachment dated 21 March 2003 and note the following: \n \n &#8226; The Committee has employed the statistical sampling methodology authorised under section 106K of the Health Insurance Act 1973 and described in the Health Insurance (Professional Services Review-Sampling Methodology) Determination 2000 (No 1).",
+      "id": "s134"
+    },
+    {
+      "text": "&#8226; From the class size of 932 services a random sample of 38 services have been examined and the Committee considers 14 of these unacceptable which is 36% (rounded down) of the sample.",
+      "id": "s135"
+    },
+    {
+      "text": "&#8226; If no further services are examined, applying appropriate statistical techniques it can be shown that we can be 95% confident that the true percentage of inappropriate practice lies between 36% +/- 16%, that is the lower 95% confident limit is 20%.",
+      "id": "s136"
+    },
+    {
+      "text": "This value (20%) is to be chosen as the level of inappropriate practice (rather than 36%), not 21% as you have indicated (the difference being as a result of appropriate rounding to benefit the person under review).",
+      "id": "s137"
+    },
+    {
+      "text": "&#8226; In accordance with the methodology in the Determination, a further 47 services would need to be examined.",
+      "id": "s138"
+    },
+    {
+      "text": "Had a further 47 randomly selected services been examined, the percentage of inappropriate practice based on the sample of 85 would have been expected to be 36% (rounded down) so that the final percentage of inappropriate practice would have been 26% (36%-10%).",
+      "id": "s139"
+    },
+    {
+      "text": "By choosing the smaller sample of 38 rather than 85, half the width of the 95% confidence interval has increased from 10% to 16%.",
+      "id": "s140"
+    },
+    {
+      "text": "Since the lower confident limit is chosen as the percentage of inappropriate practice the person being reviewed will benefit from the approach based on the smaller sample.",
+      "id": "s141"
+    },
+    {
+      "text": "In conclusion, \n \n &#8226; it is statistically valid to accept the conclusion based on the sample of 38 services that the level of inappropriate practice will be determined as 20%, and\n &#8226; stopping the sampling process after considering 38 services will not (statistically) disadvantage the person under review.",
+      "id": "s142"
+    },
+    {
+      "text": "I confirm that I am a statistician accredited by the Statistical Society of Australia Inc, as required under subsection 106K(4) of the Act.",
+      "id": "s143"
+    },
+    {
+      "text": "If you have any further queries relating to this matter please don't hesitate to contact me.",
+      "id": "s144"
+    },
+    {
+      "text": "43 The Committee did not conduct any further hearings and proceeded to prepare a draft report on the basis of the sample it had examined.",
+      "id": "s145"
+    },
+    {
+      "text": "44 Under cover of a letter dated 14 October 2003, Ms Kaylene Horler, the Secretary of the Committee, forwarded to Dr Saint a copy of the draft report of the Committee.",
+      "id": "s146"
+    },
+    {
+      "text": "The draft report stated that the Committee proposed to find that, in rendering services to 14 identified patients, Dr Saint had engaged in inappropriate practice.",
+      "id": "s147"
+    },
+    {
+      "text": "The letter invited Dr Saint to provide, within 21 days, written submissions suggesting changes to be made to the draft report.",
+      "id": "s148"
+    },
+    {
+      "text": "Dr Saint responded to the invitation by making detailed submissions in respect of the draft report.",
+      "id": "s149"
+    },
+    {
+      "text": "45 On 7 June 2004, the Committee made its final report.",
+      "id": "s150"
+    },
+    {
+      "text": "A copy of this report was forwarded to Dr Saint under cover of a letter dated 8 June 2004 from Ms Horler.",
+      "id": "s151"
+    },
+    {
+      "text": "As previously mentioned, it found that Dr Saint had engaged in inappropriate practice.",
+      "id": "s152"
+    },
+    {
+      "text": "Constitutional Challenge by Dr Saint \n \n46 Dr Saint's first broad ground of challenge was that ss 10, 20, 20A and Pt VAA of the Act, alternatively ss 82, 86, 93 and ss 106B, 106G, 106H, 106K, 106KA, 106L and 106U of the Act, are invalid.",
+      "id": "s153"
+    },
+    {
+      "text": "Further or alternatively, it was claimed that s 106U of the Act purported to confer the judicial power of the Commonwealth on persons who had not been appointed under s 72 of the Constitution and was invalid.",
+      "id": "s154"
+    },
+    {
+      "text": "47 There was no argument advanced at the hearing in support of this ground of challenge.",
+      "id": "s155"
+    },
+    {
+      "text": "Dr Saint said that there were two cases which were then pending on appeal before the Full Court which had raised the same grounds of challenge as relied on by Dr Saint.",
+      "id": "s156"
+    },
+    {
+      "text": "These cases were Selim v Lele [2006] FCA 126 ; (2006) 150 FCR 83 and Dimian and Wong v The Commonwealth of Australia , an application which was remitted to the Federal Court by the High Court.",
+      "id": "s157"
+    },
+    {
+      "text": "48 The parties reserved their respective positions until the outcome in these two cases.",
+      "id": "s158"
+    },
+    {
+      "text": "Accordingly, the only evidence advanced and contentions made at the trial by each party related to the second ground of challenge relied on by Dr Saint, namely, judicial review.",
+      "id": "s159"
+    },
+    {
+      "text": "At the end of the argument on the judicial review ground of challenge, I adjourned the hearing to a date to be fixed so as to accommodate the position that the parties may wish to make submissions in relation to the constitutional challenge after the Full Court had handed down its decision.",
+      "id": "s160"
+    },
+    {
+      "text": "49 The Full Court delivered its decision in Selim v Lele [2008] FCAFC 13 on 27 February 2008 dismissing the constitutional challenges.",
+      "id": "s161"
+    },
+    {
+      "text": "Both parties advised my Associate that they did not wish to make any further submissions in relation to that ground of challenge.",
+      "id": "s162"
+    },
+    {
+      "text": "Following receipt of this information, I then formally reserved my decision on 28 March 2008.",
+      "id": "s163"
+    },
+    {
+      "text": "50 Following the decision of the Full Court, I dismiss the claims for the declarations sought by Dr Saint based on the constitutional challenge pleaded at [ 70] to [98 ] of the further re-amended statement of claim.",
+      "id": "s164"
+    },
+    {
+      "text": "The evidence \n \n51 Dr Saint read a number of affidavits.",
+      "id": "s165"
+    },
+    {
+      "text": "His main affidavit was sworn on 21 April 2006 and his second affidavit was sworn on 26 May 2006.",
+      "id": "s166"
+    },
+    {
+      "text": "Dr Saint also relied upon two affidavits of Dr John Henstridge sworn on 23 June 2006 and 5 December 2006 respectively.",
+      "id": "s167"
+    },
+    {
+      "text": "In addition, Dr Saint gave short oral evidence.",
+      "id": "s168"
+    },
+    {
+      "text": "He was not cross-examined.",
+      "id": "s169"
+    },
+    {
+      "text": "52 The first affidavit of Dr Saint comprised 509 paragraphs and 174 pages.",
+      "id": "s170"
+    },
+    {
+      "text": "There were 166 annexures.",
+      "id": "s171"
+    },
+    {
+      "text": "There were two annexures to Dr Saint's second affidavit.",
+      "id": "s172"
+    },
+    {
+      "text": "Among the annexures to the affidavits was correspondence between Dr Saint and officers of the Committee responsible for processing applications made under the Freedom of Information Act 1982 (Cth) (the FOI Act).",
+      "id": "s173"
+    },
+    {
+      "text": "Dr Saint made a number of requests under the FOI Act and the correspondence annexed to his affidavit included schedules of documents compiled by officers of the Committee in response to his FOI requests disclosing a list of the communications which had occurred between the Secretary and other officers of the Committee and the second third and fourth respondents before and after the hearing in November 2001.",
+      "id": "s174"
+    },
+    {
+      "text": "Dr Saint relied upon one of these schedules [annexure WJS 157] in his written submissions in reply, in support of his contention that the Committee acted unlawfully by not meeting to consider its final report and other procedural steps leading up to the making of the final report.",
+      "id": "s175"
+    },
+    {
+      "text": "[See [135]-[140] below].",
+      "id": "s176"
+    },
+    {
+      "text": "In addition to the schedules, the annexures to the affidavits also included copies of letters between the Secretary of the Committee and the members of the Committee and drafts of the draft report and the final report of the Committee.",
+      "id": "s177"
+    },
+    {
+      "text": "Thus, Dr Saint's second affidavit annexed a copy of a draft of the draft report of the Committee and a covering letter from Ms Horler dated 1 September 2003 addressed to each of the third respondent and the fourth respondent.",
+      "id": "s178"
+    },
+    {
+      "text": "There was also annexed to that affidavit a copy of a draft of the final report of the Committee.",
+      "id": "s179"
+    },
+    {
+      "text": "There were also documents which Dr Saint had prepared which contained information obtained from his FOI requests, disclosing the process whereby the Committee had reached its decision.",
+      "id": "s180"
+    },
+    {
+      "text": "Annexure WJS154 to Dr Saint's first affidavit is an example of this kind of document.",
+      "id": "s181"
+    },
+    {
+      "text": "53 Counsel for the respondents objected to the admissibility of a large number of the paragraphs in the affidavits of Dr Saint on the grounds of going mainly to relevance, comment and the argumentative nature of the material.",
+      "id": "s182"
+    },
+    {
+      "text": "Further, counsel objected to the tender of any evidence which exposed or purported to expose the decision making process of the Committee, for the purpose of impugning the decision of the Committee.",
+      "id": "s183"
+    },
+    {
+      "text": "This objection was based on the principle of judicial immunity.",
+      "id": "s184"
+    },
+    {
+      "text": "The parties accepted that the hearing should proceed and that I would rule on the challenges to the admissibility of the evidence in my reasons.",
+      "id": "s185"
+    },
+    {
+      "text": "54 I deal first with the objections to Dr Saint's evidence on the grounds of other than judicial immunity.",
+      "id": "s186"
+    },
+    {
+      "text": "As a general rule, new evidence is not permissible on the hearing of an application for judicial review.",
+      "id": "s187"
+    },
+    {
+      "text": "The evidence which will be admissible is that which is necessary in order to make good a contention that raises a relevant question of law.",
+      "id": "s188"
+    },
+    {
+      "text": "Much of the affidavit of Dr Saint did not observe these rules of evidence, addressing many issues going to the merits of the decision or containing comment, contentions and arguments.",
+      "id": "s189"
+    },
+    {
+      "text": "Senior counsel for Dr Saint accepted that paragraphs 89 to 381 and 389 to 480 of Dr Saint's affidavit were inadmissible on this ground.",
+      "id": "s190"
+    },
+    {
+      "text": "However, it was accepted that the documents referred to as annexures in those paragraphs could be tendered only in so far as they comprised documents that were before the Committee or contained extracts of the transcript of the Committee's hearing.",
+      "id": "s191"
+    },
+    {
+      "text": "The remainder of my rulings are set out in the schedule to these reasons.",
+      "id": "s192"
+    },
+    {
+      "text": "In my ruling in the schedule, I refer to some objections as having been \"conceded\".",
+      "id": "s193"
+    },
+    {
+      "text": "I have included under that category any response by the applicant to an objection, in the terms that the document is \"read as a submission only\".",
+      "id": "s194"
+    },
+    {
+      "text": "I reject the application to read those documents as a submission.",
+      "id": "s195"
+    },
+    {
+      "text": "55 Counsel for the respondents also submitted that evidence such as the communications between Ms Horler, the Secretary of the Committee, and the members of the Committee about drafting the reports, drafts of the reports and documents prepared by Dr Saint derived from these documents, was inadmissible because it was advanced to show the means whereby the Committee made its decision, with a view to impugning of the lawfulness of the decision of the Committee.",
+      "id": "s196"
+    },
+    {
+      "text": "The respondents contended that each of the members of the Committee enjoys judicial immunity by reason of s 106F(1) of the Act.",
+      "id": "s197"
+    },
+    {
+      "text": "This section provides that each member of the Committee has, in the performance of his or her duties, the same protection and immunity as a Justice of the High Court.",
+      "id": "s198"
+    },
+    {
+      "text": "It follows, said the respondents, that it is not open to the applicant to seek to advance evidence of the means whereby the Committee members came to their decision, because the immunity is an absolute immunity and if the Committee members had to answer allegations about how they came to their decision, they would lose the immunity.",
+      "id": "s199"
+    },
+    {
+      "text": "Dr Saint argued that the judicial immunity would only preclude from admission into evidence documents or other evidence which exposes the actual thought processes of the Committee.",
+      "id": "s200"
+    },
+    {
+      "text": "56 In the case of Herijanto v Refugee Review Tribunal [2000] HCA 49 ; (2000) 170 ALR 379 , Gaudron J held that the entire general protection and immunity of a Justice of the High Court is conferred on a member of the Refugee Review Tribunal by s 435(1) of the Migration Act 1959 (Cth).",
+      "id": "s201"
+    },
+    {
+      "text": "This immunity was described by Gaudron J at 383 as:\n ...immunity from disclosing any aspect of the decision-making process.",
+      "id": "s202"
+    },
+    {
+      "text": "57 In Herijanto v Refugee Review Tribunal (No 2) [2000] HCA 21 ; (2000) 170 ALR 575 ( Herijanto (No 2) ), the plaintiffs in that case were seeking to undermine a statement made by the Tribunal in its reasons for rejecting a visa application, that it had considered certain specified documents stored in a computer database before making a decision.",
+      "id": "s203"
+    },
+    {
+      "text": "Gaudron J refused to permit discovery of records which would indicate access by members of the Tribunal to the Tribunal's database at 577, at [9]-[10]:\n So far as the plaintiffs seek discovery to ascertain whether the individual members concerned with their review applications gained access to the Pt B documents stored in computer databases, they seek to achieve indirectly what they cannot achieve directly by means of interrogatories.",
+      "id": "s204"
+    },
+    {
+      "text": "The protection afforded to individual members of the tribunal by s 435(1) of the Act would be illusory if, although they could not be compelled to disclose their decision-making processes, those processes could be revealed by analysis of computer records.",
+      "id": "s205"
+    },
+    {
+      "text": "In my view, the protection and privilege conferred by s 435(1) of the Act extends not merely to disclosure by the individual member concerned, but the revelation, by whatever means, of any aspect of his or her decision-making process.",
+      "id": "s206"
+    },
+    {
+      "text": "This seems to have been the basis for the decision in Zanatta v McCleary.",
+      "id": "s207"
+    },
+    {
+      "text": "In that case the evidence of counsel was not admissible to prove an out of court statement by a judge as to his decision-making process.",
+      "id": "s208"
+    },
+    {
+      "text": "And it may also be the rationale for the decision of the Privy Council in Ramlochan v R in which it was held that a defendant in criminal proceedings was not entitled to production of the notes of the judge who presided at a his previous trial.",
+      "id": "s209"
+    },
+    {
+      "text": "(Emphasis added.",
+      "id": "s210"
+    },
+    {
+      "text": "Footnotes omitted.",
+      "id": "s211"
+    },
+    {
+      "text": ") \n58 In my view, evidence which exposes or purports to expose the means whereby the Committee came to its decision, is inadmissible for the purpose of impugning the decision of the Committee.",
+      "id": "s212"
+    },
+    {
+      "text": "This is because if evidence was admitted for that purpose the absolute immunity of the Committee from having to answer as to how they came to their decision, would be lost.",
+      "id": "s213"
+    },
+    {
+      "text": "I do not accept that the preclusion is limited to the class of evidence contended for by Dr Saint.",
+      "id": "s214"
+    },
+    {
+      "text": "Such a limitation is inconsistent with the width of the preclusion described by Gaudron J as \"any aspect\" of the decision-making process.",
+      "id": "s215"
+    },
+    {
+      "text": "Further, it is significant that in Herijanto (No 2) the plaintiffs were not seeking access to documents and information disclosing the thought processes of the Tribunal, but discovery of the documents which the Tribunal had accessed before making its decision.",
+      "id": "s216"
+    },
+    {
+      "text": "Gaudron J refused discovery on the basis that the preclusion extended to \"any aspect\" of the decision making process.",
+      "id": "s217"
+    },
+    {
+      "text": "59 It follows that I do not accept into evidence any of the documents including the documents compiled by Dr Saint from the derived information or any other evidence, on which Dr Saint sought to rely to expose the process whereby the Committee made its decision, for the purpose of impugning the Committee's decision on the grounds referred to in [129]to [140] below.",
+      "id": "s218"
+    },
+    {
+      "text": "60 As will be apparent from these reasons, the expert evidence of Dr Henstridge, Professor Nicholls and Mr Clark did not loom large in the resolution of the contentions made before the court.",
+      "id": "s219"
+    },
+    {
+      "text": "However, notwithstanding this fact, and that the evidence did contain matters which did not go to the issues in contention between the parties, I will, nevertheless, admit the evidence in the affidavits of Dr Henstridge, Professor Nicholls and Mr Clark, reserving the question of the weight to be placed on that evidence.",
+      "id": "s220"
+    },
+    {
+      "text": "The Investigative Referral \n Procedural unfairness \n \n61 Dr Saint's first contention in relation to the making of investigative referral is that he was denied procedural fairness.",
+      "id": "s221"
+    },
+    {
+      "text": "62 Dr Saint contended that the Commission had represented that, before making an investigative referral, a medical practitioner would be counselled and given an opportunity to make adjustments to his practice to accommodate the concerns of the Commission.",
+      "id": "s222"
+    },
+    {
+      "text": "Dr Saint contended that this did not occur in his case and there was procedural unfairness because he was not given the opportunity to make submissions as to why the Commission should give effect to its representation and this failure by the Commission resulted in practical unfairness.",
+      "id": "s223"
+    },
+    {
+      "text": "63 In support of this claim, Dr Saint referred to the following matters.",
+      "id": "s224"
+    },
+    {
+      "text": "64 First, Dr Saint said that in the newsletter referred to in [9] above the Commission represented that, before making an investigative referral, it would, by counselling, warn a medical practitioner about its concerns, advise him or her of the risk of not adjusting his or her practice to accommodate those concerns, and give him or her an opportunity to make appropriate adjustments.",
+      "id": "s225"
+    },
+    {
+      "text": "Dr Saint also sought to characterise the statement in the newsletter as the publication by the Commission of a procedure, and he founded an alternative challenge on the basis that the Commission had not followed a published procedure.",
+      "id": "s226"
+    },
+    {
+      "text": "65 Secondly , Dr Saint said that at the interview with Dr Laundy on 18 January 2000, Dr Laundy told him that the Commission was not asking him to cut back his services.",
+      "id": "s227"
+    },
+    {
+      "text": "66 Thirdly, Dr Saint said that the letter from Mr Garrity dated 23 March 2000 set out at [15] above was a representation that the Commission would make a decision whether to make a investigative referral after reviewing his practice statistics for the second quarter of 2000.",
+      "id": "s228"
+    },
+    {
+      "text": "67 Dr Saint contended that the Commission did not give effect to its representation, because he was not given an opportunity to make changes to his practice to accommodate the concerns of the Commission, before the investigative referral was made.",
+      "id": "s229"
+    },
+    {
+      "text": "This was because, said Dr Saint, the Commission had regard to his statistics for the first quarter of 2000 in assessing whether to make an investigative referral, notwithstanding that at the interview in January 2000 Dr Laundy had said that the Commission was not asking him to cut back his services, and Mr Garrity had said in his letter of 23 March 2000 that the Commission would review his statistics for the second quarter of 2000 for the purposes of determining whether to make an investigative referral.",
+      "id": "s230"
+    },
+    {
+      "text": "68 In my view, Dr Saint was counselled and given an opportunity to make improvements to his practice before the Commission decided to make the investigative referral.",
+      "id": "s231"
+    },
+    {
+      "text": "The relevant counselling occurred at the meeting with Dr Laundy on 18 January 2000 and the Commission allowed Dr Saint until the end of March 2000 to demonstrate that he had made changes to his practice to meet the concerns expressed by at the meeting.",
+      "id": "s232"
+    },
+    {
+      "text": "69 It is apparent from that record of interview of 18 January 2000 that Dr Laundy outlined to Dr Saint that the Commission was concerned that the high level of services he was providing may mean that he was engaging in inappropriate practice.",
+      "id": "s233"
+    },
+    {
+      "text": "The record of interview does record, as contended by Dr Saint, that Dr Laundy said that the Commission was not asking Dr Saint to reduce his services.",
+      "id": "s234"
+    },
+    {
+      "text": "However, it is also apparent, from the context in which Dr Laundy made that remark, that Dr Laundy was not thereby indicating that Dr Saint was at liberty to continue providing services at that level without the risk that his conduct would be referred to the Director and then to the Committee.",
+      "id": "s235"
+    },
+    {
+      "text": "The meaning of Dr Laundy's comment was that the high level of services carried with it a risk that he may be found to be engaging in inappropriate practice, but any finding that Dr Saint had engaged in inappropriate practice was a matter to be assessed by the Committee and not the Commission; and that the response made by Dr Saint to the expression of the Commission's concern, was a matter for Dr Saint and not the Commission.",
+      "id": "s236"
+    },
+    {
+      "text": "70 Accordingly, in my view, the Commission complied with representation referred to in the newsletter, and, to the extent that the newsletter prescribed a procedure, the procedure so prescribed.",
+      "id": "s237"
+    },
+    {
+      "text": "71 In any event, even if the decision to make an investigative referral by reference to Dr Saint's statistics for the first quarter of 2000 was a departure by the Commission from the representation or procedure, there was, in my view, no failure to accord procedural fairness.",
+      "id": "s238"
+    },
+    {
+      "text": "This is because Dr Saint did not suffer any practical unfairness by being denied an opportunity to make submissions as to why the effect should be given to the representation or procedure.",
+      "id": "s239"
+    },
+    {
+      "text": "72 In Re Minister for Immigration and Multicultural and Indigenous Affairs; Ex parte Lam [2003] HCA 6 ; (2003) 214 CLR 1 Gleeson CJ said at 9:\n The applicant rests his case upon the proposition that, if an administrative decision-maker states to a person affected an intention to take a certain procedural step, and fails to do so without warning the person affected of the change of intention, then the result is procedural unfairness warranting certiorari and prohibition.",
+      "id": "s240"
+    },
+    {
+      "text": "Such a proposition is far too broad.",
+      "id": "s241"
+    },
+    {
+      "text": "There are undoubtedly circumstances in which the failure of an administrative decision-maker to adhere to a statement of intention as to the procedure to be followed will result in unfairness and will justify judicial intervention to quash the decision; but for the present applicant to succeed it would be necessary to conclude that such a result will follow in all circumstances.",
+      "id": "s242"
+    },
+    {
+      "text": "That cannot be correct.",
+      "id": "s243"
+    },
+    {
+      "text": "To begin with, it overlooks the discretionary nature of the remedies of certiorari and prohibition.",
+      "id": "s244"
+    },
+    {
+      "text": "73 At 14, Gleeson CJ observed:\n Fairness is not an abstract concept.",
+      "id": "s245"
+    },
+    {
+      "text": "It is essentially practical.",
+      "id": "s246"
+    },
+    {
+      "text": "Whether one talks in terms of procedural fairness or natural justice, the concern of the law is to avoid practical injustice.",
+      "id": "s247"
+    },
+    {
+      "text": "No practical injustice has been shown.",
+      "id": "s248"
+    },
+    {
+      "text": "The applicant lost no opportunity to advance his case.",
+      "id": "s249"
+    },
+    {
+      "text": "He did not rely to his disadvantage on the statement of intention.",
+      "id": "s250"
+    },
+    {
+      "text": "It has not been shown that there was procedural unfairness.",
+      "id": "s251"
+    },
+    {
+      "text": "And, as I have already indicated, there is no warrant for a conclusion that there was a failure properly to take into account the interests of the applicant's children.",
+      "id": "s252"
+    },
+    {
+      "text": "74 Dr Saint said that the departure from the presentation or procedure without having an opportunity to make submissions, led to practical unfairness in three respects.",
+      "id": "s253"
+    },
+    {
+      "text": "75 First, it was said that the investigative referral was made on the basis that he had been given an opportunity to improve after counselling, when this was not the case.",
+      "id": "s254"
+    },
+    {
+      "text": "It was Dr Saint's submission that the warning and accompanying opportunity to improve was only provided in Mr Garrity's letter of 23 March 2000.",
+      "id": "s255"
+    },
+    {
+      "text": "It followed that, if effect had been given to the Commission's representation, the Commission should have reviewed his statistics for the period 23 March 2000 to 30 June 2000 - and not for the first quarter of 2000, which was the period reviewed by the Commission.",
+      "id": "s256"
+    },
+    {
+      "text": "76 The evidence does not support a finding that Dr Saint suffered any practical unfairness from the failure of the Commission to make an assessment by reference to Dr Saint's statistics for the period 23 March 2000 to 30 June 2000.",
+      "id": "s257"
+    },
+    {
+      "text": "Significantly, Dr Saint did not depose that in reliance on the 23 March 2000 letter from Mr Garrity, he had substantially changed his pattern of delivering services during the second quarter of 2000 in an effort to satisfy the concerns of the Commission.",
+      "id": "s258"
+    },
+    {
+      "text": "Further, there is no reference to Mr Garrity's letter of 23 March 2000 in the submissions which Dr Saint made to the Director in September 2000 to persuade him to dismiss the investigative referral.",
+      "id": "s259"
+    },
+    {
+      "text": "Nor is there any reference in those submissions to having made adjustments to his practice during the second quarter of 2000 in an attempt to meet the concerns of the Commission.",
+      "id": "s260"
+    },
+    {
+      "text": "Had Dr Saint, in reliance upon Mr Garrity's letter, substantially changed his pattern of delivering services during the second quarter of 2000, one would have expected that he would have referred, in those submissions, to Mr Garrity's letter and the adjustments which he made to his practice consequent upon Mr Garrity's letter.",
+      "id": "s261"
+    },
+    {
+      "text": "77 It follows that even though the letter of 23 March 2000 by Mr Garrity was ambiguous and could be construed in the way Dr Saint contended in this case, the ambiguity of the letter led to no unfairness in respect of Dr Saint.",
+      "id": "s262"
+    },
+    {
+      "text": "78 Secondly, Dr Saint said he also suffered practical unfairness in not being able to make submissions to the delegate of the Commission because the investigative referral was made on the basis that he had been the subject of \"multiple\" or \"repeated\" counselling, when, as he recorded in his submissions to the Director, he had only been counselled twice --- namely, 29 October 1996 and 18 January 2000.",
+      "id": "s263"
+    },
+    {
+      "text": "79 In my view, Dr Saint suffered no practical unfairness by being deprived of the opportunity to point this out to the delegate of the Commission.",
+      "id": "s264"
+    },
+    {
+      "text": "The Commission's representation in the newsletter only referred to one counselling occasion and an opportunity to improve.",
+      "id": "s265"
+    },
+    {
+      "text": "Dr Saint accepted in his submissions to the Director (which were sent about a month after the Commission had made the investigative referral) that each of the interviews of 18 January 2000 and 29 October 1996 was a counselling occasion.",
+      "id": "s266"
+    },
+    {
+      "text": "80 In any event, the delegate had before her the interview reports of each of the three meetings which Dr Saint had with Dr Hertnon and Dr Laundy.",
+      "id": "s267"
+    },
+    {
+      "text": "It was, therefore, open to the delegate to make her own characterisation of the content of the meetings which Dr Saint had with the Commission officers.",
+      "id": "s268"
+    },
+    {
+      "text": "81 Thirdly, in the course of oral submissions Dr Saint said that the practical unfairness arose because at the time that he made his submissions to the Director, Dr Saint did not know that the delegate of the Commission had based her referral on his statistics for the period January to March 2000 figures and not on his statistics for the second quarter of 2000.",
+      "id": "s269"
+    },
+    {
+      "text": "I do not accept that submission.",
+      "id": "s270"
+    },
+    {
+      "text": "First, there was no evidence from Dr Saint that he held that belief when he made his submissions to the Director.",
+      "id": "s271"
+    },
+    {
+      "text": "Secondly, it is apparent from a perusal of Table 5 of the investigative referral that the Commission had reviewed statistics only for the first quarter of 2000 and not for the second quarter of 2000.",
+      "id": "s272"
+    },
+    {
+      "text": "Further, and significantly, Dr Saint, in his submissions in September 2000 to the Director, specifically referred to the statistics in that Table and expressly referred to the statistics for the \"first quarter of 2000\" when he compared those statistics with the statistics of \"the last two quarters of 1999\".",
+      "id": "s273"
+    },
+    {
+      "text": "[See [26] above].",
+      "id": "s274"
+    },
+    {
+      "text": "I infer, therefore, that in commenting in that fashion upon the statistics in Table 5, Dr Saint closely perused the Table and appreciated that the period covered by the statistics figures ended in with the statistics for the first quarter of 2000.",
+      "id": "s275"
+    },
+    {
+      "text": "82 For those reasons, in my view, Dr Saint suffered no practical unfairness, even if (contrary to my finding), by making an investigative referral on the basis of an assessment of Dr Saint's statistics for the first quarter of 2000, there was a departure by the Commission from its representation or procedure, in circumstances where Dr Saint was not given the opportunity to make submissions.",
+      "id": "s276"
+    },
+    {
+      "text": "Failure to take Dr Saint's explanation into account \n \n83 Next, Dr Saint contended that in making the investigative referral Dr Mould, the delegate of the Commission, had improperly exercised power, because she failed to take into account Dr Saint's explanation for his level of servicing.",
+      "id": "s277"
+    },
+    {
+      "text": "84 Dr Saint said that he gave an explanation for his high levels of servicing during his discussions with Dr Laundy on 18 January 2000.",
+      "id": "s278"
+    },
+    {
+      "text": "However, Dr Saint said, the delegate's reasons refer only to an explanation for the high level of services \"having been sought\" in the interview of 18 January 2000, and the reasons make no reference to the content of Dr Saint's explanation.",
+      "id": "s279"
+    },
+    {
+      "text": "It should be inferred, therefore, said Dr Saint, that his explanation was in fact not considered by the delegate of the Commission.",
+      "id": "s280"
+    },
+    {
+      "text": "Further, Dr Saint said that Dr Mould's reasons did not manifest a \"proper, genuine and realistic consideration\" of Dr Saint's explanation for the high level of servicing.",
+      "id": "s281"
+    },
+    {
+      "text": "85 Dr Saint relied on the following observations of the Full Court in the case of Kelly v Daniel (2004) 134 FCR 64 at 80, at [82]:\n The Commission is obliged to take into account any explanation offered by the practitioner for what may be a temporary, and perhaps understandable breach of the [80/20 rule].",
+      "id": "s282"
+    },
+    {
+      "text": "86 Dr Saint contended that although the 80/20 rule referred to in the observations in Kelly was not applicable in this case, the referral was based upon statistics reflecting a high level of servicing by Dr Saint.",
+      "id": "s283"
+    },
+    {
+      "text": "Therefore, said Dr Saint, the observations were equally applicable to his circumstances.",
+      "id": "s284"
+    },
+    {
+      "text": "87 In the case of Carrick v Health Insurance Commission [2007] FCA 984 Branson J considered the ambit of the proposition for which Kelly v Daniels was authority, and observed at [34]:\n I accept for present purposes that Kelly v Daniel 134 FCR 64 is authority for the proposition that, in making a decision under s 86(1), the Commission is bound to take into account the consideration, where applicable, that the conduct of the person under review has already been considered by the Commission and a decision communicated to the person that the conduct will not be further investigated.",
+      "id": "s285"
+    },
+    {
+      "text": "88 Branson J went on to observe at [35] that any other factors the Commission was bound to take into account in making a decision under s 86(1) were to be determined as a matter of statutory construction.",
+      "id": "s286"
+    },
+    {
+      "text": "Her Honour observed that as the Act did not expressly identify the considerations to be taken into account they may be implied from the subject-matter, scope and purpose of the Act.",
+      "id": "s287"
+    },
+    {
+      "text": "89 I find it unnecessary to determine whether the Commission is required to take into account any statements made by a medical practitioner in an attempt to explain the level of services over the period in question, because I am satisfied that the delegate was aware of and took into account those statements.",
+      "id": "s288"
+    },
+    {
+      "text": "90 In her reasons for the investigative referral, the delegate referred to the 18 January 2000 meeting between Dr Saint and Dr Laundy, and referred specifically to the fact that an explanation had been sought from Dr Saint.",
+      "id": "s289"
+    },
+    {
+      "text": "Dr Mould also referred to the fact that the record of interview of that meeting was an annexure to the referral.",
+      "id": "s290"
+    },
+    {
+      "text": "Dr Mould also included in the annexure to the investigative referral, the correspondence between Dr Saint and the Commission which ensued subsequent to his meeting with Dr Laundy.",
+      "id": "s291"
+    },
+    {
+      "text": "Among that correspondence was Dr Saint's letter of 5 February 2000 which expands upon the explanation given by Dr Saint at the meeting for his high levels of servicing.",
+      "id": "s292"
+    },
+    {
+      "text": "I infer from those facts (in particular, the inclusion as an annexure to the referral, Dr Saint's letter which expanded on Dr Saint's explanation given at the meeting) that the delegate was aware of, and took into account, the content of that material.",
+      "id": "s293"
+    },
+    {
+      "text": "91 I do not accept the contention of Dr Saint that in order for the delegate to comply with her statutory obligation it was necessary for her reasons to manifest a \"proper, genuine and realistic consideration\" of Dr Saint's explanation made to Dr Laundy.",
+      "id": "s294"
+    },
+    {
+      "text": "The following observations of Lander J in the case of Oreb v Willcock [2005] FCAFC 196 ; (2005) 146 FCR 237 at [99] - [103] are germane to this contention of Dr Saint:\n The appellant contended that there were three matters not taken into account by the Commission in making its investigative referral to the Director.",
+      "id": "s295"
+    },
+    {
+      "text": "First, the fact that the appellant had been counselled by the Commission's medical adviser in September 2000.",
+      "id": "s296"
+    },
+    {
+      "text": "Second, the fact that the appellant had been counselled by the Director in December 2000.",
+      "id": "s297"
+    },
+    {
+      "text": "Third, that he had restructured his practice and reduced his rate of servicing.",
+      "id": "s298"
+    },
+    {
+      "text": "In putting that submission, the appellant argued that the reasons given for the investigative referral, and in particular in para (c) of that referral, do not disclose that the Commission had regard to those three matters.",
+      "id": "s299"
+    },
+    {
+      "text": "In my opinion, the absence of a mention of those three matters in the reasons does not mean that the Commission did not have regard to those matters.",
+      "id": "s300"
+    },
+    {
+      "text": "The reasons which must be given by the Commission under s 86(4)(b) are \"the reasons why the Commission considers the person under review may have engaged in inappropriate practice\".",
+      "id": "s301"
+    },
+    {
+      "text": "The Commission does not have to give reasons why it has decided to make an investigative referral but only the reasons why it considers the practitioner may have engaged in inappropriate practice.",
+      "id": "s302"
+    },
+    {
+      "text": "The purpose of the Commission's reasons is to identify the matters into which the Director needs to inquire.",
+      "id": "s303"
+    },
+    {
+      "text": "In my opinion, the reasons which were advanced by the Commission were appropriate having regard to the reasons which the Commission had to give.",
+      "id": "s304"
+    },
+    {
+      "text": "In those circumstances, the appellant cannot, in my opinion, rely upon the Commission's failure to mention the three matters to which the appellant referred for arguing that the Commission failed to have regard to them.",
+      "id": "s305"
+    },
+    {
+      "text": "92 I, accordingly, reject the contention of Dr Saint that the delegate improperly exercised power by failing to take into account the explanation of Dr Saint.",
+      "id": "s306"
+    },
+    {
+      "text": "Acting on evidence which was not of sufficient cogency \n \n93 Dr Saint then contended that the scheme created by Pt VAA of the Act involved disciplinary proceedings, and therefore the Commission, in making the investigative referral, was required to act on adequate evidence of sufficient cogency to justify it \"being comfortably satisfied\" in respect of the decision to be made.",
+      "id": "s307"
+    },
+    {
+      "text": "Dr Saint relied upon the case of Greyhound Racing Authority (NSW) v Bragg [2003] NSWCA 388 ( Bragg) .",
+      "id": "s308"
+    },
+    {
+      "text": "Dr Saint went on to say that the delegate of the Commission took into account material which did not meet these requirements of adequacy and cogency and was, therefore, extraneous to the exercise of that power.",
+      "id": "s309"
+    },
+    {
+      "text": "These matters were inaccurate statistics and the number of times Dr Saint had been counselled.",
+      "id": "s310"
+    },
+    {
+      "text": "94 In Bragg, Mr Bragg, a greyhound trainer, had faced disciplinary proceedings before the Regulatory Committee of the Greyhound Racing Authority (NSW) and, on appeal, the Greyhound Racing Appeals Tribunal.",
+      "id": "s311"
+    },
+    {
+      "text": "It was the function of each of the Regulatory Committee and the Tribunal to make factual findings in respect of the charge against Mr Bragg, which was the serious charge of bribery.",
+      "id": "s312"
+    },
+    {
+      "text": "The Regulatory Committee had imposed a penalty of 10 years disqualification and 10 penalty fine on Mr Bragg.",
+      "id": "s313"
+    },
+    {
+      "text": "The Tribunal dismissed an appeal from the decision of the Regulatory Committee.",
+      "id": "s314"
+    },
+    {
+      "text": "Mr Bragg challenged these decisions in the New South Wales Supreme Court by way of judicial review.",
+      "id": "s315"
+    },
+    {
+      "text": "He was successful at first instance.",
+      "id": "s316"
+    },
+    {
+      "text": "The Greyhound Racing Authority (NSW) appealed.",
+      "id": "s317"
+    },
+    {
+      "text": "95 At [74] Santow JA observed that the Tribunal in that case had to act on:\n [A]dequate evidence, informally obtained as it might be, of sufficient cogency to justify the Tribunal being comfortably satisfied in relation to the serious charge before it, with its grave consequences.",
+      "id": "s318"
+    },
+    {
+      "text": "96 Dr Saint contended that these observations also applied to the Commission when deciding to make an investigative referral.",
+      "id": "s319"
+    },
+    {
+      "text": "97 The function of the Tribunal in Bragg was to make factual findings in relation to a charge made against Mr Bragg of serious misconduct, and, if warranted, to impose penalties.",
+      "id": "s320"
+    },
+    {
+      "text": "By contrast, the function of the Commission at the stage of making an investigative referral is confined to posing a question for investigation.",
+      "id": "s321"
+    },
+    {
+      "text": "Its function does not even include formulating a charge, much less making findings of fact in respect of a charge, as the Tribunal was required to do in Bragg .",
+      "id": "s322"
+    },
+    {
+      "text": "In the case of Health Insurance Commission v Grey [2002] FCAFC 130 ; (2002) 120 FCR 470 ( Grey ), the Full Court observed at 506, at [181]-[182]:\n In this regard, it is significant, we think, that at the stage of the making of a referral of conduct, the Act in s 86 speaks in the language of posing a question: \n \n The Commission may...refer...the conduct...relating to... the question ...whether the person has engaged in inappropriate practice in connection with rendering of services.",
+      "id": "s323"
+    },
+    {
+      "text": "The statutory ingredients are thus clearly stated: what is referred, for inquiry is the question whether, by conduct in connection with rendering certain services, a person has engaged in \"inappropriate practice\".",
+      "id": "s324"
+    },
+    {
+      "text": "At this initiating stage, the whole matter rests in inquiry rather than charge.",
+      "id": "s325"
+    },
+    {
+      "text": "A charge may never eventuate.",
+      "id": "s326"
+    },
+    {
+      "text": "For one thing, the Director's initial capacity to dismiss may be invoked (ss 89(1)(a) and 93(a)).",
+      "id": "s327"
+    },
+    {
+      "text": "98 It follows that the policy considerations which underlie the observations by Santow JA in favour of a modified Brigginshaw principle, in respect of fact finding by the Greyhound Racing Appeals Tribunal, have no application to the Commission in making an investigative referral.",
+      "id": "s328"
+    },
+    {
+      "text": "The Bragg case is distinguishable.",
+      "id": "s329"
+    },
+    {
+      "text": "99 It follows that I reject Dr Saint's challenge made on this ground.",
+      "id": "s330"
+    },
+    {
+      "text": "The conduct referred was \"unspecified and unlimited\" \n \n100 It was next contended that the investigative referral was invalid or defective because the conduct referred to was \"unspecified and unlimited\".",
+      "id": "s331"
+    },
+    {
+      "text": "The investigative referral identified the referred services as follows:\n Pursuant to subsection 87(1) of the Act, this investigative referral relates to services rendered and initiated by Dr Warren John Saint that were rendered and initiated during the 2 year period immediately preceding the date of this investigative referral and are: \n \n (i) all services provided within a specified location...[which location was identified]; \n \n \n \n \n \n \n \n (ii) all services provided within a specified period, namely on and from 1 January 1999 to and including 31 December 1999.",
+      "id": "s332"
+    },
+    {
+      "text": "The attached material is provided for information only and is not intended in any way to limit the conduct referred.",
+      "id": "s333"
+    },
+    {
+      "text": "(italics added).",
+      "id": "s334"
+    },
+    {
+      "text": "101 Mr Saint contended that the sentence in the investigative referral which is italicised above, is in the same terms as the sentence which was impugned in the Pradhan case and which led to the investigative referral in that case being declared invalid.",
+      "id": "s335"
+    },
+    {
+      "text": "102 Dr Saint recognized that since Pradhan there have been observations made by the Full Court in the case of Grey and in the case of Freeman v Health Insurance Commission [2004] FCAFC 335 ; (2004) 141 FCR 129 ( Freeman ) to the effect that the presence of the impugned sentence in an investigative referral did not lead to the investigative referral and subsequent process being invalid.",
+      "id": "s336"
+    },
+    {
+      "text": "However, Dr Saint contended that those decisions were made without the benefit of the decision in SAAP v Minister for Immigration and Multicultural and Indigenous Affairs [2005] HCA 24 ; (2005) 228 CLR 294 ( SAAP ).",
+      "id": "s337"
+    },
+    {
+      "text": "Dr Saint also said that the Full Court observations in Grey and Freeman were obiter.",
+      "id": "s338"
+    },
+    {
+      "text": "103 In Grey at 505 at [179] the Full Court, in considering the consequence of the inclusion of the impugned sentence in the investigative referral in that case, referred to the test in Project Blue Sky Inc v Australian Broadcasting Authority [1998] HCA 29 ; (1998) 194 CLR 355 ( Project Blue Sky ) and observed:\n When, as here, the Court is considering the effect of legislative provisions, having as its object the protection of the public, a holding of nullification of the whole process from its beginning for purely formal reasons would occasion public inconvenience, a consequence which the Parliament would be unlikely to intend.",
+      "id": "s339"
+    },
+    {
+      "text": "To this extent, we cannot, with respect, accept the general approach taken by Finn J in Pradhan.",
+      "id": "s340"
+    },
+    {
+      "text": "104 In Freeman , Kiefel J (with whom Marshall J agreed) identified several grounds for distinguishing the decision in Pradhan .",
+      "id": "s341"
+    },
+    {
+      "text": "One ground was that the language of the investigative referral in Freeman was more specific than in Pradhan.",
+      "id": "s342"
+    },
+    {
+      "text": "105 Secondly, and more relevantly for this case, Kiefel J (with whom Marshall J agreed) observed at 142, at [41]-[42]:\n There is substance to the respondents' submissions that the statement is directed to the Director's powers of inquiry.",
+      "id": "s343"
+    },
+    {
+      "text": "In particular s 89(1) of the Act enables the Director to consider services not referred to in the Commission's reasons, when determining whether a Committee could reasonably find that there has been inappropriate practice.",
+      "id": "s344"
+    },
+    {
+      "text": "The Director may identify other relevant conduct by reference to the services and the focus of the inquiry might shift.",
+      "id": "s345"
+    },
+    {
+      "text": "The nature of the Director's inquiry may extend beyond the matters referred to in the Commission's reasons.",
+      "id": "s346"
+    },
+    {
+      "text": "There is however no denial of procedural fairness were the Director to identify other conduct as relevant.",
+      "id": "s347"
+    },
+    {
+      "text": "The Director's report is required to identify that conduct to the person under review: see ss 93(6) and 94(3).",
+      "id": "s348"
+    },
+    {
+      "text": "The ability of the Director to consider conduct other than that specified by the Commission and its relevance to the meaning of the statement were not considered in Pradhan v Holmes.",
+      "id": "s349"
+    },
+    {
+      "text": "Understood in the context of the Act, the statement did no more than remind the Director of the extent of his powers of inquiry.",
+      "id": "s350"
+    },
+    {
+      "text": "It follows, in my respectful view, that the construction given by his Honour to the statement should not be applied.",
+      "id": "s351"
+    },
+    {
+      "text": "106 Thirdly, Kiefel J (with whom Marshall J agreed) adopted the observations of the Full Court in Grey referred to in [ 103 ] above and Downes J, the third member of the Full Court, also approved those observations.",
+      "id": "s352"
+    },
+    {
+      "text": "107 In SAAP , the High Court held that the failure of the Refugee Review Tribunal to comply with the procedure prescribed in s 424A of the Migration Act invalidated the decision of that Tribunal.",
+      "id": "s353"
+    },
+    {
+      "text": "Dr Saint contended that the reasoning in that case applied equally to this case, such that a contravention to s 86(1) of the Act no matter in what form it occurred, invalidated the investigative referral, and the whole of the subsequent process.",
+      "id": "s354"
+    },
+    {
+      "text": "108 I do not accept Dr Saint's contention that the observations in Grey at [103] above which were followed in Freeman , are undermined by the subsequent High Court decision in SAAP .",
+      "id": "s355"
+    },
+    {
+      "text": "The observations of the High Court in SAAP comprise an instance of the application of the principle in Project Blue Sky to the contravention of s 424A of the Migration Act.",
+      "id": "s356"
+    },
+    {
+      "text": "The case of SAAP considers legislative intention in relation to the consequences of non-compliance with a different process enacted under a different Act.",
+      "id": "s357"
+    },
+    {
+      "text": "By contrast, the Full Court in Grey applied the Project Blue Sky principles of statutory construction, to the same infringement of the same Act as is relied upon by Dr Saint in this case, and concluded that the defect, even if it is regarded as such, did not have an invalidating effect upon the statutory process.",
+      "id": "s358"
+    },
+    {
+      "text": "The SAAP case is distinguishable.",
+      "id": "s359"
+    },
+    {
+      "text": "109 In my view, I am not justified in declining to apply the observations of two Full Courts, (as Dr Saint would have me do), whether they are obiter or not.",
+      "id": "s360"
+    },
+    {
+      "text": "110 Further, and in any event, in my view, Dr Saint's challenge on this ground also fails for the reasons referred to by Kiefel J (with whom Marshall J agreed) in Freeman referred to at [105] above.",
+      "id": "s361"
+    },
+    {
+      "text": "The Adjudicative Referral \n No procedural fairness \n \n111 Dr Saint also impugned the decision of the Director to make the adjudicative referral.",
+      "id": "s362"
+    },
+    {
+      "text": "112 Dr Saint contended that the power of the Director to make an adjudicative referral under s 93 was subject to the power to dismiss conferred by s 91 of the Act.",
+      "id": "s363"
+    },
+    {
+      "text": "Dr Saint contended that the Director's consideration of whether to exercise his powers under s 91 of the Act was infected by a failure to accord procedural fairness, alternatively failure to observe mandatory procedures in the making of the investigative referral.",
+      "id": "s364"
+    },
+    {
+      "text": "This, so it was contended, meant that Dr Saint was unable to make meaningful submissions to the Director in the exercise of his right under s 91 of the Act.",
+      "id": "s365"
+    },
+    {
+      "text": "113 It was said that the reasons for the investigative referral stated that after counselling the Commission had reviewed Dr Saint's practice statistics and that the Commission had determined that there had \"been insufficient change to remove the overall concerns expressed above\".",
+      "id": "s366"
+    },
+    {
+      "text": "It is submitted that Dr Saint erroneously understood that this statement indicated that Dr Mould had considered the Dr Saint's statistics for the three months following 23 March 2000.",
+      "id": "s367"
+    },
+    {
+      "text": "114 As I have already found, the evidence does not support that submission.",
+      "id": "s368"
+    },
+    {
+      "text": "First, there was no evidence from Dr Saint that at the time of making his submissions to the Director he believed that Dr Mould had considered the statistics for the period from 23 March 2000 to 30 June 2000.",
+      "id": "s369"
+    },
+    {
+      "text": "In fact, there is no reference in Dr Saint's affidavit evidence to him having ever made the submissions to the Director.",
+      "id": "s370"
+    },
+    {
+      "text": "The submissions of September 2000 were tendered during the oral evidence given by Dr Saint at the trial.",
+      "id": "s371"
+    },
+    {
+      "text": "115 Secondly, as I have also already found, Table 5 of the report which was part of the investigative referral identified the statistics that were reviewed by the Commission.",
+      "id": "s372"
+    },
+    {
+      "text": "There is no reference in those statistics to the statistics for the second quarter of 2000 -the statistics reviewed end at the first quarter of 2000.",
+      "id": "s373"
+    },
+    {
+      "text": "As previously mentioned, Dr Saint commented specifically on Table 5 in his submissions.",
+      "id": "s374"
+    },
+    {
+      "text": "116 It was also contended that Dr Saint's ability to comment in a meaningful way was also affected by the fact that the statistics ruled on by the Commission were unreliable and inaccurate.",
+      "id": "s375"
+    },
+    {
+      "text": "I reject this contention.",
+      "id": "s376"
+    },
+    {
+      "text": "In his submission to the Director, Dr Saint referred specifically to certain inaccuracies in the figures.",
+      "id": "s377"
+    },
+    {
+      "text": "He also dealt with the question of the number of times he had been counselled.",
+      "id": "s378"
+    },
+    {
+      "text": "Findings made for which there was no evidence \n \n117 Dr Saint next contended that the Director's decision to make an adjudicative referral under s 93 of the Act was based on findings regarding clinically inappropriate use of drugs for which there was no evidence.",
+      "id": "s379"
+    },
+    {
+      "text": "118 In support of this contention, Dr Saint said that the Director had relied upon reports of investigations undertaken by Dr Christine Davidson, for the purposes of discharging his statutory duty of investigation under s 89(1) and that Dr Davidson's reports formed the basis for his opinion under s 93.",
+      "id": "s380"
+    },
+    {
+      "text": "Dr Saint went on to contend that that Dr Davidson did not identify in her reports any evidence of inappropriate drug prescription by Dr Saint in relation to MBS item 35 and MBS item 36, whereas the Director had referred to inappropriate drug prescription in relation to MBS item 35 and MBS item 36 services.",
+      "id": "s381"
+    },
+    {
+      "text": "It followed, said Dr Saint, that the Court should infer that there was no evidence for the Director's findings in relation to drug prescription by Dr Saint and/or those findings involved extreme irrationality or logicality.",
+      "id": "s382"
+    },
+    {
+      "text": "119 In my view, Dr Saint's contention is not to be accepted.",
+      "id": "s383"
+    },
+    {
+      "text": "120 As mentioned in [30] above, the Director's report to referred to four aspects of Dr Saint's practice to which the Committee should have regard when considering whether his conduct in connection with rendering MBS item 35 and 36 services may have constituted engaging in inappropriate practice.",
+      "id": "s384"
+    },
+    {
+      "text": "The third aspect was \"prescribing drugs in the absence of accepted medical indications\".",
+      "id": "s385"
+    },
+    {
+      "text": "121 It is the case that the Director received reports of the investigations made by Dr Davidson in relation to the investigative referral.",
+      "id": "s386"
+    },
+    {
+      "text": "However, in his report, the Director expressly states that he has examined Dr Saint's clinical notes.",
+      "id": "s387"
+    },
+    {
+      "text": "The Director's report included the following observations in respect of Dr Saint's drug prescription:\n (a) First, the Director, at paragraph 6 of his report, stated that the pharmaceutical benefits prescribing data in the investigative referral, indicated that Dr Saint prescribed a wide range of drugs at greater than the 75th percentile.",
+      "id": "s388"
+    },
+    {
+      "text": "The Director made reference to the range of the drugs and stated that most notable were injectable vitamin B12 and iron, soluble asprin, pethidine and antibiotics.",
+      "id": "s389"
+    },
+    {
+      "text": "The Director then said: \"The wide range of drugs prescribed at greater than the 75th percentile suggested that the issuing of a prescription was the most common means of closing a consultation.",
+      "id": "s390"
+    },
+    {
+      "text": "This means of closing a consultation may be associated with rapid throughput, symptom oriented medical practice.",
+      "id": "s391"
+    },
+    {
+      "text": "\" (b) As to MBS Item 36: \"There were some indications of apparently clinically inappropriate use of antibiotics or other drugs....Morphine appeared to be used for migraine and antibiotics appeared to be used routinely for upper respiratory tract infections... .",
+      "id": "s392"
+    },
+    {
+      "text": "The management plans appeared to be mostly confined to drugs.",
+      "id": "s393"
+    },
+    {
+      "text": "\" (c) As to MBS Item 35: \"Again there were some suggestions that drugs were not always prescribed for clinically acceptable reasons or in accordance with accepted medical practice.",
+      "id": "s394"
+    },
+    {
+      "text": "\" \n122 Dr Saint relied on s 5(1)(h) and (3) of the ADJR Act in support of this \"no evidence\" ground of review.",
+      "id": "s395"
+    },
+    {
+      "text": "It has been held that those provisions of the ADJR do not apply to the expression of opinion ( Australian Retailers Association v Reserve Bank of Australia [2005] FCA 1707 ; (2005) 148 FCR 446 at 588).",
+      "id": "s396"
+    },
+    {
+      "text": "123 The Act did not require that the Director make any findings of fact, in relation to making the adjudicative referral.",
+      "id": "s397"
+    },
+    {
+      "text": "Section 91 of the Act provides that the enquiry which the Director must make is whether there are sufficient grounds on which the Committee \"could reasonably find that the person under review has engaged in inappropriate practice.",
+      "id": "s398"
+    },
+    {
+      "text": "\" Section 93(6) provides that in his report to the Committee, the Director must give reasons why the Director \"thinks that conduct by the person under review....may have constituted engaging in inappropriate practice.",
+      "id": "s399"
+    },
+    {
+      "text": "\"\n \n124 The impugned observations of the Director's are not stated as facts which have been found.",
+      "id": "s400"
+    },
+    {
+      "text": "The Director's observations are couched in language of opinion as to findings that may be open to the Committee.",
+      "id": "s401"
+    },
+    {
+      "text": "For example, the Director refers to \"indications of apparently clinically inappropriate use of antibiotics or other drugs\" and \"some suggestions that drugs were not always prescribed for clinically acceptable reasons or in accordance with accepted medical practice\".",
+      "id": "s402"
+    },
+    {
+      "text": "The Director's observations are, in my view, the expression of professional opinion based on what he said he had examined, namely, the pharmaceutical benefits prescribing data recorded in the investigative referral, Dr Saint's clinical notes and the reports of Dr Davidson.",
+      "id": "s403"
+    },
+    {
+      "text": "It follows that I reject the \"no evidence\" ground of review relied upon by Dr Saint.",
+      "id": "s404"
+    },
+    {
+      "text": "125 Dr Saint also contended that findings of the Director involved extreme irrationality or illogicality.",
+      "id": "s405"
+    },
+    {
+      "text": "As previously mentioned, there is reference in the Director's report to having examined the pharmaceutical benefits prescribing data in the investigative referral which recorded that Dr Saint prescribed a wide range of drugs at greater than the 75 th percentile.",
+      "id": "s406"
+    },
+    {
+      "text": "Further, the Director stated that he had examined the clinical notes of Dr Saint.",
+      "id": "s407"
+    },
+    {
+      "text": "There is, in my view, no basis for concluding that the views expressed by the Director were irrational or illogical.",
+      "id": "s408"
+    },
+    {
+      "text": "I do not, therefore, accept the contention of Dr Saint.",
+      "id": "s409"
+    },
+    {
+      "text": "126 Dr Saint also submitted that he relied on the accuracy of the Director's reasons to prepare his defence at the hearing before the Committee and this led to him being denied procedural fairness before the Committee.",
+      "id": "s410"
+    },
+    {
+      "text": "Neither in his oral nor his written submissions did Dr Saint refer to any passages in his evidence which identified the part of the Director's report he relied upon in the preparation of his defence.",
+      "id": "s411"
+    },
+    {
+      "text": "Nor was any reference made as to how he was prejudiced in that regard.",
+      "id": "s412"
+    },
+    {
+      "text": "Accordingly, I reject that ground of review.",
+      "id": "s413"
+    },
+    {
+      "text": "127 In any event, the question of whether a party has been denied procedural fairness must be assessed by reference to the whole process ( Phan v Kelly (2007) 158 FCR 75) ( Phan ).",
+      "id": "s414"
+    },
+    {
+      "text": "The evidence discloses that Dr Saint had legal representation at the hearing before the Committee, that he was provided with a draft report by the Committee which clearly identified the issues in respect of which he was at risk of an adverse finding and that he made very extensive submissions in response to the draft report.",
+      "id": "s415"
+    },
+    {
+      "text": "The Committee's report \n \n128 Dr Saint also impugned the process and decision of the Committee.",
+      "id": "s416"
+    },
+    {
+      "text": "The decision of the Committee was infected by matters outside the scope of the adjudicative referral \n \n129 Dr Saint contended that the Committee had allowed matters outside the scope of the adjudicative referral to infect its findings in the final report.",
+      "id": "s417"
+    },
+    {
+      "text": "130 Dr Saint contended that the Committee had no power to have regard to the time that Dr Saint had spent in consultation with patients, because the adjudicative referral had not referred the question of whether Dr Saint had applied the correct MBS descriptor to the services he provided.",
+      "id": "s418"
+    },
+    {
+      "text": "However, said Dr Saint, the Committee had inquired into these matters and it should be inferred that the Committee has allowed these matters \"to infect its final decision\".",
+      "id": "s419"
+    },
+    {
+      "text": "The relevance of the issue arises because MBS item 36 prescribes a consultation period of at least 20 minutes.",
+      "id": "s420"
+    },
+    {
+      "text": "131 In support of this contention, Dr Saint sought to rely upon statements made by Dr Ruse, the content of the draft report which contained references to the time taken by Dr Saint in consultations with patients, and the content of the final report, which did not contain those references.",
+      "id": "s421"
+    },
+    {
+      "text": "Dr Saint also relied upon evidence of the communications that took place between Ms Horler and members of the Committee before the preparation of the final report.",
+      "id": "s422"
+    },
+    {
+      "text": "132 Dr Saint asked the Court to draw an inference from this evidence that despite the final report making no reference to the time Dr Saint had spent in consultation with patients than this matter had \"infected\" the Committee's decision in its final report.",
+      "id": "s423"
+    },
+    {
+      "text": "133 I have already held at [59] above, that the evidence purporting to expose the manner in which the Committee reached its decision is inadmissible for the purpose of impugning the decision.",
+      "id": "s424"
+    },
+    {
+      "text": "In the absence of that evidence, there is no basis for drawing the inference contended for by Dr Saint.",
+      "id": "s425"
+    },
+    {
+      "text": "In any event, even if that evidence had been admissible, I would not have found that the Committee's decision was based on any consideration, other than those expressed in its reasons.",
+      "id": "s426"
+    },
+    {
+      "text": "134 Accordingly, I do not accept Dr Saint's contention that the Committee had allowed matters outside the scope of the adjudicative referral to infect its final decision.",
+      "id": "s427"
+    },
+    {
+      "text": "The Committee did not meet \n \n135 Next, Dr Saint contended that the Committee failed to discharge its statutory function because it \"did not meet to:\n \n \n (a) discuss and form a final view on the services they examined at the hearing and about which they had concerns; \n \n \n \n (b) consider the draft report (which purported to be a unanimous report); \n \n \n \n (c) consider [Dr Saint's] submissions to the draft report; or \n \n \n \n (d) draft or consider the final report (which purported to be a unanimous report).",
+      "id": "s428"
+    },
+    {
+      "text": "\" \n \n \n136 In my view, the Act does not require the Committee to meet to perform the functions referred to by Dr Saint in the preceding paragraph.",
+      "id": "s429"
+    },
+    {
+      "text": "Section 160KD of the Act provides that the Committee \"prepare a written draft report\".",
+      "id": "s430"
+    },
+    {
+      "text": "Likewise, s 106L provides that after the expiry of the requisite period and after taking into account any submissions made in response to the draft report, the Committee must \"prepare a final report\".",
+      "id": "s431"
+    },
+    {
+      "text": "In neither of these sections is there any requirement that the Committee meet to prepare, or meet in relation to the preparation of, either of the reports.",
+      "id": "s432"
+    },
+    {
+      "text": "The Act does, however, deal with the convening of meetings.",
+      "id": "s433"
+    },
+    {
+      "text": "Section 97(1) of the Act requires that the chairperson must convene the first meeting of the Committee within 14 days after the appointment of the Committee members.",
+      "id": "s434"
+    },
+    {
+      "text": "The fact that the Act expressly identifies only one occasion when a meeting is required to be held, namely, the first meeting, but has not expressly provided for the holding of a meeting in relation to the preparation of either report, is indicative of a legislative intention that it is no absolute requirement for the Committee to meet to perform those functions.",
+      "id": "s435"
+    },
+    {
+      "text": "Whether meetings, other than the first meeting, are to be held depends on what is necessary for the efficient conduct of the affairs of the Committee (s 97(3)).",
+      "id": "s436"
+    },
+    {
+      "text": "By legislating for the preparation of the two reports as part of the function of the Committee, without also specifying that the Committee must meet in relation to the performance of this function, it is apparent that the legislature did not intend that the efficient conduct of the Committee's affairs mandated that the Committee meet to carry out this function.",
+      "id": "s437"
+    },
+    {
+      "text": "137 Further, Dr Saint relied upon the following observations of Fox J in Minister for Health v Thomson [1985] FCA 208 ; (1985) 8 FCR 213 at 217.",
+      "id": "s438"
+    },
+    {
+      "text": "It is not disputed that the Committee is one of experts.",
+      "id": "s439"
+    },
+    {
+      "text": "The Act requires that it comprise five medical practitioners.",
+      "id": "s440"
+    },
+    {
+      "text": "It seems reasonably clear that the intention of the Act is that the Committee sit as a Committee of the peers of the medical practitioner whose conduct is in question and exercise its own judgment in relation to the evidence before it, using its own collective knowledge in its evaluation.",
+      "id": "s441"
+    },
+    {
+      "text": "138 These observations are in general terms and in my view have no application to the point in issue.",
+      "id": "s442"
+    },
+    {
+      "text": "139 Accordingly, I dismiss this ground of review.",
+      "id": "s443"
+    },
+    {
+      "text": "140 I would, however, add that, in support of this ground of review, Dr Saint again sought to rely upon evidence seeking to expose the process whereby the Committee prepared its draft report and its final report.",
+      "id": "s444"
+    },
+    {
+      "text": "As previously mentioned, I have found that evidence is inadmissible for the purpose relied upon by Dr Saint.",
+      "id": "s445"
+    },
+    {
+      "text": "In the absence of that evidence there is no basis on which I could have drawn any inference that the Committee had not met for the purposes referred to by Dr Saint.",
+      "id": "s446"
+    },
+    {
+      "text": "The Committee did not apply the statutory record keeping test \n \n141 Dr Saint then contended that the Committee had applied the wrong test in assessing whether Dr Saint had maintained adequate and contemporaneous records because it had not applied the statutory test.",
+      "id": "s447"
+    },
+    {
+      "text": "142 The Committee in its final report found that the statutory definition of adequate record keeping in s 82(3) and s 81(1) of the Act as supplemented by the Health Insurance (Professional Services Review) Regulations 1999 ( Cth ) (the Regulations), did not apply to the conduct of Dr Saint under review.",
+      "id": "s448"
+    },
+    {
+      "text": "This was because, so the Committee said, the relevant legislative provisions only became effective on 1 November 1999, and the conduct under review predated those sections.",
+      "id": "s449"
+    },
+    {
+      "text": "The Committee went on to say:\n Although there was no obligation under the Act for Dr Saint to keep adequate medical records before this time, [the Committee] states that in keeping with the expectations of the general body of general practitioners, there was a professional necessity.",
+      "id": "s450"
+    },
+    {
+      "text": "The Committee considers that the subsequent introduction of this legislation essentially codified existing standards of the general body of practitioners.",
+      "id": "s451"
+    },
+    {
+      "text": "143 Dr Saint contended that the transitional provisions of the amending Act which introduced the record keeping provisions state that those record keeping provisions apply in respect of investigative referrals which were made after the effective date of the amending Act.",
+      "id": "s452"
+    },
+    {
+      "text": "In this case, the investigative referral was made after November 1999.",
+      "id": "s453"
+    },
+    {
+      "text": "Therefore, said Dr Saint, the Committee should have applied the statutory record keeping provisions.",
+      "id": "s454"
+    },
+    {
+      "text": "144 Dr Saint went on to say that, even if the Committee was right in finding that the record keeping provisions introduced with effect from 1 November 1999 did not apply to conduct engaged in before that date, some of Dr Saint's conduct which the Committee inquired into, post-dated 1 November 1999.",
+      "id": "s455"
+    },
+    {
+      "text": "So, even on the view taken by the Committee, the record keeping provisions of the Act and Regulations should have been applied by the Committee to that conduct.",
+      "id": "s456"
+    },
+    {
+      "text": "145 Section 82(3) of the Act provides:\n A Committee must, in determining whether a practitioner's conduct in connection with rendering or initiating services was inappropriate practice, have regard to (as well as to other relevant matters) whether or not the practitioner kept adequate and contemporaneous records of the rendering or initiation of the services.",
+      "id": "s457"
+    },
+    {
+      "text": "146 Section 81 is a definitions section in respect of Pt VAA of the Act - in respect of record keeping, it provides:\n adequate and contemporaneous records of the rendering or initiation of services means records that meet the standards prescribed by the regulations for the purposes of this definition.",
+      "id": "s458"
+    },
+    {
+      "text": "147 Regulation 5 of the Regulations provides:\n An adequate record For the definition of adequate and contemporaneous records in section 81 of the Act, the standard to be met in order that a record of service rendered or initiated be adequate is that: \n \n (a) the record clearly identify the name of the patient; and \n \n \n \n (b) the record contain a separate entry for each attendance by the patient for a service and the date on which the service was rendered or initiated; and \n \n \n \n (c) each entry provide clinical information adequate to explain the type of service rendered or initiated; and \n \n \n \n (d) each entry be sufficiently comprehensible that another practitioner, relying on the record, can effectively undertake the patient's ongoing care.",
+      "id": "s459"
+    },
+    {
+      "text": "148 Regulation 6 provides:\n A contemporaneous record For the definition of adequate and contemporaneous records in section 81 of the Act, the standard to be met in order that a record of a service rendered or initiated be contemporaneous, is that the record must be completed: \n \n (a) at the time the practitioner rendered or initiated the service; or \n \n \n \n (b) as soon as practicable after the service was rendered or initiated by the practitioner.",
+      "id": "s460"
+    },
+    {
+      "text": "149 At subparagraphs 38(c),(d) and (e) of the final report, the Committee said:\n (c) ...The Committee considers that adequate medical records are considered by the general body of general practitioners to be a significant component of the clinical input expected when using this item number and as such should be sufficient to facilitate the: &#8226; monitoring and modification of ongoing conditions; &#8226; recall of conditions, problems and treatment after any substantial period; and &#8226; enable another practitioner to assume care of the patient, if necessary.",
+      "id": "s461"
+    },
+    {
+      "text": "(d) In order to assess a patient's progress (or otherwise), the Committee considers a general practitioner would generally need to make a written record of: \n&#8226; the presenting complaint;\n \n&#8226; a relevant medical history;\n \n&#8226; an examination;\n \n&#8226; a differential diagnosis;\n \n&#8226; a management plan; and\n \n&#8226; an evaluation of the patient at each presentation.",
+      "id": "s462"
+    },
+    {
+      "text": "(e) The Committee considers that a clinical record would not be adequate unless it contained the elements outlined in points (c) and (d) above, and in its opinion, Dr Saint's records did not.",
+      "id": "s463"
+    },
+    {
+      "text": "150 In my view, even if the Committee erred in law in concluding that the record keeping provisions did not apply to the conduct referred to it in the adjudicative referral, the Committee, nevertheless, applied the standard articulated in the statutory provisions in assessing whether Dr Saint had kept adequate medical records.",
+      "id": "s464"
+    },
+    {
+      "text": "There was, therefore, no error of law in the application of the correct standard for record keeping.",
+      "id": "s465"
+    },
+    {
+      "text": "However, if I am wrong in this characterisation and there was such an error of law made by the Committee, the error made no difference to the outcome for Dr Saint because there was no material difference in the standards and, therefore, I would in the exercise of my discretion withhold relief in respect of that error ( VAAD v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2005] FCAFC 117).",
+      "id": "s466"
+    },
+    {
+      "text": "151 The standard of adequate record keeping referred to Regulation 5(c) is that the entry provides \"clinical information adequate to explain the type of service rendered or initiated\" (emphasis added).",
+      "id": "s467"
+    },
+    {
+      "text": "The standard referred to in Regulation 5(d) is that the entry be \" sufficiently comprehensible that another practitioner relying on the record, can effectively undertake the patient's ongoing case\" (emphasis added).",
+      "id": "s468"
+    },
+    {
+      "text": "152 The use of the language in the terms italicised manifests a parliamentary intention that the Committee is to determine the adequacy of records by reference to the standard of the general body of general practitioners.",
+      "id": "s469"
+    },
+    {
+      "text": "Thus, for example, Reg 5(d) requires that the Committee is to determine whether the record was adequate by reference to what the general body of general practitioners would regard as an entry that was \"sufficiently comprehensible\" to permit another practitioner relying on the record to effectively undertake the patient's ongoing care.",
+      "id": "s470"
+    },
+    {
+      "text": "The standard set out in subparas 38(c),(d) and (e) of its final report, by the Committee is the standard of the general body of general practitioners.",
+      "id": "s471"
+    },
+    {
+      "text": "Accordingly, when the Committee assessed the adequacy of Dr Saint's records, it assessed them by reference to the statutory standard described in the Act and Regulations, notwithstanding that it did not expressly recognize that it was doing so.",
+      "id": "s472"
+    },
+    {
+      "text": "153 It follows that I reject Dr Saint's challenge founded on this ground of review.",
+      "id": "s473"
+    },
+    {
+      "text": "The Committee confused inadequate record keeping with inadequate clinical input \n \n154 Next, Dr Saint contended that in making findings in relation to inadequate record keeping, the Committee failed to distinguish between failing to provide an adequate clinical input and failing to keep a record of such input as the practitioner did make.",
+      "id": "s474"
+    },
+    {
+      "text": "Thus, for example, it was contended that if the input was deficient then that might constitute failing to provide adequate clinical input, but failing to record what was not provided would not comprise failing to keep a proper record.",
+      "id": "s475"
+    },
+    {
+      "text": "155 The Committee found that in respect of all 14 services where in its opinion there was inappropriate practice, Dr Saint kept inadequate records.",
+      "id": "s476"
+    },
+    {
+      "text": "In respect of eight of those services, the Committee also found that Dr Saint had failed to provide an adequate clinical input.",
+      "id": "s477"
+    },
+    {
+      "text": "There were, therefore, six services in respect of which the Committee's finding of inappropriate practice was founded only on the basis of inadequate record keeping.",
+      "id": "s478"
+    },
+    {
+      "text": "These were services Nos 7, 16, 18, 21, 29 and 36.",
+      "id": "s479"
+    },
+    {
+      "text": "156 In my view, the Committee did not fall into the error which Dr Saint said that it did.",
+      "id": "s480"
+    },
+    {
+      "text": "157 I have reviewed each of the six services in respect of which the finding of inappropriate practice was based only on a finding of keeping inadequate records.",
+      "id": "s481"
+    },
+    {
+      "text": "I am satisfied that in making the findings the Committee was aware of, and applied, the distinction to which Dr Saint has referred.",
+      "id": "s482"
+    },
+    {
+      "text": "It is not necessary to refer to all of these services to demonstrate the Committee's appreciation of the distinction.",
+      "id": "s483"
+    },
+    {
+      "text": "It will suffice to illustrate the point that I refer to some of the findings in respect of these services, by way of example.",
+      "id": "s484"
+    },
+    {
+      "text": "Thus, in respect of patient No 7, the Committee said:\n This was a 91 year-old woman being treated with Coversal and Urex for heart failure.",
+      "id": "s485"
+    },
+    {
+      "text": "Dr Saint advised that the patient had told him her shortness of breath had been increasing over the previous few weeks and that she was having pain in her legs.",
+      "id": "s486"
+    },
+    {
+      "text": "These are important positive symptoms that were not recorded.",
+      "id": "s487"
+    },
+    {
+      "text": "158 By this finding, the Committee has demonstrated that the vice was Dr Saint's failure to record what he had been told by the patient.",
+      "id": "s488"
+    },
+    {
+      "text": "159 Further, in relation to the same service, by the Committee stated:\n The records kept for this consultation were inadequate.",
+      "id": "s489"
+    },
+    {
+      "text": "If Dr Saint did perform the examination which he stated he did, it was equally important to record the significant positives and negatives.",
+      "id": "s490"
+    },
+    {
+      "text": "160 In relation to patient 18, the Committee found that Dr Saint was aware that the patient had a carer, but found that Dr Saint had not recorded that fact in the Health Summary.",
+      "id": "s491"
+    },
+    {
+      "text": "The Committee found:\n This consultation was one in the sequence in which Dr Saint agreed he had tried to provide comprehensive care to a difficult patient.",
+      "id": "s492"
+    },
+    {
+      "text": "Such patients may need to be seen by another doctor at short notice and in conditions where a full and accurate history cannot be easily obtained.",
+      "id": "s493"
+    },
+    {
+      "text": "The fact that the necessity for a cross check with the carer was not recorded in the Health Summary and that he kept those important details in his head would be unacceptable to the general body of general practitioners.",
+      "id": "s494"
+    },
+    {
+      "text": "161 In relation to patient 21, the Committee notes:\n No record in the clinical notes of the quantum of increase in methadone dosage, which Dr Saint clearly recalls in his supplementary submission.",
+      "id": "s495"
+    },
+    {
+      "text": "162 Further, the Committee said:\n In his supplementary submission, Dr Saint transcribes his clinical notes as \"pt has need of review wt 74kg methadone 8/7/99-8/8/99...Hep C/HIV\".",
+      "id": "s496"
+    },
+    {
+      "text": "Dr Saint recalled but did not record that the patient was concerned about her skin.",
+      "id": "s497"
+    },
+    {
+      "text": "If he did perform an examination, it was not recorded.",
+      "id": "s498"
+    },
+    {
+      "text": "163 Accordingly, Dr Saint's contention is not accepted.",
+      "id": "s499"
+    },
+    {
+      "text": "Finding based solely on inadequate record keeping \n \n164 Dr Saint also contended that the findings of inappropriate practice were based on \"minor record keeping transgressions of the record keeping test it adopted\".",
+      "id": "s500"
+    },
+    {
+      "text": "It was said that the Committee's finding that inadequate record keeping alone was sufficient to amount to inappropriate practice, was contrary to s 82(3) of the Act.",
+      "id": "s501"
+    },
+    {
+      "text": "This was because that section required that the keeping of the practitioner's records was just a relevant matter that had to be considered in conjunction with other relevant matters.",
+      "id": "s502"
+    },
+    {
+      "text": "It could not by itself found a finding of inappropriate practice.",
+      "id": "s503"
+    },
+    {
+      "text": "165 In my view, the intention of s 82(3) of the Act is to emphasise, not diminish, the importance Parliament placed on the requirement that a medical practitioner keep adequate and contemporaneous records.",
+      "id": "s504"
+    },
+    {
+      "text": "The addition of the bracketed words \" (as well as to other relevant matters) \" in that section is not to be regarded as a requirement that a finding of inappropriate practice in respect of record keeping can only be made in conjunction with one or more other incidents of practice which would amount to inappropriate practice.",
+      "id": "s505"
+    },
+    {
+      "text": "The additional words are there to emphasise that record keeping is not the only matter to which the Committee should have regard in assessing inappropriate practice.",
+      "id": "s506"
+    },
+    {
+      "text": "Sampling \n \n166 Dr Saint also contended that the sampling methodology adopted by the Committee did not comply with the Act.",
+      "id": "s507"
+    },
+    {
+      "text": "No compliance with s 106K(4) of the Act \n \n167 First, it was contended that the departure by the Committee from the methodology which had been specified in the written determination made by the Minister pursuant to s 106K(3) had not been authorised.",
+      "id": "s508"
+    },
+    {
+      "text": "This is because the advice given by Professor Nicholls did not comprise advice of the nature contemplated by s 106K(4).",
+      "id": "s509"
+    },
+    {
+      "text": "168 Section 106K(4) of the Act provides:\n The Committee may use a sampling methodology that is not specified in such a determination if and only if the Committee has been advised by a statistician accredited by the Statistical Society of Australia Inc that the sampling methodology is statistically valid.",
+      "id": "s510"
+    },
+    {
+      "text": "169 Dr Saint contended that the advice provided by Dr Nicholls was not advice contemplated by the section because the letter was not addressed to the methodology as a whole; and that it was the \"conclusion\", as opposed to the methodology as a whole, which was certified as statistically valid.",
+      "id": "s511"
+    },
+    {
+      "text": "Dr Saint said that s 106K(4) should not be construed to permit the use of, what Dr Saint referred to as, \"ad hoc\" methodology or the \"salvaging\" of a partially completed sampling methodology set out in the Determination.",
+      "id": "s512"
+    },
+    {
+      "text": "170 In Phan , Professor Nicholls wrote in response whether it was unsafe for the committee to proceed with the proposed departure from the methodology in the Determination:\n Re: Request of 4 March 2004 From the information supplied I note: &#8226; From the 17,970 item 23 services a random sample of 84 services have been examined (with 4 services being disregarded due to no records).",
+      "id": "s513"
+    },
+    {
+      "text": "The Committee found that of the remaining 80 services, 69 or 86% (rounded down) were considered inappropriate.",
+      "id": "s514"
+    },
+    {
+      "text": "&#8226; Applying appropriate statistical techniques it can be shown that we can be 95% confident that the true percentage of inappropriate practice lies between 86% +/- 8%, that is the lower 95% confident limit is 78%.",
+      "id": "s515"
+    },
+    {
+      "text": "This value (78%) is to be chosen as the level of inappropriate practice (rather than 86%).",
+      "id": "s516"
+    },
+    {
+      "text": "In conclusion, it is statistically valid to accept the conclusion based on the sample of 80 item 23 services that the level of inappropriate practice will be determined as 78%.",
+      "id": "s517"
+    },
+    {
+      "text": "I confirm that I am a statistician accredited by the Statistical Society of Australia Inc. as required under subsection 106K(4) of the Act.",
+      "id": "s518"
+    },
+    {
+      "text": "171 There is, in my view, no relevant distinction between the nature of the certification given by Dr Nicholls in this case and that which he gave in relation to Phan .",
+      "id": "s519"
+    },
+    {
+      "text": "Further as he did, in Phan , Professor Nicholls stated in his report in this case, that the \"approach\" adopted by the Committee was statistically valid (Para 8 of Professor Nicholls' report dated 22 September 2006).",
+      "id": "s520"
+    },
+    {
+      "text": "172 Dr Phan made an argument as to the defective nature of Professor Nicholls' opinion on similar lines to that made by Dr Saint in this case.",
+      "id": "s521"
+    },
+    {
+      "text": "Tamberlin J recorded the argument of Dr Phan (which was based on the opinion of an expert witness) as follows at [56]:\n He refers to the fact that one course of sampling action had been taken and a second course was then adopted in the analysis of the results in order to salvage the incorrect implementation of the first.",
+      "id": "s522"
+    },
+    {
+      "text": "173 Tamberlin J rejected the argument at [57] he said:\n The principal difficulty with this challenge to the sampling process is that s 106K(4) of the Act specifically contemplates that the Committee can make use of an alternative sampling methodology to that prescribed in s 106K(3) if it has been advised by a statistician accredited by the Statistical Society of Australia Inc that the alternative sampling method is statically valid.",
+      "id": "s523"
+    },
+    {
+      "text": "Professor Nicholls' response to Ms Goodspeed's email dated 5 March 2004 clearly certifies that it was statistically valid for the Committee to accept the conclusion, based on a sample using 80 item 23 services, that the level of inappropriate practice would be determined at 78%.",
+      "id": "s524"
+    },
+    {
+      "text": "174 Tamberlin J was, accordingly, satisfied that the language Professor Nicholls used in his letter that it was \"statistically valid to adopt the conclusion\" based on the alternative methodology referred to in the letter, was sufficient compliance with s 106K(4) of the Act.",
+      "id": "s525"
+    },
+    {
+      "text": "175 Dr Saint also argued that the Determination is contained in a legislative instrument and this should be construed as indicative of a legislative intention to preclude the use of \"ad hoc\" methodologies which were not adopted before initial sampling was undertaken.",
+      "id": "s526"
+    },
+    {
+      "text": "I do not accept this submission because the legislature has by s 106K(4) expressly provided in the Act that there may be a departure from the Determination and there is nothing in s 106K(4) which places any limitation on the nature of the alternative sampling methodology that may be validated by the statistician, or at what stage it may be validated ( Phan at [58]).",
+      "id": "s527"
+    },
+    {
+      "text": "176 Accordingly, I will follow Phan and hold that a certification in the terms given by Professor Nicholls in this case fell with the ambit of s 106K(4) of the Act.",
+      "id": "s528"
+    },
+    {
+      "text": "No random sampling \n \n177 Further or alternatively, Dr Saint contended \"as in Mathews v HIC (2006) 90 ALD 49 ( Mathews ) the selection of the first services from the preliminary sample meant that those services were not randomly chosen from that preliminary sample\".",
+      "id": "s529"
+    },
+    {
+      "text": "It followed, said Dr Saint, that the final report was invalid.",
+      "id": "s530"
+    },
+    {
+      "text": "178 The Mathews' case is distinguishable.",
+      "id": "s531"
+    },
+    {
+      "text": "In Mathews , the Court was concerned with a different fact situation.",
+      "id": "s532"
+    },
+    {
+      "text": "In essence the Determination provides for a two stage process of producing the random sample of services which is examined by the Committee.",
+      "id": "s533"
+    },
+    {
+      "text": "The drawing of the sample known as the \"preliminary random sample\" is the first stage.",
+      "id": "s534"
+    },
+    {
+      "text": "The second is the drawing of the sample which is referred to as the \"exploratory sample\".",
+      "id": "s535"
+    },
+    {
+      "text": "This is a sample which is randomly drawn from the \"preliminary random sample\".",
+      "id": "s536"
+    },
+    {
+      "text": "179 In Mathews the Committee had examined the first 30 services on the list of the preliminary sample.",
+      "id": "s537"
+    },
+    {
+      "text": "Mr Clark deposed that he had examined the computer files relating to the drawing of the samples in Dr Saint's case which were stored on the Commission's computer and by reason of that examination was able to say that the Commission by the application of the computer program randomly selected the \"preliminary random sample\", then by the application of the computer program, randomly selected from that preliminary sample the \"exploratory random sample\" of the 40 services.",
+      "id": "s538"
+    },
+    {
+      "text": "180 In support of his contention, Dr Saint relied upon paragraph 7 of Dr Henstridge's affidavit of 5 December 2006.",
+      "id": "s539"
+    },
+    {
+      "text": "However, Dr Henstridge's evidence does not demonstrate that the sampling in Dr Saint's case exhibited the vice referred to in in Mathews .",
+      "id": "s540"
+    },
+    {
+      "text": "Nor does Dr Henstridge's evidence challenge the evidence of Mr Clark that the explanatory random sample was randomly selected in the manner described by Mr Clark.",
+      "id": "s541"
+    },
+    {
+      "text": "Dr Saint accepted that the question of how the explanatory sample was drawn was a factual question which turned on whether Mr Clark's evidence should be accepted.",
+      "id": "s542"
+    },
+    {
+      "text": "181 Dr Saint submitted, that I should not accept the evidence of Mr Clark because there is an insufficient foundation laid for his evidence that in this case, namely Dr Saint's case, the Committee examined an \"exploratory sample\" that had been randomly drawn by the application of the Commission's computer program from the \"preliminary sample\".",
+      "id": "s543"
+    },
+    {
+      "text": "I do not accept that submission.",
+      "id": "s544"
+    },
+    {
+      "text": "Mr Clark deposed that he went back to the file stored on the Commission's computer to examine how the sampling had occurred in relation to Dr Saint's case and that based on that examination, he expressed the view set out above.",
+      "id": "s545"
+    },
+    {
+      "text": "In my view, that evidence affords Mr Clark a sufficient basis upon which to express the view that he expressed.",
+      "id": "s546"
+    },
+    {
+      "text": "182 In my view, therefore, that the Mathews' case has no application to this case.",
+      "id": "s547"
+    },
+    {
+      "text": "It follows that I do not accept Dr Saint's contention.",
+      "id": "s548"
+    },
+    {
+      "text": "183 It follows that Dr Saint's application is dismissed.",
+      "id": "s549"
+    },
+    {
+      "text": "Rulings on objections to Dr Saint's affidavit of 2 April 2006.",
+      "id": "s550"
+    },
+    {
+      "text": "Paragraph Part objected to Finding 2 The whole Objection upheld - the terms of the conversation irrelevant.",
+      "id": "s551"
+    },
+    {
+      "text": "9 The second and third sentences Objection conceded.",
+      "id": "s552"
+    },
+    {
+      "text": "11 The first and third sentences Objection conceded.",
+      "id": "s553"
+    },
+    {
+      "text": "The second sentence Objection upheld.",
+      "id": "s554"
+    },
+    {
+      "text": "The record of the interview is in evidence.",
+      "id": "s555"
+    },
+    {
+      "text": "14 The third and fourth sentences Objection conceded.",
+      "id": "s556"
+    },
+    {
+      "text": "15 The first second and third sentences Objection conceded.",
+      "id": "s557"
+    },
+    {
+      "text": "The second sentence Objection upheld --- comment.",
+      "id": "s558"
+    },
+    {
+      "text": "16 The second sentence and WJS 7 Objection conceded.",
+      "id": "s559"
+    },
+    {
+      "text": "17 The second sentence Objection conceded.",
+      "id": "s560"
+    },
+    {
+      "text": "18 The first second and third sentences Objection conceded.",
+      "id": "s561"
+    },
+    {
+      "text": "The fourth and fifth sentences Objection upheld --- irrelevant.",
+      "id": "s562"
+    },
+    {
+      "text": "19 The whole Objection upheld- irrelevant, evidence of uncommunicated state of mind, comment.",
+      "id": "s563"
+    },
+    {
+      "text": "24 The whole Objection upheld --- argument.",
+      "id": "s564"
+    },
+    {
+      "text": "25 The whole Objection conceded.",
+      "id": "s565"
+    },
+    {
+      "text": "29 The words \"the Fifth Respondent was apparently satisfied with the reduction in my servicing levels\" Objection upheld --- comment.",
+      "id": "s566"
+    },
+    {
+      "text": "30 The whole Objection upheld --- argument.",
+      "id": "s567"
+    },
+    {
+      "text": "34 The first and second sentences Objection conceded.",
+      "id": "s568"
+    },
+    {
+      "text": "WJS 15 Objection upheld - documents irrelevant.",
+      "id": "s569"
+    },
+    {
+      "text": "35 The whole WJS 16 Objection upheld --- irrelevant, paragraph deals with the 80/20 rule which was not applied in this case, comment.",
+      "id": "s570"
+    },
+    {
+      "text": "36 The whole WJS 17 Objection upheld --- irrelevant.",
+      "id": "s571"
+    },
+    {
+      "text": "37 The paragraph commencing \"This appears to be an application...\" Objection upheld --- irrelevant as 80/20 rule not considered, comment.",
+      "id": "s572"
+    },
+    {
+      "text": "39 The whole Objection upheld - comment, argument.",
+      "id": "s573"
+    },
+    {
+      "text": "40 The whole Objection upheld - argument, evidence not before the Commission and includes information which post dates the decision of the Commission.",
+      "id": "s574"
+    },
+    {
+      "text": "41 Second sentence from the words \"I was alarmed...\" Objection conceded.",
+      "id": "s575"
+    },
+    {
+      "text": "42 The whole Objection upheld --- comment.",
+      "id": "s576"
+    },
+    {
+      "text": "43 First and second sentences Objection conceded.",
+      "id": "s577"
+    },
+    {
+      "text": "WJS 22 Objection dismissed - documents are relevant to contention by Dr Saint in respect of the exercise of powers by the Director.",
+      "id": "s578"
+    },
+    {
+      "text": "44 The whole and WJS 23 Objection conceded.",
+      "id": "s579"
+    },
+    {
+      "text": "45 The first sentence Objection conceded.",
+      "id": "s580"
+    },
+    {
+      "text": "The remainder of the paragraph Objection upheld --- comment.",
+      "id": "s581"
+    },
+    {
+      "text": "46,47 The whole Objection upheld - comment, argument.",
+      "id": "s582"
+    },
+    {
+      "text": "48 Sub paragraphs (2), (3) and (4) WJS 24 Objection upheld --- comment.",
+      "id": "s583"
+    },
+    {
+      "text": "Document not before the decision-maker.",
+      "id": "s584"
+    },
+    {
+      "text": "49 The whole Objection upheld - comment and irrelevant.",
+      "id": "s585"
+    },
+    {
+      "text": "50 The whole Objection upheld - the 80/20 rule was not relied upon.",
+      "id": "s586"
+    },
+    {
+      "text": "53 The sentence beginning \"I consider that...\" Objection upheld - comment 55 The whole Objection conceded 56 The whole Objection upheld - irrelevant, immunity.",
+      "id": "s587"
+    },
+    {
+      "text": "57 The whole Objection upheld - irrelevant, immunity.",
+      "id": "s588"
+    },
+    {
+      "text": "58 The whole WJS 30 (mistakenly referred to as WJS 31) Objection upheld - irrelevant, immunity.",
+      "id": "s589"
+    },
+    {
+      "text": "63 Second sentence Objection upheld --- comment.",
+      "id": "s590"
+    },
+    {
+      "text": "64 The last sentence Objection upheld --- comment.",
+      "id": "s591"
+    },
+    {
+      "text": "65 The whole Objection upheld --- comment.",
+      "id": "s592"
+    },
+    {
+      "text": "66 The whole Objection upheld --- comment.",
+      "id": "s593"
+    },
+    {
+      "text": "67 The whole Objection upheld - comment, argument.",
+      "id": "s594"
+    },
+    {
+      "text": "68 The whole Objection upheld --- comment.",
+      "id": "s595"
+    },
+    {
+      "text": "69 The whole Objection upheld --- comment.",
+      "id": "s596"
+    },
+    {
+      "text": "70 The whole WJS 34 Objection upheld --- immunity.",
+      "id": "s597"
+    },
+    {
+      "text": "71 The whole Objection upheld --- comment.",
+      "id": "s598"
+    },
+    {
+      "text": "72 The whole Objection upheld - comment, the uncommunicated subjective belief of Dr Saint is irrelevant.",
+      "id": "s599"
+    },
+    {
+      "text": "73 The whole Objection upheld --- comment.",
+      "id": "s600"
+    },
+    {
+      "text": "74 The whole Objection upheld --- Dr Saint's uncommunicated belief is irrelevant.",
+      "id": "s601"
+    },
+    {
+      "text": "75 The whole Objection upheld --- comment.",
+      "id": "s602"
+    },
+    {
+      "text": "76 The whole Objection upheld in respect of first sentence - comment.",
+      "id": "s603"
+    },
+    {
+      "text": "77 The whole Objection upheld in respect of first sentence - comment, uncommunicated understanding irrelevant.",
+      "id": "s604"
+    },
+    {
+      "text": "78 The whole Objection upheld - comment, argument.",
+      "id": "s605"
+    },
+    {
+      "text": "79 The whole Objection upheld - comment, argument.",
+      "id": "s606"
+    },
+    {
+      "text": "80 The whole Objection upheld - comment, argument.",
+      "id": "s607"
+    },
+    {
+      "text": "81 The whole Objection upheld --- comment.",
+      "id": "s608"
+    },
+    {
+      "text": "82 The whole Objection upheld --- comment.",
+      "id": "s609"
+    },
+    {
+      "text": "83 The whole Objection upheld --- comment.",
+      "id": "s610"
+    },
+    {
+      "text": "84 The whole Objection upheld --- comment.",
+      "id": "s611"
+    },
+    {
+      "text": "85 The whole Objection upheld --- argument.",
+      "id": "s612"
+    },
+    {
+      "text": "86 The whole Objection upheld --- argument.",
+      "id": "s613"
+    },
+    {
+      "text": "87 The whole Objection upheld --- argument.",
+      "id": "s614"
+    },
+    {
+      "text": "88 The whole Objection upheld --- argument.",
+      "id": "s615"
+    },
+    {
+      "text": "89 --- 381 The whole Objection conceded.",
+      "id": "s616"
+    },
+    {
+      "text": "Tender of annexures to these paragraphs accepted only in so far as they comprise documents that were before the Committee and do not fall within the ambit of the ruling on judicial immunity.",
+      "id": "s617"
+    },
+    {
+      "text": "385 The whole WJS 151 Objection conceded.",
+      "id": "s618"
+    },
+    {
+      "text": "386 The whole Objection conceded.",
+      "id": "s619"
+    },
+    {
+      "text": "387, 388 The whole Objection upheld --- immunity, irrelevant.",
+      "id": "s620"
+    },
+    {
+      "text": "389 - 480 The whole Objection conceded.",
+      "id": "s621"
+    },
+    {
+      "text": "Tender of annexures to these paragraphs accepted only in so far as they comprise documents that were before the Committee and do not fall within the ambit of the ruling on judicial immunity.",
+      "id": "s622"
+    },
+    {
+      "text": "482 The whole Objection conceded.",
+      "id": "s623"
+    },
+    {
+      "text": "484 The whole Objection upheld --- immunity.",
+      "id": "s624"
+    },
+    {
+      "text": "485 The whole Objection upheld - immunity, comment.",
+      "id": "s625"
+    },
+    {
+      "text": "489 The whole Objection conceded.",
+      "id": "s626"
+    },
+    {
+      "text": "490 -498 The whole Objection upheld - irrelevant, comment.",
+      "id": "s627"
+    },
+    {
+      "text": "504 The whole Objection upheld --- comment.",
+      "id": "s628"
+    },
+    {
+      "text": "509 The whole Objection conceded.",
+      "id": "s629"
+    },
+    {
+      "text": "I certify that the preceding one hundred and eighty three (183) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Siopis.",
+      "id": "s630"
+    },
+    {
+      "text": "Associate:\nDated: 4 July 2008\n\n\n Counsel for the Applicant: Mr A Robertson QC Solicitor for the Applicant: Jillian Saint Counsel for the Respondents: Mr JD Allanson SC Solicitor for the Respondents: Minter Ellison Date of Hearing: 12 and 13 June 2007 Date Decision Reserved: 28 March 2008 Date of Judgment: 4 July 2008 \n\n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2008/987.html",
+      "id": "s631"
+    }
+  ]
+}

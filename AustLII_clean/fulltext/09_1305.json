@@ -1,0 +1,984 @@
+{
+  "name": "Unilever Australia Ltd v Goodman Fielder Consumer Foods Pty Ltd [2009] FCA 1305 (13 November 2009)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2009/1305.html",
+  "catchphrases": [
+    {
+      "text": "false and misleading conduct",
+      "id": "c0"
+    },
+    {
+      "text": "false representation about standard",
+      "id": "c1"
+    },
+    {
+      "text": "whether a representation is likely to mislead or deceive",
+      "id": "c2"
+    },
+    {
+      "text": "representation that a product was recommended no 1 when where was no objective support for the representation",
+      "id": "c3"
+    },
+    {
+      "text": "whether the representation should be treated as having no content",
+      "id": "c4"
+    },
+    {
+      "text": "whether there was a sufficiently well-founded basis for an apprehension that further contravening conduct might occur if injunctive relief was not granted.",
+      "id": "c5"
+    },
+    {
+      "text": "trade practices",
+      "id": "c6"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "BUCHANAN J: \n Introduction\n The applicant (\"Unilever\") sells a number of products in Australia.",
+      "id": "s0"
+    },
+    {
+      "text": "They include washing powders, household cleaners and various kinds of foodstuffs including table spreads.",
+      "id": "s1"
+    },
+    {
+      "text": "One of the table spreads sold by Unilever is made under contract by another company in Victoria and sold as Flora Pro-Activ (\"Pro-Activ\").",
+      "id": "s2"
+    },
+    {
+      "text": "Pro-Activ was first sold in Australia in July 1999.",
+      "id": "s3"
+    },
+    {
+      "text": "It is made with ingredients which include plant sterols (8%).",
+      "id": "s4"
+    },
+    {
+      "text": "The inclusion of plant sterols in table spreads is effective in inhibiting cholesterol absorption and thus in lowering levels of LDL cholesterol.",
+      "id": "s5"
+    },
+    {
+      "text": "According to the evidence (which was unchallenged for the purpose of the present proceedings), sales of Pro-Activ represent about 67% of the non-dairy cholesterol lowering spreads sold in Australia.",
+      "id": "s6"
+    },
+    {
+      "text": "The total value of such sales is about $85 million each year.",
+      "id": "s7"
+    },
+    {
+      "text": "Proceedings against a second respondent were discontinued.",
+      "id": "s8"
+    },
+    {
+      "text": "The first and third respondents (together \"Goodman Fielder\") sell a competitor brand of table spread which also contains plant sterols (8%) called Logicol.",
+      "id": "s9"
+    },
+    {
+      "text": "Logicol sales represent about 25% of non-dairy cholesterol lowering spreads sold in Australia.",
+      "id": "s10"
+    },
+    {
+      "text": "Although not formally conceded on the pleadings (the statement of claim not making exactly this comparison), it was accepted by Goodman Fielder that Logicol has no greater efficacy in inhibiting cholesterol absorption than Pro-Activ.",
+      "id": "s11"
+    },
+    {
+      "text": "That concession accords with the expert evidence to which reference will later be made.",
+      "id": "s12"
+    },
+    {
+      "text": "About 14 June 2009, Goodman Fielder commenced to offer some of the Logicol range in containers which bore a new logo.",
+      "id": "s13"
+    },
+    {
+      "text": "Both Pro-Activ and Logicol are sold in a number of different variants but nothing turns upon that circumstance for the purpose of the present proceedings.",
+      "id": "s14"
+    },
+    {
+      "text": "Neither is it relevant to the disposition of the present proceedings that not every Logicol variant bore the new logo.",
+      "id": "s15"
+    },
+    {
+      "text": "The Logicol variants which did bear the new logo, and are relevant for the present proceedings, were sold in either 500g or 750g containers.",
+      "id": "s16"
+    },
+    {
+      "text": "The 750g containers were about 14cm in diameter while the 500g containers were about 12cm in diameter.",
+      "id": "s17"
+    },
+    {
+      "text": "On each container there appeared, for the first time in June 2009, the following logo: \n(Larger than actual size.",
+      "id": "s18"
+    },
+    {
+      "text": ")\n Because not all versions of this judgment will be published in colour, I shall describe the features of the new logo.",
+      "id": "s19"
+    },
+    {
+      "text": "On the 750g container the new logo was 3cm in diameter and on the 500g container it was 2cm in diameter.",
+      "id": "s20"
+    },
+    {
+      "text": "In each case the words appeared against a mid-blue background.",
+      "id": "s21"
+    },
+    {
+      "text": "The words at top and bottom were in very dark blue or black providing little contrast with the background.",
+      "id": "s22"
+    },
+    {
+      "text": "The words and symbols in the centre were in white, providing a strong contrast.",
+      "id": "s23"
+    },
+    {
+      "text": "The logo appeared on the top of the containers in the following overall setting:\n \n \n \n \n(Actual sizes.",
+      "id": "s24"
+    },
+    {
+      "text": ")\n The brand name Logicol appeared against a darker blue background than the new logo.",
+      "id": "s25"
+    },
+    {
+      "text": "The word \"Original\" (where used) appeared against a mid-green background and the word \"Light\" (where used) appeared against a blue background slightly lighter than the logo.",
+      "id": "s26"
+    },
+    {
+      "text": "The words \"Lowers Cholesterol absorption\" appeared against a green background.",
+      "id": "s27"
+    },
+    {
+      "text": "In both cases the brand name \"Logicol\" was strongly contrasted with the background and, as may be seen, closely associated in terms of position with the new logo.",
+      "id": "s28"
+    },
+    {
+      "text": "As may also be seen, the Heart Foundation &#10003; (which was in red) appeared in the bottom left quadrant.",
+      "id": "s29"
+    },
+    {
+      "text": "The new logo appeared twice on the side of the container in company with features relevantly identical to those on the lid.",
+      "id": "s30"
+    },
+    {
+      "text": "Against the words \"for dietary change\" at the bottom of the logo there appeared a \"&#8224;\".",
+      "id": "s31"
+    },
+    {
+      "text": "On the side of each container in a position lacking any prominence, and amongst other additional notations, appeared \"&#8224; (Research Survey, 2007 &amp; 2008)\".",
+      "id": "s32"
+    },
+    {
+      "text": "According to the evidence, the new Logicol containers were displayed in supermarkets in close proximity to other table spreads, including Pro-Activ.",
+      "id": "s33"
+    },
+    {
+      "text": "Sometimes the two were displayed side by side.",
+      "id": "s34"
+    },
+    {
+      "text": "Such arrangements were consistent with supermarket plans of arrangement for the display of cholesterol lowering table spreads which were also in evidence.",
+      "id": "s35"
+    },
+    {
+      "text": "On 1 July 2009 Unilever commenced proceedings in this Court under ss 52 and 53 (a) of the Trade Practices Act 1974 (Cth) (\"the Act\").",
+      "id": "s36"
+    },
+    {
+      "text": "Unilever sought declarations that Goodman Fielder had breached the Act, injunctions to restrain similar future conduct and damages.",
+      "id": "s37"
+    },
+    {
+      "text": "A short time later, according to evidence given by Goodman Fielder, steps were taken to cease production of packaging showing the new logo.",
+      "id": "s38"
+    },
+    {
+      "text": "It took some time for those steps to be complete.",
+      "id": "s39"
+    },
+    {
+      "text": "In the meantime, commencing on 10 August 2009, stickers were applied to existing stock which remained for distribution so that distribution of Logicol variants showing the new logo ceased effectively on 11 August 2009.",
+      "id": "s40"
+    },
+    {
+      "text": "The scope of the proceedings\n Although, initially, Unilever also sought urgent interlocutory injunctive relief, arrangements were made for an expedited final hearing.",
+      "id": "s41"
+    },
+    {
+      "text": "Meanwhile, as indicated above, Goodman Fielder took steps to discontinue use of the new logo.",
+      "id": "s42"
+    },
+    {
+      "text": "The parties were agreed, and the Court approved, that in the first instance the hearing should be concerned with questions of primary liability, and relief directly connected thereto, rather than questions of pecuniary relief.",
+      "id": "s43"
+    },
+    {
+      "text": "Accordingly, the present judgment only addresses issues connected with whether a breach of ss 52 and/or 53(a) of the Act have each been established, whether declaratory relief is appropriate and whether it is necessary or appropriate to grant injunctive relief.",
+      "id": "s44"
+    },
+    {
+      "text": "Issues concerning any claim for damages are not dealt with in the present judgment.",
+      "id": "s45"
+    },
+    {
+      "text": "Although a submission was made by Goodman Fielder that it was necessary for some loss to be established, even in the present proceedings, to make out any later case for pecuniary relief, that does not seem to me to accord with the arrangements which were made to hear the matter.",
+      "id": "s46"
+    },
+    {
+      "text": "The present is not a case where there was a failure to plead that loss had occurred.",
+      "id": "s47"
+    },
+    {
+      "text": "The submission was based on a strict construction of the elements required to establish ultimate liability for damages under s 82 of the Act.",
+      "id": "s48"
+    },
+    {
+      "text": "At a practical level, a requirement to commence the establishment of a claim for damages based on actual loss, in addition to establishing, for example, a breach of s 52 of the Act would compel applicants for relief to embark upon an aspect of the proceedings which had, in substance, been reserved for later consideration.",
+      "id": "s49"
+    },
+    {
+      "text": "There are many cases in which arrangements of the kind made for hearing the present case are adopted.",
+      "id": "s50"
+    },
+    {
+      "text": "It could be substantially destructive of such arrangements to require loss (or at least some loss) to be established in proceedings otherwise devoted to an examination of liability and non-pecuniary relief.",
+      "id": "s51"
+    },
+    {
+      "text": "The medical evidence \n Professor Peter Clifton holds, amongst other positions, the position of Professor of Medicine at the University of Adelaide and is a practising endocrinologist at Royal Adelaide Hospital.",
+      "id": "s52"
+    },
+    {
+      "text": "He is an acknowledged expert in the field of cardio-vascular disease, nutrition and health.",
+      "id": "s53"
+    },
+    {
+      "text": "He has published extensively.",
+      "id": "s54"
+    },
+    {
+      "text": "In a report provided for the purposes of the proceedings he explained that the inclusion of plant sterols in table spreads, such as Logicol and Pro-Activ, has demonstrable beneficial effects in inhibiting cholesterol absorption and lowering levels of LDL cholesterol.",
+      "id": "s55"
+    },
+    {
+      "text": "LDL cholesterol is associated with atherosclerosis, whereas HDL cholesterol is protective.",
+      "id": "s56"
+    },
+    {
+      "text": "He said: \n \n High LDL cholesterol and low HDL cholesterol together are more important in predicting the risk of heart disease than high blood pressure or smoking.",
+      "id": "s57"
+    },
+    {
+      "text": "Levels of LDL cholesterol can be lowered by inhibiting cholesterol absorption in the intestine.",
+      "id": "s58"
+    },
+    {
+      "text": "Professor Clifton said: \n \n Plant sterols can inhibit cholesterol absorption by 25% --- 56%, with doses as low as 300mg of plant sterols being effective (23% --- 35% inhibition), but there is a clear plateau at about 60% inhibition, regardless of the dose of plant sterol eaten.",
+      "id": "s59"
+    },
+    {
+      "text": "(Reference omitted.",
+      "id": "s60"
+    },
+    {
+      "text": ") \n \n\n \nThe effective limitation upon reducing levels of LDL cholesterol (as a result of inhibiting cholesterol absorption in this way) appears to be about 12 percent reduction at a daily intake of 4 grams of plant sterols.",
+      "id": "s61"
+    },
+    {
+      "text": "Although Pro-Activ and Logicol contain different amounts of fatty acids, fat content does not change the cholesterol lowering effects of plant sterol spreads.",
+      "id": "s62"
+    },
+    {
+      "text": "Accordingly, despite the difference in fatty acid composition in Pro-Activ and Logicol, given that they have the same amount of plant sterol (8%) Professor Clifton's opinion was that they should have exactly the same effect on cholesterol levels and be equally effective.",
+      "id": "s63"
+    },
+    {
+      "text": "Professor Clifton expected that both Logicol and Pro-Activ would lower LDL cholesterol by about 10% with daily consumption of 25g of spread (the amount suggested on the Logicol containers).",
+      "id": "s64"
+    },
+    {
+      "text": "The pleadings\n Unilever alleged that offering Logicol to consumers in containers with the new logo generated a number of misleading or deceptive representations.",
+      "id": "s65"
+    },
+    {
+      "text": "Goodman Fielder either did not admit or denied each of the suggested representations, which were pleaded as being to the following effect: \n \n (a) Logicol is the No 1 recommended plant sterol spread; \n \n\n \n \n (b) Logicol is the No 1 recommended plant sterol spread for dietary change; \n \n\n \n \n (c) Logicol has greater efficacy than any other commercially available plant sterol spread in Australia in lowering cholesterol absorption; \n \n\n \n \n (d) Logicol has been recommended, on a reasonable basis, and by a group of persons or body with authority, standing and/or expertise with respect to cholesterol absorption, as a product which lowers cholesterol absorption with greater efficacy than any other commercially available plant sterol spread in Australia; \n \n\n \n \n (e) Logicol has been recommended, on a reasonable basis, and by a group of persons or body with authority, standing and/or expertise with respect to cholesterol absorption, as the most effective plant sterol spread for achieving dietary change; \n \n\n \n \n (f) Logicol has been recommended by the National Heart Foundation as the No 1 plant sterol spread for lowering cholesterol absorption; \n \n\n \n \n (g) Logicol has been recommended by the National Heart Foundation as the No 1 plant sterol spread for achieving dietary change; \n \n\n \n \n (h) Logicol has been recommended by the National Heart Foundation as having greater efficacy than any other commercially available plant sterol spread in Australia in lowering cholesterol absorption; and \n \n\n \n \n (i) Logicol has been recommended by the National Heart Foundation as having greater efficacy than any other commercially available plant sterol spread in Australia in achieving dietary change.",
+      "id": "s66"
+    },
+    {
+      "text": "In answer to these allegations Goodman Fielder said that the representation actually made was that: \"according to a Research Survey carried out in 2007 and 2008, Logicol was the No 1 recommended plant sterol spread for dietary change\".",
+      "id": "s67"
+    },
+    {
+      "text": "However, without admitting that the representations alleged by Unilever were made, Goodman Fielder in its defence made the following admissions of fact: \n \n (d) Logicol has not been recommended, on a reasonable basis, and by a group of persons or body with authority, standing and/or expertise with respect to cholesterol absorption, as a product which lowers cholesterol absorption with greater efficacy than any other commercially available plant sterol spread in Australia; \n \n\n \n \n (e) Logicol has not been recommended, on a reasonable basis, and by a group of persons or body with authority, standing and/or expertise with respect to cholesterol absorption, as the most effective plant sterol spread for achieving dietary change; \n \n\n \n \n (f) Logicol has not been recommended by the National Heart Foundation as the No 1 plant sterol spread for lowering cholesterol absorption; \n \n\n \n \n (g) Logicol has not been recommended by the National Heart Foundation as the No 1 plant sterol spread for achieving dietary change; \n \n\n \n \n (h) Logicol has not been recommended by the National Heart Foundation as having greater efficacy than any other commercially available plant sterol spread in Australia in lowering cholesterol absorption; and \n \n\n \n \n (i) Logicol has not been recommended by the National Heart Foundation as having greater efficacy than any other commercially available plant sterol spread in Australia for achieving dietary change.",
+      "id": "s68"
+    },
+    {
+      "text": "It also admitted during submissions, as earlier indicated, that Logicol did not have greater efficacy in inhibiting cholesterol absorption than Pro-Activ.",
+      "id": "s69"
+    },
+    {
+      "text": "As the case was argued by Goodman Fielder, there was no tension between the representation said actually to have been made and the factual admissions set out in (d) and (e) above.",
+      "id": "s70"
+    },
+    {
+      "text": "That was because the research surveys referred to were not directed, in terms, to any question or judgment about greater efficacy or effectiveness of the kind referred to in either (d) or (e).",
+      "id": "s71"
+    },
+    {
+      "text": "I shall, in due course, discuss the research surveys.",
+      "id": "s72"
+    },
+    {
+      "text": "Taken at the highest for Goodman Fielder, and assuming I accepted that the new logo made the representation Goodman Fielder suggested, it would at least be necessary that it faithfully reflect the actual result of the surveys.",
+      "id": "s73"
+    },
+    {
+      "text": "In my view it did not.",
+      "id": "s74"
+    },
+    {
+      "text": "Section 52 \n Principles to be applied\n Section 52(1) of the Act provides as follows: \n \n (1) A corporation shall not, in trade or commerce, engage in conduct that is misleading or deceptive or is likely to mislead or deceive.",
+      "id": "s75"
+    },
+    {
+      "text": "It will be useful if I identify some uncontroversial principles, concerning s 52 of the Act, to be applied in the disposition of the present case.",
+      "id": "s76"
+    },
+    {
+      "text": "The first principle is that consideration of the impact of the new logo, whether it makes any particular representation, and whether any representation made constituted conduct which offended s 52 of the Act, must take place in the overall context and setting in which the logo is presented to consumers (see by way of example Cantarella Bros Pty Ltd v Valcorp Fine Foods Pty Ltd [2002] FCA 8).",
+      "id": "s77"
+    },
+    {
+      "text": "The next issue concerns the way in which the impact upon a relevant group of consumers is to be assessed.",
+      "id": "s78"
+    },
+    {
+      "text": "In Campomar Sociedad, Limitada v Nike International Limited [2000] HCA 12 ; (2000) 202 CLR 45 the High Court directed the isolation of a representative member of the class in question.",
+      "id": "s79"
+    },
+    {
+      "text": "The use of such an approach appears to render unnecessary any attempt to quantify the extent to which, in any numerical sense, members of the class would be, or are likely to be, misled (see also .",
+      "id": "s80"
+    },
+    {
+      "text": "AU Domain Administration Ltd v Domain Names Australia Pty Ltd [2004] FCA 424 ; (2004) 207 ALR 521 at [22] --- [26]).",
+      "id": "s81"
+    },
+    {
+      "text": "It is sufficient, for the purpose of the present case, if I indicate that the group in which the representative member must be found is potential purchasers of Logicol.",
+      "id": "s82"
+    },
+    {
+      "text": "It is likely that such a person will be interested in the claimed effect of lowering cholesterol, and perhaps in the notion that non-dairy table spreads should, in any event, be preferred to dairy products for health reasons.",
+      "id": "s83"
+    },
+    {
+      "text": "Both Logicol and Pro-Activ are sold at a significant premium to other table spreads including dairy products.",
+      "id": "s84"
+    },
+    {
+      "text": "There is no doubt that the premium is sought and commanded because of the health benefits indicated if they are used as part of a daily diet.",
+      "id": "s85"
+    },
+    {
+      "text": "Both parties agreed that likely consumers are those prepared to pay a price premium in the pursuit of an objective related to the health benefits indicated.",
+      "id": "s86"
+    },
+    {
+      "text": "A more sophisticated distillation of the characteristics of someone who will put a non-dairy table spread on bread, toast or other foods, or cook with it, is not necessary.",
+      "id": "s87"
+    },
+    {
+      "text": "Next, whether particular conduct is misleading or deceptive, or likely to mislead or deceive, is a matter to be evaluated by a court itself, having regard to the characteristics of the group of consumers exposed to the conduct, as judged by reference to a representative member.",
+      "id": "s88"
+    },
+    {
+      "text": "Finally, there is the question of how to assess, if necessary, whether a particular representation is \"likely\" to mislead or deceive a representative member of the relevant class.",
+      "id": "s89"
+    },
+    {
+      "text": "In Tillmanns Butcheries Pty Ltd v Australasian Meat Industry Employees' Union [1979] FCA 84 ; (1979) 42 FLR 331 ; 27 ALR 367 (at 346-348; 381-382) (\" Tillmanns Butcheries \") Deane J rejected the argument that the word \"likely\" in s 45D of the Act means \"probably\".",
+      "id": "s90"
+    },
+    {
+      "text": "Part of his Honour's reasoning was that, used in that sense, it would add little if anything to the task of a court required to assess, on the balance of probabilities, whether conduct \"would have\" a particular result.",
+      "id": "s91"
+    },
+    {
+      "text": "That reasoning was accepted as applying to s 52 of the Act in Global Sportsman Pty Ltd v Mirror Newspapers Pty Ltd [1984] FCA 180 ; (1984) 2 FCR 82.",
+      "id": "s92"
+    },
+    {
+      "text": "There, a Full Court held (at 87) that conduct is likely to mislead or deceive if that is a \"real or not remote chance or possibility regardless of whether it is less or more than fifty per cent\".",
+      "id": "s93"
+    },
+    {
+      "text": "The proposition was supported by reference to the judgment of Deane J in Tillmanns Butcheries which had, a short time earlier, been approved by the High Court in Sheen v Fields Pty Ltd (1984) 58 ALJR 93 ; 51 ALR 345 (see also Foxtel Management Pty Ltd v Australian Video Retailers Association Ltd (2004) 214 ALR 554 at [76]; Australian Competition and Consumer Commission v Harris Scarfe Australia Pty Ltd [2009] FCA 54 (\" ACCC v Harris Scarfe \") at [47]).",
+      "id": "s94"
+    },
+    {
+      "text": "The representations\n If attention was confined to the new logo, and if no real attention was given to the relative prominence and colours of the words and symbols it contains, it would be possible to read the representation which it contains as, in substance, to the following effect: \n \n Plant sterol spread --- No 1 recommended for dietary change.",
+      "id": "s95"
+    },
+    {
+      "text": "The words \"plant sterol spread\" would, in that context, be simply descriptive of the contents of the container.",
+      "id": "s96"
+    },
+    {
+      "text": "The words and symbol \"# 1 recommended\" would be seen as a recommendation specifically connected with dietary change and concerned with the use of plant sterol spreads.",
+      "id": "s97"
+    },
+    {
+      "text": "I would not have found such a representation to be misleading or deceptive, or likely to mislead or deceive.",
+      "id": "s98"
+    },
+    {
+      "text": "However, that is neither the way in which the proceedings were defended nor the way in which, having regard to all contextual indications, the logo should be viewed.",
+      "id": "s99"
+    },
+    {
+      "text": "It must, according to the relevant authorities, be seen in its overall context and setting.",
+      "id": "s100"
+    },
+    {
+      "text": "In such a context and setting the individual elements in the logo have a different significance.",
+      "id": "s101"
+    },
+    {
+      "text": "In this larger context colour, prominence and relative position to other elements of the label become important.",
+      "id": "s102"
+    },
+    {
+      "text": "The words and symbol \"#1 recommended\" are closely juxtaposed with the brand name \"Logicol\".",
+      "id": "s103"
+    },
+    {
+      "text": "The same colour is used and the terms are of similar prominence.",
+      "id": "s104"
+    },
+    {
+      "text": "In my view a clear impression is likely to be left that \"Logicol is No 1 recommended\".",
+      "id": "s105"
+    },
+    {
+      "text": "In addition, having regard to the prominence, colour and juxtaposition of the words below the brand name the impression is likely to be left that \"Logicol is No 1 recommended for lowering cholesterol absorption\".",
+      "id": "s106"
+    },
+    {
+      "text": "Those conclusions are also confirmed by a more analytical approach to the question.",
+      "id": "s107"
+    },
+    {
+      "text": "It was not disputed by Goodman Fielder that the logo (and hence the label as a whole) represented that Logicol was recommended No 1.",
+      "id": "s108"
+    },
+    {
+      "text": "Such a representation does not have meaning without some further content.",
+      "id": "s109"
+    },
+    {
+      "text": "It simply invites the question: \"No 1 for what?",
+      "id": "s110"
+    },
+    {
+      "text": "\" In my view it is inescapable that one representation, at least, was that Logicol was recommended No 1 for lowering cholesterol absorption.",
+      "id": "s111"
+    },
+    {
+      "text": "Even if other possibilities are open that does not exclude the irresistible conclusion that the logo, in its context and setting, had a real, or not remote, chance or possibility of being understood by a representative member of the relevant class in that way.",
+      "id": "s112"
+    },
+    {
+      "text": "In light of the pleadings, and other concessions which were made inevitable by the evidence, that representation was plainly contrary to the facts.",
+      "id": "s113"
+    },
+    {
+      "text": "There was no such recommendation and if there was, it would be contrary to the existing state of scientific knowledge.",
+      "id": "s114"
+    },
+    {
+      "text": "In addition, the close proximity of the new logo to the Heart Foundation &#10003;, and the relative prominence of each, created a real chance that potential purchasers would think that the recommendation came from the Heart Foundation.",
+      "id": "s115"
+    },
+    {
+      "text": "A representation to that effect was also contrary to the facts.",
+      "id": "s116"
+    },
+    {
+      "text": "Part of Goodman Fielder's answer to the charge of misleading and deceptive conduct was to suggest that any representation made by the logo conveyed nothing of any significance to potential purchasers, that meaning could not be found even upon close examination (the reference to the surveys being likewise unhelpful and uninformative) and that the logo was therefore not misleading or deceptive.",
+      "id": "s117"
+    },
+    {
+      "text": "I do not accept either the contention or the premises from which it proceeds.",
+      "id": "s118"
+    },
+    {
+      "text": "In Eveready Australia Pty Ltd v Gillette Australia Pty Ltd (No 4) [1999] FCA 1824 Lindgren J said (at [59]): \n \n If I had concluded that on close analysis the commercials were devoid of meaning I would have held them to be misleading and deceptive nonetheless.",
+      "id": "s119"
+    },
+    {
+      "text": "The reason why I would have done so is that the words 'lasts up to four times longer' hold out to the viewer that Duracell batteries do offer a meaningful advantage over competing brands.",
+      "id": "s120"
+    },
+    {
+      "text": "The specificity of those words is inconsistent with the nature of advertising puff.",
+      "id": "s121"
+    },
+    {
+      "text": "To my mind it is misleading and deceptive to appear to a reasonable television viewer to be saying something meaningful on which the viewer is invited to rely as a basis for action, when only a degree of analysis foreign to the realities of the market place would show the viewer that what was said is meaningless.",
+      "id": "s122"
+    },
+    {
+      "text": "Similarly, in the present case there is no doubt that some claim for the qualities, benefits or reputation of Logicol was being made by the new logo as presented on the Logicol containers in that context and setting.",
+      "id": "s123"
+    },
+    {
+      "text": "A conclusion that the claim was, upon examination, devoid of meaning would not save Goodman Fielder's conduct from the operation of s 52 of the Act.",
+      "id": "s124"
+    },
+    {
+      "text": "In any event, I do not see the logo as lacking meaning, for reasons I have already explained.",
+      "id": "s125"
+    },
+    {
+      "text": "At a minimum, the logo makes a sufficiently clear representation of superiority.",
+      "id": "s126"
+    },
+    {
+      "text": "The lack of any respectable foundation for the claim is not alleviated by reason of the fact that an interested consumer is denied any form of further meaningful information.",
+      "id": "s127"
+    },
+    {
+      "text": "Such a claim was wrong and, on the evidence, known to be wrong by those responsible for it.",
+      "id": "s128"
+    },
+    {
+      "text": "I have no doubt therefore that Goodman Fielder committed a breach of s 52 of the Act.",
+      "id": "s129"
+    },
+    {
+      "text": "Section 53(a) \n Section 53(a) of the Act provides as follows: \n \n A corporation shall not, in trade or commerce, in connexion with the supply or possible supply of goods or services or in connexion with the promotion by any means of the supply or use of goods or services: \n \n\n \n \n (a) falsely represent that goods are of a particular standard, quality, value, grade, composition, style or model or have had a particular history or particular previous use.",
+      "id": "s130"
+    },
+    {
+      "text": "In Gardam v George Wills &amp; Co Ltd [1988] FCA 194 ; (1988) 82 ALR 415 French J (at 422-4) discussed what is meant by the concept that a representation be one about a \"particular\" standard, quality, value, grade etc. His Honour suggested that the term \"particular\" should be given a consistent meaning with respect to all the possible attributes to which it refers and that it meant, consistent with ordinary usage, an \"indicated\" or \"certain\" standard, quality, value, grade etc.",
+      "id": "s131"
+    },
+    {
+      "text": "It is not necessary that each attribute be engaged for an infringement to result.",
+      "id": "s132"
+    },
+    {
+      "text": "It is sufficient if any of the listed attributes is falsely represented.",
+      "id": "s133"
+    },
+    {
+      "text": "In the present case it is sufficient to consider whether the new logo represented that Logicol was of a \"particular standard\" and, if so, whether the representation was \"falsely\" made.",
+      "id": "s134"
+    },
+    {
+      "text": "Logicol was represented by the new logo as recommended No 1.",
+      "id": "s135"
+    },
+    {
+      "text": "That is a representation about standard.",
+      "id": "s136"
+    },
+    {
+      "text": "It represents that Logicol was the most highly recommended.",
+      "id": "s137"
+    },
+    {
+      "text": "The inference was that it was recommended as better than all others.",
+      "id": "s138"
+    },
+    {
+      "text": "The predominance of judicial opinion appears to be that a representation is falsely made, for the purposes of s 53 of the Act, if it is contrary to fact, whether or not it was purposely untrue (see Riley McKay Pty Ltd v Bannerman [1977] FCA 7 ; (1977) 31 FLR 129 ; Darwin Bakery Pty Ltd v Sully [1981] FCA 115 ; (1981) 51 FLR 90 ; 36 ALR 371 ; Trade Practices Commission v The Vales Wine Company Pty Ltd (1996) 66 FCR 336 at 346-7).",
+      "id": "s139"
+    },
+    {
+      "text": "The representation about the standard of Logicol, which I have identified, was falsely made in the requisite sense.",
+      "id": "s140"
+    },
+    {
+      "text": "It was contrary to fact.",
+      "id": "s141"
+    },
+    {
+      "text": "In any event, as will later appear, it was known to be untrue.",
+      "id": "s142"
+    },
+    {
+      "text": "I am satisfied, therefore, that Goodman Fielder committed a breach of s 53(a) of the Act.",
+      "id": "s143"
+    },
+    {
+      "text": "The surveys\n As earlier indicated, the containers which carried the new logo made reference, on the side of the container, to surveys in 2007 and 2008.",
+      "id": "s144"
+    },
+    {
+      "text": "Attention was directed, although not very effectively, to the reference to the surveys by the \"&#8224;\" appearing just after the last (and smallest) line on the logo.",
+      "id": "s145"
+    },
+    {
+      "text": "The conclusions I have so far explained have the consequence that I do not accept that the representations made were confined in the way suggested by Goodman Fielder which I earlier set out.",
+      "id": "s146"
+    },
+    {
+      "text": "As a result it is not strictly necessary to examine the surveys carried out in 2007 and 2008.",
+      "id": "s147"
+    },
+    {
+      "text": "The content of the surveys, the persons surveyed and the nature and general impact of responses were all unavailable to potential consumers.",
+      "id": "s148"
+    },
+    {
+      "text": "However, as they were the subject of evidence and debate I will indicate briefly why they do not, in any event, assist Goodman Fielder's position.",
+      "id": "s149"
+    },
+    {
+      "text": "The surveys were commissioned by Goodman Fielder.",
+      "id": "s150"
+    },
+    {
+      "text": "They were carried out over the internet.",
+      "id": "s151"
+    },
+    {
+      "text": "They sought responses from general medical practitioners about recommendations made to patients concerning the use of cholesterol lowering table spreads.",
+      "id": "s152"
+    },
+    {
+      "text": "The survey sample was small, consisting of 155 GPs in the first instance and 151 GPs on the second occasion.",
+      "id": "s153"
+    },
+    {
+      "text": "They were asked, amongst other things, which table spreads they had recommended to assist in lowering cholesterol levels.",
+      "id": "s154"
+    },
+    {
+      "text": "They were provided alternative choices and allowed to give multiple responses.",
+      "id": "s155"
+    },
+    {
+      "text": "Logicol was the first choice offered in each list.",
+      "id": "s156"
+    },
+    {
+      "text": "In the 2007 survey one more GP nominated Logicol than Pro-Activ.",
+      "id": "s157"
+    },
+    {
+      "text": "In the 2008 survey the numerical difference appeared to be slightly greater.",
+      "id": "s158"
+    },
+    {
+      "text": "The difference appears to have been eight GPs.",
+      "id": "s159"
+    },
+    {
+      "text": "Professor Bruce Brown is Professor of Statistics at the University of New South Wales.",
+      "id": "s160"
+    },
+    {
+      "text": "He provided an expert report in which he concluded that neither the result in the 2007 survey nor the result in the 2008 survey led to a statistically significant outcome as between Logicol and Pro-Activ.",
+      "id": "s161"
+    },
+    {
+      "text": "That remained the position if the results of the surveys were combined.",
+      "id": "s162"
+    },
+    {
+      "text": "There was no objection to his report.",
+      "id": "s163"
+    },
+    {
+      "text": "He was not cross-examined.",
+      "id": "s164"
+    },
+    {
+      "text": "There was no contrary evidence.",
+      "id": "s165"
+    },
+    {
+      "text": "On the evidence, therefore, the survey material did not provide an adequate foundation for any claim for superiority for Logicol, even in the raw and unadorned opinion of a small number of GPs.",
+      "id": "s166"
+    },
+    {
+      "text": "At best the surveys yielded a conclusion that the GPs who responded had, subject to a statistically insignificant difference, recommended Logicol and Flora to about an equal extent.",
+      "id": "s167"
+    },
+    {
+      "text": "Counsel for Goodman Fielder, however, suggested, on the basis of the research surveys, that Logicol could be fairly represented as No 1 because it was, at the least, an equal No 1 with Pro-Activ in recommendations made by doctors about what brand of table spread to use to assist in lowering cholesterol.",
+      "id": "s168"
+    },
+    {
+      "text": "There are at least two problems with this thesis.",
+      "id": "s169"
+    },
+    {
+      "text": "The first is that such a refinement was kept well hidden from potential consumers.",
+      "id": "s170"
+    },
+    {
+      "text": "Had a potential consumer tracked through the \"fine print\" to find the reference to the surveys placed innocuously on the side of the containers such a consumer would receive no impression of egality, whether with Pro-Activ or any other table spread.",
+      "id": "s171"
+    },
+    {
+      "text": "The representation made was one of superiority.",
+      "id": "s172"
+    },
+    {
+      "text": "The oblique reference to surveys did nothing to alleviate the impression conveyed.",
+      "id": "s173"
+    },
+    {
+      "text": "The second problem is that, on the evidence, the relevant officers and employees of Goodman Fielder had no such balanced presentation in mind when they chose the course which was followed; quite the contrary.",
+      "id": "s174"
+    },
+    {
+      "text": "There is no reason to assume an impact on consumers contrary to the intended effect of the marketing device which they selected (see eg Australian Woollen Mills Ltd v F S Walton &amp; Co Ltd [1937] HCA 51 ; (1937) 58 CLR 641 (\" Australian Woollen Mills \") at 657).",
+      "id": "s175"
+    },
+    {
+      "text": "The internal documents\n Evidence of the intentions of those within Goodman Fielder was available from documents which were revealed during the discovery process.",
+      "id": "s176"
+    },
+    {
+      "text": "Unilever tendered in the proceedings a significant bundle of internal documents which had been obtained from Goodman Fielder.",
+      "id": "s177"
+    },
+    {
+      "text": "A good number of those documents were confidential.",
+      "id": "s178"
+    },
+    {
+      "text": "It is not necessary to discuss them in detail.",
+      "id": "s179"
+    },
+    {
+      "text": "The conclusion I have reached to the effect that Goodman Fielder breached s 52 of the Act does not depend on conclusions drawn from the internal documents.",
+      "id": "s180"
+    },
+    {
+      "text": "The conclusion I have reached to the effect that Goodman Fielder breached s 53(a) of the Act is supported by reference to the documents but may stand independently of findings about them.",
+      "id": "s181"
+    },
+    {
+      "text": "I accept, as submitted by counsel for Goodman Fielder, that the purpose of the Goodman Fielder officers is not decisive of whether the conduct of Goodman Fielder was misleading or deceptive, or likely to mislead or deceive or whether any representation made by the logo was false within the meaning of s 53 of the Act.",
+      "id": "s182"
+    },
+    {
+      "text": "Those are assessments which must be made by the Court itself.",
+      "id": "s183"
+    },
+    {
+      "text": "However, it is also true that in some circumstances an assessment made by persons with special trade knowledge may assist in deciding whether particular representations are likely to leave a particular impression ( Australian Woollen Mills ).",
+      "id": "s184"
+    },
+    {
+      "text": "By way of perspective, it must of course be borne in mind that, in the market in question, a constant objective was no doubt to increase market share and that, at a practical level at least, that would normally only occur at the expense of a rival.",
+      "id": "s185"
+    },
+    {
+      "text": "In the present commercial context it was inevitable that Goodman Fielder would attempt to boost sales of Logicol at the expense of sales of Pro-Activ and thereby take market share from Unilever.",
+      "id": "s186"
+    },
+    {
+      "text": "There is nothing illegitimate about such an objective.",
+      "id": "s187"
+    },
+    {
+      "text": "This case concerns the means used, not the outcome sought.",
+      "id": "s188"
+    },
+    {
+      "text": "Goodman Fielder officers were conscious of the fact that it was not open to them to make any overt suggestion that Logicol was more effective than Pro-Activ because that would be contrary to the present state of scientific knowledge.",
+      "id": "s189"
+    },
+    {
+      "text": "For a time they flirted with the idea, nevertheless, of suggesting that Logicol was \"No 1 recommended\" by doctors.",
+      "id": "s190"
+    },
+    {
+      "text": "This idea came from the surveys to which I have already referred.",
+      "id": "s191"
+    },
+    {
+      "text": "Ultimately the idea was abandoned.",
+      "id": "s192"
+    },
+    {
+      "text": "No doubt that was a prudent course to take.",
+      "id": "s193"
+    },
+    {
+      "text": "However, they decided to persist with a modified idea represented by the logo I have already discussed.",
+      "id": "s194"
+    },
+    {
+      "text": "Their assessment, and intention, was that an implied message of superiority would be conveyed with respect to the efficacy of Logicol.",
+      "id": "s195"
+    },
+    {
+      "text": "On the evidence, therefore, the logo was certainly not intended to be meaningless, as was argued was its effect.",
+      "id": "s196"
+    },
+    {
+      "text": "Another relevance which such material might have concerns what relief should be granted, as it indicates that the decision to use the new logo was a calculated one.",
+      "id": "s197"
+    },
+    {
+      "text": "I think the material does have some relevance in that context and I shall return to it when I discuss what orders should be made.",
+      "id": "s198"
+    },
+    {
+      "text": "Relief\n Declaration\n It is appropriate to make declarations which reflect the findings I have made that Goodman Fielder has breached s 52 and s 53(a) of the Act.",
+      "id": "s199"
+    },
+    {
+      "text": "Injunction\n Unilever also pressed for an injunction to restrain future conduct.",
+      "id": "s200"
+    },
+    {
+      "text": "The injunction sought (as modified by the written submissions) was in the following terms: An order that the Respondents be permanently restrained whether by themselves, their servants or agents, in trade or commerce, from distributing or exhibiting, or causing to be distributed or exhibited, packets of Logicol bearing:\n \n \n (a) the Impugned Label; and/or \n (b) the Performance Claim \n \n\n \n \n [each is a term defined elsewhere] \n \n\n \n \n in respect of Logicol in its current or a materially similar formulation at any time that Flora pro-activ in its current or a materially similar formulation is available for purchase by consumers from retail stores in Australia.",
+      "id": "s201"
+    },
+    {
+      "text": "An order permanently restraining the Respondents, whether by themselves, their servants or agents, in trade or commerce, from making, or causing to be made, the Performance Claim in respect of Logicol in its current or a materially similar formulation at any time that Flora pro-activ in its current or a materially similar formulation is available for purchase by consumers from retail stores in Australia.",
+      "id": "s202"
+    },
+    {
+      "text": "If I was otherwise persuaded to grant an injunction it would need to be expressed in terms that did not require incorporation of definitions appearing elsewhere, and to reflect what I have found to be the substance of the representation made.",
+      "id": "s203"
+    },
+    {
+      "text": "In light of the conclusions I have reached it is not necessary to make those adjustments, although during oral submissions it was made clear by counsel for Unilever that any particular concern with drafting could be addressed after publication of reasons for judgment.",
+      "id": "s204"
+    },
+    {
+      "text": "As will be seen, in my view there are more fundamental considerations at work.",
+      "id": "s205"
+    },
+    {
+      "text": "As part of the marketing plans for the introduction of the new labelling, assessments were made about whether it would draw unfavourable reactions from Unilever or from regulatory authorities.",
+      "id": "s206"
+    },
+    {
+      "text": "One concern, connected with the possible response of regulatory authorities, was the known prohibition on providing any form of medical advice.",
+      "id": "s207"
+    },
+    {
+      "text": "Even though Goodman Fielder withdrew from a suggested approach, directly attributing No 1 status to Logicol in the view of doctors, nevertheless it is plain from the evidence that it was intended that an impression be left that Logicol was more effective than other table spreads, particularly Pro-Activ, even though those responsible knew that no such claim could be made overtly because it was not true.",
+      "id": "s208"
+    },
+    {
+      "text": "They decided, after some deliberations, to proceed unless stopped.",
+      "id": "s209"
+    },
+    {
+      "text": "The internal documents of Goodman Fielder, tendered in evidence in the present case, showed that there was a substantial element of calculation, and risk taking, in the final decision to proceed with the new logo.",
+      "id": "s210"
+    },
+    {
+      "text": "As part of contingency plans made to accompany the decision to proceed, in full knowledge of the risks involved, arrangements were made for the relatively rapid substitution of new forms of labelling should that become necessary, as ultimately it did.",
+      "id": "s211"
+    },
+    {
+      "text": "Although, at a practical commercial level, those arrangements allowed Goodman Fielder to respond quickly, and perhaps to contain the ultimate effect of its conduct, there is no doubt that they also reflect a pragmatic consciousness of the fact that permissible limits of conduct were being tested, and perhaps exceeded.",
+      "id": "s212"
+    },
+    {
+      "text": "The question which comes sharply into focus as a result is whether there may be the requisite level of confidence that the legal limits established by s 52 and s 53 of the Act will be observed without the additional sanction represented by an appropriately drawn injunction.",
+      "id": "s213"
+    },
+    {
+      "text": "In ACCC v Harris Scarfe, Mansfield J considered the circumstances in which it might be appropriate to grant injunctive relief, in addition to declaratory relief, for breach of the Act.",
+      "id": "s214"
+    },
+    {
+      "text": "In deciding to grant injunctive relief in that case his Honour was influenced by the fact that the form of order sought was \"quite specific\".",
+      "id": "s215"
+    },
+    {
+      "text": "It was \"not generic, in the sense that it simply prohibits conduct which the TP Act prohibits\".",
+      "id": "s216"
+    },
+    {
+      "text": "His Honour also took into account the fact that steps had been taken to avoid contraventions in the future but, having regard to past history, which included earlier undertakings given in 2004 and 2006, his Honour concluded on balance that it was appropriate to grant injunctive relief.",
+      "id": "s217"
+    },
+    {
+      "text": "In the present case Unilever has taken some care to attempt to craft an order which would only restrain a claim for superior efficacy for Logicol while the plant sterol concentrations of Logicol and Pro-Activ remained equivalent.",
+      "id": "s218"
+    },
+    {
+      "text": "Nevertheless, I am not satisfied in this case that injunctive relief should be granted.",
+      "id": "s219"
+    },
+    {
+      "text": "Injunctive relief is not granted simply as a form of punishment nor as a gesture signifying that one party has prevailed over the other.",
+      "id": "s220"
+    },
+    {
+      "text": "The Court's view of the conduct will be expressed in the declarations which I propose to make.",
+      "id": "s221"
+    },
+    {
+      "text": "I would only grant an injunction as a form of final relief if I was persuaded that it was necessary for either the protection of consumers or the legitimate interests of Unilever and, in either case, that there was a sufficiently well-founded basis for an apprehension that, otherwise, further contravening conduct might occur.",
+      "id": "s222"
+    },
+    {
+      "text": "Unless an injunction was appropriately directed to identified behaviour which, it was reasonably apprehended, might occur in the future it would have no particular utility.",
+      "id": "s223"
+    },
+    {
+      "text": "Notwithstanding the attempt to draft an injunction meeting the need for appropriate specificity (and the offer to revisit the task after publication of reasons for judgment), I am not satisfied that an injunction could be satisfactorily drafted in a way which would provide a sufficiently clear statement of Goodman Fielder's obligations, avoid the need for supervision by the Court and, at the same time, go no further than was necessary to prevent conduct which, as a result of what was revealed by the present proceedings, might reasonably be anticipated would breach s 52 or s 53 of the Act.",
+      "id": "s224"
+    },
+    {
+      "text": "Despite my concern about what some might regard as a cynical disregard in the present case of the obvious intent of s 52 and s 53, the risk that the same conduct would be repeated is, in my view, slight and could be speedily addressed if necessary.",
+      "id": "s225"
+    },
+    {
+      "text": "It would be surprising if, in light of the outcome of the present case, Goodman Fielder felt able, consistently with its legal obligations, to make any future claim of a kind which the suggested injunction would specifically restrain.",
+      "id": "s226"
+    },
+    {
+      "text": "If any future conduct proceeded upon some different basis it would require evaluation taking all relevant circumstances into account.",
+      "id": "s227"
+    },
+    {
+      "text": "The matters which compel the result in the present case may not all be present, or may require evaluation in a different context.",
+      "id": "s228"
+    },
+    {
+      "text": "A case for injunctive relief is not made out.",
+      "id": "s229"
+    },
+    {
+      "text": "Orders\n As earlier indicated, the present judgment is confined to whether a case for relief was established for appropriate declarations and injunctions.",
+      "id": "s230"
+    },
+    {
+      "text": "I will make the following declarations and order with respect to those matters: The first and third respondents have, in trade or commerce, between 14 June 2009 and 10 August 2009 engaged in conduct which was misleading or deceptive, or likely to mislead or deceive, in contravention of s 52 of the Trade Practices Act 1974 (Cth) by distributing, or causing to be distributed, packets of Logicol bearing a logo including the terms \"#1 RECOMMENDED\".",
+      "id": "s231"
+    },
+    {
+      "text": "The first and third respondents have, in trade or commerce, between 14 June 2009 and 10 August 2009 in connexion with the supply or possible supply of Logicol, and in connexion with the promotion of the supply or use of Logicol, falsely represented that Logicol was of a particular standard or quality, in contravention of s 53(a) of the Trade Practices Act 1974 (Cth) by distributing, or causing to be distributed, packets of Logicol bearing a logo including the terms \"#1 RECOMMENDED\".",
+      "id": "s232"
+    },
+    {
+      "text": "The application for injunctive relief is dismissed.",
+      "id": "s233"
+    },
+    {
+      "text": "The proceedings will be relisted on the application of either party to deal with any question of costs or applications for further relief.",
+      "id": "s234"
+    },
+    {
+      "text": "I certify that the preceding sixty-one (61) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Buchanan.",
+      "id": "s235"
+    },
+    {
+      "text": "Associate:\n \n \nDated: 13 November 2009\n \n Counsel for the Applicant: J R Sackar QC with D F C Thomas \n \n Solicitor for the Applicant: Baker &amp; McKenzie \n \n Counsel for the First and Third Respondents: D M Yates SC with I S Wylie \n \n Solicitor for the First and Third Respondents: Blake Dawson \n Date of Hearing: 25, 26 August 2009 \n \n Date of Judgment: 13 November 2009 \n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2009/1305.html",
+      "id": "s236"
+    }
+  ]
+}

@@ -1,0 +1,1468 @@
+{
+  "name": "Middleton Nominees Pty Ltd v Westpac Banking Corporation [2008] FCA 371 (19 March 2008)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2008/371.html",
+  "catchphrases": [
+    {
+      "text": "whether two-page \"form of acknowledgment\" attached to the back of four-page \"guarantee and indemnity\" constituted part of the contract or a separate document",
+      "id": "c0"
+    },
+    {
+      "text": "whether essential term of a contract, if unambiguous, may be modified by reference to the conflicting written terms of a contemporaneously-executed contract between different parties but part of the same transaction in order to obtain consistency between the contracts",
+      "id": "c1"
+    },
+    {
+      "text": "whether all-moneys \"dragnet clause\" in a guarantee agreement is to be limited by \"general principles of contract\" where such principles would lead to a construction contrary to the unambiguous and express terms of the clause",
+      "id": "c2"
+    },
+    {
+      "text": "contracts",
+      "id": "c3"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "INTRODUCTION \n \n1 In July 2004, Advance Health Care Properties Pty Ltd (\"Advance\") contracted to purchase land and the business known as \"Victoria by the Park\" located at 27 Victoria Street, Elsternwick (\"Victoria by the Park\") from PrimeLife Corporation Limited, PrimeLife Management Services Pty Ltd (collectively \"PrimeLife\") and Victoria Gardens Syndication Pty Ltd.",
+      "id": "s0"
+    },
+    {
+      "text": "The investment failed.",
+      "id": "s1"
+    },
+    {
+      "text": "The repercussions of that failed investment are far-reaching and extend beyond the borrower and providers of security to the financier, Westpac Banking Corporation (\"Westpac\"), and Westpac's legal advisers, Gadens Lawyers (\"Gadens\").",
+      "id": "s2"
+    },
+    {
+      "text": "2 Before turning to consider the extent of those repercussions, it is necessary to say something about the conduct of the parties and the role of the Court.",
+      "id": "s3"
+    },
+    {
+      "text": "In the course of the trial each party sought to level criticisms at the conduct of, and choices made by, the other participants in the events.",
+      "id": "s4"
+    },
+    {
+      "text": "The task of the Court is not, however, to attempt to apportion moral blame or responsibility.",
+      "id": "s5"
+    },
+    {
+      "text": "Rather, the role of the Court is to piece together what was said and done and determine where legal liability for that conduct and those choices should fall.",
+      "id": "s6"
+    },
+    {
+      "text": "3 Westpac, the Respondent and Cross-Claimant in the first cross-claim in these proceedings, provided finance to Advance to assist with its purchase of Victoria by the Park.",
+      "id": "s7"
+    },
+    {
+      "text": "Westpac also provided finance to the First Applicant, Middleton Nominees Pty Ltd (\"Middleton Nominees\"), to assist with payment of the deposit and to provide working capital for other purposes.",
+      "id": "s8"
+    },
+    {
+      "text": "In addition, Westpac provided the Third Cross-Respondent in the first cross-claim Ms Kirsch (the sole director of Advance), with a business cheque account (\"the Kirsch cheque account\").",
+      "id": "s9"
+    },
+    {
+      "text": "The Advance and Middleton Nominees credit facilities (\"the Facilities\") were secured, amongst other things, by mortgages and guarantees and indemnities from related entities and individuals.",
+      "id": "s10"
+    },
+    {
+      "text": "There is no dispute that certain amounts advanced under the Facilities have not been repaid to Westpac.",
+      "id": "s11"
+    },
+    {
+      "text": "4 This proceeding was brought by Middleton Nominees and two others (the Second Applicant, Mrs Sonia Kirszbaum and the Third Applicant, Nepalle Pty Ltd) under s 52 of the Trade Practices Act 1974 (Cth) (the \"TPA\") to challenge Westpac's entitlement to look to them to assist in repayment of the amounts advanced and unpaid.",
+      "id": "s12"
+    },
+    {
+      "text": "Unsurprisingly, Westpac disputed the Applicants' claims and filed a cross-claim seeking judgment for the amounts owing under the Facilities, judgment for the amount owing under the Kirsch cheque account and judgment for possession of the mortgaged properties provided as security for the Facilities.",
+      "id": "s13"
+    },
+    {
+      "text": "Westpac also cross-claimed against Gadens, which admitted the advice they provided to Westpac in connection with the Facilities was negligent.",
+      "id": "s14"
+    },
+    {
+      "text": "Gadens subsequently filed a cross-claim against a Westpac officer (the Cross-Respondent in the second cross-claim, Mr Geoffrey Schmidt) who was involved in discussions with Mrs Kirszbaum and her daughter Ms Kirsch about Westpac's financing of the Advance investment.",
+      "id": "s15"
+    },
+    {
+      "text": "The Fourth Cross-Respondent in the first cross-claim, Mr Boris Volkov, husband of Ms Kirsch, in turn cross-claimed against Westpac, alleging that Westpac was not entitled to look to him for repayment of amounts owed by Advance.",
+      "id": "s16"
+    },
+    {
+      "text": "5 These reasons for decision are structured as follows:\n \nI Westpac's debt claims\n \nII Applicants' and Mr Volkov's Grounds for Non-Recoverability by Westpac\n \n \n (a) Alleged Expiry of the Middleton Nominees Guarantee\n (b) Nepalle Restitution Claim\n (c) Volkov Guarantee Claim\n (d) Kirszbaum Guarantee Claim \n \n\nIII Apportionment Issues\n \nIV Conclusion\n I WESTPAC'S DEBT CLAIMS \n \n6 The circumstances giving rise to Westpac's debt claims are straightforward.",
+      "id": "s17"
+    },
+    {
+      "text": "Advance \n \n7 Advance executed a heads of agreement for the sale and purchase of Victoria by the Park on 29 July 2004.",
+      "id": "s18"
+    },
+    {
+      "text": "The purchase price was $13,750,000.",
+      "id": "s19"
+    },
+    {
+      "text": "The purchase was funded by a commercial bill line facility from Westpac to Advance in the amount of $12.1m.",
+      "id": "s20"
+    },
+    {
+      "text": "Westpac also provided an overdraft to Advance.",
+      "id": "s21"
+    },
+    {
+      "text": "Advance's commercial bill line of $12.1m was secured by:\n \n \n (1) a registered first-ranking mortgage given by Advance over Victoria by the Park and a registered and exclusive debenture granted by Advance over all its assets and uncalled capital.",
+      "id": "s22"
+    },
+    {
+      "text": "(These securities may be put to one side.",
+      "id": "s23"
+    },
+    {
+      "text": "Westpac appointed a receiver to Advance who sold Victoria by the Park);\n (2) a guarantee and indemnity from Middleton Nominees in its own right and as trustee for the Kirszbaum Family Trust (\"the Middleton Nominees Guarantee\") supported by: \n \n \n \n \n (a) a registered first and exclusive debenture granted by Middleton Nominees in its own right and as trustee for the Kirszbaum Family Trust over all its assets and uncalled capital; and \n (b) mortgages over properties owned by Middleton Nominees in its own right and as trustee for the Kirszbaum Family Trust, namely 148, 253 and 350 Lygon Street, Carlton, Victoria; \n \n \n \n \n (3) a guarantee and indemnity from Nepalle, limited to the value of a property at 44 Otira Road, Caulfield and supported by a first registered mortgage over that property (\"the Nepalle Guarantee\");\n (4) a guarantee and indemnity from Mr Volkov, limited to the value of the family home of Mr Volkov at 51 Lumeah Road, Caulfield (the \"Lumeah Road property\") and supported by a first registered and exclusive mortgage (the \"Volkov mortgage\") over the Lumeah Road property (\"the Volkov Guarantee\"); and\n (5) a guarantee and indemnity from Ms Kirsch limited to $12,100,000 together with interest and costs and a further 20% to cover any excesses (\"the Kirsch Guarantee\").",
+      "id": "s24"
+    },
+    {
+      "text": "Middleton Nominees \n \n8 Westpac provided four commercial bill facilities to Middleton Nominees pursuant to a business finance agreement dated 21 July 2005 (\"the Middleton Nominees Facilities\"), namely:\n \n \n (1) Facility \"B\", with a limit of $2,322,500, which was the continuation of an existing facility;\n (2) Facility \"C\", with a limit of $737,500, which was the continuation of an existing facility and which provided the funds necessary for Advance to pay the deposit to Primelife;\n (3) Facility \"D\", with a limit of $490,000, a new facility to assist in the purchase of an apartment in Toorak for Leonard Volkov, Ms Kirsch's son;\n (4) Facility \"E\", with a limit of $200,000, a new facility for working capital and Mrs Kirszbaum's ongoing living expenses.",
+      "id": "s25"
+    },
+    {
+      "text": "Westpac had also previously provided a cheque account to Middleton Nominees on 7 June 1995.",
+      "id": "s26"
+    },
+    {
+      "text": "9 The Middleton Nominees Facilities were secured by:\n \n \n (1) a fixed and floating charge given by Middleton Nominees in its own capacity and as trustee for the Kirszbaum Family Trust over all its assets and uncalled capital and registered on 6 July 1995;\n (2) mortgages given by Middleton Nominees over 148, 253 and 350 Lygon Street, Carlton and a property at 3/522 Toorak Road, Toorak;\n (3) a guarantee and indemnity provided by Mrs Kirszbaum in relation to all money which Middleton Nominees might owe Westpac as of 6 June 1995 or at any other time (\"the 1995 Kirszbaum Guarantee\"); and supported by mortgages given by Mrs Kirszbaum over 255, 257, 344, 346 and 348 Lygon Street, Carlton.",
+      "id": "s27"
+    },
+    {
+      "text": "Kirsch \n \n10 Finally, as noted above, Westpac provided Ms Kirsch with a business cheque account.",
+      "id": "s28"
+    },
+    {
+      "text": "Summary \n \n11 The amounts advanced by Westpac to Middleton Nominees, Advance and Ms Kirsch are not in dispute.",
+      "id": "s29"
+    },
+    {
+      "text": "Similarly, the amount of the debts and the securities provided to support those amounts, and the amounts realised by Westpac under securities that have been enforced, are not in dispute.",
+      "id": "s30"
+    },
+    {
+      "text": "There is no dispute that Westpac served demands for repayment of the amounts outstanding under the Facilities and that, as at 28 November 2007, the amounts owing were:\n Middleton Nominees Account Account No Amount Rate Commercial bills 033000-584633 $4,048,134.79 14.50% Cheque account 033165-502891 $263,759.39 18.70% $4,311,894.18 Advance $4,995,114.12 14.50% Ms Kirsch $58,105.83 Indicator lending rate plus a margin of 4%.",
+      "id": "s31"
+    },
+    {
+      "text": "12 Accordingly, Westpac seeks: \n \n \n (1) judgment against Middleton Nominees and Mrs Kirszbaum for amounts owing under facilities provided to Middleton Nominees;\n (2) judgment against Middleton Nominees (and by default, Mrs Kirszbaum) and Ms Kirsch for amounts owing under facilities provided to Advance;\n (3) judgment against Ms Kirsch for amounts owing under the business cheque account;\n (4) judgment for possession of the mortgaged properties of Middleton Nominees listed in para [9(2)] above and Mr Volkov listed in para [7(4)] above, as security for the facilities provided to and liabilities of Advance; and\n (5) judgment for possession of the mortgaged properties of Mrs Kirszbaum listed in para [9(3)] above, as security for the facilities provided to and liabilities of Middleton Nominees.",
+      "id": "s32"
+    },
+    {
+      "text": "13 The Applicants and Mr Volkov dispute that Westpac is entitled to orders in these or similar terms.",
+      "id": "s33"
+    },
+    {
+      "text": "They submit that Westpac is not entitled to recover the outstanding debts or to enforce the various securities to which those outstanding debts relate.",
+      "id": "s34"
+    },
+    {
+      "text": "Accordingly, it becomes necessary to consider each of the grounds upon which the Applicants and Mr Volkov contend that Westpac is not entitled to those orders.",
+      "id": "s35"
+    },
+    {
+      "text": "II APPLICANTS' AND MR VOLKOV'S GROUNDS FOR NON RECOVERABILITY BY WESTPAC \n \n14 The challenge to Westpac's entitlement to enforce its debt claims extends to Middleton Nominees, Nepalle, Mr Volkov and Mrs Kirszbaum.",
+      "id": "s36"
+    },
+    {
+      "text": "Each of these claims is considered separately under the following headings:\n \n(a) Alleged Expiry of Middleton Nominees Guarantee;\n \n(b) Nepalle Restitution Claim;\n \n(c) Volkov Guarantee Claim; and\n \n(d) 1995 Kirszbaum Guarantee Claim.",
+      "id": "s37"
+    },
+    {
+      "text": "Two points should be made at the outset.",
+      "id": "s38"
+    },
+    {
+      "text": "First, in final address counsel for the Applicants and Mr Volkov abandoned several other ways of putting the case which, until that point, had been pursued during the trial.",
+      "id": "s39"
+    },
+    {
+      "text": "Secondly, the chief weight of the arguments for the parties as finally formulated was placed upon what was alleged to have been said in two conversations: (1) a conversation on 24 June 2005 which undoubtedly did take place between Mrs Kirszbaum, Ms Kirsch and Mr Schmidt at Westpac premises in Mt Waverley when documents were signed; and (2) a conversation said to have taken place between Ms Kirsch, Mr Volkov and Mr Schmidt at the home of Ms Kirsch and Mr Volkov before Mr Volkov signed documents.",
+      "id": "s40"
+    },
+    {
+      "text": "(a) Alleged Expiry of Middleton Nominees Guarantee \n \n15 As noted earlier (see [7] above), on 4 July 2005 Westpac provided Advance with a commercial bill line facility of $12.1m.",
+      "id": "s41"
+    },
+    {
+      "text": "A Business Finance Agreement dated 24 June 2005 between Advance and Westpac (\"the Advance BFA\") set out the terms of that facility.",
+      "id": "s42"
+    },
+    {
+      "text": "The Advance BFA provided that the facility was for 6 months, expiring on 31 December 2005.",
+      "id": "s43"
+    },
+    {
+      "text": "No repayment was made on or before this date.",
+      "id": "s44"
+    },
+    {
+      "text": "Middleton Nominees gave the Middleton Nominees Guarantee as security for this facility (see [7(2)] above).",
+      "id": "s45"
+    },
+    {
+      "text": "It was an \"all-moneys\" guarantee in respect of money now or in the future owed by Advance to Westpac.",
+      "id": "s46"
+    },
+    {
+      "text": "The guarantee expressly provided that \" there is no limit on the amount to be paid under this document \".",
+      "id": "s47"
+    },
+    {
+      "text": "As noted earlier (par [7(2)] above), security for the guarantee was in the form of a debenture and mortgages over properties owned by Middleton Nominees at 148, 253 and 350 Lygon Street, Carlton, Victoria.",
+      "id": "s48"
+    },
+    {
+      "text": "The guarantee was in counterparts.",
+      "id": "s49"
+    },
+    {
+      "text": "Each counterpart was executed by Mrs Kirszbaum and her son, Louis Kirszbaum, the directors of Middleton Nominees.",
+      "id": "s50"
+    },
+    {
+      "text": "16 The Applicants contend that the Middleton Nominees Guarantee expired on 31 December 2005 and that, as a result, Middleton Nominees' liability under that guarantee is at an end.",
+      "id": "s51"
+    },
+    {
+      "text": "For the reasons that follow, I reject that claim.",
+      "id": "s52"
+    },
+    {
+      "text": "17 To understand the allegation that the Middleton Nominees Guarantee expired on 31 December 2005, it is necessary to understand the form of the document signed by Mrs Kirszbaum and her son.",
+      "id": "s53"
+    },
+    {
+      "text": "Each counterpart comprises a four-page document entitled \"Guarantee and Indemnity\" which was executed by Mrs Kirszbaum and her son.",
+      "id": "s54"
+    },
+    {
+      "text": "At the back is a further two-page document entitled \"Form of Acknowledgment --- Business Guarantor\" executed by Mrs Kirzsbaum.",
+      "id": "s55"
+    },
+    {
+      "text": "Each copy of the Acknowledgment contained a handwritten annotation in black ink written by Ms Kirsch which reads \" Expires 12/2005 as per WBC agreement \" (\"Expiry Term\").",
+      "id": "s56"
+    },
+    {
+      "text": "18 The Applicants contend that the Middleton Nominees Guarantee expired on 31 December 2005 on four alternative bases:\n \n (1) as a matter of contract, the guarantee contained the Expiry Term;\n \n (2) there was no consensus on the essential terms of the guarantee;\n \n (3) unilateral mistake;\n \n \n (4) Westpac and Mrs Kirszbaum made an oral agreement on 24 June 2005 that the guarantee would expire on 31 December 2005.",
+      "id": "s57"
+    },
+    {
+      "text": "19 However, framing the relevant issue in these ways may distract attention from the first essential step, which is to identify what exactly happened and what the parties agreed.",
+      "id": "s58"
+    },
+    {
+      "text": "Mrs Kirszbaum gave evidence which, at the risk of undue abbreviation, was to the effect that the written annotation \" Expires 12/2005 as per WBC agreement \" reflected an oral arrangement she and her daughter had struck with Mr Schmidt, a Westpac Bank Officer, on 24 June 2005.",
+      "id": "s59"
+    },
+    {
+      "text": "20 For reasons which are developed later (see [26] ff), the evidence of Mrs Kirszbaum and her daughter, Ms Kirsch does not establish that there was a conversation to the effect alleged.",
+      "id": "s60"
+    },
+    {
+      "text": "And because the evidence of oral communications to the effect recorded in the annotation is rejected, it follows that the agreement of guarantee between Westpac and Middleton Nominees is to be identified as contained in and constituted by the four-page written document entitled \"Guarantee and Indemnity\".",
+      "id": "s61"
+    },
+    {
+      "text": "21 As noted above, the Middleton Nominees Guarantee was a printed form comprising four pages under the heading \"Guarantee and Indemnity\".",
+      "id": "s62"
+    },
+    {
+      "text": "It identified the parties and contained the relevant terms.",
+      "id": "s63"
+    },
+    {
+      "text": "The security was described as being \" in respect of money now or in the future owed by\" Advance as the recipient of the loan moneys.",
+      "id": "s64"
+    },
+    {
+      "text": "The \"Guaranteed Obligations\" were identified as \" all liabilities and obligations of [Advance] ... now or in the future\" .",
+      "id": "s65"
+    },
+    {
+      "text": "Attached to the back of the Middleton Nominee's Guarantee was the Form of Acknowledgment.",
+      "id": "s66"
+    },
+    {
+      "text": "22 The Form of Acknowledgment attached to that document on which the critical handwritten annotation was made did not form part of the agreement of guarantee and indemnity between Westpac and Middleton Nominees.",
+      "id": "s67"
+    },
+    {
+      "text": "The Form of Acknowledgment referred to, but did not contain or constitute, an agreement between the parties.",
+      "id": "s68"
+    },
+    {
+      "text": "It was a document sought by Westpac as a record of statements made by Mrs Kirszbaum which Westpac could use if Mrs Kirszbaum were to later claim that she should not be held to be bound by the agreement because she did not understand it.",
+      "id": "s69"
+    },
+    {
+      "text": "As the High Court pointed out in Wilson v Anderson [2002] HCA 29 ; (2002) 213 CLR 401.",
+      "id": "s70"
+    },
+    {
+      "text": "418 [8] and Pacific Carriers Ltd v BNP Paribas [2004] HCA 35 ; (2004) 218 CLR 451 , 461-62 [22], it is the written terms of an agreement which speak to third parties.",
+      "id": "s71"
+    },
+    {
+      "text": "This is particularly so in commercial contexts where the agreement is recorded in a deed or other similar document.",
+      "id": "s72"
+    },
+    {
+      "text": "In the present case, it is the Guarantee and not the Form of Acknowledgment that records the terms of the bargain the parties made.",
+      "id": "s73"
+    },
+    {
+      "text": "23 However, even if the Form of Acknowledgment did form part of the Middleton Nominees Guarantee agreement (a conclusion I reject), the agreement did not contain the Expiry Term.",
+      "id": "s74"
+    },
+    {
+      "text": "For the reasons that are developed later (at [26] ff), I do not accept that Mrs Kirszbaum and Ms Kirsch had (as they swore) a conversation with Mr Schmidt of Westpac, on 24 June 2005, in which it was agreed that the Middleton Nominees Guarantee was for a limited term.",
+      "id": "s75"
+    },
+    {
+      "text": "Because I reject that evidence, it is not established that Mrs Kirszbaum ever offered or sought a new term limiting the duration of the liability.",
+      "id": "s76"
+    },
+    {
+      "text": "All I know from the evidence upon which I am prepared to act is that her daughter, Ms Kirsch, amended the Form of Acknowledgment after Mrs Kirszbaum had signed it and before Westpac provided money to Advance.",
+      "id": "s77"
+    },
+    {
+      "text": "There is nothing revealed by the evidence upon which I am prepared to act that connected Mrs Kirszbaum to this annotation.",
+      "id": "s78"
+    },
+    {
+      "text": "More particularly, there is nothing to show that Mrs Kirszbaum procured or even consented to the annotation or its contents.",
+      "id": "s79"
+    },
+    {
+      "text": "24 To the extent that Mrs Kirszbaum now contends otherwise, her contention is founded entirely upon her having discussed the matter with Mr Schmidt at Westpac.",
+      "id": "s80"
+    },
+    {
+      "text": "My rejection of her evidence of that conversation necessarily entails rejection of so much of the rest of her evidence as suggested that it was she who demanded the limitation on the term of the guarantee.",
+      "id": "s81"
+    },
+    {
+      "text": "25 It is not possible to say whether Mrs Kirszbaum's evidence about the supposed conversation with Mr Schmidt was affected by or even dictated by a misplaced loyalty to her daughter manifesting itself in proffering an innocent explanation for what in truth was her daughter's unilateral act in annotating the Form of Acknowledgment after her mother had signed it.",
+      "id": "s82"
+    },
+    {
+      "text": "But because I reject Mrs Kirszbaum's evidence about the conversation with Mr Schmidt and because I conclude that her daughter annotated the Form of Acknowledgment after her mother had signed it, it is not demonstrated that Mrs Kirszbaum executed either the Middleton Nominees Guarantee or the Form of Acknowledgment under any misapprehension as to the contents or effect of either document.",
+      "id": "s83"
+    },
+    {
+      "text": "Meeting on 24 June 2005 \n \n26 It is necessary to deal directly with the events of 24 June 2005.",
+      "id": "s84"
+    },
+    {
+      "text": "Much of what transpired on 24 June 2005 is not in dispute.",
+      "id": "s85"
+    },
+    {
+      "text": "There was a meeting held at the Mt Waverley, South East Business Banking Offices of Westpac on that day.",
+      "id": "s86"
+    },
+    {
+      "text": "The meeting was attended by Mrs Kirszbaum, Ms Kirsch and Mr Schmidt.",
+      "id": "s87"
+    },
+    {
+      "text": "At the meeting a number of documents relating to the Facilities were executed by Mrs Kirszbaum and Ms Kirsch.",
+      "id": "s88"
+    },
+    {
+      "text": "A deal of other evidence was given about the meeting including evidence about particular details of time and other circumstances.",
+      "id": "s89"
+    },
+    {
+      "text": "It is not necessary to consider those matters in detail.",
+      "id": "s90"
+    },
+    {
+      "text": "27 What is in dispute is whether the handwritten annotation to Question 6 on the Form of Acknowledgment (ie addition of the Expiry Term) was made by Ms Kirsch during the 24 June 2005 meeting and, if so, whether it was at the direction of and with the knowledge of Mr Schmidt as agent for Westpac.",
+      "id": "s91"
+    },
+    {
+      "text": "There is further disagreement about whether, at the end of the meeting, the pile of documents executed by Mrs Kirszbaum was retained by Mr Schmidt or was taken away by Ms Kirsch and returned to Westpac at a later date but before drawdown of the settlement moneys on 4 July 2005.",
+      "id": "s92"
+    },
+    {
+      "text": "28 Before considering the different versions of what transpired at the meeting, it is necessary to say something of Mr Schmidt's position in relation to the Facilities and his previous involvement with Mrs Kirszbaum.",
+      "id": "s93"
+    },
+    {
+      "text": "Since 1995, Mr Schmidt had been the Senior Relationship Manager for the business banking affairs of Mrs Kirszbaum and Middleton Nominees.",
+      "id": "s94"
+    },
+    {
+      "text": "That role continued until the recovery of debts from Middleton Nominees became Westpac's primary concern in 2006.",
+      "id": "s95"
+    },
+    {
+      "text": "Mr Schmidt described Mrs Kirszbaum as a shrewd business woman with whom he had irregular personal contact over a number of years.",
+      "id": "s96"
+    },
+    {
+      "text": "Mr Schmidt recalled meeting her approximately 12 times over a period of 9 years.",
+      "id": "s97"
+    },
+    {
+      "text": "However, Mr Schmidt was not the bank officer responsible for negotiating the final form of the Advance BFA.",
+      "id": "s98"
+    },
+    {
+      "text": "Mr Tim Keating, a Senior Business Development Manager in Westpac's Business Acquisition Group, undertook that role following the handover of the Advance business to him in early November 2004.",
+      "id": "s99"
+    },
+    {
+      "text": "29 There is no detailed contemporaneous note about what transpired at the 24 June 2005 meeting.",
+      "id": "s100"
+    },
+    {
+      "text": "The notes that do exist are of limited assistance.",
+      "id": "s101"
+    },
+    {
+      "text": "Mr Schmidt's work calendar for the week ending 24 June 2005 confirms a meeting between Mr Schmidt and Lola Kirsch on 24 June 2005 described as Docs signing .",
+      "id": "s102"
+    },
+    {
+      "text": "A further record of the meeting was entered by Mr Schmidt in a spirax notebook he maintained as follows:\n \n \n 24/6/05\n Sonja Kirszbaum\n 43 Aroona Road\n Caulfield\n Worth $1800 &#61948;\n $2,000,000 -- used Advance H\n \n \n\nNo other written record of the meeting on 24 June 2005 was tendered in evidence.",
+      "id": "s103"
+    },
+    {
+      "text": "30 Mrs Kirszbaum gave evidence that \" nothing was written in handwriting and [there were] no crossings out \" on the Middleton Nominees Guarantee or the Form of Acknowledgment at the commencement of the meeting at the bank on 24 June 2005 .",
+      "id": "s104"
+    },
+    {
+      "text": "Though sometimes vague and confused by questions that were put to her in cross-examination (on both 15 May 2007 and 21 November 2007), Mrs Kirszbaum was adamant about how the markings on the Guarantee and Form of Acknowledgment came about.",
+      "id": "s105"
+    },
+    {
+      "text": "Her evidence was that \" every dot and whatever's crossed off [Mr Schmidt] dictated or [Mr Schmidt] did it \".",
+      "id": "s106"
+    },
+    {
+      "text": "She insisted that all markings on the Guarantee and Form of Acknowledgment were done in Mr Schmidt's presence and at his direction.",
+      "id": "s107"
+    },
+    {
+      "text": "31 Ms Kirsch's evidence was consistent: that Mrs Kirszbaum directed her during the meeting at Westpac on 24 June 2005, and in Mr Schmidt's presence, to alter the Guarantee and Form of Acknowledgment in accordance with any instruction given to her by Mr Schmidt.",
+      "id": "s108"
+    },
+    {
+      "text": "Ms Kirsch gave evidence that, consistent with that direction, she made the annotation Expires 12/2005 as per WBC agreement first in pencil and then in black ink after Mr Schmidt directed her to do so.",
+      "id": "s109"
+    },
+    {
+      "text": "32 Like Mrs Kirszbaum, Ms Kirsch was adamant that the security documents were completed with the assistance and under the instructions of the bank's agent, Mr Schmidt.",
+      "id": "s110"
+    },
+    {
+      "text": "The circumstances in which the annotation was made to the Form of Acknowledgment were explained by Ms Kirsch in the following terms:\n \n \n Mr Schmidt did it with me.",
+      "id": "s111"
+    },
+    {
+      "text": "I wrote in the answers, and furthermore, [Mrs Kirszbaum] was arguing [with] him about the expiration of her guarantee, and he dictated to me those words, \"Expires 12/2005 as per WBC agreement.",
+      "id": "s112"
+    },
+    {
+      "text": "\" [Mr Schmidt] pointed and [I] wrote it, because [Mrs Kirszbaum] said, \"When will my guarantee expire?",
+      "id": "s113"
+    },
+    {
+      "text": "\" because [Mr Schmidt] kept saying, \"It's for a short time.",
+      "id": "s114"
+    },
+    {
+      "text": "\" \n \n \n\nMs Kirsch's evidence was that she understood all guarantees were to expire in December 2005.",
+      "id": "s115"
+    },
+    {
+      "text": "33 Ms Kirsch explained that the language of the annotation was not hers but was dictated by Mr Schmidt and included specialist acronyms and phrases that were unfamiliar to her.",
+      "id": "s116"
+    },
+    {
+      "text": "She accepted, however, that she understood \"WBC\" as an acronym for Westpac Banking Corporation and \"as per\" as \" legal type of language \".",
+      "id": "s117"
+    },
+    {
+      "text": "After the security documents and statutory declarations had been signed, Ms Kirsch gave evidence that the meeting concluded and that all of the documents were left with Mr Schmidt.",
+      "id": "s118"
+    },
+    {
+      "text": "So far as Ms Kirsch was concerned, \"Everything was signed, done, finished \".",
+      "id": "s119"
+    },
+    {
+      "text": "34 Mr Schmidt recalled Mrs Kirszbaum and Ms Kirsch arriving at his offices on 24 June 2005 with a \" big wad of documents \".",
+      "id": "s120"
+    },
+    {
+      "text": "He had not reviewed the documents before the meeting and gave evidence that there were no handwritten annotations on the Guarantee or the Form of Acknowledgment at the commencement of the meeting.",
+      "id": "s121"
+    },
+    {
+      "text": "Mr Schmidt stated that, after the meeting, Mrs Kirszbaum and Ms Kirsch \" took the documents away \" in order to procure the signature of Louis Kirszbaum.",
+      "id": "s122"
+    },
+    {
+      "text": "35 In his evidence, Mr Schmidt rejected any suggestion that he directed Ms Kirsch to alter the Form of Acknowledgment by adding the annotation Expires 12/2005 as per WBC agreement .",
+      "id": "s123"
+    },
+    {
+      "text": "Mr Schmidt was adamant that the words Expires 12/2005 as per WBC agreement were not written on the Form of Acknowledgment during the meeting in his presence.",
+      "id": "s124"
+    },
+    {
+      "text": "Further, he was adamant that during the course of the meeting neither the duration of the guarantee nor any proposal to limit its term was discussed.",
+      "id": "s125"
+    },
+    {
+      "text": "When asked to speculate about what he would have done if he had known about the annotation, he replied: \n \n \n I would question what it meant, and then it would tell me the security was going to expire, and that [would] void the transaction, I would need to call Tim Keating and say 'we've got a problem'.",
+      "id": "s126"
+    },
+    {
+      "text": "36 There are a number of reasons for rejecting Mrs Kirszbaum and Ms Kirsch's version of what transpired at the 24 June 2005 meeting.",
+      "id": "s127"
+    },
+    {
+      "text": "37 First, there is Mr Schmidt's role and Westpac's internal banking procedures.",
+      "id": "s128"
+    },
+    {
+      "text": "At the relevant time, Mr Schmidt was a senior relationship manager with Westpac with at least 38 years experience in banking.",
+      "id": "s129"
+    },
+    {
+      "text": "Having regard to his position and level of authority, it is most unlikely that Mr Schmidt would have unilaterally agreed to limit the duration of the Middleton Nominees Guarantee in the manner contended for by the Applicants.",
+      "id": "s130"
+    },
+    {
+      "text": "He simply was not authorised to do so and he was not responsible for this aspect of the Facilities.",
+      "id": "s131"
+    },
+    {
+      "text": "As noted earlier, from early November 2004, it was Mr Keating, Senior Business Development Manager in Westpac's Business Acquisition Group, and not Mr Schmidt, who was the Westpac bank officer responsible for putting together a finance proposal for submission to Westpac's credit area.",
+      "id": "s132"
+    },
+    {
+      "text": "And even then, neither Mr Schmidt nor Mr Keating was authorised to make unilateral decisions about, or alterations to, the security provided in support of the Facilities.",
+      "id": "s133"
+    },
+    {
+      "text": "Any variations to credit proposals required a request to be sent to the credit area of Westpac.",
+      "id": "s134"
+    },
+    {
+      "text": "The requests for approval of such changes were required to be in a prescribed form.",
+      "id": "s135"
+    },
+    {
+      "text": "38 Secondly, there is the location of the annotation recording the alleged limitation.",
+      "id": "s136"
+    },
+    {
+      "text": "If Mr Schmidt, as the agent of Westpac, had agreed to limit the term of the Guarantee, during the course of that meeting, one would expect that the annotation recording the alleged limitation would be effected by annotating the Guarantee, not the Form of Acknowledgment.",
+      "id": "s137"
+    },
+    {
+      "text": "Even if the Form of Acknowledgment did form part of the contract of Guarantee, those parts of the Guarantee relevant to liability remained unaltered and inconsistent with the annotation.",
+      "id": "s138"
+    },
+    {
+      "text": "It would be highly unusual for such a critical term to be altered without making any alteration to the primary section of the Guarantee in order to maintain consistency.",
+      "id": "s139"
+    },
+    {
+      "text": "39 Thirdly, the annotation was not initialled by Mrs Kirzsbaum.",
+      "id": "s140"
+    },
+    {
+      "text": "Had the annotation been made at the 24 June 2005 meeting by Ms Kirsch as she alleged (namely, at the direction of Mr Schmidt), one would have expected Mr Schmidt to have directed Mrs Kirszbaum to initial the annotation.",
+      "id": "s141"
+    },
+    {
+      "text": "40 Fourthly, the annotation is, at best, vague.",
+      "id": "s142"
+    },
+    {
+      "text": "If, as the Applicants allege, the annotation was intended to record an agreement struck between the Applicants and Mr Schmidt that the guarantee was to expire on 31 December 2005, then it is surprising that the annotation does not explicitly record that fact and, as noted earlier, record that directly on the Guarantee.",
+      "id": "s143"
+    },
+    {
+      "text": "41 Fifthly, the Applicants' suggestion that the phrase Expires 12/2005 as per WBC agreement refers to the finance term specified in the Advance BFA somehow provides support for the Applicants' version of the 24 June 2005 meeting is misguided.",
+      "id": "s144"
+    },
+    {
+      "text": "The Advance BFA was dated 24 June 2005, the same day as the meeting with Mr Schmidt.",
+      "id": "s145"
+    },
+    {
+      "text": "It was addressed to Ms Kirsch, the sole director of Advance.",
+      "id": "s146"
+    },
+    {
+      "text": "Ms Kirsch recalled receiving the document but did not recall when she received it.",
+      "id": "s147"
+    },
+    {
+      "text": "There was no evidence that Mrs Kirszbaum was shown the document or made aware of its contents.",
+      "id": "s148"
+    },
+    {
+      "text": "In the circumstances, even if Mrs Kirszbaum was aware of the annotation (which for the reasons expressed earlier I do not accept), it is unlikely that Mrs Kirszbaum was aware of the Advance BFA and the terms of it and would therefore have understood what the annotation conveyed.",
+      "id": "s149"
+    },
+    {
+      "text": "42 Sixthly, Mrs Kirszbaum was not a reluctant guarantor.",
+      "id": "s150"
+    },
+    {
+      "text": "Mr Schmidt gave evidence that when Mrs Kirszbaum attended the meeting with him on 24 June 2005, she offered to provide additional security in the form of her own home to enable her daughter, Ms Kirsch, to proceed to purchase Victoria by the Park without having to use vendor finance for part of the acquisition.",
+      "id": "s151"
+    },
+    {
+      "text": "Mrs Kirszbaum was not asked any questions about this matter and Mr Schmidt was not cross-examined about it.",
+      "id": "s152"
+    },
+    {
+      "text": "43 Seventhly, the allegation that the guarantees expired on 31 December 2005 was not raised until 19 October 2006.",
+      "id": "s153"
+    },
+    {
+      "text": "By that time, some critical events had occurred:\n \n(1) it was 10 months since the guarantees had allegedly expired;\n \n \n (2) it was over 6 months since Mrs Kirszbaum and Ms Kirsch met with officers at Westpac to discuss the Facilities and, in particular, the provision of additional short-term funding to Advance of $1.3m.",
+      "id": "s154"
+    },
+    {
+      "text": "On 1 May 2006, Mrs Kirszbaum, Ms Kirsch, a Mr Thomas from Westpac and another Westpac officer met at Westpac's offices.",
+      "id": "s155"
+    },
+    {
+      "text": "During the course of that meeting, the funding provided by Westpac to Middleton Nominees and Advance was discussed.",
+      "id": "s156"
+    },
+    {
+      "text": "Mr Thomas' unchallenged evidence was that he told Mrs Kirszbaum that the Advance Facility had expired three months earlier on 31 December 2005, that interest on the Facilities was not being paid and that her Lygon Street Properties which she had provided as security were at risk.",
+      "id": "s157"
+    },
+    {
+      "text": "Mrs Kirszbaum's appearance at the meeting was important.",
+      "id": "s158"
+    },
+    {
+      "text": "Not only was she a director of Middleton Nominees but she was also a personal guarantor of Middleton Nominees.",
+      "id": "s159"
+    },
+    {
+      "text": "During the course of that meeting, neither Mrs Kirszbaum nor Ms Kirsch suggested that the guarantees had expired.",
+      "id": "s160"
+    },
+    {
+      "text": "In fact, Mrs Kirszbaum was provided with a copy of a further BFA which outlined the terms of additional short term funding to Advance.",
+      "id": "s161"
+    },
+    {
+      "text": "That funding was secured by mortgages over two additional properties in Lygon Street which were owned by Mrs Kirszbaum;\n (3) in relation to moneys owing by Advance, it was 5 months since Westpac had issued demands to recover the outstanding debts.",
+      "id": "s162"
+    },
+    {
+      "text": "Westpac served a demand on Advance on 19 May 2006 and a further demand on Middleton Nominees on 25 May 2006.",
+      "id": "s163"
+    },
+    {
+      "text": "And in relation to the moneys owing by Middleton Nominees, Westpac issued a demand on 18 September 2006;\n (4) on 18 September 2006, the Applicants' then solicitors, Voitin Lawyers, wrote to Westpac's solicitors advising that their clients (Middleton Nominees and Mrs Kirzsbaum) were \" making inquiries as to the feasibility of addressing liabilities associated with the Advance ... facilities \".",
+      "id": "s164"
+    },
+    {
+      "text": "At that time, Westpac had placed other banking facilities associated with Middleton Nominees and Mrs Kirzsbaum into default; and\n (5) throughout 2006, the Applicants unsuccessfully attempted to refinance the debts with other financial institutions.",
+      "id": "s165"
+    },
+    {
+      "text": "This description of the conduct of the parties, continuing well into 2006, is inconsistent with any understanding having been reached on 24 June 2005 that the guarantees were to expire, and did expire, on 31 December 2005.",
+      "id": "s166"
+    },
+    {
+      "text": "44 Finally, I consider Ms Kirsch to be an unreliable witness.",
+      "id": "s167"
+    },
+    {
+      "text": "In addition to being implausible for the reasons stated above, her account of events also cannot be accepted on its own terms.",
+      "id": "s168"
+    },
+    {
+      "text": "Not only did she admit to forging the signature of others (including her mother, her husband and her brother) in relation to other documents relevant to other aspects of this matter, her evidence was shown on a number of occasions to be wrong.",
+      "id": "s169"
+    },
+    {
+      "text": "Accordingly, except where her evidence is independently corroborated, I do not accept it.",
+      "id": "s170"
+    },
+    {
+      "text": "As should now be clear, once the Applicants' account of the 24 June 2005 meeting is rejected as implausible and incredible, their expiry defence to the Middleton Nominees Guarantee fails regardless of whether it is framed as a term of the contract, lack of consensus, unilateral mistake, or subsequent oral modification of the earlier written contract.",
+      "id": "s171"
+    },
+    {
+      "text": "(b) Nepalle Restitution Claim \n \n45 The Applicants contend that findings in relation to the Middleton Nominees Guarantee also resolve the dispute about Westpac's entitlement to rely on a further \"all-moneys\" guarantee provided by Nepalle, the Nepalle Guarantee described earlier.",
+      "id": "s172"
+    },
+    {
+      "text": "46 As noted at [7(3)] above, the security offered by Nepalle under its guarantee comprised an exclusive mortgage over property at 44 Otira Road, Caulfield North (\"the Nepalle property\").",
+      "id": "s173"
+    },
+    {
+      "text": "Following the issue of a demand by Westpac for repayment of the Advance debt on Nepalle in May 2006, the Nepalle property was sold and proceeds of $1,066,887.88 were received by Westpac.",
+      "id": "s174"
+    },
+    {
+      "text": "The bank applied the proceeds to debts owing by Advance, including debts owing on the Advance overdraft facility .",
+      "id": "s175"
+    },
+    {
+      "text": "The Applicants contend they are entitled to restitution of that amount on the basis that (1) the Nepalle Guarantee expired at the same time as the Middleton Nominees Guarantee expired, namely 31 December 2005; and (2) Nepalle did not consent to Westpac applying the proceeds of sale in reduction of the Advance indebtedness.",
+      "id": "s176"
+    },
+    {
+      "text": "47 The success of the Nepalle Restitution Claim therefore depends on two issues:\n \n \n (1) a finding that the Middleton Nominees Guarantee expired on 31 December 2005; and\n (2) a finding that the handwritten annotation on the Form of Acknowledgment of the Middleton Nominees Guarantee somehow also limited the term of the Nepalle Guarantee.",
+      "id": "s177"
+    },
+    {
+      "text": "48 The first issue is addressed at paras [15]-[44] above.",
+      "id": "s178"
+    },
+    {
+      "text": "I am not satisfied that the Middleton Nominees Guarantee expired on 31 December 2005 whether as alleged or at all.",
+      "id": "s179"
+    },
+    {
+      "text": "In those circumstances, there is no basis for any argument that the Nepalle Guarantee was impliedly limited to 31 December 2005.",
+      "id": "s180"
+    },
+    {
+      "text": "There are a number of other reasons for rejecting the contention that the Nepalle Guarantee expired on 31 December 2005.",
+      "id": "s181"
+    },
+    {
+      "text": "49 First, at the time of the demand (25 May 2006), it was not contended that the Nepalle Guarantee had expired on 31 December 2005.",
+      "id": "s182"
+    },
+    {
+      "text": "In fact, in direct response to a written enquiry from Westpac, Nepalle's solicitors wrote to Westpac noting that Westpac, in its capacity as mortgagee, had lodged a caveat as security for the loans made by Westpac to the Advance Health Group and stating that:\n \n \n [W]e see no reason for [Westpac] not to agree to the lifting of the [c]aveat so that settlement can take place, particularly as all moneys from the sale will be going to [Westpac] for the purposes of reducing the debt.",
+      "id": "s183"
+    },
+    {
+      "text": "Again, this evidence strongly suggests that the Expiry Term does not reflect an agreement among the parties (or even the unilateral understanding of Mrs Kirszbaum as director of Nepalle) as of 24 June 2005.",
+      "id": "s184"
+    },
+    {
+      "text": "Had Mrs Kirszbaum been under the impression, wrongly or not, that the guarantees had expired months earlier, one would have expected her to have mentioned it to her solicitors, who then presumably would have at least raised the issue with Westpac rather than simply urging the bank to allow the property sale to settle and apply the proceeds to a non-existing debt.",
+      "id": "s185"
+    },
+    {
+      "text": "50 Secondly, Mrs Kirszbaum instructed her solicitor to pay the proceeds of sale to Westpac.",
+      "id": "s186"
+    },
+    {
+      "text": "During the course of her evidence, Mrs Kirszbaum suggested that she directed Mr Thomas to apply the proceeds to the Middleton Nominees debt.",
+      "id": "s187"
+    },
+    {
+      "text": "The allegation was never pleaded and Mr Thomas was not cross-examined about it.",
+      "id": "s188"
+    },
+    {
+      "text": "That is not surprising.",
+      "id": "s189"
+    },
+    {
+      "text": "At the time of the Nepalle demand, no demand had been made in relation to the Middleton Nominees Facilities.",
+      "id": "s190"
+    },
+    {
+      "text": "The allegation that the payment was appropriated to the wrong debt is rejected.",
+      "id": "s191"
+    },
+    {
+      "text": "51 Finally, in the circumstances, even if the Middleton Nominees Guarantee had expired on 31 December 2005 (which I do not accept), I am not satisfied that an essential term of a security document (the Nepalle Guarantee) should be implied from a second security contract (the Middleton Nominees Guarantee) relating to the same financing transaction but provided by a different entity.",
+      "id": "s192"
+    },
+    {
+      "text": "It is well established that what was said and done by parties to an agreement is part of the relevant context in which the agreement is construed: Codelfa Construction Pty Ltd v State Rail Authority (NSW) [1982] HCA 24 ; (1982) 149 CLR 337 , 348-53 (per Mason J) and Royal Botantic Gardens and Domain Trust v South Sydney City Council [2001] FCA 760 ; (2002) 76 ALJR 436 ; see also Chacmol Holdings Pty Ltd v Handberg [2005] FCAFC 40 ; (2005) 215 ALR 748 at [32] (per Tamberlin J) and [68]-[77]; Chitty on Contracts, 27 th ed, Sweet &amp; Maxwell, London, 1994 at [12057]; and McVeigh v National Bank of Australia [2000] FCA 187 at [30] (per Finkelstein J) and at [68] (per Kenny J) and Manks v Whiteley [1912] 1 Ch 735, 754 (per Fletcher-Moulton LJ).",
+      "id": "s193"
+    },
+    {
+      "text": "52 I accept that these authorities support the proposition that contemporaneously executed contracts forming part of the same transaction should, as a general rule, be read as a whole and construed by reference to each other: Star City Pty Limited v Commissioner of Taxation [2007] FCA 1701 at [52] .",
+      "id": "s194"
+    },
+    {
+      "text": "However, it would go well beyond any concept of contractual context to alter the terms of one contemporaneously executed contract by reference to another where, as here: (1) the parties to each contract are not the same; (2) the term in the contract in question is not ambiguous; and (3) the term in the other contract is directly conflicting.",
+      "id": "s195"
+    },
+    {
+      "text": "This is especially so where the result is to require an essential term, such as the duration of the contract, to be amended from the written terms of one contract to obtain consistency between the two contracts.",
+      "id": "s196"
+    },
+    {
+      "text": "To do so would disrupt the longstanding rule that parties are bound by the unambiguous terms of their written agreement unless it is affected by fraud, mistake or misrepresentation: Equuscorp Pty Ltd v Glengallan Investments Pty Ltd [2004] HCA 55 ; (2004) 218 CLR 471 , 483-84 [33] and [35].",
+      "id": "s197"
+    },
+    {
+      "text": "The terms of the Nepalle Guarantee, including its duration, are not ambiguous.",
+      "id": "s198"
+    },
+    {
+      "text": "In the absence of such ambiguity, the written document stands on its own as a record of the agreement between the parties to it.",
+      "id": "s199"
+    },
+    {
+      "text": "53 In the circumstances, there is no basis upon which the Applicants can contend that Nepalle has a claim of money had and received.",
+      "id": "s200"
+    },
+    {
+      "text": "Its claim for expiry of the Nepalle Guarantee is without foundation.",
+      "id": "s201"
+    },
+    {
+      "text": "The payment was made voluntarily.",
+      "id": "s202"
+    },
+    {
+      "text": "Nepalle made the payment in satisfaction of its obligations under the Nepalle Guarantee.",
+      "id": "s203"
+    },
+    {
+      "text": "The amount Nepalle paid was received by Westpac in satisfaction of the partial discharge of the debt of a third party, Advance.",
+      "id": "s204"
+    },
+    {
+      "text": "There is no basis, whether as alleged or at all, which prevented Westpac from applying that voluntary payment in discharge of Advance's debt.",
+      "id": "s205"
+    },
+    {
+      "text": "(c) Volkov Guarantee Claim \n \n Introduction \n \n54 Westpac also seeks to rely on the guarantee provided by Mr Volkov in support of the financing facilities provided by the bank to Advance (the Volkov Guarantee - see [7] above).",
+      "id": "s206"
+    },
+    {
+      "text": "55 On 26 March 2007, Westpac demanded Mr Volkov pay $5,036,782.61 under the Volkov Guarantee.",
+      "id": "s207"
+    },
+    {
+      "text": "That amount has not been repaid.",
+      "id": "s208"
+    },
+    {
+      "text": "Westpac claims that it is entitled to take possession of the Lumeah Road property.",
+      "id": "s209"
+    },
+    {
+      "text": "56 Mr Volkov contends that he is not bound by the Volkov Guarantee.",
+      "id": "s210"
+    },
+    {
+      "text": "He seeks relief under s 87 of the TPA.",
+      "id": "s211"
+    },
+    {
+      "text": "In particular, he seeks orders permanently restraining Westpac from exercising rights under the Volkov Guarantee and the Volkov mortgage and requiring the discharge of the Volkov mortgage on the basis that although Mr Volkov signed the Volkov Guarantee, he executed it in reliance on false and misleading oral representations made to him by Mr Schmidt at a meeting at Mr Volkov's home on 24, 26, 27 or 28 June 2005 (\"the Volkov/Schmidt meeting\").",
+      "id": "s212"
+    },
+    {
+      "text": "The alleged representations were said to be made by Mr Schmidt in response to the explanations given by Mr Volkov for his reluctance to execute the Volkov guarantee, including:\n \n \n (1) Mr Volkov's disappointment that his plan to work at Victoria by the Park had been disrupted by Westpac's requirement that PrimeLife continue to manage the Victoria by the Park site after settlement and that these arrangements would leave Mr Volkov unemployed; and\n (2) the need for the Volkov Guarantee in circumstances where the Advance indebtedness was limited to 60% of the commercial value of the investment and the risk to the bank was therefore minimal \n \n\n57 In response, Mr Schmidt is alleged to have made the following representations:\n \n \n (1) the Volkov Guarantee required by Westpac was \" only a formality \" in light of Mr Schmidt's assessment that \"[Mr Volkov's] wife has got a good business worth $20 million for a bargain price \";\n (2) \" I know normally you can borrow 60% of the value [of the investment], but if you want quick money today I have to have all the security because that's part of head office's requirements\" ;\n (3) \"I've been a friend of [Mrs Kirszbaum] for many years.",
+      "id": "s213"
+    },
+    {
+      "text": "She can trust me and you can trust me too\" ;\n (4) \"the guarantee is only for a short time\" ; and\n (5) \"the guarantee will never be called on because the debt will be paid back very quickly through the sale of [b]onds\" .",
+      "id": "s214"
+    },
+    {
+      "text": "I address the substance of this claim below.",
+      "id": "s215"
+    },
+    {
+      "text": "58 Secondly, Mr Volkov seeks relief on the basis that the Code of Banking Practice (\"the Code\") provided for a condition precedent to acceptance and then enforcement by Westpac of the Volkov Guarantee and that, contrary to the express terms of cl 28.5 of the Code, Westpac:\n \n \n (1) failed to provide him with the related credit contracts, a list of security contracts and the final letter of offer to Advance; and\n (2) failed to comply with the requirement that the Volkov Guarantee be provided to a legal practitioner or financial advisor acting for Mr Volkov to arrange for it to be executed by Mr Volkov.",
+      "id": "s216"
+    },
+    {
+      "text": "The TPA Claim - Facts \n \n59 Mr Volkov executed a number of documents: (1) the Volkov Guarantee in relation to the Advance debt; (2) a solicitor's certificate regarding the advice provided to him prior to executing the Volkov Guarantee; (3) an Acknowledgment and authority to complete; and (4) the Volkov mortgage.",
+      "id": "s217"
+    },
+    {
+      "text": "60 Gadens, Westpac's solicitors, prepared these documents and arranged for the documents to be provided to Mr Volkov.",
+      "id": "s218"
+    },
+    {
+      "text": "The Volkov mortgage (document (4) in [59] above) was sent by Gadens to John Hogan &amp; Associates under cover of a letter dated 21 June 2005.",
+      "id": "s219"
+    },
+    {
+      "text": "Under cover of a letter dated 28 June 2005, the Volkov mortgage was sent by Gadens to Ms Kirsch for \"re-execution\" because the mortgage had been returned to Gadens without being executed by Advance.",
+      "id": "s220"
+    },
+    {
+      "text": "61 The Volkov Guarantee (document (1) in [59] above) and the Certificate of Independent Legal Advice (document (2) in [59] above), both of which were to be signed by Mr Volkov, were also sent by Gadens to John Hogan &amp; Associates under cover of a letter dated 22 June 2005.",
+      "id": "s221"
+    },
+    {
+      "text": "The covering letter stated that:\n \n \n Given this [Volkov] Guarantee complies with the Code of Banking Practice, please ensure that the provisions of the Code are complied with when providing the Guarantee to the guarantor.",
+      "id": "s222"
+    },
+    {
+      "text": "62 What then transpired?",
+      "id": "s223"
+    },
+    {
+      "text": "Mr Volkov's evidence was that he never saw Mr Hyman and did not know who Mr Hyman was, that he did not complete the \"yes\" responses in the Form of Acknowledgment that accompanied the Volkov Guarantee and that he is uncertain whether the signature on the Form of Acknowledgment that accompanied the Volkov Guarantee was his own.",
+      "id": "s224"
+    },
+    {
+      "text": "Ultimately, his evidence was that he was not sure whether it was his signature, but he did not deny it was his signature.",
+      "id": "s225"
+    },
+    {
+      "text": "On the other hand, his wife (Ms Kirsch) gave evidence that Mr Volkov did sign the guarantee.",
+      "id": "s226"
+    },
+    {
+      "text": "63 What is not in dispute is that the Volkov Guarantee and the Certificate of Independent Legal Advice bear signatures that appear to be those of Mr Volkov and a Mr Hyman and a date, 28 June 2005.",
+      "id": "s227"
+    },
+    {
+      "text": "What is in dispute are the circumstances in which these documents were executed.",
+      "id": "s228"
+    },
+    {
+      "text": "64 Mr Schmidt's evidence was that he played no role in the execution of these documents by Mr Volkov, did not attend the Lumeah Road property until after settlement of the Advance transaction and that at no time did he discuss these documents with Mr Volkov.",
+      "id": "s229"
+    },
+    {
+      "text": "Put simply, Mr Schmidt's evidence was that he was never made aware of any reluctance on the part of Mr Volkov to provide the Volkov Guarantee.",
+      "id": "s230"
+    },
+    {
+      "text": "As will become apparent, I accept Mr Schmidt's evidence.",
+      "id": "s231"
+    },
+    {
+      "text": "65 Mr Volkov's evidence was inconsistent with, and contradicted by, not only the contemporaneous documents but also by the evidence of Ms Kirsch.",
+      "id": "s232"
+    },
+    {
+      "text": "Each of Mr Volkov and Ms Kirsch made serious allegations about the conduct of both Mr Schmidt and Mr Hyman.",
+      "id": "s233"
+    },
+    {
+      "text": "I will deal with each in turn.",
+      "id": "s234"
+    },
+    {
+      "text": "66 The heart of the allegations in relation to Mr Schmidt lies in an alleged meeting at the Lumeah Road property between Mr Volkov, Ms Kirsch and Mr Schmidt on or about the evening of 24 June 2005.",
+      "id": "s235"
+    },
+    {
+      "text": "Mr Schmidt's evidence is that the alleged meeting with Mr Volkov concerning the Volkov Guarantee did not occur, that at no time did he discuss the documents identified in [59] with Mr Volkov, and that he was never made aware of any reluctance on the part of Mr Volkov to provide the Volkov Guarantee.",
+      "id": "s236"
+    },
+    {
+      "text": "67 As stated, Mr Volkov's evidence regarding the alleged meeting was inconsistent with that of his wife.",
+      "id": "s237"
+    },
+    {
+      "text": "A certain amount of inconsistency between witness accounts may be expected, at least in matters of detail.",
+      "id": "s238"
+    },
+    {
+      "text": "But in this case the extent and nature of the inconsistencies are so large as to raise serious issues.",
+      "id": "s239"
+    },
+    {
+      "text": "Those serious issues include the circumstances in which the meeting was arranged, the knowledge of Mr Volkov prior to the alleged meeting and finally, when the alleged meeting took place and what transpired at it.",
+      "id": "s240"
+    },
+    {
+      "text": "68 First, the circumstances in which the meeting was arranged.",
+      "id": "s241"
+    },
+    {
+      "text": "Mr Volkov's pleading alleged that a meeting was requested by Mr Schmidt during a telephone conversation with Ms Kirsch in the late morning or early afternoon of the day on which the meeting took place.",
+      "id": "s242"
+    },
+    {
+      "text": "The pleading went on to allege that it was during this telephone call that Ms Kirsch told Mr Schmidt that Mr Volkov was not going to sign the Volkov Guarantee or the Volkov mortgage.",
+      "id": "s243"
+    },
+    {
+      "text": "The evidence at trial did not support this allegation.",
+      "id": "s244"
+    },
+    {
+      "text": "Ms Kirsch's evidence was that she told Mr Schmidt of Mr Volkov's concerns regarding the Volkov Guarantee on 24 June 2005 when she and her mother went to meet him at Mt Waverley.",
+      "id": "s245"
+    },
+    {
+      "text": "Mrs Kirszbaum's evidence did not refer to any such discussion at that meeting.",
+      "id": "s246"
+    },
+    {
+      "text": "Mr Schmidt denied such a discussion occurred, whether at Mt Waverley or at any other place.",
+      "id": "s247"
+    },
+    {
+      "text": "69 Next, Mr Volkov's knowledge prior to the meeting.",
+      "id": "s248"
+    },
+    {
+      "text": "Ms Kirsch's evidence was that he knew of the Volkov Guarantee and was unwilling to give it and that was why she raised the issue with Mr Schmidt.",
+      "id": "s249"
+    },
+    {
+      "text": "On the other hand, Mr Volkov's evidence was that although he knew that Mr Schmidt was coming to his home, he had no prior notice that a guarantee was being sought from him prior to the alleged visit.",
+      "id": "s250"
+    },
+    {
+      "text": "70 Finally, when the alleged meeting was said to have occurred and what was said to have transpired at it.",
+      "id": "s251"
+    },
+    {
+      "text": "Ms Kirsch said the meeting took place sometime between 4.30pm and 6.30pm on 24 June 2005 and that Mr Schmidt's visit was primarily to convince Mr Volkov to sign the Volkov Guarantee.",
+      "id": "s252"
+    },
+    {
+      "text": "The alleged meeting was said to have lasted for one and a half hours, during the course of which, Mr Schmidt's wife telephoned him requesting that he return home for dinner.",
+      "id": "s253"
+    },
+    {
+      "text": "Ms Kirsch's evidence was that Mr Schmidt ultimately talked Mr Volkov into signing the guarantee although Mr Volkov did not sign the guarantee in front of Mr Schmidt.",
+      "id": "s254"
+    },
+    {
+      "text": "71 Mr Volkov gave evidence that Mr Schmidt attended his home on the evening of the alleged Volkov/Schmidt meeting and asked him to \"give guarantee on [his] house\" .",
+      "id": "s255"
+    },
+    {
+      "text": "Mr Volkov was adamant that he expressed strong resistance to this proposal and that he was upset by the request to sign the guarantee because it was a legal document and his English was poor.",
+      "id": "s256"
+    },
+    {
+      "text": "Mr Volkov described the conversation in the following terms:\n \n \n [H]e said how lucky I am, how --- how cheap place, what we bought... [H]e ask me to...sign [a] paper for my house, to give guarantee on my house and this make me upset.",
+      "id": "s257"
+    },
+    {
+      "text": "I said why --- why [do] I need this, it's not been discussed ...before.",
+      "id": "s258"
+    },
+    {
+      "text": "[Mr Schmidt] never says before because I knew when I first discussed with him what --- nobody mention my house because this property --- this Victoria By the Park valuated by --- I think so 20 or something million dollars and there's been enough money.",
+      "id": "s259"
+    },
+    {
+      "text": "This what we discussed...that I'm very upset and I said I don't think ...",
+      "id": "s260"
+    },
+    {
+      "text": "I have to sign this and what's he's told ... me, this is just detail, this what bank want and it's not important really, but if you want quick money --- I mean if Lola want quick money you just sign it for short time only and you can trust me, I deal with your mother-in-law for many, many years and she can trust me because she done well with me and for me to think about that[.",
+      "id": "s261"
+    },
+    {
+      "text": "] I still don't want to sign and he tell me about history again, about, like, relationship with mother-in-law --- with Sonia Kirszbaum, and I never want to sign ... [and] then I stopped talking with him because I'm really ... upset.",
+      "id": "s262"
+    },
+    {
+      "text": "This passage was a response by Mr Volkov to being shown the Volkov Guarantee and being asked to explain how he signed it.",
+      "id": "s263"
+    },
+    {
+      "text": "72 Mr Volkov then said that he could not recall whether he signed the Volkov Guarantee at the Volkov / Schmidt meeting or in the presence of Mr Schmidt at some other time.",
+      "id": "s264"
+    },
+    {
+      "text": "He was unable to identify the handwriting on the Volkov Guarantee, including the signature of guarantor, as his own, and reiterated in his evidence that he would have signed at the direction of Ms Kirsch.",
+      "id": "s265"
+    },
+    {
+      "text": "Mr Volkov said, \" [I]f my wife ask me something, 'sign this', I not think twice \".",
+      "id": "s266"
+    },
+    {
+      "text": "73 I accept that at the time of trial, Mr Volkov was extremely distressed by the prospect that Westpac's entitlement to rely on the Volkov Guarantee would have the effect that he would lose his residential property.",
+      "id": "s267"
+    },
+    {
+      "text": "However, I am not satisfied that any conversation took place between Mr Schmidt and Mr Volkov about the Volkov Guarantee.",
+      "id": "s268"
+    },
+    {
+      "text": "Moreover, there is no reliable evidential foundation for the alleged representations.",
+      "id": "s269"
+    },
+    {
+      "text": "Mr Volkov's evidence was confused, failed to corroborate his wife's testimony on almost all significant points, and created the impression that his present distress at the possible outcome of the case clouded his accurate recollection of events as they transpired in mid-2005.",
+      "id": "s270"
+    },
+    {
+      "text": "Neither am I convinced that the handwritten annotations and signatures on the Volkov Guarantee do not belong to Mr Volkov.",
+      "id": "s271"
+    },
+    {
+      "text": "Mr Volkov acknowledged that he would have deferred to Ms Kirsch's direction in executing documents without exercising independent judgment about the documents.",
+      "id": "s272"
+    },
+    {
+      "text": "Mr Hyman \n \n74 As noted earlier, Mr Volkov told the Court that he had never seen Mr Hyman and did not know Mr Hyman.",
+      "id": "s273"
+    },
+    {
+      "text": "Ms Kirsch gave evidence that Mr Volkov signed the Volkov Guarantee but not on the evening of the alleged meeting with Mr Schmidt.",
+      "id": "s274"
+    },
+    {
+      "text": "Her evidence was that Mr Hyman witnessed the documents in his capacity as legal adviser but not in the presence of Mr Volkov.",
+      "id": "s275"
+    },
+    {
+      "text": "I do not accept the allegations made in relation to Mr Hyman.",
+      "id": "s276"
+    },
+    {
+      "text": "The contemporaneous documents record:\n \n \n (1) Mr Hyman, as a solicitor, witnessing the signature of Mr Volkov on 28 June 2005;\n (2) Mr Hyman, as a solicitor, having interviewed Mr Volkov and having explained to him the general nature and effect of the mortgage and Volkov Guarantee; and\n (3) Mr Volkov stating to Mr Hyman that he understood the general nature and effect of the mortgage and Volkov Guarantee and the obligations and risks involved in signing the documents.",
+      "id": "s277"
+    },
+    {
+      "text": "Mr Hyman was not called by either side to give evidence and his absence was not explained.",
+      "id": "s278"
+    },
+    {
+      "text": "However, because I was not asked to draw any inference from his absence, I do not draw one or find it necessary to comment on whether it would have been appropriate to do so had a request been made.",
+      "id": "s279"
+    },
+    {
+      "text": "In the end, I find that the documentary record establishes that events transpired in the way described in those documents and that the evidence of Mr Volkov, given its contradictions with the testimony of Mr Schmidt and Ms Kirsch and its equivocations as to the provenance of the signatures, does nothing to displace or rebut that prima facie documentary evidence.",
+      "id": "s280"
+    },
+    {
+      "text": "Conclusions: The TPA Claim \n \n75 The TPA claim fails because: \n \n \n (1) I am not satisfied that the alleged representations were made by Mr Schmidt to Mr Volkov at a meeting at the home of Mr Volkov or at all; and \n (2) I am satisfied that Mr Volkov signed the Volkov Guarantee in the presence of his solicitor and after the legal risks of signing the security documents were explained to him.",
+      "id": "s281"
+    },
+    {
+      "text": "The Code of Banking Practice \n \n76 As outlined at [58] above, Mr Volkov also alleged that the Volkov Guarantee was not enforceable because Westpac failed to comply with provisions of the Code that comprised conditions precedent to a valid contract of guarantee.",
+      "id": "s282"
+    },
+    {
+      "text": "There is no dispute that the provisions of the Code applied to the Volkov Guarantee.",
+      "id": "s283"
+    },
+    {
+      "text": "This arrangement is reflected in the printed words on the first page of the Volkov Guarantee: \" The relevant provisions of the [Code] apply to the [Volkov Guarantee] \".",
+      "id": "s284"
+    },
+    {
+      "text": "77 Clause 3.2 of the Code says that Code was intended to impose specific obligations on Westpac in its provision of banking services: \n \n \n If [the] Code imposes an obligation on [Westpac], in addition to obligations applying under a relevant law, [Westpac] will also comply with [the] Code except where doing so would lead to a breach of a law...\n \n \n\n78 The obligations that are the subject of Mr Volkov's cross-claim against Westpac are found in cll 28.4 and 28.5 of the Code, which provided that:\n \n \n \n 28.4 [Westpac] will do the following things before [taking] a Guarantee from [Mr Volkov]: \n \n \n \n \n \n \n \n (a) [Westpac] will give [Mr Volkov] a prominent notice that: \n (i) [Mr Volkov] should seek independent legal and financial advice on the effect of the Guarantee; \n (ii) [Mr Volkov] can refuse to enter in the Guarantee; \n (iii) there are financial risks involved; \n (iv) [Mr Volkov has] a right to limit [his] liability in accordance with this Code and as allowed by law; and \n (v) [Mr Volkov] can request information about the transaction or facility to be guaranteed... \n \n \n \n \n \n ... \n \n (d) [Westpac] will provide [Mr Volkov] with a copy of: \n \n \n \n (i) any related credit contract together with a list of any related security contracts which will include a description of the type of each related security contract and of the property subject to, or proposed to be subject to, the security contract to the extent to which that property is ascertainable and [Westpac] will also give [Mr Volkov] a copy of any related security contract that [he] request[s]; \n \n (ii) the final letter of offer provided to the debtor by [Westpac] together with details of any conditions in an earlier version of that letter of offer that were satisfied before the final letter of offer was issued; \n \n (iii) any related credit report from a credit reporting agency; \n \n \n ... \n \n \n \n \n 28.5 [Westpac] will not ask [Mr Volkov] to sign a Guarantee, or accept it, unless [Westpac] have: \n \n \n \n \n (a) provided [Mr Volkov] with the information described in clause 28.4 to the extent that that information is required by this Code to be given to [Mr Volkov]; and \n \n (b) allowed [Mr Volkov] until the next day to consider that information.",
+      "id": "s285"
+    },
+    {
+      "text": "[Westpac does] not have to allow [Mr Volkov] the period referred to in clause 28.5(b) if [he has] obtained independent legal advice after having received the information required by clause 28.4.",
+      "id": "s286"
+    },
+    {
+      "text": "79 Mr Volkov does not say that Westpac failed to comply with any of the undertakings identified in cl 28.4(a) of the Code.",
+      "id": "s287"
+    },
+    {
+      "text": "Rather, Mr Volkov claims that:\n \n \n (1) the information identified in cll 28.4(d)(i), 28.4(d)(ii) and 28.5(a) (\"the security documents\") was not provided to him; and \n (2) Westpac did not comply with the requirements in cl 28.5(b).",
+      "id": "s288"
+    },
+    {
+      "text": "Both allegations are without foundation.",
+      "id": "s289"
+    },
+    {
+      "text": "Mr Volkov failed to adduce any evidence to support his allegations other than his own testimony, which I reject for the reasons discussed earlier.",
+      "id": "s290"
+    },
+    {
+      "text": "I am satisfied on the balance of the probabilities that the documentary evidence that was tendered, which contradicts Mr Volkov's claims on all key points, establishes the sequence of events.",
+      "id": "s291"
+    },
+    {
+      "text": "Alleged breach of cl 28.4(d)(i) of the Code \n \n80 As noted at para [74] above, a certificate was executed by a solicitor, Mr Hyman, documenting a meeting between him and Mr Volkov about the Volkov Guarantee prior to its execution (\"the solicitor's certificate\").",
+      "id": "s292"
+    },
+    {
+      "text": "The solicitor's certificate was addressed to Westpac and identified Mr Hyman as a \" solicitor...not acting for [Westpac] or [Advance] in this transaction\" who had been asked to interview Mr Volkov, as guarantor.",
+      "id": "s293"
+    },
+    {
+      "text": "It stated:\n \n \n I HAVE BEEN PROVIDED WITH THE FOLLOWING DOCUMENTS: \n \n \n \n \n \n &#8226; Deed of Guarantee and Indemnity \n &#8226; Mortgage of Land \n &#8226; Memorandum of Common Provisions No.",
+      "id": "s294"
+    },
+    {
+      "text": "AA776 \n &#8226; Business Finance Agreement \n \n \n \n \n\n81 Part B of the solicitor's certificate certified that the following explanations were provided by Mr Hyman to Mr Volkov:\n \n \n I CERTIFY that in the absence of the borrower and before [Mr Volkov] signed the documents, I EXPLAINED to [him]: \n \n \n \n \n \n &#8226; the general nature and effects of the documents required to be signed by the guarantor; \n &#8226; that if the borrower defaults in payment or in other obligations to [Westpac] the guarantor would be liable to make good that default which could involve all amounts owed by the borrower to [Westpac] and substantial arrears of interest; \n &#8226; that the giving of a guarantee involves considerable risk, including the risk of losing any security, property and other assets and requires very careful thought.",
+      "id": "s295"
+    },
+    {
+      "text": "... \n \n \n\n82 Part D of the solicitor's certificate included a statement by Mr Volkov in the following terms:\n \n \n FOLLOWING THE ABOVE EXPLANATIONS, [Mr Volkov] stated to me: \n \n \n \n \n \n &#8226; that he...understood the general nature and effect of the documents and the obligations and risks involved in signing those documents.",
+      "id": "s296"
+    },
+    {
+      "text": "It appeared to me that [he] did have such understanding.",
+      "id": "s297"
+    },
+    {
+      "text": "&#8226; that he...[was] signing these documents freely, voluntarily and without pressure from the borrower or any other person.",
+      "id": "s298"
+    },
+    {
+      "text": "83 The solicitor's certificate records that it was executed by Mr Hyman and Mr Volkov on 28 June 2005.",
+      "id": "s299"
+    },
+    {
+      "text": "84 The solicitor's certificate establishes that a copy of the Advance BFA was provided to Mr Volkov and its contents were explained by Mr Hyman to Mr Volkov prior to its execution by Mr Volkov.",
+      "id": "s300"
+    },
+    {
+      "text": "That is a complete answer to Mr Volkov's claim that he was not provided with a copy of the \" relevant credit contract \" under cl 28.4(d)(i) of the Code.",
+      "id": "s301"
+    },
+    {
+      "text": "Mr Volkov had a copy of the Advance BFA as well as the related security documents to be executed by him and had the contents of them explained to him before undertaking any obligation as guarantor.",
+      "id": "s302"
+    },
+    {
+      "text": "Alleged breach of cl 28.5 of the Code \n \n85 The solicitor's certificate also establishes that Mr Volkov had access to \" independent\" legal advice about his obligations under the Volkov Guarantee before executing it and that he must have executed the Volkov Guarantee on or after the meeting on 28 June 2005.",
+      "id": "s303"
+    },
+    {
+      "text": "The allegation that the legal advice identified under cl 28.5 was not available or obtained by Mr Volkov is rejected.",
+      "id": "s304"
+    },
+    {
+      "text": "Alleged breach of cl 28.4(d)(ii) and (iii) of the Code \n \n86 The solicitor's certificate does not establish, however, that Mr Volkov was also in possession of a \" final letter of offer provided to the debtor by [Westpac] \" or a \" related credit report \", if any, as required by cl 28.4(d)(ii) and (iii) of the Code.",
+      "id": "s305"
+    },
+    {
+      "text": "Mr Volkov has the burden of establishing that he did not receive those documents.",
+      "id": "s306"
+    },
+    {
+      "text": "Given the difficulties involved in proving a negative, Mr Volkov's denial of receipt of such documents, if credible, might have carried significant, if not conclusive, weight.",
+      "id": "s307"
+    },
+    {
+      "text": "However, as I have explained, I cannot accept Mr Volkov's account of events as reliable.",
+      "id": "s308"
+    },
+    {
+      "text": "His case rests on a particular account of when and how the Volkov Guarantee was signed, which I do not accept (see [59]-[74] above).",
+      "id": "s309"
+    },
+    {
+      "text": "Because Mr Volkov failed to adduce any other evidence to support his cross-claim, it must fail.",
+      "id": "s310"
+    },
+    {
+      "text": "(d) 1995 Kirszbaum Guarantee Claim.",
+      "id": "s311"
+    },
+    {
+      "text": "87 As outlined at [9] above, the Middleton Nominees Facilities were supported by the securities listed in the Middleton Nominees business finance agreement.",
+      "id": "s312"
+    },
+    {
+      "text": "Those securities included including the 1995 Kirszbaum Guarantee.",
+      "id": "s313"
+    },
+    {
+      "text": "Security for the 1995 Kirszbaum Guarantee was in the form of a mortgage over 255, 257, 344, 346 and 350 Lygon Street, Carlton and 61-65 Kooyong Road, Caulfield (\"the Kirszbaum Properties\").",
+      "id": "s314"
+    },
+    {
+      "text": "88 Westpac submitted that the 1995 Kirszbaum Guarantee secures all of Middleton Nominees' current liability to Westpac including any liability of Middleton Nominees as guarantor of the Advance debt.",
+      "id": "s315"
+    },
+    {
+      "text": "The Applicants disputed that the 1995 Kirszbaum Guarantee also secured the Advance debt on the ground that it could not be said that the Advance debt was of the same type or character as the original debt secured by the 1995 Kirszbaum Guarantee or that the Advance transaction documents refer back to the 1995 Kirszbaum Guarantee.",
+      "id": "s316"
+    },
+    {
+      "text": "In other words, the Applicants contended that it was not the intention of the parties for the Advance debt to be secured by the 1995 Kirszbaum Guarantee and the Kirszbaum Properties.",
+      "id": "s317"
+    },
+    {
+      "text": "For the following reasons, I reject that submission.",
+      "id": "s318"
+    },
+    {
+      "text": "Terms of the 1995 Kirszbaum Guarantee \n \n89 The terms of the 1995 Kirszbaum Guarantee are important.",
+      "id": "s319"
+    },
+    {
+      "text": "First, there is no limit on the amount to be paid under it: cl 3.",
+      "id": "s320"
+    },
+    {
+      "text": "Secondly, cl 2 is headed \"What is Covered by this Guarantee\".",
+      "id": "s321"
+    },
+    {
+      "text": "It provides:\n \n \n This document relates to all money which [Middleton Nominees] may owe to [Westpac] now or in the future for any reason.",
+      "id": "s322"
+    },
+    {
+      "text": "This is the \" Guaranteed Money \".",
+      "id": "s323"
+    },
+    {
+      "text": "...\n \n At any time, the Guaranteed Money will also include the following.",
+      "id": "s324"
+    },
+    {
+      "text": "(a) money which [Middleton Nominees] contingently owes [Westpac] (money is \"contingently\" owed where the Customer has an obligation to pay [Westpac] if something happens or is discovered).",
+      "id": "s325"
+    },
+    {
+      "text": "...\n \n (b) Money which [Middleton Nominees] may owe [Westpac] after that time of something happens or is discovered, even where there is no existing obligation to pay it, so long as it arises out of or in relation to circumstances existing, foreseeable or contemplated at the time.",
+      "id": "s326"
+    },
+    {
+      "text": "(c) Money which [Middleton Nominees] is or becomes liable to pay [Westpac] under another guarantee or indemnity.",
+      "id": "s327"
+    },
+    {
+      "text": "...\n \n \n \n\n90 Thirdly, Westpac was under no obligation to do anything in relation to, or to tell Mrs Kirszbaum anything concerning, Middelton Nominees' affairs, finances or transactions with Westpac.",
+      "id": "s328"
+    },
+    {
+      "text": "The responsibility rested with Mrs Kirszbaum both before and after the guarantee was signed: cl 12.",
+      "id": "s329"
+    },
+    {
+      "text": "Moreover, Mrs Kirszbaum was liable to pay all Guaranteed Money including under replacement or changed \"Arrangements\": cl 13.",
+      "id": "s330"
+    },
+    {
+      "text": "The term \"Arrangement\" was defined in cl 35 to mean:\n \n \n any document, agreement or dealing of any sort between [Westpac] and [Middleton Nominees] (whether or not with others) including where [Westpac] or [Middleton Nominees] becomes a party because of an assignment.",
+      "id": "s331"
+    },
+    {
+      "text": "Construction of the 1995 Kirszbaum Guarantee \n \n91 As submitted by Westpac the language of the 1995 Kirszbaum Guarantee is unequivocal.",
+      "id": "s332"
+    },
+    {
+      "text": "The Applicants did not contend to the contrary.",
+      "id": "s333"
+    },
+    {
+      "text": "It is a guarantee that covers all moneys that Middleton Nominees \" is or becomes liable to pay [Westpac] under another guarantee or indemnity \".",
+      "id": "s334"
+    },
+    {
+      "text": "Accordingly, the principle that \" ambiguous contractual provisions should be construed in favour of the [guarantor]\" does not arise: Ankar Pty Ltd v National Westminster Finance (Australia) Ltd [1987] HCA 15 ; (1987) 162 CLR 549 , 561 and Andar Transport Pty Ltd v Brambles Ltd [2004] HCA 28 ; (2004) 217 CLR 424 , 433-437 [17] --- [23].",
+      "id": "s335"
+    },
+    {
+      "text": "92 However, the Applicants contend that despite the unequivocal words of the 1995 Kirszbaum Guarantee, the proper construction of the guarantee is not to be determined solely by reference to its express terms but by reference to what they describe as \"general rules of construction\" to be applied in determining the intention of the parties in respect of the \"all moneys\" or \"dragnet clause\".",
+      "id": "s336"
+    },
+    {
+      "text": "These general rules of construction were said to be found in the decision of Young J in Estoril Investments Pty Ltd v Westpac Banking Corporation (1993) 6 BPR 13,146, 13,151.",
+      "id": "s337"
+    },
+    {
+      "text": "Those reasons for decision and the subsequent authorities do not support the Applicants' submission.",
+      "id": "s338"
+    },
+    {
+      "text": "93 In fact, what Young J summarised were not rules of construction but \" guidelines which illustrate how court often approach dragnet clauses provided that the language permits them to do so\" : Estoril Investments , 6 BPR 13,146 at 13,151; see also Smith v Australian and New Zealand Banking Group Ltd [1996] NSW ConvR 55-774.",
+      "id": "s339"
+    },
+    {
+      "text": "Nine \"guidelines\" were set out.",
+      "id": "s340"
+    },
+    {
+      "text": "They are no more than guidelines.",
+      "id": "s341"
+    },
+    {
+      "text": "What Young J did was to take a number of the guidelines and analyse whether the guidelines represented the position in Australia.",
+      "id": "s342"
+    },
+    {
+      "text": "The conclusion his Honour reached is best illustrated by looking at the second guideline that \" only debts of the same type or character as the original debt are secured by the mortgage\" .",
+      "id": "s343"
+    },
+    {
+      "text": "After analysing the authorities in the United States, England, New Zealand and Australia, Young J concluded as follows:\n \n \n I also believe that it is fair to say that in many cases the Court will come to the view as stated in proposition (2) above.",
+      "id": "s344"
+    },
+    {
+      "text": "However, that is a very different thing from saying that there is some general rule that mortgages must be construed as if they were limited to debts of the same type as those for which the mortgage was originally taken out.",
+      "id": "s345"
+    },
+    {
+      "text": "94 It is therefore unsurprising that subsequent decisions have considered the guidelines to be of limited utility: Smith v Australian and New Zealand Banking Group Ltd [1996] NSW ConvR 55-774 ; Murphy; re Bankrupt Estate of; Donnelly v Commonwealth Bank of Australia (1996) 140 ALR 46 , 54 and McVeigh v The National Australia Bank Ltd [2000] FCA 187.",
+      "id": "s346"
+    },
+    {
+      "text": "95 However, even if the guidelines were to be applied, the Applicants' position is not improved.",
+      "id": "s347"
+    },
+    {
+      "text": "First, as conceded by the Applicants, the language of the 1995 Kirszbaum Guarantee is unequivocal.",
+      "id": "s348"
+    },
+    {
+      "text": "Secondly, it cannot be said that the Advance debt is not of the same type as those debts for which the 1995 Kirszbaum Guarantee was given and, thirdly, it cannot be said that Mrs Kirszbaum could not have reasonably contemplated that the 1995 Kirszbaum Guarantee was limited.",
+      "id": "s349"
+    },
+    {
+      "text": "It was not.",
+      "id": "s350"
+    },
+    {
+      "text": "96 In the present case, the 1995 Kirszbaum Guarantee secures all of Middleton Nominees' current liability to Westpac including any liability of Middleton Nominees as guarantor of the Advance commercial bill facility pursuant to the Middleton Nominees Guarantee.",
+      "id": "s351"
+    },
+    {
+      "text": "III APPORTIONMENT ISSUES \n \n97 As noted above, Westpac cross-claimed against Gadens, which admitted the advice it provided to Westpac in connection with the Facilities was negligent.",
+      "id": "s352"
+    },
+    {
+      "text": "Gadens subsequently filed a cross-claim against Mr Schmidt as a result of what was said to have transpired at the meeting on 24 June 2005 at Westpac's offices.",
+      "id": "s353"
+    },
+    {
+      "text": "The failure of the Applicants' claims (and Mr Volkov's cross-claim) and success of Westpac's cross-claim against the First to Fourth Cross-Respondents means that it is unnecessary to consider any question of apportionment in relation to either of these claims.",
+      "id": "s354"
+    },
+    {
+      "text": "IV CONCLUSION \n \n98 As should be clear from these reasons, the claims of the Applicants and the First to Fourth Cross-Respondents in the first cross-claim have failed wholly.",
+      "id": "s355"
+    },
+    {
+      "text": "However, I do not propose to make final orders today.",
+      "id": "s356"
+    },
+    {
+      "text": "I will instead order the parties to confer and jointly file short minutes of final orders giving effect to these reasons for decision, including orders as to costs, by 4pm on Friday 28 March 2008.",
+      "id": "s357"
+    },
+    {
+      "text": "If the parties are unable to agree, they are to submit a joint statement by 4pm on Friday 28 March 2008 identifying: (1) the points of agreement; (2) the point(s) of disagreement; and (3) the respective positions of the parties on the point(s) of disagreement, in which case I will list the matter for further directions or argument as necessary.",
+      "id": "s358"
+    },
+    {
+      "text": "I certify that the preceding ninety-eight (98) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Gordon.",
+      "id": "s359"
+    },
+    {
+      "text": "Associate:\n\nDated: 19 March 2008\n\n Counsel for the Applicants and First to Fourth Cross-Respondents in the First Cross-Claim: L Glick QC\nPL Ehrlich \n \n Solicitor for the Applicants and First to Fourth Cross-Respondents in the First Cross-Claim: Schetzer Brott &amp; Appel \n \n Counsel for the Respondent and Cross-Claimant in the First Cross-Claim and the Cross-Respondent in the Second Cross-Claim: PW Almond QC\nCL Pannam QC (15 May 2007)\nCM Archibald\nSJ Maiden (15 May 2007) \n \n Solicitor for the Respondent and Cross-Claimant in the First Cross-Claim and the Cross-Respondent in the Second-Cross-Claim: Clayton Utz\nGadens Lawyers (15 May 2007) \n \n Counsel for the Fifth Cross-Respondent in the First Cross-Claim and Cross-Claimant in the Second Cross-Claim: P Riordan SC\nN Murdoch \n \n Solicitor for the Fifth Cross-Respondent in the First Cross-Claim and Cross-Claimant in the Second Cross-Claim: Monahan + Rowell Lawyers \n \n Date of Hearing: 15 May, 21-23, 26-28 November, 10 December 2007 \n \n Date of Judgment: 19 March 2008 \n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2008/371.html",
+      "id": "s360"
+    }
+  ]
+}

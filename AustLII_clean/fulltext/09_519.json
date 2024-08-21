@@ -1,0 +1,452 @@
+{
+  "name": "Lodge Partners Pty Ltd v Pegum [2009] FCA 519 (20 May 2009)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2009/519.html",
+  "catchphrases": [
+    {
+      "text": "application to set aside statutory demand",
+      "id": "c0"
+    },
+    {
+      "text": "whether a \"genuine dispute\" as to existence of debt",
+      "id": "c1"
+    },
+    {
+      "text": "where only on question of construction of written contract",
+      "id": "c2"
+    },
+    {
+      "text": "no factual investigation called for, no conflict in the evidence to be resolved, no question of credit, no oral evidence. held: appropriate to decide the question of construction.",
+      "id": "c3"
+    },
+    {
+      "text": "construction",
+      "id": "c4"
+    },
+    {
+      "text": "pre-contract negotiations",
+      "id": "c5"
+    },
+    {
+      "text": "contractual provision ambiguous",
+      "id": "c6"
+    },
+    {
+      "text": "one of the two competing constructions rejected in antecedent draft of the contract. held : evidence of rejection of draft admissible as showing the subjective intention of both parties as to the meaning of particular word or expression used in contract.",
+      "id": "c7"
+    },
+    {
+      "text": "corporations",
+      "id": "c8"
+    },
+    {
+      "text": "contract",
+      "id": "c9"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "INTRODUCTION \n The plaintiff, Lodge Partners Pty Ltd (Lodge), applies under s 459G of the Corporations Act (2001) (Cth) (the Act) for an order setting aside a statutory demand dated 4 December 2008 for $78,443.07 served on behalf of the defendants, Michael Patrick Pegum and Thomas James Sharp.",
+      "id": "s0"
+    },
+    {
+      "text": "Lodge provides stockbroking and corporate advisory services to clients.",
+      "id": "s1"
+    },
+    {
+      "text": "On 24 November 2006, each defendant entered into an employment contract with Lodge which provided that in certain circumstances Lodge would pay him an \"Introduction Fee\" in respect of new clients introduced by him to Lodge.",
+      "id": "s2"
+    },
+    {
+      "text": "Shortly after they became employees of Lodge, the defendants requested Lodge to create a joint \"adviser code\" called \"TAM\" on the basis that, relevantly, Introduction Fees earned by either one of them would be paid to the credit of that code and that they would be entitled to it in equal shares.",
+      "id": "s3"
+    },
+    {
+      "text": "The parties treated the TAM arrangement as binding.",
+      "id": "s4"
+    },
+    {
+      "text": "Like them, I will refer to \"the defendants\" and, relevantly, Mr Pegum, without discrimination.",
+      "id": "s5"
+    },
+    {
+      "text": "Mr Pegum introduced to Lodge a new client named Entertainment Media &amp; Telecoms Corporation Limited (ETC) which wished to raise capital.",
+      "id": "s6"
+    },
+    {
+      "text": "In May 2008 Lodge raised $9,398,232 by placing 234,955,800 shares in ETC at $0.04 a share.",
+      "id": "s7"
+    },
+    {
+      "text": "In September 2008 Lodge raised a further $22 million by placing 55 million shares in ETC at $0.40 per share.",
+      "id": "s8"
+    },
+    {
+      "text": "Lodge was paid a success fee of $422,920.44 in respect of the first tranche and $784,430.70 in respect of the second tranche.",
+      "id": "s9"
+    },
+    {
+      "text": "On the first tranche, Lodge paid the defendants an Introduction Fee of $42,292.04 calculated as 10% of $422,920.44.",
+      "id": "s10"
+    },
+    {
+      "text": "Lodge did not pay the defendants any Introduction Fee in respect of the second tranche, and says that they are not entitled to any.",
+      "id": "s11"
+    },
+    {
+      "text": "The defendants claim that in respect of that tranche also they are entitled to an Introduction Fee of 10% of Lodge's own fee (10% of $784,430.70, ie $78,443.07, the amount of the statutory demand).",
+      "id": "s12"
+    },
+    {
+      "text": "FURTHER FACTS \n The relevant terms of the contract of employment of Mr Pegum were contained in a letter from Lodge to him dated 24 November 2006.",
+      "id": "s13"
+    },
+    {
+      "text": "In the letter under the heading \"Remuneration\" there were six paragraphs of which the fifth was as follows (I have numbered the sentences for ease of reference below): \n [1] You will be entitled to an 'Introduction Fee' on each corporate transactions [sic - transaction] entered into by Lodge or any associated entity with a new client introduced to it by you.",
+      "id": "s14"
+    },
+    {
+      "text": "[2] That 'Introduction fee' will be a minimum of 10% of the gross corporate fee ('Gross' is calculated as the corporate fee received in cash or shares at issue price, excluding management fee, less any sub-underwriting fee).",
+      "id": "s15"
+    },
+    {
+      "text": "[3] The 'introduction fee' is dependent on the nature and circumstances of the transaction and effort and risk required of both the introducer and Lodge Partners to complete the transaction, and the percentage payable to you will be determined at Lodge's discretion.",
+      "id": "s16"
+    },
+    {
+      "text": "[4] Corporate payments are payable at the time of completion of the transaction and receipt of payment to Lodge Corporate Services.",
+      "id": "s17"
+    },
+    {
+      "text": "The agreement also provided for other forms of remuneration, some of which were paid to the defendants in respect of the TEC transactions.",
+      "id": "s18"
+    },
+    {
+      "text": "It is, however, only the Introduction Fee that is of present concern.",
+      "id": "s19"
+    },
+    {
+      "text": "Counsel for the parties advanced divergent constructions of the paragraph set out at [11] above.",
+      "id": "s20"
+    },
+    {
+      "text": "It was common ground that whether Lodge was indebted to the defendants in the amount specified in the statutory demand depended exclusively on the construction of this provision.",
+      "id": "s21"
+    },
+    {
+      "text": "On 6 February 2008 Mr Pegum emailed Lodge's Troy Graham advising that ETC wished to raise capital of $30 --- $40 million to enable it to purchase the remaining 49% of \"Nexbis Sdn Bhd\", a Malaysian company.",
+      "id": "s22"
+    },
+    {
+      "text": "It is not disputed that in doing so, he introduced ETC to Lodge.",
+      "id": "s23"
+    },
+    {
+      "text": "On 6 May 2008 Lodge wrote to ETC a letter that has been called a \"Mandate Letter\" setting out the terms on which Lodge would provide its services to ETC. One of the terms was that if there was a successful raising of capital, Lodge would be entitled to a success fee of 4.5% (plus GST) of the first capital raising after the signing of the agreement and a success fee of 5% (plus GST) of each subsequent capital raising.",
+      "id": "s24"
+    },
+    {
+      "text": "I need not discuss how Lodge's success fee of $784,430.70 on the second tranche was arrived at.",
+      "id": "s25"
+    },
+    {
+      "text": "CONSIDERATION \n Section 459G(1) of the Act provides that a company may apply to a court for an order setting aside a statutory demand served on the company.",
+      "id": "s26"
+    },
+    {
+      "text": "Section 459H provides that the Court must, by order, set aside the statutory demand in certain circumstances.",
+      "id": "s27"
+    },
+    {
+      "text": "The circumstance relevant to the present case is that the Court is satisfied that there is a genuine dispute between the company and the defendants about the existence of the debt to which the demand relates.",
+      "id": "s28"
+    },
+    {
+      "text": "The concept of a \"genuine dispute\" has been discussed in the cases.",
+      "id": "s29"
+    },
+    {
+      "text": "The dispute must be bona fide and must truly exist in fact, and the grounds for alleging the existence of the dispute must be real and not spurious, hypothetical, illusory or misconceived: see, for example, Spencer Constructions Pty Ltd v G &amp; M Aldridge Pty Ltd [1997] FCA 681 ; (1997) 76 FCR 452 at 464.",
+      "id": "s30"
+    },
+    {
+      "text": "In Solarite Air Conditioning Pty Ltd v York International Australia Pty Ltd [2002] NSWSC 411 , Barrett J said (at [23]), after reviewing the authorities, that the task faced by a company challenging a statutory demand on the \"genuine dispute\" ground is not a difficult or demanding one.",
+      "id": "s31"
+    },
+    {
+      "text": "His Honour added: \n The company will fail in that task only if it is found upon the hearing of its s 459G application that the contentions upon which it seeks to rely in mounting its challenge are so devoid of substance that no further investigation is warranted.",
+      "id": "s32"
+    },
+    {
+      "text": "Once the company shows that even one issue has a sufficient degree of cogency to be arguable, a finding of genuine dispute must follow.",
+      "id": "s33"
+    },
+    {
+      "text": "The court does not engage in any form of balancing exercise between the strengths of competing contentions.",
+      "id": "s34"
+    },
+    {
+      "text": "If it sees any factor that, on rational grounds, indicates an arguable case on the part of the company, it must find that a genuine dispute exists, even where any case apparently available to be advanced against the company seems stronger.",
+      "id": "s35"
+    },
+    {
+      "text": "The notion of not warranting further investigation has assumed importance in a particular class of case.",
+      "id": "s36"
+    },
+    {
+      "text": "Where the dispute relates to a simple question of construction that can be decided following a short hearing and there is no factual issue to be resolved, the Court will decide the question and, if the construction is against the company, the dispute will not be classified as \"genuine\": see Delnorth Pty Ltd v State Bank of New South Wales (1995) 17 ACSR 379 at 384-5 ( Delnorth ); Lifestyle Retirement Projects No 2 Pty Ltd v Parisi Homes Pty Ltd [2005] NSWSC 705 at [16] - [17] ; BBX Holdings Ltd v American Home Assurance Co [2007] NSWSC 549 at [15] - [17] .",
+      "id": "s37"
+    },
+    {
+      "text": "In the same vein, in the earlier case of Eyota Pty Ltd v Hanave Pty Ltd (1994) 12 ACSR 785 , McLelland CJ in Eq said that the expression \"genuine dispute\" connotes \"a plausible contention requiring investigation \" (at 787 --- my emphasis).",
+      "id": "s38"
+    },
+    {
+      "text": "Counsel for Lodge submitted that it sufficed that Lodge raised an arguable construction.",
+      "id": "s39"
+    },
+    {
+      "text": "I accept that counsel for Lodge did raise a construction that was arguable, at least on the face of the provision, but the cases cited above show that this is not the end of the matter.",
+      "id": "s40"
+    },
+    {
+      "text": "The following oft cited passage from the judgment of Cohen J in Delnorth (at 384-385) is pertinent: \n Section 459H(1) refers to the court finding that there is a genuine dispute.",
+      "id": "s41"
+    },
+    {
+      "text": "The parties have argued this case on the issue of whether the proper construction of the agreement and the facts results in the plaintiff owing money to the defendant.",
+      "id": "s42"
+    },
+    {
+      "text": "The facts were not in dispute and there was thus no question of whose evidence would be accepted on a final hearing.",
+      "id": "s43"
+    },
+    {
+      "text": "Under the previous legislation, when there was a claim that there was a bona fide dispute on substantial grounds as to the debt claimed, the court could decide that dispute if it arose from a question of law or was of short compass.",
+      "id": "s44"
+    },
+    {
+      "text": "See, for example, Offshore Oil NL v Acron pacific Ltd (1984) 2 ACLC 8.",
+      "id": "s45"
+    },
+    {
+      "text": "I consider that under the provisions of the Corporations Law, the same approach can be taken.",
+      "id": "s46"
+    },
+    {
+      "text": "Although questions of disputed fact will not be decided on an application to set aside a statutory demand, the issue of whether there is a genuine dispute can be resolved on that application where the question arises on a short point of law or the construction of documents or agreed facts.",
+      "id": "s47"
+    },
+    {
+      "text": "In Eyota Pty Ltd v Hanave Pty Ltd (1994) 12 ACSR 785 ; 12 ACLC 669 , McLelland CJ in Eq said that the expression \"genuine dispute\" connotes a plausible contention requiring investigation.",
+      "id": "s48"
+    },
+    {
+      "text": "Where no further investigation is required, I consider that the court on an application under s 459G may decide as a matter of law if there is a genuine dispute.",
+      "id": "s49"
+    },
+    {
+      "text": "The occasions when this is possible may be few, but in my view this is one of them.",
+      "id": "s50"
+    },
+    {
+      "text": "In the present case, no factual investigation is called for.",
+      "id": "s51"
+    },
+    {
+      "text": "There is no issue of credit.",
+      "id": "s52"
+    },
+    {
+      "text": "No deponent entered the witness box.",
+      "id": "s53"
+    },
+    {
+      "text": "The facts are within a narrow compass.",
+      "id": "s54"
+    },
+    {
+      "text": "Counsel for Lodge submitted that while the issue was one of construction, I had to decide whether ETC was a \"new\" client as at November 2008.",
+      "id": "s55"
+    },
+    {
+      "text": "Counsel did not suggest, however, that further evidence was to be adduced relevant to that question.",
+      "id": "s56"
+    },
+    {
+      "text": "The few facts that are relevant to the question are before the Court: it is common ground that Mr Pegum introduced ETC as a new client to Lodge in May 2008, and the question is how the contractual provision, properly construed, applied to the second tranche in November 2008.",
+      "id": "s57"
+    },
+    {
+      "text": "Counsel for Lodge referred to Symbion Medical Centre Operations Pty Ltd v Thomco (No 2113) Pty Ltd [2009] SASC 65 ( Symbion ).",
+      "id": "s58"
+    },
+    {
+      "text": "In Symbion the Full Court of the Supreme Court of South Australia allowed an appeal from a Master's decision dismissing an application to set aside a statutory demand.",
+      "id": "s59"
+    },
+    {
+      "text": "The decision is distinguishable.",
+      "id": "s60"
+    },
+    {
+      "text": "Unlike the three New South Wales cases to which I have referred and the present case, Symbion involved far more than the construction of a simple provision.",
+      "id": "s61"
+    },
+    {
+      "text": "It involved heads of agreement which, at least according to one party's submission, were to be construed against the background of \"the commercial context including the later conduct of the parties and their agents\" (per Gray J at [10]).",
+      "id": "s62"
+    },
+    {
+      "text": "The Court referred to issues as to the admissibility of post-contract conduct of the parties and the question whether the heads of agreement represented a concluded contract at all.",
+      "id": "s63"
+    },
+    {
+      "text": "In the circumstances of the present case, I should decide the question of construction.",
+      "id": "s64"
+    },
+    {
+      "text": "Counsel for Lodge submits, first, that by the time of the November 2008 tranche, ETC was no longer \"a new client introduced to [Lodge] by [Mr Pegum]\" and that the defendants were entitled to the Introduction Fee only on the first tranche because it was only in respect of that transaction that ETC could be described as \"a new client introduced to [Lodge] by [Mr Pegum]\".",
+      "id": "s65"
+    },
+    {
+      "text": "Secondly, he submits that the third sentence of the provision makes the payment of any introduction fee at all dependent on the matters mentioned in that sentence.",
+      "id": "s66"
+    },
+    {
+      "text": "Thirdly, he submits that the percentage payable is to be determined at Lodge's discretion and that Lodge should be taken to have exercised its discretion against paying any percentage in respect of the second tranche.",
+      "id": "s67"
+    },
+    {
+      "text": "Counsel for the defendants submits that once ETC was properly described in May 2008 as \"a new client introduced to [Lodge] by [Mr Pegum]\" it continued to satisfy that description, with the consequence that the defendants were entitled to the Introduction Fee on each transaction entered into by Lodge and ETC --- not just the first such transaction.",
+      "id": "s68"
+    },
+    {
+      "text": "Secondly, he submits that the amount of the Introduction Fee was a minimum of 10% and that the third sentence relates only to anything over and above the 10%.",
+      "id": "s69"
+    },
+    {
+      "text": "Thirdly, he submits that the same argument applies to the determination of the percentage at Lodge's discretion, also referred to in the third sentence.",
+      "id": "s70"
+    },
+    {
+      "text": "On its face, the first sentence is ambiguous as the following considerations show.",
+      "id": "s71"
+    },
+    {
+      "text": "Standing alone, the expression \"Introduction Fee\" may suggest a one off fee for introducing a new client.",
+      "id": "s72"
+    },
+    {
+      "text": "The word \"each\" seems to connote \"the first and each subsequent\".",
+      "id": "s73"
+    },
+    {
+      "text": "It may, however, represent an attempt to emphasise that the entitlement arises in respect of each new client introduced by Mr Pegum.",
+      "id": "s74"
+    },
+    {
+      "text": "If it means \"the first and each subsequent\", this tells us that an entity is not \"a new client introduced to [Lodge] by [Mr Pegum]\" only in respect of the first transaction, but satisfies that description forever.",
+      "id": "s75"
+    },
+    {
+      "text": "The expression \"a new client introduced\" is also troublesome.",
+      "id": "s76"
+    },
+    {
+      "text": "Lodge submits that the client must be \"new\" at the time of any transaction that is to generate an entitlement.",
+      "id": "s77"
+    },
+    {
+      "text": "The word \"new\" may, however, be included merely in an attempt to emphasise \"introduced\".",
+      "id": "s78"
+    },
+    {
+      "text": "Annexure A to Mr Pegum's affidavit is a draft dated 24 November 2006 of the employment contract that Lodge provided to him.",
+      "id": "s79"
+    },
+    {
+      "text": "The relevant provision in the draft stated: \"You will be entitled to an 'Introduction Fee' on the first corporate transactions [sic] entered into by Lodge...\" (my emphasis).",
+      "id": "s80"
+    },
+    {
+      "text": "Mr Pegum states that he requested Lodge to amend the provision into its present form, \"you will be entitled to an 'Introduction Fee' on each corporate transactions [sic] entered into by Lodge...\" (my emphasis).",
+      "id": "s81"
+    },
+    {
+      "text": "The change from \"the first\" to \"each\" at Mr Pegum's request, agreed to by Lodge, clearly shows that the parties did not intend the word \"each\" to mean \"the first\".",
+      "id": "s82"
+    },
+    {
+      "text": "Rather, they intended it to mean \"the first and each subsequent\".",
+      "id": "s83"
+    },
+    {
+      "text": "Generally speaking, it is not permissible to take pre-contract negotiations into account in the construction of contracts: see, for example, Prenn v Simmonds [1971] 1 WLR 1381.",
+      "id": "s84"
+    },
+    {
+      "text": "However, there are exceptions to the general rule, one of which is that evidence is admissible to show what both parties intended a particular ambiguous term used in the contract to mean: see, for example, Codelfa Construction Pty Ltd v State Rail Authority (NSW) [1982] HCA 24 ; (1982) 149 CLR 337 at 348-350, 352-353 per Mason J; ProForce Recruit Ltd v Rugby Group Ltd [2008] 1 All ER 569 (Comm) at [83], [86], [88]; Yoshimoto v Canterbury Golf International Ltd [2001] 1 NZLR 523 ; and see Corbin on Contracts (rev'd ed, 1998) vol 5 &#167; 24.8.",
+      "id": "s85"
+    },
+    {
+      "text": "Sometimes cases of this kind are called \"private dictionary\" cases: the parties have agreed that a word or expression in the express terms of their contract is to have (or not to have) a certain meaning.",
+      "id": "s86"
+    },
+    {
+      "text": "The reasons that support the general rule excluding evidence of antecedent negotiations (see, for example, Prenn v Simmonds , above, at 1384-1385; and Carter, Peden and Tolhurst, Contract Law in Australia (5 th ed, 2007) at [12-11]) do not apply here.",
+      "id": "s87"
+    },
+    {
+      "text": "The evidence of the change made to the draft on 24 November 2006 at Mr Pegum's request and agreed to by Lodge was clear, undisputed, and admitted without objection.",
+      "id": "s88"
+    },
+    {
+      "text": "The word \"each\" as used in the contractual provision means \"the first and each subsequent\".",
+      "id": "s89"
+    },
+    {
+      "text": "I return to the word \"new\".",
+      "id": "s90"
+    },
+    {
+      "text": "In the light of the now revealed meaning of \"each\", the word \"new\" can be seen to add nothing to the word \"introduced\".",
+      "id": "s91"
+    },
+    {
+      "text": "It has been included, admittedly tautologously, to emphasise that the client must not have been a client of Lodge prior to the introduction, not that the client must not have been a client of Lodge prior to the transaction in question.",
+      "id": "s92"
+    },
+    {
+      "text": "It is common enough to speak of introducing a new client, customer, supplier, etc without embarrassment over the tautology involved.",
+      "id": "s93"
+    },
+    {
+      "text": "In relation to the second sentence, I think it clear that the minimum of 10% operates no matter what the nature and circumstances of the transaction or the effort and risk required of the introducer and of Lodge.",
+      "id": "s94"
+    },
+    {
+      "text": "The reference to a minimum indicates that the Introduction Fee may be greater but that it will never be less.",
+      "id": "s95"
+    },
+    {
+      "text": "Whether it is to be greater, and if so by how much, depends on the considerations mentioned in the second sentence.",
+      "id": "s96"
+    },
+    {
+      "text": "In the same vein, it is the percentage above 10% that is to be payable dependent on those factors, that is to be determined at Lodge's discretion.",
+      "id": "s97"
+    },
+    {
+      "text": "CONCLUSION \n For the reasons set out above, the application to set aside should be dismissed with costs.",
+      "id": "s98"
+    },
+    {
+      "text": "I certify that the preceding thirty-six (36) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Lindgren.",
+      "id": "s99"
+    },
+    {
+      "text": "Associate:\n \n \nDated: 20 May 2009\n \n Counsel for the Plaintiff: Mr S C Ipp \n \n Solicitor for the Plaintiff: Church &amp; Grace \n \n Counsel for the Defendant: Mr A C Casselden \n \n Solicitor for the Defendant: Leonard Legal \n Date of Hearing: 13 May 2009 \n \n Date of Judgment: 20 May 2009 \n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2009/519.html",
+      "id": "s100"
+    }
+  ]
+}

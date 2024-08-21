@@ -15,8 +15,10 @@ For each document, the dataset collected **catchphrases**, **citation sentences*
 
 
 ## Data Source
+
 The original data is downloaded from [AustLII](https://www.austlii.edu.au/) and licensed with [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en). You can also find it from [UCI Machine Learning Repository - Legal Case Reports](https://archive.ics.uci.edu/dataset/239/legal+case+reports) and [Kaggle - Legal Case Reports in Australia](https://www.kaggle.com/datasets/thedevastator/legal-case-reports-in-australia-2006-2009?select=06_1041.xml).
 
+The cleaned dataset can be found under `AustLII_clean` created by [Dale Batkhuu](https://github.com/Gundalai-Batkhuu).****
 
 ## Dataset Structure
 

@@ -1,0 +1,464 @@
+[
+  {
+    "text": "income tax",
+    "id": "cp0.0",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "capital gains",
+    "id": "cp0.1",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "part iiia of the income tax assessment act 1936",
+    "id": "cp0.2",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "incentive payment",
+    "id": "cp0.3",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "cost base, indexed cost base of shares",
+    "id": "cp0.4",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "consideration for disposal of shares",
+    "id": "cp0.5",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "parties not dealing with each other at arm's length",
+    "id": "cp0.6",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "consideration greater or less than market value of shares",
+    "id": "cp0.7",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "market value of shares",
+    "id": "cp0.8",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "tax shortfalls",
+    "id": "cp0.9",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "statement tax",
+    "id": "cp0.10",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "proper tax",
+    "id": "cp0.11",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "penalties",
+    "id": "cp0.12",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "reasonably arguable",
+    "id": "cp0.13",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "recklessness    income tax assessment act 1936",
+    "id": "cp0.14",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "s 160zh(1)(a), s 160zh(1)(c), s160zh(2)(o), s160zh(2)(c), s160zzpa(2)(g), s 160zzpc, s 160zd(2)(c), s 160u(3), s 222c, s 226k, s 226h   taxation administration act 1953",
+    "id": "cp0.15",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "s 14zza , s 14zzk",
+    "id": "cp0.16",
+    "type": "cited",
+    "from": "[2004]"
+  },
+  {
+    "text": "pilmer v the duke group limited (in liquidation)  contract",
+    "id": "cp1.0",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "breach",
+    "id": "cp1.1",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "damages",
+    "id": "cp1.2",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "calculation of loss",
+    "id": "cp1.3",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "contract of retainer for valuation of subject of takeover bid",
+    "id": "cp1.4",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "plaintiff company effected takeover in reliance on valuation made in breach of duty of care",
+    "id": "cp1.5",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "had valuation been accurate plaintiff would not have proceeded",
+    "id": "cp1.6",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "consideration included cash and issue and allotment of shares",
+    "id": "cp1.7",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "whether plaintiff suffered loss by issue of shares",
+    "id": "cp1.8",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "whether damages include sum representing market value of shares issued under agreement.  companies",
+    "id": "cp1.9",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "company finance",
+    "id": "cp1.10",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "share capital",
+    "id": "cp1.11",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "maintenance of capital",
+    "id": "cp1.12",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "company limited by shares",
+    "id": "cp1.13",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "company issuing new shares",
+    "id": "cp1.14",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "issue and allotment otherwise than for cash",
+    "id": "cp1.15",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "whether company suffers loss by reason of issuing new shares.  equity",
+    "id": "cp1.16",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "fiduciary duties",
+    "id": "cp1.17",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "duty of loyalty",
+    "id": "cp1.18",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "conflict of duties and interests",
+    "id": "cp1.19",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "conflict of duty and duty",
+    "id": "cp1.20",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "accountant retained by company to give independent expert valuation report to be placed before shareholders",
+    "id": "cp1.21",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "whether accountant owed fiduciary duties to company",
+    "id": "cp1.22",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "principles of causation in equity.  equity",
+    "id": "cp1.23",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "equitable remedies",
+    "id": "cp1.24",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "equitable compensation",
+    "id": "cp1.25",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "assessment",
+    "id": "cp1.26",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "reduction for contributing fault.",
+    "id": "cp1.27",
+    "type": "cited",
+    "from": "[2001]"
+  },
+  {
+    "text": "corporations",
+    "id": "cp3.0",
+    "type": "cited",
+    "from": "[1995]"
+  },
+  {
+    "text": "whether a low exercise price option (lepo) is a futures contract within the meaning of s. 72 (1) of the corporations law",
+    "id": "cp3.1",
+    "type": "cited",
+    "from": "[1995]"
+  },
+  {
+    "text": "meaning of terms",
+    "id": "cp3.2",
+    "type": "cited",
+    "from": "[1995]"
+  },
+  {
+    "text": "\"futures contract\"",
+    "id": "cp3.3",
+    "type": "cited",
+    "from": "[1995]"
+  },
+  {
+    "text": "\"commodity\"",
+    "id": "cp3.4",
+    "type": "cited",
+    "from": "[1995]"
+  },
+  {
+    "text": "\"commodity agreement\"",
+    "id": "cp3.5",
+    "type": "cited",
+    "from": "[1995]"
+  },
+  {
+    "text": "\"eligible commodity agreement\"",
+    "id": "cp3.6",
+    "type": "cited",
+    "from": "[1995]"
+  },
+  {
+    "text": "\"securities\"",
+    "id": "cp3.7",
+    "type": "cited",
+    "from": "[1995]"
+  },
+  {
+    "text": "\"option contract\"",
+    "id": "cp3.8",
+    "type": "cited",
+    "from": "[1995]"
+  },
+  {
+    "text": "\"chapter 8 agreement\"",
+    "id": "cp3.9",
+    "type": "cited",
+    "from": "[1995]"
+  },
+  {
+    "text": "\"chapter 8 obligation\"",
+    "id": "cp3.10",
+    "type": "cited",
+    "from": "[1995]"
+  },
+  {
+    "text": "whether underlying securities are capable of delivery in relevant sense",
+    "id": "cp3.11",
+    "type": "cited",
+    "from": "[1995]"
+  },
+  {
+    "text": "hypothetical declaration.",
+    "id": "cp3.12",
+    "type": "cited",
+    "from": "[1995]"
+  },
+  {
+    "text": "gift duty (cth)",
+    "id": "cp5.0",
+    "type": "cited",
+    "from": "[1974]"
+  },
+  {
+    "text": "gift",
+    "id": "cp5.1",
+    "type": "cited",
+    "from": "[1974]"
+  },
+  {
+    "text": "disposition of property",
+    "id": "cp5.2",
+    "type": "cited",
+    "from": "[1974]"
+  },
+  {
+    "text": "allotment of shares in a company",
+    "id": "cp5.3",
+    "type": "cited",
+    "from": "[1974]"
+  },
+  {
+    "text": "value in excess of allotment price",
+    "id": "cp5.4",
+    "type": "cited",
+    "from": "[1974]"
+  },
+  {
+    "text": "inadequacy of consideration",
+    "id": "cp5.5",
+    "type": "cited",
+    "from": "[1974]"
+  },
+  {
+    "text": "whether allotment of shares by a company for a consideration less than their value involves gift by company",
+    "id": "cp5.6",
+    "type": "cited",
+    "from": "[1974]"
+  },
+  {
+    "text": "gift duty assessment act 1941-1967 (cth), s. 4 (1).",
+    "id": "cp5.7",
+    "type": "cited",
+    "from": "[1974]"
+  },
+  {
+    "text": "stamp duties",
+    "id": "cp6.0",
+    "type": "cited",
+    "from": "[1948]"
+  },
+  {
+    "text": "company",
+    "id": "cp6.1",
+    "type": "cited",
+    "from": "[1948]"
+  },
+  {
+    "text": "shares",
+    "id": "cp6.2",
+    "type": "cited",
+    "from": "[1948]"
+  },
+  {
+    "text": "reduction in capital",
+    "id": "cp6.3",
+    "type": "cited",
+    "from": "[1948]"
+  },
+  {
+    "text": "distribution in specie",
+    "id": "cp6.4",
+    "type": "cited",
+    "from": "[1948]"
+  },
+  {
+    "text": "transfers by company of shares owned in other companies",
+    "id": "cp6.5",
+    "type": "cited",
+    "from": "[1948]"
+  },
+  {
+    "text": "consideration",
+    "id": "cp6.6",
+    "type": "cited",
+    "from": "[1948]"
+  },
+  {
+    "text": "liability of transfers to ad valorem duty",
+    "id": "cp6.7",
+    "type": "cited",
+    "from": "[1948]"
+  },
+  {
+    "text": "rate",
+    "id": "cp6.8",
+    "type": "cited",
+    "from": "[1948]"
+  },
+  {
+    "text": "stamp duties act 1920-1940 (n.s.w.) (no. 47 of 1920",
+    "id": "cp6.9",
+    "type": "cited",
+    "from": "[1948]"
+  },
+  {
+    "text": "no. 50 of 1940), s. 66 (3), (3a), (3b).",
+    "id": "cp6.10",
+    "type": "cited",
+    "from": "[1948]"
+  }
+]

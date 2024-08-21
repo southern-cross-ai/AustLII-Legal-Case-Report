@@ -1,0 +1,444 @@
+{
+  "name": "Martino v The Mac Services Group Limited [2009] FCA 546 (27 May 2009)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2009/546.html",
+  "catchphrases": [
+    {
+      "text": "categories of discoverable documents in proceeding involving patent",
+      "id": "c0"
+    },
+    {
+      "text": "where documents potentially relevant to question of inventive step under s 7(2) and (3) of patents act 1990 (cth)",
+      "id": "c1"
+    },
+    {
+      "text": "whether court has power under o 15 to order discovery of limited categories of documents not necessarily satisfying criteria in o 15 r 2(3)",
+      "id": "c2"
+    },
+    {
+      "text": "discovery",
+      "id": "c3"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "This is a notice of motion by a respondent to a proceeding involving a patent.",
+      "id": "s0"
+    },
+    {
+      "text": "The applicant alleges infringement of certain claims of or in the patent by the respondent, and, among other claims, he makes a claim for pecuniary relief.",
+      "id": "s1"
+    },
+    {
+      "text": "The respondent has brought a cross-claim in which it claims revocation of the patent on the ground of invalidity.",
+      "id": "s2"
+    },
+    {
+      "text": "It is convenient for me to refer to the parties as they are in the proceeding rather than on the notice of motion, and to the three claims in the proceeding as the invalidity claim, the infringement claim and the claim for pecuniary relief.",
+      "id": "s3"
+    },
+    {
+      "text": "The notice of motion issued by the respondent seeks two orders.",
+      "id": "s4"
+    },
+    {
+      "text": "The first order is that the applicant discover all documents in his possession, custody or power, in seven categories of documents.",
+      "id": "s5"
+    },
+    {
+      "text": "The documents are said to be relevant to the respondent's invalidity claim.",
+      "id": "s6"
+    },
+    {
+      "text": "The application for that order is opposed by the applicant.",
+      "id": "s7"
+    },
+    {
+      "text": "The second order sought in the notice of motion is that, under O 29 r 2 of the Federal Court Rules , the issues relating to the invalidity claim and the infringement claim be decided separately from and prior to the claim for pecuniary relief.",
+      "id": "s8"
+    },
+    {
+      "text": "The parties are agreed that the second order should be made.",
+      "id": "s9"
+    },
+    {
+      "text": "Background\n The patent relates to a transportable building and chassis therefor.",
+      "id": "s10"
+    },
+    {
+      "text": "It is alleged by the applicant that the complete specification of the patent was published and became open to public inspection on 23 November 2004.",
+      "id": "s11"
+    },
+    {
+      "text": "The priority date for the patent is 28 April 2003.",
+      "id": "s12"
+    },
+    {
+      "text": "The following statement is made in the patent specification: \n \"The present invention relates to a transportable building and in particular to a transportable building including a chassis that can be engaged by a forklift to lift the building for either loading or unloading from a truck or for attaching wheeled axles to the chassis.",
+      "id": "s13"
+    },
+    {
+      "text": "\" \n\n In his Amended Application, the applicant alleges that the respondent has infringed claims 1, 3, 4, 5, 6, 7, 12 and 13 of the patent.",
+      "id": "s14"
+    },
+    {
+      "text": "Those claims are in the following terms: \n \"1.",
+      "id": "s15"
+    },
+    {
+      "text": "A transportable building having a longitudinal chassis said chassis including: two elongate spaced apart inner load-supporting I-beams disposed parallel to a longitudinal axis of said chassis, each I-beam including a top and bottom flange connected by a web, each of said I-beams having respective front and rear ends; \n a plurality of elongate beams extending laterally across said top flange of both I-beams and adapted to support a floor of said transportable building; \n a front member and a rear member connected normal to and across the respective front and rear ends of said I-beams;\n a frame connected to and extending around the plurality of elongate beams, said frame adapted to support side walls of said building;\n a pair of spaced apart parallel longitudinal channels extending through said web of both said I-beam, said channels adapted to be engaged by forks of a forklift for lifting said transportable building.",
+      "id": "s16"
+    },
+    {
+      "text": "... \n A transportable building as in any one of the above claims wherein said chassis is made from steel.",
+      "id": "s17"
+    },
+    {
+      "text": "A transportable building as in any one of the above claims wherein said elongate beams are tubular beams having a rectangular cross-section.",
+      "id": "s18"
+    },
+    {
+      "text": "A transportable building as in any one of the above claims wherein each said longitudinal channel includes a plurality of spaced apart stiffening plates extending laterally across said channel.",
+      "id": "s19"
+    },
+    {
+      "text": "A transportable building as in any one of the above claims wherein extending between each said I-beams and said front and rear members are a plurality of bracing members.",
+      "id": "s20"
+    },
+    {
+      "text": "A transportable building as in claim 1 wherein said elongate beams and said front and rear members are welded to said I-beams.",
+      "id": "s21"
+    },
+    {
+      "text": "... \n A transportable building as in any one of the above claims wherein said channels are positioned adjacent said top flange of said I-beams.",
+      "id": "s22"
+    },
+    {
+      "text": "A transportable building as in any one of the above claims wherein the width of said chassis is adapted to be smaller than the width of a conventional road-train.",
+      "id": "s23"
+    },
+    {
+      "text": "\"\n The respondent denies the applicant's allegation that it has infringed the abovementioned claims and, in its cross-claim, asserts that the claims are invalid on the ground that they did not involve any inventive step when compared to the prior art base as it existed before the priority date of such claims.",
+      "id": "s24"
+    },
+    {
+      "text": "The respondent seeks an order revoking the claims in the patent.",
+      "id": "s25"
+    },
+    {
+      "text": "The respondent has filed and served Particulars of Invalidity.",
+      "id": "s26"
+    },
+    {
+      "text": "In those particulars, the respondent identifies 14 matters, which it alleges are part of common general knowledge, and 14 pieces of prior art information , including as the first piece of prior art information \"[t]ransportable buildings made or marketed in Australia, particulars of which will be furnished after discovery\".",
+      "id": "s27"
+    },
+    {
+      "text": "On 29 October 2008, I made a number of orders by consent under O 35 r 10A.",
+      "id": "s28"
+    },
+    {
+      "text": "One order I made on that date was that the parties exchange categories of documents to be discovered by 17 November 2008.",
+      "id": "s29"
+    },
+    {
+      "text": "The parties have been unable to agree the categories of documents to be discovered by the applicant; hence the order sought in paragraph 1 of the notice of motion.",
+      "id": "s30"
+    },
+    {
+      "text": "The respondent seeks an order that the applicant make discovery of the following categories of documents: \"Category 1: All documents that will be relied upon by the claimant to support the claim of patent infringement.",
+      "id": "s31"
+    },
+    {
+      "text": "Category 2: All documents that disclose, describe or note buildings and/or transportable structures that have a frame connected to and extending around a plurality of elongate beams where said frame is adapted to support a side wall of the building or structure.",
+      "id": "s32"
+    },
+    {
+      "text": "This request is limited to documents that fall within (a)(i) of the definition of 'prior art base' in Schedule 1 to the Patents Act 1995, i.e.",
+      "id": "s33"
+    },
+    {
+      "text": "documents publicly available before 28 April 2003, and documents that describe or disclose buildings and/or transportable structures that were made before 28 April 2003 and which fall within (a)(ii) of the said definition.",
+      "id": "s34"
+    },
+    {
+      "text": "Category 3: Deleted Category 4: Documents that disclose, describe or note buildings and/or structures that have or had the following features: (i) at least two elongate spaced apart load-supporting I-beams disposed parallel to the longitudinal axis; (ii) each I-beam having a top flange and bottom flange connected by a web and respective front and rear ends; (iii) a plurality of elongate beams extending laterally across the top flange of both I-beams adapted to support a floor of the building or structure.",
+      "id": "s35"
+    },
+    {
+      "text": "(iv) a pair of spaced apart longitudinal channels extending through the web of each I-beam for engagement with forks of a forklift for lifting the building or structure.",
+      "id": "s36"
+    },
+    {
+      "text": "This request is limited to documents that fall within (a)(i) of the definition of 'prior art base' in Schedule 1 to the Patents Act 1995, i.e.",
+      "id": "s37"
+    },
+    {
+      "text": "documents publicly available before 28 April 2003, and documents that describe or disclose buildings and/or transportable structures that were made before 28 April 2003 and which fall within (a)(ii) of the said definition.",
+      "id": "s38"
+    },
+    {
+      "text": "Category 5: Inventors books, inventors notes, and all other documents created during the time of inventing and that relate to the invention claimed in AU2003227102 or PCT/AU2003/000947 Category 6: All documents that fall within (a)(i) of the definition of 'prior art base' in Schedule 1 to the Patents Act 1995, i.e.",
+      "id": "s39"
+    },
+    {
+      "text": "documents publicly available before 28 April 2003, and documents that describe or disclose buildings and/or transportable structures that were made before 28 April 2003 and which fall within (a)(ii) of the said definition listed or referred to in patent search reports pertaining to the applicant's invention claimed in AU2003227102, whether they be search reports of a Patent Office, or by a patent attorney firm or patent search company and all such reports which list or refer to matter falling within the definition of 'prior art base'.",
+      "id": "s40"
+    },
+    {
+      "text": "This category is limited to documents that disclose buildings or structures that have or had the following features: (i) a longitudinal chassis or frame including two elongate spaced apart load-supporting I-beams disposed parallel to the longitudinal axis; (ii) each I-beam having a top flange and bottom flange connected by a web and respective front and rear ends; (iii) a plurality of elongate beams extending laterally across the top flange of both I-beams adapted to support a floor of the building or structure.",
+      "id": "s41"
+    },
+    {
+      "text": "Category 7: All documents describing or disclosing a building described in the background to the invention section of AU2003227102 or PCT/AU2003/000947 including specifically buildings (rectangular or otherwise) which prior to the priority date were lifted by crane as described in the background to the invention and that were made before April 28 2003.",
+      "id": "s42"
+    },
+    {
+      "text": "\" \n I will refer to these categories of documents as \"the categories\".",
+      "id": "s43"
+    },
+    {
+      "text": "Category 3 is no longer pressed by the respondent, and categories 1 and 5 are not opposed by the applicant.",
+      "id": "s44"
+    },
+    {
+      "text": "The description of the categories of documents sought by the respondent has changed considerably since the parties first started their efforts to agree categories.",
+      "id": "s45"
+    },
+    {
+      "text": "As will be seen, this fact is relevant to the question of the costs.",
+      "id": "s46"
+    },
+    {
+      "text": "Relevant legislation, rules and principles\n The Patents Act 1990 (Cth) (\" Patents Act \") provides that an invention is only a patentable invention if, inter alia, when it is compared with the prior art base as it existed before the priority date of the claim, it involves an inventive step: s 18(1).",
+      "id": "s47"
+    },
+    {
+      "text": "The expression, prior art base , is defined in the Dictionary which is Schedule 1 to the Act as follows, relevantly: \n \" prior art base means:\n (a) in relation to deciding whether an invention does or does not involve an inventive step or an innovative step:\n (i) information in a document that is publicly available, whether in or out of the patent area; and\n (ii) information made publicly available through doing an act, whether in or out of the patent area.",
+      "id": "s48"
+    },
+    {
+      "text": "...\" \n\n Section 7(2) and (3) deal with when an invention is taken to involve an inventive step for the purposes of the Patents Act .",
+      "id": "s49"
+    },
+    {
+      "text": "Those subsections provide as follows: \n \"(2) For the purposes of this Act, an invention is to be taken to involve an inventive step when compared with the prior art base unless the invention would have been obvious to a person skilled in the relevant art in the light of the common general knowledge as it existed in the patent area before the priority date of the relevant claim, whether that knowledge is considered separately or together with the information mentioned in subsection (3).",
+      "id": "s50"
+    },
+    {
+      "text": "(3) The information for the purposes of subsection (2) is:\n (a) any single piece of prior art information; or\n (b) a combination of any 2 or more pieces of prior art information;\n being information that the skilled person mentioned in subsection (2) could, before the priority date of the relevant claim, be reasonably expected to have ascertained, understood, regarded as relevant and, in the case of information mentioned in paragraph (b), combined as mentioned in that paragraph.",
+      "id": "s51"
+    },
+    {
+      "text": "\" \n\n Section 7(3) refers to prior art information , an expression which is defined in the Dictionary as follows: \n \" prior art information means:\n (a) for the purposes of subsection 7(1)---information that is part of the prior art base in relation to deciding whether an invention is or is not novel; and \n (b) for the purposes of subsection 7(3)---information that is part of the prior art base in relation to deciding whether an invention does or does not involve an inventive step; and \n (c) for the purposes of subsection 7(5)---information that is part of the prior art base in relation to deciding whether an invention does or does not involve an innovative step.",
+      "id": "s52"
+    },
+    {
+      "text": "\" \n\n Under s 7(3) of the Patents Act is that it is not all prior art information which is relevant, but only that part of it which a person skilled in the relevant art could be reasonably expected to have ascertained, understood and regarded as relevant.",
+      "id": "s53"
+    },
+    {
+      "text": "The relevant Rules of Court dealing with discovery are O 15 rr 2, 3 and 15, which are in the following terms: \n 2 Discovery on notice \n (1) A party required to give discovery must do so within the time specified in the notice of discovery (not being less than 14 days after service of the notice of discovery on the party), or within such time as the Court or a Judge directs.",
+      "id": "s54"
+    },
+    {
+      "text": "(2) Unless the Court or a Judge orders otherwise, a party must give discovery by serving:\n (a) a list of documents required to be disclosed; and\n (b) an affidavit verifying the list.",
+      "id": "s55"
+    },
+    {
+      "text": "(3) Without limiting rule 3 or 7 , the documents required to be disclosed are any of the following documents of which the party giving discovery is, after a reasonable search, aware at the time discovery is given:\n (a) documents on which the party relies; and\n (b) documents that adversely affect the party's own case; and\n (c) documents that adversely affect another party's case; and\n (d) documents that support another party's case.",
+      "id": "s56"
+    },
+    {
+      "text": "(4) However, a document is not required to be disclosed if the party giving discovery reasonably believes that the document is already in the possession, custody or control of the party to whom discovery is given.",
+      "id": "s57"
+    },
+    {
+      "text": "(5) For subrule (3), in making a reasonable search, a party may take into account:\n (a) the nature and complexity of the proceedings; and\n (b) the number of documents involved; and\n (c) the ease and cost of retrieving a document; and\n (d) the significance of any document likely to be found; and\n (e) any other relevant matter.",
+      "id": "s58"
+    },
+    {
+      "text": "(6) If the party does not search for a category or class of document, the party must include in the list of documents a statement of the category or class of document not searched for and the reason why.",
+      "id": "s59"
+    },
+    {
+      "text": "3 Limitation of discovery on notice \n (1) The Court may, before or after any party has been required under rule 1 to give discovery, order that discovery under rule 2 by any party shall not be required or shall be limited to such documents or classes of documents, or to such of the matters in question in the proceeding, as may be specified in the order.",
+      "id": "s60"
+    },
+    {
+      "text": "(2) The Court may make such orders under subrule (1) as are necessary to prevent unnecessary discovery.",
+      "id": "s61"
+    },
+    {
+      "text": "... \n\n \n 15 Order only if necessary \n The Court shall not make an order under this Order for the filing or service of any list of documents or affidavit or other document or for the production of any document unless satisfied that the order is necessary at the time when the order is made.",
+      "id": "s62"
+    },
+    {
+      "text": "Practice Note No 14, which deals with discovery, should also be mentioned.",
+      "id": "s63"
+    },
+    {
+      "text": "It provides that the Court will not make an order for general discovery as a matter of course.",
+      "id": "s64"
+    },
+    {
+      "text": "The Court will scrutinise proposed orders for discovery with a view to eliminating or reducing the burden of discovery.",
+      "id": "s65"
+    },
+    {
+      "text": "Orders for discovery will ordinarily be limited to the documents required to be disclosed by O 15 r 2(3).",
+      "id": "s66"
+    },
+    {
+      "text": "In considering the formulation of categories of documents for the purposes of discovery, two matters are important.",
+      "id": "s67"
+    },
+    {
+      "text": "First, it is trite to say that the categories will be formulated having regard to the issues between the parties as revealed in the pleadings.",
+      "id": "s68"
+    },
+    {
+      "text": "Secondly, the criteria in O 15 r 2(3) generally provide an appropriate guide to the formulation of appropriate categories.",
+      "id": "s69"
+    },
+    {
+      "text": "The categories can be formulated by reference to O 15 r 2(3) without specific reference to that rule, or O 15 r 2(3) can be incorporated into the categories as a limiting factor: Australian Competition &amp; Consumer Commission v Advanced Medical Institute Pty Ltd [2005] FCA 366 at [17] - [23] per Lindgren J; Aveling v UBS Capital Markets Australia Holdings Ltd [2005] FCA 415 at [9] - [11] per Lindgren J; Egglishaw v Australian Crime Commission (No 2) (2009) 253 ALR 354 at 360 [21]-[22].",
+      "id": "s70"
+    },
+    {
+      "text": "It seems to me, however, that the Court retains a general power to fashion an order for discovery which is appropriate to the circumstances of the case.",
+      "id": "s71"
+    },
+    {
+      "text": "Although it is perhaps most unlikely, it is within the Court's power to make an order for discovery in accordance with the \"train of inquiry\" test (see The Compagnie Financiere et Commerciale du Pacifique v The Peruvian Guano Co (1882) 11 QBD 55 at 63; see also O 15 r 8, which uses the expression, \"any document relating to any matter in question in the proceeding\").",
+      "id": "s72"
+    },
+    {
+      "text": "The issues on the notice of motion\n The respondent does not contend that the documents in the categories are relevant to the matter of common general knowledge in s 7(2).",
+      "id": "s73"
+    },
+    {
+      "text": "It contends that they are relevant to prior art information in s 7(3).",
+      "id": "s74"
+    },
+    {
+      "text": "The respondent submits that I should make an order in terms of the categories because: the determination of appropriate categories under O 15 r 3 is guided by the criteria in O 15 r 2(3) and two of the criteria in that sub-rule are satisfied in this case, namely, \"documents that adversely affect the party's own case\" ((b)), and \"documents that support another party's case\" ((d)); and the use of the word, \"could\" in s 7(3) of the Patents Act is significant because there may be documents which fall within s 7(3) even though an expert engaged by one of the parties for the purposes of the proceeding has not identified them.",
+      "id": "s75"
+    },
+    {
+      "text": "The applicant submits that I should not make an order in terms of the categories because: although the categories relate to prior art information and identify the relevant prior art by reference to one or more integers of the claims of the patent, the categories in fact identify a wider class of documents than the documents which are relevant for the purposes of s 7(3) ; the respondent has identified in its Particulars of Invalidity the prior art information upon which it relies; and the modern practice is to confine discovery to what is truly necessary and that means to documents which are clearly relevant.",
+      "id": "s76"
+    },
+    {
+      "text": "In essence, the applicant contends that the categories put forward by the respondent identify a wider class of documents than are relevant for the purposes of s 7(3) of the Patents Act .",
+      "id": "s77"
+    },
+    {
+      "text": "In the alternative to what might be called the issue of principle, he contends that the wording of some of the categories is too wide and therefore inappropriate.",
+      "id": "s78"
+    },
+    {
+      "text": "I start with the issue of principle.",
+      "id": "s79"
+    },
+    {
+      "text": "There is a good deal to be said in favour of the applicant's submissions.",
+      "id": "s80"
+    },
+    {
+      "text": "Order 15 r 2(3) is framed in terms of documents which will adversely affect the party's own case, or will support another party's case, rather than may have these consequences.",
+      "id": "s81"
+    },
+    {
+      "text": "It cannot be said with certainty at this stage that the documents in the categories meet this criteria because, although they fall within the definition of prior art information , it is not known if a person skilled in the relevant art could, before the priority date, be reasonably expected to have ascertained them, understood them and regarded them as relevant.",
+      "id": "s82"
+    },
+    {
+      "text": "On the other hand, I have the power to determine categories of documents for discovery by reference to the particular circumstances of this case.",
+      "id": "s83"
+    },
+    {
+      "text": "The categories are limited and there is no evidence that discovery in accordance with them will impose an unnecessary burden on the applicant in terms of time or cost.",
+      "id": "s84"
+    },
+    {
+      "text": "The categories are limited to prior art information of a particular type, being prior art information linked (by reference to various integers) to the claims under challenge.",
+      "id": "s85"
+    },
+    {
+      "text": "Discovery in accordance with the categories may produce documents which ultimately prove relevant to the issues raised under s 7(2) and s 7(3).",
+      "id": "s86"
+    },
+    {
+      "text": "Subject to my consideration of the applicant's complaints about the wording of some of the categories, I think an order for discovery in accordance with the categories should be made.",
+      "id": "s87"
+    },
+    {
+      "text": "The respondent submitted that I could, if I considered it appropriate, add the criteria in O 15 r 2(3) as a limitation on the categories.",
+      "id": "s88"
+    },
+    {
+      "text": "The applicant submitted that this would not be appropriate, and I accept this submission.",
+      "id": "s89"
+    },
+    {
+      "text": "I have reached the conclusion that an order for discovery in terms of the categories should be made and there is no reason to complicate the matter by adding a qualification in terms of O 15 r 2(3).",
+      "id": "s90"
+    },
+    {
+      "text": "The applicant submitted that Category 2 was too wide and that I should add to it the integers of the claims identified in Category 4.",
+      "id": "s91"
+    },
+    {
+      "text": "The applicant submitted that that would then make one or other of Categories 2 or 4 otiose.",
+      "id": "s92"
+    },
+    {
+      "text": "I reject this submission.",
+      "id": "s93"
+    },
+    {
+      "text": "I think both Categories 2 and 4 are sufficiently material or relevant to be the subject of orders.",
+      "id": "s94"
+    },
+    {
+      "text": "Finally, the applicant submitted that the reference in Categories 2, 4 and 6 to buildings or buildings and/or structures was too wide and the categories should be restricted to transportable buildings and/or transportable structures.",
+      "id": "s95"
+    },
+    {
+      "text": "I reject this submission.",
+      "id": "s96"
+    },
+    {
+      "text": "The question is one of degree and it is not suggested that the question of whether there is an inventive step is necessarily so confined.",
+      "id": "s97"
+    },
+    {
+      "text": "I think the formulation of the categories is appropriate as it presently stands.",
+      "id": "s98"
+    },
+    {
+      "text": "Conclusion\n I will make orders that the applicant make discovery of documents in accordance with the categories identified earlier in these reasons.",
+      "id": "s99"
+    },
+    {
+      "text": "I will also make an order that, pursuant to O 29 r 2, the following questions be decided separately from and prior to any question of pecuniary relief for infringement of Australian Patent No 2003227102 (the \"patent\"): The question of the validity of the patent as raised in the respondent's Cross-Claim for revocation of the patent; The question of alleged infringement of the patent by the respondent as raised in paragraphs 1-6 of the applicant's Amended Statement of Claim as read with the Particulars of Infringement.",
+      "id": "s100"
+    },
+    {
+      "text": "There should be no order as to the costs of the respondent's notice of motion.",
+      "id": "s101"
+    },
+    {
+      "text": "Although the respondent has achieved a measure of success on the discovery application, the correspondence exhibited to the affidavits establishes that the respondent has, on a number of occasions, reformulated the categories and, even on the hearing of submissions, the respondent reformulated certain categories by adding substantial qualifications.",
+      "id": "s102"
+    },
+    {
+      "text": "I certify that the preceding twenty-six (26) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Besanko.",
+      "id": "s103"
+    },
+    {
+      "text": "Associate:\n \n \nDated: 27 May 2009\n \n Counsel for the Applicant: Mr B Fitzpatrick \n \n Solicitor for the Applicant: Norman Waterhouse Lawyers \n \n Counsel for the Respondent: Mr A Franklin SC \n \n Solicitor for the Respondent: Maxwell IP \n Date of Hearing: 7 April 2009 \n \n Date of Judgment: 27 May 2009 \n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2009/546.html",
+      "id": "s104"
+    }
+  ]
+}

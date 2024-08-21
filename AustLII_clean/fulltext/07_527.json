@@ -1,0 +1,1588 @@
+{
+  "name": "Perpetual Trustees Australia Ltd v Wallace [2007] FCA 527 (18 April 2007)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2007/527.html",
+  "catchphrases": [
+    {
+      "text": "review of determination of superannuation complaints tribunal",
+      "id": "c0"
+    },
+    {
+      "text": "jurisdiction of superannuation complaints tribunal under s 37 of superannuation (resolution of complaints) act 1993 (cth)",
+      "id": "c1"
+    },
+    {
+      "text": "whether power conferred on trustee by trust deed to 'compromise' claims is confined to a claim against the fund and not against the trustee",
+      "id": "c2"
+    },
+    {
+      "text": "but if it extends to the latter, whether exercise of the power is reviewable under s 37 of the superannuation (resolution of complaints) act 1993 (cth)",
+      "id": "c3"
+    },
+    {
+      "text": "relevance of right of trustee to be indemnified out of trust fund",
+      "id": "c4"
+    },
+    {
+      "text": "apprehension of bias",
+      "id": "c5"
+    },
+    {
+      "text": "denial of procedural fairness",
+      "id": "c6"
+    },
+    {
+      "text": "miscarriage of statutory function of superannuation complaints tribunal",
+      "id": "c7"
+    },
+    {
+      "text": "administrative law",
+      "id": "c8"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "This is an appeal, pursuant to s 46 of the Superannuation (Resolution of Complaints) Act 1993 (Cth) ('the Complaints Act'), from a determination of the Superannuation Complaints Tribunal ('the Tribunal') whereby the Tribunal determined to set aside the decision under review and substituted its own decision that the applicant pay the respondent the sum of $380,000 less the amount of all pensions already paid to him in respect of the relevant pension plan plus compound interest at the rate the respondent would have earned if the $380,000 had been invested in the Income Option of a fund known as the Harry Wallace Personal Pension Plan (formerly named the Harry Wallace Personal Superannuation Fund) ('the Fund') from 24 March 2000 to the date of payment.",
+      "id": "s0"
+    },
+    {
+      "text": "The Fund was established by trust deed dated 24 March 1995 ('the 1995 Trust Deed').",
+      "id": "s1"
+    },
+    {
+      "text": "On 31 August 2000 it was altered to enable the Fund to pay an allocated pension, and the name of the Fund was changed ('the 2000 Trust Deed').",
+      "id": "s2"
+    },
+    {
+      "text": "BACKGROUND \n Parties \n \n The applicant was the trustee of the Fund.",
+      "id": "s3"
+    },
+    {
+      "text": "The respondent was the complainant to the Tribunal.",
+      "id": "s4"
+    },
+    {
+      "text": "Decisions under Review \n \n The applicant rejected the respondent's claims that: \n \n &#8226; The applicant had acted in breach of trust by its alleged failure in March 2000 to action the respondent's verbal requests to convert the investments in the Fund from certain 'high risk, high tech' shares to a more 'secure portfolio'; and\n &#8226; the investment strategy of the Fund was unfair or unreasonable.",
+      "id": "s5"
+    },
+    {
+      "text": "Complaint \n \n On 8 June 2004 the respondent lodged a complaint with the Tribunal that the decision of the applicant was unfair or unreasonable because: \n \n 'The Fund's failure to act as instructed and as required by law has resulted in my losing the equity in the fund, and has resulted in my being declared bankrupt.",
+      "id": "s6"
+    },
+    {
+      "text": "' \n \n Factual Chronology \n \n The Tribunal was satisfied as to the following factual chronology: \n \n &#8226; 24 March 1930 --- the respondent's date of birth.",
+      "id": "s7"
+    },
+    {
+      "text": "&#8226; 24 March 1995 --- the Fund was established, with the respondent as the sole member.",
+      "id": "s8"
+    },
+    {
+      "text": "This was the respondent's 65 th birthday.",
+      "id": "s9"
+    },
+    {
+      "text": "&#8226; 18 October 1999 --- following an inquiry from the respondent, the applicant wrote to the respondent and advised that reg 7.04(1C) of the Superannuation Industry (Supervision) Regulations 1994 ('the SIS Regulations') restricted the acceptance of contributions by a superannuation fund in respect of members over age 70 and that, in accordance with this regulation, a regulated superannuation fund may accept contributions made in respect of a member who has reached age 70 only if the contributions are mandated employer contributions.",
+      "id": "s10"
+    },
+    {
+      "text": "&#8226; About February 2000 --- the applicant's Account Manager telephoned the respondent.",
+      "id": "s11"
+    },
+    {
+      "text": "In his letter to the applicant dated 29 April 2004, the respondent stated:\n \n '[The Account Manager] telephoned me approximately mid to late February 2000 to advise that with my approaching 70 th birthday, I had to convert [the Fund] to an allocated pension.",
+      "id": "s12"
+    },
+    {
+      "text": "We had at least three telephone conversations over the next two week period.",
+      "id": "s13"
+    },
+    {
+      "text": "In these conversations, I advised that I wanted the moneys invested in an allocated pension and further that it should be converted to a secure portfolio (actually detailing three specific funds - [named] (amounts at his discretion), with the balance of the portfolio also to be invested at his discretion).",
+      "id": "s14"
+    },
+    {
+      "text": "' \n \n The respondent alleged that he requested the Account Manager to convert the Fund to an allocated pension in a secure portfolio on his 70 th birthday (i.e.",
+      "id": "s15"
+    },
+    {
+      "text": "24 March 2000) and, as he was selling his business, he advised the Account Manager that he wanted to receive the minimum pension entitlements.",
+      "id": "s16"
+    },
+    {
+      "text": "In addition, the respondent alleged that:\n 'I advised [the Account Manager] that I was unable to travel to Melbourne to complete the necessary documentation due to recent ill health (heart problems) but he advised that this was unnecessary as he could do it all by telephone instruction.",
+      "id": "s17"
+    },
+    {
+      "text": "' \n \n &#8226; 7 February 2000 --- the respondent signed an Allocated Pension Application Form ('the first application form').",
+      "id": "s18"
+    },
+    {
+      "text": "The 'Investment Strategy' elected (by a tick) on the form was 'Growth Equities' and the form indicated (again by a tick) that the applicant would provide a tailored investment strategy.",
+      "id": "s19"
+    },
+    {
+      "text": "The respondent stated:\n \n 'I rang [the Account Manager] because time was of the essence ... My 70 th birthday was 24 March 2000.",
+      "id": "s20"
+    },
+    {
+      "text": "It was decided if I signed a form and sent it immediately, he would get it next morning and he would complete the application.",
+      "id": "s21"
+    },
+    {
+      "text": "' \n \n There is no evidence to confirm that the applicant (or the Account Manager) received this form.",
+      "id": "s22"
+    },
+    {
+      "text": "&#8226; 16 March 2000 --- the applicant alleged that on 16 March 2000 the respondent executed an Allocated Pension Application Form ('the second application form').",
+      "id": "s23"
+    },
+    {
+      "text": "The form appeared to have been signed by the respondent and the 'Investment Strategy' elected (by a tick) on the form was 'Growth Equities'.",
+      "id": "s24"
+    },
+    {
+      "text": "The respondent stated: \n 'This application is false, and I am sure was never meant, to be found.",
+      "id": "s25"
+    },
+    {
+      "text": "' \n \n He also stated: \n \n '...",
+      "id": "s26"
+    },
+    {
+      "text": "There is a reason for me not completing the application form.",
+      "id": "s27"
+    },
+    {
+      "text": "This should have been done by [the Account Manager].",
+      "id": "s28"
+    },
+    {
+      "text": "...",
+      "id": "s29"
+    },
+    {
+      "text": "This is not [the Account Manager's] writing.",
+      "id": "s30"
+    },
+    {
+      "text": "I am quite sure and the indication showing growth equities, you would need a magnifying glass to see it.",
+      "id": "s31"
+    },
+    {
+      "text": "Someone else has done this.",
+      "id": "s32"
+    },
+    {
+      "text": "' \n \n &#8226; 20 March 2000 --- the applicant wrote a letter (signed by the Account Manager) to the respondent and advised:\n \n 'The initial review of your pension fund has now been completed.",
+      "id": "s33"
+    },
+    {
+      "text": "Based on the fund value of $380,141.44 as at 16 March 2000 you are entitled to draw a pension within the range of $7,959.91 and $15,919.82 during the current financial year.",
+      "id": "s34"
+    },
+    {
+      "text": "I enclose a pension details form for your completion ... \n \n I have also enclosed a \"Annuity and Superannuation Pension Declaration\" form to be completed also.",
+      "id": "s35"
+    },
+    {
+      "text": "' \n \n In his letter to the applicant dated 21 August 2001 the respondent stated:\n 'The forms mentioned in the letter dated 20/3/00 were not enclosed.",
+      "id": "s36"
+    },
+    {
+      "text": "I am very familiar with these forms having completed many Allocated Pensions for [another named financial services organisation].",
+      "id": "s37"
+    },
+    {
+      "text": "' \n \n Nothing appears to turn on this discrepancy.",
+      "id": "s38"
+    },
+    {
+      "text": "&#8226; 27 March 2000 --- the respondent completed a Pension Payment Details Form and requested an annual pension amount of $8,000.",
+      "id": "s39"
+    },
+    {
+      "text": "&#8226; 27 March 2000 --- the applicant alleged that the respondent completed an Annuity and Superannuation Pension Declaration Form and provided a copy of this form to the Tribunal.",
+      "id": "s40"
+    },
+    {
+      "text": "The respondent stated:\n 'I had already stated to [an employee of the applicant] that I didn't receive this form.",
+      "id": "s41"
+    },
+    {
+      "text": "...",
+      "id": "s42"
+    },
+    {
+      "text": "I would like to have it examined by an expert because of my serious doubts and also this doesn't look like an original application form.",
+      "id": "s43"
+    },
+    {
+      "text": "If it was an original, where the lines have faded the ink lines would also have faded, and this is not the case.",
+      "id": "s44"
+    },
+    {
+      "text": "' \n \n &#8226; 5 April 2000 --- the applicant confirmed the respondent's request for an annual pension of $8,000.",
+      "id": "s45"
+    },
+    {
+      "text": "The respondent was paid pension payments totalling $8,000 gross in May/June 2000.",
+      "id": "s46"
+    },
+    {
+      "text": "A further pension payment was made in July 2000 but some of this was subsequently returned to the Fund by the respondent at the applicant's request.",
+      "id": "s47"
+    },
+    {
+      "text": "&#8226; 15 August 2000 --- the applicant alleged that the respondent was advised by telephone that the Fund was overdrawn by approximately $65,000 and the respondent was to notify the applicant of his intended course of action.",
+      "id": "s48"
+    },
+    {
+      "text": "However, in his submission to the Tribunal the respondent stated:\n \n '... the only words I spoke, \"I am very sick.",
+      "id": "s49"
+    },
+    {
+      "text": "I'm recovering from neurosurgery and I don't want to talk now.",
+      "id": "s50"
+    },
+    {
+      "text": "\" \n \n I was never advised at anytime of being $65,000 overdrawn.",
+      "id": "s51"
+    },
+    {
+      "text": "Please show me the documentation to this effect.",
+      "id": "s52"
+    },
+    {
+      "text": "' \n \n &#8226; Early September 2000 --- the applicant allegedly made further phone contact with the respondent about the negative balance of the Fund.",
+      "id": "s53"
+    },
+    {
+      "text": "&#8226; 4 September 2000 --- the applicant notified the respondent of the overdrawn daily administration fee to apply from 1 October 2000 and that to comply with the Superannuation Industry (Supervision) Act 1993 (Cth) ('the SIS Act') it may sell assets to clear any overdrawn accounts that were not promptly returned to a positive balance.",
+      "id": "s54"
+    },
+    {
+      "text": "The respondent stated that:\n \n 'This was my first confirmation that something had gone astray, and certainly the first recognition from [the applicant] that my moneys had not been invested as per my instructions to [the Account Manager].",
+      "id": "s55"
+    },
+    {
+      "text": "' \n \n &#8226; 7 September 2000 --- the applicant wrote a letter to the respondent stating that:\n \n 'The annual review of your pension fund has now been completed.",
+      "id": "s56"
+    },
+    {
+      "text": "Based on the fund value of $18,860.19 as at 30 June 2000 you are entitled to draw a pension within the range of $1,397.05 and $2,857.60 during the current financial year ...' \n \n &#8226; About 2 October 2000 --- the applicant advised that the Fund assets were sold and the Fund was wound up.",
+      "id": "s57"
+    },
+    {
+      "text": "&#8226; 7 December 2000 --- the applicant wrote to the respondent about new investment strategies for its 'DIY Trustee Service'.",
+      "id": "s58"
+    },
+    {
+      "text": "The letter stated:\n 'We believe the new Investment Strategies are more flexible and allow for greater choice for our clients.",
+      "id": "s59"
+    },
+    {
+      "text": "As you may be aware, as Trustee of your fund [the Trustee] is legally responsible to formulate and give effect to an investment strategy for the fund.",
+      "id": "s60"
+    },
+    {
+      "text": "The new investment strategies are attached for your reference.",
+      "id": "s61"
+    },
+    {
+      "text": "The table below compares the existing strategies to the new strategies ... \n \n The next step in the process is for the members of each superannuation fund to nominate which new investment strategy they wish to have applied to their fund.",
+      "id": "s62"
+    },
+    {
+      "text": "' \n \n The respondent appears to have interpreted this letter as confirmation that his investment strategy change had been effected.",
+      "id": "s63"
+    },
+    {
+      "text": "&#8226; 6 February 2001 --- the applicant wrote to the respondent 'regarding the ongoing negative cash position of your superannuation fund' and advised that the applicant had sold all assets of the Fund and that the amount overdrawn was $8,161.30.",
+      "id": "s64"
+    },
+    {
+      "text": "The value of the Fund at various dates throughout the above period was: \n\n\n 30 June 1998 $30,457.85 \n 30 June 1999 $72,717.45 \n 16 March 2000 $380,141.44 \n 30 June 2000 $18,860.19 (according to the letter dated 7 September 2000) 30 June 2000 $7,410.86 (according to the financial statements for the year ending 30 June 2000) 6 October 2000 -$5,500.00 (after the Fund's assets were sold) 6 February 2001 -$8,161.30 \n \n\n Tribunal's Deliberations \n \n The Tribunal noted that its role was to determine whether the decision of the applicant was fair and reasonable in relation to the respondent in the circumstances: see subs 37(4) of the Complaints Act.",
+      "id": "s65"
+    },
+    {
+      "text": "It further noted that the three key issues raised by the parties were: \n \n 1.",
+      "id": "s66"
+    },
+    {
+      "text": "Cashing of benefits at or before age 70.",
+      "id": "s67"
+    },
+    {
+      "text": "2.",
+      "id": "s68"
+    },
+    {
+      "text": "Implementation of the respondent's investment choice.",
+      "id": "s69"
+    },
+    {
+      "text": "3.",
+      "id": "s70"
+    },
+    {
+      "text": "Formulation of the Fund's investment strategy.",
+      "id": "s71"
+    },
+    {
+      "text": "As to issue 1 --- the cashing of benefits at or before age 70 --- the Tribunal concluded that there was no evidence of a breach of the SIS Regulations in this regard.",
+      "id": "s72"
+    },
+    {
+      "text": "As to issue 2 --- implementation of the respondent's investment choice --- the Tribunal found that the information supplied by the parties was inconsistent.",
+      "id": "s73"
+    },
+    {
+      "text": "There was evidence to support both versions of events.",
+      "id": "s74"
+    },
+    {
+      "text": "The Tribunal concluded that it was unnecessary for it to decide whether the applicant's failure to convert the respondent's investments to a secure investment based on his alleged instructions was fair and reasonable in its operation in relation to the respondent in the circumstances.",
+      "id": "s75"
+    },
+    {
+      "text": "This was due to the Tribunal's conclusion in respect of the third issue.",
+      "id": "s76"
+    },
+    {
+      "text": "As to issue 3 --- formulation of the Fund's investment strategy --- the Tribunal thought that there were two sub-issues: The right of a member to give directions with respect to the investments and the formulation and maintenance of the investment strategy.",
+      "id": "s77"
+    },
+    {
+      "text": "As to the first sub-issue, the Tribunal observed that as the Fund had only one member (i.e.",
+      "id": "s78"
+    },
+    {
+      "text": "the respondent), the Tribunal accepted that the trust deed was able to provide that the respondent, as a member, could direct the applicant, as trustee, with respect to matters such as investments without infringing s 58 of the SIS Act.",
+      "id": "s79"
+    },
+    {
+      "text": "As to the second sub-issue, the Tribunal said (at 14 --- 16): \n \n 'Whether the Trustee's investment strategy for the Fund was made in accordance with the SIS Act is relevant to this complaint.",
+      "id": "s80"
+    },
+    {
+      "text": "The Complainant submitted that the Trustee was in breach of the SIS Act by adopting an investment strategy for the Fund that permitted him (at aged 70) to elect for up to 98% of the Fund to be invested in highly speculative stock.",
+      "id": "s81"
+    },
+    {
+      "text": "The Trustee was required to formulate and give effect to an investment strategy for the Fund by s52(2)(f) of the SIS Act.",
+      "id": "s82"
+    },
+    {
+      "text": "This required consideration of matters including the risk involved in holding the entity's investments having regard to its objectives and its expected cash flow requirements and the diversity of investments.",
+      "id": "s83"
+    },
+    {
+      "text": "Section 52(2)(4) [52(4)] of the SIS Act provided: \n \n \n \n An investment strategy is taken to be in accordance with paragraph 2(f) even if it provides for a specified beneficiary or specified class of beneficiaries to give directions to the trustee, where: \n \n \n \n \n \n (a) the directions relate to the strategy to be followed by the trustee in relation to the investment of a particular asset or assets of the entity; and \n (b) the directions are given in circumstances covered by regulations made for the purpose of this paragraph.",
+      "id": "s84"
+    },
+    {
+      "text": "In this context, the word \"even\" meant that the formulation of investment strategy was still required to comply with s52(2)(f) of the SIS Act.",
+      "id": "s85"
+    },
+    {
+      "text": "In other words, allowing member-directed investments did not obviate the need for the Trustee to devise and adhere to an investment strategy that was correctly formulated.",
+      "id": "s86"
+    },
+    {
+      "text": "Any investment option offered to members of a fund on an investment menu could only be offered [if] it was consistent with a properly devised strategy.",
+      "id": "s87"
+    },
+    {
+      "text": "This conclusion is reflected in paragraph 50 of the APRA Circular which the Trustee also referred to: \n \n \n \n Where investment choice is offered, members can select from the available range of investment strategies to produce a tailor-made portfolio that meets their individual needs.",
+      "id": "s88"
+    },
+    {
+      "text": "Trustees are not responsible for the actual strategy/ies a member may adopt provided all the requirements for choice of strategies are complied with (refer paragraphs 53 to 59) and each investment strategy offered has been properly formulated and implemented (see paragraphs 13 to 38).",
+      "id": "s89"
+    },
+    {
+      "text": "(emphasis added) \n \n \n \n Paragraph 16 of the APRA Circular requires that, when formulating investment strategies: \n \n \n \n Trustees must be able to demonstrate through trustee minutes, other documentation (eg.",
+      "id": "s90"
+    },
+    {
+      "text": "reports from investment advisers) and the actual wording of the strategy that they have considered, at a minimum, the specific issues that must be taken into account under the investment covenant [ie s52(2)(f)].",
+      "id": "s91"
+    },
+    {
+      "text": "The Tribunal notes that the Trustee was unable to provide any such minutes or other documentation to show that the Fund's investment strategy was devised after consideration of the statutory (or any other) considerations.",
+      "id": "s92"
+    },
+    {
+      "text": "The investment strategy should have been prepared only after considering the whole of the Fund's circumstances, including: \n \n \n \n \n &#8226; the Complainant's circumstances, including his age and state of ill-health, as the Fund was a single member fund; \n &#8226; diversification over asset classes; and \n &#8226; risk.",
+      "id": "s93"
+    },
+    {
+      "text": "As risk is subject to factors such as market and legislative changes, trustees must regularly review the strategy to ensure that it remains appropriate for their fund.",
+      "id": "s94"
+    },
+    {
+      "text": "Paragraph 21 of the APRA Circular states: \n \n \n \n ... trustees are required to continuously monitor, assess and review the fund's investment objectives, strategies and performance.",
+      "id": "s95"
+    },
+    {
+      "text": "Apart from the \"DIY Trustee Service\" letter of 7 December 2000, there is no evidence that the Trustee ever reviewed the Fund's investment policy, even when the Trust Deed was amended to allow the Fund to pay an allocated pension when the Complainant turned 70.",
+      "id": "s96"
+    },
+    {
+      "text": "The Tribunal also considered that the trustee covenants in s52(2)(b) and (c) of the SIS Act were relevant to this complaint.",
+      "id": "s97"
+    },
+    {
+      "text": "These required the Trustee: \n \n \n \n \n (b) to exercise, in relation to all matters affecting the entity, the same degree of care, skill and diligence as an ordinary prudent person would exercise in dealing with property of another for whom the person felt morally bound to provide; \n (c) to ensure that the trustee's duties and powers are performed and exercised in the best interests of the beneficiaries.",
+      "id": "s98"
+    },
+    {
+      "text": "Given the above, including the lack of documentation (with respect to the formulation of the investment strategy) and the fact that the only member of the Fund was aged 70, unwell and in receipt of a pension from the Fund, the Tribunal finds that the investment strategy that allowed: \n \n \n \n \n &#8226; up to 98% exposure to Australian equities, and \n &#8226; the Fund to trade in predominantly speculative shares \n \n \n \n \n did not comply with the SIS Act and that the Trustee's decision not to compensate the Complainant for his loss as a result of the unlawful investment choice was not fair and reasonable in its operation in relation to the Complainant in the circumstances.",
+      "id": "s99"
+    },
+    {
+      "text": "' (Emphasis added)\n \n Substitute Decision \n \n Having concluded that the applicant's decision was not fair and reasonable in its operation in relation to the respondent in the circumstances, the Tribunal considered it appropriate to set aside the applicant's decision and substitute another.",
+      "id": "s100"
+    },
+    {
+      "text": "The Tribunal observed that the applicant, as trustee, had power to pay a benefit to the respondent under its compromise power in rules 9.7(d) of the 1995 Trust Deed and 10.7(d) of the 2000 Trust Deed and the relevant state's Trustee Act.",
+      "id": "s101"
+    },
+    {
+      "text": "Whether this observation is correct or not is an issue raised on the appeal.",
+      "id": "s102"
+    },
+    {
+      "text": "The Tribunal further observed that subs 37(4) of the Complaints Act requires the Tribunal to make a determination that places the respondent as nearly as practicable in such a position that the unfairness, unreasonableness, or both, that the Tribunal has determined to exist in relation to the applicant's decision that is the subject of the complaint, no longer exists.",
+      "id": "s103"
+    },
+    {
+      "text": "The Tribunal concluded that the investment strategy of the Fund was not fair and reasonable in its operation in relation to the respondent in the circumstances, at least after the time that the respondent turned 70 (i.e.",
+      "id": "s104"
+    },
+    {
+      "text": "24 March 2000).",
+      "id": "s105"
+    },
+    {
+      "text": "Determination of the Tribunal \n \n Pursuant to subs 37(3) of the Complaints Act, but subject to the requirements of subss 37(4) and (5), the Tribunal determined to set aside the decision under review and substituted its own decision: see [1] above.",
+      "id": "s106"
+    },
+    {
+      "text": "The members constituting the Tribunal were not able to reach a unanimous decision in respect of the decisions under review.",
+      "id": "s107"
+    },
+    {
+      "text": "In the guidelines issued pursuant to the provisions of subss 9(2A) and 9(4) of the Complaints Act and dated 30 June 2005, the Chairperson determined that where the Tribunal is constituted with two members and they disagree on the determination, then the decision of the Presiding Member is taken to be the decision of both of them (cl 7(3)).",
+      "id": "s108"
+    },
+    {
+      "text": "In this case, the decision of the Presiding Member is that the decision under review was not fair and reasonable in the circumstances.",
+      "id": "s109"
+    },
+    {
+      "text": "Accordingly, that became the decision of the Tribunal.",
+      "id": "s110"
+    },
+    {
+      "text": "THE APPEAL TO THIS COURT \n \n In its notice of appeal filed 21 March 2006, the applicant relied on six grounds of appeal: \n \n (a) The Tribunal erred in law in concluding that cl 9.7(d) of the 1995 Trust Deed was a power of the applicant which could be re-exercised by the Tribunal, on 22 February 2006, pursuant to the power conferred by s 37(1)(a) of the Complaints Act.",
+      "id": "s111"
+    },
+    {
+      "text": "(b) The Tribunal erred in law concluding that the respondent had made a 'claim' within the meaning of cl 10.7(d) of the 2000 Trust Deed.",
+      "id": "s112"
+    },
+    {
+      "text": "(c) The Tribunal erred in law in concluding that cl 10.7(d) of the 2000 Trust Deed authorised the applicant personally to compensate the respondent for breaches of covenants implied into the 1995 Trust Deed by the SIS Act.",
+      "id": "s113"
+    },
+    {
+      "text": "(d) The Tribunal erred in law in concluding that a decision by the applicant to pay the respondent compensation for breaches of covenants implied into the 1995 Trust Deed by the SIS Act would be a decision 'to administer the Fund and comply with Superannuation Law' within the meaning of cl 10.7 of the 2000 Trust Deed.",
+      "id": "s114"
+    },
+    {
+      "text": "(e) The Tribunal erred in law in concluding that the Tribunal had jurisdiction by reason of s 37(1)(a) or s 37(3) of the Complaints Act to substitute its decision that the applicant should pay the respondent $380,000 pursuant to cl 10.7(d) of the 2000 Trust Deed.",
+      "id": "s115"
+    },
+    {
+      "text": "(f) The Tribunal erred in law in concluding that, if the Tribunal did not err in concluding that cl 10.7(d) authorised the applicant to pay the respondent compensation, the Tribunal adopted a correct approach to exercising the discretion to 'compromise' thereby conferred.",
+      "id": "s116"
+    },
+    {
+      "text": "Prior to the hearing of the appeal, the respondent indicated to the Court that he did not intend to defend the appeal.",
+      "id": "s117"
+    },
+    {
+      "text": "On the basis that the applicant adhered to his intentions in this regard, subs 46(5) of the Complaints Act prohibits the Court making a costs order against the respondent.",
+      "id": "s118"
+    },
+    {
+      "text": "When the appeal came on for hearing on 21 June 2006, the applicant sought, and I granted, leave to file an amended notice of appeal incorporating four additional grounds of appeal: \n \n (g) The Tribunal erred in awarding compensation to the respondent as to do so involved it in an exercise of the judicial power of the Commonwealth.",
+      "id": "s119"
+    },
+    {
+      "text": "(h) The Tribunal erred in law by acting in a way which gave rise to an apprehension of bias by consulting with APRA.",
+      "id": "s120"
+    },
+    {
+      "text": "(i) The Tribunal erred in law by failing to accord the applicant procedural fairness by not disclosing to the applicant the matters which passed between it and APRA.",
+      "id": "s121"
+    },
+    {
+      "text": "(j) The Tribunal erred in law by consulting with APRA when s 37 of the Complaints Act did not authorise it to do so.",
+      "id": "s122"
+    },
+    {
+      "text": "The applicant relied on written and oral submissions in support of all grounds in its amended notice of appeal which were grouped under the following heads: \n\n Grounds (a) to (e) --- that cl 10.7(d) of the 2000 Trust Deed did not empower the applicant, as trustee, to pay the respondent in accordance with the substituted decision the subject of the Tribunal's determination.",
+      "id": "s123"
+    },
+    {
+      "text": "Ground (f) --- the discretion to 'compromise' does not encompass a payment of 100% of the claim.",
+      "id": "s124"
+    },
+    {
+      "text": "Ground (g) --- even if cl 10.7(d) did confer a power on the trustee to compromise a claim against itself, the exercise of that power by the Tribunal would involve an exercise of judicial power.",
+      "id": "s125"
+    },
+    {
+      "text": "Grounds (h), (i) and (j) --- consultation with APRA involves a reasonable apprehension of bias; the non-disclosure of such consultation evidences a breach of the rules of procedural fairness; and the statutory function under s 37 of the Complaints Act miscarried.",
+      "id": "s126"
+    },
+    {
+      "text": "None of the Tribunal's findings of fact at [6] above was put in issue on the appeal.",
+      "id": "s127"
+    },
+    {
+      "text": "On 18 August 2006, nearly two months after the initial hearing on 21 June 2006, the Tribunal filed a notice of motion moving the Court for orders: \n \n \n '1.",
+      "id": "s128"
+    },
+    {
+      "text": "Pursuant to Order 6 rule 8(1), alternatively Order 6 rule 17, alternatively Order 53 rule 5(3) of the Federal Court Rules , that the Tribunal: \n \n (a) be joined as a respondent to the proceeding; \n (b) alternatively be granted leave to intervene in the proceeding.",
+      "id": "s129"
+    },
+    {
+      "text": "2.",
+      "id": "s130"
+    },
+    {
+      "text": "That the Tribunal be given leave, in accordance with any directions made by the Court, to make written and oral submissions on the questions of law identified as (g), (h), (i) and (j) raised by the applicant in its amended notice of appeal dated [21] June 2006.",
+      "id": "s131"
+    },
+    {
+      "text": "3.",
+      "id": "s132"
+    },
+    {
+      "text": "The costs of the motion, and the costs occasioned by the joining of the Tribunal as a party and the making of submissions on the questions of law referred to in para 2 above be reserved for argument consequent upon the handing down by the Court of its judgment in this proceeding.",
+      "id": "s133"
+    },
+    {
+      "text": "4.",
+      "id": "s134"
+    },
+    {
+      "text": "Such further or other orders as the Court sees fit.",
+      "id": "s135"
+    },
+    {
+      "text": "' \n \n \n \n \n \n \n On 7 September 2006, after hearing from Senior Counsel for the Tribunal and Senior Counsel for the applicant, I made an order in the following terms: \n \n 'That pursuant to O 6 r 17 the Tribunal be given leave to intervene in this appeal for the sole purpose of assisting the Court in resolving the issues between the parties raised by paragraphs 2(g), (h), (i) and (j) of the applicant's Amended Notice of Appeal, which was filed on 21 June 2006.",
+      "id": "s136"
+    },
+    {
+      "text": "' \n \n \n On 11 October 2006 the hearing of the appeal resumed before me.",
+      "id": "s137"
+    },
+    {
+      "text": "THE SUBMISSIONS ON GROUNDS (a) --- (f) \n \n Because of the terms of the order in [25] above, only the applicant made written submissions in respect of grounds (a) to (f) inclusive.",
+      "id": "s138"
+    },
+    {
+      "text": "Nevertheless, the Tribunal's oral submissions on ground (g) of the amended notice of appeal did raise certain matters common to grounds (a) to (e).",
+      "id": "s139"
+    },
+    {
+      "text": "The applicant submitted that the Tribunal's finding that the investment strategy did not comply with the SIS Act amounted to a finding that there was a breach of trust.",
+      "id": "s140"
+    },
+    {
+      "text": "The covenants referred to by the Tribunal in its deliberations, namely those in subss 52(2)(b) and 52(2)(c) of the SIS Act, in so far as they are not contained in the governing rules of the Fund, are incorporated into those rules by force of subs 52(1) of the SIS Act.",
+      "id": "s141"
+    },
+    {
+      "text": "While the applicant did not accept that there was a breach, its complaint, as embodied in grounds (a) to (e), was with what the Tribunal then proceeded to do with that conclusion.",
+      "id": "s142"
+    },
+    {
+      "text": "The applicant referred to the right of the respondent to complain to the Tribunal conferred by s 14 of the Complaints Act and to the powers of the Tribunal conferred by s 37 in dealing with such a complaint.",
+      "id": "s143"
+    },
+    {
+      "text": "Section 37 of the Complaints Act provides: \n \n \n '(1) For the purpose of reviewing a decision of the trustee of a fund that is the subject of a complaint under section 14: \n \n \n \n \n \n (a) the Tribunal has all the powers, obligations and discretions that are conferred on the trustee; and \n (b) subject to subsection (6), must make a determination in accordance with subsection (3).",
+      "id": "s144"
+    },
+    {
+      "text": "(2) If an insurer or other decision-maker has been joined as a party to a complaint under section 14: \n \n \n \n \n \n (a) the Tribunal must, when reviewing the trustee's decision, also review any decision of the insurer or other decision-maker that is relevant to the complaint; and \n (b) for that purpose, has all the powers, obligations and discretions that are conferred on the insurer or other decision-maker; and \n (c) subject to subsection (6), must make a determination in accordance with subsection (3).",
+      "id": "s145"
+    },
+    {
+      "text": "(3) On reviewing the decision of a trustee, insurer or other decision-maker that is the subject of, or relevant to, a complaint under section 14, the Tribunal must make a determination in writing: \n \n (a) affirming the decision; or \n \n \n \n \n (b) remitting the matter to which the decision relates to the trustee, insurer or other decision-maker for reconsideration in accordance with the directions of the Tribunal; or \n (c) varying the decision; or \n (d) setting aside the decision and substituting a decision for the decision so set aside.",
+      "id": "s146"
+    },
+    {
+      "text": "(4) The Tribunal may only exercise its determination-making power under subsection (3) for the purpose of placing the complainant as nearly as practicable in such a position that the unfairness, unreasonableness, or both, that the Tribunal has determined to exist in relation to the trustee's decision that is the subject of the complaint no longer exists.",
+      "id": "s147"
+    },
+    {
+      "text": "(5) The Tribunal must not do anything under subsection (3) that would be contrary to law, to the governing rules of the fund concerned and, if a contract of insurance between an insurer and trustee is involved, to the terms of the contract.",
+      "id": "s148"
+    },
+    {
+      "text": "(6) The Tribunal must affirm a decision referred to under subsection (3) if it is satisfied that the decision, in its operation in relation to: \n \n \n \n \n \n \n (a) the complainant; and \n (b) so far as concerns a complaint regarding the payment of a death benefit--any person (other than the complainant, a trustee, insurer or decision-maker) who: \n \n \n \n \n \n (i) has become a party to the complaint; and \n (ii) has an interest in the death benefit or claims to be, or to be entitled to benefits through, a person having an interest in the death benefit; \n \n \n \n \n was fair and reasonable in the circumstances.",
+      "id": "s149"
+    },
+    {
+      "text": "' \n \n \n \n \n The applicant submitted that s 37 does not authorise the Tribunal to determine the rights and liabilities of the parties by the application of the law to determined facts.",
+      "id": "s150"
+    },
+    {
+      "text": "Rather, it empowers the Tribunal to exercise afresh, discretionary powers that the applicant in question had.",
+      "id": "s151"
+    },
+    {
+      "text": "By that structure, the Tribunal does not exercise the judicial power of the Commonwealth: Attorney-General v Breckler [1999] HCA 28 ; (1999) 197 CLR 83.",
+      "id": "s152"
+    },
+    {
+      "text": "In order, therefore, for the Tribunal to be able to substitute its decision, it was necessary for it to identify a discretion, which the applicant had exercised, which was not 'fair and reasonable' and which the Tribunal could then re-exercise.",
+      "id": "s153"
+    },
+    {
+      "text": "The applicant pointed to the Tribunal's reasoning by reference to the following extract from the Tribunal's Review Determination and Reasons: \n \n 'The Tribunal notes that the Trustee has power to pay a benefit to the Complainant under its compromise power in rules 9.7(d) of the 1995 Trust Deed and 10.7(d) of the 2000 Trust Deed and the relevant state's Trustee Act.",
+      "id": "s154"
+    },
+    {
+      "text": "' \n \n\nThe reasoning was flawed, so the submission went, as was the Tribunal's consequential determination that it could order the applicant to pay the respondent $380,000.",
+      "id": "s155"
+    },
+    {
+      "text": "Clause 9.7 of the 1995 Trust Deed provided: \n \n ' Trustee's Powers \n \n \n \n 9.7 The Trustee may do anything it considers appropriate to administer the Fund and comply with Superannuation Law, including: \n \n \n \n \n \n \n (a) giving receipts and discharges; \n (b) conducting and settling legal proceedings; \n (c) referring claims to arbitration; \n (d) compromising any claim; \n (e) giving any guarantee or indemnity; \n (f) insuring any risks; \n (g) acting as an underwriter; \n (h) making rules for rounding off contributions and benefits; \n (i) providing for and transferring liability for any tax; \n (j) electing to be bound by any legislation.",
+      "id": "s156"
+    },
+    {
+      "text": "' \n \n \n \n \n \n Clause 10.7 of the 2000 Trust Deed provided: \n \n ' Trustee's Powers \n \n \n \n 10.7 The Trustee may do anything it considers appropriate to administer the Fund and comply with Superannuation Law, including: \n \n \n \n \n \n \n (a) giving receipts and discharges; \n (b) conducting and settling legal proceedings; \n (c) referring claims to arbitration; \n (d) compromising any claim; \n (e) giving any guarantee or indemnity; \n (f) insuring any risks; \n (g) acting as an underwriter; \n (h) making rules for rounding off contributions and benefits; \n (i) providing for and transferring liability for any tax; \n (j) electing to be bound by any legislation.",
+      "id": "s157"
+    },
+    {
+      "text": "(k) applying forfeited amounts to Contribution Accounts or Reserve Accounts; \n (l) applying amounts from Reserve Accounts to Contribution Accounts or otherwise as the trustee determines; and \n (m) purchasing, commencing or terminating the pensions referred to in rules 6 and 7.",
+      "id": "s158"
+    },
+    {
+      "text": "' \n \n \n \n \n \n The applicant submitted that it is cl 10.7(d) that applies and not cl 9.7(d).",
+      "id": "s159"
+    },
+    {
+      "text": "The 1995 Trust Deed was not on foot at the time the Tribunal purportedly re-exercised the power (or at the time of the trustee's decision).",
+      "id": "s160"
+    },
+    {
+      "text": "The applicant submitted that it is apparent that cl 10.7 confers powers on the applicant to do things on behalf of the Fund, in its capacity as trustee of the Fund, 'to administer the Fund'.",
+      "id": "s161"
+    },
+    {
+      "text": "None of the matters set out in cl 10.7 in any way relate to the rights of the applicant, in its private capacity, to do or not do something.",
+      "id": "s162"
+    },
+    {
+      "text": "The reason for that is obvious, so the submission went; the authority of the applicant to take steps in its private capacity is not governed by the terms of the trust under which its trusteeship is established.",
+      "id": "s163"
+    },
+    {
+      "text": "If a person who was a trustee decided that it was liable to a beneficiary for a breach of trust, its power and authority to pay the beneficiary compensation for that breach of trust springs from its right, as a private person, to make payments.",
+      "id": "s164"
+    },
+    {
+      "text": "In the case of the applicant, the right to make a payment as compensation comes from s 124 of the Corporations Act 2001 (Cth) which gives the applicant, as a corporation, all the powers of a natural person.",
+      "id": "s165"
+    },
+    {
+      "text": "The applicant submitted that the word 'claim' in cl 10.7(d) should bear the same meaning as it bears in cl 10.7(c).",
+      "id": "s166"
+    },
+    {
+      "text": "It would be curious if the effect of cl 10.7(c) was to empower the applicant as trustee to submit to arbitration any claim for compensation brought by a beneficiary against it.",
+      "id": "s167"
+    },
+    {
+      "text": "In conclusion, the applicant submitted that these points underscore the fact that the power in cl 10.7 is a power conferred on the trustee 'to administer the Fund'.",
+      "id": "s168"
+    },
+    {
+      "text": "Once that is appreciated, it is plain, it was submitted, that the claims contemplated in cll 10.7(c) and 10.7(d) are claims brought on behalf of the Fund or against the Fund.",
+      "id": "s169"
+    },
+    {
+      "text": "This argument corresponds to grounds (a) to (e) in the notice of appeal.",
+      "id": "s170"
+    },
+    {
+      "text": "In the alternative, the applicant submitted that, by reference to ground (f) in the notice of appeal, assuming grounds (a) --- (e) are not correct and that the Tribunal was entitled to compromise a claim by the respondent against the applicant as trustee, the Tribunal has compromised the claim on the basis that the respondent is entitled to 100 per cent of his claim.",
+      "id": "s171"
+    },
+    {
+      "text": "The applicant submitted that whilst there may be circumstances in which it is appropriate that a claim be compromised for its full value, it is also true that a proper exercise of the discretion would involve a consideration of the relative strengths and weaknesses of the claim; so much is contemplated by the expression 'compromise'.",
+      "id": "s172"
+    },
+    {
+      "text": "Yet, arbitrarily, the Tribunal undertook no such process of analysis simply ordering the claim to be paid at its face value.",
+      "id": "s173"
+    },
+    {
+      "text": "In that circumstance, the applicant submitted that the Tribunal committed an error of law by failing to take into account relevant matters, namely, the strengths and weaknesses of the claim.",
+      "id": "s174"
+    },
+    {
+      "text": "REASONING ON GROUNDS (a) --- (f) \n \n I agree with the applicant's submissions as to the proper construction of cl 10.7(d) of the 2000 Trust Deed (and, if it matters, cl 9.7(d) of the 1995 Trust Deed), namely, that it is only concerned with the applicant's power to compromise claims made against the Fund and does not extend to claims made against the applicant.",
+      "id": "s175"
+    },
+    {
+      "text": "On the other hand, I see no warrant for confining the operation of cl 10.7(d) of the 2000 Trust Deed by concluding that it does not empower a trustee to compromise a claim by a beneficiary relating to the beneficiary's entitlement to trust property.",
+      "id": "s176"
+    },
+    {
+      "text": "This was certainly the view of the Queensland Supreme Court (Lee J) in Re Irismay Holdings Pty Ltd [1996] 1 Qd R 172, criticising statements to the contrary in Re Earl of Strafford deceased; Royal Bank of Scotland Ltd v Byng [1980] Ch 28 at 32 --- 33, albeit in relation to the Queensland statutory equivalent of s 49(d) of the Trustee Act 1925 (NSW).",
+      "id": "s177"
+    },
+    {
+      "text": "I agree with that criticism.",
+      "id": "s178"
+    },
+    {
+      "text": "The real issue in the context of these grounds of appeal is whether the respondent's claim is a claim against the Fund or a claim against the applicant.",
+      "id": "s179"
+    },
+    {
+      "text": "If it is a claim against the Fund, then the applicant is empowered, but not obliged, to compromise it pursuant to cl 10.7(d) of the 2000 Trust Deed.",
+      "id": "s180"
+    },
+    {
+      "text": "A discretion is involved and the exercise of that discretion by the applicant, as trustee, is within the Tribunal's jurisdiction of review without involving the Tribunal in the exercise of judicial power.",
+      "id": "s181"
+    },
+    {
+      "text": "As was said in the joint judgment (Gleeson CJ, Gaudron, McHugh, Gummow, Hayne and Callinan JJ) in Breckler at [24]: \n \n 'The limitation of the grounds of complaint to one that the decision was unfair or unreasonable suggests that what is involved is a complaint as to the exercise by the trustee of a discretion rather than the discharge of duties, for example to distribute to those answering specified criteria.",
+      "id": "s182"
+    },
+    {
+      "text": "' \n \n \n To like effect, Kirby J said at [69]: \n \n 'The majority of the Full Court upheld the conclusion of the primary judge that the Tribunal's jurisdiction was confined to the review of discretionary decisions.",
+      "id": "s183"
+    },
+    {
+      "text": "Only in discretionary cases would questions as to the unfairness or unreasonableness of the decision under review arise for the Tribunal's determination.",
+      "id": "s184"
+    },
+    {
+      "text": "Upon this issue the dissenting judge reached the same conclusion.",
+      "id": "s185"
+    },
+    {
+      "text": "He relied on the fact that \"[i]n the case of non-discretionary decisions the Tribunal is denied that ability [of determining whether or not the decision is unfair or unreasonable] by s 37(5)\".",
+      "id": "s186"
+    },
+    {
+      "text": "That is the subsection which forbids the Tribunal from doing \"anything ... that would be contrary to law, to the governing rules of the fund concerned and, if a contract of insurance between an insurer and trustee is involved, to the terms of the contract\".",
+      "id": "s187"
+    },
+    {
+      "text": "Having established that the jurisdiction of the Tribunal was so confined to functions arguably apt to a non-judicial body engaged in broad evaluation of merits (as distinct from the determination of purely legal rights) the point of difference between the majority and dissentient in the Full Court was reached.",
+      "id": "s188"
+    },
+    {
+      "text": "' \n \n \n On the other hand, if it is a claim against the applicant then, on my view of the proper construction of cl 10.7(d) of the 2000 Trust Deed, it is irrelevant to the source of the applicant's power to compromise the claim.",
+      "id": "s189"
+    },
+    {
+      "text": "In this regard, it is important to bear in mind that the applicant's decision which the Tribunal concluded was not 'fair and reasonable' was the decision of the applicant not to compensate the respondent for his loss in the face of the Tribunal's finding that the investment strategy of the applicant, as trustee, did not comply with the SIS Act, specifically the covenants in subss 52(2)(b) and 52(2)(c) of that Act.",
+      "id": "s190"
+    },
+    {
+      "text": "So much is to be gleaned from the last paragraph of the extract from the Tribunal's observations set out at [13] above.",
+      "id": "s191"
+    },
+    {
+      "text": "A person who suffers loss or damage as a result of contravention of a covenant contained, or taken to be contained, in the governing rules of a superannuation fund, may recover the amount of the loss or damage by action against the person who engaged in the contravention.",
+      "id": "s192"
+    },
+    {
+      "text": "So much is provided by s 55 of the SIS Act, which is in the following terms: \n \n \n '(1) A person must not contravene a covenant contained, or taken to be contained, in the governing rules of a superannuation entity.",
+      "id": "s193"
+    },
+    {
+      "text": "(2) A contravention of subsection (1) is not an offence and a contravention of that subsection does not result in the invalidity of a transaction.",
+      "id": "s194"
+    },
+    {
+      "text": "(3) A person who suffers loss or damage as a result of conduct of another person that was engaged in in contravention of subsection (1) may recover the amount of the loss or damage by action against that other person or against any person involved in the contravention.",
+      "id": "s195"
+    },
+    {
+      "text": "(4) An action under subsection (3) may be begun at any time within 6 years after the day on which the cause of action arose.",
+      "id": "s196"
+    },
+    {
+      "text": "(5) It is a defence to an action for loss or damage suffered by a person as a result of the making of an investment by or on behalf of a trustee of a superannuation entity if the defendant establishes that the investment was made in accordance with an investment strategy formulated under a covenant referred to in paragraph 52(2)(f).",
+      "id": "s197"
+    },
+    {
+      "text": "(6) It is a defence to an action for loss or damage suffered by a person as a result of the management of any reserves by a trustee of a superannuation entity if the defendant establishes that the management of the reserves was in accordance with a covenant referred to in paragraph 52(2)(g).",
+      "id": "s198"
+    },
+    {
+      "text": "(7) Subsections (5) and (6) apply to an action for loss or damage, whether brought under subsection (3) or otherwise.",
+      "id": "s199"
+    },
+    {
+      "text": "' (Emphasis added)\n \n \n \n In my view, this provision, more than anything else, points to the respondent's claim being against the applicant and not against the Fund.",
+      "id": "s200"
+    },
+    {
+      "text": "It also accords with the reality of the situation that by the time the claim was made (29 April 2004) there was no fund; the Fund had been wound up.",
+      "id": "s201"
+    },
+    {
+      "text": "In its submissions in relation to ground (g) of the notice of appeal, the Tribunal submits that this issue --- whether the respondent's claim is a claim against the Fund or whether it is a claim against the applicant --- is to be determined by reference to whether or not the applicant, as trustee, has a right of indemnity against the trust assets.",
+      "id": "s202"
+    },
+    {
+      "text": "In other words, a right to indemnify itself in respect of the loss it will suffer as a result of payment of compensation.",
+      "id": "s203"
+    },
+    {
+      "text": "If it does, then the claim, so the submission goes, is a claim against the Fund; if it does not, so the submission goes, then the claim is a claim against the applicant.",
+      "id": "s204"
+    },
+    {
+      "text": "Reliance for this submission is placed on what was said by this Court (Allsop J) in Retail Employees Superannuation Pty Ltd v Crocker (2001) 48 ATR 359 at 389 ([140], [141]): \n \n '[140] Whether the tribunal deals with it or the Trustee deals with it, the parties concerned, including Ms Crocker, must appreciate that what is involved is not the determination of the rights of the parties.",
+      "id": "s205"
+    },
+    {
+      "text": "That is for suit in a court (which may, in the end, be the only appropriate forum in which to vindicate her position).",
+      "id": "s206"
+    },
+    {
+      "text": "Rather it is a decision whether, despite the lack of entitlement under the policy, it is appropriate for the Trustee to compound Ms Crocker's claim and, if it is, in what amount.",
+      "id": "s207"
+    },
+    {
+      "text": "[141] Of course, in that inquiry, some assessment of legal, as well as factual, issues will have to be made: Did the Trustee's conduct, which is said to give rise to the claim, exhibit a lack of honesty or an intentional or reckless failure to exercise care and diligence?",
+      "id": "s208"
+    },
+    {
+      "text": "(See cl 5.1(a)(i) or (ii) of the trust deed.",
+      "id": "s209"
+    },
+    {
+      "text": ") If so, then it is probably not a claim \"against the Plan\" (ie the trust) for the purposes of cl 7(c) because the Trustee, in these circumstances, has no right of indemnity against the trust assets.",
+      "id": "s210"
+    },
+    {
+      "text": "If not, it probably is such a claim, \"against the Plan\", for the purposes of cl 7(c), because the Trustee would have a right of indemnity.",
+      "id": "s211"
+    },
+    {
+      "text": "I agree with the Trustee's submissions in this regard.",
+      "id": "s212"
+    },
+    {
+      "text": "' \n \n\nThese observations have to be understood in the context of Crocker as a whole.",
+      "id": "s213"
+    },
+    {
+      "text": "Ms Crocker's complaint was that the trustee had refused to pay her a benefit in consequence of her being totally and permanently disabled.",
+      "id": "s214"
+    },
+    {
+      "text": "The trustee determined that she was not.",
+      "id": "s215"
+    },
+    {
+      "text": "The Tribunal decided otherwise and remitted back to the trustee quantum related issues.",
+      "id": "s216"
+    },
+    {
+      "text": "Allsop J accepted that the Tribunal's reasoning that Ms Crocker was within the definition of totally and permanently disabled was wrong and he set it aside ([100] --- [111]).",
+      "id": "s217"
+    },
+    {
+      "text": "However, Ms Crocker also advanced a separate argument to the effect that even if she was not totally and permanently disabled, nevertheless, because the trustee had a power to compromise a claim, its discretionary decision not to do so was reviewable by the Tribunal.",
+      "id": "s218"
+    },
+    {
+      "text": "Clause 7(c) of the trust deed which applied to Ms Crocker was in the following terms: \n \n 'to institute, conduct, defend, compound or abandon any legal proceedings by or against the Plan or its officers or otherwise concerning the affairs of the Plan and also to compound and allow time for payments or satisfaction and allow time for payments or satisfaction of any debts due and of any claims or demands by or against the Plan.",
+      "id": "s219"
+    },
+    {
+      "text": "' \n \n\nAllsop J found that the trustee did not exercise the power in cl 7(c) at all ([129]).",
+      "id": "s220"
+    },
+    {
+      "text": "He noted an argument put by the trustee at [128]:\n \n '[128] It was said by the Trustee before me that the decision made by the Trustee was in respect of a claim by Ms Crocker for her entitlement (that is under the relevant policy) to disability benefits.",
+      "id": "s221"
+    },
+    {
+      "text": "The Trustee refused that claim.",
+      "id": "s222"
+    },
+    {
+      "text": "That decision was correct (by reference to the terms of the insurance policy).",
+      "id": "s223"
+    },
+    {
+      "text": "It was said that the question as to whether the Trustee would be entitled to use cl 7(c) and thereby trust funds to settle a different claim --- one for damages or compensation based on its conduct towards Ms Crocker in circumstances predicated upon her lack of entitlement, has not been the subject of a decision, or indeed a claim.",
+      "id": "s224"
+    },
+    {
+      "text": "Thus, it was said, to the extent that the tribunal dealt with that subject matter in respect of the second unit, it impermissibly embarked on an adjudication of the rights of the parties, not upon review of a decision; reference was made to Briffa v Hay at 444.",
+      "id": "s225"
+    },
+    {
+      "text": "' \n \n \n The trustee, therefore, ran an argument that the claim against it was a personal claim and was not a claim for a benefit due under the terms of the trust for which it would be indemnified.",
+      "id": "s226"
+    },
+    {
+      "text": "Thus, so the argument ran, this infringed the requirement that the Tribunal not deal with the adjudication of the rights of the parties.",
+      "id": "s227"
+    },
+    {
+      "text": "Of that topic, Allsop J had, himself, said at [15], [16]: \n \n '[15] In the context of a trustee acting as the trustee of a superannuation fund pursuant to a trust deed and an insurer issuing a policy to the trustee on behalf of the members of a fund, allegations of the kind just mentioned might throw up for consideration a number of matters if one were concerned with analysing or determining all the legal rights and obligations of the 3 parties (member, trustee and insurer) inter se: questions as to whether the member was entitled under the terms of the trust or the terms of the insurance policy to disability cover; questions as to whether, irrespective of the terms of the policy, the trustee had bound itself in some fashion to the member to provide disability cover; questions as to whether any such obligation had been created in contract, by estoppel or in some other legal or equitable framework; and questions as to whether, if the trustee had so bound itself and was not entitled to have the insurer pay the claim, it was entitled to indemnify itself out of the trust fund to meet such obligation.",
+      "id": "s228"
+    },
+    {
+      "text": "[16] However, the Tribunal's task was not to determine all such rights and obligations of the parties.",
+      "id": "s229"
+    },
+    {
+      "text": "To do so would, in all likelihood, see it purport to engage in the exercise of judicial power.",
+      "id": "s230"
+    },
+    {
+      "text": "Rather, the Tribunal's task was confined to the role given to it by the Act.",
+      "id": "s231"
+    },
+    {
+      "text": "At this point I gratefully adopt the description of the legislative scheme set out by the full court in National Mutual Life Association of Australia Ltd v Campbell [2000] FCA 852 ; (2000) 99 FCR 562 at 565-68 [10] to [20].",
+      "id": "s232"
+    },
+    {
+      "text": "This relieves me of referring to the Superannuation (Resolution of Complaints) Act 1993 (Cth) , other than to the provisions essential to these reasons.",
+      "id": "s233"
+    },
+    {
+      "text": "' \n \n \n The argument put by the trustee at [128] potentially involved Allsop J in having to consider whether the argument he touched upon at [15] --- [16] --- that the determination of rights involved the exercise of judicial power --- was correct.",
+      "id": "s234"
+    },
+    {
+      "text": "His Honour circumvented this problem by holding that the compromise clause applied because Ms Crocker's claim was against the fund and was not a personal claim against the trustee.",
+      "id": "s235"
+    },
+    {
+      "text": "At [130] --- [131] his Honour said: \n \n '[130] It would have been open to the Trustee on the claim before it to deal with the matter not only by reference to r 5A.1 of the trust deed, but also (having concluded that no entitlements arose under the policy and thus no requirement lay on it to pay an Insured Benefit by reason of the terms of r 5A.1) by reference to cl 7(c).",
+      "id": "s236"
+    },
+    {
+      "text": "That is, it would have been open to the Trustee to consider whether, in the circumstances, it was appropriate to compound the claim of Ms Crocker under cl 7(c).",
+      "id": "s237"
+    },
+    {
+      "text": "[131] Any such decision would have raised questions as to whether that would be a proper exercise of power (in particular in the light of the expression \"the Plan\" in cl 7(c), Recital A and r 1 and the basis for the exclusion of the Trustee's personal liability under cl 5.1).",
+      "id": "s238"
+    },
+    {
+      "text": "If it were to be concluded that the exercise of the power could possibly be made (that is, bearing in mind cl 5.1, it would not be an exercise in self dealing by the Trustee) any such decision would then have raised questions about the merits of the claim --- both factually and legally.",
+      "id": "s239"
+    },
+    {
+      "text": "In these circumstances these questions would not be arising in the context of the Trustee deciding the rights of Ms Crocker against itself, but in the context of making a decision as to whether or not it should compound the claim.",
+      "id": "s240"
+    },
+    {
+      "text": "' \n \n \n Explicitly, therefore, Allsop J rejected the argument at [128] that what was being compromised was a personal claim against the trustee.",
+      "id": "s241"
+    },
+    {
+      "text": "His Honour then reasoned that the Tribunal had not considered the re-exercise of this power and remitted the matter back to it for it to do so ([135] --- [137]).",
+      "id": "s242"
+    },
+    {
+      "text": "The applicant submits that the following propositions emerge from the foregoing analysis of Crocker : \n \n (a) Crocker expressly proceeded on the basis that the claim made was not a claim for compensation from the trustee for breach of trust but rather a claim under the policy for a benefit due from the fund ([131]);\n (b) it not being a personal claim, it was able to be compromised under clause 7(c) ([130] --- [131]);\n (c) had the claim been a personal claim, it would have been necessary to deal with the argument at [128] that the determination of the claim would have involved the adjudication of rights ([131]); and\n (d) had those issues arisen --- and they did not --- his Honour's expressed view (at [15] --- [16]) was that such a process by the Tribunal would have involved the exercise of judicial power.",
+      "id": "s243"
+    },
+    {
+      "text": "I agree with this submission.",
+      "id": "s244"
+    },
+    {
+      "text": "Understanding the observations of his Honour at [140] and [141] extracted at [47] above in this context, what his Honour was considering at [141] was whether a claim, which was clearly a claim 'against the Plan', was a claim against the trustee because of the lack of any indemnity against the trust assets.",
+      "id": "s245"
+    },
+    {
+      "text": "That is not this case.",
+      "id": "s246"
+    },
+    {
+      "text": "Here the claim of the respondent is clearly a claim against the applicant and not against the Fund.",
+      "id": "s247"
+    },
+    {
+      "text": "In any event, there is no right of indemnity against the trust assets because by the time the claim was made there were no trust assets.",
+      "id": "s248"
+    },
+    {
+      "text": "It was tentatively suggested by Senior Counsel for the Tribunal that the applicant would have been insured against any loss it suffered as a result of paying compensation to the respondent and in that sense the applicant had the benefit of an indemnity.",
+      "id": "s249"
+    },
+    {
+      "text": "But even if the applicant carried such insurance, it would be an indemnity sourced outside its position as trustee of the Fund and nothing that was said in the passages extracted from Crocker would work a conversion of the claim from one against the applicant to one against the Fund.",
+      "id": "s250"
+    },
+    {
+      "text": "On the view I take, the respondent's claim is against the applicant and not against the Fund.",
+      "id": "s251"
+    },
+    {
+      "text": "As such, the provisions of cl 10.7(d) of the 2000 Trust Deed and s 49(d) of the Trustee Act 1925 (NSW) have no relevance or role to play.",
+      "id": "s252"
+    },
+    {
+      "text": "The decision under review, namely the applicant's refusal to compensate the respondent for his loss alleged to result from the applicant's contravention of SIS Act covenants in the investment strategy it adopted, was not a decision the Tribunal had jurisdiction to review under s 37 of the Complaints Act.",
+      "id": "s253"
+    },
+    {
+      "text": "In the circumstances, it is not necessary to consider ground (f).",
+      "id": "s254"
+    },
+    {
+      "text": "The determination of the Tribunal dated 20 February 2006 must be set aside and, in lieu thereof, the respondent's complaint to the Tribunal be dismissed.",
+      "id": "s255"
+    },
+    {
+      "text": "GROUND (g) \n \n This ground of the amended notice of appeal was predicated on the unstated premise that cl 10.7(d) of the 2000 Trust Deed did confer a power on the applicant, as trustee, to compromise a claim against itself.",
+      "id": "s256"
+    },
+    {
+      "text": "On the views expressed in [40] --- [54] above, the ground does not arise.",
+      "id": "s257"
+    },
+    {
+      "text": "THE SUBMISSIONS ON GROUNDS (h) --- (j) \n \n Strictly speaking, it is not necessary that I consider these grounds of the amended notice of appeal, but the applicant did rely on them at the initial hearing of the appeal on 21 June 2006.",
+      "id": "s258"
+    },
+    {
+      "text": "At the resumed hearing on 11 October 2006, following the grant of leave to the Tribunal to intervene and make written and oral submissions on the grounds raised by the applicant at paras (g), (h), (i) and (j) in its amended notice of appeal, both the applicant and the Tribunal made substantive submissions in respect of these grounds.",
+      "id": "s259"
+    },
+    {
+      "text": "While these submissions and my conclusions in respect of them can have no bearing on the outcome of the appeal, they do impact on the issue of costs, in particular the order that should be made in respect of the costs of the Tribunal's motion and, in consequence of the grant of leave in terms of the order set out in [25] above, costs in relation to the resumed hearing, including the preparation of submissions in respect thereof.",
+      "id": "s260"
+    },
+    {
+      "text": "I therefore propose to address them and indicate my conclusions thereon.",
+      "id": "s261"
+    },
+    {
+      "text": "On 1 June 2005 Ms Margaret McDonald, Director of the Tribunal, wrote to Mr Venkatramani of the Australian Prudential Regulation Authority ('APRA') in the following terms: \n \n ' Harry Wallace &amp; Harry Wallace Personal Superannuation Fund \n \n You would be aware of our recent section 64 referral to APRA of a possible contravention of Regulation 4.15 of the SIS Regs, which referral arose out of the Tribunal's inquiry into Mr Wallace's complaint.",
+      "id": "s262"
+    },
+    {
+      "text": "Since that referral, I have had several telephone conversations with Suzette Wilson of your office in relation to issues involved in the complaint.",
+      "id": "s263"
+    },
+    {
+      "text": "I suggested to Ms Wilson that it would be mutually beneficial if she could visit the Tribunal in Melbourne to examine the file and to engage in detailed discussion with us in relation to the complaint issues.",
+      "id": "s264"
+    },
+    {
+      "text": "The complaint is an unusual one and presents issues that the Tribunal has not encountered before.",
+      "id": "s265"
+    },
+    {
+      "text": "We feel that Ms Wilson's experience and expertise could assist us in identifying all possible issues and gathering all relevant information before the matter is listed for a review determination.",
+      "id": "s266"
+    },
+    {
+      "text": "In addition, of course, Ms Wilson's examination of the file and discussions with us would assist APRA in determining whether there has been a breach of a law or whether serious prudential issues are evident.",
+      "id": "s267"
+    },
+    {
+      "text": "If you are willing to have Ms Wilson attend our office, we would appreciate if the visit could be arranged soon, as we are close to listing the matter for review.",
+      "id": "s268"
+    },
+    {
+      "text": "I would be very happy to discuss this further if you wish ....' \n \n \n The referral under s 64 of the Complaints Act referred to was that made by Mr Graham McDonald, the Chairperson of the Tribunal, on 10 May 2005.",
+      "id": "s269"
+    },
+    {
+      "text": "At the initial hearing of the appeal the applicant submitted that it is apparent from the face of Ms McDonald's letter of 1 June 2005 that the Tribunal engaged in an ex parte communication with the regulator on topics at the very heart of the matter as it concerned the Tribunal.",
+      "id": "s270"
+    },
+    {
+      "text": "Neither the fact that this had occurred nor the substance of what passed between Ms Wilson and the Tribunal was disclosed to the applicant.",
+      "id": "s271"
+    },
+    {
+      "text": "The applicant submitted that there are a number of difficulties which, therefore, arise.",
+      "id": "s272"
+    },
+    {
+      "text": "First , the fact that the Tribunal was consorting with APRA and taking advice from it about the complaint gives rise to a reasonable apprehension of bias.",
+      "id": "s273"
+    },
+    {
+      "text": "Second , the communications were obviously relevant and probative to the issues about which the applicant was making submissions so that their non-disclosure evidences a breach of the rules of procedural fairness.",
+      "id": "s274"
+    },
+    {
+      "text": "Third , the Complaints Act does not contemplate that APRA should form part of the statutory decision-making processes of the Tribunal, therefore the statutory function under s 37 miscarried.",
+      "id": "s275"
+    },
+    {
+      "text": "As to the first point, the applicant submitted that a fair-minded lay observer seeing the letter might reasonably apprehend that the Tribunal might not bring an impartial mind to bear on the issues before it.",
+      "id": "s276"
+    },
+    {
+      "text": "The situation it was said is not analytically different from a Supreme Court judge trying a criminal case seeking advice from the police.",
+      "id": "s277"
+    },
+    {
+      "text": "For that reason a case of apprehended bias is made out: Ebner v Official Trustee in Bankruptcy [2000] HCA 63 ; (2000) 205 CLR 337 at 344 [6] .",
+      "id": "s278"
+    },
+    {
+      "text": "As to the second point, it was submitted that it is obvious that the communication was relevant to the inquiry being undertaken by the Tribunal.",
+      "id": "s279"
+    },
+    {
+      "text": "A decision-maker is obliged to disclose adverse information that is credible, relevant and significant to the decision to be made: Muin v Refugee Review Tribunal [2002] HCA 30 ; (2002) 190 ALR 601 at 631 [123] , per McHugh J and 1005 [227], per Kirby J; Kioa v West [1985] HCA 81 ; (1985) 159 CLR 550 at 629; Minister for Local Government v South Sydney City Council [2002] NSWCA 288 ; (2002) 55 NSWLR 381 at 438 [260] , per Mason P. Accordingly, a breach of the rules of procedural fairness occurred.",
+      "id": "s280"
+    },
+    {
+      "text": "By failing to afford the applicant procedural fairness, the Tribunal committed an excess of jurisdiction and hence an error of law.",
+      "id": "s281"
+    },
+    {
+      "text": "As to the third point, the applicant submitted that there is nothing in s 37 of the Complaints Act which conferred any power on the Tribunal to consult with APRA as to the disposition of the complaint.",
+      "id": "s282"
+    },
+    {
+      "text": "In seeking to consult with APRA the Tribunal committed an error of law since it acted in excess of any authority conferred on it by s 37.",
+      "id": "s283"
+    },
+    {
+      "text": "As to the apprehension of bias ground, on the resumed hearing of the appeal, the Tribunal, in its submissions, referred to what was said in the joint judgment in Ebner at 345, [8]: \n \n 'The apprehension of bias principle ... [in its] application requires two steps.",
+      "id": "s284"
+    },
+    {
+      "text": "First, it requires the identification of what it is said might lead a judge (or juror) to decide a case other than on its legal and factual merits.",
+      "id": "s285"
+    },
+    {
+      "text": "The second step is no less important.",
+      "id": "s286"
+    },
+    {
+      "text": "There must be an articulation of the logical connection between the matter and the feared deviation from the course of deciding the case on its merits.",
+      "id": "s287"
+    },
+    {
+      "text": "The bare assertion that a judge (or juror) has an \"interest\" in litigation, or an interest in a party to it, will be of no assistance until the nature of the interest, and the asserted connection with the possibility of departure from impartial decision making, is articulated.",
+      "id": "s288"
+    },
+    {
+      "text": "Only then can the reasonableness of the asserted apprehension of bias be assessed.",
+      "id": "s289"
+    },
+    {
+      "text": "' \n \n\nThe need for this two step process was affirmed in Smits v Roach [2006] HCA 36 ; (2006) 228 ALR 262 at [53] , [56].",
+      "id": "s290"
+    },
+    {
+      "text": "The Tribunal submitted that the correct approach is that set out by this Court (Kenny J) in VFAB v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2003] FCA 872 ; (2003) 131 FCR 102, at [25]: \n \n 'The test for apprehended bias in relation to curial proceedings is well-settled.",
+      "id": "s291"
+    },
+    {
+      "text": "The test is whether a fair-minded lay observer might reasonably apprehend that the judge might not bring an impartial mind to the resolution of the question to be decided: see Re Refugee Review Tribunal; Ex parte H [2001] HCA 28 ; (2001) 75 ALJR 982, at [27] per Gleeson CJ, Gaudron and Gummow JJ.",
+      "id": "s292"
+    },
+    {
+      "text": "As their Honours observed, this rule may be expressed differently when applied to administrative proceedings, in order to take account of the nature of the decision-maker and its proceedings.",
+      "id": "s293"
+    },
+    {
+      "text": "\"[R]egard must be had to the statutory provisions, if any, applicable to the proceedings in question, the nature of the inquiries to be made and the particular subject matter with which the decision is concerned\": see Ex parte H , at [5].",
+      "id": "s294"
+    },
+    {
+      "text": "Further, their Honours posited, at [28], that: \n \n \n \n Perhaps it would be better, in the case of administrative proceedings held in private, to formulate the test for apprehended bias by reference to a hypothetical fair-minded lay person who is properly informed as to the nature of the proceedings, the matters in issue and the conduct which is said to give rise to an apprehension of bias.",
+      "id": "s295"
+    },
+    {
+      "text": "Whether or not that be the appropriate formulation, there is, in our view, no reason to depart from the objective test of possibility, as distinct from probability, as to what will be done or what might have been done.",
+      "id": "s296"
+    },
+    {
+      "text": "To do otherwise, would be to risk confusion of apprehended bias with actual bias by requiring substantially the same proof.",
+      "id": "s297"
+    },
+    {
+      "text": "' \n \n \n \n The Tribunal noted that her Honour also emphasised (at [77]) that the nature of the Tribunal's processes was important to ascertaining the presence or absence of an apprehension of bias: \n \n 'In order to determine whether, in this case, there was disqualifying bias, the court must carefully consider all the circumstances in order to assure itself that the test is by a fair-minded lay observer.",
+      "id": "s298"
+    },
+    {
+      "text": "Accordingly, the Court must consider the nature of the Tribunal, the issues before it, and the conduct of all relevant participants in the proceeding.",
+      "id": "s299"
+    },
+    {
+      "text": "' \n \n \n Applying those authorities to the present situation, the Tribunal submitted the following considerations are important: \n \n (a) The Tribunal is an administrative tribunal which sits in private.",
+      "id": "s300"
+    },
+    {
+      "text": "(b) Although it has the power to conduct oral hearings, it generally does not, but rather decides matters 'on the papers'.",
+      "id": "s301"
+    },
+    {
+      "text": "(c) It decided this matter on the papers.",
+      "id": "s302"
+    },
+    {
+      "text": "However, the Tribunal submitted that the following considerations are critical: \n \n (a) As the High Court pointed out in Breckler , the Tribunal exercises a jurisdiction to which entities choose to subscribe, in return for, inter alia , preferential taxation treatment.",
+      "id": "s303"
+    },
+    {
+      "text": "(b) It has a place within a complex regulatory scheme over superannuation entities, and although its review function is independent, it is, for example, supplied with staff by the Australian Securities and Investment Commission ('ASIC'): see subs 62(2) of the Complaints Act.",
+      "id": "s304"
+    },
+    {
+      "text": "(c) Its secrecy provisions have an express exemption for disclosure of information where the Tribunal is requested to do so by ASIC or APRA: subs 63(3) of the Complaints Act.",
+      "id": "s305"
+    },
+    {
+      "text": "(d) Sections 64 and 64A of the Complaints Act impose statutory obligations of notification to ASIC and APRA on the Tribunal.",
+      "id": "s306"
+    },
+    {
+      "text": "Applying the two steps in Ebner , the Tribunal in its submissions asked and answered the following two rhetorical questions: \n \n (a) What is said by the applicant to be the conduct which gives rise to the apprehension?",
+      "id": "s307"
+    },
+    {
+      "text": "It is said to be the writing of a letter by the Director of the Tribunal, Ms McDonald, to APRA inviting assistance from APRA.",
+      "id": "s308"
+    },
+    {
+      "text": "This letter follows a s 64 referral.",
+      "id": "s309"
+    },
+    {
+      "text": "(b) What is the 'logical connection between the matter and the feared deviation from the course of deciding the case on its merits'?",
+      "id": "s310"
+    },
+    {
+      "text": "No such connection has been articulated by the applicant.",
+      "id": "s311"
+    },
+    {
+      "text": "It is difficult to see what the connection could be, given that the author of this letter is a staff member of the Tribunal, and not one of the two members appointed pursuant to s 7 and constituted pursuant to s 9 to conduct this review.",
+      "id": "s312"
+    },
+    {
+      "text": "More so because the person who made the referral was the Tribunal Chairperson himself, and not one of the two constituted members.",
+      "id": "s313"
+    },
+    {
+      "text": "The Tribunal submitted that the two step process set out in Ebner cannot be satisfied in the present case.",
+      "id": "s314"
+    },
+    {
+      "text": "Moreover, taking into account the factors set out above, the Tribunal submitted no fair-minded lay observer, informed of the nature of the Tribunal's jurisdiction, the way it conducts its hearings and the presence of its obligations under ss 64 and 64A of the Complaints Act, combined with other features of its legislative scheme, would apprehend that contact by Tribunal administrative staff would mean that the two Tribunal members constituted to deal with this review would not bring impartial minds to the review.",
+      "id": "s315"
+    },
+    {
+      "text": "Further, no such fair-minded lay observer, properly informed, would apprehend that a referral made by the Tribunal Chairperson pursuant to a statutory duty would mean that the two (other) Tribunal members constituted to hear this review would not bring impartial minds to their task.",
+      "id": "s316"
+    },
+    {
+      "text": "As to the denial of procedural fairness ground, the Tribunal submitted that, once the subject matter of the s 64 referral is understood, it cannot sensibly be argued that whether APRA's investigations would or would not ultimately determine that the applicant had breached the standards set out in reg 4.15 was in any remote way 'relevant and probative to the issues the applicant was making submissions about'.",
+      "id": "s317"
+    },
+    {
+      "text": "There were no findings about a breach of such standards made by the Tribunal, nor were those standards put in issue.",
+      "id": "s318"
+    },
+    {
+      "text": "Accordingly, there was no occasion at all for disclosure of the referral to the applicant.",
+      "id": "s319"
+    },
+    {
+      "text": "In any event, so the submission went, there is no substantive unfairness because the applicant was aware of the referral to APRA.",
+      "id": "s320"
+    },
+    {
+      "text": "By an email dated 3 June 2005 (that is, two days after the letter of 1 June 2005 [57]), Mr Ian Yard-Smith, counsel for the applicant, stated that he had 'just been discussing this matter with Suzette Wilson from APRA'.",
+      "id": "s321"
+    },
+    {
+      "text": "The Tribunal submitted that there is no suggestion that the s 64 referral to APRA entered in any way into the deliberations of the two Tribunal members and that the applicant was plainly aware of the s 64 referral and had spoken to Ms Wilson from APRA about it; in those circumstances, the applicant could not be said to have been denied any opportunity to put whatever it wanted to put to the Tribunal about the s 64 referral if it had seen anything about the alleged breach of reg 4.15 as relevant to the issues before the Tribunal.",
+      "id": "s322"
+    },
+    {
+      "text": "As to the ground that the Tribunal's statutory function under s 37 miscarried, the Tribunal submitted that a referral made under s 64 in relation to a particular complaint cannot deprive the Tribunal of authority to exercise its powers under s 37.",
+      "id": "s323"
+    },
+    {
+      "text": "Section 64 is an integral part of the legislative scheme established by the Complaints Act.",
+      "id": "s324"
+    },
+    {
+      "text": "There is no textual or contextual reason why the statutory obligation is inconsistent with the exercise by the Tribunal of the powers given to it under s 37.",
+      "id": "s325"
+    },
+    {
+      "text": "If any such inconsistency had been an intended part of the scheme, s 64 would have contained a provision to the effect that if a referral were made to APRA or ASIC under the section the review by the Tribunal would be stayed pending the outcome of any investigations by APRA or ASIC.",
+      "id": "s326"
+    },
+    {
+      "text": "In reply, the applicant submitted that the suppressed premise in the Tribunal's position is that, following a complaint, APRA and the Tribunal are lawfully authorised to have a discussion with each other.",
+      "id": "s327"
+    },
+    {
+      "text": "The statute, and in particular s 63, does not authorise this.",
+      "id": "s328"
+    },
+    {
+      "text": "Even if it did, however, it is tolerably clear that the discussion would be about the matters notified so that the regulator could take whatever steps it wished to take in relation to those notified breaches.",
+      "id": "s329"
+    },
+    {
+      "text": "It does not, however, appear that this was what the discussion was about.",
+      "id": "s330"
+    },
+    {
+      "text": "The letter, referred to at [57], suggests that the discussion was, in part, about how the Tribunal should deal with the respondent's complaint and not with how APRA should deal with the applicant.",
+      "id": "s331"
+    },
+    {
+      "text": "The letter says, inter alia : \n \n 'We feel that Ms Wilson's experience and expertise could assist us in identifying all possible issues and gathering all relevant information before the matter is listed for a review determination.",
+      "id": "s332"
+    },
+    {
+      "text": "' \n \n \n It is difficult, the applicant submitted, to see the link between that topic and the referral under s 64.",
+      "id": "s333"
+    },
+    {
+      "text": "The applicant submitted that the answers to the two rhetorical questions at [69] which the Tribunal asked itself were: The conduct which gives rise to the apprehension of bias is the invitation to the regulator to be involved in the process of adjudication.",
+      "id": "s334"
+    },
+    {
+      "text": "The connection between that conduct and the feared deviation from deciding the case on the merits is that the regulator had already been informed by the Tribunal that there were possible breaches by the appellant.",
+      "id": "s335"
+    },
+    {
+      "text": "The Tribunal was not, therefore, asking for the assistance of a neutral third party --- it was asking for the assistance of the body to which it had just reported the applicant for breach and whose function it was to consider what steps under law should be taken against the applicant.",
+      "id": "s336"
+    },
+    {
+      "text": "By contrast, APRA had no such relationship with the respondent.",
+      "id": "s337"
+    },
+    {
+      "text": "Finally, the applicant submitted that the argument advanced by the Tribunal that there was no denial of procedural fairness was outside the grant of leave that was afforded to the Tribunal to make submissions about the matters in R v Australian Broadcasting Tribunal; Ex parte Hardiman [1980] HCA 13 ; (1980) 144 CLR 13.",
+      "id": "s338"
+    },
+    {
+      "text": "The Tribunal, by making this submission, enters the arena properly occupied by the applicant and the respondent; it is difficult to see how the submission is one which is limited to the Tribunal's powers and procedures.",
+      "id": "s339"
+    },
+    {
+      "text": "The applicant submitted that by making this submission, the Tribunal has taken the respondent's side in the case.",
+      "id": "s340"
+    },
+    {
+      "text": "The 'ambulatory' nature of the Tribunal which has intervened means that the apprehension of bias which arises cannot be resolved by reconstituting the Tribunal in a different way.",
+      "id": "s341"
+    },
+    {
+      "text": "Apart from that difficulty, according to the applicant, the submission is without merit.",
+      "id": "s342"
+    },
+    {
+      "text": "The Tribunal argues that there is no substantive unfairness because the applicant was made aware of the notification to APRA, in an email dated 3 June 2005.",
+      "id": "s343"
+    },
+    {
+      "text": "However, the applicant continued, the apprehended bias case was not based on the notification to APRA.",
+      "id": "s344"
+    },
+    {
+      "text": "It was based on the discussions which may have taken place between APRA and the Tribunal after that notification.",
+      "id": "s345"
+    },
+    {
+      "text": "REASONING ON GROUNDS (h) --- (j) \n \n There is no doubt that the real complaint of the applicant in relation to ground (h) --- the Tribunal acting in a way (by consulting with APRA) which gave rise to an apprehension of bias --- was not the s 64 referral made by the Chairperson of the Tribunal on 10 May 2005, but the letter of invitation to Mr Venkatramani of APRA, at [57], sent by Ms McDonald, a Director of the Tribunal, on 1 June 2005 and the content of that letter.",
+      "id": "s346"
+    },
+    {
+      "text": "It invited discussion not on possible contravention by the applicant of reg 4.15 of the SIS Regs but in assisting the Tribunal in identifying all possible issues and gathering all relevant information before the matter (the respondent's complaint) was listed for a review determination.",
+      "id": "s347"
+    },
+    {
+      "text": "For that reason, I do not agree with the Tribunal's submission that the Tribunal's statutory functions and procedures, in particular the requirement in s 64 to refer matters to APRA, informs or circumscribes the practical content of the requirement to avoid apprehension of bias.",
+      "id": "s348"
+    },
+    {
+      "text": "Nor do I think the rule of necessity operates in the present case to prevail over and displace the application of the rules of natural justice to ensure that the Tribunal is not disabled from performing its statutory functions, cf., Laws v Australian Broadcasting Tribunal (1990) 93 ALR 435 at 448, 449.",
+      "id": "s349"
+    },
+    {
+      "text": "The letter at [57] and the subject matter of the invitation it contained had nothing to do with the statutory functions of the Tribunal under s 64.",
+      "id": "s350"
+    },
+    {
+      "text": "However, there are a number of difficulties in the way of the applicant succeeding on this ground and the next --- an alleged failure to accord the applicant procedural fairness.",
+      "id": "s351"
+    },
+    {
+      "text": "First, the letter at [57] was not sent by the members who constituted the Tribunal for the purpose of hearing the respondent's complaint.",
+      "id": "s352"
+    },
+    {
+      "text": "Indeed, it was not even sent by the Chairperson who made the s 64 referral.",
+      "id": "s353"
+    },
+    {
+      "text": "It was sent by a staff member of the Tribunal holding the position of Director.",
+      "id": "s354"
+    },
+    {
+      "text": "Second, there is no evidence that any meeting or discussions took place in response to the letter and even if a meeting or discussions took place, there is no evidence as to who participated at that meeting or in those discussions.",
+      "id": "s355"
+    },
+    {
+      "text": "Third, if a meeting or discussions took place in response to the letter, there is no evidence of the subject matter of the meeting or discussions.",
+      "id": "s356"
+    },
+    {
+      "text": "Senior Counsel for the applicant, correctly in my view, acknowledged these difficulties but nevertheless submitted that an internal staff memorandum to the Director of the Tribunal dated 16 February 2005: \n \n '... suggests that within the Tribunal as an organic whole ... it is the practice of members of staff to provide effectively [sic] recommendations.",
+      "id": "s357"
+    },
+    {
+      "text": "Now, I can't prove that those recommendations end up in the hands of the Tribunal members or whether they form an integer in the Tribunal member's reasoning process.",
+      "id": "s358"
+    },
+    {
+      "text": "I can't prove that but what I'm inviting your Honour to do is to draw the inference that they do end up as an integer in the Tribunal member's reasoning process.",
+      "id": "s359"
+    },
+    {
+      "text": "' \n \n \n Senior Counsel for the applicant referred to a difficulty with this argument which can be put to one side for the moment because there is a more fundamental difficulty which was not acknowledged.",
+      "id": "s360"
+    },
+    {
+      "text": "It proceeds from the premise that the staff member has been tainted from his contact with an employee of APRA, a premise which may fall within the spectrum of reasonable hypothesis, but which has no provenance to support its status as fact.",
+      "id": "s361"
+    },
+    {
+      "text": "In my view, the ground that the Tribunal erred in law by acting in a way which gave rise to an apprehension of bias by consulting with APRA cannot succeed.",
+      "id": "s362"
+    },
+    {
+      "text": "The same difficulties beset ground (i) --- the Tribunal erred in law by failing to accord the applicant procedural fairness by not disclosing to the applicant matters which passed between it and APRA.",
+      "id": "s363"
+    },
+    {
+      "text": "The applicant's counsel acknowledged as much.",
+      "id": "s364"
+    },
+    {
+      "text": "An essential step in this argument is that there was adverse material which passed between the Tribunal and APRA which was taken into account by the Tribunal but which was not communicated to the applicant.",
+      "id": "s365"
+    },
+    {
+      "text": "But at the outset, there is no evidence that there was any adverse material, leaving to one side the absence of any evidence that, if there was, it was taken into account by the Tribunal.",
+      "id": "s366"
+    },
+    {
+      "text": "This led Senior Counsel for the applicant to the submission: \n \n 'Which means that I can put it really no higher than what you can draw from [the Tribunal's questionnaire to the applicant dated 7 July 2005] ... and the ultimate negative decision.",
+      "id": "s367"
+    },
+    {
+      "text": "So there is that difficulty and another difficulty is that ... it is the staff rather than the members.",
+      "id": "s368"
+    },
+    {
+      "text": "If I get over those two points then the way the argument works is that your Honour should infer the existence of the adverse material, and it seems clear it wasn't put to Mr Yard-Smith.",
+      "id": "s369"
+    },
+    {
+      "text": "' \n \n \n In my view, the leap is too great to draw any such inference.",
+      "id": "s370"
+    },
+    {
+      "text": "Ground (j) --- that by consulting with APRA when s 37 of the Complaints Act did not authorise it to do so the statutory function under s 37 miscarried --- was not pressed by the applicant at the resumed hearing on 11 October 2006.",
+      "id": "s371"
+    },
+    {
+      "text": "In any event, even accepting the letter at [57], there is no evidence that any organ of the Tribunal, let alone the members constituting the Tribunal that heard the respondent's complaint, 'consulted' with APRA.",
+      "id": "s372"
+    },
+    {
+      "text": "The ground cannot be sustained.",
+      "id": "s373"
+    },
+    {
+      "text": "COSTS \n \n This brings me to the question of costs.",
+      "id": "s374"
+    },
+    {
+      "text": "While the applicant has been successful in having the Tribunal's determination set aside and, in lieu thereof, the respondent's complaint to the Tribunal dismissed, by virtue of the provisions of subs 46(5) of the Complaints Act and what was said at [20] above, there can be no costs order against the respondent.",
+      "id": "s375"
+    },
+    {
+      "text": "This leaves the issues of costs of the Tribunal's motion and costs of the resumed hearing on 11 October 2006 following the grant of leave to the Tribunal to intervene and make submissions on grounds (g), (h), (i) and (j) of the amended notice of appeal.",
+      "id": "s376"
+    },
+    {
+      "text": "It seems clear that the Tribunal would not have sought leave of the Court to intervene after the initial hearing but for the applicant seeking and being granted leave on that day to amend its appeal by the addition of grounds (g) to (j) inclusive.",
+      "id": "s377"
+    },
+    {
+      "text": "Alternatively, had that latter leave been sought and granted in advance of the initial hearing in sufficient time to enable the Tribunal to make its application for leave to intervene on a timely basis, all these issues could have been disposed of at the initial hearing.",
+      "id": "s378"
+    },
+    {
+      "text": "Additionally, on the Tribunal's motion for leave to intervene, which the applicant opposed when it could have consented to it or abandoned the additional grounds of appeal, leave was ultimately granted to the Tribunal to intervene and make submissions on grounds (g) to (j) inclusive.",
+      "id": "s379"
+    },
+    {
+      "text": "I am of the view that the Tribunal should have its costs of the motion paid by the applicant.",
+      "id": "s380"
+    },
+    {
+      "text": "However, I am not persuaded that the Tribunal's intervention and subsequent submissions on grounds (g) to (j) inclusive contributed to the outcome in terms of the conclusion reached by the Court on those grounds.",
+      "id": "s381"
+    },
+    {
+      "text": "While the Tribunal succeeded in the sense that the applicant failed on those grounds, in my view nothing was put by the Tribunal which resulted in an outcome different from that which the Court would have arrived at without the benefit of the Tribunal's submissions.",
+      "id": "s382"
+    },
+    {
+      "text": "In these circumstances, I think the applicant and the Tribunal should pay their respective costs of the resumed hearing.",
+      "id": "s383"
+    },
+    {
+      "text": "I certify that the preceding ninety-five (95) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Edmonds.",
+      "id": "s384"
+    },
+    {
+      "text": "Associate:\n\nDated: 17 April 2007\n\n Counsel for the Applicant: Mr N Perram SC and Mr F Salama \n \n Solicitor for the Applicant: Mallesons Stephen Jaques \n \n Respondent: No appearance \n \n Counsel for the Intervenor: Ms J Batrouney SC and Ms D Mortimer SC \n\n Date of Hearing: 21 June 2006, 7 September 2006, 11 October 2006 \n \n Date of Judgment: 18 April 2007 \n\n\n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/527.html",
+      "id": "s385"
+    }
+  ]
+}

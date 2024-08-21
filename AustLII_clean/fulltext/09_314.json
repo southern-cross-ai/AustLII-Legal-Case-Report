@@ -1,0 +1,1524 @@
+{
+  "name": "Style Limited, in the matter of; Merim Pty Ltd v Style Limited [2009] FCA 314 (2 April 2009)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2009/314.html",
+  "catchphrases": [
+    {
+      "text": "section 247a",
+      "id": "c0"
+    },
+    {
+      "text": "application to inspect the books of a company",
+      "id": "c1"
+    },
+    {
+      "text": "good faith and proper purpose",
+      "id": "c2"
+    },
+    {
+      "text": "dual purposes",
+      "id": "c3"
+    },
+    {
+      "text": "dominant purpose",
+      "id": "c4"
+    },
+    {
+      "text": "access to director and officer insurance policies",
+      "id": "c5"
+    },
+    {
+      "text": "corporations",
+      "id": "c6"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "INTRODUCTION \n The plaintiff, Merim Pty Limited (\"Merim\") has applied for an order pursuant to s 247A of the Corporations Act 2001 (Cth) (\"the Act\") authorising Mr Peter Yunghanns, a director of Merim, and his nominated legal and financial advisors, to inspect the books of the defendant, Style Limited (\"Style\").",
+      "id": "s0"
+    },
+    {
+      "text": "Section 247A of the Act provides: \n \"(1) On application by a member of a company or registered managed investment scheme, the Court may make an order: \n\n \n (a) authorising the applicant to inspect books of the company or scheme; or \n \n \n (b) authorising another person (whether a member or not) to inspect books of the company or scheme on the applicant's behalf.",
+      "id": "s1"
+    },
+    {
+      "text": "The Court may only make the order if it is satisfied that the applicant is acting in good faith and that the inspection is to be made for a proper purpose.",
+      "id": "s2"
+    },
+    {
+      "text": "(2) A person authorised to inspect books may make copies of the books unless the Court orders otherwise.",
+      "id": "s3"
+    },
+    {
+      "text": "(3) A person who: \n\n \n (a) is granted leave under section 237 ; or \n \n \n (b) applies for leave under that section; or \n \n \n (c) is eligible to apply for leave under that section, \n \n \n may apply to the court for an order under this section.",
+      "id": "s4"
+    },
+    {
+      "text": "(4) On application, the Court may make an order authorising: \n\n \n (a) the applicant to inspect books of the company; or \n \n \n (b) another person to inspect books of the company on the applicant's behalf.",
+      "id": "s5"
+    },
+    {
+      "text": "(5) The Court may make the order only if it is satisfied that: \n\n \n (a) the applicant is acting in good faith; and \n \n \n (b) the inspection is to be made for a purpose connected with: \n \n \n (i) applying for leave under section 237 ; or \n \n (ii) bringing or intervening in proceedings with leave under that section.",
+      "id": "s6"
+    },
+    {
+      "text": "(6) A person authorised to inspect books may make copies of the books unless the court orders otherwise.",
+      "id": "s7"
+    },
+    {
+      "text": "\" \n\n Section 247B of the Act provides: \n \"If the Court makes an order under section 247A , the Court may make any other orders it considers appropriate, including either or both of the following: \n\n \n (a) an order limiting the use that a person who inspects books may make of information obtained during the inspection; \n \n \n (b) an order limiting the right of a person who inspects books to make copies in accordance with subsection 247A(2).",
+      "id": "s8"
+    },
+    {
+      "text": "\" \n \n Section 247C of the Act provides: \n \"(1) A person who inspects books on behalf of an applicant under section 247A must not disclose information obtained during the inspection.",
+      "id": "s9"
+    },
+    {
+      "text": "(2) Subsection (1) does not apply to the extent that the disclosure is to: \n\n \n (a) ASIC; or \n \n \n (b) the applicant.",
+      "id": "s10"
+    },
+    {
+      "text": "(3) An offence based on subsection (1) is an offence of strict liability.",
+      "id": "s11"
+    },
+    {
+      "text": "\" \n\n Mr Peter Yunghanns is the sole director of Merim.",
+      "id": "s12"
+    },
+    {
+      "text": "Merim holds 192,308 convertible notes issued by Style with a face value of $250,000.",
+      "id": "s13"
+    },
+    {
+      "text": "These notes were acquired in July 2007 and were part of an issue by Style to raise $10 million (\"the capital raising \" ).",
+      "id": "s14"
+    },
+    {
+      "text": "Merim also holds 329,696 options to take up shares in Style.",
+      "id": "s15"
+    },
+    {
+      "text": "Merim acquired the options in May 2007, and became a shareholder in Style on 16 June 2008.",
+      "id": "s16"
+    },
+    {
+      "text": "Mr Yunghanns says that Merim holds 9,578,229 shares in Style representing in excess of 8% of its issued capital.",
+      "id": "s17"
+    },
+    {
+      "text": "According to Mr Christopher Ritchie, Style's Chief Financial Officer, in June and July 2008 Merim acquired shares in Style itself or through nominees totalling 8,276,682 shares or thereabouts.",
+      "id": "s18"
+    },
+    {
+      "text": "For present purposes, the precise shareholding of Merim in Style is not critical.",
+      "id": "s19"
+    },
+    {
+      "text": "Merim was entered on Style's register of members on 14 August 2008.",
+      "id": "s20"
+    },
+    {
+      "text": "Style is a public company and has been listed on the Australian Securities Exchange (\"ASX\") since April 2004.",
+      "id": "s21"
+    },
+    {
+      "text": "It specialises in the manufacture and distribution of strand woven bamboo products.",
+      "id": "s22"
+    },
+    {
+      "text": "In May 2007, Style completed the acquisition of the remaining 50% of the shares it did not hold in Anji Ya Feng Bamboo Products Limited, a company based in Anji, China, which produces wooden flooring made from strand woven bamboo.",
+      "id": "s23"
+    },
+    {
+      "text": "At sometime around the middle of 2007, prior to 3 July 2007, Mr Yunghanns met on several occasions with Mr Stephen Roux, a director of Style, and Mr Marcus Freeman, an employee of Bell Potter Securities Limited, lead manager for an offer of convertible notes Style was proposing to make.",
+      "id": "s24"
+    },
+    {
+      "text": "Each of them told Mr Yunghanns that the money raised by the issue of the convertible notes was to be used to fund the acquisition of 5,500 hectares of a bamboo plantation in China.",
+      "id": "s25"
+    },
+    {
+      "text": "Style's business activities were significantly affected by a number of circumstances in late 2007 and early 2008 and it suffered a downturn in revenue for the financial year ended 30 June 2008.",
+      "id": "s26"
+    },
+    {
+      "text": "Despite early encouraging forecasts for revenue and earnings before interest, taxation, depreciation and amortisation (\"EBITDA\") in market announcements made to the ASX on 24 September and 31 October 2007, Style did not achieve those forecasts in the financial year ended June 2008.",
+      "id": "s27"
+    },
+    {
+      "text": "Style contends that this was due to a number of events that occurred between November 2007 and March 2008 that were not foreseeable at the time that the forecasts were made.",
+      "id": "s28"
+    },
+    {
+      "text": "These events included: \n(a) quality problems with the flooring product in North America; \n \n \n(b) delays in the installation and commissioning of machinery for its manufacturing facility in Anji; \n \n \n(c) decimation of a bamboo plantation in Wanzai, China that Style had acquired, due to an ice storm which resulted in Style deciding to exit the plantation arrangement; \n \n \n(d) administrative delays in shipping bamboo.",
+      "id": "s29"
+    },
+    {
+      "text": "Style asserts that it announced each of these matters to the market in the form of announcements to the ASX on 31 January 2008 and 30 April 2008 and downgraded its forecasts as a result.",
+      "id": "s30"
+    },
+    {
+      "text": "Merim says that its purpose in applying for an order to inspect Style's books is to investigate whether directors and officers of Style have exercised their powers reasonably, in good faith and for a proper purpose consistent with their statutory and fiduciary duties.",
+      "id": "s31"
+    },
+    {
+      "text": "It also seeks to investigate whether Style's chairman and directors misled Style's members and the market regarding the performance of Style, and in particular, whether announcements made to the market containing financial forecasts were designed to coincide with the sale of certain options to acquire shares in Style by Style's chairman.",
+      "id": "s32"
+    },
+    {
+      "text": "STYLE'S REPORTING OF FINANCIAL RESULTS \n Style says that the capital raising in mid 2007 through an issue of convertible notes was for the purpose of acquiring a bamboo plantation in Wanzai, China and to provide working capital.",
+      "id": "s33"
+    },
+    {
+      "text": "Relevantly, on 9 March 2007, Style made an announcement to the ASX stating that Style: \n \"... is looking into the feasibility of investing in bamboo plantations within the People's Republic of China with the objective of having increased control of our product raw material prices and supply.",
+      "id": "s34"
+    },
+    {
+      "text": "The company has rights to purchase certain parcels of land within China and the suitability of this land forms part of the feasibility study.",
+      "id": "s35"
+    },
+    {
+      "text": "The company will inform the market as to when any milestones or decision occur.",
+      "id": "s36"
+    },
+    {
+      "text": "\" \n\n On 25 May 2007 Style made an announcement to the ASX in which it announced the signing, that day, of an agreement to acquire the remaining 50% of the shares in Anji Ya Feng Bamboo Products Limited for a total consideration of US$6 million payable by a cash consideration of US$2.5 million payable on 30 June 2007 and by the issue of 6,552,222 shares.",
+      "id": "s37"
+    },
+    {
+      "text": "On 4 July 2007, Style made an announcement to the ASX: \n \"ACQUISITION FUNDING AND 1 st BAMBOO PLANTATION SECURED \n The Board of Style is pleased to announce another significant strategic milestone in the Company's development.",
+      "id": "s38"
+    },
+    {
+      "text": "The Company is in the final stage of a transaction to acquire a substantial area of land in China under a 30 year lease with existing bamboo plantations.",
+      "id": "s39"
+    },
+    {
+      "text": "The Company has announced previously its decision to pursue a bamboo plantations strategy designed to mitigate volume and price risk and ensuring security of raw material supply over the medium to long term.",
+      "id": "s40"
+    },
+    {
+      "text": "ACQUISITION FUNDING \n The Company has raised $10.0 million through the issue of 7,692,308 Convertible Notes with a Face Value of $1.30 .",
+      "id": "s41"
+    },
+    {
+      "text": "The Purpose of the issue is primarily to finance the first plantation acquisition and provide working capital ...\" \n\n On 31 July 2007 Hartleys Limited, a broker based in Perth, issued a research report to clients regarding Style.",
+      "id": "s42"
+    },
+    {
+      "text": "Hartleys Limited had previously prepared reports on Style in 2006 and 2007.",
+      "id": "s43"
+    },
+    {
+      "text": "Although Style has no record of any documents being provided to Hartleys Limited at any time, the report of 31 July 2007 set out a forecast of actual results for Style for the year ended 30 June 2006, and forecasts for the financial years 2007, 2008 and 2009.",
+      "id": "s44"
+    },
+    {
+      "text": "In particular, it forecast revenue for the 2007 financial year of $20.1 million, rising to $78.3 million and $123.4 million in 2008 and 2009 respectively, and EBITDA of $1.7 million in 2007 rising to $18.7 million and $35.4 million in 2008 and 2009 respectively.",
+      "id": "s45"
+    },
+    {
+      "text": "The Hartleys report recommended Style as a \"Buy\" for potential investors, noting that recent investment highlights included the capital raising and the company being in the final stages of acquiring a 30-year lease in a bamboo plantation in Wanzai, China.",
+      "id": "s46"
+    },
+    {
+      "text": "Style released its preliminary financial report for the year ended 30 June 2007 on 31 August 2007.",
+      "id": "s47"
+    },
+    {
+      "text": "On 24 September 2007, Style sent a market update to the ASX, stating that it had received a confidential preliminary approach from a private equity firm.",
+      "id": "s48"
+    },
+    {
+      "text": "The update set out Style's inaugural forecast, noting that the 2007 financial year revenue was $19.8 million and that revenue was forecast to rise to a range of $60 million to $80 million in the 2008 financial year.",
+      "id": "s49"
+    },
+    {
+      "text": "EBITDA for the 2007 financial year was reported as $1.8 million and was forecast to rise to a range of $14 million to $20 million in the 2008 financial year.",
+      "id": "s50"
+    },
+    {
+      "text": "On 27 September 2007, Style sent a letter to the ASX advising that Mr Gregory Johnson, the Chairman and Chief Executive Officer of Style, had sold 6,499,839 listed options in Style through Bell Potter Securities Limited to Australian and international institutional and professional investors for $4,159,988 on 24 September 2007.",
+      "id": "s51"
+    },
+    {
+      "text": "On 28 September 2007, Style released its audited financial results and annual report for the financial year ended 30 June 2007.",
+      "id": "s52"
+    },
+    {
+      "text": "It reported that revenue for the 2007 financial year was approximately $19.9 million, net profit was $112,178 and EBITDA $1,700,440.",
+      "id": "s53"
+    },
+    {
+      "text": "The annual report stated that options over approximately 6,900,000 shares in Style had been granted which were due to expire on 30 January 2009.",
+      "id": "s54"
+    },
+    {
+      "text": "The report stated further that Style had commenced proceedings to collect outstanding debts of approximately $65,000 owed to it by two former franchisees and that although one of the parties to the dispute had launched a counterclaim against Style and the other party had notified its intention to lodge a counterclaim, Style was confident that it had a strong case against these parties.",
+      "id": "s55"
+    },
+    {
+      "text": "On 31 October 2007, Style sent its September 2007 quarterly report to the ASX in which it reported its results for the first quarter of the 2008 financial year, recording a 5.1% increase in revenue over the previous quarter's revenue, and reported EBITDA of $766,000.",
+      "id": "s56"
+    },
+    {
+      "text": "The report reaffirmed Style's guidance revenue range for the financial year 2008 of between $60 million to $80 million and its EBITDA range of $14 million to $20 million.",
+      "id": "s57"
+    },
+    {
+      "text": "The report recorded that in the quarter ended 30 September 2007 Style had paid the consideration for the acquisition of the remaining 50% of the shares in Anji Ya Feng Bamboo Products Limited.",
+      "id": "s58"
+    },
+    {
+      "text": "On 23 November 2007 Style announced to the ASX that the terms for the acquisition of the Wanzai plantation had been met.",
+      "id": "s59"
+    },
+    {
+      "text": "These terms included a contract term to 2057 under a 50 year lease.",
+      "id": "s60"
+    },
+    {
+      "text": "Style also announced that it expected a 30% improvement in the total cost of goods sold.",
+      "id": "s61"
+    },
+    {
+      "text": "On 31 January 2008, Style announced to the ASX that forecast revenue for the financial year 2008 had been revised to $30 million to $35 million with EBITDA of $3 million to $3.6 million.",
+      "id": "s62"
+    },
+    {
+      "text": "The announcement stated that the lower than projected revenue had arisen from the effects of a five month delay in the delivery by the supplier of the initial phase of the upgrade of the factory facilities in Anji and short-term quality issues that had delayed the schedule of shipments to the United States of America.",
+      "id": "s63"
+    },
+    {
+      "text": "The announcement stated: \n \"As a result in this delay the Company has reduced its expectations for Q3 and Q4 sales BUT it expects that in Fiscal 2009 the full benefits of the plant expansion will be realised.",
+      "id": "s64"
+    },
+    {
+      "text": "\" \n\n \nOn 29 February 2008, Style announced to the ASX its half-year results for the period ended 31 December 2007, recording revenue of $12.3 million and EBITDA of $590,396.",
+      "id": "s65"
+    },
+    {
+      "text": "The announcement stated:\n \n \n \"Whilst this is a good operating result for the period it is less than that projected in 24 September 2007, in line with advice provided on 31 January 2008 relating to delays in commissioning new machines and short term quality.",
+      "id": "s66"
+    },
+    {
+      "text": "Both issues have been resolved satisfactorily and the full benefits of resolving these issues should become apparent from July 2008.",
+      "id": "s67"
+    },
+    {
+      "text": "\" \n\n On 30 April 2008 Style released a report to the ASX for the quarter ended 31 March 2008 which stated that revenue was $3.18 million for the quarter and that EBITDA for the quarter was a loss of $1.8 million.",
+      "id": "s68"
+    },
+    {
+      "text": "The announcement stated that the new machine lines had been installed and were operational, and that \"the full benefits of the plant expansion will be realised at the commencement of fiscal year 2009.",
+      "id": "s69"
+    },
+    {
+      "text": "\" It also noted that the shipments of finished product for the March 2008 quarter were below the shipments for the corresponding period in 2007 due to the time taken to rebuild sales in the United States market following the quality and machine delay issues announced in January 2008.",
+      "id": "s70"
+    },
+    {
+      "text": "The announcement also stated that the severe ice and snowstorms that had affected China in February had prevented employees from working at the Anji factory and that it was experiencing administrative delays with Chinese customs.",
+      "id": "s71"
+    },
+    {
+      "text": "On 3 June 2008, Style released an investor update.",
+      "id": "s72"
+    },
+    {
+      "text": "It included a section \"Outlook\" which stated: \n \"FY2008 was disrupted severely by various operational issues \n\n \n Financial result likely to be a loss, revenue for the year will be similar to prior year revenue \n\n \n 1H2009: expect management to execute strategic roadmap \n\n \n Management does not intend to give forecasts at this stage, but plans to report regularly on factual progress made.",
+      "id": "s73"
+    },
+    {
+      "text": "\" \n\n On 21 July 2008, Style made a further announcement to the ASX which referred to the Wanzai plantation and the settlement of the franchisees dispute.",
+      "id": "s74"
+    },
+    {
+      "text": "In relation to the Wanzai plantation, Style stated that it had reviewed the project after receipt of an independent report confirming substantial damage caused to the plantation by the ice storm in February 2008.",
+      "id": "s75"
+    },
+    {
+      "text": "The report had concluded that the plantation would take approximately four years to regenerate.",
+      "id": "s76"
+    },
+    {
+      "text": "The announcement stated: \n \"The Company has formed the view that these events render the Project not viable and have hence sought to exit the project.",
+      "id": "s77"
+    },
+    {
+      "text": "In relation to the above the Company wishes to advise that it is has reached in-principle agreement with the relevant government authorities in China to exit from its obligations relating to the Wanzai Plantation project.",
+      "id": "s78"
+    },
+    {
+      "text": "... \n The net effect on the Company of this agreement will be to write down the value of assets by $1.3 million representing a $784,295 reduction in the carrying value of Biological Assets and $242,000 of Land Rights Use.",
+      "id": "s79"
+    },
+    {
+      "text": "The Company will benefit from a reduction in ongoing annual leasing costs of RMB 5 million ($769,000) and an absence of a commitment to develop the plantations and industrial site.",
+      "id": "s80"
+    },
+    {
+      "text": "\" \n\n \nIn relation to the franchisee litigation, the announcement stated:\n \n \"Following recent legal advice and further discussions with the franchisee representatives, the Company has reached an in principle settlement agreement that will involve the Company paying the franchisees $675,000 and the cessation of action by all parties.",
+      "id": "s81"
+    },
+    {
+      "text": "\" \n\n The fourth quarter's results for Style were announced to the ASX on 31 July 2008.",
+      "id": "s82"
+    },
+    {
+      "text": "Unlike previous quarterly statements the results announced did not disclose Style's revenue, EBITDA or profit or loss.",
+      "id": "s83"
+    },
+    {
+      "text": "Instead, figures relating to the cash flow of the company were released.",
+      "id": "s84"
+    },
+    {
+      "text": "On 25 August 2008, Merim instituted this proceeding.",
+      "id": "s85"
+    },
+    {
+      "text": "On the same day, Style released an update by its Chief Executive Officer, Mr Peter Torreele (who had taken on the position in June 2008) and an update from the Chairman, Mr Johnson.",
+      "id": "s86"
+    },
+    {
+      "text": "It also released its preliminary results for the year ended 30 June 2008.",
+      "id": "s87"
+    },
+    {
+      "text": "MR YUNGHANNS' REQUESTS FOR INFORMATION \n Mr Yunghanns sent a substantial number of emails and letters to various persons associated with Style in and between July and September 2008.",
+      "id": "s88"
+    },
+    {
+      "text": "The emails contained not only requests for information, but also invective and personal criticisms of particular members of Style's board of directors.",
+      "id": "s89"
+    },
+    {
+      "text": "Mr Yunghanns swore affidavits which were relied upon by Merim but he was not required by Style to attend for cross-examination.",
+      "id": "s90"
+    },
+    {
+      "text": "In those circumstances, it is not appropriate to draw any conclusions from the sometimes intemperate nature of Mr Yunghanns' communications.",
+      "id": "s91"
+    },
+    {
+      "text": "I do not intend to set out verbatim all their contents.",
+      "id": "s92"
+    },
+    {
+      "text": "It is sufficient, for present purposes, to set out the requests for information that Mr Yunghanns has made to Style and the responses that he has received which he contends have been unsatisfactory.",
+      "id": "s93"
+    },
+    {
+      "text": "On 4 July 2008, Mr Yunghanns sent an email to one of Style's non-executive directors, Mr Stephen Roux, asking him to explain how particular working capital (to a value of $14,163,000) as recorded in the quarterly cash statement for the period ended 31 December 2007 was applied.",
+      "id": "s94"
+    },
+    {
+      "text": "The email stated: \n \"You represented to me, in the presence of others, that the money to be raised by way of the convertible note issue in Style Limited was to be used to fund the acquisition of 5,500 hectares of a bamboo plantation.",
+      "id": "s95"
+    },
+    {
+      "text": "This statement is also made in a number of other announcements issued by the company and lodged with the Australian Securities Exchange.",
+      "id": "s96"
+    },
+    {
+      "text": "The money raised was not so applied, therefore, I view your representations upon which I and others relied, as misleading and deceptive.",
+      "id": "s97"
+    },
+    {
+      "text": "The company had a cash balance of $6,263,000 at 30 th June 2007.",
+      "id": "s98"
+    },
+    {
+      "text": "It raised $10,000,000 during the 1 st quarter of 2008, yet, at the end of the first quarter, it had cash of $7,884,000 and no bamboo plantations.",
+      "id": "s99"
+    },
+    {
+      "text": "How was the $8,379,000 applied?",
+      "id": "s100"
+    },
+    {
+      "text": "The quarterly cash statement for the period ending 31 December 2007 shows \" other working capital \" consumed of $14,163,000.",
+      "id": "s101"
+    },
+    {
+      "text": "I am unable to reconcile these figures [in the quarterly cash statement] with the published information.",
+      "id": "s102"
+    },
+    {
+      "text": "Please explain the asset category to which the $14,163,000 was applied.",
+      "id": "s103"
+    },
+    {
+      "text": "\" \n\n \nThis email was copied to a number of other persons including Mr Torreele, Style's Chief Executive Officer.",
+      "id": "s104"
+    },
+    {
+      "text": "Mr Roux sent an email in response to Mr Yunghanns on 7 July 2008, acknowledging receipt of the email on 4 July 2008 and stating: \n \" [We] are considering it and formulating a response.",
+      "id": "s105"
+    },
+    {
+      "text": "We hope to be in a position to respond to you tomorrow.",
+      "id": "s106"
+    },
+    {
+      "text": "\" \n\n \nOn 4 July 2008, Mr Yunghanns also wrote to Mr Torreele seeking permission to inspect the books of the company.",
+      "id": "s107"
+    },
+    {
+      "text": "The letter stated: \n \n \n \"In view of the circumstances set out in the email forwarded to Mr Stephen Roux today, and copied to you, I seek permission to inspect the books of the company.",
+      "id": "s108"
+    },
+    {
+      "text": "If the company refuses this request then I shall rely upon section 247A of the Corporations Act .",
+      "id": "s109"
+    },
+    {
+      "text": "\" \n\n On 9 July 2008, Mr Yunghanns sent another email to Mr Roux (copied to Mr Johnson and Mr Torreele) setting out some of the statements Style had made previously to shareholders.",
+      "id": "s110"
+    },
+    {
+      "text": "Mr Yunghanns then asked the following questions: \n \"&#9679; What information did you have to enable you to make the profit statement of 31 st October?",
+      "id": "s111"
+    },
+    {
+      "text": "When was the 1 st revenue range guidance given?",
+      "id": "s112"
+    },
+    {
+      "text": "&#9679; What material or information was before you to make the expectation about a 30% improvement in total cost of goods as released on 23 rd November?",
+      "id": "s113"
+    },
+    {
+      "text": "&#9679; What material or information was before you to make the revenue and earnings forecast released on the 31 st January \n ... \n I again ask you to please explain the material or information before you that enabled you to make the statements of the 31 st October 2007, 23 rd November 2007 and 31 st January 2008, bearing in mind that the &#189; year results, at least in management form, should have been available to you at the time of making the January statement.",
+      "id": "s114"
+    },
+    {
+      "text": "Your performance is completely unacceptable.",
+      "id": "s115"
+    },
+    {
+      "text": "\" \n\n On 9 July 2008, Style's company secretary, Mr David Hamilton, responded to Mr Yunghanns' letter of 4 July 2008 requesting that he specify the documents he was seeking to inspect, and the purpose for which he wanted access to those documents.",
+      "id": "s116"
+    },
+    {
+      "text": "On the same day, Mr Yunghanns responded to Mr Hamilton by email, stating: \n \"I thought the documents I wanted to inspect would have been self evident from the email I sent to Stephen Roux.",
+      "id": "s117"
+    },
+    {
+      "text": "However I will reiterate.",
+      "id": "s118"
+    },
+    {
+      "text": "Where did the $8,379,000 go that was a significant part of the $10,000,000 raised from the convertible note and repeatedly publicised to be applied to the acquisition of some 5000 hectares of a bamboo plantation and how was the working capital of $14,163,000 applied?",
+      "id": "s119"
+    },
+    {
+      "text": "Surely I don't have to spell out the purpose of such a question?",
+      "id": "s120"
+    },
+    {
+      "text": "...\" \n\n On 10 July 2008, Mr Yunghanns sent an email to Mr Roux which contained more criticism than it does requests for information.",
+      "id": "s121"
+    },
+    {
+      "text": "Relevantly, however, Mr Yunghanns stated: \n \"I refer to my emails to you of 4 July and 9 July.",
+      "id": "s122"
+    },
+    {
+      "text": "Whether you choose to reply is up to you.",
+      "id": "s123"
+    },
+    {
+      "text": "\" \n\n On 15 July 2008, Mr Roux sent an email to Mr Yunghanns in which he said that he had brought Mr Yunghanns' emails of 4, 9 and 10 July 2008 to the attention of the Board and the Chairman.",
+      "id": "s124"
+    },
+    {
+      "text": "The email continued: \n \"To the extent that your emails raise substantive issues, they are issues that should be dealt with by the company itself and it would be inappropriate from a number of perspectives for an individual director to be engaging in the form of communication with a single investor that you appear to be suggesting or requesting.",
+      "id": "s125"
+    },
+    {
+      "text": "Furthermore, I am aware that you have also been separately communicating directly with the company on a range of issues, including the ones that you have raised with me.",
+      "id": "s126"
+    },
+    {
+      "text": "Accordingly, you will receive an appropriate response to your communications direct from company in due course.",
+      "id": "s127"
+    },
+    {
+      "text": "Should you have any further questions or queries relating to any matters involving Style Limited please direct them to the company as it would be inappropriate for me to enter into any further correspondence with you on these matters.",
+      "id": "s128"
+    },
+    {
+      "text": "\" \n\n On 16 July 2008, Mr Yunghanns responded, again setting out colourful invective about Mr Roux's performance.",
+      "id": "s129"
+    },
+    {
+      "text": "Mr Yunghanns concluded: \n \"Please instruct your board to respond forthwith, otherwise I shall proceed.",
+      "id": "s130"
+    },
+    {
+      "text": "\" \n\n On 17 July 2008, Mr Yunghanns sent an email to Mr Torreele stating that he \"should be aware of the continuous disclosure requirements of the ASX listing rules and seek ... guidance as to their application in relation to Style.",
+      "id": "s131"
+    },
+    {
+      "text": "\" On 21 July 2008, Mr Yunghanns sent an email to Mr Roux, noting that Mr Roux had said on 17 July 2008 that the company was formulating a response to his email of 4 July and hoped to be in a position to respond tomorrow.",
+      "id": "s132"
+    },
+    {
+      "text": "Relevantly, the email continued: \n \"In the announcement to the Stock Exchange of 4 th and 11 th of July 07, it is stated that the company has raised $10,000,000 through the issue of convertible notes and that 'The purpose of the issue is primarily to finance the first plantation acquisition and provide working capital.",
+      "id": "s133"
+    },
+    {
+      "text": "' \n\n \n How much of the $10,000,000 was to be used to 'finance the first plantation acquisition'?",
+      "id": "s134"
+    },
+    {
+      "text": "I am unable to identify the asset of a bamboo plantation in the Balance Sheet of 30/12/07.",
+      "id": "s135"
+    },
+    {
+      "text": "Can you help me?",
+      "id": "s136"
+    },
+    {
+      "text": "Also, could you please explain the increase of intangible assets of some 3,900,000.",
+      "id": "s137"
+    },
+    {
+      "text": "Is this the goodwill on the acquisition of the 50% interest in the manufacturing joint venture?",
+      "id": "s138"
+    },
+    {
+      "text": "... \n Given that the company had cash of $6,263,000 as at 30/06/07, why was additional working capital needed?",
+      "id": "s139"
+    },
+    {
+      "text": "On the 25 th May, a 'Major Disclosure' was announced to the Stock Exchange, namely the acquisition of 50% of the manufacturing joint venture.",
+      "id": "s140"
+    },
+    {
+      "text": "The key terms were not set out and the cash consideration was payable on 30/06/07.",
+      "id": "s141"
+    },
+    {
+      "text": "Was it paid on that date?",
+      "id": "s142"
+    },
+    {
+      "text": "The June 07 Cash Flow does not reflect the payment.",
+      "id": "s143"
+    },
+    {
+      "text": "If it was not paid, why was it not included as a liability in the accounts at 30/06/07?",
+      "id": "s144"
+    },
+    {
+      "text": "On the 5 th July the Extraordinary General Meeting approved the share issue.",
+      "id": "s145"
+    },
+    {
+      "text": "Surely the cash consideration was a liability, or had it been paid on the 30/06/07?",
+      "id": "s146"
+    },
+    {
+      "text": "... \n When I receive your answers, I will decide the appropriate action to take.",
+      "id": "s147"
+    },
+    {
+      "text": "I want an immediate response to all the issues raised above and the issues raised in my other emails.",
+      "id": "s148"
+    },
+    {
+      "text": "\" \n\n On 22 July 2008, Mr Yunghanns sent an email to Mr Roux again asking how much was paid to the plantation owner on 30 June 2008.",
+      "id": "s149"
+    },
+    {
+      "text": "On the same day, he sent an email to Mr Torreele in which he referred to a discussion between them the day before and said how 'greatly encouraged' he was by the 'action' that Mr Torreele was taking to 'clear the decks'.",
+      "id": "s150"
+    },
+    {
+      "text": "On 23 July, Mr Yunghanns sent an email to Messrs Johnson and Roux, referring to the proceedings to collect debts of $60,000: \n \"What an amazing performance to turn a $60,000 asset into a $675,000 liability ... \n I require you to outline full details of how you achieved this both in the preliminary results and the annual report so all shareholders can be appraised of your remarkable ability ... \n ... \n Please give shareholders a detailed explanation in the annual report together with a pr&eacute;cis of the legal advice.",
+      "id": "s151"
+    },
+    {
+      "text": "\" \n\n On 25 July 2008, under cover of an email from Mr Ritchie, Style responded formally in a letter to Mr Yunghanns' letter dated 4 July 2008.",
+      "id": "s152"
+    },
+    {
+      "text": "Mr Ritchie further noted that the company acknowledged receipt of Mr Yunghanns' additional questions and 'is endeavouring to provide a response in due course'.",
+      "id": "s153"
+    },
+    {
+      "text": "The letter attached to the email was signed by Mr Hamilton, Style's Company Secretary.",
+      "id": "s154"
+    },
+    {
+      "text": "Relevantly it stated: \n \"As you know, the Company, with the assistance of Bell Potter, raised funds through the issue of convertible notes last November for working capital purposes and to assist the company in the implementation of its then strategy of acquiring and developing plantation assets and industrial assets at Wanzai.",
+      "id": "s155"
+    },
+    {
+      "text": "This strategy was partly implemented when substantial damage was caused to the plantation by an ice storm in February 2008.",
+      "id": "s156"
+    },
+    {
+      "text": "Subsequently, an independent report has confirmed that it would take approximately four years for the plantation to regenerate.",
+      "id": "s157"
+    },
+    {
+      "text": "As announced to the ASX on 21 July 2008, the Company has formed the view that these events render the Wanzai Project not viable.",
+      "id": "s158"
+    },
+    {
+      "text": "The Company has reached an in-principle agreement with the relevant government authorities in China to exit from its obligations relating to the project.",
+      "id": "s159"
+    },
+    {
+      "text": "Supply of bamboo to the Company's existing operations continues to be made from third party plantations.",
+      "id": "s160"
+    },
+    {
+      "text": "The Company will shortly be releasing its Appendix 4C Statement for the quarter ending 30 June 2008.",
+      "id": "s161"
+    },
+    {
+      "text": "We propose to provide further information about the inflows and outflows of cash for the full financial year at that time.",
+      "id": "s162"
+    },
+    {
+      "text": "This will provide even more details about the application of funds raised from the note issue or internally generated.",
+      "id": "s163"
+    },
+    {
+      "text": "The Company emphatically rejects any assertions that the Company or any of its directors made any misleading or deceptive statements about the use to which the Company proposed to put the proceeds of the convertible note issue in any presentations or other statements made to prospective investors at that time.",
+      "id": "s164"
+    },
+    {
+      "text": "\" \n\n On 15 August 2008, Mr Yunghanns wrote, on personal letterhead, a letter to Mr Phillip Rix, the managing director of auditors RLF Bentleys, under the subject \"Is Style Solvent?",
+      "id": "s165"
+    },
+    {
+      "text": "\" He set out what he regarded as the auditors' \"duties\" and concluded: \n \"I would point out the all directors have failed to comply with the corporate governance and continuous disclosure requirements ...",
+      "id": "s166"
+    },
+    {
+      "text": "I assume it is not the auditor's duty to police this, however, there must be someone who does.",
+      "id": "s167"
+    },
+    {
+      "text": "Can you help me?",
+      "id": "s168"
+    },
+    {
+      "text": "You now have written notice of this company's financial condition which it would be prudent to pass on to your insurers.",
+      "id": "s169"
+    },
+    {
+      "text": "Should you require any further information of me please let me know.",
+      "id": "s170"
+    },
+    {
+      "text": "\" \n\n \nMr Yunghanns enclosed letters dated the same day sent by him to St George Bank Limited and Mr Johnson regarding the same subject.",
+      "id": "s171"
+    },
+    {
+      "text": "On the same day, he wrote a letter to shareholders, attaching copies of the letters he had sent to the Chairman, auditors and banker of Style:\n \n \n \" You will have received notice of a general meeting that I requisitioned.",
+      "id": "s172"
+    },
+    {
+      "text": "It will be evident from the letters why I have requisitioned the meeting.",
+      "id": "s173"
+    },
+    {
+      "text": "I am unable to get any meaningful response out of Style to questions I have asked on behalf of all shareholders.",
+      "id": "s174"
+    },
+    {
+      "text": "I shall be writing to you further in relation to the requisitioned general meeting.",
+      "id": "s175"
+    },
+    {
+      "text": "\" \n\n On 18 August 2008, Merim's solicitors wrote to Mr Hamilton informing him of their client's instructions to make a formal application to the court, pursuant to s 247A of the Act, to inspect the books of Style unless access to the books was granted to Mr Yunghanns and his representatives prior to the close of business on 22 August 2008.",
+      "id": "s176"
+    },
+    {
+      "text": "The originating process was filed on 25 August 2008.",
+      "id": "s177"
+    },
+    {
+      "text": "On 2 September 2008, at a directions hearing, Finkelstein J made orders by consent in the following terms: \n \"1.",
+      "id": "s178"
+    },
+    {
+      "text": "By 4.00pm on 10 September 2008 the defendant notify the plaintiff in writing of the documents that it will make available for inspection and the location of those documents.",
+      "id": "s179"
+    },
+    {
+      "text": "Between 15 and 17 September 2008 the defendant allow the plaintiff or its legal representative or accountant to inspect the documents that the defendant is prepared to make available.",
+      "id": "s180"
+    },
+    {
+      "text": "By no later than 4.00pm on 22 September 2008 the plaintiff give the defendant notice in writing of any further documents it wishes to inspect.",
+      "id": "s181"
+    },
+    {
+      "text": "Within 4 working days of the receipt of a notice contemplated by order 3, the defendant notify the plaintiff in writing whether it will make the further documents available for inspection.",
+      "id": "s182"
+    },
+    {
+      "text": "If the defendant notifies pursuant to order 4 that it will not make some or all of the further documents available, by 4.00pm on 26 September 2008, the defendant serve any affidavit material on which it wishes to rely in opposing any further inspection by the plaintiff.",
+      "id": "s183"
+    },
+    {
+      "text": "6.",
+      "id": "s184"
+    },
+    {
+      "text": "Adjourn the further hearing to 9.30am on 30 September 2008.",
+      "id": "s185"
+    },
+    {
+      "text": "7.",
+      "id": "s186"
+    },
+    {
+      "text": "Costs reserved.",
+      "id": "s187"
+    },
+    {
+      "text": "\" \n\n On 10 September 2008 Style's solicitor notified Merim's solicitors of the documents Style would make available for inspection by Merim.",
+      "id": "s188"
+    },
+    {
+      "text": "These were not all the documents in respect of which Merim had sought inspection.",
+      "id": "s189"
+    },
+    {
+      "text": "The inspection was made subject to a stipulated confidentiality regime making inspection only available to Merim's senior counsel and instructing solicitor.",
+      "id": "s190"
+    },
+    {
+      "text": "Style refused inspection to Mr Yunghanns.",
+      "id": "s191"
+    },
+    {
+      "text": "Merim's solicitors objected to the confidentiality requirement on the ground that it was unfounded and inappropriate and said that Style's reply was not compliance with Finkelstein J's orders.",
+      "id": "s192"
+    },
+    {
+      "text": "Style's solicitors' response was that Merim had not made out a case to inspect any documents pursuant to s 247A of the Act.",
+      "id": "s193"
+    },
+    {
+      "text": "Merim's solicitors sought access to further documents but Style did not make any documents available for inspection.",
+      "id": "s194"
+    },
+    {
+      "text": "On 9 September 2008, Merim's solicitors wrote to Style's solicitors, stating that Mr Yunghanns had: \n \"... subsequently become aware of various announcements made by Style Limited to the ASX including the following: \n\n An announcement headed \"Major North American Distributor extends Distribution Agreement until 2012 --- demonstrates ongoing confidence in the company\"; \n An announcement headed \" Section 708A Notice --- issue of Style Limited securities without a prospectus.",
+      "id": "s195"
+    },
+    {
+      "text": "\" \n \n My client requires production of all documents held by Style Limited in relation to those two matters, in addition to the categories of documents set out in the application...\" \n\n On 16 September 2008, Merim's solicitors again wrote to Style's solicitors, stating that Mr Yunghanns: \n \"... requires access to the following documents: \n\n All documents relating to the acquisition of the 50% shareholding in Anji Ya Feng Bamboo Products Limited announced in May 2007.",
+      "id": "s196"
+    },
+    {
+      "text": "All documents relating to the acquisition, installation and commissioning of the plant and equipment at the finishing factory in China in a course of the year ending 30 June 2008.",
+      "id": "s197"
+    },
+    {
+      "text": "All documents relating to the proposed sale and lease-back of that finishing factory.",
+      "id": "s198"
+    },
+    {
+      "text": "All documents relating to the recently announced commitment by each of Greg Johnson and Fairmount Investments Pty Ltd to exercise options held in the company by 31 January 2009.",
+      "id": "s199"
+    },
+    {
+      "text": "\" \n The parties then agreed to have the matter proceed to a mention before Finkelstein J on 23 September 2008.",
+      "id": "s200"
+    },
+    {
+      "text": "On that day, Finkelstein J made orders setting out a timetable for Merim and Style to file and serve any affidavits upon which they intended to rely and written outlines of submissions.",
+      "id": "s201"
+    },
+    {
+      "text": "In its submissions, Style argued that at the hearing of 2 September 2008, it had preserved its right to determine which, if any, documents it would make available once it had sufficient time to consider the categories of documents sought in the application.",
+      "id": "s202"
+    },
+    {
+      "text": "In its submissions, Merim contended that Style was now precluded from contesting aspects of the application on the basis of the orders made by Finkelstein J on 2 September 2008.",
+      "id": "s203"
+    },
+    {
+      "text": "It argued that Style was seeking to \"re-litigate the Plaintiff's entitlement to inspect the books and records of the Company\".",
+      "id": "s204"
+    },
+    {
+      "text": "Merim argued that the orders made by consent on 2 September 2008 evidenced an agreement by Style that the documents would be produced to the plaintiff for inspection, and that a regime of inspection had been agreed to.",
+      "id": "s205"
+    },
+    {
+      "text": "IS STYLE PRECLUDED FROM ARGUING THAT AN ORDER UNDER S 247A SHOULD NOT BE MADE?",
+      "id": "s206"
+    },
+    {
+      "text": "What was said by counsel at the hearing before Finkelstein J on 2 September 2008 and the order which his Honour made on that day give rise to a threshold question because Merim submits that Style is now seeking to re-litigate Merim's entitlement to inspect the books of Style and that Style is prevented by the orders made on 2 September 2008 from so doing.",
+      "id": "s207"
+    },
+    {
+      "text": "Merim contends that the orders made by consent by Finkelstein J on 2 September 2008 evidence an agreement by Style that documents would be produced by Style to Merim for inspection.",
+      "id": "s208"
+    },
+    {
+      "text": "There is a difficulty in characterising the orders made by Finkelstein J as evidencing an agreement that documents would be produced for inspection.",
+      "id": "s209"
+    },
+    {
+      "text": "The question immediately arises \"what documents\"?",
+      "id": "s210"
+    },
+    {
+      "text": "The orders made on 2 September 2008 do not identify or specify particular documents which Style has agreed to produce for inspection.",
+      "id": "s211"
+    },
+    {
+      "text": "Putting the matter another way, in contractual terms, if Merim sought specific performance of the agreement upon which it relies, what performance would Style be required to carry out?",
+      "id": "s212"
+    },
+    {
+      "text": "The orders made on 2 September 2008 left Style at large as to whether it would make any documents available for inspection.",
+      "id": "s213"
+    },
+    {
+      "text": "Merim submitted that such a construction of the orders would make the orders a nullity.",
+      "id": "s214"
+    },
+    {
+      "text": "The orders were not a nullity, but the consequence of them was that Style was not obliged to notify Merim of any particular documents it was prepared to make available for inspection.",
+      "id": "s215"
+    },
+    {
+      "text": "It seems to follow that if Style did not notify Merim of any documents it was prepared to make available for inspection or notify Merim that it was only making available a limited number of documents for inspection, the matter would have to go back to Finkelstein J for further orders.",
+      "id": "s216"
+    },
+    {
+      "text": "Merim submitted that if that was the proper construction to be given to the orders made on 2 September 2008 the result was that Style was not entitled to re-litigate Merim's standing or purpose or the power of the Court to grant inspection under s 247A of the Act.",
+      "id": "s217"
+    },
+    {
+      "text": "I do not accept that submission.",
+      "id": "s218"
+    },
+    {
+      "text": "If the matter had returned to Finkelstein J, he could only have proceeded to make further orders for inspection of particular categories of documents if, as required by s 247A(1) or s 247A(5), he was satisfied that Merim was acting in good faith and that the inspection was to be made for a proper purpose.",
+      "id": "s219"
+    },
+    {
+      "text": "I have read the transcript of the hearing before Finkelstein J on 2 September 2008 and I am satisfied that his Honour did not address that issue at all.",
+      "id": "s220"
+    },
+    {
+      "text": "He was not required to do so at that time.",
+      "id": "s221"
+    },
+    {
+      "text": "What apparently occurred on 2 September 2008 was that a short cut was taken designed, if possible, to avoid a further substantive and contested hearing.",
+      "id": "s222"
+    },
+    {
+      "text": "The short cut did not work and as a result the matter had to be litigated before a judge particularly in relation to the issue of good faith and inspection for a proper purpose.",
+      "id": "s223"
+    },
+    {
+      "text": "Even if the parties consented to an order for inspection of specific categories of documents, it was still necessary, as a matter of jurisdiction, for the judge making the order affirmatively to be satisfied that Merim was acting in good faith and that inspection was to be made for a proper purpose.",
+      "id": "s224"
+    },
+    {
+      "text": "That was required by s 247A.",
+      "id": "s225"
+    },
+    {
+      "text": "This threshold issue is therefore resolved not on the basis of any learning in relation to the effect and consequence of consent orders or the doctrine of estoppel but rather on the basis that a procedural short cut agreed to by the parties was taken and adopted by Finkelstein J which did not work out.",
+      "id": "s226"
+    },
+    {
+      "text": "The result was that the principal issue whether an order should be made under s 247A had to be argued and determined.",
+      "id": "s227"
+    },
+    {
+      "text": "CONSIDERATION \n Before making an order pursuant to s 247A(1) I must be satisfied that Merim is acting in good faith and that the inspection is to be made for a proper purpose.",
+      "id": "s228"
+    },
+    {
+      "text": "MERIM'S PURPOSE \n The evidence in support of the application is found in affidavits sworn by Mr Yunghanns.",
+      "id": "s229"
+    },
+    {
+      "text": "He was not cross-examined on those affidavits.",
+      "id": "s230"
+    },
+    {
+      "text": "In his first affidavit Mr Yunghanns said: \n \"I am concerned that certain of the directors and officers of the defendant may have, over the period ended 30 June 2008, misrepresented the position of the defendant to members, not only in terms of projected earnings, but also the application of funds, particularly the proceeds of the convertible note issue made in July 2007.",
+      "id": "s231"
+    },
+    {
+      "text": "I am also concerned that the defendant is or may become insolvent.",
+      "id": "s232"
+    },
+    {
+      "text": "... \n The announcements made by the defendant over the year ended 30 June 2008 have, I believe, been seriously misleading, especially those in the first 7 months of the year.",
+      "id": "s233"
+    },
+    {
+      "text": "For that purpose, I wish to inspect the books of the company to consider whether action in the name of the defendant should be commenced against officers or former officers.",
+      "id": "s234"
+    },
+    {
+      "text": "\" \n\n \nMr Yunghanns said that there was no substantive response to the request contained in his email of 4 July 2008.",
+      "id": "s235"
+    },
+    {
+      "text": "Senior counsel for Merim developed Mr Yunghanns' concerns further during the course of the hearing.",
+      "id": "s236"
+    },
+    {
+      "text": "He identified the following potential derivative action claims that Merim would investigate through an inspection of Style's books: A potential claim against the directors for breach of statutory duties owed to the company to exercise reasonable care, good faith, not to profit for themselves and not to cause detriment to the Company (under ss 180, 181 and 182 of the Act) on the basis that:\n they raised funds by unsecured notes to acquire a bamboo plantation when in fact the company obtained only an annual leasehold interest;\n they made announcements to the market that the convertible notes would be used to acquire the bamboo plantation;\n they failed to disclose to the shareholders, market and note holders the true or actual agreement entered into regarding the leasehold of the plantation;\n they failed to discharge their obligations of continuous disclosure to the market by revealing that an annual lease had been taken rather than the acquisition of a substantial interest in the plantation;\n they announced in November 2007 that the company had entered into an agreement for a term of 50 years with a right to purchase industrial land for a future factory;\n the price or rent payable under the agreement was never disclosed but was clearly not $10 000 000 but instead was an annual rent of $700 000 or more;\n they released a market update on 24 September 2007 which forecast revenue and financial earnings of $60 --- $80 million with $14 --- 20 million EBITDA when they arguably had no reasonable basis to do so;\n at the time of that and previous announcements they had yet to put in place the production facilities necessary to meet production capable of generating such revenue;\n on 31 January 2008 they made revised forecasts for revenue when they had no reasonable basis to do so;\n by 30 April 2008 revenue was in fact only $3.18 and EBITDA was a loss of $1.8 million;\n on 24 September 2007 the company announced that new production machinery would be commissioned to start production in the first week of October when there was no reasonable basis for doing so because only one consignment of the machinery purchased from Germany had been processed through customs;\n notwithstanding those delays there was no modification to the forecasts to revenue or profit made in September 2007 even when by November 2007 and December 2007 further delays in installation and commissioning the machinery were apparent;\n the forecasts made in July 2007 and September 2007 assumed a production rate and capacity of trading stock that was not physically achievable from the company's contemplated new production capabilities;\n on 8 August 2007 the company announced a contract for a minimum revenue of $80 million over thee years yet at the time of entering into that agreement it had not yet secured or acquired the plantation, and it did not have any production capacity to meet that obligation;\n on 24 September 2007 the Chairman of the company sold options to the value of $4.15 million at a time when:\n there was no concluded agreement in respect of the Wanzai Plantation; the profit and revenue forecasts would need to be or ought to have been corrected; the new production capacity was unachievable; these facts had not been disclosed to the market; all monies raised by the unsecured notes had been consumed despite only $796 000 spent on annual rental for the Plantation; cash revenues had been depleted.",
+      "id": "s237"
+    },
+    {
+      "text": "and thereby obtained a profit for himself;\n \n On 27 September 2007 the directors announced that they had received a preliminary approach from a private equity firm (hence suggesting the company was an attractive financial target) yet made no subsequent or further announcement as to the outcome of that inquiry or whether the inquiry was pursued for the benefit of shareholders and the company as a whole;\n On 31 October 2007 the directors disclosed in the form 4C quarterly report ending 30 September 2007 that in fact $3.048 million had been spent on acquiring the balance of a 50% interest in Anji Ya Feng Bamboo Products Limited which was funds presumably obtained from the secured notes but was not a use of those funds for either acquisition of the bamboo plantation or working capital;\n A further $1.2 million was used for the same purpose (acquisition of the 50% interest in Anji Ya Feng in the quarterly reports for the quarter ending 31 December 2007);\n The directors failed to provide updated forecasts or guidance to the market between January and July 2008 in circumstances where the directors well knew that the previous forecasts were wrong or unachievable and/or funds obtained for the purpose of acquiring the plantation had been used for other purposes;\n The directors issued proceedings to recover a debt (which they disclosed as an asset) and settled that claim without any explanation or announcement creating a liability of $650 000;\n The directors caused announcements to be made (including to the ASX) that the manufacturing factory acquired in May 2005 was operational when in fact it was not;\n Further they announced that the Company had production capabilities it did not have;\n At a time when the Company was trading at a loss (September 2008) and faced current liabilities due 30 June 2009 of $10 million and faced supply issues due to the failure of the plantation, it agreed to:\n Enter into an extended distribution agreement for a further term of three years when the existing term was not due to expire until 15 July 2009 and the company had announced on 27 September 2007 that it had been unable to meet its obligations to the distributor under the existing agreement; Issue 14,127,104 shares in the company without a prospectus at a price exceeding the then market trading price to a company associated with the major supplier.",
+      "id": "s238"
+    },
+    {
+      "text": "At a time when the solvency of the company has been raised as an issue by an aggrieved shareholder, the chairman agreed to exercise options which fell due to be exercised in January 2009;\n Having foreshadowed the possibility of an underwriter supporting the realisation of options falling due in January 2009 no underwriter was forthcoming; and\n The company has been unable to file audited accounts despite assurances that it would and trading in its shares has been suspended.",
+      "id": "s239"
+    },
+    {
+      "text": "The following other causes of action may arise from the matters set out in par 1 above:\n Misleading and deceptive conduct in contravention of s 1041H of the Corporations Act 2001 False and misleading statements in relation to financial products in contravention of s 1041E ; Insolvent trading.",
+      "id": "s240"
+    },
+    {
+      "text": "The company may be entitled to bring an action against the directors for the following relief: To disgorge any profit obtained from breach of duty; To compensate the company for losses caused by breach of duty; For declarations that they indemnify the company in respect of any claims made against the company arising from their breach of duty or misconduct (eg to satisfy the convertible notes when they fall due and/or any claims by aggrieved shareholders); and Equitable compensation.",
+      "id": "s241"
+    },
+    {
+      "text": "56 Mr Ritchie, Style's Chief Financial Officer, swore an affidavit in which he said that Style was concerned that the real purpose of Merim in applying to inspect its books was to assist Merim in its ongoing attempts to gain control of Style, and not to consider whether to bring a derivative action on behalf of Style against its directors.",
+      "id": "s242"
+    },
+    {
+      "text": "Mr Ritchie said that Style's concern was based on the following matters:\n Merim became entitled to bring this application under s 247A(1) of the Act when its name was entered on the register of members on 14 August 2008, eleven days before the proceeding was brought; A number of the original categories of documents sought were broad and would result in Merim gaining access to a substantial proportion of Style's documents; Merim has not put on any evidence in support of all bar one of the additional categories of documents sought and appeared to be demanding inspection of all documents relating to all announcements made by Style to the market; Merim's complaint appears to be that the market announcements made between July 2007 and January 2008 were misleading in respect of Style's financial performance.",
+      "id": "s243"
+    },
+    {
+      "text": "However, by the time Merim purchased its shares in Style, Style had stated in an investor update that it was likely to make a loss for the year ending 30 June 2008 and that it did not intend to give forecasts of future performance for the time being; Mr Yunghanns had between 4 July 2008 and 23 September 2008 addressed approximately 48 emails and letters to Style's chairman, directors, chief executive officer, chief financial officer, company secretary, auditors, bankers, distributors and shareholders and caused Merim to bring this application, causing disruption and cost to Style; Between 16 July 2008 and 12 September 2008, Merim had requisitioned three general meetings of the shareholders of Style to remove two incumbent directors and appoint four nominees of Merim (including Mr Yunghanns) to the board.",
+      "id": "s244"
+    },
+    {
+      "text": "The first of these meetings had been held and Merim's resolutions were not passed.",
+      "id": "s245"
+    },
+    {
+      "text": "57 None of these matters were put to Mr Yunghanns.",
+      "id": "s246"
+    },
+    {
+      "text": "He was not cross-examined on his affidavits and, in particular, he was not challenged on what he said was his and Merim's purpose in seeking inspection of Style's documents: see [54] above.",
+      "id": "s247"
+    },
+    {
+      "text": "In any event, I do not consider that any of those matters impeach Mr Yunghanns' stated purpose.",
+      "id": "s248"
+    },
+    {
+      "text": "In particular, Merim had acquired a financial or economic interest in Style in July 2007 through the issue to it of convertible notes issued by Style.",
+      "id": "s249"
+    },
+    {
+      "text": "A person applying for an order pursuant to s 247A bears the onus of establishing that he is acting in good faith and that the inspection is to be made for a proper purpose: Acehill Investments Pty Ltd v Incitec Ltd [2002] SASC 344 at [29] .",
+      "id": "s250"
+    },
+    {
+      "text": "Merim must do more than demonstrate that it is dissatisfied with the management decisions: Re Augold NL [1987] 2 Qd R 297 at 308 Cescastle Pty Ltd v Renak Holdings Ltd (1991) 6 ACSR 115 at 117.",
+      "id": "s251"
+    },
+    {
+      "text": "Merim must satisfy me that it is entitled to inspect the books because the information sought relates to matters that it as a shareholder ought to be informed of by the company: see, for example, Czerwinski v Syrena Royal Pty Ltd (No 1) [2000] VSC 125 ; (2000) 34 ACSR 245 at 248.",
+      "id": "s252"
+    },
+    {
+      "text": "Provided the primary or dominant purpose for which the inspection is sought by Merim is a proper purpose, any subsidiary purpose for some other benefit is not relevant.",
+      "id": "s253"
+    },
+    {
+      "text": "In Unity APA Ltd v Humes Ltd (No 2) [1987] VR 474 Beach J said at 480: \n \"Having heard the evidence of the witness Wayland in relation to the matter I am satisfied that although Unity APA may well be seeking an order for inspection with a view to assisting its takeover offer that is not its dominant purpose.",
+      "id": "s254"
+    },
+    {
+      "text": "In my view its primary or dominant purpose is to ascertain whether or not the directors of Humes have been and are in breach of their duties to the shareholders of Humes in so far as the proposed acquisition of Smorgon Steel is concerned and whether or not it should oppose the proposal.",
+      "id": "s255"
+    },
+    {
+      "text": "If that is its dominant purpose as I am satisfied it is, in my opinion it is not to the point that an inspection of Humes books relating to the proposal may in some way be of benefit to Unity APA so far as its take over is concerned.",
+      "id": "s256"
+    },
+    {
+      "text": "If its primary purpose is a valid purpose such a consideration is irrelevant.",
+      "id": "s257"
+    },
+    {
+      "text": "...\" \n\n The authorities in relation to s 247A and its predecessor were usefully summarised in a series of propositions by Debelle J in Acehill Investments Pty Ltd v Incitec (supra) at [29]: \n \"1.",
+      "id": "s258"
+    },
+    {
+      "text": "The requirement that the applicant is acting in good faith and that the inspection is to be made for a proper purpose expresses a composite notion and the court will determine whether each has been demonstrated by applying an objective test.",
+      "id": "s259"
+    },
+    {
+      "text": "The onus is on the applicant to demonstrate that he is acting in good faith and that the inspection is for a proper purpose.",
+      "id": "s260"
+    },
+    {
+      "text": "The section operates where the applicant seeks to protect some specific or a personal right by the making of the order.",
+      "id": "s261"
+    },
+    {
+      "text": "Examples are where a shareholder contemplates proceedings under s 233 of the Corporations Act (the statutory successor of s 320 of the Companies Code)... or where a shareholder reasonably takes the view that a transaction could adversely affect his investment and he seeks to investigate the transaction for the purpose of determining what action he should take ... or where a shareholder seeks to ascertain facts for the purpose of considering a takeover offer.... \n If the applicant's primary or dominant purpose is a proper purpose, it is not to the point that an inspection may be of benefit to the applicant for some other purpose... \n The rights provided by s 247A should not be regarded as affecting the basic rule of company law that a shareholder should not ordinarily have recourse to the courts to challenge a managerial decision made by or with the approval of the directors.",
+      "id": "s262"
+    },
+    {
+      "text": "Since every shareholder has a right to apply under the section for an inspection order, it is no answer to an application that, if an order is made, the applicant may acquire information not available to other shareholders and thereby be in a more advantageous position than those shareholders.",
+      "id": "s263"
+    },
+    {
+      "text": "Applicants do not necessarily lack a proper purpose merely because (a) they are hostile to other directors; or (b) they will, after inspection, have more information than other members.",
+      "id": "s264"
+    },
+    {
+      "text": "The procedure under s 247A is not intended to be a process as wide-ranging as the process of discovery of documents so that, as a general rule, inspection will be confined to, say, the results of decisions of directors rather than all the documents such as board papers leading to decisions...",
+      "id": "s265"
+    },
+    {
+      "text": "I emphasise that this is a general rule.",
+      "id": "s266"
+    },
+    {
+      "text": "There may be occasions where it is proper to admit inspection of board papers ... \n Even where an applicant is acting bona fide and has shown a proper purpose, the court has a discretion whether to order inspection.",
+      "id": "s267"
+    },
+    {
+      "text": "\"\n \n[citations omitted]\n Mr Yunghanns said that he has sought information from Style in relation to various matters, including the application of the funds acquired through the capital raising and the settlement of the debt recovery proceedings, and that, in particular, he has not received a substantive response to the request contained in his email of 4 July 2008.",
+      "id": "s268"
+    },
+    {
+      "text": "That proposition is not disputed by Style.",
+      "id": "s269"
+    },
+    {
+      "text": "In answer to a question from me, whether Mr Yunghanns had received an answer to his queries, counsel for Style replied \"Not comprehensively\".",
+      "id": "s270"
+    },
+    {
+      "text": "I am satisfied Merim has not received an answer to the questions raised in Mr Yunghanns' email of 4 July 2008, nor has Merim received answers to a number of the questions and issues raised in subsequent emails and letters sent to Style and its officers.",
+      "id": "s271"
+    },
+    {
+      "text": "Style's explanation for not responding to, and answering these queries is partly, as Style's counsel put it: \n \"...he [Mr Yunghanns] has to establish some reason to suspect that the funds have been used other than properly ... and there is nothing to suggest that it [money] has been taken by the directors or used improperly.",
+      "id": "s272"
+    },
+    {
+      "text": "\" \n\n Style also resists Merim's application on the basis that a shareholder is not entitled to look behind the management decisions of a company by using s 247A and that if a shareholder wants more information than is contained in the documents and accounts the company is required to publish, the shareholder must be able to point to some suspicion or some case to answer.",
+      "id": "s273"
+    },
+    {
+      "text": "Style argued that I should not attach a lot of weight to the fact that Mr Yunghanns had sent letters asking questions that had not been answered, in the absence of Mr Yunghanns pointing to specific matters that caused concern.",
+      "id": "s274"
+    },
+    {
+      "text": "In fact, Mr Yunghanns has identified specific matters that cause him concern.",
+      "id": "s275"
+    },
+    {
+      "text": "He has raised queries as to the manner in which funds of Style have been used and he has not been given an answer.",
+      "id": "s276"
+    },
+    {
+      "text": "He is not questioning management decisions but is rather seeking explanation as to how funds of Style have been deployed and where the proceeds of a capital raising have been used.",
+      "id": "s277"
+    },
+    {
+      "text": "He has identified a case for investigation.",
+      "id": "s278"
+    },
+    {
+      "text": "Style's explanations for not responding to Mr Yunghanns' queries do not warrant the conclusion that Mr Yunghanns' purpose in seeking inspection is different from what he has stated as his purpose.",
+      "id": "s279"
+    },
+    {
+      "text": "While there is some evidence that Mr Yunghanns may be contemplating action to gain control of, or take over, Style, I do not consider that I should reject his evidence as to his purpose in seeking the order for inspection.",
+      "id": "s280"
+    },
+    {
+      "text": "In the absence of cross-examination of Mr Yunghanns there is no reason why I should reject his evidence as to his purpose having regard to the sequence of communications between Mr Yunghanns and Style to which I have referred.",
+      "id": "s281"
+    },
+    {
+      "text": "I am satisfied that even if the inspection sought may assist Mr Yunghanns or Merim in a proposal to gain control of, or take over, Style, Merim's primary or dominant purpose is as stated by Mr Yunghanns.",
+      "id": "s282"
+    },
+    {
+      "text": "In any event as Brooking J observed in Knightswood Nominees Pty Ltd v Sherwin Pastoral Company Ltd (1989) 15 ACLR 151 at 158, the fact that a takeover offer for the defendant (in the position of Style) might be made by a company controlled by a person who controls the plaintiff which is seeking inspection of the books of the defendant and that information derived from inspection of the defendant's books might be used for the purposes of the takeover offer: \n \"neither prevents the arising of the power to make the order sought, nor makes it appropriate to refuse the order sought as a matter of discretion.",
+      "id": "s283"
+    },
+    {
+      "text": "\" \n\n I am satisfied that Mr Yunghanns has not been given a satisfactory answer or information in relation to the financial issues concerning Style which he has raised.",
+      "id": "s284"
+    },
+    {
+      "text": "Section 247A requires me to be satisfied that Merim is acting in good faith and that the inspection is to be made for a proper purpose.",
+      "id": "s285"
+    },
+    {
+      "text": "I am so satisfied.",
+      "id": "s286"
+    },
+    {
+      "text": "Mr Yunghanns has raised a number of financial issues concerning Style which Style has not answered.",
+      "id": "s287"
+    },
+    {
+      "text": "In my view, those issues are substantive and not fanciful.",
+      "id": "s288"
+    },
+    {
+      "text": "Mr Yunghanns' queries raise specific matters that cause concern to Mr Yunghanns and, on the material placed before me, I do not consider those concerns are artificial, specious or contrived.",
+      "id": "s289"
+    },
+    {
+      "text": "To adopt the expression used by Brooking J in Intercapital Holdings Ltd v MEH Ltd (1988) 13 ACLR 595 at 601-602 and in Knightswood Nominees Pty Ltd v Sherwin Pastoral Company Ltd (supra) at 154, I consider there is a \"case for investigation\".",
+      "id": "s290"
+    },
+    {
+      "text": "Style responded to the concerns raised by Mr Yunghanns and the potential derivative action claims that Merim wishes to investigate by explaining the circumstances surrounding a number of those matters.",
+      "id": "s291"
+    },
+    {
+      "text": "For example, Mr Ritchie explained the circumstances relating to the acquisition of a leasehold interest in the Wanzai bamboo plantation.",
+      "id": "s292"
+    },
+    {
+      "text": "But he does not explain the disposition of the funds raised by the convertible note issue, nor does he seek to reconcile the figures referred to by Mr Yunghanns in his email to Mr Stephen Roux on 4 July 2008.",
+      "id": "s293"
+    },
+    {
+      "text": "In the present circumstances, having regard to Style's failure to respond to the matters raised by Mr Yunghanns in correspondence, given the sudden decline of the company's financial position and the decision taken not to report on revenue, EBITDA or forecasts in June 2008 in the same manner as reports produced in earlier quarters of the 2008 financial year, I consider that Merim should be entitled to inspect the books of Style which bear upon the matters which cause it concern.",
+      "id": "s294"
+    },
+    {
+      "text": "I am satisfied that in seeking such inspection Merim is acting in good faith and that the inspection is to be made for a proper purpose.",
+      "id": "s295"
+    },
+    {
+      "text": "The fact that Merim and Mr Yunghanns have sought to convene a general meeting of members of Style does not detract from the primary or dominant purpose Merim has given for inspecting Style's books.",
+      "id": "s296"
+    },
+    {
+      "text": "It merely indicates the level of dissatisfaction Mr Yunghanns has with the way in which Style has been managed in recent months.",
+      "id": "s297"
+    },
+    {
+      "text": "SCOPE OF ORDER FOR INSPECTION \n In granting an order for inspection under s 247A it is not appropriate to allow a wholesale and general inspection of Style's books.",
+      "id": "s298"
+    },
+    {
+      "text": "This would cause unnecessary disruption to the company.",
+      "id": "s299"
+    },
+    {
+      "text": "In any event the books to be inspected should be books that bear on, and be particularly relevant to, the purpose for which the inspection is sought.",
+      "id": "s300"
+    },
+    {
+      "text": "Merim has sought inspection of specific categories.",
+      "id": "s301"
+    },
+    {
+      "text": "In its application filed on 25 August 2008, Merim specified in a schedule thirteen categories of documents it sought to inspect.",
+      "id": "s302"
+    },
+    {
+      "text": "In the course of argument I indicated to counsel for Merim that I considered some of the categories of documents sought by Merim for inspection were widely expressed and some categories were not relevant to the purpose for which the inspection was sought.",
+      "id": "s303"
+    },
+    {
+      "text": "As a result, counsel for Merim amended and redrafted the schedule of documents in respect of which inspection was sought.",
+      "id": "s304"
+    },
+    {
+      "text": "The amended schedule of documents sought was in the following terms: All documents, supporting accounts, profit forecasts that support the announcements by Style to the Australian Stock Exchange on 24 September 2007, 31 October 2007, 31 January 2008, 29 February 2008 and 30 April 2008.",
+      "id": "s305"
+    },
+    {
+      "text": "All documents relating to any comparison of variations of actual financial performance against projection for each of the four quarters of financial year 2008.",
+      "id": "s306"
+    },
+    {
+      "text": "All documents including projections, cash flows, contracts or other agreements and advice received in relation to the acquisition of the leasehold of the Wanzai plantation.",
+      "id": "s307"
+    },
+    {
+      "text": "All documents relating to the increase in banking facilities held by Style in FY07 and FY08.",
+      "id": "s308"
+    },
+    {
+      "text": "All documents including all budgets, projections and other information or instructions provided by Style to Bell Potter Securities Limited regarding the convertible note issue announced to the Australian Stock Exchange on 4 July 2007.",
+      "id": "s309"
+    },
+    {
+      "text": "All documents relating to any underwriting agreement or possible underwriting agreement which may have been discussed between Style and the potential underwriters of options issued by Style.",
+      "id": "s310"
+    },
+    {
+      "text": "All documents relating to proceedings for recovery of a debt of $65,000 referred to in note 24 to the financial statements for the FY07 year and the subsequent settlement by payment by Style of $675,000 to the franchisees and which settlement was disclosed in the announcement by Style to the Australian Stock Exchange on 30 April 2008 [should be 21 July 2008].",
+      "id": "s311"
+    },
+    {
+      "text": "All documents relating to the private equity enquiry referred to in the market update released by Style on 24 September 2007.",
+      "id": "s312"
+    },
+    {
+      "text": "All documents created by Style between 30 June 2007 and the present including any cashflow forecasts, budgets and directors' considerations relating to the solvency of Style for the year ending 30 June 2009.",
+      "id": "s313"
+    },
+    {
+      "text": "All documents that support the announcement to the Australian Stock Exchange on 23 November 2007 that Style expects that the acquisition of the Wanzai plantation will result in a 30% improvement in total cost of goods.",
+      "id": "s314"
+    },
+    {
+      "text": "All policies of insurance and policy schedules relating to any directors and officers insurance entered into by Style for the benefit of its directors and officers.",
+      "id": "s315"
+    },
+    {
+      "text": "All documents in relation to the extension of the distribution agreement between Style and its \"Major North American Distributor\" (Buckwold Western).",
+      "id": "s316"
+    },
+    {
+      "text": "All documents in relation to the issue of additional securities in the company without a prospectus announced on 8 September 2008.",
+      "id": "s317"
+    },
+    {
+      "text": "All documents relating to the acquisition of the remaining 50% shareholding in Anji Ya Feng Bamboo Products Limited.",
+      "id": "s318"
+    },
+    {
+      "text": "All documents relating to the acquisition, installation and commissioning of the plant and equipment at the finishing factory in China in the course of the year ending 30 June 2008.",
+      "id": "s319"
+    },
+    {
+      "text": "All documents relating to the proposed sale and lease-back of that finishing factory.",
+      "id": "s320"
+    },
+    {
+      "text": "All documents relating to the recently announced commitment by each of Greg Johnson and Fairmount Investments Pty Ltd to exercise options held in the company by 31 January 2009.",
+      "id": "s321"
+    },
+    {
+      "text": "INSPECTION OF DOCUMENTS RELATING TO DIRECTORS AND OFFICERS INSURANCE POLICIES \n The definition of \"books\" in the Act is found in s 9 which provides that books include: \n \"(a) a register; and \n\n \n (b) any other record of information; and \n\n \n (c) financial reports or financial records, however compiled, recorded or stored; and \n\n \n (d) a document; \n ...\" \n\n \nFor present purposes I accept that \"books\" in s 247A includes any directors and officers insurance policies held by a company.",
+      "id": "s322"
+    },
+    {
+      "text": "The parties were unable to refer me to any cases which had considered whether orders should be made which allowed for the inspection of directors and officers insurance policies held by a company pursuant to s 247A.",
+      "id": "s323"
+    },
+    {
+      "text": "Merim submitted the position for a shareholder, who is granted inspection of the books of a company pursuant to s 247A for the purpose of considering whether proceedings should be commenced in the name of the company against its directors is analogous to that of a liquidator examining the affairs of a company to determine whether litigation on behalf of the company should be pursued.",
+      "id": "s324"
+    },
+    {
+      "text": "I do not consider that there is an exact analogy between the position of a shareholder and the position of a liquidator in these circumstances.",
+      "id": "s325"
+    },
+    {
+      "text": "The liquidator is given specific functions and powers by statute and has a status quite independent of any other interest in the company.",
+      "id": "s326"
+    },
+    {
+      "text": "This status was emphasised by the Full Federal Court in Grosvenor Hill (Queensland) Pty Ltd v Barber [1994] FCA 921 ; (1994) 48 FCR 301.",
+      "id": "s327"
+    },
+    {
+      "text": "The Full Court said at 306: \n \"A liquidator, when engaged in litigation on behalf of a company which is being wound up, or when contemplating instituting such litigation, is not in the same position as an ordinary litigant.",
+      "id": "s328"
+    },
+    {
+      "text": "The liquidator comes to the company as an officer of the court under a duty and responsibility to get in and maximise the assets of the company for distribution for the benefit of creditors.",
+      "id": "s329"
+    },
+    {
+      "text": "In the discharge of his or her duty and function, the liquidator comes to the company with limited or no knowledge of the company's assets, business and affairs.",
+      "id": "s330"
+    },
+    {
+      "text": "The liquidator is therefore in a position of disadvantage to make informed decisions of both a legal and a commercial nature necessary to carry out the winding up.",
+      "id": "s331"
+    },
+    {
+      "text": "The legislature has recognised this position of disadvantage and addressed the problem by the enacting of s 596B of the Law and its predecessors.",
+      "id": "s332"
+    },
+    {
+      "text": "The effect of the legislation is to place a liquidator in a privileged position to obtain information relevant to and necessary for the proper discharge of his or her statutory function.",
+      "id": "s333"
+    },
+    {
+      "text": "The seeking of information to make decisions as to whether or not litigation ought to be embarked upon or continued in itself is no more than 'an exercise of his duties and the fulfilment of his responsibilities as liquidator' (per Bryson J in Lombard Nash International Pty Ltd v Berentsen (1990) 8 ACLC 1213 at 1217).",
+      "id": "s334"
+    },
+    {
+      "text": "\" \n\n The Full Court also noted that in Re Spedley Securities Ltd (In Liq); Ex parte Potts (1990) 8 ACLC 673 , Young J recognised that the statutory power in s 596B of the Corporations Law (also s 596B of the Act) in relation to an examination of a person about \"examinable affairs\" of a corporation was not limited to ordering an examination to obtain evidence to prove a claim but also getting evidence to determine the prospects of success.",
+      "id": "s335"
+    },
+    {
+      "text": "As was pointed out in the cases to which I have earlier referred (par [67] above) the rationale underlying s 247A, insofar as the purpose is to inspect documents in order to consider possible legal proceedings against directors is to enable a shareholder who has identified an appropriate \"case for investigation\" to determine whether that case has any substance or prospects.",
+      "id": "s336"
+    },
+    {
+      "text": "In Gerah Imports Pty Ltd v Duke Group Ltd (In Liq) [1993] SASC 4359 ; (1993) 61 SASR 557 , the Full Court of the Supreme Court of South Australia permitted a liquidator to seek information as to the nature and extent of the professional indemnity insurance cover held by professional advisors to the company in liquidation to determine the likely possibility of recovering any judgment obtained against them having regard to the cost likely to be generated by liquidation.",
+      "id": "s337"
+    },
+    {
+      "text": "Merim did not seek to rely, by analogy on O15A r 6 of the Federal Court Rules which enable an order to be made for preliminary discovery.",
+      "id": "s338"
+    },
+    {
+      "text": "Merim accepted that the Court, under O 15A r 6, is required to determine whether an applicant has reasonable cause to believe that it may have a cause of action against another person, and whether the applicant has insufficient information to enable the decision to be made.",
+      "id": "s339"
+    },
+    {
+      "text": "Merim acknowledged that access to insurance policies are usually denied under this Rule (unless relevant to investigating the identity of potential parties to an action).",
+      "id": "s340"
+    },
+    {
+      "text": "Style contended that there was no analogy between the issues in this proceeding and the situation of a liquidator investigating whether to institute proceedings against directors of the company.",
+      "id": "s341"
+    },
+    {
+      "text": "Style emphasised the unique situation of a liquidator compared to that of an ordinary litigant, Hamilton v Oades [1989] HCA 21 ; (1989) 166 CLR 486 , 497.",
+      "id": "s342"
+    },
+    {
+      "text": "According to Style, the 'real' purpose of s 247A is to enable a shareholder who has identified a case suspected as requiring investigation to the requisite degree to obtain access to documents of the company to determine whether the case has substance; it is not to enable a shareholder to inspect all the documents of the company that the shareholder may wish to see to determine whether a derivative action would result in the company ultimately recovering substantial funds from directors if a case against them is proved.",
+      "id": "s343"
+    },
+    {
+      "text": "The situation facing Merim is quite different from the situation facing a liquidator in the cases where a liquidator has sought production of directors and officers insurance policies.",
+      "id": "s344"
+    },
+    {
+      "text": "In those cases the liquidator did not know whether any such policies were held by the relevant companies or persons against whom proceedings were being contemplated.",
+      "id": "s345"
+    },
+    {
+      "text": "In this case Merim knows that Style holds, or at least has held, directors and officers insurance.",
+      "id": "s346"
+    },
+    {
+      "text": "So much is stated on page 22 of Style's Annual Financial Report for the year ended 30 June 2007 in the Directors' Report under the heading \"Indemnifying Officers or Auditor\" in the following terms: \n \" Indemnifying Officers or Auditor \n During or since the end of the financial year the company has given an indemnity or entered an agreement to indemnify, or paid or agreed to pay insurance premiums as follows: \n\n \n The company has procured Directors &amp; Officers insurance to insure each of the following directors against liabilities for costs and expenses incurred by them in defending any legal proceedings arising out of their conduct while acting in the capacity of director of the company, other than conduct involving a wilful breach of duty in relation to the company.",
+      "id": "s347"
+    },
+    {
+      "text": "The amount of the premium is estimated to be $12,636.",
+      "id": "s348"
+    },
+    {
+      "text": "Gregory Johnson \n Sean McDaniell \n Murray Freeman \n Stephen Roux\" \n\n \nIt is not unreasonable to assume that Style has continued to procure that insurance during periods subsequent to 30 June 2007.",
+      "id": "s349"
+    },
+    {
+      "text": "Merim therefore knows of the existence of a policy of insurance and the amount of the premium estimated by Style to be payable under it.",
+      "id": "s350"
+    },
+    {
+      "text": "That was the position as at 30 June 2007.",
+      "id": "s351"
+    },
+    {
+      "text": "What Merim does not know, however, is the extent of the cover granted under that policy and whether it is current.",
+      "id": "s352"
+    },
+    {
+      "text": "I therefore consider that it is appropriate, as a matter of exercise of discretion to order that Style produce for inspection any directors and officers insurance policies currently held by Style.",
+      "id": "s353"
+    },
+    {
+      "text": "The cover granted under any such policies will be relevant to the decision to be made by Merim, after inspection of the other documents in respect of which I propose to make an order, whether to apply for leave under s 237 of the Act to bring a proceeding on behalf of Style in its name against any directors or officers of Style.",
+      "id": "s354"
+    },
+    {
+      "text": "SHOULD A CONFIDENTIALITY REGIME BE PUT IN PLACE FOR THE INSPECTION \n Counsel for Style submitted that, if I was minded to make an order under s 247A, that Mr Yunghanns, in addition to Senior Counsel and an instructing solicitor for Merim (\"the Nominated Individuals\"), be permitted to inspect the relevant documents they should be required to sign undertakings in relation to their inspection of the documents and adhere to a confidentiality regime proposed by Style.",
+      "id": "s355"
+    },
+    {
+      "text": "Senior Counsel for Merim also requested that an accountant for Merim be added to the list of persons to inspect the relevant documents.",
+      "id": "s356"
+    },
+    {
+      "text": "In short, the Regime proposed by Style requires that documents are to be inspected at the premises of the solicitors for Style, and a copy of the documents may be made, but that the Nominated Individuals must not disclose the contents of the documents to any person other than another Nominated Individual, and may not make or permit to be made further copies of the relevant documents.",
+      "id": "s357"
+    },
+    {
+      "text": "The Nominated Individuals must maintain the confidential nature of the relevant documents, safeguard the documents from unauthorised access, and return the copy documents to Style's solicitors if no application is made to the Court by Merim for leave under s 237 of the Act within 60 days of the completion of the inspection of the relevant documents.",
+      "id": "s358"
+    },
+    {
+      "text": "I do not consider that it is necessary for a specific confidentiality regime to be imposed in relation to the order for inspection I propose to make.",
+      "id": "s359"
+    },
+    {
+      "text": "Section 247C(1) provides that a person who inspects books on behalf of an applicant under s 247A \"must not disclose information obtained during the inspection\" other than to the Australian Securities and Investments Commission or the applicant for the order.",
+      "id": "s360"
+    },
+    {
+      "text": "In my view that is an appropriate and sufficient protection for Style in relation to the confidentiality of its documents.",
+      "id": "s361"
+    },
+    {
+      "text": "It does not, for example, allow the persons carrying out the inspection to disclose such information in the course of any later proceedings which may be brought.",
+      "id": "s362"
+    },
+    {
+      "text": "To the extent to which an applicant would wish to tender in evidence any of those documents, it would need to obtain access to them by way of discovery or notice to produce.",
+      "id": "s363"
+    },
+    {
+      "text": "CONCLUSION \n I have taken into account the submissions made on behalf of Merim and Style in relation to the categories of documents in respect of which inspection has been sought.",
+      "id": "s364"
+    },
+    {
+      "text": "I have accordingly limited the order for the inspection to those categories of documents which bear upon and relate to the particular concerns raised by Mr Yunghanns in his affidavits and the correspondence into which he entered with the various officers and persons associated with Style which establish a case for investigation.",
+      "id": "s365"
+    },
+    {
+      "text": "I have excluded from the order a number of the categories of documents in respect of which inspection has been sought by Merim as I am not satisfied that Merim has established a sufficient case for investigation of the subject-matter to which those categories of documents relate.",
+      "id": "s366"
+    },
+    {
+      "text": "I am prepared to make an order permitting Mr Yunghanns, Merim's legal adviser and accountant nominated by Merim to inspect the documents set out in the schedule to the order for the purpose of considering whether proceedings should be brought in the name of Style against Style, or directors or employees of Style, and that those persons are not to communicate or disclose information they obtain as a result of the inspection to any persons other than the legal advisers to the plaintiff or until further order.",
+      "id": "s367"
+    },
+    {
+      "text": "I will give the parties the opportunity to speak to the form of the order and I will reserve liberty to apply.",
+      "id": "s368"
+    },
+    {
+      "text": "Style has been unsuccessful in its opposition to Merim's application and it should pay Merim's costs and incidental to the application.",
+      "id": "s369"
+    },
+    {
+      "text": "I certify that the preceding eight-eight (88) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Goldberg.",
+      "id": "s370"
+    },
+    {
+      "text": "Associate:\n \n \nDated: 2 April 2009\n \n Counsel for the Plaintiff: FGA Beaumont QC and P Corbett \n \n Solicitors for the Plaintiff: DLA Phillips Fox \n \n Counsel for the Defendant: P Wallis \n \n Solicitor for the Defendant: Freehills \n Date of Hearing: 15 October 2008 \n \n Date of Final Submissions: 17 October 2008 \n \n Date of Judgment: 2 April 2009 \n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2009/314.html",
+      "id": "s371"
+    }
+  ]
+}

@@ -1,0 +1,1312 @@
+{
+  "name": "Field v St George Bank Limited [2009] FCA 1042 (17 September 2009)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2009/1042.html",
+  "catchphrases": [
+    {
+      "text": "creditor's petition",
+      "id": "c0"
+    },
+    {
+      "text": "sequestration order",
+      "id": "c1"
+    },
+    {
+      "text": "whether \"other sufficient cause\" so that a sequestration order ought not to be made within the meaning of s 52(2)(b) of the bankruptcy act 1966 (cth)",
+      "id": "c2"
+    },
+    {
+      "text": "whether pending litigation against the creditor \"other sufficient cause\"",
+      "id": "c3"
+    },
+    {
+      "text": "bankruptcy",
+      "id": "c4"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "BACKGROUND TO THE APPEAL \n This is an appeal against orders of the Federal Magistrates Court of 10 June 2009 making a sequestration order against the estate of the appellant, Archer Phillip Field.",
+      "id": "s0"
+    },
+    {
+      "text": "The issue is whether the Federal Magistrate erred in not being satisfied that that there was \"other sufficient cause\" so that a sequestration order ought not to be made within the meaning of s 52(2)(b) of the Bankruptcy Act 1966 (Cth).",
+      "id": "s1"
+    },
+    {
+      "text": "The opening paragraph of the reasons for decision of the Federal Magistrates Court ( St George Bank Limited v Field [2009] FMCA 519) discloses the nature of the hearing before the Federal Magistrate: \n \n [ 1 ] In this petition, the Bank relies upon a debt against Mr Field for $6,800,632.72 under a judgment of the Supreme Court of NSW made on 8 August 2007.",
+      "id": "s2"
+    },
+    {
+      "text": "Mr Field does not challenge his indebtedness, nor an act of bankruptcy arising upon non-compliance with a bankruptcy notice which was served on 26 November 2007.",
+      "id": "s3"
+    },
+    {
+      "text": "He concedes that the Bank has established a prima facie entitlement to the making of a sequestration order.",
+      "id": "s4"
+    },
+    {
+      "text": "However, he invites the Court to exercise its discretion to decline to do this on the ground that it may be satisfied \"that for other sufficient cause a sequestration order ought not to be made\" within s.52(2)(b) of the Bankruptcy Act 1966 (Cth).",
+      "id": "s5"
+    },
+    {
+      "text": "This is because he has commenced Federal Court and Supreme Court proceedings claiming damages and other relief against the Bank and other parties, which, if successful, will enable him to pay the Bank or avoid his liability to it.",
+      "id": "s6"
+    },
+    {
+      "text": "He submits that, if the Court is not satisfied that the litigation has sufficient prospects of success, he at least has real claims which would justify a lengthy adjournment of the petition until their prospects become clearer.",
+      "id": "s7"
+    },
+    {
+      "text": "Mr Field does not dispute the accuracy of this description.",
+      "id": "s8"
+    },
+    {
+      "text": "Nor does he contest certain primary facts on which the respondent, St George Bank Limited ( St George ), relied.",
+      "id": "s9"
+    },
+    {
+      "text": "Hence, it was common ground that Mr Field was the sole director of Jenolan Caves Resort Pty Ltd ( JCR ).",
+      "id": "s10"
+    },
+    {
+      "text": "JCR's main business related to the revival of the Jenolan Caves Guest House as a tourist location.",
+      "id": "s11"
+    },
+    {
+      "text": "JCR had the benefit of a lease from the Jenolan Caves Reserve Trust ( the Trust ), an instrumentality of the New South Wales government.",
+      "id": "s12"
+    },
+    {
+      "text": "On 8 May 1997 Mr Field gave a guarantee to St George for all moneys owing by JCR to St George including a one year facility of $5.88 million advanced by St George in May 2004.",
+      "id": "s13"
+    },
+    {
+      "text": "The terms of the guarantee describe it as unconditional and irrevocable, requiring payment on demand.",
+      "id": "s14"
+    },
+    {
+      "text": "Mr Field must not delay payment for any reason, with payment to be made in full without any deduction.",
+      "id": "s15"
+    },
+    {
+      "text": "The guarantee includes a waiver by Mr Field of \"all rights of set off, combination or counterclaim in relation to payment\" of the guaranteed moneys (cll 3.1 and 3.2).",
+      "id": "s16"
+    },
+    {
+      "text": "The guarantee also provides that Mr Field's obligations and liabilities are not affected by such matters as laches, acquiescence, delay, acts or omissions by St George or another person (cl 5.2.1).",
+      "id": "s17"
+    },
+    {
+      "text": "JCR's operations reached a financial crisis point in 2005.",
+      "id": "s18"
+    },
+    {
+      "text": "On 9 December 2005 St George appointed managers and receivers to JCR.",
+      "id": "s19"
+    },
+    {
+      "text": "The receivers purported to transfer the lease and assets of JCR to the Trust pursuant to a deed dated 30 June 2006 ( the Jenolan Deed ).",
+      "id": "s20"
+    },
+    {
+      "text": "In the interim, St George had made a demand under the guarantee on 8 June 2006, after it determined that recovery from JCR would be insufficient to satisfy the debt.",
+      "id": "s21"
+    },
+    {
+      "text": "These events culminated in a judgment of the Supreme Court against Mr Field on 8 August 2007 for the sum of $6,800,632.72 ( St George Bank Limited v Archer Phillip Field [2007] NSWSC 902).",
+      "id": "s22"
+    },
+    {
+      "text": "On 26 November 2007 a bankruptcy notice was served on Mr Field.",
+      "id": "s23"
+    },
+    {
+      "text": "On 13 December 2007, Mr Field filed an application in the Federal Magistrate's Court to set aside the bankruptcy notice.",
+      "id": "s24"
+    },
+    {
+      "text": "However, an acknowledged act of bankruptcy occurred on 13 May 2008, when Mr Field consented to orders in the Federal Magistrates Court dismissing his application to set aside a bankruptcy notice served on him on 26 November 2007.",
+      "id": "s25"
+    },
+    {
+      "text": "Mr Field remains indebted to St George under the guarantee in the sum of $6,800,632.72.",
+      "id": "s26"
+    },
+    {
+      "text": "On 5 November 2008 St George filed a creditor's petition in the Federal Magistrates Court seeking a sequestration order under s 43 of the Bankruptcy Act against Mr Field's estate.",
+      "id": "s27"
+    },
+    {
+      "text": "Mr Field filed a notice opposing the grant of the petition on 31 March 2009.",
+      "id": "s28"
+    },
+    {
+      "text": "The Federal Magistrates Court granted the creditor's petition and dismissed Mr Field's notice of opposition in its decision published on 10 June 2009.",
+      "id": "s29"
+    },
+    {
+      "text": "Mr Field filed a notice of an appeal in this Court against the decision of the Federal Magistrates Court on 17 June 2009.",
+      "id": "s30"
+    },
+    {
+      "text": "By his notice of appeal Mr Field contends that the Federal Magistrates Court erred in failing to dismiss or adjourn the creditor's petition until resolution of another proceeding, being proceeding no.",
+      "id": "s31"
+    },
+    {
+      "text": "NSD9/2009 in this Court ( the Federal Court proceeding ).",
+      "id": "s32"
+    },
+    {
+      "text": "The notice of appeal puts this contention of error in various ways.",
+      "id": "s33"
+    },
+    {
+      "text": "(1) Grounds 1 to 5, 8 to 11, 14 and 15 relate to the way in which the Federal Magistrates Court dealt with the substantive and procedural aspects of the Federal Court proceeding.",
+      "id": "s34"
+    },
+    {
+      "text": "(2) Grounds 7, 12 and 13 relate to the way in which the Federal Magistrates Court dealt with aspects of proceedings no.",
+      "id": "s35"
+    },
+    {
+      "text": "50053/2007 in the Supreme Court of New South Wales ( the Supreme Court proceedings ), that is the proceedings which resulted in the judgment against Mr Field of 8 August 2007, referred to at [6] above.",
+      "id": "s36"
+    },
+    {
+      "text": "(3) Ground 16 relates to the Federal Magistrates Court's conclusions about the immateriality of the Jenolan Deed.",
+      "id": "s37"
+    },
+    {
+      "text": "(4) Ground 6 alleges an error by the Federal Magistrates Court in refusing to admit into evidence the appellant's affidavit sworn 20 May 2009.",
+      "id": "s38"
+    },
+    {
+      "text": "(5) Ground 17 alleges an error by the Federal Magistrates Court in placing weight on evidence described as \"self serving assertions and conclusions of the receivers and managers of [JCR]\".",
+      "id": "s39"
+    },
+    {
+      "text": "REASONS OF THE FEDERAL MAGISTRATES COURT \n As noted, the Federal Magistrates Court correctly said (at [1]) that the issue in dispute was limited to the question whether it was satisfied \"that for other sufficient cause a sequestration order ought not to be made\" as referred to in s 52(2)(b) of the Bankruptcy Act .",
+      "id": "s40"
+    },
+    {
+      "text": "In other words, Mr Field accepted (and continues to accept) that St George had proved each of the matters required by s 52(1) and thus established a prima facie entitlement to the sequestration order (being, the matters stated in the petition, service of the petition and the fact that the debt or debts on which the petitioning creditor relies is or are still owing).",
+      "id": "s41"
+    },
+    {
+      "text": "The Federal Magistrates Court summarised the background to the pending litigation in [2]-[20].",
+      "id": "s42"
+    },
+    {
+      "text": "In addition to the brief factual summary set out in these reasons for judgment at [4]-[6] above, the Federal Magistrate's summary referred to: \n(1) The judgment of McDougall J of 8 August 2007 in the Supreme Court proceedings ( St George Bank v Archer Phillip Field [2007] NSWSC 902) against Mr Field determining his indebtedness under the guarantee in the sum of $6,800,632.72.",
+      "id": "s43"
+    },
+    {
+      "text": "The Federal Magistrates Court, at [10], noted that McDougall J:\n \n \n ...referred to provisions in the guarantee in which Mr Field waived \"all rights of set-off, combination or counterclaim in relation to payment of Guaranteed Money\" , and which denied Mr Field rights to rely upon various defences.",
+      "id": "s44"
+    },
+    {
+      "text": "He cited judgments in which courts give such clauses their full effect, at least where there is no challenge to the making of the guarantee.",
+      "id": "s45"
+    },
+    {
+      "text": "He noted at [18] of his judgment that none of Mr Field's contentions asserted that \"the taking of the guarantee was itself affected by some vitiating circumstances\" , and that Mr Field only sought to attack the exercise of rights under it.",
+      "id": "s46"
+    },
+    {
+      "text": "He said: \"In my view that is the kind of exercise prohibited by the terms of the guarantee which terms, as I have said, are to be enforced according to their wording\" .",
+      "id": "s47"
+    },
+    {
+      "text": "He said that they also precluded claims for equitable waste in the exercise of mortgagee powers being relied upon by way of defence.",
+      "id": "s48"
+    },
+    {
+      "text": "However, he observed that \"the giving of judgment in favour of St George would not create any estoppel preventing Mr Field from raising any cross-claim that might be maintainable\".",
+      "id": "s49"
+    },
+    {
+      "text": "(2) The refusal of leave to appeal against McDougall J's decision by the New South Wales Court of Appeal on 1 May 2008 (at [11]) on the basis that:\n \n \n The judgment of McDougall J was clearly correct in concluding that the (second) commercial list response did not identify the nature of the dispute or the factual or legal bases of the ten issues raised.",
+      "id": "s50"
+    },
+    {
+      "text": "Furthermore, the matters raised by way of \"confession and avoidance\" in response to the bank's application for summary judgment did not establish a defence to the claim having regard to (1) the terms of the Guarantee and (2) the incapacity of the facts alleged to constitute legal or equitable defences to the claim.",
+      "id": "s51"
+    },
+    {
+      "text": "(3) Mr Field, on 13 May 2008, consenting to orders dismissing his application in the Federal Magistrates Court to set aside a bankruptcy notice by St George relying on the orders of McDougall J in the Supreme Court proceedings.",
+      "id": "s52"
+    },
+    {
+      "text": "(4) Mr Field, on 23 October 2008, filing a summons in the Supreme Court (proceedings 30126/2008) supported by a statement of claim dated 23 December 2008 ( the administrative law proceedings ) which the Federal Magistrates Court described in [13]-[14] as follows:\n \n \n [ 13 ]...It joins JCR, the Bank, and the Crown in the right of NSW as defendants.",
+      "id": "s53"
+    },
+    {
+      "text": "Relief is sought by way of declarations that the Jenolan Deed \"was invalid, null and void \" due to an invalid appointment of the person who executed it on behalf of the Trust.",
+      "id": "s54"
+    },
+    {
+      "text": "It seeks consequential orders for accounts and \"re-transfer\" to JCR of \"the leasehold interest the subject\" of the registered transfer.",
+      "id": "s55"
+    },
+    {
+      "text": "I note that it does not clearly address Mr Field's locus standi to seek this relief, and the effect of JCR being under liquidation.",
+      "id": "s56"
+    },
+    {
+      "text": "I also note that it does not attempt to litigate whether an agency of NSW was or is liable in damages to JCR or to Mr Field for the previously alleged defaults by the Trust in relation to the provision of services and amenities to the hotel.",
+      "id": "s57"
+    },
+    {
+      "text": "[ 14 ] It was conceded before me, that the Supreme Court matter cannot proceed in relation to JCR without leave, since it is in liquidation, and leave has not yet been sought.",
+      "id": "s58"
+    },
+    {
+      "text": "There is no evidence before me as to the defences which have been or are expected to be filed by the defendants, and the proceedings appear at present to be awaiting directions as to their future case management.",
+      "id": "s59"
+    },
+    {
+      "text": "The statement of claim requests an order for expedition of the hearing, but there is no evidence that this has been pressed by Mr Field, nor granted by the Supreme Court.",
+      "id": "s60"
+    },
+    {
+      "text": "(5) Mr Field, on 7 January 2009, commencing the Federal Court proceeding, which the Federal Magistrates Court described in [15]-[16] as follows:\n \n \n [ 15 ] ...The respondents are the Bank and the former receivers of JCR.",
+      "id": "s61"
+    },
+    {
+      "text": "The pleading recites the asserted invalid appointment of the Trust administrator in 2004, and some of the events of 2005 and 2006.",
+      "id": "s62"
+    },
+    {
+      "text": "It claims that the Bank is liable to Mr Field for relief under the Trade Practices Act and other legislation, for its failure to \"use its influence and connections with the New South Wales government to facilitate a resolution of\" a deadlock in JCR's negotiations with the government, and for the subsequent appointment of the receivers and their sale of JCR's assets at an undervalue.",
+      "id": "s63"
+    },
+    {
+      "text": "It seeks a declaration discharging Mr Field from his obligations under the guarantee, without clearly revealing an answer to the points made by McDougall J as to the effect of the waiver provisions in a context where no challenge is made to its making.",
+      "id": "s64"
+    },
+    {
+      "text": "It also seeks the same relief as is sought in the Supreme Court, setting aside the Jenolan Deed and the transfer, notwithstanding that it does not join any agency of NSW nor explain the duplication of claims, though this might appear oppressive to the Bank.",
+      "id": "s65"
+    },
+    {
+      "text": "It also seeks damages for Mr Field from the Bank and the Receivers, apparently for their conduct in relation to JCR during 2005 and 2006.",
+      "id": "s66"
+    },
+    {
+      "text": "[ 16 ] In effect, the Federal Court proceeding attempts better to present the facts and claims which were raised in the amended response before McDougall J.",
+      "id": "s67"
+    },
+    {
+      "text": "However, the legal foundations of the pleading remain obscure in many respects, and its prospects of surviving interlocutory examination unscathed are, in my opinion, not good.",
+      "id": "s68"
+    },
+    {
+      "text": "Although it also seeks to stay enforcement on the Bank's judgment against Mr Field, there is no evidence that this has been pressed by Mr Field by any urgent interlocutory application.",
+      "id": "s69"
+    },
+    {
+      "text": "On the evidence before me, this proceeding is also awaiting case management, and there is no evidence as to what defences or interlocutory applications have been filed, or are expected to be filed, by the respondents.",
+      "id": "s70"
+    },
+    {
+      "text": "(6) Mr Field's primary contention in the notice of opposition to the creditor's petition filed on 31 March 2009, namely, that (at 17]):\n \n \n The pendency of the other proceedings in the Supreme Court and Federal Court of Australia demonstrates a substantial bona fide dispute which could ultimately lead to the respondent debtor receiving a substantial award of damages or other relief against the applicant creditor.",
+      "id": "s71"
+    },
+    {
+      "text": "In those circumstances the petition should be dismissed or there should be a stay of proceedings until after the disposal of the other proceedings in the Federal Court of Australia and the Supreme Court of New South Wales.",
+      "id": "s72"
+    },
+    {
+      "text": "Following this review of the background to the creditor's petition and Mr Field's notice of opposition, the Federal Magistrates Court (at [21]-[23]) referred to the analysis of authorities by Allsop J in Totev v Sfar (2006) 230 ALR 236 ; [2006] FCA 470 at [37] - [44] as useful, particularly Allsop J's observation at [44] in these terms: \n \n ...what is clear is that the fact that there has been an act of bankruptcy does not make the claim by the debtor against the petitioning creditor irrelevant.",
+      "id": "s73"
+    },
+    {
+      "text": "It should be examined to assess whether it can be said that there is sufficient evidence to show that it is a real claim which is likely to succeed.",
+      "id": "s74"
+    },
+    {
+      "text": "Also relevant is the stage of the litigation, the length of time for its vindication and any other relevant matters.",
+      "id": "s75"
+    },
+    {
+      "text": "It goes without saying that solvency is a relevant consideration.",
+      "id": "s76"
+    },
+    {
+      "text": "In some circumstances, it may be difficult to assess the likelihood of success of the debtor's claim.",
+      "id": "s77"
+    },
+    {
+      "text": "All the authorities show that central to the showing of \"other sufficient cause\" for the purposes of s 52(2)(b) is the question of the prospects of success.",
+      "id": "s78"
+    },
+    {
+      "text": "The case is not tried in the bankruptcy court, but the material is examined for the purpose alluded to by Gibbs J in [ Re Schmidt; Ex parte Anglewood Pty Ltd (1968) 13 FLC 111].",
+      "id": "s79"
+    },
+    {
+      "text": "As Olney J identified in [ Re James; Ex parte Carter Holt Harvey Roofing (Australia) Pty Ltd (No 2) (1994) 51 FCR 14] , if a likelihood of success can be demonstrated, that may justify a refusal of a sequestration order.",
+      "id": "s80"
+    },
+    {
+      "text": "Alternatively, the circumstances may reveal a claim of a character and nature in which likelihood of success cannot be predicted with accuracy but in the circumstances the petition should be dismissed or an adjournment of the petition should granted: see the approach of Sundberg J in Ling v Commonwealth [1996] FCA 1646 ; (1996) 68 FCR 180 at 195---196, with which Wilcox J and Whitlam J agreed.",
+      "id": "s81"
+    },
+    {
+      "text": "If the claim is one in which credit of witnesses will be involved, and a debtor sets out the nature and detail of the case and all his or her evidence the debtor may only be able to persuade the bankruptcy court that, if relevant criteria are believed, he or she has good prospects of success.",
+      "id": "s82"
+    },
+    {
+      "text": "What should be proved, or what is sufficient to be proved, in any given case will depend upon the circumstances.",
+      "id": "s83"
+    },
+    {
+      "text": "The context in which the issue arises is also important.",
+      "id": "s84"
+    },
+    {
+      "text": "The discretion involved in s 52(2)(b) is a broad one, and, importantly, it is informed by public interest considerations concerned with the dealing with insolvents.",
+      "id": "s85"
+    },
+    {
+      "text": "The Federal Magistrates Court then reasoned as follows: \n(1) Various considerations meant that neither the Federal Court proceeding nor the administrative law proceedings could be characterised as \"'likely to succeed', or even as 'a real claim'\" (at [24]).",
+      "id": "s86"
+    },
+    {
+      "text": "(2) Both proceedings were \"far from 'well advanced'\".",
+      "id": "s87"
+    },
+    {
+      "text": "This caused the Federal Magistrate to comment that \"[c]ertainly, there is little present prospect that either of these very complex claims could be litigated to a successful completion within the life of this petition, which is due to expire on 7 November 2009\".",
+      "id": "s88"
+    },
+    {
+      "text": "Accordingly, his Honour could \"see little prospect that additional merit in the claims will emerge before that date to justify further adjournment under an extension of the petition under s 52(5) \".",
+      "id": "s89"
+    },
+    {
+      "text": "Further, his Honour noted that \"[t]he present pleadings present obvious deficiencies, and will need to be cleaned up and properly particularised, even if an opportunity to improve them survives interlocutory challenges.",
+      "id": "s90"
+    },
+    {
+      "text": "Mr Field's delay in bringing both sets of litigation until the brink of bankruptcy, and his failure to press for any stays, expedition or other interim orders which recognise the urgency of his predicament, leaves me doubtful of his capacity to achieve any improvement in his prospects of success within the lifetime of the petition, even if it is extended under s 52(5) \" (at [25]).",
+      "id": "s91"
+    },
+    {
+      "text": "(3) His Honour also was \"not persuaded that this could be achieved by Mr Field gaining a preliminary hearing in one of the courts on the issue of the validity of the execution of the Jenolan Deed on behalf of the Trust\".",
+      "id": "s92"
+    },
+    {
+      "text": "His Honour observed that \"there is no evidence that any application for a separate trial of this issue has been made, nor that it is likely to be granted.",
+      "id": "s93"
+    },
+    {
+      "text": "Moreover, even if such a ruling were achieved it would not, in my opinion, significantly advance Mr Field's prospects of achieving relief which off-sets his liability to the Bank.",
+      "id": "s94"
+    },
+    {
+      "text": "His claims for this relief face some major difficulties, and Mr Field's evidence and submissions have not explained to me reasonably arguable solutions\" (at [26]).",
+      "id": "s95"
+    },
+    {
+      "text": "His Honour described one of these difficulties in [27] in these terms:\n \n \n ...even if the Jenolan Deed was held to be void of legal effect, it is not apparent that this would allow the return to JCR of any valuable rights of a lessee under the 99 year lease.",
+      "id": "s96"
+    },
+    {
+      "text": "This is because they would appear to have expired by effluxion of time under cl 12.7.",
+      "id": "s97"
+    },
+    {
+      "text": "(4) His Honour referred in [28] to other difficulties facing Mr Field including:\n \n \n ...establishing standing to make claims which appear to be those of JCR only; in answering the contractual effects of the waiver provisions of the guarantee; in finding evidence of misleading or unconscionable conduct on the part of the Bank during 2005 and 2006; in explaining his delays in seeking equitable or other similar discretionary relief; and in winding back the legal effects of the liquidation of JCR.",
+      "id": "s98"
+    },
+    {
+      "text": "(5) His Honour described the \"clearest difficulty facing Mr Field\" on the material presented as the lack of any likely material advantage to JCR or Mr Field flowing from the relief sought sufficient to off-set the debt to St George (at [29]).",
+      "id": "s99"
+    },
+    {
+      "text": "His Honour, in [30], explained that the material he had in mind was the report dated 14 August 2006 from PPB chartered accountants, in their capacity as administrators of JCR.",
+      "id": "s100"
+    },
+    {
+      "text": "His Honour said:\n \n \n The evidence gives me no reason not to give weight to their opinions, particularly since their objectivity and competence to assess the value to JCR of litigation of the sort now contemplated by Mr Field was not challenged.",
+      "id": "s101"
+    },
+    {
+      "text": "It is clear that they closely considered the foundations of Mr Field's claims of very substantial loss arising from the making of the Jenolan Deed.",
+      "id": "s102"
+    },
+    {
+      "text": "In particular, they examined a valuation report of Messrs Magin and Roberts obtained in 2001 by JCR for financing purposes, upon which Mr Field largely pins his claim that the true value of the lease in 2006 exceeded $11m, rather than the total consideration of $2.350m which reached the receivers.",
+      "id": "s103"
+    },
+    {
+      "text": "The administrators pointed to substantial reasons for doubting the 2001 valuation, and its continuing weight.",
+      "id": "s104"
+    },
+    {
+      "text": "The relevant passages in their report are too lengthy for me to extract, but I find their analysis of the various valuations and the history of JCR and its receivership to be strongly persuasive.",
+      "id": "s105"
+    },
+    {
+      "text": "(6) Accordingly, his Honour concluded at [32]-[34] that:\n \n \n [ 32 ] In the face of the JCR administrators' analysis, and on all the evidence before me, I am not persuaded that Mr Field has established any real prospects of gaining an outcome in his current litigation which would exceed the value of the Bank's debt upon which the petition is based.",
+      "id": "s106"
+    },
+    {
+      "text": "Moreover, bringing into consideration the other difficulties facing this litigation, I am not persuaded that Mr Field has been able to raise a public interest in allowing the litigation to continue, which outweighs the public interest in allowing Mr Field's creditor to take his estate into bankruptcy administration.",
+      "id": "s107"
+    },
+    {
+      "text": "[ 33 ] In reaching this conclusion, I have taken into account Mr Field's genuine desire to litigate so as to vindicate his contentions about the failure of his business and the losses he has suffered.",
+      "id": "s108"
+    },
+    {
+      "text": "I am conscious that he contends that his incurring of the debt to the Bank occurred as a result of its conduct towards JCR during 2005 and 2006 which he is seeking to characterise as unlawful or improper.",
+      "id": "s109"
+    },
+    {
+      "text": "However, his pending litigation presents such a cloud of uncertainty as to its merits, value, and future progress, that I am unable to characterise it in the terms required under the authorities cited above, both in relation to dismissing a petition or adjourning it.",
+      "id": "s110"
+    },
+    {
+      "text": "I am left with an impression that the relevant public interests support, rather than otherwise, the vesting in a trustee in bankruptcy of a power to decide, in the interests of all creditors, the future continuance of that litigation.",
+      "id": "s111"
+    },
+    {
+      "text": "[ 34 ] I therefore am not persuaded by the ground of the notice of opposition, and consider that it is appropriate to proceed immediately to make a sequestration order.",
+      "id": "s112"
+    },
+    {
+      "text": "In a part of the reasons described as a \"postscript\" the Federal Magistrate made the following observations in [35]-[36]: \n \n [ 35 ] After completing the above judgment, my attention was drawn by the Bank's solicitor to the judgment of Barrett J given on 5 June 2009 in Field v Jenolan Caves Resort Pty Ltd [2009] NSWSC 491.",
+      "id": "s113"
+    },
+    {
+      "text": "His Honour dismissed Mr Field's Supreme Court Administrative Law List proceeding against the Bank, and also refused to grant Mr Field leave to proceed against JCR in that proceeding.",
+      "id": "s114"
+    },
+    {
+      "text": "At [28] he concluded that summary dismissal was appropriate: \n \n \n \n \n Because, first, the causes of action sought to be advanced by Mr Field's statement of claim are causes of action belonging exclusively to JCR and are in no sense available to Mr Field himself and, second, Mr Field has no authority or capacity to sue on behalf JCR, the statement of claim filed by Mr Field and by which he seeks declaratory and other relief must be regarded as disclosing no viable cause of action.",
+      "id": "s115"
+    },
+    {
+      "text": "The appropriate course is therefore the first for which St George contends, namely, that the Administrative Law List proceedings as a whole be dismissed as against St George.",
+      "id": "s116"
+    },
+    {
+      "text": "[ 36 ] The evidence before me made no mention of the interlocutory applications which were addressed by Barrett J, and their hearing on 26 May 2009 occurred subsequent to the hearing of the present petition.",
+      "id": "s117"
+    },
+    {
+      "text": "In my opinion, the orders and reasons of Barrett J support the opinions I have explained above as to the lack of prospects attending both the Supreme Court and Federal Court proceedings.",
+      "id": "s118"
+    },
+    {
+      "text": "PRINCIPLES \n As St George submitted, it is necessary to begin with an appreciation of the nature of an appeal from a decision of a Federal Magistrate under s 24(1)(d) of the Federal Court of Australia Act 1976 (Cth).",
+      "id": "s119"
+    },
+    {
+      "text": "In a case also involving an appeal from a sequestration order made by a Federal Magistrate, Qun Xiong (Kenny) Yu v Todaytech Distribution Pty Ltd (ACN 059 027 250) (2006) 4 ABC(N) 133; [2006] FCA 131 , Young J explained the nature of such an appeal in these terms at [30]-[32]: \n \n [ 30 ] Like appeals to the Full Court from a single judge of this Court, an appeal from a judgment of the Federal Magistrates Court is an appeal by way of re-hearing: see Abeyesinghe v Minister for Immigration and Multicultural and Indigenous Affairs [2004] FCA 1558 at [4] (\" Abeyesinghe \"); and Low v Commonwealth [2001] FCA 702 at [3] ; see also Minister for Immigration and Multicultural Affairs v Jia Legeng [2001] HCA 17 ; (2001) 205 CLR 507 at 533 [75] ; and Sydneywide Distributors Pty Ltd v Red Bull Australia Pty Ltd [2002] FCAFC 157 ; (2002) 55 IPR 354 at [50] ---[54].",
+      "id": "s120"
+    },
+    {
+      "text": "[ 31 ] The expression 'appeal by way of re-hearing' is used in contradistinction to the expressions 'appeal in a strict sense', and 'appeal by way of hearing de novo '.",
+      "id": "s121"
+    },
+    {
+      "text": "It is important to bear in mind what these expressions connote.",
+      "id": "s122"
+    },
+    {
+      "text": "In the case of an appeal in the strict sense, the function of the appellate court is to determine whether the decision in question was right or wrong on the evidence and the law as it stood when the decision below was given.",
+      "id": "s123"
+    },
+    {
+      "text": "Where an appellate tribunal can receive further evidence and its powers are not restricted to making the decision that should have been made at first instance, the appeal is usually described as an appeal by way of re-hearing.",
+      "id": "s124"
+    },
+    {
+      "text": "An appeal by way of hearing de novo is one in which the matter is heard afresh, and the decision is given on the evidence presented at the appellate hearing: see Coal and Allied Operations Pty Ltd v Australian Industrial Relations Commission [2000] HCA 47 ; (2000) 203 CLR 194 at 203 [12] - [13] (\" Coal and Allied Operations \").",
+      "id": "s125"
+    },
+    {
+      "text": "[ 32 ] In Coal and Allied Operations , at [14], the High Court said that statutory provisions conferring appellate powers, even in the case of an appeal by way of re-hearing, are construed on the basis that, unless there is something to indicate otherwise, the power is to be exercised for the correction of error.",
+      "id": "s126"
+    },
+    {
+      "text": "A similar observation was made by the Full Court of this Court in Branir Pty Ltd v Owston Nominees (No 2) Pty Ltd [2001] FCA 1833 ; (2001) 117 FCR 424 at [21] .",
+      "id": "s127"
+    },
+    {
+      "text": "Thus, it has been said that this Court's appellate powers are only exercisable if the appellant can demonstrate that the orders under appeal are the result of some legal, factual or discretionary error: see Abeyesinghe at [4].",
+      "id": "s128"
+    },
+    {
+      "text": "Further, and again as St George submitted, it is important to appreciate that it is not the case that the mere existence of a pending cross-claim against the petitioning creditor constitutes a \"sufficient cause\" not to make a sequestration order within the meaning of s 52(2)(b) of the Bankruptcy Act .",
+      "id": "s129"
+    },
+    {
+      "text": "As Sundberg J said in St George Bank Ltd v Helfenbaum [1999] FCA 1337 at [13] : \n \n The existence of a cross-claim may be a 'sufficient cause' within s 52(2)(b) for declining to make a sequestration order: Ling v Enrobook Pty Ltd (1997) 74 FCR 19 at 25.",
+      "id": "s130"
+    },
+    {
+      "text": "It is for the debtor to establish the existence of 'sufficient cause': Cain v Whyte [1933] HCA 6 ; (1933) 48 CLR 639 at 645-646; Ling at 24.",
+      "id": "s131"
+    },
+    {
+      "text": "He must establish that he has a real claim against the creditor that is likely to succeed.",
+      "id": "s132"
+    },
+    {
+      "text": "If the Court is satisfied that there is such a claim, and that its quantum is likely to equal or exceed the creditor's claim, it will not make a sequestration order.",
+      "id": "s133"
+    },
+    {
+      "text": "If the claim is likely to be less than the creditor's claim, the Court will require the debtor, if he is to avoid a sequestration order, to pay the difference between the judgment debt and the amount he is likely to recover on his claim.",
+      "id": "s134"
+    },
+    {
+      "text": "See Re Player (1962) 19 ABC 277 at 282; Re Schmidt; Ex parte Anglewood Pty Ltd (1968) 13 FLR 111 at 115---116; Ling at 25---26; Commonwealth Bank v McDonald ; [1999] FCA 984.",
+      "id": "s135"
+    },
+    {
+      "text": "A debtor does not establish a real claim that is likely to succeed merely by producing a statement of claim in an action against the creditor: Re Rivett; Ex parte Edward Fay Ltd (1932) 5 ABC 182 ; Player at 282, or by pointing to the existence of current litigation against the creditor: cf Re Douglas Griggs Engineering Ltd [1963] 1 Ch 19 at 23.",
+      "id": "s136"
+    },
+    {
+      "text": "While the Court does not try the cross-claim in advance, the debtor must adduce sufficient evidence to show that it is a real claim which is likely to succeed: cf Vogwell v Vogwell (1939) 11 ABC 83 at 88; Player at 282.",
+      "id": "s137"
+    },
+    {
+      "text": "Mr Field's grounds of appeal must be assessed having regard to these principles.",
+      "id": "s138"
+    },
+    {
+      "text": "THE FEDERAL COURT PROCEEDING \n As noted, grounds 1 to 5, 8 to 11, 14 and 15 relate to the way in which the Federal Magistrates Court dealt with the substantive and procedural aspects of the Federal Court proceeding.",
+      "id": "s139"
+    },
+    {
+      "text": "Mr Field's submissions\n Mr Field made detailed submissions in support of these grounds which can be summarised as follows.",
+      "id": "s140"
+    },
+    {
+      "text": "The Federal Court proceeding directly impugns and, if successful, would effect a discharge from and set aside the guarantee and, thereby, avoid the liability on which the creditor's petition is based.",
+      "id": "s141"
+    },
+    {
+      "text": "Further, if successful, the Federal Court proceeding would set up a case which would result in a very substantial award of damages to Mr Field.",
+      "id": "s142"
+    },
+    {
+      "text": "The claims in the Federal Court proceeding, Mr Field said, are based on issues of fact and law about \"which there can be no real dispute\".",
+      "id": "s143"
+    },
+    {
+      "text": "According to Mr Field, the Federal Magistrate both misconceived and gave no real or proper consideration to the Federal Court proceeding.",
+      "id": "s144"
+    },
+    {
+      "text": "The statement of claim is not \"obscure\" (at [16]).",
+      "id": "s145"
+    },
+    {
+      "text": "The conclusion that the statement of claim in the Federal Court proceeding did not have good prospects of \"surviving interlocutory examination unscathed\" (also at [16]) also is unfounded.",
+      "id": "s146"
+    },
+    {
+      "text": "Contrary to the Federal Magistrate's apparent assumption that Mr Field would have difficulties establishing standing, Mr Field did not need to be a party to a transaction to maintain a claim for damages for misleading and deceptive conduct under either the Trade Practices Act 1974 (Cth) or the Australian Securities and Investment Commission Act 2001 (Cth).",
+      "id": "s147"
+    },
+    {
+      "text": "Nor can waivers in a guarantee prevent such a claim from being maintained as a person cannot contract out of these statutory protections.",
+      "id": "s148"
+    },
+    {
+      "text": "In any event, difficulties that might arise in the resolution of a claim are an insufficient reason to prevent Mr Field from litigating the claim.",
+      "id": "s149"
+    },
+    {
+      "text": "Discussion\n Given the terms of the application commencing the Federal Court proceeding and the accompanying statement of claim I am satisfied that the Federal Magistrate's conclusions cannot be impugned.",
+      "id": "s150"
+    },
+    {
+      "text": "First, the statement of claim does not identify any fact, matter or circumstance in existence at the time of entry into the guarantee which would support a claim that the guarantee is vitiated by reason of some legal, equitable or statutory source of invalidity.",
+      "id": "s151"
+    },
+    {
+      "text": "Instead, the statement of claim records various events which occurred about eight years after the giving of the guarantee said to give rise to various causes of action.",
+      "id": "s152"
+    },
+    {
+      "text": "Second, the relationship between the subsequent events about which complaint is made and Mr Field's liability under the guarantee is obscure.",
+      "id": "s153"
+    },
+    {
+      "text": "The statement of claim does not disclose how the subsequent events are capable of leading to the relief claimed given the waivers in the guarantee.",
+      "id": "s154"
+    },
+    {
+      "text": "Third, and as the Federal Magistrate observed at [28] and St George noted in its submissions, JCR is not a party to the Federal Court proceeding.",
+      "id": "s155"
+    },
+    {
+      "text": "But many, possibly most, of the matters about which complaint is made in the statement of claim are complaints which only JCR can make in circumstances where Mr Field has no right or standing to make a claim on JCR's behalf.",
+      "id": "s156"
+    },
+    {
+      "text": "Mr Field sought to make good this difficulty by pointing to s 82 of the Trade Practices Act and s 12GF of the Australian Securities and Investments Commission Act that a person who has suffered loss or damage by reason of misleading and deceptive conduct need not be a party to the transaction.",
+      "id": "s157"
+    },
+    {
+      "text": "But this is at best an answer only in part (if at all) to the problems confronting the Federal Court proceeding.",
+      "id": "s158"
+    },
+    {
+      "text": "The Federal Court proceeding seeks to set aside the Jenolan Deed and the transfer of the lease thereby affecting the rights of third parties.",
+      "id": "s159"
+    },
+    {
+      "text": "Mr Field's oral submissions tried to address this problem by indicating that these claims are unnecessary and could be deleted and, in any event, the issue of invalidity of the administrator's appointment and its consequences could be determined as facts along the way without joining all interested parties.",
+      "id": "s160"
+    },
+    {
+      "text": "However, the fact is that these claims were in the application as before the Federal Magistrate and remained in the application as at the hearing of this appeal.",
+      "id": "s161"
+    },
+    {
+      "text": "Moreover, these claims are relevant to the claims for damages for misleading and deceptive conduct.",
+      "id": "s162"
+    },
+    {
+      "text": "Alleged knowledge on the part of St George of the supposed invalidity of the administrator's appointment, or facts that should have alerted St George to that effect, is an essential part of the factual matrix of the claims for damages.",
+      "id": "s163"
+    },
+    {
+      "text": "Fourth, and consistent with St George's submissions, the facts of the present case do not readily appear to engage any principle about lack of capacity to contract out of statutory protections from misleading and deceptive conduct.",
+      "id": "s164"
+    },
+    {
+      "text": "In May 1997 Mr Field gave a guarantee the key terms of which have been identified at [5] above.",
+      "id": "s165"
+    },
+    {
+      "text": "Events many years later said to involve unconscionable and misleading or deceptive conduct are then relied upon to assert some right to escape liability under that guarantee and to found claims for damages.",
+      "id": "s166"
+    },
+    {
+      "text": "How claims to this effect are to be sustained is difficult to comprehend as the Federal Magistrate properly recognised.",
+      "id": "s167"
+    },
+    {
+      "text": "Fifth, and as should be apparent from the discussion above, the facts asserted in the statement of claim and the propositions of law on which it depends are far from being \"beyond real dispute\".",
+      "id": "s168"
+    },
+    {
+      "text": "The facts include alleged oral representations based on a meeting in November 2005 (para 22).",
+      "id": "s169"
+    },
+    {
+      "text": "Oral representations from many years ago are notorious for generating disputes.",
+      "id": "s170"
+    },
+    {
+      "text": "The propositions of law include the invalidity of the appointment of an administrator on the basis of an alleged procedural defect.",
+      "id": "s171"
+    },
+    {
+      "text": "As St George submitted, the allegation of invalidity of the appointment of the administrator depends on an argument that s 58ZE of the National Parks and Wildlife Act 1974 (NSW) only permitted appointment if there were members of the Trust at the time of appointment when, in this case, all memberships had expired.",
+      "id": "s172"
+    },
+    {
+      "text": "The legal arguments to which this claim might give rise are numerous, as St George observed.",
+      "id": "s173"
+    },
+    {
+      "text": "For example, s 58ZE would have to be construed purposively before the question of breach could be answered.",
+      "id": "s174"
+    },
+    {
+      "text": "Further, even if breach occurred, the consequence is only invalidity if that purpose may be inferred in accordance with the canons of construction ( Project Blue Sky Inc v Australian Broadcasting Authority (1998) 194 CLR 355; [1998] HCA 28 at [91] - [93] ).",
+      "id": "s175"
+    },
+    {
+      "text": "Finally, the Jenolan Deed has been carried into effect and, amongst other things, the transfer of the lease has been registered under the Real Property Act 1900 (NSW).",
+      "id": "s176"
+    },
+    {
+      "text": "Each of these matters involves a substantial hurdle to Mr Field's claims of invalidity of the appointment of the administrator to the Trust.",
+      "id": "s177"
+    },
+    {
+      "text": "For present purposes, it is sufficient to make the following points.",
+      "id": "s178"
+    },
+    {
+      "text": "In terms of a purposive construction, the effect of Mr Field's argument is that where the terms of appointment of each member of the Trust has expired, the Minister, if he or she wishes to appoint an administrator, must appoint members by a notice in the NSW Government Gazette, then remove those members by another (possibly even the same) notice in the NSW Government Gazette and finally appoint the administrator by notice in the NSW Government Gazette (again possibly by the same notice).",
+      "id": "s179"
+    },
+    {
+      "text": "This is not an attractive construction of s 58ZE(1) of the National Parks and Wildlife Act .",
+      "id": "s180"
+    },
+    {
+      "text": "Mr Field's answer, that the National Parks and Wildlife Act evinces an intention that the Trusts control the reserved land, cannot stand in the face of s 58W(2) which makes the Trust subject to the control and direction of the Minister.",
+      "id": "s181"
+    },
+    {
+      "text": "Even as a matter of language alone, and ignoring the wider context of the provision, there is little to support an argument that powers vested in the Minister to either \"remove any or all members of the Trust board\" or \"remove all members of the Trust Board...and appoint a person as an administrator of the Trust\" should be read as requiring the appointment and removal of Board members before the power of appointment of an administrator can be exercised.",
+      "id": "s182"
+    },
+    {
+      "text": "In terms of the consequences of breach, invalidity can only result from a conclusion that the \"the language of the statute, its subject matter and objects, and the consequences for the parties of holding void every act done in breach of the condition\" evinces a legislative intention \"to invalidate any act that fails to comply with the condition\" ( Project Blue Sky at [91]).",
+      "id": "s183"
+    },
+    {
+      "text": "Public inconvenience is a relevant factor in this process of construction.",
+      "id": "s184"
+    },
+    {
+      "text": "The invalidating of every act of the administrator of the Trust merely because the Minister did not go through a charade of appointing members only to remove them and thereby (on Mr Field's argument) enliven the Minister's power to appoint an administrator would result in an extraordinary level of public inconvenience.",
+      "id": "s185"
+    },
+    {
+      "text": "Even a finding of fact to that effect, without any consequential declarations, raises real issues of public inconvenience.",
+      "id": "s186"
+    },
+    {
+      "text": "This is a formidable hurdle which Mr Field's submissions sought to circumvent by asserting that the condition in question determined the availability of the power so that the principles identified in Project Blue Sky did not apply.",
+      "id": "s187"
+    },
+    {
+      "text": "But the principles in Project Blue Sky assume and look to the consequences of breach of statutory conditions of all classes.",
+      "id": "s188"
+    },
+    {
+      "text": "In terms of the registration of the transfer of the lease under the Real Property Act , the grant of relief to Mr Field may be affected by the indefeasibility of the title as registered either as a matter of law or discretion (see, by analogy, City of Canada Bay Council v F &amp; D Bonaccorso Pty Ltd (2007) 71 NSWLR 424 ; [2007] NSWCA 351).",
+      "id": "s189"
+    },
+    {
+      "text": "For these reasons, I am satisfied that Mr Field's claim to the effect that the appointment of the administrator of the Trust was invalid with the consequence of invalidating the administrators subsequent transactions (including the giving of notices under the lease and the entry into the Jenolan Deed) has no real prospects of success.",
+      "id": "s190"
+    },
+    {
+      "text": "Sixth, these matters affect many of Mr Field's claims in the Federal Court proceeding.",
+      "id": "s191"
+    },
+    {
+      "text": "For example, in oral submissions Mr Field advanced an argument that the report of JCR's administrators, PPB chartered accountants, dated 14 August 2006 was inaccurate in many respects including by reason of a statement that the receivers and managers had a limited timeframe to achieve a sale of the lease.",
+      "id": "s192"
+    },
+    {
+      "text": "This was said to be incorrect because all notices issued by the Trust's administrator under the lease were invalid due to his invalid appointment.",
+      "id": "s193"
+    },
+    {
+      "text": "Similarly, Mr Field contended that the Federal Magistrate erred by assuming the validity of that appointment for the purpose of his Honour's observation in [27] that JCR's rights appear to have expired by effluxion of time under cl 12.7 of the lease with the consequence that JCR's rights may not return any value in any event.",
+      "id": "s194"
+    },
+    {
+      "text": "Given the observations above about the numerous difficulties confronting Mr Field's argument of invalidity of the appointment of the Trust's administrator it is difficult to accept that either the receivers and managers or the Federal Magistrate erred.",
+      "id": "s195"
+    },
+    {
+      "text": "Further, and as these submissions disclose, the invalidity of the appointment of the Trust's administrator (and all of its associated problems) is a fact embedded in many of Mr Field's claims.",
+      "id": "s196"
+    },
+    {
+      "text": "Finally, this is not a case of any mere difficulty in resolving Mr Field's claims.",
+      "id": "s197"
+    },
+    {
+      "text": "Mr Field had to establish \"other sufficient cause\" so that a sequestration order ought not to be made within the meaning of s 52(2)(b) of the Bankruptcy Act .",
+      "id": "s198"
+    },
+    {
+      "text": "The Federal Magistrate was entitled and indeed bound to examine the cogency of the claims in the Federal Court proceeding and their likely prospects of success.",
+      "id": "s199"
+    },
+    {
+      "text": "In so doing the Federal Magistrate was entitled also to take the proceeding as it stood at the time of the hearing.",
+      "id": "s200"
+    },
+    {
+      "text": "His Honour was not obliged to hypothesise possible ways in which the proceeding could be recast to make more sense or improve its prospects.",
+      "id": "s201"
+    },
+    {
+      "text": "In these circumstances the conclusions of the Federal Magistrate about the Federal Court proceeding were amply supported by the available evidence, namely, that: (i) the statement of claim is obscure, presents obvious difficulties, and is unlikely to survive interlocutory scrutiny, (ii) the proceeding could not be described as well advanced, and (iii) the proceeding could not be described as either likely to succeed or even as a real claim.",
+      "id": "s202"
+    },
+    {
+      "text": "The Federal Magistrate also cogently explained his reasons for so concluding.",
+      "id": "s203"
+    },
+    {
+      "text": "It follows that I do not accept any of the grounds of appeal relating to the Federal Court proceeding.",
+      "id": "s204"
+    },
+    {
+      "text": "I turn to each ground relevant to the Federal Court proceeding in the light of the conclusions above.",
+      "id": "s205"
+    },
+    {
+      "text": "Ground 1 is a general assertion of error which appears to depend on one or more of the other grounds being sustained.",
+      "id": "s206"
+    },
+    {
+      "text": "As none are sustainable ground 1 falls away.",
+      "id": "s207"
+    },
+    {
+      "text": "Ground 2, insofar as the reference to \"other considerations\" outweighing the making or deferral of a sequestration order should be understood as a reference to the Federal Court proceeding, is a mere assertion that the Federal Magistrate should have reached a different conclusion without the exposure of any error in his Honour's reasoning process.",
+      "id": "s208"
+    },
+    {
+      "text": "Ground 3 depends on the Federal Court proceeding having a sufficient likelihood of success so as to warrant a finding of a sufficient cause not to make or to defer making a sequestration order.",
+      "id": "s209"
+    },
+    {
+      "text": "For the reasons given I am satisfied that the Federal Magistrate's conclusions about the lack of prospects of success of the Federal Court proceeding as pleaded were correct.",
+      "id": "s210"
+    },
+    {
+      "text": "Ground 4 depends on a finding that, irrespective of the prospects of success, the character and nature of the Federal Court proceeding warranted a finding of a sufficient cause not to make or to defer making a sequestration order.",
+      "id": "s211"
+    },
+    {
+      "text": "I can see nothing in the evidence to support the making of such a finding.",
+      "id": "s212"
+    },
+    {
+      "text": "As noted, the statement of claim does not refer to any fact, matter or circumstance at the time of entry into the guarantee that would have had the effect of invalidating it.",
+      "id": "s213"
+    },
+    {
+      "text": "The claim appears to depend on events some eight years after entry into the guarantee to absolve Mr Field from liability.",
+      "id": "s214"
+    },
+    {
+      "text": "The statement of claim does not confront in any meaningful way the numerous difficulties identified above.",
+      "id": "s215"
+    },
+    {
+      "text": "Ground 5 cannot be sustained insofar as it alleges a failure by the Federal Magistrate to consider the prospects of success of the causes of action in the Federal Court proceeding.",
+      "id": "s216"
+    },
+    {
+      "text": "The Federal Magistrate's reasons disclose the contrary.",
+      "id": "s217"
+    },
+    {
+      "text": "As to the other errors alleged in ground 5: \n(1) I am satisfied that the Federal Magistrate's reasons disclose a correct understanding of the relief sought in the statement of claim.",
+      "id": "s218"
+    },
+    {
+      "text": "The discharge from liability under the guarantee is based on events subsequent to its making by reason of alleged unconscionable conduct.",
+      "id": "s219"
+    },
+    {
+      "text": "Yet the claim does not confront the terms of the guarantee.",
+      "id": "s220"
+    },
+    {
+      "text": "(2) The complaint about the Federal Magistrate's description of the Federal Court proceeding as an attempt \"to present the facts and claims which were raised in the amended response before McDougall J\" (at [16]) is unfounded.",
+      "id": "s221"
+    },
+    {
+      "text": "In the Supreme Court proceedings Mr Field did make the same allegations about the invalidity of the appointment of the administrator, the same complaints about the Trust's actions and the actions of St George.",
+      "id": "s222"
+    },
+    {
+      "text": "It is true that the Supreme Court proceedings did not make the same express claims that, in consequence, St George had acted unconscionably in making its demands for payment.",
+      "id": "s223"
+    },
+    {
+      "text": "But the document filed by Mr Field in those proceedings did expressly claim that, by its actions, St George discharged the guarantee, breached s 52 of the Trade Practices Act 1974 (Cth) and that it would be unjust and inequitable for St George to rely on the guarantee.",
+      "id": "s224"
+    },
+    {
+      "text": "The Federal Magistrate's summary description of the Federal Court proceeding being equivalent to the Supreme Court proceeding in [16] was correct.",
+      "id": "s225"
+    },
+    {
+      "text": "(3) The complaint about the Federal Magistrate's reference to the obscurity of the statement of claim and the lack of a clear pleading, as reasoned at [21] above, is also unfounded.",
+      "id": "s226"
+    },
+    {
+      "text": "His Honour's description was accurate.",
+      "id": "s227"
+    },
+    {
+      "text": "Ground 8 alleges an error by the Federal Magistrate in concluding that the Federal Court proceeding had little prospect of successful completion by 7 November 2009.",
+      "id": "s228"
+    },
+    {
+      "text": "The Federal Magistrate, at [25], said that \"there is little present prospect that either of these very complex claims could be litigated to a successful completion within the life of this petition, which is due to expire on 7 November 2009\" and, at [26], that \"I am not persuaded that this could be achieved by Mr Field gaining a preliminary hearing in one of the courts on the issue of the validity of the execution of the Jenolan Deed on behalf of the Trust.",
+      "id": "s229"
+    },
+    {
+      "text": "I note that there is no evidence that any application for a separate trial of this issue has been made, nor that it is likely to be granted.",
+      "id": "s230"
+    },
+    {
+      "text": "Moreover, even if such a ruling were achieved it would not, in my opinion, significantly advance Mr Field's prospects of achieving relief which off-sets his liability to the Bank.",
+      "id": "s231"
+    },
+    {
+      "text": "His claims for this relief face some major difficulties, and Mr Field's evidence and submissions have not explained to me reasonably arguable solutions\".",
+      "id": "s232"
+    },
+    {
+      "text": "Mr Field's complaint appears to be based on a challenge to the latter proposition concerning a separate hearing about the validity of the Jenolan Deed.",
+      "id": "s233"
+    },
+    {
+      "text": "But, as the Federal Magistrate may be taken to have understood, a separate hearing has to have utility for the resolution of the real issues in the proceeding as a whole.",
+      "id": "s234"
+    },
+    {
+      "text": "Mr Field's claims about invalidity of the Jenolan Deed are confronted by numerous difficulties.",
+      "id": "s235"
+    },
+    {
+      "text": "The legal link between the invalidity of the Jenolan Deed and a right in Mr Field to obtain a discharge from liability under the guarantee remains obscure.",
+      "id": "s236"
+    },
+    {
+      "text": "Hence, the Federal Magistrate's characterisation of the position was justified on the evidence and, in my view, correct.",
+      "id": "s237"
+    },
+    {
+      "text": "Ground 9 is derivative and depends on one of the other grounds being upheld.",
+      "id": "s238"
+    },
+    {
+      "text": "As such, the ground must fail.",
+      "id": "s239"
+    },
+    {
+      "text": "Ground 10 alleges that the Federal Magistrate failed to give weight or sufficient weight to the fact that many of the allegations in the statement of claim in the Federal Court proceeding are either substantiated or unlikely to raise a substantial dispute.",
+      "id": "s240"
+    },
+    {
+      "text": "This ground seems to rise no higher than mere assertion.",
+      "id": "s241"
+    },
+    {
+      "text": "It simply ignores the numerous factual and legal difficulties to which the statement of claim gives rise.",
+      "id": "s242"
+    },
+    {
+      "text": "Ground 11 repeats the allegation that the Federal Magistrate failed to give weight or sufficient weight to the fact that the validity of the Jenolan Deed could be determined quickly as a discrete legal issue at a separate hearing.",
+      "id": "s243"
+    },
+    {
+      "text": "The Federal Magistrate dealt with this suggestion and rightly concluded that it was unlikely and of dubious utility given the essential issue of liability under a guarantee which contains waivers of the type in the guarantee in question.",
+      "id": "s244"
+    },
+    {
+      "text": "Ground 14 repeats the complaint about the Federal Magistrate's conclusion that the statement of claim in the Federal Court proceeding was obscure and unlikely to survive interlocutory scrutiny.",
+      "id": "s245"
+    },
+    {
+      "text": "I am satisfied that the Federal Magistrate's conclusion was justified given my observations above.",
+      "id": "s246"
+    },
+    {
+      "text": "Ground 15 alleges that the Federal Magistrate failed to properly take into account the delay in the Federal Court proceeding by reason of St George's notice of motion filed 17 April 2009 seeking orders that the statement of claim be struck out.",
+      "id": "s247"
+    },
+    {
+      "text": "Insofar as Mr Field said the Federal Magistrate erred by treating delays as relevant to the merits of the proceeding, I reject the submission.",
+      "id": "s248"
+    },
+    {
+      "text": "The Federal Magistrate did no such thing.",
+      "id": "s249"
+    },
+    {
+      "text": "His Honour referred to the lack of urgency apparent in Mr Field's actions (at [25]) as making it doubtful that Mr Field would have a capacity to improve his prospects of success within the lifetime of the petition.",
+      "id": "s250"
+    },
+    {
+      "text": "This conclusion was open and able to be drawn on the evidence.",
+      "id": "s251"
+    },
+    {
+      "text": "Insofar as Mr Field relied on St George's motion filed 17 April 2009, the fact is that the obvious problems with the statement of claim made such an application for strike out likely.",
+      "id": "s252"
+    },
+    {
+      "text": "Contrary to Mr Field's submissions, it appears that St George was not required to file and serve a defence in the Federal Court proceeding if it filed and served a notice of motion to strike out the proceeding, as it has done.",
+      "id": "s253"
+    },
+    {
+      "text": "THE SUPREME COURT PROCEEDINGS \n Grounds 7, 12 and 13 relate to the way in which the Federal Magistrates Court dealt with aspects of the Supreme Court proceedings.",
+      "id": "s254"
+    },
+    {
+      "text": "Mr Field's submissions\n In support of these grounds Mr Field denied that the Federal Court proceeding attempted to present in better form the claims in the Supreme Court proceedings.",
+      "id": "s255"
+    },
+    {
+      "text": "Mr Field also submitted that the amended commercial list response which he filed was struck out not for any failure to disclose a proper case with adequate prospects of success but because of its inadequacy as a response for the purpose of the Supreme Court's commercial list.",
+      "id": "s256"
+    },
+    {
+      "text": "According to Mr Field, the facts pleaded and relief claimed in the Federal Court proceeding go far beyond anything that could have been raised in the Supreme Court proceedings.",
+      "id": "s257"
+    },
+    {
+      "text": "Discussion\n I have already concluded above that the Federal Magistrate's summary characterisation of the Federal Court proceeding was open to be made and, indeed, accurate.",
+      "id": "s258"
+    },
+    {
+      "text": "Further, in the Supreme Court proceedings McDougall J did consider Mr Field's prospects of success in respect of the various claims made for discharge of liability under the guarantee.",
+      "id": "s259"
+    },
+    {
+      "text": "McDougall J, at [17] and [20] in St George Bank Limited v Archer Phillip Field [2007] NSWSC 902 , said: \n \n [ 17 ] Against that background, it is therefore necessary to consider the issues that might be raised.",
+      "id": "s260"
+    },
+    {
+      "text": "I have set them out above.",
+      "id": "s261"
+    },
+    {
+      "text": "A number of those issues refer to conduct of St George, by its servants and agents, which has the effect of discharging the guarantee, or of relieving Mr Field of liability under it, or of making it unjust for St George to seek to enforce the guarantee.",
+      "id": "s262"
+    },
+    {
+      "text": "On the face of things, they are all rights that Mr Field has bargained away by the clauses of the guarantee to which I have referred.",
+      "id": "s263"
+    },
+    {
+      "text": "It is clear that the courts will give effect to such a bargain: see Mason CJ in The Commonwealth of Australia v Verwayen [1990] HCA 39 ; (1990) 170 CLR 394 at 407.",
+      "id": "s264"
+    },
+    {
+      "text": "In the particular context of a guarantee, see the decision of Brennan J in Buckeridge v Mercantile Credits Limited [1981] HCA 62 ; (1981) 147 CLR 654 at 675.",
+      "id": "s265"
+    },
+    {
+      "text": "To the extent that Mr Field wishes to raise those issues, they are issues that are foreclosed by the terms to which I have referred.",
+      "id": "s266"
+    },
+    {
+      "text": "... \n \n\n \n \n [ 20 ] In those circumstances, I do not think that there is any utility in giving Mr Field yet a further opportunity to seek to articulate some defence.",
+      "id": "s267"
+    },
+    {
+      "text": "Nothing has been put, either supported by evidence or even based on submissions from the bar table, that would indicate a defence that can stand in the face of the contractual provisions to which I have referred, explained as they are by the authorities to which I have referred.",
+      "id": "s268"
+    },
+    {
+      "text": "The facts pleaded and relief sought in the Federal Court proceeding do go further than that of the Supreme Court proceedings (specifically, in terms of the claims for damages by reason of misleading and deceptive conduct), but the essence is the same: invalidity of the Jenolan Deed and a discharge of Mr Field's liability under the guarantee.",
+      "id": "s269"
+    },
+    {
+      "text": "Ground 7 alleges error in the Federal Magistrate failing to find or consider that Mr Field could not have raised the same matters in the Supreme Court proceedings as now raised in the Federal Court proceeding.",
+      "id": "s270"
+    },
+    {
+      "text": "In answer, I have already noted in [50] above that the essence of the two proceedings is largely the same.",
+      "id": "s271"
+    },
+    {
+      "text": "Further, apart from bare assertion, Mr Field's submissions provided no meaningful explanation of the reasons precluding the seeking of similar relief in the Supreme Court proceedings, other than the obvious difficulties presented by the terms of the guarantee itself, which is no more addressed in the Federal Court proceeding than it was in the Supreme Court proceedings.",
+      "id": "s272"
+    },
+    {
+      "text": "Ground 12 is bordering on the meaningless.",
+      "id": "s273"
+    },
+    {
+      "text": "Insofar as it alleges that the Federal Magistrate should not or could not have taken into account McDougall J's conclusions that the waiver provisions in the guarantee presented insuperable difficulties for Mr Field in the Supreme Court proceedings, I disagree.",
+      "id": "s274"
+    },
+    {
+      "text": "The Federal Magistrate was entitled to have regard to the fact that, in the Supreme Court proceedings, Mr Field also claimed a discharge from any liability under the guarantee but was unable to formulate an arguable defence in support of that claim.",
+      "id": "s275"
+    },
+    {
+      "text": "Ground 13 also seems to be repetitive of the substance of grounds 7 and 11 in that it alleges that Mr Field could not raise certain matters in the Supreme Court proceedings by reason of the waiver provisions in the guarantee but is not subject to the same constraint in the Federal court proceeding.",
+      "id": "s276"
+    },
+    {
+      "text": "But, as noted, the statement of claim in the Federal Court proceeding discloses no fact, matter or circumstance relevant to the validity of the guarantee at the time of its making.",
+      "id": "s277"
+    },
+    {
+      "text": "Mr Field relies on events years later as matters disentitling St George from enforcing the guarantee and discharging Mr Field from any liability under it.",
+      "id": "s278"
+    },
+    {
+      "text": "Yet the terms of the guarantee, including the waivers, remain.",
+      "id": "s279"
+    },
+    {
+      "text": "As noted, the fact that the Federal Court proceeding involves claims based on statutes for unconscionable and misleading and deceptive conduct, and consequential damages, does not undermine the Federal Magistrate's conclusions about the ultimate prospect of the proceeding or the difficulties that Mr Field would have to confront in the event of interlocutory challenge.",
+      "id": "s280"
+    },
+    {
+      "text": "THE JENOLAN DEED \n Ground 16 relates to the Federal Magistrates Court's conclusions about the immateriality of the validity of the Jenolan Deed.",
+      "id": "s281"
+    },
+    {
+      "text": "The Federal Magistrate, at [27], said that \"[o]ne of the difficulties is, as was pointed out by counsel for the Bank, that even if the Jenolan Deed was held to be void of legal effect, it is not apparent that this would allow the return to JCR of any valuable rights of a lessee under the 99 year lease.",
+      "id": "s282"
+    },
+    {
+      "text": "This is because they would appear to have expired by effluxion of time under cl 12.7\".",
+      "id": "s283"
+    },
+    {
+      "text": "For the reasons given above I am unable to see how this observation involves an error given the numerous problems that Mr Field would have to confront in his claim that the Trust administrator's appointment was invalid and the consequential lack of prospects of that claim.",
+      "id": "s284"
+    },
+    {
+      "text": "REJECTION OF EVIDENCE \n Ground 6 relates to the Federal Magistrate's refusal to admit into evidence the appellant's affidavit sworn 20 May 2009.",
+      "id": "s285"
+    },
+    {
+      "text": "At [19]-[20] the Federal Magistrate said: \n \n [ 19 ] In an affidavit filed two days before the hearing of the petition, Mr Field attempted to add to his grounds of opposition a contention that the Bank has failed to \"provide me with a report of its investigations\" in response to a complaint to it under the Code of Banking Practice.",
+      "id": "s286"
+    },
+    {
+      "text": "His complaint was made by letter dated 16 June 2006 to the chairman of the Bank, and made numerous detailed criticisms of how officers of the Bank had responded to correspondence and events during 2005 and 2006.",
+      "id": "s287"
+    },
+    {
+      "text": "Although this letter was in a very large bundle of documents exhibited to his affidavit, it received no mention in the affidavit and had no apparent relevance to the grounds of opposition except as background of dubious relevance.",
+      "id": "s288"
+    },
+    {
+      "text": "The Bank's responses to the complaint were not in the bundle, nor, understandably, in its evidence in reply to the notice of opposition.",
+      "id": "s289"
+    },
+    {
+      "text": "[ 20 ] It is not apparent to me how the evidence of this complaint could substantially advance Mr Field's grounds of opposition.",
+      "id": "s290"
+    },
+    {
+      "text": "The raising of the additional issues at a late stage, and outside the time-tables previously directed by the Court, was opposed by counsel for the Bank.",
+      "id": "s291"
+    },
+    {
+      "text": "He pointed to prejudice facing the Bank's legal representatives in attempting to take instructions on short notice about the issues raised by the 2006 complaint and the attack on its handling.",
+      "id": "s292"
+    },
+    {
+      "text": "Taking into account both that prejudice, and my difficulty in discerning how the matter materially advances Mr Field's opposition to the petition, I refused leave to rely upon these parts of the affidavit and upon the new contention.",
+      "id": "s293"
+    },
+    {
+      "text": "I can see no error in the Federal Magistrate's decision to refuse to admit this material into evidence.",
+      "id": "s294"
+    },
+    {
+      "text": "The material was rejected on a discretionary ground (delay and the late raising of additional issues).",
+      "id": "s295"
+    },
+    {
+      "text": "Nothing suggests any error of principle in the Federal Magistrate's rejection of this material.",
+      "id": "s296"
+    },
+    {
+      "text": "The fact that the material had potential relevance to para 45(f) of the statement of claim does not invalidate the Federal Magistrate's conclusion that it was difficult to discern how it advanced Mr Field's position.",
+      "id": "s297"
+    },
+    {
+      "text": "Paragraph 45(f) alleges as a particular of the claim for unconscionable conduct that St George failed to apply the Code of Banking Practice to various complaints Mr Field had made.",
+      "id": "s298"
+    },
+    {
+      "text": "The observations of the Federal Magistrate about the difficulties this evidence involved in terms of form and substance and its lateness justified the decision to reject it.",
+      "id": "s299"
+    },
+    {
+      "text": "WRONGFUL ATTRIBUTION OF WEIGHT TO EVIDENCE \n Ground 17 alleges an error by the Federal Magistrate in placing weight on evidence described as \"self serving assertions and conclusions of the receivers and managers of Jenolan Caves Resort Pty Limited\".",
+      "id": "s300"
+    },
+    {
+      "text": "The difficulty with this ground is that the evidence in question comprised a report to the creditors of JCR by the administrators, not the receivers and managers.",
+      "id": "s301"
+    },
+    {
+      "text": "As the Federal Magistrate rightly said at [30]-[31]: \n \n [ 30 ]...The evidence gives me no reason not to give weight to [the administrators'] opinions, particularly since their objectivity and competence to assess the value to JCR of litigation of the sort now contemplated by Mr Field was not challenged.",
+      "id": "s302"
+    },
+    {
+      "text": "It is clear that they closely considered the foundations of Mr Field's claims of very substantial loss arising from the making of the Jenolan Deed.",
+      "id": "s303"
+    },
+    {
+      "text": "In particular, they examined a valuation report of Messrs Magin and Roberts obtained in 2001 by JCR for financing purposes, upon which Mr Field largely pins his claim that the true value of the lease in 2006 exceeded $11m, rather than the total consideration of $2.350m which reached the receivers.",
+      "id": "s304"
+    },
+    {
+      "text": "The administrators pointed to substantial reasons for doubting the 2001 valuation, and its continuing weight.",
+      "id": "s305"
+    },
+    {
+      "text": "The relevant passages in their report are too lengthy for me to extract, but I find their analysis of the various valuations and the history of JCR and its receivership to be strongly persuasive.",
+      "id": "s306"
+    },
+    {
+      "text": "They summarised some significant conclusions at p 26: \n \n\n \n \n Summary \n \n\n \n \n For there to be a successful claim against St George or the Receivers and Managers under s 420A of the Act, it would have to be proven that the above transaction was either below market value or if there was no market for the asset, it was realised for below the best price possible.",
+      "id": "s307"
+    },
+    {
+      "text": "We are of the opinion that this would be a difficult action to pursue for the following reasons: \n \n\n \n \n &#8226; The Receivers and Managers obtained formal advice that the asset was unsaleable in its current form; \n &#8226; The trust was required to consent to the assignment; \n &#8226; A major factor in ensuring the assets were saleable was negotiating a reduction in the rent payable under the lease.",
+      "id": "s308"
+    },
+    {
+      "text": "While the Receivers and Managers attempted to obtain such a reduction, they were unsuccessful in this regard; \n &#8226; Major rectification works were required to be undertaken or committed to before any assignment could take place; \n &#8226; There was a limited timeframe in which to sell the leasehold; \n &#8226; No co-operative marketing and management structure existed between the cave operator and the resort operator; \n &#8226; No commitment had been provided by the Trust to upgrade the existing infrastructure and/or services provided under the lease; and \n &#8226; The Receivers and Managers had undertaken negotiations with three (3) parties, all of which were unsuccessful.",
+      "id": "s309"
+    },
+    {
+      "text": "We note that the following additional factors also need to be considered in respect of any potential legal action: \n \n\n \n \n &#8226; Due to the inherent uncertainty and cost involved in pursuing litigation, a detailed legal opinion would be required as to the merits or otherwise of this claim; \n &#8226; We currently do not have any funds in the Administration to obtain a legal opinion or become involved in a potentially lengthy or costly litigation; and \n &#8226; In discussions with the Receivers and Managers, it has been indicated that in the event that any such claim was brought, it would be vigorously defended.",
+      "id": "s310"
+    },
+    {
+      "text": "[ 31 ] Mr Field's evidence and submissions have not demonstrated to me any real prospect of his being able to overcome the factual or legal foundations of these opinions.",
+      "id": "s311"
+    },
+    {
+      "text": "In my opinion, the administrator's opinions in this summary and elsewhere in their report to creditors, and the evidence to which they point, suggest that there is little prospect that Mr Field will be able to establish that the true value of JCR's business at the time of the Jenolan Deed exceeded the consideration provided in that Deed, whether it was validly or invalidly entered into, and whether or not it was attended by challengeable behaviour by the Bank.",
+      "id": "s312"
+    },
+    {
+      "text": "The Federal Magistrate was entitled to give weight, including substantial weight, to these matters.",
+      "id": "s313"
+    },
+    {
+      "text": "No error in so doing is disclosed.",
+      "id": "s314"
+    },
+    {
+      "text": "CONCLUSIONS \n I am satisfied that none of Mr Field's grounds of appeal are sustainable.",
+      "id": "s315"
+    },
+    {
+      "text": "Mr Field has not demonstrated that the Federal Magistrate's conclusions and orders were the result of any legal, factual or discretionary error.",
+      "id": "s316"
+    },
+    {
+      "text": "Having reviewed the available material I am convinced that the Federal Magistrate's conclusions were not only justifiable but correct.",
+      "id": "s317"
+    },
+    {
+      "text": "Accordingly, the appeal must be dismissed with costs.",
+      "id": "s318"
+    },
+    {
+      "text": "I certify that the preceding sixty (60) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Jagot.",
+      "id": "s319"
+    },
+    {
+      "text": "Associate:\n \n \nDated: 17 September 2009\n \n Counsel for the Appellant: Mr J Garnsey QC and Mr R Newton \n \n Counsel for the Respondent: Mr P Dowdy \n \n Solicitor for the Appellant: The People's Solicitors Pty Ltd \n \n Solicitor for the Respondent: Henry Davis York \n Date of Hearing: 13 August 2009 \n \n Date of Judgment: 17 September 2009 \n \n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2009/1042.html",
+      "id": "s320"
+    }
+  ]
+}

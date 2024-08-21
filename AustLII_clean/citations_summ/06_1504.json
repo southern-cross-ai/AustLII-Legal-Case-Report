@@ -1,0 +1,290 @@
+[
+  {
+    "text": "trust",
+    "id": "cp0.0",
+    "type": "cited",
+    "from": "[1985]"
+  },
+  {
+    "text": "resulting trust",
+    "id": "cp0.1",
+    "type": "cited",
+    "from": "[1985]"
+  },
+  {
+    "text": "constructive trust",
+    "id": "cp0.2",
+    "type": "cited",
+    "from": "[1985]"
+  },
+  {
+    "text": "unconscionable retention of benefit",
+    "id": "cp0.3",
+    "type": "cited",
+    "from": "[1985]"
+  },
+  {
+    "text": "failure of joint venture",
+    "id": "cp0.4",
+    "type": "cited",
+    "from": "[1985]"
+  },
+  {
+    "text": "purchase of land by unmarried persons",
+    "id": "cp0.5",
+    "type": "cited",
+    "from": "[1985]"
+  },
+  {
+    "text": "joint and several liability under contract",
+    "id": "cp0.6",
+    "type": "cited",
+    "from": "[1985]"
+  },
+  {
+    "text": "price paid by woman",
+    "id": "cp0.7",
+    "type": "cited",
+    "from": "[1985]"
+  },
+  {
+    "text": "undertaking by man to pay for certain repairs and cost of prefabricated house",
+    "id": "cp0.8",
+    "type": "cited",
+    "from": "[1985]"
+  },
+  {
+    "text": "separation without fulfilment of undertaking",
+    "id": "cp0.9",
+    "type": "cited",
+    "from": "[1985]"
+  },
+  {
+    "text": "whether resulting trust in favour of woman",
+    "id": "cp0.10",
+    "type": "cited",
+    "from": "[1985]"
+  },
+  {
+    "text": "whether rebutted",
+    "id": "cp0.11",
+    "type": "cited",
+    "from": "[1985]"
+  },
+  {
+    "text": "failure of joint venture",
+    "id": "cp0.12",
+    "type": "cited",
+    "from": "[1985]"
+  },
+  {
+    "text": "contribution",
+    "id": "cp0.13",
+    "type": "cited",
+    "from": "[1985]"
+  },
+  {
+    "text": "effect of discharge of joint debt by woman",
+    "id": "cp0.14",
+    "type": "cited",
+    "from": "[1985]"
+  },
+  {
+    "text": "gift on condition",
+    "id": "cp0.15",
+    "type": "cited",
+    "from": "[1985]"
+  },
+  {
+    "text": "failure to fulfil condition",
+    "id": "cp0.16",
+    "type": "cited",
+    "from": "[1985]"
+  },
+  {
+    "text": "effect",
+    "id": "cp0.17",
+    "type": "cited",
+    "from": "[1985]"
+  },
+  {
+    "text": "whether forfeiture or right to compensation.",
+    "id": "cp0.18",
+    "type": "cited",
+    "from": "[1985]"
+  },
+  {
+    "text": "trade mark",
+    "id": "cp1.0",
+    "type": "cited",
+    "from": "[1963]"
+  },
+  {
+    "text": "infringement",
+    "id": "cp1.1",
+    "type": "cited",
+    "from": "[1963]"
+  },
+  {
+    "text": "device",
+    "id": "cp1.2",
+    "type": "cited",
+    "from": "[1963]"
+  },
+  {
+    "text": "advertisement by moving picture on television",
+    "id": "cp1.3",
+    "type": "cited",
+    "from": "[1963]"
+  },
+  {
+    "text": "whether use in course of trade",
+    "id": "cp1.4",
+    "type": "cited",
+    "from": "[1963]"
+  },
+  {
+    "text": "substantial identity",
+    "id": "cp1.5",
+    "type": "cited",
+    "from": "[1963]"
+  },
+  {
+    "text": "deceptive similarity",
+    "id": "cp1.6",
+    "type": "cited",
+    "from": "[1963]"
+  },
+  {
+    "text": "trade marks act 1955-1958 (cth), ss. 6, 58 (1), 62 (1).*",
+    "id": "cp1.7",
+    "type": "cited",
+    "from": "[1963]"
+  },
+  {
+    "text": "sale of goods",
+    "id": "cp2.0",
+    "type": "cited",
+    "from": "[1961]"
+  },
+  {
+    "text": "hire purchase",
+    "id": "cp2.1",
+    "type": "cited",
+    "from": "[1961]"
+  },
+  {
+    "text": "balance of purchase price intended by buyer to be secured by hire purchase agreement",
+    "id": "cp2.2",
+    "type": "cited",
+    "from": "[1961]"
+  },
+  {
+    "text": "exclusive possession of goods given to buyer",
+    "id": "cp2.3",
+    "type": "cited",
+    "from": "[1961]"
+  },
+  {
+    "text": "hire purchase agreement not accepted by finance company",
+    "id": "cp2.4",
+    "type": "cited",
+    "from": "[1961]"
+  },
+  {
+    "text": "renunciation of agreement for sale by seller",
+    "id": "cp2.5",
+    "type": "cited",
+    "from": "[1961]"
+  },
+  {
+    "text": "goods retaken by seller",
+    "id": "cp2.6",
+    "type": "cited",
+    "from": "[1961]"
+  },
+  {
+    "text": "balance of purchase price tendered by buyer and refused by seller",
+    "id": "cp2.7",
+    "type": "cited",
+    "from": "[1961]"
+  },
+  {
+    "text": "passing of property",
+    "id": "cp2.8",
+    "type": "cited",
+    "from": "[1961]"
+  },
+  {
+    "text": "trespass to goods",
+    "id": "cp2.9",
+    "type": "cited",
+    "from": "[1961]"
+  },
+  {
+    "text": "right of bailee to maintain action of detinue against bailor to regain possession.",
+    "id": "cp2.10",
+    "type": "cited",
+    "from": "[1961]"
+  },
+  {
+    "text": "corporations",
+    "id": "cp5.0",
+    "type": "citing",
+    "from": "[2006]"
+  },
+  {
+    "text": "applications for winding up and appointment of provisional liquidator",
+    "id": "cp5.1",
+    "type": "citing",
+    "from": "[2006]"
+  },
+  {
+    "text": "defendant seeks transfer of proceedings to federal court of australia, victoria registry",
+    "id": "cp5.2",
+    "type": "citing",
+    "from": "[2006]"
+  },
+  {
+    "text": "company has one asset and from its incorporation did virtually nothing",
+    "id": "cp5.3",
+    "type": "citing",
+    "from": "[2006]"
+  },
+  {
+    "text": "where principal place of business situated",
+    "id": "cp5.4",
+    "type": "citing",
+    "from": "[2006]"
+  },
+  {
+    "text": "where relevant \"events\" occurred",
+    "id": "cp5.5",
+    "type": "citing",
+    "from": "[2006]"
+  },
+  {
+    "text": "where relevant individuals resident",
+    "id": "cp5.6",
+    "type": "citing",
+    "from": "[2006]"
+  },
+  {
+    "text": "other proceedings extant in federal court but questions of damages and remedies only remaining for determination",
+    "id": "cp5.7",
+    "type": "citing",
+    "from": "[2006]"
+  },
+  {
+    "text": "whether any clear preponderance in favour of victoria",
+    "id": "cp5.8",
+    "type": "citing",
+    "from": "[2006]"
+  },
+  {
+    "text": "need for applicant to show positively that alternative court \"more appropriate\" forum",
+    "id": "cp5.9",
+    "type": "citing",
+    "from": "[2006]"
+  }
+]

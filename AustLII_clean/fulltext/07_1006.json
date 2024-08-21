@@ -1,0 +1,1592 @@
+{
+  "name": "Di Lorenzo Ceramics Pty Ltd v Commissioner of Taxation [2007] FCA 1006 (5 July 2007)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2007/1006.html",
+  "catchphrases": [
+    {
+      "text": "deemed dividends",
+      "id": "c0"
+    },
+    {
+      "text": "div 7a of pt iii of the income tax assessment act 1936 (cth)",
+      "id": "c1"
+    },
+    {
+      "text": "trustee (t) of unit trust purchases land and constructs business premises upon it, borrowing from bank (anz) for the purpose",
+      "id": "c2"
+    },
+    {
+      "text": "related trading company (c) pays some of the liabilities incurred by t on the purchase and the construction, debiting a \"loan account\" of t in c's general ledger",
+      "id": "c3"
+    },
+    {
+      "text": "advances by anz and other amounts payable to t are credited to the loan account",
+      "id": "c4"
+    },
+    {
+      "text": "t has no bank account of its own, all payments and receipts on account of t taking place in c's bank account and being reflected in t's running loan account with c",
+      "id": "c5"
+    },
+    {
+      "text": "factual dispute as to whether loans by c to t within s 109d of the act or payments by c to t within s 109c of the act",
+      "id": "c6"
+    },
+    {
+      "text": "whether ss 109c and 109d operated only to deem payments and loans made to persons beneficially to be dividends",
+      "id": "c7"
+    },
+    {
+      "text": "whether the loans or payments made by c should be seen to be deemed dividends paid to the unitholders, c and another family company (f). held : (1) the amounts paid by c were loans to t; (2) div 7a was not limited to amounts lent or paid to an entity in a non-trustee capacity; (3) div 7a operated to deem the loans or payments to be dividends paid to t as trustee; (4) div 6 of pt iii of the act made the deemed dividends assessable income of the unitholders, c and f, as persons presently entitled to income of the unit trust fund.",
+      "id": "c8"
+    },
+    {
+      "text": "109ze ) esp ss 109c , 109d , 109j , 109k , 109z , 109zd , 109ze income tax assessment act 1997 (cth) ss 2",
+      "id": "c9"
+    },
+    {
+      "text": "45 , 960-100",
+      "id": "c10"
+    },
+    {
+      "text": "income tax",
+      "id": "c11"
+    },
+    {
+      "text": "income tax assessment act 1936 (cth) pt iii , div 7a (ss 109a",
+      "id": "c12"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "INTRODUCTION \n \n1 These two appeals under s 14ZZ of the Taxation Administration Act 1953 (Cth) were heard together, the evidence in each being evidence in the other.",
+      "id": "s0"
+    },
+    {
+      "text": "I will call the applicant in proceeding NSD 1231 of 2005 \"Ceramics\" and the applicant in proceeding NSD 1232 of 2005 \"Fresta\".",
+      "id": "s1"
+    },
+    {
+      "text": "I will call the respondent in each proceeding \"the Commissioner\".",
+      "id": "s2"
+    },
+    {
+      "text": "2 Each proceeding concerns assessments to income tax for the years ended 30 June 2000 and 30 June 2001.",
+      "id": "s3"
+    },
+    {
+      "text": "In respect of each applicant and each tax year, the Commissioner issued a notice of amended assessment on 31 March 2004, except in the case of Fresta for the year ended 30 June 2000, for which the Commissioner issued a notice of assessment on 31 March 2004.",
+      "id": "s4"
+    },
+    {
+      "text": "Each applicant objected on 23 July 2004.",
+      "id": "s5"
+    },
+    {
+      "text": "The Commissioner gave notice of his decisions on the objections on 23 May 2005.",
+      "id": "s6"
+    },
+    {
+      "text": "3 The proceedings concern Div 7A of Pt III of the Income Tax Assessment Act 1936 (Cth) (the Act).",
+      "id": "s7"
+    },
+    {
+      "text": "Div 7A expands the operation of s 44(1) of the Act.",
+      "id": "s8"
+    },
+    {
+      "text": "Section 44(1) provides that the assessable income of a shareholder in a company includes dividends paid to him by the company.",
+      "id": "s9"
+    },
+    {
+      "text": "The question that arises in the present case is whether Div 7A has the effect that payments made by Ceramics to Di Lorenzo Tile Investments Pty Limited (Tile) as trustee of a unit trust, the units in which were held as to three by Ceramics and as to the remaining one by Fresta, were to be treated as dividends paid to the respective unitholders (deemed dividends), Ceramics and Fresta respectively.",
+      "id": "s10"
+    },
+    {
+      "text": "DRAMATIS PERSONAE AND GENERAL BACKGROUND \n \n4 Gioacchino Di Lorenzo was born in Italy on 12 June 1941, came to Australia in 1963, and is an Australian citizen.",
+      "id": "s11"
+    },
+    {
+      "text": "In Australia, he is called \"Jack\" Di Lorenzo.",
+      "id": "s12"
+    },
+    {
+      "text": "His wife is Salvatora (Sally) Di Lorenzo.",
+      "id": "s13"
+    },
+    {
+      "text": "They have four daughters: Maria, Pietrina, Diana and Belinda.",
+      "id": "s14"
+    },
+    {
+      "text": "Maria is Maria Fresta, the wife of Rafael Fresta.",
+      "id": "s15"
+    },
+    {
+      "text": "Pietrina is married to Hristos (Chris) Rogaris, and Diana's partner is Davide Isola.",
+      "id": "s16"
+    },
+    {
+      "text": "Belinda is a university student.",
+      "id": "s17"
+    },
+    {
+      "text": "5 Mr Di Lorenzo described his education in Italy as being \"up to Australian Year 10 equivalent\".",
+      "id": "s18"
+    },
+    {
+      "text": "It is clear that by dent of hard work and enterprise, he has built up a substantial business of supplying and fixing tiles, of which he is justly proud.",
+      "id": "s19"
+    },
+    {
+      "text": "6 Until 1978 Mr Di Lorenzo had been in employment.",
+      "id": "s20"
+    },
+    {
+      "text": "At that time he suffered a heart attack and decided to commence business on his own account.",
+      "id": "s21"
+    },
+    {
+      "text": "In 1982 he established a company, Vispoka Pty Ltd (it was incorporated on 21 June 1982), which, in 1996, changed its name to \"Di Lorenzo Ceramics Pty Ltd\".",
+      "id": "s22"
+    },
+    {
+      "text": "There was a further change in the company's name in 2005 to \"Di Lorenzo Pty Ltd\", but it is still appropriate to refer to it as \"Ceramics\".",
+      "id": "s23"
+    },
+    {
+      "text": "At all times, Mr and Mrs Di Lorenzo have been the only directors and shareholders of Ceramics.",
+      "id": "s24"
+    },
+    {
+      "text": "7 In 1984, Ceramics commenced its present business.",
+      "id": "s25"
+    },
+    {
+      "text": "Its clientele includes major developers and the public.",
+      "id": "s26"
+    },
+    {
+      "text": "Mr Di Lorenzo's four daughters have worked in the family business, in Belinda's case on a part-time basis on account of her university studies.",
+      "id": "s27"
+    },
+    {
+      "text": "Mr and Mrs Fresta have been heavily involved in the business.",
+      "id": "s28"
+    },
+    {
+      "text": "Mr Di Lorenzo describes Mrs Fresta as \"the financial controller\" and Mr Fresta as \"the general manager\".",
+      "id": "s29"
+    },
+    {
+      "text": "8 From 1984 to October 2002, Ceramics conducted its business out of premises at Blacktown --- from 1984 to 1992 out of leased premises, and from 1992 out of premises it purchased.",
+      "id": "s30"
+    },
+    {
+      "text": "9 The dispute with which the present proceedings are concerned arises out of the next expansion in the Di Lorenzo business.",
+      "id": "s31"
+    },
+    {
+      "text": "This took the form of the acquisition of a 9,500 square metre block of land at 13-15 Lexington Drive, Norwest Business Park, Baulkham Hills (the Norwest site), and the subsequent construction of a building on it.",
+      "id": "s32"
+    },
+    {
+      "text": "The purchase was completed on 30 June 2000.",
+      "id": "s33"
+    },
+    {
+      "text": "The construction of the building was completed in September 2002.",
+      "id": "s34"
+    },
+    {
+      "text": "In October 2002, the business was relocated to the new building.",
+      "id": "s35"
+    },
+    {
+      "text": "10 Mrs Fresta is a qualified chartered accountant and a member of the Institute of Chartered Accountants in Australia.",
+      "id": "s36"
+    },
+    {
+      "text": "According to her affidavit, she left employment with Ernst &amp; Young in 1993 and joined the family's business as the internal accountant for Ceramics.",
+      "id": "s37"
+    },
+    {
+      "text": "According to Mr Di Lorenzo's affidavit, from about 1996, when he underwent heart surgery, Mr and Mrs Fresta have worked in the family business.",
+      "id": "s38"
+    },
+    {
+      "text": "It may be that 1993 is the correct year for Mrs Fresta and 1996 the correct one for her husband.",
+      "id": "s39"
+    },
+    {
+      "text": "11 The external accountants and tax agents of the business are LCI Partners Pty Ltd (LCI).",
+      "id": "s40"
+    },
+    {
+      "text": "The letters \"L\", \"C\" and \"I\" apparently stand for the surnames of Sergio P Laureti, Frank Cavasinni and Gerry Incollingo, who are three of the directors of the incorporated practice.",
+      "id": "s41"
+    },
+    {
+      "text": "Mr Incollingo is the person at the firm who was most heavily involved in the dealings to be discussed.",
+      "id": "s42"
+    },
+    {
+      "text": "12 In 1999, Mr Di Lorenzo considered that there was an opportunity to expand the business of Ceramics into Baulkham Hills, where much residential property development was occurring.",
+      "id": "s43"
+    },
+    {
+      "text": "He negotiated a price of $1.9 million for the Norwest site.",
+      "id": "s44"
+    },
+    {
+      "text": "A quantity surveyor advised him that the cost of building suitable premises would be in the order of $3 million, although this proved to be an underestimate.",
+      "id": "s45"
+    },
+    {
+      "text": "According to these figures, some $4.9 million would be needed.",
+      "id": "s46"
+    },
+    {
+      "text": "The ANZ Bank (ANZ) agreed to provide finance.",
+      "id": "s47"
+    },
+    {
+      "text": "There are different versions of the lending arrangements proposed but there are various possible explanations for any discrepancies, which are, in any event, of no consequence.",
+      "id": "s48"
+    },
+    {
+      "text": "Mrs Fresta states that ANZ agreed to lend $4.4 million.",
+      "id": "s49"
+    },
+    {
+      "text": "Mr Di Lorenzo says that it agreed to lend $1.7 million towards the purchase and $2 million towards the construction (a total of $3.7 million).",
+      "id": "s50"
+    },
+    {
+      "text": "Mr Di Lorenzo states that ANZ insisted that he find an equity contribution of some $700,000 immediately, comprising approximately $200,000 for the deposit and expenses on the purchase of the land, and $500,000 towards construction.",
+      "id": "s51"
+    },
+    {
+      "text": "13 ANZ also required security.",
+      "id": "s52"
+    },
+    {
+      "text": "In addition to guarantees and securities provided by Mr and Mrs Di Lorenzo, Mr and Mrs Fresta agreed to provide a guarantee secured by a first mortgage over their home.",
+      "id": "s53"
+    },
+    {
+      "text": "Mrs Fresta states that she and her husband were the only members of the family who were able to assist in this way at the time because her younger sisters were in circumstances that did not permit them to do so.",
+      "id": "s54"
+    },
+    {
+      "text": "14 Mr Di Lorenzo and Mrs Fresta discussed with Mr Incollingo the most desirable way of structuring the acquisition and construction, and it was decided that a unit trust structure be used, the trustee company being a new company to be formed, the units in the trust being held as to three quarters by Ceramics and one quarter by a company to be formed for Mr and Mrs Fresta.",
+      "id": "s55"
+    },
+    {
+      "text": "The premises were to be leased by Ceramics from the trustee of the unit trust.",
+      "id": "s56"
+    },
+    {
+      "text": "15 Accordingly, Mr Incollingo caused Tile and Fresta to be incorporated on 25 August 1999, and by Deed dated 27 September 1999, the Di Lorenzo Property Group Unit Trust (the Unit Trust) to be constituted with Tile as trustee and a capital of $4.00 divided into four units, held as to three by Ceramics and as to one by Fresta.",
+      "id": "s57"
+    },
+    {
+      "text": "16 Mr and Mrs Di Lorenzo have always been the only directors and shareholders of Tile, and Mr and Mrs Fresta the only directors and shareholders of Fresta.",
+      "id": "s58"
+    },
+    {
+      "text": "17 According to a letter from ANZ dated 17 May 2000, ANZ offered two facilities of $1.7 million and $2 million to Tile and five facilities totalling $1,115,000 to Ceramics, a grand total of $4,815,000.",
+      "id": "s59"
+    },
+    {
+      "text": "18 The solicitors who acted for Tile on the purchase were MatthewsFolbigg and the persons of that firm who were involved were Paul Matthews and Danuta Harkin.",
+      "id": "s60"
+    },
+    {
+      "text": "19 The MatthewsFolbigg \"Purchaser Settlement Sheet\" dated 30 June 2000 shows that on settlement ANZ advanced $1,694,456.17.",
+      "id": "s61"
+    },
+    {
+      "text": "The deposit that had been paid was $190,000, and the solicitors asked Tile to provide by way of bank cheque a remaining balance of $33,157.87.",
+      "id": "s62"
+    },
+    {
+      "text": "In substance then, ANZ advanced to Tile $1,694,456.17, and a further $223,157.87 came from within the Di Lorenzo family.",
+      "id": "s63"
+    },
+    {
+      "text": "In fact those monies and all others that were provided from the Di Lorenzo family group towards the purchase and construction, came from Ceramics and were paid out of its bank account.",
+      "id": "s64"
+    },
+    {
+      "text": "A bank account was never opened for Tile.",
+      "id": "s65"
+    },
+    {
+      "text": "20 Tile entered into a building contract with State Developments Pty Ltd dated 11 September 2000 for the construction of the building for an estimated price of $3,300,000.",
+      "id": "s66"
+    },
+    {
+      "text": "21 On 1 October 2001 Tile granted a lease of the building to Ceramics at a rental of $55,000 per month commencing on that date.",
+      "id": "s67"
+    },
+    {
+      "text": "22 Other companies, trusts and superannuation funds have been involved in the Di Lorenzo family group.",
+      "id": "s68"
+    },
+    {
+      "text": "These, however, are not relevant to the issues before the Court.",
+      "id": "s69"
+    },
+    {
+      "text": "LEGISLATION \n \n23 Prior to the introduction of Div 7A, s 108 of the Act was an anti-avoidance provision intended to prevent private companies from distributing profits to shareholders and their associates tax free in the form of loans or other payments.",
+      "id": "s70"
+    },
+    {
+      "text": "Generally speaking, s 108 also operated to capture amounts paid or credited to a shareholder or a person associated with a shareholder, deeming such amounts to be dividends, which would therefore be included in assessable income of the recipient under s 44(1) of the Act.",
+      "id": "s71"
+    },
+    {
+      "text": "The deemed dividend was not, however, subject to dividend withholding tax and was unfrankable (that is, could not carry imputation credits to allow a rebate to the recipients for tax paid by the company).",
+      "id": "s72"
+    },
+    {
+      "text": "24 Importantly, however, s 108 operated only when the Commissioner formed the opinion that the amount lent or paid represented a distribution of profits.",
+      "id": "s73"
+    },
+    {
+      "text": "In order to be in a position to form that opinion, the Commissioner needed to consider many factors and to analyse much information, which usually would not be available unless the Commissioner conducted an audit.",
+      "id": "s74"
+    },
+    {
+      "text": "It was believed that many amounts paid or credited that should have been assessed as dividend income were escaping taxation.",
+      "id": "s75"
+    },
+    {
+      "text": "25 Division 7A was introduced by the Taxation Laws Amendment Act (No 3) 1998 (Cth).",
+      "id": "s76"
+    },
+    {
+      "text": "In the Explanatory Memorandum for the Bill for the amending Act, it was explained that the new measures would operate automatically rather than depend on the formation of an opinion by the Commissioner.",
+      "id": "s77"
+    },
+    {
+      "text": "26 On the Second Reading Speech for the Bill, the Assistant Treasurer, Senator the Hon Rod Kemp, stated:\n \n The Income Tax Assessment Act 1936 is being amended to ensure that payments and loans made by a private company to a shareholder or a shareholder's associate are treated as assessable dividends to the extent that there are realised or unrealised profits in the company.",
+      "id": "s78"
+    },
+    {
+      "text": "Generally speaking, the amendments applied from 4 December 1997, the date of their introduction into the Parliament.",
+      "id": "s79"
+    },
+    {
+      "text": "Section 109B , the first section within Div 7A, explained that the Division treated three kinds of amounts as dividends paid by a private company:\n \n&#8226; amounts paid by the company to a shareholder or shareholder's associate (s 109C) ;\n \n&#8226; amounts lent by the company to a shareholder or shareholder's associate (ss 109D , 109E );\n \n&#8226; amounts of debts owed by a shareholder or shareholder's associate to the company that the company forgave (s 109F).",
+      "id": "s80"
+    },
+    {
+      "text": "27 The amounts were made assessable income of the shareholder or associate (under s 44(1) , noted earlier) and provided a basis for reducing the company's franking account credit (under s 160AQCNC).",
+      "id": "s81"
+    },
+    {
+      "text": "28 Some payments, loans and forgivings of debts were not treated as dividends (Subdivs C and D).",
+      "id": "s82"
+    },
+    {
+      "text": "Two of the provisions in Subdiv D have featured in this case.",
+      "id": "s83"
+    },
+    {
+      "text": "First, s 109J provided:\n \n A private company is not taken under section 109C to pay a dividend because of the payment of an amount, to the extent that the payment: \n \n \n (a) discharges an obligation of the private company to pay money to the entity; and\n (b) is not more than would have been required to discharge the obligation had the private company and entity been dealing with each other at arm's length.",
+      "id": "s84"
+    },
+    {
+      "text": "Accordingly, if Ceramics purchased property from Tile and thereby incurred an obligation to pay Tile the purchase price, and if that price was no more than the price the parties would have agreed upon if they had been dealing with each other at arm's length, s 109C would not deem the payment to be a dividend.",
+      "id": "s85"
+    },
+    {
+      "text": "I note that it has not been suggested before me that the rental paid by Ceramics to Tile pursuant to Ceramics' obligations as lessee is a deemed dividend under s 109C: no doubt the view has been taken that the amount of the rent is no more than that which Tile and Ceramics would have agreed upon if they had been dealing with each other at arm's length.",
+      "id": "s86"
+    },
+    {
+      "text": "29 The second noteworthy provision in Subdiv D is s 109K , which provided:\n \n A private company is not taken under section 109C or 109D to pay a dividend because of a payment or loan the private company makes to another company.",
+      "id": "s87"
+    },
+    {
+      "text": "Note: This does not apply to a payment or loan to a company in its capacity as trustee.",
+      "id": "s88"
+    },
+    {
+      "text": "(See section 109ZE.",
+      "id": "s89"
+    },
+    {
+      "text": ") \n \n \n\nI discuss this provision at [95] --- [98] below.",
+      "id": "s90"
+    },
+    {
+      "text": "30 An amount was to be treated as a dividend even if it was paid or lent by the company to the shareholder or associate through one or more interposed entities (Subdiv E).",
+      "id": "s91"
+    },
+    {
+      "text": "If the total of the amounts of the deemed dividends exceeded the company's distributable surplus, only that part of the total equal to the distributable surplus was treated as dividend (s 109Y).",
+      "id": "s92"
+    },
+    {
+      "text": "31 In the present case, \"the company\" is Ceramics and the shareholders in it are Mr and Mrs Di Lorenzo.",
+      "id": "s93"
+    },
+    {
+      "text": "The Commissioner's case is that:\n \n&#8226; Ceramics made loans to Tile by reason of the payments it made in discharge of Tile's liabilities in connection with the purchase and construction;\n \n&#8226; by reason of the fact that Mr and Mrs Di Lorenzo were the only shareholders in Ceramics and Tile, and of the statutory definition of \"associate\", Tile was an associate of the shareholders in Ceramics; and\n \n&#8226; in their capacity as unitholders, Ceramics and Fresta were presently entitled to the income consisting of the deemed dividends, as to three quarters in the case of Ceramics and as to one quarter in the case of Fresta.",
+      "id": "s94"
+    },
+    {
+      "text": "32 Sections 109C and 109D provided as follows:\n \n 109C Payments treated as dividends \n \n When private company is taken to pay a dividend \n \n (1) A private company is taken to pay a dividend to an entity at the end of the private company's year of income if the private company pays an amount to the entity during the year and either:\n \n (a) the payment is made when the entity is a shareholder in the private company or an associate of such a shareholder; or\n \n (b) a reasonable person would conclude (having regard to all the circumstances) that the payment is made because the entity has been such a shareholder or associate at some time.",
+      "id": "s95"
+    },
+    {
+      "text": "Note 1: Some payments do not give rise to dividends.",
+      "id": "s96"
+    },
+    {
+      "text": "See Subdivision D.\n \nNote 2: A private company is treated as making a payment to a shareholder or shareholder's associate if an interposed entity makes a payment to the shareholder or associate.",
+      "id": "s97"
+    },
+    {
+      "text": "See Subdivision E.\n \n Amount of dividend \n \n (2) The dividend is taken to equal the amount paid, subject to section 109Y.",
+      "id": "s98"
+    },
+    {
+      "text": "Note: Section 109Y limits the total amount of dividends taken to have been paid by a private company under this Division to the company's distributable surplus.",
+      "id": "s99"
+    },
+    {
+      "text": "What is a payment to an entity?",
+      "id": "s100"
+    },
+    {
+      "text": "(3) In this Division, payment to an entity means:\n \n (a) a payment to the extent that it is to the entity, on behalf of the entity or for the benefit of the entity; and\n \n (b) a credit of an amount to the extent that it is:\n \n (i) to the entity; or\n \n (ii) on behalf of the entity; or\n \n (iii) for the benefit of the entity; and\n \n (c) a transfer of property to the entity.",
+      "id": "s101"
+    },
+    {
+      "text": "Loans are not payments \n \n (3A) However, a loan to an entity is not a payment to the entity.",
+      "id": "s102"
+    },
+    {
+      "text": "Value of payment by transfer of property \n \n (4) The amount of a payment consisting of a transfer of property is the amount that would have been paid for the transfer by parties dealing at arm's length less any consideration given by the transferee for the transfer.",
+      "id": "s103"
+    },
+    {
+      "text": "(The amount of a payment is nil if the consideration given by the transferee equals or exceeds the amount that would have been paid at arm's length for the transfer.",
+      "id": "s104"
+    },
+    {
+      "text": ")\n \n 109D Loans treated as dividends \n \n Loans treated as dividends in year of making \n \n (1) A private company is taken to pay a dividend to an entity at the end of one of the private company's years of income (the current year ) if:\n \n (a) the private company makes a loan to the entity during the current year; and\n \n (b) the loan is not fully repaid by the end of the current year; and\n \n (c) Subdivision D does not prevent the private company from being taken to pay a dividend because of the loan at the end of the current year; and\n \n (d) either:\n \n (i) the entity is a shareholder in the private company, or an associate of such a shareholder, when the loan is made; or\n \n (ii) a reasonable person would conclude (having regard to all the circumstances) that the loan is made because the entity has been such a shareholder or associate at some time.",
+      "id": "s105"
+    },
+    {
+      "text": "Note 1: Some repayments cannot be counted for the purpose of this subsection.",
+      "id": "s106"
+    },
+    {
+      "text": "See section 109R.",
+      "id": "s107"
+    },
+    {
+      "text": "Note 2: A private company is treated as making a loan to a shareholder or shareholder's associate if an interposed entity makes a loan to the shareholder or associate.",
+      "id": "s108"
+    },
+    {
+      "text": "See Subdivision E.\n \n Loans treated as dividends in year following that of making \n \n (1A) ... \n \n Amount of dividend \n \n (2) The amount of the dividend taken to have been paid is the amount of the loan that has not been repaid at the end of the current year, subject to section 109Y.",
+      "id": "s109"
+    },
+    {
+      "text": "Note: Section 109Y limits the total amount of dividends taken to have been paid by a private company under this Division to the company's distributable surplus.",
+      "id": "s110"
+    },
+    {
+      "text": "What is a loan?",
+      "id": "s111"
+    },
+    {
+      "text": "(3) In this Division, loan includes:\n \n (a) an advance of money; and\n \n (b) a provision of credit or any other form of financial accommodation; and\n \n (c) a payment of an amount for, on account of, on behalf of or at the request of, an entity, if there is an express or implied obligation to repay the amount; and\n \n (d) a transaction (whatever its terms or form) which in substance effects a loan of money.",
+      "id": "s112"
+    },
+    {
+      "text": "In which year of income is a loan made?",
+      "id": "s113"
+    },
+    {
+      "text": "(4) ...\n \n Loans made before 4 December 1997 \n \n (5) ...",
+      "id": "s114"
+    },
+    {
+      "text": "It will be noted that by reason of s 109C(3A) , payments and loans are dealt with in a mutually exclusive manner in ss 109C and 109D respectively.",
+      "id": "s115"
+    },
+    {
+      "text": "33 Section 109Z provided:\n \n If a private company is taken under this Division to have paid a dividend to an entity, the dividend is taken for the purposes of this Act to be paid: \n \n \n (a) to the entity as a shareholder in the private company; and\n (b) out of the private company's profits.",
+      "id": "s116"
+    },
+    {
+      "text": "Accordingly, if, as the Commissioner contends, Ceramics is taken to have paid a dividend to Tile, the dividend is taken to have been paid to Tile as a shareholder in Ceramics.",
+      "id": "s117"
+    },
+    {
+      "text": "34 Section 109ZD provided that in Div 7A, \"associate\" had the meaning given by s 318 of the Act, \"entity\" had the meaning given by s 960-100 of the Income Tax Assessment Act 1997 (Cth) (the 1997 Act), and \"loan\" and \"payment\" had the respective meanings given by ss 109D(3) and 109C(3) of the Act.",
+      "id": "s118"
+    },
+    {
+      "text": "35 Not only did s 109ZD, as noted above, provide that in Div 7A \"entity\" had the meaning given by s 960-100 of the 1997 Act: in addition, s 109ZE provided that the rules in s 960-100 of the 1997 Act about entities apply to Div 7A.",
+      "id": "s119"
+    },
+    {
+      "text": "Section 960-100 of the 1997 Act provided as follows:\n \n (1) Entity means any of the following:\n \n (a) an individual;\n \n (b) a body corporate;\n \n (c) a body politic;\n \n (d) a partnership;\n \n (e) any other unincorporated association or body of persons;\n \n (f) a trust;\n \n (g) a superannuation fund.",
+      "id": "s120"
+    },
+    {
+      "text": "Note: The term entity is used in a number of different but related senses.",
+      "id": "s121"
+    },
+    {
+      "text": "It covers all kinds of legal person.",
+      "id": "s122"
+    },
+    {
+      "text": "It also covers groups of legal persons, and other things, that in practice are treated as having a separate identity in the same way as a legal person does.",
+      "id": "s123"
+    },
+    {
+      "text": "(1A) ...\n \n (2) The trustee of a trust or of a superannuation fund is taken to be an entity consisting of the person who is the trustee, or the persons who are the trustees, at any given time.",
+      "id": "s124"
+    },
+    {
+      "text": "Note: This is because a right or obligation cannot be conferred or imposed on an entity that is not a legal person.",
+      "id": "s125"
+    },
+    {
+      "text": "(3) A legal person can have a number of different capacities in which the person does things.",
+      "id": "s126"
+    },
+    {
+      "text": "In each of those capacities, the person is taken to be a different entity .",
+      "id": "s127"
+    },
+    {
+      "text": "Example: In addition to his or her personal capacity, an individual may be:\n \n sole trustee of one or more trusts; and\n \n one of a number of trustees of a further trust.",
+      "id": "s128"
+    },
+    {
+      "text": "In his or her personal capacity, he or she is one entity.",
+      "id": "s129"
+    },
+    {
+      "text": "As trustee of each trust, he or she is a different entity.",
+      "id": "s130"
+    },
+    {
+      "text": "The trustees of the further trust are a different entity again, of which the individual is a member.",
+      "id": "s131"
+    },
+    {
+      "text": "(4) If a provision refers to an entity of a particular kind, it refers to the entity in its capacity as that kind of entity, not to that entity in any other capacity.",
+      "id": "s132"
+    },
+    {
+      "text": "Example: A provision that refers to a company does not cover a company in a capacity as trustee, unless it also refers to a trustee.",
+      "id": "s133"
+    },
+    {
+      "text": "Note: Under section 87-35, certain parts of Australian governments and authorities are treated as separate entities for the purposes of ascertaining whether another entity is conducting a personal services business.",
+      "id": "s134"
+    },
+    {
+      "text": "It is to be noted that s 2-45 of the 1997 Act provided that notes and examples formed part of that Act, although they were distinguished from the operative provisions in their typeface.",
+      "id": "s135"
+    },
+    {
+      "text": "36 Section 318 of the Act provided, relevantly, as follows:\n \n \n (1) For the purposes of this Part [Pt X], the following are associates of an entity (in this subsection called the primary entity ) that is a natural person (otherwise than in the capacity of trustee):\n ... \n \n \n \n \n (d) a trustee of a trust where the primary entity, or another entity that is an associate of the primary entity because of another paragraph of this subsection, benefits under the trust; \n \n \n \n \n (e) a company where: \n \n \n \n \n (i) ...\n (ii) a majority voting interest in the company is held by: \n \n \n \n (A) the primary entity; ... \n \n \n \n \n \n \n\nIt was not argued that Tile was not an associate of Ceramics under these provisions.",
+      "id": "s136"
+    },
+    {
+      "text": "Mr and Mrs Di Lorenzo are the shareholders in Ceramics: see ss 109C(1) and 109D(1) above.",
+      "id": "s137"
+    },
+    {
+      "text": "If we treat Mr and Mrs Di Lorenzo as the \"primary entity\" referred to in subs (1) of s 318, Tile falls within para (d) of that subsection because it is a trustee of a trust where another entity that is an associate of Mr and Mrs Di Lorenzo, namely, Ceramics, benefits under the trust.",
+      "id": "s138"
+    },
+    {
+      "text": "Ceramics is an associate of Mr and Mrs Di Lorenzo because it is a company where a majority voting interest in it is held by Mr and Mrs Di Lorenzo within s 318(1)(e).",
+      "id": "s139"
+    },
+    {
+      "text": "37 I will note further provisions of the Act, notably ss 45Z and 46, which have been referred to in submissions, in the discussion at [113] --- [117] below.",
+      "id": "s140"
+    },
+    {
+      "text": "A FACTUAL DISPUTE --- WAS THERE A LOAN BY CERAMICS TO TILE?",
+      "id": "s141"
+    },
+    {
+      "text": "38 The only significant factual dispute in the case concerns whether Ceramics lent to Tile the monies that Tile needed to purchase the land and to construct the building, other than the monies that Tile borrowed from ANZ.",
+      "id": "s142"
+    },
+    {
+      "text": "The Commissioner contends that Ceramics did so and that in consequence s 109D of the Act (loans) applied.",
+      "id": "s143"
+    },
+    {
+      "text": "The applicants contend that Ceramics did not do so and that as between s 109C (payments) and s 109D (loans) it is s 109C that falls to be considered.",
+      "id": "s144"
+    },
+    {
+      "text": "They submit, however, that s 109C is not enlivened in any event.",
+      "id": "s145"
+    },
+    {
+      "text": "Moreover, they submit that the factual dispute (as to whether there was a loan from Ceramics to Tile) \"is largely an irrelevant distraction because ... the threshold legal issue is the same whether a private company [Ceramics] pays money to a trustee [Tile] for itself [Ceramics] or lends money to the trust [Tile] for itself [Ceramics]\".",
+      "id": "s146"
+    },
+    {
+      "text": "39 It was only very late in the day that the applicants came to contend that the monies that Ceramics paid to Tile were not loans.",
+      "id": "s147"
+    },
+    {
+      "text": "In his evidence, Mr Di Lorenzo insisted that he left everything to Mr Incollingo to set up.",
+      "id": "s148"
+    },
+    {
+      "text": "He said that his only intention was that his four daughters should share in all that he had to leave them in four equal shares, but with Mrs Fresta receiving her one quarter immediately in view of the fact that she and her husband had provided their personal guarantees and the mortgage over their home.",
+      "id": "s149"
+    },
+    {
+      "text": "Mrs Fresta's evidence was generally to the same effect.",
+      "id": "s150"
+    },
+    {
+      "text": "So was that of Mr Incollingo.",
+      "id": "s151"
+    },
+    {
+      "text": "In her affidavit, Mrs Fresta said: \"It was always understood that I was not to attain any extra benefits, but that I was just getting this benefit earlier.",
+      "id": "s152"
+    },
+    {
+      "text": "\" The accountants, Mrs Fresta and Mr Incollingo, said that the numerous references to a \"loan\" revealed in the documentary and other evidence before the Court did not adequately reflect the parties' intention.",
+      "id": "s153"
+    },
+    {
+      "text": "40 Andrew Farrugia, a Technical Officer in the Small Medium Enterprises business line at the Australian Taxation Office (ATO) at Parramatta, made an affidavit that recounted in chronological sequence the contacts between the ATO and the Di Lorenzo family or LCI on its behalf.",
+      "id": "s154"
+    },
+    {
+      "text": "41 Mr Farrugia had the conduct of a comprehensive review on behalf of the Commissioner in relation to the tax affairs of Ceramics in respect of the years of income ended 30 June 2000, 2001 and 2002.",
+      "id": "s155"
+    },
+    {
+      "text": "As a result of issues that emerged during the course of the review, he subsequently conducted an audit of Ceramics.",
+      "id": "s156"
+    },
+    {
+      "text": "42 On 14 April 2003, the ATO wrote to Mr Di Lorenzo advising that it was conducting a review of the tax affairs of Ceramics.",
+      "id": "s157"
+    },
+    {
+      "text": "The letter asked him to provide certain information for the three years mentioned, including a statement of financial performance and a statement of financial position.",
+      "id": "s158"
+    },
+    {
+      "text": "43 On 6 May 2003, Mr Laureti of LCI forwarded to the ATO balance sheets and profit and loss accounts as at, and for the years ended, 30 June 2000, 2001 and 2002.",
+      "id": "s159"
+    },
+    {
+      "text": "A covering statement was to the effect that the directors of Ceramics had provided the financial information that formed the basis of the financial statements.",
+      "id": "s160"
+    },
+    {
+      "text": "44 The respective balance sheets showed as a current asset of Ceramics a loan to the Unit Trust as follows:\n \n 30 June 2000 \n \n 30 June 2001 \n \n 30 June 2002 \n \n $384,218.28 \n \n $841,704.87 \n \n $778,982.62\n \n \nIt will be recalled that the year ended 30 June 2000 was the year in which Tile and Fresta were incorporated and the Unit Trust established.",
+      "id": "s161"
+    },
+    {
+      "text": "45 On 16 May 2003, Mr Farrugia attended the premises of LCI at Church Street Parramatta, where he met with Mr Di Lorenzo.",
+      "id": "s162"
+    },
+    {
+      "text": "Mr Fresta and Mr Incollingo were also present.",
+      "id": "s163"
+    },
+    {
+      "text": "Either Mr Di Lorenzo or Mr Fresta said that the books of account were prepared by Mr Di Lorenzo's daughters.",
+      "id": "s164"
+    },
+    {
+      "text": "Mr Farrugia asked questions concerning the \"loans\", and Mr Incollingo said that the loan recorded in the balance sheet related to the deposit cheque for the Norwest site that was paid for by the Unit Trust from funds provided by Ceramics.",
+      "id": "s165"
+    },
+    {
+      "text": "He said \"there are no loan agreements in respect of both loans and no interest has been charged on either.",
+      "id": "s166"
+    },
+    {
+      "text": "The loans will be paid back.",
+      "id": "s167"
+    },
+    {
+      "text": "\" \n \n46 In cross-examination, while not denying the accuracy of Mr Farrugia's contemporaneous notes, to the above effect, Mr Incollingo said that he could not recall stating that the loans were to be paid back.",
+      "id": "s168"
+    },
+    {
+      "text": "47 According to his affidavit, Mr Farrugia said to those present that where a loan is made by a company to a trustee company there may be \"Division 7A implications in relation to the loan to the Unit Trust\", but Mr Incollingo replied that he thought there was no problem as there had been no distribution by the Unit Trust.",
+      "id": "s169"
+    },
+    {
+      "text": "He undertook to give Mr Farrugia details of the Unit Trust and of the trustee company.",
+      "id": "s170"
+    },
+    {
+      "text": "48 It is significant that Mr Incollingo's response was not to say that the reference to \"loan\" had been a mistake, but that a loan presented no difficulty because there had been no distribution to the unitholders.",
+      "id": "s171"
+    },
+    {
+      "text": "49 On 21 May 2003, there was a telephone conversation between Mr Farrugia and Mr Incollingo in which Mr Farrugia again referred to the loan to the Unit Trust as being \"a major issue which [would] require further discussions\".",
+      "id": "s172"
+    },
+    {
+      "text": "Mr Farrugia undertook to fax a letter to Mr Incollingo outlining the tax issues to be discussed at a meeting that was scheduled for 28 May 2003.",
+      "id": "s173"
+    },
+    {
+      "text": "50 On 22 May 2003, Mr Farrugia wrote to Mr Di Lorenzo care of Mr Incollingo seeking further particulars of the loan and other information, and asking that the information and documentation requested be provided at the meeting scheduled for 27 May 2003 (apparently there had been a change from 28 May 2003 or the earlier reference to that date had been an error).",
+      "id": "s174"
+    },
+    {
+      "text": "51 On 27 May 2003, at the offices of LCI, Mr Incollingo said that he thought the loan was to the Unit Trust and could be classed as an investment with the consequence that Division 7A did not apply.",
+      "id": "s175"
+    },
+    {
+      "text": "According to Mr Farrugia, during the interview he was handed a two page response to his letter of 22 May 2003 and a copy of the Unit Trust balance sheets as at 30 June 2000 and 2002.",
+      "id": "s176"
+    },
+    {
+      "text": "52 The two page document stated under the heading \"Loan to Di Lorenzo Property Group Trust\", \"[t]his loan originated in October 1999 with the purchase of the property at Lot 7071 Lexington Drive Norwest Business Park, Bella Vista\".",
+      "id": "s177"
+    },
+    {
+      "text": "In cross-examination Mr Incollingo questioned whether he would have given such a two page document to Mr Farrugia because it was not on LCI's letterhead.",
+      "id": "s178"
+    },
+    {
+      "text": "He insisted that virtually all documents that go out of LCI's office go out on the firm's letterhead.",
+      "id": "s179"
+    },
+    {
+      "text": "He said, however, that he did not mean to suggest that Mr Farrugia's evidence was false.",
+      "id": "s180"
+    },
+    {
+      "text": "I note that Mr Farrugia's letter of 22 May 2003 had requested 13 classes of particulars, and that the two page document responded in 13 corresponding paragraphs.",
+      "id": "s181"
+    },
+    {
+      "text": "I find that the two page document was prepared by or under the direction of Mr Incollingo and that he or someone under his direction handed it to Mr Farrugia in the course of the meeting.",
+      "id": "s182"
+    },
+    {
+      "text": "53 Indeed, I note more generally that I accept Mr Farrugia's evidence of his dealings with Mr Incollingo, to which there was, in any event, no serious challenge.",
+      "id": "s183"
+    },
+    {
+      "text": "He made contemporaneous handwritten notes of the conversations to which he was a party and annexed them to his affidavit.",
+      "id": "s184"
+    },
+    {
+      "text": "54 The balance sheet that was handed to Mr Farrugia at the meeting on 27 May 2003 showed that as at 30 June 2000, the Unit Trust had a current liability in the form of a loan made by Ceramics of $384,218.28, and the balance sheet of the Unit Trust as at 30 June 2002 showed a comparable figure of $778,982.62.",
+      "id": "s185"
+    },
+    {
+      "text": "These figures were, of course, the amounts shown in the balance sheets as at 30 June 2000 and 30 June 2002 of Ceramics as assets of that company (see [44] above).",
+      "id": "s186"
+    },
+    {
+      "text": "55 On 28 May 2003, Mr Farrugia told Mr Incollingo that he had meant to get a copy of \"the Loan Account\" at the meeting on the preceding day but had omitted to do so, and Mr Incollingo said that he would fax to Mr Farrugia \"a copy of the Loan Account\".",
+      "id": "s187"
+    },
+    {
+      "text": "On the same day, 28 May 2003, Mr Incollingo faxed to Mr Farrugia what his covering memo described as \"Ledger printout for the loan to Di Lorenzo Property Group Unit Trust for the three years from 2000 to 2002\".",
+      "id": "s188"
+    },
+    {
+      "text": "That document was headed \"Di Lorenzo Ceramics Pty Ltd --- Annual General Ledger\".",
+      "id": "s189"
+    },
+    {
+      "text": "The first item under the heading \"Narration\" was \"Loan --- Di Lorenzo Property Group Unit Trust\".",
+      "id": "s190"
+    },
+    {
+      "text": "Apart from an opening balance of Nil, the first entry was dated 31 October 1999 and was a debit of $190,000.",
+      "id": "s191"
+    },
+    {
+      "text": "I infer that this was the amount of the deposit that Ceramics had paid on account of Tile towards the purchase of the Norwest site.",
+      "id": "s192"
+    },
+    {
+      "text": "56 The Annual General Ledger, to the extent that it was provided, covered the period from 31 October 1999 to 30 June 2002.",
+      "id": "s193"
+    },
+    {
+      "text": "It contained references to numerous payments connected with the purchase of the Norwest site and the construction of the building.",
+      "id": "s194"
+    },
+    {
+      "text": "For the year ended 30 June 2000, the debit entries totalled $384,218.28 (see [44] above).",
+      "id": "s195"
+    },
+    {
+      "text": "There were no credits to Tile's loan account with Ceramics for that year.",
+      "id": "s196"
+    },
+    {
+      "text": "For the year ended 30 June 2001 there were many debit and credit entries, leaving a debit balance at that date of $841,704.87 (see [44] above).",
+      "id": "s197"
+    },
+    {
+      "text": "(Since the Commissioner treated the payments by Ceramics as loans to Tile, he similarly treated the amounts credited to Tile's loan account as repayments, and only the debit balance of $841,704.87 at 30 June 2001 as the amount of the deemed dividend --- see s 109D(2) of the Act.",
+      "id": "s198"
+    },
+    {
+      "text": ")\n \n57 Mr Incollingo also provided to Mr Farrugia a copy of the Unit Trust Deed.",
+      "id": "s199"
+    },
+    {
+      "text": "58 On 3 June 2003, Mr Farrugia telephoned LCI and spoke to Anna Forcella, an employee, stating that the main issue of concern to the ATO was \"the loan to the Unit Trust\".",
+      "id": "s200"
+    },
+    {
+      "text": "He arranged a further meeting for 12 June 2003 with Messrs Incollingo and Di Lorenzo.",
+      "id": "s201"
+    },
+    {
+      "text": "59 That meeting took place and Mr Laureti joined the discussion towards the end of the meeting.",
+      "id": "s202"
+    },
+    {
+      "text": "Mr Farrugia said that the ATO view was that the loan represented a deemed dividend under Div 7A.",
+      "id": "s203"
+    },
+    {
+      "text": "Mr Laureti said that he disagreed because he could not see how the loan could be deemed to be a dividend.",
+      "id": "s204"
+    },
+    {
+      "text": "He said: \"Who are the recipients of the deemed dividend given that the unitholders are the companies?\".",
+      "id": "s205"
+    },
+    {
+      "text": "Mr Farrugia replied that under the legislation the shareholders and/or their associates were deemed to be the recipients and, in the present case, that would be the unitholders (in and since his decision on the applicants' objections, the Commissioner has treated Tile as the recipient of the deemed dividend).",
+      "id": "s206"
+    },
+    {
+      "text": "60 On 30 June 2003, Mr Farrugia told Mr Incollingo that it had been decided to finalise the \"review\" and to commence an \"audit\".",
+      "id": "s207"
+    },
+    {
+      "text": "He indicated that a matter to be included in the audit was the loan to the Unit Trust.",
+      "id": "s208"
+    },
+    {
+      "text": "On the same day, he wrote to Ceramics care of LCI confirming the commencement of the audit of the company covering, inter alia, the issue concerning the loan to the Unit Trust.",
+      "id": "s209"
+    },
+    {
+      "text": "61 On 5 August 2003, Mr Farrugia attended the office of LCI and spoke to Mr Incollingo in relation to \"the loan account\" that he had sent to Mr Farrugia, asking for the source of the credits that were allocated to the loan account.",
+      "id": "s210"
+    },
+    {
+      "text": "Mr Incollingo said \"these figures relate to draw-downs from the ANZ loan and rent paid by Di Lorenzo Ceramics to the property trust\".",
+      "id": "s211"
+    },
+    {
+      "text": "Mr Farrugia asked for \"a copy of the loan account with full narrations\".",
+      "id": "s212"
+    },
+    {
+      "text": "62 On 7 August 2003, LCI forwarded to Mr Farrugia a copy of Ceramics' General Ledger Account 697 (Loans to Di Lorenzo Group Property Unit Trust) for the year ended 30 June 2001, with, according to the covering memo, \"narrations of all credit amounts\".",
+      "id": "s213"
+    },
+    {
+      "text": "63 On 12 September 2003, Mr Farrugia attended the premises of LCI where he met with Messrs Incollingo and Laureti.",
+      "id": "s214"
+    },
+    {
+      "text": "He said that the ATO was still of the view that the loan gave rise to a deemed dividend to the unitholders, as the trustee company, Tile, was an associate of the company (Ceramics) that had provided the loan, and the legislation did not exclude a loan by a company to another company in its capacity as trustee.",
+      "id": "s215"
+    },
+    {
+      "text": "According to Mr Farrugia's affidavit, Mr Laureti stated:\n \n A loan was not provided because the money should have been treated as an investment.",
+      "id": "s216"
+    },
+    {
+      "text": "We are going to organise for amended balance sheets to be prepared to change the loan to an investment.",
+      "id": "s217"
+    },
+    {
+      "text": "Mr Farrugia said that an amended balance sheet alone would not be sufficient.",
+      "id": "s218"
+    },
+    {
+      "text": "He asked for a submission to support the contention that the monies \"are now an investment\".",
+      "id": "s219"
+    },
+    {
+      "text": "64 On 17 September 2003, LCI wrote a lengthy letter to Mr Farrugia stating that there had been no intention for the monies advanced ever to be repaid, but that there was an intention to receive a return on an investment, whether it be in the form of capital or revenue.",
+      "id": "s220"
+    },
+    {
+      "text": "The letter asserted that the client did not \"fit into the parameters of the legislation because the monies subscribed for shares were not a loan but an investment in which they will enjoy a rate of return\".",
+      "id": "s221"
+    },
+    {
+      "text": "RESOLUTION OF THE FACTUAL DISPUTE \n \n65 Ceramics' Annual General Ledger included, in addition to numerous debit entries for payments made by Ceramics in discharge of liabilities of Tile, credit entries being amounts that came in from ANZ to Tile, BAS refunds to which Tile was entitled, and rental paid by Ceramics to Tile.",
+      "id": "s222"
+    },
+    {
+      "text": "It was truly a running account and had all the appearances of a running loan account as its title said it was.",
+      "id": "s223"
+    },
+    {
+      "text": "66 Mr Di Lorenzo gave evidence that there was never an intention that Ceramics make a loan to Tile.",
+      "id": "s224"
+    },
+    {
+      "text": "However, the gravamen of his evidence was that he intended only that his four daughters share equally and that he left all accounting and legal questions to the professionals.",
+      "id": "s225"
+    },
+    {
+      "text": "67 Mrs Fresta, a qualified accountant, said that the choice of the language of \"loan\" had not accurately captured the relationship between Ceramics and Tile.",
+      "id": "s226"
+    },
+    {
+      "text": "She said of the running account: \n \n The various inflows and outflows went in favour of Tile Investments as intended.",
+      "id": "s227"
+    },
+    {
+      "text": "This net amount from Ceramics to Tile Investments was recorded by LCI as loan in the monthly management accounts.",
+      "id": "s228"
+    },
+    {
+      "text": "From an accounting perspective, I considered that this was a reasonable treatment to reflect that there was some arrangement between Ceramics and Tile Investments, and I myself had marked the ANZ bank statement entries involving these payments as loans to Tile Investments.",
+      "id": "s229"
+    },
+    {
+      "text": "I never thought any further about this accounting description of the transactions because I did not consider that the precisely correct characterisation of it was necessary for taxation purposes, until the ATO auditors made their assertions.",
+      "id": "s230"
+    },
+    {
+      "text": "There is in evidence a statement of account issued by ANZ in respect of Ceramics' bank account in which Mrs Fresta wrote \"Loan DL [or DC] Tile Invest\" against an entry for 14 June 2001 of a transfer of $259,467.96 out of the account.",
+      "id": "s231"
+    },
+    {
+      "text": "The note recognised a loan by Ceramics to Tile.",
+      "id": "s232"
+    },
+    {
+      "text": "68 Mrs Fresta also said that the intended arrangement was that she was to receive her one quarter share upfront, and that there was no discussion when the Unit Trust was established in 1999 about her having to subscribe for additional units.",
+      "id": "s233"
+    },
+    {
+      "text": "69 Mr Incollingo was the person who had prepared the Annual General Ledger in relation to the \"Loan --- Di Lorenzo Property Group Unit Trust\".",
+      "id": "s234"
+    },
+    {
+      "text": "He emphasised that there was no separate bank account for the Unit Trust.",
+      "id": "s235"
+    },
+    {
+      "text": "According to Mr Incollingo, the error had come about because his staff had used a wrong coding --- 697 or 698 (\"loan\") instead of 780 (\"investment\").",
+      "id": "s236"
+    },
+    {
+      "text": "(Mr Incollingo's affidavit refers to code 697, but in cross-examination he referred to code 698.",
+      "id": "s237"
+    },
+    {
+      "text": ") He agreed that the Annual General Ledger of Ceramics recorded debit entries for payments of legal liabilities of Tile in connection with the construction work, that is to say, payments out to persons and companies who were creditors of Tile for goods and services provided in connection with the construction of the building on its land.",
+      "id": "s238"
+    },
+    {
+      "text": "Mr Incollingo insisted that the loan was in reality an \"investment\".",
+      "id": "s239"
+    },
+    {
+      "text": "70 In cross-examination, senior counsel for the Commissioner took Mr Incollingo to the running balance of the account as between Ceramics and Tile, showing that the opening balance at 1 July 2001 of $841,704.87 was reduced to $780,648.62 as at 30 June 2002.",
+      "id": "s240"
+    },
+    {
+      "text": "(I note that the figure of $780,648.62 for the year ended 30 June 2002, taken from an exhibit to Mr Incollingo's affidavit, differs from the figure of $778,982.62 quoted in [44] above for the same period.",
+      "id": "s241"
+    },
+    {
+      "text": "The $780,648.62 figure appears in an untitled \"running balance\" sheet.",
+      "id": "s242"
+    },
+    {
+      "text": "The $778,982.62 figure appears in an exhibit to Mr Farrugia's affidavit being the \"Annual General Ledger\" of Ceramics from 1 July 2001 to 30 June 2002.",
+      "id": "s243"
+    },
+    {
+      "text": "The amount of $780,648.62 appears in only the one place and I assume that $778,982.62 is the correct figure.",
+      "id": "s244"
+    },
+    {
+      "text": ") Senior counsel put it to Mr Incollingo that one does not ordinarily find an investment, but one does ordinarily find a running loan account, in the form of this account with, at times, a reducing balance.",
+      "id": "s245"
+    },
+    {
+      "text": "71 Mr Incollingo agreed that the credit entries for rent from Ceramics, BAS refunds and the payments on account of the borrowing from ANZ, were all monies of Tile.",
+      "id": "s246"
+    },
+    {
+      "text": "He would not agree, however, to the proposition that the making of those credit entries was \"consistent with\" repayment of a loan to Tile from Ceramics.",
+      "id": "s247"
+    },
+    {
+      "text": "He did agree, however, that the Ceramics account and the Unit Trust account mirrored each other.",
+      "id": "s248"
+    },
+    {
+      "text": "72 Mr Incollingo agreed that he had never protested to Mr Farrugia that the transaction was in fact not a loan but an investment.",
+      "id": "s249"
+    },
+    {
+      "text": "Mr Incollingo accepted that the response that he and Mr Laureti made to Mr Farrugia was that they could not understand how there could be a deemed dividend because \"that outcome was crazy\".",
+      "id": "s250"
+    },
+    {
+      "text": "In fact, in Mr Incollingo's affidavit he stated:\n \n Once it became apparent to me that the correct characterisation of Ceramics' payments was important for taxation purposes, I considered the loan treatment was incorrect.",
+      "id": "s251"
+    },
+    {
+      "text": "73 Mr Incollingo was taken to the Unit Trust income tax return for the year ended 30 June 2001 which recorded a current liability of $841,705 as at that date.",
+      "id": "s252"
+    },
+    {
+      "text": "He agreed that that entry reflected an indebtedness of the Unit Trust to Ceramics, and that if the payments made by Ceramics had been treated as an investment by it in the Unit Trust, that entry in the tax return would not have appeared.",
+      "id": "s253"
+    },
+    {
+      "text": "Mr Incollingo's explanation was, again, that the payments made by Ceramics out of its bank account had been wrongly shown as a loan to Tile in the various internal financial records.",
+      "id": "s254"
+    },
+    {
+      "text": "74 It appears that neither Mr Di Lorenzo nor Mrs Fresta nor any other director or member of Ceramics or Tile gave close attention to the legal character that the payments made by Ceramics on account of Tile's liabilities was to bear.",
+      "id": "s255"
+    },
+    {
+      "text": "At least there is no evidence of an express agreement that those amounts were to represent either a loan or a subscription for additional units (no one has suggested that they were intended to be a gift).",
+      "id": "s256"
+    },
+    {
+      "text": "There was no agreement that the amounts were to be repaid by a particular date.",
+      "id": "s257"
+    },
+    {
+      "text": "There was no agreement that any particular number of additional units was to be issued.",
+      "id": "s258"
+    },
+    {
+      "text": "The proper characterisation of the payments was, however, left to Mr Incollingo.",
+      "id": "s259"
+    },
+    {
+      "text": "Mr Di Lorenzo and Mrs Fresta were content to leave it to him to characterise them as he saw fit and to prepare Ceramics' and the Unit Trust's financial statements and tax returns accordingly.",
+      "id": "s260"
+    },
+    {
+      "text": "One piece of evidence of express instruction is the reference to a loan to Tile written against entries in Ceramics' bank statements that were provided by Mrs Fresta to Mr Incollingo, although that evidence could be regarded as her acquiescence in the course that Mr Incollingo was already taking.",
+      "id": "s261"
+    },
+    {
+      "text": "75 In my view there was a loan, because within the scope of his authority Mr Incollingo characterised the payments as loans, that is to say, as an indebtedness of Tile to Ceramics repayable upon demand.",
+      "id": "s262"
+    },
+    {
+      "text": "It was within the scope of Mr Incollingo's authority to establish a running loan account in the name of Tile, to treat the payments made by Ceramics as debits to it, and to treat the ANZ, rental and BAS receipts as repayments by Tile, as he in fact did.",
+      "id": "s263"
+    },
+    {
+      "text": "76 I also do not overlook the convenience of treating as loans payments such as those made by Ceramics to another company under the same ownership and control where, as here, no decision is taken that they are to bear a different complexion.",
+      "id": "s264"
+    },
+    {
+      "text": "Treating them as loans allows the greatest flexibility for the treatment of them in the future as occasion arises.",
+      "id": "s265"
+    },
+    {
+      "text": "The company providing the funds might not only require repayment in whole or in part, and at one time or from time to time; it might forego repayment in whole or part, and at one time or from time to time, as consideration for one kind of benefit or another being conferred by the other company.",
+      "id": "s266"
+    },
+    {
+      "text": "Acting within the scope of his authority, Mr Incollingo took the most convenient course.",
+      "id": "s267"
+    },
+    {
+      "text": "77 There was no agreement that the amounts paid by Ceramics were subscriptions for units in the Unit Trust, and the making of such an agreement would have prompted consideration of several practical questions.",
+      "id": "s268"
+    },
+    {
+      "text": "When were the further units to be issued to Ceramics?",
+      "id": "s269"
+    },
+    {
+      "text": "How would the gross imbalance between the ever increasing number of units held by Ceramics as against the single unit held by Fresta be avoided?",
+      "id": "s270"
+    },
+    {
+      "text": "On what basis could one additional unit be issued to Fresta for every three additional units issued to Ceramics?",
+      "id": "s271"
+    },
+    {
+      "text": "Would there be successive further issues of units?",
+      "id": "s272"
+    },
+    {
+      "text": "No consideration was given to such questions at the time when the Unit Trust was established.",
+      "id": "s273"
+    },
+    {
+      "text": "78 In this respect, Mr Incollingo's affidavit evidence is telling.",
+      "id": "s274"
+    },
+    {
+      "text": "He stated:\n \n Once it became apparent to me that the correct characterisation of Ceramics' payments was important for taxation purposes, I considered the loan treatment was incorrect.",
+      "id": "s275"
+    },
+    {
+      "text": "I considered an appropriate way to record properly Ceramics' payments was a further investment by Ceramics and Fresta in the Unit Trust, and that this should be formalised by way of the subscription for additional units in the Unit Trust.",
+      "id": "s276"
+    },
+    {
+      "text": "Because I knew it was always the intention of Jack and Maria that there be an investment into the Unit Trust and that the respective proportions should always remain 75/25, I considered it appropriate to record formally those decisions that had been informally made and in a way that reflected the formalities of the Unit Trust deed.",
+      "id": "s277"
+    },
+    {
+      "text": "I considered that the gift that Jack was in effect making to Maria (by reason that Fresta was attaining 25% of Ceramics' equity contribution) should be formally recorded as the subscription by Fresta of additional units equating to 25% of the issued units.",
+      "id": "s278"
+    },
+    {
+      "text": "Fresta's subscription was funded by Jack making a gift to Maria, who lent those funds to Fresta.",
+      "id": "s279"
+    },
+    {
+      "text": "Now shown to me and marked GI7 is a bundle of directors resolutions of Tile Investments made on 9 February, 2005.",
+      "id": "s280"
+    },
+    {
+      "text": "Now shown to me and marked GI8 is the unit register for the Unit Trust, which was altered on 9 February, 2005 to record the additional units.",
+      "id": "s281"
+    },
+    {
+      "text": "79 It was as late as 9 February 2005 that Mr Incollingo prepared the minutes and made entries in the Register of Unitholders for the Unit Trust to which he refers in this passage.",
+      "id": "s282"
+    },
+    {
+      "text": "The minutes of the meeting of directors of Tile on 28 September 1999 provided for the issue of 1,600,000 units at an issue price of $1.00 each --- 1,200,000 to Ceramics and 400,000 to Fresta.",
+      "id": "s283"
+    },
+    {
+      "text": "But Mr Incollingo did not have instructions back on 28 September 1999 (the Unit Trust Deed was dated 27 September 1999) that such additional units were to be issued or that Ceramics was to give Fresta $400,000 with which to subscribe for one quarter of them.",
+      "id": "s284"
+    },
+    {
+      "text": "80 Mr Incollingo has attempted to rewrite history in an effort to achieve what he considers to be a more fair and just result for his clients, and one that perhaps he thinks they would have agreed to if he had recommended it.",
+      "id": "s285"
+    },
+    {
+      "text": "81 The applicants suggest that a treatment of the payments made by Ceramics on account of Tile's liabilities as an investment in units was somehow supportive of the 75 percent/25 percent arrangement, whereas a treatment of them as a loan was not.",
+      "id": "s286"
+    },
+    {
+      "text": "I disagree.",
+      "id": "s287"
+    },
+    {
+      "text": "The 75 percent/25 percent arrangement was fixed by the original issue of three units to Ceramics and one to Fresta.",
+      "id": "s288"
+    },
+    {
+      "text": "A fluctuating loan account as between Tile and Ceramics does not detract from that arrangement, but dictates the fluctuating value, from time to time, of the four units.",
+      "id": "s289"
+    },
+    {
+      "text": "82 The authority given by Mr Di Lorenzo and Mrs Fresta to Mr Incollingo and the fluctuating account, its title, the numerous references to \"loan\" in the contemporaneous documents and also in things said by Mr Incollingo to Mr Farrugia show that there was a running loan account recording advances by way of loan from time to time by Ceramics to Tile.",
+      "id": "s290"
+    },
+    {
+      "text": "The loan was repayable on demand.",
+      "id": "s291"
+    },
+    {
+      "text": "Section 190D of the Act therefore has potential application.",
+      "id": "s292"
+    },
+    {
+      "text": "83 In the alternative, the relationship between Tile and Ceramics that arose from the making of the payments by Ceramics at Tile's request in discharge of Tile's legal liabilities was that of creditor/debtor.",
+      "id": "s293"
+    },
+    {
+      "text": "The relevant common money count was that of \"money paid by the plaintiff to the use of the defendant\" or simply \"money paid\" as it came to be called.",
+      "id": "s294"
+    },
+    {
+      "text": "Section 109C(3)(a) of the Act refers to a payment on behalf of, or for the benefit of, an entity --- a concept that captures this alternative legal complexion of the payments that Ceramics made in discharge of Tile's liabilities.",
+      "id": "s295"
+    },
+    {
+      "text": "84 I will consider the operation of ss 109C (payments) as well as of s 109D (loans).",
+      "id": "s296"
+    },
+    {
+      "text": "CONSIDERATION \n General \n \n85 The parties were content to debate the applicability of s 109C or s 109D on the basis of a comparison between s 109C(3)(a) on the one hand, and s 109D(3)(c) on the other hand.",
+      "id": "s297"
+    },
+    {
+      "text": "The applicants seized on the presence of the words \"if there is an express or implied obligation to repay the amount\" in s 109D(3)(c), and submitted that this element was absent.",
+      "id": "s298"
+    },
+    {
+      "text": "For the reasons given above, I think there was an implied obligation to repay, but in any event, there would be a payment by Ceramics to Tile within s 109C, unless other submissions made by the applicants were to be accepted.",
+      "id": "s299"
+    },
+    {
+      "text": "86 An important submission made by the applicants as to why neither section applied is that the payment or loan was not for the benefit of Tile, and that Div 7A does not apply to loans (or payments) made to a trustee.",
+      "id": "s300"
+    },
+    {
+      "text": "The submission is, in substance, that the dealings should be treated for present purposes as having been payments made by Ceramics to itself as to three quarters and to Fresta as to one quarter, because they were beneficially entitled under the terms of the Unit Trust Deed.",
+      "id": "s301"
+    },
+    {
+      "text": "This submission is fundamental to other submissions made by the applicants, and I will address it below.",
+      "id": "s302"
+    },
+    {
+      "text": "87 Tile in its capacity as trustee of the Unit Trust was an \"entity\".",
+      "id": "s303"
+    },
+    {
+      "text": "This results from the definition of \"entity\" in s 960-100 of the 1997 Act which defines \"entity\" to mean, inter alia, \"a trust\" and provides that the trustee of a trust is taken to be an entity consisting of the person who is the trustee at any given time (see [35] above).",
+      "id": "s304"
+    },
+    {
+      "text": "Importantly, the same section provides that a legal person can have a number of different capacities in which the person does things, and that in each of those capacities the person is taken to be a different entity.",
+      "id": "s305"
+    },
+    {
+      "text": "It follows that Tile, in its capacity as trustee of the Unit Trust, was an entity.",
+      "id": "s306"
+    },
+    {
+      "text": "88 Section 109ZD provides that \"associate\" has the meaning given by s 318.",
+      "id": "s307"
+    },
+    {
+      "text": "As noted at [36] above, under s 318 Tile is an associate of Ceramics.",
+      "id": "s308"
+    },
+    {
+      "text": "89 It is not disputed that if there was a loan (or payment) by Ceramics to Tile that was otherwise within s 109D (or s 109C), a reasonable person would have concluded that it was made because Tile was an associate of Ceramics.",
+      "id": "s309"
+    },
+    {
+      "text": "90 A further matter that was not in dispute was that if there was such a loan (or payment) and a deemed dividend as a result, Ceramics and Fresta were presently entitled to the deemed dividend for the purposes of s 97(1) of the Act, Ceramics as to three quarters of the deemed dividend and Fresta as to one quarter of it.",
+      "id": "s310"
+    },
+    {
+      "text": "91 Further, no argument was presented that the amount that Ceramics would be taken to have paid as a dividend to Tile at the end of Ceramics' years of income ended 30 June 2000 ($384,218.28) and 30 June 2001 ($841,704.87) was more than the amount of Ceramics' distributable surplus for those respective years, worked out under s 109Y of the Act.",
+      "id": "s311"
+    },
+    {
+      "text": "92 It is important to appreciate that the Commissioner's case is not that dividends are deemed to have been paid to Ceramics and Fresta: it is that they are deemed to have been paid to Tile.",
+      "id": "s312"
+    },
+    {
+      "text": "The Commissioner's case is that subs 44(1) and Div 7A, especially s 109Z, have the effect that the amounts of the deemed dividends are included in the assessable income of Tile as trustee of the Unit Trust, and that it is Div 6, \"Trust Income\" (ss 95-102) of Pt III of the Act that operates to make those amounts part of the \"net income\" of the trust estate of the Unit Trust (s 95), and as to three quarters part of the assessable income of Ceramics and as to the remaining one quarter part of the assessable income of Fresta (s 97).",
+      "id": "s313"
+    },
+    {
+      "text": "Section 97 is applicable because Ceramics and Fresta were beneficiaries of the trust estate of the Unit Trust, were not under any legal disability, and were presently entitled under the Unit Trust Deed to shares of the income of the trust estate.",
+      "id": "s314"
+    },
+    {
+      "text": "93 The applicants submit that Div 7A is directed only to \"beneficial interests\" and not to a loan (or payment) to a trustee.",
+      "id": "s315"
+    },
+    {
+      "text": "However, s 109ZD provides that in Div 7A \"entity\" has the meaning it is given by s 960-100 of the 1997 Act and s 109ZE provides that the rules in s 960-100 of the 1997 Act about entities applied to Div 7A.",
+      "id": "s316"
+    },
+    {
+      "text": "The provisions to which I referred at [35] above make it clear that a legal person that has more than one capacity is taken to be a different entity in each such capacity.",
+      "id": "s317"
+    },
+    {
+      "text": "94 The conclusion is inescapable that the loans (or payments) were made to Tile in its capacity as trustee of the Unit Trust.",
+      "id": "s318"
+    },
+    {
+      "text": "Even the minutes of the meeting of the directors of Tile on 28 September 1999 that Mr Incollingo wrote on 9 February 2005 treated at least $1,600,000 of the amounts that had been paid to Tile as having been paid to it in its capacity as trustee of the Unit Trust, albeit as the subscriptions for further units to be issued.",
+      "id": "s319"
+    },
+    {
+      "text": "The applicants' submission based on s 109K \n \n95 The applicants rely on s 109K which, together with the note to it was set out at [29] above.",
+      "id": "s320"
+    },
+    {
+      "text": "The note does not form part of the Act.",
+      "id": "s321"
+    },
+    {
+      "text": "However, as already observed, s 109E to which the note refers makes the rules in s 960-100 of the 1997 Act about entities applicable to Div 7A.",
+      "id": "s322"
+    },
+    {
+      "text": "Section 960-100(4) has the effect that the expression \"another company\" in s 109K refers to another company as a company in its own right and not in any capacity as a trustee that it may bear, in the absence of a reference to the trustee capacity.",
+      "id": "s323"
+    },
+    {
+      "text": "The example given of the operation of s 960-100(4) set out at [35] above is just such a case.",
+      "id": "s324"
+    },
+    {
+      "text": "96 To construe s 109K as not applying where a payment or loan is made to another company in its capacity as trustee is consistent with s 46(12) of the Act which denies the intercorporate dividend rebate to a trustee shareholder.",
+      "id": "s325"
+    },
+    {
+      "text": "That provision is as follows:\n \n A shareholder in a capacity of trustee is not, and is taken never to have been, entitled to a rebate under this section.",
+      "id": "s326"
+    },
+    {
+      "text": "97 If s 109K operated to exclude from Div 7A loans (or payments) made by a private company to another company as trustee, the effect of the Division could easily be sidestepped by arrangements under which payments or loans were made to a company to be held on a \"bare\" trust for a shareholder in the private company or for an associate of such a shareholder.",
+      "id": "s327"
+    },
+    {
+      "text": "98 I do not accept the applicants' submission based on s 109K of the Act.",
+      "id": "s328"
+    },
+    {
+      "text": "The applicants' submission that ss 109C and 109D are directed only to payments and loans to a person in that person's beneficial (non-trustee) capacity \n \n99 The applicants submit that the expressions \"on behalf of\" and \"for the benefit of\" in s 109C(3)(a) and \"on behalf of\" in s 109D(3)(c) indicate that ss 109C and 109D are directed only to loans (and payments) to a person in that person's beneficial (non-trustee) capacity.",
+      "id": "s329"
+    },
+    {
+      "text": "The first difficulty I have with this construction is that, after all, the straightforward case of a payment of a dividend to an actual shareholder is not subject to any such limitation.",
+      "id": "s330"
+    },
+    {
+      "text": "Where shares are held by a trustee, a dividend paid to the trustee shareholder is income of the trust estate that includes the shares, and is governed by Div 6 of the Act.",
+      "id": "s331"
+    },
+    {
+      "text": "Nothing in Div 7A suggests that the position under that Division in respect of deemed dividends should be at all different.",
+      "id": "s332"
+    },
+    {
+      "text": "100 The second difficulty is that other provisions within s 109C(3) and s 109D(3) point in the opposite direction.",
+      "id": "s333"
+    },
+    {
+      "text": "Section 109C(3)(a) begins with \"a payment to the extent that it is to the entity, on behalf of the entity\" before adding the third possibility \"or for the benefit of the entity\".",
+      "id": "s334"
+    },
+    {
+      "text": "Similarly, s 109D(3) begins by referring to \"an advance of money\" and ends with a reference to \"a loan of money\" --- expressions which do not involve any notion of beneficial entitlement.",
+      "id": "s335"
+    },
+    {
+      "text": "101 The terms of ss 109C(3) and 109D(3) do not suggest any limitation by reference to \"beneficial entitlement\".",
+      "id": "s336"
+    },
+    {
+      "text": "The language is simply neutral in this respect.",
+      "id": "s337"
+    },
+    {
+      "text": "I regard the various formulations with ss 109C(3) and 109D(3) as intended to give an ample and expansive coverage, and to be antithetical to any reading down of the kind suggested by the applicants.",
+      "id": "s338"
+    },
+    {
+      "text": "102 Moreover, it is not a strained use of language to regard payments made in discharge of the legal liabilities of Tile at its request as having been made \"on behalf of [Tile] [and] for the benefit of [Tile]\" within s 109C(3)(a), and \"for, on account of, on behalf of [and] at the request of\" Tile, within s 109D(3)(c).",
+      "id": "s339"
+    },
+    {
+      "text": "Tile's liabilities in respect of the purchase and construction were not limited by reference to assets of the Trust.",
+      "id": "s340"
+    },
+    {
+      "text": "Its liability was unlimited.",
+      "id": "s341"
+    },
+    {
+      "text": "It is not inevitable, therefore, that every dollar paid by Ceramics in reduction of Tile's liabilities would benefit only the unitholders and confer no independent benefit on Tile.",
+      "id": "s342"
+    },
+    {
+      "text": "The interposition between Ceramics and the unitholders of the Unit Trust and of Tile as trustee of the Unit Trust \n \n103 Fundamentally, the applicants' case is that the interposition of the Unit Trust and of Tile as trustee of it between Ceramics and the unitholders should be ignored.",
+      "id": "s343"
+    },
+    {
+      "text": "The applicants seek to have the case considered as one of payments made by Ceramics as to three quarters to itself and as to one quarter to Fresta.",
+      "id": "s344"
+    },
+    {
+      "text": "They submit that it is unrealistic and unjust that it should be considered otherwise.",
+      "id": "s345"
+    },
+    {
+      "text": "104 In the course of submissions, reference was made to the discussion of \"unit trusts\" in Chief Commissioner of Stamp Duties (NSW) v Buckle [1998] HCA 4 ; (1998) 192 CLR 226 and CPT Custodian Pty Ltd v Commissioner of State Revenue (Victoria) [2005] HCA 53 ; (2005) 224 CLR 98.",
+      "id": "s346"
+    },
+    {
+      "text": "There was discussion in the judgments in those cases of such matters as the nature of the interest of a unitholder under the terms of the particular trust deed, a trustee's right of reimbursement out of the trust fund, and the question of a trustee's in personam right of exoneration against the beneficiaries.",
+      "id": "s347"
+    },
+    {
+      "text": "105 I do not find it necessary to discuss in detail the present Unit Trust Deed or the matters just mentioned in the light of its terms.",
+      "id": "s348"
+    },
+    {
+      "text": "It suffices to say that under the Unit Trust Deed:\n \n&#8226; Ceramics and Fresta as the unitholders are beneficially entitled to the Trust Fund (as defined in the Deed) in proportion to the numbers of units registered in their respective names, but that neither of them has any interest in any particular part of the Trust Fund (cl 2.3);\n \n&#8226; Tile, as trustee, is required at the end of each financial year to determine the net income of the Trust Fund and the amount of any distribution to unit holders (cl 10.3); \n \n&#8226; if it fails to do so, the income of the Trust Fund for that year is the \"net income\" of it determined in accordance with s 95(1) of the Act (cl 10.5); and\n \n&#8226; Tile as trustee is given expressly a right of indemnity out of the Trust Fund in respect of liabilities incurred by it (cl 31.3) but is not entitled to indemnity or reimbursement from the unitholders themselves (cl 31.4 --- an exclusion of the right of a trustee recognised in Hardoon v Belilios [1901] AC 118).",
+      "id": "s349"
+    },
+    {
+      "text": "106 While the provisions mentioned indicate that it would be quite inconsistent with the terms of the Unit Trust to regard the case as one in which Ceramics and Fresta held the Trust Fund themselves, both the applicants and the Commissioner have proceeded on the basis that Ceramics and Fresta are presently entitled, as to three quarters and one quarter respectively, to the income of the Trust Fund.",
+      "id": "s350"
+    },
+    {
+      "text": "107 For the year of income ended 30 June 2000, the Commissioner treated the income of the Unit Trust as increased by $384,218 representing the amount of the payments made by Ceramics to Tile in that year, and for the year of income ended 30 June 2001, the Commissioner treated the net income of the Unit Trust increased by $457,487 representing the net amount of the payments made by Ceramics to Tile during that year after allowing for credits.",
+      "id": "s351"
+    },
+    {
+      "text": "He treated Ceramics and Tile, as unitholders, as presently entitled, as to three quarters and one quarter respectively, to the income of the Trust Fund.",
+      "id": "s352"
+    },
+    {
+      "text": "108 It is appropriate, therefore, to consider the position on assumptions most favourable to Ceramics and Fresta, namely, that Tile held the Trust Fund of the Unit Trust on a \"bare trust\" for them in the respective proportions mentioned, and that their respective present entitlements to the income arose from their present entitlement to capital under the bare trust.",
+      "id": "s353"
+    },
+    {
+      "text": "109 In these circumstances, Ceramics and Fresta would still confront the difficulty that they now confront --- the interposition of the trust.",
+      "id": "s354"
+    },
+    {
+      "text": "Division 7A would still assimilate their position to that in which Tile held shares in Ceramics upon a bare trust for them.",
+      "id": "s355"
+    },
+    {
+      "text": "110 If Tile held shares in Ceramics on a bare trust for Ceramics as to three quarters and Fresta as to one quarter, and Ceramics declared a dividend, the applicants would still face the difficulty that they now face.",
+      "id": "s356"
+    },
+    {
+      "text": "Tile would have received, as trustee, a dividend which would not attract the intercorporate dividend rebate under s 46 of the Act: see s 46(12) set out at [96] above.",
+      "id": "s357"
+    },
+    {
+      "text": "Tile would be required to disclose the income as income of the trust estate, although it would not be liable as trustee to pay income tax upon it (s 96 of the Act).",
+      "id": "s358"
+    },
+    {
+      "text": "However, Ceramics and Fresta would be liable to do so as beneficiaries of the trust estate who were not under any legal disability and were presently entitled to shares of the income of the trust estate (s 97 of the Act).",
+      "id": "s359"
+    },
+    {
+      "text": "111 It would not be to the point for Ceramics and Fresta to complain that the substance of the matter was that they were shareholders receiving the dividend declared.",
+      "id": "s360"
+    },
+    {
+      "text": "By reason of the structure adopted, they would have made it impossible for themselves to be regarded as the shareholders.",
+      "id": "s361"
+    },
+    {
+      "text": "112 In substance, the position in which Ceramics and Fresta find themselves under Div 7A is no different.",
+      "id": "s362"
+    },
+    {
+      "text": "Instead of having actually paid a dividend to Tile as trustee, Ceramics is deemed to have done so, and instead of a bare trust for them, Tile holds on the terms of a unit trust under which they are, it is accepted, presently entitled to income.",
+      "id": "s363"
+    },
+    {
+      "text": "Once it is accepted that the deemed dividend provisions of Div 7A are enlivened, so are the provisions of Div 6.",
+      "id": "s364"
+    },
+    {
+      "text": "Intercorporate dividend rebate \n \n113 The applicants submit that Ceramics is entitled to a rebate under s 46 of the Act by reason of the operation of s 45Z.",
+      "id": "s365"
+    },
+    {
+      "text": "They submit that, in the result, no additional tax is payable by Ceramics, and that its amended assessments are excessive.",
+      "id": "s366"
+    },
+    {
+      "text": "Their written submissions continue:\n \n Because the dividends are deemed to be unfranked, a further requirement for the s 46 rebate is that DLC [Ceramics] be a group company in relation to the company paying the dividend within s 46F.",
+      "id": "s367"
+    },
+    {
+      "text": "DLC [Ceramics] should be considered a group company.",
+      "id": "s368"
+    },
+    {
+      "text": "No rebate would be available to Fresta, because it is unlikely that s 46F could be read to cover it.",
+      "id": "s369"
+    },
+    {
+      "text": "In oral submissions, senior counsel for the applicants submitted that if the effect of Div 7A is that Ceramics is deemed to have received a dividend from itself, \"then at the very least it must be a group company and entitled to the dividend rebate\".",
+      "id": "s370"
+    },
+    {
+      "text": "114 However, s 46F(2)(a)(i) has the effect that a shareholder is not entitled to a rebate under s 46 in respect of an unfranked dividend.",
+      "id": "s371"
+    },
+    {
+      "text": "The applicants are right to concede that the deemed dividends here are deemed to be unfranked because para (h) of the definition of \"frankable dividends\" in s 160APA excludes from the scope of this expression \"an amount taken to be a dividend under Division 7A of Part III\".",
+      "id": "s372"
+    },
+    {
+      "text": "115 Subsection (3) of s 46F provides, however, that subs (2) of s 46F does not apply \"if the shareholder is a group company in relation to the company paying the dividend\".",
+      "id": "s373"
+    },
+    {
+      "text": "Apparently, the applicants' submission would require Ceramics to be treated as the \"shareholder\" as well as being \"the company paying the dividend\".",
+      "id": "s374"
+    },
+    {
+      "text": "116 The expression \"group company\" in s 46F(3) has the same meaning that it has in s 160AFE: see s 46F(1) (\"group company\").",
+      "id": "s375"
+    },
+    {
+      "text": "Section 160AFE(2) states that for the purposes of s 160AFE a group company is a group company in relation to another company if one of the two is a subsidiary of the other or both are subsidiaries of the same company.",
+      "id": "s376"
+    },
+    {
+      "text": "None of Ceramics, Fresta and Tile is a subsidiary of either of the other two and no two or more of them are subsidiaries of the same company.",
+      "id": "s377"
+    },
+    {
+      "text": "Accordingly, none of them is a \"group company\" in relation to either of the others.",
+      "id": "s378"
+    },
+    {
+      "text": "117 For the above reasons, I do not accept the applicants' submission that Ceramics is entitled to a rebate under s 46.",
+      "id": "s379"
+    },
+    {
+      "text": "CONCLUSION \n \n118 For the above reasons, the applications should be dismissed with costs.",
+      "id": "s380"
+    },
+    {
+      "text": "I certify that the preceding one hundred and eighteen (118) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Lindgren.",
+      "id": "s381"
+    },
+    {
+      "text": "Associate:\n\nDated: 5 July 2007\n\n\n In each of proceeding NSD 1231 of 2005 and NSD 1232 of 2005: \n\n Counsel for the Applicants: Mr D G Russell QC and Mr M L Robertson \n \n Solicitors for the Applicants: N Panos &amp; Associates \n \n Counsel for the Respondent: Ms M Kennedy SC and Mr A Diethelm \n \n Solicitors for the Respondent: Australian Government Solicitor \n \n Dates of Hearing: 25, 26 October 2006 \n \n Date Last Submission Received: 13 February 2007 \n \n Date of Judgment: 5 July 2007 \n\n \n \n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/1006.html",
+      "id": "s382"
+    }
+  ]
+}

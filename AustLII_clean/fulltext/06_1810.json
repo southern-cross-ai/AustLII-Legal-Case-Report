@@ -1,0 +1,772 @@
+{
+  "name": "Electricity Retail Corporation v Griffin Energy Pty Ltd [2006] FCA 1810 (21 December 2006)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2006/1810.html",
+  "catchphrases": [
+    {
+      "text": "application for leave to appeal",
+      "id": "c0"
+    },
+    {
+      "text": "application for preliminary discovery",
+      "id": "c1"
+    },
+    {
+      "text": "alleged misrepresentation concerning tender for power plant generated capacity and minimum environmental compliance",
+      "id": "c2"
+    },
+    {
+      "text": "whether sufficient doubt in conclusion that 'reasonable cause to believe' claim may exist",
+      "id": "c3"
+    },
+    {
+      "text": "whether substantial injustice if leave refused",
+      "id": "c4"
+    },
+    {
+      "text": "procedure",
+      "id": "c5"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "1 The applicant (formerly Western Power Corporation (WPC), now relevantly 'ERC') seeks leave to appeal from an interlocutory judgment of the Court given by Siopis J on 15 September 2006 ( Griffin Energy Pty Ltd v Western Power Corporation [2006] FCA 1241).",
+      "id": "s0"
+    },
+    {
+      "text": "The effect of his Honour's reasons, which was reflected in the orders that he made subsequently after the parties had conferred, was to grant to the respondent (collectively 'Griffin') an application pursuant to O 15A r 6(a) of the Federal Court Rules (FCR) for preliminary discovery.",
+      "id": "s1"
+    },
+    {
+      "text": "That requires it to be established that 'there is reasonable cause to believe that the applicant has or may have the right to obtain relief in the Court from a person whose description has been ascertained'.",
+      "id": "s2"
+    },
+    {
+      "text": "2 The notice of motion for leave to appeal is supported by an affidavit of M/s Eversden, a solicitor of the ERC's solicitors sworn and filed on 22 September 2006.",
+      "id": "s3"
+    },
+    {
+      "text": "3 The grant of leave from an interlocutory order is governed by the principles stated by the Full Court in D&eacute;cor Corp Pty Limited v Dart Industries Inc (1991) 33 FCR 397 as recently affirmed by the Full Court in Brilliant Digital Entertainment Pty Limited v Universal Music Aust.",
+      "id": "s4"
+    },
+    {
+      "text": "Pty Limited (2004) 63 IPR 373 ( Brilliant Digital 63 IPR).",
+      "id": "s5"
+    },
+    {
+      "text": "The two central considerations are: \n \n (i) whether the decision to make the orders is attended with sufficient doubt to warrant it being reconsidered by the Full Court; and\n (ii) whether substantial injustice would result if leave were refused, supposing the decision to make the orders to be wrong.",
+      "id": "s6"
+    },
+    {
+      "text": "4 Where the decision in question concerns a matter of practice and procedure, rather than substantive rights, the Court will ordinarily be very reluctant to grant leave to appeal: Cadence Asset Management Pty Limited v Concept Sports Pty Limited (2006) 58 ACSR 435 at 441 per Young J ( Cadence 58 ACSR).",
+      "id": "s7"
+    },
+    {
+      "text": "An appeal from a discretionary decision by a trial judge itself attracts special principles, the test being whether the primary judge's discretion miscarried, by reason of some error of principle: Cadence 58 ACSR at 22 and the authorities there cited.",
+      "id": "s8"
+    },
+    {
+      "text": "5 The decision of his Honour involves a matter of practice and procedure: Hooper v Kirella Pty Ltd [1999] FCA 1584 ; (1999) 96 FCR 1, at [6].",
+      "id": "s9"
+    },
+    {
+      "text": "It also involves, in part, the application of a discretion.",
+      "id": "s10"
+    },
+    {
+      "text": "BACKGROUND CIRCUMSTANCES \n \n 6 The proceeding before his Honour related to a wish of WPC to procure a new electricity generating plant pursuant to sch 7 of the Electricity Corporation Act 1994 (WA).",
+      "id": "s11"
+    },
+    {
+      "text": "Whenever WPC had a need to acquire what is referred to as 'substantial new generation' capacity it must procure such capacity through a non-discriminatory and open public Power Procurement Process (PPP).",
+      "id": "s12"
+    },
+    {
+      "text": "The PPP which is in issue is that which took place between December 2002 and September 2005 being for the procurement of new generation capacity to meet the requirements of the South West Interconnected System (the main transmission network in the State).",
+      "id": "s13"
+    },
+    {
+      "text": "7 As his Honour's reasons explained, the bid process involved the following four stages: \n \n 1.",
+      "id": "s14"
+    },
+    {
+      "text": "From 20 December 2002 to 2 May 2003 parties submitted their expressions of interest and WPC nominated some as qualified to proceed to the next stage.",
+      "id": "s15"
+    },
+    {
+      "text": "2.",
+      "id": "s16"
+    },
+    {
+      "text": "The second stage was referred to as the 'Request for Proposal' (RFP) stage.",
+      "id": "s17"
+    },
+    {
+      "text": "On 31 March 2004 WPC issued the Request for Proposal Information Memorandum by which the qualified parties were requested to submit a non-binding proposal by 6 August 2004.",
+      "id": "s18"
+    },
+    {
+      "text": "On that date Griffin submitted a proposal for a coal-fired power station.",
+      "id": "s19"
+    },
+    {
+      "text": "3.",
+      "id": "s20"
+    },
+    {
+      "text": "The final bid stage ran until 22 July 2005.",
+      "id": "s21"
+    },
+    {
+      "text": "A limited number of parties invited to do so (which included Griffin), compiled and submitted their final bids to WPC.",
+      "id": "s22"
+    },
+    {
+      "text": "By reason of a Bid Agreement entered into with WPC, Griffin was required to adhere to its final binding proposal to the choice of fuel for the power station that it had nominated in its non-binding proposal.",
+      "id": "s23"
+    },
+    {
+      "text": "WPC considered and announced (in August 2005) the preferred bidder, Wambo Power Ventures Pty Ltd (Wambo) \n 4.",
+      "id": "s24"
+    },
+    {
+      "text": "The fourth stage involved negotiation of project agreements with the preferred bidder.",
+      "id": "s25"
+    },
+    {
+      "text": "8 Griffin and the other respondent companies brought an application before his Honour for preliminary discovery for access to a number of documents relating to the winning bid from Wambo.",
+      "id": "s26"
+    },
+    {
+      "text": "They sought production of the invitation, the proposal and any contract, arrangement or understanding by WPC to Wambo with respect to the bid or proposal to construct the new electricity power station.",
+      "id": "s27"
+    },
+    {
+      "text": "9 Before his Honour the application by Griffin relied upon the affidavits of Mr Trumble affirmed on 22 November 2005, 8 March 2006 and 3 April 2006.",
+      "id": "s28"
+    },
+    {
+      "text": "In opposition to the application, WPC relied upon the affidavits of Mr Baden Furphy dated 7 April 2006 and Mr Harvey sworn on 22 February 2006 and 29 March 2006.",
+      "id": "s29"
+    },
+    {
+      "text": "10 The grounds for the application for preliminary discovery brought by Griffin were that it required the documents which it sought to have sufficient information to determine whether to commence proceedings against WPC for misleading or deceptive conduct pursuant to s 52 of the Trade Practices Act 1974 (Cth) ( Trade Practices Act ) and/or breach of implied contract.",
+      "id": "s30"
+    },
+    {
+      "text": "The action was brought as a consequence of Griffin having seen documents relating to the obtaining of environmental improvement from the Minister for the Environment for Wambo's power station.",
+      "id": "s31"
+    },
+    {
+      "text": "This caused them to believe that there was a substantial difference in the proposed power station that was the subject of Griffin's tender and the proposed power station that was the subject of Wambo's winning tender.",
+      "id": "s32"
+    },
+    {
+      "text": "11 Griffin's tender was to build, own and operate a coal-fired power station capable of generating at least 300 MW to 330 MW constantly on a sent-out basis.",
+      "id": "s33"
+    },
+    {
+      "text": "However Wambo's proposed power station had a baseload capacity of 240 MW and could only generate 320 MW of power by generating a further 80 MW of power through the operation of gas-fired duct booster system which, because of conditions imposed by the Minister for the Environment, could only operate 15 per cent of the time.",
+      "id": "s34"
+    },
+    {
+      "text": "The result was that Griffin believed that, acting in reliance upon the information supplied by WPC, they proposed a more expensive power station than that proposed by Wambo and thus disadvantaged themselves in the tender process.",
+      "id": "s35"
+    },
+    {
+      "text": "PRIMARY JUDGE'S REASONS \n \n 12 In his reasons his Honour identified two potential relevant representations.",
+      "id": "s36"
+    },
+    {
+      "text": "The first ('the generating capacity representation') was that '[WPC] would only consider tenders that provided for a generated capacity of at least 300 megawatts to 330 megawatts constantly provided on a sent-out basis'.",
+      "id": "s37"
+    },
+    {
+      "text": "The second (the minimum environmental condition representation) was that '[WPC] would only consider tenders that satisfied the minimum environmental conditions specified in the tender documents'.",
+      "id": "s38"
+    },
+    {
+      "text": "13 As his Honour expressed it, in simple terms Griffin said that WPC called for tenders for a 300 MW to 330 MW baseload plant which was required to meet prescribed environmental standards.",
+      "id": "s39"
+    },
+    {
+      "text": "However, it awarded the tender to a plant with a 240 MW baseload capacity and an 80 MW peaking capacity which did not meet the prescribed environmental standards.",
+      "id": "s40"
+    },
+    {
+      "text": "14 In his reasons his Honour made clear that WPC opposed the application, firstly, on the grounds that FCR O 15A r 6(a) could not be satisfied and, secondly, on the basis that as a matter of discretion, relief should be refused.",
+      "id": "s41"
+    },
+    {
+      "text": "15 Turning to the first of those issues, his Honour reviewed at some length the evidence of Mr Trumble and Mr Harvey.",
+      "id": "s42"
+    },
+    {
+      "text": "16 Turning to Griffin's postulated potential claim for a contravention of s 52 of the Trade Practices Act , his Honour identified the elements required to be established as: misleading or deceptive conduct by WPC, reliance by Griffin and damage.",
+      "id": "s43"
+    },
+    {
+      "text": "17 In then examining the evidence and whether it satisfied FCR O 15A r 6(a) his Honour relied upon the reasoning of Hely J in St George Bank Limited v Rabo Australia Limited (2004) 211 ALR 147 ( St George Bank 211 ALR) at 153-154 to the following effect: \n \n '... \n \n \n (c) the test for determining whether the applicant has \"reasonable cause to believe\", as required by sub-paragraph (a), is an objective one; ... \n \n (d) belief requires more than mere assertion and more than suspicion or conjecture.",
+      "id": "s44"
+    },
+    {
+      "text": "Belief is an inclination of the mind towards assenting to, rather than rejecting a proposition.",
+      "id": "s45"
+    },
+    {
+      "text": "Thus it is not sufficient to point to a mere possibility.",
+      "id": "s46"
+    },
+    {
+      "text": "The evidence must incline the mind towards the matter or fact in question.",
+      "id": "s47"
+    },
+    {
+      "text": "If there is no reasonable cause to believe that one of the necessary elements of a potential cause of action exists, that would dispose of the application insofar as it is based on that cause of action:... \n \n \n \n (e) whilst uncertainty as to only one element of a cause of action might be compatible with the \"reasonable cause to believe\" required by sub-paragraph (a), uncertainty as to the number of such elements may be sufficient to undermine the reasonableness of the cause to believe; \n \n \n ...' \n \n 18 At [82] his Honour said: \n \n \n '82.",
+      "id": "s48"
+    },
+    {
+      "text": "The question, applying the test in Rabo , is whether there is evidence in support of the potential claim which elevates the potential claim beyond 'mere assertion' and 'more than suspicion or conjecture'.",
+      "id": "s49"
+    },
+    {
+      "text": "' \n \n \n 19 At [88] his Honour said: \n \n \n '88 On the basis of that evidence, I am of the view that there is a foundation beyond mere assertion upon which the applicants can base a potential claim that, in referring in its press releases to the proposed power station as having a 300MW to 330MW of baseload generating capacity, the respondent, thereby, represented that it 'would only consider tenders that provided for a generated capacity of at least 300 megawatts to 330 megawatts constantly provided on that sent-out basis'.",
+      "id": "s50"
+    },
+    {
+      "text": "' \n \n \n 20 At [91], having said that the evidence upon which WPC relied would in the context of the actual proceeding raise a serious question to be tried as to whether Mr Trumble did and could have held the understanding of baseload capacity which he did: \n \n \n '91 ...",
+      "id": "s51"
+    },
+    {
+      "text": "But this does not mean that, for the purposes of this application, the status of the applicants' postulated potential claim is thereby reduced to a 'mere assertion', 'conjecture' or 'speculation'; nor does it incline the mind against the characterisation of that potential claim as one which may give the applicants a right to relief.",
+      "id": "s52"
+    },
+    {
+      "text": "' \n \n \n 21 In relation to the second and third elements of the alleged s 52 claim, his Honour concluded at [92]: \n \n \n '92 I am satisfied that the evidence as to reliance and damage in respect of the potential claim founded upon the generating capacity representation, also causes those elements to rise above the status of 'mere assertion'.",
+      "id": "s53"
+    },
+    {
+      "text": "It follows that, in my view, the applicants have established that there is reasonable cause to believe that the applicants may have the right to obtain relief founded upon the statements in the press releases issued by the respondent prior to 6 August 2004.",
+      "id": "s54"
+    },
+    {
+      "text": "' \n \n \n 22 In relation to the postulated claim relating to prescribed environmental conditions, his Honour concluded at [94]-[95]: \n \n \n '94 Further, there is no dispute between the parties that on the evidence, the proposed Wambo power station does not meet the requirements that are stated in cl 6.3.1 and cl 6.3.2 of the Bid Information Memorandum.",
+      "id": "s55"
+    },
+    {
+      "text": "The answer which the respondent makes to the potential claim is that the requirements referred to in cl 6.3.1 and cl 6.3.2 did not impose absolute standards, but were only standards that a proponent should 'strive' to meet or exceed.",
+      "id": "s56"
+    },
+    {
+      "text": "Whether this is a complete answer or not, would be a matter for trial.",
+      "id": "s57"
+    },
+    {
+      "text": "It suffices to say that the evidence establishes that there is a potential claim for a contravention of s 52 of the TP Act, beyond a 'mere assertion', founded on the representation that the respondent would only accept tenders which satisfied the minimum environmental conditions specified in the tender documents.",
+      "id": "s58"
+    },
+    {
+      "text": "95 There is, in addition, evidence from Mr Trumble that he relied upon those statements in submitting the tender and evidence that the applicants spent several million dollars on the bid, which I am satisfied also causes those elements of a potential claim under the TP Act to rise above the characterisation of 'mere assertion'.",
+      "id": "s59"
+    },
+    {
+      "text": "I, accordingly, find that there is reasonable cause to believe that the applicants may have a right to obtain relief against the respondent founded upon the statement in the Bid Information Memorandum and the Final Bid Invitation which relate to the compliance with environmental conditions.",
+      "id": "s60"
+    },
+    {
+      "text": "' \n \n \n 23 In relation to the contract claim, his Honour said there was no need to deal with it and it is suffice to say that the exclusion clauses in the Bid Agreement appeared, on the face of it, to comprise a substantial obstacle for Griffin.",
+      "id": "s61"
+    },
+    {
+      "text": "24 His Honour therefore concluded that Griffin had satisfied the provisions of FCR O 15A r 6(a).",
+      "id": "s62"
+    },
+    {
+      "text": "There was no issue on satisfaction of other provisions of that Rule.",
+      "id": "s63"
+    },
+    {
+      "text": "25 In relation to the discretionary considerations, these were founded on the affidavit of Mr Furphy and related to the confidential character of the bid proposals, submissions, presentations and other documents which record or evidence the content of any proposals submitted by Wambo to WPC.",
+      "id": "s64"
+    },
+    {
+      "text": "26 In relation to those issues, his Honour concluded at [110]-[111]: \n \n \n '110 ...",
+      "id": "s65"
+    },
+    {
+      "text": "The fact that the documents in respect of which discovery is sought may contain confidential information will not usually in itself be sufficient to cause the Court, in the exercise of its discretion to decline to order preliminary discovery.",
+      "id": "s66"
+    },
+    {
+      "text": "In this case, the applicants recognise restrictions may need to be imposed upon the number of persons who may be entitled to inspect the discovered documents.",
+      "id": "s67"
+    },
+    {
+      "text": "111 Further, limiting inspection also strikes a balance between the legitimate concerns expressed by senior counsel for the respondent as to the need to maintain confidence in the respondent's public tender process, and the applicants' concerns as to whether the process operated lawfully.",
+      "id": "s68"
+    },
+    {
+      "text": "' \n \n\nAccordingly, his Honour concluded that Griffin's notice of motion was entitled to succeed.",
+      "id": "s69"
+    },
+    {
+      "text": "GROUNDS IN SUPPORT OF APPLICATION FOR LEAVE \n Power generated capacity representation \n \n 27 In his reasons his Honour said that the act of reliance on this alleged representation must have occurred on or before 6 August 2004.",
+      "id": "s70"
+    },
+    {
+      "text": "That was common ground for the purposes of the application so that his Honour was required to rely only on documents predating that date for evidence of reliance.",
+      "id": "s71"
+    },
+    {
+      "text": "28 His Honour referred to the evidence of Mr Trumble in which he identified the documents which had led him to believe that WPC required the proposed power station to have a baseload generating capacity of between 300 MW and 330 MW of power.",
+      "id": "s72"
+    },
+    {
+      "text": "The first category of documents was Process Updates Nos 2, 5, 12, 13 and 19.",
+      "id": "s73"
+    },
+    {
+      "text": "These so described the capacity sought.",
+      "id": "s74"
+    },
+    {
+      "text": "The other categories were documents which arose after 6 August 2004 and so after the date relevant to reliance of the non-binding proposal to which Griffin subsequently became bound by WPC.",
+      "id": "s75"
+    },
+    {
+      "text": "However, Mr Trumble's evidence at [24] of his first affidavit was that in submitting the proposals of Griffin he relied on all the categories referred to in the relevant paragraphs of his affidavit.",
+      "id": "s76"
+    },
+    {
+      "text": "At [44] he deposed: \n \n 'If Griffin Energy, Griffin Electricity or Griffin Power had been aware that Western Power was prepared to accept a proposal that did not conform with the requirements set out in its Bid Information Memorandum and Final Bid Invitation, then either none of them would have submitted a bid, or they would have submitted a bid that combined a coal-fired baseload plant of lower capacity with a [sic] open-cycle gas peaking plant.",
+      "id": "s77"
+    },
+    {
+      "text": "Such a plant would have been more economically efficient than a coal-fired baseload plant of similar total capacity.",
+      "id": "s78"
+    },
+    {
+      "text": "' \n \n 29 ERC now submits that it is significant Mr Trumble's evidence did not make any reference to the RFP of 31 March 2004 or the Request for Proposal of 27 April 2004, each of which were exhibited to Mr Harvey's affidavit.",
+      "id": "s79"
+    },
+    {
+      "text": "Each contained a disclaimer, prominently appearing at their commencement.",
+      "id": "s80"
+    },
+    {
+      "text": "They were each expressed to be applicable to 'all information from time to time provided or made available by or on behalf of [WPC] to a Proponent in relation to the process being adopted by [WPC] for the procurement of at least 300 MW to 330 MW approximately of new generating capacity ...'.",
+      "id": "s81"
+    },
+    {
+      "text": "Whether error of law in application of wrong test \n \n 30 ERC now submits that when his Honour reached the views set out in [82], [88], [91] and [92] he fell into error of law by applying the wrong test and applying too low a threshold for establishing the claim was more than a 'mere assertion'.",
+      "id": "s82"
+    },
+    {
+      "text": "Therefore, it is said, that his Honour failed to apply the test stipulated by FCR O 15A r 6(a) as explained in St George Bank 211 ALR.",
+      "id": "s83"
+    },
+    {
+      "text": "31 The argument made by ERC is that his Honour adopted the test of 'foundation beyond mere assertion' and, in so doing, failed to spell out what inclined the mind towards belief and thus failed to consider all the evidence.",
+      "id": "s84"
+    },
+    {
+      "text": "It is submitted he adopted a minimum threshold which prevented him from properly applying the test.",
+      "id": "s85"
+    },
+    {
+      "text": "32 I however agree with the submissions for Griffin that his Honour did not misunderstand nor did he misapply the proper test for the application of FCR O 15A r 6(a) as explained in St George Bank 211 ALR.",
+      "id": "s86"
+    },
+    {
+      "text": "Firstly, it is clear from [12] of his Honour's reasons that he clearly understood the appropriate test.",
+      "id": "s87"
+    },
+    {
+      "text": "In [64] and [91] he expressly used language relevant to the concept of the mind being inclined to belief.",
+      "id": "s88"
+    },
+    {
+      "text": "It is clear from [82] that he was looking for evidence in support of the potential claim which elevated it beyond 'mere assertion' and 'more than suspicion or conjecture'.",
+      "id": "s89"
+    },
+    {
+      "text": "When he came to [88] and [92] his reference to elements rising above the status of 'mere assertion' was a shorthand reference to the test which he had earlier more fully set out.",
+      "id": "s90"
+    },
+    {
+      "text": "His Honour used that shorthand reference in the context of his examination of the evidence quite fulsomely.",
+      "id": "s91"
+    },
+    {
+      "text": "It cannot properly be said that the shorthand reference caused him to fail to attend to the evidence.",
+      "id": "s92"
+    },
+    {
+      "text": "What ERC is asserting is that he should have dealt with the evidence in a different way.",
+      "id": "s93"
+    },
+    {
+      "text": "It is to be borne in mind that Griffin was not required to establish a prima facie case and that the standard of 'reason to believe' constitutes a 'relatively low threshold': The Daniels Corporation International Pty Limited v Australian Competition and Consumer Commission [2002] HCA 49 ; (2002) 213 CLR 543 at [130] per Callinan J.",
+      "id": "s94"
+    },
+    {
+      "text": "Whether reliance improbable \n \n 33 ERC submits that the proposition there could have been reliance by Mr Trumble upon the press releases preceding 6 August 2004 was inherently improbable.",
+      "id": "s95"
+    },
+    {
+      "text": "This submission is made in the context of the information memorandum and requests for approval which it is said made that inherent probability apparent.",
+      "id": "s96"
+    },
+    {
+      "text": "However, even if regard is had to those other documents and the place they had at the bidding process, it does not remove the possibility that the Process Updates press releases, notwithstanding there relative brevity, might have been significant in communicating WPC's intentions in relation to power procurement to a wide audience which would have included potential bidders.",
+      "id": "s97"
+    },
+    {
+      "text": "They were issued over a period of nearly two years and were the only documents upon which reliance could be placed at that time.",
+      "id": "s98"
+    },
+    {
+      "text": "If there was no clearly articulated change, it might be able to be found that it was reasonable for the audience of potential bidders to assume that later formal documents would relate to the same proposal, albeit providing greater detail.",
+      "id": "s99"
+    },
+    {
+      "text": "That is, the Process Updates as a source of misrepresentation cannot be ruled out by what might be thought to be their relative primitive character in the chain of documentation processes.",
+      "id": "s100"
+    },
+    {
+      "text": "In Lezam Pty Ltd v Seabridge Australia Pty Ltd (1992) 35 FCR 535 at 556 ( Lezam 35 FCR), Burchett J said: \n \n 'A misrepresenter does not obliterate the effect of a misrepresentation clearly made, which induces an ascent to proposed terms, by adding, as the time of final agreement approaches, a qualification capable of conveying merely that the misrepresentation, the substance of which is not withdrawn, may not be accurate in every detail and may require some, possibly quite minor, qualification.",
+      "id": "s101"
+    },
+    {
+      "text": "' \n\nHis Honour was there stating a principle and it is not to the point to seek to distinguish the circumstances in Lezam 35 FCR from the circumstances before his Honour.",
+      "id": "s102"
+    },
+    {
+      "text": "Whether in fact the Process Updates could have (a) created a misrepresentation; and (b) were not corrected are issues of fact for trial.",
+      "id": "s103"
+    },
+    {
+      "text": "Disclaimers \n \n 34 I agree with the submission for Griffin that even if some qualification or reservation was expressed in the later documents in the disclaimers, there is an issue whether it would have been expressed in such a way as to remove the 'real or not remote chance or possibility' ( Global Sportsman Pty Ltd v Mirror Newspapers Ltd (1984) 2 FCR 82 at 87 the Full Court citing with approval Tillmanns Butcheries Pty Ltd v Australasian Meat Industry Employees' Union (1979) 42 FLR 331 at 346 per Deane J) that the earlier documents had created a misleading impression as to what it was that WPC was inviting persons to tender to supply and did nothing to correct such impression.",
+      "id": "s104"
+    },
+    {
+      "text": "The issue before his Honour was whether there was reason to believe Griffin may have a claim in respect of the conduct of WPC, taken as a whole (see Parkdale Custom Built Furniture Pty Ltd v Puxu Pty Ltd [1982] HCA 44 ; (1982) 149 CLR 191 at 199) as misleading or likely to be so.",
+      "id": "s105"
+    },
+    {
+      "text": "As Burchett J said in Lezam 35 FCR at 557 'a disclaimer or qualification will frequently have little or no effect on the impact of a misrepresentation'.",
+      "id": "s106"
+    },
+    {
+      "text": "35 In any event, the disclaimers, as have been set out in [55]-[57] of his Honour's reasons, in each of the opening paragraphs of the disclaimers reference is made to the 'procurement of at least 300 MW to 330 MW approximately of new generating capacity', a representation which could only go to reinforce the statements contained in the Process Updates in relation to generating capacity.",
+      "id": "s107"
+    },
+    {
+      "text": "Further, there was no reference to the power station being anything other than a baseload power station.",
+      "id": "s108"
+    },
+    {
+      "text": "In short, the disclaimers can be understood as having done nothing to dispel the effect of the Process Updates repeated a number of times over the space of nearly two years.",
+      "id": "s109"
+    },
+    {
+      "text": "Alleged reversal of onus of proof \n \n 36 The conclusion of his Honour in [90] read as follows: \n \n 'However, it is not obvious that this evidence must inevitably lead to the conclusion that Mr Trumble did, and could not as a reasonable member of the power generation industry have, understood the term 'baseload capacity' in the way that he has deposed.",
+      "id": "s110"
+    },
+    {
+      "text": "' \n \n 37 ERC suggests in respect of [90] of his Honours reasons that they effectively reverse the onus of proof by considering whether WPC had adduced evidence to disprove the evidence relied upon by Griffin.",
+      "id": "s111"
+    },
+    {
+      "text": "I agree with the submission for Griffin that proper examination of the reasons at [89] and [90] does not support this characterisation.",
+      "id": "s112"
+    },
+    {
+      "text": "The approach was consistent with the development over time (from June 2002 to August 2004) of Mr Trumble's understanding of what WPC was seeking by the tenders process (he being the relevant directing mind within Griffin).",
+      "id": "s113"
+    },
+    {
+      "text": "Consistent with the consideration of the documents relied on by Mr Trumble, it was legitimate to ask the question whether anything said by WPC later in the process corrected any supposedly false impression that may have been created earlier, particularly by the 'Process Updates'.",
+      "id": "s114"
+    },
+    {
+      "text": "His Honour concluded that the later communications did not incline the mind against the characterisation he had earlier given to Griffins' potential claim as one falling within FCR O 15A r 6(1).",
+      "id": "s115"
+    },
+    {
+      "text": "Factual errors with Mr Harvey's evidence \n \n 38 In [90] his Honour continued: \n \n 'Firstly, Mr Trumble was not cross-examined on his evidence.",
+      "id": "s116"
+    },
+    {
+      "text": "Secondly, the evidence does not address the apparent conflict between the respondent's stated requirement in the bid information, of the plant's high availability, which Mr Trumble said was in the order of 90 per cent, and the 'capacity factor' referred to of 75 per cent to 80 per cent.",
+      "id": "s117"
+    },
+    {
+      "text": "Thirdly, after 6 August 2004, the respondent issued, as part of the bid information a terms sheet for the ACA which provided that as a performance requirement, the proponent must ensure that the TCO is available from the Power Station at all times during the term --- a statement, which could arguably be construed as articulating a performance requirement which is consistent with Mr Trumble's understanding of the term 'baseload capacity'.",
+      "id": "s118"
+    },
+    {
+      "text": "' \n\nThe reference to non-cross-examination of Mr Trumble is dealt with below.",
+      "id": "s119"
+    },
+    {
+      "text": "As to the factors mentioned in the second limb of his Honour's reasons, ERC submits that the availability factor drawn from the bid information post-dated 6 August 2004.",
+      "id": "s120"
+    },
+    {
+      "text": "The reference to 'high levels of availability' is nevertheless contained in documents pre-dating 6 August 2004, but it is said that there is no conflict with that and the statement in the same document referrable to 'expected capacity factor of 75 per cent to 80 per cent'.",
+      "id": "s121"
+    },
+    {
+      "text": "As to the evidence relied upon in the third factor of the above quoted paragraph, it is submitted by ERC that it fails to take into account certain evidence from Mr Harvey that the reference to 'available at all time' did not mean that the power station must be able to operate at 300-330 MW 100 per cent of the time or a concession by Mr Trumble that no power station operates without interruption.",
+      "id": "s122"
+    },
+    {
+      "text": "39 Neither the availability factor (90 per cent) nor the capacity factor (75-80 per cent) were at the heart of the issue which was the required capacity of the plant.",
+      "id": "s123"
+    },
+    {
+      "text": "It was never Griffins' case that the power station would in fact be required to operate at full capacity 100 per cent of the time but rather that it should have the capacity to do so.",
+      "id": "s124"
+    },
+    {
+      "text": "Mr Trumble's evidence recognised this and that is referred to in his Honour's reasons at [84].",
+      "id": "s125"
+    },
+    {
+      "text": "It was supported by the Ministerial Statement discussed at [86] and [87].",
+      "id": "s126"
+    },
+    {
+      "text": "The availability factor recognised that all power stations require maintenance while the capacity factor recognised the fact of variable demand during 24 hours of operation.",
+      "id": "s127"
+    },
+    {
+      "text": "What was not disputed was that the Wambo plant, which won the tender, was capable of operating at 320 MW only up to 15 per cent of the time, and concession of this was made by WPC during argument before his Honour.",
+      "id": "s128"
+    },
+    {
+      "text": "It is clear that his Honour turned his mind to these arguments in his reasons at [90].",
+      "id": "s129"
+    },
+    {
+      "text": "40 I do not consider that any of these alleged factual errors are of such magnitude and significance that if considered, as ERC submits, they would have necessarily caused his Honour to reach a contrary view.",
+      "id": "s130"
+    },
+    {
+      "text": "Non-cross-examination of Mr Trumble \n \n 41 There is said to be an error of law in his Honour's reasons having regard to the fact that Mr Trumble was not cross-examined as to his understanding of baseload and peaking power plants.",
+      "id": "s131"
+    },
+    {
+      "text": "That is, it is said that he placed undue weight on the fact that Mr Trumble was not cross-examined as part of determining whether Griffin had established a reasonable cause to believe that they have or may have a right to relief.",
+      "id": "s132"
+    },
+    {
+      "text": "42 His Honour was entitled to place weight and did not place undue weight on the fact that Mr Trumble was not cross-examined.",
+      "id": "s133"
+    },
+    {
+      "text": "Mr Trumble's understanding of the difference between a baseload and a peaking plant was central to his understanding of what it was WPC was seeking by the tender process.",
+      "id": "s134"
+    },
+    {
+      "text": "Mr Harvey gave considerable affidavit evidence in an endeavour to suggest that Mr Trumble was mistaken in his understanding.",
+      "id": "s135"
+    },
+    {
+      "text": "This was then addressed by Mr Trumble in his second affidavit of 7 March 2006.",
+      "id": "s136"
+    },
+    {
+      "text": "His Honour's conclusion at [85] also relied on evidence from other sources which he considered supported Mr Trumble's evidence that his understanding of baseload capacity and peaking capacity accorded with the common understanding of those terms in the power generation industry.",
+      "id": "s137"
+    },
+    {
+      "text": "In my view no error of law is apparent.",
+      "id": "s138"
+    },
+    {
+      "text": "Wording of Process Updates incapable of giving rise to reliance \n \n 43 In his reasons at [22]-[27], his Honour set out the relevant passages of the Process Updates.",
+      "id": "s139"
+    },
+    {
+      "text": "ERC submits that none of these Updates purported to set tender conditions or that tenders would only be considered on a particular basis.",
+      "id": "s140"
+    },
+    {
+      "text": "Further, that only the last of the Updates referred to the 'sent-out' basis and the others referred to baseload capacity.",
+      "id": "s141"
+    },
+    {
+      "text": "Also, that none of them referred to 'constantly provided' which formed part of the representation under consideration by his Honour in respect of the generated power capacity.",
+      "id": "s142"
+    },
+    {
+      "text": "Therefore, it is submitted that there is no room for reliance to be made out in respect of the Process Updates press releases.",
+      "id": "s143"
+    },
+    {
+      "text": "44 I do not consider that in reaching the conclusion which his Honour did, that there was reason to believe there might be a claim with respect to misrepresentation concerning the generated power capacity arising from the Process Updates, that his Honour was in error in not having regard to the content of those Updates.",
+      "id": "s144"
+    },
+    {
+      "text": "It was not necessary for them to address tender conditions and that was not the relevance of them here.",
+      "id": "s145"
+    },
+    {
+      "text": "Each of them (and in combination) is evidence of a representation that what would be sought was a 300 MW (in some cases to 330 MW) baseload generation capacity.",
+      "id": "s146"
+    },
+    {
+      "text": "The absence of reference to sent-out basis or to 'constantly provided' is an issue to be addressed by other evidence, if at all.",
+      "id": "s147"
+    },
+    {
+      "text": "There was no error by his Honour in considering that there was reason to believe that the wording in the Process Updates could be the source of a claim if it was otherwise made out.",
+      "id": "s148"
+    },
+    {
+      "text": "Furthermore, the essential question and issue before his Honour in this regard was whether there had been a resiling by WPC from the requirement that the power station have a baseload generating capacity of 300 to 330 MW of power.",
+      "id": "s149"
+    },
+    {
+      "text": "Environmental requirements representation \n \n 45 This alleged representation was '[WPC] would only consider tenders ... which satisfied the minimum environmental conditions specified in the tender documents'.",
+      "id": "s150"
+    },
+    {
+      "text": "46 This representation is said to have been contained in the Bid Information Memorandum.",
+      "id": "s151"
+    },
+    {
+      "text": "Relevantly it stated: \n \n '5.7 Evaluation and selection process \n \n \n The Binding Proposal will also be required to meet minimum standards for: \n ...Best commercially available environmental performance of the Power Station (as defined below in paragraphs 6.2 [sic] .",
+      "id": "s152"
+    },
+    {
+      "text": "6.1 Requirements \n ...the Power Station must meet best commercially available environmental performance for fuel and unit size, as described in paragraph 6.3... \n \n 6.3 Plant Environmental Performance \n The best commercially available environmental performance for the fuel and unit size is taken to be as described in the following paragraphs.",
+      "id": "s153"
+    },
+    {
+      "text": "Bidders must strive to meet or exceed these levels of performance.",
+      "id": "s154"
+    },
+    {
+      "text": "' [emphasis added] \n \n\nHis Honour's reasoning on this representation is set out above at [22].",
+      "id": "s155"
+    },
+    {
+      "text": "Whether error of law in failing to interpret properly construed words \n \n 47 Here ERC contends that his Honour failed to interpret the words in cl 6.3 of the Bid Information Memorandum in accordance with the proper rules of construction, namely, to give the words there plain English meaning.",
+      "id": "s156"
+    },
+    {
+      "text": "It is submitted that if the words were given that meaning, his Honour would have been bound to conclude that all the bidders had to do was 'strive to meet or exceed' the levels of environmental performance described therein and there was no evidence before the Court that Wambo did not meet that requirement, so understood.",
+      "id": "s157"
+    },
+    {
+      "text": "48 I do not agree with the submission by ERC that the words of this alleged misrepresentation are expressive only of a 'plain meaning'.",
+      "id": "s158"
+    },
+    {
+      "text": "I accept the submission for Griffin that the alternative interpretation is equally arguable.",
+      "id": "s159"
+    },
+    {
+      "text": "That interpretation is that the 'minimum standards' which the binding proposal was 'required to meet' and which the power station 'must meet' referred to the bidding stage, while the reference to bidders 'must strive to meet or exceed those levels of performance' addressed the requirements of WPC once the power station was in operation.",
+      "id": "s160"
+    },
+    {
+      "text": "There was no error by his Honour in reaching that conclusion.",
+      "id": "s161"
+    },
+    {
+      "text": "Error of law from application of wrong test \n \n 49 Again ERC contends that his Honour's conclusion at [94] involved an application of the considerations of beyond a mere assertion and failed to apply the St George Bank 211 ALR test properly.",
+      "id": "s162"
+    },
+    {
+      "text": "For the reasons previously given that submission does not succeed.",
+      "id": "s163"
+    },
+    {
+      "text": "Reliance \n \n 50 ERC submits that Mr Trumble gave no evidence of reliance in his first affidavit.",
+      "id": "s164"
+    },
+    {
+      "text": "It is said that his affidavit of 7 March 2006 'was no more than mere assertion'.",
+      "id": "s165"
+    },
+    {
+      "text": "Further, that he gave no evidence as to how Griffin would have modified its tender.",
+      "id": "s166"
+    },
+    {
+      "text": "Mr Trumble's evidence was that if Griffin had known that standards were ones which WPC would consider to be satisfied if a bidding party had merely expressed a willingness to endeavour to meet them, Griffin would have modified its proposal and would have been able to submit a final bid at a lower price than that which it did.",
+      "id": "s167"
+    },
+    {
+      "text": "That evidence was not the subject of cross-examination by WPC.",
+      "id": "s168"
+    },
+    {
+      "text": "I do not therefore accept that the submissions of ERC disclose an absence of reliance possibly being made out.",
+      "id": "s169"
+    },
+    {
+      "text": "Substantial injustice \n \n 51 ERC submits that substantial injustice would result if leave were refused.",
+      "id": "s170"
+    },
+    {
+      "text": "This is said to be because of the issues dealt with by his Honour under the heading 'Discretionary considerations' and relating to the confidential character of the evidence which is required to be disclosed by WPC in response to the order for preliminary discovery.",
+      "id": "s171"
+    },
+    {
+      "text": "This is asserted even though his Honour's order is crafted so as to provide restrictions of access in relation to inspection: see [110] and [111] of his Honour's reasons quoted above at [26].",
+      "id": "s172"
+    },
+    {
+      "text": "In addition, reliance is placed on the affidavit of M/s Eversden where it is said that if leave is not granted the categories of documents which WPC will be required to make available would contain highly confidential information and that it should not be required to give Griffin access to commercially sensitive information.",
+      "id": "s173"
+    },
+    {
+      "text": "52 I agree with the submission for Griffin that there is no evidence which would suggest that the principle in Home Office v Harman [1981] 1 QB 534 should not apply and be observed.",
+      "id": "s174"
+    },
+    {
+      "text": "Additionally, that any other prejudice from having to make the documents available is a natural consequence of the orders proposed by the trial judge and does not amount to the type of substantial injustice required in this context: Brilliant Digital 63 IPR at [5]-[7].",
+      "id": "s175"
+    },
+    {
+      "text": "I further accept that the proposed orders do not affect matters of substantive rights of ERC, which will have every opportunity to advance appropriate arguments should Griffin initiate substantive proceedings.",
+      "id": "s176"
+    },
+    {
+      "text": "CONCLUSION \n \n 53 For the above reasons, I am of the view that ERC has not established that the decision to make the order for preliminary discovery is attended with sufficient doubt to warrant it being reconsidered by the Full Court.",
+      "id": "s177"
+    },
+    {
+      "text": "Further, I do not consider that substantial injustice would result if leave were refused, supposing the decision to make the orders to be wrong.",
+      "id": "s178"
+    },
+    {
+      "text": "This is an issue of practice and procedure and substantive rights remain to be tested in subsequent proceedings.",
+      "id": "s179"
+    },
+    {
+      "text": "The issues of confidentiality which trouble ERC can be addressed by appropriate directions.",
+      "id": "s180"
+    },
+    {
+      "text": "The application for leave to appeal will therefore be refused.",
+      "id": "s181"
+    },
+    {
+      "text": "54 It will be necessary for his Honour to reprogram the orders which have been the subject of a stay while this application has been heard and determined.",
+      "id": "s182"
+    },
+    {
+      "text": "I certify that the preceding fifty-four (54) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Nicholson.",
+      "id": "s183"
+    },
+    {
+      "text": "Associate:\n\nDated: 21 December 2006\n Counsel for the Applicant: M Corboy SC with JN Eversden \n \n Solicitor for the Applicant: Mallesons Stephen Jaques \n \n Counsel for the Respondents: AI Tonking \n \n Solicitor for the Respondents: Allens Arthur Robinson \n \n Date of Hearing: 19 December 2006 \n \n Date of Judgment: 21 December 2006 \n\n\n \n\n\n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2006/1810.html",
+      "id": "s184"
+    }
+  ]
+}

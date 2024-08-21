@@ -1,0 +1,652 @@
+{
+  "name": "Aristocrat Technologies Australia Pty Limited v Global Gaming Supplies Pty Limited [2007] FCA 943 (15 June 2007)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2007/943.html",
+  "catchphrases": [
+    {
+      "text": "interlocutory notices of motion",
+      "id": "c0"
+    },
+    {
+      "text": "application by applicants for consolidation under order 29 rule 5 of the federal court rules of two separate proceedings",
+      "id": "c1"
+    },
+    {
+      "text": "application in the alternative for joinder under order 6 rule 2",
+      "id": "c2"
+    },
+    {
+      "text": "applicable principles",
+      "id": "c3"
+    },
+    {
+      "text": "consideration of discretionary factors",
+      "id": "c4"
+    },
+    {
+      "text": "whether in the interests of justice to exercise the court's power to consolidate",
+      "id": "c5"
+    },
+    {
+      "text": "application for consolidation allowed",
+      "id": "c6"
+    },
+    {
+      "text": "o6 r2, o29 r5",
+      "id": "c7"
+    },
+    {
+      "text": "practice and procedure",
+      "id": "c8"
+    },
+    {
+      "text": "federal court rules 1979 (cth)",
+      "id": "c9"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "(REVISED FROM TRANSCRIPT)\n INTRODUCTION \n \n1 The applicants (\"Aristocrat\") seek consolidation of two sets of proceedings.",
+      "id": "s0"
+    },
+    {
+      "text": "The first is matter number NSD 1271 of 2006, the second is matter number NSD 133 of 2007.",
+      "id": "s1"
+    },
+    {
+      "text": "I will refer to the first proceeding as the \"Global\" proceeding and to the second as the \"Impact\" proceeding.",
+      "id": "s2"
+    },
+    {
+      "text": "2 Aristocrat seeks in the alternative to join the respondents in the Impact proceeding to the Global proceeding, or in the further alternative that the matters be heard together.",
+      "id": "s3"
+    },
+    {
+      "text": "The second and fourth respondents in the Impact proceeding, respectively Tonita Enterprise and Mr Allam do not oppose consolidation.",
+      "id": "s4"
+    },
+    {
+      "text": "The other respondents to both sets of proceedings (\"the contesting respondents\") vigorously oppose the orders sought by Aristocrat.",
+      "id": "s5"
+    },
+    {
+      "text": "3 The dispute between the parties as to whether consolidation should be ordered centres upon the course of the proceedings pursued by Aristocrat up to 16 May 2007 and upon competing views as to the existing subject matter of each set of proceedings.",
+      "id": "s6"
+    },
+    {
+      "text": "4 This is because underlying the motions for consolidation is the claim that documentary evidence obtained by Aristocrat under search and seizure orders support a case of joint enterprise, by the respondents to both proceedings, to supply counterfeit gaming machines and components overseas.",
+      "id": "s7"
+    },
+    {
+      "text": "Yet no such claim was notified by Aristocrat to the respondents until 16 May 2007, notwithstanding that Aristocrat's then solicitors had had access to the documents since January 2007 and had taken a deliberate forensic decision to commence the Impact proceeding rather than joining the Impact respondents to the existing Global proceeding.",
+      "id": "s8"
+    },
+    {
+      "text": "5 The contesting respondents submit that the consolidation motion is a device to avoid the failure by Aristocrat to take up the leave granted by the Court in April 2007 to amend the statement of claim in the Global proceeding.",
+      "id": "s9"
+    },
+    {
+      "text": "They contend that consent directions made at that time would have enabled the Global proceeding (albeit in a narrower form than now proposed by Aristocrat) to go to trial this year.",
+      "id": "s10"
+    },
+    {
+      "text": "The displacement of such a hearing date, although not yet set, is said to amount to prejudice to the contesting respondents.",
+      "id": "s11"
+    },
+    {
+      "text": "CHRONOLOGY OF THE GLOBAL PROCEEDING AND THE IMPACT PROCEEDING \n \n6 I do not propose to set out the chronology in great detail.",
+      "id": "s12"
+    },
+    {
+      "text": "The Global proceeding was commenced on 30 June 2006 when an ex parte seizure order was made by Allsop J.",
+      "id": "s13"
+    },
+    {
+      "text": "The order was executed on 3 July 2006, an application and statement of claim were filed on 2 August 2006 and defences were duly filed.",
+      "id": "s14"
+    },
+    {
+      "text": "7 The statement of claim in the Global proceeding alleges copyright infringement and trade practices contraventions in respect of 32 shipments of gaming machines to Lima, Peru in July 2002.",
+      "id": "s15"
+    },
+    {
+      "text": "The statement of claim also alleges in the alternative a partnership between the first respondent, Global Gaming Supplies Pty Limited, and Vidtech Gaming Services Pty Limited or its principal, Mr David Parry.",
+      "id": "s16"
+    },
+    {
+      "text": "Vidtech and Mr Parry are not parties to these proceedings but they were parties to an earlier action: Aristocrat Technologies Australia Pty Limited v DAP Services (Kempsey) Pty Limited (in Liq) 71 IPR 437.",
+      "id": "s17"
+    },
+    {
+      "text": "8 Importantly, [12(viii)] of the statement of claim stated:\n \n The applicants reserve the right to provide further particulars after discovery and other interlocutory procedures of the Court.",
+      "id": "s18"
+    },
+    {
+      "text": "9 The search and seizure orders in the Global proceeding were among the first that have been made in the Court under the new regime introduced by Practice Note 24.",
+      "id": "s19"
+    },
+    {
+      "text": "It may not, therefore, be surprising that there have been procedural wrangles between the parties as to the working out of the orders.",
+      "id": "s20"
+    },
+    {
+      "text": "Disputes arose in the Global proceeding in about October 2006 which culminated in orders for access that were made on 30 November 2006.",
+      "id": "s21"
+    },
+    {
+      "text": "10 The disputes as to the access regime resulted, in part, from the terms of consent orders that were agreed to by the solicitors who were then acting for the respondents in the Global proceeding.",
+      "id": "s22"
+    },
+    {
+      "text": "The orders which I made on 30 November 2006 were made following a change of solicitors by the Global respondents, but the scope of the orders was confined by the terms of the earlier consent orders.",
+      "id": "s23"
+    },
+    {
+      "text": "The wide scope of the orders resulted in access by Aristocrat to over 300,000 documents which were imaged by the independent computer expert in accordance with the search and seizure orders.",
+      "id": "s24"
+    },
+    {
+      "text": "11 The orders for access made in November 2006 provided for Aristocrat's solicitors to have access by 11 December 2006 but there is no dispute between the parties that practical access was only available to Aristocrat's solicitors and in-house counsel in January 2007.",
+      "id": "s25"
+    },
+    {
+      "text": "12 On 30 January 2007, Aristocrat approached the Court for leave to use the documents obtained in the Global proceeding as the foundation for the institution of the Impact proceeding, and for search and seizure orders against the respondents in the Impact proceeding.",
+      "id": "s26"
+    },
+    {
+      "text": "On 31 January 2007, Branson J made the search and seizure orders and they were executed against the respondents to the Impact proceeding on 1 February 2007.",
+      "id": "s27"
+    },
+    {
+      "text": "13 The statement of claim in the Impact proceeding alleges copyright infringement, trademark infringement and trade practices contraventions by the respondents, but the particulars are stated in somewhat general terms in Schedule 3.",
+      "id": "s28"
+    },
+    {
+      "text": "Schedule 3 also states in broad terms the respondents to that proceeding \"operate their businesses jointly\" with the respondents to the Global proceeding and companies associated with the principal of Global Gaming Pty Limited, Mr Tony Andrews, as well as with Mr Parry and companies associated with him.",
+      "id": "s29"
+    },
+    {
+      "text": "As in the Global proceeding matter, the statement of claim in the Impact proceeding reserved to Aristocrat the right to provide further particulars after discovery and interlocutory procedures.",
+      "id": "s30"
+    },
+    {
+      "text": "14 At the first directions hearing in the Impact proceeding, I took the view that without ruling that the two sets of proceedings were related it was appropriate that they be case managed together.",
+      "id": "s31"
+    },
+    {
+      "text": "Since then directions hearings and interlocutory hearings in both matters have, for the most part, been heard together.",
+      "id": "s32"
+    },
+    {
+      "text": "15 On 22 March 2007, I made orders in the Impact proceeding to provide for a review of the documents which had been extracted by the independent computer expert.",
+      "id": "s33"
+    },
+    {
+      "text": "16 On 5 April 2007, I made consent orders in the Global proceeding for Aristocrat to file an amended statement of claim, as well as for the completion of all further interlocutory steps in the proceedings, by 4 October 2007.",
+      "id": "s34"
+    },
+    {
+      "text": "17 The orders which were made on 5 April 2007 in the Global proceeding are to be considered against the background that before that date a draft set of categories of documents had been supplied by Aristocrat's then solicitors to the solicitors for the respondents.",
+      "id": "s35"
+    },
+    {
+      "text": "Those categories referred to a very large number of transactions far beyond the 32 shipments to Lima particularised in the existing statement of claim.",
+      "id": "s36"
+    },
+    {
+      "text": "There was reference to this in the cross-examination of Mr Bard.",
+      "id": "s37"
+    },
+    {
+      "text": "18 On 13 April 2007, Aristocrat filed a notice of change of solicitors.",
+      "id": "s38"
+    },
+    {
+      "text": "This required a variation of the confidentiality regime in place for the inspection of documents so that the new solicitors could obtain access.",
+      "id": "s39"
+    },
+    {
+      "text": "The amended orders were eventually made by consent on 30 April 2007 although not without some prior interlocutory skirmishing.",
+      "id": "s40"
+    },
+    {
+      "text": "19 Also on 30 April 2007, I granted Aristocrat an extension of time in which to file the amended statement of claim for which leave had been granted on 5 April 2007.",
+      "id": "s41"
+    },
+    {
+      "text": "The date to which the extension was granted was 11 May 2007.",
+      "id": "s42"
+    },
+    {
+      "text": "On 11 May 2007, Aristocrat's solicitors wrote to the solicitors for the respondents stating that they were unable to file an amended statement of claim because of the short period of time during which they had had access to the confidential material.",
+      "id": "s43"
+    },
+    {
+      "text": "The letter also stated:\n \n \"In the course of reviewing the confidential material, it has become clear that material relevant to the case against your clients and to the provision of further particulars of infringement is likely to be found within the material seized in the parallel proceedings against Impact Gaming Pty Limited and others (NSD 133/2007).",
+      "id": "s44"
+    },
+    {
+      "text": "This is the material that is currently being reviewed by your firm.",
+      "id": "s45"
+    },
+    {
+      "text": "In due course we will need access to that material, subject to any appropriate leave required, in order to complete the particulars of infringement in this case.",
+      "id": "s46"
+    },
+    {
+      "text": "That will necessitate an additional amendment to the statement of claim if the cases have not yet been consolidated\".",
+      "id": "s47"
+    },
+    {
+      "text": "20 On 16 May 2007, Aristocrat's solicitors notified the respondents' solicitors of their intention to file a notice of motion seeking consolidation of the Global proceeding and the Impact proceeding.",
+      "id": "s48"
+    },
+    {
+      "text": "The letter stated, inter alia :\n \n \"As a result of the process o f preparing a draft amended statement of claim and our review of the material that was seized pursuant to the execution of the search orders in this proceeding, we have formed the view that this proceeding ought to be consolidated with the parallel proceedings known as Aristocrat Technologies Pty Limited and ors v Impact Gaming Pty Limited and ors NSD 133/2007 (the Impact Gaming proceedings ).",
+      "id": "s49"
+    },
+    {
+      "text": "... \n In any event, as we foreshadowed in our letter of 11 May 2007, it will not be possible for the applicants in this proceeding to file and serve an amended statement of claim (and particularise all of the acts of infringement) until after that have completed the review of the material seized pursuant to the search orders in the Impact Gaming proceedings.",
+      "id": "s50"
+    },
+    {
+      "text": "\" \n\n21 A notice of motion in each proceeding seeking consolidation and alternative orders was filed on 22 May 2007.",
+      "id": "s51"
+    },
+    {
+      "text": "The affidavits in support of the motions included a draft consolidated statement of claim, but particulars of the claim they foreshadowed to some extent on 22 May 2007 were not provided until approximately 4:30 pm on Friday 8 June 2007, the last working day before the hearing.",
+      "id": "s52"
+    },
+    {
+      "text": "22 At the commencement of the hearing a red folder of documents was provided for the first time to the respondents.",
+      "id": "s53"
+    },
+    {
+      "text": "This folder, which became Exhibit A, contained the documents which Aristocrat considered to be the most critical material to establish a prime facie case of joint enterprise between the respondents in each set of proceedings.",
+      "id": "s54"
+    },
+    {
+      "text": "THE RELEVANT COURT RULES AND LEGAL PRINCIPLES \n \n23 Order 29 r 5 of the Federal Court Rules deals with consolidation.",
+      "id": "s55"
+    },
+    {
+      "text": "It provides:\n \n Where several proceedings are pending in the Court, then, if it appears to the Court: \n \n \n (a) that some common question of law or fact arises in both or all of them; \n (b) that the rights to relief claimed therein are in respect of, or arise out of, the same transaction or series of transactions; or \n (c) that for some other reason it is desirable to make an order under this rule; \n \n \n the Court may order those proceedings to be consolidated or may order them to be tried at the same time or one immediately after another or may order them to be stayed until after the determination of any of them.",
+      "id": "s56"
+    },
+    {
+      "text": "\" \n\n24 Order 6 r 2 deals with joinder of parties.",
+      "id": "s57"
+    },
+    {
+      "text": "It provides:\n \n \"Two or more persons may be joined as applicants or respondents in any proceeding: \n \n \n (a) where: \n \n \n \n \n (i) if a separate proceeding were brought by or against each of them, as the case may be, some common question of law or of fact would arise in all the proceedings; and \n (ii) all rights to relief claimed in the proceeding (whether they are joint, several or alternative) are in respect of or arise out of the same transaction or series of transactions; or \n \n \n \n \n (b) where the Court gives leave so to do.",
+      "id": "s58"
+    },
+    {
+      "text": "\" \n \n\n25 The textual and policy considerations which underlie O 29 r 5 bear close resemblance to those which apply to O 6 r 2; see Trade Practices Commission v Westco Motors (Distributors) Pty Limited (1981) 58 FLR 384.",
+      "id": "s59"
+    },
+    {
+      "text": "The objects and scope of the power contained in O 29 r 5 were explained by Hill J in Re Ling; Ex parte Ling v Commonwealth of Australia (1995) 58 FCR 129 at 134 as follows:\n \n \"Consolidation is provided for in the Federal Court Rules 1979 (Cth) in O 29, r 5.",
+      "id": "s60"
+    },
+    {
+      "text": "As the terms of the rule make clear, an order for consolidation is not limited to the circumstances expressed in r 5(a) and (b).",
+      "id": "s61"
+    },
+    {
+      "text": "It suffices that it is desirable that an order for consolidation be made.",
+      "id": "s62"
+    },
+    {
+      "text": "The rule confers upon the Court a broad discretion to make orders for consolidation where it is in the interests of justice so to do.",
+      "id": "s63"
+    },
+    {
+      "text": "Relevant to the exercise of discretion would be the desirability of avoiding multiple actions, the saving of time and expense and whether the parties would be prejudiced by such a course: Cameron v McBain [1948] VLR 245 at 247.",
+      "id": "s64"
+    },
+    {
+      "text": "There is no reason to interpret the rule so that consolidation is to be confined to cases where there are several actions brought which could have been joined in the one writ.",
+      "id": "s65"
+    },
+    {
+      "text": "\" \n\n26 In Knight v Beyond Properties Pty Ltd (No 2) [2006] FCA 192 , Lindgren J dealt inter alia with the terms of O 6 r 2.",
+      "id": "s66"
+    },
+    {
+      "text": "His Honour said:\n \n \"25 Rule 2 (b) does not in terms limit the circumstances in which the Court may grant leave.",
+      "id": "s67"
+    },
+    {
+      "text": "Even if para (b) were limited to para (a) cases, para (b) would still have work to do: the Court might refuse leave because of considerations arising from the applicant's failure to join the parties at the outset, any delay of the applicant in seeking leave, the state of progression of the proceeding, any disruption likely to arise from the addition of parties, and other discretionary factors.",
+      "id": "s68"
+    },
+    {
+      "text": "That is to say, the Court may be persuaded, in the exercise of its discretion, to leave the applicant to the necessity of commencing a fresh proceeding.",
+      "id": "s69"
+    },
+    {
+      "text": "26 In fact, in Bishop v Bridgelands Securities Ltd (1990) ATPR---SS41-060 Wilcox J held that para (b) was not limited by reference to para (a) of r 2.",
+      "id": "s70"
+    },
+    {
+      "text": "I respectfully agree.",
+      "id": "s71"
+    },
+    {
+      "text": "Nonetheless, the first inquiry will always be whether the terms of para (a) are satisfied.",
+      "id": "s72"
+    },
+    {
+      "text": "If so, the Court will proceed to consider discretionary factors of the kind mentioned above.",
+      "id": "s73"
+    },
+    {
+      "text": "If not, the Court may still be persuaded in the particular circumstances of the case to exercise the discretion by granting leave, as happened in Bishop v Bridgelands , above.",
+      "id": "s74"
+    },
+    {
+      "text": "\" \n\n27 Reference should also be made to the remarks of Wilcox J in Bishop v Bridgelands Securities (1990) 25 FCR 311 at 314:\n \n \"As the discretion conferred by subr (b) is, in terms, unconfined, it would be inappropriate to specify circumstances in which it might be applied.",
+      "id": "s75"
+    },
+    {
+      "text": "Everything must depend upon the facts of the particular case.",
+      "id": "s76"
+    },
+    {
+      "text": "But it is appropriate to consider what principles ought to guide the exercise of such a discretion.",
+      "id": "s77"
+    },
+    {
+      "text": "The basic principle, as it seems to me, is that the Court should take whatever course seems to be most conducive to a just resolution of the disputes between the parties, but having regard to the desirability of limiting, so far as practicable, the costs and delay of the litigation.",
+      "id": "s78"
+    },
+    {
+      "text": "Considerations of costs and delay may often support the grant of leave under subr (b); but, in my opinion, leave ought not to be granted unless the Court is affirmatively satisfied that joinder is unlikely to result in unfairness to any party.",
+      "id": "s79"
+    },
+    {
+      "text": "\" \n CONSIDERATION \n \n28 Aristocrat's submissions focused upon the effect on both sets of proceedings of the documents comprised in Exhibit A and upon certain documents contained in Exhibit MJW3 to an affidavit of Mr Williams.",
+      "id": "s80"
+    },
+    {
+      "text": "I do not propose to set out the documents in my reasons.",
+      "id": "s81"
+    },
+    {
+      "text": "There is a useful schedule which records the salient passages in an annotated index to Exhibit MJW3 and Exhibit A that was handed up by counsel for Aristocrat.",
+      "id": "s82"
+    },
+    {
+      "text": "Some parts of the material in those exhibits are confidential.",
+      "id": "s83"
+    },
+    {
+      "text": "29 I am satisfied that the documents in Exhibit MJW3 and Exhibit A establish that Aristocrat has an arguable case that the respondents in both sets of proceedings were involved in a joint enterprise that included making and supplying counterfeit Aristocrat electronic gaming machines and gaming machine components.",
+      "id": "s84"
+    },
+    {
+      "text": "The documents are replete with references to a partnership between Mr Andrews of Global and Mr Cragen of Impact.",
+      "id": "s85"
+    },
+    {
+      "text": "They refer to the operation of the business from Impact's premises at Botany.",
+      "id": "s86"
+    },
+    {
+      "text": "There are also sufficient references to the other respondents to give rise to their involvement in the venture.",
+      "id": "s87"
+    },
+    {
+      "text": "30 It would be inappropriate for me to comment at this stage on the proceedings on the strength of the prime facie case established by the documents, not least because the respondents have yet to file evidence on any of the questions of fact which arise.",
+      "id": "s88"
+    },
+    {
+      "text": "It is sufficient for me to say that I am satisfied that there is an arguable case to go to trial on the causes of action pleaded in the draft consolidated statement of claim if I were to permit consolidation of the proceedings.",
+      "id": "s89"
+    },
+    {
+      "text": "The causes of action include copyright infringement, authorisation of copyright infringement, joint participation in copyright infringement through participation in a common design, accessorial liability and trademark infringement.",
+      "id": "s90"
+    },
+    {
+      "text": "31 However, the contesting respondents point to a number of discretionary factors which they submit point strongly against the exercise of the power to order consolidation.",
+      "id": "s91"
+    },
+    {
+      "text": "They also rely upon the fact that as presently pleaded there are no common questions of law or fact in the Global proceeding and the Impact proceeding.",
+      "id": "s92"
+    },
+    {
+      "text": "Nor do the rights to relief claimed in the Global proceeding and the Impact proceeding arise out of the same transactions or series of transactions: see Payne v Young [1979] HCA 39 ; (1980) 145 CLR 609.",
+      "id": "s93"
+    },
+    {
+      "text": "32 Moreover, as the contesting respondents submit, the ambit of the existing Global proceeding particularises 32 shipments to Peru in July 2002 whereas Impact was not incorporated until May 2004.",
+      "id": "s94"
+    },
+    {
+      "text": "Thus the Global proceeding involves entirely different allegations at different times involving different parties from those which are the subject of the Impact proceeding.",
+      "id": "s95"
+    },
+    {
+      "text": "Indeed, the draft particulars of the consolidated statement of claim allege only four transactions involving Global or Mr Andrews before May 2004, but there are 50 allegations against Impact, Tonita, Mr Cragen, Mr Allam, Global and Mr Andrews either individually or in a \"joint enterprise\" after May 2004.",
+      "id": "s96"
+    },
+    {
+      "text": "33 Notwithstanding these difficulties, I am satisfied as I have already said that there are supportable allegations of joint enterprise involving Impact, Tonita, Mr Cragen, Mr Allam, Global and Mr Andrews during the period from May 2004 to the date of commencement of the Impact proceeding.",
+      "id": "s97"
+    },
+    {
+      "text": "Indeed, this is conceded in the submissions of the contesting respondents.",
+      "id": "s98"
+    },
+    {
+      "text": "34 The solution proposed by the contesting respondents is that the Impact proceeding provides an adequate vehicle in which Aristocrat may pursue all of the allegations of joint enterprise from the period commencing May 2004.",
+      "id": "s99"
+    },
+    {
+      "text": "They suggest that the Global proceeding remains on foot, perhaps with the addition of the particulars of the three additional transactions said to have occurred before May 2004.",
+      "id": "s100"
+    },
+    {
+      "text": "They submit that this relatively confined Global proceeding could go to trial later in 2007, leaving the longer and more complex Impact proceeding to be heard next year.",
+      "id": "s101"
+    },
+    {
+      "text": "35 It seems to me that whether I should adopt this course or order in the alternative consolidation as proposed by Aristocrat depends upon whether I consider it to be in the interests of justice having regard to all of the factors mentioned in the cases to which I have referred.",
+      "id": "s102"
+    },
+    {
+      "text": "The contesting respondents point in particular to the forensic decision taken by Aristocrat in January 2007 to launch the Impact proceeding rather than to seek to join those respondents to the Global proceeding.",
+      "id": "s103"
+    },
+    {
+      "text": "Ms Tropman conceded that this was a deliberate forensic decision taken so as to avoid a \"tip off\" to the parties in the Global proceeding.",
+      "id": "s104"
+    },
+    {
+      "text": "36 Nevertheless, I do not consider that what was done amounted to an abuse of the processes of the Court.",
+      "id": "s105"
+    },
+    {
+      "text": "Indeed, confidentiality was required by the provisions of Practice Note 24.",
+      "id": "s106"
+    },
+    {
+      "text": "It is true that it would have been possible for a procedure to have been invoked which would have enabled Aristocrat to amend the claim in the Global proceeding to join the Impact respondents while at the same time maintaining confidentiality, but that procedure was more complicated and I do not consider that it was obligatory for Aristocrat to pursue that course.",
+      "id": "s107"
+    },
+    {
+      "text": "37 In short, I do not consider that there was an abuse of process within the principles stated in authorities such as Williams v Spautz [1992] HCA 34 ; (1992) 174 CLR 509.",
+      "id": "s108"
+    },
+    {
+      "text": "Nor do I consider that Aristocrat's failure to take up the opportunity to exercise leave to amend the Global proceeding goes against the exercise of the discretion to consolidate.",
+      "id": "s109"
+    },
+    {
+      "text": "It is true that the time for exercise was extended, but new solicitors were engaged and it is plain that they cannot be criticised for seeking an extension of time so as to enable them to absorb the mass of material.",
+      "id": "s110"
+    },
+    {
+      "text": "38 I accept that Aristocrat is bound by the course adopted by its previous solicitors, but the question which arises is whether any prejudice now flows from the change of course proposed by Aristocrat.",
+      "id": "s111"
+    },
+    {
+      "text": "I accept the submissions of the contesting respondents that what is proposed involves in essence a new case, but I reject their submission that it was entirely unexpected.",
+      "id": "s112"
+    },
+    {
+      "text": "39 It was plain in my view that the very large categories of documents proposed for discovery by Aristocrat shortly before 5 April 2007 demonstrated that Aristocrat wished to greatly expand the scope of the Global proceeding beyond the shipments to Peru in 2002.",
+      "id": "s113"
+    },
+    {
+      "text": "Nor do I see any substantial prejudice sufficient to go against the grant of relief to Aristocrat on these motions in any of the other respects that have been submitted to me on behalf of the contesting respondents.",
+      "id": "s114"
+    },
+    {
+      "text": "40 However, I do consider that Aristocrat may have to bear some cost liability for the change of course, at the very least costs thrown away by its adoption of a new case.",
+      "id": "s115"
+    },
+    {
+      "text": "Mr Bard effectively conceded in cross-examination that he could not point to prejudice from the failure to exercise leave to amend other than some additional costs and delay.",
+      "id": "s116"
+    },
+    {
+      "text": "But wasted costs can be compensated and I am not persuaded that there will be any real delay in the hearing as a result of a consolidation order.",
+      "id": "s117"
+    },
+    {
+      "text": "41 Although the orders of 5 April 2007 were consented to by Mr Bard as a package, he did so on the basis that the Global case was relatively confined, whereas in my view that was not an assumption he could safely make.",
+      "id": "s118"
+    },
+    {
+      "text": "In any event, there was no guarantee that the timetable would have been adhered to and no hearing date was actually fixed.",
+      "id": "s119"
+    },
+    {
+      "text": "42 The two most persuasive discretionary factors against consolidation seem to me to be first, the linking of the pre-May 2004 Global transactions to the wider joint enterprise case and second, the real possibility that the narrower allegations in those proceedings, upon which the Global respondents may have reasonable prospects of success, will be subsumed in the more complex joint enterprise case.",
+      "id": "s120"
+    },
+    {
+      "text": "There will also be evidentiary difficulties in a consolidated action because the claims are tantamount to conspiracy and questions will arise as to whether evidence against one of the respondents is admissible against the others.",
+      "id": "s121"
+    },
+    {
+      "text": "43 However, ultimately I am of the view that all of this is outweighed by the fact that the same difficulties would arise in a reconstituted Impact proceeding and in any event I would be able to make special costs orders in favour of Global if it succeeds in resisting the allegations relating to the pre-May 2004 activities.",
+      "id": "s122"
+    },
+    {
+      "text": "44 I have taken into account the fact that Mr Williams conceded that the decision to refrain from seeking an order that the Global respondents be joined in the Impact proceeding was deliberate.",
+      "id": "s123"
+    },
+    {
+      "text": "However, he explained at page 62 of the transcript that he was of the view that the orders sought sufficiently encompassed that possibility.",
+      "id": "s124"
+    },
+    {
+      "text": "45 I am affirmatively satisfied that the contesting respondents will not be prejudiced by an order for consolidation.",
+      "id": "s125"
+    },
+    {
+      "text": "It is true that the existing Global proceeding are narrower than the Impact proceeding and narrower than the proceedings in consolidated form.",
+      "id": "s126"
+    },
+    {
+      "text": "It is also true that no claim of partnership between Global and Impact can be made in respect of the period before about May 2004.",
+      "id": "s127"
+    },
+    {
+      "text": "46 Accordingly, it would appear that there is no common question of law or fact in relation to the pre-May 2004 allegations.",
+      "id": "s128"
+    },
+    {
+      "text": "However, the evidence in Exhibit A points to an inference of a continuation of Global's business in the form of the \"joint enterprise\" and this is sufficient to lead me to the view that there will be a saving of time and cost by dealing with all of the allegations in one proceeding.",
+      "id": "s129"
+    },
+    {
+      "text": "47 Also, it seems to me that the substantial amounts expended by the contesting respondents in the Global proceeding have largely been incurred in dealing with the working out of the access regime pursuant to the search and seizure order initially made in the Global proceeding.",
+      "id": "s130"
+    },
+    {
+      "text": "Once that order was made the proceeding was not likely to be cheap, efficient or quick, but what is once again demonstrated is the draconian nature of the orders and the need for caution in the initial decision to unleash the full armoury of the Court's processes in the way that has been done.",
+      "id": "s131"
+    },
+    {
+      "text": "48 What was produced in the search and seizure order in the Global proceeding led to the institution of the Impact proceeding with the inevitable consequence of protracted litigation.",
+      "id": "s132"
+    },
+    {
+      "text": "It may well be that the only sanction for the eventual loser in the proceedings will be a substantial costs order.",
+      "id": "s133"
+    },
+    {
+      "text": "But as I have said, Aristocrat may well have to meet an order for costs in any event as a result of the change of course that has been adopted.",
+      "id": "s134"
+    },
+    {
+      "text": "49 As I said earlier, the contesting respondents submitted with some force that the relief sought by Aristocrat on the motions does not extend to joinder of the Global respondents to the Impact proceeding.",
+      "id": "s135"
+    },
+    {
+      "text": "Reliance was placed on the deliberate decision taken by Aristocrat and by Mr Williams, but that was explained in cross-examination as I have already mentioned.",
+      "id": "s136"
+    },
+    {
+      "text": "50 I can see no practical utility in allowing the Global proceeding to go to trial in the limited form proposed by the contesting respondents.",
+      "id": "s137"
+    },
+    {
+      "text": "I accept the evidence of Mr Williams that he considers that there will be time and costs savings in consolidation rather than the pursuit of separate actions.",
+      "id": "s138"
+    },
+    {
+      "text": "This seems to me to be correct even if Mr Williams' opinion was based upon a broader assumption as to the subject matter of the existing proceedings than is contained in the present pleadings.",
+      "id": "s139"
+    },
+    {
+      "text": "51 In short, I am of the view that it is in the interests of justice that the proceedings be consolidated.",
+      "id": "s140"
+    },
+    {
+      "text": "Mr Ireland QC for the contesting respondents referred me to the decision of Hely J in Wilson v Minister for Land and Water Conservation (NSW) [2003] FCA 307 ; (2003) 198 ALR 238, in particular at [46], [48] ---[49].",
+      "id": "s141"
+    },
+    {
+      "text": "52 However, that was a very different case because the respondents in one of two separate proceedings contended that the applicant should consolidate them.",
+      "id": "s142"
+    },
+    {
+      "text": "His Honour considered that a relevant factor was whether the existence of two proceedings rather than one constituted an abuse of process; he held that they were not and declined to order consolidation.",
+      "id": "s143"
+    },
+    {
+      "text": "53 I do not consider that the existence of different parties to the separate proceedings is a bar to the existence of the power to order consolidation.",
+      "id": "s144"
+    },
+    {
+      "text": "The observations of Hill J in Re Ling are to the effect that consolidation can be ordered in these circumstances, and that is also supported by the approach taken by Emmett J in Hi-Fert Pty Limited v United Shipping Adriatic Inc [1998] FCA 1671.",
+      "id": "s145"
+    },
+    {
+      "text": "CONCLUSION AND ORDERS \n \n54 It follows for the reasons that I have given that I propose to make an order for consolidation in the terms proposed by Aristocrat.",
+      "id": "s146"
+    },
+    {
+      "text": "The parties are directed to bring in short minutes to reflect my reasons.",
+      "id": "s147"
+    },
+    {
+      "text": "55 The costs order I will make is that the costs of the motions for consolidation be the respondents' costs in the consolidated proceedings.",
+      "id": "s148"
+    },
+    {
+      "text": "I certify that the preceding fifty-five (55) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Jacobson.",
+      "id": "s149"
+    },
+    {
+      "text": "Associate:\n\nDated: 29 June 2007\n\n On the First Motion \n \n \n Counsel for the Applicant: Mr R Cobden SC and Mr JM Hennessy \n \n Solicitor for the Applicant: Gilbert + Tobin Lawyers \n \n Counsel for the Respondents: Mr JM Ireland QC and Mr JS Cooke \n \n Solicitor for the Respondents: Paul Bard Lawyers \n \n On the Second Motion \n \n \n Counsel for the Applicants: Mr R Cobden SC and Mr JM Hennessy \n \n Solicitor for the Applicant: Gilbert + Tobin Lawyers \n \n Counsel for the First and Third Respondents: Mr JM Ireland QC and Mr JS Cooke \n \n Solicitor for the First and Third Respondents: Paul Bard Lawyers \n \n Counsel for the Second and Fourth Respondents: Mr WG Muddle \n \n Solicitor for the Second and Fourth Respondents: Bruce Stewart Dimarco Lawyers \n \n Date of Hearing: 12 --- 13 June 2007 \n \n Date of Judgment: 15 June 2007 \n\n\n \n \n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/943.html",
+      "id": "s150"
+    }
+  ]
+}

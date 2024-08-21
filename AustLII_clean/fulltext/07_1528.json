@@ -1,0 +1,3612 @@
+{
+  "name": "BHP Billiton Direct Reduced Iron Pty Ltd (ACN 058 025 960) v Duffus, Deputy Commissioner of Taxation [2007] FCA 1528 (2 October 2007)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2007/1528.html",
+  "catchphrases": [
+    {
+      "text": "income tax",
+      "id": "c0"
+    },
+    {
+      "text": "corporate groups",
+      "id": "c1"
+    },
+    {
+      "text": "transfer of losses",
+      "id": "c2"
+    },
+    {
+      "text": "statutory requirement for written agreement to transfer losses",
+      "id": "c3"
+    },
+    {
+      "text": "time limit for making agreement",
+      "id": "c4"
+    },
+    {
+      "text": "discretion in commissioner of taxation to extend time",
+      "id": "c5"
+    },
+    {
+      "text": "statutory purposes",
+      "id": "c6"
+    },
+    {
+      "text": "factors relevant to exercise of discretion",
+      "id": "c7"
+    },
+    {
+      "text": "public taxation ruling",
+      "id": "c8"
+    },
+    {
+      "text": "legal character",
+      "id": "c9"
+    },
+    {
+      "text": "administrative policy",
+      "id": "c10"
+    },
+    {
+      "text": "refusal of extension of time",
+      "id": "c11"
+    },
+    {
+      "text": "whether exercise of discretion miscarried",
+      "id": "c12"
+    },
+    {
+      "text": "failure to consider mandatory relevant factors",
+      "id": "c13"
+    },
+    {
+      "text": "adverse impact on corporate group",
+      "id": "c14"
+    },
+    {
+      "text": "prejudice to commissioner",
+      "id": "c15"
+    },
+    {
+      "text": "history of matters relevant to delay",
+      "id": "c16"
+    },
+    {
+      "text": "prior advice to commissioner of intention to seek transfer",
+      "id": "c17"
+    },
+    {
+      "text": "transfer hypothetical pending crystallisation of tax position",
+      "id": "c18"
+    },
+    {
+      "text": "tax avoidance activity by group member",
+      "id": "c19"
+    },
+    {
+      "text": "express use of discretion to penalise taxpayer",
+      "id": "c20"
+    },
+    {
+      "text": "irrelevant consideration",
+      "id": "c21"
+    },
+    {
+      "text": "discretion miscarried",
+      "id": "c22"
+    },
+    {
+      "text": "decision set aside administrative law",
+      "id": "c23"
+    },
+    {
+      "text": "statutory discretion",
+      "id": "c24"
+    },
+    {
+      "text": "administrative policies",
+      "id": "c25"
+    },
+    {
+      "text": "taxation rulings",
+      "id": "c26"
+    },
+    {
+      "text": "legal character as administrative policies",
+      "id": "c27"
+    },
+    {
+      "text": "legal consequences protective of taxpayer",
+      "id": "c28"
+    },
+    {
+      "text": "character of ruling as administrative policy unaffected",
+      "id": "c29"
+    },
+    {
+      "text": "taxation",
+      "id": "c30"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Introduction \n \n1 BHP Billiton Direct Reduced Iron Pty Ltd (DRI), formerly known as BHP Direct Reduced Iron Pty Ltd and BHP Development Finance Pty Ltd (Development Finance), and BHP Billiton Finance Ltd (Finance) are wholly owned subsidiaries of BHP Billiton Ltd (BHP) formerly BHP Limited.",
+      "id": "s0"
+    },
+    {
+      "text": "The BHP and Billiton Plc merger which resulted in the name changes occurred in 2001.",
+      "id": "s1"
+    },
+    {
+      "text": "DRI was incorporated in Western Australia.",
+      "id": "s2"
+    },
+    {
+      "text": "Between 1995 and August 2005 it was engaged in the construction, development and operation of a hot briquetted iron plant located at Port Hedland.",
+      "id": "s3"
+    },
+    {
+      "text": "The function of the plant was to produce briquettes made from iron ore fines.",
+      "id": "s4"
+    },
+    {
+      "text": "Development Finance has, since 1994, provided loans to members of the BHP Group of companies which carry on business overseas.",
+      "id": "s5"
+    },
+    {
+      "text": "2 On 7 June 2005 DRI and Development Finance entered into an agreement for the transfer of $89,848,367 of tax losses from DRI to Development Finance for the 1999 year.",
+      "id": "s6"
+    },
+    {
+      "text": "The agreement was made pursuant to s 170-50 of the Income Tax Assessment Act 1997 (Cth) (ITAA 1997).",
+      "id": "s7"
+    },
+    {
+      "text": "On the following day, DRI and Development Finance sent a copy of the Loss Transfer Agreement to the Commissioner of Taxation (the Commissioner) and requested that he grant an extension of time for the making of the agreement under the provisions of s 170-50.",
+      "id": "s8"
+    },
+    {
+      "text": "3 Under s 170-5 as it applied to the relevant tax year a company could transfer a tax loss to another corporate member of the same wholly owned group.",
+      "id": "s9"
+    },
+    {
+      "text": "The tax loss was to be transferred by an agreement between the two companies.",
+      "id": "s10"
+    },
+    {
+      "text": "Section 170-50 required that the agreement must be made on or before the date of lodgment of the transferring company's income tax return for the deduction year \"... or within such further time as the Commissioner allows\".",
+      "id": "s11"
+    },
+    {
+      "text": "On or about 14 February 2006 Mr Paul Duffus, a delegate of the Commissioner, decided not to allow DRI and Development Finance further time within which to make the Loss Transfer Agreement.",
+      "id": "s12"
+    },
+    {
+      "text": "4 On 9 March 2006 DRI and Development Finance filed an application for an order of review of Mr Duffus' decision pursuant to s 39B of the Judiciary Act 1903 (Cth).",
+      "id": "s13"
+    },
+    {
+      "text": "Although variously expressed, the principal grounds upon which review was sought were that he exercised his discretion to refuse an extension of time for the improper purpose of penalising Development Finance for tax avoidance conduct in respect of which a penalty had already been imposed.",
+      "id": "s14"
+    },
+    {
+      "text": "He was also said to have exercised his discretion in accordance with a rule of policy reflected in a Tax Ruling TR98/12 without regard to the merits of the particular case.",
+      "id": "s15"
+    },
+    {
+      "text": "There was a generalised complaint that his exercise of the power resulted in \"unfairness amounting to an abuse of power\" and that it was so unreasonable that no reasonable person could have so exercised it.",
+      "id": "s16"
+    },
+    {
+      "text": "5 A significant factor in the delay that occurred between the 1999 year of income and the agreement to transfer losses in 2005 was the time taken to resolve disputes between DRI, Development Finance and the Commissioner.",
+      "id": "s17"
+    },
+    {
+      "text": "There were two separate lines of disputation, one relating to DRI and the deductibility of expenditure associated with the development of the hot briquetted iron plant, the other relating to Development Finance and the writing off of a bad debt to a BHP subsidiary operating in Zimbabwe.",
+      "id": "s18"
+    },
+    {
+      "text": "The latter event gave rise to a Pt IVA determination by the Commissioner and the imposition of additional tax by way of penalty on Development Finance.",
+      "id": "s19"
+    },
+    {
+      "text": "The writing off of the bad debt had an impact on the Commissioner's decision to refuse an extension of time to transfer the research and development (R &amp; D) losses between DRI and Development Finance.",
+      "id": "s20"
+    },
+    {
+      "text": "6 Having regard to the history of the matter, which is outlined below, and the reasons for the decision to refuse the extension of time sought, it is my opinion that the decision-maker's discretion has miscarried.",
+      "id": "s21"
+    },
+    {
+      "text": "It has miscarried in part because the narrow focus of his reasons for refusing to extend time to allow DRI and Development Finance to enter into a transfer agreement has led him to overlook matters directly relevant to the exercise of the discretion including the legislative purpose of the loss transfer provisions, the absence of any adverse impact of the proposed extension on the administration of the Act and the repeatedly stated intention of the group to seek to transfer the losses in question on crystallisation of the relevant company's tax position.",
+      "id": "s22"
+    },
+    {
+      "text": "In addition the discretion has miscarried because the decision-maker took the view that allegedly culpable conduct on the part of Development Finance attracted a heavy weighting said to reflect the need to penalise \"to a greater extent\" taxpayers involved in serious non-compliance activities.",
+      "id": "s23"
+    },
+    {
+      "text": "The decision will be quashed and the matter remitted for reconsideration in accordance with law.",
+      "id": "s24"
+    },
+    {
+      "text": "Attempts to develop a new technology for hot briquetted iron \n \n7 In the mid 1990s the use of the electric arc furnace (EAF) method for producing steel was challenging the traditional blast furnace (BF).",
+      "id": "s25"
+    },
+    {
+      "text": "The establishment of EAF steel making facilities required much less capital than the older method.",
+      "id": "s26"
+    },
+    {
+      "text": "This meant that steel production could be economically developed at much lower annual capacities using EAF.",
+      "id": "s27"
+    },
+    {
+      "text": "If suitable raw materials were available production costs would also be much lower.",
+      "id": "s28"
+    },
+    {
+      "text": "The principal raw material used in EAF steel making in the mid 1990s was scrap steel.",
+      "id": "s29"
+    },
+    {
+      "text": "8 An alternative to scrap steel was the use of hot briquetted iron (HBI).",
+      "id": "s30"
+    },
+    {
+      "text": "It was at the time a well known substitute for scrap in EAF mills.",
+      "id": "s31"
+    },
+    {
+      "text": "It had low levels of residual elements such as copper, lead and zinc and offered advantages to EAF producers wishing to improve the quality of their steel products.",
+      "id": "s32"
+    },
+    {
+      "text": "To be competitive against scrap its level of what was called acid gangue (Si O 2 + AI 2 O 3 ) should be less than 3%.",
+      "id": "s33"
+    },
+    {
+      "text": "Acid gangue levels of iron ore fines being exported by Australian iron ore producers were in the range of 7% to 8%.",
+      "id": "s34"
+    },
+    {
+      "text": "9 In the mid 1990s BHP considered developing a technology under which it could convert iron ore into HBI and so diversify its steel making raw materials supply business by expanding into the rapidly growing EAF market which it did not then supply.",
+      "id": "s35"
+    },
+    {
+      "text": "It could also reduce the long term competitive pressures on the sales of iron product in the BF market.",
+      "id": "s36"
+    },
+    {
+      "text": "10 Dr Colin Bensley who is an experienced metallurgist joined the BHP Group in 1972 as a scholarship student.",
+      "id": "s37"
+    },
+    {
+      "text": "He subsequently rose to become chief metallurgist for the iron ore group within the BHP Minerals Group.",
+      "id": "s38"
+    },
+    {
+      "text": "He is presently designated Manager, Process Capability Iron Ore.",
+      "id": "s39"
+    },
+    {
+      "text": "In 1993 and 1994 he was involved in a detailed evaluation of options for the production of HBI by BHP in Western Australia.",
+      "id": "s40"
+    },
+    {
+      "text": "He was given responsibility for carrying out a R &amp; D program to support decision making about the possible construction and operation of a series of facilities by BHP which would produce HBI.",
+      "id": "s41"
+    },
+    {
+      "text": "In his evidence he described HBI as: \n \n ... a premium steel making raw material that contains about 92% metallic iron.",
+      "id": "s42"
+    },
+    {
+      "text": "11 Dr Bensley transferred to DRI in 1995 with the title \"Technical Manager\", changed the following year to \"Technology and Development Manager\".",
+      "id": "s43"
+    },
+    {
+      "text": "He was responsible for carrying out the R &amp; D program for the production of HBI and its precursor, \"Direct Reduced Iron\".",
+      "id": "s44"
+    },
+    {
+      "text": "Direct Reduced Iron is a metallic material formed by the reduction of iron oxide at temperatures below the melting point of iron.",
+      "id": "s45"
+    },
+    {
+      "text": "HBI is produced by its physical compaction.",
+      "id": "s46"
+    },
+    {
+      "text": "The resulting material is suitable for storage and transport.",
+      "id": "s47"
+    },
+    {
+      "text": "DRI proposed to manufacture HBI by building facilities for the beneficiation of iron ore and material handling and disposal facilities at Port Hedland.",
+      "id": "s48"
+    },
+    {
+      "text": "12 In 1994 there was an existing technology for the production of HBI.",
+      "id": "s49"
+    },
+    {
+      "text": "It had been developed by the owners of the Fior de Venezuela plant.",
+      "id": "s50"
+    },
+    {
+      "text": "It was identified by the team working on the HBI development as the preferred process for their proposed Port Hedland plant.",
+      "id": "s51"
+    },
+    {
+      "text": "It was referred to as the FINMET technology.",
+      "id": "s52"
+    },
+    {
+      "text": "It was a second generation process developed from an earlier higher cost technology known as FIOR (Fine Iron Ore Reduction).",
+      "id": "s53"
+    },
+    {
+      "text": "If FINMET were to be employed at Port Hedland it would have been its first commercial application.",
+      "id": "s54"
+    },
+    {
+      "text": "The Venezuelan FIOR plant had been in operation for 18 years and had used Venezuelan iron ore exclusively.",
+      "id": "s55"
+    },
+    {
+      "text": "There were significant differences between the chemical and physical properties of the Venezuelan and Australian ores and it was not clear that the \"fluid bed reduction process\" which is the basis for both the FIOR and the FINMET technologies could be applied to Australian iron ore. A trial was successful and, according to Dr Bensley, was a major factor in the final selection of FINMET for Port Hedland.",
+      "id": "s56"
+    },
+    {
+      "text": "Although the FIOR and FINMET technologies were both based on a \"fluid bed reduction process\" for the extraction of oxygen they did have significant differences.",
+      "id": "s57"
+    },
+    {
+      "text": "Further R &amp; D work was required before start-up in Port Hedland to reduce any risks resulting from differences in technology and differences in ore feed.",
+      "id": "s58"
+    },
+    {
+      "text": "13 Dr Bensley expected, in 1995, that HBI facilities at Port Hedland would be able to achieve a commercially acceptable level of production reasonably quickly and that most of the R &amp; D after plant start-up would be concerned with improving and maximising the use of the technology to achieve a greater output than originally forecast.",
+      "id": "s59"
+    },
+    {
+      "text": "He did not foresee that a large part of the R &amp; D would ultimately be needed to secure basic levels of production.",
+      "id": "s60"
+    },
+    {
+      "text": "14 The Board of BHP approved the HBI project in 1995.",
+      "id": "s61"
+    },
+    {
+      "text": "Russell Day, who is now Senior Tax Advisor, Iron Ore and Base Metals, for the BHP Group, then had conversations with Dr Bensley and with Mr David Webster, another BHP scientist.",
+      "id": "s62"
+    },
+    {
+      "text": "He was told that the technology could produce tremendous value for the group.",
+      "id": "s63"
+    },
+    {
+      "text": "It was expected to generate sales of iron ore briquettes to the value of US$500,000,000 per annum to markets in Asia where it was thought demand would be very strong.",
+      "id": "s64"
+    },
+    {
+      "text": "He understood the project needed considerable work before it became operational.",
+      "id": "s65"
+    },
+    {
+      "text": "Problems to be overcome included: \n \n 1.",
+      "id": "s66"
+    },
+    {
+      "text": "The difference between the properties of iron ore fines at Port Hedland and those used in Venezuela.",
+      "id": "s67"
+    },
+    {
+      "text": "2.",
+      "id": "s68"
+    },
+    {
+      "text": "The need to find the correct heat mass balance model.",
+      "id": "s69"
+    },
+    {
+      "text": "This could only be discovered by repeated testing of a reactor using different gas pressures and iron ore levels on each occasion.",
+      "id": "s70"
+    },
+    {
+      "text": "3.",
+      "id": "s71"
+    },
+    {
+      "text": "Accretions, that is a build up on surfaces within the reactors leading to the process stopping.",
+      "id": "s72"
+    },
+    {
+      "text": "4.",
+      "id": "s73"
+    },
+    {
+      "text": "The fact that the general flow of the material was more like that of a paste than a liquid.",
+      "id": "s74"
+    },
+    {
+      "text": "BHP seeks research and development expenditure deductions \n\n15 Mr Day decided in 1995 that many of the proposed activities connected with the HBI project could form part of a claim for R &amp; D deductions under s 73B of the Income Tax Assessment Act 1936 (Cth) (ITAA 1936) and that the cost of construction of assets and items forming part of the project could be brought under that claim.",
+      "id": "s75"
+    },
+    {
+      "text": "He estimated the total amount of the claim would be about $382.5 million.",
+      "id": "s76"
+    },
+    {
+      "text": "This was large by comparison with other claims made by the BHP Group and for that matter other taxpayers in Australia.",
+      "id": "s77"
+    },
+    {
+      "text": "16 It is helpful to interpolate here a brief reference to the statutory provisions affecting deductions for R &amp; D expenditure.",
+      "id": "s78"
+    },
+    {
+      "text": "Section 73B of the ITAA 1936 provided that where an \"eligible company\", that is one incorporated under Commonwealth, State or Territory law, incurred R &amp; D expenditure during a year of income in excess of $20,000 that expenditure multiplied by 1.5 was available as a deduction from the assessable income of the company for the year of income (s 73B(14)).",
+      "id": "s79"
+    },
+    {
+      "text": "There were many qualifications and definitions affecting deductibility.",
+      "id": "s80"
+    },
+    {
+      "text": "It is only necessary for present purposes to have regard to one of them.",
+      "id": "s81"
+    },
+    {
+      "text": "That qualification was that the company was required to be registered, in relation to the year of income, under s 39J of the Industry Research and Development Act 1986 (Cth) (IRD Act 1986) (s 73B(10) ITAA 1936).",
+      "id": "s82"
+    },
+    {
+      "text": "17 Under s 39J of the IRD Act 1986 it was necessary, in order to secure registration in respect of a year of income, to apply to the Industry Research and Development Board (the Board).",
+      "id": "s83"
+    },
+    {
+      "text": "The company was required to provide the Board with information in relation to its R &amp; D activities as the Board reasonably required.",
+      "id": "s84"
+    },
+    {
+      "text": "The Board could refuse registration if the activities did not involve R &amp; D (s 39K).",
+      "id": "s85"
+    },
+    {
+      "text": "A mechanism for advance registration was introduced with s 39HH.",
+      "id": "s86"
+    },
+    {
+      "text": "However it did not remove the need to be registered under s 39J in respect of a relevant income year in order to claim the deduction under s 73B of the ITAA 1936 for that year.",
+      "id": "s87"
+    },
+    {
+      "text": "18 AusIndustry was the arm of Commonwealth government administering the R &amp; D tax concessions.",
+      "id": "s88"
+    },
+    {
+      "text": "Mr Day decided to disclose the nature of the proposed claim to it as soon as possible.",
+      "id": "s89"
+    },
+    {
+      "text": "He set up an initial meeting with a manager of the AusIndustry Assessing Branch at BHP's research facility in Newcastle.",
+      "id": "s90"
+    },
+    {
+      "text": "A detailed presentation was made.",
+      "id": "s91"
+    },
+    {
+      "text": "Subsequently a request for an \"Advance Opinion\" was prepared and submitted to the Board.",
+      "id": "s92"
+    },
+    {
+      "text": "The request explained that the first of the processing reactor trains at the proposed HBI facility, known as train 1, would be dedicated to R &amp; D. The cost of its construction would form part of the claim.",
+      "id": "s93"
+    },
+    {
+      "text": "At the time Mr Day expected, based on his conversations with Dr Bensley, that DRI would only need one processing reactor train to get the correct balance between heat and mass needed for the production of briquettes, to test accretion prevention initiatives and to overcome any other concerns about reactor campaign life.",
+      "id": "s94"
+    },
+    {
+      "text": "19 On 24 November 1995 Mr Robinson, the public officer of DRI sent a letter to the Director of the Research and Development Tax Concession Branch of the Board.",
+      "id": "s95"
+    },
+    {
+      "text": "In that letter he requested that the Board \"provide an advance opinion on the eligibility of the Research and Development (R &amp; D) activities detailed in the attached project technical statement\".",
+      "id": "s96"
+    },
+    {
+      "text": "Between 24 November 1995 and 15 April 1997 Mr Day prepared and lodged annual R &amp; D registration applications for the HBI project.",
+      "id": "s97"
+    },
+    {
+      "text": "This process he described as providing \"a basic level of comfort in that the material contained in the registrations was reviewed by AusIndustry assessors prior to the issue of annual registration confirmations\".",
+      "id": "s98"
+    },
+    {
+      "text": "20 By 15 April 1997 DRI had not received its advance opinion from AusIndustry.",
+      "id": "s99"
+    },
+    {
+      "text": "Mr Day then submitted an application to the Board under s 39HH of the IRD Act 1986 for \"Advance Registration\" of R &amp; D activities which were to take place in the years of income ended 31 May 1997, 31 May 1998 and 31 May 1999.",
+      "id": "s100"
+    },
+    {
+      "text": "He prepared separate applications for registration under s 39J for each applicable income year.",
+      "id": "s101"
+    },
+    {
+      "text": "21 On 3 July 1998 the General Manager of the Research and Development Tax Concession Branch of the Department of Industry, Science and Tourism wrote to Mr Day and advised that DRI was granted advance registration under s 39HH of the IRD Act 1986 for the income year 1997/98 in respect of ore sizing tests and gas composition tests.",
+      "id": "s102"
+    },
+    {
+      "text": "The monitoring of plant performance to determine the technical impact of ore feed sizing and the validation of heat and mass balance models to predict the effect of gas composition on plant performance qualified as supporting activities.",
+      "id": "s103"
+    },
+    {
+      "text": "He advised also that DRI was refused registration for the income years 1996/97, 1997/98 and 1998/99 in respect of the following activities:\n1.",
+      "id": "s104"
+    },
+    {
+      "text": "Centrally thickened discharge.",
+      "id": "s105"
+    },
+    {
+      "text": "2.",
+      "id": "s106"
+    },
+    {
+      "text": "Testing of accretion resistant coatings.",
+      "id": "s107"
+    },
+    {
+      "text": "3.",
+      "id": "s108"
+    },
+    {
+      "text": "Modifying flow patterns within reduced reactors.",
+      "id": "s109"
+    },
+    {
+      "text": "4.",
+      "id": "s110"
+    },
+    {
+      "text": "Novel sensor tests.",
+      "id": "s111"
+    },
+    {
+      "text": "5.",
+      "id": "s112"
+    },
+    {
+      "text": "Development of process modelling strategies.",
+      "id": "s113"
+    },
+    {
+      "text": "6.",
+      "id": "s114"
+    },
+    {
+      "text": "Briquetter development.",
+      "id": "s115"
+    },
+    {
+      "text": "These were refused on the basis that they were routine engineering activities not involving innovation or a high level of technical risk.",
+      "id": "s116"
+    },
+    {
+      "text": "Advance registration was also refused for the same income years for: \n1.",
+      "id": "s117"
+    },
+    {
+      "text": "Product quality testing.",
+      "id": "s118"
+    },
+    {
+      "text": "2.",
+      "id": "s119"
+    },
+    {
+      "text": "Customer product trials.",
+      "id": "s120"
+    },
+    {
+      "text": "3.",
+      "id": "s121"
+    },
+    {
+      "text": "Three reactor operations \n\non the basis that they did not involve innovation or high levels of technical risk and were taken not to be systematic, investigative and experimental under s 73B(2C).",
+      "id": "s122"
+    },
+    {
+      "text": "The decision came as a surprise to Mr Day.",
+      "id": "s123"
+    },
+    {
+      "text": "However on 9 July 1998 he prepared a letter requesting the Board to review its decision of 3 July 1998.",
+      "id": "s124"
+    },
+    {
+      "text": "The Board did not confirm, revoke or vary its decision within 60 days of receiving DRI's request for review.",
+      "id": "s125"
+    },
+    {
+      "text": "It was therefore deemed, under s 39J of the IRD Act 1986, to have made a decision to confirm its earlier refusal to register the particular activities.",
+      "id": "s126"
+    },
+    {
+      "text": "On 2 October 1998 Mr Day prepared an application for review of that decision in the Administrative Appeals Tribunal (the Tribunal).",
+      "id": "s127"
+    },
+    {
+      "text": "On 7 December 1998 the Tribunal made an order by consent remitting the matter to the Board for reconsideration pursuant to s 42D of the Administrative Appeals Tribunal Act 1975 (Cth).",
+      "id": "s128"
+    },
+    {
+      "text": "22 Construction of the HBI facilities at Port Hedland commenced in 1997 and by early 1999 train 1 was ready for testing.",
+      "id": "s129"
+    },
+    {
+      "text": "It failed and had to be shut down after 10 days.",
+      "id": "s130"
+    },
+    {
+      "text": "The principal production difficulty was associated with the reduction process to produce Direct Reduced Iron.",
+      "id": "s131"
+    },
+    {
+      "text": "For the technology to work the iron ore and partly reduced material had to flow continuously through the reactor train.",
+      "id": "s132"
+    },
+    {
+      "text": "This did not occur and there were frequent stoppages which upset the process and attempts to balance the heat and mass flows in the reactors.",
+      "id": "s133"
+    },
+    {
+      "text": "The flow stoppages also greatly increased the rate of accretion growth in the reactors so that in the first six months of its operation the maximum production time in any one of the three train 1 campaigns was only 40 days.",
+      "id": "s134"
+    },
+    {
+      "text": "It became necessary during April 1999 to use an additional reactor train, called train 2 and a support unit known as module 1 in order to carry out the R &amp; D activities.",
+      "id": "s135"
+    },
+    {
+      "text": "23 On 30 November 1999 Mr Day sent an application for registration of 50 R &amp; D activities to the Board for the year ended 31 May 1999.",
+      "id": "s136"
+    },
+    {
+      "text": "The application covered total R &amp; D expenditure of $662,370,481.",
+      "id": "s137"
+    },
+    {
+      "text": "It included plant expenditure for train 1 as well as train 2 and module 1.",
+      "id": "s138"
+    },
+    {
+      "text": "24 In June 1999 Mr Day became aware that the Commissioner was about to issue a draft ruling on the operation of the R &amp; D plant expenditure provisions contained in s 73B of the ITAA 1936.",
+      "id": "s139"
+    },
+    {
+      "text": "No details of the ruling were released until its publication as TR 1999/D14 on 10 November 1999.",
+      "id": "s140"
+    },
+    {
+      "text": "The Commissioner expressed the view in that ruling that an intention to put a unit of plant to use for non-R &amp; D purposes after the completion of an R &amp; D program would prevent any expenditure incurred on the construction of that unit from being eligible for deductibility under s 73B.",
+      "id": "s141"
+    },
+    {
+      "text": "25 On 1 November 1999 DRI lodged an income tax return for the year ended 31 May 1999.",
+      "id": "s142"
+    },
+    {
+      "text": "R &amp; D deductions for the cost of plant were claimed only with respect to train 1.",
+      "id": "s143"
+    },
+    {
+      "text": "The total amount claimed was $144,424,510.",
+      "id": "s144"
+    },
+    {
+      "text": "$25,481,480 was a deduction in the accounting profit and $118,943,030 by tax adjustments.",
+      "id": "s145"
+    },
+    {
+      "text": "$75,608,741 related to plant expenditure.",
+      "id": "s146"
+    },
+    {
+      "text": "DRI had no income that year so the claim resulted in its incurring tax losses.",
+      "id": "s147"
+    },
+    {
+      "text": "Mr Day decided that claims for train 2 and module 1 should be made later in the form of a detailed request to the Commissioner for a credit amendment to DRI's assessment for 1999.",
+      "id": "s148"
+    },
+    {
+      "text": "Mr Day said that decision was reached because the application of those items of plant for R &amp; D purposes was unexpected and had never formed part of the application for advance registration.",
+      "id": "s149"
+    },
+    {
+      "text": "26 Throughout 1999 DRI's application for advance registration remained unresolved.",
+      "id": "s150"
+    },
+    {
+      "text": "However, following an assessment by an independent expert engaged by the Board, the Australian Government Solicitor's office wrote to DRI on 28 August 2000 offering to recommend to the Board a settlement of the disputed R &amp; D claims on the basis that certain of the activities were R &amp; D activities in the 1997 to 1999 years of income.",
+      "id": "s151"
+    },
+    {
+      "text": "It required DRI to give up its claim in relation to \"central thickened charge\".",
+      "id": "s152"
+    },
+    {
+      "text": "Mr Day decided to accept the offer.",
+      "id": "s153"
+    },
+    {
+      "text": "On 12 September 2000 the Public Officer of DRI wrote to the Australian Government Solicitor indicating that DRI would support the proposed settlement recommendation.",
+      "id": "s154"
+    },
+    {
+      "text": "On 30 October 2000 the Board wrote to the Deputy Commissioner of Taxation with a copy to DRI setting out a list of matters which, in its opinion, complied with the definition of R &amp; D activities in subs 73B(1) of the ITAA 1936.",
+      "id": "s155"
+    },
+    {
+      "text": "These were in accordance with the proposed settlement.",
+      "id": "s156"
+    },
+    {
+      "text": "27 On 21 December 2000 DRI wrote to the Tribunal referring to its determination of 7 December 1998 that the application to review the Board's decision be remitted to the Board for reconsideration.",
+      "id": "s157"
+    },
+    {
+      "text": "The letter stated that DRI was satisfied with the revised determination by the Board.",
+      "id": "s158"
+    },
+    {
+      "text": "It therefore withdrew its application for review.",
+      "id": "s159"
+    },
+    {
+      "text": "28 Following the Commissioner's ruling TR1999/D14, Mr Day formed the opinion that any credit amendment request to be made in respect of train 2 and module 1 would be rejected by the Commissioner as those items of plant were intended to be used ultimately for commercial application following their initial exclusive use for R &amp; D purposes.",
+      "id": "s160"
+    },
+    {
+      "text": "There was at the time extensive debate about the correctness of TR1999/D14 among tax professionals in the mining industry and with officers of the Commissioner.",
+      "id": "s161"
+    },
+    {
+      "text": "29 Representations were being made to the Federal Government that s 73B should be amended retrospectively to overrule the approach adopted in the draft ruling.",
+      "id": "s162"
+    },
+    {
+      "text": "Those representations were eventually successful.",
+      "id": "s163"
+    },
+    {
+      "text": "By a press release dated 26 April 2001, the government announced that it would retrospectively amend the ITAA 1936.",
+      "id": "s164"
+    },
+    {
+      "text": "An amendment was introduced by the Taxation Laws Amendment (Research and Development) Act 2001 (Cth) which was assented to on 1 October 2001.",
+      "id": "s165"
+    },
+    {
+      "text": "On 23 January 2002 the Commissioner issued Taxation Ruling TR 1999/D14 in final form as Taxation Ruling TR 2002/1.",
+      "id": "s166"
+    },
+    {
+      "text": "He abandoned the approach taken in the earlier draft ruling and confirmed that expenditure on plant would be eligible for R &amp; D deductions provided it was used exclusively for R &amp; D in the relevant income year irrespective of whether it would be subsequently applied to commercial use.",
+      "id": "s167"
+    },
+    {
+      "text": "30 When the new ruling issued Mr Day decided the time had come for DRI to make a credit amendment request for the 1999 year in respect of the costs of construction of train 2 and module 1.",
+      "id": "s168"
+    },
+    {
+      "text": "He submitted a request for an amendment on 14 May 2002.",
+      "id": "s169"
+    },
+    {
+      "text": "On 13 August 2002 he was informed by Mr Heymanson of the Commissioner's office that although the Australian Taxation Office (ATO) would process the amendment request, the R &amp; D claim would be subject to a risk review, that is to say an audit.",
+      "id": "s170"
+    },
+    {
+      "text": "This advice was confirmed by letter dated 30 August 2002.",
+      "id": "s171"
+    },
+    {
+      "text": "31 Mr Day said that given the Commissioner's decision to conduct an investigation into the claims made in respect of train 2 and module 1, he and BHP's Manager Group Tax, Brendan Mulqueen, decided not to transfer the additional tax losses arising from that claim to another group company until the Commissioner's review had been completed and the availability of the losses confirmed.",
+      "id": "s172"
+    },
+    {
+      "text": "A premature transfer would expose DRI to the risk of penalty if the deductions were denied by an audit.",
+      "id": "s173"
+    },
+    {
+      "text": "In addition Mr Mulqueen was concerned that a refusal by the Commissioner to recognise transferred losses would require an adjustment to the consolidated profit (or loss) accounts of the BHP Group as reported to the Australian Stock Exchange.",
+      "id": "s174"
+    },
+    {
+      "text": "A negative adjustment to the profit and loss account might in turn have affected the market value of BHP's shares.",
+      "id": "s175"
+    },
+    {
+      "text": "Mr Mulqueen was not prepared to risk the possibility of such a negative adjustment.",
+      "id": "s176"
+    },
+    {
+      "text": "32 On 28 January 2003 Mr Heymanson sent a letter with a list of questions relating to the R &amp; D activities.",
+      "id": "s177"
+    },
+    {
+      "text": "This was the first correspondence received from the ATO since 30 August 2002.",
+      "id": "s178"
+    },
+    {
+      "text": "Mr Mulqueen responded on behalf of DRI by a letter dated 30 May 2003.",
+      "id": "s179"
+    },
+    {
+      "text": "That letter set out answers which had been prepared by himself and Mr Day.",
+      "id": "s180"
+    },
+    {
+      "text": "33 On 15 January 2004 Mr Heymanson rang Mr Day and said that the Commissioner had now completed his review and considered the \"risk to be low\".",
+      "id": "s181"
+    },
+    {
+      "text": "A confirmatory letter was sent on 4 February 2004.",
+      "id": "s182"
+    },
+    {
+      "text": "The letter stated that the risk in relation to the claims made concerning train 2 and module 1 was \"low\".",
+      "id": "s183"
+    },
+    {
+      "text": "Mr Day rang Mr Heymanson to confirm what was meant by the phrase in the letter that \"the risk is low\".",
+      "id": "s184"
+    },
+    {
+      "text": "Mr Heymanson said he meant that it was a very good day for BHP and a sad day for the ATO.",
+      "id": "s185"
+    },
+    {
+      "text": "Mr Day ceased any direct involvement with the utilisation of the losses following that letter.",
+      "id": "s186"
+    },
+    {
+      "text": "34 While all this was going on, Dr Bensley had been proceeding with his endeavours to develop the technology.",
+      "id": "s187"
+    },
+    {
+      "text": "The problems with train 1 were essentially overcome in 2000 after significant capital was expended to alter the process conditions within the reactor trains.",
+      "id": "s188"
+    },
+    {
+      "text": "From the middle of 2000 onwards the level of production increased on a yearly basis but the HBI facilities continued to be plagued by problems.",
+      "id": "s189"
+    },
+    {
+      "text": "Between July 2003 and June 2004 the average number of production days per campaign was still only 120.",
+      "id": "s190"
+    },
+    {
+      "text": "Operations at the HBI facilities were suspended in May 2004 following an accident which resulted in the death of one employee and severe injuries to three others.",
+      "id": "s191"
+    },
+    {
+      "text": "In August 2005 BHP decided to close the facilities.",
+      "id": "s192"
+    },
+    {
+      "text": "The Commissioner audits BHP's finance companies \n \n35 In 2001 the Commissioner commenced a specific issues audit in relation to the financing activities of the BHP Group.",
+      "id": "s193"
+    },
+    {
+      "text": "The audit covered a bad debt deduction claimed by Development Finance in the year ended 31 May 1999 in relation to a loan it had made to BHP Minerals Zimbabwe Pty Ltd ( BHP Zimbabwe) and other bad debt deductions claimed in the year ended 30 June 2000.",
+      "id": "s194"
+    },
+    {
+      "text": "Mr Mulqueen said that, since it commenced business in 1994, Development Finance had lodged its tax returns on the footing that it carried on a business of money lending and that the loan to BHP Zimbabwe had been made in the ordinary course of such business.",
+      "id": "s195"
+    },
+    {
+      "text": "As a result interest was returned in Development Finance's annual tax returns as having been derived as it accrued, notwithstanding that it had not been paid.",
+      "id": "s196"
+    },
+    {
+      "text": "Interest on the loan to BHP Zimbabwe had reached about $100,350,000 when the debt was written off as bad.",
+      "id": "s197"
+    },
+    {
+      "text": "DRI and Development Finance submitted that the practice of accruing interest as assessed and returning it as assessable income accorded with Taxation Ruling TR 93/27.",
+      "id": "s198"
+    },
+    {
+      "text": "Under that Ruling finance companies are required to return interest as it accrues on a day to day basis.",
+      "id": "s199"
+    },
+    {
+      "text": "Ordinarily investors derive interest as it is received.",
+      "id": "s200"
+    },
+    {
+      "text": "36 The factual background to the bad debt write off between Development Finance and BHP Zimbabwe appears from a Position Paper sent to BHP by the ATO on 29 January 2004.",
+      "id": "s201"
+    },
+    {
+      "text": "The Position Paper itself is relied upon in BHP's submissions for its description of the relevant transaction.",
+      "id": "s202"
+    },
+    {
+      "text": "37 BHP Zimbabwe was a joint venturer in a project in Zimbabwe for the development and operation of a platinum mine called the Hartley Project.",
+      "id": "s203"
+    },
+    {
+      "text": "The mine was not a success and as at 31 May 1998 BHP Zimbabwe was \"in a negative net asset position\".",
+      "id": "s204"
+    },
+    {
+      "text": "On 9 July 1998, in accordance with BHP Group Accounting Policy, a Letter of Comfort was issued to the directors of BHP Zimbabwe from BHP.",
+      "id": "s205"
+    },
+    {
+      "text": "In that letter BHP undertook to provide sufficient funds to pay any debts incurred by BHP Zimbabwe whether the debt was incurred before or after the date of the Letter of Comfort.",
+      "id": "s206"
+    },
+    {
+      "text": "The Commissioner's Position Paper stated that \"all companies in the Group were aware that Letters of Comfort were not intended to create any binding obligation\".",
+      "id": "s207"
+    },
+    {
+      "text": "A memorandum dated 5 September 1996 from the Corporate Treasurer to the Executive General Manager, Finance had stated that: \n \n While a Letter of Comfort only creates moral as against contractual obligations, they should only be issued sparingly and must be drafted to avoid the status of a guarantee.",
+      "id": "s208"
+    },
+    {
+      "text": "BHP Group Corporate Legal Treasury Procedures circulated on 24 July 1997 said in relation to Letters of Comfort: \n \n \n Under Australian law, it is important to draft the Letter of Comfort so as to avoid it attaining the status of a guarantee or other contractually binding obligation.",
+      "id": "s209"
+    },
+    {
+      "text": "In the Position Paper the Commissioner commented: \n \n \n 5.127 The existence and circulation of these Group policies show that all companies in the Group were aware that Letters of Comfort were not intended to create any binding obligation.",
+      "id": "s210"
+    },
+    {
+      "text": "Accordingly, the Commissioner questions whether the existence of a Letter of Comfort justified inaction on the part of [Development Finance] in the face of [BHP Zimbabwe's] default on the loan agreement.",
+      "id": "s211"
+    },
+    {
+      "text": "38 The debt was written off in May 1999 immediately before a sale of the shares in BHP Zimbabwe to Zimbabwe Platinum Mines Ltd for $1.",
+      "id": "s212"
+    },
+    {
+      "text": "Zimbabwe Platinum Mines Ltd is an unrelated party.",
+      "id": "s213"
+    },
+    {
+      "text": "BHP accepted the statement made by the Commissioner in his Position Paper that: \n \n This was intended by the parties ... [because of] ... the terms of the sale agreement requiring the sale of [BHP Zimbabwe] to be free of encumbrances.",
+      "id": "s214"
+    },
+    {
+      "text": "The amount of the debt written off was A$524,864,748 of which A$100,349,980 represented accrued but unpaid interest.",
+      "id": "s215"
+    },
+    {
+      "text": "39 On or about 26 August 2003 Mr Mulqueen attended a meeting with officers of the Commissioner to discuss the audit.",
+      "id": "s216"
+    },
+    {
+      "text": "In the course of that meeting Mr Manning, one of the Commissioner's officers, said that the Commissioner would shortly run out of time to amend Development Finance's assessment for the 1999 year because of statutory limitation periods contained in s 170 of the ITAA 1936.",
+      "id": "s217"
+    },
+    {
+      "text": "Mr Manning therefore requested an extension of the period within which the Commissioner could amend Development Finance's assessment for the 1999 year pursuant to s 170(4B).",
+      "id": "s218"
+    },
+    {
+      "text": "This was the first of a series of such requests.",
+      "id": "s219"
+    },
+    {
+      "text": "40 Development Finance decided to grant the request.",
+      "id": "s220"
+    },
+    {
+      "text": "At that time DRI's R &amp; D losses arising out of the R &amp; D claim for the 1999 year were still the subject of review by the Commissioner.",
+      "id": "s221"
+    },
+    {
+      "text": "As public officer for Development Finance, Mr Mulqueen signed the consent for the extension of time on 1 September 2003.",
+      "id": "s222"
+    },
+    {
+      "text": "41 On 29 January 2004, Mr Killaly, a Deputy Commissioner for Taxation, wrote a letter to BHP enclosing a Position Paper in relation to the claimed bad debt deduction.",
+      "id": "s223"
+    },
+    {
+      "text": "He expressed the opinion that the deduction should be disallowed.",
+      "id": "s224"
+    },
+    {
+      "text": "This would involve the issue of an amended assessment to Development Finance for the 1999 year which would substantially increase its taxable income for that year.",
+      "id": "s225"
+    },
+    {
+      "text": "The Commissioner's view expressed in the Position Paper was that the operations of Development Finance did not support the conclusion that it carried on an independent business as either a money lender or as a financier with a view to profiting from such business.",
+      "id": "s226"
+    },
+    {
+      "text": "Rather it made its lending, credit risk and recovery decisions on the basis of, and subject to funding by, the board of BHP.",
+      "id": "s227"
+    },
+    {
+      "text": "The interest and profitability of the parent company, BHP, and the BHP Group were paramount in that decision-making.",
+      "id": "s228"
+    },
+    {
+      "text": "Development Finance, according to Mr Killaly, acted as a conduit for investments by BHP.",
+      "id": "s229"
+    },
+    {
+      "text": "The interest and profitability of Development Finance were subordinate considerations.",
+      "id": "s230"
+    },
+    {
+      "text": "To the extent that Development Finance was found to have been carrying on a business of money lender or as a financier when it advanced funds to BHP Zimbabwe, it was the Commissioner's view that the loss on the loan was not made in the ordinary course of either of those businesses.",
+      "id": "s231"
+    },
+    {
+      "text": "Alternatively, the debt owed by BHP Zimbabwe to Development Finance was not bad.",
+      "id": "s232"
+    },
+    {
+      "text": "42 Mr Killaly further expressed the view in the Position Paper that any loss incurred as a result of Development Finance writing off the loan from Development Finance to BHP Zimbabwe was not necessarily incurred in carrying on a business for the purpose of gaining or producing assessable income.",
+      "id": "s233"
+    },
+    {
+      "text": "His alternative view was that the loss was on capital account.",
+      "id": "s234"
+    },
+    {
+      "text": "The Position Paper did not address the application of Pt IVA of the ITAA 1936.",
+      "id": "s235"
+    },
+    {
+      "text": "The ATO had given \"preliminary consideration\" to its application but such consideration had not been finalised.",
+      "id": "s236"
+    },
+    {
+      "text": "The covering letter invited correction of any incorrect information and BHP's views of the law as it saw it.",
+      "id": "s237"
+    },
+    {
+      "text": "A response by 27 February 2004 was invited.",
+      "id": "s238"
+    },
+    {
+      "text": "43 Mr Mulqueen was conscious of the possibility that some of the DRI losses might be required to offset increased taxable income of Development Finance in the 1999 year as a result of the issue to it of an amended assessment relating to the BHP Zimbabwe write off.",
+      "id": "s239"
+    },
+    {
+      "text": "Before effecting a transfer he decided to wait to see if the losses would be required for that purpose.",
+      "id": "s240"
+    },
+    {
+      "text": "His decision was also based upon his experience of the practice of the ATO in relation to loss transfers arising out of ATO audits.",
+      "id": "s241"
+    },
+    {
+      "text": "That practice was not to entertain requests to transfer losses out of time until the tax position of the potential transferee and transferor companies was, at least from the ATO's position, finalised.",
+      "id": "s242"
+    },
+    {
+      "text": "44 On or about 2 April 2004 Development Finance responded to the Position Paper and denied the correctness of the opinion expressed in it.",
+      "id": "s243"
+    },
+    {
+      "text": "Mr Mulqueen also signed another consent to an extension of time in favour of the Commissioner for the purpose of considering amending the 1999 assessment under s 170.",
+      "id": "s244"
+    },
+    {
+      "text": "At about the same time Mr Killaly on behalf of the Commissioner confirmed that his position was as stated in the earlier Position Paper and invited Development Finance to make representations about the imposition of penalties and the general interest charge (GIC).",
+      "id": "s245"
+    },
+    {
+      "text": "45 Further exchanges occurred between the Commissioner's office and Mallesons Stephen Jaques (Mallesons), representing the BHP Group in relation to the audit.",
+      "id": "s246"
+    },
+    {
+      "text": "On 2 June 2004 Mr Clough of Mallesons wrote to the Commissioner's office enclosing a submission on behalf of Development Finance in relation to the remission of penalties and GIC.",
+      "id": "s247"
+    },
+    {
+      "text": "He contended that penalties and the GIC should be reduced or remitted.",
+      "id": "s248"
+    },
+    {
+      "text": "46 Mr Mulqueen signed a consent to further extension of the amendment period pursuant to s 170(4B) on 25 June 2004.",
+      "id": "s249"
+    },
+    {
+      "text": "The extension was to 30 June 2004.",
+      "id": "s250"
+    },
+    {
+      "text": "Another consent was signed on 16 August 2004.",
+      "id": "s251"
+    },
+    {
+      "text": "47 On 19 November 2004 the Commissioner requested a further extension of time to amend Development Finance's assessment for the 1999 year of income.",
+      "id": "s252"
+    },
+    {
+      "text": "He sought an extension to 31 March 2005.",
+      "id": "s253"
+    },
+    {
+      "text": "Mr Mulqueen was aware that the statutory period in which BHP Group companies could request credit amendments for the 2000 year of income (without the need to seek the Commissioner's consent to an extension of time for that purpose) was coming to an end.",
+      "id": "s254"
+    },
+    {
+      "text": "He wanted to make sure that the granting of further extensions to the Commissioner to amend Development Finance's assessment for 1999 would not unduly disadvantage the BHP Group for the 2000 year of income which was also being audited.",
+      "id": "s255"
+    },
+    {
+      "text": "He signed a letter on 19 November 2004 to Mr McAlister of the Commissioner's office.",
+      "id": "s256"
+    },
+    {
+      "text": "He expressed his expectation in that letter that the Commissioner would \"favourably consider\" any request to transfer tax losses out of time for the 2000 year of income following the issue of any amended assessments upon completion of the audit.",
+      "id": "s257"
+    },
+    {
+      "text": "Mr Mulqueen said the basis for that expectation lay in previous grants by the BHP Group of the numerous extensions of time under s 170(4B) in favour of the Commissioner.",
+      "id": "s258"
+    },
+    {
+      "text": "He said in evidence: \n \n In simple terms I expected the second respondent to reciprocate these indulgences.",
+      "id": "s259"
+    },
+    {
+      "text": "He said in his letter: \n \n \n In allowing any further extension of time for BHP Development Finance Pty Ltd, we consider it fair and reasonable, and to protect rights, that no other BHP Billiton Ltd group company is prejudiced so as to prevent new or amended loss transfers to companies in receipt of loss transfers made in the 2000 year of income from any of BHP Billiton Finance Ltd, BHP Billiton Direct Reduced Iron Pty Ltd and BHP Titanium Minerals Pty Ltd, which may otherwise be statute barred after 30 November 2004.",
+      "id": "s260"
+    },
+    {
+      "text": "The purpose of these requests herein is to ensure that no BHP Billiton group company should be unduly disadvantaged by allowing an extension of time for the Commissioner to amend the assessments to BHP Development Finance Pty Ltd.",
+      "id": "s261"
+    },
+    {
+      "text": "Accordingly BHP Billiton group companies should be able to transfer any tax losses in existence in any BHP Billiton group company in the 2000 year of income.",
+      "id": "s262"
+    },
+    {
+      "text": "48 Mr Killaly of the Commissioner's office evidently had a discussion with Mr Edney, the Vice President, Group Tax of BHP, on 26 November 2004.",
+      "id": "s263"
+    },
+    {
+      "text": "In that discussion he sought further reasons concerning BHP's request for an extension of time to make loss transfers and to amend assessments as a consequence of such amended loss transfers.",
+      "id": "s264"
+    },
+    {
+      "text": "In a letter dated 30 November 2004 to Mr McAlister of the Commissioner's office, Mr Edney said: \n \n The purpose of these requests is to ensure that no BHP Billiton group company should be unduly disadvantaged by the length of time taken to resolve the audit and allowing an extension of time for the Commissioner to amend the assessments to BHPDF.",
+      "id": "s265"
+    },
+    {
+      "text": "In the event of audit adjustments, BHP Billiton group companies should be able to transfer any tax losses in existence in any BHP Billiton group company in the 2000 year of income.",
+      "id": "s266"
+    },
+    {
+      "text": "While the audit issues remain unresolved, in the interests of fairness, the purpose of the requests is to preserve the Commissioner's ability to issue amended assessments on a basis which takes into account any tax losses in existence in any BHP Billiton group company in the 2000 year of income.",
+      "id": "s267"
+    },
+    {
+      "text": "49 Mr Mulqueen said that his letter of 19 November and Mr Edney's letter of 30 November referred to extensions in respect of the year ended 30 June 2000.",
+      "id": "s268"
+    },
+    {
+      "text": "That year was also the subject of the audit in relation to a bad debt deduction claimed by Finance and a number of amendment requests which he reviewed at the time.",
+      "id": "s269"
+    },
+    {
+      "text": "He expected that the Commissioner's approach would be the same in respect of future loss transfers for the 1999 year.",
+      "id": "s270"
+    },
+    {
+      "text": "50 On 30 November 2004 Mr Killaly signed a letter to Mr Mulqueen, although it seems Mr McAlister may have been its author.",
+      "id": "s271"
+    },
+    {
+      "text": "In dealing with the request for an extension of time to effect the loss transfers under s 170-50 Mr Killaly's letter said: \n \n In the present case, the Commissioner has not yet decided whether or how to reduce the losses claimed by BHP Billiton Finance Ltd, BHP Billiton Direct Reduced Iron Pty Ltd, BHP Titanium Minerals Pty Ltd (the loss companies) and BHPDF.",
+      "id": "s272"
+    },
+    {
+      "text": "Any amendment to disallow deductions for losses transferred from the loss companies to income companies within the Group would be consequential upon that decision.",
+      "id": "s273"
+    },
+    {
+      "text": "In our view, there is no reason to seek the Commissioner's permission to make additional loss transfer agreements until such time as the loss deductions available to the income companies are finally determined.",
+      "id": "s274"
+    },
+    {
+      "text": "The letter further said: \n \n \n We consider that the appropriate time to seek the favourable exercise of the Commissioner's discretion would be once amended assessments had issued to the income companies (were this to occur).",
+      "id": "s275"
+    },
+    {
+      "text": "and concluded: \n \n \n Finally, and although you assert in your letter dated 19 November 2004 that it would be reasonable to expect the Commissioner to \"... favourably consider any request in relation to loss transfers (or any amendments thereto)\", we must advise you that we have not yet formed any view, either favourable or unfavourable to the BHP Billiton Group, about the exercise of the Commissioner's discretion as the issue is, at present, hypothetical.",
+      "id": "s276"
+    },
+    {
+      "text": "51 On or about 1 December 2004 Mr Clough of Mallesons wrote to Mr Killaly and Mr McAlister to further explain the concerns of the BHP Group.",
+      "id": "s277"
+    },
+    {
+      "text": "The letter acknowledged the Commissioner's position that he considered that it was too early to consider any request to transfer losses out of time.",
+      "id": "s278"
+    },
+    {
+      "text": "Mr Killaly responded on the same day.",
+      "id": "s279"
+    },
+    {
+      "text": "He said in that letter: \n \n It is not apparent to us how BHP Billiton Group companies might draft loss transfer agreements when it is not yet known by how much, if at all, the loss deductions available to the income companies will be reduced.",
+      "id": "s280"
+    },
+    {
+      "text": "As we advised in our letter dated 30 November 2004, it is in our view premature to give any consideration at this time to whether the Commissioner may in future exercise the discretion in s 170-70(2)(d) of the Income Tax Assessment Act 1997 .",
+      "id": "s281"
+    },
+    {
+      "text": "However, if the assessments of the income companies are amended to increase their tax liability, we undertake to give prompt attention to any request we receive which seeks the exercise of the discretion in paragraph 170-70(2)(d) (by which the Commissioner may permit the making of loss transfer agreements at any time).",
+      "id": "s282"
+    },
+    {
+      "text": "52 Mr Mulqueen said that based on Mr Killaly's approach to the 2000 year tax losses and his own understanding of ATO practice, he assumed that he would take the same approach to the use of the tax losses for the 1999 year.",
+      "id": "s283"
+    },
+    {
+      "text": "He therefore took no further steps to deal with DRI's losses until the issue of an amended assessment for Development Finance which had been foreshadowed in the Position Paper.",
+      "id": "s284"
+    },
+    {
+      "text": "53 On 18 March 2005 Mr Killaly issued an addendum to his Position Paper.",
+      "id": "s285"
+    },
+    {
+      "text": "He foreshadowed the issue of an amended assessment to Development Finance increasing its taxable income by the amount of $154,131,587.",
+      "id": "s286"
+    },
+    {
+      "text": "On 29 March 2005 he again wrote to Mr Mulqueen and asked for a further extension of the period within which the Commissioner might amend the assessment for Development Finance for the 1999 year of income.",
+      "id": "s287"
+    },
+    {
+      "text": "Mr Mulqueen signed a consent to a further extension from 31 March 2005 to 16 May 2005.",
+      "id": "s288"
+    },
+    {
+      "text": "54 Mallesons responded to the addendum on or about 2 May 2005 and explained that even if the bad debt deduction claimed by Development Finance were disallowed, the proposed adjustment of $154,131,587 was incorrect and should be $89,848,367.",
+      "id": "s289"
+    },
+    {
+      "text": "On 13 May 2005 Mr Mulqueen received a facsimile from Mr Killaly attaching a notice of amended assessment for Development Finance and an income tax adjustment sheet increasing the taxable income of Development Finance by $89,848,367.",
+      "id": "s290"
+    },
+    {
+      "text": "The adjustment sheet reflected the Commissioner's acceptance of the point made by Mallesons that if any adjustment were to be made it was $89,848,367.",
+      "id": "s291"
+    },
+    {
+      "text": "55 On 8 June 2005, Mr Mulqueen lodged a notice of objection against the amended assessment issued to Development Finance.",
+      "id": "s292"
+    },
+    {
+      "text": "He also sent Mr McAlister a request on that date to extend time for the making of a loss transfer agreement from DRI to Development Finance for the year ended 31 May 1999.",
+      "id": "s293"
+    },
+    {
+      "text": "The proposed loss transfer would transfer part of the R &amp; D losses incurred by DRI in the year ended 31 May 1999 to Development Finance.",
+      "id": "s294"
+    },
+    {
+      "text": "The amount to be transferred was the amount assessed to Development Finance for that year, ie $89,848,367.",
+      "id": "s295"
+    },
+    {
+      "text": "56 Mr Duffus of the Commissioner's office sent a facsimile to Mr Edney on 22 August 2005 in which he said the ATO was \"turning its mind\" to the application of Pt IVA of the ITAA 1936 to the bad debt deductions claimed by Development Finance.",
+      "id": "s296"
+    },
+    {
+      "text": "He foreshadowed the issue of a Position Paper on that question.",
+      "id": "s297"
+    },
+    {
+      "text": "In his letter he noted that the six year statutory period for any application of Pt IVA in respect of Development Finance's assessment for the year of income ended 31 May 1999 would expire on 1 November 2005.",
+      "id": "s298"
+    },
+    {
+      "text": "Mr Duffus followed up with his foreshadowed Position Paper on 25 August 2005.",
+      "id": "s299"
+    },
+    {
+      "text": "57 In the course of his Position Paper Mr Duffus asserted that apart from the fundamental issue of \"bankability\" Development Finance had been aware for a considerable period of time and certainly since September 1997 that BHP Zimbabwe was in difficulty and could not meet its obligations under the existing loans.",
+      "id": "s300"
+    },
+    {
+      "text": "Development Finance nevertheless continued to make substantial additional funds available to it.",
+      "id": "s301"
+    },
+    {
+      "text": "From September 1997 to the end of December 1997 BHP Zimbabwe drew down on the facility on three occasions to a total amount of $42.8 million.",
+      "id": "s302"
+    },
+    {
+      "text": "Development Finance also allowed BHP Zimbabwe to capitalise unpaid interest.",
+      "id": "s303"
+    },
+    {
+      "text": "Then, he said, as a consequence of implementing a preordained integrated series of steps, BHP Zimbabwe treated the loan as forgiven to the extent of the amount written off as a bad debt.",
+      "id": "s304"
+    },
+    {
+      "text": "This was said to have been intended by the parties.",
+      "id": "s305"
+    },
+    {
+      "text": "It was said to have been shown by their conduct, by BHP's purpose of intending to divest itself of BHP Zimbabwe and the terms of the sale agreement requiring the sale of BHP Zimbabwe to be free of encumbrances.",
+      "id": "s306"
+    },
+    {
+      "text": "58 Reference was also made in the Position Paper to the Letter of Comfort.",
+      "id": "s307"
+    },
+    {
+      "text": "Mr Duffus contended that the terms used by BHP showed that the parties intended that the Letter of Comfort constitute a legal enforceable obligation to financially support the company and its directors should the need arise.",
+      "id": "s308"
+    },
+    {
+      "text": "There were serious questions having regard to tort, equity and trade practices law as to whether the undertakings in the Letter of Comfort could be revoked with retrospective effect.",
+      "id": "s309"
+    },
+    {
+      "text": "There was a preordained series of integrated steps intended to result in the forgiveness or otherwise compromising of the loan and interest owed by [BHP Zimbabwe] to [Development Finance].",
+      "id": "s310"
+    },
+    {
+      "text": "Moreover the debt of $524,864,748 was said not to be genuinely bad because the preordained integrated series of steps was intended to make it bad, creating a situation that would not otherwise exist and which involved the lender not pressing for recovery.",
+      "id": "s311"
+    },
+    {
+      "text": "The Position Paper then made reference to the eight factors to which the Commissioner was required to have regard under s 177D(b) in deciding whether the arrangement was a scheme to which Pt IVA applied.",
+      "id": "s312"
+    },
+    {
+      "text": "Mr Duffus asserted that consideration of those factors disclosed a dominant purpose in relation to the scheme of obtaining a tax benefit.",
+      "id": "s313"
+    },
+    {
+      "text": "59 By letters dated 30 August 2005 the Commissioner informed Mr Mulqueen that he had considered his request to allow DRI extra time to enter into tax loss agreements with BHP Billiton Freight Pty Ltd, Finance and UMAL Consolidated Pty Ltd for the year ended 31 May 1999.",
+      "id": "s314"
+    },
+    {
+      "text": "The requests were allowed in full.",
+      "id": "s315"
+    },
+    {
+      "text": "60 On or about 5 September 2005 the ATO wrote to Mallesons and invited Development Finance to attend a meeting of the General Anti-avoidance Rules Panel (the Panel) on 4 October 2005.",
+      "id": "s316"
+    },
+    {
+      "text": "The Panel is an internal committee set up by the Commissioner to review the application of Pt IVA to taxpayers.",
+      "id": "s317"
+    },
+    {
+      "text": "On 27 September 2005 Mallesons wrote to the Panel and advised that in the circumstances it did not consider it appropriate to accept the invitation to appear before it.",
+      "id": "s318"
+    },
+    {
+      "text": "61 On 6 October 2005 the Chairman of the Panel, Mr Kevin Fitzpatrick, wrote to Mr Clough at Mallesons and said that the Panel's advice was that Pt IVA would apply to deny the bad debt deduction claimed by Development Finance assuming that that deduction was otherwise allowable.",
+      "id": "s319"
+    },
+    {
+      "text": "He advised, contrary to the view expressed in the Pt IVA Position Paper, that the penalty applied to Development Finance should not be increased as a result of the application of Pt IVA.",
+      "id": "s320"
+    },
+    {
+      "text": "Mr Mulqueen took this to mean that the Panel had reached the view that Development Finance had a reasonably arguable position that Pt IVA should not apply.",
+      "id": "s321"
+    },
+    {
+      "text": "62 On 10 October 2005 Mr Mulqueen sought from the Commissioner further amendments to assessments and adjustments to carry forward the tax loss and capital loss position of the BHP Group of companies.",
+      "id": "s322"
+    },
+    {
+      "text": "His purpose was to put the BHP Group and the Commissioner in the same position as if all relevant information had been known at the time assessments were issued so that all income, gains and losses were correctly calculated in each year.",
+      "id": "s323"
+    },
+    {
+      "text": "Some of those amendments involved the transfer of part of the DRI losses for the year ended 31 May 1999 to other BHP Group companies.",
+      "id": "s324"
+    },
+    {
+      "text": "63 On 24 October 2005 the Commissioner sent a notice of decision on objection in relation to Development Finance's notice of objection dated 8 June 2005 together with a determination pursuant to Pt IVA.",
+      "id": "s325"
+    },
+    {
+      "text": "The objection decision recorded the Commissioner's concession that Development Finance had a reasonably arguable position that Pt IVA did not apply.",
+      "id": "s326"
+    },
+    {
+      "text": "It also confirmed that the Commissioner did not consider the alleged shortfall to have been caused by intentional disregard of the law or recklessness on the part of Development Finance.",
+      "id": "s327"
+    },
+    {
+      "text": "64 On 7 December 2005 Mr Mulqueen sent a letter to Mr Duffus in relation to the request for transfer of losses from DRI to Development Finance dated 8 June 2005.",
+      "id": "s328"
+    },
+    {
+      "text": "He pointed out that it had been almost six months since that request had been made and the Commissioner had still not made a decision.",
+      "id": "s329"
+    },
+    {
+      "text": "He said that if the request for a loss transfer were to be allowed, Development Finance would not need to proceed with an appeal to the Federal Court in relation to the disallowance of its objection for the 1999 year.",
+      "id": "s330"
+    },
+    {
+      "text": "Expense and the use of court time could be avoided if Development Finance's request were granted.",
+      "id": "s331"
+    },
+    {
+      "text": "65 Mr Duffus responded on or about 20 December 2005.",
+      "id": "s332"
+    },
+    {
+      "text": "In that letter he said a decision could not be made in relation to the request of 8 June 2005 as there was an objection outstanding in relation to Development Finance.",
+      "id": "s333"
+    },
+    {
+      "text": "Any decision in respect of the request concerning the loss transfers could not be dealt with until the objection was finalised on 24 October 2005.",
+      "id": "s334"
+    },
+    {
+      "text": "He said: \n \n At this stage the objection decision stands, unless or until you lodge an appeal.",
+      "id": "s335"
+    },
+    {
+      "text": "You are advised that it is not appropriate to make any decision on the exercise of the discretion to extend time to transfer a loss until after the 60 day period has elapsed for [Development Finance] to lodge an appeal.",
+      "id": "s336"
+    },
+    {
+      "text": "Once that period has elapsed we will consider your request, taking into account our views previously expressed in our letters of 1 December 2004, 12 May 2005 and 13 May 2005.",
+      "id": "s337"
+    },
+    {
+      "text": "Development Finance filed an application in this Court seeking a review of the Commissioner's decision on its objection on 21 December 2005.",
+      "id": "s338"
+    },
+    {
+      "text": "Mr Mulqueen took Mr Duffus' response of 20 December 2005 to be a refusal by him to make a decision to allow a transfer of losses by DRI to Development Finance out of time.",
+      "id": "s339"
+    },
+    {
+      "text": "He requested reasons for that refusal on 23 December 2005.",
+      "id": "s340"
+    },
+    {
+      "text": "66 On or about 6 January 2006 Mr Mulqueen received a response from Mr Duffus to his letter of 23 December 2005.",
+      "id": "s341"
+    },
+    {
+      "text": "Mr Duffus said then that he was still considering the request for the extension.",
+      "id": "s342"
+    },
+    {
+      "text": "On 13 January 2006 Mr Duffus confirmed by letter that the Commissioner had allowed an extension of time to transfer losses from DRI to Onesteel Trading Pty Ltd and J Murray-Moore (Holdings) Pty Ltd for the year ended 31 May 1999.",
+      "id": "s343"
+    },
+    {
+      "text": "67 On or about 13 January 2006 Mr Mulqueen wrote to Mr McAlister requesting that a decision be made to allow a transfer of losses by DRI to Development Finance.",
+      "id": "s344"
+    },
+    {
+      "text": "He sent a further letter to Mr McAlister on or about 9 February 2006.",
+      "id": "s345"
+    },
+    {
+      "text": "On 14 February 2006 Mr Duffus wrote to Mr Mulqueen refusing the application for an extension of time to transfer a tax loss from DRI to Development Finance for the 1999 year.",
+      "id": "s346"
+    },
+    {
+      "text": "68 On 9 March 2006 DRI and Development Finance filed an application in this Court for an order of review under the Administrative Decisions (Judicial Review) Act 1977 (Cth) (ADJR Act) and for relief pursuant to s 39B of the Judiciary Act in relation to Mr Duffus' decision of 14 February 2006.",
+      "id": "s347"
+    },
+    {
+      "text": "The reasons for decision refusing an extension of time \n \n69 In his reasons for decision Mr Duffus began by referring to Taxation Ruling TR 98/12 as providing guidance on factors relevant to the exercise of the Commissioner's discretion in allowing an extension under s 80G of the ITAA 1936 and Subdiv 170A of the ITAA 1997.",
+      "id": "s348"
+    },
+    {
+      "text": "Paragraph 83 of the Ruling referred to a two step process of identifying relevant factors having regard to the circumstances of the case and applied a weighting to each of those factors.",
+      "id": "s349"
+    },
+    {
+      "text": "Paragraph 84 indicated that applications usually fall into one of two broad categories: \n .",
+      "id": "s350"
+    },
+    {
+      "text": "non-compliance with time limit caused by delay of the taxpayer; \n .",
+      "id": "s351"
+    },
+    {
+      "text": "extension of time requests arising from ATO adjustments.",
+      "id": "s352"
+    },
+    {
+      "text": "It was Mr Duffus' view that the application came under both categories.",
+      "id": "s353"
+    },
+    {
+      "text": "70 Dealing first with the question of non-compliance caused by delay of the taxpayer, Mr Duffus said that [85] of the Ruling referred to cases where no agreement had been made prior to lodgment of the return.",
+      "id": "s354"
+    },
+    {
+      "text": "Paragraph 88 indicated that the favourable exercise of the discretion would generally require the taxpayer to provide an acceptable explanation of the delay.",
+      "id": "s355"
+    },
+    {
+      "text": "71 Mr Duffus referred then to the argument made by DRI and Development Finance that the transfer agreement was not entered into at the appropriate time because it had not been established that the relevant losses existed at the time of lodgment of DRI's 1999 return.",
+      "id": "s356"
+    },
+    {
+      "text": "Subsection 73B(1) of the ITAA 1936 had been amended in September 2001 after the date of lodgment of the return.",
+      "id": "s357"
+    },
+    {
+      "text": "The taxpayers had also referred to review processes involving the Board which were incomplete at the time of lodgment of the 1999 return.",
+      "id": "s358"
+    },
+    {
+      "text": "DRI had lodged a request for amendment on 14 May 2002 and had been advised on 13 August 2002 that the adjustment was allowed in full.",
+      "id": "s359"
+    },
+    {
+      "text": "A notice of assessment was not required to issue to DRI as it remained non-taxable.",
+      "id": "s360"
+    },
+    {
+      "text": "Although the adjustment was allowed in full DRI had been asked to provide the ATO with information about the claim as part of a specific risk review.",
+      "id": "s361"
+    },
+    {
+      "text": "That was completed on 4 February 2004 and DRI had been advised that the issue was rated as a low risk matter.",
+      "id": "s362"
+    },
+    {
+      "text": "Mr Duffus then said: \n \n From 30 August 2002 the losses were available for transfer by BHPDRI.",
+      "id": "s363"
+    },
+    {
+      "text": "The taxpayers contend that no losses could be transferred with certainty until the ATO had completed its specific risk review.",
+      "id": "s364"
+    },
+    {
+      "text": "However, the ATO is of the view that this contention is not correct.",
+      "id": "s365"
+    },
+    {
+      "text": "Having been advised by the ATO of BHPDRI's adjusted loss position on 30 August 2002, the losses were available for transfer from this date.",
+      "id": "s366"
+    },
+    {
+      "text": "Nevertheless, BHPDRI chose not to immediately transfer the losses.",
+      "id": "s367"
+    },
+    {
+      "text": "The ATO has formed the view that there is no basis to the claim that the taxpayers needed to await the finalisation of the ATO specific risk review to transfer the losses.",
+      "id": "s368"
+    },
+    {
+      "text": "Furthermore, the taxpayers waited until 8 June 2005 before requesting the loss transfer.",
+      "id": "s369"
+    },
+    {
+      "text": "This was less than a month after the issue of the amended assessment for BHPDF.",
+      "id": "s370"
+    },
+    {
+      "text": "Mr Duffus concluded that, as there were both unavoidable and avoidable delays on the part of the taxpayers, the factor of delay should be taken into account but \"... should not be weighted heavily against the favourable exercise of the discretion\".",
+      "id": "s371"
+    },
+    {
+      "text": "72 Mr Duffus then turned to the effect of ATO adjustments on the timing of the request for an extension.",
+      "id": "s372"
+    },
+    {
+      "text": "He referred to the imposition of primary tax of approximately $32 million in the amended assessment for Development Finance.",
+      "id": "s373"
+    },
+    {
+      "text": "Because Development Finance's behaviour had been culpable additional tax of approximately $8 million was imposed, being 25% of the tax avoided.",
+      "id": "s374"
+    },
+    {
+      "text": "A GIC in excess of $19 million was also imposed in the amended assessment.",
+      "id": "s375"
+    },
+    {
+      "text": "After the issue of the amended assessment a determination was also made under s 177F of Pt IVA of the ITAA 1936 in relation to Development Finance.",
+      "id": "s376"
+    },
+    {
+      "text": "He referred to the advice of the Panel that Pt IVA would apply in the event that the Court decided that a deduction were allowable under s 25 - 35 or s 8- 1 of the ITAA 1997.",
+      "id": "s377"
+    },
+    {
+      "text": "Because the Panel recommended that Development Finance had a reasonably arguable position in relation to Pt IVA , a penalty of 25% was imposed and no further amendment was necessary because the rate of penalty was identical to that imposed in the amended assessment.",
+      "id": "s378"
+    },
+    {
+      "text": "73 Referring then to [93] of Taxation Ruling TR 98/12, Mr Duffus observed that in cases where it cannot be said the conduct of the group is culpable in respect of its failure to comply with its obligations that would be a factor weighing in favour of an extension of time being granted.",
+      "id": "s379"
+    },
+    {
+      "text": "He then said: \n \n In the matter under consideration, the Commissioner holds the view that [Development Finance] does not have a reasonably arguable position in relation to the bad debt claimed under either s 25 - 35 or 8- 1 of the ITAA 97.",
+      "id": "s380"
+    },
+    {
+      "text": "He cited [92] of the Ruling as indicating that nothing within the subject matter, scope and purpose of s 80G of the ITAA 1936 or Subdiv 170 of the ITAA 1997 would imply any limitation upon the Commissioner considering the conduct of a company group giving rise to an adjustment as being a relevant factor to the exercise of the discretion.",
+      "id": "s381"
+    },
+    {
+      "text": "He referred to examples given in [93] of factors weighing heavily against a favourable exercise of the discretion.",
+      "id": "s382"
+    },
+    {
+      "text": "He said: \n \n \n The examples listed are where an adjustment is made as a result of fraud or evasion or a scheme to which Pt IVA applies.",
+      "id": "s383"
+    },
+    {
+      "text": "It is suggested in the ruling that these matters should be weighted heavily in considering whether to exercise the discretion.",
+      "id": "s384"
+    },
+    {
+      "text": "The heavy weighting reflects the need to penalise to a greater extent any taxpayers who are involved in these serious non-compliance activities.",
+      "id": "s385"
+    },
+    {
+      "text": "(emphasis added) \n \n\n74 Mr Duffus noted that there was no indication in Taxation Ruling TR 98/12 of the weight to be placed on the fact that an adjustment had been made following audit activity which did not involve fraud or evasion or a scheme to which Pt IVA applies.",
+      "id": "s386"
+    },
+    {
+      "text": "Such an adjustment could result in the imposition of penalties if the taxpayer were found to be culpable.",
+      "id": "s387"
+    },
+    {
+      "text": "He considered that the fact of audit activity in those circumstances should not be weighted as heavily as the cases of fraud, evasion or Pt IVA schemes.",
+      "id": "s388"
+    },
+    {
+      "text": "He then said: \n \n As [Development Finance's] behaviour has been found by the ATO to be culpable, it is considered that this factor should be taken into account in considering the exercise of the discretion.",
+      "id": "s389"
+    },
+    {
+      "text": "Given that an audit has been undertaken, the group's position on bad debts has been found to be unreasonably arguable and a penalty was imposed, it is appropriate to take this factor into account.",
+      "id": "s390"
+    },
+    {
+      "text": "It is therefore considered that a rating should be applied in relation to the culpable behaviour of [Development Finance] less than the high value ascribed in Taxation Ruling TR98/12 to, for example, tax avoidance.",
+      "id": "s391"
+    },
+    {
+      "text": "It is also contended that as Pt IVA has been applied in the alternative to [Development Finance], it is not a factor that the Commissioner can ignore or disregard.",
+      "id": "s392"
+    },
+    {
+      "text": "It must therefore be a factor to be taken into account and heavily weighted in considering whether to apply the discretion to extend time to lodge the agreement under s 170- 50 of the ITAA 1997.",
+      "id": "s393"
+    },
+    {
+      "text": "75 Mr Duffus did not attach significance to the argument advanced by Development Finance that it would not need to apply to the Federal Court in relation to the disallowance of the objection if the loss transfer were allowed.",
+      "id": "s394"
+    },
+    {
+      "text": "The question whether a taxpayer proceeded to litigate a claim for a deduction was regarded as a separate issue to the exercise of the discretion for the transfer of a loss.",
+      "id": "s395"
+    },
+    {
+      "text": "The grounds of review \n \n76 The \"grounds of review\" in the application were preceded by 34 paragraphs of narrative reflecting the history outlined above.",
+      "id": "s396"
+    },
+    {
+      "text": "Omitting some of the lengthy particulars, the grounds are as follows: \n \n \n 35.",
+      "id": "s397"
+    },
+    {
+      "text": "The respondents had a duty in exercising the power under s 170-50(2)(d) of the 1997 Act to act fairly and in accordance with reasonable public standards.",
+      "id": "s398"
+    },
+    {
+      "text": "36.",
+      "id": "s399"
+    },
+    {
+      "text": "The making of the decision was an improper exercise of the power conferred by s 170-50(2)(d) of the 1997 Act within the meaning of s 5(1)(e) of the ADJR Act because: \n \n \n \n \n \n (a) the first respondent failed to take into account a relevant consideration or relevant considerations;\n \n Particulars (of which there were 29)\n \n (b) the first respondent took into account an irrelevant consideration or irrelevant considerations;\n \n Particulars (of which there were 4)\n \n (c) the first respondent exercised the power for a purpose other than a purpose for which the power is conferred;\n \n Particulars \n \n In the circumstances of this case, the decision is so unreasonable and unfair that such a purpose should be inferred.",
+      "id": "s400"
+    },
+    {
+      "text": "(d) the first respondent exercised the power in accordance with a rule of policy, namely tax ruling TR 98/12 without regard to the merits of the particular case; \n \n (e) the first respondent's exercise of the power resulted in unfairness amounting to an abuse of power; \n \n (f) the first respondent's exercise of the power was so unreasonable that no reasonable person could have so exercised the power; \n \n \n \n Particulars of subpars (e) and (f) \n \n \n \n \n The conclusion by the first respondent that the applicants' delay in making the request until shortly after the issue of the BHPDF amended assessment should be weighed against the exercise of discretion was: \n \n \n \n \n (i) so unreasonable that no reasonable decision-maker could have come to that conclusion; \n (ii) so unfair so as to constitute an abuse of power.",
+      "id": "s401"
+    },
+    {
+      "text": "37.",
+      "id": "s402"
+    },
+    {
+      "text": "The decision involved an error of law:\n \n Particulars \n \n \n \n \n (a) The first respondent made an error of law or fact in concluding that BHPDF's behaviour insofar as it prepared its income tax return on the footing that it was entitled to a deduction under s 8-1 or s 25-35 for a bad debt written off in the 1999 year was culpable.",
+      "id": "s403"
+    },
+    {
+      "text": "(b) The first respondent made an error of law in concluding as he did that there was \"nothing within the subject matter, scope and purpose of ... Subdivision 170 of the [1997 Act] that would imply any limitation upon the Commissioner to consider the conduct of a company group giving rise to an adjustment as being a relevant factor to the exercise of the discretion\".",
+      "id": "s404"
+    },
+    {
+      "text": "(c) The first respondent made an error of law or fact in concluding that the applicants or any of them were involved in \"serious non-compliance activities\".",
+      "id": "s405"
+    },
+    {
+      "text": "(d) The first respondent made an error of law in concluding that in the circumstances of this case where Part IVA was not applied when the BHPDF amended assessment was made and when the second respondent has conceded that it is reasonably arguable that Part IVA did not apply to deny the deduction of all or any part of the claim for a bad debt deduction, that the making of a Part IVA determination weighed heavily against the applicants in the exercise of discretion.",
+      "id": "s406"
+    },
+    {
+      "text": "77 Alternatively, in reliance upon s 39B of the Judiciary Act , it was contended that the decision:\n \n \n (a) was an improper exercise of the power to allow further time within which to make a loss transfer agreement; \n \n (b) involved an error or errors of law; \n \n (c) was not otherwise authorised by s 170- 50 (2)(d), \n \n and accordingly each said decision was invalid, void and of [no] effect.",
+      "id": "s407"
+    },
+    {
+      "text": "Statutory framework --- transfer of tax losses within company groups \n \n78 Section 170 of the ITAA as it applied to the tax year ended 30 June 1999 included the following provisions: \n 170-1 What this Subdivision is about\n \n A company can transfer a surplus amount of its tax loss to another company so that the other company can deduct the amount in the income year of the transfer.",
+      "id": "s408"
+    },
+    {
+      "text": "Both companies must be members of the same wholly-owned group.",
+      "id": "s409"
+    },
+    {
+      "text": "170-5 Basic principles for transferring tax losses\n \n \n \n (1) A company can transfer a tax loss to another company so that the other company can deduct it in the income year of the transfer.",
+      "id": "s410"
+    },
+    {
+      "text": "(2) Both companies must be members of the same wholly-owned group.",
+      "id": "s411"
+    },
+    {
+      "text": "There are other eligibility requirements that they must also satisfy.",
+      "id": "s412"
+    },
+    {
+      "text": "(3) The transferred loss must be \"surplus\" in the sense that the transferring company cannot use it because there is not enough assessable income to offset it.",
+      "id": "s413"
+    },
+    {
+      "text": "The other company must have enough assessable income to offset the transferred tax loss.",
+      "id": "s414"
+    },
+    {
+      "text": "(4) Neither company must be prevented from deducting the loss by Division 165 or 175.",
+      "id": "s415"
+    },
+    {
+      "text": "(5) The tax loss is transferred by an agreement between the 2 companies.",
+      "id": "s416"
+    },
+    {
+      "text": "(6) The tax loss can be transferred in the same year as it is incurred.",
+      "id": "s417"
+    },
+    {
+      "text": "In that case different rules apply.",
+      "id": "s418"
+    },
+    {
+      "text": "170-10 When a company can transfer a tax loss\n \n (1) A company (the loss company ) can transfer an amount of its tax loss for an income year (the loss year ) to another company (the income company ) if the conditions in this Subdivision are met.",
+      "id": "s419"
+    },
+    {
+      "text": "(2) The amount transferred can be the whole or part of the tax loss.",
+      "id": "s420"
+    },
+    {
+      "text": "170-15 Income company is taken to have incurred transferred loss \n \n \n \n \n \n (1) If an amount of a tax loss is transferred, the amount is taken to be a tax loss incurred by the income company in the loss year.",
+      "id": "s421"
+    },
+    {
+      "text": "(2) However, if the loss year is the same as the income year of the transfer, the income company is taken to have incurred the tax loss in the income year before the loss year.",
+      "id": "s422"
+    },
+    {
+      "text": "170-20 Who can deduct transferred loss\n \n (1) If an amount of a tax loss is transferred, the income company can deduct the amount in accordance with section 36 - 15 (which is about how to deduct a tax loss), but only for the income year of the income company for which the amount is transferred.",
+      "id": "s423"
+    },
+    {
+      "text": "That income year is called the deduction year.",
+      "id": "s424"
+    },
+    {
+      "text": "(2) The loss company can no longer deduct the transferred amount and is taken not to have incurred the tax loss to the extent of that amount.",
+      "id": "s425"
+    },
+    {
+      "text": "170-25 Tax treatment of consideration for transferred tax loss\n \n (1) If the loss company receives any consideration from the income company for the amount of the tax loss:\n \n \n \n \n \n (a) so much of the consideration as is given for the amount of the tax loss is neither assessable income nor exempt income of the loss company; and \n (b) a capital gain does not accrue to the loss company because of the receipt of the consideration.",
+      "id": "s426"
+    },
+    {
+      "text": "(2) If the income company gives any consideration to the loss company for the amount of the tax loss: \n \n \n \n \n \n (a) the income company cannot deduct the amount or value of the consideration; and \n (b) the income company does not incur a capital loss because of the giving of the consideration.",
+      "id": "s427"
+    },
+    {
+      "text": "79 Section 170- 45 provides for the maximum amount that can be transferred.",
+      "id": "s428"
+    },
+    {
+      "text": "170-45 Maximum amount that can be transferred\n \n \n \n (1) The amount transferred cannot exceed the amount of the loss company's tax loss that, apart from the transfer, the loss company would carry forward to the next income year after the deduction year.",
+      "id": "s429"
+    },
+    {
+      "text": "(2) The amount transferred also cannot exceed the amount worked out as follows: \n \n Method Statement \n \n \n \n \n \n Step 1 Add together the income company's assessable income and net exempt income (if any) for the deduction year.",
+      "id": "s430"
+    },
+    {
+      "text": "Step 2 Subtract the income company's deductions for the deduction year, except deductions for amounts of tax losses transferred to the income company (by the loss company or any other company).",
+      "id": "s431"
+    },
+    {
+      "text": "Step 3 Subtract the income company's deductions for the deduction year for amounts of tax losses transferred to the income company (by the loss company or any other company) by agreements made before the agreement by which the first amount is transferred.",
+      "id": "s432"
+    },
+    {
+      "text": "... \n \n 170-50 Transfer by written agreement\n \n \n \n \n \n (1) The transfer must be made by a written agreement between the loss company and the income company.",
+      "id": "s433"
+    },
+    {
+      "text": "(2) The agreement must: \n \n \n \n \n \n (a) specify the income year of the transfer (which may be earlier than the income year in which the agreement is made); and \n (b) specify the amount of the tax loss being transferred; and \n (c) be signed by the public officer of each company; and \n (d) be made on or before the day of lodgement of the income company's income tax return for the deduction year, or within such further time as the Commissioner allows.",
+      "id": "s434"
+    },
+    {
+      "text": "Legislative history relating to extension of time for transfer of losses in company groups \n \n80 Section 80G of the ITAA 1936, which was replaced by s 170- 50 of the ITAA 1997, was enacted in 1984 by the Income Tax Assessment Amendment Act (No 4) (1984) (Cth).",
+      "id": "s435"
+    },
+    {
+      "text": "As originally enacted, it contained no requirement for a written transfer agreement.",
+      "id": "s436"
+    },
+    {
+      "text": "The relevant equivalent condition of the treatment of the transferred loss as a loss of the \"income company\" was set out in s 80G(6)(c): \n \n The loss company and the income company give to the Commissioner, on or before the date of lodgment of the return of income of the income company for the income year or within such further time as the Commissioner allows, a notice in writing signed by the public officer of each of the companies stating ---\n \n \n \n (i) that the right to an allowable deduction under sub-section 80(2), 80AAA(7) or 80AA(4), as the case requires, in respect of so much of the whole or a specified part of the loss as has not been allowed as a deduction should be transferred to the income company in the income year; and \n \n (ii) the year of income in which the loss was incurred by the loss company;\n \n \n\n81 In 1992 the Taxation Laws Amendment (Self Assessment) Act 1992 (Cth) (SAA) amended s 80G by amending s 80G(6)(c) and inserting a new s 80G(6A).",
+      "id": "s437"
+    },
+    {
+      "text": "The new provisions read as follows: \n \n \n (c) the loss company and the income company agree that the right to an allowable deduction under subsection 79E(3), 79F(6), 80(2), 80AAA(7) or 80AA(4), as the case requires, in respect of so much of the whole or part of the loss as has not been allowed as a deduction should be transferred to the income company in the income year; \n \n (6A) An agreement under paragraph (6)(c) must be: \n \n (a) in writing and signed by the public officer of each of the loss company and the income company; and \n \n (b) made before the date of lodgment of the return of income of the income company for the income year or within such further time as the Commissioner allows.",
+      "id": "s438"
+    },
+    {
+      "text": "82 DRI and Development Finance submitted that the requirement to enter into an agreement to transfer losses was procedural only.",
+      "id": "s439"
+    },
+    {
+      "text": "The 1992 amendment to s 80G requiring an agreement, where previously a notice had been sufficient, did not alter the procedural character of the conditions for effective transfer of losses.",
+      "id": "s440"
+    },
+    {
+      "text": "The changes simply reflected the introduction of the self-assessment regime.",
+      "id": "s441"
+    },
+    {
+      "text": "Statutory framework --- public taxation rulings \n \n83 Given the emphasis upon the application of TR 98/12 in the decision under review, it is helpful to have regard to the statutory provisions relating to public rulings which were in place at the time the decision was made.",
+      "id": "s442"
+    },
+    {
+      "text": "84 Internal directions or rulings by the Commissioner about the way in which tax laws should be applied by officers of the ATO have been a feature of the administration of the Australian tax system for a long time.",
+      "id": "s443"
+    },
+    {
+      "text": "However from 1 December 1982, following the introduction of Commonwealth Freedom of Information legislation, Taxation Rulings were publicly promulgated in a formal way.",
+      "id": "s444"
+    },
+    {
+      "text": "The development of a statutory basis for such rulings and the attachment to them of legal consequences binding on the Commissioner, followed the November 1987 Report of the Senate Standing Committee on Legal and Constitutional Affairs entitled \"Income Taxation Rulings\".",
+      "id": "s445"
+    },
+    {
+      "text": "The 1991 Budget papers issued by the Commonwealth Government included an Information Paper entitled \"Improvements to Self-Assessment Priority Tasks (August 1991).",
+      "id": "s446"
+    },
+    {
+      "text": "That paper foreshadowed the introduction of the Taxation Rulings system which occurred in the following year: see Cooper, Deutsch and Krever, Income Taxation Commentary and Materials (2 nd ed, Law Book Co 1993) at 2-25 et ff.",
+      "id": "s447"
+    },
+    {
+      "text": "85 A statutory provision for Taxation Rulings was introduced, as an incident of the self-assessment system by the SAA.",
+      "id": "s448"
+    },
+    {
+      "text": "The SAA enacted a new Pt IVAAA of the Taxation Administration Act 1953 (Cth) (TAA).",
+      "id": "s449"
+    },
+    {
+      "text": "It commenced to operate from 1 January 1992 and continued operating until the end of 2005 when it was repealed by the Tax Laws (Improvements to Self-Assessment) Act (No 2) 2005 (No 161 of 2005).",
+      "id": "s450"
+    },
+    {
+      "text": "By that amending Act PT IVAAA was replaced by Div 357 in Schedule 1 of the TAA.",
+      "id": "s451"
+    },
+    {
+      "text": "In the present case the relevant ruling was made under Pt IVAAA of the TAA which was the applicable Act governing taxation rulings at the material times.",
+      "id": "s452"
+    },
+    {
+      "text": "86 It is important to observe from the outset that the rulings made under the Act were not statutory rules.",
+      "id": "s453"
+    },
+    {
+      "text": "They had statutory consequences binding the Commissioner in such a way that taxpayers who had relied upon a rule were not disadvantaged if the ruling turned out to be more favourable than the law which it purported to apply.",
+      "id": "s454"
+    },
+    {
+      "text": "87 The term \"public ruling\" in Pt IVAA was defined in s 14ZAAA as: \n \n ... a ruling under s 14ZAAE, 14ZAAF or 147AAG.",
+      "id": "s455"
+    },
+    {
+      "text": "Section 14ZAAD made provision for public rulings relating to the exercise of discretions by the Commissioner: \n \n \n A public ruling on the way in which a tax law applies may be a ruling on the way in which a discretion of the Commissioner under that law would be exercised.",
+      "id": "s456"
+    },
+    {
+      "text": "The kinds of ruling that the Commissioner could make under Pt IVAAA were set out in ss 14ZAAE, 14ZAAF and 14ZAAG.",
+      "id": "s457"
+    },
+    {
+      "text": "Each respectively authorised public rulings on the way in which, in the Commissioner's opinion, a tax law or tax laws would apply to: \n(i) any person in relation to a class of arrangements (s 14ZAAE); \n(ii) a class of persons in relation to an arrangement (s 14ZAAF); \n(iii) a class of persons in relation to a class of arrangements (s 14ZAAG).",
+      "id": "s458"
+    },
+    {
+      "text": "88 The term \"arrangement\" was defined broadly and non-exhaustively in s 14ZAAA to include scheme, plan, action, proposal, course of action, course of conduct, transaction, agreement, understanding, promise or undertaking and also included \"part of an arrangement\".",
+      "id": "s459"
+    },
+    {
+      "text": "The term \"tax law\" was defined to include \"an income tax law\".",
+      "id": "s460"
+    },
+    {
+      "text": "Sections 14ZAAI and 14ZAAJ provided respectively for the procedures for publication of a public ruling and the date upon which such rulings came into effect.",
+      "id": "s461"
+    },
+    {
+      "text": "The withdrawal and effect of withdrawals of public rulings were dealt with in s 14ZAAK and 147AAL.",
+      "id": "s462"
+    },
+    {
+      "text": "The legal effect of the application of a public ruling to a person, a class of persons or an arrangement or class of arrangement was not stated.",
+      "id": "s463"
+    },
+    {
+      "text": "89 The legal consequences of taxation rulings relevant to income tax were to be found in ss 170BA to 170BI of the ITAA 1936.",
+      "id": "s464"
+    },
+    {
+      "text": "If under a public ruling the income tax law was applied in a way more favourable to a taxpayer than the law actually allowed, then the amount of tax in an assessment relevant to that purpose could not exceed what it would have been under the public ruling.",
+      "id": "s465"
+    },
+    {
+      "text": "A taxation ruling about taxation rulings \n \n90 On 1 July 1992 the Commissioner published a Taxation Ruling TR 92/1 entitled \"Income tax and fringe benefits tax: public rulings\".",
+      "id": "s466"
+    },
+    {
+      "text": "It was said in [1] to outline the system of public rulings under the income tax and fringe benefits tax laws after the SAA became law.",
+      "id": "s467"
+    },
+    {
+      "text": "The ruling explained in [16] that \"A public ruling is binding if it can be said to be favourable to a person\".",
+      "id": "s468"
+    },
+    {
+      "text": "A public ruling about an arrangement would be said to be favourable if: \n \n \n (i) the way in which a tax law applies to a person in relation to that arrangement is different from the way the public ruling states that the law applies; and \n \n (ii) the tax payable under an assessment or the amount of withholding tax payable would (apart from the binding public ruling provisions) be more than it would have been if the interpretation of the law stated in the public ruling had been applied, (sections 170BA &amp; 170BD of the ITAA, section 74A of the Fringe Benefits Tax Assessment Act 1986 (FBTAA)).",
+      "id": "s469"
+    },
+    {
+      "text": "A favourable public ruling concerning a tax other than withholding tax was said in [17] to be \"binding\" in the sense that: \n \n \n ... the assessment and the amount of tax payable must be what they would have been if the interpretation of the law stated in the public ruling applied (section 170BA of the ITAA; section 74A of the FBTAA).",
+      "id": "s470"
+    },
+    {
+      "text": "Accordingly, a taxpayer can, and we believe should, self assess in line with a favourable public ruling.",
+      "id": "s471"
+    },
+    {
+      "text": "If the Commissioner makes an assessment involving that matter, the law compels the Commissioner to act in accordance with the favourable public ruling.",
+      "id": "s472"
+    },
+    {
+      "text": "91 Taxation Ruling 92/1 was withdrawn on 5 April 2006.",
+      "id": "s473"
+    },
+    {
+      "text": "Its withdrawal followed the issue of Draft Taxation Ruling TR 2006/D6 which was described as outlining \"the system of public rulings following the enactment of the Tax Laws Amendment (Improvements to Self-Assessment) Act (No 2) 2005 (Cth).",
+      "id": "s474"
+    },
+    {
+      "text": "Taxation Ruling TR 98/12 \n \n92 Taxation Ruling TR 98/12 which was dated 8 July 1998 was entitled \"Income tax: transfer of losses: section 80G (Subdivision 170-A)\".",
+      "id": "s475"
+    },
+    {
+      "text": "It was said, in its Preamble, to be a \"public ruling\" in terms of Pt IVAAA of the TAA and legally binding on the Commissioner.",
+      "id": "s476"
+    },
+    {
+      "text": "93 The Ruling comprised a Preamble, a paragraph describing its subject matter under the heading \"What this Ruling is about\" ([1]), two paragraphs under the heading \"Date of effect\" ([2] and [3]) and a paragraph relating to \"Previous Rulings\" ([4]).",
+      "id": "s477"
+    },
+    {
+      "text": "Paragraph 5 set out \"Definitions\".",
+      "id": "s478"
+    },
+    {
+      "text": "Paragraphs 6 to 20 inclusive appeared under the heading \"Ruling\".",
+      "id": "s479"
+    },
+    {
+      "text": "They were followed by [21] to [94] inclusive under the heading \"Explanations\".",
+      "id": "s480"
+    },
+    {
+      "text": "There then followed a heading \"Examples\" covering [95] to [101] inclusive.",
+      "id": "s481"
+    },
+    {
+      "text": "The last heading was \"Detailed contents list\".",
+      "id": "s482"
+    },
+    {
+      "text": "The Ruling parts of the document therefore appeared to be contained in [6] to [20] inclusive.",
+      "id": "s483"
+    },
+    {
+      "text": "Paragraphs 17 to 20 inclusive appeared under the subheading \"Exercise of the discretion under subsection 80G(6A) (paragraph 170-50(2)(d))\".",
+      "id": "s484"
+    },
+    {
+      "text": "Under the heading \"Explanations\" there was another section which dealt with the exercise of the discretion.",
+      "id": "s485"
+    },
+    {
+      "text": "This covered [81] through to [94] inclusive.",
+      "id": "s486"
+    },
+    {
+      "text": "94 Paragraphs 18 to 20, dealing with the exercise of the discretion, under the general heading \"Ruling\" stated, inter alia: \n \n 18.",
+      "id": "s487"
+    },
+    {
+      "text": "In exercising the discretion under subsection 80G(6A) (paragraph 170-50(2)(d)), the Commissioner is guided by administrative law principles.",
+      "id": "s488"
+    },
+    {
+      "text": "These include an obligation to identify and consider all factors that may be relevant to the exercise of the discretion and to give them an appropriate weighting.",
+      "id": "s489"
+    },
+    {
+      "text": "In determining the relevant factors and their weighting, the Commissioner has regard to the policy of section 80G (Subdivision 170-A) and its context within the Act.",
+      "id": "s490"
+    },
+    {
+      "text": "Although each case must be decided on its merits, this Ruling provides a guide to taxpayers and ATO officers as to what factors may be relevant in the exercise of the discretion.",
+      "id": "s491"
+    },
+    {
+      "text": "19.",
+      "id": "s492"
+    },
+    {
+      "text": "In cases where there has been delay on the part of the relevant companies in effecting an agreement, the principles outlined in Hunter Valley Developments Pty Ltd &amp; Ors v Minister for Home Affairs and Environment ... (1984) 3 FCR 344 ... and subsequent supporting authorities in respect of statutory discretions to extend time, is relevant to the subsection 80G(6A) (paragraph 170-50(2)(d)) discretion.",
+      "id": "s493"
+    },
+    {
+      "text": "Following Hunter Valley Developments, the statutory time limit is not to be ignored and, prima facie, agreements must be made within time.",
+      "id": "s494"
+    },
+    {
+      "text": "Therefore, the onus is on the taxpayer to demonstrate to the Commissioner that the case is an appropriate one for the favourable exercise of the discretion.",
+      "id": "s495"
+    },
+    {
+      "text": "This generally requires the taxpayer to provide an adequate explanation for the delay.",
+      "id": "s496"
+    },
+    {
+      "text": "20.",
+      "id": "s497"
+    },
+    {
+      "text": "In cases where an agreement is sought to be made out of time as a result of an adjustment to the tax position of the company group by the Commissioner, a relevant factor is the conduct giving rise to the adjustment.",
+      "id": "s498"
+    },
+    {
+      "text": "For example, where there is fraud or evasion, or a scheme to which Part IVA of the Act applies, this factor weighs heavily against a favourable exercise of the discretion.",
+      "id": "s499"
+    },
+    {
+      "text": "Conversely, where an adjustment stems from conduct which could not be regarded as culpable, this factor would be weighted in favour of the extension of time being granted.",
+      "id": "s500"
+    },
+    {
+      "text": "95 In the section under the heading \"Explanations\" which dealt with the discretion it was said, in [82]: \n \n This part of the Ruling provides a general guide for taxpayers and officers of the ATO when considering the exercise of the discretion.",
+      "id": "s501"
+    },
+    {
+      "text": "This is desirable in the interests of consistent, efficient administration and equity among taxpayers in similar circumstances.",
+      "id": "s502"
+    },
+    {
+      "text": "However, the decision-maker must exercise the discretion according to the merits of each case and should not fetter the discretion by inflexibly applying, or acting in blind obedience to a policy or rule ...\n \n\nThere were then set out in [83] and [84] \"Factors relevant to the exercise of the discretion\".",
+      "id": "s503"
+    },
+    {
+      "text": "Those two paragraphs provided: \n \n \n 83.",
+      "id": "s504"
+    },
+    {
+      "text": "The exercise of the discretion under subsection 80G(6A) (paragraph 170-50(2)(d)) includes a two-step process of identifying relevant factors and applying a weighting to each of those factors, having regard to the circumstances of the case.",
+      "id": "s505"
+    },
+    {
+      "text": "Further, it is for the decision-maker to determine the appropriate weighting to be applied to these factors - see Minister for Aboriginal Affairs and Anor v Peko-Wallsend Ltd and Ors [1986] HCA 40 ; (1986) 162 CLR 24.",
+      "id": "s506"
+    },
+    {
+      "text": "84.",
+      "id": "s507"
+    },
+    {
+      "text": "Applications for the exercise of the discretion usually fall into one of two broad categories.",
+      "id": "s508"
+    },
+    {
+      "text": "The first is where it can be said that there has been delay on the part of the taxpayer that results in non-compliance with the ... time limit.",
+      "id": "s509"
+    },
+    {
+      "text": "The second is where the request for an extension of time to make an agreement arises out of an adjustment to the tax position of the company group by the Commissioner.",
+      "id": "s510"
+    },
+    {
+      "text": "The following paragraphs outline the factors the Commissioner considers to be relevant to the exercise of the discretion ... in both categories, although they are by no means exhaustive.",
+      "id": "s511"
+    },
+    {
+      "text": "96 Paragraphs 85 through to 90 dealt with non-compliance with the time limit caused by delay of the taxpayer.",
+      "id": "s512"
+    },
+    {
+      "text": "Paragraph 85 provided: \n \n This category encompasses cases where no agreement has been made prior to the date of lodgment of the income company's return or, where an agreement has been made, the group subsequently discovers, for example: \n \n \n \n (i) there are further losses within the group available for transfer to the income company; or \n \n (ii) the income company has additional income against which unused losses within the group can be offset.",
+      "id": "s513"
+    },
+    {
+      "text": "The relevant principles applied were those in Hunter Valley Developments v Cohen (1984) 3 FCR 344: \n \n \n 86.",
+      "id": "s514"
+    },
+    {
+      "text": "In these cases, the Commissioner considers that the principles outlined by Wilcox J in Hunter Valley Developments in respect of statutory discretions to extend time are relevant to the subsection 80G(6A) (paragraph 170-50(2)(d)) discretion, although the case was decided in the context of a different statutory provision.",
+      "id": "s515"
+    },
+    {
+      "text": "87.",
+      "id": "s516"
+    },
+    {
+      "text": "The Commissioner also considers these general principles need to be balanced with a consideration of the underlying policy of section 80G (Subdivision 170-A) (to broadly align the treatment of company groups with divisional companies) and the wider consideration of the proper administration of the Act.",
+      "id": "s517"
+    },
+    {
+      "text": "88.",
+      "id": "s518"
+    },
+    {
+      "text": "In Hunter Valley Developments, Wilcox J stated that statutory time limits are not to be ignored and the onus is on the applicant to convince the decision-maker that the case is an appropriate one for a favourable exercise of the discretion.",
+      "id": "s519"
+    },
+    {
+      "text": "This would generally require the taxpayer to provide an acceptable explanation of the delay.",
+      "id": "s520"
+    },
+    {
+      "text": "89.",
+      "id": "s521"
+    },
+    {
+      "text": "The length of the delay in making an agreement after the prescribed time is relevant to the exercise of the discretion.",
+      "id": "s522"
+    },
+    {
+      "text": "Generally, the longer the delay, the greater the onus is upon the applicant to demonstrate an acceptable explanation for the delay (see Stergis and Ors v Boucher and Anor (1989) 86 ALR 174; ... Also, it should not be assumed that the Commissioner will automatically exercise this discretion in circumstances where the request is lodged within the objection period relating to assessments.",
+      "id": "s523"
+    },
+    {
+      "text": "90.",
+      "id": "s524"
+    },
+    {
+      "text": "The Commissioner will weigh the explanation of delay with the other relevant factors referred to in Hunter Valley Developments (for example, public interest considerations and the question of prejudice to either party arising from the exercise or non-exercise of the discretion).",
+      "id": "s525"
+    },
+    {
+      "text": "97 Extension of time requests arising from ATO adjustments were dealt with in [91] to [93] which provide: \n \n 91.",
+      "id": "s526"
+    },
+    {
+      "text": "In this category, there is generally compliance with the requirement to enter into loss transfer agreements within the time stipulated in subsection 80G(6A) (paragraph 170-50(2)(d)).",
+      "id": "s527"
+    },
+    {
+      "text": "However, as a result of an adjustment to the taxation position of the group by the Commissioner, there is a request for an extension of time to enter into a further agreement or further agreements.",
+      "id": "s528"
+    },
+    {
+      "text": "92.",
+      "id": "s529"
+    },
+    {
+      "text": "In Bond Corporation Holdings Ltd and Ors v Australian Broadcasting Tribunal (1988) 84 ALR 669, Gummow J stated the range of factors that can be considered in the exercise of an unfettered discretion (such as that contained in subsection 80G(6A) (paragraph 170-50(2)(d)) is unconfined, subject to any implied limitation within the relevant legislation.",
+      "id": "s530"
+    },
+    {
+      "text": "It is considered there is nothing within the subject matter, scope and purpose of section 80G (Subdivision 170-A) (or the rest of the taxation legislation) that would imply any limitation upon the Commissioner to consider the conduct of a company group giving rise to an adjustment as being a relevant factor to the exercise of the discretion.",
+      "id": "s531"
+    },
+    {
+      "text": "93.",
+      "id": "s532"
+    },
+    {
+      "text": "Accordingly, where an adjustment is made, for example, as a result of fraud or evasion, or a scheme to which Part IVA applies, then this factor generally weighs heavily against a favourable exercise of the discretion.",
+      "id": "s533"
+    },
+    {
+      "text": "In a sense, it could be said in these circumstances the delay is directly attributable to the actions of the taxpayer.",
+      "id": "s534"
+    },
+    {
+      "text": "Conversely, in cases where it cannot be said the conduct of the group is culpable in respect of its failure to comply with its obligations under the law, this is a factor which weighs in favour of an extension of time being granted (eg, where a company was unclear as to the appropriate tax treatment for bill discounts prior to the High Court decision in Coles Myer Finance Ltd v FC of T [1993] HCA 29 ; (1993) 176 CLR 640).",
+      "id": "s535"
+    },
+    {
+      "text": "The legal nature of a public ruling \n \n98 Public rulings under Pt IVAAA of the TAA were not a species of delegated legislation.",
+      "id": "s536"
+    },
+    {
+      "text": "They were not given statutory force by the legislation.",
+      "id": "s537"
+    },
+    {
+      "text": "However certain legal consequences attached to them.",
+      "id": "s538"
+    },
+    {
+      "text": "Those could be found in ss 170BA to 170BI (inclusive) of the ITAA 1936.",
+      "id": "s539"
+    },
+    {
+      "text": "If, under a public ruling, the income tax law were applied in a way more favourable to the taxpayer than under the law properly construed, the amount of final tax, in an assessment in relation to that person, could not exceed what it would have been under the ruling.",
+      "id": "s540"
+    },
+    {
+      "text": "These provisions were repealed at the same time as Pt IVAAA of the TAA by No 161 of 2005.",
+      "id": "s541"
+    },
+    {
+      "text": "99 In each of the three categories of ruling defined by s 14ZAAE to s 14ZAAG the subject matter was \"... the way in which, in the Commissioner's opinion, a tax law or laws would apply ...\" to persons and arrangements or classes of persons and arrangements.",
+      "id": "s542"
+    },
+    {
+      "text": "The logic of that language confined the subject matter of the rulings which it authorised to \"the Commissioner's opinion\" on the way in which the law would apply.",
+      "id": "s543"
+    },
+    {
+      "text": "A ruling about the Commissioner's opinion in that context was a statement about how the Commissioner would apply the law.",
+      "id": "s544"
+    },
+    {
+      "text": "It was not the law.",
+      "id": "s545"
+    },
+    {
+      "text": "The power to make rulings did not authorise the application of the tax law in a way that was inconsistent with the law properly construed.",
+      "id": "s546"
+    },
+    {
+      "text": "It could neither narrow nor extend its application.",
+      "id": "s547"
+    },
+    {
+      "text": "100 Section 14ZAAD of the TAA stated that a public ruling on the way in which a tax law applied could be a ruling on the way in which a discretion of the Commissioner under that law would be exercised.",
+      "id": "s548"
+    },
+    {
+      "text": "It did not thereby create a class of ruling outside those defined in ss 14ZAAE to 14ZAAG.",
+      "id": "s549"
+    },
+    {
+      "text": "Rather it indicated that a ruling about the exercise of statutory discretions could be made under one or other of those three sections.",
+      "id": "s550"
+    },
+    {
+      "text": "It would still, in that event, be a ruling \"on the way in which, in the Commissioner's opinion, ...\" a discretion of the Commissioner under the relevant tax law would be exercised.",
+      "id": "s551"
+    },
+    {
+      "text": "The logical fit of s 14ZAAD rulings in the categories of rulings defined by ss 14ZAAE to 14ZAAG was not perfect.",
+      "id": "s552"
+    },
+    {
+      "text": "It was evidently designed to allow the Commissioner to promulgate, under the public rulings system, administrative policies about the exercise of statutory discretions.",
+      "id": "s553"
+    },
+    {
+      "text": "Such \"rulings\" did not differ in their legal character from administrative policies guiding the exercise of discretions published outside the framework of the public ruling system.",
+      "id": "s554"
+    },
+    {
+      "text": "In particular no such policy, whether ruling or not, could lawfully narrow the Commissioner's discretion.",
+      "id": "s555"
+    },
+    {
+      "text": "On general principles of administrative law the Commissioner would be entitled to apply a ruling so made as a general policy provided that each case were considered on its merits.",
+      "id": "s556"
+    },
+    {
+      "text": "To apply an administrative policy, ruling or not, on the basis that it must be applied in every case regardless of the particular circumstances of the case would involve anerror of law.",
+      "id": "s557"
+    },
+    {
+      "text": "The administrative law principles governing the application of administrative policy to the exercise of statutory discretions was recognised by the Commissioner in [82] of Taxation Ruling TR 98/12.",
+      "id": "s558"
+    },
+    {
+      "text": "101 There were of course legal consequences which attached to a public ruling relating to a discretion where it could be said to be \"favourable\" to the taxpayer for the purposes of s 170BA.",
+      "id": "s559"
+    },
+    {
+      "text": "Just how such a circumstance would arise in relation to a public ruling about the way in which a discretion would be exercised is not apparent and did not arise in the present case.",
+      "id": "s560"
+    },
+    {
+      "text": "102 Part IVAAA was considered by the Full Court in Bellinz v Commissioner of Taxation (1998) 84 FCR 154.",
+      "id": "s561"
+    },
+    {
+      "text": "The Court drew the following conclusions from the legislative scheme of Pt IVAAA: \n \n \n 1.",
+      "id": "s562"
+    },
+    {
+      "text": "... the issue of a public ruling is to be made in accordance with the Act as interpreted by the Commissioner and not in accordance with some practice which the Commissioner may have adopted, to the extent that that is inconsistent with the Assessment Act.",
+      "id": "s563"
+    },
+    {
+      "text": "What is to be ruled upon is the way in which, inter alia, the Act under which the extent of a liability for income tax of the appellants is to be worked out would apply.",
+      "id": "s564"
+    },
+    {
+      "text": "2.",
+      "id": "s565"
+    },
+    {
+      "text": "A public ruling which is inconsistent with a prior public ruling may be made if the Commissioner decides that the law is otherwise than as stated in the initial public ruling.",
+      "id": "s566"
+    },
+    {
+      "text": "However the new ruling will not operate retrospectively in respect of arrangements commenced or brought into operation prior to the earlier ruling.",
+      "id": "s567"
+    },
+    {
+      "text": "3.",
+      "id": "s568"
+    },
+    {
+      "text": "A public ruling which is inconsistent with a prior private ruling may be made if the Commissioner determines that the initial private ruling was wrong.",
+      "id": "s569"
+    },
+    {
+      "text": "In that case the initial private ruling will be taken to have been withdrawn: ...\n \n 4.",
+      "id": "s570"
+    },
+    {
+      "text": "The binding quality which the legislation gives to a public ruling applies to the tax consequences of the arrangement or class of arrangements to which the ruling relates, and not, ..., to the underlying philosophy behind the ruling.",
+      "id": "s571"
+    },
+    {
+      "text": "That this is so follows inexorably from the language of s 14ZAAE ...\n \n \n\nThe Court was also of the view that Pt IVAAA left no room for the operation of any doctrine of estoppel or the reintroduction of that doctrine through administrative law remedies.",
+      "id": "s572"
+    },
+    {
+      "text": "Their Honours said (at 169):\n \n \n The public ruling operates as if it is the statutory basis upon which tax is to be levied.",
+      "id": "s573"
+    },
+    {
+      "text": "No question arises as to whether it is or is not relied upon.",
+      "id": "s574"
+    },
+    {
+      "text": "I take that last statement not to be a statement that a public ruling has statutory force.",
+      "id": "s575"
+    },
+    {
+      "text": "Rather, it reflects a commitment on the part of the Commissioner to a particular approach to the law in those cases to which it applies.",
+      "id": "s576"
+    },
+    {
+      "text": "That commitment will necessarily be qualified by the extent to which the ruling itself embodies qualifications and conditions in its own terms.",
+      "id": "s577"
+    },
+    {
+      "text": "103 Where the Parliament has conferred wide discretions on an official decision-maker, particularly in relation to high volume decision-making, it is entirely consistent with the legislative intention in conferring such a discretion that its exercise will be guided by administrative policies.",
+      "id": "s578"
+    },
+    {
+      "text": "Indeed it may be inferred that the creation of such policies is contemplated by the legislature when it confers such discretions.",
+      "id": "s579"
+    },
+    {
+      "text": "As Drummond J and I said in Minister for Immigration, Local Government and Ethnic Affairs v Gray (1994) 50 FCR 189 (at 206): \n \n This is particularly so in the case of a power which involves high volume decision-making, or which may, in any event, because of its subject matter, be expected to attract policy guidelines ... Common concepts of justice suggest that, while each case is to be considered on its individual merits, like cases will generally be treated similarly.",
+      "id": "s580"
+    },
+    {
+      "text": "The imputed legislative contemplation of such policies for that purpose must be limited to those which are consistent with the general purposes and requirements, express or implied, of the legislation in question.",
+      "id": "s581"
+    },
+    {
+      "text": "They cannot be expressed to fetter the exercise of the relevant discretion.",
+      "id": "s582"
+    },
+    {
+      "text": "And as we observed in that case an administrative policy may amount to a mandatory relevant consideration such that a significant failure to properly construe and apply the policy may cause the discretion to miscarry.",
+      "id": "s583"
+    },
+    {
+      "text": "The public rulings issued by the Commissioner are expressly provided for by the TAA.",
+      "id": "s584"
+    },
+    {
+      "text": "They can have legal consequences in favour of the taxpayer.",
+      "id": "s585"
+    },
+    {
+      "text": "A failure by the Commissioner to have regard to a public ruling relating to the exercise of a discretion under the tax law could vitiate the decision made in the exercise of that discretion.",
+      "id": "s586"
+    },
+    {
+      "text": "Whether it would or not, would depend upon the circumstances and the factors properly considered by the decision-maker.",
+      "id": "s587"
+    },
+    {
+      "text": "That is not to say that the Commissioner is bound to apply any ruling which he has issued.",
+      "id": "s588"
+    },
+    {
+      "text": "The Act does not say so and there is no principle of estoppel in the exercise of his functions which would prevent him from doing so.",
+      "id": "s589"
+    },
+    {
+      "text": "Questions of procedural fairness may require the taxpayer to be heard against an unexpected departure from policy with consequences unfavourable to the taxpayer and against which there is no statutory protection.",
+      "id": "s590"
+    },
+    {
+      "text": "104 The word \"ruling\" has an obvious capacity to mislead.",
+      "id": "s591"
+    },
+    {
+      "text": "It is capable of conveying the impression that rulings published by the Commissioner have legal force.",
+      "id": "s592"
+    },
+    {
+      "text": "Insofar as it relates to the interpretation of the law, a ruling has no greater status than an administrative opinion.",
+      "id": "s593"
+    },
+    {
+      "text": "In so far as it relates to the way in which a discretion conferred by law would be exercised, it has no greater status than an administrative policy.",
+      "id": "s594"
+    },
+    {
+      "text": "There is a risk of an unwarranted elevation of rulings, by virtue of their terminology to a kind of \"de facto law\".",
+      "id": "s595"
+    },
+    {
+      "text": "This risk has been discussed in a helpful review of the subject generally in Scolaro D, Tax Rulings: Opinion or Law?",
+      "id": "s596"
+    },
+    {
+      "text": "The need for an Independent 'Rule-Maker' (2006) 16 Revenue Law Journal 109.",
+      "id": "s597"
+    },
+    {
+      "text": "The footnotes in that article also make reference to a number of other papers on the topic.",
+      "id": "s598"
+    },
+    {
+      "text": "105 Importantly the Taxation Ruling in issue in this case, so far as it related to the exercise of the Commissioner's discretion to extend the time for making an agreement to transfer losses, stated that the Commissioner was \"guided by administrative law principles\".",
+      "id": "s599"
+    },
+    {
+      "text": "It identified two particular factors of significance.",
+      "id": "s600"
+    },
+    {
+      "text": "The first was the explanation for the taxpayer's delay.",
+      "id": "s601"
+    },
+    {
+      "text": "The second was the culpability of the taxpayer in relation to any adjustment to the tax position of the company group which gave rise to an application to make an agreement out of time.",
+      "id": "s602"
+    },
+    {
+      "text": "106 The \"Explanations\" part of Taxation Ruling TR 98/12 did not, in terms, form part of the substantive ruling which, in relation to extensions of time was confined to [18] to [20] inclusive.",
+      "id": "s603"
+    },
+    {
+      "text": "Paragraph 82 and the succeeding paragraphs were of an expository character.",
+      "id": "s604"
+    },
+    {
+      "text": "They included justifications for the approach taken.",
+      "id": "s605"
+    },
+    {
+      "text": "So the provision of a general guide for taxpayers and ATO officers when considering the exercise of the discretion was justified in [82] as \"... desirable in the interests of consistent, efficient administration and equity among taxpayers in similar circumstances\".",
+      "id": "s606"
+    },
+    {
+      "text": "The administrative law principle that the discretion cannot be confined by an inflexible rule of policy was also recognised in [82] which said: \n \n However, the decision-maker must exercise the discretion according to the merits of each case and should not fetter the discretion by inflexibly applying, or acting in blind obedience to a policy or rule.",
+      "id": "s607"
+    },
+    {
+      "text": "In so far as the ruling identified factors which could be considered by the Commissioner in the exercise of his discretion and recognised that no inflexible policy was being laid down, it did not offend against general principles of administrative law.",
+      "id": "s608"
+    },
+    {
+      "text": "The nature and purpose of the discretion to extend time under s 170-50(2)(d) of the ITAA 1997 \n \n107 Statutory time limits affecting the exercise of legal rights, the imposition of liabilities or the exercise of powers are created for a variety of purposes.",
+      "id": "s609"
+    },
+    {
+      "text": "Limitation Acts which bar various categories of proceedings not commenced within a certain time after a cause of action has accrued may serve the following purposes: \n \n 1.",
+      "id": "s610"
+    },
+    {
+      "text": "To protect defendants from claims relating to incidents which occurred many years ago and about which they, and their witnesses, may have little recollection and no records; \n 2.",
+      "id": "s611"
+    },
+    {
+      "text": "To discourage plaintiffs from sleeping on their rights; it is in the public interest for disputes to be resolved as quickly as possible; and \n 3.",
+      "id": "s612"
+    },
+    {
+      "text": "To give an assurance to defendants that after a given period of time any possible claim against them arising out of a particular incident is at an end, that is, to operate as an \"act of peace\": see The Laws of Australia (Lawbook Co, subscription service) 5 at [5.10.120] and also Halsbury's Laws of Australia (Butterworths, subscription service) Vol 16, at [255.5].",
+      "id": "s613"
+    },
+    {
+      "text": "Additional considerations affect the imposition of time limits in respect of proceedings brought in tribunals by way of merits review of administrative act decisions or in courts by way of judicial review of such decisions.",
+      "id": "s614"
+    },
+    {
+      "text": "Such limits are typically expressed in terms of weeks rather than years as is the case with Limitations Acts.",
+      "id": "s615"
+    },
+    {
+      "text": "They are imposed in part to ensure public administration is expeditious and that decisions once made take effect unless promptly challenged.",
+      "id": "s616"
+    },
+    {
+      "text": "108 There are also innumerable examples of time limits imposed by statute upon subjects and decision-makers for taking steps necessary to secure rights or privileges or to exercise powers or impose liabilities.",
+      "id": "s617"
+    },
+    {
+      "text": "Self evidently they have the common purpose of securing expedition in statutory processes.",
+      "id": "s618"
+    },
+    {
+      "text": "They may also serve purposes related to the subject matter of the relevant statute.",
+      "id": "s619"
+    },
+    {
+      "text": "109 Where the law imposes time limits, whether they bar or extinguish causes of action or rights to seek review or whether they require applications to administrative decision-makers or steps taken by such decision-makers to be done within a particular time, excessive rigidity in their application can lead to absurdity and injustice.",
+      "id": "s620"
+    },
+    {
+      "text": "There are many examples of statutory discretions to extend time to avoid such mischief.",
+      "id": "s621"
+    },
+    {
+      "text": "110 Where Limitations Acts and access to judicial review are concerned it will be for courts to decide upon extensions of time.",
+      "id": "s622"
+    },
+    {
+      "text": "Limitation periods which are procedural in character may be waived by a defendant declining to plead them in defence.",
+      "id": "s623"
+    },
+    {
+      "text": "In other cases administrative decision-makers are given discretions to extend time for taking some step required by statute to be taken.",
+      "id": "s624"
+    },
+    {
+      "text": "Such is the present case.",
+      "id": "s625"
+    },
+    {
+      "text": "111 A statutory discretion to extend time, unconfined by any explicit conditions or factors to be considered, is necessarily to be exercised within boundaries created by the subject matter, scope and purpose of the statute and of the particular provision of which the discretion is conferred.",
+      "id": "s626"
+    },
+    {
+      "text": "While there may be generic considerations relevant to different kinds of time limits and associated discretions, it is necessary in any particular case to focus upon the particular subject matter, scope and purpose of the statutory time limit and the discretion in question.",
+      "id": "s627"
+    },
+    {
+      "text": "112 The principles enunciated by Wilcox J in Hunter Valley Developments Pty Ltd 3 FCR 344 were said by the Commissioner in Taxation Ruling TR 98/12 to be relevant to the exercise of the statutory discretion under subs 80G(6A) of the ITAA 1936.",
+      "id": "s628"
+    },
+    {
+      "text": "The Ruling also stated that these general principles need to be balanced with a consideration of the underlying policy of s 80G which was identified as broadly aligning the treatment of company groups with divisional companies.",
+      "id": "s629"
+    },
+    {
+      "text": "113 Hunter Valley Developments Pty Ltd 3 FCR 344 concerned the circumstances in which an extension of time would be allowed for bringing an application for an order of review of an administrative decision under s 11 of the ADJR Act.",
+      "id": "s630"
+    },
+    {
+      "text": "Wilcox J outlined a number of positions emerging from the authorities which he suggested could guide, albeit not in any exhaustive manner, the exercise of the Court's discretion.",
+      "id": "s631"
+    },
+    {
+      "text": "In summary form (omitting authorities) they were as follows: \n \n 1.",
+      "id": "s632"
+    },
+    {
+      "text": "Although the section does not, in terms, place any onus of proof upon an applicant for extension an application has to be made.",
+      "id": "s633"
+    },
+    {
+      "text": "Special circumstances need not be shown but the Court will not grant the application unless positively satisfied that it is proper so to do.",
+      "id": "s634"
+    },
+    {
+      "text": "The \"prescribed period\" of 28 days is not to be ignored.",
+      "id": "s635"
+    },
+    {
+      "text": "Indeed it is the prima facie rule that proceedings commenced outside that period will not be entertained.",
+      "id": "s636"
+    },
+    {
+      "text": "It is a precondition to the exercise of discretion in his favour that the applicant for extension show \"an acceptable explanation of the delay\" and that it is \"fair and equitable in the circumstances\" to extend time.",
+      "id": "s637"
+    },
+    {
+      "text": "2.",
+      "id": "s638"
+    },
+    {
+      "text": "Action taken by the applicant, other than by making an application for review under the Act, is relevant to the consideration of the question whether an acceptable explanation for the delay has been furnished.",
+      "id": "s639"
+    },
+    {
+      "text": "A distinction is to be made between the case of a person who, by non-curial means, has continued to make the decision-maker aware that he contests the finality of the decision (who has not \"rested on his rights\") and a case where the decision-maker was allowed to believe that the matter was finally concluded.",
+      "id": "s640"
+    },
+    {
+      "text": "The reasons for this distinction are not only \"... for finality in disputes\" but also the \"fading from memory\" problem.",
+      "id": "s641"
+    },
+    {
+      "text": "3.",
+      "id": "s642"
+    },
+    {
+      "text": "Any prejudice to the respondent including any prejudice in defending the proceedings occasioned by the delay is a material factor militating against the grant of an extension.",
+      "id": "s643"
+    },
+    {
+      "text": "4.",
+      "id": "s644"
+    },
+    {
+      "text": "The mere absence of prejudice is not enough to justify the grant of an extension.",
+      "id": "s645"
+    },
+    {
+      "text": "In this context, public considerations often intrude.",
+      "id": "s646"
+    },
+    {
+      "text": "A delay which may result, if the application is successful, in the unsettling of other people or of established practices is likely to prove fatal to the application.",
+      "id": "s647"
+    },
+    {
+      "text": "5.",
+      "id": "s648"
+    },
+    {
+      "text": "The merits of the substantial application are properly to be taken into account in considering whether an extension of time can be granted.",
+      "id": "s649"
+    },
+    {
+      "text": "6.",
+      "id": "s650"
+    },
+    {
+      "text": "Considerations of fairness as between the applicants and other persons otherwise in a like position are relevant to the manner of exercise of the Court's discretion.",
+      "id": "s651"
+    },
+    {
+      "text": "114 Those principles were related to applications for extensions of time to commence judicial review proceedings under the ADJR Act.",
+      "id": "s652"
+    },
+    {
+      "text": "That kind of discretion differs in purpose and character from the discretion presently under review.",
+      "id": "s653"
+    },
+    {
+      "text": "As Hill J observed in Brown v Federal Commissioner of Taxation (1999) 42 ATR 118, Wilcox J did not say that he was laying down principles of universal application or even covering all applications to commence proceedings for judicial review outside the time prescribed by the ADJR Act.",
+      "id": "s654"
+    },
+    {
+      "text": "Brown 42 ATR 118 was a case in which a taxpayer had sought from the Commissioner an extension of time for filing an objection against an income tax assessment.",
+      "id": "s655"
+    },
+    {
+      "text": "An objection to an assessment was quite different from an application for judicial review which would proceed on quite limited grounds.",
+      "id": "s656"
+    },
+    {
+      "text": "Hill J discussed the nature of the objection process (at 127): \n \n It is the first step in a process whereby the assessment may be reconsidered by the Commissioner in the light of the objection and if disallowed may be the subject of merits review by an independent tribunal, the Administrative Appeals Tribunal, or by the court, (although before the court matters involving the exercise of discretion are the subject of judicial rather than merits, review).",
+      "id": "s657"
+    },
+    {
+      "text": "If the disallowance of the objection is reviewed by the tribunal and a decision adverse to the taxpayer is arrived at there is the possibility of an application to this court by way of an appeal on a question of law.",
+      "id": "s658"
+    },
+    {
+      "text": "115 Hill J said that it had been in the past a \"reproach to the law\" that a taxpayer could be refused independent review of a meritorious objection even in circumstances where the failure to object may not have been his or her fault.",
+      "id": "s659"
+    },
+    {
+      "text": "While the explanation for delay in lodging an objection would be an important factor, the decision-maker was required to take into account all the circumstances of the particular case against the background that parliament had enacted a procedure to permit extensions of time being granted.",
+      "id": "s660"
+    },
+    {
+      "text": "Extensions should be granted where the justice of the case required.",
+      "id": "s661"
+    },
+    {
+      "text": "They should not be reserved for exceptional cases.",
+      "id": "s662"
+    },
+    {
+      "text": "116 The emphasis on general considerations of injustice and the need for a balancing process continued in his Honour's judgment at 132, where he said: \n \n What is required is the balancing of the delay; the explanation for it; the circumstances which gave rise to it and such prejudice if any as may be shown to exist to the Commissioner against the prejudice which may arise to a taxpayer who has by reason of the failure to object in time lost the right to a review of the assessment.",
+      "id": "s663"
+    },
+    {
+      "text": "In this balancing process the Commissioner or the Tribunal on a review will be guided by what the justice of the case requires.",
+      "id": "s664"
+    },
+    {
+      "text": "The balancing process should be approached on the basis that while Parliament has stipulated a time in which objections are required to be lodged it has entrusted to the Commissioner a power to extend that time in appropriate circumstances.",
+      "id": "s665"
+    },
+    {
+      "text": "The decision maker should not lose sight of the fact that s 14ZW is an ameliorating provision designed to avoid injustice.",
+      "id": "s666"
+    },
+    {
+      "text": "117 The Full Court in Zizza v Federal Commissioner of Taxation (1999) 42 ATR 371 said it would be an error to regard the summary in Hunter Valley Developments Pty Ltd 3 FCR 344 as complete or to treat each of the six principles it contained as necessarily applicable to any particular application for extension of time especially an application under different legislation.",
+      "id": "s667"
+    },
+    {
+      "text": "The Court agreed with the observations to that effect made by Hill J in Brown 42 ATR 118 (at 376).",
+      "id": "s668"
+    },
+    {
+      "text": "118 The discretion of the Commissioner to extend time for making an agreement to transfer losses from one company within a group to another under s 170-50 of the ITAA 1997 is to be exercised having regard to the purposes of the transfer provision, the time limit which it imposes and the purposes for which that time limit may properly be extended.",
+      "id": "s669"
+    },
+    {
+      "text": "119 In Ross Palmer Holdings v Federal Commissioner of Taxation (2003) 52 ATR 805, which was concerned with the exercise of the discretion under s 80G(6A) of the ITAA 1936, Spender J identified the purpose of the loss transfer provisions (at 816-817): \n \n ... to permit and facilitate the transfer of losses within a group of companies so that there is no difference in the tax treatment of a group of companies, each carrying on separate enterprises, as against a single company that carries on the same enterprises in separate divisions.",
+      "id": "s670"
+    },
+    {
+      "text": "The purpose of the provisions was also considered by the Full Court in Commissioner of Taxation v Asiamet (No 1) Resources Pty Ltd [2004] FCAFC 73 ; (2004) 137 FCR 146 in the judgment of Allsop J (Ryan and Finkelstein JJ agreeing).",
+      "id": "s671"
+    },
+    {
+      "text": "In rejecting, as overstated, the proposition that their statutory purpose was to allow for the transfer of losses within a group so as to equate the tax treatment of a group to that of a company with divisions, his Honour said (at [141]):\n \n \n That, with respect, overstates the purpose of s 80G.",
+      "id": "s672"
+    },
+    {
+      "text": "Section 80G is intended to be beneficial to the taxpayer: Harts Australia Ltd v Commissioner of Taxation (Cth) [2001] FCA 761 ; (2001) 109 FCR 405 at [18] .",
+      "id": "s673"
+    },
+    {
+      "text": "There is not, however, a complete equation with the single company.",
+      "id": "s674"
+    },
+    {
+      "text": "Conditions apply to the transfer of losses, one of which is that the agreement must be made before the date of lodgment of the return of income or the income company, or later as the Commissioner allows.",
+      "id": "s675"
+    },
+    {
+      "text": "The legislative history of s 80G, and in particular the content of the Asprey Committee Report and the Campbell Committee Report , reveals that a choice was made by Parliament not to adopt the group assessment procedure which might be seen as a complete equation of subsidiaries with divisions.",
+      "id": "s676"
+    },
+    {
+      "text": "His Honour accepted the statement of the policy of the section as set out in the Commissioner's Taxation Ruling, TR 98/12 saying (at [142]): \n \n \n There is, undoubtedly, a beneficial policy underlying s 80G as described at [87] of the ruling: broadly to align the treatment of company groups with divisional companies.",
+      "id": "s677"
+    },
+    {
+      "text": "That is not to deny, however, that a broad, otherwise expressly unconfined discretion, is reposed in the Commissioner in s 80G(6A)(b).",
+      "id": "s678"
+    },
+    {
+      "text": "Naturally, the discretion is to be confined by reference to the subject matter, scope and purposes of the provisions and the ITAA as a whole.",
+      "id": "s679"
+    },
+    {
+      "text": "120 The imposition by s 170-50 of a time limit for making a transfer agreement is intended to secure the general purpose of expeditious administration of the taxation system.",
+      "id": "s680"
+    },
+    {
+      "text": "It falls into the general class of time limit imposed on steps under administrative processes, for that purpose.",
+      "id": "s681"
+    },
+    {
+      "text": "That is not to understate its significance and the importance of adherence to it.",
+      "id": "s682"
+    },
+    {
+      "text": "If the time limit were to be too readily extended, it could become ineffectual and defeat the statutory purpose.",
+      "id": "s683"
+    },
+    {
+      "text": "It is nevertheless secondary or ancillary to the principal purpose of the section.",
+      "id": "s684"
+    },
+    {
+      "text": "It is a tool of good administration and should not be allowed to defeat the overall policy of permitting intra-group transfer of losses.",
+      "id": "s685"
+    },
+    {
+      "text": "121 It is convenient to put to one side, for the moment, the six considerations referred to by Wilcox J in Hunter Valley Developments Pty Ltd 3 FCR 344.",
+      "id": "s686"
+    },
+    {
+      "text": "They were relied upon to a degree in Taxation Ruling TR 98/12 and to a significant extent by counsel for the applicants in these proceedings.",
+      "id": "s687"
+    },
+    {
+      "text": "However, given the present statutory context, they are capable of distracting from the need to focus upon the provisions which are before the Court.",
+      "id": "s688"
+    },
+    {
+      "text": "There was an emphasis, in the submissions put on behalf of the applicants, on the Hunter Valley Developments Pty Ltd 3 FCR 344 principles as though they were mandatory relevant considerations.",
+      "id": "s689"
+    },
+    {
+      "text": "122 The discretion to extend time to make a transfer agreement under s 170-50 is conferred to ensure that the policy objective of the section is not defeated by inappropriate application of the time limit.",
+      "id": "s690"
+    },
+    {
+      "text": "Reference to the avoidance of absurdity or injustice may describe a broad normative criterion for the application of the discretion.",
+      "id": "s691"
+    },
+    {
+      "text": "There is a risk, however, that such terms invite visceral judgments.",
+      "id": "s692"
+    },
+    {
+      "text": "A more principled approach will have regard to factors relevant to the statutory purposes to which the transfer provision and the time limit are directed.",
+      "id": "s693"
+    },
+    {
+      "text": "On that approach relevant factors in the exercise of the discretion would include: \n \n (i) The length of the delay in making the agreement.",
+      "id": "s694"
+    },
+    {
+      "text": "If the delay is short that would be a factor which, depending upon its explanation, will weigh against any adverse impact on good administration.",
+      "id": "s695"
+    },
+    {
+      "text": "(ii) The explanation for the delay.",
+      "id": "s696"
+    },
+    {
+      "text": "If a delay has occurred by reason of error or inadvertence on the part of the taxpayer rather than an unwarranted assumption that time would be extended, that may be a factor weighing in favour of the exercise of the discretion to extend time.",
+      "id": "s697"
+    },
+    {
+      "text": "The Commissioner would, at the same time, be entitled to take the view that corporate taxpayers should have in place systems to ensure that error and inadvertence do not occur and that, absent such systems, error or inadvertence may not warrant the grant of the extension sought.",
+      "id": "s698"
+    },
+    {
+      "text": "(iii) The delay being the product of an understanding or arrangement with the Commissioner to defer making the transfer agreement until the tax position of the relevant companies for the income year in question has crystallised.",
+      "id": "s699"
+    },
+    {
+      "text": "While such understandings or arrangements would not give rise to an \"administrative estoppel\" it would be a mandatory relevant consideration to ensure that the primary purpose of the loss transfers facility is not defeated by the Commissioner's own actions.",
+      "id": "s700"
+    },
+    {
+      "text": "(iv) Related to the above, whether the group has kept the Commissioner informed of its intention to seek to effect a transfer of losses upon crystallisation of the tax position of relevant companies in the group.",
+      "id": "s701"
+    },
+    {
+      "text": "(v) As was set out in [20] of Taxation Ruling TR 98/12, where an agreement is made out of time as the result of an adjustment to the tax position of the company group by the Commissioner, that may be a factor weighing in favour of the exercise of the discretion.",
+      "id": "s702"
+    },
+    {
+      "text": "However where the adjustment and the consequential delay is the result of fraud or evasion on the part of a company in the group, then that is a factor which would weigh against the exercise of the discretion.",
+      "id": "s703"
+    },
+    {
+      "text": "The refusal to extend time in such a case would be based on the entirely legitimate consideration that time should not readily be extended for a delay flowing from an unsuccessful attempt to defeat the broader policy objectives of the ITAA 1997.",
+      "id": "s704"
+    },
+    {
+      "text": "(vi) Whether the delay would have any adverse impact on the administration of the Act if the extension of time were allowed.",
+      "id": "s705"
+    },
+    {
+      "text": "Taxation Ruling TR 98/12 and the Commissioner's discretion \n\n123 The legal character of Taxation Rulings as administrative policies was assumed in Asiamet [2004] FCAFC 73 ; 137 FCR 146 when Allsop J rejected the view that it was not open to the Commissioner to adopt a policy in terms of Taxation Ruling TR 98/12.",
+      "id": "s706"
+    },
+    {
+      "text": "He pointed out that the terms of the Ruling displayed a recognition of the need to make each decision on its merits, a recognition of the purpose and policy of s 80G and a recognition of the important object of the ITAA found in PT IVA.",
+      "id": "s707"
+    },
+    {
+      "text": "Relevantly for present purposes, he observed (at [143]):\n \n The real issue is whether the Commissioner can promulgate and apply a policy for guidance which identifies as a factor which generally weighs heavily against the exercise of the discretion the fact that the adjustment flows from the application of Pt IVA, though still recognising the need to make each decision on the merits of the particular case.",
+      "id": "s708"
+    },
+    {
+      "text": "To posit such a policy does not negate the evident beneficial purpose of s 80G, it merely sets up an available countervailing factor of weight, drawn from another important part of the ITAA.",
+      "id": "s709"
+    },
+    {
+      "text": "To do so does not subvert s 80G, nor does it preclude the decision-maker from taking into account any factor required by the legislation, nor does it require the decision-maker to take into account any factor required by the legislation not to be taken into account, nor does it preclude the decision-maker dealing with any decision on the merits.",
+      "id": "s710"
+    },
+    {
+      "text": "124 His Honour also rejected the contention that to disallow an extension substantially on the basis of the application of Pt IVA was to give an impermissibly extended operation to Pt IVA and to increase the penalty beyond that contemplated by the ITAA.",
+      "id": "s711"
+    },
+    {
+      "text": "He said (at [145]):\n \n I cannot agree.",
+      "id": "s712"
+    },
+    {
+      "text": "There is no additional or collateral penalty.",
+      "id": "s713"
+    },
+    {
+      "text": "If the discretion is not exercised and fresh losses are not transferred, there will, or may be, a penalty applicable by the operation of s 226 upon the amount of tax calculated as assessable or that tax less the \"claimed tax\" within the meaning of s 226(1).",
+      "id": "s714"
+    },
+    {
+      "text": "If the discretion is exercised so as to create the same position in the Income Companies as had previously subsisted before the application of Pt IVA, no penalty under s 266 arises.",
+      "id": "s715"
+    },
+    {
+      "text": "It is not a matter of collaterally increasing a penalty by refusing to extend time, but of removing the consequences by way of penalty for participation in a Pt IVA Scheme by extending time.",
+      "id": "s716"
+    },
+    {
+      "text": "Those observations of course went to the lawfulness of the policy and not to its proper application.",
+      "id": "s717"
+    },
+    {
+      "text": "125 In any case in which a discretion to extend time is involved the decision-maker must be satisfied that there is a proper basis for it.",
+      "id": "s718"
+    },
+    {
+      "text": "But there is no basis in the statute for suggesting that the Commissioner should regard the extension of time for an agreement to transfer losses as exceptional.",
+      "id": "s719"
+    },
+    {
+      "text": "The time limit is a procedural protection of the administrative process.",
+      "id": "s720"
+    },
+    {
+      "text": "There is no windfall to a taxpayer who is given an extension.",
+      "id": "s721"
+    },
+    {
+      "text": "The taxpayer is given no more than what would have been its due had the agreement been made within time.",
+      "id": "s722"
+    },
+    {
+      "text": "The approach undertaken by Hill J in Brown 42 ATR 118 to extensions of time for the lodgment of objections applies also, if not with greater force, to the discretion to extend time to make agreements to transfer losses.",
+      "id": "s723"
+    },
+    {
+      "text": "This proposition was not reflected explicitly in Taxation Ruling TR 98/12.",
+      "id": "s724"
+    },
+    {
+      "text": "Indeed the reliance placed in the ruling upon Hunter Valley Developments Pty Ltd 3 FCR 344 was somewhat at odds with that approach.",
+      "id": "s725"
+    },
+    {
+      "text": "That is not to say that the policy is therefore unlawful.",
+      "id": "s726"
+    },
+    {
+      "text": "It did not treat the Hunter Valley Developments Pty Ltd 3 FCR 344 principles as exhaustive or determinative.",
+      "id": "s727"
+    },
+    {
+      "text": "The focus therefore must not be so much upon the content of the policy but the way in which it was applied and the discretion exercised in this case.",
+      "id": "s728"
+    },
+    {
+      "text": "Duty to act fairly and in accordance with reasonable public standards \n \n126 By [35] of the application, DRI and Development Finance alleged that the respondents had a duty, in exercising the power under s 170-50(2)(d) of the ITAA 1997 \"to act fairly and in accordance with reasonable public standards\".",
+      "id": "s729"
+    },
+    {
+      "text": "The respondents admitted in their defence a duty to act fairly and reasonably.",
+      "id": "s730"
+    },
+    {
+      "text": "They submitted in argument that they did so act.",
+      "id": "s731"
+    },
+    {
+      "text": "127 DRI and Development Finance did not allege any breach of a free standing statutory duty to act fairly and in accordance with reasonable public standards.",
+      "id": "s732"
+    },
+    {
+      "text": "The source and content of that duty was not described.",
+      "id": "s733"
+    },
+    {
+      "text": "No statement of such a duty is to be found in the relevant part of the statute.",
+      "id": "s734"
+    },
+    {
+      "text": "There was no allegation in the grounds of a breach by the respondents of procedural fairness.",
+      "id": "s735"
+    },
+    {
+      "text": "The unfairness which was alleged went to the substance of the decision and, together with questions of reasonableness, (not \"reasonable public standards\") was raised in the following ways in the grounds of review: \n \n 1.",
+      "id": "s736"
+    },
+    {
+      "text": "In support of the allegation of a failure to take into account relevant considerations which included: \n \n 36(a)(xxiii) the justice of the case and the unfairness to the applicants, their parent company and its shareholders if the losses of BHPBDRI are not able to be used to be offset against taxable income of BHPDF.",
+      "id": "s737"
+    },
+    {
+      "text": "36(a)(xxvii) that the time within which loss transfer agreements were to be made was regulatory and could cause grave injustice if the discretion to extend time was not applied fairly.",
+      "id": "s738"
+    },
+    {
+      "text": "2.",
+      "id": "s739"
+    },
+    {
+      "text": "In support of the allegation that the Commissioner's power was exercised for a purpose other than that for which it was conferred it was said in the particulars to [36(c)]: \n \n \n In the circumstances of this case, the decision is so unreasonable and unfair that such a purpose should be inferred.",
+      "id": "s740"
+    },
+    {
+      "text": "3.",
+      "id": "s741"
+    },
+    {
+      "text": "In the allegation in [36(e)] that the first respondent's exercise of the power resulted in unfairness amounting to an abuse of power.",
+      "id": "s742"
+    },
+    {
+      "text": "This allegation was also relied upon as a particular of the claim that the first respondent's exercise of the power was so unreasonable that no reasonable person could have so exercised it.",
+      "id": "s743"
+    },
+    {
+      "text": "128 Having regard to the way in which the application is framed, the alleged duty to act fairly and in accordance with reasonable public standards does not support any identifiable ground of review.",
+      "id": "s744"
+    },
+    {
+      "text": "No direct breach of such a duty is alleged.",
+      "id": "s745"
+    },
+    {
+      "text": "It is questionable whether any such \"duty\" is to be implied into the discretion.",
+      "id": "s746"
+    },
+    {
+      "text": "The discretion involves the exercise of a statutory power.",
+      "id": "s747"
+    },
+    {
+      "text": "Its limits are defined, inter alia, by the purposes for which it can be exercised, factors which may be relevant or irrelevant to its exercise and the way in which such a decision should be made including requirements of procedural fairness.",
+      "id": "s748"
+    },
+    {
+      "text": "There is probably a duty to decide whether to exercise the discretion which may be enforced by mandamus if the Commissioner or his delegate simply failed to respond to a request for an extension of time.",
+      "id": "s749"
+    },
+    {
+      "text": "Given the way in which the balance of the application was framed, the existence of the duty alleged in [35] and whether it was breached does not fall for decision.",
+      "id": "s750"
+    },
+    {
+      "text": "The structure of the applicants' arguments \n \n129 The way in which the applicants' submissions were structured did not bear a precise correlation with the grounds in their application.",
+      "id": "s751"
+    },
+    {
+      "text": "The written submissions began with a survey of the facts: [1] to [12].",
+      "id": "s752"
+    },
+    {
+      "text": "This was followed by an outline of the legislation: [13] to [17].",
+      "id": "s753"
+    },
+    {
+      "text": "The point was there made that the origin of the requirement to enter into an agreement to transfer losses was procedural only.",
+      "id": "s754"
+    },
+    {
+      "text": "The change made to s 80G in 1992 did not convert the procedural requirement into something more substantive.",
+      "id": "s755"
+    },
+    {
+      "text": "The change from giving a notice to making an agreement reflected the introduction of the self-assessment regime and no more.",
+      "id": "s756"
+    },
+    {
+      "text": "Then it was said that the 1936 and 1997 Acts drew a distinction between procedural steps which the Commissioner or a taxpayer must undertake and the rules which affect substantive liability to tax.",
+      "id": "s757"
+    },
+    {
+      "text": "The rules in s 170-50 which affect substantive liability to tax include statutory conditions for a valid transfer which were said to achieve the result of broadly aligning \"the treatment of company groups with divisional companies\".",
+      "id": "s758"
+    },
+    {
+      "text": "130 The applicants' submissions addressed the principles to be applied by the Commissioner in exercising the power: [18] to [19].",
+      "id": "s759"
+    },
+    {
+      "text": "Reference was made to the governing parameters of the \"subject matter, scope and purpose of the statute\" and to the decision of Wilcox J in Hunter Valley Developments Pty Ltd 3 FCR 344 as a convenient starting point in considering the principles to be applied.",
+      "id": "s760"
+    },
+    {
+      "text": "It was accepted that the six principles set out in that decision were not exhaustive and might require modification because of the differences between the powers involved in that case and the present case.",
+      "id": "s761"
+    },
+    {
+      "text": "131 Under the heading \"Errors of the decision-maker\" the submissions then referred to the alleged failure by the decision-maker to \"consider all the factors which may be relevant to the exercise of the discretion\" and in particular his failure to consider: \n \n \n .",
+      "id": "s762"
+    },
+    {
+      "text": "whether the justice of the case required further time to be given, so that the applicants would not be subjected to more tax than the tax laws actually required them to pay \n \n \n \n .",
+      "id": "s763"
+    },
+    {
+      "text": "whether the decision was fair\n \n \n \n .",
+      "id": "s764"
+    },
+    {
+      "text": "the general policy of Subdivision 170-A and its context within the tax legislation\n \n .",
+      "id": "s765"
+    },
+    {
+      "text": "the detriment to the applicants (or either of them) if further time was not granted\n \n .",
+      "id": "s766"
+    },
+    {
+      "text": "the absence of any relevant prejudice to the Commissioner\n \n .",
+      "id": "s767"
+    },
+    {
+      "text": "that until January 2006 the Commissioner regarded, and so told the applicants, that an application for an extension of time was hypothetical\n \n .",
+      "id": "s768"
+    },
+    {
+      "text": "any of the matters particularised at para 36(a) of the application --- this latter was a reference to the 29 particulars set out in that ground.",
+      "id": "s769"
+    },
+    {
+      "text": "132 The next subheading \"The nature of the request misunderstood\" [21] to [27], asserted \"a fundamental error\" by the decision-maker who had regard to the fact that \"from 30 August 2002, the losses were available for transfer by BHPBDRI ...",
+      "id": "s770"
+    },
+    {
+      "text": "Nevertheless BHPBDRI chose not to immediately transfer the losses\".",
+      "id": "s771"
+    },
+    {
+      "text": "This was said to demonstrate a misunderstanding of the decision to be made.",
+      "id": "s772"
+    },
+    {
+      "text": "It was submitted that the relevant discretion is not a discretion to grant further time for DRI in which DRI might unilaterally decide to transfer losses.",
+      "id": "s773"
+    },
+    {
+      "text": "Instead it was a discretion to grant further time in which an agreement between a loss company and an income company could be entered into.",
+      "id": "s774"
+    },
+    {
+      "text": "The earliest time such a loss transfer agreement could have been made was the time at which the Commissioner had specified, by way of amended assessment, the amount by which the income of Development Finance was to be increased.",
+      "id": "s775"
+    },
+    {
+      "text": "It was not until 13 May 2005 that the Commissioner issued the amended assessment which increased the taxable income of Development Finance by $89,848,367.",
+      "id": "s776"
+    },
+    {
+      "text": "Reference was also made to the letter from Mr Killaly of 30 November 2004 indicating that any request for further time to enter into an agreement at that stage was a hypothetical exercise.",
+      "id": "s777"
+    },
+    {
+      "text": "133 In [28] the submission considered what it called \"errors of the decision-maker by reference first to the six general principles referred to by Wilcox J in Hunter Valley \".",
+      "id": "s778"
+    },
+    {
+      "text": "In [29] to [30] it dealt with the subject of delay and in [31] to [39] the imposition of GIC and the alleged culpable behaviour of Development Finance.",
+      "id": "s779"
+    },
+    {
+      "text": "Paragraphs 40 to 46 dealt with the Asiamet [2004] FCAFC 73 ; 137 FCR 146 decision.",
+      "id": "s780"
+    },
+    {
+      "text": "Paragraph 47 asserted under the heading \"No limitation\" that the Commissioner erred in stating that there was nothing in the subject matter, scope and purpose of s 80G which would imply any limitation upon his ability to consider the conduct of a company group giving rise to an adjustment as being a relevant factor to the exercise of the discretion.",
+      "id": "s781"
+    },
+    {
+      "text": "The final heading \"Additional or collateral penalty\" complained that the Commissioner erred in treating the refusal of the discretion as reflecting a need to penalise to a greater extent taxpayers involved in serious non-compliance activities.",
+      "id": "s782"
+    },
+    {
+      "text": "134 For future reference the point should be made that where an application for judicial review sets out, as is required, grounds of review submissions made in support of the application should expressly and clearly address those grounds.",
+      "id": "s783"
+    },
+    {
+      "text": "Submissions should make clear which grounds are relied upon and which are not.",
+      "id": "s784"
+    },
+    {
+      "text": "135 In the course of oral submissions senior counsel for DRI and Development Finance accepted that the strength of their case lay in the grounds relating to: \n \n 1.",
+      "id": "s785"
+    },
+    {
+      "text": "Failure to take into account relevant considerations to the extent they could be identified as mandatory.",
+      "id": "s786"
+    },
+    {
+      "text": "2.",
+      "id": "s787"
+    },
+    {
+      "text": "Factual error giving rise to irrelevant considerations.",
+      "id": "s788"
+    },
+    {
+      "text": "3.",
+      "id": "s789"
+    },
+    {
+      "text": "Misconstruction of the policy affecting the scope of the discretion and, in particular, the introduction of an impermissible penal purpose in the rejection of the application for an extension.",
+      "id": "s790"
+    },
+    {
+      "text": "Against that background consideration can now be given to the grounds of review raised in the application to the extent that they were actually relied upon in oral and written argument.",
+      "id": "s791"
+    },
+    {
+      "text": "I do not propose to go to each ground in detail beyond what I see as the principal points emerging from the case for DRI and Development Finance.",
+      "id": "s792"
+    },
+    {
+      "text": "Failure to take into account relevant considerations \n \n136 A failure to take into account a relevant consideration or considerations in the exercise of a power is one of the grounds set out in s 5(2) of the ADJR Act for finding that there has been an improper exercise of the power within the meaning of s 5(1)(e) of that Act.",
+      "id": "s793"
+    },
+    {
+      "text": "In Minister for Aboriginal Affairs v Peko-Wallsend Ltd [1986] HCA 40 ; (1986) 162 CLR 24 at 39 Mason J made the following points about this head of review:\n \n (a) The ground of failure to take into account a relevant consideration can only be made out if a decision-maker fails to take into account a consideration which he is bound to take into account in making that decision.",
+      "id": "s794"
+    },
+    {
+      "text": "(b) What factors a decision-maker is bound to consider in making the decision is determined by construction of the statute conferring the discretion.",
+      "id": "s795"
+    },
+    {
+      "text": "If the relevant factors are not expressly stated, they must be determined by implication from the subject matter, scope and purpose of the Act.",
+      "id": "s796"
+    },
+    {
+      "text": "(c) Not every consideration that a decision-maker is bound to take into account but fails to take into account will justify the court setting aside the impugned decision and ordering that the discretion be re-exercised according to law.",
+      "id": "s797"
+    },
+    {
+      "text": "(d) The limited role of a court reviewing the exercise of an administrative discretion must constantly be borne in mind.",
+      "id": "s798"
+    },
+    {
+      "text": "It is not the function of the court to substitute its own decision for that of the administrator by exercising a discretion which the legislature has vested in the administrator.",
+      "id": "s799"
+    },
+    {
+      "text": "In the absence of any statutory indication of the weight to be given to various considerations it is generally for the decision-maker and not the court to determine the appropriate weight to be given to the matters which are required to be taken into account in exercising the statutory power.",
+      "id": "s800"
+    },
+    {
+      "text": "137 Paragraph 36(a) of the application set out some 29 matters each of which were said to be a relevant consideration not taken into account by the first respondent.",
+      "id": "s801"
+    },
+    {
+      "text": "These included various aspects of the factual history which has already been outlined.",
+      "id": "s802"
+    },
+    {
+      "text": "It is not necessary for present purposes to address each of those matters.",
+      "id": "s803"
+    },
+    {
+      "text": "This was not done in the submissions.",
+      "id": "s804"
+    },
+    {
+      "text": "Many of them, as elements of the factual history could not conceivably be mandatory relevant considerations.",
+      "id": "s805"
+    },
+    {
+      "text": "Rather it is helpful to focus upon those matters, which having regard to the nature of the discretion, could be said to be mandatory relevant factors.",
+      "id": "s806"
+    },
+    {
+      "text": "138 Earlier in these reasons a number of matters relevant to the discretion to extend time under s 170-50(2)(d) were set out.",
+      "id": "s807"
+    },
+    {
+      "text": "Some of them overlapped with those set out by Wilcox J in Hunter Valley Developments Pty Ltd 3 FCR 344.",
+      "id": "s808"
+    },
+    {
+      "text": "They were however formulated by reference to the scope and purpose of Subdiv 170-A and s 170-50 of the ITAA 1997.",
+      "id": "s809"
+    },
+    {
+      "text": "While many aspects of the history of dealings between the Commissioner, his officers and DRI and Development Finance could not be said to be mandatory relevant considerations, there were features of that history overall that went to matters at the heart of the statutory purpose.",
+      "id": "s810"
+    },
+    {
+      "text": "Although the reasons for his decision given by Mr Duffus in his letter of 14 February 2006 made reference to Taxation Ruling TR 98/12 they disclosed no consideration of the general purpose of Subdiv 170-A.",
+      "id": "s811"
+    },
+    {
+      "text": "There was no reference to the effect on the statutory purpose, in this case, of the requested extension of time.",
+      "id": "s812"
+    },
+    {
+      "text": "There was no reference to any adverse impact upon DRI and Development Finance of the inability to transfer losses or of any prejudice to the position of the Commissioner for the good administration of the Act were the extension of time to be allowed.",
+      "id": "s813"
+    },
+    {
+      "text": "A failure to have regard to those general issues may have resulted in a failure to give express consideration to certain of the factual matters referred to in [36] of the application.",
+      "id": "s814"
+    },
+    {
+      "text": "There was no evidence in the reasons for decision of any balancing of competing considerations having regard to those purposes.",
+      "id": "s815"
+    },
+    {
+      "text": "139 It was also a relevant factor, apparently not taken into account by Mr Duffus, that the Commissioner was well aware of the intention of DRI to transfer tax losses to Development Finance when its position had crystallised.",
+      "id": "s816"
+    },
+    {
+      "text": "That crystallisation took a long time because of the extended audit of the tax position of Development Finance.",
+      "id": "s817"
+    },
+    {
+      "text": "On 30 November 2004 Mr Killaly wrote to Mr Mulqueen, in respect of extensions for the year ended 30 June 2000 saying that: \n \n In our view, there is no reason to seek the Commissioner's permission to make additional loss transfer agreements until such time as the loss deductions available to the income companies are finally determined.",
+      "id": "s818"
+    },
+    {
+      "text": "And further: \n \n \n We consider that the appropriate time to seek the favourable exercise of the Commissioner's discretion would be once amended assessments had issued to the income companies (were this to occur).",
+      "id": "s819"
+    },
+    {
+      "text": "Mr Killaly described the issue at that time as \"hypothetical\".",
+      "id": "s820"
+    },
+    {
+      "text": "The letter of 1 December 2004 from Mr Killaly to Mr Clough of Mallesons was to similar effect.",
+      "id": "s821"
+    },
+    {
+      "text": "140 This matter is specifically referred to as a mandatory relevant consideration not taken into account in [36(a)(xxvi)].",
+      "id": "s822"
+    },
+    {
+      "text": "Importantly, no consideration appears to have been given to the fact that the Commissioner was well aware well in advance of the request that the BHPGroup proposed to request a transfer of tax losses in the relevant years.",
+      "id": "s823"
+    },
+    {
+      "text": "A finding that the factor of delay should be \"taken into account but should not be weighted heavily against the favourable exercise of the discretion\" indicates a narrowly based approach to the question of the delay.",
+      "id": "s824"
+    },
+    {
+      "text": "Had the relevant statutory purposes and the factors of prejudice on both sides together with the ongoing advice of the intention to effect loss transfers been taken into account, then this factor might well have been treated as neutral and not weighed against DRI and Development Finance at all.",
+      "id": "s825"
+    },
+    {
+      "text": "141 In this respect there was, in my opinion, a failure to take into account mandatory relevant considerations and therefore an improper exercise of the power.",
+      "id": "s826"
+    },
+    {
+      "text": "Whether irrelevant considerations were taken into account \n \n142 The irrelevant considerations said, in the application for judicial review, to have been taken into account were related to the Pt IVA determination and Mr Duffus' finding that the behaviour of Development Finance leading to its claim for a bad debt deduction was \"culpable\".",
+      "id": "s827"
+    },
+    {
+      "text": "There was an unrelated, irrelevant consideration said to arise from his finding that DRI and Development Finance were not correct in contending that no losses could be transferred with certainty until the Commissioner had completed his audit of the R &amp; D claims of DRI and his finding that there was no basis to the contention that the applicants needed to await the finalisation of that audit to transfer the losses.",
+      "id": "s828"
+    },
+    {
+      "text": "143 The core of the argument actually presented by DRI and Development Finance in relation to Mr Duffus' consideration of the \"culpable\" behaviour of Development Finance focussed on his approach to the way in which evidence of tax avoidance should be weighted in the exercise of the discretion to extend time to transfer losses.",
+      "id": "s829"
+    },
+    {
+      "text": "The key paragraph in his letter of 14 February 2006 was in the following terms: \n \n Examples are given in Paragraph 93 [of TR 98/12] of factors which weigh heavily against a favourable exercise of the discretion.",
+      "id": "s830"
+    },
+    {
+      "text": "The examples listed are where an adjustment is made as a result of fraud or evasion or a scheme to which Part IVA applies.",
+      "id": "s831"
+    },
+    {
+      "text": "It is suggested in the ruling that these matters should be weighted heavily in considering whether to exercise the discretion.",
+      "id": "s832"
+    },
+    {
+      "text": "The heavy weighting reflects the need to penalise to a greater extent any taxpayers who are involved in these serious non-compliance activities.",
+      "id": "s833"
+    },
+    {
+      "text": "It is the proposition that the discretion should be exercised so as to penalise taxpayers who are said to have engaged in such conduct that creates difficulty in this case.",
+      "id": "s834"
+    },
+    {
+      "text": "Such an approach is not sanctioned by the decision of the Full Court in Asiamet [2004] FCAFC 73 ; 137 FCR 146.",
+      "id": "s835"
+    },
+    {
+      "text": "In that case Allsop J accepted that it was permissible to disallow an extension of time on the basis of the application of Pt IVA and that to do so was not to increase any penalty on the taxpayer beyond that contemplated by the ITAA.",
+      "id": "s836"
+    },
+    {
+      "text": "The fact that a penalty would be applicable, absent the transfer of losses, does not mean that a refusal to extend time involved collaterally increasing a penalty.",
+      "id": "s837"
+    },
+    {
+      "text": "That is a very different matter from applying a \"heavy weighting\" to culpable conduct in order to \"penalise to a greater extent any taxpayers who are involved in these serious non-compliance activities\".",
+      "id": "s838"
+    },
+    {
+      "text": "That does involve, in my opinion, a consideration which is irrelevant to the statutory purposes.",
+      "id": "s839"
+    },
+    {
+      "text": "It is not to be found in Taxation Ruling TR 98/12.",
+      "id": "s840"
+    },
+    {
+      "text": "It appears to be based upon a misreading of that Ruling.",
+      "id": "s841"
+    },
+    {
+      "text": "144 It is necessary, of course, in reviewing reasons for administrative decisions not to scrutinise them with an eye keenly attuned to error nor to engage in close semantic analysis.",
+      "id": "s842"
+    },
+    {
+      "text": "It is not for the Court through judicial review to impose the requirements which would \"judicialise\" the process of administrative decision-making.",
+      "id": "s843"
+    },
+    {
+      "text": "The passage cited, however, is unequivocal in its import and in the error which it reflects.",
+      "id": "s844"
+    },
+    {
+      "text": "It is difficult to assess the impact which it may have had on the weight given by the decision-maker to the alleged culpable conduct and the extent to which he had put to one side other aspects of the history to which reference was made earlier.",
+      "id": "s845"
+    },
+    {
+      "text": "In my opinion reviewable error is disclosed under this head.",
+      "id": "s846"
+    },
+    {
+      "text": "Exercise of the power for a purpose other than a purpose for which the power is conferred \n \n145 In support of this ground it was said that the decision was so unreasonable and unfair that such a purpose should be inferred.",
+      "id": "s847"
+    },
+    {
+      "text": "I am not prepared to make such a finding.",
+      "id": "s848"
+    },
+    {
+      "text": "However, to the extent that consideration of a need to penalise \"to a greater extent\" taxpayers involved in serious non-compliance activities is an irrelevant consideration it also reflects a purpose other than a purpose for which the power was conferred.",
+      "id": "s849"
+    },
+    {
+      "text": "Exercise of the power in accordance with a rule of policy \n \n146 Under this ground it is said that Mr Duffus exercised his power in accordance with Taxation Ruling TR 98/12 without regard to the merits of the particular case.",
+      "id": "s850"
+    },
+    {
+      "text": "While I am satisfied that the focus of his reasons was unduly narrow, Taxation Ruling TR 98/12 itself expressly makes clear that it is not exhaustive of all relevant factors and that each case must be decided on its own merits.",
+      "id": "s851"
+    },
+    {
+      "text": "The narrow focus of his consideration does not reflect any confining application of Taxation Ruling TR 98/12 because that Ruling itself eschews such an application.",
+      "id": "s852"
+    },
+    {
+      "text": "The ground is not made out.",
+      "id": "s853"
+    },
+    {
+      "text": "Unfairness amounting to abuse of power \n \n147 In my opinion this ground is not made out.",
+      "id": "s854"
+    },
+    {
+      "text": "Unreasonableness \n \n148 Although, as I have found, the reasons for decision were affected by error of law, I do not consider that the decision was so unreasonable that no reasonable person could have so exercised the power.",
+      "id": "s855"
+    },
+    {
+      "text": "That is a finding to be made in extremis.",
+      "id": "s856"
+    },
+    {
+      "text": "The reasons do not warrant such a finding.",
+      "id": "s857"
+    },
+    {
+      "text": "Error of law \n \n149 The error of law asserted appears to have related largely to conduct said to attract the application of Pt IVA.",
+      "id": "s858"
+    },
+    {
+      "text": "There was, in my opinion, an error of law made in that respect which has already been identified.",
+      "id": "s859"
+    },
+    {
+      "text": "Grounds under the Judiciary Act \n \n150 As the application for judicial review has been made out under the ADJR Act, it is not necessary to separately consider the grant of relief under the Judiciary Act .",
+      "id": "s860"
+    },
+    {
+      "text": "The statutory relief available under the ADJR Act is sufficient.",
+      "id": "s861"
+    },
+    {
+      "text": "Conclusion \n \n151 For the preceding reasons the following orders will be made: \n \n 1.",
+      "id": "s862"
+    },
+    {
+      "text": "The decision of the first respondent made 14 February 2006 refusing an extension of time under s 170-50(2)(d) of the ITAA 1997 to enter into an agreement for transfer of tax losses in the sum of $89,848,367 from the first named applicant to the second named applicant in respect of the income year ended 31 May 1999 be quashed.",
+      "id": "s863"
+    },
+    {
+      "text": "2.",
+      "id": "s864"
+    },
+    {
+      "text": "The application for an extension of time to enter into the agreement for the transfer of the tax losses be remitted to the first respondent to determine according to law.",
+      "id": "s865"
+    },
+    {
+      "text": "3.",
+      "id": "s866"
+    },
+    {
+      "text": "The second respondent is to pay the applicants' costs of the application.",
+      "id": "s867"
+    },
+    {
+      "text": "I certify that the preceding one hundred and fifty-one (151) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice French.",
+      "id": "s868"
+    },
+    {
+      "text": "Associate:\nDated: 2 October 2007\n\n Counsel for the Applicant: Mr JW de Wijn QC and Mr SHP Steward \n \n Solicitor for the Applicant: Mallesons Stephen Jaques \n \n Counsel for the Respondent: Mr GJ Davies QC and Mr PD Nicholas \n \n Solicitor for the Respondent: Australian Government Solicitor \n \n Date of Hearing: 26 October 2006 \n \n Date of Judgment: 2 October 2007 \n\n\n\n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/1528.html",
+      "id": "s869"
+    }
+  ]
+}

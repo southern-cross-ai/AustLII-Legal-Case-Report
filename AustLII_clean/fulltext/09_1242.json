@@ -1,0 +1,2932 @@
+{
+  "name": "Hine v New South Wales Land and Housing Corporation [2009] FCA 1242 (4 November 2009)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2009/1242.html",
+  "catchphrases": [
+    {
+      "text": "misleading and deceptive conduct",
+      "id": "c0"
+    },
+    {
+      "text": "head contract and subcontract",
+      "id": "c1"
+    },
+    {
+      "text": "whether directions conveyed a representation that subcontractor permanently precluded from working as a subcontractor for the contractor",
+      "id": "c2"
+    },
+    {
+      "text": "whether such a representation accurately reflected the required state of mind",
+      "id": "c3"
+    },
+    {
+      "text": "whether directions conveyed a representation that there was a reasonable basis to prohibit the subcontractor from working for the contractor",
+      "id": "c4"
+    },
+    {
+      "text": "whether there was such a reasonable basis on the facts of the case",
+      "id": "c5"
+    },
+    {
+      "text": "whether government department owes duty of care to a subcontractor",
+      "id": "c6"
+    },
+    {
+      "text": "whether department required to have the interests of the subcontractor in contemplation before issuing a direction to prohibit the subcontractor working for the department's contractor",
+      "id": "c7"
+    },
+    {
+      "text": "commercial context",
+      "id": "c8"
+    },
+    {
+      "text": "pure economic loss",
+      "id": "c9"
+    },
+    {
+      "text": "individual autonomy arising out of commercial context",
+      "id": "c10"
+    },
+    {
+      "text": "no duty of care",
+      "id": "c11"
+    },
+    {
+      "text": "trade practices",
+      "id": "c12"
+    },
+    {
+      "text": "tort",
+      "id": "c13"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "The first applicant, Robert Hine, is the sole director and shareholder of the second applicant, CPR Property Pty Ltd ( CPR Property ).",
+      "id": "s0"
+    },
+    {
+      "text": "CPR Property carried out cleaning and maintenance work as a subcontractor on behalf of the first respondent, the New South Wales Land and Housing Corporation ( the Corporation ), a statutory body associated with the NSW Department of Housing ( the Department ).",
+      "id": "s1"
+    },
+    {
+      "text": "On 24 March 2004 the Corporation prohibited its contractors from using CPR Property as a subcontractor, relying on a provision in the contracts between the Corporation and its contractors about the use of subcontractors.",
+      "id": "s2"
+    },
+    {
+      "text": "The applicants claim that the Corporation's conduct on 24 March 2004 contravened s 42 of the Fair Trading Act 1987 (NSW) (\"[a] person shall not, in trade or commerce, engage in conduct that is misleading or deceptive or is likely to mislead or deceive\").",
+      "id": "s3"
+    },
+    {
+      "text": "They also claim that, by the same conduct, the Corporation breached a duty of care it owed to the applicants and made a negligent misstatement to the contractors.",
+      "id": "s4"
+    },
+    {
+      "text": "Finally, the applicants claim that, again by the same conduct, the Corporation unlawfully interfered with the contractual relationship between the contractors and CPR Property and thus committed the tort of inducing a breach of contract.",
+      "id": "s5"
+    },
+    {
+      "text": "The applicants contend that by reason of the Corporation's conduct they have suffered loss and damage for which the Corporation and the State of New South Wales (of which the Department is an emanation) should be held liable.",
+      "id": "s6"
+    },
+    {
+      "text": "The applicants' claims initially included alleged contraventions of the Trade Practices Act 1974 (Cth).",
+      "id": "s7"
+    },
+    {
+      "text": "In Hine v New South Wales Land and Housing Corporation [2008] FCA 62 Graham J dismissed a notice of motion seeking to strike out the proceeding on the ground of lack of federal jurisdiction.",
+      "id": "s8"
+    },
+    {
+      "text": "Accordingly, the proceeding remains for determination in this Court despite the fact that the applicants' present claim does not include any federal element.",
+      "id": "s9"
+    },
+    {
+      "text": "On 14 April 2009 Graham J ordered that the question of liability be decided separately from and before the question of quantum of damage in the proceeding in accordance with Order 29 rule 2(a) of the Federal Court Rules .",
+      "id": "s10"
+    },
+    {
+      "text": "These reasons, accordingly, deal with the question of liability only.",
+      "id": "s11"
+    },
+    {
+      "text": "The evidence ranged widely.",
+      "id": "s12"
+    },
+    {
+      "text": "I propose to deal with the facts in the context of the four causes of action (misleading and deceptive conduct, breach of a duty of care, negligent misstatement, and procuring breach of contract).",
+      "id": "s13"
+    },
+    {
+      "text": "Before doing so I should note two matters.",
+      "id": "s14"
+    },
+    {
+      "text": "First, the Corporation's prohibition on its contractors using CPR Property as a subcontractor arose out of allegations against one of the Department's employees.",
+      "id": "s15"
+    },
+    {
+      "text": "The evidence in this proceeding thus includes references to unproven allegations against this employee.",
+      "id": "s16"
+    },
+    {
+      "text": "The employee is not a party to this proceeding.",
+      "id": "s17"
+    },
+    {
+      "text": "He did not give evidence in this proceeding.",
+      "id": "s18"
+    },
+    {
+      "text": "None of the allegations to which the evidence refers have been tested in this proceeding.",
+      "id": "s19"
+    },
+    {
+      "text": "For these reasons I consider that it would be unfair and unjust to name the employee in my reasons and, instead, I will refer to the employee as AB.",
+      "id": "s20"
+    },
+    {
+      "text": "Further, I should record that I cannot and do not make any adverse finding of any kind in respect of AB.",
+      "id": "s21"
+    },
+    {
+      "text": "Insofar as the allegations about AB involved Mr Hine and CPR Property, Mr Hine has provided evidence in this proceeding both denying the allegations and explaining the lack of substance in the suggestion that he was involved in any form of impropriety in connection with AB.",
+      "id": "s22"
+    },
+    {
+      "text": "The respondents did not challenge any aspect of Mr Hine's testimony in this regard.",
+      "id": "s23"
+    },
+    {
+      "text": "Insofar as the allegations about AB involved another company called Willowdene Constructions Pty Limited ( Willowdene ), an investigation by Ernst &amp; Young completed after the main events in issue in this proceeding cleared Willowdene of any involvement in any wrongdoing.",
+      "id": "s24"
+    },
+    {
+      "text": "When reading my reasons for decision, which necessarily identify these allegations by reference to the circumstances at the time, these important matters about the untested and/or unfounded nature of the allegations must be kept in mind.",
+      "id": "s25"
+    },
+    {
+      "text": "Second, the relationship between the Corporation, the Department and the State of New South Wales needs some further explanation.",
+      "id": "s26"
+    },
+    {
+      "text": "The Department is an agency of the State of New South Wales created by administrative arrangement of the New South Wales Government.",
+      "id": "s27"
+    },
+    {
+      "text": "The Department has no legal identity separate from that of the State.",
+      "id": "s28"
+    },
+    {
+      "text": "The State of NSW can be sued for the actions of its agents under s 5 of the Crown Proceedings Act 1988 (NSW).",
+      "id": "s29"
+    },
+    {
+      "text": "From 1 July 2001 the Corporation was constituted as a statutory corporation under s 6(1) of the Housing Act 2001 (NSW).",
+      "id": "s30"
+    },
+    {
+      "text": "The Corporation thus has separate legal identity and can sue and be sued in its own name (s 50 of the Interpretation Act 1987 (NSW)).",
+      "id": "s31"
+    },
+    {
+      "text": "Under s 6(7) of the Housing Act the Corporation may exercise any of its functions, and may otherwise act, in the name of the Department.",
+      "id": "s32"
+    },
+    {
+      "text": "Under s 6(8) the Corporation and the Department are, to the maximum extent possible, to act in a complementary manner, so as to achieve a unified administration of the Housing Act .",
+      "id": "s33"
+    },
+    {
+      "text": "The Corporation cannot employ any staff (s 7(3)).",
+      "id": "s34"
+    },
+    {
+      "text": "The Department employs the staff.",
+      "id": "s35"
+    },
+    {
+      "text": "The employees act in the name of the Department and the Corporation as required.",
+      "id": "s36"
+    },
+    {
+      "text": "The Director-General of the Department manages the affairs of the Corporation and any \"act, matter or thing done in the name of, or on behalf of, the Corporation by the Director-General, or with the authority of the Director-General, is taken to have been done by the Corporation\" (s 6(3)).",
+      "id": "s37"
+    },
+    {
+      "text": "Most of the references in the evidence are to the Department although the contractual arrangements are between the Corporation and other entities.",
+      "id": "s38"
+    },
+    {
+      "text": "Given the statutory context, the hearing was run on the basis that conduct of the Corporation may be treated as conduct of the Department and conduct of the Department is conduct for which the State of New South Wales is liable.",
+      "id": "s39"
+    },
+    {
+      "text": "In these reasons I mostly refer to the Department except where dealing with the specific terms of the contracts between the Corporation and others (which nevertheless vest rights in representatives of the Department).",
+      "id": "s40"
+    },
+    {
+      "text": "SOME UNCONTROVERSIAL FACTS \n On 3 June 2002 the Corporation entered into contracts with each of Willowdene and Transfield Services (Australia) Pty Limited ( Transfield ).",
+      "id": "s41"
+    },
+    {
+      "text": "These contracts were in substantially the same terms.",
+      "id": "s42"
+    },
+    {
+      "text": "I refer to these contracts as the Willowdene head contract and Transfield head contract respectively.",
+      "id": "s43"
+    },
+    {
+      "text": "When referring to both contracts I refer to them as the head contracts.",
+      "id": "s44"
+    },
+    {
+      "text": "The head contracts relate to the provision of maintenance services in various areas in which the Department owns properties.",
+      "id": "s45"
+    },
+    {
+      "text": "The head contracts provide for the contractors to carry out works under work orders at certain scheduled rates.",
+      "id": "s46"
+    },
+    {
+      "text": "The head contracts were to expire on 30 June 2004 with a capacity for extension by the Department until 30 June 2006.",
+      "id": "s47"
+    },
+    {
+      "text": "In accordance with cl 1 of the general conditions of contract (which formed part of the head contracts) the Director-General of the Department is the Principal.",
+      "id": "s48"
+    },
+    {
+      "text": "The Principal's Representative is a nominated officer of the Department, Dennis Schultz.",
+      "id": "s49"
+    },
+    {
+      "text": "The head contracts are described as schedule of rates contracts (cl 2 of the general conditions of contract).",
+      "id": "s50"
+    },
+    {
+      "text": "Specifically, the Principal does not guarantee the contractor any particular level of work and does not give the contractor any exclusive right to the work in the areas covered by it.",
+      "id": "s51"
+    },
+    {
+      "text": "Clause 6 of the general conditions of contract precludes the contractor from subcontracting the works unless the contractor has obtained the written approval of the Principal's Representative to do so, such approval not to be unreasonably withheld.",
+      "id": "s52"
+    },
+    {
+      "text": "Clause 14 of the general conditions of contract provides that if the head contract enables the Principal's Representative to give a direction to the contractor, the contractor must comply with that direction.",
+      "id": "s53"
+    },
+    {
+      "text": "Clause 16 of the general conditions of contract is such a provision.",
+      "id": "s54"
+    },
+    {
+      "text": "Its terms are critical to the applicants' claims and are set out in full below: CONTRACTOR'S AND SUBCONTRACTOR'S EMPLOYEES \n \n \n The Contractor shall provide labour and all supervision necessary for the proper and complete performance of the Works at the cost and expense of the Contractor.",
+      "id": "s55"
+    },
+    {
+      "text": "The Contractor shall employ and ensure that subcontractors employ in connection with the Works only such persons as are careful, skilled, experienced and properly licensed.",
+      "id": "s56"
+    },
+    {
+      "text": "The Principal shall be entitled to prohibit the Contractor from using any person or subcontractor in the performance of the Works if the Principal's Representative reasonably regards that person or subcontractor as incompetent, negligent or otherwise unsuitable.",
+      "id": "s57"
+    },
+    {
+      "text": "The Contractor shall ensure as far as reasonably practical, that it does not use any person in connection with the performance of the Works who is convicted or has within the previous five years been convicted of a criminal offence involving dishonesty, theft or violence and without prejudice to the generality of the foregoing the Contractor shall have an effective screening procedure for existing and new employees used in connection with the provision of the Works.",
+      "id": "s58"
+    },
+    {
+      "text": "The screening procedure shall include:\n (a) validation of previous employment, previous employment references and present address;\n (b) checks and inquiries relating to criminal records;\n (c) receipt and validation of the employee's tax file number; and\n (d) notification procedure with respect to any subsequent criminal offences.",
+      "id": "s59"
+    },
+    {
+      "text": "Clause 9.3 of the work requirements (also forming a part of the head contract) provides that if a subcontractor requires information the information will be supplied only through the contractor.",
+      "id": "s60"
+    },
+    {
+      "text": "The contractor is required to acquaint all subcontractors with this requirement.",
+      "id": "s61"
+    },
+    {
+      "text": "Each of the contractors under the head contracts, Willowdene and Transfield, entered into a subcontract with CPR Property.",
+      "id": "s62"
+    },
+    {
+      "text": "The Willowdene subcontract relates to carpentry and cleaning and specifies a schedule of rates for each work type.",
+      "id": "s63"
+    },
+    {
+      "text": "It specifies a completion date of 30 June 2004 but not the commencement date.",
+      "id": "s64"
+    },
+    {
+      "text": "I infer that the agreement commenced on or about the same time as the head contracts (3 June 2002).",
+      "id": "s65"
+    },
+    {
+      "text": "The Willowdene subcontract is not signed but Mr Hine acknowledged that he worked in accordance with the rates specified in it.",
+      "id": "s66"
+    },
+    {
+      "text": "The Willowdene subcontract contains a provision that all communications arising out of the head contract will be between the Principal's Representative and the contractor and should a subcontractor require information it will be supplied only through the contractor.",
+      "id": "s67"
+    },
+    {
+      "text": "The Transfield subcontract is dated on or about 6 August 2002, and was renewed on 9 April 2003.",
+      "id": "s68"
+    },
+    {
+      "text": "Amongst other things the Transfield subcontract requires CPR Property to provide the services in accordance with various documents (including the work requirements forming part of the head contract) copies of which were said to be \"available on request\".",
+      "id": "s69"
+    },
+    {
+      "text": "Mr Hine and others attended a \"contract specific induction\" conducted by Transfield.",
+      "id": "s70"
+    },
+    {
+      "text": "On 24 March 2004 the Corporation issued to Willowdene a direction under cl 16 of the general conditions of contract forming part of the Willowdene head contract.",
+      "id": "s71"
+    },
+    {
+      "text": "The terms of the direction were as follows:\n \n \n TO: WILLOWDENE PTY LIMITED (\"the Contractor\") \n \n\n \n \n NOTICE UNDER CLAUSE 16 OF THE GENERAL CONDITIONS OF CONTRACT \n \n\n \n \n In accordance with clause 16 of the General Conditions of Contract the Principal's Representative directs that the Contractor is prohibited from using the person/s and/or entity/ies named in Schedule 1 in the performance of the Works as the Principal's Representative reasonably regards them as unsuitable on account of the matters raised in Schedule 2.",
+      "id": "s72"
+    },
+    {
+      "text": "Signed D Schultz \n \n\n \n \n Dennis Schultz\n Principal's Representative\n 24 March 2004 \n \n\n \n Schedule 1 \n \n\n \n \n CPR Property Pty Limited (ACN 100 407 341) \n \n\n \n Schedule 2 \n \n\n \n \n The person/s and/or entities involvement in a pending investigation by their Department into their association with a Departmental employee, and certain allegations of misconduct made against the employee arising therefrom.",
+      "id": "s73"
+    },
+    {
+      "text": "On the same day the Principal's Representative, Mr Schultz, contacted Transfield's contract manager.",
+      "id": "s74"
+    },
+    {
+      "text": "According to a report signed by Mr Schultz on 26 March 2004, on 24 March 2004 Mr Schultz advised Transfield's contract manager that Transfield was \"not to use the services of CPR Property until further notice\".",
+      "id": "s75"
+    },
+    {
+      "text": "The respondents acknowledged that this communication was also the giving of a direction prohibiting Transfield from using CPR Property as a subcontractor under cl 16 of the general conditions of contract forming part of the Transfield head contract.",
+      "id": "s76"
+    },
+    {
+      "text": "Willowdene and Transfield immediately ceased to use CPR Property under the head contracts as a subcontractor for work required to be carried out on the Department's properties.",
+      "id": "s77"
+    },
+    {
+      "text": "CPR Property has not worked on any property owned by the Department since that date.",
+      "id": "s78"
+    },
+    {
+      "text": "MISLEADING AND DECEPTIVE CONDUCT CLAIM \n The competing submissions \n The applicants' primary case for breach of s 42 of the Fair Trading Act is that Mr Schultz's written direction to Willowdene and oral direction to Transfield on 24 March 2004 represented to each that he, as the Principal's Representative, reasonably regarded CPR Property as unsuitable such as to warrant CPR Property being prohibited from carrying out work on the Department's properties.",
+      "id": "s79"
+    },
+    {
+      "text": "A prohibition, submitted the applicants, is inherently permanent.",
+      "id": "s80"
+    },
+    {
+      "text": "The directions given thus conveyed a representation that CPR Property was unsuitable such as to warrant permanent preclusion from working as a subcontractor for the Department.",
+      "id": "s81"
+    },
+    {
+      "text": "According to the applicants, however, this representation was not true.",
+      "id": "s82"
+    },
+    {
+      "text": "It did not reflect Mr Schultz's actual state of mind at the time the directions were given.",
+      "id": "s83"
+    },
+    {
+      "text": "The applicants submitted that the evidence supported a finding that Mr Schultz had not, at any time, reached a view that CPR Property ought to be prohibited (permanently) from being a subcontractor.",
+      "id": "s84"
+    },
+    {
+      "text": "No one expressed any such opinion at the meetings Mr Schultz attended on 23 February and 18 and 19 March 2004.",
+      "id": "s85"
+    },
+    {
+      "text": "All that officers of the Department intended was that Willowdene and Transfield not use CPR Property as a subcontractor pending the results of the investigation into AB.",
+      "id": "s86"
+    },
+    {
+      "text": "A statement purporting to reflect an opinion will be misleading if it does not reflect the actual state of mind of the person in question ( James v ANZ Banking Group Limited (1986) 64 ALR 347 at 372: \"[a] statement involving the state of mind of the maker of the statement, e.g.",
+      "id": "s87"
+    },
+    {
+      "text": "promises, predictions and opinions, ordinarily conveys the meaning that the maker of the statement had a particular state of mind when the statement was made and that there was basis for that state of mind.",
+      "id": "s88"
+    },
+    {
+      "text": "If the meaning contained in or conveyed by the statement is false in that or any other respect, there will have been [misleading and deceptive conduct]\".",
+      "id": "s89"
+    },
+    {
+      "text": "See also Global Sportsman Pty Ltd v Mirror Newspapers Pty Ltd [1984] FCA 180 ; (1984) 2 FCR 82 at 88).",
+      "id": "s90"
+    },
+    {
+      "text": "The applicants' alternative case is that the directions given pursuant to cl 16 also conveyed a representation that the Principal's Representative had a reasonable basis for the opinion that CPR Property was unsuitable such as to warrant CPR Property being prohibited from carrying out work on the Department's properties.",
+      "id": "s91"
+    },
+    {
+      "text": "According to the applicants there was no reasonable basis for the opinion and thus the directions to Willowdene and Transfield (written and oral respectively) also were misleading and deceptive on this basis.",
+      "id": "s92"
+    },
+    {
+      "text": "The respondents submitted that cl 16 of the head contracts permitted the Principal's Representative to form the decision in any way he liked, provided the opinion is \"subjectively (that is honestly) reasonable\".",
+      "id": "s93"
+    },
+    {
+      "text": "Reasonableness must be informed by the objects of the Corporation, particularly as specified in ss 5 and 12 of the Housing Act .",
+      "id": "s94"
+    },
+    {
+      "text": "The purpose of cl 16 should be understood as vesting in the Corporation a wide discretion to exclude from the State's properties any subcontractor that the Principal's Representative honestly regarded as unsuitable.",
+      "id": "s95"
+    },
+    {
+      "text": "The directions say what they say.",
+      "id": "s96"
+    },
+    {
+      "text": "They do not mention that the prohibition has any temporal dimension.",
+      "id": "s97"
+    },
+    {
+      "text": "The directions, the respondents submitted, accurately reflected the fact that the Principal's Representative reasonably regarded CPR Property as unsuitable to perform the work because of its involvement in a pending investigation about CPR Property's association with a Departmental employee (AB).",
+      "id": "s98"
+    },
+    {
+      "text": "At the time the directions were given, being the relevant time for assessment of the facts in issue ( City of Botany Bay Council v Jazabas Pty Limited [2002] ANZ ConvR 300; [2001] NSWCA 94 at [83] and McGrath and Honey as Joint Liquidators of Pan Pharmaceuticals Ltd v Australian Naturalcare Products Pty Ltd (2008) 165 FCR 230 ; [2008] FCAFC 2 at [198] ), there were reasonable (indeed, ample) grounds supporting this state of mind.",
+      "id": "s99"
+    },
+    {
+      "text": "The mere fact that an opinion may later turn out to be wrong does not prove that it was misleading or deceptive when conveyed ( Reiffel v ACN 075 839 226 Ltd (2003) 132 FCR 437 ; [2003] FCA 194 at [37]).",
+      "id": "s100"
+    },
+    {
+      "text": "The respondents also submitted that Willowdene and Transfield took action to prohibit CPR Property from working as a subcontractor because of mere receipt of the directions and not because of any representation conveyed by the directions.",
+      "id": "s101"
+    },
+    {
+      "text": "The applicants were not recipients of the directions and were not misled.",
+      "id": "s102"
+    },
+    {
+      "text": "Hence, both aspects of the applicants' misleading and deceptive conduct case must fail.",
+      "id": "s103"
+    },
+    {
+      "text": "Findings and discussion \n Section 42 of the Fair Trading Act binds the Crown in right of the State of New South Wales insofar as the Crown in right of the State carries on a business, whether directly or by an authority of the State (s 3(1) of the Fair Trading Act ).",
+      "id": "s104"
+    },
+    {
+      "text": "Under s 4 a business includes a business not carried on for profit, and a trade or profession.",
+      "id": "s105"
+    },
+    {
+      "text": "The proscription in s 42 applies to a person in trade or commerce, engaging in conduct that is misleading or deceptive or is likely to mislead or deceive.",
+      "id": "s106"
+    },
+    {
+      "text": "Section 4 defines \"trade or commerce\" to include any business or professional activity.",
+      "id": "s107"
+    },
+    {
+      "text": "The respondents accepted that the conduct in and in connection with the issuing of the directions to Willowdene and Transfield was done as part of carrying on a business and was in trade or commerce within the meaning of these provisions.",
+      "id": "s108"
+    },
+    {
+      "text": "I accept that the provisions of the Housing Act are relevant to an assessment of the conduct of the Corporation and the Department, as is their status as public authorities.",
+      "id": "s109"
+    },
+    {
+      "text": "As the respondents submitted, the Corporation and the Department are required to fulfil the objects of the Housing Act including those in s 5(1): \n \n (a) to maximise the opportunities for all people in New South Wales to have access to secure, appropriate and affordable housing;\n ... \n \n\n \n \n (f) to ensure that the public housing system focuses on housing people who are most in need;\n ... \n \n\n \n \n (h) to maintain an efficient housing administration to ensure the effective co-ordination and provision of all housing services; \n \n\n Section 5(2) of the Housing Act also provides as follows: \n \n (2) In the administration of this Act, regard is to be had to the objects of this Act to the maximum extent possible taking into consideration the needs of the State and available resources, and subject to any directions of the Minister.",
+      "id": "s110"
+    },
+    {
+      "text": "I do not accept that the requirements of cl 16 are satisfied if the opinion of the Principal's Representative as to unsuitability of a subcontractor is \"subjectively (that is honestly) reasonable\" and no more.",
+      "id": "s111"
+    },
+    {
+      "text": "The respondents' submissions in this regard were difficult to follow.",
+      "id": "s112"
+    },
+    {
+      "text": "Their written submissions appeared to assert that cl 16 required nothing more than an honestly held view.",
+      "id": "s113"
+    },
+    {
+      "text": "Their oral submissions, however, appeared to accept that cl 16 involved some objective element by reason of the word \"reasonably\" in the phrase \"reasonably regards the ...subcontractor as incompetent, negligent or otherwise unsuitable\".",
+      "id": "s114"
+    },
+    {
+      "text": "Irrespective of this I am satisfied that cl 16 requires more than an honest opinion before the right to issue a direction arises.",
+      "id": "s115"
+    },
+    {
+      "text": "A person's view is not reasonable merely because it is honestly held.",
+      "id": "s116"
+    },
+    {
+      "text": "For example, an honest but capricious and arbitrary view is not a reasonable view.",
+      "id": "s117"
+    },
+    {
+      "text": "A person reasonably regards some matter to be so where the opinion or view is reached by a process of reason.",
+      "id": "s118"
+    },
+    {
+      "text": "The view must thus be rational having regard to the circumstances known to the person at the time.",
+      "id": "s119"
+    },
+    {
+      "text": "Clause 16, accordingly, does not impose a particularly onerous standard.",
+      "id": "s120"
+    },
+    {
+      "text": "By that provision the Corporation covenanted with the contractor to prohibit the use of certain subcontractors only if the Principal's Representative reasonably regarded the subcontractors as unsuitable on one or more of the nominated grounds.",
+      "id": "s121"
+    },
+    {
+      "text": "The Corporation did not contract that this power would be exercised only if the Department had completed an investigation either at all or to a particular standard.",
+      "id": "s122"
+    },
+    {
+      "text": "It did not contract that the power would be exercised only if the Principal's Representative reached the relevant state of mind by reference to any particular standard of proof.",
+      "id": "s123"
+    },
+    {
+      "text": "An assessment of rationality (or reasonableness) must be undertaken recognising the statutory imperatives under which the Corporation and the Department operate and the commercial realities in which they exercise their functions.",
+      "id": "s124"
+    },
+    {
+      "text": "The evidence discloses that the Department owns thousands of properties throughout NSW (about 7000 in the western area of metropolitan Sydney alone).",
+      "id": "s125"
+    },
+    {
+      "text": "The properties are mostly tenanted to people on low incomes and various forms of income support.",
+      "id": "s126"
+    },
+    {
+      "text": "The properties include single cottages, residential flat buildings and aged care facilities.",
+      "id": "s127"
+    },
+    {
+      "text": "Some tenants look after their properties with the utmost care.",
+      "id": "s128"
+    },
+    {
+      "text": "Some do not.",
+      "id": "s129"
+    },
+    {
+      "text": "The properties frequently require maintenance, repairs and cleaning both when tenanted and between tenancies.",
+      "id": "s130"
+    },
+    {
+      "text": "This includes rubbish removal, mowing and lawn maintenance, fencing maintenance, repainting, recarpeting, replacement of fixtures and fittings, as well as household cleaning generally.",
+      "id": "s131"
+    },
+    {
+      "text": "Before June 2002 officers of the Department dealt directly with a wide variety of trade contractors.",
+      "id": "s132"
+    },
+    {
+      "text": "Mr Hine was one of those trade contractors.",
+      "id": "s133"
+    },
+    {
+      "text": "Before May 2002 he operated as a sole trader under the registered business name CPR Property Maintenance.",
+      "id": "s134"
+    },
+    {
+      "text": "Although there was some debate about exactly when he started to work on the Department's properties, I am satisfied that Mr Hine started doing lawn mowing for the Department in or about 1989 (when the business name CPR Property Maintenance was registered).",
+      "id": "s135"
+    },
+    {
+      "text": "At some time thereafter (but no later than the late 1990s) Mr Hine began doing cleaning and other small maintenance jobs on the Department's properties as well.",
+      "id": "s136"
+    },
+    {
+      "text": "Mr Hine and the Department entered into contracts for the carrying out of this work on a two to three year basis.",
+      "id": "s137"
+    },
+    {
+      "text": "One contract (which is in evidence) was dated 29 February 2000.",
+      "id": "s138"
+    },
+    {
+      "text": "This contract was entered into after a tender process.",
+      "id": "s139"
+    },
+    {
+      "text": "The tender documents show that Mr Hine sought work in the Western Sydney area as a sole trader operating under the business name CPR Property Maintenance.",
+      "id": "s140"
+    },
+    {
+      "text": "On 3 February 2000 the Department identified Mr Hine as a contractor who had been \"vacant cleaning for many years with the Department, and at the present time is working for team 3, who appear to be more than happy with CPR as a vacant cleaning contractor\".",
+      "id": "s141"
+    },
+    {
+      "text": "According to another Departmental document of about the same date Mr Hine \"has worked only for the Department over the last five years\" and was the subject of \"very good feedback\" from Departmental officers who were Mr Hine's referees.",
+      "id": "s142"
+    },
+    {
+      "text": "The contract of 29 February 2000 between the Corporation (then constituted under the Housing Act 1985 (NSW)) and Mr Hine trading as CPR Property Maintenance was for the cleaning of vacant dwellings in an area known as WS07.",
+      "id": "s143"
+    },
+    {
+      "text": "Under the contract the Department was not obliged to use Mr Hine as a contractor, the contract being a standing offer to carry out work at agreed rates as and when required (cl 8).",
+      "id": "s144"
+    },
+    {
+      "text": "The contract was for a period of two years commencing 1 March 2000 (cl 10).",
+      "id": "s145"
+    },
+    {
+      "text": "During the term of this contract the Department decided to streamline its procedures by minimising the number of contractors with which its officers had to deal.",
+      "id": "s146"
+    },
+    {
+      "text": "To achieve this objective the Department decided that it would appoint contractors for each area.",
+      "id": "s147"
+    },
+    {
+      "text": "It would enter into a contract with those contractors only.",
+      "id": "s148"
+    },
+    {
+      "text": "The contractors would be responsible for carrying out the works or for arranging subcontractors to carry out the works.",
+      "id": "s149"
+    },
+    {
+      "text": "The Department's officers would then have to deal with the contractors only.",
+      "id": "s150"
+    },
+    {
+      "text": "Mr Hine became a subcontractor to one of the early contractors used by the Department, Haden FM Pty Ltd, in the period before the execution of the head contracts with Willowdene and Transfield (which commenced on 3 June 2002).",
+      "id": "s151"
+    },
+    {
+      "text": "As part of this streamlining process Mr Hine was advised (perhaps by a Transfield or Willowdene representative) that he could not be a subcontractor to the Department unless he operated as a body corporate.",
+      "id": "s152"
+    },
+    {
+      "text": "As a result of this advice CPR Property Pty Ltd was incorporated on 2 May 2002.",
+      "id": "s153"
+    },
+    {
+      "text": "Given the diverse nature of the works required under the head contracts I infer that the Department and Corporation must have anticipated the almost routine use of subcontractors by the contractors.",
+      "id": "s154"
+    },
+    {
+      "text": "I also infer that the Department and Corporation must have known that many of the trade contractors with whom it used to contract directly would continue to work on its properties as subcontractors.",
+      "id": "s155"
+    },
+    {
+      "text": "Before finding certain other facts it is convenient to answer another question --- what were the representations conveyed by the directions?",
+      "id": "s156"
+    },
+    {
+      "text": "The written direction to Willowdene is clear.",
+      "id": "s157"
+    },
+    {
+      "text": "It is expressed to be in accordance with cl 16 of the general conditions of contract, the terms of which were known to Willowdene.",
+      "id": "s158"
+    },
+    {
+      "text": "It is from the Principal's Representative (even though the power under cl 16 is vested in the Principal based on the state of mind of the Principal's Representative).",
+      "id": "s159"
+    },
+    {
+      "text": "It prohibits Willowdene from using CPR Property in the performance of the works on the basis that the Principal's Representative reasonably regards CPR Property as unsuitable on account of its involvement in a pending investigation by the Department into its (that is, CPR Property's) association with a Departmental employee (AB) and certain allegations of misconduct arising therefrom (that is, from CPR Property's association with AB).",
+      "id": "s160"
+    },
+    {
+      "text": "From this it may be concluded that the representations conveyed are as follows: \n(1) The Principal's Representative regarded CPR Property unsuitable to work as a subcontractor on the Department's properties.",
+      "id": "s161"
+    },
+    {
+      "text": "(2) The view of the Principal's Representative was reasonable in all of the circumstances in the sense that it had been reached by a rational process and was founded on a rational basis.",
+      "id": "s162"
+    },
+    {
+      "text": "(3) The rational basis was that the Department was undertaking an investigation into CPR Property's association with a Departmental employee and allegations of misconduct by the employee arising from that association.",
+      "id": "s163"
+    },
+    {
+      "text": "(4) The Department had sufficient cogent information indicating the existence of an association (that is, by necessary implication, an improper association) between CPR Property and the unnamed Departmental employee such as to warrant the Principal's Representative prohibiting CPR Property from working on the Department's properties.",
+      "id": "s164"
+    },
+    {
+      "text": "(5) The Department had sufficient cogent information indicating that the allegations of misconduct against its employee by reason of the association between CPR Property and the employee warranted the Principal's Representative prohibiting CPR Property from working on the Department's properties.",
+      "id": "s165"
+    },
+    {
+      "text": "The oral direction to Transfield involves some disputed evidence.",
+      "id": "s166"
+    },
+    {
+      "text": "In [24] above I referred to a report signed by Mr Schultz on 26 March 2004 recording that Mr Schultz advised Transfield's contract manager that \"Transfield were not to use the services of CPR Property until further notice\".",
+      "id": "s167"
+    },
+    {
+      "text": "In his affidavit and oral evidence Mr Schultz (who had not checked all of the Department's records before preparing his affidavit) said that he informed Transfield's contract manager on 25 March 2004 about the investigation and asked whether Transfield was using CPR Property.",
+      "id": "s168"
+    },
+    {
+      "text": "Transfield's contract manager said Transfield had not been using the services of CPR Property very much in the last five or six weeks and would not use them.",
+      "id": "s169"
+    },
+    {
+      "text": "The report signed by Mr Schultz on 26 March 2004 (two days after the events in question) is likely to be more accurate than his recollection some five years later.",
+      "id": "s170"
+    },
+    {
+      "text": "The report says that the call by Mr Schultz was made on 24 March 2004, the same day as the giving of the written direction to Willowdene.",
+      "id": "s171"
+    },
+    {
+      "text": "This is more plausible than Mr Schultz's version in his affidavit of having made the call on 25 March 2004.",
+      "id": "s172"
+    },
+    {
+      "text": "I am also satisfied that the version of the conversation in the report, in which Mr Schultz directed Transfield to the effect that CPR Property were prohibited from doing works on the Department's properties, is more plausible than the version in his affidavit.",
+      "id": "s173"
+    },
+    {
+      "text": "I consider it likely that Mr Schultz made the call to Transfield with the benefit of the written direction to Willowdene either before him or at the forefront of his mind.",
+      "id": "s174"
+    },
+    {
+      "text": "I infer that Mr Schultz would have been keen to communicate to Transfield the same direction as had been communicated to Willowdene, albeit one was in writing and the other oral.",
+      "id": "s175"
+    },
+    {
+      "text": "Accordingly, I infer that Mr Schultz's discussion with the Transfield contract manager on 24 March 2004 conveyed the same or substantially the same information, and thus the same representations, as the written direction to Willowdene of the same date.",
+      "id": "s176"
+    },
+    {
+      "text": "Were those representations misleading or deceptive or likely to mislead or deceive?",
+      "id": "s177"
+    },
+    {
+      "text": "Two aspects of the respondents' submissions in answer to this claim may be dismissed immediately.",
+      "id": "s178"
+    },
+    {
+      "text": "First, the fact that Willowdene and Transfield were bound to comply with the directions pursuant to cl 14 of the general conditions of contract does not mean that the only representation conveyed was that the direction was a direction under cl 16 and binding for the purpose of cl 14.",
+      "id": "s179"
+    },
+    {
+      "text": "Willowdene and Transfield were only bound to comply with the direction under cl 14 if the direction was a direction that the head contract enabled the Principal's Representative to give.",
+      "id": "s180"
+    },
+    {
+      "text": "Clause 16 only permitted the direction to be given in the circumstances specified in that clause.",
+      "id": "s181"
+    },
+    {
+      "text": "The directions given thus conveyed the representations.",
+      "id": "s182"
+    },
+    {
+      "text": "Willowdene and Transfield in fact immediately ceased to use CPR Property as a subcontractor on the Department's properties.",
+      "id": "s183"
+    },
+    {
+      "text": "The representations conveyed caused Willowdene and Transfield to so cease using CPR Property as a subcontractor to perform maintenance on the Department's properties.",
+      "id": "s184"
+    },
+    {
+      "text": "Second, the fact that the representations were made to Willowdene and Transfield rather than the applicants is beside the point.",
+      "id": "s185"
+    },
+    {
+      "text": "A person may suffer loss and damage \"by conduct of another person that is in contravention of\" s 42 of the Fair Trading Act so as to engage a right to claim damages under s 68 of that Act whether the conduct is directed towards them or another person.",
+      "id": "s186"
+    },
+    {
+      "text": "As set out in [1.82.17] and [1.82.18] of Russell V Miller.",
+      "id": "s187"
+    },
+    {
+      "text": "Miller's Annotated Trade Practices Act : Australian Competition and Consumer Law (30 th ed).",
+      "id": "s188"
+    },
+    {
+      "text": "Thomson Reuters.",
+      "id": "s189"
+    },
+    {
+      "text": "Sydney (2009) about the equivalent provisions of that Act (ss 52 and 82): \n \n [1.82.17] Reliance: third party reliance \n \n\n \n \n Neither s 82 nor s 87 requires that, in a case where the misleading or deceptive conduct involves a misrepresentation, the person who alleges damage must have relied on the misrepresentation.",
+      "id": "s190"
+    },
+    {
+      "text": "All that is necessary is a sufficient and direct link between the loss or damage alleged to have been suffered and the misleading or deceptive conduct: McCarthy v McIntyre [1999] FCA 784 ; Finishing Services Pty Ltd v Lactos Fresh Pty Ltd [2006] FCAFC 177 ; Janssen-Cilag Pty Ltd v Pfizer Pty Ltd [1992] FCA 437 ; (1992) 37 FCR 526 ; 109 ALR 638 ; ATPR 41-186; Marks v GIO Australia Holdings Ltd [1998] HCA 69 ; (1998) 196 CLR 494 ; 158 ALR 333 ; 73 ALJR 12 ; ASAL 55-014; ATPR 41-665 at 359.",
+      "id": "s191"
+    },
+    {
+      "text": "[1.82.18] Must the claimant be misled?",
+      "id": "s192"
+    },
+    {
+      "text": "There must be a relevant nexus between the conduct complained of and at least some of the loss or damage suffered but this does not mean that it is always necessary for the claimant to prove that he personally relied on that conduct.",
+      "id": "s193"
+    },
+    {
+      "text": "For example, where the misleading conduct involves passing off, the public may be misled thereby increasing the respondent's sales at the expense of the applicant.",
+      "id": "s194"
+    },
+    {
+      "text": "In these circumstances the claimant may suffer loss or damage even though the claimant may never have been misled: see Janssen-Cilag Pty Ltd v Pfizer Pty Ltd [1992] FCA 437 ; (1992) 37 FCR 526 ; 109 ALR 638 ; ATPR 41-186; Hayes v Top Slice Deli Pty Ltd [1995] ATPR (Digest) 53 ,149 (46-147); Hill v Tooth &amp; Co Ltd (1998) ATPR 41-649.",
+      "id": "s195"
+    },
+    {
+      "text": "Digi-Tech (Australia) Ltd v Brand (2004) 62 IPR 184 ; [2004] NSWCA 58 at [155] , referred to by the respondents, is not authority for any proposition contrary to the summary in [1.82.17] and [1.82.18] of Miller's Annotated Trade Practices Act .",
+      "id": "s196"
+    },
+    {
+      "text": "This is apparent from reading [155] of the NSW Court of Appeal's reasons in context.",
+      "id": "s197"
+    },
+    {
+      "text": "Those reasons are as follows: \n \n [ 155 ] Stockland (Constructors) Pty Ltd v Retail Design Group (International) Pty Ltd [[2003] NSWCA 84] followed the approach of Janssen-Cilag .",
+      "id": "s198"
+    },
+    {
+      "text": "Stockland , like Janssen-Cilag , was not a case where the plaintiff claimed damage caused by entering into a transaction induced by misleading conduct.",
+      "id": "s199"
+    },
+    {
+      "text": "In both cases the misleading conduct had caused others to act to the direct prejudice of the plaintiff.",
+      "id": "s200"
+    },
+    {
+      "text": "That is to say, the chain of causation was as follows: firstly, misleading conduct by the defendant; secondly, an innocent party is induced by the misleading conduct to act in some way; thirdly, the innocent party's act, by its very nature, causes the plaintiff loss.",
+      "id": "s201"
+    },
+    {
+      "text": "On this basis, no act of the plaintiff contributes to the loss.",
+      "id": "s202"
+    },
+    {
+      "text": "The chain of causation is complete without there needing to be any act or omission on the part of the plaintiff.",
+      "id": "s203"
+    },
+    {
+      "text": "[ 156 ] The Janssen-Cilag and Stockland category of claim is materially different to that which occurs when plaintiffs suffer loss because they, themselves, are induced by misleading representations to perform some act or omission by which they are prejudiced.",
+      "id": "s204"
+    },
+    {
+      "text": "The difference lies in the fact that in the first category of case no conduct on the part of the plaintiff forms a link in the causation chain.",
+      "id": "s205"
+    },
+    {
+      "text": "In the second category, the inducement of the plaintiff and his or her act or omission causing loss is an essential part of the chain.",
+      "id": "s206"
+    },
+    {
+      "text": "Without such inducement and a consequential act or omission on the part of the plaintiff there is indeed no linking chain between the misleading conduct and the plaintiff's loss.",
+      "id": "s207"
+    },
+    {
+      "text": "[ 157 ] This analysis demonstrates the fallacy of applying the so-called indirect theory of causation to this case.",
+      "id": "s208"
+    },
+    {
+      "text": "The facts of the present case are capable of fitting within the direct chain of causation theory posited in [155] of Digi-Tech , namely, \"firstly, misleading conduct by the defendant [said to be the respondents in this case]; secondly, an innocent party [said to be Willowdene and Transfield in this case] is induced by the misleading conduct to act in some way; thirdly, the innocent party's act, by its very nature, causes the plaintiff [said to be the applicants in this case] loss.",
+      "id": "s209"
+    },
+    {
+      "text": "On this basis, no act of the plaintiff contributes to the loss\".",
+      "id": "s210"
+    },
+    {
+      "text": "The respondents' primary answers to this claim --- that Mr Schultz held the views expressed in the directions at the time they were given and that those views were reasonably held in all of the circumstances at that time --- requires some further findings of fact and an assessment of the competing submissions in light of those findings.",
+      "id": "s211"
+    },
+    {
+      "text": "I turn now to those further factual findings.",
+      "id": "s212"
+    },
+    {
+      "text": "The concern about the Department's employee, AB, appears to have started with a complaint in April 2003 by another (anonymous) employee.",
+      "id": "s213"
+    },
+    {
+      "text": "The anonymous complainant alleged that AB was operating inappropriately by directly arranging work with a subcontractor (CPR Property) before raising a work order.",
+      "id": "s214"
+    },
+    {
+      "text": "This work was described as \"untraceable\".",
+      "id": "s215"
+    },
+    {
+      "text": "The Department's Business Assurance Unit contacted the Independent Commission Against Corruption ( ICAC ) about the allegations in the same month, April 2003.",
+      "id": "s216"
+    },
+    {
+      "text": "By the stage of contact with ICAC, the Department's Business Assurance Unit had received other information from other employees alleging that AB \"over-serviced\" properties (that is, arranged for work to be done that was not required).",
+      "id": "s217"
+    },
+    {
+      "text": "Mark Lenic, the Department's manager of the area in which AB worked, prepared a memorandum dated 20 May 2003 attaching the observations of various employees about AB's work practices and an analysis of the works orders AB had raised.",
+      "id": "s218"
+    },
+    {
+      "text": "By this stage a former employee of Willowdene (at this time mistakenly thought by Departmental officers to be a former employee of CPR Property) had also been in contact with a Department officer making various allegations about AB's work practices and AB's relationship with CPR Property.",
+      "id": "s219"
+    },
+    {
+      "text": "Mr Lenic thus treated this information as \"first hand knowledge\" of some inappropriate conduct (which it was not).",
+      "id": "s220"
+    },
+    {
+      "text": "Mr Lenic considered it clear from the material as a whole that \"some wrongdoing\" had occurred.",
+      "id": "s221"
+    },
+    {
+      "text": "He referred to AB's Departmental mobile phone records showing a large number of calls from AB to Mr Hine which was contrary to the Department's code of conduct requiring communications to be with contractors only.",
+      "id": "s222"
+    },
+    {
+      "text": "Mr Lenic recommended a full investigation by the Business Assurance Unit.",
+      "id": "s223"
+    },
+    {
+      "text": "Under s 11(2) of the Independent Commission Against Corruption Act 1988 (NSW) the principal officer of a public authority must report to ICAC \"any matter that the person suspects on reasonable grounds concerns or may concern corrupt conduct\".",
+      "id": "s224"
+    },
+    {
+      "text": "By 26 June 2003 the Department's Director-General, its principal officer, had written to ICAC in accordance with s 11 about allegations that AB may be operating inappropriately by raising works orders in favour of CPR Property.",
+      "id": "s225"
+    },
+    {
+      "text": "This report attached Mr Lenic's memorandum.",
+      "id": "s226"
+    },
+    {
+      "text": "The Director-General requested that ICAC investigate the matter.",
+      "id": "s227"
+    },
+    {
+      "text": "On 28 August 2003 the Director-General again wrote to ICAC informing it of a change of AB's role within the Department and that AB's works orders would be subject to a review by another employee.",
+      "id": "s228"
+    },
+    {
+      "text": "ICAC also received reports and other material as brought into existence within the Department during ICAC's investigation.",
+      "id": "s229"
+    },
+    {
+      "text": "This included reports by Noel Davidson, a Departmental employee, dated September 2003 and 20 October 2003.",
+      "id": "s230"
+    },
+    {
+      "text": "In the former Mr Davidson tabulated the differences between original estimates and the final costs of works required by AB.",
+      "id": "s231"
+    },
+    {
+      "text": "In the latter Mr Davidson compared his scoping of works required for certain properties to that of AB and identified a number of instances where AB's recommended works exceeded those Mr Davidson considered necessary.",
+      "id": "s232"
+    },
+    {
+      "text": "The material also included a report of Brian Gore, a Departmental employee, dated 27 October 2003.",
+      "id": "s233"
+    },
+    {
+      "text": "Like Mr Davidson, Mr Gore identified irregularities in AB's works orders such as including items under the wrong codes, apparently excessive numbers of certain items, use of wrong pay rates, and incorrect allocations of charges between the Department and its tenants.",
+      "id": "s234"
+    },
+    {
+      "text": "The anomalies and irregularities observed by the Department were a cause for concern because they showed a pattern of costing the Department more money than the analysing officers considered necessary or reasonable.",
+      "id": "s235"
+    },
+    {
+      "text": "As part of its investigation ICAC obtained documents from the Department and conducted interviews with or took statements from relevant employees and other persons.",
+      "id": "s236"
+    },
+    {
+      "text": "ICAC interviewed Mr Lenic and Mr Davidson, amongst others.",
+      "id": "s237"
+    },
+    {
+      "text": "ICAC also took a statement from Mr Gore.",
+      "id": "s238"
+    },
+    {
+      "text": "In addition, ICAC conducted various covert surveillance operations.",
+      "id": "s239"
+    },
+    {
+      "text": "ICAC's investigation concluded on 5 February 2004.",
+      "id": "s240"
+    },
+    {
+      "text": "On that date ICAC forwarded a letter to the Department containing the following findings and conclusions: \n \n COMMISSION INVESTIGATION FINDINGS \n \n\n The Commission obtained no specific information confirming that [AB] is bypassing the head contractor, however, it has been established that [AB] has a close relationship with CPR.",
+      "id": "s241"
+    },
+    {
+      "text": "A full audit of [AB's] finances has not revealed any unexplained income or identified that [AB] is living beyond his means.",
+      "id": "s242"
+    },
+    {
+      "text": "The Commission has established that [AB] has a non-disclosed conflict of interest in that he has been working with/for CPR.",
+      "id": "s243"
+    },
+    {
+      "text": "[AB's] exact role with CPR was not established, however, he was observed assisting in moving building materials at a DoH site with other CPR workers.",
+      "id": "s244"
+    },
+    {
+      "text": "[AB's] telephone contact with CPR principle Mr. Robert Hind (sic) appears to be in direct contravention of departmental policy.",
+      "id": "s245"
+    },
+    {
+      "text": "The Commission identified a number of occasions where [AB] has taken a departmental vehicle home for private use without authority.",
+      "id": "s246"
+    },
+    {
+      "text": "The Commission investigation established that there is insufficient evidence of either corrupt or criminal conduct and will not be conducting further inquiries in relation to this matter.",
+      "id": "s247"
+    },
+    {
+      "text": "The Commission has found that there may exist sufficient evidence to support departmental disciplinary action against AB.",
+      "id": "s248"
+    },
+    {
+      "text": "Therefore, the matter is referred to the DoH for appropriate action.",
+      "id": "s249"
+    },
+    {
+      "text": "After ICAC referred the matter back to the Department it had a meeting with Susan Trudgett (then the new manager of the Department's Business Assurance Unit) on 18 February 2004.",
+      "id": "s250"
+    },
+    {
+      "text": "Subsequently, the Department received materials that ICAC had gathered in its investigation.",
+      "id": "s251"
+    },
+    {
+      "text": "The Department then had to deal with the issue of disciplinary action raised in the last paragraph of ICAC's letter.",
+      "id": "s252"
+    },
+    {
+      "text": "Mrs Trudgett gave evidence in the proceeding.",
+      "id": "s253"
+    },
+    {
+      "text": "Insofar as Mrs Trudgett's evidence indicated that the contents of that meeting were inconsistent with ICAC's written findings, the contents are hearsay, speculative, and inconsistent with the inference I draw that ICAC's written report fully and frankly sets out the results of its investigations.",
+      "id": "s254"
+    },
+    {
+      "text": "Insofar as ICAC's findings involved Mr Hine and CPR Property it must also be noted that Mr Hine, in this proceeding, has given unchallenged evidence about the telephone calls from AB to him, the single day on which AB worked with CPR Property for work experience and AB's stepson working as an apprentice for CPR Property through a placement from the Housing Industry Association.",
+      "id": "s255"
+    },
+    {
+      "text": "On 23 February 2004 officers of the Department, including Mrs Trudgett and Mr Schultz, attended a meeting.",
+      "id": "s256"
+    },
+    {
+      "text": "At that stage Mrs Trudgett did not understand how AB was allegedly issuing \"direct\" works orders to CPR Property.",
+      "id": "s257"
+    },
+    {
+      "text": "In fact, as is apparent from the evidence as a whole, this never occurred.",
+      "id": "s258"
+    },
+    {
+      "text": "The attendees of the meeting also decided to retain Ernst &amp; Young to provide advice before the Willowdene head contract was renewed.",
+      "id": "s259"
+    },
+    {
+      "text": "The issue of how AB directly raised work orders was still on the table at a meeting that Mrs Trudgett (but not Mr Schultz) attended with Mr Lenic, Ray Hart and Leonie King (all Departmental officers) on 25 February 2004.",
+      "id": "s260"
+    },
+    {
+      "text": "One further report was created within the Department after ICAC referred the matter back to the Department.",
+      "id": "s261"
+    },
+    {
+      "text": "This is a report by Mr Gore dated 8 March 2004.",
+      "id": "s262"
+    },
+    {
+      "text": "The report dealt with inspections of sites where Mr Gore considered the work orders showed excessive items.",
+      "id": "s263"
+    },
+    {
+      "text": "As these sites involved Willowdene as the contractor, Mr Gore said that: \n \n The QA Audit team has in its possession orders where work was ordered and no such work was needed or existed.",
+      "id": "s264"
+    },
+    {
+      "text": "As and example there is one property where 9 trees were ordered to be removed and there was no trees on site.",
+      "id": "s265"
+    },
+    {
+      "text": "It is proposed that 10 orders of this type be audited under the above clause and all information and communication between Willowdene and their sub contractor be claimed and fully audited.",
+      "id": "s266"
+    },
+    {
+      "text": "There should be no difference between the order, claim, invoices from the sub contractor, payment to Willowdene and payment from Willowdene to the sub contractor.",
+      "id": "s267"
+    },
+    {
+      "text": "If there is a difference and Willowdene paid the subcontractor for 6 trees and claimed 9 from the Department it becomes clear that the Contractor has had a \"cut of the action\".",
+      "id": "s268"
+    },
+    {
+      "text": "If however, there is a direct payment for the works without modification and the only difference is the % claimed for admin by Willowdene it can be reasonably stated that their poor auditing has left them exposed in this matter.",
+      "id": "s269"
+    },
+    {
+      "text": "I see no other way to clear this contractor of wrong doing in this matter.",
+      "id": "s270"
+    },
+    {
+      "text": "I realise that this course of action is drastic however there is no real way the external audit of the works can link the fraudulent behaviour to the Contractor.",
+      "id": "s271"
+    },
+    {
+      "text": "Mr Gore recommended that the Department's Business Assurance Unit engage a consultant auditor in order to finalise the matter.",
+      "id": "s272"
+    },
+    {
+      "text": "Mrs Trudgett attended another meeting of Departmental officers (not including Mr Schultz) on 9 March 2004 referring to steps to gather evidence about the matter.",
+      "id": "s273"
+    },
+    {
+      "text": "On 10 March 2004 the Department engaged Ernst &amp; Young to report on AB in terms of how AB carried out his work, AB's relationship with Willowdene and AB's relationship with CPR Property as a subcontractor.",
+      "id": "s274"
+    },
+    {
+      "text": "The letter said the Department anticipated that this matter would be the subject of future legal proceedings against either or all of AB, Willowdene and CPR Property.",
+      "id": "s275"
+    },
+    {
+      "text": "Wayne Gilbert, a representative of Ernst &amp; Young, attended another meeting of Departmental officers (not including Mr Schultz) on 10 March 2004 in which the Department identified its concerns about AB, Willowdene and CPR Property.",
+      "id": "s276"
+    },
+    {
+      "text": "Departmental officers (but not Mr Schultz) met again on 12 March 2004.",
+      "id": "s277"
+    },
+    {
+      "text": "On 15 March 2004 Mr Gilbert of Ernst &amp; Young gave officers of the Department a briefing on Ernst &amp; Young's investigation.",
+      "id": "s278"
+    },
+    {
+      "text": "Mr Schultz was not at this briefing.",
+      "id": "s279"
+    },
+    {
+      "text": "On the same day, 15 March 2004, the Department's internal solicitor, Antonino Calcopietro, sent an email which Mrs Trudgett read stating, amongst other things, that there appeared to be one works order for $80,000 warranting consideration.",
+      "id": "s280"
+    },
+    {
+      "text": "This is a reference to a property known as 171 Stephen Street, Blacktown ( the Stephen Street property ).",
+      "id": "s281"
+    },
+    {
+      "text": "Mr Calcopietro saw three possibilities: - (i) Willowdene did not know what was happening, (ii) Willowdene was an active participant in AB's conduct, or (iii) Willowdene was an inactive participant in AB's conduct.",
+      "id": "s282"
+    },
+    {
+      "text": "Mr Calcopietro's email did not refer to CPR Property.",
+      "id": "s283"
+    },
+    {
+      "text": "On 18 March 2004 Mrs Trudgett, Mr Schultz and Mr Gilbert met, along with other officers of the Department.",
+      "id": "s284"
+    },
+    {
+      "text": "Mrs Trudgett made a file note of this meeting which included the statement: \n \n CPR&#8594;W'dene --- until invest.",
+      "id": "s285"
+    },
+    {
+      "text": "over no work by CPR?",
+      "id": "s286"
+    },
+    {
+      "text": "Consistent with this file note Mrs Trudgett gave evidence during cross-examination as follows (which I accept): \n \n In circumstances where Ernst &amp; Young were being asked to investigate whether evidence existed to support an allegation that CPR had engaged in fraudulent or inappropriate conduct, neither you nor anyone else in the department could possibly have come to the conclusion --- could possibly have reasonably regarded CPR as a person as incompetent, negligent or otherwise unsuitable such as to lead to a conclusion that they be forever prohibited from acting as a subcontractor to the Department's head contractor?",
+      "id": "s287"
+    },
+    {
+      "text": "--- Yes, forever prohibited.",
+      "id": "s288"
+    },
+    {
+      "text": "Sorry?",
+      "id": "s289"
+    },
+    {
+      "text": "Forever prohibited is not something that was ever intended.",
+      "id": "s290"
+    },
+    {
+      "text": "It was intended for the course of the investigation.",
+      "id": "s291"
+    },
+    {
+      "text": "You are agreeing with me that no one in the Department could reasonably have regarded CPR as incompetent, negligent or otherwise unsuitable in these circumstances so as to result in them being forever prohibited from being [a] subcontractor.",
+      "id": "s292"
+    },
+    {
+      "text": "You agree with that, don't you?",
+      "id": "s293"
+    },
+    {
+      "text": "--- Yes, I agree with that.",
+      "id": "s294"
+    },
+    {
+      "text": "At the meeting of 18 March 2004 it was resolved to recommend to the Director-General that AB be suspended, Ernst &amp; Young undertake an audit of Willowdene and that Willowdene be directed not to use CPR Property as a subcontractor pending the completion of the investigation into AB.",
+      "id": "s295"
+    },
+    {
+      "text": "On the same day, 18 March 2004, Ernst &amp; Young forwarded a draft letter of engagement to the Department.",
+      "id": "s296"
+    },
+    {
+      "text": "This letter recorded that: \n \n This matter may result in disciplinary and legal proceedings against AB and CPR.",
+      "id": "s297"
+    },
+    {
+      "text": "The issues to be investigated are: \n \n Whether AB fraudulently raised or amended work orders relating to work conducted on DoH properties by CPR.",
+      "id": "s298"
+    },
+    {
+      "text": "The nature of AB's relationship with CPR and Willowdene.",
+      "id": "s299"
+    },
+    {
+      "text": "Whether AB has breached DOH policies, procedures and the Code of Conduct.",
+      "id": "s300"
+    },
+    {
+      "text": "Whether CPR have engaged in fraudulent or inappropriate conduct relating to work carried out on behalf of the Department of Housing.",
+      "id": "s301"
+    },
+    {
+      "text": "The nature of the relationship between CPR and Willowdene to determine if Willowdene have fulfilled their contractual obligations with respect to the DoH and sub-contractor.",
+      "id": "s302"
+    },
+    {
+      "text": "Objective \n \n\n \n \n The objective of this investigation is to determine whether evidence exists to support the allegations raised above.",
+      "id": "s303"
+    },
+    {
+      "text": "The \"allegations raised above\" are the \"issues\" identified in the dot points for investigation.",
+      "id": "s304"
+    },
+    {
+      "text": "On 19 March 2004 a meeting was convened so that officers of the Department could brief and make a recommendation to the Director-General.",
+      "id": "s305"
+    },
+    {
+      "text": "Mrs Trudgett and Mr Schultz, amongst other Departmental officers, attended this meeting, as did Mr Gilbert of Ernst &amp; Young.",
+      "id": "s306"
+    },
+    {
+      "text": "The meeting consisted of presentations to the Director-General by Mr Gilbert and Mary Jacobson, a Departmental officer.",
+      "id": "s307"
+    },
+    {
+      "text": "Mrs Trudgett and Mr Schultz did not address the meeting.",
+      "id": "s308"
+    },
+    {
+      "text": "I infer that the recommendation put to the Director-General was consistent with that resolved by the attendees at the meeting on 18 March 2004.",
+      "id": "s309"
+    },
+    {
+      "text": "Mrs Trudgett wrote a file note about this meeting recording that Ernst &amp; Young's audit of Willowdene was scheduled to commence on 24 March 2004.",
+      "id": "s310"
+    },
+    {
+      "text": "Mrs Trudgett also recorded the Director-General's decision that \"CPR gone\".",
+      "id": "s311"
+    },
+    {
+      "text": "Mrs Trudgett recalled that the Director-General decided that Willowdene should be instructed not to use CPR Property as a subcontractor.",
+      "id": "s312"
+    },
+    {
+      "text": "Mrs Trudgett agreed that this decision by the Director-General was that Willowdene should be prohibited from using CPR Property as a subcontractor indefinitely and not merely pending the completion of the investigation.",
+      "id": "s313"
+    },
+    {
+      "text": "Mr Calcopietro, the Departmental solicitor, recorded in a later note that: \n \n The former Director-General (who was intimately involved with the disciplinary process ...) was informally appraised that the prohibition of CPR might expose the Department to claims.",
+      "id": "s314"
+    },
+    {
+      "text": "Nonetheless, he indicated right from the outset (that is, his first formal briefing) that CPR were not to be involved with the works in Western Sydney.",
+      "id": "s315"
+    },
+    {
+      "text": "Another outcome of this meeting was the retainer of a barrister, Michael Fordham, to investigate and report on the allegations against AB.",
+      "id": "s316"
+    },
+    {
+      "text": "The retainer was sent by letter dated 23 March 2004 and requested the report by 21 April 2004.",
+      "id": "s317"
+    },
+    {
+      "text": "On the same day, 23 March 2004, the Director-General issued a letter to AB initiating an investigation under s 45(2)(a) of the Public Sector Employment and Management Act 2002 (NSW).",
+      "id": "s318"
+    },
+    {
+      "text": "The same letter suspended AB from duty on full pay pending the outcome of the investigation under s 49(1)(a) of that Act.",
+      "id": "s319"
+    },
+    {
+      "text": "In accordance with the Director-General's decision on 19 March 2004, the Department's legal branch prepared the direction to Willowdene under cl 16 of the head contract and presented it to Mr Schultz for signature.",
+      "id": "s320"
+    },
+    {
+      "text": "One copy of the written direction has been annotated in handwriting, I infer, before issue of the direction.",
+      "id": "s321"
+    },
+    {
+      "text": "An unknown Departmental officer wrote: \n \n ...raises to my mind prohibition should not occur to [sic] concrete information known.",
+      "id": "s322"
+    },
+    {
+      "text": "Despite this person's apparent misgiving, and as recorded above, the written direction to Willowdene was issued on 24 March 2004.",
+      "id": "s323"
+    },
+    {
+      "text": "The oral direction to Transfield was given on the same day.",
+      "id": "s324"
+    },
+    {
+      "text": "As noted, Willowdene and Transfield immediately ceased to use the services of CPR Property.",
+      "id": "s325"
+    },
+    {
+      "text": "Ernst &amp; Young provided its draft report on 30 April 2004.",
+      "id": "s326"
+    },
+    {
+      "text": "Ernst &amp; Young did not speak to Mr Hine or any representative of CPR Property in carrying out this investigation.",
+      "id": "s327"
+    },
+    {
+      "text": "Ernst &amp; Young found \"no overt evidence of fraud or corruption by Willowdene\".",
+      "id": "s328"
+    },
+    {
+      "text": "Insofar as their report dealt with CPR Property, Ernst &amp; Young said there was evidence that CPR Property was Willowdene's subcontractor (a matter never in doubt), Willowdene issued works orders to CPR Property (also never in doubt), CPR Property carried out the works in accordance with the works orders and approved variations (again, not in doubt) and Willowdene paid CPR in accordance with the works orders and approved variations (not in doubt).",
+      "id": "s329"
+    },
+    {
+      "text": "The Department thereafter renewed Willowdene as a contractor for a further period of two years.",
+      "id": "s330"
+    },
+    {
+      "text": "Ernst &amp; Young's final report, issued on 15 July 2004, added nothing material to the draft report.",
+      "id": "s331"
+    },
+    {
+      "text": "Mr Fordham provided his report on 13 May 2004 following a series of interviews, including with AB (but not Mr Hine or any representative of CPR Property).",
+      "id": "s332"
+    },
+    {
+      "text": "Mr Fordham concluded that the evidence supported a finding that AB misappropriated Departmental resources by raising works orders that were exaggerated in terms of works of that nature or extent not being required.",
+      "id": "s333"
+    },
+    {
+      "text": "Mr Fordham, however, found no evidence of any advantage to AB by reason of this conduct.",
+      "id": "s334"
+    },
+    {
+      "text": "Mr Fordham's references to Willowdene and CPR Property disclose that his investigation did not extend to their role or any knowledge they might or might not have had about AB's conduct.",
+      "id": "s335"
+    },
+    {
+      "text": "The Department terminated AB's employment on 6 April 2005.",
+      "id": "s336"
+    },
+    {
+      "text": "The Department withdrew the direction to Willowdene prohibiting it from using CPR Property as a subcontractor in March 2006.",
+      "id": "s337"
+    },
+    {
+      "text": "In terms of his state of mind at the time the directions were given to Willowdene and Transfield, Mr Schultz agreed that he had not carried out any independent investigations either in his role as the Principal's Representative under the head contracts or otherwise.",
+      "id": "s338"
+    },
+    {
+      "text": "Mr Schultz's opinions were based on what he heard at the meetings he attended (23 February and 18 March 2004, as well as the briefing of the Director-General on 19 March 2004).",
+      "id": "s339"
+    },
+    {
+      "text": "Mr Schultz gave the following evidence (which I accept): \n \n Is this right, that based upon the opinions you heard others express the view you say you came to was that the direction that should be given to Willowdene was to not use Mr Hine or CPR pending an investigation?",
+      "id": "s340"
+    },
+    {
+      "text": "--- Yes.",
+      "id": "s341"
+    },
+    {
+      "text": "That was because, so far as you were concerned the unsuitability of CPR at that point was only insofar as an investigation was continuing and so long as investigation continued.",
+      "id": "s342"
+    },
+    {
+      "text": "Correct?",
+      "id": "s343"
+    },
+    {
+      "text": "--- Yes.",
+      "id": "s344"
+    },
+    {
+      "text": "Is this right: you never formed the view and, of course, at any of those meetings or heard anyone else express the view at those meetings that CPR were so unsuitable that they ought be prohibited absolutely and for all time?",
+      "id": "s345"
+    },
+    {
+      "text": "I don't believe that to be the case.",
+      "id": "s346"
+    },
+    {
+      "text": "So you're not agreeing with me or ...?",
+      "id": "s347"
+    },
+    {
+      "text": "--- No, I don't believe they were to be prohibited for all of time.",
+      "id": "s348"
+    },
+    {
+      "text": "All right, yes.",
+      "id": "s349"
+    },
+    {
+      "text": "So I just may say that --- leaving aside the Director-General meeting, because we know there was a presentation to the Director-General and he made his decision, but at the other meetings where you listened to investigators, no one expressed in those meetings the view that CPR were so unsuitable that it would be prohibited as a subcontractor indefinitely.",
+      "id": "s350"
+    },
+    {
+      "text": "Do you agree?",
+      "id": "s351"
+    },
+    {
+      "text": "--- That's correct.",
+      "id": "s352"
+    },
+    {
+      "text": "You at no stage formed the view yourself that CPR was so unsuitable that they ought be prohibited from being a subcontractor indefinitely?",
+      "id": "s353"
+    },
+    {
+      "text": "--- Yes.",
+      "id": "s354"
+    },
+    {
+      "text": "Mr Schultz also said (and I accept that his evidence accurately conveys his beliefs at the time): \n \n I believe the information that had been conveyed at the meeting concerning the allegations and also the pending investigations, that was there was sufficient information conveyed to me at that meeting for me in my own mind to form the opinion that also the (sic) CPR was an unsuitable contractor to continue with the organisation whilst the investigation was taking place.",
+      "id": "s355"
+    },
+    {
+      "text": "The \"pending investigations\" in this comment are the investigations by Ernst &amp; Young (commenced 18 March 2004) and Mr Fordham (commenced 23 March 2004).",
+      "id": "s356"
+    },
+    {
+      "text": "Neither Ernst &amp; Young nor Mr Fordham had completed their investigations before the issue of the directions to Willowdene and Transfield prohibiting them from using CPR Property as a subcontractor on the Department's properties.",
+      "id": "s357"
+    },
+    {
+      "text": "Mrs Trudgett gave evidence repeating her views that the Department acted appropriately at all times.",
+      "id": "s358"
+    },
+    {
+      "text": "Mrs Trudgett stressed that the Department is a public authority.",
+      "id": "s359"
+    },
+    {
+      "text": "It had evidence that its funds were being misappropriated.",
+      "id": "s360"
+    },
+    {
+      "text": "The evidence always referred to three people --- AB, Willowdene and CPR Property.",
+      "id": "s361"
+    },
+    {
+      "text": "The Department had to act.",
+      "id": "s362"
+    },
+    {
+      "text": "The Department had no contractual relationship with CPR Property but did with Willowdene and employed AB.",
+      "id": "s363"
+    },
+    {
+      "text": "Mrs Trudgett said (and I accept) that her state of mind when the directions were issued was as follows: \n \n ...what I was convinced of was that there was a huge - should I say overwhelming weight of evidence there that linked the two [that is, AB and CPR Property] and there were the works orders that demonstrated that there was money being paid out for work that either didn't need to be done, hadn't been done or was being over serviced.",
+      "id": "s364"
+    },
+    {
+      "text": "When asked whether a subcontractor could be regarded as unsuitable so as to warrant prohibition from working on the Department's properties on the basis of mere allegations, Mrs Trudgett said that she could not answer the question.",
+      "id": "s365"
+    },
+    {
+      "text": "The applicants criticised Mrs Trudgett's evidence as partisan.",
+      "id": "s366"
+    },
+    {
+      "text": "Mrs Trudgett's evidence disclosed that she is a highly conscientious and dedicated officer of the Department.",
+      "id": "s367"
+    },
+    {
+      "text": "It is not difficult to understand why a person with these characteristics will tend to appear anxious, even eager, to defend their Department when giving evidence.",
+      "id": "s368"
+    },
+    {
+      "text": "Nevertheless, I accept that Mrs Trudgett's evidence exhibited these characteristics and must be weighed accordingly.",
+      "id": "s369"
+    },
+    {
+      "text": "Putting aside Mrs Trudgett's characterisation that the material available to the Department was \"overwhelming\" by the time the directions were issued on 24 March 2004, it is apparent the material consisted of: - (i) the fact that CPR Property was a subcontractor to Willowdene and obtained works orders from it in the area controlled by AB, (ii) analyses by various Departmental officers of AB's works orders which had led Departmental officers to the conclusion that there were anomalies in AB's scoping of works and works orders which showed a distinct pattern or tendency in one direction (that is, to increase the costs paid by the Department over and above that which the officers considered necessary or reasonable), (iii) the telephone calls from AB to Mr Hine showing a total of about 350 calls over a period of about 9 months (compared, for example, to 89 calls made to the representative of Willowdene in the same period), (iv) video surveillance showing AB working on a site with Mr Hine on one occasion, and (v) AB's stepson having a place as an apprentice with CPR Property through a scheme run through the Housing Industry Association.",
+      "id": "s370"
+    },
+    {
+      "text": "It must also be acknowledged that, at the same time that this material was available to the Department, the Department knew that ICAC (on the basis of much the same material) had found insufficient evidence of corrupt or criminal conduct to warrant continuing its investigation.",
+      "id": "s371"
+    },
+    {
+      "text": "It knew as well that Ernst &amp; Young were investigating the allegations, including the allegation \"whether CPR [Property] have (sic) engaged in fraudulent or inappropriate conduct relating to work carried out on behalf of the Department of Housing\".",
+      "id": "s372"
+    },
+    {
+      "text": "It knew that Mr Fordham was investigating all of the allegations against AB.",
+      "id": "s373"
+    },
+    {
+      "text": "It knew that it had not obtained the results of these investigations.",
+      "id": "s374"
+    },
+    {
+      "text": "Whether the directions given on 24 March 2004 were misleading and deceptive in either of the two ways which the applicants identified falls for determination in this factual context.",
+      "id": "s375"
+    },
+    {
+      "text": "The applicants' primary case is that the directions did not reflect the actual state of mind of Mr Schultz as the Principal's Representative (namely, that CPR Property was an unsuitable subcontractor \"to continue with the organisation whilst the investigation was taking place\").",
+      "id": "s376"
+    },
+    {
+      "text": "According to this submission the directions issued under cl 16 involved a prohibition and thus conveyed a representation that the Principal's Representative regarded CPR Property as unsuitable so as to warrant permanent preclusion from working as a subcontractor on the Department's properties.",
+      "id": "s377"
+    },
+    {
+      "text": "The applicants' alternative case is that the directions misleadingly conveyed that there was a reasonable basis for the opinion of the Principal's Representative as to CPR Property's unsuitability (that is, unsuitable so as to warrant permanent preclusion from working as a subcontractor on the Department's properties) when there was no such reasonable basis.",
+      "id": "s378"
+    },
+    {
+      "text": "Despite the persuasive way in which the submissions for the applicants were put, I am unable to accept them.",
+      "id": "s379"
+    },
+    {
+      "text": "The temporal distinction on which the applicants' primary claim relies --- between unsuitability so as to warrant a prohibition said to be indefinite or permanent in character and unsuitability only so as to warrant a suspension pending the completion of the investigations --- is not apparent from the terms of either cl 16 or the directions.",
+      "id": "s380"
+    },
+    {
+      "text": "It is true that both the clause and the directions involve a prohibition.",
+      "id": "s381"
+    },
+    {
+      "text": "A prohibition in this context is simply a ban for so long as the direction remains in force, however long that might be.",
+      "id": "s382"
+    },
+    {
+      "text": "A direction to Willowdene and Transfield stating that they are \"prohibited from\" using a particular subcontractor thus would be understood as simply forbidding them to use that subcontractor for so long as the direction itself remains in force.",
+      "id": "s383"
+    },
+    {
+      "text": "The difference between an intended permanent or temporary ban would not have occurred to the intended recipients of the directions or, for that matter, any other recipient.",
+      "id": "s384"
+    },
+    {
+      "text": "As to cl 16, the use of the word \"prohibit\" does not limit the Department's power to cases where the Principal's Representative reasonably regarded the subcontractor as incompetent, negligent or otherwise unsuitable so as to warrant a permanent ban.",
+      "id": "s385"
+    },
+    {
+      "text": "As to the directions, a reasonable contractor in the position of Willowdene and Transfield at the time would not understand the direction to involve any temporal component other than that the prohibition would remain in place for so long as the Department said.",
+      "id": "s386"
+    },
+    {
+      "text": "Hence, I do not accept that the word \"prohibit\" necessarily conveys a representation that CPR Property was unsuitable so as to warrant permanent preclusion from working on Departmental properties.",
+      "id": "s387"
+    },
+    {
+      "text": "The applicants' primary case, in my view, depends on a false dichotomy.",
+      "id": "s388"
+    },
+    {
+      "text": "Once the dichotomy between a permanent and temporary ban is put to one side, it is apparent that the direction accurately conveyed the state of mind of Mr Schultz, the Principal's Representative.",
+      "id": "s389"
+    },
+    {
+      "text": "Mr Schultz did consider CPR Property unsuitable to be a subcontractor working on the Department's properties.",
+      "id": "s390"
+    },
+    {
+      "text": "The fact that he did so with respect to the duration of the investigation is immaterial.",
+      "id": "s391"
+    },
+    {
+      "text": "The direction did not convey any representation about the duration of the prohibition.",
+      "id": "s392"
+    },
+    {
+      "text": "It also must be remembered that the issue in this case is not the validity of the directions.",
+      "id": "s393"
+    },
+    {
+      "text": "The Director-General was empowered to give the directions on the basis of Mr Schultz's state of mind.",
+      "id": "s394"
+    },
+    {
+      "text": "In fact, Mr Schultz gave the directions as a consequence of the decision of the Director-General on 19 March 2004.",
+      "id": "s395"
+    },
+    {
+      "text": "Nevertheless, the recipient would have recognised that the Principal's Representative (Mr Schultz) was nothing more than an agent for the Principal (the Director-General).",
+      "id": "s396"
+    },
+    {
+      "text": "Mr Schultz was an employee of the Department and, I infer, subject to the control and direction of the Director-General.",
+      "id": "s397"
+    },
+    {
+      "text": "The evidence supports the inference that, irrespective of Mr Schultz's state of mind, the Director-General was of the view that CPR Property should no longer be permitted to do work for the Department.",
+      "id": "s398"
+    },
+    {
+      "text": "The directions thus accurately conveyed the decision of the Director-General at the meeting on 19 March 2004 and, thereby, the Department's corporate position from that date.",
+      "id": "s399"
+    },
+    {
+      "text": "Once that is accepted, the artificiality of characterising the directions as misleading and deceptive in the sense the applicants claim becomes apparent.",
+      "id": "s400"
+    },
+    {
+      "text": "Further, it is also apparent that the applicants' primary submissions about the directions being misleading and deceptive are based on a suppressed premise.",
+      "id": "s401"
+    },
+    {
+      "text": "The submissions assume that once the investigation was complete the directions would be withdrawn.",
+      "id": "s402"
+    },
+    {
+      "text": "The basis for this assumption is not apparent.",
+      "id": "s403"
+    },
+    {
+      "text": "It is one thing for Mr Hine to have given unchallenged evidence in this proceeding.",
+      "id": "s404"
+    },
+    {
+      "text": "It is another to infer that, if this evidence had been given to the Department in 2004, the Department would have accepted it and considered Mr Hine to have been exonerated and withdrawn the directions in consequence.",
+      "id": "s405"
+    },
+    {
+      "text": "For example, AB put many of the same matters to Mr Fordham yet he found some of the allegations proved by reference to other evidence.",
+      "id": "s406"
+    },
+    {
+      "text": "Moreover, despite AB's evidence to much the same effect as that of Mr Hine in this proceeding, the Department terminated AB's employment following the investigation.",
+      "id": "s407"
+    },
+    {
+      "text": "The alternative submission is founded on the premise that there was no basis on which Mr Schultz could have reasonably regarded CPR Property as unsuitable in the required sense pending the completion of the investigation.",
+      "id": "s408"
+    },
+    {
+      "text": "According to this submission, the investigation included the allegations against CPR Property.",
+      "id": "s409"
+    },
+    {
+      "text": "The findings of the investigation (including by Ernst &amp; Young and Mr Fordham) were unavailable.",
+      "id": "s410"
+    },
+    {
+      "text": "Given the lack of result from the earlier ICAC investigation, no reasonable conclusion could have been reached by Mr Schultz as to CPR Property being unsuitable within the meaning of cl 16.",
+      "id": "s411"
+    },
+    {
+      "text": "As to the matters which did exist, AB made many telephone calls to Willowdene in the same period.",
+      "id": "s412"
+    },
+    {
+      "text": "AB only worked on a site with Mr Hine on one occasion for work experience.",
+      "id": "s413"
+    },
+    {
+      "text": "The main anomaly with a works order noted, relating to the Stephen Street property, involved approved variations through work orders raised by another officer and not AB.",
+      "id": "s414"
+    },
+    {
+      "text": "Further, the amount charged by CPR Property was well below the amount paid to Willowdene.",
+      "id": "s415"
+    },
+    {
+      "text": "Further, according to the submissions for the applicants, officers of the Department disclosed an early inclination to condemn Mr Hine and CPR Property and an ongoing eagerness to draw adverse conclusions against them.",
+      "id": "s416"
+    },
+    {
+      "text": "The minds of the officers, said the applicants, were closed to the very real prospect that the applicants had no involvement at all in any wrongdoing by AB.",
+      "id": "s417"
+    },
+    {
+      "text": "The officers were willing to condemn the applicants because of the lack of any perceived legal obligation owed to them by the Department, in contrast to the Department's contractual relationship with Willowdene and employment relationship with AB.",
+      "id": "s418"
+    },
+    {
+      "text": "In dealing with this alternative argument it must be remembered that this proceeding is not a challenge to the validity of the directions.",
+      "id": "s419"
+    },
+    {
+      "text": "The present question is whether the directions were misleading and deceptive in the sense claimed.",
+      "id": "s420"
+    },
+    {
+      "text": "In that regard, consideration must be given to the information available to the Department at the time and the circumstances then existing in and by which Mr Schultz formed his conclusions about the suitability of CPR Property within the meaning of cl 16.",
+      "id": "s421"
+    },
+    {
+      "text": "The applicants' submissions cannot be reconciled with the terms of cl 16 or of the directions.",
+      "id": "s422"
+    },
+    {
+      "text": "The clause did not require, and the directions did not represent, that the Principal's Representative had reached his state of mind with any particular degree of certainty or as a result of a decision-making process of any particular degree of thoroughness.",
+      "id": "s423"
+    },
+    {
+      "text": "As noted above, it seems to me that the most that can be said to have been required by the clause and represented by the directions is that the view of the Principal's Representative was reached by some rational process and on some rational basis.",
+      "id": "s424"
+    },
+    {
+      "text": "In terms of the representations that I consider were conveyed by the directions (set out at [46] above), at the time those directions were given: \n (1) The Principal's Representative regarded CPR Property as a subcontractor unsuitable to work as a subcontractor on the Department's properties.",
+      "id": "s425"
+    },
+    {
+      "text": "As discussed above, this representation was true.",
+      "id": "s426"
+    },
+    {
+      "text": "(2) The view of the Principal's Representative was reasonable in all of the circumstances in the sense that it had been reached by a rational process and was founded on a rational basis.",
+      "id": "s427"
+    },
+    {
+      "text": "It was not irrational for Mr Schultz to have relied on the information provided to him at the meetings which he attended.",
+      "id": "s428"
+    },
+    {
+      "text": "From those meetings Mr Schultz knew (or must be inferred to have known) that the Department had reviewed works orders and discovered what it considered to be anomalies in the sense of unnecessary requirements for works items or excessive in number or wrongly identified and thus involving cost to the Department over and above what it considered proper and reasonable.",
+      "id": "s429"
+    },
+    {
+      "text": "These were not mere allegations.",
+      "id": "s430"
+    },
+    {
+      "text": "They were conclusions of other Departmental officers familiar with the tasks and systems involved founded upon an analysis of works orders raised by AB.",
+      "id": "s431"
+    },
+    {
+      "text": "Mr Schultz knew (or must be inferred to have known) that the works orders related to AB's area and that AB knew that CPR Property was a regular subcontractor in that area.",
+      "id": "s432"
+    },
+    {
+      "text": "He knew (or must be inferred to have known) that there was evidence that AB was in regular (nearly daily) telephone contact with Mr Hine when the Department's policy required its officers to make arrangements through the contractor and not to contact subcontractors directly.",
+      "id": "s433"
+    },
+    {
+      "text": "He knew (or must be inferred to have known) that AB had been seen working on a site with Mr Hine.",
+      "id": "s434"
+    },
+    {
+      "text": "He knew (or must be inferred to have known) that AB's stepson was an apprentice at CPR Property.",
+      "id": "s435"
+    },
+    {
+      "text": "The fact that, if asked, Mr Hine presumably could have given the same explanation to the Department in March 2004 as he gave in his unchallenged evidence in this proceeding is not to the point.",
+      "id": "s436"
+    },
+    {
+      "text": "As noted, this is not a challenge to the validity of the directions.",
+      "id": "s437"
+    },
+    {
+      "text": "The question whether the Department unreasonably failed to obtain centrally relevant information simply does not arise.",
+      "id": "s438"
+    },
+    {
+      "text": "Equally, the fact that ICAC had found insufficient evidence of criminal or corrupt conduct to warrant an investigation and that the Department's investigations were ongoing does not make the process leading up to or basis of the issue of the directions under cl 16 unreasonable.",
+      "id": "s439"
+    },
+    {
+      "text": "ICAC referred the matter back to the Department for action.",
+      "id": "s440"
+    },
+    {
+      "text": "The Department acted in accordance with the information available to it at the time.",
+      "id": "s441"
+    },
+    {
+      "text": "The Director-General as the Principal and Mr Schultz as the Principal's Representative were reasonably entitled to consider the material that was available to them and to reach the view that CPR Property was unsuitable to perform the works on the Department's properties.",
+      "id": "s442"
+    },
+    {
+      "text": "They were not required to reach a state of satisfaction by reference to any particular legal standard (such as beyond reasonable doubt or on the balance of probabilities).",
+      "id": "s443"
+    },
+    {
+      "text": "All that the directions conveyed were that the state of mind of the Principal's Representative met the standard of \"reasonably regards...\".",
+      "id": "s444"
+    },
+    {
+      "text": "That standard was met despite the fact that, with hindsight, other options would have been available to the Department involving less risk of unfairness to the applicants.",
+      "id": "s445"
+    },
+    {
+      "text": "The fact that the Department's actions involved such a risk of unfairness, I should say, does not make the process or views unreasonable.",
+      "id": "s446"
+    },
+    {
+      "text": "The weighing of the risk to the integrity of the Department's operations and to the public money for which it was responsible against the risk of unfairness to the applicants was a matter for the Director-General.",
+      "id": "s447"
+    },
+    {
+      "text": "Finally, despite the fact there is no evidence of any person actually mentioning cl 16 in the meeting on 19 March 2009 it must be inferred from the Director-General's decision (recorded in Mrs Trudgett's notes as \"CPR gone\") that he was aware of the power vested in him by that clause and (rightly) considered the power to be available.",
+      "id": "s448"
+    },
+    {
+      "text": "(3) The Department was undertaking an investigation into CPR Property's association with a Departmental employee and allegations of misconduct by the employee arising from that association.",
+      "id": "s449"
+    },
+    {
+      "text": "This representation is also true.",
+      "id": "s450"
+    },
+    {
+      "text": "The Ernst &amp; Young and Fordham investigations were considering CPR Property's association with AB and allegations of misconduct by AB arising from that association.",
+      "id": "s451"
+    },
+    {
+      "text": "(4) The Department had sufficient cogent information indicating the existence of an association (that is, by necessary implication, an improper association) between CPR Property and the unnamed Departmental employee such as to warrant the Principal's Representative prohibiting CPR Property from working on the Department's properties.",
+      "id": "s452"
+    },
+    {
+      "text": "This representation is true as well.",
+      "id": "s453"
+    },
+    {
+      "text": "The Department did have sufficient cogent information indicating the existence of an improper association between CPR Property and AB such as to warrant the Principal's Representative prohibiting CPR Property from working on the Department's properties.",
+      "id": "s454"
+    },
+    {
+      "text": "The information is that referred to under (1) above.",
+      "id": "s455"
+    },
+    {
+      "text": "The fact that the information is properly described by the applicants as circumstantial and inconclusive does not mean that the information was not sufficiently cogent for the purpose of the issuing of a direction under cl 16.",
+      "id": "s456"
+    },
+    {
+      "text": "There was more than a mere suspicion.",
+      "id": "s457"
+    },
+    {
+      "text": "There was a view based on information, albeit inconclusive and incomplete information.",
+      "id": "s458"
+    },
+    {
+      "text": "The Department was entitled to act under cl 16 provided the pre-conditions of that provision were met.",
+      "id": "s459"
+    },
+    {
+      "text": "(5) The Department had sufficient cogent information indicating that the allegations of misconduct against its employee by reason of the association between CPR Property and the employee warranted the Principal's Representative prohibiting CPR Property from working on the Department's properties.",
+      "id": "s460"
+    },
+    {
+      "text": "This representation is also true.",
+      "id": "s461"
+    },
+    {
+      "text": "The allegations of misconduct against AB by reason of the association with CPR Property were of a most serious kind.",
+      "id": "s462"
+    },
+    {
+      "text": "The allegations were supported by the information that the Department had available to it at the time the directions were given.",
+      "id": "s463"
+    },
+    {
+      "text": "For these reasons I am not satisfied that the directions given on 24 March 2004 were misleading or deceptive.",
+      "id": "s464"
+    },
+    {
+      "text": "The directions accurately represented the position of the Director-General as the Principal and Mr Schultz as the Principal's Representative at the time.",
+      "id": "s465"
+    },
+    {
+      "text": "This aspect of the claim cannot be upheld.",
+      "id": "s466"
+    },
+    {
+      "text": "DUTY OF CARE CLAIM \n Explanation of the claim\n The applicants claimed that the respondents breached a duty of care owed to the applicants, namely to exercise reasonable care and skill in determining whether the contractual conditions of cl 16 had been fulfilled.",
+      "id": "s467"
+    },
+    {
+      "text": "According to the applicants this duty required that there be sufficient objective grounds to justify the exercise of the contractual rights afforded to the Department under that clause.",
+      "id": "s468"
+    },
+    {
+      "text": "Further, the applicants said that part of this duty included the Department investigating the matter properly before giving a direction under cl 16, such proper investigation to include giving Mr Hine an opportunity to be heard.",
+      "id": "s469"
+    },
+    {
+      "text": "The applicants said that if the Department had acted in accordance with this duty then Mr Hine would have provided to the Department the same information as contained in his unchallenged evidence before this Court.",
+      "id": "s470"
+    },
+    {
+      "text": "In his evidence before this Court, Mr Hine said that: According to the applicants the respondents had not challenged this evidence in the proceeding and thus the evidence must be accepted as the true position.",
+      "id": "s471"
+    },
+    {
+      "text": "It follows, the applicants said, that if the Department had complied with the duty of care owed to the applicants it would have found out the true position and thereby (the applicants said) not issued the directions.",
+      "id": "s472"
+    },
+    {
+      "text": "However, the Department had not exercised reasonable care and skill in determining whether the contractual conditions of cl 16 had been fulfilled and there were not sufficient objective grounds to justify the exercise of the contractual rights afforded under cl 16.",
+      "id": "s473"
+    },
+    {
+      "text": "Specifically, the Department had not properly investigated the matter before giving the directions under cl 16 on 24 March 2004 including by reason of the fact that the Department had not given Mr Hine an opportunity to be heard.",
+      "id": "s474"
+    },
+    {
+      "text": "These failures constituted breaches of the duty of care which the Department (and the Corporation) owed to the applicants and as a result of which the applicants suffered loss and damage (in short, the destruction of the business of CPR Property and related consequential losses and damage).",
+      "id": "s475"
+    },
+    {
+      "text": "Discussion\n The submissions for the applicants attempted to bring the circumstances of the case within established principles in respect of the imposition of liability for economic loss.",
+      "id": "s476"
+    },
+    {
+      "text": "Accordingly, the applicants' submissions emphasised factors said to create a relationship between the Department and the applicants such as to give rise to a duty of care, being: - (i) the long-term relationship between Mr Hine and the Department, in which he had previously worked as a sole trader contracted directly by the Department to work on its properties, (ii) the fact that Mr Hine's change in status from a sole trader to a body corporate (CPR Property) and from a direct contractor to a subcontractor was the result of a decision by the Department for the purpose of its administrative convenience only, but for which Mr Hine would have continued to work as a contractor to the Department protected by a direct contractual relationship, and the Department's knowledge of the same, (iii) the Department's knowledge that the business of Mr Hine and, it may be inferred, CPR Property, involved work only on the Department's properties, (iv) the terms of the head contract, specifically cl 16, by which the Department is said to have assumed responsibility for determining whether or not Willowdene or Transfield could use CPR Property as a subcontractor, and (v) the Department's knowledge that its exercise of power under cl 16 would cause loss to the applicants.",
+      "id": "s477"
+    },
+    {
+      "text": "The applicants said that, in these circumstances, a duty of care was owed as proposed.",
+      "id": "s478"
+    },
+    {
+      "text": "By reference to the factors identified as relevant in Perre v Apand Pty Limited (1999) 198 CLR 180 ; [1999] HCA 36 at [106] , the applicants submitted that the loss to the applicants by reason of the breach of duty was foreseeable.",
+      "id": "s479"
+    },
+    {
+      "text": "The liability was not indeterminate but related to the class of subcontractors the subject of cl 16 only.",
+      "id": "s480"
+    },
+    {
+      "text": "There was no question of autonomy involved as there was a contractual obligation to issue a direction only in accordance with the terms of cl 16.",
+      "id": "s481"
+    },
+    {
+      "text": "The applicants were vulnerable to the risk of loss by reason of the Department's conduct because they worked on the Department's properties only and the subcontracts from Willowdene and Transfield permitted termination without cause.",
+      "id": "s482"
+    },
+    {
+      "text": "The applicants' ultimate submission (set out at [132]-[133] of the written submissions on their behalf) was that: \n \n There is no reason why a remedy in tort cannot be fashioned to overcome the injustice suffered by CPR Property and Mr Hine in the present case.",
+      "id": "s483"
+    },
+    {
+      "text": "Indeed this was what the Courts have done in the context of the disappointed beneficiary cases: see White v Jones [1995] UKHL 5 ; [1995] 2 AC 207 ; Hill v Van Erp (1997) 188 CLR 159 at 235... \n \n\n \n \n The Court need not expand the law of negligence to a general class of cases, as has occurred in the aforementioned cases.",
+      "id": "s484"
+    },
+    {
+      "text": "The present case is fact specific and arises in the way in which the three parties have chosen to conduct their affairs.",
+      "id": "s485"
+    },
+    {
+      "text": "Again, despite the persuasiveness of the way in which the submissions for the applicants were put, I am unable to accept them.",
+      "id": "s486"
+    },
+    {
+      "text": "The case is not within any established category in which liability for negligence is imposed.",
+      "id": "s487"
+    },
+    {
+      "text": "The fact that the harm suffered by the applicants (loss of profits from the business of CPR Property) was a reasonably foreseeable consequence of the issue of the directions under cl 16 of the head contract does not mean that the respondents are liable in the tort of negligence to the applicants.",
+      "id": "s488"
+    },
+    {
+      "text": "Accordingly, and as McHugh J said in Perre v Apand at [94], further inquiry is required.",
+      "id": "s489"
+    },
+    {
+      "text": "Once that inquiry is undertaken it is apparent that the claim confronts numerous legal and factual difficulties.",
+      "id": "s490"
+    },
+    {
+      "text": "The first difficulty relates to the imposition of a duty of care.",
+      "id": "s491"
+    },
+    {
+      "text": "The applicants' submissions acknowledged the observation of Gummow and Hayne JJ in Graham Barclay Oysters Pty Limited v Ryan (2002) 211 CLR 540 ; [2002] HCA 54 at [145] that: \n \n ...the co-existence of knowledge of a risk of harm and power to avert or to minimise that harm does not, without more, give rise to a duty of care at common law.",
+      "id": "s492"
+    },
+    {
+      "text": "The totality of the relationship between the parties, not merely the foresight and capacity to act on the part of one of them, is the proper basis upon which a duty of care may be recognised.",
+      "id": "s493"
+    },
+    {
+      "text": "The applicants' submissions, however, did not provide a complete or realistic assessment of the relationship between the applicants and the respondents.",
+      "id": "s494"
+    },
+    {
+      "text": "This is not a case where the respondents exercised some statutory power to the applicants' detriment.",
+      "id": "s495"
+    },
+    {
+      "text": "The relationship between the respondents and the applicants was purely commercial.",
+      "id": "s496"
+    },
+    {
+      "text": "The Department owns a vast number of properties across NSW.",
+      "id": "s497"
+    },
+    {
+      "text": "It needs to have them maintained and repaired so that it can fulfil its statutory functions.",
+      "id": "s498"
+    },
+    {
+      "text": "In so doing the Department expends public money for a public purpose.",
+      "id": "s499"
+    },
+    {
+      "text": "But that does not bring any public law element into the Department's relationship with those who deal with it in providing services of maintenance and repair.",
+      "id": "s500"
+    },
+    {
+      "text": "In the context of this proceeding, the Department is no different from any other person or body which has a very large property portfolio and seeks the commercial services of third parties to keep the portfolio in good order and repair.",
+      "id": "s501"
+    },
+    {
+      "text": "It follows that the legal analysis cannot be affected by any generalised notion that government agencies should somehow be better or fairer than private entities in their commercial dealings with third parties.",
+      "id": "s502"
+    },
+    {
+      "text": "The cases in this area of liability for pure economic loss emphasise certain basic matters about the way in which our social and legal relations are structured.",
+      "id": "s503"
+    },
+    {
+      "text": "Contrary to the applicants' submissions, the issue of individual autonomy looms large in this context.",
+      "id": "s504"
+    },
+    {
+      "text": "McHugh J framed the issue this way in Perre v Apand at [100]: \n \n In determining whether the defendant owed a duty of care to the plaintiff, the ultimate issue is always whether the defendant in pursuing a course of conduct that caused injury to the plaintiff, or failing to pursue a course of conduct which would have prevented injury to the plaintiff, should have had the interest or interests of the plaintiff in contemplation before he or she pursued or failed to pursue that course of conduct.",
+      "id": "s505"
+    },
+    {
+      "text": "That issue applies whether the damage suffered is injury to person or tangible property or pure economic loss.",
+      "id": "s506"
+    },
+    {
+      "text": "If the defendant should have had those interests in mind, the law will impose a duty of care.",
+      "id": "s507"
+    },
+    {
+      "text": "If not, the law will not impose a duty.",
+      "id": "s508"
+    },
+    {
+      "text": "At [102] in Perre v Apand McHugh J continued as follows: \n \n ...indeterminacy and conduct legitimately protecting or pursuing a person's social or business interests are merely factors which negative the existence of a duty.",
+      "id": "s509"
+    },
+    {
+      "text": "That is an important limitation on their utility as a principle for determining whether a duty exists.",
+      "id": "s510"
+    },
+    {
+      "text": "Recognition of that limitation also answers the criticism that indeterminacy of liability and conduct legitimately protecting or pursuing a person's social or business interests are not useful criteria in determining duty because they are not relevant to all cases of pure economic loss.",
+      "id": "s511"
+    },
+    {
+      "text": "On the contrary, they are useful because, when they apply, they provide valid reasons for rejecting a duty.",
+      "id": "s512"
+    },
+    {
+      "text": "It hardly needs to be said that, when they are absent, no duty, or even a prima facie duty, automatically arises.",
+      "id": "s513"
+    },
+    {
+      "text": "The fundamental basis on which these propositions are founded was clearly disclosed by his Honour's observations at [114]-[116] in Perre v Apand which warrant repetition in full given the facts of the present case: \n \n [114] One of the central tenets of the common law is that a person is legally responsible for his or her choices.",
+      "id": "s514"
+    },
+    {
+      "text": "It is a corollary of that responsibility that a person is entitled to make those choices for him or her self without unjustifiable interference from others.",
+      "id": "s515"
+    },
+    {
+      "text": "In other words, the common law regards individuals as autonomous beings entitled to make, but responsible for, their own choices.",
+      "id": "s516"
+    },
+    {
+      "text": "The legal doctrines of duress, undue influence and criminal liability are premised on that view of the common law.",
+      "id": "s517"
+    },
+    {
+      "text": "In any organised society, however, individuals cannot have complete autonomy, for the good government of a society is impossible unless the sovereign power in that society has power in various circumstances to coerce the citizen.",
+      "id": "s518"
+    },
+    {
+      "text": "Nevertheless, the common law has generally sought to interfere with the autonomy of individuals only to the extent necessary for the maintenance of society.",
+      "id": "s519"
+    },
+    {
+      "text": "In the law of liability for economic loss, we have a notable example of the common law's concern for the autonomy of individuals.",
+      "id": "s520"
+    },
+    {
+      "text": "In Hill v Van Erp [(1997) 188 CLR 159 at 211], I pointed out that: \n \n\n \n \n \n \"Anglo-Australian law has never accepted the proposition that a person owes a duty of care to another person merely because the first person knows that his or her careless act may cause economic loss to the latter person.",
+      "id": "s521"
+    },
+    {
+      "text": "Social and commercial life would be very different if it did.",
+      "id": "s522"
+    },
+    {
+      "text": "Indeed, leaving aside the intentional tort cases of wrongful interference with another person's legal rights (inducing breach of contract, intimidation and conspiracy, for example) a person will generally owe no duty to prevent economic loss to another person even though the first person intends to cause economic loss to another person.",
+      "id": "s523"
+    },
+    {
+      "text": "In our free enterprise society, no one questions the right of the trader to increase its advertising or cut its prices even though that action is done with the intention of taking the market share of its rivals.",
+      "id": "s524"
+    },
+    {
+      "text": "\" \n \n \n\n \n \n [115] The immunity from liability referred to in that passage is a consequence of the common law's concern for the autonomy of the individual and its desire to give effect to the choices of the individual by not burdening his or her freedom of action.",
+      "id": "s525"
+    },
+    {
+      "text": "Nor is the immunity confined to traders.",
+      "id": "s526"
+    },
+    {
+      "text": "As long as a person is legitimately protecting or pursuing his or her social or business interests, the common law will not require that person to be concerned with the effect of his or her conduct on the economic interests of other persons.",
+      "id": "s527"
+    },
+    {
+      "text": "And that is so even when that person knows that his or her actions will cause loss to a specific individual.",
+      "id": "s528"
+    },
+    {
+      "text": "Thus, a consumer owes no duty to a trader not to cause loss to that person by withdrawing custom.",
+      "id": "s529"
+    },
+    {
+      "text": "However, where other indicia of duty are present, the cloak of immunity cannot extend to conduct which cannot be fairly described as a legitimate pursuit or protection of a person's interests.",
+      "id": "s530"
+    },
+    {
+      "text": "What then is not a legitimate protection or pursuit of one's interests?",
+      "id": "s531"
+    },
+    {
+      "text": "[116] Competitive acts not prohibited by law are legitimate unless they fall within the ambit of one of the economic torts to which I referred in Hill v Van Erp .",
+      "id": "s532"
+    },
+    {
+      "text": "Ordinary competitive conduct imposes no duty to protect others from economic loss.",
+      "id": "s533"
+    },
+    {
+      "text": "At the other end of the spectrum, conduct involving deceit, duress or intentional acts prohibited by law could seldom, if ever, be regarded as done in the legitimate protection or pursuit of one's interests.",
+      "id": "s534"
+    },
+    {
+      "text": "However, it does not follow that, other indicia of duty being present, a person will always lose the immunity given to protect the autonomy of the individual merely because his or her conduct has been done in breach of law.",
+      "id": "s535"
+    },
+    {
+      "text": "It would be curious if breach of s 52, or a provision of Pt IV, of the Trade Practices Act 1974 (Cth) automatically meant that the defendant owed a common law duty of care to all those that he or she knew would be affected by the breach.",
+      "id": "s536"
+    },
+    {
+      "text": "Between the extremes are acts whose legitimacy will no doubt affect minds differently.",
+      "id": "s537"
+    },
+    {
+      "text": "They are likely to involve sharp or ruthless conduct.",
+      "id": "s538"
+    },
+    {
+      "text": "Perhaps no more can be said in the abstract than that the line of legitimacy will be passed only when the conduct is such that the community cannot tolerate it.",
+      "id": "s539"
+    },
+    {
+      "text": "McHugh J returned to the same theme in Woolcock Street Investments Pty Ltd v CDG Pty Ltd (2004) 216 CLR 515 ; [2004] HCA 16 at [78] in these terms: \n \n In Hill v Van Erp [(1997) 188 CLR 159 at 211], I pointed out that \"Anglo-Australian law has never accepted the proposition that a person owes a duty of care to another person merely because the first person knows that his or her careless act may cause economic loss to the latter person\".",
+      "id": "s540"
+    },
+    {
+      "text": "Speaking generally, a person owes no duty to prevent economic loss to another person even though the first person intends to cause economic loss to that other person.",
+      "id": "s541"
+    },
+    {
+      "text": "This particular immunity from liability reflects the common law's concern with the autonomy of the individual and its desire to give effect to the choices of the individual by not burdening his or her freedom of action.",
+      "id": "s542"
+    },
+    {
+      "text": "Thus, as long as a person is legitimately protecting or pursuing his or her commercial interests, the common law does not require that person to be concerned with the effect of his or her conduct on the economic interests of other persons.",
+      "id": "s543"
+    },
+    {
+      "text": "These observations are significant for the resolution of the present case.",
+      "id": "s544"
+    },
+    {
+      "text": "The Department was entitled to make business arrangements for the maintenance and repair of its properties as it saw fit.",
+      "id": "s545"
+    },
+    {
+      "text": "It was also entitled to change its arrangements from time to time assuming no other legal constraint (such as a contract) confined it.",
+      "id": "s546"
+    },
+    {
+      "text": "The change that it made to its arrangements in or about 2002, to use contractors across large areas and not to contract directly with multiple individual contractors, was an administrative re-arrangement of its affairs.",
+      "id": "s547"
+    },
+    {
+      "text": "It was a re-arrangement the Department was entitled to make.",
+      "id": "s548"
+    },
+    {
+      "text": "The Department was entitled to act in what it perceived to be its own best interests, no doubt having regard to its statutory and other obligations.",
+      "id": "s549"
+    },
+    {
+      "text": "It would be strange if action that the Department was able to take in its own best interests and without regard to the interests of the multiple individual contractors could be a factor indicating the existence of a duty of care owed to any one or more of those multiple individual contractors.",
+      "id": "s550"
+    },
+    {
+      "text": "Similarly, Mr Hine was entitled to arrange his business as he saw fit.",
+      "id": "s551"
+    },
+    {
+      "text": "Presumably the fact that he worked exclusively for the Department as a sole trader and then under the auspices of CPR Property was the result of a business decision that he made about the form of operation he considered to be in the best interests of his business.",
+      "id": "s552"
+    },
+    {
+      "text": "In making that decision it must be inferred that Mr Hine weighed up for himself both the benefits and the risks.",
+      "id": "s553"
+    },
+    {
+      "text": "One obvious benefit is ease of management of a single client.",
+      "id": "s554"
+    },
+    {
+      "text": "Another might be a low risk of bills not being paid.",
+      "id": "s555"
+    },
+    {
+      "text": "One obvious risk is that if the single client decides not to use the services of the business then the business will cease unless and until replacement clients can be found.",
+      "id": "s556"
+    },
+    {
+      "text": "Whatever the risks and benefits these were matters that Mr Hine was able to weigh up.",
+      "id": "s557"
+    },
+    {
+      "text": "In our society Mr Hine was free to make his own choice as to the best way for him legitimately to pursue his own interests.",
+      "id": "s558"
+    },
+    {
+      "text": "My inference that the Department knew that Mr Hine and later CPR Property worked exclusively on the Department's properties does not alter the fact that it would be odd to treat as factors in favour of the imposition of a duty of care matters which, properly analysed, are nothing more than an expression of our law's acceptance of an individual's legal right to pursue legitimate business and commercial interests generally without regard to the impacts on others.",
+      "id": "s559"
+    },
+    {
+      "text": "For the same reasons I am unable to accept that the applicants were vulnerable to harm from the respondents' conduct in the relevant sense.",
+      "id": "s560"
+    },
+    {
+      "text": "Again, I adopt the words of McHugh J in Perre v Apand at [118] as follows: \n \n If the plaintiff has taken, or could have taken steps to protect itself from the defendant's conduct and was not induced by the defendant's conduct from taking such steps, there is no reason why the law should step in and impose a duty on the defendant to protect the plaintiff from the risk of pure economic loss.",
+      "id": "s561"
+    },
+    {
+      "text": "Gleeson CJ, Gummow, Hayne and Heydon JJ put the issue this way in Woolcock at [23]: \n \n \"Vulnerability\", in this context, is not to be understood as meaning only that the plaintiff was likely to suffer damage if reasonable care was not taken.",
+      "id": "s562"
+    },
+    {
+      "text": "Rather, \"vulnerability\" is to be understood as a reference to the plaintiff's inability to protect itself from the consequences of a defendant's want of reasonable care, either entirely or at least in a way which would cast the consequences of loss on the defendant.",
+      "id": "s563"
+    },
+    {
+      "text": "The fact that the applicants only worked on the Department's properties and could do nothing if the Director-General exercised the power under cl 16 of the head contract did not make them vulnerable in the relevant sense.",
+      "id": "s564"
+    },
+    {
+      "text": "Mr Hine chose to structure his business in the way that he saw fit and, presumably, to maximise his own commercial interests.",
+      "id": "s565"
+    },
+    {
+      "text": "He must be taken to have made a business decision to work only on the Department's properties based on his own perception of the benefits and risks of having a single large client.",
+      "id": "s566"
+    },
+    {
+      "text": "Far from that decision making him vulnerable in the relevant sense, the decision shows Mr Hine's exclusive control over his business undertaking and his associated level of risk and vulnerability to changes in circumstances.",
+      "id": "s567"
+    },
+    {
+      "text": "Our social and legal system gave Mr Hine the autonomy to arrange his business as he saw fit.",
+      "id": "s568"
+    },
+    {
+      "text": "Mr Hine could have protected himself from the Department acting with a lack of reasonable care by not working for the Department or by expanding his client base so that the loss of one client could not destroy the entire business.",
+      "id": "s569"
+    },
+    {
+      "text": "Similarly, it also could be said that the applicants had no control over the contractors' decision to give them work.",
+      "id": "s570"
+    },
+    {
+      "text": "Or that the applicants had no control over the Department's appointment of contractors.",
+      "id": "s571"
+    },
+    {
+      "text": "Or that the applicants had no control over the Department's allocation of work to contractors.",
+      "id": "s572"
+    },
+    {
+      "text": "All would be true as the applicants had no control over many things.",
+      "id": "s573"
+    },
+    {
+      "text": "But that does not make them vulnerable in the sense of being unable to protect themselves from harm.",
+      "id": "s574"
+    },
+    {
+      "text": "Once these factors are put to one side (as I consider they must be, consistent with principle) the only matter left is the existence of cl 16 of the general conditions of the head contract.",
+      "id": "s575"
+    },
+    {
+      "text": "The first and obvious point is that cl 16 is in a contract between the Corporation and the contractors (specifically, Willowdene and Transfield).",
+      "id": "s576"
+    },
+    {
+      "text": "It is not apparent that Mr Hine knew about cl 16 before he received the directions or in any way relied on the clause in the arrangement of his business affairs.",
+      "id": "s577"
+    },
+    {
+      "text": "In these circumstances it is not clear how the presence of cl 16 in the head contract gave rise to any legal relationship (such as the existence of a duty of care) between the Corporation or the Department and the applicants.",
+      "id": "s578"
+    },
+    {
+      "text": "I also do not see cl 16 as a provision by which the respondents assumed any responsibility towards the class of existing or potential subcontractors.",
+      "id": "s579"
+    },
+    {
+      "text": "My inferences that the Department must have anticipated the almost routine use of subcontractors by the contractors and that many of the trade contractors with whom the Department used to contract directly would continue to work on its properties as subcontractors are insufficient to constitute the clause as having that legal consequence.",
+      "id": "s580"
+    },
+    {
+      "text": "The clause simply vests a conditional power in the Department to prohibit the contractor from using a particular subcontractor on the specified grounds.",
+      "id": "s581"
+    },
+    {
+      "text": "It is a power of the Department as against the contractor.",
+      "id": "s582"
+    },
+    {
+      "text": "It is not a power carrying with it a duty owed to the subcontractor.",
+      "id": "s583"
+    },
+    {
+      "text": "I cannot see any similarity between the present case and the \"disappointed beneficiary\" cases.",
+      "id": "s584"
+    },
+    {
+      "text": "As apparent from the discussion in Hill v Van Erp (1997) 188 CLR 159 , in such cases the primary relationship is between a solicitor and a client where there is an established duty of care.",
+      "id": "s585"
+    },
+    {
+      "text": "Breach of the duty causes no loss to the testator.",
+      "id": "s586"
+    },
+    {
+      "text": "The loss is that of the disappointed beneficiary.",
+      "id": "s587"
+    },
+    {
+      "text": "But the interests of the testator and beneficiary are common.",
+      "id": "s588"
+    },
+    {
+      "text": "The testator's purpose in retaining the solicitor is to ensure their will is effective to dispose of the estate as the testator wishes.",
+      "id": "s589"
+    },
+    {
+      "text": "In these circumstances the courts have imposed a duty of care upon the solicitor in favour of the intended beneficiary.",
+      "id": "s590"
+    },
+    {
+      "text": "In the present case, by contrast, the contractual relationship is with the contractor.",
+      "id": "s591"
+    },
+    {
+      "text": "It is difficult to see why the Department owed any duty of care to the contractor in respect of its exercise of powers under cl 16, let alone the subcontractor.",
+      "id": "s592"
+    },
+    {
+      "text": "Further, the interests of the parties are not common.",
+      "id": "s593"
+    },
+    {
+      "text": "The Department wants to ensure its properties are maintained for the best price possible.",
+      "id": "s594"
+    },
+    {
+      "text": "The contractor wants to ensure the price enables it to get a reasonable return.",
+      "id": "s595"
+    },
+    {
+      "text": "The subcontractor also wants to obtain a reasonable return for the work performed.",
+      "id": "s596"
+    },
+    {
+      "text": "The Department's purpose in retaining the contractor is not to ensure the subcontractor gets work and can profitably run a business.",
+      "id": "s597"
+    },
+    {
+      "text": "It is to ensure the work gets done properly and for a reasonable price.",
+      "id": "s598"
+    },
+    {
+      "text": "These facts cannot be characterised as analogous to the will cases or any other recognised category of case in which a duty has been found to exist.",
+      "id": "s599"
+    },
+    {
+      "text": "In terms of the factors identified as relevant in Perre v Apand and Woolcock , I accept that the issuing of the directions under cl 16 involved a reasonably foreseeable risk of harm to the applicants.",
+      "id": "s600"
+    },
+    {
+      "text": "Mrs Trudgett and Mr Schultz both agreed that harm to the applicants was obvious.",
+      "id": "s601"
+    },
+    {
+      "text": "Understandably they did not agree that the Department intended harm to the applicants.",
+      "id": "s602"
+    },
+    {
+      "text": "Harm was a mere consequence of the Department's decision that it had to act to protect its interests and the public money it manages.",
+      "id": "s603"
+    },
+    {
+      "text": "I accept their evidence.",
+      "id": "s604"
+    },
+    {
+      "text": "I also accept that this is not a case where liability would be indeterminate.",
+      "id": "s605"
+    },
+    {
+      "text": "The only persons within the class to whom the duty is owed would be those subcontractors exposed to an exercise of power under c 16.",
+      "id": "s606"
+    },
+    {
+      "text": "Nevertheless, I consider that imposition of a duty of care would impose an unreasonable burden on the autonomy of the Department (adopting the language of McHugh J in Perre v Apand at [133]).",
+      "id": "s607"
+    },
+    {
+      "text": "My reasons are those given above.",
+      "id": "s608"
+    },
+    {
+      "text": "I also do not accept that the applicants were vulnerable as required, also for the reasons given above.",
+      "id": "s609"
+    },
+    {
+      "text": "In conclusion, in circumstances where the Department was pursuing its legitimate interest in ensuring the integrity of its systems for work and that public money was not either being misappropriated or at risk of misappropriation, I can see no reason to accept that the Department \"should have had the interest or the interests of the [applicants] in contemplation before [it] pursued...that course of conduct\" ( Perre v Apand at [100]).",
+      "id": "s610"
+    },
+    {
+      "text": "Accordingly, I do not accept that the respondents owed any duty of care to the applicants.",
+      "id": "s611"
+    },
+    {
+      "text": "The second difficulty relates to the content of the duty of care said to arise.",
+      "id": "s612"
+    },
+    {
+      "text": "If I am incorrect in the conclusion that no duty existed, then I should also observe that I cannot see any basis for the conclusion that the duty of care imposed upon the respondents an obligation to do more than cl 16, in terms, required.",
+      "id": "s613"
+    },
+    {
+      "text": "In this regard the applicants submitted that the duty of care required the Department to undertake a proper investigation of the matter, including giving Mr Hine an opportunity to be heard before issuing the directions.",
+      "id": "s614"
+    },
+    {
+      "text": "Clause 16, however, contains no such obligations.",
+      "id": "s615"
+    },
+    {
+      "text": "As discussed, the clause requires only that the view of the Principal's Representative meet the description of \"reasonably regards\" and relate to one of the nominated classes (incompetent, negligent or otherwise unsuitable).",
+      "id": "s616"
+    },
+    {
+      "text": "The clause does not impose any obligation on the Department to investigate a matter either at all or in a particular way or to a particular standard.",
+      "id": "s617"
+    },
+    {
+      "text": "I have accepted that the issue of a direction carries with a representation that the view of the Principal's Representative has been reached by some rational process and on some rational basis (by reason of the reference to \"reasonably\") but this does not necessarily require an investigation of any kind.",
+      "id": "s618"
+    },
+    {
+      "text": "What is rational or \"reasonable\" depends on the circumstances as perceived at the time.",
+      "id": "s619"
+    },
+    {
+      "text": "The clause certainly does not involve as any form of necessary pre-condition which affords a right to be heard.",
+      "id": "s620"
+    },
+    {
+      "text": "The legal source of these asserted obligations is not apparent.",
+      "id": "s621"
+    },
+    {
+      "text": "They extend well beyond cl 16 which is said to be the critical factor in the imposition of the duty of care by reason of the alleged assumption of responsibility by the Department.",
+      "id": "s622"
+    },
+    {
+      "text": "Accordingly, and assuming that my rejection of that argument above is incorrect, I cannot see why the duty of care would impose obligations extending beyond the scope of that said to give rise to the duty in the first place.",
+      "id": "s623"
+    },
+    {
+      "text": "The third difficulty relates to breach.",
+      "id": "s624"
+    },
+    {
+      "text": "If, as I consider must be the case, the content of any duty of care (if one exists at all) does not extend beyond the terms of cl 16 of the head contract, then the Director-General and Principal's Representative did nothing more than exercise a power in circumstances where they were entitled to do so.",
+      "id": "s625"
+    },
+    {
+      "text": "Based on the information available at the time the Principal's Representative did reasonably regard CPR Property as unsuitable to perform the works on the Department's properties for the reasons given in the direction.",
+      "id": "s626"
+    },
+    {
+      "text": "The Director-General was entitled to act under cl 16 to protect the interests of the Department.",
+      "id": "s627"
+    },
+    {
+      "text": "The Director-General was not required to stand by and do nothing in order to ensure exploration of all or even any possible avenues by which the applicants could persuade the Department that the allegations against them were false.",
+      "id": "s628"
+    },
+    {
+      "text": "The fact that the treatment of the applicants was different from the treatment of AB and Willowdene is insufficient to establish breach.",
+      "id": "s629"
+    },
+    {
+      "text": "It is true that AB was suspended on full pay and had a full right to be heard on all the allegations.",
+      "id": "s630"
+    },
+    {
+      "text": "Willowdene also continued as a contractor while the Ernst &amp; Young investigation clearing Willowdene from wrongdoing was completed.",
+      "id": "s631"
+    },
+    {
+      "text": "Willowdene was given an opportunity to be heard in that investigation.",
+      "id": "s632"
+    },
+    {
+      "text": "In contrast, CPR Property was prohibited from working on the Department's properties.",
+      "id": "s633"
+    },
+    {
+      "text": "But the Department could not take immediate action against AB or Willowdene as it did against CPR Property because it was bound by legal obligations to them.",
+      "id": "s634"
+    },
+    {
+      "text": "It may seem unfair that the Department chose to act against CPR Property in these circumstances but unfairness at large is not the touchstone of breach.",
+      "id": "s635"
+    },
+    {
+      "text": "Breach is to be measured against the content of the duty of care found to exist.",
+      "id": "s636"
+    },
+    {
+      "text": "If a duty is found to exist then, as I have said, I cannot see how it could be other than co-extensive with cl 16.",
+      "id": "s637"
+    },
+    {
+      "text": "In that event, there was no breach.",
+      "id": "s638"
+    },
+    {
+      "text": "The fourth difficulty relates to causation.",
+      "id": "s639"
+    },
+    {
+      "text": "Even if I am incorrect in respect of each of the above conclusions, there seems to me to be a fundamental flaw in the applicants' approach to the issue of causation.",
+      "id": "s640"
+    },
+    {
+      "text": "The plank in the argument that I consider flawed is the assumption that if Mr Hine had been given a right to be heard the Principal's Representative would not have reached the view he did, the Director-General would not have acted as he did, and the directions thus would not have been issued.",
+      "id": "s641"
+    },
+    {
+      "text": "The applicants said I would make that finding because (at least as I understand it) Mr Hine's evidence in this proceeding denying any wrongdoing had not been challenged and thus must be accepted.",
+      "id": "s642"
+    },
+    {
+      "text": "But, consistent with my conclusions above, this finding does not follow from the mere acceptance of Mr Hine's unchallenged evidence in this proceeding.",
+      "id": "s643"
+    },
+    {
+      "text": "The respondents chose not to challenge Mr Hine's evidence for their own forensic reasons (apparently because they took the view that the evidence was simply irrelevant and thus not worth contesting).",
+      "id": "s644"
+    },
+    {
+      "text": "The fact that the evidence has not been challenged in this proceeding (and thus, for the purpose of this proceeding, should be accepted given the proceeding's adversarial nature) does not mean that the Department would have accepted the evidence if it had been given in 2004.",
+      "id": "s645"
+    },
+    {
+      "text": "I cannot reach any state of positive satisfaction (and certainly not on the balance of probabilities) that, if Mr Hine had been given the opportunity to explain his position to the Department in 2004 and before the directions were issued, the directions would not have been issued.",
+      "id": "s646"
+    },
+    {
+      "text": "For example, AB gave similar explanations to Mr Fordham but he did not accept some of them and findings of misconduct were made.",
+      "id": "s647"
+    },
+    {
+      "text": "The Department subsequently terminated AB's employment.",
+      "id": "s648"
+    },
+    {
+      "text": "It follows that I cannot accept that the asserted breach of the duty of care caused the applicants' loss.",
+      "id": "s649"
+    },
+    {
+      "text": "The provisions of the Civil Liability Act 2002 (NSW), which I am bound to consider and apply, do not affect my conclusions.",
+      "id": "s650"
+    },
+    {
+      "text": "I have considered the general principles in s 5B.",
+      "id": "s651"
+    },
+    {
+      "text": "The references therein (ss 5B(2)(c) and (d)) to the burden of taking precautions to avoid the risk of harm and the social utility of the activity that creates the risk of harm, at least in the context of this case, support the conclusions I have reached.",
+      "id": "s652"
+    },
+    {
+      "text": "By this I mean that the burden of investigation and decision-making the applicants seek to place on the respondents under the posited duty of care is unreasonable having regard to the very large number of properties the Department owns and the large number of works contracts in which it must be involved as a result.",
+      "id": "s653"
+    },
+    {
+      "text": "The social utility of the Department acting in what it believes to be the public interest by protecting public money from the risk of misappropriation (even if it turns out to be incorrect) is high.",
+      "id": "s654"
+    },
+    {
+      "text": "The other principles in s 5C also simply confirm the views I have reached.",
+      "id": "s655"
+    },
+    {
+      "text": "Section 5D , about causation, raises a question about the admissibility of Mr Hine's evidence (see s 5D(3)(b)) , that is Mr Hine's evidence about what he would have done was not against his interests.",
+      "id": "s656"
+    },
+    {
+      "text": "However, as I received no submissions about that issue I do not rely upon it or consider it further.",
+      "id": "s657"
+    },
+    {
+      "text": "Otherwise, given my findings above, I do not consider that \"the negligence was a necessary condition of the occurrence of the harm\" as required by s 5D(1)(a).",
+      "id": "s658"
+    },
+    {
+      "text": "It was not because I cannot find that the harm would not have occurred irrespective of the alleged negligence.",
+      "id": "s659"
+    },
+    {
+      "text": "Section 42 (principles concerning resources, responsibilities etc of public or other authorities) does not require any different or additional finding.",
+      "id": "s660"
+    },
+    {
+      "text": "For these reasons I do not accept that the respondents have any liability to the applicants for breach of the alleged duty of care.",
+      "id": "s661"
+    },
+    {
+      "text": "THE NEGLIGENT MISSTATEMENT CLAIM \n The applicants' claim for negligent misstatement involves the same arguments I have already dismissed above.",
+      "id": "s662"
+    },
+    {
+      "text": "Accordingly, the applicants contend that in issuing the directions to Willowdene and Transfield on 24 March 2004 the respondents breached a duty of care owed to the applicants.",
+      "id": "s663"
+    },
+    {
+      "text": "The respondents breached that duty because the Department did not properly investigate the matter before issuing the directions and, in particular, did not give Mr Hine an opportunity to be heard.",
+      "id": "s664"
+    },
+    {
+      "text": "The directions contained representations that were inaccurate on the two bases identified in respect of the claim for misleading and deceptive conduct.",
+      "id": "s665"
+    },
+    {
+      "text": "As a result of the negligent misstatements the applicants suffered loss and damage, For the reasons given above these claims cannot be sustained.",
+      "id": "s666"
+    },
+    {
+      "text": "The respondents did not owe any duty of care to the applicants when issuing the directions.",
+      "id": "s667"
+    },
+    {
+      "text": "The Department complied with the requirements of cl 16 of the head contract when issuing the directions.",
+      "id": "s668"
+    },
+    {
+      "text": "As a result, even if the respondents owed any duty of care to the applicants, there was no breach.",
+      "id": "s669"
+    },
+    {
+      "text": "The representations conveyed by the directions accurately reflected the positions of the Director-General as the Principal and Mr Schultz as the Principal's Representative.",
+      "id": "s670"
+    },
+    {
+      "text": "The applicants suffered loss and damage by reason of the issue of the directions but not by reason of any alleged negligence.",
+      "id": "s671"
+    },
+    {
+      "text": "It follows that the claim for negligent misstatement must also be dismissed.",
+      "id": "s672"
+    },
+    {
+      "text": "INDUCING BREACH OF CONTRACT \n The elements of this tort are described in LexisNexis.",
+      "id": "s673"
+    },
+    {
+      "text": "Halsbury's Laws of Australia (at 16 October 2009).",
+      "id": "s674"
+    },
+    {
+      "text": "415 Tort.",
+      "id": "s675"
+    },
+    {
+      "text": "'Interference with the Performance of a Contract' [415-1550] as follows: \n \n The tort of interference with contractual relations is committed where a person knowingly and intentionally interferes with contractual relations or the contractual rights of the complainant, thereby causing damage to that person, where there is no sufficient justification for that interference.... \n \n\n \n \n The interference must be unlawful and may be effected directly or indirectly.",
+      "id": "s676"
+    },
+    {
+      "text": "The contracts on which the applicants rely are the standing orders for work to CPR Property from Willowdene and Transfield as at 24 March 2004.",
+      "id": "s677"
+    },
+    {
+      "text": "Mr Hine gave evidence that after the directions were issued he was contacted by a representative of Willowdene.",
+      "id": "s678"
+    },
+    {
+      "text": "The representative instructed Mr Hine that he had to cease work on the Department's properties immediately.",
+      "id": "s679"
+    },
+    {
+      "text": "A representative of Transfield contacted Mr Hine the following day.",
+      "id": "s680"
+    },
+    {
+      "text": "The representative told Mr Hine that Transfield had to take back the 12 jobs it had just given him.",
+      "id": "s681"
+    },
+    {
+      "text": "I accept Mr Hine's evidence.",
+      "id": "s682"
+    },
+    {
+      "text": "The 12 jobs that Transfield had given CPR Property were orders pursuant to the contract between those parties.",
+      "id": "s683"
+    },
+    {
+      "text": "According to the applicants the Department knew of the contracts between CPR Property and the contractors and, by the issue of the directions, intended to procure their breach.",
+      "id": "s684"
+    },
+    {
+      "text": "I do not accept that the elements of this tort have been established on the evidence.",
+      "id": "s685"
+    },
+    {
+      "text": "The directions were authorised to be issued by cl 16 of the head contracts.",
+      "id": "s686"
+    },
+    {
+      "text": "The issue of a direction as authorised cannot be an unlawful interference with the contracts between the contractors and CPR Property.",
+      "id": "s687"
+    },
+    {
+      "text": "The evidence also does not establish any intention on the part of the respondents to interfere with the contracts between the contractors and CPR Property.",
+      "id": "s688"
+    },
+    {
+      "text": "It is true that officers of the Department knew that CPR Property was a subcontractor of Willowdene and Transfield.",
+      "id": "s689"
+    },
+    {
+      "text": "But the evidence does not prove that any officer had any intention of procuring the contracts' breach.",
+      "id": "s690"
+    },
+    {
+      "text": "The Department (through the Director-General as the Principal and Mr Schultz as the Principal's Representative) intended to exercise the power under cl 16.",
+      "id": "s691"
+    },
+    {
+      "text": "It may be accepted that they knew this would cause harm to CPR Property but no harm or interference with any contract of CPR Property was intended.",
+      "id": "s692"
+    },
+    {
+      "text": "Even if the elements of the tort were established I am unable to see why the respondents would not have available the defence of justification.",
+      "id": "s693"
+    },
+    {
+      "text": "However, as the defence was not specifically pleaded and I heard no argument about it I will say nothing more about it.",
+      "id": "s694"
+    },
+    {
+      "text": "CONCLUSIONS \n It is not difficult to understand Mr Hine's sense of grievance about what has occurred.",
+      "id": "s695"
+    },
+    {
+      "text": "Over many years he had built a successful business working exclusively on properties owned by the Department.",
+      "id": "s696"
+    },
+    {
+      "text": "Until the events of 2003-2004 his working relationship with the Department appears to have been perceived as mutually satisfactory.",
+      "id": "s697"
+    },
+    {
+      "text": "From Mr Hine's point of view he was wrongly implicated in alleged misconduct by a Departmental employee.",
+      "id": "s698"
+    },
+    {
+      "text": "Unlike the employee and the contractor involved, Mr Hine was given no chance to clear his name.",
+      "id": "s699"
+    },
+    {
+      "text": "The Department prohibited contractors from using the services of Mr Hine's company, CPR Property.",
+      "id": "s700"
+    },
+    {
+      "text": "The investigations of the conduct of the employee and contractor disclosed no evidence of any wrongdoing by Mr Hine or his company.",
+      "id": "s701"
+    },
+    {
+      "text": "While the employee ultimately was dismissed, the contractor's contract was renewed.",
+      "id": "s702"
+    },
+    {
+      "text": "Mr Hine's business, by contrast, was destroyed.",
+      "id": "s703"
+    },
+    {
+      "text": "In these circumstances it would be surprising if Mr Hine did not feel badly and unfairly treated by the Department.",
+      "id": "s704"
+    },
+    {
+      "text": "Mr Hine's counsel, Mr Stevenson SC and Mr Bova, put the arguments in support of a legal remedy for the applicants in the most comprehensive and persuasive manner possible.",
+      "id": "s705"
+    },
+    {
+      "text": "I should record that they did so pursuant to a referral under Order 80 of the Federal Court Rules , the purpose of which is to facilitate the administration of justice by the provision of legal assistance to litigants who are otherwise unable to obtain assistance.",
+      "id": "s706"
+    },
+    {
+      "text": "There is not, however, a legal remedy for every perceived injustice.",
+      "id": "s707"
+    },
+    {
+      "text": "This is particularly so when the perceived injustice involves pure economic loss arising from dealings in a wholly commercial context.",
+      "id": "s708"
+    },
+    {
+      "text": "In short, Mr Hine was entitled to act in his perceived best interest when he developed a business based on working for the Department as a single client.",
+      "id": "s709"
+    },
+    {
+      "text": "The Department was entitled to act in its perceived best interest, as a guardian of public moneys, when it decided to rely on a contractual right to prohibit contractors from engaging Mr Hine's company as a subcontractor.",
+      "id": "s710"
+    },
+    {
+      "text": "The structure of Mr Hine's business made this action by the Department particularly devastating to Mr Hine.",
+      "id": "s711"
+    },
+    {
+      "text": "But the Department's actions were lawful --- they did not involve any misleading or deceptive representation about Mr Hine's company, they did not breach any duty of care the respondents owed to the applicants, and they did not unlawfully interfere with any contract between Mr Hine's company and the contractors.",
+      "id": "s712"
+    },
+    {
+      "text": "It follows that the further amended application filed 30 October 2007 must be dismissed.",
+      "id": "s713"
+    },
+    {
+      "text": "An order for costs also must be made.",
+      "id": "s714"
+    },
+    {
+      "text": "I certify that the preceding one hundred and forty-two (142) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Jagot.",
+      "id": "s715"
+    },
+    {
+      "text": "Associate:\n \n \nDated: 4 November 2009\n \n Counsel for the Applicants: Mr J Stevenson SC and Mr C Bova \n \n Counsel for the Respondents: Mr J Robson SC and Mr L Tyndall \n \n Solicitor for the Applicants: Slater &amp; Gordon \n \n Solicitor for the Respondents: Gregory Falk &amp; Associates \n Date of Hearing: 21-23 and 25 September 2009 \n \n Date of Judgment: 4 November 2009 \n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2009/1242.html",
+      "id": "s716"
+    }
+  ]
+}

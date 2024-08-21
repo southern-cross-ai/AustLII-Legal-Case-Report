@@ -1,0 +1,712 @@
+{
+  "name": "Queensland Rail v Commissioner of Taxation [2006] FCA 816 (30 June 2006)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2006/816.html",
+  "catchphrases": [
+    {
+      "text": "diesel fuel, rebate",
+      "id": "c0"
+    },
+    {
+      "text": "meaning of \"in rail transport\"",
+      "id": "c1"
+    },
+    {
+      "text": "whether fuel used in rail transport",
+      "id": "c2"
+    },
+    {
+      "text": "customs and excise",
+      "id": "c3"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "1 This case is concerned with amendments to the Customs Act 1901 (Cth) (the \" Customs Act \") and the Excise Act 1901 (Cth) (the \" Excise Act \"), extending the diesel fuel rebate scheme.",
+      "id": "s0"
+    },
+    {
+      "text": "In introducing the relevant legislation into Parliament (Hansard, House of Representatives, Tuesday 22 June 1999 at 7049-50) the Minister for Transport and Regional Services said:\n \n 'Under this bill and the customs bill, and the environment expenditure package agreed between the government and the Australian Democrats, there will be large and enduring benefits to regional Australia, to the environment and to transport operators in the road, rail and marine sectors.",
+      "id": "s1"
+    },
+    {
+      "text": "Businesses across Australia will pay less for fuel than they do now because they will get back the GST paid on inputs, including fuel.",
+      "id": "s2"
+    },
+    {
+      "text": "It is expected that business should save around 6 c to 7 c per litre by this measure alone, although the actual amount will not be until next year after the final pre-GST half-yearly CPI adjustment to excise rates.",
+      "id": "s3"
+    },
+    {
+      "text": "' \n \n\n2 Diesel fuel is manufactured locally, but some is imported.",
+      "id": "s4"
+    },
+    {
+      "text": "Locally manufactured fuel is subject to the Excise Act whilst imported fuel is subject to the Customs Act .",
+      "id": "s5"
+    },
+    {
+      "text": "When an end user purchases such fuel, it is not identifiable as locally produced or imported.",
+      "id": "s6"
+    },
+    {
+      "text": "The relevant legislation provides benefits to a person who buys fuel for a particular use.",
+      "id": "s7"
+    },
+    {
+      "text": "It is therefore necessary that the rebate provisions in the Excise Act and the Customs Act be in similar terms.",
+      "id": "s8"
+    },
+    {
+      "text": "Relevantly, s 164(1AA) of the Customs Act provides:\n \n 'This section makes provision for a rebate to be payable in respect of diesel fuel purchased for certain usages.",
+      "id": "s9"
+    },
+    {
+      "text": "In particular (but without limiting the effect of the provisions), it sets out: \n \n \n \n (a) the particular usages of diesel fuel that would entitle a person to apply for rebate (subsection (1)); and \n ... ' \n \n \n\n3 Subsection 164(1) provides:\n \n 'A rebate is, subject to subsections (2) and (4A) and to such conditions and restrictions as are prescribed (being conditions and restrictions that relate to goods generally, to goods included in a class of goods that include diesel fuel or to diesel fuel only), payable to a person who purchases diesel fuel for use by the person: \n \n \n \n (a) in mining operations (otherwise than for the purpose of propelling any vehicle on a public road); \n \n (aa) in primary production (otherwise than for the purpose of propelling a road vehicle on a public road); \n \n (ab) in rail transport (otherwise than for the purpose of propelling a road vehicle on a public road) in the course of carrying on an enterprise; \n \n (ac) in marine transport (otherwise than for the purpose of propelling a road vehicle on a public road) in the course of carrying on an enterprise; \n \n (ad) at particular premises to generate electricity for use in the course of carrying on, at those premises, an enterprise that: \n \n \n \n \n \n (i) has, as its principal purpose, the retail sale of goods or services or the provision of hospitality; and \n \n \n \n \n \n \n \n \n \n (ii) does not have, at those premises, ready access to a commercial supply of electricity; \n \n \n \n \n \n \n (b) at residential premises to generate electricity for use in: \n \n \n \n (i) providing food and drink for; \n \n \n \n \n (ii) providing lighting, heating, air conditioning, hot water or similar amenities for; or \n \n \n \n \n \n \n \n \n \n (iii) meeting other domestic requirements of; \n \n \n \n \n \n \n residents of the premises; \n \n (c) at a hospital or nursing home or at any other institution providing medical or nursing care; or \n \n \n \n \n \n (d) at a home for aged persons.",
+      "id": "s10"
+    },
+    {
+      "text": "' \n \n \n \n\n4 For present purposes, the relevant paragraph is par 164(1)(ab).",
+      "id": "s11"
+    },
+    {
+      "text": "Some of the terms used in that paragraph are defined in subs 164(7).",
+      "id": "s12"
+    },
+    {
+      "text": "In particular, the following terms are of interest:\n \n ' carrying on an enterprise has the same meaning as in the Diesel and Alternative Fuels Grants Scheme Act 1999 .",
+      "id": "s13"
+    },
+    {
+      "text": "rail transport includes light rail transport and transport by tram, but does not include any rail transport relating to forestry.",
+      "id": "s14"
+    },
+    {
+      "text": "road vehicle means a vehicle of a kind ordinarily used on roads for the transport of persons or goods.",
+      "id": "s15"
+    },
+    {
+      "text": "' \n \n\n5 Reference to the Diesel and Alternative Fuels Grants Scheme Act 1999 discloses that the expression 'carrying on an enterprise', 'includes doing anything in the course of the commencement or termination of the enterprise.",
+      "id": "s16"
+    },
+    {
+      "text": "' That Act provides that the word 'enterprise', 'has the meaning given to it by section 38 of the \" A New Tax System (Australian Business Number) Act 1999 \" ' .",
+      "id": "s17"
+    },
+    {
+      "text": "In s 38 of that Act, the word 'enterprise' is defined as follows (see s 38):\n \n \n 'An enterprise is an activity or series of activities done, \n (a) in the form of a business; or \n \n \n (b) in the form of an adventure or concern in the nature of trade; or \n (c) on a regular or continuous basis, in the form of a lease, licence or other grant of an interest in property ;or \n ... ' \n \n\n6 Section 41 of the same Act provides that:\n \n 'business includes any profession, trade, employment, vocation or calling, but does not include occupation as an employee.",
+      "id": "s18"
+    },
+    {
+      "text": "' \n \n\n7 The relevant provision of the Excise Act is s 78A.",
+      "id": "s19"
+    },
+    {
+      "text": "It is in similar terms to s 164 of the Customs Act .",
+      "id": "s20"
+    },
+    {
+      "text": "Pursuant to subs 78A(7) and subs 78A(8), various terms have the same meanings as in the Customs Act .",
+      "id": "s21"
+    },
+    {
+      "text": "8 This case concerns the entitlement of Queensland Rail to receive a rebate in connection with the purchase of diesel fuel for use in its operations.",
+      "id": "s22"
+    },
+    {
+      "text": "Although there is no substantial dispute as to the extent of those operations, it will be of assistance in understanding the ambit of the matter if I briefly outline the evidence concerning them.",
+      "id": "s23"
+    },
+    {
+      "text": "Queensland Rail has five \"business groups\" described as follows:\n \n(a) the Passenger Services Group;\n \n(b) the Coal and Freight Services Group, now known as \"QR National\";\n \n(c) the Network Access Group;\n \n(d) the Infrastructure Services Group; and\n \n (e) the Workshops Group, now known as the \"Rollingstock and Component Services Group\".",
+      "id": "s24"
+    },
+    {
+      "text": "9 The Passenger Services Group operates commuter trains within the Brisbane region, long distance passenger trains and tourist trains.",
+      "id": "s25"
+    },
+    {
+      "text": "There are 140 stations in that region and 72 stations elsewhere in Queensland.",
+      "id": "s26"
+    },
+    {
+      "text": "In the Brisbane region, there are 300 kilometres of track which, in 2003-2004, carried 48.1 million passengers, with an average of 150 000 passenger journeys per day.",
+      "id": "s27"
+    },
+    {
+      "text": "The Coal and Freight Services Group (now known as \"QR National\"), provides freight, transport and logistic solutions to a variety of customers throughout Australia.",
+      "id": "s28"
+    },
+    {
+      "text": "It includes three divisions, Coal, Containerized Freight and Bulk Freight.",
+      "id": "s29"
+    },
+    {
+      "text": "10 The Network Access Group has responsibility for managing Queensland Rail's infrastructure, including the rail network of more than 9 500 kilometres and all associated facilities and equipment 'necessary for carrying on the rail transport enterprise, including track, bridges, tunnels, level crossing, signalling, safety critical operation systems, the electric overhead traction system, train control centres, marshalling yards, communication systems, machinery and equipment.",
+      "id": "s30"
+    },
+    {
+      "text": "' \n \n11 The Infrastructure Services Group is responsible for maintenance of Queensland Rail's rail transport infrastructure, including:\n \n(a) track construction, including sleeper laying and track laying;\n \n(b) project management and co-ordination;\n \n(c) track materials logistics management;\n \n(d) ballast cleaning and formation;\n \n(e) track grinding and lubrication;\n \n(f) track re-surfacing;\n \n(g) track re-sleepering;\n \n(h) on-track inspection services;\n \n(i) rail maintenance; and\n \n(j) trackside system and overhead maintenance.",
+      "id": "s31"
+    },
+    {
+      "text": "12 The Workshops Group (now called the Rolling Stock and Component Services Group) provides maintenance, modification, overhaul, component exchange and manufacturing support for rolling stock.",
+      "id": "s32"
+    },
+    {
+      "text": "Queensland Rail is a statutory corporation, operating pursuant to the requirements of the Transport Infrastructure Act 1994 (Qld) (the \"TI Act\").",
+      "id": "s33"
+    },
+    {
+      "text": "The TI Act requires Queensland Rail to have a safety management system.",
+      "id": "s34"
+    },
+    {
+      "text": "Queensland Rail claims that the provision of an adequate maintenance system is a necessary aspect of that system and also minimizes the cost associated with its operations.",
+      "id": "s35"
+    },
+    {
+      "text": "I accept those claims.",
+      "id": "s36"
+    },
+    {
+      "text": "13 There is no dispute concerning Queensland Rail's entitlement to rebate in connection with its use of diesel fuel in running trains.",
+      "id": "s37"
+    },
+    {
+      "text": "The dispute is as to entitlement to such rebate in connection with the use of diesel fuel in other aspects of its operations.",
+      "id": "s38"
+    },
+    {
+      "text": "There is a substantial body of evidence concerning various types of equipment used by Queensland Rail, particularly in maintenance activities and in the loading and unloading of freight.",
+      "id": "s39"
+    },
+    {
+      "text": "Some equipment is mounted \"on-rail\", either because relevant functions require that arrangement or for mobility.",
+      "id": "s40"
+    },
+    {
+      "text": "Other equipment is either stationary or moves \"off-rail\".",
+      "id": "s41"
+    },
+    {
+      "text": "Some equipment is capable of use on and off-rail.",
+      "id": "s42"
+    },
+    {
+      "text": "It is described as \"hi-rail\".",
+      "id": "s43"
+    },
+    {
+      "text": "14 In Excise Bulletin EB 2000/3 , issued on 30 June 2000, the Australian Taxation Office offered a view as to the meaning of the expression \"rail transport\" as used in the Excise Act .",
+      "id": "s44"
+    },
+    {
+      "text": "It said:\n \n 'The expression \"rail transport\" includes light rail transport and transport by tram, but does not include any rail transport relating to forestry.",
+      "id": "s45"
+    },
+    {
+      "text": "The following uses of diesel fuel are eligible for rebate: \n \n \n \n (a) in trains, trams or other vehicles operating on rail for the transport of goods or passengers, whether or not on scheduled services; \n \n (b) in trains, trams or other vehicles operating on rail carrying out activities connected with rail transport (including the forward journey of a train with a view to undertaking transport activities or the return journey after the transport activities have been carried out); \n \n (c) in trains, trams or other vehicles operating on rail to carry out: \n \n (i) repair and maintenance of tracks; \n (ii) observation of track conditions; \n \n \n \n \n (iii) reduction of fire hazards on or adjacent to tracks; \n (iv) rescue or recovery of derailed rolling stock; \n (v) re-positioning of rail vehicles; or \n \n \n \n \n \n \n (d) in trains, trams or other vehicles operating on rail for their day-to-day operations (including air conditioning, heating or lighting).",
+      "id": "s46"
+    },
+    {
+      "text": "The following uses of diesel fuel are not eligible for rebate: \n \n \n \n (a) the production or manufacture of goods (including rail vehicles); \n \n \n \n \n \n (b) the movement, handling, storage, loading or unloading of goods before or after rail transportation; \n \n \n \n \n \n (c) the transport of passengers before or after rail travel; \n \n \n \n \n \n (d) planning, development or construction of railways, tramways, light rail networks, freight terminals, storage depots or similar facilities or infrastructure; \n \n \n \n \n \n (e) the supply of goods or services (including fuels) to rail transport vehicles by means other than rail; or \n \n \n \n \n \n (f) activities not conducted on railways, tramways or light rail systems.",
+      "id": "s47"
+    },
+    {
+      "text": "' \n \n \n \n\n15 On 26 June 2003, PricewaterhouseCoopers, on behalf of Queensland Rail, wrote to the Deputy Commissioner of Taxation, seeking to amend a previous diesel rebate claim to include claims relating to use of diesel fuel in connection with:\n \n '1.",
+      "id": "s48"
+    },
+    {
+      "text": "Plant used in carrying on the enterprise (see Attachment A); \n \n 2.",
+      "id": "s49"
+    },
+    {
+      "text": "Road vehicles capable of travelling on rail (see Attachment B); \n ... ' \n \n\n16 There was also a claim for diesel fuel stock on hand, but that claim is no longer relevant.",
+      "id": "s50"
+    },
+    {
+      "text": "Attachment A, relating to 'plant used in carrying on the enterprise' , was as follows:\n \n '(a) Infrastructure Services Group (maintenance of the rail network); \n &#8226; Forklifts; \n &#8226; Bobcats; \n &#8226; Compressors; \n &#8226; steam cleaners; \n &#8226; pressure cleaners; \n &#8226; generators; \n &#8226; tractors; \n &#8226; welders; \n &#8226; wacker packers; \n &#8226; earthmoving equipment; \n &#8226; new rail construction.",
+      "id": "s51"
+    },
+    {
+      "text": "(b) Coal and Freight Services Group (provision of haulage service) \n &#8226; Forklifts; \n &#8226; wheeled overhead gantries; \n &#8226; generators; \n &#8226; tractors; \n &#8226; steam cleaners.",
+      "id": "s52"
+    },
+    {
+      "text": "(c) Workshops (maintenance and construction of rolling stock) \n &#8226; Forklifts; \n &#8226; Bobcats; \n &#8226; Compressors; \n &#8226; steam cleaners; \n &#8226; pressure cleaners; \n &#8226; generators; \n &#8226; tractors; \n &#8226; welders.",
+      "id": "s53"
+    },
+    {
+      "text": "' \n \n\n17 Attachment B (concerning road vehicles capable of travelling on-rail) was a table as follows:\n \n Light Vehicles (&lt; 4.5t) \n Total fuel $499,626.42 \n \n \n On Rail On Road Average Percentage 41.65% 58.35% Fuel Allocation $208,094.40 \n \n\n \n Diesel Trucks (&gt; 4.5t) \n Total Fuel --- $491,819.01 \n \n \n On Rail On Road Average Percentage 32.34% 67.66% Fuel Allocation $159,054.27 $332,764.74 Total Eligible 367 149 litres 332 765 litres \n\n \n18 Subsequent correspondence between the Commissioner and Queensland Rail, including a letter dated 4 September 2003 from the Deputy Commissioner to PricewaterhouseCoopers, indicates that by that date, the matters in dispute had changed slightly.",
+      "id": "s54"
+    },
+    {
+      "text": "They were as follows:\n \n \n '1.",
+      "id": "s55"
+    },
+    {
+      "text": "Is a claimant eligible for a rebate ... for diesel fuel purchased and used in: \n \n (a) Plant for planning, development and construction of railways; \n (b) Graders and slashers to level the ground; \n \n \n \n \n (c) Equipment to clean, repair and maintain locomotives and rolling stock; \n (d) Equipment for loading and unloading items onto/from trains; \n (e) Generators to provide power for work gangs.",
+      "id": "s56"
+    },
+    {
+      "text": "2.",
+      "id": "s57"
+    },
+    {
+      "text": "Is a claimant eligible for a rebate under (the Acts) for diesel fuel purchased for use in road vehicles fitted with \"hi-rail\" equipment when travelling on the railway undertaking eligible activities?",
+      "id": "s58"
+    },
+    {
+      "text": "' \n \n \n\n19 The Deputy Commissioner advised that a rebate was available for diesel fuel purchased for use in road vehicles fitted with \"hi-rail\" equipment when 'travelling on the railway undertaking eligible activities' , but not otherwise.",
+      "id": "s59"
+    },
+    {
+      "text": "20 The Deputy Commissioner identified the relevant question as whether or not the activities in question (as performed by the identified equipment) were:\n \n '... within the generally understood definition of \"transport\", that is, that they are transport activities within the ordinary meaning of the expression \"rail transport\".",
+      "id": "s60"
+    },
+    {
+      "text": "This may be on the basis that those activities are so integral to transport so as to be regarded as being within the ordinary meaning of the word \"transport\".",
+      "id": "s61"
+    },
+    {
+      "text": "If they do, then diesel fuel purchased for use in those activities can be regarded as being for use \"in transport\", and if the transport is by rail, then \"in rail transport\".",
+      "id": "s62"
+    },
+    {
+      "text": "' \n\n21 After referring to various other documents, the Deputy Commissioner observed:\n \n 'Having regard to the above, it can be said that the definition of \"rail transport\" is the act or action of carrying or conveying (passengers or goods) from one place to another by a train or tram or other vehicle that travels on either a rail (such as a monorail) or on a pair of rails (trams or trains).",
+      "id": "s63"
+    },
+    {
+      "text": "It is therefore necessary to determine whether the ancillary activities can be regarded as an act or action of carrying or conveying from one place to another.",
+      "id": "s64"
+    },
+    {
+      "text": "' \n \n\n22 After consideration of various authorities, the Deputy Commissioner concluded that:\n \n 'To be considered \"in rail transport\", the activity must satisfy the criteria of: \n \n (a) carried out on the actual rail; and \n \n (b) by a rail vehicle.",
+      "id": "s65"
+    },
+    {
+      "text": "Therefore any activities carried out not on the rail, but rather beside it or in a workshop nearby are not considered to be \"in rail transport\".",
+      "id": "s66"
+    },
+    {
+      "text": "Any activities carried out on the rail, but not with use of a rail vehicle are also not \"in rail transport\".",
+      "id": "s67"
+    },
+    {
+      "text": "Although an activity may seem integral to the actual rail transport operations, it is not necessarily \"in rail transport\".",
+      "id": "s68"
+    },
+    {
+      "text": "Therefore, the activities of: \n \n (a) planning, developing and constructing railways; \n \n (b) levelling the ground; \n \n (c) cleaning, repairing and maintaining locomotives and rolling stock; \n \n \n \n (d) loading and unloading items onto/from trains; \n \n \n \n \n \n (e) generating power for work gangs; \n \n \n \n \n are not activities \"in rail transport\".",
+      "id": "s69"
+    },
+    {
+      "text": "No rebate is payable under the off road scheme in respect of diesel fuel purchased for use in those activities.",
+      "id": "s70"
+    },
+    {
+      "text": "' \n \n\n23 As to hi-rail equipment, the Deputy Commissioner said:\n \n 'Vehicles fitted with \"hi-rail\" equipment would qualify as vehicles used in rail transport under the scheme, when the equipment is engaged in an activity which qualifies for the diesel fuel rebate scheme.",
+      "id": "s71"
+    },
+    {
+      "text": "However, a claimant will only be eligible for diesel fuel used in such vehicles where they are operated on the railway and used \"in rail transport\".",
+      "id": "s72"
+    },
+    {
+      "text": "For example, where the vehicles undertake track maintenance, they are guided by the rails as they travel along the railway repairing and maintaining it and transport repair crews and equipment.",
+      "id": "s73"
+    },
+    {
+      "text": "Any activity by the vehicle not on the railway (such as travel to and from the railway, beside the railway, positioning of the vehicle etc) or used in activities ancillary to rail transport is not eligible under the diesel fuel rebate scheme.",
+      "id": "s74"
+    },
+    {
+      "text": "Furthermore, if a vehicle is not designed for actual rail travel but simply drives on or over the rail line/tracks in the course of their activities, then any diesel fuel purchased for use is not eligible for rebate.",
+      "id": "s75"
+    },
+    {
+      "text": "Since the light commercial vehicles and diesel trucks are fitted with \"hi-rail\" equipment, they will considered to be engaged \"in rail transport\" for the purposes of the diesel fuel rebate scheme where they are operating on rails undertaking eligible activities.",
+      "id": "s76"
+    },
+    {
+      "text": "' \n \n\n24 The Deputy Commissioner's letter of 4 September 2003 was in response to particular questions posed by Queensland Rail.",
+      "id": "s77"
+    },
+    {
+      "text": "For that reason it may not have fully reflected the Deputy Commissioner's position.",
+      "id": "s78"
+    },
+    {
+      "text": "As I understand it, it is accepted the rebate will apply to use of diesel fuel in all \"on-rail\" vehicles for \"eligible activities\", not only in hi-rail vehicles (which are capable of on-rail and off-rail use).",
+      "id": "s79"
+    },
+    {
+      "text": "25 After further correspondence, Queensland Rail made a formal claim for rebate for all of its diesel use.",
+      "id": "s80"
+    },
+    {
+      "text": "On 30 April 2004, the claim was disallowed.",
+      "id": "s81"
+    },
+    {
+      "text": "Queensland Rail objected to the decision.",
+      "id": "s82"
+    },
+    {
+      "text": "The objection was disallowed.",
+      "id": "s83"
+    },
+    {
+      "text": "Queensland Rail appeals from that decision.",
+      "id": "s84"
+    },
+    {
+      "text": "26 Queensland Rail does not assert, in this case, that the rebate is payable in connection with the building of a new railway line.",
+      "id": "s85"
+    },
+    {
+      "text": "However it does not admit that the rebate is not payable in those circumstances.",
+      "id": "s86"
+    },
+    {
+      "text": "Although there are some contrary suggestions in the material, it also seems that no claim is made in connection with the construction of new rolling stock.",
+      "id": "s87"
+    },
+    {
+      "text": "The claim is in connection with loading and unloading goods and maintenance activities.",
+      "id": "s88"
+    },
+    {
+      "text": "27 It is for the appellant to demonstrate that the assessment to duty is excessive.",
+      "id": "s89"
+    },
+    {
+      "text": "In this case, Queensland Rail must demonstrate that the Deputy Commissioner's construction of the relevant legislation is erroneous.",
+      "id": "s90"
+    },
+    {
+      "text": "The Commissioner submits that in the present context, 'in rail transport' means 'in the act of transporting passengers or goods by rail.",
+      "id": "s91"
+    },
+    {
+      "text": "' \n \n28 Some preliminary points should be made concerning the effect of s 164.",
+      "id": "s92"
+    },
+    {
+      "text": "Firstly, in order to qualify for the rebate, a person must purchase diesel fuel for a specified use.",
+      "id": "s93"
+    },
+    {
+      "text": "Paragraph (a) specifies mining operations.",
+      "id": "s94"
+    },
+    {
+      "text": "That expression is extensively defined in subs 164(7).",
+      "id": "s95"
+    },
+    {
+      "text": "Paragraph (aa) specifies primary production which is also defined in some detail.",
+      "id": "s96"
+    },
+    {
+      "text": "I have previously referred to the definition of rail transport.",
+      "id": "s97"
+    },
+    {
+      "text": "Paragraph (ab), concerning rail transport, is in similar form to par (ac), concerning marine transport.",
+      "id": "s98"
+    },
+    {
+      "text": "Paragraphs (ad), (b), (c) and (d) all deal with use at particular types of premises.",
+      "id": "s99"
+    },
+    {
+      "text": "29 For the purposes of par (ab), the relevant fuel must be purchased for use:\n \n &#8226; in rail transport;\n &#8226; otherwise than for the purpose of propelling a road vehicle on a public road; and\n &#8226; in the course of carrying on an enterprise.",
+      "id": "s100"
+    },
+    {
+      "text": "30 Because of the long history of state government rail operations in Australia, one tends to infer that any reference to rail transport must be to transport on one or other of those systems.",
+      "id": "s101"
+    },
+    {
+      "text": "However the rebate is more widely available.",
+      "id": "s102"
+    },
+    {
+      "text": "It extends to use in rail transport 'in the course of carrying on an enterprise' .",
+      "id": "s103"
+    },
+    {
+      "text": "Thus it would be available to a mining company which constructed its own railway line for the purpose of transporting its product, or to a sugar mill which operated a network of cane trains.",
+      "id": "s104"
+    },
+    {
+      "text": "In such cases, the relevant enterprise will involve more than the operation of a railway.",
+      "id": "s105"
+    },
+    {
+      "text": "In the case of Queensland Rail, the relevant enterprise will be simply that.",
+      "id": "s106"
+    },
+    {
+      "text": "If the wording of par (ab) were adapted to describe its application to Queensland Rail, it would read 'in rail transport ... in the course of carrying on the enterprise of a railway (or supplying rail transport).",
+      "id": "s107"
+    },
+    {
+      "text": "' \n \n31 I mention this matter because it may lead to one of two errors in approaching the proper construction of par (ab).",
+      "id": "s108"
+    },
+    {
+      "text": "One might be tempted to conflate the two questions so that the question became whether or not the fuel was purchased for use in connection with Queensland Rail's business or enterprise.",
+      "id": "s109"
+    },
+    {
+      "text": "Such an approach might be too favourable to Queensland Rail.",
+      "id": "s110"
+    },
+    {
+      "text": "Alternatively, the dual focus upon rail transport might lead to an assumption that the expression \"rail transport\" must describe something less than Queensland Rail's entire enterprise; in other words, that the relevant rail transport must be something less than carrying on the enterprise of a railway or supplying rail transport.",
+      "id": "s111"
+    },
+    {
+      "text": "Such an approach may be unduly favourable to the Commissioner.",
+      "id": "s112"
+    },
+    {
+      "text": "32 The proper approach is to ask whether or not Queensland Rail has purchased diesel fuel for use in rail transport and if so, whether or not such use is in the course of carrying on an enterprise.",
+      "id": "s113"
+    },
+    {
+      "text": "In the present case, however, the focus is on the first question.",
+      "id": "s114"
+    },
+    {
+      "text": "33 Counsel have referred me to a number of cases concerning other paragraphs of subs 164(1).",
+      "id": "s115"
+    },
+    {
+      "text": "However they appear to be of little assistance for present purposes.",
+      "id": "s116"
+    },
+    {
+      "text": "Paragraphs (ab) and (ac) are different in structure from the other paragraphs.",
+      "id": "s117"
+    },
+    {
+      "text": "I observe, however, that the expressions \"mining operation\" and \"primary production\" suggest that the rebate is to be available in connection with any kind of use in those industries, subject only to the exceptions concerning road use.",
+      "id": "s118"
+    },
+    {
+      "text": "34 There is one case concerning par (ac).",
+      "id": "s119"
+    },
+    {
+      "text": "It is Port of Brisbane Corporation v Federal Commissioner of Taxation [2004] FCA 1232.",
+      "id": "s120"
+    },
+    {
+      "text": "That was an appeal from a decision of the Administrative Appeals Tribunal and was therefore limited to questions of law.",
+      "id": "s121"
+    },
+    {
+      "text": "The decision appears to have been based upon a finding that the Administrative Appeals Tribunal had considered irrelevant material in construing the relevant legislative provisions.",
+      "id": "s122"
+    },
+    {
+      "text": "In those circumstances, the decision can be of little assistance for present purposes.",
+      "id": "s123"
+    },
+    {
+      "text": "35 This case depends upon the meaning of the expression \"in rail transport\".",
+      "id": "s124"
+    },
+    {
+      "text": "A considerable amount of time was spent in discussing the meaning of the word \"in\", in my opinion, not a particularly fruitful area of debate.",
+      "id": "s125"
+    },
+    {
+      "text": "To my mind, the more significant aspect is the word \"transport\", with any particular connotations that the word \"rail\" may contribute.",
+      "id": "s126"
+    },
+    {
+      "text": "The Shorter Oxford Dictionary defines the word \"transport\", used as a noun, to mean:\n \n 'transfer or conveyance of property ... the carrying or conveyance of a person or thing from one place to another ... a system or means of transportation or conveyance of people, goods etc ...' \n \n\n36 The question depends substantially upon whether, in the present context, the word \"transport\" means the carriage or conveyance of persons or things or the system of transportation or conveyance.",
+      "id": "s127"
+    },
+    {
+      "text": "The Commissioner advanced the former view.",
+      "id": "s128"
+    },
+    {
+      "text": "Queensland Rail advanced the latter.",
+      "id": "s129"
+    },
+    {
+      "text": "The Commissioner submitted that the word \"in\" connoted such a close association between the use of the diesel fuel and the rail that it could only be satisfied if the usage occurred on the rail.",
+      "id": "s130"
+    },
+    {
+      "text": "Thus the movement of persons or goods (including Queensland Rail's own equipment) on rail would be included, but loading or unloading a train with loading equipment, which was not on-rail, would not.",
+      "id": "s131"
+    },
+    {
+      "text": "Similarly, the use of diesel fuel in rail-mounted track maintenance equipment would be included, but such use in non-rail mounted equipment would not.",
+      "id": "s132"
+    },
+    {
+      "text": "37 This approach may give too much significance to the word \"rail\" which is used adjectivally to qualify the word \"transport\".",
+      "id": "s133"
+    },
+    {
+      "text": "The preposition \"in\" governs the noun \"transport\".",
+      "id": "s134"
+    },
+    {
+      "text": "In other words the phrase \"in rail transport\" means \"in transport which uses rail\".",
+      "id": "s135"
+    },
+    {
+      "text": "38 If Parliament had intended that only use of diesel fuel in activities on-rail was to attract the rebate, it would have been easy to say so.",
+      "id": "s136"
+    },
+    {
+      "text": "Language analogous to the very specific language used for the purpose of excluding the rebate in the case of vehicles used on public roads and use relating to forestry might have been appropriate.",
+      "id": "s137"
+    },
+    {
+      "text": "Paragraphs (ad), (b), (c) and (d) are \"place-specific\" and might also have been appropriate models for a requirement that the relevant activity occur \"on-rail\".",
+      "id": "s138"
+    },
+    {
+      "text": "39 If the purpose of the legislation is to subsidize transport costs, particularly for regional, rural and remote areas, and to benefit the environment, then there is no apparent reason for such a narrow construction.",
+      "id": "s139"
+    },
+    {
+      "text": "The cost of providing rail transport (inevitably passed on to customers) will include the cost of fuel used in maintaining infrastructure and equipment and in loading and unloading, as well as the cost of fuel used in trains.",
+      "id": "s140"
+    },
+    {
+      "text": "The environment will presumably benefit as a result of diesel fuel use, whether it is used on or off track.",
+      "id": "s141"
+    },
+    {
+      "text": "40 Queensland Rail, in advancing its broader view of the meaning of par (ab), seeks support from the words in parenthesis, namely 'otherwise than for the purpose of propelling a road vehicle on a public road' .",
+      "id": "s142"
+    },
+    {
+      "text": "It submits that if the words \"in rail transport\" had the narrow meaning urged by the Commissioner, then it would not have been necessary expressly to exclude use of fuel for the purpose of propelling a road vehicle on a public road.",
+      "id": "s143"
+    },
+    {
+      "text": "The Commissioner points out that there are similar exceptions in other paragraphs.",
+      "id": "s144"
+    },
+    {
+      "text": "He submits that it is possible that the words were included in par (ab) (and, presumably, par (ac)) out of an abundance of caution or by oversight.",
+      "id": "s145"
+    },
+    {
+      "text": "However the careful distinction between a \"vehicle\" in par (a) and \"a road vehicle\" in pars (aa), (ab) and (ac) suggests that considerable care was exercised in deciding how the exceptions should be drafted.",
+      "id": "s146"
+    },
+    {
+      "text": "A road vehicle is 'a vehicle of a kind ordinarily used on roads for the transport of persons or goods.",
+      "id": "s147"
+    },
+    {
+      "text": "' See s 164(7).",
+      "id": "s148"
+    },
+    {
+      "text": "The use of fuel in any vehicle on a public road is excluded for the purposes of par (a), but only use in a road vehicle on a public road is excluded in the each of the other three paragraphs.",
+      "id": "s149"
+    },
+    {
+      "text": "The distinction contemplates either mining operations involving the use of vehicles (other than road vehicles) on roads, which use is not to attract the rebate, or primary production, rail transport and marine transport involving the use of vehicles (other than road vehicles) on roads, which use is to attract the rebate.",
+      "id": "s150"
+    },
+    {
+      "text": "It is not possible to take the matter any further.",
+      "id": "s151"
+    },
+    {
+      "text": "I do not accept the Commissioner's assertion that the exclusion in par (ab) was inserted by inadvertence or out of an abundance of caution.",
+      "id": "s152"
+    },
+    {
+      "text": "41 As I have said the breadth of the availability of the rebate identified in pars (a) and (aa) is difficult to reconcile with the Commissioner's argument.",
+      "id": "s153"
+    },
+    {
+      "text": "Subject to the one exception in each case, the intention is that the rebate be available in connection with all use of diesel fuel in mining operations and primary production.",
+      "id": "s154"
+    },
+    {
+      "text": "It is difficult to see why it would be thought appropriate to limit the availability in connection with the activities identified in pars (ab) and (ac).",
+      "id": "s155"
+    },
+    {
+      "text": "42 A person is entitled to the rebate if he or she 'purchases diesel fuel for use by the person' in one of the prescribed uses.",
+      "id": "s156"
+    },
+    {
+      "text": "A person who purchases diesel fuel for use in rail transport is likely to be purchasing in relatively large amounts, even if the rail system in question is very small.",
+      "id": "s157"
+    },
+    {
+      "text": "It is unlikely that such a purchaser would identify purchases as being for either on-rail or off-rail use.",
+      "id": "s158"
+    },
+    {
+      "text": "Appropriation to that use would probably occur at a later stage.",
+      "id": "s159"
+    },
+    {
+      "text": "It would be difficult for a user to satisfy the test as at the time of purchase if only some of the fuel used in a relevant enterprise attracted the rebate.",
+      "id": "s160"
+    },
+    {
+      "text": "43 The requirement that the use be 'in the course of carrying on an enterprise' also adds colour to the meaning of the words \"in rail transport\".",
+      "id": "s161"
+    },
+    {
+      "text": "It suggests that the rail transport in question is ongoing rather than occasional and of a commercial nature.",
+      "id": "s162"
+    },
+    {
+      "text": "It seems unlikely, in that context, that Parliament intended to draw an artificial distinction between activities on-rail and off-rail, all of which were necessary to the transport of people or goods by rail.",
+      "id": "s163"
+    },
+    {
+      "text": "44 In my view, the words \"in rail transport\" mean 'in a system or means of transportation or conveyance of people or goods by rail' .",
+      "id": "s164"
+    },
+    {
+      "text": "Such a system must inevitably involve loading and unloading activities and maintenance activities.",
+      "id": "s165"
+    },
+    {
+      "text": "The use of diesel fuel in the course of such activities is necessarily \"in\" that system, regardless of whether such use occurs on- or off-rail.",
+      "id": "s166"
+    },
+    {
+      "text": "45 I allow the appeal and set aside the Commissioner's decision.",
+      "id": "s167"
+    },
+    {
+      "text": "I will adjourn the matter to enable the parties to formulate appropriate orders.",
+      "id": "s168"
+    },
+    {
+      "text": "I will hear submissions as to costs.",
+      "id": "s169"
+    },
+    {
+      "text": "I certify that the preceding forty-five (45) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Dowsett.",
+      "id": "s170"
+    },
+    {
+      "text": "Associate:\n\n\nDated: 30 June 2006\n\n\n\n\n Counsel for the Applicant: Mr J W de Wijn QC\nMr S H P Stewart \n \n Solicitor for the Applicant: PricewaterhouseCoopers Legal \n \n Counsel for the Respondent: Mr J A Logan SC\nMr C D Coulsen \n \n Solicitor for the Respondent: Australian Government Solicitor \n \n Dates of Hearing: 25 &amp; 26 July 2005 \n \n Date of Judgment: 30 June 2006 \n\n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2006/816.html",
+      "id": "s171"
+    }
+  ]
+}

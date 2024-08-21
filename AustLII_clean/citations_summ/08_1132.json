@@ -1,0 +1,464 @@
+[
+  {
+    "text": "veterans' affairs",
+    "id": "cp0.0",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "continuation of claim under s 126",
+    "id": "cp0.1",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "veteran deceased",
+    "id": "cp0.2",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "death due to primary carcinoma of the liver",
+    "id": "cp0.3",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "alcohol abuse",
+    "id": "cp0.4",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "cirrhosis",
+    "id": "cp0.5",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "anxiety state",
+    "id": "cp0.6",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "claimed stressors",
+    "id": "cp0.7",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "sub-hypotheses dependant on anxiety state or alcohol abuse being war-caused",
+    "id": "cp0.8",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "decision set aside",
+    "id": "cp0.9",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "veterans' entitlements",
+    "id": "cp1.0",
+    "type": "cited",
+    "from": "[2003]"
+  },
+  {
+    "text": "claim for pension",
+    "id": "cp1.1",
+    "type": "cited",
+    "from": "[2003]"
+  },
+  {
+    "text": "veteran suffering from alcoholic liver damage (\"ald\") and post-traumatic stress disorder (\"ptsd\")",
+    "id": "cp1.2",
+    "type": "cited",
+    "from": "[2003]"
+  },
+  {
+    "text": "statements of principles (\"sop\") to be applied in determining claim for pension",
+    "id": "cp1.3",
+    "type": "cited",
+    "from": "[2003]"
+  },
+  {
+    "text": "whether open to the tribunal to conclude that veteran experienced a \"severe stressor\" as defined in ald and ptsd sops",
+    "id": "cp1.4",
+    "type": "cited",
+    "from": "[2003]"
+  },
+  {
+    "text": "\"threat of death or serious injury\" in sops can mean actual or perceived threat",
+    "id": "cp1.5",
+    "type": "cited",
+    "from": "[2003]"
+  },
+  {
+    "text": "whether futile to have claims redetermined by tribunal",
+    "id": "cp1.6",
+    "type": "cited",
+    "from": "[2003]"
+  },
+  {
+    "text": "veterans' entitlements",
+    "id": "cp4.0",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "operational service",
+    "id": "cp4.1",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "claim that post traumatic stress disorder with alcohol dependence, hypertension and neurodermatitis were war-caused",
+    "id": "cp4.2",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "consideration of statement of principles",
+    "id": "cp4.3",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "the tribunal decides that the decision under review is set aside.",
+    "id": "cp4.4",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "veterans' affairs",
+    "id": "cp5.0",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "application remitted from federal court",
+    "id": "cp5.1",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "veteran died after vrb decision",
+    "id": "cp5.2",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "claim by estate",
+    "id": "cp5.3",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "multiple hypotheses",
+    "id": "cp5.4",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "whether death from liver cancer connected with alcohol dependence",
+    "id": "cp5.5",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "applicant's representative did not call evidence",
+    "id": "cp5.6",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "decision of vrb affirmed",
+    "id": "cp5.7",
+    "type": "citing",
+    "from": "[2010]"
+  },
+  {
+    "text": "veterans' affairs",
+    "id": "cp6.0",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "veterans' entitlements",
+    "id": "cp6.1",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "operational service",
+    "id": "cp6.2",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "claim that post-traumatic stress disorder, alcohol dependence or alcohol abuse and depressive disorder war-caused",
+    "id": "cp6.3",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "whether applicant was suffering from claimed conditions",
+    "id": "cp6.4",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "applicant assisted transfer of injured sailor from patrol boat to naval vessel",
+    "id": "cp6.5",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "applicant told sailor had gone berserk on another vessel and tried to shoot those on board",
+    "id": "cp6.6",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "applicant seeing bullet damage to other vessel",
+    "id": "cp6.7",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "applicant experienced scare charge event in vung tau harbour",
+    "id": "cp6.8",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "whether conditions were war-caused",
+    "id": "cp6.9",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "consideration of statements of principles",
+    "id": "cp6.10",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "date of clinical onset can be determined in the absence of medical evidence re that issue",
+    "id": "cp6.11",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "conflict of psychiatric evidence",
+    "id": "cp6.12",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "decision under review affirmed.   practice and procedure",
+    "id": "cp6.13",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "legal professional privilege",
+    "id": "cp6.14",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "filing and service of witness statement",
+    "id": "cp6.15",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "privilege re communications with lay witness not waived.",
+    "id": "cp6.16",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "veterans' affairs",
+    "id": "cp7.0",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "widows claim for pension",
+    "id": "cp7.1",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "kind of death",
+    "id": "cp7.2",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "cause of death",
+    "id": "cp7.3",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "contribution to death by war-caused diseases",
+    "id": "cp7.4",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "ischaemic heart disease",
+    "id": "cp7.5",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "post traumatic stress disorder",
+    "id": "cp7.6",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "death from metastatic carcinoma of the colon",
+    "id": "cp7.7",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "hastening of death by ischaemic heart disease",
+    "id": "cp7.8",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "decision affirmed",
+    "id": "cp7.9",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "verterans' entitlements",
+    "id": "cp8.0",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "operational service in vietnam",
+    "id": "cp8.1",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "defence service",
+    "id": "cp8.2",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "claim for anxiety disorder and depressive disorder",
+    "id": "cp8.3",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "defence service claim conceded",
+    "id": "cp8.4",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "diagnosis of post traumatic stress disorder asserted",
+    "id": "cp8.5",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "diagnosis not made out",
+    "id": "cp8.6",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "cyclothymic disorder",
+    "id": "cp8.7",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "generalised anxiety disorder",
+    "id": "cp8.8",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "no reasonable hypothesis connecting these conditions to operational service",
+    "id": "cp8.9",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "decision affirmed",
+    "id": "cp8.10",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "veterans' affairs",
+    "id": "cp9.0",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "benefits and entitlements",
+    "id": "cp9.1",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "alcohol abuse/dependence",
+    "id": "cp9.2",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "diagnosis",
+    "id": "cp9.3",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "whether alcohol abuse war-caused",
+    "id": "cp9.4",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "clinical onset of alcohol abuse",
+    "id": "cp9.5",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "whether reasonable hypothesis",
+    "id": "cp9.6",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "deledio step 4",
+    "id": "cp9.7",
+    "type": "citing",
+    "from": "[2008]"
+  },
+  {
+    "text": "decision affirmed",
+    "id": "cp9.8",
+    "type": "citing",
+    "from": "[2008]"
+  }
+]

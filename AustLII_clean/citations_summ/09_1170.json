@@ -1,0 +1,758 @@
+[
+  {
+    "text": "criminal law",
+    "id": "cp0.0",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "search warrants",
+    "id": "cp0.1",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "judicial review of issue of",
+    "id": "cp0.2",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "construction of warrants",
+    "id": "cp0.3",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "whether a broad approach should be taken toward the requirement that a warrant contain a sufficient indication of the offence by reference to which it authorises seizure of particular things",
+    "id": "cp0.4",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "what matters a warrant should disclose",
+    "id": "cp0.5",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "whether a search warrant should be 'read fairly, and not perversely' practice and procedure",
+    "id": "cp0.6",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "court's discretion to refuse declaratory and injunctive relief in respect of the use of material said to fall outside the reach of a valid search warrant",
+    "id": "cp0.7",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "administrative law",
+    "id": "cp1.0",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "minister declining to exercise a power on own motion",
+    "id": "cp1.1",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether decision to make determination on decision-maker's own motion is \"a decision to which this act applies\" within the meaning of the administrative decisions (judicial review) act 1977 (cth) [\"the ad(jr) act\"]",
+    "id": "cp1.2",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether \"a decision under an enactment\" being the aboriginal and torres strait islander heritage protection act 1984 (cth) (\"the act \")",
+    "id": "cp1.3",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether a decision of an administrative character",
+    "id": "cp1.4",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether a conclusion reached on the way to a substantive and operative decision",
+    "id": "cp1.5",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether minister under a duty to make a decision to which the ad(jr) act applies",
+    "id": "cp1.6",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether mandamus can go under s 39b(1) or s 39b(1a)(c) of the judiciary act 1903 (cth)",
+    "id": "cp1.7",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether state minister as delegate of commonwealth minister an \"officer of the commonwealth\"",
+    "id": "cp1.8",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether making a decision as to whether or not to make a determination under s 21d(2) or s 21e(2) of the act constitutes \"conduct\" within s 6(1) of the ad(jr) act practice and procedure",
+    "id": "cp1.9",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "injunctions",
+    "id": "cp1.10",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "whether injunction available to restrain removal by third party of object potentially the subject of a declaration of preservation by minister",
+    "id": "cp1.11",
+    "type": "cited",
+    "from": "[2005]"
+  },
+  {
+    "text": "minister for immigration and multicultural affairs v thiyagarajah  administrative law",
+    "id": "cp6.0",
+    "type": "cited",
+    "from": "[2000]"
+  },
+  {
+    "text": "judicial review of administrative decision",
+    "id": "cp6.1",
+    "type": "cited",
+    "from": "[2000]"
+  },
+  {
+    "text": "error of law",
+    "id": "cp6.2",
+    "type": "cited",
+    "from": "[2000]"
+  },
+  {
+    "text": "rejection of application for protection visa",
+    "id": "cp6.3",
+    "type": "cited",
+    "from": "[2000]"
+  },
+  {
+    "text": "error must affect decision to affirm the refusal of grant of a protection visa",
+    "id": "cp6.4",
+    "type": "cited",
+    "from": "[2000]"
+  },
+  {
+    "text": "refugee review tribunal made no error of law",
+    "id": "cp6.5",
+    "type": "cited",
+    "from": "[2000]"
+  },
+  {
+    "text": "absence of power in rrt to reconsider its own decision by reason of later changed circumstances",
+    "id": "cp6.6",
+    "type": "cited",
+    "from": "[2000]"
+  },
+  {
+    "text": "appeal against decision to affirm rrt's decision to refuse protection visa",
+    "id": "cp6.7",
+    "type": "cited",
+    "from": "[2000]"
+  },
+  {
+    "text": "power of federal court to review decisions limited by migration act 1958 (cth), s 476",
+    "id": "cp6.8",
+    "type": "cited",
+    "from": "[2000]"
+  },
+  {
+    "text": "power of applicant to seek second application for protection visa limited by ss 48a and 48b",
+    "id": "cp6.9",
+    "type": "cited",
+    "from": "[2000]"
+  },
+  {
+    "text": "whether federal court has power under s 481 to refer matter to rrt for further consideration to take account of changed circumstances.",
+    "id": "cp6.10",
+    "type": "cited",
+    "from": "[2000]"
+  },
+  {
+    "text": "administrative law",
+    "id": "cp8.0",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "natural justice",
+    "id": "cp8.1",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "australian securities commission",
+    "id": "cp8.2",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "private examination",
+    "id": "cp8.3",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "transcripts released to royal commission for internal use",
+    "id": "cp8.4",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "subsequent decision to release for use in royal commission's public hearings",
+    "id": "cp8.5",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "whether examinee entitled to opportunity to object",
+    "id": "cp8.6",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "judicial review",
+    "id": "cp8.7",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "power to direct party to do any act necessary to do justice between parties",
+    "id": "cp8.8",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "extent of power",
+    "id": "cp8.9",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "administrative decisions (judicial review) act 1977 (cth), s. 16(1)(d)",
+    "id": "cp8.10",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "australian securities commission act 1989 (cth), ss. 19(2)(b) , 22 (1), 24 , 25 (3), 127 (1), (4).",
+    "id": "cp8.11",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "customs",
+    "id": "cp9.0",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "customs warrant under s.214 and schedule v customs act (cth) 1901",
+    "id": "cp9.1",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "ambit of power of seizure",
+    "id": "cp9.2",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "whether confined to documents relating to goods the subject of the information",
+    "id": "cp9.3",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "whether extends to documents relating to all other goods imported or exported within the previous 5 years",
+    "id": "cp9.4",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "ambit of expression \"relating to the goods\"",
+    "id": "cp9.5",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "whether power to seize at common law.  search warrant",
+    "id": "cp9.6",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "customs warrant under s.214 and schedule v customs act (cth) 1901",
+    "id": "cp9.7",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "whether goods not covered by warrant can be seized on reasonable belief they constitute evidence of offences against the act.",
+    "id": "cp9.8",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "criminal law",
+    "id": "cp10.0",
+    "type": "cited",
+    "from": "[1991]"
+  },
+  {
+    "text": "search warrants",
+    "id": "cp10.1",
+    "type": "cited",
+    "from": "[1991]"
+  },
+  {
+    "text": "validity of warrants",
+    "id": "cp10.2",
+    "type": "cited",
+    "from": "[1991]"
+  },
+  {
+    "text": "whether warrants indicated offences",
+    "id": "cp10.3",
+    "type": "cited",
+    "from": "[1991]"
+  },
+  {
+    "text": "specification of offences in terms of failure to comply with statutory provision which, by its nature, does not require any compliance action",
+    "id": "cp10.4",
+    "type": "cited",
+    "from": "[1991]"
+  },
+  {
+    "text": "particularity of description of things authorised to be seized",
+    "id": "cp10.5",
+    "type": "cited",
+    "from": "[1991]"
+  },
+  {
+    "text": "whether issuing justice must certify his or her satisfaction that some other person reasonably suspects commission of offences.",
+    "id": "cp10.6",
+    "type": "cited",
+    "from": "[1991]"
+  },
+  {
+    "text": "justices (q.)",
+    "id": "cp11.0",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "search warrant",
+    "id": "cp11.1",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "issue",
+    "id": "cp11.2",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "requirements",
+    "id": "cp11.3",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "reasonable grounds for suspicion or belief",
+    "id": "cp11.4",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "whether justice must entertain suspicion or belief",
+    "id": "cp11.5",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "facts to found reasonable suspicion or belief",
+    "id": "cp11.6",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "sworn complaint",
+    "id": "cp11.7",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "relevance of statements otherwise than on oath",
+    "id": "cp11.8",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "the criminal code (q.), s. 679.",
+    "id": "cp11.9",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "administrative law",
+    "id": "cp12.0",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "judicial review",
+    "id": "cp12.1",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "whether search warrants properly issued",
+    "id": "cp12.2",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "whether sufficient information on oath to satisfy justice of matters specified in s.10 of crimes act",
+    "id": "cp12.3",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "whether warrants properly executed",
+    "id": "cp12.4",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "seizure of irrelevant material.",
+    "id": "cp12.5",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "administrative law",
+    "id": "cp13.0",
+    "type": "cited",
+    "from": "[1984]"
+  },
+  {
+    "text": "remitter of actions from high court to federal court",
+    "id": "cp13.1",
+    "type": "cited",
+    "from": "[1984]"
+  },
+  {
+    "text": "federal court jurisdiction to grant mandamus, prohibition and injunctions against an officer of the commonwealth",
+    "id": "cp13.2",
+    "type": "cited",
+    "from": "[1984]"
+  },
+  {
+    "text": "validity of search warrants",
+    "id": "cp13.3",
+    "type": "cited",
+    "from": "[1984]"
+  },
+  {
+    "text": "validity of execution of search warrants",
+    "id": "cp13.4",
+    "type": "cited",
+    "from": "[1984]"
+  },
+  {
+    "text": "interlocutory relief.",
+    "id": "cp13.5",
+    "type": "cited",
+    "from": "[1984]"
+  },
+  {
+    "text": "administrative law",
+    "id": "cp14.0",
+    "type": "cited",
+    "from": "[1983]"
+  },
+  {
+    "text": "judicial review",
+    "id": "cp14.1",
+    "type": "cited",
+    "from": "[1983]"
+  },
+  {
+    "text": "application for extension of time to lodge application under administrative decisions (judicial review) act 1977",
+    "id": "cp14.2",
+    "type": "cited",
+    "from": "[1983]"
+  },
+  {
+    "text": "decision to \"stand-down\" employees following declarations under s.43a of the telecommunications act 1975",
+    "id": "cp14.3",
+    "type": "cited",
+    "from": "[1983]"
+  },
+  {
+    "text": "principles relevant to granting extension of time",
+    "id": "cp14.4",
+    "type": "cited",
+    "from": "[1983]"
+  },
+  {
+    "text": "undue delay.  administrative decisions (judicial review) act 1977 , s.11  telecommunications act 1975 , s.43a  administrative law",
+    "id": "cp14.5",
+    "type": "cited",
+    "from": "[1983]"
+  },
+  {
+    "text": "judicial review",
+    "id": "cp14.6",
+    "type": "cited",
+    "from": "[1983]"
+  },
+  {
+    "text": "application for extension of time to lodge application under administrative decisions (judicial review) act 1977 (cth)",
+    "id": "cp14.7",
+    "type": "cited",
+    "from": "[1983]"
+  },
+  {
+    "text": "decision to \"stand down\" employees following declarations under s. 43a of the telecommunications act 1975 (cth)",
+    "id": "cp14.8",
+    "type": "cited",
+    "from": "[1983]"
+  },
+  {
+    "text": "principles relevant to granting extension of time",
+    "id": "cp14.9",
+    "type": "cited",
+    "from": "[1983]"
+  },
+  {
+    "text": "undue delay",
+    "id": "cp14.10",
+    "type": "cited",
+    "from": "[1983]"
+  },
+  {
+    "text": "relevance of public interest and prejudice",
+    "id": "cp14.11",
+    "type": "cited",
+    "from": "[1983]"
+  },
+  {
+    "text": "administrative decisions (judicial review) act 1977 (cth), s. 11",
+    "id": "cp14.12",
+    "type": "cited",
+    "from": "[1983]"
+  },
+  {
+    "text": "telecommunications act 1975 (cth), s. 43a. during a period of industrial dispute the respondent \"stood down\" certain employees and made directions under s. 43a of the telecommunications act 1975 (cth) that those employees should not be paid their salary for the relevant period. following the end of the dispute the applicants' union commenced inquiries and sought legal advice as to the validity of the order to \"stand down\". the applicants gave no notice to the respondent of any intention to bring proceedings. the applications for extension of time (within which to lodge applications for orders to review) were lodged about eighteen months after the \"stand down\" orders.",
+    "id": "cp14.13",
+    "type": "cited",
+    "from": "[1983]"
+  },
+  {
+    "text": "criminal law",
+    "id": "cp15.0",
+    "type": "cited",
+    "from": "[1981]"
+  },
+  {
+    "text": "search warrant issued pursuant to crimes act 1914 s.10 authorising entry of solicitor's office and seizure of certain documents",
+    "id": "cp15.1",
+    "type": "cited",
+    "from": "[1981]"
+  },
+  {
+    "text": "appeal from primary judge's determination as to the nature and extent of search permissible in execution of warrant",
+    "id": "cp15.2",
+    "type": "cited",
+    "from": "[1981]"
+  },
+  {
+    "text": "consideration of principles applicable in determining extent of lawful search",
+    "id": "cp15.3",
+    "type": "cited",
+    "from": "[1981]"
+  },
+  {
+    "text": "whether legal professional privilege or contractual relationship between solicitor and client relevant.  crimes act 1914 (cth.) s.10.  criminal law",
+    "id": "cp15.4",
+    "type": "cited",
+    "from": "[1981]"
+  },
+  {
+    "text": "search warrant",
+    "id": "cp15.5",
+    "type": "cited",
+    "from": "[1981]"
+  },
+  {
+    "text": "authority to search solicitors' office",
+    "id": "cp15.6",
+    "type": "cited",
+    "from": "[1981]"
+  },
+  {
+    "text": "solicitors not implicated in alleged offence",
+    "id": "cp15.7",
+    "type": "cited",
+    "from": "[1981]"
+  },
+  {
+    "text": "nature and extent of permissible search",
+    "id": "cp15.8",
+    "type": "cited",
+    "from": "[1981]"
+  },
+  {
+    "text": "principles applicable",
+    "id": "cp15.9",
+    "type": "cited",
+    "from": "[1981]"
+  },
+  {
+    "text": "whether legal professional privilege relevant",
+    "id": "cp15.10",
+    "type": "cited",
+    "from": "[1981]"
+  },
+  {
+    "text": "whether contractual relationship between solicitor and client relevant",
+    "id": "cp15.11",
+    "type": "cited",
+    "from": "[1981]"
+  },
+  {
+    "text": "crimes act 1914 (cth), s. 10. a warrant was issued pursuant to s. 10 of the crimes act 1914 . the warrant purported to authorize the respondent to enter the premises of the appellant solicitors and to seize any document which might afford evidence as to the commission of offences against s. 67 of the companies ordinance 1962 (a.c.t.). the appellants were not implicated in the offences alleged in the warrant. the respondent attended at the premises of the solicitors for the purpose of executing the warrant. he wanted \"if necessary to go to any cupboard, safe or other place on the premises to obtain documents\". the appellants refused to hand over some documents on the ground of legal professional privilege and issued a writ claiming a declaration to restrain the respondent \"from pursuing . . . a threatened trespass against goods . . . in purported execution of a search warrant\". the validity of the search warrant was not attacked and the only issue raised was the extent and nature of the search permitted under the warrant.  held: per curiam, dismissing the appeal",
+    "id": "cp15.12",
+    "type": "cited",
+    "from": "[1981]"
+  },
+  {
+    "text": "(1) neither legal professional privilege nor the contractual relationship existing between solicitor and client is relevant in relation to the nature and extent of the permissible search because where a statute provides for access to documents to be available to a person the fact that those documents are held by a solicitor and were entrusted to him by a client does not provide a ground for the solicitor to refuse access to the documents.  parry-jones v. law society, (1969) 1 ch 1 ; brayley v. wilton, (1976) 2 nswlr 495 , followed.  smorgon v. australia and new zealand banking group ltd. [1976] hca 53 ; (1976), 134 clr 475 , considered.  commissioner of inland revenue v. west-walker, (1954) nzlr 191 , not followed.",
+    "id": "cp15.13",
+    "type": "cited",
+    "from": "[1981]"
+  },
+  {
+    "text": "evidence",
+    "id": "cp16.0",
+    "type": "cited",
+    "from": "[1978]"
+  },
+  {
+    "text": "illegally obtained",
+    "id": "cp16.1",
+    "type": "cited",
+    "from": "[1978]"
+  },
+  {
+    "text": "statutory offence",
+    "id": "cp16.2",
+    "type": "cited",
+    "from": "[1978]"
+  },
+  {
+    "text": "driving under influence of alcohol",
+    "id": "cp16.3",
+    "type": "cited",
+    "from": "[1978]"
+  },
+  {
+    "text": "compulsory breath and blood tests",
+    "id": "cp16.4",
+    "type": "cited",
+    "from": "[1978]"
+  },
+  {
+    "text": "grounds for requiring submission to test",
+    "id": "cp16.5",
+    "type": "cited",
+    "from": "[1978]"
+  },
+  {
+    "text": "grounds not satisfied",
+    "id": "cp16.6",
+    "type": "cited",
+    "from": "[1978]"
+  },
+  {
+    "text": "whether sample obtained illegally",
+    "id": "cp16.7",
+    "type": "cited",
+    "from": "[1978]"
+  },
+  {
+    "text": "whether evidence admissible",
+    "id": "cp16.8",
+    "type": "cited",
+    "from": "[1978]"
+  },
+  {
+    "text": "error in obtaining evidence not wilful",
+    "id": "cp16.9",
+    "type": "cited",
+    "from": "[1978]"
+  },
+  {
+    "text": "discretion to exclude",
+    "id": "cp16.10",
+    "type": "cited",
+    "from": "[1978]"
+  },
+  {
+    "text": "public policy",
+    "id": "cp16.11",
+    "type": "cited",
+    "from": "[1978]"
+  },
+  {
+    "text": "road traffic act, 1974 (w.a.), ss. 63",
+    "id": "cp16.12",
+    "type": "cited",
+    "from": "[1978]"
+  },
+  {
+    "text": "68 , 70 , 71 .",
+    "id": "cp16.13",
+    "type": "cited",
+    "from": "[1978]"
+  },
+  {
+    "text": "procedure",
+    "id": "cp17.0",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "interlocutory injunction pending appeal",
+    "id": "cp17.1",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "balance of convenience.",
+    "id": "cp17.2",
+    "type": "citing",
+    "from": "[2009]"
+  }
+]

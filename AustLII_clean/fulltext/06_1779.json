@@ -1,0 +1,420 @@
+{
+  "name": "Martech International Pty Ltd v Energy World Corporation Limited (No 4) [2006] FCA 1779 (19 December 2006)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2006/1779.html",
+  "catchphrases": [
+    {
+      "text": "apportionment",
+      "id": "c0"
+    },
+    {
+      "text": "parties successful on one issue",
+      "id": "c1"
+    },
+    {
+      "text": "unsuccessful on others",
+      "id": "c2"
+    },
+    {
+      "text": "mathematical precision not possible",
+      "id": "c3"
+    },
+    {
+      "text": "no order as to costs",
+      "id": "c4"
+    },
+    {
+      "text": "pre-judgment interest",
+      "id": "c5"
+    },
+    {
+      "text": "rate",
+      "id": "c6"
+    },
+    {
+      "text": "date from which calculated",
+      "id": "c7"
+    },
+    {
+      "text": "date of demand",
+      "id": "c8"
+    },
+    {
+      "text": "costs",
+      "id": "c9"
+    },
+    {
+      "text": "interest",
+      "id": "c10"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Introduction \n \n1 Between 1985 and November 2001 Fletcher Brand was the Chief Executive of Energy World Corporation Ltd (Energy).",
+      "id": "s0"
+    },
+    {
+      "text": "He provided his services as Chief Executive through his private company, Martech International Pty Ltd (Martech).",
+      "id": "s1"
+    },
+    {
+      "text": "Mr Brand's resignation as Chief Executive in November 2001 gave rise to proceedings in which his company, Martech, made a variety of claims against Energy.",
+      "id": "s2"
+    },
+    {
+      "text": "One of the claims was for a shortfall of remuneration following a unilateral but temporary reduction in the fees payable to Martech under a service contract for the period from 1 March 2000 to 30 September 2000.",
+      "id": "s3"
+    },
+    {
+      "text": "That shortfall was claimed in the amount of $71,663.65.",
+      "id": "s4"
+    },
+    {
+      "text": "Martech also claimed a substantial termination payment in excess of $800,000 which, it said, was due under the contract by reason of a change in Mr Brand's status from Managing Director to Executive Director and the associated change in his duties.",
+      "id": "s5"
+    },
+    {
+      "text": "Claims for damages for misleading or deceptive conduct were also made.",
+      "id": "s6"
+    },
+    {
+      "text": "2 Energy and its subsidiary, Australian Energy Equity Pty Ltd (AEE) cross-claimed against Martech and Mr Brand by reason of a \"milestone\" payment made in respect of a power station development in India known as the Vypeen Combined Cycle Power Project.",
+      "id": "s7"
+    },
+    {
+      "text": "Their complaint was that Mr Brand authorised the payment despite the fact that a condition of a sale and purchase agreement, under which the payment was to be made, had not been satisfied.",
+      "id": "s8"
+    },
+    {
+      "text": "The relevant condition was that approvals had been obtained from the Indian Government for the importation of condensate fuel for use as an interim fuel in the proposed power station.",
+      "id": "s9"
+    },
+    {
+      "text": "A clearance from one ministry of the Indian Government was later contradicted by another.",
+      "id": "s10"
+    },
+    {
+      "text": "Energy and AEE alleged that Mr Brand failed in his duty to them by authorising the payment without taking reasonable care or exercising due diligence to ensure that it was due.",
+      "id": "s11"
+    },
+    {
+      "text": "3 On 4 August 2006 I delivered judgment in both the claim and the cross-claim.",
+      "id": "s12"
+    },
+    {
+      "text": "Martech was awarded the sum of $71,663.65 representing the shortfall in fees for the period from 1 March 2000 to 30 September 2000.",
+      "id": "s13"
+    },
+    {
+      "text": "Its claim for a termination payment in excess of $800,000 was dismissed.",
+      "id": "s14"
+    },
+    {
+      "text": "So too were the other claims for damages for misleading or deceptive conduct.",
+      "id": "s15"
+    },
+    {
+      "text": "4 The Energy and AEE cross-claim against Martech and Mr Brand was also dismissed.",
+      "id": "s16"
+    },
+    {
+      "text": "The costs order made on the cross-claim was that the cross-claimants were to pay the cross-respondents' costs of the cross-claim to be taxed if not agreed.",
+      "id": "s17"
+    },
+    {
+      "text": "5 I directed that the parties to the Martech claim file written submissions as to pre-judgment interest and costs following the judgment.",
+      "id": "s18"
+    },
+    {
+      "text": "They have done so.",
+      "id": "s19"
+    },
+    {
+      "text": "The contentions \n \n6 Martech submitted that the discretion to award costs is guided by the principle that, absent some special circumstance, a successful litigant is entitled to its costs.",
+      "id": "s20"
+    },
+    {
+      "text": "It acknowledged that where a litigant has succeeded on some issues but failed on others, an apportionment may be appropriate.",
+      "id": "s21"
+    },
+    {
+      "text": "That is a matter for discretion for the trial judge.",
+      "id": "s22"
+    },
+    {
+      "text": "It was submitted that the Court's power to order a successful applicant to pay the costs of an issue on which it has failed ought to be exercised only where the Court, on a consideration of all the circumstances, has concluded that the raising of that issue by the applicant was so unreasonable that it is fair and just to make the order.",
+      "id": "s23"
+    },
+    {
+      "text": "Reliance was placed upon Mok v Minister for Immigration (No 2) (1993) 47 FCR 81 at 84D.",
+      "id": "s24"
+    },
+    {
+      "text": "7 Martech submitted that while the pleadings in its claim raised a number of causes of action there were two broad issues pursued by it.",
+      "id": "s25"
+    },
+    {
+      "text": "These were: \n1.",
+      "id": "s26"
+    },
+    {
+      "text": "The forbearance affecting the level of remuneration.",
+      "id": "s27"
+    },
+    {
+      "text": "2.",
+      "id": "s28"
+    },
+    {
+      "text": "The termination payment.",
+      "id": "s29"
+    },
+    {
+      "text": "Martech submitted that it was wholly successful in relation to the forbearance but acknowledged that it was unsuccessful in relation to the termination payment.",
+      "id": "s30"
+    },
+    {
+      "text": "The latter claim failed essentially on the proper construction of cl 8.6 of the consultancy agreement.",
+      "id": "s31"
+    },
+    {
+      "text": "Energy put in issue whether the consultancy agreement was terminated on 29 September 2000 and a significant amount of evidence was directed to that point.",
+      "id": "s32"
+    },
+    {
+      "text": "On that point, Martech succeeded.",
+      "id": "s33"
+    },
+    {
+      "text": "The forbearance issue was also one to which significant evidence was directed.",
+      "id": "s34"
+    },
+    {
+      "text": "There were other issues of fact on which Martech did not succeed.",
+      "id": "s35"
+    },
+    {
+      "text": "Martech submitted that it should have one third of its costs.",
+      "id": "s36"
+    },
+    {
+      "text": "It also pointed out that the first cross-claim was discontinued by leave on 20 September 2005 with costs reserved and that there was no reason why the respondent should not pay its costs of the first cross-claim.",
+      "id": "s37"
+    },
+    {
+      "text": "8 On the matter of interest on the judgment sum, Martech submitted that interest was usually ordered for the period between the cause of action arising and judgment.",
+      "id": "s38"
+    },
+    {
+      "text": "It correctly pointed out that the usual practice is to award interest at the rate applied in the Supreme Court of the State where the court is sitting unless there is evidence that those rates are penal and not commercial: Namol Pty Ltd v AW Baulderston Pty Ltd (1993) 119 ALR 187; GEC Marconi Assistance Pty Ltd v BHP Information Technology Pty Ltd (2003) 201 ALR 55.",
+      "id": "s39"
+    },
+    {
+      "text": "Martech submitted that the cause of action arose in respect of the judgment sum on 10 December 2001 when Mr Brand first wrote to Energy advising that Martech's forbearance had ceased.",
+      "id": "s40"
+    },
+    {
+      "text": "Alternatively it was put that interest should run from 6 November 2003 when a further demand was made by Martech and, alternatively, 24 March 2004 when the application was commenced.",
+      "id": "s41"
+    },
+    {
+      "text": "A calculation of the judgment sum with interest applied from those three dates was appended to the submission.",
+      "id": "s42"
+    },
+    {
+      "text": "9 Energy submitted in response that Martech was unsuccessful in seven of the eight causes of action and claims.",
+      "id": "s43"
+    },
+    {
+      "text": "It did not obtain the principal commercial objective of the proceedings, which was the termination payment in excess of $800,000.",
+      "id": "s44"
+    },
+    {
+      "text": "It referred to New South Wales Dairy Corporation v Murray Goulbourn Co-operative Co Ltd (1989) 14 IPR 75 at 79.",
+      "id": "s45"
+    },
+    {
+      "text": "10 Energy argued that the claim for unpaid fees was a distinct and separate cause of action for an amount well within the jurisdiction of the District Court of Western Australia.",
+      "id": "s46"
+    },
+    {
+      "text": "Had the claim been brought separately it may well have been settled commercially between the parties.",
+      "id": "s47"
+    },
+    {
+      "text": "It submitted that the costs should follow the event and the respondent should be entitled to the costs of the proceedings.",
+      "id": "s48"
+    },
+    {
+      "text": "In the alternative Martech should be ordered to pay costs in respect of the unsuccessful aspects of its case.",
+      "id": "s49"
+    },
+    {
+      "text": "An appropriate apportionment would be that Martech pay 90% of Energy's costs of the action.",
+      "id": "s50"
+    },
+    {
+      "text": "11 Energy argued that the claim for unpaid fees occupied a relatively small amount of time at trial, both in terms of evidence and submissions.",
+      "id": "s51"
+    },
+    {
+      "text": "Martech adopted a \"shotgun\" approach to its claims for a termination payment, none of which succeeded.",
+      "id": "s52"
+    },
+    {
+      "text": "The claim based on implied terms required the Court to consider extensive evidence including expert evidence about allegations of non-disclosure and breaches of the Corporations Act 2001 (Cth).",
+      "id": "s53"
+    },
+    {
+      "text": "These proved to be false issues as Martech did not establish the implied terms.",
+      "id": "s54"
+    },
+    {
+      "text": "In addition it did not succeed in establishing the claim for unpaid fees as pleaded.",
+      "id": "s55"
+    },
+    {
+      "text": "The Court held that Martech was entitled to the unpaid fees as there was no consideration for the variation pleaded by Energy.",
+      "id": "s56"
+    },
+    {
+      "text": "The issue of lack of consideration or uncertainty was not pleaded in reply, nor was it put in closing submissions.",
+      "id": "s57"
+    },
+    {
+      "text": "12 In respect of the interest claim, Energy submitted that Martech did not, prior to the commencement of the proceedings, make a specific request for the unpaid fees for which judgment was awarded.",
+      "id": "s58"
+    },
+    {
+      "text": "The tax invoice of 10 December 2001 for $483,026 was in the nature of an ambit claim.",
+      "id": "s59"
+    },
+    {
+      "text": "In the circumstances, it was submitted, no pre-judgment interest should be awarded and, alternatively, it should be awarded from the date of the commencement of the proceedings.",
+      "id": "s60"
+    },
+    {
+      "text": "The apportionment of costs \n \n13 Section 43(1) of the Federal Court of Australia Act 1976 (Cth) relevantly provides that: \n \n '[T]he Court or a Judge has jurisdiction to award costs in all proceedings before the Court (including proceedings dismissed for want of jurisdiction) other than proceedings in respect of which any other Act provides that costs shall not be awarded.",
+      "id": "s61"
+    },
+    {
+      "text": "\" \n \n\n Section 43(2) provides that, except as provided by any other Act, \"... the award of costs is in the discretion of the Court or Judge\".",
+      "id": "s62"
+    },
+    {
+      "text": "14 The \"jurisdiction\" conferred upon the Court by s 43 is in truth a power in aid of jurisdiction.",
+      "id": "s63"
+    },
+    {
+      "text": "It is not confined by any presumption about the manner of its exercise.",
+      "id": "s64"
+    },
+    {
+      "text": "Nevertheless, within the discretion of the courts to award costs in Australia, it has long been accepted that: \n \n .",
+      "id": "s65"
+    },
+    {
+      "text": "ordinarily costs follow the event and a successful litigant receives costs in the absence of special circumstances justifying some other order; \n .",
+      "id": "s66"
+    },
+    {
+      "text": "where a litigant has succeeded only upon a portion of the claim, the circumstances may make it reasonable that the litigant bear the expense of litigating that portion upon which he or she has failed; \n .",
+      "id": "s67"
+    },
+    {
+      "text": "a successful party who has failed on certain issues may not only be deprived of the costs of those issues but may be ordered as well to pay the other parties' costs of them.",
+      "id": "s68"
+    },
+    {
+      "text": "In this sense \"issue\" does not mean a precise issue in the technical pleading sense but any disputed question of fact or law.",
+      "id": "s69"
+    },
+    {
+      "text": "Ruddock v Vadarlis (No 2) [2001] FCA 1865 ; (2001) 115 FCR 229 at 234-235, following Toohey J in Hughes v Western Australia Cricket Association (Inc) (1986) ATPR 40-748.",
+      "id": "s70"
+    },
+    {
+      "text": "15 The primary claims pursued by Martech related to the termination of its service contract and its entitlement to payment of a termination fee.",
+      "id": "s71"
+    },
+    {
+      "text": "It also claimed termination payments on alternative bases including Energy's breach of an implied term in its contract arising from a failure to publicly disclose the Withdrawal Notice of its subsidiaries' interests in the PY-1 gasfield.",
+      "id": "s72"
+    },
+    {
+      "text": "16 A substantial part of the evidence led at trial related to claims in which Martech was unsuccessful.",
+      "id": "s73"
+    },
+    {
+      "text": "The trial of the action took three days although much of it was documentary.",
+      "id": "s74"
+    },
+    {
+      "text": "17 This is a proper case for apportioning costs on the application.",
+      "id": "s75"
+    },
+    {
+      "text": "Mathematical precision is not possible in so doing.",
+      "id": "s76"
+    },
+    {
+      "text": "It is largely a matter of impression.",
+      "id": "s77"
+    },
+    {
+      "text": "In my opinion, Martech's limited success should not be reflected in an apportionment greater than 30% of its costs of the application.",
+      "id": "s78"
+    },
+    {
+      "text": "This should be further reduced by the costs to which Energy was put unnecessarily by having to defend the balance of the application.",
+      "id": "s79"
+    },
+    {
+      "text": "There was a degree of evidence common to all causes of action.",
+      "id": "s80"
+    },
+    {
+      "text": "In the circumstances, in my opinion, it is proper that there should be no order as to the costs of the application.",
+      "id": "s81"
+    },
+    {
+      "text": "18 I accept that Martech should have the costs of the first cross-claim which was abandoned by Energy.",
+      "id": "s82"
+    },
+    {
+      "text": "Interest \n \n19 In my opinion it is appropriate that pre-judgment interest be paid from the date of the demand first made by Martech on 10 December 2001 for \"balance of fees\" for the years 1999/2000, 2000/2001 and 1 July 2001 to 31 October 2001.",
+      "id": "s83"
+    },
+    {
+      "text": "I do not think that can be simply dismissed as an ambit claim.",
+      "id": "s84"
+    },
+    {
+      "text": "That component which was owing should have been paid.",
+      "id": "s85"
+    },
+    {
+      "text": "For that reason pre-judgment interest at the rate of 6% per annum will be awarded from 10 December 2001.",
+      "id": "s86"
+    },
+    {
+      "text": "The figure is $20,002.95.",
+      "id": "s87"
+    },
+    {
+      "text": "Conclusion \n \n20 There will be no order as to the costs of the application.",
+      "id": "s88"
+    },
+    {
+      "text": "Energy is to pay Martech's costs of the first cross-claim which was abandoned and pre-judgment interest in the sum of $20,002.95.",
+      "id": "s89"
+    },
+    {
+      "text": "I certify that the preceding twenty (20) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice French.",
+      "id": "s90"
+    },
+    {
+      "text": "Associate:\nDated: 19 December 2006\n\n\n Counsel for the Applicant: Mr DM Stone \n \n Solicitor for the Applicant: Williams &amp; Hughes \n \n Counsel for the Respondent: Mr P Sheiner \n \n Solicitor for the Respondent: Christensen Vaughan \n \n Dates of Written Submissions: 18 and 21 August 2006 \n \n Date of Judgment: 19 December 2006 \n\n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2006/1779.html",
+      "id": "s91"
+    }
+  ]
+}

@@ -1,0 +1,1168 @@
+{
+  "name": "Smolle v Australia and New Zealand Banking Group Limited [2007] FCA 1673 (7 November 2007)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2007/1673.html",
+  "catchphrases": [
+    {
+      "text": "application by respondent bank to dismiss proceeding on basis that no reasonable cause of action disclosed",
+      "id": "c0"
+    },
+    {
+      "text": "application by respondent solicitors to dismiss proceeding for want of prosecution",
+      "id": "c1"
+    },
+    {
+      "text": "statement of claim inadequately particularised",
+      "id": "c2"
+    },
+    {
+      "text": "applicants' affidavits difficult to comprehend",
+      "id": "c3"
+    },
+    {
+      "text": "bank's reliance upon deed of release",
+      "id": "c4"
+    },
+    {
+      "text": "whether deed of release provided complete defence to applicants' claim",
+      "id": "c5"
+    },
+    {
+      "text": "practice and procedure",
+      "id": "c6"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "1 Dr Harald Smolle and his wife Dr Elke Smolle, both Austrian citizens, have been regular visitors to Australia for many years.",
+      "id": "s0"
+    },
+    {
+      "text": "They eventually plan to retire here, and have been putting aside money for their retirement, and investing some of it in Australia, since at least 1994.",
+      "id": "s1"
+    },
+    {
+      "text": "2 In about February or March 2000, the Smolles attended at the ANZ bank (\"the bank\") in Perth where they sought, and received, certain advice.",
+      "id": "s2"
+    },
+    {
+      "text": "According to their draft further amended statement of claim, they made known to Marie Santa-Maria, an employee of the bank, their future plans.",
+      "id": "s3"
+    },
+    {
+      "text": "They claim that they told Ms Santa-Maria that they were seeking to invest money in this country that would be available to them once they came here permanently, that they were concerned about the taxation implications of any investment that they might make and, in particular, that they were concerned to ensure that they did not incur taxation liabilities in Austria.",
+      "id": "s4"
+    },
+    {
+      "text": "3 In March 2000 the Smolles invested $243,500.00 in a \"balanced trust investment\".",
+      "id": "s5"
+    },
+    {
+      "text": "They did so in reliance upon the advice of Ms Santa-Maria.",
+      "id": "s6"
+    },
+    {
+      "text": "They claim that they soon discovered that that investment did not suit their needs, in particular because it was not tax effective.",
+      "id": "s7"
+    },
+    {
+      "text": "They complained to the bank, and were further advised by Ms Santa-Maria that they should switch from the balanced trust investment to \"superannuation bonds\".",
+      "id": "s8"
+    },
+    {
+      "text": "They claim that Ms Santa-Maria told them that there would be no tax payable in Austria on those bonds, and that they would receive a net return of 8.54% per annum.",
+      "id": "s9"
+    },
+    {
+      "text": "4 The Smolles returned to Australia in early 2001.",
+      "id": "s10"
+    },
+    {
+      "text": "They attended a branch of the bank in Adelaide, and were introduced to a Tim Germein who was a financial adviser with the bank.",
+      "id": "s11"
+    },
+    {
+      "text": "After some discussions he confirmed Ms Santa-Maria's advice that they should take their money out of the balanced trust investment (and several term deposits which they also held) and invest in superannuation bonds.",
+      "id": "s12"
+    },
+    {
+      "text": "Mr Germein prepared the relevant documentation, and the Smolles signed the necessary forms.",
+      "id": "s13"
+    },
+    {
+      "text": "5 Having redeemed their earlier investments, and having used the proceeds to acquire what was described as an \"ANZ Personal Superannuation Bond\" (\"the Bond\"), the Smolles claim that within days of their return to Austria they discovered that the advice that they had received from the bank was incorrect.",
+      "id": "s14"
+    },
+    {
+      "text": "Apparently, the Bond was not tax effective because the Smolles were liable to pay tax in Austria at the rate of at least 2.5% of its value each year.",
+      "id": "s15"
+    },
+    {
+      "text": "Partly for that reason, the Smolles discovered that they would not earn as much as the 8.54% net promised to them by Ms Santa-Maria.",
+      "id": "s16"
+    },
+    {
+      "text": "Moreover, it transpired that the tax authorities in Austria had been notified by the bank of the Smolles' investment in the Bond, and were making enquiries of their accountant about it.",
+      "id": "s17"
+    },
+    {
+      "text": "6 The Smolles claim that the bank should compensate them for the losses which they say they sustained as a result of switching their earlier investments into the Bond.",
+      "id": "s18"
+    },
+    {
+      "text": "They rely upon various causes of action.",
+      "id": "s19"
+    },
+    {
+      "text": "These include negligence, breach of contract and misleading or deceptive conduct contrary to s 52 of the Trade Practices Act 1974 (Cth).",
+      "id": "s20"
+    },
+    {
+      "text": "They also rely upon various breaches by the bank of the Corporations Law and the Corporations Act 2001 (Cth).",
+      "id": "s21"
+    },
+    {
+      "text": "7 The Smolles particularise their loss and damage as follows.",
+      "id": "s22"
+    },
+    {
+      "text": "They say that they have incurred liability to pay tax in Austria in an amount of about $44,000.",
+      "id": "s23"
+    },
+    {
+      "text": "They claim that they have lost the opportunity of securing better returns by investing in something other than superannuation bonds.",
+      "id": "s24"
+    },
+    {
+      "text": "They say that instead of achieving a return of 8.54% upon their investment, as promised, they achieved a significantly lower return.",
+      "id": "s25"
+    },
+    {
+      "text": "They calculate the difference as being approximately $109,000.",
+      "id": "s26"
+    },
+    {
+      "text": "They also claim for the cost of taxation advice in Austria, travelling costs to and from Australia, lost earnings, and various miscellaneous amounts.",
+      "id": "s27"
+    },
+    {
+      "text": "They claim in all a sum of approximately $410,000.",
+      "id": "s28"
+    },
+    {
+      "text": "8 The Smolles' case is complicated by a separate claim which they have against their former solicitors, Leo Reynolds and Linda Gross (\"Reynolds Lawyers\").",
+      "id": "s29"
+    },
+    {
+      "text": "They say that in about February 2001, while they were in Adelaide, they retained Reynolds Lawyers to advise them and act as their solicitors.",
+      "id": "s30"
+    },
+    {
+      "text": "They say that they did so in relation to a claim against the bank for compensation in respect of both the balanced trust investment and the Bond.",
+      "id": "s31"
+    },
+    {
+      "text": "9 The Smolles' claim against Reynolds Lawyers is in two parts.",
+      "id": "s32"
+    },
+    {
+      "text": "The first alleges a breach of retainer.",
+      "id": "s33"
+    },
+    {
+      "text": "They say that by letter dated 26 March 2001 they instructed their solicitors to change their investment from the Bond to a life insurance product because they had become aware, by that date, that life insurance held for more than ten years would be wholly tax exempt in Austria whereas any return on the Bond was taxable.",
+      "id": "s34"
+    },
+    {
+      "text": "They say that, in breach of their instructions, Reynolds Lawyers failed to change their investment to a life insurance product and, indeed, failed even to notify the bank of their desires in that regard.",
+      "id": "s35"
+    },
+    {
+      "text": "10 The Smolles say that had the solicitors acted in accordance with their instructions, they could have withdrawn from the Bond at any point prior to the expiration of a \"cooling off\" period, which they claim expired on or about 2 May 2001.",
+      "id": "s36"
+    },
+    {
+      "text": "11 The second part of the Smolles' claim against their former solicitors arises out of certain advice that they were given regarding a Deed of Release prepared by the bank with a view to resolving their claims against the bank.",
+      "id": "s37"
+    },
+    {
+      "text": "They say that in or about August 2001 Reynolds Lawyers negligently advised them that they should sign the Deed of Release prepared by the bank, in its original form.",
+      "id": "s38"
+    },
+    {
+      "text": "They also say that in or about March 2002 Reynolds Lawyers went further and positively advised them that a further Deed of Release, which had been amended by the bank, covered only their claims in respect of the balanced trust investment, and not their claims in respect of the Bond.",
+      "id": "s39"
+    },
+    {
+      "text": "They say that acting in reliance upon that advice, they signed the Deed of Release, only to discover later that the bank maintained that it constituted a complete settlement of all matters in dispute between the parties.",
+      "id": "s40"
+    },
+    {
+      "text": "12 Put simply therefore one of the Smolles' claims as against Reynolds Lawyers is that their former solicitors were negligent in failing to advise the Smolles that they would be signing away all rights to compensation against the bank, in relation to the Bond, if they executed the Deed of Release.",
+      "id": "s41"
+    },
+    {
+      "text": "The Smolles also claim, as against Reynolds Lawyers, that by giving the advice which they did they contravened s 52 of the Trade Practices Act (extended in its operation by s 6(3) to conduct involving the use of postal services).",
+      "id": "s42"
+    },
+    {
+      "text": "The respondents' notices of motion \n \n13 By notice of motion filed on 18 January 2007 the bank seeks orders that the case against it be dismissed pursuant to O 20 r 2(1)(a), (b) or (c) of the Federal Court Rules as it then stood.",
+      "id": "s43"
+    },
+    {
+      "text": "In the alternative, the bank seeks to have the Smolles' amended statement of claim filed on 24 April 2006 struck out pursuant to O 11 r 16(a), (b) or (c).",
+      "id": "s44"
+    },
+    {
+      "text": "14 On 30 July 2007 Reynolds Lawyers filed their own notice of motion.",
+      "id": "s45"
+    },
+    {
+      "text": "They seek orders that the case against them be dismissed for want of prosecution.",
+      "id": "s46"
+    },
+    {
+      "text": "15 Both notices of motion were heard over a number of days.",
+      "id": "s47"
+    },
+    {
+      "text": "On 3 July 2007, approximately six months after the bank filed its notice of motion, the Smolles filed a draft further amended statement of claim upon which they sought leave to rely.",
+      "id": "s48"
+    },
+    {
+      "text": "They indicated that they would no longer seek to proceed upon the amended statement of claim filed last year.",
+      "id": "s49"
+    },
+    {
+      "text": "However, that did not dissuade the bank from proceeding with its motion.",
+      "id": "s50"
+    },
+    {
+      "text": "Procedural history \n \n16 In order to understand the context in which the notices of motion came to be filed, it should be noted that this matter has had a long and somewhat tortured history.",
+      "id": "s51"
+    },
+    {
+      "text": "The Smolles speak only moderate English.",
+      "id": "s52"
+    },
+    {
+      "text": "They filed their originating application and their first statement of claim as far back as 18 August 2004.",
+      "id": "s53"
+    },
+    {
+      "text": "At that time they were represented by Rigby Cooke Lawyers.",
+      "id": "s54"
+    },
+    {
+      "text": "However, after an apparent falling out with that firm, in March 2005 they retained Baldwins Lawyers.",
+      "id": "s55"
+    },
+    {
+      "text": "That retainer lasted until September of that year when Tisher Liner took over the Smolles' representation.",
+      "id": "s56"
+    },
+    {
+      "text": "However, in December 2005 Tisher Liner also withdrew.",
+      "id": "s57"
+    },
+    {
+      "text": "17 In March 2006 the Smolles retained Saines &amp; Partners as their fourth set of solicitors.",
+      "id": "s58"
+    },
+    {
+      "text": "However, on 23 March 2007, the day the bank's notice of motion came on for hearing, Saines &amp; Partners informed the Court that they had elected to withdraw.",
+      "id": "s59"
+    },
+    {
+      "text": "As a consequence, the notice of motion was adjourned to 3 May 2007.",
+      "id": "s60"
+    },
+    {
+      "text": "The Smolles were ordered to pay the respondents' costs on an indemnity basis.",
+      "id": "s61"
+    },
+    {
+      "text": "Prior to their withdrawal, Saines &amp; Partners had organised for the following documents to be filed and served on behalf of the Smolles:\n \n \n &#8226; a list of documents; \n &#8226; further and better particulars; and \n &#8226; two affidavits sworn by Dr Harald Smolle and Dr Elke Smolle on 24 November 2006.",
+      "id": "s62"
+    },
+    {
+      "text": "18 On 3 May 2007 Dr Harald Smolle appeared in person to seek an adjournment.",
+      "id": "s63"
+    },
+    {
+      "text": "As at that date the Smolles had not engaged new solicitors.",
+      "id": "s64"
+    },
+    {
+      "text": "I ordered that the matter be further adjourned to 6 June 2007, after being assured by Dr Smolle that he and his wife would retain new solicitors.",
+      "id": "s65"
+    },
+    {
+      "text": "I made a self-executing order which required the Smolles to file and serve a notice of change of solicitor by no later than 3 June 2007, failing which their application would be dismissed.",
+      "id": "s66"
+    },
+    {
+      "text": "I again ordered the Smolles to pay the respondents' costs on an indemnity basis.",
+      "id": "s67"
+    },
+    {
+      "text": "19 On 7 May 2007 the firm of Lewis Holdway Lawyers filed and served a notice of change of solicitor, thereby taking on the Smolles' legal representation.",
+      "id": "s68"
+    },
+    {
+      "text": "On 6 June 2007 I adjourned the bank's notice of motion to 2 August 2007 and made further directions and orders including the following:\n \n \n &#8226; the applicants file and serve any further list of documents by 29 June 2007;\n &#8226; the applicants file and serve a draft further amended statement of claim by 29 June 2007; and\n &#8226; the applicants file and serve any further affidavits upon which they intend to rely at trial by 20 July 2007.",
+      "id": "s69"
+    },
+    {
+      "text": "20 As indicated above, on 3 July 2007 the Smolles filed a draft further amended statement of claim.",
+      "id": "s70"
+    },
+    {
+      "text": "On 23 July 2007 they filed and served two further affidavits on which they proposed to rely at trial, each sworn on 20 July 2007.",
+      "id": "s71"
+    },
+    {
+      "text": "21 When this matter next came before the Court, it was apparent that two previous affidavits upon which the Smolles had sought to rely, and the two new affidavits which they had just filed, were in a form that was entirely unacceptable.",
+      "id": "s72"
+    },
+    {
+      "text": "For example, there was no attempt to set out in direct speech what discussions had taken place between representatives of the bank and the Smolles, merely their general impressions of what had been said.",
+      "id": "s73"
+    },
+    {
+      "text": "No documents were exhibited to the affidavits.",
+      "id": "s74"
+    },
+    {
+      "text": "However, reference was made in the vaguest of terms to a number of documents that were said to be of critical importance.",
+      "id": "s75"
+    },
+    {
+      "text": "The affidavits were also replete with hearsay.",
+      "id": "s76"
+    },
+    {
+      "text": "This made it difficult to determine whether the Smolles actually had a case or not.",
+      "id": "s77"
+    },
+    {
+      "text": "It also made it difficult for the respondents to know how to meet any such case.",
+      "id": "s78"
+    },
+    {
+      "text": "22 In the light of these problems, I took the unusual course of adjourning each notice of motion so that Dr Harald Smolle, who would be the main witness on behalf of the applicants in this proceeding, could once again come to Australia and give evidence on oath before me.",
+      "id": "s79"
+    },
+    {
+      "text": "The aim was to have him set out, in detail, his version of events.",
+      "id": "s80"
+    },
+    {
+      "text": "It was also to have him identify and tender relevant documents.",
+      "id": "s81"
+    },
+    {
+      "text": "This would allow him, with the assistance of an interpreter, to explain in his own words the basis upon which his and his wife's claims rested.",
+      "id": "s82"
+    },
+    {
+      "text": "23 On 25 September 2007 Dr Harald Smolle appeared before me.",
+      "id": "s83"
+    },
+    {
+      "text": "He was questioned extensively by Mr Williams, who by then had been retained as counsel for the Smolles.",
+      "id": "s84"
+    },
+    {
+      "text": "Dr Smolle's evidence occupied the best part of a day.",
+      "id": "s85"
+    },
+    {
+      "text": "In addition, a number of documents were produced and marked for identification.",
+      "id": "s86"
+    },
+    {
+      "text": "As a result, there emerged for the first time in this case a detailed account, in comprehensible form, of what Dr Smolle had to say.",
+      "id": "s87"
+    },
+    {
+      "text": "24 I should say that I indicated on that day that any evidence that Dr Smolle gave would, if this matter were permitted to proceed, stand as his evidence-in-chief at the trial, subject to any objections as to admissibility.",
+      "id": "s88"
+    },
+    {
+      "text": "I did not permit counsel for the bank, or for Reynolds Lawyers, to cross-examine Dr Smolle.",
+      "id": "s89"
+    },
+    {
+      "text": "The purpose of the process was simply to obtain from him the equivalent of a coherent affidavit.",
+      "id": "s90"
+    },
+    {
+      "text": "I then adjourned the further hearing until 18 October 2007.",
+      "id": "s91"
+    },
+    {
+      "text": "The bank's submissions \n \n25 Ms Loughnan, counsel for the bank, submitted that the entire proceeding against her client should be summarily dismissed as disclosing no cause of action.",
+      "id": "s92"
+    },
+    {
+      "text": "She noted that it had been extraordinarily difficult for the bank to obtain proper particulars of loss and damage from the applicants, and submitted that the latest version of the statement of claim was no better, in that regard, than the two earlier versions.",
+      "id": "s93"
+    },
+    {
+      "text": "She submitted that the Court should refuse leave to file and serve the proposed further amended statement of claim for that and other reasons.",
+      "id": "s94"
+    },
+    {
+      "text": "26 Ms Loughnan raised a number of objections to the proposed new pleading.",
+      "id": "s95"
+    },
+    {
+      "text": "These turned mainly upon a lack of adequate particulars, though there were some points of greater substance.",
+      "id": "s96"
+    },
+    {
+      "text": "She referred to the deficiencies in the various affidavits that had been sworn by the applicants, both those sworn in November 2006 and those sworn in July 2007.",
+      "id": "s97"
+    },
+    {
+      "text": "She complained about the applicants' failure to give proper discovery.",
+      "id": "s98"
+    },
+    {
+      "text": "She noted that there were significant discrepancies between the accounts given by the Smolles in their November 2006 affidavits, and in their later affidavits.",
+      "id": "s99"
+    },
+    {
+      "text": "She also noted that Dr Smolle had departed from the evidence which he gave in his earlier affidavits during the course of his evidence before me.",
+      "id": "s100"
+    },
+    {
+      "text": "27 Ms Loughnan complained that the applicants had never adduced evidence of any additional tax that they had been obliged to pay in Austria, though they claimed that tax as one limb of their loss and damage.",
+      "id": "s101"
+    },
+    {
+      "text": "She complained that they had provided no satisfactory explanation as to why they had waited more than four years to redeem their investment in the Bond.",
+      "id": "s102"
+    },
+    {
+      "text": "She also reminded me of the many indulgences that I had granted the applicants to enable them to put their case in order, and of their repeated failure to do so.",
+      "id": "s103"
+    },
+    {
+      "text": "28 Ms Loughnan went further and submitted that it was evident from Dr Harald Smolle's first affidavit, in November 2006, that his real grievance against the bank was that it had informed the Austrian tax authorities about the investment in the Bond.",
+      "id": "s104"
+    },
+    {
+      "text": "He stated that he was unhappy about the bank's conduct because it had assured him that his affairs would remain secret.",
+      "id": "s105"
+    },
+    {
+      "text": "29 Ms Loughnan submitted that I should infer that the Smolles had sought such an assurance of secrecy from the bank because they were engaged in defrauding the Austrian revenue.",
+      "id": "s106"
+    },
+    {
+      "text": "She submitted that the Court should take a strong stance against such conduct, and that it should mark its disapproval of what the Smolles had sought to do by dismissing their application.",
+      "id": "s107"
+    },
+    {
+      "text": "30 The bank filed and served its original defence to the Smolles' claim on 1 November 2004.",
+      "id": "s108"
+    },
+    {
+      "text": "That defence referred to the Deed of Release dated 25 March 2002 by which the bank alleged that the Smolles had covenanted and agreed that:\n \n \n 1. they had claimed against the bank compensation in relation to their balanced trust investment and the Bond; and\n 2. they released the bank and its agents and employees from any further claim or demand which was in any way related to, connected with, or arose out of, those claims.",
+      "id": "s109"
+    },
+    {
+      "text": "31 In earlier submissions, Ms Loughnan had argued that because of the Deed of Release, if for no other reason, the Smolles' case against the bank was clearly foredoomed to fail.",
+      "id": "s110"
+    },
+    {
+      "text": "That submission was consistent with the original defence which contended that by reason of the Deed of Release the Smolles were estopped, barred and/or excluded from making the claims for loss and damage.",
+      "id": "s111"
+    },
+    {
+      "text": "Ms Loughnan submitted that the only possible construction that could be given to the Deed of Release was that it reflected a complete settlement of all matters in dispute between the Smolles and the bank.",
+      "id": "s112"
+    },
+    {
+      "text": "In effect, the Smolles had signed away any rights they may have had to be compensated by the bank for losses incurred by reason of both the balanced trust investment and the Bond.",
+      "id": "s113"
+    },
+    {
+      "text": "The Deed of Release \n \n32 In order to understand that submission, it is necessary to set out, in terms, the letter sent by Reynolds Lawyers to the Smolles on 6 August 2001, enclosing a copy of a proposed deed.",
+      "id": "s114"
+    },
+    {
+      "text": "The letter was in the following terms: \n \n \n \"RE: BALANCE [sic] TRUST INVESTMENT NO 7481751 \n \n We advise that following our correspondence to the ANZ Banking Corporation requesting the increased sum in compensation for losses incurred by their poor advice, we have received a response from them.",
+      "id": "s115"
+    },
+    {
+      "text": "The Bank is prepared to pay you the sum of $7,658.60 in full and final settlement of your claim in relation to that matter.",
+      "id": "s116"
+    },
+    {
+      "text": "We enclose a Deed of Release which requires your signature for the Bank to release the funds.",
+      "id": "s117"
+    },
+    {
+      "text": "Please sign the document in front of an independent witness and return to our office so that we can finalise that part of the matters outstanding.",
+      "id": "s118"
+    },
+    {
+      "text": "In relation to the other issues relating to the disclosure information to the Austrian Government and the status of the superannuation investment funds, we are still seeking clarification from the Bank as to their position.",
+      "id": "s119"
+    },
+    {
+      "text": "Please contact this office if you have any queries.",
+      "id": "s120"
+    },
+    {
+      "text": "\" \n \n \n\n33 The enclosed deed was then in the following terms:\n \" DEED OF RELEASE \n \n \n \n \n \n \n \n A.",
+      "id": "s121"
+    },
+    {
+      "text": "We, Dr Harald Smolle and Dr Elke Smolle, of Kremsel Landstrasse 107, A-3100 St Poelten, Austria; \n \n B.",
+      "id": "s122"
+    },
+    {
+      "text": "Have claimed against Australia and New Zealand Banking Group Limited ACN 005 357 522 (\"ANZ\") compensation in relation to our investment into the ANZ Balanced Trust, Investment No.",
+      "id": "s123"
+    },
+    {
+      "text": "7481751 and our investment into the PSB Growth, Investment contract 06/4834698 C212 (\"the Claim\").",
+      "id": "s124"
+    },
+    {
+      "text": "C. ANZ will pay to us the sum of $7,658.60 in full and final settlement of the Claim within seven days from the receipt by ANZ of this Deed executed by us.",
+      "id": "s125"
+    },
+    {
+      "text": "D. The Claim relates to alleged losses incurred by us personally of a wholly private or domestic nature.",
+      "id": "s126"
+    },
+    {
+      "text": "We hereby: \n \n \n \n \n \n \n \n (a) Release ANZ and its agents and employees from any further claim or demand which in any way relates to or is connected with or arises out of the Claim.",
+      "id": "s127"
+    },
+    {
+      "text": "(b) Warrant that we have not received any payment or reimbursement from any other person in respect of the Claim.",
+      "id": "s128"
+    },
+    {
+      "text": "(c) Agree that if: \n \n (A) We receive any payment or reimbursement from any other person in respect of the Claim; or \n \n (B) We are in breach of any warranty set out herein; \n \n We will immediately pay that payment or reimbursement to ANZ, or repay to ANZ the full amount of the Claim.",
+      "id": "s129"
+    },
+    {
+      "text": "(d) Agree that we will not disclose the terms upon which the Claim has been settled or the contents of this Deed to any other person without the prior written consent of ANZ unless such disclosure is required: \n \n (A) by operation of law; or \n \n (B) to assist professional advisers to give professional confidential advice in relation to this Deed.",
+      "id": "s130"
+    },
+    {
+      "text": "Dated the ....\" \n \n \n\n34 On 16 August 2001 the Smolles signed the proposed deed, but added some handwritten amendments.",
+      "id": "s131"
+    },
+    {
+      "text": "Those amendments were as follows:\n \n \n &#8226; the address was corrected to read \"Kremser Landstrasse\", rather than \"Kremsel\"; \n &#8226; in Recital B the ANZ Balanced Trust, Investment Number was crossed out and replaced with \"4781751\"; \n &#8226; an arrow was inserted at the end of clause (a), and the following text was then inserted above that clause:\n \"-&gt;(a) With the exception of the transaction costs when switching from the Balanced Trust to the Personal Superannuation F. (see letter from 23 July 2001 and document enclosed).",
+      "id": "s132"
+    },
+    {
+      "text": "\" ; and \n \n &#8226; at the end of clause (c) the words \"Original cheque-return (two pages enclosed)\" were inserted after the words \"the full amount of the Claim.\".",
+      "id": "s133"
+    },
+    {
+      "text": "35 On 11 February 2002 the Smolles wrote to Reynolds Lawyers in the following terms:\n \n \n \"Dear Sir \n \n We regret to say that none of the issues concerning our ANZ-investments is finished: \n \n We got no payment until now in compensation for losses caused by investing in the ANZ Balanced Trust and caused by switching from the ANZ Balanced Trust to the Personal Superannuation Bond (transaction costs).........(ISSUE1) \n \n Tim Germein, the financial planner in Adelaide was convinced the Personal Superannuation Bond is final taxed and data protected.",
+      "id": "s134"
+    },
+    {
+      "text": "Otherwise he would not give us the advice to invest the total amount of the Balanced Trust (investor Elke and investor Harald proportionately 50 %) in Elke's name alone for saving management fees (0,5 % p.a.",
+      "id": "s135"
+    },
+    {
+      "text": "of the value of the portfolio for the first three years while the investment is less than AUD 300.000,--) because he knew, we both are partner and owner of a veterinary hospital in Austria and liable to pay income tax and the additional income of capital gains will cause a tax progression when Elke is the sole investor of the P.S.A.B.!",
+      "id": "s136"
+    },
+    {
+      "text": "(In addition we are now informed that a further serious taxation problem occurs in Austria: an additional tax payment of 2,5 % from the value of the P.S.A.B.",
+      "id": "s137"
+    },
+    {
+      "text": "at the year's end!).",
+      "id": "s138"
+    },
+    {
+      "text": "--- Combined with the disclosure information of other ANZ-employees to the Austrian government (.........ISSUE 2) it was a poor advice to invest the money in the P.S.A.B.",
+      "id": "s139"
+    },
+    {
+      "text": "and therefore we demand the change of the P.S.A.B.",
+      "id": "s140"
+    },
+    {
+      "text": "into a life insurance (which is final taxed in Austria) immediately!",
+      "id": "s141"
+    },
+    {
+      "text": "(.........ISSUE 3).",
+      "id": "s142"
+    },
+    {
+      "text": "Also we demand a compensative payment if we loose [sic] money since inception of P.S.A.B until the switch to a life insurance similar to issue 1 (.......ISSUE 4).",
+      "id": "s143"
+    },
+    {
+      "text": "Finally we demand the refund of taxes paid in Austria from the time when ANZ got the document 1 \"Taxation for Austrian Residents as owner of Australian Personal Superannuation Bonds\" and 2 \"Tax avoidance\", written by our tax advisor Mag.",
+      "id": "s144"
+    },
+    {
+      "text": "Hoechtl dated 20.",
+      "id": "s145"
+    },
+    {
+      "text": "July 2001 (......ISSUE 5).",
+      "id": "s146"
+    },
+    {
+      "text": "To fulfill [sic] these demands Elke and me authorize you to go to court against the ANZ.",
+      "id": "s147"
+    },
+    {
+      "text": "Please contact us if you have any queries in relation to these issues.",
+      "id": "s148"
+    },
+    {
+      "text": "With kind regards\" \n \n \n\n36 On 11 March 2002 Reynolds Lawyers responded to the Smolles' letter of 11 February 2002 in the following terms: \n \n \n \" Re: ANZ Bank --- Investment \n \n We refer to previous correspondence in this matter.",
+      "id": "s149"
+    },
+    {
+      "text": "Without entering into the other issues raised and dealt with, the one matter that we can deal with shortly is the compensation for your investment with the ANZ Balance Trust which was previously agreed.",
+      "id": "s150"
+    },
+    {
+      "text": "The Deed of Release which was previously signed by you and returned to our office, was varied by you and is unacceptable to the ANZ bank.",
+      "id": "s151"
+    },
+    {
+      "text": "We therefore enclose a subsequent Deed of Release which we suggest that you sign without alteration.",
+      "id": "s152"
+    },
+    {
+      "text": "It simply resolves the issue of the outstanding compensation for that one investment.",
+      "id": "s153"
+    },
+    {
+      "text": "The cheque in the sum $2,116.61 referred to [in] recital C is currenttly [sic] held in our trust account.",
+      "id": "s154"
+    },
+    {
+      "text": "Upon receipt of the signed Deed of Release from you, the balance will be paid by the ANZ and we can then compensate you in the full amount.",
+      "id": "s155"
+    },
+    {
+      "text": "In relation to the balance of the issues relating to the ANZ investments including the superannuation issue, in your correspondence issues 2-5 we are pursuing this matter with firstly Tim Germain and secondly the ANZ Legal Department.",
+      "id": "s156"
+    },
+    {
+      "text": "We will forward correspondence to you shortly in relation those other issues.",
+      "id": "s157"
+    },
+    {
+      "text": "\" \n \n \n\n37 The enclosed Deed of Release was in the same terms as the previous deed, save for the fact that the Recitals now read:\n \n \n \n A.",
+      "id": "s158"
+    },
+    {
+      "text": "We, Dr Harald Smolle and Dr Elke Smolle, of Kremser Landstrasse 107, A-3100 St. Poelten, Austria; \n \n B.",
+      "id": "s159"
+    },
+    {
+      "text": "Have claimed against Australia and New Zealand Banking Group Limited I 005 357 522 (\"ANZ\") compensation in relation to our investment into the ANZ Balanced Trust, Investment No.",
+      "id": "s160"
+    },
+    {
+      "text": "4781751 and our investment into the PSB Growth, Investment contract 06/4834698 C212 (\"the Claim\").",
+      "id": "s161"
+    },
+    {
+      "text": "C. We have received from ANZ a cheque in the sum of $2,116.61 representing the final distribution from the ANZ Balanced Trust, Investment No.",
+      "id": "s162"
+    },
+    {
+      "text": "7481751 (\"final distribution\").",
+      "id": "s163"
+    },
+    {
+      "text": "D. ANZ will pay to us the sum of $7,658.60 less the final distribution referred to in clause C resulting in a payment of $5,541.99 in full and final settlement of the Claim within seven days from the receipt by ANZ of this Deed executed by us.",
+      "id": "s164"
+    },
+    {
+      "text": "E. The Claim relates to alleged losses incurred by us personally of a wholly private or domestic nature.",
+      "id": "s165"
+    },
+    {
+      "text": "38 On 25 March 2002 the Smolles signed the Deed of Release, in accordance with the advice given by Reynolds Lawyers.",
+      "id": "s166"
+    },
+    {
+      "text": "They made only one minor handwritten amendment.",
+      "id": "s167"
+    },
+    {
+      "text": "At Recital C of the Deed of Release the Investment Number was changed to read \"4781751\".",
+      "id": "s168"
+    },
+    {
+      "text": "The executed Deed of Release was returned to Reynolds Lawyers along with a letter in the following terms: \n \n \n \"Dear Sir \n \n Thank you for your letter dated 11th March 2002.",
+      "id": "s169"
+    },
+    {
+      "text": "Please find enclosed the signed Deed of Release.",
+      "id": "s170"
+    },
+    {
+      "text": "Concerning the change of the P.S.A.B.",
+      "id": "s171"
+    },
+    {
+      "text": "into a life insurance as soon as possible we demand in our letter dated 11.02.2002 (......issue 3) we would like to remind you once again of the urgency in this case: \n Under Austrian law a life insurance, running at least ten years is final taxed.",
+      "id": "s172"
+    },
+    {
+      "text": "That means, intending to come to Australia for retirement when Harald is 60 and Elke is 57 years old, we cannot consume the retourns [sic] of the life insurance at the same time even we establish the life-insurance-contract with the ANZ today!",
+      "id": "s173"
+    },
+    {
+      "text": "(Harald is now 51 and Elke 48 years old).",
+      "id": "s174"
+    },
+    {
+      "text": "Yours sincerely\" \n \n \n \n\n39 In his evidence before the Court on 25 September 2007, Dr Harald Smolle was shown this correspondence from Reynolds Lawyers, and the two versions of the Deed of Release.",
+      "id": "s175"
+    },
+    {
+      "text": "He said that he had made the amendments to the original version of the Deed of Release because he had not been prepared to settle the entirety of his case against the bank for the amount offered.",
+      "id": "s176"
+    },
+    {
+      "text": "Rather, he had wanted it understood that the Deed of Release pertained only to the balanced trust investment.",
+      "id": "s177"
+    },
+    {
+      "text": "40 In relation to the 11 March 2002 letter from Reynolds Lawyers, and the resubmitted version of the Deed of Release, Dr Smolle said that he understood, from what his solicitors had stated, that it referred exclusively to one matter, namely the balanced trust investment.",
+      "id": "s178"
+    },
+    {
+      "text": "Any losses incurred as a result of the Bond would still be subject to further negotiation, and possible litigation.",
+      "id": "s179"
+    },
+    {
+      "text": "The Smolles' submissions regarding the Deed of Release \n \n41 During the course of argument on 18 October 2007, Mr Williams was asked what answer the Smolles had to the bank's contention that the Deed of Release, as finally executed, plainly encompassed claims relating to both the balanced trust investment and the Bond.",
+      "id": "s180"
+    },
+    {
+      "text": "The following exchange took place between Mr Williams and myself: \n \n \n \"HIS HONOUR: But if I were of the view now that the ANZ has a complete answer through the deed of settlement, what would be my responsibility in those circumstances?",
+      "id": "s181"
+    },
+    {
+      "text": "Plainly, it would be to dismiss your application against the ANZ.",
+      "id": "s182"
+    },
+    {
+      "text": "MR WILLIAMS: If your Honour was minded that the matter was beyond doubt - - - \n \n HIS HONOUR: If all the other points were, as it were, run-able or arguable but there was no answer to the deed of settlement point, then the solution would be, as far as the ANZ are concerned, that they would be let out, as against your client --- they would still be here by virtue of a cross-claim as a result of your action against the solicitors.",
+      "id": "s183"
+    },
+    {
+      "text": "MR WILLIAMS: If it was beyond doubt, yes, that's so, your Honour.",
+      "id": "s184"
+    },
+    {
+      "text": "But it would have to be, in my respectful submission, absolutely beyond doubt.",
+      "id": "s185"
+    },
+    {
+      "text": "HIS HONOUR: What argument would you advance to say that upon the proper construction of the deed of settlement, it doesn't constitute a bar to your action?",
+      "id": "s186"
+    },
+    {
+      "text": "MR WILLIAMS: Well, I will need to get it out, your Honour.",
+      "id": "s187"
+    },
+    {
+      "text": "It's not a very well drawn document, with respect, and it's not easy to deal with.",
+      "id": "s188"
+    },
+    {
+      "text": "Could I just have a moment to get it out?",
+      "id": "s189"
+    },
+    {
+      "text": "... \n \n HIS HONOUR: It's a series of recitals.",
+      "id": "s190"
+    },
+    {
+      "text": "I think it's about the second recital that might be important.",
+      "id": "s191"
+    },
+    {
+      "text": "MR WILLIAMS: Yes.",
+      "id": "s192"
+    },
+    {
+      "text": "Yes, the issue is about what the claim is.",
+      "id": "s193"
+    },
+    {
+      "text": "HIS HONOUR: It's defined.",
+      "id": "s194"
+    },
+    {
+      "text": "MR WILLIAMS: It's defined as: \n \n \n \n \n \n ...have claimed against ANZ compensation in relation to our investment in the ANZ balanced trust investment number, and our investment into the PSB growth investment contract.",
+      "id": "s195"
+    },
+    {
+      "text": "HIS HONOUR: So the claim covers both the balanced fund - - - \n \n MR WILLIAMS: Yes.",
+      "id": "s196"
+    },
+    {
+      "text": "HIS HONOUR: - - - and the superannuation bond, as defined.",
+      "id": "s197"
+    },
+    {
+      "text": "MR WILLIAMS: Yes.",
+      "id": "s198"
+    },
+    {
+      "text": "Yes: \n \n \n \n \n \n ...compensation in relation to our investment.",
+      "id": "s199"
+    },
+    {
+      "text": "And what I would submit about that, your Honour, is that it's not at all clear, from that description of the claim, that it's wide enough to capture all pre-existing advice, including advice as to taxation matters given by Ms Santa-Maria and Mr Germein.",
+      "id": "s200"
+    },
+    {
+      "text": "It could be no more than compensation arising out of the investment performing poorly.",
+      "id": "s201"
+    },
+    {
+      "text": "HIS HONOUR: But Dr Smolle had said that his complaints against the ANZ Bank, as passed on to the ANZ Bank, related to two matters.",
+      "id": "s202"
+    },
+    {
+      "text": "The first was the decision to put the money into the balanced trust; and the second was the decision to put the money into the superannuation bond.",
+      "id": "s203"
+    },
+    {
+      "text": "He said he had discussions and negotiations about settling the matter, and he was offered a particular sum; but both limbs, both things, were matters that agitated him, and he was concerned about them, and they were his claim.",
+      "id": "s204"
+    },
+    {
+      "text": "MR WILLIAMS: Yes.",
+      "id": "s205"
+    },
+    {
+      "text": "HIS HONOUR: Now, this document says that: \n \n \n \n \n \n We have received from the ANZ a cheque in the sum of 2000, representing the final distribution in the balanced trust, and that ANZ will pay to us the sum of 7600 less the final distribution referred to in clause I, in full and final settlement of the claim --- \n \n \n \n \n \n full and final settlement of the claim --- \n \n \n \n \n \n as defined in paragraph (b), the claim being the claim as defined, namely, a complaint about the investment in the balanced fund and our investment into the superannuation bond.",
+      "id": "s206"
+    },
+    {
+      "text": "What could be clearer?",
+      "id": "s207"
+    },
+    {
+      "text": "MR WILLIAMS: Well, it would be clearer if it defined what complaints are being covered.",
+      "id": "s208"
+    },
+    {
+      "text": "And one has to bear in mind that this is a settlement which was reached while the moneys were still in there, and they continued to be in there for some time thereafter.",
+      "id": "s209"
+    },
+    {
+      "text": "So that one could also argue that the continuing claim was not one which was settled.",
+      "id": "s210"
+    },
+    {
+      "text": "HIS HONOUR: It might be a very bad deal as far as the Smolles are concerned.",
+      "id": "s211"
+    },
+    {
+      "text": "It might be they were badly advised by their solicitors.",
+      "id": "s212"
+    },
+    {
+      "text": "It might be they shouldn't have gone near signing this document, but the document itself, on a reasonable interpretation, seems to encompass both limbs; namely, the claim in relation to putting them into the balanced fund, and the claim in relation to putting them into the superannuation fund.",
+      "id": "s213"
+    },
+    {
+      "text": "MR WILLIAMS: Yes, but what I'm saying, your Honour, is that the claim in relation to putting them into it might be different from the claim in relation to prior advice about its efficacy as a taxation --- or final taxed --- however one expresses that conclusion, \"The only tax you will pay is\" --- that's contained in the letter from Ms Santa-Maria in June.",
+      "id": "s214"
+    },
+    {
+      "text": "HIS HONOUR: You have to interpret a deed of this kind in the way that ordinary business people would do, don't you?",
+      "id": "s215"
+    },
+    {
+      "text": "MR WILLIAMS: Yes.",
+      "id": "s216"
+    },
+    {
+      "text": "HIS HONOUR: Isn't that the principle that governs the interpretation of contracts and deeds of this type?",
+      "id": "s217"
+    },
+    {
+      "text": "MR WILLIAMS: Yes.",
+      "id": "s218"
+    },
+    {
+      "text": "It's an objective test.",
+      "id": "s219"
+    },
+    {
+      "text": "HIS HONOUR: Objective test.",
+      "id": "s220"
+    },
+    {
+      "text": "And you say that the ordinary bystander, aware of these facts, would conclude that no part of this settlement reached by signing this deed of release accommodated losses incurred or to be incurred from being put into the superannuation bond?",
+      "id": "s221"
+    },
+    {
+      "text": "MR WILLIAMS: I don't think I could go that widely, your Honour.",
+      "id": "s222"
+    },
+    {
+      "text": "But it's a different matter to say that it encompasses all such losses, whether already incurred or to be incurred; and it's also a different matter to say whether it encompasses losses arising from bad prior advice.",
+      "id": "s223"
+    },
+    {
+      "text": "HIS HONOUR: The bad prior advice is inextricably linked to the decision to put the money into the superannuation bond, isn't it?",
+      "id": "s224"
+    },
+    {
+      "text": "You can't really artificially hive those two off.",
+      "id": "s225"
+    },
+    {
+      "text": "MR WILLIAMS: It's difficult, your Honour.",
+      "id": "s226"
+    },
+    {
+      "text": "HIS HONOUR: It is.",
+      "id": "s227"
+    },
+    {
+      "text": "MR WILLIAMS: I don't know that I can put it any more highly than that.",
+      "id": "s228"
+    },
+    {
+      "text": "HIS HONOUR: No, but that's what's troubling me, that there's a pretty powerful argument --- whether it's irresistible or not may be another matter of debate --- a pretty powerful argument in favour of the ANZ Bank on their construction of the deed.",
+      "id": "s229"
+    },
+    {
+      "text": "MR WILLIAMS: One can see the argument, your Honour.",
+      "id": "s230"
+    },
+    {
+      "text": "... \n \n HIS HONOUR: But I'm trying to understand the alternative, plausible construction, and what you say is that the ordinary business person plausibly might have understood this deed of [release] to cover only such losses as were incurred up to the time that the deed of release was signed, but to leave the ANZ Bank exposed to an action for future losses arising out of the investment into the superannuation bond.",
+      "id": "s231"
+    },
+    {
+      "text": "That's your submission.",
+      "id": "s232"
+    },
+    {
+      "text": "MR WILLIAMS: Yes.",
+      "id": "s233"
+    },
+    {
+      "text": "\" \n \n \n \n Consideration \n \n42 The principles relating to the construction of deeds, including in particular deeds of release, have long been well settled: see generally Robert Norton, A Treatise on Deeds (Sweet &amp; Maxwell, 1906) at Chs III---VIII.",
+      "id": "s234"
+    },
+    {
+      "text": "43 In Grant v John Grant &amp; Sons Pty Ltd [1954] HCA 23 ; (1954) 91 CLR 112 Dixon CJ, Fullagar, Kitto and Taylor JJ accepted that a release expressed in general words will usually be read down by reference to what was in the contemplation of the parties at the time of the execution of the release.",
+      "id": "s235"
+    },
+    {
+      "text": "Their Honours expressly adopted (at 123---124) the reasoning of Lord Westbury in London &amp; South Western Railway Co v Blackmore (1870) LR 4 HL 610 at 623 that: \n \n \n \"The general words in a release are limited always to that thing or those things which were specially in the contemplation of the parties at the time when the release was given\".",
+      "id": "s236"
+    },
+    {
+      "text": "44 Their Honours went on to state (at 129---130):\n \n \n \"From the authorities which have already been cited it will be seen that equity proceeded upon the principle that a releasee must not use the general words of a release as a means of escaping the fulfilment of obligations falling outside the true purpose of the transaction as ascertained from the nature of the instrument and the surrounding circumstances including the state of knowledge of the respective parties concerning the existence, character and extent of the liability in question and the actual intention of the releasor.",
+      "id": "s237"
+    },
+    {
+      "text": "\" \n \n \n\n45 In McCarthy v McIntyre [1999] FCA 784 a Full Court of this Court stated (at [106]):\n \n \n \"In Grant v John Grant &amp; Sons Pty Ltd (1954) 91 CLR 123, the joint reasons for judgment (Dixon CJ and Fullagar, Kitto and Taylor JJ) approved two related principles.",
+      "id": "s238"
+    },
+    {
+      "text": "First, the general words of a release should be restrained by the particular occasion (at 123).",
+      "id": "s239"
+    },
+    {
+      "text": "Thus, the general words of a release are to be construed by reference to the recitals in the particular deed.",
+      "id": "s240"
+    },
+    {
+      "text": "Secondly, the general words in a release are limited to those things which were specially in the contemplation of the parties at the time when the release was given (at 123-124).",
+      "id": "s241"
+    },
+    {
+      "text": "\" \n \n \n \n\n46 More recently in Commonwealth Development Bank of Australia Ltd v Kok, in the matter of Kok [2003] FCA 90 Beaumont J stated (at [34]): \n \n \n \"In the first place, it is a settled principle of interpretation that general words in an instrument of release are limited always to that thing, or those things, which were specially in the contemplation of the parties at the time when the release was given\".",
+      "id": "s242"
+    },
+    {
+      "text": "See also Torrens Aloha Pty Ltd v Citibank NA (1997) 72 FCR 581 at 599---600.",
+      "id": "s243"
+    },
+    {
+      "text": "47 In Banque Bruxelles Lambert v Australian National Industries Ltd (unreported, New South Wales Court of Appeal, 26 February 1997) the issue was whether a particular costs order was released by the deed in question.",
+      "id": "s244"
+    },
+    {
+      "text": "The sole point argued on the appeal was whether the principles enunciated in Grant v John Grant applied, so as to exclude the costs order from the release.",
+      "id": "s245"
+    },
+    {
+      "text": "After an extensive analysis of the surrounding circumstances, Beazley JA (with whom Meagher and Cole JJA agreed) concluded:\n \n \n \"In this matter the terms of the instrument quite clearly included a release of the costs order.",
+      "id": "s246"
+    },
+    {
+      "text": "The surrounding circumstances included negotiations leading up to the final entering into of the Major Creditor's Deed of Release on 22 September 1992.",
+      "id": "s247"
+    },
+    {
+      "text": "At one stage in those negotiations, as was clearly evidenced by the letter of 17 December 1992, BBL would have liked to have reserved the costs order made by Rogers CJ Comm D at first instance.",
+      "id": "s248"
+    },
+    {
+      "text": "There is no evidence and indeed the evidence is to the contrary, that ANI ever agreed to that.",
+      "id": "s249"
+    },
+    {
+      "text": "There is no evidence that BBL between 17 December and the time of the execution of the Deed, did not decide in the interests of the overall commercial settlement, to forego its right to that costs order.",
+      "id": "s250"
+    },
+    {
+      "text": "In those circumstances I cannot see how the principle in Grant v John Grant &amp; Sons Pty Ltd applies.",
+      "id": "s251"
+    },
+    {
+      "text": "\" \n \n \n \n\n48 The principles established by these authorities illustrate why, on 18 October 2007, I concluded that the bank was entitled to rely upon the Deed of Release as a complete answer to the Smolles' claim against it.",
+      "id": "s252"
+    },
+    {
+      "text": "I rejected Mr Williams' attempt to read the Deed of Release down so as to cover only the balanced trust investment and those losses incurred by reason of the investment in the Bond prior to the execution of the Deed.",
+      "id": "s253"
+    },
+    {
+      "text": "I could see no basis for reading the Deed of Release as permitting the Smolles to sue for future losses arising out of their investment in the Bond.",
+      "id": "s254"
+    },
+    {
+      "text": "Mr Williams' submission seemed to me to involve an artificial and entirely implausible interpretation of the plain language of the Deed of Release, and the clear and unambiguous definition of the \"claim\" that was to be settled by it.",
+      "id": "s255"
+    },
+    {
+      "text": "49 Mr Williams' submission also seemed to me to be inconsistent with the \"surrounding circumstances\".",
+      "id": "s256"
+    },
+    {
+      "text": "The bank clearly intended that any settlement should apply to all claims made by the Smolles, including their claims in relation to the Bond.",
+      "id": "s257"
+    },
+    {
+      "text": "Notably it had rejected the amended version of the Deed of Release, executed by the Smolles on 16 August 2001, which sought to exclude certain transaction costs in relation to the switch from the balanced trust to the Bond.",
+      "id": "s258"
+    },
+    {
+      "text": "Reynolds Lawyers' letter of 11 March 2002 stated that the variations to the Deed of Release were \"unacceptable\" to the bank.",
+      "id": "s259"
+    },
+    {
+      "text": "As finally executed on 25 March 2002, the Deed of Release dealt specifically with the Smolles' claim against the bank for \"compensation in relation to\" their investment in the balanced trust and the Bond.",
+      "id": "s260"
+    },
+    {
+      "text": "50 Having regard to the plain language of the Deed of Release, and the surrounding circumstances, I am of the view that the principles expressed in Grant v John Grant cannot be invoked to exclude any of the Smolles' claims in relation to the Bond from the settlement.",
+      "id": "s261"
+    },
+    {
+      "text": "51 It was on this basis that I indicated that I would summarily dismiss the Smolles' claim against the bank, and provide reasons at a later date.",
+      "id": "s262"
+    },
+    {
+      "text": "However, I made it plain that I would do so solely on the basis of the Deed of Release, and not by reason of any of the other matters upon which Ms Loughnan relied.",
+      "id": "s263"
+    },
+    {
+      "text": "52 I also indicated, on 18 October 2007, that I would not dismiss the Smolles' claim against Reynolds Lawyers on the basis of want of prosecution, despite the many failures on their part to comply with directions and orders of the Court.",
+      "id": "s264"
+    },
+    {
+      "text": "In part, I did so in reliance upon the principles laid down by the High Court in State of Queensland v JL Holdings Pty Ltd [1997] HCA 1 ; (1997) 189 CLR 146.",
+      "id": "s265"
+    },
+    {
+      "text": "The Smolles had been required to pay indemnity costs for each earlier breach of my orders, and that seemed to me to ameliorate to some degree any prejudice that Reynolds Lawyers had suffered.",
+      "id": "s266"
+    },
+    {
+      "text": "Bearing in mind the difficulties under which the Smolles laboured, having regard to their particular circumstances, and also taking into account the fact that they were now competently represented, I concluded that it would not be appropriate to prevent them from prosecuting their case.",
+      "id": "s267"
+    },
+    {
+      "text": "53 That leaves the position as follows.",
+      "id": "s268"
+    },
+    {
+      "text": "The claim against the bank is dismissed.",
+      "id": "s269"
+    },
+    {
+      "text": "However, Reynolds Lawyers still face claims for failure to carry out instructions, breach of retainer, negligence and misleading or deceptive conduct.",
+      "id": "s270"
+    },
+    {
+      "text": "Reynolds Lawyers have cross-claimed against the bank, in the event that they are found liable to the Smolles.",
+      "id": "s271"
+    },
+    {
+      "text": "The status of that cross-claim will need to be considered at some future time.",
+      "id": "s272"
+    },
+    {
+      "text": "54 On any view, if the Smolles are to succeed against their former solicitors they will have to prove not merely that the breaches alleged occurred, but also that they suffered loss or damage as a consequence.",
+      "id": "s273"
+    },
+    {
+      "text": "55 That will necessarily mean that the Smolles will have to prove that they suffered loss or damage by reason of the bank's negligent advice, or misleading or deceptive conduct, and that the only reason they are unable to recover against the bank is because they signed the Deed of Release.",
+      "id": "s274"
+    },
+    {
+      "text": "That means that, one way or another, a number of the issues that would have had to have been determined if this case had proceeded against the bank will still have to be resolved in the proceeding against Reynolds Lawyers.",
+      "id": "s275"
+    },
+    {
+      "text": "Precisely where that leaves the parties will have to be resolved at some future date.",
+      "id": "s276"
+    },
+    {
+      "text": "56 The application by the Smolles' against the bank will be dismissed.",
+      "id": "s277"
+    },
+    {
+      "text": "However, their application against Reynolds Lawyers will stand.",
+      "id": "s278"
+    },
+    {
+      "text": "The matter has been listed for further directions on 19 November 2007.",
+      "id": "s279"
+    },
+    {
+      "text": "Questions of costs in relation to each notice of motion, and any reserved costs, will be determined in due course.",
+      "id": "s280"
+    },
+    {
+      "text": "I certify that the preceding fifty-six (56) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Weinberg.",
+      "id": "s281"
+    },
+    {
+      "text": "Associate: \n\nDated: 7 November 2007\n\n\n Counsel for the Applicant: Mr D Williams \n \n Solicitors for the Applicant: Lewis Holdway Lawyers \n \n Counsel for the First Respondent: Ms M Loughnan \n \n Solicitors for the First Respondent: Deacons \n \n Solicitor for the Second and Third Respondents: Mr A Meyer \n \n Solicitors for the Second and Third Respondents Monahan &amp; Rowell \n \n Date of Hearing: 25 September 2007 &amp; 18 October 2007 \n \n Date of Judgment: 7 November 2007 \n\n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/1673.html",
+      "id": "s282"
+    }
+  ]
+}

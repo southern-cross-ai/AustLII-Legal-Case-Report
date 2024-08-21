@@ -1,0 +1,1588 @@
+{
+  "name": "Australian Competition and Consumer Commission v Dynacast (Int) Pty Ltd (formerly Phoneflasher.com Pty Ltd) ACN 061 234 642 [2007] FCA 429 (26 March 2007)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2007/429.html",
+  "catchphrases": [
+    {
+      "text": "alleged non-compliance with consent orders",
+      "id": "c0"
+    },
+    {
+      "text": "company indifferent to the obligations imposed by the orders",
+      "id": "c1"
+    },
+    {
+      "text": "penalty",
+      "id": "c2"
+    },
+    {
+      "text": "need for party to be made aware of the seriousness of contempt",
+      "id": "c3"
+    },
+    {
+      "text": "purposes of penal power in cases on civil contempt",
+      "id": "c4"
+    },
+    {
+      "text": "director's liability for company's non-compliance",
+      "id": "c5"
+    },
+    {
+      "text": "must be shown to have aided or abetted the breach by the company or have acted so as to have subverted the effect of the order to be guilty of contempt",
+      "id": "c6"
+    },
+    {
+      "text": "consent orders",
+      "id": "c7"
+    },
+    {
+      "text": "consented to by director in the knowledge that neither the company nor the director had the power or capacity to comply with the order",
+      "id": "c8"
+    },
+    {
+      "text": "whether liability proved",
+      "id": "c9"
+    },
+    {
+      "text": "shadow director",
+      "id": "c10"
+    },
+    {
+      "text": "acted as the company's mind and will",
+      "id": "c11"
+    },
+    {
+      "text": "exercised the powers of the company in relation to court proceedings with the acquiescence of, and not subject to the supervision of, the company's director",
+      "id": "c12"
+    },
+    {
+      "text": "contempt",
+      "id": "c13"
+    },
+    {
+      "text": "contempt",
+      "id": "c14"
+    },
+    {
+      "text": "contempt",
+      "id": "c15"
+    },
+    {
+      "text": "company law",
+      "id": "c16"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "1 This contempt proceeding is now being prosecuted by the Australian Competition and Consumer Commission against two of the four respondents, Dynacast (Int) Pty Ltd (formerly Phoneflasher.com Pty Ltd) and Alan Bradley Jorgensen.",
+      "id": "s0"
+    },
+    {
+      "text": "I will refer to the first of these as \"Phoneflasher Co\", the company so named being the first respondent in the principal proceedings out of which the present matter arises.",
+      "id": "s1"
+    },
+    {
+      "text": "I have designedly avoided using the abbreviation \"Phoneflasher.com\" as, on the material before me, it would appear that (i) there may be other companies (not necessarily registered in Australia) having these words in their name; (ii) there are both a domain name and a website so named; and (iii) there is some reason to believe that that description is a trade name used in distribution arrangements.",
+      "id": "s2"
+    },
+    {
+      "text": "These possible usages of the \"Phoneflasher.com\" label make confident interpretation of some of the material before me difficult.",
+      "id": "s3"
+    },
+    {
+      "text": "The principal proceeding \n \n2 In mid-2004 the ACCC brought proceedings in this Court seeking declaratory and other relief in respect of alleged contraventions of s 52 and s 53(c) of the Trade Practices Act 1974 (Cth).",
+      "id": "s4"
+    },
+    {
+      "text": "The respondents were the Phoneflasher Co, Mr Jorgensen and his sister, Jimeale Jorgensen, who was a director of the company.",
+      "id": "s5"
+    },
+    {
+      "text": "The company retailed a mobile phone accessory called the \"Phoneflasher\".",
+      "id": "s6"
+    },
+    {
+      "text": "Put shortly the ACCC alleged that the respondents had falsely represented on the phoneflasher.com website that using the accessory would reduce harmful radiation exposure to the user of the telephone and thus had associated health benefits.",
+      "id": "s7"
+    },
+    {
+      "text": "3 Those proceedings proved difficult to prosecute.",
+      "id": "s8"
+    },
+    {
+      "text": "Mr and Ms Jorgensen were regularly outside the jurisdiction; they made only strategic use of legal advisers; and service and communication were (by my order) by email.",
+      "id": "s9"
+    },
+    {
+      "text": "Mr Jorgensen early indicated to the ACCC both that he had authority to bind his sister and the company and that he sought settlement of the matter.",
+      "id": "s10"
+    },
+    {
+      "text": "4 It would appear that, from email correspondence between Mr Jorgensen and the ACCC, that (i) it was asserted by Mr Jorgensen that the phoneflasher website was an international one and that it was the website of Shanghai Connexion.com Ltd in China; but (ii) the ACCC indicated that the website made no reference to its being owned by that company.",
+      "id": "s11"
+    },
+    {
+      "text": "The significance of this will become apparent below.",
+      "id": "s12"
+    },
+    {
+      "text": "I would note that at all relevant times for the purposes of the principal proceeding Mr Jorgensen was the registrant of the domain name \"Phoneflasher.com\".",
+      "id": "s13"
+    },
+    {
+      "text": "The \"phoneflasher.com\" website was linked to this domain name.",
+      "id": "s14"
+    },
+    {
+      "text": "5 In late October 2004 a notice of appearance was filed on behalf of all of the respondents by a firm of solicitors.",
+      "id": "s15"
+    },
+    {
+      "text": "On 1 November 2004, Mr and Ms Jorgensen purporting also to act on behalf of Phoneflasher Co agreed to settle the action.",
+      "id": "s16"
+    },
+    {
+      "text": "Consent orders were drawn up with all parties being legally represented.",
+      "id": "s17"
+    },
+    {
+      "text": "They were signed by the respondents' solicitors.",
+      "id": "s18"
+    },
+    {
+      "text": "The orders were made by me on 2 November 2004.",
+      "id": "s19"
+    },
+    {
+      "text": "6 The declaration of agreed facts which accompanied the orders acknowledged the facts giving rise to the contraventions of s 52 and s 53(c) of the TP Act including (inter alia) that (i) relevant representations were made \"on [Phoneflasher Co's] website at http://www.phoneflasher.com\"; (ii) Ms Jorgensen, as a director of the company, was directly and indirectly knowingly concerned in its contraventions of the Act; and (iii) Mr Jorgensen as the majority shareholder of, and as an agent of, the company was likewise so concerned in the contraventions.",
+      "id": "s20"
+    },
+    {
+      "text": "7 Insofar as presently relevant, the consent orders provided:\n \n \n \"3.",
+      "id": "s21"
+    },
+    {
+      "text": "The First Respondent [the Phoneflasher Co] supply to each retail outlet to which it has distributed the Phoneflasher, as its expense and within 30 days of the date of this order: \n \n \n \n \n \n 3.1 a laminated sign in the size, form and format of Annexure 'A' to these orders; and \n \n 3.2 a letter, in the format of Annexure B to these orders and on the First Respondent's letterhead, to each such outlet advising the proprietor of the outlet of the terms of this order and requesting that the sign be displayed in a prominent location near where the Phoneflasher is displayed for sale.",
+      "id": "s22"
+    },
+    {
+      "text": "4.",
+      "id": "s23"
+    },
+    {
+      "text": "The First Respondent, within 35 days of the date of this order, provide the Applicant with a list of the names and addresses of customers to which it provided signs in accordance with the preceding order.",
+      "id": "s24"
+    },
+    {
+      "text": "5.",
+      "id": "s25"
+    },
+    {
+      "text": "Pursuant to section 86C of the Act, the First Respondent, at its expense:\n \n \n \n \n \n 5.1 in the event that the First Respondent is currently trading, within three months of the date of this order, establish a trade practices corporate compliance program for employees and other persons involved in the First Respondent's business designed to ensure their awareness of their responsibilities and obligations in relation to sections 52 and 53(c) of the Act; \n \n 5.2 in the event that the First Respondent is not currently trading:\n \n \n \n \n 5.2.1 within seven days of commencing to trade, notify the South Australian Regional Director of the Applicant of that fact; and \n \n 5.2.2 within three months of commencing to trade, establish a trade practices corporate compliance program for employees and other persons involved in the First Respondent's business designed to ensure their awareness of their responsibilities and obligations in relation to sections 52 and 53(c) of the Act; and\n \n \n \n \n 5.3 use its best endeavours to ensure that the compliance program established pursuant to order 5.1 or 5.2.2 is consistent with Australian Standard AS-3086.",
+      "id": "s26"
+    },
+    {
+      "text": "6.",
+      "id": "s27"
+    },
+    {
+      "text": "Pursuant to section 86C of the Act, the First Respondent, at its expense and within 14 days of the date of this order, place a notice on the internet website 'http:/www.phoneflasher.com' and any other website being used by the First Respondent to promote the Phoneflasher mobile telephone accessory, in the form of an automatically generated active pop-up window or message box that complies with the contents, requirements and format described in Annexure 'C' and that the notice be maintained continually for a period of six months.",
+      "id": "s28"
+    },
+    {
+      "text": "\"\n \n \n Background to the Contempt Proceedings \n \n8 It is necessary at the outset to refer to the ownership and control, first, of the Phoneflasher Co and, then, of Dynacast.",
+      "id": "s29"
+    },
+    {
+      "text": "The company had had a number of incarnations (including as Dynacast International Pty Ltd) prior to its being given the registered name of Phoneflasher.com Pty Ltd in May 2002.",
+      "id": "s30"
+    },
+    {
+      "text": "According to an ASIC Historical Company Extract, Ms Jorgensen was a director from 2 May 2002 to 8 June 2004 and held 25 per cent of the shares in the company until they were transferred to Mr Kerville on 18 November 2004, ASIC being notified of the transfer on 16 December 2004.",
+      "id": "s31"
+    },
+    {
+      "text": "Mr Jorgensen held 75 per cent of the shares in the Phoneflasher Co at the time of the consent orders.",
+      "id": "s32"
+    },
+    {
+      "text": "He transferred his shares to Mr Kerville on the same day as his sister.",
+      "id": "s33"
+    },
+    {
+      "text": "Mr Kerville, who is the third named respondent in the contempt proceedings, was a director of Phoneflasher from 1999.",
+      "id": "s34"
+    },
+    {
+      "text": "At the time of the making of the consent orders he was the sole director of the company.",
+      "id": "s35"
+    },
+    {
+      "text": "9 There is evidence of a meeting on 1 November 2004 (i.e.",
+      "id": "s36"
+    },
+    {
+      "text": "on the day before the making of the orders), at which the name of the company was changed from Phoneflasher.com Pty Ltd to Dynacast (Int) Pty Ltd.",
+      "id": "s37"
+    },
+    {
+      "text": "The resolution signed by Mr Kerville and dated that day was lodged with ASIC on 5 November 2004.",
+      "id": "s38"
+    },
+    {
+      "text": "Neither the Court nor the ACCC were notified of this change prior to the making of the 2 November orders.",
+      "id": "s39"
+    },
+    {
+      "text": "10 On 1 April 2005 Mr Kerville ceased to be the director of Dynacast and a Rui Li, the fourth respondent, who has a Queensland address, became the sole director and shareholder.",
+      "id": "s40"
+    },
+    {
+      "text": "As of 14 July 2006 (the date on which the latest ASIC extract in evidence in this proceeding was obtained), the registered office of Dynacast remained as it had been since December 2003.",
+      "id": "s41"
+    },
+    {
+      "text": "There is no evidence in the present proceedings as to the nature of the business, if any, now conducted by Dynacast.",
+      "id": "s42"
+    },
+    {
+      "text": "Rui Li, though a party to the proceedings, is not now being pursued.",
+      "id": "s43"
+    },
+    {
+      "text": "I will return below to Rui Li and the company.",
+      "id": "s44"
+    },
+    {
+      "text": "They are unrepresented in this proceeding.",
+      "id": "s45"
+    },
+    {
+      "text": "11 A sealed copy of the orders of 2 November was served on Dynacast's lawyers on 4 November 2004 and a further sealed copy was provided to him on 9 December 2004.",
+      "id": "s46"
+    },
+    {
+      "text": "In addition, a sealed copy of the orders was couriered to Mr Kerville (as director of Phoneflasher) and Mr Jorgensen at Phoneflasher's address on 9 December 2004.",
+      "id": "s47"
+    },
+    {
+      "text": "Copies were also provided by email on the same day at, relevantly, three known email addresses of Mr Jorgensen.",
+      "id": "s48"
+    },
+    {
+      "text": "It is clear, in the event, that these orders were brought to the actual notice of both Dynacast and Mr Jorgensen.",
+      "id": "s49"
+    },
+    {
+      "text": "12 For reasons I will note below, the ACCC, being unsatisfied that compliance with the orders had been effected, brought the present contempt proceedings in October 2005.",
+      "id": "s50"
+    },
+    {
+      "text": "THE CONTEMPT PROCEEDINGS \n \n13 The Statement of Charge contains charges contempt by Dynacast in respect of each of the four consent orders (Orders 3 to 6) set out in full above and by Mr Jorgensen in respect only of Order 6.",
+      "id": "s51"
+    },
+    {
+      "text": "Before dealing with each of these in turn there is a preliminary matter to which I need to refer.",
+      "id": "s52"
+    },
+    {
+      "text": "Representing Dynacast \n \n14 The question of if, when and by whom any of the respondents in both the principal and this proceeding had legal representation has been a recurrent, occasionally confusing, question in these matters.",
+      "id": "s53"
+    },
+    {
+      "text": "In this matter it ultimately transpired that Mr Jorgensen appeared for himself and, despite Mr Jorgensen's request to represent the company (then wholly owned by its sole director Rui Li), the company was unrepresented.",
+      "id": "s54"
+    },
+    {
+      "text": "I will indicate briefly why the latter was so.",
+      "id": "s55"
+    },
+    {
+      "text": "15 At the initiation of the contempt proceedings both respondents were self represented.",
+      "id": "s56"
+    },
+    {
+      "text": "On 26 April 2006, prior to a directions hearing in the matter, the Court received communication from solicitors purporting to act for Dynacast providing (i) an undertaking to file a Notice of Appearance on behalf of it and (ii) requesting an adjournment of the directions on the basis that they wished to file a Notice of Motion requesting that the hearing be vacated.",
+      "id": "s57"
+    },
+    {
+      "text": "The adjournment of the directions hearing was refused and the foreshadowed Notice of Motion was not forthcoming.",
+      "id": "s58"
+    },
+    {
+      "text": "The matter was timetabled for hearing on that day and a copy of the orders was sent to the solicitors at their request.",
+      "id": "s59"
+    },
+    {
+      "text": "The Notice of Appearance on behalf of Dynacast was filed on 14 June 2006.",
+      "id": "s60"
+    },
+    {
+      "text": "Mr Jorgensen filed a Notice of Appearance on 16 June 2006.",
+      "id": "s61"
+    },
+    {
+      "text": "16 On 27 June 2006, solicitors for Dynacast notified the Court of an intention to represent Mr Jorgensen as well.",
+      "id": "s62"
+    },
+    {
+      "text": "That notice was provided the next day along with a request for an adjournment for two weeks.",
+      "id": "s63"
+    },
+    {
+      "text": "That adjournment was granted.",
+      "id": "s64"
+    },
+    {
+      "text": "However shortly after that date solicitors acting for both respondents ceased to do so.",
+      "id": "s65"
+    },
+    {
+      "text": "Mr Jorgensen then contacted the court to indicate that he would be acting on behalf of both himself and Dynacast.",
+      "id": "s66"
+    },
+    {
+      "text": "17 Order 9 r 1(3) of the Federal Court Rules provides, insofar as presently relevant, that a corporation may not, without the leave of the Court or a Judge, enter an appearance or defend any proceeding except by a solicitor: see also O 4 r 14(2).",
+      "id": "s67"
+    },
+    {
+      "text": "18 Mr Jorgensen was notified in writing on 20 July 2006 that the Court was not prepared simply to accede to his request to represent Dynacast.",
+      "id": "s68"
+    },
+    {
+      "text": "It was explained that any such application should be made by the company by Notice of Motion and supporting affidavit material.",
+      "id": "s69"
+    },
+    {
+      "text": "The Court further requested that as it did not have contact details for the company as such, that the contents of the communication be forwarded accordingly.",
+      "id": "s70"
+    },
+    {
+      "text": "A motion and an affidavit of Mr Jorgensen were filed on 27 July seeking leave to represent the company.",
+      "id": "s71"
+    },
+    {
+      "text": "Nothing was provided in support of this by Rui Li.",
+      "id": "s72"
+    },
+    {
+      "text": "Nor was any reference made by Mr Jorgensen to Li.",
+      "id": "s73"
+    },
+    {
+      "text": "19 At the hearing, Mr Jorgensen again requested that he be granted leave to represent Dynacast as he had been authorised in previous legal proceedings to act on their behalf.",
+      "id": "s74"
+    },
+    {
+      "text": "20 From the evidence before the Court it would appear that Mr Jorgensen has not been a director of the company since 1999 nor a shareholder since 2004.",
+      "id": "s75"
+    },
+    {
+      "text": "There was also no relevant material as to the present constitution of the company shareholders other than what was revealed in the ASIC extract of 14 June 2006 to which I earlier referred.",
+      "id": "s76"
+    },
+    {
+      "text": "I have no proper evidence of Mr Jorgensen's relationship with Rui Li or of the actual wishes of the company.",
+      "id": "s77"
+    },
+    {
+      "text": "21 It is well understood that the discretion given by O 9 r 1 imposes no threshold requirement, for example, the demonstration of special or exceptional circumstances.",
+      "id": "s78"
+    },
+    {
+      "text": "Nonetheless the discretion must be exercised in accordance with judicial principle in light of the evident expectation of the rule that ordinarily a corporation will be required to be represented by a solicitor: see Termi-Mesh Australia Pty Ltd v Josu Manufacturing Pty Ltd [1999] FCA 1241.",
+      "id": "s79"
+    },
+    {
+      "text": "In the present matter Mr Jorgensen was informed of what was expected of Dynacast before consideration would be given to his representation of it.",
+      "id": "s80"
+    },
+    {
+      "text": "It, or he, I know not which, chose not to take the course indicated.",
+      "id": "s81"
+    },
+    {
+      "text": "Hence I refused his application.",
+      "id": "s82"
+    },
+    {
+      "text": "The Charges \n \n (i) The First and Second Charges \n \n22 These now relate only to the Phoneflasher Co and can be dealt with compositely.",
+      "id": "s83"
+    },
+    {
+      "text": "They provide respectively:\n \n \" First Charge \n \n \n \n 14.",
+      "id": "s84"
+    },
+    {
+      "text": "Order 3 of the orders required the First Respondent to provide a corrective notice and letter, in the terms specified by the order, to all retail outlets to which the First Respondent had distributed the Phoneflasher , within 30 days of the date of the orders.",
+      "id": "s85"
+    },
+    {
+      "text": "15.",
+      "id": "s86"
+    },
+    {
+      "text": "The date by which the First Respondent was to have complied with order 3 of the orders was 2 December 2004.",
+      "id": "s87"
+    },
+    {
+      "text": "16.",
+      "id": "s88"
+    },
+    {
+      "text": "The First Respondent has not to the date of this Statement of Charge, supplied the corrective notice and letters in the terms specified by order 3 of the orders, to all the retail outlets to which it had distributed the Phoneflasher.",
+      "id": "s89"
+    },
+    {
+      "text": "17.",
+      "id": "s90"
+    },
+    {
+      "text": "The First Respondent has committed a contempt of court as it has failed or refused to comply with order 3 of the orders to provide by 2 December 2004 all retail outlets to which it distributed the Phoneflasher a corrective notice and letter in the terms specified by order 3.",
+      "id": "s91"
+    },
+    {
+      "text": "...\n \n Second Charge \n \n 21.",
+      "id": "s92"
+    },
+    {
+      "text": "Order 4 of the orders required the First Respondent to provide to the Applicant within 35 days of 2 November 2004 a list of names and addresses of retail outlets to which it had provided the corrective notice and letter in accordance with order 3 of the orders.",
+      "id": "s93"
+    },
+    {
+      "text": "22.",
+      "id": "s94"
+    },
+    {
+      "text": "The date by which the First Respondent was to have complied with order 4 of the orders was 7 December 2004.",
+      "id": "s95"
+    },
+    {
+      "text": "23.",
+      "id": "s96"
+    },
+    {
+      "text": "The First respondent did not supply to the Applicant a list of names and addresses of the retail outlets to which it had provided the corrective notice and letter by 7 December 2004.",
+      "id": "s97"
+    },
+    {
+      "text": "24.",
+      "id": "s98"
+    },
+    {
+      "text": "The First Respondent has committed a contempt of court as it has failed or refused to comply with order 4 of the orders by failing to provide to the Applicant by 7 December 2004 a list of names and addresses of retail outlets to which it had provided the corrective notice and letter.",
+      "id": "s99"
+    },
+    {
+      "text": "\"\n (Emphasis added)\n \n \n\n23 The ACCC has submitted that Phoneflasher Co has not complied with either of these orders and it has adduced what are representative instances both of retailers not supplied with the sign and letter and of the failure to provide to it names of retailers who actually had been provided with signs.",
+      "id": "s100"
+    },
+    {
+      "text": "24 While I am satisfied that both of these charges have been made out, I am not satisfied that the Phoneflasher Co's contempt has been of the dimension's alleged by the ACCC.",
+      "id": "s101"
+    },
+    {
+      "text": "25 It is well accepted that strict compliance with the terms of mandatory orders, such as Order 3 and 4 of the consent orders in this matter, is required of the party to whom they are addressed.",
+      "id": "s102"
+    },
+    {
+      "text": "Nonetheless the orders themselves must be clear and unambiguous: see Australian Consolidated Press Ltd v Morgan [1965] HCA 21 ; (1965) 112 CLR 483 at 515-516.",
+      "id": "s103"
+    },
+    {
+      "text": "It equally is well accepted that breach of an order must be proved beyond reasonable doubt: see Witham v Holloway [1995] HCA 3 ; (1995) 183 CLR 525; Universal Music Australia Pty Ltd v Sharman Networks Ltd [2006] FCAFC 41 ; (2006) 150 FCR 110 at [15] .",
+      "id": "s104"
+    },
+    {
+      "text": "26 In the quotation above of the first charge I have highlighted the words \"all retail outlets to which [Phoneflasher Co] had distributed the Phoneflasher\".",
+      "id": "s105"
+    },
+    {
+      "text": "I have done so because there is an issue as to the proper construction of the order: on construction see Universal Music Australia Pty Ltd, at [19] ff.",
+      "id": "s106"
+    },
+    {
+      "text": "The ACCC has tendered evidence taken from the phoneflasher website which indicated that (i) on 6 January 2003, the number of retail outlets in Australia listed as having Phoneflashers available for sale, was 157; and (ii) on 3 March 2005, the website listed more than 350 such retail suppliers.",
+      "id": "s107"
+    },
+    {
+      "text": "Order 4 of the consent orders required the company to provide the ACCC with the required names and address of the retail outlets to which it had provided corrective signs and letters on or before 7 December 2004.",
+      "id": "s108"
+    },
+    {
+      "text": "No such names were by then provided.",
+      "id": "s109"
+    },
+    {
+      "text": "Letters informing the respondent of the breach were sent to Phoneflasher Co's solicitors and to Mr Jorgensen.",
+      "id": "s110"
+    },
+    {
+      "text": "27 An ACCC officer in late December 2004 observed a Phoneflasher display stand in an Adelaide retail centre.",
+      "id": "s111"
+    },
+    {
+      "text": "On speaking to the manager she was informed that the manager had not received the notice required to be sent in the order.",
+      "id": "s112"
+    },
+    {
+      "text": "28 On 27 January 2005, a letter from the company's lawyers was received by the lawyer for the ACCC.",
+      "id": "s113"
+    },
+    {
+      "text": "It enclosed a letter from Mr Kerville of 23 January 2005 which stated that (i) \"the company ceased trading over 18 months ago and there are few customers on the books\"; (ii) the person \"who took over the distribution at that time has also since ceased trading\"; and (iii) the ACCC notices had been sent \"to prior Phoneflasher customers shown on the attached list\".",
+      "id": "s114"
+    },
+    {
+      "text": "That list contained eight names and addresses.",
+      "id": "s115"
+    },
+    {
+      "text": "29 The ACCC then entered into written and (in the case of six of them) oral communication with the eight named businesses.",
+      "id": "s116"
+    },
+    {
+      "text": "It also sent letters to eight randomly selected retailers of the 157 listed on the 2003 website.",
+      "id": "s117"
+    },
+    {
+      "text": "The product of these communications was that of the businesses on the list, one had never acquired phoneflashers; two could not remember if they had been supplied with the sign and ACCC letter; one was not sure; one did not think he had; and one said he had not received them.",
+      "id": "s118"
+    },
+    {
+      "text": "30 One of the 157 retailers selectively written to by the ACCC was Crazy Johns.",
+      "id": "s119"
+    },
+    {
+      "text": "It sent an email to the ACCC in response indicating that it was first supplied from Phoneflasher.com in November 2002.",
+      "id": "s120"
+    },
+    {
+      "text": "It had some of the product in stock but had not had further business dealings with the company for some time.",
+      "id": "s121"
+    },
+    {
+      "text": "To the best of the writer's knowledge Crazy Johns had not been supplied with the sign or the letter.",
+      "id": "s122"
+    },
+    {
+      "text": "31 It is Ms Jorgensen's evidence that she went to a trade show with phoneflasher displays.",
+      "id": "s123"
+    },
+    {
+      "text": "Three of the listed businesses with whom the ACCC had telephone communications indicated they had purchased their stock at a trade fair, while another said it had been acquired from someone named \"Jimeale\".",
+      "id": "s124"
+    },
+    {
+      "text": "Ms Jorgensen also gave evidence that she had dealt directly with the principal office of Crazy John's and Telecorp who had distribution arrangements with retail outlets.",
+      "id": "s125"
+    },
+    {
+      "text": "She had no contact with those outlets.",
+      "id": "s126"
+    },
+    {
+      "text": "As I will indicate below I have real doubts as to the true nature of the precise legal relationship of Phoneflasher Co's with Crazy Johns and Telecorp.",
+      "id": "s127"
+    },
+    {
+      "text": "The ACCC has attempted to characterise it as an agency relationship.",
+      "id": "s128"
+    },
+    {
+      "text": "It could well be a distributorship.",
+      "id": "s129"
+    },
+    {
+      "text": "There is equally some evidence to suggest that the lists of businesses appearing on the 2003 and 2005 websites as retail vendors of phoneflasher were, in the main, supplied by Telecorp and Crazy Johns.",
+      "id": "s130"
+    },
+    {
+      "text": "32 The evidence that has been put on of the contents of the 2005 phoneflasher website envisages the possibility of a business becoming \"a dealer, distributor, importer or a franchisee\" of phoneflashers, these types of relationship being with variously Phoneflasher Co and Shanghai Connexion.com Co Ltd.",
+      "id": "s131"
+    },
+    {
+      "text": "The same website describes Phoneflasher Co as a \"Joint Venture partner\" with Shanghai Connexion.com Co Ltd (\"[which] takes care of the manufacturing operations whilst Phoneflasher.com assumes responsibility for the marketing of the product around the globe\").",
+      "id": "s132"
+    },
+    {
+      "text": "I should add that, in my view, the last reference to \"Phoneflasher.com\" may well be simply to the website not to the company.",
+      "id": "s133"
+    },
+    {
+      "text": "33 Now let me turn to the proper construction of the First Charge.",
+      "id": "s134"
+    },
+    {
+      "text": "The Charge, as I have noted, refers to \"all retail outlets to which the First Respondent had distributed the Phoneflasher\".",
+      "id": "s135"
+    },
+    {
+      "text": "This, in my view, can only refer to distributions made by Phoneflasher Co (\"whether through an agent or otherwise\") to such retail outlets.",
+      "id": "s136"
+    },
+    {
+      "text": "It would not encompass distributions by an intermediate distributor acting as a principal in selling to its own customers, notwithstanding that the product ultimately sold was a phoneflasher.",
+      "id": "s137"
+    },
+    {
+      "text": "The order is simply not wide enough in its terms for it to be said that it clearly and unambiguously encompasses \"distribution\" by Phoneflasher Co in that fashion.",
+      "id": "s138"
+    },
+    {
+      "text": "34 Accordingly, and putting to one side the eight names on Mr Kerville's list of 23 January 2005, I am not, on the evidence, satisfied beyond reasonable doubt that the names of businesses appearing on the extracts of the 2003 and 2005 phoneflasher websites were retail outlets to which the Phoneflasher company had supplied phoneflashers as a principal.",
+      "id": "s139"
+    },
+    {
+      "text": "The evidence is not unequivocal and I do not regard the cross-examination of Ms Jorgensen when agreeing to the suggestion that Crazy Johns and Telecorp were \"agents\" as in anyway dispelling that uncertainty.",
+      "id": "s140"
+    },
+    {
+      "text": "The burden of her evidence was that these entities purchased then on-sold the product to their own franchisees, etc.\n \n35 I am left in consequence with the question whether, in relation to the 8 businesses contained in Mr Kerville's list, the charge has been made out.",
+      "id": "s141"
+    },
+    {
+      "text": "Notwithstanding that one of the 8 denied it ever stocked the product (\"This'n'That\"), and that three more were uncertain or unsure as to whether they had received the sign and the letter, I have the requisite satisfaction that at least two of the 8 (\"Hannah's Pharmacy\" (or \"Hanna Pharmacies\") and \"Haines Newsagency\") did not receive the sign or the letter.",
+      "id": "s142"
+    },
+    {
+      "text": "36 I am then satisfied that the First Respondent had not to the date of the Statement of Charge supplied the corrective notice and letters in the terms specified by Order 3 of the orders, to two of the retail outlets to which it had distributed the phoneflasher.",
+      "id": "s143"
+    },
+    {
+      "text": "While I am not satisfied beyond reasonable doubt that Phoneflasher Co did not supply the notice and letters to any retail outlet it had supplied, I equally do not on the evidence have reason to believe it did so supply any such retail outlet.",
+      "id": "s144"
+    },
+    {
+      "text": "37 As to the Second Charge, the evidence is uncontradicted that the First Respondent did not supply the ACCC a list of names and addresses as required by Order 4 by 7 December 2004.",
+      "id": "s145"
+    },
+    {
+      "text": "By so failing it has committed a contempt of court.",
+      "id": "s146"
+    },
+    {
+      "text": "I equally am satisfied that it did not later comply with Order 4 when providing the list of retail outlets to the ACCC to at least the extent that that list included the two outlets noted above which I have found did not receive the sign and letter.",
+      "id": "s147"
+    },
+    {
+      "text": "(ii) The Third Charge \n \n38 Though the charge itself is of some length, the actual issue it raises can be dealt with briefly.",
+      "id": "s148"
+    },
+    {
+      "text": "The charge reads:\n \n \" Third Charge \n \n \n \n 28.",
+      "id": "s149"
+    },
+    {
+      "text": "Order 5.1 of the orders required the First Respondent, if currently trading, to within three months from the date of the order, establish a trade practices corporate compliance program for employees and other persons involved in the First Respondent's business designed to ensure their awareness of their responsibilities and obligations in relation to sections 52 and 53 (c) of the Act.",
+      "id": "s150"
+    },
+    {
+      "text": "29.",
+      "id": "s151"
+    },
+    {
+      "text": "The date by which the First Respondent was to have complied with order 5.1 if it was currently trading was 2 February 2005.",
+      "id": "s152"
+    },
+    {
+      "text": "30.",
+      "id": "s153"
+    },
+    {
+      "text": "The First Respondent:\n \n \n \n \n \n 30.1 had a resolution passed at a meeting of its members on 1 November 2004 to change its name to Dynacast (INT) Pty Ltd; \n \n 30.2 failed to inform the Court on 2 November 2004 of the resolution referred to in paragraph 30.1; \n \n 30.3 had the resolution referred to in paragraph 30.1 lodged with ASIC on 5 November 2004; \n \n 30.4 on 16 December 2004 (with effect from 18 November 2004), had the legal owners of the issued share capital, Jimeale Jorgensen and Alan Bradley Jorgensen, transfer the issued share capital in the First Respondent owned by them to the Third Respondent; and \n \n 30.5 upon resolution of its members on 8 April 2005 had the Fourth Respondent, appointed as its director, and had such issued share capital in the First Respondent previously legally owned by the Third Respondent transferred to the Fourth Respondent.",
+      "id": "s154"
+    },
+    {
+      "text": "31.",
+      "id": "s155"
+    },
+    {
+      "text": "The First Respondent failed to implement a trade practices corporate compliance program by 2 February 2005, or at any time, as required by order 5.1 of the orders.",
+      "id": "s156"
+    },
+    {
+      "text": "32.",
+      "id": "s157"
+    },
+    {
+      "text": "The First Respondent has, in the circumstances outlined in paragraph 30, committed a contempt of court as it has failed or refused to comply with order 5.1 of the orders by failing or refusing to implement a trade practices corporate compliance program by 2 February 2005.",
+      "id": "s158"
+    },
+    {
+      "text": "\"\n \n \n\n39 The short point is whether Dynacast was currently trading at the time of the order, this being the contingency upon which Order 5.1 was premised.",
+      "id": "s159"
+    },
+    {
+      "text": "I could not, given the state of the evidence, be satisfied beyond reasonable doubt that it was so trading at that time.",
+      "id": "s160"
+    },
+    {
+      "text": "40 Four of the five matters referred to in para 30 of the charge (i.e.",
+      "id": "s161"
+    },
+    {
+      "text": "excluding 30.2) are consistent with the sale of a company consequent upon the termination of its business.",
+      "id": "s162"
+    },
+    {
+      "text": "The change of company name (which was tied to the name of a particular product) is emblematic of this.",
+      "id": "s163"
+    },
+    {
+      "text": "Though phoneflashers remained on sale after the consent orders, none of the retail outlets who were contacted by, or who made contact with, the ACCC indicated that they had recent contact (i.e.",
+      "id": "s164"
+    },
+    {
+      "text": "less than a year earlier) with Phoneflasher Co.",
+      "id": "s165"
+    },
+    {
+      "text": "Most had not dealt with the company for several years though some still had stock on hand.",
+      "id": "s166"
+    },
+    {
+      "text": "41 It is the case that, in consequence of Mr Kerville's letter to his lawyers of 25 January 2005 in which he indicated that the Phoneflasher Co had \"ceased trading over 18 months ago\", the ACCC wrote to him of 17 February 2005 requesting responses to (inter alia) the following questions:\n \n \n \"1.",
+      "id": "s167"
+    },
+    {
+      "text": "Please state the date Phoneflasher.com Pty Ltd ceased trading as a distributor of the phoneflasher device, and whether it is currently trading in other areas of business.",
+      "id": "s168"
+    },
+    {
+      "text": "2.",
+      "id": "s169"
+    },
+    {
+      "text": "Please state how and when you became aware of the ACCC proceedings against Phoneflasher.com Pty Ltd and the consent orders dated 2 November 2004.",
+      "id": "s170"
+    },
+    {
+      "text": "3.",
+      "id": "s171"
+    },
+    {
+      "text": "Please state whether the business of Phoneflasher.com Pty Ltd has been transferred to another entity.",
+      "id": "s172"
+    },
+    {
+      "text": "If so please detail:\n \n a.",
+      "id": "s173"
+    },
+    {
+      "text": "The date the business was transferred;\n b.",
+      "id": "s174"
+    },
+    {
+      "text": "To whom the business was transferred; \n \n \n \n \n c. What consideration Phoneflasher.com Pty Ltd received for transferring the business; and \n d. The name of the current distributor of Phoneflasher in Australia.",
+      "id": "s175"
+    },
+    {
+      "text": "4.",
+      "id": "s176"
+    },
+    {
+      "text": "Please state the reasons Phoneflasher.com Pty Ltd changed its name to Dynacast (Int) Pty Ltd.\"\n \n \n\nNo reply was received.",
+      "id": "s177"
+    },
+    {
+      "text": "42 In these proceedings, I regard that failure to reply as indicative of the indifference, lack of cooperation and elusiveness demonstrated on occasion by the various respondents both in the principal and in this proceeding, but of no more.",
+      "id": "s178"
+    },
+    {
+      "text": "43 The evidence put on generally for the respondents in this matter, though (save for that of Ms Jorgensen) untested, is generally to the effect that Phoneflasher Co ceased trading in late 2003 or in the first half of 2004.",
+      "id": "s179"
+    },
+    {
+      "text": "Ms Jorgensen's evidence was to this effect.",
+      "id": "s180"
+    },
+    {
+      "text": "Mr Kerville's letter to that effect should, I consider, be treated with some circumspection as it could be said to have an obvious strategic character for the purposes of this proceeding.",
+      "id": "s181"
+    },
+    {
+      "text": "44 In all, and bearing in mind the onus borne by ACCC, I am not satisfied that Phoneflasher Co was trading at the time of the consent order.",
+      "id": "s182"
+    },
+    {
+      "text": "I consider it to be quite likely that those involved in what I might call the \"phoneflasher venture\" in China and elsewhere simply resolved to shut down and cut loose the Phoneflasher Co in Australia so relieving themselves of the growing inconvenience it was causing them in the principal proceeding --- notwithstanding that its name may have subsisted thereafter (even prominently) on the phoneflasher website.",
+      "id": "s183"
+    },
+    {
+      "text": "(iii) The Fourth Charge \n \n45 It is this charge which raises the most contentious issues.",
+      "id": "s184"
+    },
+    {
+      "text": "It is also the one that implicates Mr Jorgensen in an alleged contempt of court.",
+      "id": "s185"
+    },
+    {
+      "text": "It reads as follows:\n \n \" Fourth Charge \n \n \n \n 36.",
+      "id": "s186"
+    },
+    {
+      "text": "Order 6 of the orders required the First Respondent, within 14 days of the date of the order, to place a notice on the website using the domain name http://www.phoneflasher.com (the domain name), and any other website being used by the First Respondent to promote the Phoneflasher mobile telephone accessory, an automatically generated active pop-up window or message box in the format specified by order 6.",
+      "id": "s187"
+    },
+    {
+      "text": "37.",
+      "id": "s188"
+    },
+    {
+      "text": "The date by which the First Respondent was to have complied with order 6 of the orders was 16 November 2004.",
+      "id": "s189"
+    },
+    {
+      "text": "38.",
+      "id": "s190"
+    },
+    {
+      "text": "The First respondent has failed to place a notice in accordance with the terms of order 6 of the orders on the website, or any other internet website, using the domain name.",
+      "id": "s191"
+    },
+    {
+      "text": "39.",
+      "id": "s192"
+    },
+    {
+      "text": "The First Respondent has committed a contempt of court as it has failed or refused to comply with order 6 of the orders by failing to place a notice on an internet website using the domain name, a notice in accordance with the terms of order 6 of the orders.",
+      "id": "s193"
+    },
+    {
+      "text": "\"\n \n \n\n46 The basis of Mr Jorgensen's contempt is put as follows:\n \n \" Liability of the Second Respondent \n \n 40.",
+      "id": "s194"
+    },
+    {
+      "text": "The Second Respondent:\n \n \n \n \n 40.1 was the legal owner of 75% of the issued shares in the capital of the First Respondent until transfer of such share capital on 16 December 2004 (with effect from 18 November 2004); and \n \n 40.2 having informed the Applicant via email on 10 August 2004, that he was a person with the authority to act on behalf of the First Respondent and Jimeale Jorgensen in the action; and \n \n 40.3 from and after 20 October 2004, was responsible for instructing solicitors and Counsel on behalf of the First Respondent and Jimeale Jorgensen in the action; and \n \n 40.4 consented to the orders on behalf of the First Respondent and Jimeale Jorgensen; and \n \n 40.5 from 17 August 2004 to 14 March 2005 was the registrant and administrative contact for the domain name; and \n \n 40.6 was responsible as registrant for the control and use of the domain name on the internet during the period 17 August 2004 to 14 March 2005; and \n \n 40.7 from 10 August 2004 to 11 November 2004, was a person with whose instructions or wishes the Third Respondent, as the appointed director of the First Respondent, was accustomed to act in relation to the affairs of the First Respondent; \n \n and he was thereby:\n \n 40.8 for the period 10 August 2004 to 11 November 2004, an officer of the First Respondent within the meaning of section 9 of the Corporations Act 2001 ; or \n \n 40.9 for the period 10 August 2004 to 11 November 2004 a director of the First Respondent within the meaning of section 9 of the Corporations Act 2001 .",
+      "id": "s195"
+    },
+    {
+      "text": "41.",
+      "id": "s196"
+    },
+    {
+      "text": "The Second Respondent:\n \n 41.1 having notice of the orders, and of the First Respondent's obligations under the orders, he having negotiated and then given instructions on behalf of the First Respondent in respect of the agreed terms of such orders; and \n \n 41.2 having knowledge of the failure or refusal of the First Respondent to comply with order 6 of the Orders; and \n \n 41.3 having the authority to consent and so consenting on behalf of the First Respondent, and thereby binding the First Respondent to the terms of the orders; and\n \n 41.4 having notice of the content of the letter dated 4 November 2004 from the Applicant's solicitors to the solicitors in the Action for the First Respondent, Jimeale Jorgensen and Alan Bradley Jorgensen; and\n \n 41.5 having notice of the email from the Applicant's solicitors dated 9 December 2004; and\n \n 41.6 being the registrant and administrative contact for the domain name during the period from 17 August 2004 to 14 March 2005; and\n \n 41.7 being responsible as registrant of the domain name during the period 17 August 2004 to 14 March 2005 for the control and use of the domain name on the internet; and\n \n 41.8 causing the domain name to be transferred to a third party during the period 14 March 2005 to 8 April 2005; and\n \n 41.9 by wilfully refraining from taking any reasonable steps, or any steps at all to enable or cause the First Respondent to comply with its obligations under order 6 of the orders;\n \n has thereby:\n \n 41.10 committed a contempt of court by aiding and abetting, counselling or procuring the First Respondent's failure or refusal to comply with order 6 of the orders; or\n \n 41.11 alternatively, committed a contempt of court by being directly or indirectly knowingly concerned in, or party to, the failure or refusal to comply with order 6 of the orders by the First Respondent.",
+      "id": "s197"
+    },
+    {
+      "text": "42.",
+      "id": "s198"
+    },
+    {
+      "text": "Alternatively to paragraph 41 above, the Second Respondent, being a person with notice of the terms of order 6 of the orders and: \n \n \n \n \n \n 42.1 of the First Respondent's obligations under the orders; and\n \n 42.2 of the failure or refusal of the First Respondent to comply with order 6 of the orders; and\n \n 42.3 having the authority to consent and so consenting on behalf of the First Respondent, and thereby binding the First Respondent to the terms of the orders; and\n \n 42.4 having notice of the content of the letter dated 4 November 2004 from the Applicant's solicitors to the solicitors in the action for the First Respondent, Jimeale Jorgensen and Alan Bradley Jorgensen; and\n \n 42.5 having notice of the email from the Applicant's solicitors dated 9 December 2004 to the Second Respondent; and\n \n 42.6 being the registrant and administrative contact for the domain name during the period from 17 August 2004 to 14 March 2005; and\n \n 42.7 being responsible as registrant of the domain name during the period 17 August 2004 to 14 March 2005 for the control and use of the domain name on the internet; and\n \n 42.8 causing the domain name to be transferred to a third party during the period 14 March 2005 to 8 April 2005; and\n \n 42.9 by wilfully refraining from taking any reasonable steps, or any steps at all to enable or cause the First Respondent to comply with its obligations under order 6 of the orders;\n \n The Second Respondent has thereby:\n \n 42.10 committed a contempt of Court by acting in a manner to frustrate the operation of order 6 of the orders.",
+      "id": "s199"
+    },
+    {
+      "text": "\"\n \n \n \n\n47 Mr Jorgensen has defended himself by saying that, while he may have been the registrant of the phoneflasher.com domain name, he did not control the content of the website linked to that domain name.",
+      "id": "s200"
+    },
+    {
+      "text": "In a variety of documents he authored (for the most part emails to the ACCC's lawyer dating from 10 August 2004), he has denied personal control of the website and has ascribed ownership and/or control of it to Shanghai Connexion.com Co Ltd. \n \n48 To understand this defence it is necessary to refer in a little detail to the expert evidence (and its possible limitations) given in this matter.",
+      "id": "s201"
+    },
+    {
+      "text": "The ACCC called Don Blumenthal to give expert evidence on the Internet system and domain names.",
+      "id": "s202"
+    },
+    {
+      "text": "Mr Blumenthal is an attorney with the Bureau of Consumer Protection at the Federal Trade Commission (\"FTC\").",
+      "id": "s203"
+    },
+    {
+      "text": "The FTC is an independent civil law enforcement agency with the United States government.",
+      "id": "s204"
+    },
+    {
+      "text": "His primary responsibility with the Bureau is to manage its Internet Labs.",
+      "id": "s205"
+    },
+    {
+      "text": "These Labs are centres for undercover investigation of Internet-based fraud and deception.",
+      "id": "s206"
+    },
+    {
+      "text": "Subject to one reservation noted below, I am satisfied as to Mr Blumenthal's expertise and accept his evidence.",
+      "id": "s207"
+    },
+    {
+      "text": "The following is drawn from his evidence.",
+      "id": "s208"
+    },
+    {
+      "text": "49 First, the Internet system.",
+      "id": "s209"
+    },
+    {
+      "text": "This is a network of computers which connect to each other using a communications protocol called Terminal Communications Protocol/Internet Protocol (TCP/IP).",
+      "id": "s210"
+    },
+    {
+      "text": "\"Client\" computers (which are on the user side) connect to \"host\" computers, which are the computers that contain content such as websites or email.",
+      "id": "s211"
+    },
+    {
+      "text": "Host computers frequently are called \"servers\".",
+      "id": "s212"
+    },
+    {
+      "text": "50 Each computer accessible through the Internet has a numeric TCP/IP address composed of four or six numeric segments.",
+      "id": "s213"
+    },
+    {
+      "text": "Remembering numeric addresses in order to access a server is cumbersome.",
+      "id": "s214"
+    },
+    {
+      "text": "\"Canonical\", or plain language, addresses were developed to make it easier for individuals on client computers to remember the names of hosts.",
+      "id": "s215"
+    },
+    {
+      "text": "These are the now familiar www addresses.",
+      "id": "s216"
+    },
+    {
+      "text": "51 The Domain Name System (DNS) was created in the mid-1980's.",
+      "id": "s217"
+    },
+    {
+      "text": "It links TCP/IP addresses and canonical names.",
+      "id": "s218"
+    },
+    {
+      "text": "When a computer user enters a canonical description, such as www.ftc.gov, into a web browser program, the address is cross-referenced against server databases that translate the verbal address into the appropriate numeric TCP/IP address.",
+      "id": "s219"
+    },
+    {
+      "text": "52 Secondly, domains.",
+      "id": "s220"
+    },
+    {
+      "text": "Two domain levels are of particular relevance in these proceedings: top level domains and second level domains.",
+      "id": "s221"
+    },
+    {
+      "text": "Two kinds of top level domains exist: generic top level domains (gTLD) and country code top level domains (ccTLD).",
+      "id": "s222"
+    },
+    {
+      "text": "In the address www.ftc.gov, .gov is the top level domain.",
+      "id": "s223"
+    },
+    {
+      "text": "Generic top level domains are controlled closely by the Internet Corporation for Assigned Names and Numbers (ICANN).",
+      "id": "s224"
+    },
+    {
+      "text": "ICANN is a non-profit corporation responsible for governance of the Internet.",
+      "id": "s225"
+    },
+    {
+      "text": "53 Generic top level domains available to the general public are .com, .org, .net, .edu, .aero, .biz, .info, .coop, .name, and .museum.",
+      "id": "s226"
+    },
+    {
+      "text": "Of these, .com, .net, .org, and .info can be used without regard to purpose.",
+      "id": "s227"
+    },
+    {
+      "text": "Countries to which the country code top level domains are assigned set their own governing policies for the most part.",
+      "id": "s228"
+    },
+    {
+      "text": "Examples are .au, .us, and .uk.",
+      "id": "s229"
+    },
+    {
+      "text": "54 Second level domains complete the \"domain name\" used by an entity when the entity has chosen to use canonical names to route traffic to its servers.",
+      "id": "s230"
+    },
+    {
+      "text": "An individual or organization that has a proposed second level domain name must decide which top level domain is of interest.",
+      "id": "s231"
+    },
+    {
+      "text": "The combination of the top level domain and the second level domain is the full domain name; for example, in www.ftc.gov, ftc is the second level domain and the registered domain is ftc.gov.",
+      "id": "s232"
+    },
+    {
+      "text": "The combination of the top level domain and the second level domain is registered with a domain registrar.",
+      "id": "s233"
+    },
+    {
+      "text": "55 The server name usually is the first segment in a canonical internet address.",
+      "id": "s234"
+    },
+    {
+      "text": "In www.ftc.gov, \"www\" is the name of the server that contains the website operated under ftc.gov.",
+      "id": "s235"
+    },
+    {
+      "text": "56 Thirdly, ownership of domain names.",
+      "id": "s236"
+    },
+    {
+      "text": "Domain registration entered the public domain in 1991.",
+      "id": "s237"
+    },
+    {
+      "text": "Hundreds of registrars throughout the world are now accredited.",
+      "id": "s238"
+    },
+    {
+      "text": "Each top level domain has a registry, which is the authoritative list of all domains in the top level domain.",
+      "id": "s239"
+    },
+    {
+      "text": "Registries contain, at a minimum, the names of domain name owners and information required to cross reference canonical names into IP addresses.",
+      "id": "s240"
+    },
+    {
+      "text": "A US company called VeriSign, Inc., maintains the registries for .com and .net.",
+      "id": "s241"
+    },
+    {
+      "text": "57 The registrant of the domain is the domain name owner.",
+      "id": "s242"
+    },
+    {
+      "text": "Registrations are for specific terms, usually one to three years.",
+      "id": "s243"
+    },
+    {
+      "text": "58 Ownership of a registered domain gives the domain owner control over use of the name on the Internet.",
+      "id": "s244"
+    },
+    {
+      "text": "Once a domain name is registered, it cannot be used by anyone other than the registrant or that entity's authorized representative.",
+      "id": "s245"
+    },
+    {
+      "text": "The owner of a domain name, or an entity involved on behalf of the owner in management of the server, determines the IP addresses to which traffic is routed when someone tries to access servers which use the domain name.",
+      "id": "s246"
+    },
+    {
+      "text": "In the normal course of business, a domain owner or its authorized representative is usually in a position to dictate content on a website and the manner in which it will appear.",
+      "id": "s247"
+    },
+    {
+      "text": "Domain registrations can be transferred to new owners by the domain name holder.",
+      "id": "s248"
+    },
+    {
+      "text": "The registrar must be notified if ownership of a domain name is to be transferred.",
+      "id": "s249"
+    },
+    {
+      "text": "59 In the present matter it is not in dispute that Mr Jorgensen was the registrant of the phoneflasher.com domain name at all relevant times, though he has now transferred it.",
+      "id": "s250"
+    },
+    {
+      "text": "What is in issue was whether, as such registrant, he controlled the website linked to that domain name.",
+      "id": "s251"
+    },
+    {
+      "text": "60 Mr Blumenthal's evidence was that, in his experience, the organisation owning a domain name \"typically\", \"ordinarily\", \"normally\" owned and controlled the website (and its content) using that domain name.",
+      "id": "s252"
+    },
+    {
+      "text": "He, nonetheless, accepted in cross-examination that he did not have personal experience of any significant number of instances of a registrant being a natural person notwithstanding that a company or companies were linked to that registrant.",
+      "id": "s253"
+    },
+    {
+      "text": "Mr Jorgensen has, as I have indicated, contended that such was the case here.",
+      "id": "s254"
+    },
+    {
+      "text": "Mr Blumenthal also indicated that the only exception of which he was aware where the domain owner has not controlled the content of a linked website related to marketing affiliation arrangements (or distributorships).",
+      "id": "s255"
+    },
+    {
+      "text": "61 It is apparent from the above that Mr Blumenthal's professional experience does not extend in any really informed way to the situation of a personal registrant such as is in issue in this matter.",
+      "id": "s256"
+    },
+    {
+      "text": "For my own part, while I can readily appreciate why commercial entities would, as a matter of course, use a corporate registrant for their domain names, it has not been suggested that there is any reason of principle or of practicality which would preclude the use of a natural person as registrant notwithstanding that the linked website was to be paid for, owned by, and its content controlled by, a corporation.",
+      "id": "s257"
+    },
+    {
+      "text": "For reasons, variously sensible, devious or nefarious, that particular configuration might well be adopted for a particular commercial purpose.",
+      "id": "s258"
+    },
+    {
+      "text": "62 Turning now to the fourth charge, it is clear that the Phoneflasher Co agreed to Order 6 according to its terms.",
+      "id": "s259"
+    },
+    {
+      "text": "As I have already noted, the consented to factual basis of the consent orders, was that the phoneflasher.com website was the company's website (i.e.",
+      "id": "s260"
+    },
+    {
+      "text": "\"its website\": para 1 of the Order of 2 November 2004 and Annexure C thereto).",
+      "id": "s261"
+    },
+    {
+      "text": "This in turn provided the factual premise of consent Order 6.",
+      "id": "s262"
+    },
+    {
+      "text": "Whether or not it could in fact comply with the terms of that order is not, in the present matter, to the point.",
+      "id": "s263"
+    },
+    {
+      "text": "It was knowingly agreed to (as I will indicate below).",
+      "id": "s264"
+    },
+    {
+      "text": "Strict compliance was required and it was not forthcoming.",
+      "id": "s265"
+    },
+    {
+      "text": "The date for compliance with Order 6 was 16 November 2004.",
+      "id": "s266"
+    },
+    {
+      "text": "I am satisfied that the contempt alleged against the First Respondent has been proved.",
+      "id": "s267"
+    },
+    {
+      "text": "63 An attempt was made to explain, if not justify, the non-compliance through documents supplied by Mr Kerville on 25 January 2005 to the ACCC via the company's lawyers.",
+      "id": "s268"
+    },
+    {
+      "text": "64 Both of the documents purport to be copies of facsimiles, though there is nothing on the face of the documents to indicate that they were transmitted on or about the dates they respectively bear.",
+      "id": "s269"
+    },
+    {
+      "text": "The first, dated 11 November 2004, is from Mr Jorgensen to Baris Gencel of \"Shanghai Connexion Ltd\" (sic).",
+      "id": "s270"
+    },
+    {
+      "text": "It stated:\n \n \"As you are aware Phone Flasher.com Pty Ltd has been embroiled in a dispute with the ACCC here in Australia.",
+      "id": "s271"
+    },
+    {
+      "text": "To bring the matter to an end, the parties involved in the dispute have decided to settle the matter rather than fight it out in Court.",
+      "id": "s272"
+    },
+    {
+      "text": "As part of the settlement terms, we have given certain undertakings, one of which is to include a Pop Up on the Phone Flasher website.",
+      "id": "s273"
+    },
+    {
+      "text": "See attached the content that the ACCC requires we place on the Website for a term of 6 months.",
+      "id": "s274"
+    },
+    {
+      "text": "We have informed the ACCC on many occasions that we did not own or control the website, however they were still insistent that this POP UP on the Website was implemented.",
+      "id": "s275"
+    },
+    {
+      "text": "In anticipation, we thank you for your co operation in this matter.",
+      "id": "s276"
+    },
+    {
+      "text": "\"\n \n\n65 The reference in the penultimate paragraph to informing the ACCC that the Phoneflasher Co did not own or control the website would seem to relate to the emails sent to the ACCC which I have earlier mentioned.",
+      "id": "s277"
+    },
+    {
+      "text": "66 What is said to be a facsimile response from Mr Gencel, 15 November 2004, reads: \n \n \"When you asked that we remove the reference to Radiation on our Website &amp; printing, we felt this was a big ask.",
+      "id": "s278"
+    },
+    {
+      "text": "Yet we did our bit &amp; helped you out.",
+      "id": "s279"
+    },
+    {
+      "text": "This was despite the fact that the Phone Flasher does in fact reduce the radiation, especially the Non Battery model.",
+      "id": "s280"
+    },
+    {
+      "text": "What do the people in Australia thinks drives the Flashing of the LEDs?",
+      "id": "s281"
+    },
+    {
+      "text": "Cosmic energy or something?",
+      "id": "s282"
+    },
+    {
+      "text": "But now you want us to put some ridiculous notice on our website for the whole world to see?",
+      "id": "s283"
+    },
+    {
+      "text": "So your request is refused.",
+      "id": "s284"
+    },
+    {
+      "text": "Furthermore, we have made arrangements to have the Website Hosted in the USA where our market is &amp; where we don't have to put up with such nonsense, as seems the case downunder.",
+      "id": "s285"
+    },
+    {
+      "text": "\"\n \n\n67 These documents invite suspicion and I have been invited, in effect, to disregard them by the ACCC.",
+      "id": "s286"
+    },
+    {
+      "text": "There are, though, indications in the tendered printouts of material from the phoneflasher.com website --- and particularly that of 11 April 2005 --- which suggest that Shanghai Connexion.com Co Ltd might well be the principal party in the business scheme involving the production, advertising and distribution of phoneflashers.",
+      "id": "s287"
+    },
+    {
+      "text": "In the 11 April extract Shanghai Connexion.com is described variously as the Phoneflasher Co's joint venture partner, as the \"parent company\" (sic) of Phoneflasher Co, as the franchisor of the \"Shanghai Connexion Franchise\" which will guide and assist franchisees in building their businesses, etc.\n \n68 Turning now to the alleged contempt by Mr Jorgensen, I will deal first with the claim that he was at the relevant times an \"officer\" or \"director\" of the Phoneflasher Co.\n \n69 By way of background to this I should note that s 9 of the Corporations Act 2001 (Cth) defines \"officer\" and \"director\" respectively and insofar as presently relevant, in the following terms:\n \n \" officer of a corporation means:\n \n (a) a director or secretary of the corporation; or\n \n (b) a person:\n \n \n \n \n (i) who makes, or participates in making, decisions that affect the whole, or a substantial part, of the business of the corporation; or \n \n (ii) who has the capacity to affect significantly the corporation's financial standing; or\n \n (iii) in accordance with whose instructions or wishes the directors of the corporation are accustomed to act (excluding advice given by the person in the proper performance of functions attaching to the person's professional capacity or their business relationship with the directors or the corporation);\" \n \n \" director of a company or other body means:\n \n (a) ...\n \n \n \n \n \n (b) unless the contrary intention appears, a person who is not validly appointed as a director if:\n \n (i) they act in the position of a director; or\n \n \n \n \n \n (ii) the directors of the company or body are accustomed to act in accordance with the person's instructions or wishes.",
+      "id": "s288"
+    },
+    {
+      "text": "\" \n \n \n \n\n70 Insofar as both of the definitions refer to a person in accordance with whose instructions or wishes the directors are accustomed to act, I should note the following well settled principles:\n \n \n (i) though the purpose of the definition is to identify those persons, other than professional advisers, who have real influence in, or indeed control of, the corporate affairs of a company, it is not necessary that such influence or control should be exercised over the whole field of its corporate activities: Secretary of State of Trade and Industry v Deverell [2001] Ch 340 at 354; and \n \n (ii) the influence or control exercised by a shadow director may be strategic in character, defining the context in which, or conditions upon which, the company operates, or else contriving the transactions of significance to the company: Australian Securities Commission v A S Nominees Ltd (1995) 133 ALR 1 at 52-53.",
+      "id": "s289"
+    },
+    {
+      "text": "See generally Ho v Akai Pty Ltd (in liq) [2005] FCAFC 265 ; (2006) 24 ACLC 1, 526.",
+      "id": "s290"
+    },
+    {
+      "text": "71 I have already indicated that I am not satisfied that Phoneflasher Co was trading at the time of the consent order.",
+      "id": "s291"
+    },
+    {
+      "text": "This, though, is not to say that the company did not then, and in the preceding months, have concerns of immediate significance to it to which had to attend.",
+      "id": "s292"
+    },
+    {
+      "text": "These related at least to the principal proceedings and its aftermath.",
+      "id": "s293"
+    },
+    {
+      "text": "At the presently relevant times (i.e.",
+      "id": "s294"
+    },
+    {
+      "text": "from at least 10 August 2004 until the date of non-compliance with Order 6), I am satisfied that Mr Jorgensen exercised the powers of the company in relation to the principal proceedings and I infer that he did so with the acquiescence of, and not subject to the supervision of, Mr Kerville the company's then only director.",
+      "id": "s295"
+    },
+    {
+      "text": "He was, I am satisfied, the company's \"ring master\" in these proceedings and acted accordingly in manipulating legal representation for the company, in providing instructions to lawyers and in negotiating for, and providing the relevant consents to, the orders made by the Court.",
+      "id": "s296"
+    },
+    {
+      "text": "The matters referred to in the Statement of Charge in paras 40.2, 40.3, 40.4 are indicative of this.",
+      "id": "s297"
+    },
+    {
+      "text": "72 For all practical purposes relating to the principal proceedings (the only known matter of continuing significance to the company), Mr Jorgensen presumed, without apparent let or hindrance of Mr Kerville, to act as the company's mind and will notwithstanding that he was not at the time a person who had been appointed to the position of director.",
+      "id": "s298"
+    },
+    {
+      "text": "I emphasize in this the importance of the matter to the company: cf Deputy Commissioner of Taxation v Austin (1998) 28 ACSR 565 at 570; the strategic nature of the intervention being made by Mr Jorgensen in the company's affairs; cf Australian Securities Commission v A S Nominees Ltd , at 52-53; and his apparent real influence in the affairs of the company.",
+      "id": "s299"
+    },
+    {
+      "text": "I should add that, while Mr Jorgensen is referred to in a website extract of 28 August 2005 a \"Director\" in China, I do not consider that this advances the matter.",
+      "id": "s300"
+    },
+    {
+      "text": "That reference could well be to a position he held in Shanghai Connexion.com Co Ltd.\n \n73 The present circumstances are quite unusual, especially as to what actually is known of Phoneflasher Co leading up to, and after, the making of the consent orders.",
+      "id": "s301"
+    },
+    {
+      "text": "This notwithstanding, I do infer that Mr Jorgensen was a shadow director of the company at all times relevant to the fourth charge.",
+      "id": "s302"
+    },
+    {
+      "text": "He was not, though, a party to Order 6.",
+      "id": "s303"
+    },
+    {
+      "text": "74 If Mr Jorgensen is to be found guilty of contempt because of the company's failure to comply with that order, it can only be on the basis that he aided or abetted the breach by the company or that did an act intending to subvert the effect of the order: see Australian Competition and Consumer Commission v World Netsafe Pty Ltd (No 3) [2003] FCA 159 ; (2003) 127 FCR 542 at [86] - [87] ; LED Builders Pty Ltd v Eagle Homes Pty Ltd [1999] FCA 1213 at [50] ; Arledge, Eady &amp; Smith on Contempt , 12-109 (3 rd ed, 2005).",
+      "id": "s304"
+    },
+    {
+      "text": "75 The manner in which the ACCC has sought to establish Mr Jorgensen's guilt turns critically on his being the registrant of the domain name, on his alleged control of the website, on his failure to take steps to enable the company to comply with Order 6 and on his subsequent transfer of the domain name to a third party.",
+      "id": "s305"
+    },
+    {
+      "text": "76 I have referred above to the evidence, such as it is, on control of the phoneflasher.com website.",
+      "id": "s306"
+    },
+    {
+      "text": "While there are grounds for suspecting that Mr Jorgensen in fact had the practical capacity to procure compliance with Order 6, I am not satisfied beyond reasonable doubt that he controlled the website and that he could have done what was required in the face of opposition from, or without the consent of, his business associate.",
+      "id": "s307"
+    },
+    {
+      "text": "77 I am not prepared to infer in the present circumstances that ownership of the domain name necessarily carried with it control of the website.",
+      "id": "s308"
+    },
+    {
+      "text": "Here it may well have not, that ownership being merely a matter of convenience.",
+      "id": "s309"
+    },
+    {
+      "text": "78 It has been Mr Jorgensen's contention from at least August 2004 that Shanghai Connexion.com controlled the website.",
+      "id": "s310"
+    },
+    {
+      "text": "He put this view to the ACCC which did not accept it.",
+      "id": "s311"
+    },
+    {
+      "text": "The ACCC insisted, for the purposes of settling the matter, on an order in the terms of Order 6.",
+      "id": "s312"
+    },
+    {
+      "text": "If I were to accept Mr Jorgensen's contention, it has the consequence that he, hence Phoneflasher Co, agreed to the consent order in the knowledge that the website was not the company's and that neither it nor Mr Jorgensen had the power or capacity as of course to comply with the order.",
+      "id": "s313"
+    },
+    {
+      "text": "I have already indicated that the company, having agreed to the terms of the order binding it and the factual premise of it, could not now set up a different state of affairs of which it was aware at the time of the order to relieve itself of the consequences of its failure to comply with the order.",
+      "id": "s314"
+    },
+    {
+      "text": "79 On the case he puts, Mr Jorgensen stands in a different, and fortuitously fortunate, position.",
+      "id": "s315"
+    },
+    {
+      "text": "He may have known at the time of the consent orders that the Order could not be complied with as of course.",
+      "id": "s316"
+    },
+    {
+      "text": "Nonetheless, that knowledge, coupled with his giving the company's consent to the Order, cannot properly be said to be aiding or abetting the company's non-compliance with the Order.",
+      "id": "s317"
+    },
+    {
+      "text": "The possibility of non-compliance resulted from the erroneous factual premise of the order itself.",
+      "id": "s318"
+    },
+    {
+      "text": "Neither can it be said that Mr Jorgensen did an act intending to subvert the effect of the order.",
+      "id": "s319"
+    },
+    {
+      "text": "He simply agreed to the Order insisted upon by the ACCC.",
+      "id": "s320"
+    },
+    {
+      "text": "80 The self-serving character of Mr Jorgensen's defence is self-evident.",
+      "id": "s321"
+    },
+    {
+      "text": "Nonetheless, when considered in light of the available evidence, it is sufficient to raise a reasonable doubt as to whether he controlled the website and in consequence, as to whether he aided or abetted the company's non-compliance with Order 6 or that he acted intending to subvert the order's effect.",
+      "id": "s322"
+    },
+    {
+      "text": "81 I do not find the charge of contempt against Mr Jorgensen to have been made out.",
+      "id": "s323"
+    },
+    {
+      "text": "Penalty \n \n82 I have found the Phoneflasher Co to be guilty of contempt as charged in the first, second and fourth charges.",
+      "id": "s324"
+    },
+    {
+      "text": "83 As to the first and second of the charges, the company made no apparent attempts to comply with the orders in the times respectively prescribed for compliance.",
+      "id": "s325"
+    },
+    {
+      "text": "It was only in response to communications from the ACCC that steps were taken in purported compliance with the order.",
+      "id": "s326"
+    },
+    {
+      "text": "These steps as I have found did not remedy the non-compliance.",
+      "id": "s327"
+    },
+    {
+      "text": "I am satisfied that the company was indifferent to the obligation imposed on it by the orders and acted, and has continued to act, accordingly up until the time of these proceedings.",
+      "id": "s328"
+    },
+    {
+      "text": "There has been nothing \"casual, accidental or unintentional\" about its non-compliance with Orders 3 and 4, rather there has been \"wilful disobedience\": Australian Meat Industry Employees' Union v Mudginberri Station Pty Ltd [1986] HCA 46 ; (1986) 161 CLR 98 at 112-113.",
+      "id": "s329"
+    },
+    {
+      "text": "The company has offered no explanation for its conduct.",
+      "id": "s330"
+    },
+    {
+      "text": "Indeed its indifference to the matter has been reflected in the approach it has taken to the present proceedings.",
+      "id": "s331"
+    },
+    {
+      "text": "It needs to be made aware of the seriousness of its conduct: Australian Competition and Consumer Commission v Info4PC.com Pty Ltd [2002] FCA 949 ; (2002) 121 FCR 24 at [139] , [144].",
+      "id": "s332"
+    },
+    {
+      "text": "Its conduct, moreover, needs to be considered in the context of its having consented to the very orders it then proceeded to disregard.",
+      "id": "s333"
+    },
+    {
+      "text": "84 The only penalty sought by the ACCC is the imposition of a fine.",
+      "id": "s334"
+    },
+    {
+      "text": "There is no doubting the Court's power to impose such a penalty: see Info4PC.com Pty Ltd at [138].",
+      "id": "s335"
+    },
+    {
+      "text": "In deciding an appropriate amount for a fine, the Court ordinarily will take into account the contemnor's financial means: Smith v The Queen (1991) 25 NSWLR 1.",
+      "id": "s336"
+    },
+    {
+      "text": "I am unable to do so in this case as no proper evidence has been put before me on this matter.",
+      "id": "s337"
+    },
+    {
+      "text": "However I have no reason to believe that the company has significant assets.",
+      "id": "s338"
+    },
+    {
+      "text": "85 In my view the company's conduct went beyond a lack of appreciation of the importance of strict compliance with court orders.",
+      "id": "s339"
+    },
+    {
+      "text": "Rather it reflected an indifference to the commitment it made in the consent orders and to the processes of, and authority of, the Court itself.",
+      "id": "s340"
+    },
+    {
+      "text": "Bearing in mind that a sentence for contempt is punitive to vindicate the authority of the Court, I intend to impose a fine of $5,000 on the company in respect of the contempt I have found on the first and second charges.",
+      "id": "s341"
+    },
+    {
+      "text": "86 The contempt found in relation to the fourth charge bears a somewhat different aspect.",
+      "id": "s342"
+    },
+    {
+      "text": "I have found that the company was guilty of non-compliance with Order 6 notwithstanding that I was not satisfied that it was capable of complying with the order.",
+      "id": "s343"
+    },
+    {
+      "text": "Having agreed to the terms of the order and the factual premise of it, it could not later set up a different state of affairs of which it was aware at the time of the order to relieve itself of the consequences of its failure to comply with the order.",
+      "id": "s344"
+    },
+    {
+      "text": "87 It is said commonly that the power to impose penalties in cases of civil contempt is to be exercised so as both to ensure that orders are complied with and to deter conduct in contravention of court orders: see e.g.",
+      "id": "s345"
+    },
+    {
+      "text": "Australian Competition and Consumer Commission v Contact Plus Group Pty Ltd (in liq) (No 2) [2006] FCA 695 at [57] .",
+      "id": "s346"
+    },
+    {
+      "text": "In the present matter it is the second of these purposes that is of present significance: on this duality in cases of civil contempt see generally Arlidge, Eady &amp; Smith on Contempt 3-6 ff.",
+      "id": "s347"
+    },
+    {
+      "text": "It in turn must be viewed in a context in which the principal proceedings brought by the ACCC was to protect the public interest: see generally Truth About Motorways Pty Ltd v Macquarie Infrastructure Investment Management Ltd [2000] HCA 11 ; (1999) 200 CLR 591.",
+      "id": "s348"
+    },
+    {
+      "text": "88 In relation to the fourth charge the indifference of the company to the importance of court orders is plainly apparent.",
+      "id": "s349"
+    },
+    {
+      "text": "At best the company has acted opportunistically obtaining the benefit of a court order (i.e.",
+      "id": "s350"
+    },
+    {
+      "text": "to settle a dispute) and then disclaiming its burden --- and doing so (as Mr Kerville's letter of 25 January 2005 evidences) by taking advantage of a known error in the agreed facts on which the order was based.",
+      "id": "s351"
+    },
+    {
+      "text": "The processes of the Court are not so to be trifled with.",
+      "id": "s352"
+    },
+    {
+      "text": "Though compliance with the order cannot be coerced by any penalty imposed, the imposition of a penalty here nonetheless clearly has a deterrent role to play.",
+      "id": "s353"
+    },
+    {
+      "text": "I will impose a fine of $2,000.00 in respect of the finding of contempt on the fourth charge.",
+      "id": "s354"
+    },
+    {
+      "text": "Costs \n \n89 The ACCC has sought an award of costs on an indemnity basis.",
+      "id": "s355"
+    },
+    {
+      "text": "Costs can be awarded on such a basis where it is warranted by the interests of justice.",
+      "id": "s356"
+    },
+    {
+      "text": "This is commonly found to be so in contempt cases where such proceedings have had to be brought after judgment to vindicate the authority of the Court and to uphold the public interest in the administration of justice: Australian Competition and Consumer Commission v Australian Business Reports Pty Ltd (1997) 19 ATPR 41-577 at 44,010; Contact Plus Group Pty Ltd (in liq) at [67] ff.",
+      "id": "s357"
+    },
+    {
+      "text": "Such is particularly the case where the proceedings have been brought by the ACCC in prosecution of its charter to act in the public interest: see Australian Competition and Consumer Commission v Globex Systems Pty Ltd (2005) 27 ATPR 42-069 at 43,105.",
+      "id": "s358"
+    },
+    {
+      "text": "90 Given the circumstances and character of the contemnor's conduct in this matter, I am satisfied that it is appropriate in the interests of justice to make the costs order sought.",
+      "id": "s359"
+    },
+    {
+      "text": "Conclusion \n \n91 I will declare that:\n \n 1.",
+      "id": "s360"
+    },
+    {
+      "text": "The first respondent is guilty of contempts by reason of its breaches of Orders 3 and 4 of the consent orders made on 2 November 2004.",
+      "id": "s361"
+    },
+    {
+      "text": "2.",
+      "id": "s362"
+    },
+    {
+      "text": "The first respondent is guilty of contempt by reason of its breach of Order 6 of the consent orders made on 2 November 2004.",
+      "id": "s363"
+    },
+    {
+      "text": "92 I will order that:\n \n 1.",
+      "id": "s364"
+    },
+    {
+      "text": "In respect of the contempts referred to in para 1 above, the first respondent be fined the sum of $5,000.",
+      "id": "s365"
+    },
+    {
+      "text": "2.",
+      "id": "s366"
+    },
+    {
+      "text": "In respect of the contempt referred to in para 2 above, the first respondent be fined the sum of $2,000.",
+      "id": "s367"
+    },
+    {
+      "text": "3.",
+      "id": "s368"
+    },
+    {
+      "text": "The first respondent pay the applicant's costs of the application on an indemnity basis.",
+      "id": "s369"
+    },
+    {
+      "text": "4.",
+      "id": "s370"
+    },
+    {
+      "text": "The application otherwise be dismissed.",
+      "id": "s371"
+    },
+    {
+      "text": "I certify that the preceding ninety-two (92) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Finn.",
+      "id": "s372"
+    },
+    {
+      "text": "Associate:\n\nDated: 26 March 2007\n\n Counsel for the Applicant: Mr S Cole with Mr N Parkyn \n \n Solicitor for the Applicant: Australian Government Solicitor \n \n Counsel for the First Respondent: The First Respondent did not appear.",
+      "id": "s373"
+    },
+    {
+      "text": "Counsel for the Second Respondent: The Second Respondent appeared in person.",
+      "id": "s374"
+    },
+    {
+      "text": "Counsel for the Third Respondent: The Third Respondent did not appear.",
+      "id": "s375"
+    },
+    {
+      "text": "Counsel for the Fourth Respondent: The Fourth Respondent did not appear.",
+      "id": "s376"
+    },
+    {
+      "text": "Date of Hearing: 7-8 August 2006 \n \n Date of Judgment: 26 March 2007 \n\n\n \n \n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/429.html",
+      "id": "s377"
+    }
+  ]
+}

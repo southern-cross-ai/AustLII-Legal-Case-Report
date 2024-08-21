@@ -1,0 +1,1980 @@
+{
+  "name": "Glencore International AG (ACN 114 271 055) v Takeovers Panel [2006] FCA 274 (22 March 2006)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2006/274.html",
+  "catchphrases": [
+    {
+      "text": "review of panel's declarations that non-disclosure of acquisition of shares in circumstances of a declared takeover bid for a company were unacceptable circumstances",
+      "id": "c0"
+    },
+    {
+      "text": "meaning of phrase 'substantial interest'- exercise of powers of takeovers panel",
+      "id": "c1"
+    },
+    {
+      "text": "applicant did not disclose share acquisitions in the company over a period of time and was not required to do so by the act",
+      "id": "c2"
+    },
+    {
+      "text": "applicant also party to an agreement with banks as to cash settled equity swaps which the banks hedged by acquiring shares in the same company",
+      "id": "c3"
+    },
+    {
+      "text": "whether applicant's relationship with the banks was to be characterised as an association",
+      "id": "c4"
+    },
+    {
+      "text": "whether hedge shares to be included in considering whether applicant had a 'substantial interest'",
+      "id": "c5"
+    },
+    {
+      "text": "whether applicant's non-disclosure effected the rate, extent and level of consideration of the takeover bid",
+      "id": "c6"
+    },
+    {
+      "text": "judicial review",
+      "id": "c7"
+    },
+    {
+      "text": "corporations",
+      "id": "c8"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "INTRODUCTION \n \n1 This proceeding raises questions as to the meaning of the phrase ' substantial interest ' as used in Chapter 6 of the Corporations Act 2001 (Cth) ('the Act'), as well as questions concerning the exercise of powers by the Takeovers Panel under Division 2 of Part 6.10 of the Act.",
+      "id": "s0"
+    },
+    {
+      "text": "The questions are raised in a proceeding brought under the Administrative Decisions (Judicial Review) Act 1977 (Cth) ('the Judicial Review Act') and s 39B of the Judiciary Act 1903 (Cth) ('the Judiciary Act ') seeking judicial review of decisions of the Takeovers Panel.",
+      "id": "s1"
+    },
+    {
+      "text": "It is not disputed by any of the respondents that the Court has jurisdiction to grant the relief claimed by the applicants.",
+      "id": "s2"
+    },
+    {
+      "text": "2 The Takeovers Panel was established under s 171 of the Australian Securities and Investments Commission Act 1989 (Cth) and continued in existence under the Australian Securities and Investments Commission Act 2001 (Cth), as described in Schedule 3 to the Financial Services Reform Act 2001 (Cth) ('the Panel').",
+      "id": "s3"
+    },
+    {
+      "text": "The proceeding should be understood in the context of the Court's orders of 14 September 2005, made in Glencore International AG &amp; Anor v Takeovers Panel &amp; Ors [2005] FCA 1290.",
+      "id": "s4"
+    },
+    {
+      "text": "3 The questions in the proceeding depend upon the effect of certain transactions described as ' cash settled equity swaps '.",
+      "id": "s5"
+    },
+    {
+      "text": "A cash settled equity swap is an arrangement between an investor and a bank whereby the bank agrees to pay the investor an amount equal to the difference between the value of a given number of equity securities at the time of the closing out of the swap and the value of those equity securities at the time when the arrangement was entered into.",
+      "id": "s6"
+    },
+    {
+      "text": "Under such an arrangement the investor does not acquire any interest in any equity securities and the investor has no right to call for delivery of equity securities or to require the bank to undertake any action involving the acquisition, holding or disposal of equity securities.",
+      "id": "s7"
+    },
+    {
+      "text": "Closing out of, and settlement under, such a swap will, depending on the terms of the arrangement, be either at the option of one party or be automatic.",
+      "id": "s8"
+    },
+    {
+      "text": "Of course, it would always be open to the parties to close out a swap by mutual agreement at any time.",
+      "id": "s9"
+    },
+    {
+      "text": "In order to hedge its risk under such an arrangement, a bank might buy the relevant equity securities.",
+      "id": "s10"
+    },
+    {
+      "text": "BACKGROUND \n \n4 The fourth respondent, Austral Coal Limited ('the Company'), is a miner of coking coal in southern New South Wales.",
+      "id": "s11"
+    },
+    {
+      "text": "It sells coking coal both domestically and internationally.",
+      "id": "s12"
+    },
+    {
+      "text": "The second respondent, Centennial Coal Company Limited ('Centennial'), is also a miner and marketer of coal.",
+      "id": "s13"
+    },
+    {
+      "text": "At relevant times, shares in the Company and Centennial were listed for quotation on Australian Stock Exchange Limited ('ASX').",
+      "id": "s14"
+    },
+    {
+      "text": "5 On 23 February 2005, Centennial and the Company jointly announced a takeover bid by Centennial for the Company on the basis of 10 shares in Centennial for every 37 shares in the Company.",
+      "id": "s15"
+    },
+    {
+      "text": "At that time, there were 263,463,465 issued shares in the Company, together with 40 million convertible notes.",
+      "id": "s16"
+    },
+    {
+      "text": "The consideration offered by Centennial effectively valued shares in the Company at $1.30 per share, although that value would vary with the market price of shares in Centennial.",
+      "id": "s17"
+    },
+    {
+      "text": "The bid was subject to a number of conditions, including acceptances being received in respect of 90% of the issued shares in the Company.",
+      "id": "s18"
+    },
+    {
+      "text": "The bid was unanimously recommended by the directors of the Company.",
+      "id": "s19"
+    },
+    {
+      "text": "On 23 February 2005, the Company also announced that its convertible notes could be converted into ordinary shares once Centennial's offers became unconditional.",
+      "id": "s20"
+    },
+    {
+      "text": "6 On 4 March 2005, Centennial announced that, on 2 March 2005, it had become a substantial holder in the Company with a relevant interest in 9.6% of the Company's shares.",
+      "id": "s21"
+    },
+    {
+      "text": "On 9 March 2005, Centennial served on the Company its bidders statement under s 636 of the Act.",
+      "id": "s22"
+    },
+    {
+      "text": "On 21 March 2005, the Company lodged its target's statement under s 638 of the Act, recommending acceptance of Centennial's bid.",
+      "id": "s23"
+    },
+    {
+      "text": "Centennial's offers and the Company's target's statement were dispatched to the Company's shareholders between 21 and 23 March 2005.",
+      "id": "s24"
+    },
+    {
+      "text": "7 On 23 March 2005, Centennial declared its bid unconditional and announced that, if a shareholder of the Company accepted no later than 7 April 2005, the shareholder would participate in a Centennial unfranked dividend of 6 cents per Centennial share.",
+      "id": "s25"
+    },
+    {
+      "text": "The value of the unfranked dividend was approximately 1.6 cents per share in the Company.",
+      "id": "s26"
+    },
+    {
+      "text": "8 As at 23 March 2005, Centennial's voting power in the Company was 16.5 per cent.",
+      "id": "s27"
+    },
+    {
+      "text": "Thereafter, Centennial continued to acquire shares in the Company pursuant to acceptances of its bid.",
+      "id": "s28"
+    },
+    {
+      "text": "It announced on 4 April 2005 that it had acquired 30 per cent, on 7 April 2005 50 per cent, on 8 April 2005 66.7 per cent and on 24 April 2005 82.4 per cent.",
+      "id": "s29"
+    },
+    {
+      "text": "9 The first applicant, Glencore International AG ('Glencore'), is an international supplier of commodities and raw materials and is also an investor.",
+      "id": "s30"
+    },
+    {
+      "text": "The second applicant, Fornax Investments Limited ('Fornax'), is a wholly owned subsidiary of Glencore.",
+      "id": "s31"
+    },
+    {
+      "text": "As at 18 March 2005, Glencore and Fornax together held 4.88 per cent of the issued shares in the Company.",
+      "id": "s32"
+    },
+    {
+      "text": "On 24 March 2005, Glencore acquired further shares in the Company taking its total holding to 4.99 per cent of the shares in the Company.",
+      "id": "s33"
+    },
+    {
+      "text": "10 The questions in issue in the proceeding arise out cash settled equity swaps entered into by Glencore with the fifth respondent, Credit Suisse First Boston International ('CSFB') and the sixth respondent, ABN Amro Bank NV ('ABN Amro'), between 18 March 2005 and 4 April 2005 ('the Non-disclosure Period').",
+      "id": "s34"
+    },
+    {
+      "text": "During the Non-disclosure Period, CSFB and ABN Amro (together 'the Banks') acquired shares in the Company as a hedge against their respective potential exposures under the swaps.",
+      "id": "s35"
+    },
+    {
+      "text": "11 On 20 March 2005, Glencore and CSFB signed a non-binding summary of indicative terms and conditions in relation to a proposed cash settled equity swap agreement.",
+      "id": "s36"
+    },
+    {
+      "text": "In the early stages of discussing the CSFB swap, Glencore and CSFB discussed a proposal for Glencore to cross its physical holding of shares in the Company to CSFB.",
+      "id": "s37"
+    },
+    {
+      "text": "Ultimately, CSFB decided not to proceed with such a crossing.",
+      "id": "s38"
+    },
+    {
+      "text": "Between 21 and 30 March 2005, CSFB acquired 12,100,060 shares in the Company in order to hedge its potential exposure under the equity swap agreement.",
+      "id": "s39"
+    },
+    {
+      "text": "On 4 April 2005, CSFB and Glencore entered into a binding equity swap arrangement by reference to shares in the Company.",
+      "id": "s40"
+    },
+    {
+      "text": "That arrangement was to expire in March 2008.",
+      "id": "s41"
+    },
+    {
+      "text": "12 On 30 March 2005, ABN Amro provided a draft swap agreement to Glencore in respect of a proposed cash settled equity swap agreement.",
+      "id": "s42"
+    },
+    {
+      "text": "Between 31 March and 4 April 2005, ABN Amro acquired 7,407,302 shares in the Company in order to hedge its potential exposure under that proposed equity swap agreement.",
+      "id": "s43"
+    },
+    {
+      "text": "On 4 April 2005, Glencore and ABN Amro entered into a binding equity swap arrangement by reference to shares in the Company.",
+      "id": "s44"
+    },
+    {
+      "text": "That arrangement was to expire in March 2006.",
+      "id": "s45"
+    },
+    {
+      "text": "13 On most trading days, while CSFB was arranging swap exposure, CSFB advised Glencore of the swap exposure that had been arranged (number of reference shares and initial price) and Glencore approved the swap exposure proposed to be arranged on the following trading day.",
+      "id": "s46"
+    },
+    {
+      "text": "The value of the swap exposure that CSFB provided to Glencore from time to time was never greater than the size of CSFB's physical holding in the Company, as CSFB acquired hedge shares up to the proposed value of the swap.",
+      "id": "s47"
+    },
+    {
+      "text": "CSFB and Glencore executed confirmation of the swap on 4 and 6 April 2005 respectively.",
+      "id": "s48"
+    },
+    {
+      "text": "The value of the swap and the initial price corresponded with the number of shares CSFB had actually acquired, the amount CSFB had paid for them and the average price per share, grossed up for commissions, taxes and other charges.",
+      "id": "s49"
+    },
+    {
+      "text": "The confirmation also contained terms designed to exclude any implication that Glencore had power over voting or disposal of any shares held by CSFB.",
+      "id": "s50"
+    },
+    {
+      "text": "14 The amount of swap exposure that ABN Amro agreed to provide at any time was never more than the number of shares in the Company that it had acquired down to that time.",
+      "id": "s51"
+    },
+    {
+      "text": "Each trading day, Glencore approved the swap exposure that ABN Amro agreed to provide on the following day.",
+      "id": "s52"
+    },
+    {
+      "text": "The ABN Amro swap, as confirmed on 4 April 2005, related to the precise number of shares acquired by ABN Amro, the amount ABN Amro had paid for them and the average price per share, grossed up for commissions, taxes and other charges.",
+      "id": "s53"
+    },
+    {
+      "text": "15 As at 21 March 2005, the combined holding of shares in the Company by Fornax and CSFB was 5.13 per cent.",
+      "id": "s54"
+    },
+    {
+      "text": "As at 23 March 2005, the combined holding of shares in the Company by Fornax and CSFB was 8.18 per cent and, as at 29 March 2005, the combined holding was 9.4 per cent.",
+      "id": "s55"
+    },
+    {
+      "text": "By 4 April 2005, Glencore had acquired 13,715,443 shares in the Company.",
+      "id": "s56"
+    },
+    {
+      "text": "By reason of the exercise of convertible notes issued by the Company, the number of issued shares in the Company had increased such that, as at 4 April 2005, Glencore held 4.56 per cent of the issued shares of the Company, CSFB's shares represented 4.03 per cent and ABN Amro's shares represented 2.46 per cent.",
+      "id": "s57"
+    },
+    {
+      "text": "As at 4 April 2005, the combined holding of shares in the Company of Glencore, CSFB and ABN Amro was 33,222,745 shares, representing 11.05 per cent of the issued shares of the Company.",
+      "id": "s58"
+    },
+    {
+      "text": "16 No announcement of any acquisition of shares in the Company by Glencore and Fornax or of the existence of the swaps was made before 4 April 2005.",
+      "id": "s59"
+    },
+    {
+      "text": "It has not been suggested in this proceeding that the failure to do so constituted a contravention of the Act.",
+      "id": "s60"
+    },
+    {
+      "text": "However, on the evening of 4 April 2005, Glencore made the following public announcement to the media, which was repeated to ASX at 9.30 am on the following day, 5 April 2005:\n \n 'Glencore... announces that, through a wholly owned subsidiary, it has acquired approximately 5 per cent of the ordinary shares in [the Company].",
+      "id": "s61"
+    },
+    {
+      "text": "These shares have been acquired over recent weeks, with the last parcel of shares acquired having been acquired by Glencore today.",
+      "id": "s62"
+    },
+    {
+      "text": "A substantial shareholder notice would be filed with [the Company] and the ASX within the period prescribed under the Corporations Act .",
+      "id": "s63"
+    },
+    {
+      "text": "In addition, Glencore announces that it has entered into a number of cash settled equity swap agreements with well regarded investment banks.",
+      "id": "s64"
+    },
+    {
+      "text": "Glencore has no legal obligation to disclose these swap arrangements but it does so to assist the market.",
+      "id": "s65"
+    },
+    {
+      "text": "In aggregate, these swaps relate to approximately 7.4 per cent of the ordinary shares in [the Company] .",
+      "id": "s66"
+    },
+    {
+      "text": "' \n \n\n17 Glencore lodged substantial holding notices in relation to its relevant interests in the shares in the Company on 6 and 19 April 2005.",
+      "id": "s67"
+    },
+    {
+      "text": "In the first, Glencore disclosed that it had acquired 6.42 per cent of the Company through on market acquisitions between 9 March and 5 April 2005.",
+      "id": "s68"
+    },
+    {
+      "text": "In the subsequent substantial shareholder notice, Glencore disclosed that its relevant interest had increased to 7.42 per cent through additional on market acquisitions.",
+      "id": "s69"
+    },
+    {
+      "text": "Both notifications were accompanied by statements that Glencore had entered into cash settled equity swap agreements with well regarded investment banks in respect of 6.49 per cent of the Company's shares.",
+      "id": "s70"
+    },
+    {
+      "text": "However, it has not been suggested in this proceeding that it was obliged to disclose the swaps in those notices.",
+      "id": "s71"
+    },
+    {
+      "text": "PRIOR PROCEEDINGS \n \n18 On 3 June 2005, Centennial made an application to the Takeovers Panel under s 657C of the Act for a declaration of unacceptable circumstances in relation to Glencore's holding of shares in the Company and the CSFB and ABN Amro equity swaps.",
+      "id": "s72"
+    },
+    {
+      "text": "The Takeovers Panel made a declaration of unacceptable circumstances on 28 June 2005 and made orders under s 657D of the Act.",
+      "id": "s73"
+    },
+    {
+      "text": "19 On 1 July 2005, Glencore applied for a review of that declaration and those orders, pursuant to s 657EA of the Act.",
+      "id": "s74"
+    },
+    {
+      "text": "On 20 July 2005, the Takeover Panel made another declaration that Glencore's non-disclosure until 4 and 5 April 2005 of the total of the shares in the Company acquired by Glencore and the swap exposure under the CSFB and the ABN Amro equity swaps, inter alia , amounted to unacceptable circumstances within the meaning of s 657A of the Act.",
+      "id": "s75"
+    },
+    {
+      "text": "The Panel made orders on 25 July 2005 requiring Glencore to offer to sell Company shares to each person who sold Company shares in a transaction reported to ASX during the Non-disclosure Period.",
+      "id": "s76"
+    },
+    {
+      "text": "20 On 14 September 2005, in a proceeding that had been commenced in the High Court and remitted to the Federal Court, the Court ordered that:\n \n &#8226; the declaration made by the Takeovers Panel on 20 July 2005 be quashed; \n &#8226; the orders made by the Takeovers Panel on 25 July 2005 be quashed; and \n &#8226; the matter consisting of the application for review by Glencore and Fornax be remitted to the Takeovers Panel for determination according to law.",
+      "id": "s77"
+    },
+    {
+      "text": "21 On 29 September 2005, the individuals named as first respondent in this proceeding were constituted as the Takeovers Panel to deal with the remitted matter.",
+      "id": "s78"
+    },
+    {
+      "text": "On 19 October 2005, Finkelstein J granted an extension of time, until 28 October 2005, within which the Takeovers Panel might make a decision on the remitted matter.",
+      "id": "s79"
+    },
+    {
+      "text": "22 On 27 October 2005, the Takeovers Panel made a declaration of unacceptable circumstances in relation to the affairs of the Company under s 657A of the Act ('the Declaration').",
+      "id": "s80"
+    },
+    {
+      "text": "On 14 November 2005, the Takeovers Panel made orders under s 657D of the Act ('the Orders').",
+      "id": "s81"
+    },
+    {
+      "text": "23 In the Declaration, the Panel made the following findings:\n \n \n (1) Having regard to the degree of power that Glencore was able, by reason of the CSFB and the ABN Amro swaps, to exert over disposal by CSFB and ABN Amro of the shares in the Company acquired by them, in the context of the circumstances of the Company and the Centennial bid for shares in the Company, after the combined holding of Glencore, CSFB and ABN Amro exceeded 5 per cent of the shares in the Company and throughout the Non-disclosure Period: \n \n \n \n \n (a) Glencore's direct shareholding in the Company and the swap exposure of the Banks together constituted a substantial interest in the Company; and\n (b) the existence and growth of Glencore's substantial interest during the Non-disclosure Period was information that was relevant to the market in the Company's shares in the same way and to the same degree as would have been the existence and growth of a substantial holding within the meaning of s 671B of the Act comprising the same number of shares in the Company from time to time.",
+      "id": "s82"
+    },
+    {
+      "text": "(2) Throughout the Non-disclosure Period, Glencore had every reason to believe that the swap positions of the Banks were hedged with shares in the Company.",
+      "id": "s83"
+    },
+    {
+      "text": "(3) Shareholders in the Company did not, during the Non-disclosure Period, know the identity of Glencore as a person who proposed to acquire, and was actively acquiring, a substantial interest in the Company.",
+      "id": "s84"
+    },
+    {
+      "text": "(4) Had shareholders in the Company and the rest of the market in the Company's shares been aware, during the Non-disclosure Period, of the existence and growth of Glencore's substantial interest and of the connection of Glencore with that substantial interest , then throughout the Non-disclosure Period: \n \n \n \n \n (a) buyers and sellers in that market would have been more relevantly informed as to the extent and nature of demand for the Company's shares, including the potential demand for shares in the Company to hedge swap exposures; and\n (b) other buyers and sellers are likely to have entered that market, with the result that there would have been more competition to buy and sell the Company's shares in that market; and\n (c) that market would have operated, more efficiently than it did, to price and allocate the Company's shares.",
+      "id": "s85"
+    },
+    {
+      "text": "(5) Those circumstances have also affected adversely the acquisition by Centennial of control of the Company and of a substantial interest in the Company, by causing those events to occur in a market that was less efficient, competitive and informed than it should have been.",
+      "id": "s86"
+    },
+    {
+      "text": "(6) Having regard to trading in the Company's shares during the Non-disclosure Period and on 5, 6 and 7 April 2005, throughout the Non-disclosure Period prices paid in that market for the Company's shares would have been higher than in fact they were, if shareholders in the Company and the rest of the market in the Company's shares had been aware, during the Non-disclosure Period, of the existence and growth of Glencore's substantial interest and of the connection of Glencore with Glencore's substantial interest .",
+      "id": "s87"
+    },
+    {
+      "text": "(7) That circumstance: \n \n \n \n \n (a) has affected adversely the acquisition by Glencore of a substantial interest in the Company, by causing that acquisition to occur in a market that was less efficient, competitive and informed than it should have been; and\n (b) has affected adversely the interests of persons who sold shares in the Company on the market operated by ASX during the Non-disclosure Period; and\n (c) has correspondingly benefited Glencore, through lower initial prices under the CSFB swap and the ABN Amro swap, which increased the prospect of Glencore making profits at the close-out of the swaps.",
+      "id": "s88"
+    },
+    {
+      "text": "24 Having regard to the effect of the circumstances mentioned in those findings on the acquisition of substantial interests in the Company by both Centennial and Glencore and of control of the Company by Centennial and to the commercial considerations mentioned in the findings and the legislative policy of Chapter 6, as set out in s 602 of the Act, the Panel found that the circumstances mentioned in the findings are unacceptable circumstances in relation to the affairs of the Company.",
+      "id": "s89"
+    },
+    {
+      "text": "The Panel also found that it was not against the public interest to declare that the circumstances mentioned in the findings are unacceptable circumstances.",
+      "id": "s90"
+    },
+    {
+      "text": "The Panel therefore declared that the circumstances mentioned in the findings are unacceptable circumstances in relation to the affairs of the Company.",
+      "id": "s91"
+    },
+    {
+      "text": "25 The Orders, which the Panel made on 14 November 2005 on the basis of the Declaration, were as follows:\n \n \n (1) Within seven days, or such further period as the Panel may order, Glencore is to pay the sum of $1,330,280 to Australian Securities &amp; Investments Commission ('the Commission').",
+      "id": "s92"
+    },
+    {
+      "text": "(2) The Commission is to hold $1,320,280 of that amount on trust to distribute it as an equal amount per share to each person who sold shares in the Company by a sale that was effected on the SEATS trading platform of ASX or reported to ASX between 22 March 2005 and 4 April 2005 (both inclusive) (other than a particular transaction that is not presently relevant).",
+      "id": "s93"
+    },
+    {
+      "text": "(3) The Commission may give effect to Order (2) by arranging to pay the appropriate amount to the broker who acted for the seller in each relevant sale.",
+      "id": "s94"
+    },
+    {
+      "text": "(4) The Commission may deduct from the remaining $10,000 the expenses reasonably incurred by it in giving effect to the Orders, including without limitation the value of staff time and any fees charged by ASX for arranging the necessary payments.",
+      "id": "s95"
+    },
+    {
+      "text": "The balance (if any) is to be refunded to Glencore.",
+      "id": "s96"
+    },
+    {
+      "text": "THIS PROCEEDING \n \n26 By their application filed on 22 November 2005, Glencore and Fornax claim a declaration that the Declaration and the Orders are void, and an order quashing both decisions.",
+      "id": "s97"
+    },
+    {
+      "text": "They also seek orders restraining any party from giving effect to, or otherwise enforcing, the Panel's decisions.",
+      "id": "s98"
+    },
+    {
+      "text": "A stay of the Orders was granted by consent on 23 November 2005.",
+      "id": "s99"
+    },
+    {
+      "text": "Centennial, the Company, CSFB and ABN Amro have submitted to such orders as the Court sees fit to make, other than any order as to costs.",
+      "id": "s100"
+    },
+    {
+      "text": "27 The Commission was the effective contradictor of Glencore and Fornax.",
+      "id": "s101"
+    },
+    {
+      "text": "However, the Panel has made written submission as to matters that are said to go to the powers and procedures of the Panel.",
+      "id": "s102"
+    },
+    {
+      "text": "In its written submissions, the Panel indicated that it endeavoured to confine its submissions to questions of principle and to refrain from presenting a substantive case as to the application of those principles, consistent with the observations of the High Court in R v Australian Broadcasting Tribunal; Ex Parte Hardiman [1980] HCA 13 ; (1980) 144 CLR 13 at 36.",
+      "id": "s103"
+    },
+    {
+      "text": "THE RELEVANT PROVISIONS OF THE ACT \n \n28 Chapter 6 of the Act is concerned with ' Takeovers '.",
+      "id": "s104"
+    },
+    {
+      "text": "Part 6.1 is concerned with Prohibited acquisitions of relevant interests in voting shares and Part 6.2 deals with Exceptions to the prohibition .",
+      "id": "s105"
+    },
+    {
+      "text": "Parts 6.3 to 6.9 regulate the making and acceptance of takeover offers.",
+      "id": "s106"
+    },
+    {
+      "text": "Part 6.10 deals with the review of, and intervention in, the conduct of takeovers by the Commission and by the Panel.",
+      "id": "s107"
+    },
+    {
+      "text": "29 The pivotal provision of the Act in relation to the regulation of takeovers is s 606.",
+      "id": "s108"
+    },
+    {
+      "text": "Relevantly, s 606(1) prohibits a person from acquiring a relevant interest in issued voting shares in a company if, because of the transaction, that person's, or someone else's, voting power in the company increases:\n \n &#8226; from 20 per cent or below to more than 20 per cent; or\n &#8226; from a starting point that is above 20 per cent and below 90 per cent.",
+      "id": "s109"
+    },
+    {
+      "text": "30 Section 608(1) provides that a person has a relevant interest in shares if that person:\n \n &#8226; is the holder of the shares;\n &#8226; has power to exercise, or control the exercise of, a right to vote attached to the shares; or\n &#8226; has power to dispose of, or control the exercise of a power to dispose of, the shares.",
+      "id": "s110"
+    },
+    {
+      "text": "Section 608(2) provides for extended circumstances in which 'power' and 'control' may arise for the purposes of determining whether a person has a relevant interest in securities.",
+      "id": "s111"
+    },
+    {
+      "text": "31 Section 609 specifies certain situations where a person does not have a relevant interest in shares.",
+      "id": "s112"
+    },
+    {
+      "text": "Those situations are not presently relevant.",
+      "id": "s113"
+    },
+    {
+      "text": "32 Section 610 of the Act provides that a person's voting power is the proportion that the total number of votes attached to all the voting shares in which the person or an associate has a relevant interest bears the total number of votes attached to all voting shares in the Company.",
+      "id": "s114"
+    },
+    {
+      "text": "33 The object of s 602(a) is achieved, not by the prohibition in s 606 as such, but by the exemptions from that prohibition contained in Part 6.2.",
+      "id": "s115"
+    },
+    {
+      "text": "In particular, an acquisition of a relevant interest that results from the acceptance of a takeover bid under Parts 6.3 to 6.9 of Chapter 6.",
+      "id": "s116"
+    },
+    {
+      "text": "Those provisions are designed to ensure that the acquisition of relevant interests constituting more than 20 per cent take place in an efficient, competitive and informed market.",
+      "id": "s117"
+    },
+    {
+      "text": "34 Under s 657A(1) of the Act, which is in Part 6.10, the Panel may declare circumstances in relation to the affairs of a company to be unacceptable circumstances.",
+      "id": "s118"
+    },
+    {
+      "text": "Section 657A(1) of the Act expressly provides that the Panel may make a declaration of unacceptable circumstances even in the absence of a contravention of the Act.",
+      "id": "s119"
+    },
+    {
+      "text": "It follows that the Panel's functions under s 657A include a supervisory role in respect of conduct that is lawful but perceived to be inconsistent with the objects of Chapter 6, as stated in s 602 (see Brierly Investments Ltd v Australian Securities Commission (1997) 78 FCR 255 at pp 261-262).",
+      "id": "s120"
+    },
+    {
+      "text": "35 The effect of s 657A(2) of the Act is that the Panel may declare circumstances in relation to the affairs of a company to be unacceptable circumstances if it appears to the Panel that the circumstances are unacceptable, having regard to the effect of the circumstances on :\n \n &#8226; the control, or potential control , of that company or another company; or\n &#8226; the acquisition, or proposed acquisition , by a person of a substantial interest in that company or another company.",
+      "id": "s121"
+    },
+    {
+      "text": "The Panel may also make a declaration if it appears to the Panel that circumstances constitute or give rise to a contravention of Parts 6, 6A, 6B or 6C.",
+      "id": "s122"
+    },
+    {
+      "text": "However, the Panel may only make a declaration if it considers that doing so is not against the public interest and after taking into account any policy considerations that the Panel considers relevant.",
+      "id": "s123"
+    },
+    {
+      "text": "36 Under s 657D(1) of the Act, the Panel may make an order under s 657D(2) if it has declared circumstances to be unacceptable under s 657A.",
+      "id": "s124"
+    },
+    {
+      "text": "However, there are restrictions upon the making of such an order.",
+      "id": "s125"
+    },
+    {
+      "text": "The Panel must not make an order if it is satisfied that the order would unfairly prejudice any person.",
+      "id": "s126"
+    },
+    {
+      "text": "Further, under s 657D(1), before making an order, the Panel must give, both to the parties to a proceeding before the Panel and to the Commission, as well as to each other person to whom a proposed order relates , an opportunity to make submissions to the Panel about the matter.",
+      "id": "s127"
+    },
+    {
+      "text": "37 In addition, s 657D(2) imposes further restriction on the Panel's power, in so far as the Panel may, relevantly for present purposes, only make such order as it thinks appropriate:\n \n &#8226; to protect the rights or interests of any person affected by the circumstances declared to be unacceptable; or\n &#8226; to ensure that a takeover bid proceeds (as far as possible) in a way that it would have proceeded if the circumstances had not occurred.",
+      "id": "s128"
+    },
+    {
+      "text": "That is to say, the Panel must, before making an order, give consideration to the appropriateness of the order for the purpose of protecting the rights or interests of any person affected by the circumstances or for the purpose of ensuring a takeover bid proceeds in the way that it would have proceeded.",
+      "id": "s129"
+    },
+    {
+      "text": "38 Under s 657F, a person who contravenes orders made under s 657D commits an offence.",
+      "id": "s130"
+    },
+    {
+      "text": "Under s 657F(2), such an offence is one of strict liability.",
+      "id": "s131"
+    },
+    {
+      "text": "39 Under s 657EA of the Act, a party to a proceeding in which a decision of the Panel was made may apply for review by the Panel of that decision.",
+      "id": "s132"
+    },
+    {
+      "text": "The Panel, differently constituted, is then required to conduct a review de novo .",
+      "id": "s133"
+    },
+    {
+      "text": "After the review, the Panel may vary the decision reviewed, set aside the decision reviewed, or set aside the decision reviewed and substitute a new decision.",
+      "id": "s134"
+    },
+    {
+      "text": "40 The provisions of Chapters 6A, 6B and 6C supplement the regime for takeovers established by the provisions of Chapter 6.",
+      "id": "s135"
+    },
+    {
+      "text": "Chapter 6A is concerned with Compulsory Acquisitions and Buy-outs .",
+      "id": "s136"
+    },
+    {
+      "text": "Chapter 6B is concerned with Misstatements in, and Omissions from, Takeover and Compulsory Acquisition and Buy-out Documents .",
+      "id": "s137"
+    },
+    {
+      "text": "Chapter 6C deals with Information about ownership of Listed Companies .",
+      "id": "s138"
+    },
+    {
+      "text": "41 Under s 661A, which is in Chapter 6A, a bidder under certain takeover bids may compulsorily acquire any securities in the bid class if during, or at the end of, the offer period, the bidder and the bidder's associates have relevantly interests in at least 90 per cent of the securities and the bidder and bidder's associates have acquired at least 75 per cent of the securities that are the subject of the bid.",
+      "id": "s139"
+    },
+    {
+      "text": "Under s 662A(1), if a bidder and the bidder's associates have relevant interests in at least 90 per cent of the securities in the bid class at the end of the offer period, the bidder must offer to buy out the remaining holders of bid class securities.",
+      "id": "s140"
+    },
+    {
+      "text": "Those provisions appear in Part 6A.1 of Chapter 6.",
+      "id": "s141"
+    },
+    {
+      "text": "Part 6A.1 deals with compulsory acquisitions and buy-outs following takeover bids.",
+      "id": "s142"
+    },
+    {
+      "text": "Part 6A.2 deals with general compulsory acquisitions and buy-outs.",
+      "id": "s143"
+    },
+    {
+      "text": "42 Section 670A, which is in Chapter 6B, prohibits any person from giving specified documents, such as bidders statements, takeover offer documents, target's statements, compulsory acquisition notices or compulsory buy-out notices or if there is a misleading or deceptive statement in the document.",
+      "id": "s144"
+    },
+    {
+      "text": "Remedies for contraventions are provided in the balance of Chapter 6B.",
+      "id": "s145"
+    },
+    {
+      "text": "Inherent in the prohibition, of course, are the concepts that underlie Chapters 6 and 6A.",
+      "id": "s146"
+    },
+    {
+      "text": "43 Part 6C.1 of Chapter 6C deals with the disclosure of a substantial holding in a company.",
+      "id": "s147"
+    },
+    {
+      "text": "The concept of substantial holding is defined by reference to relevant interests in the voting shares of a company.",
+      "id": "s148"
+    },
+    {
+      "text": "Under s 9 of the Act, a person has a substantial holding in a company if the person and the person's associates have between them relevant interests in 5 per cent or more of the voting shares in a company.",
+      "id": "s149"
+    },
+    {
+      "text": "Under s 12(2) of the Act, an associate of a person in relation to the affairs of a company is, relevantly, a second person with whom that first person has entered into, or proposes to enter into, an agreement for the purpose of controlling or influencing the composition of the board or the conduct of the affairs of that company or were acting in concert in relation to the conduct of the affairs of that company.",
+      "id": "s150"
+    },
+    {
+      "text": "44 Under s 671B, which is in Chapter 6C, a person must give certain information to a listed company, if:\n \n &#8226; the person begins to have, or ceases to have, a substantial holding in the Company;\n &#8226; the person has a substantial holding in the Company and there is a movement of at least 1 per cent in the person's holding; or\n &#8226; the person makes a takeover bid for securities of the Company.",
+      "id": "s151"
+    },
+    {
+      "text": "The information includes the name and address of the person and details of the person's relevant interest in voting shares of the listed Company.",
+      "id": "s152"
+    },
+    {
+      "text": "45 Thus, the concepts of ' relevant interest ' and ' voting power ' may fairly be characterised as the building blocks of the regime established under Chapters 6, 6A, 6B and 6C.",
+      "id": "s153"
+    },
+    {
+      "text": "Those concepts govern the obligations to disclose substantial shareholdings and determine the control threshold that must be reached before the takeover provisions are activated.",
+      "id": "s154"
+    },
+    {
+      "text": "THE PANEL'S REASONING \n \n46 The reasoning of the Panel in making the Declaration may be summarised as follows:\n \n \n (a) Before the Panel considers whether circumstances are unacceptable within the meaning of s 657A(2) of the Act, having regard to the effect of the circumstances, it is necessary to make a determination as to the effect or effects of those circumstances.",
+      "id": "s155"
+    },
+    {
+      "text": "(b) The effects of the circumstances, being non-disclosure by Glencore of its shareholding in the Company and the existence of the equity swaps during the Non-disclosure Period were as follows: \n \n \n \n \n &#8226; shareholders who sold shares in the Company during the Non-disclosure Period received lower prices than if Glencore had disclosed those matters;\n &#8226; the rate of acceptances for Centennial's bid for the Company was accelerated;\n &#8226; Centennial's bid was successful sooner, to a greater extent and possibly at a lower consideration, than if Glencore had disclosed those matters;\n &#8226; the market was less informed, competitive and efficient than if Glencore had disclosed those matters.",
+      "id": "s156"
+    },
+    {
+      "text": "(c) The effects of the circumstances were effects on: \n \n \n \n \n &#8226; the acquisition by Centennial of a substantial interest in the Company;\n &#8226; the control or proposed control of the Company;\n &#8226; the acquisition by Glencore of a substantial interest in the Company.",
+      "id": "s157"
+    },
+    {
+      "text": "(d) The expression ' substantial interest ', within the meaning of s 602 and s 657A is: \n \n \n \n \n &#8226; neither a relevant interest nor voting power;\n &#8226; relates to aggregations of interests in shares, but is a wider concept than relevant interest or voting power; and\n &#8226; unrestricted as to size, nature or ownership, but limited by the requirement that it must be a step along the way to control of a company.",
+      "id": "s158"
+    },
+    {
+      "text": "(e) Glencore had a substantial interest in the Company because Glencore had a de facto power to prevent CSFB and ABN Amro from disposing of the shares in the Company acquired by them to hedge their exposures to Glencore under the equity swaps.",
+      "id": "s159"
+    },
+    {
+      "text": "(f) Glencore's non-disclosure had the effect that decisions made by the Company's shareholders whether to accept Centennial's bid, hold their shares or sell them for cash were uninformed.",
+      "id": "s160"
+    },
+    {
+      "text": "(g) It is not against the public interest to make a declaration of unacceptable circumstances because: \n \n \n \n \n &#8226; persons sold shares in the Company at lower prices than they would otherwise have sold during the Non-disclosure Period;\n &#8226; the lower prices were an advantage to Glencore;\n &#8226; swap exposure is information that should be disclosed to the market, particularly during a controlled transaction; and\n &#8226; making a declaration will help set appropriate standards of disclosure in Australia regarding cash settled equity swaps.",
+      "id": "s161"
+    },
+    {
+      "text": "47 The Panel found that at all times the Banks hedged their exposure under the Swaps by acquiring shares in the Company and that the Banks never thought seriously about doing otherwise.",
+      "id": "s162"
+    },
+    {
+      "text": "The Panel found that the practical reality was that the Banks would acquire shares in the Company to hedge their exposure and would retain the shares so long as the exposure existed.",
+      "id": "s163"
+    },
+    {
+      "text": "The Banks therefore had a real economic incentive not to dispose of the shares so long as their exposure under the swaps continued.",
+      "id": "s164"
+    },
+    {
+      "text": "48 Nevertheless, the Panel concluded that Glencore and the Banks were not parties to any agreement that would make the Banks associates of Glencore and that Glencore and the Banks were not acting in concert in relation to the Company.",
+      "id": "s165"
+    },
+    {
+      "text": "Since the Panel concluded that neither of the Banks was an associate of Glencore, none of the shares in the Company held by the Banks was required to be taken into account in determining whether Glencore had a substantial holding in the Company, such as to require the giving of information under Chapter 6C of the Act.",
+      "id": "s166"
+    },
+    {
+      "text": "However, the Panel concluded that Glencore had a de facto power to prevent the Banks from disposing of the shares held by them to hedge their swap exposures, such that those shares should be taken into account in determining whether Glencore had acquired, or was acquiring, a substantial interest in the Company.",
+      "id": "s167"
+    },
+    {
+      "text": "49 The Panel considered that the concept of substantial interest, as used in ss 602 and 657A, is different from the concept of relevant interest and from the concept of voting power.",
+      "id": "s168"
+    },
+    {
+      "text": "The Panel considered that the concept of substantial interest relates to aggregations of interests in shares but is wider than the concepts of relevant interests and voting power and ' free of their technical limitations '.",
+      "id": "s169"
+    },
+    {
+      "text": "The Panel characterised Subdivision B of Division 2 of Part 6.10 of Chapter 6, which deals with unacceptable circumstances, as ' anti avoidance provisions '.",
+      "id": "s170"
+    },
+    {
+      "text": "50 The Panel considered that it would have been self-defeating to have based such provisions on a concept of what Chapter 6 was about that was more restrictive than the operative provisions.",
+      "id": "s171"
+    },
+    {
+      "text": "The Panel considered that there are no restrictions on what may qualify as a substantial interest, as regards size, nature or ownership, other than limitations that flow directly from the requirement that a substantial interest be a step along the way to control.",
+      "id": "s172"
+    },
+    {
+      "text": "The Panel said that the relationship between unacceptable circumstances and control should be explained in terms of increments in control and that the takeovers regime of Chapter 6 is concerned with ' fine gradations of control '.",
+      "id": "s173"
+    },
+    {
+      "text": "51 The Panel found that there was no practicable hedge available to the Banks, for their exposure under the swaps, other than buying shares in the Company.",
+      "id": "s174"
+    },
+    {
+      "text": "The Banks were aware of the risk that Glencore may bid for the Company and that provided a further incentive to the Banks to hedge their exposure by acquiring and holding shares in the Company.",
+      "id": "s175"
+    },
+    {
+      "text": "Glencore knew that the Banks had acquired shares in the Company in order to hedge their respective swap exposures to Glencore.",
+      "id": "s176"
+    },
+    {
+      "text": "That exposure continued until March 2006, in one case, and to March 2008, in the other case, unless Glencore agreed to its earlier termination.",
+      "id": "s177"
+    },
+    {
+      "text": "52 The Panel accepted that the existence of the swaps did not impede the Banks from lending the shares in the Company held by them or dealing with them in any way that was consistent with their being able to retrieve the shares when the swaps matured or were unwound.",
+      "id": "s178"
+    },
+    {
+      "text": "The Panel found that the ' real imperative ' on the Banks was to hedge by any means available and their need to hold shares in the Company resulted from the contingent fact that there was no other suitable hedge.",
+      "id": "s179"
+    },
+    {
+      "text": "On the other hand, the Panel was not persuaded that the power enjoyed by Glencore over disposal of the shares held by the Bank, during the Non-disclosure Period, was sufficient to constitute a relevant interest.",
+      "id": "s180"
+    },
+    {
+      "text": "Further, the Panel accepted that the exposures of the Banks were not large ones for institutions as large as they are and that it was always within their power to dispose of the shares at any time during the Non-disclosure Period and they would have disposed of them, had they perceived it as being in their own interest to do so.",
+      "id": "s181"
+    },
+    {
+      "text": "53 Nevertheless, the Panel concluded that Glencore's degree of control over disposal by the Banks of the shares in the Company held by the Banks was such that the shares should be aggregated with Glencore's direct holding in the Company in order to determine whether Glencore's position should be considered as involving substantial interest for the purposes of ss 602 and 657A.",
+      "id": "s182"
+    },
+    {
+      "text": "The Panel considered that Glencore's degree of de facto control was more effective than voting power over the same number of shares and that the block of shares consisting of the Banks' shares and Glencore's direct holding in the Company, was correspondingly more cohesive.",
+      "id": "s183"
+    },
+    {
+      "text": "While an association, which is one of the elements of voting power, can be founded on consensual cooperation from which either associate is free to withdraw, the Banks had entered into contractually binding obligations, in the form of the swap agreements, from which they were not free to withdraw without the consent of Glencore.",
+      "id": "s184"
+    },
+    {
+      "text": "The Panel considered that, for the duration of the swap agreements, the Banks assumed roles in which their retention of the shares in the Company was more reliable and predictable than if they had been associates by reason of some consensual cooperation, controlling the same number of shares.",
+      "id": "s185"
+    },
+    {
+      "text": "54 The Panel concluded that Glencore was in a position to ' maintain a block of shares with an identifiable effect on a transfer of control '.",
+      "id": "s186"
+    },
+    {
+      "text": "The Panel considered that the overlap between the defined concept of voting power and the extent and nature of the power to control disposal that Glencore has in relation to the shares held by the Banks was so great that the Banks' shares should be aggregated with the shares held directly by Glencore in determining whether Glencore has a substantial interest in the Company.",
+      "id": "s187"
+    },
+    {
+      "text": "55 The Panel found that Glencore's non-disclosure of its position contributed to the speed at which Centennial gained acceptances for its bid.",
+      "id": "s188"
+    },
+    {
+      "text": "During the Non-disclosure Period, Centennial received acceptances in respect of over 25 per cent of the issued shares in the Company, taking its relevant interests from under 10 per cent to 35 per cent.",
+      "id": "s189"
+    },
+    {
+      "text": "Within two and a half days of Glencore's announcement, on 4 and 5 April 2005, Centennial had acquired a majority of the issued shares in the Company.",
+      "id": "s190"
+    },
+    {
+      "text": "The Panel found that, if Glencore had disclosed its position on 22 March 2005 and thereafter, many of the acceptances would not have been sent as early as they were and some may not have been sent at all.",
+      "id": "s191"
+    },
+    {
+      "text": "56 The Panel found that Centennial's bid was successful sooner, to a greater extent and possibly at a lower consideration, than it would have been if Glencore had disclosed its position on and after 22 March 2005.",
+      "id": "s192"
+    },
+    {
+      "text": "The Panel concluded, therefore, that the circumstances, consisting of the non-disclosure by Glencore of its position during the Non-disclosure Period had an effect on the acquisition by Centennial of a substantial interest in the Company, so as to satisfy the prerequisite for declaring circumstances to be unacceptable in s 657A(2)(a)(ii).",
+      "id": "s193"
+    },
+    {
+      "text": "57 The reasoning of the Panel, in ordering Glencore to pay the sum of $1,320,280 to the Commission for distribution to persons who sold shares in the Company on SEATS during the Non-disclosure Period, may be summarised as follows:\n \n \n (a) A best estimate of the price advantage Glencore obtained by its non-disclosure is the difference between the volume weighted average price ('VWA Price') of shares in the Company that Glencore and the Banks bought during the Non-disclosure Period ($1.3065) and the actual VWA Price of shares in the Company traded on 5, 6 and 7 April 2005, prior to Centennial's announcing that it had gained control of the Company ($1.3733).",
+      "id": "s194"
+    },
+    {
+      "text": "(b) That difference is $0.067 per share.",
+      "id": "s195"
+    },
+    {
+      "text": "(c) Having obtained a quantifiable advantage by not disclosing its interest, and there being a corresponding detriment to an identifiable group of investors, it is appropriate to require Glencore to disgorge the benefit in favour of those investors.",
+      "id": "s196"
+    },
+    {
+      "text": "(d) Glencore and the Banks acquired 19,705,669 shares in the Company during the Non-disclosure Period at a saving of $0.067 per share, which amounts to a total saving to Glencore of $1,320,280.",
+      "id": "s197"
+    },
+    {
+      "text": "(e) Approximately 35.5 million shares in the Company were traded on SEATS during the Non-disclosure Period and all persons who sold on SEATS during that period sold at prices lower than they would have done if disclosure had been made and, accordingly, the aggregate losses to sellers were greater than the gain to Glencore: that is to say, other buyers during the period obtained a price advantage.",
+      "id": "s198"
+    },
+    {
+      "text": "(f) The proposed payment to persons who sold shares during the Non-disclosure Period will only partially compensate those sellers.",
+      "id": "s199"
+    },
+    {
+      "text": "THE GROUNDS OF REVIEW \n \n58 The grounds upon which Glencore and Fornax seek relief under the Judicial Review Act and the Judiciary Act may be summarised as follows:\n \n \n (1) In so far as the Panel relied upon its purported determination that the relevant circumstances had an effect on the acquisition or proposed acquisition by Glencore of a substantial interest in the Company: \n \n \n \n \n &#8226; the Declaration involved an error of law;\n &#8226; the Panel did not have jurisdiction to make the Declaration;\n &#8226; the Declaration was not authorised by s 657A.",
+      "id": "s200"
+    },
+    {
+      "text": "(2) In so far as the Panel relied upon the purported determination that the circumstances had an effect on the control or potential control of the Company by Centennial or the acquisition or proposed acquisition by Centennial of a substantial interest in the Company, the Panel committed jurisdictional error in making the Declaration.",
+      "id": "s201"
+    },
+    {
+      "text": "(3) The decision to make the Orders was an improper exercise of power conferred by s 657D and its making involved jurisdictional error because: \n \n \n \n \n (a) The Panel is only empowered to make an order under s 657D if it has declared circumstances to be unacceptable under s 657A and, by reason of the matters referred to above, the purported declaration of unacceptable circumstances was invalid.",
+      "id": "s202"
+    },
+    {
+      "text": "(b) The power to make orders required the Panel to form the opinion that the orders were appropriate to protect the rights or interests of any person affected by the circumstances, and the Panel's opinion that the orders were appropriate to protect the rights or interests of persons affected by the circumstances was irrational, illogical and not based on findings or inferences of facts supported by logical grounds, or alternatively was an opinion that no reasonable panel could reasonably have held.",
+      "id": "s203"
+    },
+    {
+      "text": "(c) The Panel was prohibited from making orders if it was satisfied that the orders would unfairly prejudice any person and was only empowered to make orders if it was satisfied that the orders would not unfairly prejudice any person.",
+      "id": "s204"
+    },
+    {
+      "text": "The Panel's opinion that the orders would not unfairly prejudice Glencore and Fornax was irrational, illogical and not based upon findings or inferences of facts supported by logical grounds or alternatively was an opinion that no reasonable panel could reasonably have held.",
+      "id": "s205"
+    },
+    {
+      "text": "(4) The Panel failed to comply with the procedural requirement of s 675D(1) in so far as it failed to give each person to whom the proposed orders relate an opportunity to make submissions to the Panel about the matter.",
+      "id": "s206"
+    },
+    {
+      "text": "(5) In light of the Panel's finding that there had been no contravention of the Act and the fact that transactions of the nature entered into by Glencore with the banks were commonplace and not hitherto been disclosed to the market, no reasonable panel could reasonably have concluded that the circumstances were unacceptable circumstances.",
+      "id": "s207"
+    },
+    {
+      "text": "59 I shall deal separately with the grounds relied on by Glencore and Fornax, although there is a degree of overlap.",
+      "id": "s208"
+    },
+    {
+      "text": "However, before dealing with the grounds of review, I shall say something about the meaning of substantial interest as that term is used in Chapter 6 of the Act.",
+      "id": "s209"
+    },
+    {
+      "text": "THE CONCEPT OF SUBSTANTIAL INTEREST \n \n60 The term ' substantial interest ' appears in three places in Chapter 6.",
+      "id": "s210"
+    },
+    {
+      "text": "It is not defined in any of those three places, and there is every reason to conclude that the term has the same meaning in all three places.",
+      "id": "s211"
+    },
+    {
+      "text": "The three places are s 602, which states the purposes of Chapter 6, s 648G(5), which deals with proportional takeover approval provisions , and 657A(2), which is the provision directly under consideration in this proceeding.",
+      "id": "s212"
+    },
+    {
+      "text": "61 Section 602 states that the purposes of Chapter 6 are, inter alia , to ensure that:\n \n &#8226; the acquisition of control over the voting shares in a listed company takes place in an efficient, competitive and informed market ; and\n &#8226; the holders of the shares and the directors of the Company know the identity of any person who proposes to acquire a substantial interest in the Company, have a reasonable time to consider the proposal and are given enough information to enable them to assess the merits of the proposal; and\n &#8226; as far as practicable, the relevant holders of voting shares all have a reasonable and equal opportunity to participate in any benefits accruing to the holders through any proposal under which a person would acquire a substantial interest in the Company.",
+      "id": "s213"
+    },
+    {
+      "text": "62 Section 648G, which I mention for completeness, is in Subdivision C of Division 5 of Part 6.5 of Chapter 6.",
+      "id": "s214"
+    },
+    {
+      "text": "That Subdivision deals with the effect of proportional takeover approval provisions .",
+      "id": "s215"
+    },
+    {
+      "text": "Under s 648D(1), the constitution of a company may contain provisions to the effect that, if offers are made under a proportional takeover bid , the registration of a transfer giving effect to a takeover contract for the bid is prohibited unless and until a resolution to approve the bid is passed in accordance with those provisions.",
+      "id": "s216"
+    },
+    {
+      "text": "Under s 648G(5), with every notice that specifies the intention to propose a resolution to alter a company's constitution by inserting a proportional takeover approval provision within the meaning of s 648D, the Company must send a statement that, inter alia , states whether, as at the day on which the statement is prepared, any of the directors of the Company is aware of a proposal by a person to acquire a substantial interest in the Company and, if so, explains the extent to which the proposal has influenced the decision to propose the resolution.",
+      "id": "s217"
+    },
+    {
+      "text": "63 As I have said, s 657A(1) provides that the Panel may declare circumstances in relation to the affairs of a company to be unacceptable circumstances.",
+      "id": "s218"
+    },
+    {
+      "text": "However, under s 657A(2), the Panel may only declare circumstances to be unacceptable circumstances if it appears to the Panel, relevantly, that the circumstances are unacceptable having regard to the effect of the circumstances on the acquisition, or proposed acquisition, by a person of a substantial interest in the company or another company or on the control or potential control of the company.",
+      "id": "s219"
+    },
+    {
+      "text": "64 The purposes stated in s 602 are derived from objects enunciated in the Second Interim Report (February 1969) of the Company Law Advisory Committee to the Standing Committee of Attorneys-General ('the Eggleston Committee Report').",
+      "id": "s220"
+    },
+    {
+      "text": "The Eggleston Committee Report led to the enactment of the Companies (Acquisition of Shares) Act 1980 (Cth) ('the Acquisition of Shares Act ') and the adoption in 1981 of the Companies (Acquisition of Shares) (New South Wales) Code and corresponding Codes of the other States ('the Codes').",
+      "id": "s221"
+    },
+    {
+      "text": "Those enactments are the legislative precursors of Chapter 6 of the Act.",
+      "id": "s222"
+    },
+    {
+      "text": "65 The Eggleston Committee Report identified four objects that should govern acquisition of control of a company.",
+      "id": "s223"
+    },
+    {
+      "text": "It relevantly said as follows:\n \n '...if a natural person or corporation wishes to acquire control of a company by making a general offer to acquire all the shares, or a proportion sufficient to enable him to exercise voting control, limitations should be placed on his freedom of action so far as is necessary to ensure: \n (1) that his identity is known to the shareholders and directors; \n \n \n (2) that the shareholders and directors have a reasonable time in which to consider the proposal; \n (3) that the offeror is required to give such information as is necessary to enable shareholders to form a judgment on the merits of the proposal and, in particular, where the offeror offers shares or interests in a corporation, that the kind of information which would ordinarily be provided in a prospectus is furnished to the offeree shareholders; and \n (4) that so far as is practicable, each shareholder should have an equal opportunity to participate in the benefits offered.",
+      "id": "s224"
+    },
+    {
+      "text": "' [Emphasis added]\n \n \n\n66 The term ' substantial interest ' was not used in that passage.",
+      "id": "s225"
+    },
+    {
+      "text": "However, use of the expression ' acquire control of a company ' in the context of those principles has some significance for the meaning of ' substantial interest '.",
+      "id": "s226"
+    },
+    {
+      "text": "67 The Eggleston Committee Report subsequently mentioned the concept of substantial interest in the context of recommending that the circumstances in which the voting power of related corporations should be aggregated be widened.",
+      "id": "s227"
+    },
+    {
+      "text": "In that context, the Eggleston Committee Report said:\n \n 'What is required is a provision that would oblige the offeror to bring into account, in determining the proportion of voting power referred to in [the definition of takeover scheme] all shares which would have to be taken into account under [the proposed substantial holding provisions that are embodied in Part 6C] in determining whether the offeror, or any person having an interest in the shares of the offeror... had a substantial interest , if the Company were a listed company and the shares in question carried full voting rights in all circumstances.",
+      "id": "s228"
+    },
+    {
+      "text": "The object of expressing the requirement in this way is to prevent the use of a company as offeror which, although not itself controlling any votes in the offeree company, is itself controlled by another person or company having a substantial shareholding...' [Emphasis added]\n \n\nThus, the expression ' substantial interest ', as used in the Eggleston Committee Report, clearly refers to the types of interests proposed to be disclosed under the substantial shareholding provisions, which find their current form in Chapter 6C.",
+      "id": "s229"
+    },
+    {
+      "text": "Chapter 6C is concerned with relevant interests in voting shares.",
+      "id": "s230"
+    },
+    {
+      "text": "68 The first legislative reference to 'substantial interest ' appeared in ss 59 and 60(7) of the Acquisition of Shares Act and the Codes.",
+      "id": "s231"
+    },
+    {
+      "text": "Section 59 provided that, in exercising any of its powers under ss 57 or 58, the National Companies and Securities Commission ('the NCSC') was to take account of the desirability of ensuring that the acquisition of shares in companies takes place in an efficient, competitive and informed market and, without limiting the generality of that requirement, was to have regard of the need to achieve the four objects stated in the Eggleston Committee Report.",
+      "id": "s232"
+    },
+    {
+      "text": "69 Section 60(1) of the Acquisition of Shares Act and the Codes provided that the NCSC may declare an acquisition of shares to have been an unacceptable acquisition.",
+      "id": "s233"
+    },
+    {
+      "text": "Under s 60(3) and under s 60(4) the NCSC was empowered to declare that certain conduct was unacceptable conduct.",
+      "id": "s234"
+    },
+    {
+      "text": "However, the power was to be exercised in order to give effect to the four objects referred to in the Eggleston Committee Report.",
+      "id": "s235"
+    },
+    {
+      "text": "Thus s 60(7) provided that the NCSC must not make a declaration under those provisions unless it was satisfied that the acquisition of shares to which the declaration related occurred in circumstances where, or that as a result of the conduct to which the declaration related:\n \n &#8226; the shareholders and directors of a company did not know the identity of a person who proposed to acquire a substantial interest in the Company;\n &#8226; the shareholders and directors of a company did not have a reasonable time in which to consider a proposal under which a person could acquire a substantial interest in the Company;\n &#8226; the shareholders and directors of a company were not supplied with sufficient information to enable them to assess the merits of a proposal under which a person would acquire a substantial interest in the company; or\n &#8226; the shareholders of a company did not all have equal opportunities to participate in any benefits accruing to shareholders under a proposal under which a person would acquire a substantial interest in the company.",
+      "id": "s236"
+    },
+    {
+      "text": "70 The Explanatory Memorandum published in connection with the Acquisition of Shares Act said the following in relation to s 60:\n \n 'The purpose of this provision is to discourage activities which would frustrate the aims of the Code.",
+      "id": "s237"
+    },
+    {
+      "text": "This is to be achieved by the NCSC having power to act in those circumstances where it considers the acquisition or conduct does not satisfy certain criteria specified in the clause.",
+      "id": "s238"
+    },
+    {
+      "text": "' \n \n\nThe Commission now characterises that reference as a ' broad statement of legislative purpose ... in a provision designed to discourage frustration of that legislative purpose '.",
+      "id": "s239"
+    },
+    {
+      "text": "The Commission says that s 657A should be understood as being intended to provide a means whereby frustration of the legislative purpose of Chapter 6, as stated in s 602, will be discouraged.",
+      "id": "s240"
+    },
+    {
+      "text": "71 Glencore contends that a substantial interest, as that term is used in Chapter 6, is a relevant interest or voting power that is ' substantial ', because it has the capacity to affect the control of a company.",
+      "id": "s241"
+    },
+    {
+      "text": "It will have that capacity either because the relevant interest or voting power is substantial in its own right or because the impact of the acquisition of that particular relevant interest or voting power is substantial as a step in the direction of takeover or change in control in a company.",
+      "id": "s242"
+    },
+    {
+      "text": "Such an interpretation, Glencore says, is the only sensible explanation for the use by the Parliament of the term substantial interest in ss 602 and 657A, but the terms relevant interest and voting power in the other substantive provisions of Chapter 6 and in the provisions of Chapters 6A, 6B and 6C.",
+      "id": "s243"
+    },
+    {
+      "text": "Thus, Glencore says, the policy of Chapter 6 is directed at regulating the acquisitions of relevant interests and voting power that are substantial enough to have an effect on the acquisition of control.",
+      "id": "s244"
+    },
+    {
+      "text": "72 The Panel submitted that Part 6.10 was enacted to provide flexibility.",
+      "id": "s245"
+    },
+    {
+      "text": "The Panel said that the meaning of substantial interest is to be derived from its context rather than from a collation of the meanings of its constituent parts, divorced from the statutory context in which they and it appear.",
+      "id": "s246"
+    },
+    {
+      "text": "The expression should therefore be construed as embracing not only relevant interests and voting power in, or in respect of, a parcel of shares, but also any other ' economic ' interests in such shares established by agreements or arrangements that constitute fetters on disposal or voting of shares to which they are referable.",
+      "id": "s247"
+    },
+    {
+      "text": "73 The Commission also contends that the term substantial interest should be interpreted liberally and should not be confined in meaning by reference to other terms in Chapters 6, 6A, 6B or 6C.",
+      "id": "s248"
+    },
+    {
+      "text": "Such terms are employed for purposes that include the prescription of conduct that is made unlawful under the Act.",
+      "id": "s249"
+    },
+    {
+      "text": "The Commission points out that the Parliament elected not to confine the meaning of substantial interest by reference to any of the other defined terms such as relevant interest, voting power, substantial holding and the like.",
+      "id": "s250"
+    },
+    {
+      "text": "If Parliament intended that ' substantial interest ' be confined in the manner suggested by Glencore, it would have, the Commission says, defined the term accordingly.",
+      "id": "s251"
+    },
+    {
+      "text": "74 The function entrusted to the Panel is that of making a declaration about past events or conduct.",
+      "id": "s252"
+    },
+    {
+      "text": "However, in doing so, the Panel is bound to take account of the considerations specified by the Act.",
+      "id": "s253"
+    },
+    {
+      "text": "The object of the Panel's enquiry and determination is to create a new set of rights and obligations, being rights and obligations that did not previously exist independently of the making of the orders.",
+      "id": "s254"
+    },
+    {
+      "text": "In creating that new set of rights and obligations, considerations of policy, including commercial policy, as well as factors not specified by the Parliament that are deemed relevant by the Panel, on which it may form a subjective judgment, must inevitably play a prominent part (see Precision Data Holdings Ltd v Wills [1991] HCA 58 ; (1991) 173 CLR 167 at 190).",
+      "id": "s255"
+    },
+    {
+      "text": "However, the Panel cannot use that function to extend its jurisdiction.",
+      "id": "s256"
+    },
+    {
+      "text": "The Panel must accept the meaning and scope of the expression ' substantial interest ' as used in s 657A(2) and cannot extend the meaning by reference to considerations of policy.",
+      "id": "s257"
+    },
+    {
+      "text": "75 The power of the Panel to declare circumstances to be unacceptable is predicated upon a conclusion that it appears to the Panel that the circumstances are unacceptable either because of the effect that the circumstances have on control or potential control of a company (s 657A(2)(a)(i)) or the acquisition or proposed acquisition of a substantial interest in a company (s 657A(2)(a)(ii)), or because they constitute or give rise to a contravention of a provision of Chapter 6, Chapter 6A, Chapter 6B or Chapter 6C (s 657A(2)(b)).",
+      "id": "s258"
+    },
+    {
+      "text": "So far as s 657A(2)(a) is concerned, there is a degree of overlap between the two criteria specified.",
+      "id": "s259"
+    },
+    {
+      "text": "Section 657A(2)(a)(i) refers to control or potential control of a company.",
+      "id": "s260"
+    },
+    {
+      "text": "Section 657A(2)(a)(ii) refers to acquisition of a substantial interest in a company, which is a step in the direction of a change in the control of the company.",
+      "id": "s261"
+    },
+    {
+      "text": "Thus, the concept of substantial interest itself is directed towards an interest that is somehow relevant to control of a company.",
+      "id": "s262"
+    },
+    {
+      "text": "76 Whether circumstances have an effect on the control or potential control of a company will depend upon the meaning of the term ' control '.",
+      "id": "s263"
+    },
+    {
+      "text": "The word ' control ' in ordinary English usage has varying meanings.",
+      "id": "s264"
+    },
+    {
+      "text": "Relevant meanings of the word as a verb are: to exercise restraint or direction over, to dominate, to command, or to hold in check, or to kerb: see Macquarie Dictionary (4 th ed).",
+      "id": "s265"
+    },
+    {
+      "text": "In s 657A(2), the word is used as a noun.",
+      "id": "s266"
+    },
+    {
+      "text": "As a noun the word means the act or power of controlling, regulation, domination, command, check or restraint or something that serves to control: see Macquarie Dictionary (4 th ed).",
+      "id": "s267"
+    },
+    {
+      "text": "77 Section 608, in defining relevant interest, also uses the word ' control '.",
+      "id": "s268"
+    },
+    {
+      "text": "Section 608(1) defines relevant interest by reference to a person who controls the exercise of a power to dispose of shares or controls the exercise of a right to vote attached to shares.",
+      "id": "s269"
+    },
+    {
+      "text": "The meaning of control, as referred to in s 608(1), is different from the meaning of control over voting shares that is referred to in s 602(a).",
+      "id": "s270"
+    },
+    {
+      "text": "The latter is concerned with control of all of the issued shares whereas the former is concerned only with control of the exercise of powers or rights in relation to specific shares.",
+      "id": "s271"
+    },
+    {
+      "text": "78 Section 602 speaks of the acquisition of control over voting shares .",
+      "id": "s272"
+    },
+    {
+      "text": "In contrast, s 657A(2)(a)(i) speaks in terms of an effect on the control or potential control of a company .",
+      "id": "s273"
+    },
+    {
+      "text": "Thus, s 657A(2)(a)(i) introduces what might be seen to be a different concept of control again, in so far as it speaks of control of a company as distinct from control over voting shares .",
+      "id": "s274"
+    },
+    {
+      "text": "79 The Act refers to the concept of ' interest in a company ', in s 657A(2)(a)(i) on the one hand, and the concept of ' interest in voting shares ', in s 608(1) on the other hand.",
+      "id": "s275"
+    },
+    {
+      "text": "There is no lack of precision in relation to the latter concept, whereas the former concept is undefined.",
+      "id": "s276"
+    },
+    {
+      "text": "A distinction is also drawn between ' a substantial interest in a company ' and ' substantial holding in a company '.",
+      "id": "s277"
+    },
+    {
+      "text": "There is no lack of precision in relation to the latter concept, whereas the former concept is undefined.",
+      "id": "s278"
+    },
+    {
+      "text": "The two undefined concepts together constitute the concept under consideration, of substantial interest.",
+      "id": "s279"
+    },
+    {
+      "text": "It would be anomalous if some flavour for the concept of substantial interest were not to be derived from the concepts of interest in voting shares and substantial holding.",
+      "id": "s280"
+    },
+    {
+      "text": "80 The word ' interest ' in ordinary English usage has varying meanings.",
+      "id": "s281"
+    },
+    {
+      "text": "One could ordinarily speak of having an interest in a company because some aspect of the company's operations or financial performance excited one's attention.",
+      "id": "s282"
+    },
+    {
+      "text": "One might follow the fortunes of the company if it is listed by observing the price of its shares on ASX.",
+      "id": "s283"
+    },
+    {
+      "text": "One might pay attention to published information concerning such a company.",
+      "id": "s284"
+    },
+    {
+      "text": "However, no one would suggest that that is the sort of interest entailed in the concept of ' substantial interest ' as used in Chapter 6.",
+      "id": "s285"
+    },
+    {
+      "text": "81 The relevant meanings of ' interest ' given in the Macquarie Dictionary (4 th ed) appear to be as follows:\n \n \n &#8226; a share in the ownership of property, in a commercial or financial undertaking, or the like,\n &#8226; any right of ownership in property, commercial undertakings, etc. \n \n\nThose meanings certainly indicate a proprietorial notion.",
+      "id": "s286"
+    },
+    {
+      "text": "That is consistent with the notion that a ' substantial interest ' is something that must be capable of being acquired.",
+      "id": "s287"
+    },
+    {
+      "text": "82 Section 608 introduces into the concept of a relevant ' interest ' the notion of power to exercise, or control the exercise of, a right to vote and power to dispose of, or to control the exercise of a power to dispose of, voting shares.",
+      "id": "s288"
+    },
+    {
+      "text": "The word ' interest ', when used in conjunction with the adjective ' substantial ' in Chapter 6, must therefore be understood as referring to an interest in relation to voting shares in a company, voting shares in a listed body or voting interests in a listed managed investment scheme.",
+      "id": "s289"
+    },
+    {
+      "text": "83 That is not to say that a substantial interest in a company must be an interest in shares: it may involve the power to exercise or control voting of the shares or power to dispose of or control the disposition of shares, however ephemeral or unenforceable the power or control might be.",
+      "id": "s290"
+    },
+    {
+      "text": "The interest must be such that it can be a step on the path of control of the company, in the sense of having a say in the decision making processes of the company.",
+      "id": "s291"
+    },
+    {
+      "text": "Section 50AA, for example, speaks of one entity controlling a second entity if the first entity has the capacity to determine the outcome of decisions about the second entity's financial and operating policies.",
+      "id": "s292"
+    },
+    {
+      "text": "That definition, of course, is introduced for a purpose unconnected with Chapter 6.",
+      "id": "s293"
+    },
+    {
+      "text": "Nevertheless, it is an indication of the meaning that can be attributed to control in the context of control of a company.",
+      "id": "s294"
+    },
+    {
+      "text": "84 The question of what is, or is not, a substantial interest for the purposes of s 657A(2) is to be determined according to the circumstances of a particular case.",
+      "id": "s295"
+    },
+    {
+      "text": "In so far as the term involves the quantification of an interest, the meaning in a particular case must attach to a step in the direction of takeover or change in corporate control.",
+      "id": "s296"
+    },
+    {
+      "text": "The size or quantum of an 'interest' must have a relationship to a threat, or a potential threat, to the stability of corporate control (see Elders IXL Limited v National Companies &amp; Securities Commission (No.",
+      "id": "s297"
+    },
+    {
+      "text": "4) [1987] VR 1 at 18).",
+      "id": "s298"
+    },
+    {
+      "text": "85 I do not consider that substantial interest should be construed as having some amorphous meaning, independent of terms that are defined with precision and care in Chapters 6, 6A, 6B and 6C for the purposes of those Chapters.",
+      "id": "s299"
+    },
+    {
+      "text": "It must be construed in its context in s 657A(2).",
+      "id": "s300"
+    },
+    {
+      "text": "Section 602 itself uses terms that are defined elsewhere in the Act.",
+      "id": "s301"
+    },
+    {
+      "text": "I consider that the concept of substantial interest entails an interest that can be a relevant interest or a positive power or right in relation to voting shares.",
+      "id": "s302"
+    },
+    {
+      "text": "GROUND 1: GLENCORE'S SUBSTANTIAL INTEREST \n \n86 The Panel found that Glencore did not have a relevant interest in the shares held by the Banks, since neither of the Banks was an associate of Glencore.",
+      "id": "s303"
+    },
+    {
+      "text": "While the Panel found that economic compulsion would prevent the Banks from disposing of their shares in the Company, so long as the swaps were on foot, the Panel also found that the swaps were not of material significance in the overall financial position of the Banks.",
+      "id": "s304"
+    },
+    {
+      "text": "87 There was nothing to stop the Banks from selling any of the shares in the Company held by them, even if, for whatever reason, they subsequently bought further shares in the Company.",
+      "id": "s305"
+    },
+    {
+      "text": "All that can be said is that the Banks would be unlikely to dispose of such shares for so long as they have a potential exposure to Glencore under the swaps.",
+      "id": "s306"
+    },
+    {
+      "text": "The swaps are synallagmatic and, accordingly, Glencore could not bring them to an end without the consent of the Banks.",
+      "id": "s307"
+    },
+    {
+      "text": "The only right or power that the Panel considered that Glencore had in relation to the shares that constituted an interest , therefore, appears to be a power to consent to the rescission of the swaps.",
+      "id": "s308"
+    },
+    {
+      "text": "88 The Panel appears to have concluded, in effect, that a person can acquire a substantial interest in a company in circumstances where that person has no relevant interest in any shares in that company and no associate of the person has any relevant interest in any shares of the company.",
+      "id": "s309"
+    },
+    {
+      "text": "That is to say, a person can acquire a substantial interest in a company even if the person does not:\n \n &#8226; hold any shares, \n &#8226; have the power to exercise a right to vote attached to any shares, \n &#8226; have power to control the exercise of a right to vote attached to any shares, \n &#8226; have power to dispose of the shares; and \n &#8226; have power to control the exercise of a power to dispose of the shares, even under the extended concept of power or control referred to in s 608(2), \n\nand no associate of the person:\n \n &#8226; holds any shares, \n &#8226; has the power to exercise a right to vote attached to any shares, \n &#8226; has power to control the exercise of a right to vote attached to any shares, \n &#8226; has power to dispose of any shares; or \n &#8226; has power to control the exercise of a power to dispose of any shares, even under the extended concept of power or control referred to in s 608(2).",
+      "id": "s310"
+    },
+    {
+      "text": "That would be a very curious result.",
+      "id": "s311"
+    },
+    {
+      "text": "89 Glencore had no power, even under an unenforceable agreement, to control the exercise by the Banks of the power to dispose of any shares in the Company held by them.",
+      "id": "s312"
+    },
+    {
+      "text": "Thus, on the one hand, the Panel concluded that Glencore did not have power:\n \n &#8226; to dispose of the Banks' shares; or \n &#8226; to control the exercise of a power to dispose of the shares, even under the extended concept of power or control referred to in s 608(2).",
+      "id": "s313"
+    },
+    {
+      "text": "On the other hand, the Panel concluded that, by reason of the existence of the swaps, Glencore had a de facto power to prevent the Banks from disposing of their shares, such that those shares should be taken into account in determining whether Glencore had acquired, or was acquiring, a substantial interest in the Company.",
+      "id": "s314"
+    },
+    {
+      "text": "It is difficult, if not impossible, to reconcile those two conclusions.",
+      "id": "s315"
+    },
+    {
+      "text": "90 If the purposes of Chapter 6 include regulating the acquisition and notification of substantial interests, and that concept is something different from, and broader than, a relevant interest or voting power, it is remarkable that the balance of Chapter 6 regulates the acquisition of relevant interests by reference to voting power.",
+      "id": "s316"
+    },
+    {
+      "text": "One consequence would be that that purpose of Chapter 6, as set out in s 602, is, to an important extent, not achieved by the detailed provisions of Chapter 6 that follow.",
+      "id": "s317"
+    },
+    {
+      "text": "91 A substantial interest involves something more than being in a position to release an entity from a contingent contractual obligation simply because that entity has protected itself from exposure to that contingent contractual obligation by acquiring shares in a company, being shares that it has no obligation to acquire and that it has no obligation to retain.",
+      "id": "s318"
+    },
+    {
+      "text": "That is the only right or power that Glencore has in relation to the shares in the Company held by the Banks.",
+      "id": "s319"
+    },
+    {
+      "text": "I do not consider that Glencore acquired a substantial interest in the Company during the Non-disclosure Period.",
+      "id": "s320"
+    },
+    {
+      "text": "It follows that the Declaration involved an error of law in so far as the reasoning that led to it was based on the conclusion that Glencore had acquired a substantial interest in the Company prior to the end of the Non-disclosure Period.",
+      "id": "s321"
+    },
+    {
+      "text": "GROUND 2: EFFECT ON CENTENNIAL'S BID \n \n92 The Panel found that Glencore's failure to disclose the existence and growth of its position, consisting of the direct holding of Glencore and Fornax in the Company and the holding by the Banks of shares as a hedge, had effects on Centennial's acquisition of a controlling interest in the Company under its bid.",
+      "id": "s322"
+    },
+    {
+      "text": "The Panel considered that the shares in the Company acquired by Centennial during the Non-disclosure Period amounted to a substantial interest.",
+      "id": "s323"
+    },
+    {
+      "text": "The Panel considered that Glencore's failure to disclose the existence and growth of its position affected market participants' decisions and thereby affected acceptances of Centennial's bid.",
+      "id": "s324"
+    },
+    {
+      "text": "The Panel inferred, from its finding that the non-disclosure affected market participants' decisions in relation to Centennial's bid, that the non-disclosure had corresponding, indirect effects on control, or at least potential control, of the Company, being the effects of the different decisions of market participants on the process by which control moved.",
+      "id": "s325"
+    },
+    {
+      "text": "93 In essence, the Panel concluded that the circumstances, consisting of the non-disclosure of Glencore's position, were unacceptable because they had an effect on the acquisition by Centennial of a substantial interest in the Company in the following respects:\n \n (i) Centennial's bid was successful sooner;\n (ii) Centennial's bid was successful to a greater extent;\n (iii) Centennial's bid was possibly successful at a lower consideration.",
+      "id": "s326"
+    },
+    {
+      "text": "Glencore challenges each of those conclusions.",
+      "id": "s327"
+    },
+    {
+      "text": "Successful Sooner \n \n94 In relation to the conclusion that Centennial's bid was successful sooner, Glencore says that that, of itself, is not enough: it would be necessary to find that something else would have occurred as a result of the difference in timing.",
+      "id": "s328"
+    },
+    {
+      "text": "For example, the acquisition might not have taken place at all or there might have been some additional or unusual consequential effect that would make the timing unacceptable.",
+      "id": "s329"
+    },
+    {
+      "text": "In the absence of such a conclusion, Glencore says, the Panel could not have concluded rationally that the timing difference rendered the circumstances unacceptable.",
+      "id": "s330"
+    },
+    {
+      "text": "95 The Panel does not explain how the acquisition by Centennial of a substantial interest in the Company sooner than it might otherwise have done, in circumstances where that would have been the end result even if the acquisition was delayed and in which the market had plenty of time in which to consider Centennial's bid, was unacceptable.",
+      "id": "s331"
+    },
+    {
+      "text": "The Panel has given no reason as to why the timing of a change of control of the Company, or the timing of the acquisition by Centennial of a substantial interest in the Company, is in any way material, such that the effect of that difference in timing should appear to the Panel to be unacceptable.",
+      "id": "s332"
+    },
+    {
+      "text": "Successful to a Greater Extent \n \n96 In relation to the Panel's conclusion that Centennial's bid would have been successful to a greater extent, the Panel appears to have relied on a finding that some acceptances may not have been sent at all.",
+      "id": "s333"
+    },
+    {
+      "text": "Glencore complains that such a finding is mere speculation and does not satisfy the requirement that the Panel make a finding as to actual effect.",
+      "id": "s334"
+    },
+    {
+      "text": "The Panel did not find that some acceptances would not have been sent at all.",
+      "id": "s335"
+    },
+    {
+      "text": "It merely speculated as to that possibility.",
+      "id": "s336"
+    },
+    {
+      "text": "Glencore says that there was no evidence before the Panel that would justify such speculation, let alone such a finding.",
+      "id": "s337"
+    },
+    {
+      "text": "Accordingly, Glencore says, the finding that Centennial's bid was successful to a greater extent was irrational, illogical and not based on findings or inferences of facts supported by logical grounds.",
+      "id": "s338"
+    },
+    {
+      "text": "97 The Panel found that some acceptances of Centennial's bid may not have been sent at all.",
+      "id": "s339"
+    },
+    {
+      "text": "That appears to be the only basis upon which the Panel concluded that Centennial's bid was successful to a greater extent than it would have been had Glencore disclosed its position during the Non-disclosure Period.",
+      "id": "s340"
+    },
+    {
+      "text": "However, the Tribunal does not appear to have made a finding that any acceptance was sent that would not have been sent.",
+      "id": "s341"
+    },
+    {
+      "text": "The Panel has done no more than speculate that some shareholders may not have sent acceptances.",
+      "id": "s342"
+    },
+    {
+      "text": "98 The Panel's reasoning appears to proceed on the basis that, while the non-disclosure of Glencore's position during the Non-disclosure Period did not have the effect that Centennial acquired control of, or a substantial interest in, the Company that it would never otherwise have acquired, in some way, Centennial acquired a greater degree of control or a more substantial interest than it might have acquired, had there been disclosure.",
+      "id": "s343"
+    },
+    {
+      "text": "Even if the Company's shareholders may have held on to their shares for longer, had Glencore disclosed its position, there was no finding, and Glencore says there was no probative material to support any such finding, that those shareholders would have held on to their shares beyond the end of the Centennial bid period.",
+      "id": "s344"
+    },
+    {
+      "text": "Even if some shareholders in the Company, having heard of Glencore's position, chose to sell on market, rather than accept Centennial's bid, persons who bought shares from such shareholders would have been faced with the same ultimate choice, namely, whether to accept the Centennial bid or to hold on to the shares.",
+      "id": "s345"
+    },
+    {
+      "text": "The Panel does not appear to have considered that question, which is clearly relevant to whether Centennial's bid was successful to a greater extent.",
+      "id": "s346"
+    },
+    {
+      "text": "99 In the nature of things, the Panel must engage in speculation in so far as it is endeavouring to determine what would have happened if the relevant circumstances did not exist or occur.",
+      "id": "s347"
+    },
+    {
+      "text": "However, there must be some probative material before the Panel upon which it can base a conclusion as to a particular effect.",
+      "id": "s348"
+    },
+    {
+      "text": "The Panel has not identified any material that would justify a conclusion that any shareholder might not have accepted Centennial's bid at all if there had been disclosure of Glencore's position.",
+      "id": "s349"
+    },
+    {
+      "text": "The Panel has not identified any material upon which it could have concluded that any shareholder in the Company who accepted Centennial's bid would have held on to shares in the Company beyond the Centennial bid period.",
+      "id": "s350"
+    },
+    {
+      "text": "100 It may be that the flow of acceptances of Centennial's bid may have slowed because of speculation about a rival takeover bid by Glencore, had there been disclosure of Glencore's position.",
+      "id": "s351"
+    },
+    {
+      "text": "However, that says nothing about whether, once it became clear that Glencore would not make a bid, there was a basis for concluding that shareholders would not have then accepted Centennial's bid, whether they were shareholders who held shares at the time or shareholders who acquired on the market prior to the end of Centennial's bid period.",
+      "id": "s352"
+    },
+    {
+      "text": "Successful at a Lower Consideration \n \n101 In relation to the Panel's conclusion that Centennial's bid was possibly successful at a lower consideration than if there had been disclosure by Glencore of its position, Glencore says that the Panel failed to ask itself the right question, namely, what actual effect did non-disclosure have upon the consideration paid by Centennial.",
+      "id": "s353"
+    },
+    {
+      "text": "Glencore says that the conclusion amounts to no more than speculation and cannot aid in the finding of an effect in order to invoke the Panel's jurisdiction.",
+      "id": "s354"
+    },
+    {
+      "text": "Glencore says, in addition, that there was no probative material before the Panel to justify the conclusion that, had there been disclosure of its position by Glencore, Centennial's bid would have had to proceed at a higher price.",
+      "id": "s355"
+    },
+    {
+      "text": "102 The Panel found that shareholders in the Company who sold their shares in the market during the Non-disclosure Period received lower prices than they would have received had Glencore disclosed its position.",
+      "id": "s356"
+    },
+    {
+      "text": "It also found that it was possible that the sale of shares in the Company at higher prices during the Non-disclosure Period may have affected the price and level of acceptances of Centennial's bid.",
+      "id": "s357"
+    },
+    {
+      "text": "103 However, those conclusions say nothing about why Centennial would have had to increase its bid in order to acquire control of, or a substantial interest in, the Company.",
+      "id": "s358"
+    },
+    {
+      "text": "The tentative nature of the Panel's finding is emphasised by the use of the word ' possibly '.",
+      "id": "s359"
+    },
+    {
+      "text": "No reasoning is advanced by the Panel for its tentative observation that Centennial might have had to increase its bid price.",
+      "id": "s360"
+    },
+    {
+      "text": "Conclusion as to Effect on Centennial's Bid \n \n104 The timing and prices at which shares in the Company were sold during the Non-disclosure Period are interrelated.",
+      "id": "s361"
+    },
+    {
+      "text": "The fact that the Panel has speculated as to an effect is not, of itself, a basis for impugning the Panel's reasoning.",
+      "id": "s362"
+    },
+    {
+      "text": "Of necessity, the Panel is endeavouring to determine what would have happened had there been disclosure of Glencore's position.",
+      "id": "s363"
+    },
+    {
+      "text": "That involves an exercise in hypothesising.",
+      "id": "s364"
+    },
+    {
+      "text": "105 The reasoning of the Panel began with the proposition that a consistent reaction of the market to speculation that there would be a competing bid is to hold back target stock from acceptance while awaiting developments, slowing acceptances for the existing bid, increasing the market price and putting pressure on the existing bidder to increase its bid price.",
+      "id": "s365"
+    },
+    {
+      "text": "The Panel considered that that may result in the price of the target shares exceeding the value of the current bid.",
+      "id": "s366"
+    },
+    {
+      "text": "106 The Panel observed that, even after 23 March 2005, when Centennial declared its bid free of conditions and announced that it would accelerate processing acceptances, the inducement of the dividend was worth only about 1.6% of the value of the bid.",
+      "id": "s367"
+    },
+    {
+      "text": "The Panel considered that many shareholders may have thought it worth giving up that benefit to keep open the option of accepting a higher bid, if one was likely to emerge.",
+      "id": "s368"
+    },
+    {
+      "text": "107 The Panel considered that Glencore's non-disclosure of its interest in the Company contributed to the speed at which Centennial gained acceptances for its bid.",
+      "id": "s369"
+    },
+    {
+      "text": "Thus, during the Non-disclosure Period, Centennial received acceptances for over 25 per cent of the shares in the Company, taking its relevant interest from under 10 per cent to 35 per cent.",
+      "id": "s370"
+    },
+    {
+      "text": "However, within two and a half days after Glencore's announcement, Centennial had acquired a majority of the shares in the Company.",
+      "id": "s371"
+    },
+    {
+      "text": "The Panel appears to have concluded, therefore, that, if Glencore had disclosed its position on 22 March 2005 and thereafter as the Banks acquired shares in the Company, that would have had an affect on the rate of acceptances of the Centennial bid.",
+      "id": "s372"
+    },
+    {
+      "text": "The Panel considered that, in that case, many of the acceptances would not have been sent as earlier as they were and that some may not have been sent at all.",
+      "id": "s373"
+    },
+    {
+      "text": "That is to say, the Panel concluded that the flow of acceptances of Centennial's bid is likely to have been slower if Glencore had showed its hand earlier.",
+      "id": "s374"
+    },
+    {
+      "text": "108 It is difficult to follow the reasoning of the Panel.",
+      "id": "s375"
+    },
+    {
+      "text": "During the Non-disclosure Period of some 14 days, Centennial received acceptances in respect of 25 per cent of the shares in the Company.",
+      "id": "s376"
+    },
+    {
+      "text": "Within 2 and a half days after Glencore's announcement, Centennial had acquired a further 15 per cent.",
+      "id": "s377"
+    },
+    {
+      "text": "It is not clear why, therefore, the Panel concluded that the flow of acceptances is likely to have been slower if Glencore had showed its hand earlier.",
+      "id": "s378"
+    },
+    {
+      "text": "109 It is unclear why the Panel concluded that Centennial's bid was successful to a greater extent.",
+      "id": "s379"
+    },
+    {
+      "text": "No reasoning is advanced as to why holders of shares in the Company might have declined to accept Centennial's bid simply because they had knowledge of Glencore's position.",
+      "id": "s380"
+    },
+    {
+      "text": "At some stage, they would be put to the position of either accepting the bid or not, in circumstances where Glencore had made no counter bid.",
+      "id": "s381"
+    },
+    {
+      "text": "110 The finding that it is possible that Centennial would have had to pay a higher price appears to have no foundation.",
+      "id": "s382"
+    },
+    {
+      "text": "A finding that the market in which the Centennial bid was taking place would have been more relevantly informed and competitive and, therefore, more efficient, says nothing about the effect of such efficiency on control of the Company or on the acquisition of a substantial interest in the Company.",
+      "id": "s383"
+    },
+    {
+      "text": "Section 602 states that the purposes of Chapter 6, including Part 6.10, include ensuring that the acquisition of control over the voting shares in a listed company takes place in an efficient, competitive and informed market.",
+      "id": "s384"
+    },
+    {
+      "text": "Whether acquisition of control takes place in such a contract may inform a decision as to whether the effect that particular circumstances have may be unacceptable.",
+      "id": "s385"
+    },
+    {
+      "text": "However, a pre-requisite for the making of a declaration is that there must be determination of the effect that the particular circumstances have on the control of a company or the acquisition of a substantial interest in a company.",
+      "id": "s386"
+    },
+    {
+      "text": "111 I consider that the Panel's conclusion, that Centennial's bid was successful sooner, to a greater extent and, possibly, at a lower consideration, than it would have been if Glencore had disclosed its position, involved error.",
+      "id": "s387"
+    },
+    {
+      "text": "The Panel did not make a finding as to whether the relevant circumstances actually had an effect on the consideration paid by Centennial.",
+      "id": "s388"
+    },
+    {
+      "text": "The Panel did not explain how its conclusion that Centennial's bid was successful to a greater extent was based on any findings or inferences of fact.",
+      "id": "s389"
+    },
+    {
+      "text": "The Panel did not explain how any timing difference in relation to Centennial's bid was unacceptable.",
+      "id": "s390"
+    },
+    {
+      "text": "The Panel committed jurisdictional error in concluding that the relevant circumstances had an effect on control of the Company or on the acquisition by Centennial of a substantial interest in the Company.",
+      "id": "s391"
+    },
+    {
+      "text": "GROUND 3: THE ORDERS \n \n112 The Commission accepts that, if the Declaration is set aside, the Orders must be set aside.",
+      "id": "s392"
+    },
+    {
+      "text": "That is to say, if the Court concludes that the Declaration cannot be supported on the basis of their effect of the relevant circumstances on the acquisition of a substantial interest in the Company by Glencore, or their effect on the control or potential control of the Company by Centennial or the acquisition by Centennial of a substantial interest in the Company, the Orders were beyond jurisdiction and must also be set aside.",
+      "id": "s393"
+    },
+    {
+      "text": "Glencore contends further that, if the Panel erred as to the effect of the circumstances on the acquisition by Glencore of a substantial interest in the Company, the Panel's orders cannot be supported.",
+      "id": "s394"
+    },
+    {
+      "text": "113 Under s 657D(2) of the Act, the Panel may, relevantly, make any order that it thinks appropriate to:\n \n \n (a) protect the rights or interests of any person affected by the circumstances declared to be unacceptable; or\n (b) ensure that a takeover bid or proposed takeover bid proceeds, as far as possible, in a way that it would have proceeded if the circumstances had not occurred.",
+      "id": "s395"
+    },
+    {
+      "text": "114 The Panel observed that the best sort of order, if it works, is an order that restores the parties to the position they would have been in, but for the unacceptable circumstances.",
+      "id": "s396"
+    },
+    {
+      "text": "The Panel was of the view that all people who considered whether to buy, sell or hold shares in the Company during the Non-disclosure Period, including whether and when to accept Centennial's bid, did so without access to information concerning Glencore's position.",
+      "id": "s397"
+    },
+    {
+      "text": "The Panel concluded that an order that restored all parties to the position they were in at 22 March 2005 would allow all of those people to reconsider the decisions they made at that time, with the benefit of information as to Glencore's position.",
+      "id": "s398"
+    },
+    {
+      "text": "115 However, the Panel concluded that no such order could be made because it would involve reversing acceptances of Centennial's bid and reversing trades on the market.",
+      "id": "s399"
+    },
+    {
+      "text": "The Panel concluded that none of the parties and shareholders could be put back into the position they were in during the Non-disclosure Period, without returning the acceptances of Centennial's bid and that it would unfair and impracticable to compel former shareholders to return the consideration to Centennial and take a retransfer of their shares in the Company.",
+      "id": "s400"
+    },
+    {
+      "text": "The Panel considered that giving all the shareholders the opportunity of rescinding acceptances would be unfair to Centennial and to other shareholders, many of whom accepted on the basis of a certain existing level of acceptances.",
+      "id": "s401"
+    },
+    {
+      "text": "116 It must follow from that reasoning, that the Panel based its orders on s 657D(2)(a).",
+      "id": "s402"
+    },
+    {
+      "text": "That is to say, the orders were not intended to ensure that Centennial's bid proceed in a way that it would have proceeded if the circumstances had not occurred.",
+      "id": "s403"
+    },
+    {
+      "text": "Rather, the orders were intended to protect the rights or interests of any person affected by the circumstances declared to be unacceptable.",
+      "id": "s404"
+    },
+    {
+      "text": "117 Glencore contends that the reference is s 657D(2)(a) to protecting the rights or interests of any person affected by the circumstances is a reference to protecting the rights of any person affected by the circumstances declared to be unacceptable.",
+      "id": "s405"
+    },
+    {
+      "text": "Glencore says that the rights or interests ' affected by the circumstances ', as referred to in s 657D(2)(a), is cognate with the ' effect ' of the circumstances, having regard to which the Panel concluded that the circumstances were unacceptable.",
+      "id": "s406"
+    },
+    {
+      "text": "Thus, Glencore says, it is by reference to the effect on control or potential control or on acquisition of a substantial interest, of those circumstances, that the rights and interests to be protected are to be determined.",
+      "id": "s407"
+    },
+    {
+      "text": "118 Accordingly, if the Court concluded that Glencore's position did not involve the acquisition of a substantial interest in the Company but concluded that it was open to the Panel to find that the relevant circumstances were unacceptable, having regard to the effect of the circumstances on the control of the Company by Centennial or the acquisition by Centennial of a substantial interest in the Company, the Panel had no jurisdiction to make the orders: while the orders were made to protect the rights or interests of person affected by the non-disclosure, ' that particular identified way in which those persons have been affected is not such as has (validly) been found to be unacceptable '.",
+      "id": "s408"
+    },
+    {
+      "text": "119 That is to say, the orders are designed to compensate persons who sold shares in the Company in circumstances that were unacceptable, having regard to the effect of the circumstances on Centennial's bid.",
+      "id": "s409"
+    },
+    {
+      "text": "Glencore says that there is no relevant nexus between, on the one hand, the effect of the non-disclosure on Centennial's bid, namely, that it was successful sooner, to a greater extent and possibly at a lower consideration, than it would have been if Glencore had disclosed its position, and, on the other hand, the right or interests to be protected by the order, namely the rights or interests of shareholders who sold during the Non-disclosure Period at a lower price than they would have sold had there been disclosure of Glencore's position.",
+      "id": "s410"
+    },
+    {
+      "text": "120 The Commission says, on the other hand, that, provided there is a declaration of unacceptable circumstances, the Panel's power to make orders is enlivened.",
+      "id": "s411"
+    },
+    {
+      "text": "The Commission says that, provided the unacceptable circumstances include Glencore's non-disclosure of its position, persons who sold shares in the Company on SEATS were affected by that circumstance.",
+      "id": "s412"
+    },
+    {
+      "text": "The effect was that they received lower prices for their shares than they would have received had there been disclosure.",
+      "id": "s413"
+    },
+    {
+      "text": "The Commission contends that, once it is determined that a person is affected by circumstances declared to be unacceptable, an order may be made that is appropriate to protect the rights or interests of that person, whether or not the rights or interests protected are affected by the circumstances declared to be unacceptable.",
+      "id": "s414"
+    },
+    {
+      "text": "121 In the light of the conclusion I have reached concerning effect of the relevant circumstances on Centennial's bid it is not necessary to decide this question.",
+      "id": "s415"
+    },
+    {
+      "text": "However, since it has been argued, I shall express my views on the question.",
+      "id": "s416"
+    },
+    {
+      "text": "122 The object of Subdivision B is to deal with circumstances in relation to the affairs of a company that appear to the Panel to be unacceptable.",
+      "id": "s417"
+    },
+    {
+      "text": "Nothing flows from the making of a declaration, other than the enlivening of the Panel's power to make orders under s 657D.",
+      "id": "s418"
+    },
+    {
+      "text": "The object of s 657D is to enable the Panel to rectify the consequences of unacceptable circumstances existing.",
+      "id": "s419"
+    },
+    {
+      "text": "It is the rights or interests affected by the circumstances that are to be protected.",
+      "id": "s420"
+    },
+    {
+      "text": "The section is not designed to empower the Panel to protect interests or rights that are not affected by the unacceptable circumstances simply because they are rights and interests of a person who happens to be affected by the unacceptable circumstances.",
+      "id": "s421"
+    },
+    {
+      "text": "The Panel is not authorised to make an order protecting some interest or right of a person who is affected by the circumstances declared to be unacceptable if that right or interest was not affected by the circumstances.",
+      "id": "s422"
+    },
+    {
+      "text": "123 Further, the Panel made the orders on the basis that the rights and interests of shareholders designed to be protected were rights and interests that were affected by the unacceptable circumstances consisting of the non-disclosure.",
+      "id": "s423"
+    },
+    {
+      "text": "That basis included the Panel's conclusion that the relevant circumstances were unacceptable, having regard to the effect of that non-disclosure on the acquisition by Glencore of a substantial interest in the Company.",
+      "id": "s424"
+    },
+    {
+      "text": "The Panel did not turn its mind to the question of whether it would have made the orders, if it was not open to it to conclude that Glencore's position involved the acquisition of a substantial interest in the Company.",
+      "id": "s425"
+    },
+    {
+      "text": "124 Section 657D(1) requires that the Panel must not make an order under the section if it is satisfied that the order would unfairly prejudice any person.",
+      "id": "s426"
+    },
+    {
+      "text": "In considering that question, the Panel must weigh the object of protecting rights or interests affected by the unacceptable circumstances against the prejudice that would flow to any person from the making of an order.",
+      "id": "s427"
+    },
+    {
+      "text": "The Panel did not consider whether it would be unfair to Glencore to make the orders if the only basis for the orders was the effect of the unacceptable circumstances on control or potential control of the Company by Centennial or the acquisition by Centennial of a substantial interest in the Company.",
+      "id": "s428"
+    },
+    {
+      "text": "125 Those considerations would be sufficient to invalidate the Orders, even if the Panel were justified in its conclusion that the circumstances consisting of the non-disclosure were unacceptable, having regard to their effect on control of the Company by Centennial or the acquisition of a substantial interest in the Company by Centennial since, in those circumstances, the making of the orders was based upon a false premise.",
+      "id": "s429"
+    },
+    {
+      "text": "126 Glencore contends, in addition, that the basis of the order made by the Panel is flawed.",
+      "id": "s430"
+    },
+    {
+      "text": "Glencore says that the correct methodology would have been to assess, at the time of the relevant transaction, the price that Glencore would have had to pay (up to the maximum that it would have been prepared to pay) for shares in the Company and to require the difference between that price and the price actually paid by a selling shareholder to be paid as compensation.",
+      "id": "s431"
+    },
+    {
+      "text": "In the light of the conclusions I have reached, it is unnecessary for me to decide this question.",
+      "id": "s432"
+    },
+    {
+      "text": "GROUND 4: PERSONS TO WHOM THE ORDERS RELATE \n \n127 Section 657D(1)(a) relevantly provides that, before making an order under s 657D(2), the Panel must give each person to whom a proposed order relates an opportunity to make submissions to the Panel about the matter.",
+      "id": "s433"
+    },
+    {
+      "text": "Persons who sold shares on SEATS during the Non-disclosure Period are persons to whom the orders made by the Panel relate.",
+      "id": "s434"
+    },
+    {
+      "text": "On its face, the requirement in s 657D(1) is mandatory.",
+      "id": "s435"
+    },
+    {
+      "text": "It is common ground that the Panel did not give persons who sold shares during the Non-disclosure Period an opportunity to make submissions.",
+      "id": "s436"
+    },
+    {
+      "text": "It is possible that such persons may have made submissions as to the quantum of compensation or as to the basis upon which compensation should be determined and appropriated in order to protect the rights and interests affected.",
+      "id": "s437"
+    },
+    {
+      "text": "Such submissions may have persuaded the Panel as to the appropriateness of the methodology advanced by Glencore and that methodology may have resulted in a lower sum as the aggregate compensation to be paid by Glencore.",
+      "id": "s438"
+    },
+    {
+      "text": "128 The Commission contends that the requirement is s 657D(1) is to give the opportunity only to persons who are or may be adversely affected by an order.",
+      "id": "s439"
+    },
+    {
+      "text": "That is to say, the requirement does not go beyond what would in any event be required by the requirements of procedural fairness.",
+      "id": "s440"
+    },
+    {
+      "text": "The Commission says that there could be no suggestion that a failure to give each person who was the beneficiary of the orders an opportunity to be heard was procedurally unfair.",
+      "id": "s441"
+    },
+    {
+      "text": "129 However, it may be that there are persons who are beneficiaries of the Orders who would claim to be entitled to greater compensation than has been ordered.",
+      "id": "s442"
+    },
+    {
+      "text": "While those persons could not be said to be adversely affected by the Orders, in so far as they are better off after the Orders than they were before the Orders were made, they may have been better off to a greater extent had they been given the opportunity to make submissions.",
+      "id": "s443"
+    },
+    {
+      "text": "The real question is whether the consequence of failure to comply with s 657D(1), in the respects in question, is the invalidity of the orders.",
+      "id": "s444"
+    },
+    {
+      "text": "130 It is clear that Glencore was given an opportunity to make submissions and availed itself of that opportunity, although Glencore's submissions were rejected by the Panel.",
+      "id": "s445"
+    },
+    {
+      "text": "There can be no suggestion that there has been any procedural unfairness so far as Glencore is concerned.",
+      "id": "s446"
+    },
+    {
+      "text": "No application is made on behalf of any beneficiary of the Orders.",
+      "id": "s447"
+    },
+    {
+      "text": "A question might arise as to whether relief would be granted in relation to the failure to comply with s 657D(1)(a) on the application of any such person.",
+      "id": "s448"
+    },
+    {
+      "text": "However, so far as Glencore is concerned, if that were the only basis for impugning the orders, it would be appropriate to decline to grant any relief in the exercise of the Court's discretion.",
+      "id": "s449"
+    },
+    {
+      "text": "131 Even on the application of a beneficiary, there must be doubt as to whether invalidity is the consequence of failure to comply with s 657D(1).",
+      "id": "s450"
+    },
+    {
+      "text": "The Panel's power is conferred, subject to significant limitations.",
+      "id": "s451"
+    },
+    {
+      "text": "Thus, the Panel can only make an order if it has made a declaration of unacceptable circumstances.",
+      "id": "s452"
+    },
+    {
+      "text": "It can only make such a declaration if it considers that doing so is not against the public interest and it must have regard to, inter alia , the purposes of Chapter 6, which are directed towards the protection of shareholders interests in circumstances of the proposed change in corporate control and the equal treatment of shareholders.",
+      "id": "s453"
+    },
+    {
+      "text": "The Panel's power to make an order is further confined to circumstances where it is satisfied that the order would not unfairly prejudice any person.",
+      "id": "s454"
+    },
+    {
+      "text": "That requires a balancing exercise to be undertaken by the Panel.",
+      "id": "s455"
+    },
+    {
+      "text": "In all of those circumstances, the Parliament should not be taken to have intended that an order that is otherwise within the Panel's power would be invalidated by reason of a failure to provide each person to whom an order relates', but who is not prejudicially affected by the order, to make submissions.",
+      "id": "s456"
+    },
+    {
+      "text": "132 That conclusion is supported by a consideration of the context in which the Panel exercises its powers.",
+      "id": "s457"
+    },
+    {
+      "text": "One of the objects of the Panel is to provide swift, expert determinations of circumstances that arise at short notice in the context of the market in listed shares and other securities.",
+      "id": "s458"
+    },
+    {
+      "text": "Orders may involve large sums of money and may affect many persons, including persons who will not necessarily be in Australia and whose identity may be difficult to determine.",
+      "id": "s459"
+    },
+    {
+      "text": "Those considerations indicate that a failure to comply with the requirements of s 657D(1) will not lead to automatic invalidity of an order made.",
+      "id": "s460"
+    },
+    {
+      "text": "GROUND 5: MARKET PRACTICE AS TO SWAPS \n \n133 There was material before the Panel that established the following:\n \n \n (a) Cash swaps are relatively common instruments in the Australian securities market, in particular in relation to securities that are the subject of a takeover bid.",
+      "id": "s461"
+    },
+    {
+      "text": "The market is generally aware of that practice and takes it into account in assessing the imported daily volume and price statistics reported by ASX.",
+      "id": "s462"
+    },
+    {
+      "text": "(b) With two exceptions, one of which is Glencore's disclosure of 4 and 5 April 2005, no holder of cash only swaps has publicly disclosed its entitlements as holder, except where the holder considered that the swap conferred a relevant interest on the holder in the shares held by the writer or where the holder and the writer of the swap were associates.",
+      "id": "s463"
+    },
+    {
+      "text": "(c) According to market practice, a holder of a cash only swap would not be expected to make public disclosure of the swap even though the number of shares to which the swap was referenced, together with the voting power of the holder and its associates, constituted more than 5 per cent of the issued capital of the Company.",
+      "id": "s464"
+    },
+    {
+      "text": "134 Glencore says, therefore, that the Panel's conclusion that non-disclosure of Glencore's position by reason of the swaps constituted unacceptable circumstances is a significant departure from market practice and expectation and, accordingly, no reasonable panel could reasonably have concluded that the non-disclosure constituted unacceptable circumstances.",
+      "id": "s465"
+    },
+    {
+      "text": "Glencore characterises the Panel's conclusion as the application of a ' radical new rule ' to a subject matter that is familiar in Panel proceedings and that the market would expect the Panel not to make ' ad hoc decisions contrary to accepted market practice '.",
+      "id": "s466"
+    },
+    {
+      "text": "135 The Panel, of course, is expressly empowered by s 657A(1) to make declarations notwithstanding that there has been no contravention of the Act.",
+      "id": "s467"
+    },
+    {
+      "text": "Part 6.10 of the Act provides flexibility in the regulation of the acquisition of shares in circumstances where the literal operation of the regulatory regime is either unnecessarily restrictive or ineffective to achieve the object of Chapter 6.",
+      "id": "s468"
+    },
+    {
+      "text": "It is clear enough that the regime involving the Panel is designed to ensure regulation of the acquisition of shares over and above the provisions contained in the balance of Chapter 6 ( Brierley Investments Ltd v Australian Securities Commission (1997) 78 FCR 255 at 261).",
+      "id": "s469"
+    },
+    {
+      "text": "The Panel made its declaration because, notwithstanding compliance by Glencore and the Banks with the disclosure regime prescribed by the Act, the purposes of Chapter 6, as expressed in s 602, were not achieved.",
+      "id": "s470"
+    },
+    {
+      "text": "That is precisely the circumstances for which s 657A provides.",
+      "id": "s471"
+    },
+    {
+      "text": "It is not unreasonable for the Panel, if its decision was otherwise lawful and authorised, to reach that conclusion.",
+      "id": "s472"
+    },
+    {
+      "text": "The fact that participants in the market do not necessarily make disclosure of cash settled swaps does not necessarily mean that the failure to do so is not unacceptable.",
+      "id": "s473"
+    },
+    {
+      "text": "CONCLUSION \n \n136 I consider that the Panel erred in concluding that the relationship between Glencore on the one hand and the Banks on the other, by reason of the swaps, was such that the Shares in the company held by the Banks should be taken into account in determining whether Glencore had acquired or was acquiring a substantial interest in the Company.",
+      "id": "s474"
+    },
+    {
+      "text": "I also consider that the Panel erred in concluding that circumstances consisting of the non-disclosure, during the Non-disclosure Period, of the swaps and the relevant interest held by Glencore had an effect on the control or potential control of the Company, or on the acquisition by Centennial of a substantial interest in the Company, that was unacceptable.",
+      "id": "s475"
+    },
+    {
+      "text": "Having regard to those conclusions, it appears to follow that neither the Declaration nor the Orders can stand.",
+      "id": "s476"
+    },
+    {
+      "text": "137 However, the parties have requested that I make no orders until they have had the opportunity of considering the conclusions that I have reached.",
+      "id": "s477"
+    },
+    {
+      "text": "Accordingly, I propose to stand the matter over for further submissions as to the appropriate orders after the parties have had a reasonable opportunity of considering my conclusions and my reasons for those conclusions.",
+      "id": "s478"
+    },
+    {
+      "text": "I certify that the preceding one hundred and thirty-seven (137) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Emmett.",
+      "id": "s479"
+    },
+    {
+      "text": "Associate:\n\nDated: 22 March 2006\n\n\n Counsel for the Applicant: Mr T.F.",
+      "id": "s480"
+    },
+    {
+      "text": "Bathurst QC, Mr M.J. Leeming and Mr J.R.J.",
+      "id": "s481"
+    },
+    {
+      "text": "Lockhart \n \n Solicitor for the Applicant: Atanaskovic Hartnell \n \n Counsel for the First Respondent: Mr R. Strong \n \n Solicitor for the First Respondent: Freehills \n \n Counsel for the Third Respondent: Mr S. Gageler SC and Mr M.S.",
+      "id": "s482"
+    },
+    {
+      "text": "Henry \n \n Solicitor for the Third Respondent: Australian Securities and Investments Commission \n \n Date of Hearing: 9 February 2006 \n \n Date of Judgment: 22 March 2006 \n\n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2006/274.html",
+      "id": "s483"
+    }
+  ]
+}

@@ -1,0 +1,1796 @@
+{
+  "name": "Wilderness Society Inc. v The Hon. Malcolm Turnbull, Minister for the Environment and Water Resources [2007] FCA 1178 (9 August 2007)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2007/1178.html",
+  "catchphrases": [
+    {
+      "text": "application for review of two decisions made by minister under the environment protection and biodiversity conservation act 1999 (cth) (epbc act)",
+      "id": "c0"
+    },
+    {
+      "text": "first decision designating proposed action as controlled action and specifying controlling provisions",
+      "id": "c1"
+    },
+    {
+      "text": "second decision that relevant impacts of controlled action be assessed on preliminary documentation",
+      "id": "c2"
+    },
+    {
+      "text": "whether valid referral under epbc act to support decisions",
+      "id": "c3"
+    },
+    {
+      "text": "whether in making first decision the minister failed to take into account relevant considerations or took into account an irrelevant consideration",
+      "id": "c4"
+    },
+    {
+      "text": "s 75(2b) of epbc act",
+      "id": "c5"
+    },
+    {
+      "text": "rfa forestry operation",
+      "id": "c6"
+    },
+    {
+      "text": "commonwealth land",
+      "id": "c7"
+    },
+    {
+      "text": "whether minister misconstrued s 87(5) of epbc act in making second decision",
+      "id": "c8"
+    },
+    {
+      "text": "whether denial of procedural fairness in making of second decision",
+      "id": "c9"
+    },
+    {
+      "text": "whether second decision affected by apprehended bias",
+      "id": "c10"
+    },
+    {
+      "text": "whether second decision involved improper exercise of power",
+      "id": "c11"
+    },
+    {
+      "text": "whether second decision manifestly unreasonable",
+      "id": "c12"
+    },
+    {
+      "text": "administrative law",
+      "id": "c13"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "1 The proposal by the second respondent, Gunns Limited (Gunns), to construct and operate a pulp mill at Bell Bay in northern Tasmania has generated a great deal of controversy.",
+      "id": "s0"
+    },
+    {
+      "text": "It is not the task of this Court to resolve that controversy.",
+      "id": "s1"
+    },
+    {
+      "text": "The Court's task is to determine the application made by The Wilderness Society Inc. (TWS) under the Administrative Decisions (Judicial Review) Act 1977 (Cth) and the Judiciary Act 1903 (Cth) about whether two decisions made by the first respondent, the Commonwealth Minister for the Environment and Water Resources (Minister), are valid.",
+      "id": "s2"
+    },
+    {
+      "text": "Those decisions were made on 2 May 2007.",
+      "id": "s3"
+    },
+    {
+      "text": "They are:\n \n &#8226; a decision under s 75 of the Environment Protection and Biodiversity Conservation Act 1999 (Cth) (EPBC Act) that the pulp mill proposal is a controlled action and that ss 18, 18A, 20, 20A, 23 and 24A of the EPBC Act are controlling provisions in respect of the action (2007 controlled action decision); and\n &#8226; a decision under s 87 of the EPBC Act that the relevant impacts of the controlled action be assessed on preliminary documentation under Div 4 of Pt 8 of the EPBC Act (2007 assessment approach decision).",
+      "id": "s4"
+    },
+    {
+      "text": "2 The Court heard this proceeding at the same time as proceeding TAD 17 of 2007.",
+      "id": "s5"
+    },
+    {
+      "text": "That proceeding involves an application by The Investors for the Future of Tasmania Inc. (IFT), which is similar to the application in this proceeding.",
+      "id": "s6"
+    },
+    {
+      "text": "The reasons for judgment in each proceeding should be read together.",
+      "id": "s7"
+    },
+    {
+      "text": "3 The issues in this proceeding are:\n \n &#8226; was there a valid referral of the pulp mill proposal to the Minister under the EPBC Act?",
+      "id": "s8"
+    },
+    {
+      "text": "&#8226; in making the 2007 controlled action decision, did the Minister fail to take into account a relevant consideration, being the impact of the forestry operations which will be undertaken to supply the pulp mill?",
+      "id": "s9"
+    },
+    {
+      "text": "&#8226; in making the 2007 controlled action decision, did the Minister fail to take into account a relevant consideration, being whether the pulp mill proposal will have or is likely to have a significant impact on the environment on Commonwealth land?",
+      "id": "s10"
+    },
+    {
+      "text": "&#8226; did the Minister misconstrue and/or misapply s 87(5) of the EPBC Act in making the 2007 assessment approach decision?",
+      "id": "s11"
+    },
+    {
+      "text": "&#8226; in making the 2007 assessment approach decision, did the Minister deny TWS procedural fairness?",
+      "id": "s12"
+    },
+    {
+      "text": "&#8226; was the 2007 assessment approach decision affected by apprehended bias in the Minister?",
+      "id": "s13"
+    },
+    {
+      "text": "&#8226; was the 2007 assessment approach decision manifestly unreasonable?",
+      "id": "s14"
+    },
+    {
+      "text": "&#8226; did the making of the 2007 assessment approach decision involve the Minister engaging in an improper exercise of power?",
+      "id": "s15"
+    },
+    {
+      "text": "THE LEGISLATIVE CONTEXT \n \n4 It is an object of the EPBC Act \"to provide for the protection of the environment, especially those aspects of the environment that are matters of national environmental significance...\" (s 3(1)(a)).",
+      "id": "s16"
+    },
+    {
+      "text": "The EPBC Act prohibits the taking of certain actions unless those actions pass an approval process.",
+      "id": "s17"
+    },
+    {
+      "text": "An \"action\" is defined in s 523 of the EPBC Act to include a project, a development, an undertaking, an activity or series of activities and an alteration of any of those things.",
+      "id": "s18"
+    },
+    {
+      "text": "Under s 67, an action that a person proposes to take is a \"controlled action\" if the taking of the action, without approval under Pt 9, would be prohibited by a provision of Pt 3 of the EPBC Act.",
+      "id": "s19"
+    },
+    {
+      "text": "Section 67A provides:\n \n A person must not take a controlled action unless an approval of the taking of the action by the person is in operation under Part 9 for the purposes of the relevant provision of Part 3.",
+      "id": "s20"
+    },
+    {
+      "text": "5 Under s 68 of the EPBC Act, a person proposing to take an action that the person thinks may be a controlled action must refer the proposal to the Minister for a decision on whether or not the action is a controlled action.",
+      "id": "s21"
+    },
+    {
+      "text": "6 Certain actions, taken without approval by the Minister, are prohibited by Pt 3 of the EPBC Act.",
+      "id": "s22"
+    },
+    {
+      "text": "These include actions which have, will have or are likely to have a significant impact on:\n \n &#8226; the world heritage values of a declared World Heritage property (s 12);\n &#8226; the National Heritage values of a National Heritage place (s 15B);\n &#8226; the ecological character of a declared Ramsar wetland (s 16);\n &#8226; a listed threatened species in certain categories (s 18);\n &#8226; a listed migratory species (s 20);\n &#8226; the environment in a Commonwealth marine area (s 23); or\n &#8226; the environment on Commonwealth land (s 26).",
+      "id": "s23"
+    },
+    {
+      "text": "7 Under s 74A, if the Minister receives a referral in relation to a proposal to take an action by a person and the Minister is satisfied that the action is a component of a larger action the person proposes to take, the Minister may decide not to accept the referral.",
+      "id": "s24"
+    },
+    {
+      "text": "8 Under s 74B, if, within 20 business days after receiving a referral, the Minister, based on information in the referral, considers that it is clear the action would have unacceptable impacts on a matter protected by a provision of Pt 3, the Minister may decide that Div 1A of the EPBC Act applies to the referral.",
+      "id": "s25"
+    },
+    {
+      "text": "If so, under s 74C, a written notice to that effect is to be given by the Minister to the person proposing to take the action.",
+      "id": "s26"
+    },
+    {
+      "text": "The person proposing to take the action then has three choices, which are set out in s 74C(3):\n \n &#8226; withdraw the referral and take no further action in relation to the proposed action; or\n &#8226; withdraw the referral and refer a new proposal to take a modified action to the Minister; or\n &#8226; request the Minister, in writing, to reconsider the referral.",
+      "id": "s27"
+    },
+    {
+      "text": "\"Note 1\" to s 74C, states \"Section 170C sets out the procedure for withdrawing a referral\".",
+      "id": "s28"
+    },
+    {
+      "text": "9 Section 170C is an important provision in this proceeding.",
+      "id": "s29"
+    },
+    {
+      "text": "It is headed \" Withdrawal of referral to take an action \" and provides:\n \n (1) Subject to subsection (2), a person who: \n \n (a) has referred a proposal to take an action to the Minister under section 68; or \n (b) is named as the person proposing to take an action in a proposal that is referred to the Minister under section 69 or 71; \n \n \n may withdraw the referral, by written notice to the Minister.",
+      "id": "s30"
+    },
+    {
+      "text": "(2) The referral cannot be withdrawn after the Minister has decided, under Part 9, whether or not to approve the taking of the action.",
+      "id": "s31"
+    },
+    {
+      "text": "(3) If the Minister receives a notice withdrawing the referral, the Minister must publish notice of the withdrawal of the referral in accordance with the regulations.",
+      "id": "s32"
+    },
+    {
+      "text": "(4) If the referral is withdrawn, the provisions of this Chapter that would, apart from this subsection, have applied to the action cease to apply to the action.",
+      "id": "s33"
+    },
+    {
+      "text": "10 Under s 75(1), the Minister must decide whether an action referred to the Minister is a controlled action and, if so, which provisions (under Pt 3), if any, are the controlling provisions for the action.",
+      "id": "s34"
+    },
+    {
+      "text": "This decision must be made within 20 business days of the Minister receiving the referral (s 75(5)).",
+      "id": "s35"
+    },
+    {
+      "text": "Section 78 sets out the circumstances in which the Minister may revoke a decision made under s 75(1) about an action and substitute a new decision on the basis of:\n \n &#8226; the availability of substantial new information about the impacts that the action has, will have or is likely to have on a matter protected under Pt 3;\n &#8226; a substantial change in circumstances that was not foreseen at the time the Minister made the first decision under s 75(1) and that relates to the impacts that the action has, will have or is likely to have on a matter protected under Pt 3; or\n &#8226; meeting certain other specified requirements.",
+      "id": "s36"
+    },
+    {
+      "text": "Section 78(4) provides:\n \n When the first decision is revoked and a new decision is substituted for it: \n \n \n (a) any provisions of this Chapter that applied in relation to the action because of the first decision cease to apply in relation to the action; and \n (b) any provisions of this Chapter that are relevant because of the new decision apply in relation to the action.",
+      "id": "s37"
+    },
+    {
+      "text": "11 Having determined, under s 75, that an action is a controlled action, the Minister must then decide on an approach for \"assessment of the relevant impacts of...[the] controlled action\".",
+      "id": "s38"
+    },
+    {
+      "text": "The approaches are set out in s 87(1):\n \n \n (1) The Minister must decide which one of the following approaches must be used for assessment of the relevant impacts of an action that the Minister has decided is a controlled action: \n \n \n (a) assessment by an accredited assessment process;\n (aa) assessment on referral information under Division 3A;\n (b) assessment on preliminary documentation under Division 4;\n (c) assessment by public environment report under Division 5;\n (d) assessment by environmental impact statement under Division 6;\n (e) assessment by inquiry under Division 7.",
+      "id": "s39"
+    },
+    {
+      "text": "12 Section 87(3) sets out the matters which the Minister must consider in making a choice under s 87(1).",
+      "id": "s40"
+    },
+    {
+      "text": "Those are:\n \n \n (a) information relating to the action given to the Minister in the referral of the proposal to take the action; and \n (b) any other information available to the Minister about the relevant impacts of the action that the Minister considers relevant (including information in a report on the impacts of actions under a policy, plan or program under which the action is to be taken that was given to the Minister under an agreement under Part 10 (about strategic assessments)); and \n (c) any relevant information received in response to an invitation under subparagraph 74(2)(b)(ii); and \n \n \n (d) the matters (if any) prescribed by the regulations; and \n (e) the guidelines (if any) published under subsection (6).",
+      "id": "s41"
+    },
+    {
+      "text": "13 An accredited assessment process may be chosen only if the Minister is satisfied under s 87(4) that:\n \n \n (a) the process is to be carried out under a law of the Commonwealth, a State or a self-governing Territory; and \n (b) the process and the law meet the standards (if any) prescribed by the regulations; and \n (c) the process will ensure that the relevant impacts of the action are adequately assessed; and \n (d) he or she will receive a report of the outcome of the process that will provide enough information on the relevant impacts of the action to let him or her make an informed decision whether or not to approve under Part 9 (for the purposes of each controlling provision) the taking of the action.",
+      "id": "s42"
+    },
+    {
+      "text": "14 Section 87(5) is headed \" Assessment on preliminary documentation \".",
+      "id": "s43"
+    },
+    {
+      "text": "It provides:\n \n The Minister may decide on an assessment on preliminary documentation under Division 4 only if the Minister is satisfied (after considering the matters in subsection (3)) that that approach will allow the Minister to make an informed decision whether or not to approve under Part 9 (for the purposes of each controlling provision) the taking of the action.",
+      "id": "s44"
+    },
+    {
+      "text": "15 Section 87(6) provides:\n \n The Minister may publish in the Gazette guidelines setting out criteria for deciding which approach must be used for assessing the relevant impacts of an action.",
+      "id": "s45"
+    },
+    {
+      "text": "16 Division 4 of Pt 8 of the EPBC Act is headed \" Assessment on preliminary documentation \".",
+      "id": "s46"
+    },
+    {
+      "text": "Section 94 provides that Div 4 applies in relation to an action if the Minister has decided under s 87 that the impacts of the action must be assessed on preliminary documentation.",
+      "id": "s47"
+    },
+    {
+      "text": "Section 95(1) provides:\n \n This section applies if the Minister was satisfied, at the time of making the decision (the assessment approach decision ) under section 87, that the Minister had enough information in relation to the action to allow the Minister to assess the relevant impacts of the action.",
+      "id": "s48"
+    },
+    {
+      "text": "17 Under s 95(2), as well as giving notice of the assessment approach decision, the Minister must give the designated proponent a written direction to publish within not less than 10 business days the following matters:\n \n \n (a) specified information included in the referral to the Minister of the proposal to take the action; and \n (b) specified information relating to the action that was given to the Minister after the referral but before the Minister made the assessment approach decision; and \n (c) an invitation for anyone to give the designated proponent, within the period specified in the direction, comments in writing relating to the information or the action.",
+      "id": "s49"
+    },
+    {
+      "text": "18 Under s 95A, if the Minister is not satisfied at the time of making a decision about assessment approach that he or she had enough information in relation to the action to assess its relevant impacts, the Minister must, within 10 day business days of giving the proponent notice of the assessment approach decision, request specified information from the proponent.",
+      "id": "s50"
+    },
+    {
+      "text": "19 Under s 95A(3), within 10 business days after receiving the information from the proponent, the Minister must give the proponent a written direction to publish, in not less than 10 business days:\n \n \n (a) specified information included in the referral to the Minister of the proposal to take the action; and \n (b) specified information relating to the action that was given to the Minister after the referral but before the Minister made the assessment approach decision; and \n (c) specified information relating to the action that was received in response to the Minister's request under subsection (2); and \n (d) an invitation for anyone to give the designated proponent, within the period specified in the direction, comments in writing relating to the information or the action.",
+      "id": "s51"
+    },
+    {
+      "text": "20 Section 95B(1) requires the proponent, if it receives comments within the period for comment, to then prepare for the Minister a document which:\n \n \n (i) sets out the information given to the Minister previously in relation to the action, with any changes or additions needed to take account of the comments; and \n (ii) contains a summary of the comments received and how those comments have been addressed.",
+      "id": "s52"
+    },
+    {
+      "text": "The proponent must give the Minister a copy of that document and a copy of the comments received.",
+      "id": "s53"
+    },
+    {
+      "text": "21 In accordance with s 95C, the Secretary of the Minister's department must prepare and give to the Minister a recommendation report relating to the action.",
+      "id": "s54"
+    },
+    {
+      "text": "The report must include recommendations on whether the taking of the action should be approved and, if so, any conditions that should be attached to the approval.",
+      "id": "s55"
+    },
+    {
+      "text": "22 Under s 95C(2), the recommendation report must be given to the Minister after the Minister receives the documents under s 95B(1) and before the expiry of 40 business days from the date of receipt of those documents.",
+      "id": "s56"
+    },
+    {
+      "text": "23 Section 130(1), when read with s 133, obliges the Minister to decide whether or not to approve \"for the purposes of each controlling provision for a controlled action\", the taking of the action.",
+      "id": "s57"
+    },
+    {
+      "text": "The Minister must make the decision on approval within 40 business days beginning on the first business day after the Minister receives the documents under s 95B(1).",
+      "id": "s58"
+    },
+    {
+      "text": "The Minister may specify, in writing, a longer period in which to make the decision.",
+      "id": "s59"
+    },
+    {
+      "text": "Under s 134, conditions may be attached to an approval.",
+      "id": "s60"
+    },
+    {
+      "text": "24 Under s 131AA, before deciding whether or not to approve, for the purposes of a controlling provision, the taking of an action, the Minister must inform the proponent of the decision the Minister proposes to make, including any conditions attached to approval.",
+      "id": "s61"
+    },
+    {
+      "text": "The proponent is to be invited to give the Minister, within 10 business days, comments in writing on the proposed decision and any conditions.",
+      "id": "s62"
+    },
+    {
+      "text": "If the Minister proposes to approve, for the purposes of a controlling provision, the taking of an action, a range of documents referred to in s 131AA(2) must be provided to the proponent.",
+      "id": "s63"
+    },
+    {
+      "text": "Importantly, s 131AA(7) provides:\n \n This section is taken to be an exhaustive statement of the requirements of the natural justice hearing rule in relation to:\n \n \n \n (a) the Minister's decision under section 133 whether or not to approve, for the purposes of a controlling provision, the taking of the action; and\n (b) if the decision is to approve, for the purposes of a controlling provision, the taking of the action, and the Minister decides, under section 134, to attach conditions to the approval --- the Minister's decision under section 134 to attach those conditions to the approval.",
+      "id": "s64"
+    },
+    {
+      "text": "25 In deciding whether or not to approve the taking of an action and what conditions to attach to an approval, the Minister is, under s 136(1), required to consider matters relevant to any matter protected by a controlling provision for the action and, under s 136(1)(b), \"economic and social matters\".",
+      "id": "s65"
+    },
+    {
+      "text": "BACKGROUND FACTS \n \n26 On 22 November 2004, an order titled the State Policies and Projects (Project of State Significance) Order 2004 (S.R.",
+      "id": "s66"
+    },
+    {
+      "text": "2004, No 111) (Order) was made under the State Policies and Projects Act 1993 (Tas) ( State Policies and Projects Act ).",
+      "id": "s67"
+    },
+    {
+      "text": "The Order declared the proposal by Gunns \"for the development and operation of a bleached kraft pulp mill in northern Tasmania\" as \"a project of State significance\".",
+      "id": "s68"
+    },
+    {
+      "text": "Clause 4 of the Order declared the project to include certain ancillary developments.",
+      "id": "s69"
+    },
+    {
+      "text": "That clause was amended by the State Policies and Projects Amendment Act 2005 (Tas).",
+      "id": "s70"
+    },
+    {
+      "text": "27 On 26 November 2004, the Premier of Tasmania, Mr Paul Lennon, acting in his capacity as Minister administering Pt 3 of the State Policies and Projects Act , issued under s 20 of the State Policies and Projects Act , a Ministerial Direction to the Resource Planning and Development Commission to undertake an Integrated Assessment (Direction) of the project identified in the Order.",
+      "id": "s71"
+    },
+    {
+      "text": "The Direction contained requirements with which the Resource Planning and Development Commission (RPDC) had to comply, including the addressing of \"the environmental, social, economic and community issues relevant to the Project\".",
+      "id": "s72"
+    },
+    {
+      "text": "28 On 13 December 2004, the then Commonwealth Minister for the Environment and Heritage, Senator Ian Campbell, received a referral from Gunns under the EPBC Act (first referral).",
+      "id": "s73"
+    },
+    {
+      "text": "The proposal outlined in the first referral was \"to establish a bleached Kraft pulp mill in northern Tasmania\".",
+      "id": "s74"
+    },
+    {
+      "text": "29 On 16 December 2004, the RPDC issued a media statement announcing that it was \"in the process of preparing draft guidelines that Gunns will be required to follow in the preparation of its draft Integrated Impact Statement\".",
+      "id": "s75"
+    },
+    {
+      "text": "The RPDC also said that it would amend the guidelines to \"take into account the Australian Government's involvement in the approval process and then the RPDC will invite public comment, early in the New Year\".",
+      "id": "s76"
+    },
+    {
+      "text": "30 On 24 January 2005, Senator Campbell decided that the proposed action the subject of the first referral was a controlled action and that the controlling provisions were:\n \n &#8226; ss 18 and 18A (Listed threatened species and communities); and\n &#8226; ss 20 and 20A (Listed migratory species); and\n &#8226; ss 23 and 24A (Marine environment).",
+      "id": "s77"
+    },
+    {
+      "text": "31 Senator Campbell provided reasons for the controlled action decision on the action the subject of the first referral on 12 March 2005.",
+      "id": "s78"
+    },
+    {
+      "text": "Among other things, Senator Campbell considered the action to be likely to have a significant impact on the Tasmanian wedge-tailed eagle as a result of the loss of potential breeding and foraging habitat and through the disruption of breeding opportunities, and, for substantially the same reasons, on the swift parrot.",
+      "id": "s79"
+    },
+    {
+      "text": "32 On 23 March 2005, Senator Campbell decided that the assessment approach under s 87 of the EPBC Act for the action the subject of the first referral would be \"an Integrated Impact Assessment\" under the State Policies and Projects Act .",
+      "id": "s80"
+    },
+    {
+      "text": "This meant that the RPDC would provide an assessment on matters relevant to the controlling provisions under the EPBC Act, as well as complying with the requirements set out in the Direction issued under the State Policies and Projects Act .",
+      "id": "s81"
+    },
+    {
+      "text": "33 Until 9 May 2005, the proposed action was contemplated to occur at one of two sites, Long Reach (Bell Bay) or Hampshire.",
+      "id": "s82"
+    },
+    {
+      "text": "On 9 May 2005, Gunns announced the proposal would be confined to the Long Reach (Bell Bay) site.",
+      "id": "s83"
+    },
+    {
+      "text": "Gunns also announced that there was no longer an option for a totally chlorine free pulping process and that a second wood type would be used to supply the pulp mill, with a consequent change to the composition of the pulp mill effluent and its toxicity.",
+      "id": "s84"
+    },
+    {
+      "text": "The RPDC halted its assessment process shortly after Gunns announced these changes.",
+      "id": "s85"
+    },
+    {
+      "text": "34 On about 15 August 2005, a notice appeared on the website of the then Department for the Environment and Heritage.",
+      "id": "s86"
+    },
+    {
+      "text": "That notice stated that the first referral had been withdrawn and \"a new referral made which contains a revised description of the project\".",
+      "id": "s87"
+    },
+    {
+      "text": "The notice also stated \"(t)he project is a nominated controlled action and therefore comment will not be sought on the referral.",
+      "id": "s88"
+    },
+    {
+      "text": "All comments received on the earlier referral will be taken into account\".",
+      "id": "s89"
+    },
+    {
+      "text": "35 This new referral (second referral) was dated 11 August 2005.",
+      "id": "s90"
+    },
+    {
+      "text": "In the second referral, Gunns stated that it thought the proposed action was a controlled action.",
+      "id": "s91"
+    },
+    {
+      "text": "It concluded:\n \n Gunns will undertake mitigation measures to avoid or minimise impacts, due to the scale of the project the possibility of impacts to listed threatened species and Commonwealth marine areas as a result of the project cannot be discounted at this stage.",
+      "id": "s92"
+    },
+    {
+      "text": "36 On 5 October 2005, Senator Campbell decided that the proposed action the subject of the second referral was a controlled action under the EPBC Act with the same controlling provisions as the proposed action the subject of the first referral.",
+      "id": "s93"
+    },
+    {
+      "text": "37 Senator Campbell described the action as one \"to construct and operate a bleached Kraft pulp mill at Bell Bay, in northern Tasmania, and associated infrastructure\".",
+      "id": "s94"
+    },
+    {
+      "text": "Senator Campbell provided reasons for his controlled action decision on the second referral on 14 November 2005.",
+      "id": "s95"
+    },
+    {
+      "text": "They are substantially similar to his reasons for his controlled action decision on the first referral.",
+      "id": "s96"
+    },
+    {
+      "text": "38 The RPDC released revised guidelines for the assessment of the pulp mill project on 24 October 2005.",
+      "id": "s97"
+    },
+    {
+      "text": "On 26 October 2005, Senator Campbell made a decision under s 87 of the EPBC Act that the proposed action the subject of the second referral be assessed by an accredited assessment process, being the process conducted by the RPDC under the State Policies and Projects Act .",
+      "id": "s98"
+    },
+    {
+      "text": "Senator Campbell provided reasons for that decision on the same day.",
+      "id": "s99"
+    },
+    {
+      "text": "39 In December 2005, the RPDC released its final scope guidelines and accompanying report for public comment.",
+      "id": "s100"
+    },
+    {
+      "text": "40 On 14 July 2006, Gunns submitted its draft Integrated Impact Statement (IIS) to the RPDC.",
+      "id": "s101"
+    },
+    {
+      "text": "It comprised some 7500 pages, reflecting, according to Gunns, in excess of 350 000 hours of research, study, modelling and reporting.",
+      "id": "s102"
+    },
+    {
+      "text": "Essentially, it was Gunns' case for approval of the pulp mill.",
+      "id": "s103"
+    },
+    {
+      "text": "The IIS was placed on public exhibition from 14 July 2006 until 25 September 2006.",
+      "id": "s104"
+    },
+    {
+      "text": "41 Also on 14 July 2006, the Commonwealth Minister for Fisheries, Forestry and Conservation, Senator Eric Abetz, issued a media release in which he challenged opponents of the pulp mill to \"abandon their anti-pulp mill position and support the development of an environmental best-practice mill in Tasmania\".",
+      "id": "s105"
+    },
+    {
+      "text": "42 On 25 October 2006, the RPDC held a directions hearing and directed Gunns to provide, on or before 15 December 2006, additional information concerning the proposed action, which the RPDC referred to as \"supplementary information\".",
+      "id": "s106"
+    },
+    {
+      "text": "Earlier in October 2006, the RPDC had released five reports from consultants it had retained and who had examined aspects of the draft IIS.",
+      "id": "s107"
+    },
+    {
+      "text": "The RPDC received 780 public submissions concerning the draft IIS.",
+      "id": "s108"
+    },
+    {
+      "text": "43 In a media release published on 4 December 2006, Senator Abetz announced the payment to Gunns of the remaining funding (of a total of $5 million) \"to assist in the development of an environmental best-practice pulp mill in Tasmania\".",
+      "id": "s109"
+    },
+    {
+      "text": "The media release went on to express support for the pulp mill.",
+      "id": "s110"
+    },
+    {
+      "text": "44 On 22 December 2006, the RPDC extended the time for Gunns to provide the supplementary information to 31 January 2007.",
+      "id": "s111"
+    },
+    {
+      "text": "Gunns lodged the supplementary information, which was about 2500 pages, on 16 February 2007.",
+      "id": "s112"
+    },
+    {
+      "text": "45 The RPDC held another directions hearing on 22 February 2007.",
+      "id": "s113"
+    },
+    {
+      "text": "The Chairman of the RPDC, the Hon.",
+      "id": "s114"
+    },
+    {
+      "text": "Christopher Wright QC, noted that the assessment process had been delayed largely due to \"...Gunns failure or inability to comply with [its] own prognostications or the panel's requirements...\".",
+      "id": "s115"
+    },
+    {
+      "text": "At the directions hearing, Gunns voiced no concern about the time the RPDC process was taking.",
+      "id": "s116"
+    },
+    {
+      "text": "46 On 14 March 2007, Gunns advised the Australian Stock Exchange that it had, on that day, \"notified [the RPDC] of its decision to withdraw the Bell Bay Pulp Mill project from the RPDC process\".",
+      "id": "s117"
+    },
+    {
+      "text": "In a media release also dated 14 March 2007, Gunns said, \"a lack of certainty over an end date for the pulp mill approval process has necessitated this action\".",
+      "id": "s118"
+    },
+    {
+      "text": "47 On 15 March 2007, Premier Lennon announced \"special legislation for a separate approvals process from the RPDC\" was being prepared and that the approvals process would have \"a definite timeline\".",
+      "id": "s119"
+    },
+    {
+      "text": "On 30 April 2007, the Pulp Mill Assessment Act 2007 (Tas) was enacted.",
+      "id": "s120"
+    },
+    {
+      "text": "Effectively, the legislation provided for the pulp mill to be approved if a consultant appointed by the relevant Minister reports that the project should proceed and each House of the Tasmanian Parliament passes a resolution accepting the \"Pulp Mill Permit\" prepared by the relevant Minister.",
+      "id": "s121"
+    },
+    {
+      "text": "48 Also on 15 March 2007, Mr John Gay, the Executive Chairman of Gunns, wrote to Mr Gerard Early, the then First Assistant Secretary of the Approvals and Wildlife Division of the Department of Environment and Water Resources (Department).",
+      "id": "s122"
+    },
+    {
+      "text": "Mr Gay said:\n \n ...the RPDC assessment process could not deliver an approval for the project in a commercial timeframe and gave us no alternative but to withdraw.",
+      "id": "s123"
+    },
+    {
+      "text": "Mr Early received the letter on 20 March 2007.",
+      "id": "s124"
+    },
+    {
+      "text": "49 On 16 March 2007, Mr Early received a telephone call from a Gunns executive, Mr Calton Frame, seeking a meeting \"to discuss the process for assessment of the proposed pulp mill under the EPBC Act\".",
+      "id": "s125"
+    },
+    {
+      "text": "Mr Early advised Mr Frame that because of the withdrawal of Gunns from the RPDC process and the likely termination of that process by proposed Tasmanian legislation, Gunns \"would need to withdraw the existing referral and submit a new referral for consideration\".",
+      "id": "s126"
+    },
+    {
+      "text": "50 Mr Early gave evidence that:\n \n This was based on my understanding that if the RPDC process, which had been accredited and adopted under the second referral, was terminated, there was no basis on which the Department could complete the assessment and approval process under the EPBC Act and, therefore, a new referral was necessary.",
+      "id": "s127"
+    },
+    {
+      "text": "51 On 19 March 2007, the Minister wrote to Gunns and stated the Australian Government's support for the pulp mill, provided it met appropriate environmental assessment requirements.",
+      "id": "s128"
+    },
+    {
+      "text": "The Minister stated, \"I am interested in progressing an Australian Government assessment process as soon as possible to ensure that a decision can be made in a reasonable timeframe\".",
+      "id": "s129"
+    },
+    {
+      "text": "The letter concluded:\n \n Given the existing RPDC process is no longer in place, Gunns will need to formally withdraw the current proposal (EPBC 2005/2262) and submit a new referral.",
+      "id": "s130"
+    },
+    {
+      "text": "In order to meet your mid year goal a new schedule which is both timely and ensures a robust, transparent decision will need to be agreed as soon as possible.",
+      "id": "s131"
+    },
+    {
+      "text": "I encourage early contact with officers in my department as soon as practicable to discuss the process.",
+      "id": "s132"
+    },
+    {
+      "text": "52 Drafting of the 19 March 2007 letter from the Minister to Gunns commenced in the Minister's office and the Department on 16 March 2007.",
+      "id": "s133"
+    },
+    {
+      "text": "The fifth paragraph of the earliest draft tendered in evidence commences with the sentence:\n \n I note Premier Lennon's statement to Parliament today that he intends to initiate a new assessment process for the pulp mill.",
+      "id": "s134"
+    },
+    {
+      "text": "(Emphasis added.",
+      "id": "s135"
+    },
+    {
+      "text": ") \n\n 53 On 20 March 2007, Mr Early received the letter dated 15 March 2007 referred to at [48] from Gunns' Chairman, Mr Gay.",
+      "id": "s136"
+    },
+    {
+      "text": "The letter referred to \"Gunns decision to withdraw from the RPDC process and refer the project to the Government\".",
+      "id": "s137"
+    },
+    {
+      "text": "54 Mr Early gave evidence that he and other officers from the Department met with Gunns representatives on 22 March 2007 \"to discuss how a new referral from Gunns Limited would work, should Gunns Limited formally withdraw from the existing referral process and make a new referral\".",
+      "id": "s138"
+    },
+    {
+      "text": "55 The notes of that meeting, which were settled by Mr Early, record that Gunns \"had commenced drafting a new referral for submission to the Department as soon as possible\".",
+      "id": "s139"
+    },
+    {
+      "text": "The notes also record that representatives of the Department noted:\n \n ...they could not pre-empt the Minister's decision on the level of assessment but that, if he decided on assessment on preliminary documentation and set the period for public comment at 20 business days, a decision on whether or not to approve the project should be possible by the end of August provided Gunns provided high quality information and were able to respond quickly (ie within two weeks) and adequately to any public comment.",
+      "id": "s140"
+    },
+    {
+      "text": "The notes of the 22 March 2007 meeting also record that Gunns said it would reply to the Minister's letter (meaning the letter of 19 March 2007) and that its preference \"is to commence construction of the project in September 2007\".",
+      "id": "s141"
+    },
+    {
+      "text": "56 On 28 March 2007, by letter dated that day and sent electronically, Mr Gay responded to the Minister's letter of 19 March 2007.",
+      "id": "s142"
+    },
+    {
+      "text": "The third paragraph of the letter said:\n \n In relation to our current proposal (EPBC 2005/2262), please be advised that we will formally withdraw that referral and submit a new referral shortly for your consideration.",
+      "id": "s143"
+    },
+    {
+      "text": "We appreciate your willingness to assist with progressing our EPBC Act referral in a timely manner to meet our commercial imperatives.",
+      "id": "s144"
+    },
+    {
+      "text": "57 At 10.34am on 30 March 2007, an email was sent from Ms Vicki Dickman from the Department to Mr Early, among others, stating \"Gunns proposal (2005/2262) is now on the Departmen'ts (sic) website as withdrawn\".",
+      "id": "s145"
+    },
+    {
+      "text": "That email from Ms Dickman forwarded another email from a Mr Joe Biggs, on which Ms Dickman was courtesy copied, which stated \"(t)he withdrawn action for the Gunns pulp mill 2005/2262...is on the public website [website address]\".",
+      "id": "s146"
+    },
+    {
+      "text": "58 At 7.43 pm on the evening of Friday, 30 March 2007, Gunns lodged electronically a third referral of the pulp mill project with the Department.",
+      "id": "s147"
+    },
+    {
+      "text": "Under heading 3.5, \"Environmental impact assessments under Commonwealth state or territory legislation\", on p 11, the following was said: \n \n The project has been the subject of two previous referrals under the EPBC Act:\n \n \n \n &#8226; 2005/2262 (which is replaced by this referral), and\n &#8226; 2004/1914 (which was withdrawn when referral 2005/2262 was lodged).",
+      "id": "s148"
+    },
+    {
+      "text": "In light of the proposed new state environmental impact assessment process, the project requires new consideration under the EPBC Act.",
+      "id": "s149"
+    },
+    {
+      "text": "The Department received a hard copy of the third referral on 2 April 2007.",
+      "id": "s150"
+    },
+    {
+      "text": "59 On 2 April 2007, the Minister telephoned Mr Early and told him that he knew Gunns wanted a decision on approval for the pulp mill project by August 2007.",
+      "id": "s151"
+    },
+    {
+      "text": "The Minister asked Mr Early if a decision by August 2007 would be possible.",
+      "id": "s152"
+    },
+    {
+      "text": "Mr Early said, \"yes, but that would depend upon [the Minister's] statutory decision on the assessment process to be adopted\".",
+      "id": "s153"
+    },
+    {
+      "text": "The Minister told Mr Early that if a decision by August 2007 was not possible he \"would want to know\".",
+      "id": "s154"
+    },
+    {
+      "text": "Mr Early gave evidence that the Minister would want to know if August 2007 was not possible because the Minister knew that the Tasmanian Government and Gunns wanted a decision by the end of August 2007.",
+      "id": "s155"
+    },
+    {
+      "text": "Mr Early gave evidence that the Minister had explained that he did not want to \"be accused later on of misleading people about what was possible or not\" regarding the timeline.",
+      "id": "s156"
+    },
+    {
+      "text": "60 By an email dated 2 April 2007, Mr Early sent the Minister a \"gantt chart\" headed \"EPBC Timeline --- Gunns Pulpmill\".",
+      "id": "s157"
+    },
+    {
+      "text": "That gantt chart listed nine \"Task Name[s]\".",
+      "id": "s158"
+    },
+    {
+      "text": "The final task name is \"Minister's decision\" and the date in the column headed \"Finish\" next to that task is \"Mon 6/08/0[7]\".",
+      "id": "s159"
+    },
+    {
+      "text": "Mr Early said that the gantt chart was \"based on an assumption that the level of assessment would be by preliminary documentation\".",
+      "id": "s160"
+    },
+    {
+      "text": "61 Mr Early gave evidence of the use of gantt charts in planning for assessments under the EPBC Act.",
+      "id": "s161"
+    },
+    {
+      "text": "He referred to a gantt chart as \"a process chart outlining the steps in the process and the timeframes so that you can then work out where the whole process finishes\".",
+      "id": "s162"
+    },
+    {
+      "text": "Mr Early said that the only purpose of the gantt chart referred to at [60] was to see whether or not it was possible to achieve the timeline Gunns wanted and that he concluded it was possible.",
+      "id": "s163"
+    },
+    {
+      "text": "Mr Early also gave evidence that \"preliminary documentation\" is the most common form of assessment under the EPBC Act.",
+      "id": "s164"
+    },
+    {
+      "text": "Mr Early said that, based on his experience and judgment, he favoured this form of assessment for the proposed action.",
+      "id": "s165"
+    },
+    {
+      "text": "Mr Early said that, \"my judgment was that there wouldn't be anybody out there who couldn't make comment within 20 business days\".",
+      "id": "s166"
+    },
+    {
+      "text": "That evidence was given in the context of a 20 business day period for public comment on material provided by the proponent relevant to the controlling provisions under the EPBC Act.",
+      "id": "s167"
+    },
+    {
+      "text": "Mr Early said that it was the job of the Department, and not of the public, to perform the assessment.",
+      "id": "s168"
+    },
+    {
+      "text": "62 Mr Early said that the Department had not planned for any assessment approach, other than assessment on preliminary documentation.",
+      "id": "s169"
+    },
+    {
+      "text": "This was because, based on his judgment, Mr Early considered preliminary documentation to be the correct assessment approach.",
+      "id": "s170"
+    },
+    {
+      "text": "He said that there was no guarantee that that approach would be concluded by any particular time because the Minister might \"stop the clock\" for some reason.",
+      "id": "s171"
+    },
+    {
+      "text": "Mr Early said that if the process concluded within a timeframe that coincided with what Gunns wanted, that was \"fine\".",
+      "id": "s172"
+    },
+    {
+      "text": "He said that officers of the Department assisted Gunns, from mid-March 2007, with preparing the third referral, but said that such conduct was not unusual and that similar assistance is given to other proponents.",
+      "id": "s173"
+    },
+    {
+      "text": "63 On 11 April 2007, the Minister said in a press release:\n \n A new referral was received and registered on the Department of the Environment and Water Resources website on 2 April 2007.",
+      "id": "s174"
+    },
+    {
+      "text": "The new referral will remain open for public comment, for 10 business days, until 18 April 2007.",
+      "id": "s175"
+    },
+    {
+      "text": "A decision will then be made on whether further assessment of the pulp mill is required.",
+      "id": "s176"
+    },
+    {
+      "text": "If further assessment of the pulp mill is required, the Australian Government would be aiming to conclude it before the end of August 2007 and the assessment would include an additional opportunity for public comment.",
+      "id": "s177"
+    },
+    {
+      "text": "64 On 24 April 2007, Gunns sent Mr Early a letter and \"a draft assessment document\" designed \"to assist the Minister in making the necessary decisions under the EPBC Act...\".",
+      "id": "s178"
+    },
+    {
+      "text": "65 On 24 April 2007, Mr Early signed a briefing note to the Minister and recommended that he decide the proposal is a controlled action \"for listed threatened and migratory species and Commonwealth marine\", that Gunns is the proponent and that \"the proposal will be assessed on preliminary documentation\".",
+      "id": "s179"
+    },
+    {
+      "text": "The recommendation for assessment on preliminary documentation was generally based on these matters:\n \n &#8226; adequate information was available to the Minister about whether to approve the taking of the proposed action, being material prepared by Gunns, advice from the Department, \"appropriate investigations\" and public comments submitted on the referral;\n &#8226; the relevant issues under the EPBC Act were relatively well-understood; and\n &#8226; in light of the Pulp Mill Assessment Act 2007 (Tas) the proposed action will not be assessed under the RPDC process.",
+      "id": "s180"
+    },
+    {
+      "text": "66 On 2 May 2007, the Minister decided under ss 75 and 87 of the EPBC Act that the proposed action the subject of the third referral is a controlled action and that the assessment approach is by preliminary documentation.",
+      "id": "s181"
+    },
+    {
+      "text": "Mr Early said that he had discussions with the Minister before and during the making of the 2007 assessment approach decision.",
+      "id": "s182"
+    },
+    {
+      "text": "Mr Early said that the Minister wanted to know why the Department was not recommending assessment by environmental impact statement (EIS).",
+      "id": "s183"
+    },
+    {
+      "text": "Mr Early went through the briefing to the Minister dated 24 April 2007 and told the Minister that an EIS was not recommended because, according to Mr Early's evidence:\n \n ...we didn't believe that Gunns needed to do any more actual work in order to have proper assessment documentation which would enable [the Minister] to make...an informed decision.",
+      "id": "s184"
+    },
+    {
+      "text": "Mr Early also said that he told the Minister that the Department thought Gunns \"had identified the issues sufficiently, but the public could make sensible comment, and in that case it was really not necessary to have the EIS or the PER process\".",
+      "id": "s185"
+    },
+    {
+      "text": "PER is a reference to \"public environment report\" which is another assessment approach under the EPBC Act.",
+      "id": "s186"
+    },
+    {
+      "text": "67 Mr Early gave evidence that:\n \n The Minister then asked me, why 20 days,...I said, \"Well look, this has been in the public arena for two years.",
+      "id": "s187"
+    },
+    {
+      "text": "It's been highly controversial.",
+      "id": "s188"
+    },
+    {
+      "text": "Everybody who's got a view on it has got a view already\".",
+      "id": "s189"
+    },
+    {
+      "text": "Mr Early said he considered that there would not be anyone \"who wouldn't be able to articulate comment on the proposal\" within 20 days.",
+      "id": "s190"
+    },
+    {
+      "text": "ISSUES ARISING UNDER S 170C \n \n68 Counsel for TWS submit that the 2007 controlled action decision and the 2007 assessment approach decision are invalid because Gunns did not withdraw the second referral in accordance with s 170C of the EPBC Act.",
+      "id": "s191"
+    },
+    {
+      "text": "They also contend that the EPBC Act does not permit the referral of a proposal to take an action where a referral of the same proposed action has been withdrawn.",
+      "id": "s192"
+    },
+    {
+      "text": "Was there a valid withdrawal of the second referral?",
+      "id": "s193"
+    },
+    {
+      "text": "69 Section 170C(1) permits a person who has referred a proposal to take an action to the Minister under s 68 to withdraw a referral \"by written notice to the Minister.",
+      "id": "s194"
+    },
+    {
+      "text": "\" Section 170C(3) provides:\n \n If the Minister receives a notice withdrawing the referral, the Minister must publish notice of the withdrawal of the referral in accordance with the regulations.",
+      "id": "s195"
+    },
+    {
+      "text": "70 Part 6B of the Environment Protection and Biodiversity Conservation Regulations 2000 (Cth) (EPBC Regulations) is headed \" Withdrawal of referrals \".",
+      "id": "s196"
+    },
+    {
+      "text": "Regulation 6B.01 is headed \" Publication of a notice withdrawing a referral \".",
+      "id": "s197"
+    },
+    {
+      "text": "It provides:\n \n \n (1) For subsection 170C(3) of the Act, the notice must be published at an appropriate location on the internet.",
+      "id": "s198"
+    },
+    {
+      "text": "(2) The notice must contain the following: \n \n \n (a) the identification number for the action, allocated by the Department;\n (b) the name of the person originally proposing to take the action;\n (c) a brief description or descriptive title for the action;\n (d) the location of the action;\n (e) notice that the referral of the action has been withdrawn;\n (f) the date on which the referral of the action was withdrawn.",
+      "id": "s199"
+    },
+    {
+      "text": "71 The only separate written notice in evidence of the withdrawal of the second referral is the notice which the Department published on its website.",
+      "id": "s200"
+    },
+    {
+      "text": "The date of publication of the notice is unclear, it appears from the emails referred to at [57] that it was posted by 10.30am on 30 March 2007, but nothing turns on this.",
+      "id": "s201"
+    },
+    {
+      "text": "That notice contained: \n \n &#8226; the identification number for the action --- 2005/2262;\n &#8226; the name of the person originally proposing to take the action --- Gunns;\n &#8226; the descriptive title for the action --- Gunns Bleached Kraft Pulp Mill;\n &#8226; the location of the action --- Longreach (near Bell Bay);\n &#8226; notice that the referral of the action (that is, proposal) was withdrawn; and\n &#8226; the date on which the referral of the action was withdrawn --- 28 March 2007.",
+      "id": "s202"
+    },
+    {
+      "text": "72 In support of the submission that there must be a separate notice withdrawing the referral, counsel for TWS contend that what reg 6B.01 requires to be published is the actual notice which withdraws the referral.",
+      "id": "s203"
+    },
+    {
+      "text": "They point to the reference in s 170C(3) to \"a notice withdrawing the referral\" and the Minister's obligation to publish \"notice of the withdrawal\".",
+      "id": "s204"
+    },
+    {
+      "text": "73 I reject that submission.",
+      "id": "s205"
+    },
+    {
+      "text": "Section 170C does not require any particular form of written notice by a person who has referred a proposal to take an action that it is withdrawing a referral.",
+      "id": "s206"
+    },
+    {
+      "text": "All that is required is written notice to the Minister of withdrawal of the referral.",
+      "id": "s207"
+    },
+    {
+      "text": "There is no provision for a separate document of withdrawal, such as a notice of withdrawal of appearance under O 22 of the Federal Court Rules 1979 (Cth), which permits a party who has entered an appearance to \"withdraw the appearance, by notice in accordance with Form 28, at any time with the leave of the Court\".",
+      "id": "s208"
+    },
+    {
+      "text": "74 Once the Minister receives a written notice withdrawing the referral, the Minister \"must publish notice of the withdrawal of the referral in accordance with the regulations\".",
+      "id": "s209"
+    },
+    {
+      "text": "The Minister is not required to publish the notice of withdrawal, but notice of the withdrawal.",
+      "id": "s210"
+    },
+    {
+      "text": "It is what the Minister publishes which must be \"in accordance with the regulations\" and not the notice provided by the person who has referred a proposal to take an action.",
+      "id": "s211"
+    },
+    {
+      "text": "Support for this construction is found in regs 6B.01(2)(e) and (f) which refer to the referral being withdrawn before the reg 6B notice is published.",
+      "id": "s212"
+    },
+    {
+      "text": "75 In the third referral, Gunns mentioned the second referral (2005/2262) as being \"replaced by this referral\".",
+      "id": "s213"
+    },
+    {
+      "text": "I consider that is Gunns giving written notice of withdrawal of the second referral in the context of explaining the need for a third referral, by saying almost immediately thereafter:\n \n In light of the proposed new state environmental impact assessment process, the project requires new consideration under the EPBC Act.",
+      "id": "s214"
+    },
+    {
+      "text": "76 There was a valid withdrawal of the second referral.",
+      "id": "s215"
+    },
+    {
+      "text": "It was effected by written notice given in the making of the third referral.",
+      "id": "s216"
+    },
+    {
+      "text": "77 The Minister considered that the second referral had been withdrawn on 28 March 2007, presumably as a consequence of Mr Gay's letter of that date referred to at [56].",
+      "id": "s217"
+    },
+    {
+      "text": "On my analysis, the withdrawal occurred late on 30 March 2007 in the making of the third referral.",
+      "id": "s218"
+    },
+    {
+      "text": "This means that the notice under reg 6B.01 was premature and referred to an incorrect date of withdrawal.",
+      "id": "s219"
+    },
+    {
+      "text": "However, this does not affect the validity of the withdrawal, it means that the obligation to publish notice of the withdrawal in accordance with s 170C(3) and the EPBC Regulations remains unfulfilled.",
+      "id": "s220"
+    },
+    {
+      "text": "The notice itself has been given and the failure to publish that notice is not intended to affect the validity of the withdrawal of the second referral (see Project Blue Sky Inc v Australian Broadcasting Authority [1998] HCA 28 ; (1998) 194 CLR 355 at [91] --- [97] (especially at [92]) per McHugh, Gummow, Kirby and Hayne JJ).",
+      "id": "s221"
+    },
+    {
+      "text": "There is no indication in s 170C that failure to publish notice of the withdrawal in strict compliance with the EPBC Regulations results in the invalidity of the withdrawal.",
+      "id": "s222"
+    },
+    {
+      "text": "On withdrawal of the second referral was Gunns able to make a valid third referral?",
+      "id": "s223"
+    },
+    {
+      "text": "78 Counsel for TWS contend that on withdrawal of the second referral, the provisions of Ch 4 of the EPBC Act, including ss 68, 75 and 87 ceased to apply to the action.",
+      "id": "s224"
+    },
+    {
+      "text": "Counsel submit that, as a consequence, the third referral was invalid and not capable of supporting the impugned decisions.",
+      "id": "s225"
+    },
+    {
+      "text": "79 Reliance is placed on s 170C(4) which provides :\n \n If the referral is withdrawn, the provisions of this Chapter [ss 66 to 170C] that would, apart from this subsection, have applied to the action cease to apply to the action.",
+      "id": "s226"
+    },
+    {
+      "text": "80 Counsel for TWS contend that the effect of s 170C(4) is that once a referral is withdrawn, Ch 4 no longer applies to the action, such that no steps can be taken under Ch 4 in relation to the action.",
+      "id": "s227"
+    },
+    {
+      "text": "Counsel point to s 170C(4) and Ch 4 generally drawing a distinction between a referral and the action that is referred.",
+      "id": "s228"
+    },
+    {
+      "text": "81 In written submissions filed in advance of the hearing, and relied on during the hearing, counsel for TWS submit:\n \n The purpose of s 170C(4) is to relieve the Minister and other parties from the statutory obligations that arise in Chapter 4 after a referral is made, in circumstances where the proponent does not intend to take the action.",
+      "id": "s229"
+    },
+    {
+      "text": "It is not designed to allow the proponent to start again with a fresh referral in respect of the same action in order to avoid some unpalatable decision that has been made under Chapter 4.",
+      "id": "s230"
+    },
+    {
+      "text": "It is not intended to assist proponents who want to proceed with an action but who wish to change the assessment process that has been chosen.",
+      "id": "s231"
+    },
+    {
+      "text": "It is not intended to permit forum shopping through a change of Minister, or indeed (not relevant in the present case) a change of government.",
+      "id": "s232"
+    },
+    {
+      "text": "82 They contend further:\n \n Withdrawing a referral in order to submit a new referral for the same action and replacing an assessment process with a new one in relation to the same action is inconsistent with the orderly and sequential decision making regime found in Ch 4.",
+      "id": "s233"
+    },
+    {
+      "text": "It fractures the continuity of the decision making.",
+      "id": "s234"
+    },
+    {
+      "text": "Having made decisions under s 75 or 87, there are express but limited powers for the Minister to change his decision....To construe s 170C as enabling a proponent to clean the slate and start again in respect of the same action would be inconsistent with the express limitations imposed on how even the Minister can change his own decision.",
+      "id": "s235"
+    },
+    {
+      "text": "83 Counsel for TWS refer to various provisions inserted into the EPBC Act at the same time as s 170C by the Environment and Heritage Legislation Amendment Act (No 1) 2006 (Cth).",
+      "id": "s236"
+    },
+    {
+      "text": "It is submitted that the language in those provisions was \"carefully chosen\" and that certain provisions apply specifically and variously to a \"proposal\", a \"person\", an \"action\" or a/the \"referral\" and are \"very deliberate legislative choices\".",
+      "id": "s237"
+    },
+    {
+      "text": "84 Counsel refer to s 74B which deals with actions which the Minister considers it is clear would have unacceptable impacts on a matter protected by a provision of Pt 3 of the EPBC Act.",
+      "id": "s238"
+    },
+    {
+      "text": "Section 74B(2) states:\n \n If this Division applies to a referral, any other provisions of this Chapter that would, apart from this subsection, have applied to the referral cease to apply to the referral.",
+      "id": "s239"
+    },
+    {
+      "text": "85 Counsel also refer to s 74C which deals with the giving of written notice to a person proposing to take an action, that the Minister considers the action would have unacceptable impacts.",
+      "id": "s240"
+    },
+    {
+      "text": "Section 74C(3) refers to the options open to a person proposing to take the action:\n \n \n (a) withdraw the referral and take no further action in relation to the proposed action; or\n (b) withdraw the referral and refer a new proposal to take a modified action to the Minister in accordance with Division 1; or\n (c) request the Minister, in writing, to reconsider the referral.",
+      "id": "s241"
+    },
+    {
+      "text": "86 Additionally, counsel for TWS refer to s 78 of the EPBC Act which enables the Minister to vary or revoke a decision made under s 75 in certain circumstances.",
+      "id": "s242"
+    },
+    {
+      "text": "Section 78(4)(a) provides in part:\n \n When the first decision is revoked and a new decision is substituted for it: \n \n \n \n (a) any provisions of this Chapter that applied in relation to the action...cease to apply in relation to the action; \n \n \n \n ... \n\n87 It was pointed out that s 78(4)(a) uses the same language as s 170C(4) and refers to an action.",
+      "id": "s243"
+    },
+    {
+      "text": "88 Counsel also refer to s 156A which is headed \" Request to vary proposal to take an action \".",
+      "id": "s244"
+    },
+    {
+      "text": "Under s 156A(1), if a proposal by a person to take an action has been referred to the Minister and the person wishes to change the proposal, the person may request the Minister to accept a variation of the original proposal.",
+      "id": "s245"
+    },
+    {
+      "text": "Section 156A(4) provides:\n \n If a request is made under subsection (1), any provisions of this Chapter that would, apart from this subsection, have applied in relation to the original proposal cease to apply to that proposal.",
+      "id": "s246"
+    },
+    {
+      "text": "Similar provision is made in s 156D(2) concerning the non-acceptance of a varied proposal to take an action.",
+      "id": "s247"
+    },
+    {
+      "text": "89 However, s 156A(2)(e) guides the proper construction of s 170C.",
+      "id": "s248"
+    },
+    {
+      "text": "It states that s 156A(1) does not apply if: \n \n ...the referral of the original proposal has been withdrawn under s 170C.",
+      "id": "s249"
+    },
+    {
+      "text": "90 The reference to the withdrawal of the original proposal in s 156A(2)(e) suggests that when s 170C(4) mentions the withdrawal of a referral, it is dealing with the withdrawal by a proponent of a proposal to take an action which is the subject of a referral.",
+      "id": "s250"
+    },
+    {
+      "text": "The referral being a mechanism by which the action is drawn by a proponent to the attention of the Minister.",
+      "id": "s251"
+    },
+    {
+      "text": "Consequently, when s 170C(4) refers to provisions of Ch 4 of the EPBC Act ceasing to apply to the action, they cease to apply to the action which is the subject of the referral rather than to the action itself.",
+      "id": "s252"
+    },
+    {
+      "text": "So it cannot be said that the same action could never again be the subject of a referral.",
+      "id": "s253"
+    },
+    {
+      "text": "91 While the provisions of ss 74B, 74C, 78, 156A and 156D variously focus on a/the referral, a proposed action, an action and a proposal, each word or phrase must be considered in the context of the particular provision in which it is found.",
+      "id": "s254"
+    },
+    {
+      "text": "Section 170C, in terms, enables a proponent of a proposed action to withdraw a referral given to the Minister in respect of that action.",
+      "id": "s255"
+    },
+    {
+      "text": "The purpose of s 170C(4) is to absolve the Minister from any decision-making process he or she is to undertake in respect of the action as a consequence of the referral.",
+      "id": "s256"
+    },
+    {
+      "text": "Once the referral is withdrawn, no further obligations arise with respect to the action the subject of the referral.",
+      "id": "s257"
+    },
+    {
+      "text": "The section does not say that no further referral may be made concerning the same action.",
+      "id": "s258"
+    },
+    {
+      "text": "I would expect such a drastic consequence to be stated very clearly, but it is not.",
+      "id": "s259"
+    },
+    {
+      "text": "92 The scope of s 170C cannot be read down or limited by reference to the facts of this case.",
+      "id": "s260"
+    },
+    {
+      "text": "In any event, it should not be assumed that Gunns was seeking to \"avoid some unpalatable decision\" made under Ch 4 or that it wanted to change the assessment process.",
+      "id": "s261"
+    },
+    {
+      "text": "The assessment process was about to be changed by the Tasmanian Parliament when Gunns withdrew the second referral.",
+      "id": "s262"
+    },
+    {
+      "text": "It is not a question of forum shopping, but a question of withdrawing a referral subject to a redundant accredited assessment process and re-submitting it by way of a new referral to enable the proposed action to be the subject of an effective assessment process under the EPBC Act, in so far as matters of national environmental significance were concerned.",
+      "id": "s263"
+    },
+    {
+      "text": "93 Further support for this view is contained in the explanatory memorandum accompanying the Bill inserting s 170C (Environment and Heritage Legislation Amendment Bill (No 1) 2006) (Bill).",
+      "id": "s264"
+    },
+    {
+      "text": "The explanatory memorandum described the proposed s 170C as intending to:\n \n ...allow proponents to withdraw referrals at any stage in the referrals, assessments and approvals process (prior to an approval decision) if they do not want to proceed with the assessment .",
+      "id": "s265"
+    },
+    {
+      "text": "(Emphasis added.",
+      "id": "s266"
+    },
+    {
+      "text": ")\n \n\nThe explanatory memorandum does not say that the purpose of the provision is to allow withdrawal of a referral if the proponent does not want to proceed with the action, though there will be cases where the proponent does not want to proceed with assessment or with the action.",
+      "id": "s267"
+    },
+    {
+      "text": "94 As counsel for the Minister contend in their written submissions:\n \n There may be any number of reasons why a person would seek to withdraw a referral and then seek at a later stage to have the same or similar action approved under the EPBC Act --- such as temporary difficulties raising money.",
+      "id": "s268"
+    },
+    {
+      "text": "95 Further, counsel for the Minister correctly state in their written submissions:\n \n The EPBC Act does not contain any mechanism for dealing with the situation where an accredited assessment process collapses, other than by allowing the proponent to withdraw the referral under s 170C.",
+      "id": "s269"
+    },
+    {
+      "text": "...",
+      "id": "s270"
+    },
+    {
+      "text": "The Minister did not have power under the EPBC Act to vary or revoke his earlier assessment approach decision.",
+      "id": "s271"
+    },
+    {
+      "text": "... \n\n96 The EPBC Act does not prohibit Gunns, by its withdrawal of the second referral under s 170C, from making another referral of the action the subject of the second referral and having the provisions of Pt 3 apply to it.",
+      "id": "s272"
+    },
+    {
+      "text": "THE S 75(2B) POINT --- A RELEVANT CONSIDERATION?",
+      "id": "s273"
+    },
+    {
+      "text": "97 Counsel for TWS submit that, when making the 2007 controlled action decision, the Minister failed to take into account a relevant consideration by not considering the adverse impacts of forestry operations undertaken to source wood for the pulp mill.",
+      "id": "s274"
+    },
+    {
+      "text": "The Minister stated in his reasons for making the 2007 controlled action decision that \"...as required by subsection 75(2B) of the EPBC Act, I did not consider any adverse impacts of forestry operations before 2017 for the supply of wood chips to the proposed mill\".",
+      "id": "s275"
+    },
+    {
+      "text": "98 Section 75(2B) provides:\n \n Without otherwise limiting any adverse impacts that the Minister must consider under paragraph (2)(a), the Minister must not consider any adverse impacts of: \n \n \n (a) any RFA forestry operation to which, under Division 4 of Part 4, Part 3 does not apply; or\n (b) any forestry operations in an RFA region that may, under Division 4 of Part 4, be undertaken without approval under Part 9.",
+      "id": "s276"
+    },
+    {
+      "text": "99 Counsel for TWS submit that s 75(2B) only applies where the action being assessed is a forestry operation.",
+      "id": "s277"
+    },
+    {
+      "text": "The difficulty with that submission is that under s 38 of the EPBC Act, approval is not ordinarily required for RFA forestry operations.",
+      "id": "s278"
+    },
+    {
+      "text": "Section 38(1) provides:\n \n Part 3 does not apply to an RFA forestry operation that is undertaken in accordance with an RFA.",
+      "id": "s279"
+    },
+    {
+      "text": "100 To give s 75(2B) of the EPBC Act the meaning contended by counsel for TWS would be to deprive it of purpose: why prevent the taking into account of the adverse impacts of an action which does not, in the usual course, require approval?",
+      "id": "s280"
+    },
+    {
+      "text": "101 Some guidance as to the meaning of s 75(2B) is provided in the explanatory memorandum accompanying the Bill which inserted the subsection:\n \n New subsection 75(2B) is to clarify that in making a controlled action decision, in relation to proposed developments, such as, a factory which will use timber from [an] RFA region, the Minister must not consider any adverse impacts of any RFA forestry operation (as defined in section 38) or a forestry operation in an RFA region (as defined in section 40).",
+      "id": "s281"
+    },
+    {
+      "text": "Sections 38 and 40 of the Act exempt RFA forestry operations and forestry operations in RFA regions from the need for approval under the Act.",
+      "id": "s282"
+    },
+    {
+      "text": "If these sections do not apply because of section 42 then the new section 75(2A) inserted by this item does not apply.",
+      "id": "s283"
+    },
+    {
+      "text": "102 This appears to be an example of what is described at p 7 of the explanatory memorandum as one of the purposes of the amendments being \"(g)reater clarification...in relation to:...the extent to which the Minister must consider indirect impacts when deciding whether or not an action requires assessment and approval under the Act\".",
+      "id": "s284"
+    },
+    {
+      "text": "103 The reference to s 42 of the EPBC Act in the explanatory memorandum to the Bill is a potential source of some confusion.",
+      "id": "s285"
+    },
+    {
+      "text": "Section 42 is headed \"This Division does not apply to some forestry operations\".",
+      "id": "s286"
+    },
+    {
+      "text": "It provides: \n \n Subdivisions A and B of this Division, and subsection 6(4) of the Regional Forest Agreements Act 2002 , do not apply to RFA forestry operations, or to forestry operations, that are:\n \n \n \n (a) in a property included in the World Heritage List; or\n (b) in a wetland included in the List of Wetlands of International Importance kept under the Ramsar Convention; or\n (c) incidental to another action whose primary purpose does not relate to forestry.",
+      "id": "s287"
+    },
+    {
+      "text": "104 The effect of s 42 is that Pt 3 of the EPBC Act can apply to certain forestry operations, which will need approval.",
+      "id": "s288"
+    },
+    {
+      "text": "The relevant forestry operations are those in a property included in the World Heritage List, those in what I call a Ramsar wetland and those incidental to another action whose primary purpose does not relate to forestry.",
+      "id": "s289"
+    },
+    {
+      "text": "In each case, in s 42, the focus is on an action which is a forestry operation.",
+      "id": "s290"
+    },
+    {
+      "text": "For current purposes, the action is an action for the construction and operation of a pulp mill.",
+      "id": "s291"
+    },
+    {
+      "text": "Consequently, s 42 is not relevant.",
+      "id": "s292"
+    },
+    {
+      "text": "Forestry operations in Tasmania used to source wood for the pulp mill will not require approval under s 38 because of the existence of a Regional Forestry Agreement which nominally expires in 2017, provided those forestry operations are undertaken in accordance with the Regional Forestry Agreement.",
+      "id": "s293"
+    },
+    {
+      "text": "Section 75(2B) has the effect that any adverse impacts from such forestry operations must not be taken into account by the Minister in making a controlled action decision.",
+      "id": "s294"
+    },
+    {
+      "text": "105 In his reasons for the 2007 controlled action decision, the Minister said that because of s 75(2B) of the EPBC Act, he did not consider \"any adverse impacts of forestry operations before 2017 for the supply of wood chips to the proposed mill\".",
+      "id": "s295"
+    },
+    {
+      "text": "The Minister interpreted s 75(2B) correctly by not considering any adverse impacts of forestry operations to be undertaken before 2017 when making his 2007 controlled action decision and thereby did not fail to take into account a relevant consideration.",
+      "id": "s296"
+    },
+    {
+      "text": "COMMONWEALTH LAND \n \n106 Counsel for TWS contend that the Minister erred in making the 2007 controlled action decision by not considering whether the proposed action will have or is likely to have a significant impact on the environment on Commonwealth land.",
+      "id": "s297"
+    },
+    {
+      "text": "In this regard, s 26(2) of the EPBC Act provides:\n \n Actions outside Commonwealth land affecting that land \n A person must not take outside Commonwealth land an action that: \n \n \n (a) has or will have a significant impact on the environment on Commonwealth land; or\n (b) is likely to have a significant impact on the environment on Commonwealth land.",
+      "id": "s298"
+    },
+    {
+      "text": "... \n \n\n107 Section 26 is located in Pt 3 of the EPBC Act and can be a controlling provision with respect to an action.",
+      "id": "s299"
+    },
+    {
+      "text": "108 In their written submissions, counsel for TWS contend:\n \n By reason of the nature of the action, the proximity of Commonwealth land, the submissions of the applicant [to the Minister] and the terms of s 75 the Minister was required to, but did not, consider whether the action will have or is likely to have a significant impact on the environment on Commonwealth land.",
+      "id": "s300"
+    },
+    {
+      "text": "The Court can be satisfied the Minister failed to consider this because it is absent from his reasons.",
+      "id": "s301"
+    },
+    {
+      "text": "109 In its written submissions dated 18 April 2007 about the decisions the Minister should make under ss 75 and 87 of the EPBC Act in respect of the pulp mill, TWS refers to Commonwealth land.",
+      "id": "s302"
+    },
+    {
+      "text": "TWS says in those submissions at [155]: \n \n It is highly likely that Commonwealth Land within the Tamar Valley airshed will be significantly impacted by air pollution from Gunns' proposed pulp mill.",
+      "id": "s303"
+    },
+    {
+      "text": "The submissions refer to the Tamar Valley as having \"a major air pollution problem\", impacting on \"people's quality of life and longevity\".",
+      "id": "s304"
+    },
+    {
+      "text": "110 \"Commonwealth land\" is defined by s 27 of the EPBC Act as \"so much of a Commonwealth area as is not a Commonwealth marine area\".",
+      "id": "s305"
+    },
+    {
+      "text": "\"Commonwealth area\" is defined in s 525 and includes land owned, and areas of land leased, by the Commonwealth or a Commonwealth agency and air space over such land.",
+      "id": "s306"
+    },
+    {
+      "text": "The submissions of TWS state \"(t)here are numerous portions of Commonwealth land in the area, which should be easily ascertainable by you.",
+      "id": "s307"
+    },
+    {
+      "text": "They include many workplaces for Commonwealth employees and contractors\".",
+      "id": "s308"
+    },
+    {
+      "text": "TWS cite \"the Australian Maritime College and Defence Housing\" as examples.",
+      "id": "s309"
+    },
+    {
+      "text": "111 A briefing note from the Department to the Minister dated 24 April 2007 refers to TWS's submission that \"(i)ncreased air emissions from the pulp mill will have a significant impact on the environment of Commonwealth land (eg Australian Maritime College and Defence Housing)\".",
+      "id": "s310"
+    },
+    {
+      "text": "112 It is stated at p 10 of Attachment C to the briefing note:\n \n Air, water, noise and effluent pollutants likely to be emitted due to pulp mill operations have been raised as concerns in many public comments.",
+      "id": "s311"
+    },
+    {
+      "text": "The assessment and approval process will consider the possible impacts relative to relevant guidelines and standards that will apply.",
+      "id": "s312"
+    },
+    {
+      "text": "The Department is of the view that indirect impacts of air emissions on matters protected are not likely to be significant.",
+      "id": "s313"
+    },
+    {
+      "text": "... \n \n \n\n113 In this context, \"matters protected\" include significant impacts on the environment on Commonwealth land.",
+      "id": "s314"
+    },
+    {
+      "text": "114 At p 3 of Attachment C to the briefing note, a discussion commences under the heading \"Potential Impacts on Protected Matters\".",
+      "id": "s315"
+    },
+    {
+      "text": "Reference is made under sub-headings to:\n \n &#8226; World heritage;\n &#8226; National heritage;\n &#8226; Wetlands of international importance;\n &#8226; Listed threatened species and communities;\n &#8226; Listed migratory species;\n &#8226; Commonwealth marine;\n &#8226; Nuclear actions;\n &#8226; Commonwealth action/land.",
+      "id": "s316"
+    },
+    {
+      "text": "115 Under the sub-headings \"National heritage\", \"Nuclear actions\" and \"Commonwealth action/land\" are the words \"Not applicable\".",
+      "id": "s317"
+    },
+    {
+      "text": "In respect of Commonwealth land, counsel for the Minister submit that \"not applicable\", when read fairly, advises \"that the proposed action was not likely to have a significant impact on the environment of Commonwealth land\".",
+      "id": "s318"
+    },
+    {
+      "text": "That is to be contrasted with the briefing note's treatment of \"Forest harvest\" at p 8 of Attachment C. At that part of the briefing note, after referring to s 75(2B) of the EPBC Act, the note states: \n \n ...As such you must not consider any adverse consequential impacts of the RFA forestry operations providing wood for the mill.",
+      "id": "s319"
+    },
+    {
+      "text": "116 I do not consider that the briefing note suggests the Minister ignored the Commonwealth land issue.",
+      "id": "s320"
+    },
+    {
+      "text": "I consider it suggests that the Minister formed the view that it was not applicable for the purpose of identifying controlling provisions relevant to the action.",
+      "id": "s321"
+    },
+    {
+      "text": "117 The Minister said in his reasons for the 2007 controlled action decision at [15]:\n \n I found that there is no likelihood of the proposed action having a significant adverse impact on a matter protected by any provision of Part 3 of the EPBC Act other than, potentially, ...(World Heritage),...(Wetlands of international importance),...(Listed threatened species and communities),...(Listed migratory species) and...(Commonwealth marine area).",
+      "id": "s322"
+    },
+    {
+      "text": "Read fairly, that is a rejection of the submission TWS made to the Minister that there is a likelihood of the proposed action having a significant adverse impact on a matter protected by s 26(2) of the EPBC Act.",
+      "id": "s323"
+    },
+    {
+      "text": "118 I reject the contention of TWS that the Minister failed to consider whether the action will have or is likely to have a significant impact on the environment on Commonwealth land.",
+      "id": "s324"
+    },
+    {
+      "text": "It cannot, therefore, be established that the Minister failed to take a relevant consideration into account in this regard.",
+      "id": "s325"
+    },
+    {
+      "text": "THE SECTION 87(5) GROUND \n \n119 Counsel for TWS submit that the Minister misconstrued or misapplied s 87(5) of the EPBC Act.",
+      "id": "s326"
+    },
+    {
+      "text": "Section 87(5) provides:\n \n Assessment on preliminary documentation \n \n The Minister may decide on an assessment on preliminary documentation under Division 4 only if the Minister is satisfied (after considering the matters in subsection (3)) that that approach will allow the Minister to make an informed decision whether or not to approve under Part 9 (for the purposes of each controlling provision) the taking of the action.",
+      "id": "s327"
+    },
+    {
+      "text": "120 It is contended by counsel for TWS that, construed properly, s 87(1) only authorises the choice of an assessment on preliminary documentation where the Minister is reasonably satisfied that, at the end of that process, he or she will be able to make an informed decision whether or not to approve the taking of the action.",
+      "id": "s328"
+    },
+    {
+      "text": "They further submit that an informed decision means a decision informed by the assessment process and one which comes at the end of that process.",
+      "id": "s329"
+    },
+    {
+      "text": "121 Counsel for TWS submit that the Minister's reasons for the 2007 assessment approach decision show that he was satisfied, before the assessment process was undertaken, that he was able to make an informed decision whether or not to approve the taking of the action.",
+      "id": "s330"
+    },
+    {
+      "text": "Counsel contend this demonstrates prejudgment and that the Minister misunderstood what an informed decision is for the purposes of the EPBC Act.",
+      "id": "s331"
+    },
+    {
+      "text": "122 In order to decide on assessment on preliminary documentation, the Minister must be satisfied under s 87(5) that the assessment approach will allow an informed decision to be made on whether or not to approve, for the purposes of each controlling provision, the taking of the action.",
+      "id": "s332"
+    },
+    {
+      "text": "Such satisfaction is to be attained after a consideration of the matters set out in s 87(3).",
+      "id": "s333"
+    },
+    {
+      "text": "123 The s 87(3) matters include:\n \n &#8226; information relating to the action given to the Minister in the referral of the proposal to take the action (s 87(3)(a)); and\n &#8226; any other information available to the Minister about the relevant impacts of the action that the Minister considers relevant (s 87(3)(b)).",
+      "id": "s334"
+    },
+    {
+      "text": "124 The purpose of deciding on a particular assessment approach is to be able to assess \"the relevant impacts of an action\" (s 87(1)).",
+      "id": "s335"
+    },
+    {
+      "text": "125 The Minister's reasons for the 2007 assessment approach decision state at [22]:\n \n In light of my findings at paragraphs 15 to 20 above, I was satisfied that assessment on preliminary documentation will provide enough information about the relevant impacts of the proposed action to allow me to make an informed decision on whether or not to approve the taking of the proposed action under Part 9 of the EPBC Act, for the purposes of [the controlling provisions].",
+      "id": "s336"
+    },
+    {
+      "text": "126 Paragraph 22 of the Minister's reasons shows that, in accordance with s 87(5) of the EPBC Act, the Minister was satisfied that an assessment on preliminary documentation will allow him to make an informed decision whether or not to approve for the purpose of each controlling provision the taking of the action.",
+      "id": "s337"
+    },
+    {
+      "text": "127 The findings at [15] to [20] of the Minister's reasons for the 2007 assessment approach decision, include:\n \n &#8226; Gunns has prepared comprehensive material relevant to the proposed action which is \"fully available\" to the Department, relevant stakeholders and the public; \n &#8226; the referral and a subsequent \"protected matters assessment report\" provided information directly relevant to the impacts of the proposed action on the matters protected by the controlling provisions; \n &#8226; assessments have been undertaken on the potential impacts of the proposed action on matters protected by the controlling provisions for the proposed action;\n &#8226; surveys have been undertaken for listed threatened and listed migratory species.",
+      "id": "s338"
+    },
+    {
+      "text": "In this respect, the Minister states at [18] of the reasons:\n ...Based on advice from my Department and the information about those surveys in the referral and the protected matters assessment report, and noting the substantial number of public comments received on the referral, I found that adequate information is available to enable me to make an informed decision whether or not to approve under Part 9 the taking of the proposed action for the purposes of [the relevant controlling provisions].",
+      "id": "s339"
+    },
+    {
+      "text": "&#8226; appropriate investigations have been undertaken and adequate relevant information is available regarding the impact of the proposed action on the environment in a Commonwealth marine area \"...to enable [the Minister] to make an informed decision whether or not to approve the taking of the proposed action for the purposes of sections 23 and 24A of the EPBC Act\".",
+      "id": "s340"
+    },
+    {
+      "text": "128 At [22] of the reasons, the Minister is to be taken as saying that the preliminary documentation assessment approach will enable him to make an informed decision because he already has a great deal of relevant information.",
+      "id": "s341"
+    },
+    {
+      "text": "In those circumstances, the assessment approach that requires the least additional information was his preferred approach.",
+      "id": "s342"
+    },
+    {
+      "text": "This is confirmed by the Minister's comments in the reasons at [23]:\n \n ...I found that information about the impacts of the proposed action on the matters protected by the controlling provisions for the action had been made available to the public in a reasonable and comprehensive way and for a substantial period of time.",
+      "id": "s343"
+    },
+    {
+      "text": "I found that a further comprehensive process of seeking public comment on the proposed action (as would occur through an assessment by public environment report, environmental impact assessment or public inquiry under Divisions 5, 6 or 7 of Part 8 of the EPBC Act) would not be required in order to enable me to make an informed decision whether or not to approve the proposed action.",
+      "id": "s344"
+    },
+    {
+      "text": "I found that such a process would not be required in order to enable adequate public participation in the assessment and approval process.",
+      "id": "s345"
+    },
+    {
+      "text": "129 At [24] of the reasons, the Minister found that an assessment on referral information only would not be appropriate, \"given the degree of public concern about the proposed action\".",
+      "id": "s346"
+    },
+    {
+      "text": "130 The Minister said at [26] of the reasons:\n \n In light of my findings in paragraphs 22 and 23 above, I was satisfied that assessment on preliminary documentation will allow me to make an informed decision about whether or not to approve the taking of the action for the purposes of [the controlling provisions].",
+      "id": "s347"
+    },
+    {
+      "text": "131 The reasons of the Minister show that he was capable of being satisfied that the assessment approach chosen by him would allow him to make an informed decision whether or not to approve the taking of the action.",
+      "id": "s348"
+    },
+    {
+      "text": "That is all s 87(5) of the EPBC Act required of him.",
+      "id": "s349"
+    },
+    {
+      "text": "132 In making the 2007 assessment approach decision, the Minister did not misunderstand or misconstrue s 87(5) of the EPBC Act.",
+      "id": "s350"
+    },
+    {
+      "text": "PROCEDURAL FAIRNESS \n \n133 Counsel for TWS submit that the Minister denied TWS procedural fairness by making the 2007 assessment approach decision.",
+      "id": "s351"
+    },
+    {
+      "text": "They contend that the 2007 assessment approach decision itself, or the Minister's conduct in relation to an approval decision under s 130(1) of the EPBC Act, involved a denial of procedural fairness to TWS and to those members of the public interested in the assessment of the action and whether it should be approved.",
+      "id": "s352"
+    },
+    {
+      "text": "134 Counsel contend that in making certain decisions under the EPBC Act, including controlled action decisions, assessment approach decisions and decisions about whether or not to approve the taking of an action, the Minister must accord members of the public and interested persons such as TWS a reasonable opportunity to be heard about whether the action should be approved and the conditions, if any, attaching to the approval.",
+      "id": "s353"
+    },
+    {
+      "text": "135 Factors which counsel for TWS say are relevant to the making of an assessment approach decision which would justify more time for public comment are: \n \n &#8226; the size, impact and complexity of the action;\n &#8226; the previous assessment approach decisions made by Senator Campbell;\n &#8226; the volume of the information collected by Gunns concerning the action;\n &#8226; the position of the RPDC as at March 2007;\n &#8226; the lack of evaluation and testing of Gunns' material by the RPDC; and\n &#8226; the 20 business day period set by the Minister under s 95(2)(c) \"for anyone to give [Gunns]...comments in writing relating to...the action\".",
+      "id": "s354"
+    },
+    {
+      "text": "136 Counsel for the Minister submit that the Minister does not have to accord procedural fairness to persons such as TWS who wish to take up the invitation to comment on material which Gunns is required to publish under s 95.",
+      "id": "s355"
+    },
+    {
+      "text": "Counsel point to s 131AA(7) of the EPBC Act which they say is an exhaustive statement of the requirements of the natural justice hearing rule in relation to approval of the taking of a controlled action under s 133 or the attaching of conditions on approval under s 134 of the EPBC Act.",
+      "id": "s356"
+    },
+    {
+      "text": "137 There may be differences of opinion on whether the source of authority to approve the taking of an action is s 130(1) or s 133 of the EPBC Act.",
+      "id": "s357"
+    },
+    {
+      "text": "Section 130 is expressed as an obligation to decide, while s 133 is expressed in language of actual approval.",
+      "id": "s358"
+    },
+    {
+      "text": "The better view is that s 133, in conjunction with s 130, is the source of power to approve the taking of an action \"for the purposes of a controlling provision\" and that s 134 is the source of power to attach conditions to that approval.",
+      "id": "s359"
+    },
+    {
+      "text": "138 In this context, s 131AA(7) is an exhaustive statement of the Minister's duty to accord procedural fairness to any person in relation to the Minister's decisions under s 133 or s 134.",
+      "id": "s360"
+    },
+    {
+      "text": "Section 131AA concerns inviting the person proposing to take the action to comment on the Minister's proposed decision on approval and, if relevant, conditions attached to the approval.",
+      "id": "s361"
+    },
+    {
+      "text": "The controlled action and assessment approach decisions are steps along the way to the decision on approval.",
+      "id": "s362"
+    },
+    {
+      "text": "139 Any obligation to the public or persons interested in an action in the context of those decisions is found in the EPBC Act.",
+      "id": "s363"
+    },
+    {
+      "text": "There is no general obligation to accord procedural fairness.",
+      "id": "s364"
+    },
+    {
+      "text": "The words \"in relation to\" in s 131AA(7) are broad.",
+      "id": "s365"
+    },
+    {
+      "text": "Compare the similar expression \"in connection with\" which Gibbs CJ held in the context of an eligibility rule of a registered industrial organisation \"very considerably widens the scope of the rule\" ( R v Isaac; Ex parte Transport Workers' Union of Australia [1985] HCA 80 ; (1985) 159 CLR 323 at 335).",
+      "id": "s366"
+    },
+    {
+      "text": "140 Even if I am wrong in considering that there is no obligation to accord procedural fairness, otherwise than as is set out in the EPBC Act, it would be difficult to establish a denial of procedural fairness in the circumstances.",
+      "id": "s367"
+    },
+    {
+      "text": "As counsel for the Minister submit, in their written submissions:\n \n ...the scope of the inquiry under the EPBC Act is limited to issues relevant to the \"controlling provisions\"...the inquiry will not consider any and all environmental issues that may arise out of the proposal.",
+      "id": "s368"
+    },
+    {
+      "text": "For example, issues of general air quality are not relevant.",
+      "id": "s369"
+    },
+    {
+      "text": "The relatively confined scope of the inquiry bears on the reasonableness of the opportunity to be heard.",
+      "id": "s370"
+    },
+    {
+      "text": "141 It is also significant, as counsel for the Minister submit at [36] of their written submissions, that there is no requirement in the EPBC Act to invite the public to comment on what assessment approach should be adopted for the decision on approval.",
+      "id": "s371"
+    },
+    {
+      "text": "That tells against a requirement for the Minister to accord procedural fairness in making an assessment approach decision.",
+      "id": "s372"
+    },
+    {
+      "text": "142 In making the 2007 assessment approach decision, the Minister did not have an obligation to accord procedural fairness to TWS other than in accordance with the provisions of the EPBC Act.",
+      "id": "s373"
+    },
+    {
+      "text": "APPREHENDED BIAS \n \n143 Counsel for TWS submit that the Minister's 2007 assessment approach decision was affected by apprehended bias.",
+      "id": "s374"
+    },
+    {
+      "text": "They contend that the facts and circumstances of this matter are such as would give rise in the mind of a fair-minded and informed member of the public, to a reasonable apprehension of a lack of impartiality on the Minister's part, and to an apprehension that the Minister prejudged the outcome of the decision he was required to make (see Webb v R [1994] HCA 30 ; (1994) 181 CLR 41 at 47 per Mason CJ and McHugh J and Brooks v The Upjohn Company (1998) 85 FCR 469 at 477).",
+      "id": "s375"
+    },
+    {
+      "text": "144 Counsel for TWS point to the following:\n \n &#8226; the Minister's predecessor had twice chosen assessment by the RPDC; \n &#8226; the RPDC process had not concluded; \n &#8226; Gunns was dissatisfied with the RPDC process; \n &#8226; the Federal Government supports the pulp mill; \n &#8226; the Minister and the Department wanted to fit in with Gunns' timetable; \n &#8226; the Minister advised Gunns to submit the third referral; \n &#8226; the 2007 assessment approach decision was made to assist Gunns to avoid the level of examination of the pulp mill which the RPDC would have had; \n &#8226; the Minister's reasons for the 2007 assessment approach decision show that he considered he already had enough information to enable him to make an informed decision before the assessment process had started, and before any public consultation; and\n &#8226; the Minister had \"prejudged important issues on which public consultation would reasonably be expected to shed light\".",
+      "id": "s376"
+    },
+    {
+      "text": "145 I reject those submissions.",
+      "id": "s377"
+    },
+    {
+      "text": "The evidence of Mr Early demonstrates that the Minister did not have a closed mind on the assessment approach.",
+      "id": "s378"
+    },
+    {
+      "text": "As late as during the course of making his decision, the Minister questioned Mr Early concerning why he did not recommend assessment by an EIS.",
+      "id": "s379"
+    },
+    {
+      "text": "There is no doubt that Mr Early formed the view in the initial stages of consideration of the proposed action that an assessment on preliminary documentation was his preferred approach.",
+      "id": "s380"
+    },
+    {
+      "text": "This approach was taken by Mr Early in the honest discharge of his duties as a senior public servant.",
+      "id": "s381"
+    },
+    {
+      "text": "His approach was informed by:\n \n &#8226; the demise of the RPDC;\n &#8226; the legislative deadline for approval by the Tasmanian Parliament of 31 August 2007;\n &#8226; assessment on preliminary documentation being the most common form of assessment under the EPBC Act;\n &#8226; the Department having worked very closely with the RPDC;\n &#8226; the limited number of matters of National Environmental Significance that the RPDC had to consider;\n &#8226; the project being in \"the public arena\" for two years; and\n &#8226; his assessment, based on his knowledge and experience, that anyone with an interest in a matter of National Environmental Significance could comment in 20 business days.",
+      "id": "s382"
+    },
+    {
+      "text": "146 It is understandable that those who oppose the pulp mill project would be disappointed at the demise of the RPDC.",
+      "id": "s383"
+    },
+    {
+      "text": "It is also understandable that many of them would wish to engage experts to challenge what Gunns had put before the RPDC and are angry at being denied that opportunity.",
+      "id": "s384"
+    },
+    {
+      "text": "Further, it is understandable that such persons would be suspicious of the assistance given by officers of the Department to Gunns in its preparation of the third referral and of meetings where officers of the Department discussed timelines with Gunns for the completion of the EPBC Act assessment.",
+      "id": "s385"
+    },
+    {
+      "text": "147 However, that disappointment, anger and suspicion must be seen in the context of these facts:\n \n &#8226; it was Departmental practice to assist proponents with referrals and to meet to discuss them;\n &#8226; the planning for assessment on preliminary documentation was based on Mr Early's judgment that it was the correct approach;\n &#8226; although timelines were discussed between Gunns and the Department and in some of the material recording these discussions the language of \"agreement\" is used, I accept Mr Early's evidence that there was no guarantee that the process would be concluded by any particular time, because \"the clock\" might stop for some reason;\n &#8226; although the Australian Government had partly funded the proposal and supported it politically, it must be borne in mind that in making the decision on approval under s 133 of the EPBC Act, the Minister must consider \"economic and social matters\" under s 136(1)(b).",
+      "id": "s386"
+    },
+    {
+      "text": "As long as the steps required by the EPBC Act are taken by the Minister, the Australian Government is not prevented from having a policy position on the pulp mill project (see Hot Holdings Pty Limited v Creasy [2002] HCA 51 ; (2002) 210 CLR 438 at [50] ).",
+      "id": "s387"
+    },
+    {
+      "text": "148 The critical issue is whether a well-informed reasonable observer would consider there was an apprehension of bias in the Minister.",
+      "id": "s388"
+    },
+    {
+      "text": "The Minister received strong advice from Mr Early, who firmly believed in the preliminary documentation assessment approach.",
+      "id": "s389"
+    },
+    {
+      "text": "Gunns lobbied him in favour of that approach.",
+      "id": "s390"
+    },
+    {
+      "text": "That approach also suited the Tasmanian Government and enhanced the chances of synchronisation of approval under the EPBC Act with approval by the Tasmanian Parliament.",
+      "id": "s391"
+    },
+    {
+      "text": "By 2 April 2007, the Minister wanted to know if an approval timeline ending in August 2007 was possible because he knew that was what the Tasmanian Government and Gunns were pursuing.",
+      "id": "s392"
+    },
+    {
+      "text": "However, the Minister did not consider the preliminary documentation assessment approach to the exclusion of all other approaches.",
+      "id": "s393"
+    },
+    {
+      "text": "Even during the course of making the assessment approach decision, the Minister questioned Mr Early about why another approach was not being recommended.",
+      "id": "s394"
+    },
+    {
+      "text": "At the time of making his decision, I do not consider that a well-informed observer could reasonably form the view that the Minister was biased towards the preliminary documentation assessment approach to the extent that he was not prepared to even consider alternative approaches, because he plainly did.",
+      "id": "s395"
+    },
+    {
+      "text": "149 The allegation that the 2007 assessment approach decision is invalid due to apprehended bias is rejected.",
+      "id": "s396"
+    },
+    {
+      "text": "IMPROPER EXERCISE OF POWER \n \n150 Counsel for TWS allege that the \"2007 assessment approach decision, including the specification of a 20 day time limit for public consultation under s 95(2)(c) of the EPBC Act involved an improper exercise of power, in that it was made for a purpose, or included a purpose, other than that for which the power was conferred\".",
+      "id": "s397"
+    },
+    {
+      "text": "151 The particulars of this ground in the third amended application state:\n \n ...\n \n B) The attainment or satisfaction of commercial imperatives and/or interests of a proponent is not a purpose for which the power in s 87 is conferred.",
+      "id": "s398"
+    },
+    {
+      "text": "C) The 2007 assessment approach decision, and the specification of a 20 day time limit, was made for the purpose of:\n \n \n \n (i) Not disrupting or interfering with Gunns' asserted commercial imperatives; and/or\n (ii) Ensuring the assessment process chosen would enable Gunns to meet its commercial imperatives; and/or\n (iii) Meeting a time line for assessment set by Gunns, or with which Gunns agreed.",
+      "id": "s399"
+    },
+    {
+      "text": "152 This ground is rejected.",
+      "id": "s400"
+    },
+    {
+      "text": "The 2007 assessment approach decision was made for the reasons set out in the Minister's reasons for decision.",
+      "id": "s401"
+    },
+    {
+      "text": "The third referral was received electronically by the Department on 30 March 2007 and by hard copy on 2 April 2007.",
+      "id": "s402"
+    },
+    {
+      "text": "At that time, the Minister knew the RPDC process was at an end.",
+      "id": "s403"
+    },
+    {
+      "text": "He also knew that Gunns desired a decision on approval under the EPBC Act by the end of August 2007.",
+      "id": "s404"
+    },
+    {
+      "text": "153 As indicated earlier in these reasons for judgment at [125], the Minister stated at [22] of his reasons for the 2007 assessment approach decision that he was satisfied that assessment on preliminary documentation \"will provide enough information about the relevant impacts of the proposed action to allow [him] to make an informed decision on whether or not to approve the taking of the proposed action...\".",
+      "id": "s405"
+    },
+    {
+      "text": "Earlier in those reasons, the Minister stated that he considered \"adequate information is available\" to enable him to make an informed decision.",
+      "id": "s406"
+    },
+    {
+      "text": "Central to that view was his opinion stated in his reasons at [20]:\n \n ...the number and complexity of issues relevant to the EPBC Act arise in relation to only some of the impacts of the proposed action and are relatively well understood and have been appropriately examined in the available information.",
+      "id": "s407"
+    },
+    {
+      "text": "154 A fair reading of the Minister's reasons shows the Minister considered that he already had considerable information available to him to enable him to make an informed decision on the matters relevant to the controlling provisions, being matters of National Environmental Significance.",
+      "id": "s408"
+    },
+    {
+      "text": "The Minister chose assessment on preliminary documentation because he viewed it as the most suitable approach in all the circumstances.",
+      "id": "s409"
+    },
+    {
+      "text": "Whilst he could not have been unaware of Gunns' or the Tasmanian Government's desires and that assessment on preliminary documentation suited their timeframes, that was not the purpose for which the Minister exercised his power under s 87 of the EPBC Act.",
+      "id": "s410"
+    },
+    {
+      "text": "He exercised it under s 87(1), because he decided that the best approach to fit the facts and circumstances was assessment by preliminary documentation.",
+      "id": "s411"
+    },
+    {
+      "text": "155 In any event, I am not satisfied that, even if Gunns' commercial imperatives influenced the Minister's 2007 assessment approach decision, that this was a dominant or substantial purpose in the Minister's choice of assessment process (see Wang v Minister for Immigration and Multicultural Affairs (1997) 71 FCR 386 at 397 per Merkel J citing Thompson v The Council of the Municipality of Randwick Corporation [1950] HCA 33 ; (1950) 81 CLR 87 at 106).",
+      "id": "s412"
+    },
+    {
+      "text": "Nor am I satisfied that it was the \"operative subjective purpose of the decision maker\" (see Re MacTiernan, Ex parte Coogee Coastal Action Coalition Incorporated [2004] WASC 264 at [51] per McLure J).",
+      "id": "s413"
+    },
+    {
+      "text": "156 As Gaudron J said in Industrial Equity Limited v Deputy Commissioner of Taxation [1990] HCA 46 ; (1990) 170 CLR 649 at 672: \n \n An improper purpose will not lightly be inferred and, by application of a presumption of regularity, will only be inferred if the evidence cannot be reconciled with the proper exercise of the power: see Reg.",
+      "id": "s414"
+    },
+    {
+      "text": "v Inland Revenue Commissioners; Ex parte Rossminster , per Lord Diplock.",
+      "id": "s415"
+    },
+    {
+      "text": "157 In this proceeding, the evidence can be reconciled with the proper exercise of power having regard to the Minister's reasons for the 2007 assessment approach decision and the prevailing factual background referred to in the preceding paragraphs of these reasons for judgment relating to improper exercise of power.",
+      "id": "s416"
+    },
+    {
+      "text": "UNREASONABLENESS \n \n158 The final ground to be considered in TWS's application is the allegation that the 2007 assessment approach decision was manifestly unreasonable.",
+      "id": "s417"
+    },
+    {
+      "text": "This is the least arguable ground raised in the third amended application.",
+      "id": "s418"
+    },
+    {
+      "text": "159 The 2007 assessment approach decision cannot be said to be \"irrational, illogical and not based upon findings or inferences of fact supported by logical grounds\" (see Re Minister for Immigration and Multicultural Affairs; Ex parte Applicant S20/2002 (2003) 198 ALR 59 at [34], per McHugh and Gummow JJ).",
+      "id": "s419"
+    },
+    {
+      "text": "The 2007 assessment approach decision was made after the Minister considered an alternative approach, such as an EIS.",
+      "id": "s420"
+    },
+    {
+      "text": "In all the circumstances, having regard to the advice given to the Minister by Mr Early, and taking into account the demise of the RPDC process, it cannot be said that the 2007 assessment approach decision was manifestly unreasonable.",
+      "id": "s421"
+    },
+    {
+      "text": "160 As Gleeson CJ and McHugh J said in Minister for Immigration and Multicultural Affairs; Ex parte Eshetu [1999] HCA 21 ; (1999) 197 CLR 611 at [40] :\n \n Someone who disagrees strongly with someone else's process of reasoning on an issue of fact may express such disagreement by describing the reasoning as \"illogical\" or \"unreasonable\", or even \"so unreasonable that no reasonable person could adopt it\".",
+      "id": "s422"
+    },
+    {
+      "text": "If these are merely emphatic ways of saying that the reasoning is wrong, then they may have no particular legal consequence.",
+      "id": "s423"
+    },
+    {
+      "text": "Further at [44], their Honours said:\n \n As Mason J pointed out in Minister for Aboriginal Affairs v Peko-Wallsend Ltd... , when the ground of asserted unreasonableness is giving too much or too little weight to one consideration or another \"a court should proceed with caution...lest it exceed its supervisory role by reviewing the decision on its merits\".",
+      "id": "s424"
+    },
+    {
+      "text": "161 Judicial review of administrative action based on the Wednesbury unreasonable ground must be exercised with considerable restraint, otherwise there will be a blurring between what is judicial review and what is merits review of a decision with which a court disagrees.",
+      "id": "s425"
+    },
+    {
+      "text": "As Brennan J said in Attorney-General for the State of New South Wales v Quin [1990] HCA 21 ; (1990) 170 CLR 1 at 37:\n \n The repository of administrative power must often balance the interests of the public at large and the interests of minority groups or individuals.",
+      "id": "s426"
+    },
+    {
+      "text": "The courts are not equipped to evaluate the policy considerations which properly bear on such decisions, nor is the adversary system ideally suited to the doing of administrative justice: interests which are not represented as well as interests which are represented must often be considered.",
+      "id": "s427"
+    },
+    {
+      "text": "Moreover, if the courts were permitted to review the merits of administrative action whenever interested parties were prepared to risk the costs of litigation, the exercise of administrative power might be skewed in favour of the rich, the powerful, or the simply litigious.",
+      "id": "s428"
+    },
+    {
+      "text": "162 I am unable to form the view that, on the entirety of the evidence, the Minister's 2007 assessment approach decision was so unreasonable that no reasonable Minister would have made it.",
+      "id": "s429"
+    },
+    {
+      "text": "CONCLUSION \n \n163 As none of the grounds in TWS's third amended application have been made out, the application must be dismissed.",
+      "id": "s430"
+    },
+    {
+      "text": "I certify that the preceding one hundred and sixty-three (163) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Marshall.",
+      "id": "s431"
+    },
+    {
+      "text": "Associate:\n\nDated: 9 August 2007\n\n\n Counsel for the Applicant: Ms D Mortimer SC with Mr R Niall \n \n Solicitors for the Applicant: FitzGerald and Browne Lawyers \n \n Counsel for the First Respondent: Dr M Perry QC with Mr G Hill \n \n Solicitors for the First Respondent: Australian Government Solicitor \n \n Counsel for the Second Respondent: Mr G Uren QC with Mr T Walker \n \n Solicitors for the Second Respondent: Freehills \n \n Dates of Hearing: 4-6, 9-10 July 2007 \n \n Date of Judgment: 9 August 2007 \n\n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/1178.html",
+      "id": "s432"
+    }
+  ]
+}

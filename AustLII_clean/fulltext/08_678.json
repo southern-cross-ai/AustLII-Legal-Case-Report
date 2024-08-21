@@ -1,0 +1,3308 @@
+{
+  "name": "Australian Competition and Consumer Commission v Construction, Forestry, Mining and Energy Union [2008] FCA 678 (16 May 2008)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2008/678.html",
+  "catchphrases": [
+    {
+      "text": "restrictive trade practices",
+      "id": "c0"
+    },
+    {
+      "text": "accessorial liability for contravention of s 45e(3) of the trade practices act 1974 (cth)",
+      "id": "c1"
+    },
+    {
+      "text": "existence of an \"arrangement or understanding\"",
+      "id": "c2"
+    },
+    {
+      "text": "lack of necessary \"meeting of the minds\"",
+      "id": "c3"
+    },
+    {
+      "text": "admissibility under s 45 of the evidence act 1995 (cth) of document witness taken to in cross-examination",
+      "id": "c4"
+    },
+    {
+      "text": "admissibility of witness statement where witness not called",
+      "id": "c5"
+    },
+    {
+      "text": "admissibility of answers to s 155 trade practices act 1974 (cth) notices",
+      "id": "c6"
+    },
+    {
+      "text": "trade practices",
+      "id": "c7"
+    },
+    {
+      "text": "evidence",
+      "id": "c8"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "1 The applicant, the Australian Competition and Consumer Commission, alleges that the Construction, Forestry, Mining and Energy Union, and two of its alleged officers, Mr Noonan and Mr Lancsar, were accessories to a number of alleged contraventions of s 45E(3) and s 45EA of the Trade Practices Act 1974 (Cth) by Bovis Lend Lease Limited (\"BLL\").",
+      "id": "s0"
+    },
+    {
+      "text": "BLL has admitted one of the alleged contraventions.",
+      "id": "s1"
+    },
+    {
+      "text": "No such concession has been made by the other respondents.",
+      "id": "s2"
+    },
+    {
+      "text": "In these circumstances, it was decided that the case against BLL would be dealt with on its admissions independently of the present, contested, proceedings against the other respondents.",
+      "id": "s3"
+    },
+    {
+      "text": "The seemingly unusual consequence of this bifurcation is that, on the state of the evidence before me, I am not reasonably satisfied that the contravening conduct conceded by BLL has in fact been made out.",
+      "id": "s4"
+    },
+    {
+      "text": "2 The relevant events, which it will be necessary to analyse in a little detail, fall within a relatively narrow compass.",
+      "id": "s5"
+    },
+    {
+      "text": "In 2002 BLL, a company providing nation-wide project management and construction services, contracted with a third party to provide those services in the construction of medium density apartments for the \"Landmark\" development in the Australian Capital Territory.",
+      "id": "s6"
+    },
+    {
+      "text": "3 In early 2003 BLL contracted with Bernmar Projects Pty Ltd, the company of a Mr Luketic, for the provision of some plasterboard services to BLL at the Landmark site.",
+      "id": "s7"
+    },
+    {
+      "text": "Bernmar in turn engaged six independent subcontractors to supply those services.",
+      "id": "s8"
+    },
+    {
+      "text": "That contract was later reduced to writing and was subsequently varied to include further work at the site.",
+      "id": "s9"
+    },
+    {
+      "text": "Officers of the CFMEU and the union itself objected to Bernmar's use of the subcontractors for the work in question.",
+      "id": "s10"
+    },
+    {
+      "text": "Likewise, some officers of BLL had their own concerns about the bases of the subcontractors' engagements.",
+      "id": "s11"
+    },
+    {
+      "text": "4 At this time BLL and the CFMEU were negotiating their fifth Australia-wide enterprise agreement --- the \"Joint Development Agreement\" (or JDA-V) --- which would (i) apply on construction sites managed by BLL throughout Australia, save for Western Australia; (ii) regulate the terms and conditions upon which members of the CFMEU would provide various services to BLL; and (iii) regulate the terms upon which BLL would acquire those services.",
+      "id": "s12"
+    },
+    {
+      "text": "As will be seen, the engagement of the Bernmar subcontractors --- or \"ABN subbies\" as they were called --- became an irritant in those negotiations.",
+      "id": "s13"
+    },
+    {
+      "text": "5 Following events which occurred on 3 April 2003 during negotiations for JDA-V, BLL terminated Bernmar's contract on 4 April.",
+      "id": "s14"
+    },
+    {
+      "text": "The notice given to Bernmar on that date specified that the termination was effected under the contract and was \"due to Bernmar's breach of Subcontract provisions relating to industrial matters, including breaches of clauses 5.1 and 5.2 of the Schedule of Industrial Requirements\".",
+      "id": "s15"
+    },
+    {
+      "text": "Reference will be made below to the provisions of the subcontract.",
+      "id": "s16"
+    },
+    {
+      "text": "6 It is the ACCC's contention that that termination was the product of an arrangement or understanding between BLL and the CFMEU, or alternatively its officers, which contained a provision included for the purpose of preventing or hindering BLL continuing acquisition of plasterboard services from Bernmar at the Landmark site.",
+      "id": "s17"
+    },
+    {
+      "text": "The alleged arrangement or understanding is said to have been reached on any one, or possibly more, of three dates --- 18 March 2003, 3 April 2003 and 4 April 2003.",
+      "id": "s18"
+    },
+    {
+      "text": "The offending provision is variously cast for each date and, in the case of 3 April, is cast in alternatives.",
+      "id": "s19"
+    },
+    {
+      "text": "THE STATUTORY SETTING AND THE APPLICABLE PRINCIPLES \n \n7 There are three distinct matters to which it is necessary to refer.",
+      "id": "s20"
+    },
+    {
+      "text": "The first relates to ss 45E and 45EA .",
+      "id": "s21"
+    },
+    {
+      "text": "The second, to accessorial liability and ss 76 and 75B of the TP Act.",
+      "id": "s22"
+    },
+    {
+      "text": "The third concerns the standard of proof in this matter and s 140(2) of the Evidence Act 1995 (Cth).",
+      "id": "s23"
+    },
+    {
+      "text": "The applicable principles in relation to each of these are not in dispute in these proceedings.",
+      "id": "s24"
+    },
+    {
+      "text": "They have been the subject of recent judicial consideration, notably in Communications, Electrical, Electronic, Energy, Information, Postal, Plumbing and Allied Services Union of Australia v Australian Competition and Consumer Commission [2007] FCAFC 132 ; (2007) 162 FCR 466 (\"CEPU\") and Australian Competition and Consumer Commission v IPM Operation and Maintenance Loy Yang Pty Ltd (2006) 157 FCR 162.",
+      "id": "s25"
+    },
+    {
+      "text": "1.",
+      "id": "s26"
+    },
+    {
+      "text": "Sections 45E and 45EA \n \n8 Section 45E, insofar as presently relevant, provides:\n (1) This section applies in the following situations: \n \n \n (a) ... \n \n (b) an acquisition situation --- in this situation, a person (the first person) has been accustomed, or is under an obligation, to acquire goods or services from another person (the second person).",
+      "id": "s27"
+    },
+    {
+      "text": "Despite paragraphs (a) and (b), this section does not apply unless the first or second person is a corporation or both of them are corporations.",
+      "id": "s28"
+    },
+    {
+      "text": "... \n \n (3) In an acquisition situation, the first person must not make a contract or arrangement, or arrive at an understanding, with an organisation of employees, an officer of such an organisation or a person acting for and on behalf of such an officer or organisation, if the proposed contract, arrangement or understanding contains a provision included for the purpose, or for purposes including the purpose, of: \n \n \n \n \n \n (a) preventing or hindering the first person from acquiring or continuing to acquire such goods or services from the second person; or \n \n (b) preventing or hindering the first person from acquiring or continuing to acquire such goods or services from the second person, except subject to a condition: \n \n \n \n (i) that is not a condition to which the acquisition of such goods or services by the first person from the second person has previously been subject because of a provision in a contract between those persons; and (ii) that is about the person to whom, the manner in which or the terms on which the second person may supply any goods or services.",
+      "id": "s29"
+    },
+    {
+      "text": "... \n \n (7) In this section, a reference to a person who has been accustomed to acquire goods or services from a second person includes ... :\n \n \n \n \n \n (a) a regular acquirer of such goods or services from the second person; or \n \n (b) a person who, when last acquiring such goods or services, acquired them from the second person; or\n \n (c) a person who, at any time during the immediately preceding 3 months, acquired such goods or services from the second person.",
+      "id": "s30"
+    },
+    {
+      "text": "9 For its part, s 45EA provides, insofar as presently relevant that:\n A person must not give effect to a provision of a contract, arrangement or understanding if, because of the provision, the making of the contract or arrangement, or the arriving at the understanding, by the person: (a) contravened subsection [s 45E(3)] \n10 The concepts in these various provisions have not been defined.",
+      "id": "s31"
+    },
+    {
+      "text": "However, they have been the subject of judicial illumination.",
+      "id": "s32"
+    },
+    {
+      "text": "For present purposes I need refer only to the following, presently uncontroversial, propositions.",
+      "id": "s33"
+    },
+    {
+      "text": "First , for an \"arrangement or understanding\" to be found, there must be a \"meeting of the minds\" of the parties under which one or both of them committed to a particular course of action: CEPU at [15] and [175]; Australian Competition and Consumer Commission v Amcor Printing Papers Group Ltd (2000) 169 ALR 344 at [75].",
+      "id": "s34"
+    },
+    {
+      "text": "As Smithers J observed in Top Performance Motors Pty Ltd v Ira Berk (Qld) Pty Ltd (1975) 24 FLR 286 at 291:\n Where the minds of the parties are at one that a proposed transaction between them proceeds on the basis of ... the adoption of a particular course of conduct, it would seem that there would be an understanding within the meaning of the Act.",
+      "id": "s35"
+    },
+    {
+      "text": "Secondly , a mere expectation, as a matter of fact, or a hope that something might be done or happen or that a party will act in a particular way, is not of itself sufficient to found an arrangement or understanding: see Apco Service Stations Pty Ltd v Australian Competition and Consumer Commission (2005) 159 FCR 452 at [45]; IPM Operation at [104]-[112].",
+      "id": "s36"
+    },
+    {
+      "text": "Thirdly , the necessary consensus or meeting of minds need not involve, though it commonly will in fact embody, a reciprocity of obligation: Amcor Printing Papers at [75].",
+      "id": "s37"
+    },
+    {
+      "text": "Fourthly , as to the requirement that the provision be included in the arrangement or understanding for the proscribed purpose or for purposes which include that purpose, the test of purpose is a subjective one and the proscribed subjective purpose is to be had by each party to the arrangement or understanding: CEPU at [182].",
+      "id": "s38"
+    },
+    {
+      "text": "Fifthly , the purpose of conduct for present purposes is the end sought to be accomplished by the conduct and is to be distinguished from the motive for such conduct which is the reason for seeking that end: CEPU at [181] and the cases there cited.",
+      "id": "s39"
+    },
+    {
+      "text": "Sixthly , the term \"hindering\" in s 45E(3) has been given a broad construction and encompasses conduct which in any way affects to an appreciable extent the ease of the usual way of supplying or acquiring an article or service: IPM Operations at [127]; Australian Builders' Labourers' Federated Union of Workers --- Western Australian Branch v J-Corp Pty Limited [1993] FCA 266 ; (1993) 42 FCR 452 at 459-460.",
+      "id": "s40"
+    },
+    {
+      "text": "2.",
+      "id": "s41"
+    },
+    {
+      "text": "Accessorial liability \n \n11 Though s 45E requires that there be two or more parties to an arrangement or understanding, only the \"first person\" to whom the section applies will be a contravener of the provision as such.",
+      "id": "s42"
+    },
+    {
+      "text": "While the \"first person's\" offending arrangement or understanding must be with an organisation of employees, an officer of such an organisation or a person acting on behalf of such an officer or organisation, that organisation, officer or person can only be exposed to civil proceedings under the Act in respect of the first person's contravening conduct if it, etc, falls within the accessorial liability provisions of s 76(1) or s 75B of the TP Act.",
+      "id": "s43"
+    },
+    {
+      "text": "Section 76, which provides for the imposition of civil penalties against (inter alia) accessories, only applies to a union which is an accessory to a contravention of s 45E, and not its officers or agents: see s 76(2) and CEPU at [183]-[188].",
+      "id": "s44"
+    },
+    {
+      "text": "An officer or agent of a union, on the other hand, may nonetheless be liable under the general accessorial liability provisions of s 75B for other relief under the Act (eg an injunction under s 80) if he or she is found to be an accessory to a contravention of s 45E.",
+      "id": "s45"
+    },
+    {
+      "text": "12 The substantive requirements to be satisfied to constitute a union (s 76(1)(c)-(f)) or a person (s 75B(1)(a)-(d)) an accessory to a contravention of s 45E are, for present purposes, substantially identical.",
+      "id": "s46"
+    },
+    {
+      "text": "What is required is that the Court be satisfied (in the language of s 76(1)) that the union or the person concerned:\n \n \n (c) has aided, abetted, counselled or procured a person to contravene such a provision; or \n \n \n \n (d) has induced, or attempted to induce, a person, whether by threats or promises or otherwise, to contravene such a provision; or\n \n (e) has been in any way, directly or indirectly, knowingly concerned in, or party to, the contravention by a person of such a provision; or \n \n (f) has conspired with others to contravene such a provision \n \n \n \n\nCommon to these alternatives is the requirement that the alleged accessory acted with knowledge of the essential matters which went to make up the contravention whether or not the accessory knew that those matters amounted to a contravention of s 45E: CEPU at [188]; Yorke v Lucas [1985] HCA 65 ; (1985) 158 CLR 661 at 667.",
+      "id": "s47"
+    },
+    {
+      "text": "3.",
+      "id": "s48"
+    },
+    {
+      "text": "The Standard of Proof \n \n13 I need only refer briefly to this matter and then only for s 76 civil penalty proceedings purposes.",
+      "id": "s49"
+    },
+    {
+      "text": "This matter has been considered at length in CEPU at [29]-[38].",
+      "id": "s50"
+    },
+    {
+      "text": "Section 76 proceedings are civil proceedings.",
+      "id": "s51"
+    },
+    {
+      "text": "As such, by virtue of s 140 of the Evidence Act 1995 (Cth), it attracts the civil standard of proof on the balance of probabilities.",
+      "id": "s52"
+    },
+    {
+      "text": "Accordingly, I must be satisfied that the ACCC has established that the circumstances appearing in the evidence gave rise to a reasonable and definite inference, not merely to conflicting inferences of equal degrees of probability, that BLL and the CFMEU, an officer of the CFMEU, or an agent of the CFMEU or of an officer thereof, made one or more arrangements or arrived at one or more understandings within the meaning of s 45E: CEPU at [38].",
+      "id": "s53"
+    },
+    {
+      "text": "A PRELIMINARY NOTE ON PARTIES AND PERSONS \n \n14 I will later in these reasons make a number of rulings on evidentiary matters.",
+      "id": "s54"
+    },
+    {
+      "text": "For ease in exposition I will here refer to evidence which may be in issue, but without prejudice to what I have to say later.",
+      "id": "s55"
+    },
+    {
+      "text": "15 I have already described BLL.",
+      "id": "s56"
+    },
+    {
+      "text": "I would simply add the following.",
+      "id": "s57"
+    },
+    {
+      "text": "The two officers of the company who gave evidence in this proceeding are Mr Hensley and Mr Little.",
+      "id": "s58"
+    },
+    {
+      "text": "Hensley, since May 1996, has been National Industrial Relations Manager for BLL.",
+      "id": "s59"
+    },
+    {
+      "text": "In that role he was responsible (for presently relevant purposes) (a) for maintenance of working relationships with unions and employer groups; and (b) for implementation and renegotiation of JDAs covering directly employed construction workers nationally.",
+      "id": "s60"
+    },
+    {
+      "text": "Little began employment with BLL in the ACT in 2002.",
+      "id": "s61"
+    },
+    {
+      "text": "From late 2002 until mid February 2003 he was Senior Construction Manager (Residential) reporting to the Regional Operations Manager for the ACT.",
+      "id": "s62"
+    },
+    {
+      "text": "In late February 2003 he was appointed to the latter position.",
+      "id": "s63"
+    },
+    {
+      "text": "As regional manager Little was responsible for the delivery of all BLL's construction works in the ACT.",
+      "id": "s64"
+    },
+    {
+      "text": "This included the Landmark development.",
+      "id": "s65"
+    },
+    {
+      "text": "His responsibilities included the regional management of industrial relations issues for all projects in the ACT at regional level.",
+      "id": "s66"
+    },
+    {
+      "text": "I will later comment on my impression of these witnesses.",
+      "id": "s67"
+    },
+    {
+      "text": "A third BLL officer, Mr Woodcock, participated in some of the events in issue in this matter.",
+      "id": "s68"
+    },
+    {
+      "text": "He was at relevant times the Asia Pacific Operations Director for BLL and was the person to whom Hensley then reported directly.",
+      "id": "s69"
+    },
+    {
+      "text": "He did not give evidence in these proceedings.",
+      "id": "s70"
+    },
+    {
+      "text": "Mr Hunter, who seemingly was BLL project manager at the Landmark site, was also an actor in some of the events of present concern and, particularly, in dealings with Luketic.",
+      "id": "s71"
+    },
+    {
+      "text": "He likewise did not give evidence.",
+      "id": "s72"
+    },
+    {
+      "text": "16 Bernmar, the company the object of the alleged s 45E provision, was specially formed by its principal, Luketic, to provide plasterboard services in the ACT.",
+      "id": "s73"
+    },
+    {
+      "text": "Luketic's contact with BLL was Hunter who was the project manager at the Landmark site.",
+      "id": "s74"
+    },
+    {
+      "text": "Luketic gave evidence in the proceeding.",
+      "id": "s75"
+    },
+    {
+      "text": "17 The three principal CFMEU officials involved in this matter were Mr Sutton, Noonan and Lancsar.",
+      "id": "s76"
+    },
+    {
+      "text": "While statements were filed and served by Sutton and Noonan these were not read.",
+      "id": "s77"
+    },
+    {
+      "text": "No oral evidence was given by any of the above three.",
+      "id": "s78"
+    },
+    {
+      "text": "At all relevant times Sutton was the Divisional Secretary of the Construction and General Division of the CFMEU.",
+      "id": "s79"
+    },
+    {
+      "text": "He was involved in the 2003 JDA-V negotiations.",
+      "id": "s80"
+    },
+    {
+      "text": "Noonan was, in 2003, Divisional Assistant Secretary of the Construction and General Division of the CFMEU.",
+      "id": "s81"
+    },
+    {
+      "text": "He was the person principally responsible for negotiating JDA-V with BLL.",
+      "id": "s82"
+    },
+    {
+      "text": "Lancsar at that time was a union organiser in the ACT.",
+      "id": "s83"
+    },
+    {
+      "text": "He was a CFMEU representative involved in discussions concerning Bernmar and attended a number of the meetings to which reference will be made below.",
+      "id": "s84"
+    },
+    {
+      "text": "Witnesses \n \n18 Only three witnesses gave oral evidence ---Luketic, Little and Hensley.",
+      "id": "s85"
+    },
+    {
+      "text": "Of these, it is only necessary that I comment upon Hensley.",
+      "id": "s86"
+    },
+    {
+      "text": "I have reached the view that his evidence should be treated with quite some caution.",
+      "id": "s87"
+    },
+    {
+      "text": "Often he evaded answering questions directly or at all --- a matter of comment both by counsel and by myself at the time.",
+      "id": "s88"
+    },
+    {
+      "text": "His answers, regularly, had the ring of advocacy and were unhelpful for that.",
+      "id": "s89"
+    },
+    {
+      "text": "They revealed as well that his statement had been cast in a fashion that on occasion created misleading impressions both of the significance of what was being recounted and of what actually had been said in conversations.",
+      "id": "s90"
+    },
+    {
+      "text": "I will illustrate what I have said in passing below.",
+      "id": "s91"
+    },
+    {
+      "text": "I should also add that, in relation to Little, I have preferred his oral over his written evidence.",
+      "id": "s92"
+    },
+    {
+      "text": "Though to a significantly lesser extent, his statement in places is misleading.",
+      "id": "s93"
+    },
+    {
+      "text": "THE ACCC'S CLAIMS \n \n19 The ACCC alleges that BLL made one or more of four arrangements, or arrived at one or more of four understandings, with the CFMEU, or alternatively its officers, containing provisions that contravened s 45E(3).",
+      "id": "s94"
+    },
+    {
+      "text": "I will deal with these, not in the order in which they have been pleaded (and emphasised), but sequentially.",
+      "id": "s95"
+    },
+    {
+      "text": "I do this because it is important, in my view, to appreciate both how events unfolded and the significance of the passage of time.",
+      "id": "s96"
+    },
+    {
+      "text": "The four claimed arrangements or understandings are as follows (I will refer to BLL and the CFMEU or its officers for present purposes as \"the parties\").",
+      "id": "s97"
+    },
+    {
+      "text": "20 1.",
+      "id": "s98"
+    },
+    {
+      "text": "On or about 18 March 2003 the parties made an arrangement or arrived at an understanding containing a provision that BLL would take steps to ensure that Bernmar's workers were engaged as employees, or alternatively were covered for workers compensation, long service leave, superannuation and redundancy in compliance with CFMEU's demands.",
+      "id": "s99"
+    },
+    {
+      "text": "This arrangement is said to have been made at a meeting on 18 March in Sydney involving Woodcock and Hensley of BLL and Sutton and Noonan of the CFMEU.",
+      "id": "s100"
+    },
+    {
+      "text": "At that meeting Sutton drafted a letter which in form was from Hensley to Sutton.",
+      "id": "s101"
+    },
+    {
+      "text": "As will be seen, it concerned Bernmar.",
+      "id": "s102"
+    },
+    {
+      "text": "This letter was, with minor changes, later sent to Sutton.",
+      "id": "s103"
+    },
+    {
+      "text": "It is said to evidence the claimed arrangement or understanding though its language does not reflect precisely either of the pleaded alternatives.",
+      "id": "s104"
+    },
+    {
+      "text": "21 2.",
+      "id": "s105"
+    },
+    {
+      "text": "On 3 April, at the time of a JDA-V negotiations meeting attended by amongst others Hensley, Little, Noonan and Lancsar, an arrangement was made or an understanding arrived at containing provisions that:\n \n \n (i) BLL would terminate Bernmar's contract and further, or in the alternative, would no longer acquire plasterboard services from Bernmar at the Landmark site; and \n (ii) BLL and the CFMEU would continue the negotiation of the JDA-V. \n \n\n22 3.",
+      "id": "s106"
+    },
+    {
+      "text": "By no later than 3 April, an arrangement was made or an understanding arrived at containing a provision that BLL would comply with the CFMEU's requirement that BLL refrain from acquiring plasterboard services from Bernmar unless Bernmar's subcontractors were engaged as employees rather than independent contractors.",
+      "id": "s107"
+    },
+    {
+      "text": "23 4.",
+      "id": "s108"
+    },
+    {
+      "text": "On 4 April an arrangement was made or an understanding arrived at containing a provision that BLL would terminate Bernmar's contract and, further or in the alternative, would no longer acquire plasterboard services from Bernmar at the Landmark site.",
+      "id": "s109"
+    },
+    {
+      "text": "24 For reasons which I will later give, it is only the third of the above arrangements or understandings that gives rise to a serious question.",
+      "id": "s110"
+    },
+    {
+      "text": "The others have little resonance in the evidence.",
+      "id": "s111"
+    },
+    {
+      "text": "25 I should emphasise that this proceedings has been defended strictly on the basis of the case as pleaded.",
+      "id": "s112"
+    },
+    {
+      "text": "This has been made plain throughout and there is, in my view, no room for any suggestion that the case has been conducted on some other basis.",
+      "id": "s113"
+    },
+    {
+      "text": "I do not understand the ACCC to contend otherwise.",
+      "id": "s114"
+    },
+    {
+      "text": "THE EVIDENCE \n 1.",
+      "id": "s115"
+    },
+    {
+      "text": "Background: a contentious industrial practice \n \n26 The catalyst for the events that occurred in this matter was the perception entertained ultimately both by some representatives of the CFMEU (and notably Lancsar) and of BLL (notably Little) that, in engaging ABN subcontractors, Bernmar was, or may have been, engaging in the practice of \"body hire\" or \"pyramid subcontracting\" so as to avoid award or legislative obligations to those who were performing work for it.",
+      "id": "s116"
+    },
+    {
+      "text": "27 For present purposes it is unnecessary to differentiate between \"body hire\" and \"pyramid subcontracting\".",
+      "id": "s117"
+    },
+    {
+      "text": "It is Hensley's evidence that both of them are very close to being the same.",
+      "id": "s118"
+    },
+    {
+      "text": "Hensley described \"body hire\" as where a subcontractor in turn subcontracts work to a number of individuals.",
+      "id": "s119"
+    },
+    {
+      "text": "He was prepared to exempt from his description --- though he acknowledged others might not --- those instances of sequential subcontracting where the person subcontracted has a specialisation not possessed by the person engaging that subcontractor.",
+      "id": "s120"
+    },
+    {
+      "text": "This refinement is not presently relevant.",
+      "id": "s121"
+    },
+    {
+      "text": "Bernmar was formed to provide plasterboard and painting services and its subcontractors were, on Luketic's evidence, engaged to provide plasterboard services.",
+      "id": "s122"
+    },
+    {
+      "text": "28 BLL's standard contract for subcontractors in 2003 addressed the practice of body hire.",
+      "id": "s123"
+    },
+    {
+      "text": "Clause 2.4.1 of the contract prohibited a subcontractor from subcontracting all or part of the contracted works without the prior written approval of BLL.",
+      "id": "s124"
+    },
+    {
+      "text": "It has not been suggested that such approval had been given or that this term had been varied orally in Bernmar's case.",
+      "id": "s125"
+    },
+    {
+      "text": "The Schedule of Industrial Requirements (\"the IR Schedule\") to the contract provided in cll 3.3 and 3.5 that:\n \n \n 3.3 The Subcontractor must abide by Clause 2.4.1 of the Subcontract Terms and must not engage in or be party to the practices known as 'body hire' or 'pyramid subcontracting' in executing the Works.",
+      "id": "s126"
+    },
+    {
+      "text": "...\n \n 3.5 The Subcontractor must not engage in any arrangements or practices designed to avoid award or legislative obligations including (but not limited to treating a genuine employee as an independent contractor or allowing inappropriate application of the Prescribed Payments System (PPS) of taxation).",
+      "id": "s127"
+    },
+    {
+      "text": "29 For the sake of completeness, I would note that cll 5.1 and 5.2 went on to provide:\n \n \n 5.1 Prior to commencing work on the Site the Subcontractor must make itself aware of all the procedural requirements for the Works and the Site relating to industrial matters, including all relevant legislation, awards, enterprise agreements, codes of practice, industry agreements and site agreements which may apply to the Works or the Site.",
+      "id": "s128"
+    },
+    {
+      "text": "The Subcontractor must ensure that its personnel comply with all the abovementioned legislation, awards and agreements during the execution of the Works.",
+      "id": "s129"
+    },
+    {
+      "text": "5.2 The Subcontractor must ensure that its personnel are paid, as a minimum, at the rates fixed by relevant awards, enterprise agreements or orders of industrial tribunals and are employed under the conditions (including hours of work) prescribed therein.",
+      "id": "s130"
+    },
+    {
+      "text": "30 I refer to the contractual provisions not because the evidence indicates that Hensley and Little, or for that matter Hunter, consciously adverted to their actual terms at the time.",
+      "id": "s131"
+    },
+    {
+      "text": "It does not.",
+      "id": "s132"
+    },
+    {
+      "text": "What it does establish is that Hensley and particularly Little were well aware at that time of the general burden and purposes of the provisions to which I have referred.",
+      "id": "s133"
+    },
+    {
+      "text": "While, as will be seen, those provisions acquired a contractual significance in the course of the events to which I will later refer, I mention them here primarily to illuminate the context in which those events were played out.",
+      "id": "s134"
+    },
+    {
+      "text": "31 I would add to the above the evidence of Hensley in cross-examination that, if a contractor was in breach of cl 3.5, action might be taken to rectify the situation or explain the circumstances, but he thought it very doubtful that the absence of adequate explanation or consent could lead to termination of a contract: \"It hasn't happened in my time.",
+      "id": "s135"
+    },
+    {
+      "text": "\"\n 2.",
+      "id": "s136"
+    },
+    {
+      "text": "The engagement of Bernmar \n \n32 In early January 2003, Hunter, who was BLL's project manager at the Landmark site and, according to Luketic, a friend of his for 20 years, contacted Luketic to enquire whether he was interested in tendering for a job at the site.",
+      "id": "s137"
+    },
+    {
+      "text": "Luketic told him he was interested but only if he could do it on a subcontractor basis.",
+      "id": "s138"
+    },
+    {
+      "text": "According to Luketic, Hunter said he did not have a problem with that whatsoever.",
+      "id": "s139"
+    },
+    {
+      "text": "Luketic then took steps to have Bernmar incorporated.",
+      "id": "s140"
+    },
+    {
+      "text": "He obtained a Landmark contract on about 21 January.",
+      "id": "s141"
+    },
+    {
+      "text": "33 Luketic's evidence was that he again said to Hunter that he was going to use \"subbies\" only and was told that was fine.",
+      "id": "s142"
+    },
+    {
+      "text": "He reiterated this intent on a later occasion to Hunter and again received reassurance.",
+      "id": "s143"
+    },
+    {
+      "text": "On 20 February 2003 he signed a contract with BLL to provide specified plasterboard services.",
+      "id": "s144"
+    },
+    {
+      "text": "On 21 February Hunter made him aware that the CFMEU was interested in Bernmar, Hunter, according to Luketic, saying to him that \"[w]e have to prove that your subbies are subcontractors and not employees\".",
+      "id": "s145"
+    },
+    {
+      "text": "3.",
+      "id": "s146"
+    },
+    {
+      "text": "Concerns with Bernmar's \"workers\" \n \n34 Though evidence of the genesis of the CFMEU's interest in, and concerns about, Bernmar's subcontractors is wanting, it is clear that by 20 February 2003 BLL was for a variety of reasons aware that the CFMEU was taking issue with Bernmar use of subcontractors in its work for BLL.",
+      "id": "s147"
+    },
+    {
+      "text": "Hensley's evidence was that on 20 February 2003 (the day before JDA-V negotiations were to resume) he was forewarned by Noonan that there were \"problems in Canberra\".",
+      "id": "s148"
+    },
+    {
+      "text": "He took this to be a reference to the use of ABN subcontractors there: \"the plasterboard industry in Canberra is notorious for [body-hire] arrangements\".",
+      "id": "s149"
+    },
+    {
+      "text": "He considered this to be one of a number of issues in the JDA-V negotiations.",
+      "id": "s150"
+    },
+    {
+      "text": "Though the CFMEU walked out of the meeting on 21 February, I am not at all satisfied on the evidence that the ABN subcontractors issue was the actual cause of it notwithstanding Hensley's evidence suggesting to the contrary.",
+      "id": "s151"
+    },
+    {
+      "text": "As Hensley himself conceded, a walk-out was to be expected as part of the modus operandi of the negotiations.",
+      "id": "s152"
+    },
+    {
+      "text": "35 By 21 February Little, in Canberra, had been made aware both of Lancsar's concern that Bernmar did not have workers compensation insurance for the subcontractors and of the like concern of Mr Judd, BLL's Environmental, Health, Safety and Quality Officer, who had approached him (Little) to discuss Bernmar.",
+      "id": "s153"
+    },
+    {
+      "text": "In his conversation with Judd, Little recorded an exchange to the following effect:\n Martin Little What do you think we should do about it?",
+      "id": "s154"
+    },
+    {
+      "text": "Steve Judd I think it might be a good idea to get the people from WorkCover to come on-site and explain what's required by law and to give an opinion on whether or not Bernmar needs workers' compensation insurance.",
+      "id": "s155"
+    },
+    {
+      "text": "That way, we'll have a definitive assessment by a third party.",
+      "id": "s156"
+    },
+    {
+      "text": "Martin Little That sounds like a good idea.",
+      "id": "s157"
+    },
+    {
+      "text": "Steve Judd I'll organise a meeting and let you know when it's happening.",
+      "id": "s158"
+    },
+    {
+      "text": "36 The matter I would emphasise in passing is that the ACT WorkCover meeting was organised by BLL, not the CFMEU.",
+      "id": "s159"
+    },
+    {
+      "text": "Luketic's evidence of the provenance of this meeting is that he was told by Hunter that \"[w]e've organised [the] meeting\".",
+      "id": "s160"
+    },
+    {
+      "text": "The ACCC's oral submissions attribute the resort to WorkCover as, in effect, a contrivance of Lancsar to further the CFMEU's purpose.",
+      "id": "s161"
+    },
+    {
+      "text": "37 A meeting was held on 26 February involving Little, Hunter and Judd, Lancsar and Mr Wilson of the CFMEU and Mr Ulrich and another officer of WorkCover.",
+      "id": "s162"
+    },
+    {
+      "text": "Little's oral account of the purpose of the meeting and of his resultant concerns are captured in the following exchange:\n \n \n Q [The meeting was arranged] with a view to ascertaining what the status of Mr Luketic's workforce was, in fact?",
+      "id": "s163"
+    },
+    {
+      "text": "A It was just an understanding how he was contracting and allow that opportunity for all parties to hear that from WorkCover.",
+      "id": "s164"
+    },
+    {
+      "text": "Q It was as a consequence of that meeting that you became concerned as you told us, that Mr Luketic may have been engaging in practices which may have been a breach of clause 3.5 of the agreement?",
+      "id": "s165"
+    },
+    {
+      "text": "A Correct.",
+      "id": "s166"
+    },
+    {
+      "text": "Q Can you see in paragraph 10, you record Mr Lancsar as saying certain things.",
+      "id": "s167"
+    },
+    {
+      "text": "You see that?",
+      "id": "s168"
+    },
+    {
+      "text": "A I do.",
+      "id": "s169"
+    },
+    {
+      "text": "Q You understood Mr Lancsar, did you, in saying what you record him there as saying, to be asserting that the arrangement that Mr Luketic had with his workforce was one designed to avoid award and other legislative obligations?",
+      "id": "s170"
+    },
+    {
+      "text": "A Yes, I understood that.",
+      "id": "s171"
+    },
+    {
+      "text": "Q That, in fact, accorded with your understanding or your belief at that point in time, as you have told us?",
+      "id": "s172"
+    },
+    {
+      "text": "A Correct.",
+      "id": "s173"
+    },
+    {
+      "text": "Q Immediately after this meeting, you spoke to Mr Luketic and asked him to get workers compensation insurance?",
+      "id": "s174"
+    },
+    {
+      "text": "A I did.",
+      "id": "s175"
+    },
+    {
+      "text": "Q That was the matter, although you had other matters of concern, that was the matter that was of immediate concern to you because it may have exposed BLL to some liability under the workers compensation standard?",
+      "id": "s176"
+    },
+    {
+      "text": "A Yes, that's correct.",
+      "id": "s177"
+    },
+    {
+      "text": "Q It was not the only matter that was concerning you?",
+      "id": "s178"
+    },
+    {
+      "text": "A No.",
+      "id": "s179"
+    },
+    {
+      "text": "Q The essence of your concern, if I could just encapsulate it, was whether or not what Mr Luketic was describing as subcontractors were, in effect and in truth, employees?",
+      "id": "s180"
+    },
+    {
+      "text": "A Yes.",
+      "id": "s181"
+    },
+    {
+      "text": "... \n \n Q Mr Uhlrich said to the meeting, including you, words to this effect, didn't he?",
+      "id": "s182"
+    },
+    {
+      "text": "'On balance, it appears that Bernmar's workforce are employees for the purpose of the Workers Compensation Act, therefore Bernmar is required to obtain workers compensation insurance'?",
+      "id": "s183"
+    },
+    {
+      "text": "A I believe that he did say that.",
+      "id": "s184"
+    },
+    {
+      "text": "Q That was of immediate concern to you?",
+      "id": "s185"
+    },
+    {
+      "text": "A Yes.",
+      "id": "s186"
+    },
+    {
+      "text": "Q As [you] told us, that was only one of the concerns?",
+      "id": "s187"
+    },
+    {
+      "text": "A Yes.",
+      "id": "s188"
+    },
+    {
+      "text": "... \n \n Q Now, in fact, is this the position that after the meeting of 26 February to which we've just referred, you formed the belief that Bernmar's workers were employees not subcontractors.",
+      "id": "s189"
+    },
+    {
+      "text": "Isn't that so?",
+      "id": "s190"
+    },
+    {
+      "text": "A I did.",
+      "id": "s191"
+    },
+    {
+      "text": "Q You formed that belief upon the basis of the material that had been put before the meeting with Mr Uhlrich and others on 26 February?",
+      "id": "s192"
+    },
+    {
+      "text": "A Yes.",
+      "id": "s193"
+    },
+    {
+      "text": "Q You continued to have that belief until April 2003, isn't that right?",
+      "id": "s194"
+    },
+    {
+      "text": "A Sorry, can you explain 'until April 2003'?",
+      "id": "s195"
+    },
+    {
+      "text": "Q Until the contract was terminated?",
+      "id": "s196"
+    },
+    {
+      "text": "A Yes.",
+      "id": "s197"
+    },
+    {
+      "text": "Q Was your belief between February 2003 and the date of termination, that what Mr Luketic was doing was engaging in a process designed to avoid award and other legislative requirements which you regarded as being a breach of clause 3.5 to which I've already taken you?",
+      "id": "s198"
+    },
+    {
+      "text": "A Yes, I did have that view.",
+      "id": "s199"
+    },
+    {
+      "text": "Q Your conversations with Mr Lancsar, when he referred to Mr Luketic's arrangements, you understood Mr Lancsar to have the same view as you did.",
+      "id": "s200"
+    },
+    {
+      "text": "Correct?",
+      "id": "s201"
+    },
+    {
+      "text": "I'm asking about your understanding?",
+      "id": "s202"
+    },
+    {
+      "text": "A That was my understanding.",
+      "id": "s203"
+    },
+    {
+      "text": "Whether it was right, I don't know.",
+      "id": "s204"
+    },
+    {
+      "text": "38 For the sake of completeness, I would note that by letter of 10 March 2003, Ulrich said of the 26 February meeting that in the scenarios described by Bernmar, \"the 5 subcontractors engaged could be deemed workers for the purposes of workers compensation\".",
+      "id": "s205"
+    },
+    {
+      "text": "39 Immediately after the above meeting, Little spoke to Hunter and Luketic.",
+      "id": "s206"
+    },
+    {
+      "text": "He told Luketic he needed to get workers compensation insurance; Luketic agreed.",
+      "id": "s207"
+    },
+    {
+      "text": "Little told Hunter he was \"to monitor this and ensure that the appropriate insurance cover is obtained\"; Hunter agreed.",
+      "id": "s208"
+    },
+    {
+      "text": "Luketic obtained a cover note the same day.",
+      "id": "s209"
+    },
+    {
+      "text": "Shortly thereafter Little spoke to Hunter by telephone concerning whether BLL should pay Bernmar's insurance premium.",
+      "id": "s210"
+    },
+    {
+      "text": "Hunter proposed BLL should; Little disagreed because \"he was supposed to have it from the beginning\".",
+      "id": "s211"
+    },
+    {
+      "text": "40 From conversations with Noonan on 24 and 25 February 2003, Hensley was made aware that the union wanted problems in Canberra addressed --- these included BLL's approach to the sourcing of subcontractors in the ACT --- and that a scheduled JDA-V negotiation meeting was to be cancelled because of inaction.",
+      "id": "s212"
+    },
+    {
+      "text": "By 26 February Hensley was equally aware that there was an issue over whether Bernmar was a \"legitimate subcontractor\" in relation to his workers.",
+      "id": "s213"
+    },
+    {
+      "text": "41 On 27 February Hensley went to Canberra and along with Mr Norman (Little's predecessor) he met with ACT CFMEU officials including Lancsar.",
+      "id": "s214"
+    },
+    {
+      "text": "At that meeting, according to Hensley, Lancsar indicated his view that ABN subbies were not all illegal but objection was taken to Bernmar's workforce and its legitimacy (a view that Lancsar reiterated to him on 4 March).",
+      "id": "s215"
+    },
+    {
+      "text": "Nonetheless, Hensley said he did not understand that there was an acceptance of ABN subcontractors on the site.",
+      "id": "s216"
+    },
+    {
+      "text": "He acknowledged, though, that this was not said to him.",
+      "id": "s217"
+    },
+    {
+      "text": "It was \"implied\".",
+      "id": "s218"
+    },
+    {
+      "text": "42 On 28 February, Hensley and Woodcock met with Sutton and Noonan in Sydney.",
+      "id": "s219"
+    },
+    {
+      "text": "Though he said in his witness statement that, based on this meeting, it was his belief that the CFMEU had decided at a national level to put pressure on BLL to assist the CFMEU in resolving the use of ABN subcontractors in the ACT, Hensley accepted that at the meeting BLL was only asked to ensure two things in relation to subcontractors --- that there was workers compensation coverage and there were safe work practices.",
+      "id": "s220"
+    },
+    {
+      "text": "43 Little gave evidence that in late February or early March he had a discussion with Hensley about Luketic at Hensley's instigation and from an industrial relations point of view.",
+      "id": "s221"
+    },
+    {
+      "text": "This included Little's concerns about Luketic's practices in relation to his subcontractors.",
+      "id": "s222"
+    },
+    {
+      "text": "While Hensley said he would have had discussions with Little prior to 4 March, he could not recall Little telling him he thought Bernmar did not have legitimate arrangements in place.",
+      "id": "s223"
+    },
+    {
+      "text": "He accepted, though, that there must have been a discussion about workers compensation.",
+      "id": "s224"
+    },
+    {
+      "text": "44 Lancsar and Hensley met at the CFMEU office in Canberra on 4 March 2003.",
+      "id": "s225"
+    },
+    {
+      "text": "At that meeting Lancsar made it clear to Hensley that he accepted that ABN contractors can be legitimate but that Luketic was not.",
+      "id": "s226"
+    },
+    {
+      "text": "In cross-examination Hensley accepted that he understood Lancsar to be saying that the arrangement that Luketic had with his workforce was designed to avoid legislative, award and other obligations to his workforce and if that was so there would be a breach of obligations between Bernmar and BLL.",
+      "id": "s227"
+    },
+    {
+      "text": "Lancsar indicated his view that BLL should be setting a standard of legitimate employment practices.",
+      "id": "s228"
+    },
+    {
+      "text": "Hensley did not understand Lancsar at the meeting to be suggesting that BLL ought to be getting rid of Bernmar.",
+      "id": "s229"
+    },
+    {
+      "text": "45 In his statement Hensley said that by 4 March:\n ... it was my view that it was not sensible from a commercial point of view for BLL to undertake to ensure that its subcontractors used employees rather than sole trader subcontractors in all or even most cases.",
+      "id": "s230"
+    },
+    {
+      "text": "There were two reasons for this.",
+      "id": "s231"
+    },
+    {
+      "text": "First, it was not for BLL to dictate how people were remunerated, and BLL shouldn't be dictating the employment arrangements of sub contractors.",
+      "id": "s232"
+    },
+    {
+      "text": "Secondly, to ban ABN's would make it difficult for BLL to attract labour to its projects and would be more expensive for BLL.",
+      "id": "s233"
+    },
+    {
+      "text": "I was also proceeding on the belief, (up until the meeting on 3 April 2003 referred to later in this statement), that it was likely that Mr Lancsar, who appeared to be driving the issue, could be calmed down and persuaded to cease agitating the issue if BLL improved its relationship with him.",
+      "id": "s234"
+    },
+    {
+      "text": "He nonetheless accepted in oral evidence that BLL had its own employment arrangements in place governing its subcontractors.",
+      "id": "s235"
+    },
+    {
+      "text": "Equally, in relation to banning ABN subcontractors, he said in cross-examination:\n \n \n Q Now, I think you've already agreed with me that nothing had been said to you up until that point of time which indicated that anyone from the union required BLL to ban simpliciter ABNs?",
+      "id": "s236"
+    },
+    {
+      "text": "A There wasn't a specific request to ban there.",
+      "id": "s237"
+    },
+    {
+      "text": "There was a desire.",
+      "id": "s238"
+    },
+    {
+      "text": "Q What was communicated to you, and as you've told us, was they wanted you to ban the use of ABNs which were not regarded as being a legitimate use of ABNs.",
+      "id": "s239"
+    },
+    {
+      "text": "Correct?",
+      "id": "s240"
+    },
+    {
+      "text": "A I took it as being potentially more than that, but, yes, that was the minimum.",
+      "id": "s241"
+    },
+    {
+      "text": "Q Thank you.",
+      "id": "s242"
+    },
+    {
+      "text": "You would agree that the non-legitimate use of ABNs was in any event banned under clause 3.5 of the contract between BLL and Bernmar?",
+      "id": "s243"
+    },
+    {
+      "text": "A If it was established they were non-legitimate, they would have to be fixed up, yes.",
+      "id": "s244"
+    },
+    {
+      "text": "46 On 13 March 2003, Hensley was informed that at a site meeting in New South Wales at Jackson's Landing, a mass meeting of construction workers voted to go out for 24 hours.",
+      "id": "s245"
+    },
+    {
+      "text": "They had been addressed by Sutton.",
+      "id": "s246"
+    },
+    {
+      "text": "The workers were said to have voted to go out on the bases that BLL was not moving fast enough to resolve the use of a \"shonky subbie\" (ie Bernmar) in Canberra and, distinctly, the Master Builders Association (\"MBA\") negotiations was being influenced by \"the majors over the ACT 36 hour calendar\".",
+      "id": "s247"
+    },
+    {
+      "text": "Similar votes were taken the same day at several other sites.",
+      "id": "s248"
+    },
+    {
+      "text": "THE 18 MARCH MEETING AND LETTER \n \n47 Hensley described this meeting, and the composition of the letter that was later sent by him to Sutton, in the following passages of his statement:\n On 18 March 2003, David Woodcock and I met with John Sutton at the CFMEU's National Office in Sydney.",
+      "id": "s249"
+    },
+    {
+      "text": "I think it is likely that Dave Noonan from the CFMEU was also present at this meeting.",
+      "id": "s250"
+    },
+    {
+      "text": "Words to the following effect were said during that meeting: John Sutton I want to talk about labour practices on the Landmark project.",
+      "id": "s251"
+    },
+    {
+      "text": "Nothing has been done about Bernmar.",
+      "id": "s252"
+    },
+    {
+      "text": "I want BLL to commit to ensuring that Bernmar's workforce is appropriately covered for workers' compensation, long service leave, superannuation and redundancy.",
+      "id": "s253"
+    },
+    {
+      "text": "This has to be done immediately.",
+      "id": "s254"
+    },
+    {
+      "text": "David Woodcock There are market issues down in Canberra that you should be aware of.",
+      "id": "s255"
+    },
+    {
+      "text": "There is a shortage of trades.",
+      "id": "s256"
+    },
+    {
+      "text": "Landmark was a very tightly won project.",
+      "id": "s257"
+    },
+    {
+      "text": "Things are very tight, and we're under a lot of pressure.",
+      "id": "s258"
+    },
+    {
+      "text": "This is a distressed project.",
+      "id": "s259"
+    },
+    {
+      "text": "John Sutton Don't think we'll give you leniency over that.",
+      "id": "s260"
+    },
+    {
+      "text": "It's your problem, not ours.",
+      "id": "s261"
+    },
+    {
+      "text": "We're concerned that this is signalling a move toward shonky subbies on your part.",
+      "id": "s262"
+    },
+    {
+      "text": "Give us an assurance that you're not moving that way Landmark is not a residential project.",
+      "id": "s263"
+    },
+    {
+      "text": "David Woodcock or Eric Hensley That is the nature of the market in Canberra.",
+      "id": "s264"
+    },
+    {
+      "text": "We have been through this in the past.",
+      "id": "s265"
+    },
+    {
+      "text": "ABNs are not illegal.",
+      "id": "s266"
+    },
+    {
+      "text": "John Sutton Yes, but this guy is not legitimate.",
+      "id": "s267"
+    },
+    {
+      "text": "This is not a residential project.",
+      "id": "s268"
+    },
+    {
+      "text": "If you want the JDA discussions to continue, we need some commitments from you.",
+      "id": "s269"
+    },
+    {
+      "text": "Eric Hensley We understood Bernmar was resolving the issue direct with the union.",
+      "id": "s270"
+    },
+    {
+      "text": "We see it as Bernmar's issue to resolve.",
+      "id": "s271"
+    },
+    {
+      "text": "But we do agree that it's important that Bernmar's workforce is appropriately covered and we'll do all that we can to ensure that it is.",
+      "id": "s272"
+    },
+    {
+      "text": "But it may take some time.",
+      "id": "s273"
+    },
+    {
+      "text": "We need some time to move Bernmar toward legitimacy.",
+      "id": "s274"
+    },
+    {
+      "text": "John Sutton We want a written commitment from you on what you are going to do.",
+      "id": "s275"
+    },
+    {
+      "text": "All I want is a statement.",
+      "id": "s276"
+    },
+    {
+      "text": "David Woodcock and Eric Hensley We can't do that.",
+      "id": "s277"
+    },
+    {
+      "text": "John Sutton You can.",
+      "id": "s278"
+    },
+    {
+      "text": "I'll draft it for you.",
+      "id": "s279"
+    },
+    {
+      "text": "David Woodcock We'll have a look at it.",
+      "id": "s280"
+    },
+    {
+      "text": "John Sutton then sat down and drafted the letter in front of us.",
+      "id": "s281"
+    },
+    {
+      "text": "He did this without any collaboration with us.",
+      "id": "s282"
+    },
+    {
+      "text": "When he finished writing the letter by hand he gave it to us ... We indicated to him that we would review the letter and let him know if we could send it.",
+      "id": "s283"
+    },
+    {
+      "text": "In my experience it was an unusual course of events for a union official to draft a letter for BLL to send.",
+      "id": "s284"
+    },
+    {
+      "text": "It has never happened to me before or since.",
+      "id": "s285"
+    },
+    {
+      "text": "However, I was prepared to go along with it because the letter didn't require us to do anything we weren't already doing or planning to do.",
+      "id": "s286"
+    },
+    {
+      "text": "48 After the meeting Woodcock indicated to Hensley: \"Well that was what we expected\".",
+      "id": "s287"
+    },
+    {
+      "text": "Hensley then made some changes (minor) to the letter; gave it to BLL in-house lawyers (who also suggested minor changes); and then sent it to Sutton.",
+      "id": "s288"
+    },
+    {
+      "text": "49 Formal parts apart, the letter stated:\n Further to our discussion of this afternoon please see below certain proposals that Bovis Lend Lease is prepared to commit to in relation to its operations in the ACT 1.",
+      "id": "s289"
+    },
+    {
+      "text": "Rostered Day Off Agreement Bovis will commit to 3 RDO's in 2003.",
+      "id": "s290"
+    },
+    {
+      "text": "Bovis will commit to an additional 7 RDO's in 2004 and a further 3 RDO's in 2005.",
+      "id": "s291"
+    },
+    {
+      "text": "Bovis will commit to phase in the RDO's on the above formula with the calendar to be agreed to, consisting of paid leave days, specific shut down weekends centred around key local public holidays, and a residue of a small number of flexible days.",
+      "id": "s292"
+    },
+    {
+      "text": "2.",
+      "id": "s293"
+    },
+    {
+      "text": "Sourcing of additional labour Bovis will source additional direct labour from former company employees (subject to their availability) and skills in consultation with the ACTU Branch of the CFMEU pending finalisation of the new JDA over the next few months.",
+      "id": "s294"
+    },
+    {
+      "text": "3.",
+      "id": "s295"
+    },
+    {
+      "text": "Labour practices on Landmark Project Bovis agree that the said project is not a small residential project and will advise it's subcontractors of its expectations on such a project.",
+      "id": "s296"
+    },
+    {
+      "text": "Bovis will discuss the current situation of Bernmar Pty Ltd with a view to ensuring that all its workforce is appropriately covered for workers compensation, long service leave, superannuation and redundancy.",
+      "id": "s297"
+    },
+    {
+      "text": "This situation with Bernmar Pty Ltd will be finalised within 7 days of today's date.",
+      "id": "s298"
+    },
+    {
+      "text": "Bovis will ensure all subcontractors on the project are also aware of their obligations in respect to employment practices.",
+      "id": "s299"
+    },
+    {
+      "text": "50 On the same day Hensley described the meeting to Little in words to the following effect: \n We agreed to send them a letter in which we make certain commitments regarding labour practices on the Landmark Project.",
+      "id": "s300"
+    },
+    {
+      "text": "I'll send you a copy of it.",
+      "id": "s301"
+    },
+    {
+      "text": "Basically, it just sets out what we're already doing.",
+      "id": "s302"
+    },
+    {
+      "text": "We say that we will discuss the current situation of Bernmar with a view to ensuring that all Bernmar's workforce is appropriately covered for workers' compensation, long service leave, superannuation and redundancy.",
+      "id": "s303"
+    },
+    {
+      "text": "It doesn't say that Bernmar has to have any of those things, but just that we'll discuss the situation to ensure that it's appropriately covered.",
+      "id": "s304"
+    },
+    {
+      "text": "We also commit to ensuring that all subcontractors on the project are aware of their obligations in respect of employment practices.",
+      "id": "s305"
+    },
+    {
+      "text": "I don't think it adds anything more than we've been talking about already.",
+      "id": "s306"
+    },
+    {
+      "text": "51 As to the meeting and the letter Hensley said in oral evidence that:\n \n(i) he had no clear recollection of Noonan being there for the full meeting and he did not believe he was there when the letter was written; \n \n(ii) the use of the word \"appropriately\" in the conversation and the letter was significant and meant \"appropriate\" as discussed with Lancsar, ie there were persons on ABNs \"but they've got to be appropriately covered\" as well as \"appropriately\" under the contract (whatever this last may have signified); \n \n(iii) at no time did he understand Sutton was saying to him at the meeting, or any one from the union at any other time, that BLL was to arrange an enterprise bargaining agreement between Bernmar and its workforce; \n \n(iv) moving \"Bernmar toward legitimacy\" meant to \"correct employment relations\".",
+      "id": "s307"
+    },
+    {
+      "text": "The cross-examination of Hensley on this topic is emblematic of how he gave evidence: \n Q Now, you then say: We need some time to move Bernmar toward legitimacy.",
+      "id": "s308"
+    },
+    {
+      "text": "Do you see that?",
+      "id": "s309"
+    },
+    {
+      "text": "A Yes.",
+      "id": "s310"
+    },
+    {
+      "text": "Q Now, by 'legitimacy', you there meant, did you not, legitimacy in terms of the industrial relations between Bernmar and its workforce.",
+      "id": "s311"
+    },
+    {
+      "text": "Correct?",
+      "id": "s312"
+    },
+    {
+      "text": "A It was more the union's definition of 'legitimacy.",
+      "id": "s313"
+    },
+    {
+      "text": "' They were the ones who raised those words.",
+      "id": "s314"
+    },
+    {
+      "text": "If it was getting closer to their definition, I was happy there was movement.",
+      "id": "s315"
+    },
+    {
+      "text": "Q Mr Hensley, by the use of the term 'legitimacy' there, you had in mind correct employment arrangements, didn't you?",
+      "id": "s316"
+    },
+    {
+      "text": "A Yes, of course.",
+      "id": "s317"
+    },
+    {
+      "text": "Q By 'correct employment arrangements,' you were there communicating to Mr Sutton that you did not regard the employment relations between Bernmar and its workforce as being correct and that you needed sometime [sic] to move that relationship to a correct position.",
+      "id": "s318"
+    },
+    {
+      "text": "Isn't that so?",
+      "id": "s319"
+    },
+    {
+      "text": "A Certainly the improvement --- there needed to be improvement in the relationship and the contractual arrangements.",
+      "id": "s320"
+    },
+    {
+      "text": "I believed the detail of that wasn't totally known.",
+      "id": "s321"
+    },
+    {
+      "text": "Q You, Mr Hensley, when you used the words 'we need sometime [sic] to move Bernmar to legitimacy' had in mind firstly that the relationship between Bernmar and its workforce was not legitimate in the sense that we have discussed.",
+      "id": "s322"
+    },
+    {
+      "text": "Isn't that so?",
+      "id": "s323"
+    },
+    {
+      "text": "A Based on the claim we were told, yes.",
+      "id": "s324"
+    },
+    {
+      "text": "Q No, not based on the claim you were told.",
+      "id": "s325"
+    },
+    {
+      "text": "You had in mind when you used the words that you needed time to move Bernmar towards legitimacy that the relationship between Bernmar and its workforce was not legitimate in the sense that we have discussed.",
+      "id": "s326"
+    },
+    {
+      "text": "Is that not so?",
+      "id": "s327"
+    },
+    {
+      "text": "A We were told that.",
+      "id": "s328"
+    },
+    {
+      "text": "Certainly the relationship between the union and Bernmar needed improvement, but I would expect --- and I have to take it on face value that there were concerns with that relationship between the employees or ABN and Bernmar.",
+      "id": "s329"
+    },
+    {
+      "text": "Q Mr Hensley, the words that you used were: \n \n \n We need sometime [sic] to move Bernmar toward legitimacy.",
+      "id": "s330"
+    },
+    {
+      "text": "Do you see that?",
+      "id": "s331"
+    },
+    {
+      "text": "A Yes.",
+      "id": "s332"
+    },
+    {
+      "text": "Q You were there talking about BLL needing time to move Bernmar toward legitimacy, were you not?",
+      "id": "s333"
+    },
+    {
+      "text": "A Yes.",
+      "id": "s334"
+    },
+    {
+      "text": "Q What you were communicating to Mr Sutton was, firstly, 'We'; that is, BLL, 'did not regard the relationship between Bernmar and its workforce as being legitimate', in the sense that we have discussed.",
+      "id": "s335"
+    },
+    {
+      "text": "Is that not so?",
+      "id": "s336"
+    },
+    {
+      "text": "A Yes.",
+      "id": "s337"
+    },
+    {
+      "text": "Q And secondly that you needed time; that is, BLL needed time, to move that relationship from a position of illegitimacy to one of legitimacy.",
+      "id": "s338"
+    },
+    {
+      "text": "Is that not so?",
+      "id": "s339"
+    },
+    {
+      "text": "A We were on that path, yes.",
+      "id": "s340"
+    },
+    {
+      "text": "Q Yes.",
+      "id": "s341"
+    },
+    {
+      "text": "You were on that path independently of anything that the union had said to you previously.",
+      "id": "s342"
+    },
+    {
+      "text": "Correct?",
+      "id": "s343"
+    },
+    {
+      "text": "A Independently?",
+      "id": "s344"
+    },
+    {
+      "text": "Q Yes?",
+      "id": "s345"
+    },
+    {
+      "text": "A From 24 February, certainly --- sorry --- from the 26 th when the audit was done, there was movement in improving the paperwork on the job.",
+      "id": "s346"
+    },
+    {
+      "text": "Q Yes.",
+      "id": "s347"
+    },
+    {
+      "text": "Now, you were asked about this, just to be very clear about it, in the interview referred to in MFI 1 [with the ACCC].",
+      "id": "s348"
+    },
+    {
+      "text": "You were asked this question:\n \n \n \n \n \n Did you agree with John Sutton that the Bernmar issue would be fixed?---I'm not sure what you mean by fixed.",
+      "id": "s349"
+    },
+    {
+      "text": "That their - - -?---They had to comply.",
+      "id": "s350"
+    },
+    {
+      "text": "We needed sometime [sic] to move Bernmar towards legitimacy, you know, correct employment arrangements.",
+      "id": "s351"
+    },
+    {
+      "text": "Do you recall giving that answer?",
+      "id": "s352"
+    },
+    {
+      "text": "A Along those lines, yes.",
+      "id": "s353"
+    },
+    {
+      "text": "Q Well, not along those lines.",
+      "id": "s354"
+    },
+    {
+      "text": "Do you recall giving that answer?",
+      "id": "s355"
+    },
+    {
+      "text": "A If that was recorded, yes.",
+      "id": "s356"
+    },
+    {
+      "text": "Q Well, let me show you page 79 of MFI 1, top of the page.",
+      "id": "s357"
+    },
+    {
+      "text": "It's question 477 down to the answer after question 479 above the words 'Ms Lowther.",
+      "id": "s358"
+    },
+    {
+      "text": "' It's towards the very end.",
+      "id": "s359"
+    },
+    {
+      "text": "About two pages from the end?",
+      "id": "s360"
+    },
+    {
+      "text": "A Yes, I see this.",
+      "id": "s361"
+    },
+    {
+      "text": "Q You agree that they were the questions and the answers that you gave as I read them out to you earlier?",
+      "id": "s362"
+    },
+    {
+      "text": "A Yes.",
+      "id": "s363"
+    },
+    {
+      "text": "Q Those answers which you gave and which I read out were true.",
+      "id": "s364"
+    },
+    {
+      "text": "Is that not so?",
+      "id": "s365"
+    },
+    {
+      "text": "A That's correct.",
+      "id": "s366"
+    },
+    {
+      "text": "(v) he agreed that when he read the letter his reaction to it was that he was prepared to go along with it, as he said in his statement, because it did not require BLL to do anything which they were not already doing.",
+      "id": "s367"
+    },
+    {
+      "text": "His cross-examination on this was as follows:\n \n \n Q What you were already doing was trying to move Bernmar's relationship with its workforce to a state of legitimacy --- isn't that so?",
+      "id": "s368"
+    },
+    {
+      "text": "--- since February 2003.",
+      "id": "s369"
+    },
+    {
+      "text": "Correct?",
+      "id": "s370"
+    },
+    {
+      "text": "A Yes.",
+      "id": "s371"
+    },
+    {
+      "text": "Q You were doing that in light of the powers that were reserved to BLL under the schedule of industrial relations under its contract with Bernmar.",
+      "id": "s372"
+    },
+    {
+      "text": "Isn't that right?",
+      "id": "s373"
+    },
+    {
+      "text": "A At that time, referring to the schedule of industrial relations, no.",
+      "id": "s374"
+    },
+    {
+      "text": "It was about legitimacy and, you say, moving the union and Bernmar together to discuss their relationships.",
+      "id": "s375"
+    },
+    {
+      "text": "Q Mr Hensley, we've been through the question of legitimacy before?",
+      "id": "s376"
+    },
+    {
+      "text": "A I know.",
+      "id": "s377"
+    },
+    {
+      "text": "Q My question to you --- and it couldn't have been clear or no doubt you would have given me a direct answer, and I'm sorry if it wasn't, but what you were already doing and had been doing since February was endeavouring to move Bernmar to a state of legitimacy in the relations it had with its employees relying upon the schedule of industrial relations within the contract between Bernmar and BLL.",
+      "id": "s378"
+    },
+    {
+      "text": "Correct?",
+      "id": "s379"
+    },
+    {
+      "text": "A Me personally or the company?",
+      "id": "s380"
+    },
+    {
+      "text": "Q The company?",
+      "id": "s381"
+    },
+    {
+      "text": "A The company, yes.",
+      "id": "s382"
+    },
+    {
+      "text": "Q Yes.",
+      "id": "s383"
+    },
+    {
+      "text": "Because moving Bernmar's relations with its workforce to a state of legitimacy was a matter of importance to BLL, was it not?",
+      "id": "s384"
+    },
+    {
+      "text": "A Yes, it is.",
+      "id": "s385"
+    },
+    {
+      "text": "Q And yes it was?",
+      "id": "s386"
+    },
+    {
+      "text": "A Yes, it was.",
+      "id": "s387"
+    },
+    {
+      "text": "It always is.",
+      "id": "s388"
+    },
+    {
+      "text": "Q As at 18 March, you --- and by 'you' I mean the company BLL --- were planning to continue to do so, as best it could, in terms of the schedule of industrial relations.",
+      "id": "s389"
+    },
+    {
+      "text": "Correct?",
+      "id": "s390"
+    },
+    {
+      "text": "A Yes.",
+      "id": "s391"
+    },
+    {
+      "text": "In re-examination Hensley said, in reference to this answer, that he did not speak to anyone in the company at or about 18 March 2003 who made reference to the IR Schedule.",
+      "id": "s392"
+    },
+    {
+      "text": "(vi) in agreeing to, and sending, the letter Hensley's purpose was not to hinder BLL in its acquisition of services from Bernmar.",
+      "id": "s393"
+    },
+    {
+      "text": "THE ALLEGED 18 MARCH 2003 ARRANGEMENT OR UNDERSTANDING \n \n52 The claim as pleaded is of an arrangement or understanding including a provision that, in compliance with the CFMEU's demands, BLL would take steps to ensure that Bernmar's workers (i) were engaged as employees; or (ii) were covered for workers compensation, long service leave, superannuation and redundancy.",
+      "id": "s394"
+    },
+    {
+      "text": "53 The first of these alternatives can be dismissed shortly.",
+      "id": "s395"
+    },
+    {
+      "text": "Whatever may have been the CFMEU's desires, there is no evidence reasonably to support a finding that the CFMEU demanded that BLL would take steps to ensure that Bernmar's workers were to be engaged as employees as such.",
+      "id": "s396"
+    },
+    {
+      "text": "In oral submissions Mr O'Bryan QC conceded that the ACCC was not submitting that Bernmar's workers were to be turned into employees for all purposes.",
+      "id": "s397"
+    },
+    {
+      "text": "If this be the case, then I have considerable difficulty in understanding what the alleged \"employee requirement\" actually signified --- if it was intended to signify anything more than the second alternative relating to cover for workers compensation etc. Hensley gave no evidence of any CFMEU demand that BLL ensure Bernmar workers were engaged as employees.",
+      "id": "s398"
+    },
+    {
+      "text": "And he did not understand BLL was being asked to arrange an enterprise bargaining agreement between Bernmar and its workforce.",
+      "id": "s399"
+    },
+    {
+      "text": "54 The essence of the ACCC's second alternative would seem to be as follows.",
+      "id": "s400"
+    },
+    {
+      "text": "There clearly was an arrangement or understanding in the terms of the 18 March 2003 letter.",
+      "id": "s401"
+    },
+    {
+      "text": "That arrangement or understanding obliged BLL to ensure that Bernmar's workforce were covered, as if employees, for workers compensation, long service leave, superannuation and redundancy.",
+      "id": "s402"
+    },
+    {
+      "text": "A purpose of this provision included (as put in closing written submissions):\n \n \n (a) hindering BLL from acquiring or continuing to acquire services from Bernmar, contrary to section 45E(3)(a), in that the provision had an object of making more prescriptive the terms and conditions upon which BLL had hitherto acquired the services from Bernmar (because hitherto BLL was indifferent as to the basis upon which Bernmar engaged its workforce) and it also inserted a more onerous condition into the existing relationship; and \n \n (b) preventing or hindering BLL from acquiring or continuing to acquire services from Bernmar except subject to a condition that was not a condition to which the acquisition of services from Bernmar had previously been subject, and was about the manner in which or the terms on which Bernmar may supply services to BLL, contrary to section 45E(3)(b).",
+      "id": "s403"
+    },
+    {
+      "text": "55 In my view the letter in its setting merely demonstrated BLL's preparedness, in response to the CFMEU's importuning, to make plain to the relevant CFMEU officials what they had wished to have made plain.",
+      "id": "s404"
+    },
+    {
+      "text": "This was that BLL would discuss the current situation with Bernmar with a view to ensuring that all its workforce was appropriately covered for workers compensation etc, and that the situation would be finalised within seven days.",
+      "id": "s405"
+    },
+    {
+      "text": "While there may have been considerable potential ambiguity in the terms of the letter as such, those terms considered in the context of the matter itself plainly enough indicated that a course would be pursued which involved the making of judgments (hence the importance of the word \"appropriate\") and the taking of actions (as Bernmar was moved to legitimacy) within a specified period.",
+      "id": "s406"
+    },
+    {
+      "text": "I do not speculate on whether Sutton expected such ready compliance from BLL's officials.",
+      "id": "s407"
+    },
+    {
+      "text": "What the evidence establishes is that Hensley --- and, inferentially, Woodcock --- agreed to send the letter because in their view it committed BLL to no more than what it was already doing or planned to do having regard to the JDA-V negotiations.",
+      "id": "s408"
+    },
+    {
+      "text": "56 While the evidence suggests some level of inadequacy in internal communications, it is clear, and I so find that, far from being indifferent to the bases upon which Bernmar engaged its workforce (Hunter's representations to Luketic notwithstanding), concerns were entertained on that score in BLL and by, variously, Hensley, Little and Judd.",
+      "id": "s409"
+    },
+    {
+      "text": "Probably from late February or early March, Hensley was aware that the ABN subcontractor issue in Canberra was an impediment to the prosecution of the JDA-V negotiations and that Bernmar was becoming a catalyst of this.",
+      "id": "s410"
+    },
+    {
+      "text": "I am satisfied that probably several weeks prior to the 18 March meeting, Hensley had been apprised by Little of the workers compensation issue; he fully understood Lancsar's position as to the illegitimacy of the basis upon which Bernmar's workforce had been engaged; and he independently had reached his own understanding that Bernmar had to be moved toward a \"state of legitimacy\" in its relations with its workforce.",
+      "id": "s411"
+    },
+    {
+      "text": "I do not consider it of particular moment whether or not Hensley's point of reference in this was BLL's subcontract and its IR Schedule.",
+      "id": "s412"
+    },
+    {
+      "text": "Hensley understood both what was the issue and its significance, and that it required address because, as he conceded, it was a matter of importance to BLL.",
+      "id": "s413"
+    },
+    {
+      "text": "57 From late February 2003 Little likewise formed concerns about Bernmar and its workforce, prompted initially by Judd.",
+      "id": "s414"
+    },
+    {
+      "text": "I reiterate, it was Judd's suggestion that the 26 February WorkCover meeting be arranged by BLL.",
+      "id": "s415"
+    },
+    {
+      "text": "It is unnecessary for me to repeat Little's concerns generally (which he understood to be the same as Lancsar's), although I note again he was concerned about BLL's possible financial exposure because of Bernmar's lack of workers compensation cover.",
+      "id": "s416"
+    },
+    {
+      "text": "I accept Little's evidence that he informed Hensley of his concerns and that they had discussed Hensley's concerns about Luketic's practices in relation to his ABN subbies, albeit Hensley raised these as industrial relations issues.",
+      "id": "s417"
+    },
+    {
+      "text": "Though Hensley could not specifically recall these discussions, considered in context, I infer that they probably contributed to Hensley's own understanding of the issue concerning Bernmar's workforce.",
+      "id": "s418"
+    },
+    {
+      "text": "58 I am satisfied that BLL through Hensley independently had arrived at the view in late February or early March that Bernmar's engagement of its workforce had the character of body hire and that the workforce ought not to have been subcontractors but ought to have had appropriate cover for workers compensation, long service leave, superannuation and redundancy arrangements.",
+      "id": "s419"
+    },
+    {
+      "text": "I equally am satisfied that Hensley considered that he could properly insist that such coverage should be provided by Bernmar --- that it could be so moved to legitimacy.",
+      "id": "s420"
+    },
+    {
+      "text": "59 Though the ACCC has raised the issue of the CFMEU seeking in effect to enforce BLL's contract with Bernmar, I am satisfied that the parties at the time dealt with the matter without specific regard to the precise terms of that contract.",
+      "id": "s421"
+    },
+    {
+      "text": "Nonetheless, they had an informed understanding of what was, or was not, to be considered inappropriate or illegitimate practice and Hensley was well aware of the reflection of these in the usual prescriptions and proscriptions of BLL's standard form contracts with subcontractors and in the IR Schedule \"template\" to use his description of the standard schedules with which, I infer, he was well familiar.",
+      "id": "s422"
+    },
+    {
+      "text": "BLL had its own self-interest to protect in ensuring that Bernmar did not so offend in its practices and it had since late February been seeking to have Bernmar conform to appropriate or legitimate practice.",
+      "id": "s423"
+    },
+    {
+      "text": "60 While in the 18 March letter BLL indicated proposals it was \"prepared to commit to\" in the ACT, it saw those concerning Bernmar as involving no fresh adoption by it of a proposed course of conduct.",
+      "id": "s424"
+    },
+    {
+      "text": "That course had been pursued independently from late February.",
+      "id": "s425"
+    },
+    {
+      "text": "What, probably, was new was the setting of a seven day time limit within which \"[the] situation with Bernmar Pty Ltd [would] be finalised\".",
+      "id": "s426"
+    },
+    {
+      "text": "Though not itself the product of a consensus, the proposed course was, in the circumstances, the subject of a consensus between BLL and the CFMEU and one through which BLL could properly be said to have obliged itself to act as it proposed it would.",
+      "id": "s427"
+    },
+    {
+      "text": "In such circumstances, for s 45E(3) purposes, BLL's subjective purpose in so committing itself is of the first importance.",
+      "id": "s428"
+    },
+    {
+      "text": "61 I have indicated above that BLL through Hensley had independently arrived at the view that Bernmar's engagement of its workforce had the character of body hire and that its workforce ought to have had appropriate cover for workers compensation, long service leave, superannuation and redundancy arrangements.",
+      "id": "s429"
+    },
+    {
+      "text": "62 I have also indicated that, while I consider BLL (through Hensley) was not acting with reference to the precise terms of the BLL-Bernmar contract as such, it did have an informed understanding of what was, or was not, to be considered inappropriate or illegitimate industrial relations practice and was acting accordingly.",
+      "id": "s430"
+    },
+    {
+      "text": "This said, I am not satisfied that what BLL was doing or planning to do, with a view to ensuring appropriate cover etc for Bernmar's workforce, was not in substance open to it under, and in furtherance of the intendment of, the terms of its contract with Bernmar.",
+      "id": "s431"
+    },
+    {
+      "text": "The ACCC contends that, as the contract and the IR Schedule did not contain express provisions relating to long service leave, etc, the alleged provision had an object of making more prescriptive the terms and conditions on which BLL acquired services from Bernmar.",
+      "id": "s432"
+    },
+    {
+      "text": "This contention I consider to be more one of form than of substance.",
+      "id": "s433"
+    },
+    {
+      "text": "The contract and IR Schedule do address the industrial relations issue that BLL was seeking to address in moving Bernmar to legitimacy.",
+      "id": "s434"
+    },
+    {
+      "text": "Hensley made plain that his purpose was not to hinder or prevent BLL from acquiring services from Bernmar.",
+      "id": "s435"
+    },
+    {
+      "text": "I accept that evidence.",
+      "id": "s436"
+    },
+    {
+      "text": "If there was an agreement or understanding containing a provision as alleged, the subjective purpose for the inclusion of that provision was, in BLL's case, to ensure compliance with the law and appropriate industrial relations practice.",
+      "id": "s437"
+    },
+    {
+      "text": "The latter, in my view, was consistent, ultimately, with the obvious intent of BLL's contract with Bernmar.",
+      "id": "s438"
+    },
+    {
+      "text": "If there was an arrangement or understanding between BLL and the CFMEU or its officers, it was not one that contained a provision included for a purpose proscribed by s 45E(3).",
+      "id": "s439"
+    },
+    {
+      "text": "63 I should reiterate for the sake of completeness that, while evidence was led of Hunter's representations concerning Luketic's engagement of subcontractors, no case of oral variation of the standard form contract for subcontractors was pleaded or advanced at the hearing.",
+      "id": "s440"
+    },
+    {
+      "text": "5.",
+      "id": "s441"
+    },
+    {
+      "text": "After the 18 March 2003 letter \n \n64 On the day following the meeting of 18 March, Hensley asked Little if he could follow up on the letter sent to Sutton.",
+      "id": "s442"
+    },
+    {
+      "text": "It was Hensley's intent in this that Little was to talk to Luketic to ensure that he was talking to Lancsar.",
+      "id": "s443"
+    },
+    {
+      "text": "There is no evidence that this intent was explicitly communicated to Little.",
+      "id": "s444"
+    },
+    {
+      "text": "65 Little's evidence is that he met Hensley on 24 March to discuss Bernmar.",
+      "id": "s445"
+    },
+    {
+      "text": "Hensley asked him whether anything had happened that he should know about.",
+      "id": "s446"
+    },
+    {
+      "text": "Little said he replied: \n No.",
+      "id": "s447"
+    },
+    {
+      "text": "As far as I know, Bernmar and the CFMEU are sorting it out between themselves, with help from Frank [Gillingham, the Director of Industrial relations for the MBA of the ACT].",
+      "id": "s448"
+    },
+    {
+      "text": "I would note in passing a statement of Mr Gillingham was put in evidence.",
+      "id": "s449"
+    },
+    {
+      "text": "I have not derived particular assistance from it.",
+      "id": "s450"
+    },
+    {
+      "text": "Later on 24 March Little attended a meeting with Hensley, and Lancsar and Mr Parry of the CFMEU.",
+      "id": "s451"
+    },
+    {
+      "text": "The primary topic discussed was not Bernmar though it was referred to briefly by either Hensley or Little himself.",
+      "id": "s452"
+    },
+    {
+      "text": "Little said either Lancsar or Parry indicated they were meeting Bernmar the following day.",
+      "id": "s453"
+    },
+    {
+      "text": "66 Hensley also gave evidence of the joint meeting with Lancsar and Parry.",
+      "id": "s454"
+    },
+    {
+      "text": "He said he had Little organise it \"to discuss, among other things, the issues outlined in my letter to John Sutton\".",
+      "id": "s455"
+    },
+    {
+      "text": "Detailed evidence of discussion of those issues was not given.",
+      "id": "s456"
+    },
+    {
+      "text": "On the same day Hensley spoke to Gillingham who advised him that he and Luketic were going to dispute WorkCover's assessment of Bernmar's workforce.",
+      "id": "s457"
+    },
+    {
+      "text": "67 From 25 March until 2 April Little was in New Zealand and did not attend to any work matters during that time.",
+      "id": "s458"
+    },
+    {
+      "text": "This, as I will indicate, is not without significance.",
+      "id": "s459"
+    },
+    {
+      "text": "68 On 27 March Hensley informed a number of BLL senior management that, following discussions with Noonan, a meeting for the JDA-V negotiations had been scheduled for 3 April.",
+      "id": "s460"
+    },
+    {
+      "text": "On 31 March he made enquiries of a BLL official as to whether Bernmar's workforce was being appropriately remunerated.",
+      "id": "s461"
+    },
+    {
+      "text": "From a sparse reply of 1 April 2003, he formed the view they were.",
+      "id": "s462"
+    },
+    {
+      "text": "I do not regard this evidence as of any positive significance.",
+      "id": "s463"
+    },
+    {
+      "text": "69 To backtrack, on 25 March Luketic was offered significant additional work at the Landmark site by Hunter.",
+      "id": "s464"
+    },
+    {
+      "text": "He agreed to it.",
+      "id": "s465"
+    },
+    {
+      "text": "Luketic said he was asked by Mr Rosin of BLL on 27 March whether he would ask if his subbies would be interested in becoming employees of Bernmar on full conditions.",
+      "id": "s466"
+    },
+    {
+      "text": "He later met with his subcontractors.",
+      "id": "s467"
+    },
+    {
+      "text": "Two of the six indicated they were interested and this response was passed on to Rosin.",
+      "id": "s468"
+    },
+    {
+      "text": "70 On 31 March Luketic met with Lancsar and Gillingham.",
+      "id": "s469"
+    },
+    {
+      "text": "He told Lancsar that two of his subbies might be employees in a couple of weeks and that he had been given further work.",
+      "id": "s470"
+    },
+    {
+      "text": "He reported Lancsar as saying that nobody would be working at Landmark \"unless they're on wages and full conditions\" and, in relation to the new work, that he would have let Luketic go if he only had to finish his old work.",
+      "id": "s471"
+    },
+    {
+      "text": "6.",
+      "id": "s472"
+    },
+    {
+      "text": "The 3 April 2003 meeting \n \n71 This JDA-V negotiations meeting was held in Sydney at BLL's office and was attended by a significant number of BLL representatives and a small number of predominantly CFMEU union officials.",
+      "id": "s473"
+    },
+    {
+      "text": "For present purposes, Hensley and Little were present, as were Noonan and Lancsar.",
+      "id": "s474"
+    },
+    {
+      "text": "Shortly before 10.00 am when the negotiations were scheduled to commence Noonan approached Hensley and said, according to Hensley, words to the effect:\n We've got big problems.",
+      "id": "s475"
+    },
+    {
+      "text": "We're not going to meet because BLL has not resolved the ACT issue.",
+      "id": "s476"
+    },
+    {
+      "text": "I want to speak to you Eric and you (pointing to Martin Little).",
+      "id": "s477"
+    },
+    {
+      "text": "Hensley's evidence was that, as far as he knew, the concerns about Bernmar had been addressed.",
+      "id": "s478"
+    },
+    {
+      "text": "He, Little, Noonan and Lancsar then went to a separate room where words to the following effect were said:\n Dave Noonan We're not going anywhere on this.",
+      "id": "s479"
+    },
+    {
+      "text": "We're not continuing with the negotiation until the issue with Canberra is resolved.",
+      "id": "s480"
+    },
+    {
+      "text": "It is my understanding that Dave Noonan was here referring to the use of subcontractors by Bernmar.",
+      "id": "s481"
+    },
+    {
+      "text": "Eric Hensley What do you mean?",
+      "id": "s482"
+    },
+    {
+      "text": "They're talking.",
+      "id": "s483"
+    },
+    {
+      "text": "They're sorting things out.",
+      "id": "s484"
+    },
+    {
+      "text": "Dave Noonan That's not what Les tells me.",
+      "id": "s485"
+    },
+    {
+      "text": "Eric Hensley (to Martin Little) I thought this was on track --- what's going on?",
+      "id": "s486"
+    },
+    {
+      "text": "Martin Little So did I. Eric Hensley (to Dave Noonan) What do you expect us to do?",
+      "id": "s487"
+    },
+    {
+      "text": "Dave Noonan You'll think of something creative.",
+      "id": "s488"
+    },
+    {
+      "text": "You guys are professionals at screwing subbies, we don't need to tell you how to do your job.",
+      "id": "s489"
+    },
+    {
+      "text": "Speak to your boss Woodcock.",
+      "id": "s490"
+    },
+    {
+      "text": "You'll work it out.",
+      "id": "s491"
+    },
+    {
+      "text": "Hensley said he appreciated from Noonan's demeanour that the issue was serious and that Lancsar was \"very wound up\".",
+      "id": "s492"
+    },
+    {
+      "text": "The meeting lasted less than a minute.",
+      "id": "s493"
+    },
+    {
+      "text": "72 In his oral evidence of the above encounter Hensley accepted that Noonan was not asking him and Little to do anything specific and that he understood that the ball was in his court to work out what it was he was going to do to legitimise the employment relationship between Bernmar and its workforce.",
+      "id": "s494"
+    },
+    {
+      "text": "I would note in passing that Hensley has acknowledged he did not have notes of the above conversations or for that matter of any conversations at or surrounding the 3 April meeting.",
+      "id": "s495"
+    },
+    {
+      "text": "73 Little's account in his statement of the encounter was that after he and Hensley were told by Noonan that he wanted to speak to them, they went to a large meeting room where words to the following effect were spoken: \n David Noonan The matter of the shonky subcontractor in the ACT hasn't been resolved.",
+      "id": "s496"
+    },
+    {
+      "text": "You've had plenty of time to resolve it.",
+      "id": "s497"
+    },
+    {
+      "text": "There has been no effort by BLL to resolve the issue.",
+      "id": "s498"
+    },
+    {
+      "text": "We've discussed it and decided we won't progress with the negotiations until this matter is resolved.",
+      "id": "s499"
+    },
+    {
+      "text": "Eric Hensley We've been having meetings with the local union people.",
+      "id": "s500"
+    },
+    {
+      "text": "Matters have been discussed.",
+      "id": "s501"
+    },
+    {
+      "text": "Steps have been taken to resolve this issue.",
+      "id": "s502"
+    },
+    {
+      "text": "Martin Little Bernmar is meeting with the union.",
+      "id": "s503"
+    },
+    {
+      "text": "David Noonan That's not good enough.",
+      "id": "s504"
+    },
+    {
+      "text": "This has to be resolved now, before anything else happens.",
+      "id": "s505"
+    },
+    {
+      "text": "David Noonan Let's meet separately.",
+      "id": "s506"
+    },
+    {
+      "text": "Eric Hensley, David Noonan, Les Lancsar and I then left the large meeting, passed back through the lobby, and went into a smaller meeting room across the lobby.",
+      "id": "s507"
+    },
+    {
+      "text": "David Noonan Fix it now or we'll start shutting down projects around the country; and JDA negotiations will not continue.",
+      "id": "s508"
+    },
+    {
+      "text": "Martin Little I thought you were meeting with Bernmar.",
+      "id": "s509"
+    },
+    {
+      "text": "Les Lancsar There is no hope of Bernmar and the union sorting it out between themselves.",
+      "id": "s510"
+    },
+    {
+      "text": "Eric Hensley or Martin Little We need some time to think about this.",
+      "id": "s511"
+    },
+    {
+      "text": "David Noonan I want immediate action.",
+      "id": "s512"
+    },
+    {
+      "text": "This needs to be fixed now.",
+      "id": "s513"
+    },
+    {
+      "text": "74 In oral evidence he likewise accepted that Noonan did not say he wanted Bernmar's contract terminated.",
+      "id": "s514"
+    },
+    {
+      "text": "He equally accepted that Noonan wanted the matter of Luketic fixed but he left it entirely to Hensley and himself to work out how that was going to happen.",
+      "id": "s515"
+    },
+    {
+      "text": "Little indicated he had a clear recollection of this encounter because of its significance to the 3 April meeting and of \"the way it was carried out by Dave Noonan\" whom he later described as appearing agitated and overly aggressive: \"he wouldn't brook any discussion from Mr Hensley or myself and cut us off.",
+      "id": "s516"
+    },
+    {
+      "text": "\"\n \n75 After the encounter with Noonan and, probably, Lancsar, the parties separated and Hensley and Little had a discussion as to how BLL should respond.",
+      "id": "s517"
+    },
+    {
+      "text": "Hensley's account of this in his statement was to the following effect:\n Eric Hensley What have we been doing for the past month?",
+      "id": "s518"
+    },
+    {
+      "text": "What is going on?",
+      "id": "s519"
+    },
+    {
+      "text": "This guy is still not complying.",
+      "id": "s520"
+    },
+    {
+      "text": "We need to do something about this now.",
+      "id": "s521"
+    },
+    {
+      "text": "We can't let this drag on.",
+      "id": "s522"
+    },
+    {
+      "text": "Martin Little I agree.",
+      "id": "s523"
+    },
+    {
+      "text": "I thought it was all done.",
+      "id": "s524"
+    },
+    {
+      "text": "Les and Bernie got together.",
+      "id": "s525"
+    },
+    {
+      "text": "Eric Hensley Well it's obviously not happening.",
+      "id": "s526"
+    },
+    {
+      "text": "What are we going to do about it?",
+      "id": "s527"
+    },
+    {
+      "text": "What's your solution?",
+      "id": "s528"
+    },
+    {
+      "text": "Martin Little I don't think we can keep him on the job any longer.",
+      "id": "s529"
+    },
+    {
+      "text": "We've given him lots of opportunities to fix things up.",
+      "id": "s530"
+    },
+    {
+      "text": "I think there's an area in his contract which can explore.",
+      "id": "s531"
+    },
+    {
+      "text": "Workers compensation may be an issue.",
+      "id": "s532"
+    },
+    {
+      "text": "We might be able to terminate his contract for non-compliance with insurance.",
+      "id": "s533"
+    },
+    {
+      "text": "Eric Hensley Let's give Woody a call.",
+      "id": "s534"
+    },
+    {
+      "text": "Anyway this guy shouldn't be punished.",
+      "id": "s535"
+    },
+    {
+      "text": "We don't want to go down the back-charge route.",
+      "id": "s536"
+    },
+    {
+      "text": "We need to talk to Woody about this.",
+      "id": "s537"
+    },
+    {
+      "text": "If there is a legal way of terminating his contract we should consider that.",
+      "id": "s538"
+    },
+    {
+      "text": "76 In cross-examination Hensley indicated that the reference to Luketic \"still not complying\" related to his non-compliance with the BLL-Bernmar contract and that that had been on the agenda since late February 2003.",
+      "id": "s539"
+    },
+    {
+      "text": "77 Hensley's statement continued:\n At this time, it was my view that after six weeks of discussion with the CFMEU regarding Bernmar, the only option left to BLL was to terminate Bernmar's contract ...",
+      "id": "s540"
+    },
+    {
+      "text": "The sole reason that Martin Little and I considered termination of Bernmar's contract was in order to advise the CFMEU of the termination in order for negotiations of the JDA V to continue.",
+      "id": "s541"
+    },
+    {
+      "text": "78 Hensley had no reliable recollection of discussing with Little the options open to BLL although he did accept that Little raised the possibility of terminating the contract.",
+      "id": "s542"
+    },
+    {
+      "text": "Nonetheless, he accepted ultimately that options were discussed and a course determined.",
+      "id": "s543"
+    },
+    {
+      "text": "He accepted that the reason why he agreed to terminate the contract was to enable the JDA-V negotiations to continue as they were of great importance to BLL.",
+      "id": "s544"
+    },
+    {
+      "text": "He did not think his purpose was to terminate a subcontractor's agreement.",
+      "id": "s545"
+    },
+    {
+      "text": "79 Little's version of the discussion in his statement was:\n Eric Hensley What have we been doing for the past month?",
+      "id": "s546"
+    },
+    {
+      "text": "What is going on?",
+      "id": "s547"
+    },
+    {
+      "text": "Martin Little Everything was fine at our meeting on 24 March.",
+      "id": "s548"
+    },
+    {
+      "text": "It was on track.",
+      "id": "s549"
+    },
+    {
+      "text": "Martin Little or Eric Hensley What is this about?",
+      "id": "s550"
+    },
+    {
+      "text": "This goes far beyond EBAs.",
+      "id": "s551"
+    },
+    {
+      "text": "Its got to be about something bigger.",
+      "id": "s552"
+    },
+    {
+      "text": "I thought everything was being taken care of.",
+      "id": "s553"
+    },
+    {
+      "text": "What are we missing?",
+      "id": "s554"
+    },
+    {
+      "text": "What went wrong?",
+      "id": "s555"
+    },
+    {
+      "text": "What is the union after here?",
+      "id": "s556"
+    },
+    {
+      "text": "Eric Hensley Lets discuss our options.",
+      "id": "s557"
+    },
+    {
+      "text": "What are they?",
+      "id": "s558"
+    },
+    {
+      "text": "How are we going to appease the union?",
+      "id": "s559"
+    },
+    {
+      "text": "We can ignore the union and keep Bernmar on-site, or we can get Bernmar off-site.",
+      "id": "s560"
+    },
+    {
+      "text": "I don't think keeping Bernmar on-site is an option any more.",
+      "id": "s561"
+    },
+    {
+      "text": "The union won't accept it.",
+      "id": "s562"
+    },
+    {
+      "text": "Dave wants this fixed now.",
+      "id": "s563"
+    },
+    {
+      "text": "There is no other option but to terminate.",
+      "id": "s564"
+    },
+    {
+      "text": "Martin Little I agree.",
+      "id": "s565"
+    },
+    {
+      "text": "The only option is to get Bernmar off Landmark.",
+      "id": "s566"
+    },
+    {
+      "text": "The next question is, how do we do it?",
+      "id": "s567"
+    },
+    {
+      "text": "Eric Hensley When does he finish his contract?",
+      "id": "s568"
+    },
+    {
+      "text": "Martin Little I think he has several months left.",
+      "id": "s569"
+    },
+    {
+      "text": "Eric Hensley or Martin Little That's too long for the union to accept.",
+      "id": "s570"
+    },
+    {
+      "text": "Martin Little I know he hasn't complied with his legislative obligations or the contract.",
+      "id": "s571"
+    },
+    {
+      "text": "He didn't have workers compensation when he started, even though he was supposed to.",
+      "id": "s572"
+    },
+    {
+      "text": "And then when he got found out by WorkCover, he only got a cover note for one month.",
+      "id": "s573"
+    },
+    {
+      "text": "And I'm sure he is not complying in other respects as well.",
+      "id": "s574"
+    },
+    {
+      "text": "I don't think he's paying PAYE or super or long service leave entitlements.",
+      "id": "s575"
+    },
+    {
+      "text": "We can probably terminate his contract on those grounds.",
+      "id": "s576"
+    },
+    {
+      "text": "Eric Hensley They might be grounds for terminating.",
+      "id": "s577"
+    },
+    {
+      "text": "We need to find out.",
+      "id": "s578"
+    },
+    {
+      "text": "Eric Hensley or Martin Little Let's call Woody.",
+      "id": "s579"
+    },
+    {
+      "text": "80 In cross-examination he reiterated that, at Hensley's instigation, they discussed the options which included keeping Bernmar on site and ignoring the union or getting Bernmar off-site.",
+      "id": "s580"
+    },
+    {
+      "text": "He agreed they seriously thought about those two options.",
+      "id": "s581"
+    },
+    {
+      "text": "He accepted that he was of the view prior to 3 April that Bernmar was in breach of its contractual arrangements; that the idea to terminate for breach only occurred to him on 3 April; and that the best course to adopt in light of the encounter was to terminate on what he believed were legitimate grounds.",
+      "id": "s582"
+    },
+    {
+      "text": "The decision to terminate, as he had previously said to the ACCC, was made \"[b]asically because of their non-compliance with legislation\".",
+      "id": "s583"
+    },
+    {
+      "text": "While Little said he did feel there was pressure to have Bernmar directly employ its workforce, he agreed that he could not recall any discussion where such pressure was put on him and he confirmed that he had acknowledged such was the case in responding to a question of the interim Building Industry Taskforce on 4 December 2003.",
+      "id": "s584"
+    },
+    {
+      "text": "81 In the call made to Woodcock (who was in Singapore), it was explained there was a problem with the JDA-V negotiations because of the Bernmar issue.",
+      "id": "s585"
+    },
+    {
+      "text": "Little's, though not Hensley's, account of the conversation is that one or other of them told Woodcock that:\n Dave and Les Lancsar ... said that the union will go national with this unless we get Bernmar off-site.",
+      "id": "s586"
+    },
+    {
+      "text": "In cross-examination Little accepted that neither Noonan nor Lancsar had said that.",
+      "id": "s587"
+    },
+    {
+      "text": "82 His account of the conversation continued: \n David Woodcock How did this happen?",
+      "id": "s588"
+    },
+    {
+      "text": "Eric Hensley or Martin Little I don't know.",
+      "id": "s589"
+    },
+    {
+      "text": "We met with the CFMEU in Canberra on 24 March and everything seemed to be on track.",
+      "id": "s590"
+    },
+    {
+      "text": "They told us they were meeting with Bernmar the next day.",
+      "id": "s591"
+    },
+    {
+      "text": "Les now says that the union and Bernmar can't sort it out and they want us to fix it immediately.",
+      "id": "s592"
+    },
+    {
+      "text": "David Woodcock What do you propose we do?",
+      "id": "s593"
+    },
+    {
+      "text": "Eric Hensley or Martin Little We think that the only option is to appease the union by getting Bernmar off-site.",
+      "id": "s594"
+    },
+    {
+      "text": "We think that we can terminate Bernmar's contract for not complying with his legislative obligations.",
+      "id": "s595"
+    },
+    {
+      "text": "We think this is the only option we have.",
+      "id": "s596"
+    },
+    {
+      "text": "David Woodcock Okay.",
+      "id": "s597"
+    },
+    {
+      "text": "But you need to get legal advice first on whether you can terminate.",
+      "id": "s598"
+    },
+    {
+      "text": "Eric Hensley or Martin Little Okay.",
+      "id": "s599"
+    },
+    {
+      "text": "David Woodcock After you've spoken with the lawyers, let [me] know what they said before you go ahead and terminate.",
+      "id": "s600"
+    },
+    {
+      "text": "83 Little spoke, first, to a Ms Moffat and, then, to Mr Fildissis.",
+      "id": "s601"
+    },
+    {
+      "text": "Both were BLL in-house lawyers.",
+      "id": "s602"
+    },
+    {
+      "text": "He explained to each in turn the factual matters which led him to believe that Bernmar was in breach of its subcontract with BLL.",
+      "id": "s603"
+    },
+    {
+      "text": "Moffat declined to give advice on the bases that the matter was outside her expertise and referred Little to Fildissis.",
+      "id": "s604"
+    },
+    {
+      "text": "He received oral advice from him after a conversation of about ten minutes and it confirmed his own view that he had a proper basis for terminating the contract.",
+      "id": "s605"
+    },
+    {
+      "text": "84 Hensley was not present during the conversation with Fildissis.",
+      "id": "s606"
+    },
+    {
+      "text": "After speaking with Fildissis, Little called a Mr Spinelli (of BLL) and asked him to draft a termination letter.",
+      "id": "s607"
+    },
+    {
+      "text": "He then called Woodcock and had a conversation to the following effect:\n Martin Little We got the legal advice and it can go ahead.",
+      "id": "s608"
+    },
+    {
+      "text": "We're in the process of doing it now, and the JDA negotiations have resumed.",
+      "id": "s609"
+    },
+    {
+      "text": "David Woodcock Okay.",
+      "id": "s610"
+    },
+    {
+      "text": "Little agreed in cross-examination that at that time the negotiations had not resumed and that what he said to him was erroneous.",
+      "id": "s611"
+    },
+    {
+      "text": "85 Though Little's instruction to Spinelli preceded his call to Woodcock, the conversation he said he had with Spinelli requires note:\n Martin Little I need you to draft a termination letter for one of the subcontractors we have working at the Landmark site.",
+      "id": "s612"
+    },
+    {
+      "text": "Write this down.",
+      "id": "s613"
+    },
+    {
+      "text": "The name of the subcontractor is Bernmar Projects Pty Limited.",
+      "id": "s614"
+    },
+    {
+      "text": "Put 'Landmark Apartments --- termination of subcontract number LC0027' in the subject line.",
+      "id": "s615"
+    },
+    {
+      "text": "Then write the following: 'in accordance with clause 12.3 of the abovementioned subcontract dated 20 February 2003, and as a result of your breach of clauses 5.1 and 5.2 of the schedule of industrial requirements, Bovis Lend Lease hereby gives notice of our intent to terminate your subcontract effective immediately.",
+      "id": "s616"
+    },
+    {
+      "text": "' New paragraph, 'should you wish to discuss the above in more detail please do not hesitate to contact the undersigned'.",
+      "id": "s617"
+    },
+    {
+      "text": "Andrew Spinelli Whose name should the letter go in?",
+      "id": "s618"
+    },
+    {
+      "text": "Martin Little Put it in my name.",
+      "id": "s619"
+    },
+    {
+      "text": "Andrew Spinelli Okay.",
+      "id": "s620"
+    },
+    {
+      "text": "Martin Little The letter needs to be reviewed by John Fildissis in the subcontract team before it's given to Bernie.",
+      "id": "s621"
+    },
+    {
+      "text": "After you've drafted it, email it through to John.",
+      "id": "s622"
+    },
+    {
+      "text": "86 In his statement Hensley said he then told Noonan that \"we're right to reconvene\" as \"[t]he issue's been resolved\".",
+      "id": "s623"
+    },
+    {
+      "text": "In cross-examination he said this conversation was by phone and that he did not communicate to Noonan precisely what had been determined because he did not precisely know the detail.",
+      "id": "s624"
+    },
+    {
+      "text": "In his statement he said he could not rule out having told Noonan of BLL's decision to terminate.",
+      "id": "s625"
+    },
+    {
+      "text": "I would note in passing that in his answer to the ACCC's s 155 notice (on which, see later in these reasons) Lancsar said he believed Hensley informed him that the Bernmar contract was to be terminated.",
+      "id": "s626"
+    },
+    {
+      "text": "87 Little's evidence is that Hensley told Noonan and Lancsar in person that:\n We're fixing the problem but we need time.",
+      "id": "s627"
+    },
+    {
+      "text": "He will be gone from the site.",
+      "id": "s628"
+    },
+    {
+      "text": "To which Noonan replied: \n You bloody better.",
+      "id": "s629"
+    },
+    {
+      "text": "Little acknowledged that he understood Noonan to be saying that \"You bloody better fix the problem\" and not that \"You bloody better get him off the site\".",
+      "id": "s630"
+    },
+    {
+      "text": "88 The JDA-V negotiations were then reconvened.",
+      "id": "s631"
+    },
+    {
+      "text": "89 Finally, Hensley agreed that the decision to terminate at which he arrived with Little was subject to Woodcock's approval and, as noted above, that approval was later given subject to getting confirmatory legal advice.",
+      "id": "s632"
+    },
+    {
+      "text": "Hensley acknowledged he did not obtain from Woodcock his view as to why he was agreeing to the termination of the contract, or what his purpose was in so doing.",
+      "id": "s633"
+    },
+    {
+      "text": "90 Woodcock was not called to give evidence.",
+      "id": "s634"
+    },
+    {
+      "text": "I simply note that Little gave evidence that he saw Woodcock in Sydney about three weeks before Little gave evidence at the hearing.",
+      "id": "s635"
+    },
+    {
+      "text": "Little indicated that Woodcock was no longer employed by BLL.",
+      "id": "s636"
+    },
+    {
+      "text": "THE ALLEGED FIRST 3 APRIL 2003 ARRANGEMENT OR UNDERSTANDING \n \n91 This, as already noted, alleges an arrangement was made or an understanding was arrived at containing provisions that:\n \n \n (i) BLL would terminate Bernmar's contract and further, or in the alternative would no longer acquire plasterboard services from Bernmar at the Landmark site; and \n (ii) BLL and the CFMEU would continue the negotiation of the JDA-V. \n \n\n92 I note at the outset the specificity of the provision alleged as a pleading issue has arisen in relation to this claim, as I will later indicate.",
+      "id": "s637"
+    },
+    {
+      "text": "93 Put shortly the ACCC's case, as it emerged from written and oral submissions, oscillated between two possible constructions which it says can properly be put upon the events of 3 April when considered in context.",
+      "id": "s638"
+    },
+    {
+      "text": "Both focus upon the \"Fix it now\" statements of Noonan in the encounter with Hensley and Little which, I accept, were to the effect described by Little in his witness statement.",
+      "id": "s639"
+    },
+    {
+      "text": "94 The ACCC's, first, contention is that, while there may have been a number of possible options open to BLL, realistically (given the halt to the JDA-V negotiations on that day and the urgent demand made) \"fix it\" meant \"Get rid of Bernmar now\".",
+      "id": "s640"
+    },
+    {
+      "text": "The union was not leaving a universe of possibilities open to BLL.",
+      "id": "s641"
+    },
+    {
+      "text": "BLL did what was required and the clearest indication of the purposes of the parties, it is said, is revealed in what actually happened.",
+      "id": "s642"
+    },
+    {
+      "text": "The alternate contention is that even if BLL had a number of options open to it, it made its termination decision and offered up this course to appease the union's demand that the situation be fixed immediately.",
+      "id": "s643"
+    },
+    {
+      "text": "The union, it is said, accepted that offer by recommencing the JDA-V negotiations.",
+      "id": "s644"
+    },
+    {
+      "text": "Standing uncertainly between these two positions is the ACCC's apparent acceptance of the proposition that termination in this setting should be taken as being one of the available ways of \"fixing it\" within the reasonable contemplation of the parties.",
+      "id": "s645"
+    },
+    {
+      "text": "95 The respondents' case (I will deal with the union, Noonan and Lancsar collectively) is that the evidence simply does not substantiate that an arrangement was made, or an understanding was arrived at, in the terms pleaded or at all.",
+      "id": "s646"
+    },
+    {
+      "text": "Prior to Hensley and Little discussing their options after the encounter, there had been no meeting of the minds as to what actually was to be done and no demand was made to do a particular thing; each party may have had an expectation as to what might happen but that was not sufficient to establish a consensus; the actual decision maker --- Woodcock --- was not called so there is no express evidence as to BLL's basis for, or purpose in, terminating the contract; and the decision to terminate was taken prior to its communication to the union (if it was so communicated) and when it was communicated it was simply communicated as a fact, not as an offer to be accepted by the union.",
+      "id": "s647"
+    },
+    {
+      "text": "Finally, the union contends, the ACCC's contention that the arrangement or understanding resulted from BLL's presenting the union with its termination decision which the union accepted was not the case pleaded and was contrary to the evidence.",
+      "id": "s648"
+    },
+    {
+      "text": "The decision to terminate was independently made by BLL.",
+      "id": "s649"
+    },
+    {
+      "text": "96 For my own part, I am satisfied that at least the following was the common understanding of the parties in consequence of what I have described as the encounter between Noonan, Lancsar, Hensley and Little on 3 April.",
+      "id": "s650"
+    },
+    {
+      "text": "It was that the JDA-V negotiations would not continue then unless BLL took immediate action to fix the Bernmar issue.",
+      "id": "s651"
+    },
+    {
+      "text": "I equally am satisfied that Noonan was applying pressure for a decision to be made by BLL, the more so because the issue was not seen to be one that would, or could, be resolved by the union and Bernmar.",
+      "id": "s652"
+    },
+    {
+      "text": "As Luketic's evidence made plain, no agreement between Lancsar and himself could be reached at the 31 March meeting.",
+      "id": "s653"
+    },
+    {
+      "text": "Importantly, the concern with Bernmar's workforce was not the union's alone and the union was aware of this.",
+      "id": "s654"
+    },
+    {
+      "text": "Hensley acknowledged this both at the 18 March meeting when he said to Sutton and Hensley that he needed some time \"to move Bernmar toward legitimacy\" and in the proposal he committed to in his letter to Sutton of that date.",
+      "id": "s655"
+    },
+    {
+      "text": "I am further satisfied that Hensley well understood from late February that the Bernmar issue could disrupt the JDA-V negotiations and it was his wish that those negotiations proceeded.",
+      "id": "s656"
+    },
+    {
+      "text": "97 Both Hensley and Little accepted that, at the 3 April encounter, Noonan did not ask for anything specific to be done at all.",
+      "id": "s657"
+    },
+    {
+      "text": "It was left to Hensley and Little, hence BLL, to determine what was going to be done in relation to Bernmar.",
+      "id": "s658"
+    },
+    {
+      "text": "It is not for me to speculate whether Noonan had the hope or expectation that Bernmar's contract would be terminated.",
+      "id": "s659"
+    },
+    {
+      "text": "98 When the parties separated after the encounter there was then no arrangement or understanding that Bernmar was to be terminated.",
+      "id": "s660"
+    },
+    {
+      "text": "I accept Little's evidence that he and Hensley, at Hensley's instigation, discussed their options but with an appreciation that the matter had been allowed to drift.",
+      "id": "s661"
+    },
+    {
+      "text": "I also accept Hensley's evidence that they reviewed what had happened for the preceding six weeks.",
+      "id": "s662"
+    },
+    {
+      "text": "Having judged that keeping Bernmar on site was not an option any more, they concluded they had no option but to terminate.",
+      "id": "s663"
+    },
+    {
+      "text": "99 I would comment in passing that it can properly be said that BLL contributed significantly to the predicament in which it found itself.",
+      "id": "s664"
+    },
+    {
+      "text": "BLL's follow up of the 18 March letter seems, on the evidence, slight indeed.",
+      "id": "s665"
+    },
+    {
+      "text": "Responsibility for resolving the workforce issue seems to have been devolved onto Bernmar and the CFMEU with help from Gillingham of the MBA.",
+      "id": "s666"
+    },
+    {
+      "text": "The seven day time limit passed.",
+      "id": "s667"
+    },
+    {
+      "text": "Further work was given to Bernmar.",
+      "id": "s668"
+    },
+    {
+      "text": "And no one in BLL, seemingly, assumed responsibility for this matter from 25 March until 2 April (while Little was in New Zealand).",
+      "id": "s669"
+    },
+    {
+      "text": "It is, in my view, unsurprising that Hensley records his discussion with Little commencing with the observation:\n What have we been doing for the past month?",
+      "id": "s670"
+    },
+    {
+      "text": "What is going on?",
+      "id": "s671"
+    },
+    {
+      "text": "This guy is still not complying.",
+      "id": "s672"
+    },
+    {
+      "text": "We need to do something about this now.",
+      "id": "s673"
+    },
+    {
+      "text": "We can't let this drag on.",
+      "id": "s674"
+    },
+    {
+      "text": "100 While Little's version of the discussions attributes to Hensley the comment \"How are we going to appease the union\", I consider that that comment has to be seen in a context both of relative inaction from BLL when action was promised and of the comment during the discussion attributed by Hensley to Little that \"[w]e've given him lots of opportunities to fix things up\".",
+      "id": "s675"
+    },
+    {
+      "text": "101 It may well have been the case that but for the union's conduct Bernmar may have not been terminated.",
+      "id": "s676"
+    },
+    {
+      "text": "This said, I am not satisfied that the actual decision proposed by Hensley and Little was other than one which resulted from their own evaluation --- albeit in pressured circumstances --- as to what was the appropriate course to take in the circumstances having regard to BLL's own previous action and inaction, their expectation of likely union responses, their continuing concerns about Bernmar's workforce and the advancement of the JDA-V negotiations and BLL's interests.",
+      "id": "s677"
+    },
+    {
+      "text": "I am satisfied that the proposed decision was not simply a response as of course to a demand which they understood was intended to, and did, leave no other choice, and in which they acquiesced.",
+      "id": "s678"
+    },
+    {
+      "text": "102 I refer to \"the proposed decision\" for the reason that the actual decision maker for BLL was Woodcock.",
+      "id": "s679"
+    },
+    {
+      "text": "As I have noted he did not give evidence and it has not been suggested he was unavailable to do so.",
+      "id": "s680"
+    },
+    {
+      "text": "What is clear is that he was misled by Little as to what the CFMEU \"fix it\" demand entailed.",
+      "id": "s681"
+    },
+    {
+      "text": "He was told, erroneously, that the union officials said \"the union will go national with this unless we get Bernmar off-site\".",
+      "id": "s682"
+    },
+    {
+      "text": "This, I accept, set the context in which he was told of the proposed termination decision.",
+      "id": "s683"
+    },
+    {
+      "text": "When he later approved the decision after legal advice was taken, he was told, again erroneously, that the JDA-V negotiations had been resumed.",
+      "id": "s684"
+    },
+    {
+      "text": "In my view, considered in context, Woodcock's --- hence BLL's --- termination decision was an understandable response to the threat he was told had been made.",
+      "id": "s685"
+    },
+    {
+      "text": "But that threat was not Noonan's \"fix it\" demand.",
+      "id": "s686"
+    },
+    {
+      "text": "103 It is unnecessary that I explore further the significance of the erroneous communications to Woodcock.",
+      "id": "s687"
+    },
+    {
+      "text": "My reason for this is that I am not satisfied that Noonan presented BLL, and was at the time understood to be presenting BLL, with a demand to terminate Bernmar and that BLL, either at the time or subsequently, acquiesced in that demand.",
+      "id": "s688"
+    },
+    {
+      "text": "In consequence I reject the first basis upon which the ACCC has put its claim.",
+      "id": "s689"
+    },
+    {
+      "text": "104 As to the alternate basis (which the ACCC described in shorthand form as BLL's \"counter-offer\" which the CFMEU accepted), I have two responses.",
+      "id": "s690"
+    },
+    {
+      "text": "First, I agree with the respondents' submission that this was not the case pleaded against them nor was it reflected, in my view, in the manner in which the trial was conducted.",
+      "id": "s691"
+    },
+    {
+      "text": "Secondly, in any event, I am not satisfied that this claim has been made out on the evidence.",
+      "id": "s692"
+    },
+    {
+      "text": "105 As I have indicated, no demand to terminate was made by Noonan.",
+      "id": "s693"
+    },
+    {
+      "text": "BLL was asked to \"fix it now\" and it made its decision to terminate and Little put in train the processes that would lead to that decision being communicated to Luketic.",
+      "id": "s694"
+    },
+    {
+      "text": "I accept that Hensley told Noonan that \"[w]e're right to reconvene\" which he elaborated by saying \"[t]he issue's been resolved\" (which for BLL it had been by then).",
+      "id": "s695"
+    },
+    {
+      "text": "I also am satisfied, despite Hensley's reservation about the matter, that he told Noonan that Bernmar would be gone from the site but time for this was needed.",
+      "id": "s696"
+    },
+    {
+      "text": "Noonan's \"You bloody better\" comment was, in my view, no more than an emphatic statement indicating in context that the union would hold him to his word that \"We're fixing the problem\".",
+      "id": "s697"
+    },
+    {
+      "text": "What occurred was far removed from the realm of making and accepting offers.",
+      "id": "s698"
+    },
+    {
+      "text": "BLL took its own step --- and a decisive one at that --- to fix the problem.",
+      "id": "s699"
+    },
+    {
+      "text": "It doubtless anticipated that the union would be satisfied with the solution that was being put into place.",
+      "id": "s700"
+    },
+    {
+      "text": "The evidence does not suggest any anticipation that the recommencement of the JDA-V negotiations was contingent upon the union's acceptance of the particular solution adopted.",
+      "id": "s701"
+    },
+    {
+      "text": "BLL had unilaterally set in train the steps necessary to eliminate the problem.",
+      "id": "s702"
+    },
+    {
+      "text": "I agree with the respondents' submission that, in telling Noonan and probably Lancsar of the termination decision, BLL was not offering a solution for the union's consideration.",
+      "id": "s703"
+    },
+    {
+      "text": "It was reporting a decision it had independently made which would fix the problem.",
+      "id": "s704"
+    },
+    {
+      "text": "There was no arrangement reached, or understanding arrived at, such as the ACCC has sought to advance.",
+      "id": "s705"
+    },
+    {
+      "text": "106 The actual terms of the provisions pleaded by the ACCC are in the alternative.",
+      "id": "s706"
+    },
+    {
+      "text": "I have rejected the termination version propounded.",
+      "id": "s707"
+    },
+    {
+      "text": "I simply note that there is nothing in the evidence that could found the alternate version of no longer acquiring plasterboard services from Bernmar.",
+      "id": "s708"
+    },
+    {
+      "text": "107 I reject the first of the 3 April claims.",
+      "id": "s709"
+    },
+    {
+      "text": "THE SECOND ALLEGED 3 APRIL 2003 ARRANGEMENT OR UNDERSTANDING \n \n108 To reiterate, the ACCC's claim here is that by no later than 3 April an arrangement was made or an understanding arrived at containing a provision that BLL would comply with CFMEU's requirement that BLL refrain from acquiring services from Bernmar unless Bernmar's subcontractors were engaged as employees rather than as independent contractors.",
+      "id": "s710"
+    },
+    {
+      "text": "109 This claim, as I understand it, is relied upon in the event I reject, as I have above, the first 3 April arrangement or understanding.",
+      "id": "s711"
+    },
+    {
+      "text": "The ACCC contends that on the evidence the following has been established.",
+      "id": "s712"
+    },
+    {
+      "text": "(i) It was clear that the union was complaining about BLL's use of Bernmar, as a sub-contractor who in turn employed ABN subcontractors, because Bernmar's workers would not receive ordinary employment entitlements such as superannuation, long service leave and redundancy.",
+      "id": "s713"
+    },
+    {
+      "text": "(ii) It was also clear that the union wanted it \"fixed\"; at the 18 March 2003 meeting, the union wanted it resolved within seven days; by the 3 April 2003 meeting, the union wanted it fixed immediately.",
+      "id": "s714"
+    },
+    {
+      "text": "(iii) There were two ways that BLL could \"fix\" the problem.",
+      "id": "s715"
+    },
+    {
+      "text": "Either it could persuade Bernmar to cease engaging ABN subcontractors, or it could cease acquiring services from Bernmar.",
+      "id": "s716"
+    },
+    {
+      "text": "Either way, it is clear that the union required BLL to refrain from acquiring plasterboard services from Bernmar unless Bernmar's subcontractors were engaged as employees, rather than independent subcontractors.",
+      "id": "s717"
+    },
+    {
+      "text": "BLL had no contractual relationship with Bernmar's subcontractors and had no way of interfering in those relationships.",
+      "id": "s718"
+    },
+    {
+      "text": "Thus, the first alternative could not be guaranteed of delivery.",
+      "id": "s719"
+    },
+    {
+      "text": "Bernmar did make enquiries as to the preparedness of its subcontractors to be engaged as employees and there was resistance from a majority of them.",
+      "id": "s720"
+    },
+    {
+      "text": "(iv) On 3 April 2003, BLL agreed to this requirement.",
+      "id": "s721"
+    },
+    {
+      "text": "There was therefore an arrangement or understanding formed on that date containing a provision that BLL would comply with the requirement of the union to refrain from acquiring plasterboard services from Bernmar unless Bernmar's subcontractors were engaged as employees, rather than independent subcontractors.",
+      "id": "s722"
+    },
+    {
+      "text": "110 This arrangement, it is said, was not an absolute prohibition on the use of Bernmar, because BLL could acquire services from Bernmar if Bernmar's workers became employees.",
+      "id": "s723"
+    },
+    {
+      "text": "However, a purpose of it was to hinder BLL from continuing to acquire plasterboard services from Bernmar.",
+      "id": "s724"
+    },
+    {
+      "text": "An objective of the provision was to remove the flexibility of BLL to continue to acquire plasterboard services from Bernmar however Bernmar chose to engage its workforce.",
+      "id": "s725"
+    },
+    {
+      "text": "This conclusion is, it is said, unaffected by any requirements in the contract between BLL and Bernmar.",
+      "id": "s726"
+    },
+    {
+      "text": "Whilst the requirements existed only in the contract between BLL and Bernmar, it was entirely up to BLL as to whether to enforce those requirements.",
+      "id": "s727"
+    },
+    {
+      "text": "The arrangement imposed the demands of a third party, a stranger to the contract, into the existing contractual relationship between BLL and Bernmar, and removed BLL's ability to choose whether to require Bernmar to have employees only.",
+      "id": "s728"
+    },
+    {
+      "text": "111 Put shortly, the respondents contend: (i) The CFMEU and its officers did not at any time require that all of Bernmar's work force be employees.",
+      "id": "s729"
+    },
+    {
+      "text": "In any event this was already a requirement of BLL's contract with Bernmar.",
+      "id": "s730"
+    },
+    {
+      "text": "(ii) The CFMEU and its officers, as BLL well knew, were not opposed to the engagement of subcontractors.",
+      "id": "s731"
+    },
+    {
+      "text": "Any opposition expressed was opposition to the engagement by Bernmar of a work force under the guise of subcontractors when in truth and in substance they were employees.",
+      "id": "s732"
+    },
+    {
+      "text": "BLL in its contract with Bernmar had at least equivalent or more restrictive arrangements or prohibitions on such practices.",
+      "id": "s733"
+    },
+    {
+      "text": "(iii) The evidence does not establish that Bernmar's workers were in fact subcontractors.",
+      "id": "s734"
+    },
+    {
+      "text": "The evidence is to the contrary.",
+      "id": "s735"
+    },
+    {
+      "text": "BLL was of the view from late February 2003 on the material put before it that Bernmar's workforce were in fact employees and their characterisation as subcontractors was no more than an arrangement or practice designed to avoid award and legislative obligations and/or was a case of treating genuine employees as independent contractors so as to avoid award and legislative obligations.",
+      "id": "s736"
+    },
+    {
+      "text": "112 I do not intend to retraverse the evidence and my previous findings in dealing with this claim.",
+      "id": "s737"
+    },
+    {
+      "text": "Much that informs it has been dealt with and rejected in considering the alleged 18 March 2003 arrangement or understanding.",
+      "id": "s738"
+    },
+    {
+      "text": "In dealing with that arrangement or understanding I indicated that the evidence to that date did not reasonably support a finding that the CFMEU demanded that BLL would take steps to ensure that Bernmar's workers were to be engaged as employees as such.",
+      "id": "s739"
+    },
+    {
+      "text": "I also noted Mr O'Bryan SC's concession in oral submission in response to my questioning that the ACCC was not submitting that Bernmar's workers were to be turned into employees for all purposes.",
+      "id": "s740"
+    },
+    {
+      "text": "113 I have considerable difficulty in seeing how that concession could be made to apply to the present claim which explicitly differentiates between \"employees\" and \"subcontractors\".",
+      "id": "s741"
+    },
+    {
+      "text": "Equally the ACCC's written closing submission is premised on the same distinction.",
+      "id": "s742"
+    },
+    {
+      "text": "Accordingly, I will deal with the pleading according to its terms.",
+      "id": "s743"
+    },
+    {
+      "text": "114 No less so than with the 18 March arrangement, I am satisfied that there is no evidence reasonably to support the arrangement or understanding presently alleged.",
+      "id": "s744"
+    },
+    {
+      "text": "In light of what I have already said in these reasons, it is unnecessary that I enlarge upon these conclusions.",
+      "id": "s745"
+    },
+    {
+      "text": "I would, though, reiterate that Hensley, Little and Judd had their own legitimate concerns about Bernmar's workforce.",
+      "id": "s746"
+    },
+    {
+      "text": "Little shared Lancsar's view about the workforce's status in fact.",
+      "id": "s747"
+    },
+    {
+      "text": "Hensley was of the view that it had the character of body hire and he knew Bernmar had to be moved to legitimacy, that by 3 April Luketic was \"still not complying\" and that he could not \"let this drag on\".",
+      "id": "s748"
+    },
+    {
+      "text": "The BLL officials were addressing the workforce's terms of engagement, not their formal status as employees or subcontractors as such.",
+      "id": "s749"
+    },
+    {
+      "text": "The same can properly be said of the union and its officers --- as witness Sutton's statement to Woodcock at the 18 March meeting (as reported by Hensley: see [47] above).",
+      "id": "s750"
+    },
+    {
+      "text": "115 I reject this claim.",
+      "id": "s751"
+    },
+    {
+      "text": "THE 4 APRIL 2003 ARRANGEMENT OR UNDERSTANDING \n \n116 I need not refer again to the terms of this alleged arrangement.",
+      "id": "s752"
+    },
+    {
+      "text": "As the ACCC indicated in its closing written submission, it could only come into play if BLL did not communicate to the union on 3 April how it intended to fix the Bernmar issue.",
+      "id": "s753"
+    },
+    {
+      "text": "I have found it was so communicated.",
+      "id": "s754"
+    },
+    {
+      "text": "It is thus unnecessary to consider this contingent claim.",
+      "id": "s755"
+    },
+    {
+      "text": "EVIDENCE RULINGS \n (i) MFI:2 --- Hensley's response to a s 155 notice \n \n117 On 3 December 2004 Hensley provided a written response to a series of questions asked of him by the ACCC in a s 155 notice: see TP Act, s 155.",
+      "id": "s756"
+    },
+    {
+      "text": "One part of his answers --- para (bb) --- related to the 3 April 2003 meeting.",
+      "id": "s757"
+    },
+    {
+      "text": "Mr Inatey SC cross-examined Hensley on a sentence in that part where he said:\n I cannot provide a precise account of what was said, and by whom, at the meeting; \nand on his comment that, after Noonan first spoke to him:\n Mr Noonan, Mr Little and I went into a separate room.",
+      "id": "s758"
+    },
+    {
+      "text": "The latter comment was inconsistent with his witness statement which referred to Lancsar also being present.",
+      "id": "s759"
+    },
+    {
+      "text": "However, I would note that, the latter comment apart, Hensley was not cross-examined on the document in relation to what was said or done at the meeting.",
+      "id": "s760"
+    },
+    {
+      "text": "118 The ACCC called upon Mr Inatey SC to tender all of the answer in para (bb).",
+      "id": "s761"
+    },
+    {
+      "text": "I deferred ruling on whether I would admit the paragraph into evidence under s 45 of the Evidence Act 1995 (Cth), but allowed re-examination (over formal objection) on the voir dire relating to the contents of that paragraph.",
+      "id": "s762"
+    },
+    {
+      "text": "I did indicate at the time that, if I did not admit para (bb), I would derive no assistance at all in the circumstances from a submission that Hensley's recollections on two occasions were different and Mr Inatey SC accepted that.",
+      "id": "s763"
+    },
+    {
+      "text": "However I did indicate that I would admit the sentence following the \"precise account\" one on which cross-examination occurred.",
+      "id": "s764"
+    },
+    {
+      "text": "It was:\n However, to the best of my knowledge, the following is the substance or effect of what occurred \n119 While the ACCC could properly re-examine Hensley on the parts of para (bb) cross-examined upon pursuant to s 43 , it had no right to require para (bb) to be tendered under s 45.",
+      "id": "s765"
+    },
+    {
+      "text": "That section provides:\n 45 Production of documents \n \n (1) This section applies if a party is cross-examining or has cross-examined a witness about: \n \n \n \n \n \n (a) a prior inconsistent statement alleged to have been made by the witness that is recorded in a document; or \n \n (b) a previous representation alleged to have been made by another person that is recorded in a document.",
+      "id": "s766"
+    },
+    {
+      "text": "(2) If the court so orders or if another party so requires, the party must produce:\n \n (a) the document;\n \n ...\n \n to the court or to that other party.",
+      "id": "s767"
+    },
+    {
+      "text": "(3) The court may:\n \n \n \n \n \n (a) examine a document or evidence that has been so produced; and\n \n (b) give directions as to its use; and\n \n (c) admit it even if it has not been tendered by a party.",
+      "id": "s768"
+    },
+    {
+      "text": "(4) Subsection (3) does not permit the court to admit a document or evidence that is not admissible because of Chapter 3.",
+      "id": "s769"
+    },
+    {
+      "text": "(5) The mere production of a document to a witness who is being cross-examined does not give rise to a requirement that the cross-examiner tender the document.",
+      "id": "s770"
+    },
+    {
+      "text": "120 As I have indicated, I do not consider that the apparent difference in Hensley's recollection relating to Lancsar's presence at the 3 April encounter in his s 155 answer and then in his statement and evidence is of any particular moment at all.",
+      "id": "s771"
+    },
+    {
+      "text": "Few have invincible and wholly consistent memories.",
+      "id": "s772"
+    },
+    {
+      "text": "I accept that on both occasions Hensley was doing his best.",
+      "id": "s773"
+    },
+    {
+      "text": "The matter said to be inconsistent is of no consequence in the view I take of the evidence in this proceedings.",
+      "id": "s774"
+    },
+    {
+      "text": "I see no justification in these circumstances in admitting para (bb) as such into evidence.",
+      "id": "s775"
+    },
+    {
+      "text": "(ii) The respondents' affidavits and the s 155 answers \n \n121 As I have indicated, while Sutton and Noonan prepared witness statements which were filed and served, they were not called to give evidence.",
+      "id": "s776"
+    },
+    {
+      "text": "The ACCC sought to tender their statements at least to the extent that they contained admissions.",
+      "id": "s777"
+    },
+    {
+      "text": "Again Sutton and Lancsar answered s 155 notices and the ACCC sought to tender admissions said to be contained in their respective answers.",
+      "id": "s778"
+    },
+    {
+      "text": "My provisional view at the time, which I then indicated to the parties, was that the statements and s 155 answers were admissible to the extent that they contained admissions of a party in whose case they were to be used.",
+      "id": "s779"
+    },
+    {
+      "text": "I directed the ACCC in the case of each document to identify the admissions sought to be tendered.",
+      "id": "s780"
+    },
+    {
+      "text": "In the event these were few in number; they related, primarily, (a) to the respective positions and responsibilities of Sutton, Noonan and Lancsar at the time of the events in question and, in Sutton's case, of the giving of the s 155 answers; (b) to confirmation both of the occurrence and general tenor of conversations with Hensley and of Noonan's concerns regarding Bernmar's subcontractors; and (c) to Lancsar's participation in the 3 April meeting and to his being told that Bernmar's subcontract was to be terminated.",
+      "id": "s781"
+    },
+    {
+      "text": "On the view I have taken of the issues in this matter, the evidence sought to be tendered was of peripheral significance (save in relation to proving the respective positions and responsibilities of Sutton, Noonan and Lancsar) and, at best, simply confirmed what I have found to have been otherwise established.",
+      "id": "s782"
+    },
+    {
+      "text": "For this reason I do not intend to deal specifically with each of the admissions allegedly made.",
+      "id": "s783"
+    },
+    {
+      "text": "The statements \n \n122 To formalise my rulings, it is necessary that I deal separately with the witness statements and s 155 answers.",
+      "id": "s784"
+    },
+    {
+      "text": "123 The case law in this country is discordant on whether one party to a proceedings can seek to tender admissions made in a witness statement or affidavit filed and served by another party in that proceeding pursuant to rule of court or court order, but who does not call the maker of that statement or read that affidavit.",
+      "id": "s785"
+    },
+    {
+      "text": "On one view, the statement or affidavit remains subject to legal professional privilege; on the other, filing and service operates, without more, as a full or limited waiver: see generally Cadbury Schweppes Pty Ltd v Amcor Ltd [2008] FCA 88 at [12] - [19] where the case law has been helpfully reviewed by Gordon J.",
+      "id": "s786"
+    },
+    {
+      "text": "124 As I am in entire agreement with the conclusions reached by her Honour on the proper approach to be taken to the question in a case such as the present --- particularly in light of observations made by the Full Court of this Court in Liberty Funding Pty Ltd v Phoenix Capital Ltd (2005) 218 ALR 283 at [25] --- my comments will be brief.",
+      "id": "s787"
+    },
+    {
+      "text": "125 I am prepared to assume for present purposes that Sutton and Noonan's communications with the CFMEU's and Noonan's solicitors for the purpose of preparing their statements were confidential communications: cf Cadbury at [11].",
+      "id": "s788"
+    },
+    {
+      "text": "The statements themselves were filed and served for the purposes of the proceedings pursuant to a number of directions made by Gyles J.",
+      "id": "s789"
+    },
+    {
+      "text": "Their service on the ACCC was subject to the implied undertaking given by the parties to the Court not to use any document produced to them in the course of the proceeding otherwise than in relation to the proceeding: see Esso Australia Resources Ltd v Plowman [1995] HCA 19 ; (1995) 183 CLR 10.",
+      "id": "s790"
+    },
+    {
+      "text": "The use proposed by the ACCC in this case raises no issue in relation to the implied undertaking: cf Cadbury at [20]-[22].",
+      "id": "s791"
+    },
+    {
+      "text": "The only question arising from that use is one of privilege.",
+      "id": "s792"
+    },
+    {
+      "text": "Assuming the statements to be privileged prior to service, whether or not it subsists after their service falls to be determined by the common law and not by the Evidence Act , the provisions of that Act having no applications to a disclosure so made: cf s 122.",
+      "id": "s793"
+    },
+    {
+      "text": "126 As the Full Court observed in Liberty Funding in endorsing the approach of Barrett J in Austress Freyssinet Pty Ltd v Marlin International Pty Ltd [2002] NSWSC 958 that a party could tender, as an admission, parts of an affidavit sworn by the opposing party (at [25]):\n Thus, it is necessary to posit a limited waiver, within a broad framework of the conduct of proceedings, which may bring about the result (as in Austress) that it is in the other side's power to destroy the privilege entirely by putting the statement or affidavit into evidence or examining or cross-examining on its contents.",
+      "id": "s794"
+    },
+    {
+      "text": "Their Honours went on to point out (at [26]):\n This so-called \"limited waiver\" by service such that the privilege is waived only for the purpose of the legal proceedings in question might be seen to be no more than the operation of the implied undertaking dealt with in Harman [and Esso].",
+      "id": "s795"
+    },
+    {
+      "text": "127 The reasoning of the Full Court, as Gordon J noted in Cadbury at [16], is persuasive and sensible and it leads to the conclusion that, save where a disclosure is made for a particular and limited purpose, the filing and service operates as a complete, and not simply limited, waiver of privilege: at [16]-[18]; for the reason that the uses that may be made of the served document in the proceedings are \"inconsistent with the maintenance of the confidentiality which the privilege is intended to protect\": Mann v Carnell [1999] HCA 66 ; (1999) 201 CLR 1 at [29] .",
+      "id": "s796"
+    },
+    {
+      "text": "128 I agree with her Honour's view of the approach that Liberty Funding mandates.",
+      "id": "s797"
+    },
+    {
+      "text": "It is the implied undertaking, not privilege, which in this case limits the use the ACCC can make of the statements, but that use is not inconsistent with, or precluded by, the undertaking.",
+      "id": "s798"
+    },
+    {
+      "text": "The tender is in the proceedings in which the statements were served.",
+      "id": "s799"
+    },
+    {
+      "text": "129 I should add the following.",
+      "id": "s800"
+    },
+    {
+      "text": "First, I am satisfied having regard both to his stated position and responsibilities in 2003 and to the manner of his participation in events in this matter, that it is reasonably open to find that Sutton had authority to make representations on behalf of the CFMEU in relation to the matters the subject of his statement: see Evidence Act , s 87(1)(a) and (b).",
+      "id": "s801"
+    },
+    {
+      "text": "I should emphasise that to the extent that his statement contains admissions, they can only be used against the CFMEU: Evidence Act , s 83.",
+      "id": "s802"
+    },
+    {
+      "text": "130 Secondly, I also am satisfied that Hensley's statement can be used against the CFMEU to the extent that it contains admissions.",
+      "id": "s803"
+    },
+    {
+      "text": "It is reasonably open to find that he had authority to act for the CFMEU in relation to the matters in which he participated and that the representations he made were within the scope of that authority: s 87(1)(b).",
+      "id": "s804"
+    },
+    {
+      "text": "Such admissions as he made are also able to be used in the case against him personally.",
+      "id": "s805"
+    },
+    {
+      "text": "The s 155 answers \n \n131 I will assume the answers given to the ACCC by Sutton and Lancsar were confidential in the sense that they were given (a) in relation to one of the limited matters specified in s 155(1) of the TP Act and (b) in furtherance of the performance of the ACCC's functions under the TP Act in relation to those matters, but not otherwise: cf Smith Kline &amp; French Laboratories (Aust) Ltd v Department of Community Services and Health [1989] FCA 384 ; (1990) 22 FCR 73 at 110.",
+      "id": "s806"
+    },
+    {
+      "text": "This said, the use proposed to be made of the information so provided falls squarely within the scope of the purpose for which the answers were given, ie the ACCC's enforcement of the Act in respect of an alleged contravention of it.",
+      "id": "s807"
+    },
+    {
+      "text": "The information was not said to be the subject of any privilege.",
+      "id": "s808"
+    },
+    {
+      "text": "And while the answers were given under compulsion of law: ss 155(5) and (6A); there is no statutory preclusion of their use in civil --- as distinct from criminal: s 155(7) --- proceedings.",
+      "id": "s809"
+    },
+    {
+      "text": "Accordingly, to the extent that they contain admissions of a party to these proceedings, they are admissible against that party in accordance with the provisions of the Evidence Act : see ss 81 , 83 and 87 .",
+      "id": "s810"
+    },
+    {
+      "text": "CONCLUSION \n \n132 As I am not satisfied that the ACCC has established any of the contraventions of s 45E which it has alleged, no question of the accessorial liability of the first, third and fourth respondents arises.",
+      "id": "s811"
+    },
+    {
+      "text": "Accordingly I will order that the application be dismissed as it relates to those respondents.",
+      "id": "s812"
+    },
+    {
+      "text": "I also will order that the ACCC pay the costs of those respondents.",
+      "id": "s813"
+    },
+    {
+      "text": "I certify that the preceding one hundred and thirty-two (132) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Finn.",
+      "id": "s814"
+    },
+    {
+      "text": "Associate: \n\nDated: 16 May 2008\n\n Counsel for the Applicant: Mr N J O'Bryan SC with Mr C A Moore \n \n Solicitor for the Applicant: Australian Government Solicitor \n \n Counsel for the First and Third Respondents: Mr G Inatey SC with Mr J Pearce \n \n Solicitor for the First and Third Respondents: Taylor &amp; Scott Solicitors \n \n Counsel for the Fourth Respondent: Mr M Gibian \n \n Solicitor for the Fourth Respondent: Paul Murphy and Associates Lawyers \n\n Date of Hearing: 3, 4, 5 and 13 September 2007 \n \n Date of Judgment: 16 May 2008 \n\n\n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2008/678.html",
+      "id": "s815"
+    }
+  ]
+}

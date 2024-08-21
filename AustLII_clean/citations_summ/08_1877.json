@@ -1,0 +1,956 @@
+[
+  {
+    "text": "privilege",
+    "id": "cp0.0",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "legal professional privilege",
+    "id": "cp0.1",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "advice privilege",
+    "id": "cp0.2",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "litigation privilege",
+    "id": "cp0.3",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "implied undertaking",
+    "id": "cp0.4",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "public interest immunity",
+    "id": "cp0.5",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "work product",
+    "id": "cp0.6",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "draft witness statements and witness proofs",
+    "id": "cp0.7",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "whether filing and service, without more, of witness statements constitutes waiver of privilege",
+    "id": "cp0.8",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "distinction between privilege and implied undertaking",
+    "id": "cp0.9",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "whether encouragement of cartel whistleblowers by protecting confidentiality of statements made to investigators presents a real public interest where there is no evidence that confidentiality was sought or that whistleblowers would be deterred from coming forward by lack of confidentiality",
+    "id": "cp0.10",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "whether public regulatory agency's interest in guarding its work product presents a cognisable public interest",
+    "id": "cp0.11",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "whether work product doctrine has a separate existence from legal professional privilege in australia",
+    "id": "cp0.12",
+    "type": "cited",
+    "from": "[2008]"
+  },
+  {
+    "text": "legal professional privilege",
+    "id": "cp1.0",
+    "type": "cited",
+    "from": "[2007]"
+  },
+  {
+    "text": "where notices requiring production of documents issued to persons or entities other than holder of the privilege",
+    "id": "cp1.1",
+    "type": "cited",
+    "from": "[2007]"
+  },
+  {
+    "text": "whether notices invalid",
+    "id": "cp1.2",
+    "type": "cited",
+    "from": "[2007]"
+  },
+  {
+    "text": "whether requirement to give holder of privilege a reasonable opportunity to assert legal professional privilege.",
+    "id": "cp1.3",
+    "type": "cited",
+    "from": "[2007]"
+  },
+  {
+    "text": "corporations",
+    "id": "cp2.0",
+    "type": "cited",
+    "from": "[2007]"
+  },
+  {
+    "text": "winding up",
+    "id": "cp2.1",
+    "type": "cited",
+    "from": "[2007]"
+  },
+  {
+    "text": "special purpose liquidator appointed by court in voluntary winding up",
+    "id": "cp2.2",
+    "type": "cited",
+    "from": "[2007]"
+  },
+  {
+    "text": "application by special purpose liquidator for order compelling third party to produce documents",
+    "id": "cp2.3",
+    "type": "cited",
+    "from": "[2007]"
+  },
+  {
+    "text": "whether any such order would be properly regarded as made in proceedings in which liquidator was appointed",
+    "id": "cp2.4",
+    "type": "cited",
+    "from": "[2007]"
+  },
+  {
+    "text": "or as adjunct to part 5.9 examinations liquidator has undertaken",
+    "id": "cp2.5",
+    "type": "cited",
+    "from": "[2007]"
+  },
+  {
+    "text": "the daniels corporation international pty ltd v australian competition and consumer commission  evidence",
+    "id": "cp4.0",
+    "type": "cited",
+    "from": "[2002]"
+  },
+  {
+    "text": "legal professional privilege",
+    "id": "cp4.1",
+    "type": "cited",
+    "from": "[2002]"
+  },
+  {
+    "text": "statutory notice to produce documents",
+    "id": "cp4.2",
+    "type": "cited",
+    "from": "[2002]"
+  },
+  {
+    "text": "whether statute abrogated legal professional privilege.  trade practices",
+    "id": "cp4.3",
+    "type": "cited",
+    "from": "[2002]"
+  },
+  {
+    "text": "notice to produce documents to australian competition and consumer commission",
+    "id": "cp4.4",
+    "type": "cited",
+    "from": "[2002]"
+  },
+  {
+    "text": "commission investigating whether trade practices act 1974 (cth) contravened",
+    "id": "cp4.5",
+    "type": "cited",
+    "from": "[2002]"
+  },
+  {
+    "text": "whether documents to be produced included those for which legal professional privilege claimed.",
+    "id": "cp4.6",
+    "type": "cited",
+    "from": "[2002]"
+  },
+  {
+    "text": "mann v carnell  practice and procedure",
+    "id": "cp6.0",
+    "type": "cited",
+    "from": "[1999]"
+  },
+  {
+    "text": "preliminary discovery",
+    "id": "cp6.1",
+    "type": "cited",
+    "from": "[1999]"
+  },
+  {
+    "text": "legal professional privilege",
+    "id": "cp6.2",
+    "type": "cited",
+    "from": "[1999]"
+  },
+  {
+    "text": "loss of privilege",
+    "id": "cp6.3",
+    "type": "cited",
+    "from": "[1999]"
+  },
+  {
+    "text": "waiver by disclosure to third party.  australian capital territory",
+    "id": "cp6.4",
+    "type": "cited",
+    "from": "[1999]"
+  },
+  {
+    "text": "separation of powers",
+    "id": "cp6.5",
+    "type": "cited",
+    "from": "[1999]"
+  },
+  {
+    "text": "representative government",
+    "id": "cp6.6",
+    "type": "cited",
+    "from": "[1999]"
+  },
+  {
+    "text": "nature of relationship between the act legislative assembly and the act executive.",
+    "id": "cp6.7",
+    "type": "cited",
+    "from": "[1999]"
+  },
+  {
+    "text": "high court",
+    "id": "cp8.0",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "procedure",
+    "id": "cp8.1",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "stay of proceedings",
+    "id": "cp8.2",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "pending special leave application",
+    "id": "cp8.3",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "applicable principles",
+    "id": "cp8.4",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "non-determination of substantive application",
+    "id": "cp8.5",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "need for special circumstances",
+    "id": "cp8.6",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "extraordinary nature of jurisdiction",
+    "id": "cp8.7",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "special rules for stay of orders designed to protect public",
+    "id": "cp8.8",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "sequestration order in bankrupt's estate",
+    "id": "cp8.9",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "stay refused.   bankruptcy",
+    "id": "cp8.10",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "procedure",
+    "id": "cp8.11",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "special leave application to high court",
+    "id": "cp8.12",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "application for stay of orders",
+    "id": "cp8.13",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "effect on tenure of councillor",
+    "id": "cp8.14",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "in local government authority",
+    "id": "cp8.15",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "relevance of interests of creditors",
+    "id": "cp8.16",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "stay refused.   local government",
+    "id": "cp8.17",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "elected councillor",
+    "id": "cp8.18",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "disqualification from office by reason of bankruptcy",
+    "id": "cp8.19",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "application for stay pending special leave application to high court",
+    "id": "cp8.20",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "effect of legislation",
+    "id": "cp8.21",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "interests of creditors",
+    "id": "cp8.22",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "balance of convenience",
+    "id": "cp8.23",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "stay refused.",
+    "id": "cp8.24",
+    "type": "cited",
+    "from": "[1996]"
+  },
+  {
+    "text": "administrative law",
+    "id": "cp9.0",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "natural justice",
+    "id": "cp9.1",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "australian securities commission",
+    "id": "cp9.2",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "private examination",
+    "id": "cp9.3",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "transcripts released to royal commission for internal use",
+    "id": "cp9.4",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "subsequent decision to release for use in royal commission's public hearings",
+    "id": "cp9.5",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "whether examinee entitled to opportunity to object",
+    "id": "cp9.6",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "judicial review",
+    "id": "cp9.7",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "power to direct party to do any act necessary to do justice between parties",
+    "id": "cp9.8",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "extent of power",
+    "id": "cp9.9",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "administrative decisions (judicial review) act 1977 (cth), s. 16(1)(d)",
+    "id": "cp9.10",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "australian securities commission act 1989 (cth), ss. 19(2)(b) , 22 (1), 24 , 25 (3), 127 (1), (4).",
+    "id": "cp9.11",
+    "type": "cited",
+    "from": "[1993]"
+  },
+  {
+    "text": "administrative law",
+    "id": "cp10.0",
+    "type": "cited",
+    "from": "[1992]"
+  },
+  {
+    "text": "natural justice",
+    "id": "cp10.1",
+    "type": "cited",
+    "from": "[1992]"
+  },
+  {
+    "text": "criminal justice commission",
+    "id": "cp10.2",
+    "type": "cited",
+    "from": "[1992]"
+  },
+  {
+    "text": "requirement to report to parliamentary committee, speaker of legislative assembly and minister",
+    "id": "cp10.3",
+    "type": "cited",
+    "from": "[1992]"
+  },
+  {
+    "text": "report on gaming machine concerns and regulations",
+    "id": "cp10.4",
+    "type": "cited",
+    "from": "[1992]"
+  },
+  {
+    "text": "recommendation to exclude certain persons from gaming machine industry in state",
+    "id": "cp10.5",
+    "type": "cited",
+    "from": "[1992]"
+  },
+  {
+    "text": "no opportunity given to answer matters raised in reports",
+    "id": "cp10.6",
+    "type": "cited",
+    "from": "[1992]"
+  },
+  {
+    "text": "whether duty of procedural fairness",
+    "id": "cp10.7",
+    "type": "cited",
+    "from": "[1992]"
+  },
+  {
+    "text": "whether right or interest adversely affected",
+    "id": "cp10.8",
+    "type": "cited",
+    "from": "[1992]"
+  },
+  {
+    "text": "legitimate expectation",
+    "id": "cp10.9",
+    "type": "cited",
+    "from": "[1992]"
+  },
+  {
+    "text": "mandamus",
+    "id": "cp10.10",
+    "type": "cited",
+    "from": "[1992]"
+  },
+  {
+    "text": "certiorari",
+    "id": "cp10.11",
+    "type": "cited",
+    "from": "[1992]"
+  },
+  {
+    "text": "declaration",
+    "id": "cp10.12",
+    "type": "cited",
+    "from": "[1992]"
+  },
+  {
+    "text": "criminal justice act 1989 (q.), ss 2.1(1), 2.14, 2.15, 2.18, 3.17, 3.21(2)",
+    "id": "cp10.13",
+    "type": "cited",
+    "from": "[1992]"
+  },
+  {
+    "text": "gaming machine act 1991 (q.), s. 6.16(1).",
+    "id": "cp10.14",
+    "type": "cited",
+    "from": "[1992]"
+  },
+  {
+    "text": "coroners (w.a.)",
+    "id": "cp11.0",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "inquest",
+    "id": "cp11.1",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "right of parents of deceased to be heard",
+    "id": "cp11.2",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "extent of right",
+    "id": "cp11.3",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "coroners act 1920 (w.a.), s. 24.  administrative law",
+    "id": "cp11.4",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "natural justice",
+    "id": "cp11.5",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "application to coronial inquest",
+    "id": "cp11.6",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "right of parents of deceased to be heard",
+    "id": "cp11.7",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "extent of right",
+    "id": "cp11.8",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "coroners act 1920 (w.a.), s. 24.",
+    "id": "cp11.9",
+    "type": "cited",
+    "from": "[1990]"
+  },
+  {
+    "text": "administrative law",
+    "id": "cp12.0",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "commissioner to inquire into land claims and report to minister",
+    "id": "cp12.1",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "report to contain recommendation if certain facts found",
+    "id": "cp12.2",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "requirement to comment on detriment to others of acting on recommendation",
+    "id": "cp12.3",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "report made in ignorance of certain material facts",
+    "id": "cp12.4",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "submissions by persons who would be detrimentally affected by recommended action",
+    "id": "cp12.5",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "reference to material facts not known to commissioner",
+    "id": "cp12.6",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "submissions not drawn to minister's attention",
+    "id": "cp12.7",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "whether failure to take relevant consideration into account",
+    "id": "cp12.8",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "administrative decision (judicial review) act 1977 (cth), s. 5(2)(b)",
+    "id": "cp12.9",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "aboriginal land rights (northern territory) act 1976,ss. 11(1), 50(3).  courts",
+    "id": "cp12.10",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "practice and procedure",
+    "id": "cp12.11",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "discretionary judgments",
+    "id": "cp12.12",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "appellate court",
+    "id": "cp12.13",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "functions",
+    "id": "cp12.14",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "allegation of improper exercise of power by minister",
+    "id": "cp12.15",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "discretion to refuse relief",
+    "id": "cp12.16",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "finding of trial judge that exercise not improper",
+    "id": "cp12.17",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "reversed on appeal",
+    "id": "cp12.18",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "exercise of discretion by appellate court",
+    "id": "cp12.19",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "further appeal",
+    "id": "cp12.20",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "grounds on which further appellate court will interfere with intermediate court's exercise of discretion.",
+    "id": "cp12.21",
+    "type": "cited",
+    "from": "[1986]"
+  },
+  {
+    "text": "legal practitioners",
+    "id": "cp13.0",
+    "type": "cited",
+    "from": "[1983]"
+  },
+  {
+    "text": "solicitors",
+    "id": "cp13.1",
+    "type": "cited",
+    "from": "[1983]"
+  },
+  {
+    "text": "legal professional privilege",
+    "id": "cp13.2",
+    "type": "cited",
+    "from": "[1983]"
+  },
+  {
+    "text": "whether confined to judicial and quasi-judicial proceedings",
+    "id": "cp13.3",
+    "type": "cited",
+    "from": "[1983]"
+  },
+  {
+    "text": "search warrant",
+    "id": "cp13.4",
+    "type": "cited",
+    "from": "[1983]"
+  },
+  {
+    "text": "attempt to seize documents held by solicitors on behalf of client",
+    "id": "cp13.5",
+    "type": "cited",
+    "from": "[1983]"
+  },
+  {
+    "text": "whether documents protected by legal professional privilege subject to search warrant",
+    "id": "cp13.6",
+    "type": "cited",
+    "from": "[1983]"
+  },
+  {
+    "text": "crimes act 1914 (cth),s. 10.",
+    "id": "cp13.7",
+    "type": "cited",
+    "from": "[1983]"
+  },
+  {
+    "text": "practice",
+    "id": "cp14.0",
+    "type": "cited",
+    "from": "[1982]"
+  },
+  {
+    "text": "subpoena duces tecum",
+    "id": "cp14.1",
+    "type": "cited",
+    "from": "[1982]"
+  },
+  {
+    "text": "unincorporated association",
+    "id": "cp14.2",
+    "type": "cited",
+    "from": "[1982]"
+  },
+  {
+    "text": "subpoena served on executive officer",
+    "id": "cp14.3",
+    "type": "cited",
+    "from": "[1982]"
+  },
+  {
+    "text": "objection to production",
+    "id": "cp14.4",
+    "type": "cited",
+    "from": "[1982]"
+  },
+  {
+    "text": "possession, custody or control of documents",
+    "id": "cp14.5",
+    "type": "cited",
+    "from": "[1982]"
+  },
+  {
+    "text": "documents other than employer's documents",
+    "id": "cp14.6",
+    "type": "cited",
+    "from": "[1982]"
+  },
+  {
+    "text": "absence of employer's authority to produce.",
+    "id": "cp14.7",
+    "type": "cited",
+    "from": "[1982]"
+  },
+  {
+    "text": "corporations",
+    "id": "cp15.0",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "legal professional privilege",
+    "id": "cp15.1",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "application by awb limited for access to documents",
+    "id": "cp15.2",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "proceedings by asic against former managing director of awb limited seeking civil penalties",
+    "id": "cp15.3",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "examinations conducted under s 19 of the asic act 2001 and statements given to asic in relation to the affairs of awb limited",
+    "id": "cp15.4",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "awb limited has reasonable grounds to believe that privileged and confidential information may be in the transcript of the examinations and the statements",
+    "id": "cp15.5",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "transcripts and statements ordered to be discovered by asic to the defendant",
+    "id": "cp15.6",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "application by awb limited to examine the transcripts and statements to assert claims of privilege",
+    "id": "cp15.7",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "whether awb limited should be given a realistic and practical opportunity to assert and test is claims to privilege and confidentiality",
+    "id": "cp15.8",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "application granted on terms",
+    "id": "cp15.9",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "judge : robson j where held : melbourne date of hearing : 31 july and 5 august 2009 date of judgment : 6 august 2009 case may be cited as : re awb limited (no 6) medium neutral citation : [2009] vsc 330",
+    "id": "cp15.10",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "corporations",
+    "id": "cp15.11",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "legal professional privilege",
+    "id": "cp15.12",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "application by awb limited for access to documents",
+    "id": "cp15.13",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "proceedings by asic against former managing director of awb limited seeking civil penalties",
+    "id": "cp15.14",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "examinations conducted under s 19 of the asic act 2001 and statements given to asic in relation to the affairs of awb limited",
+    "id": "cp15.15",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "awb limited has reasonable grounds to believe that privileged and confidential information may be in the transcript of the examinations and the statements",
+    "id": "cp15.16",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "transcripts and statements ordered to be discovered by asic to the defendant",
+    "id": "cp15.17",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "application by awb limited to examine the transcripts and statements to assert claims of privilege",
+    "id": "cp15.18",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "whether awb limited should be given a realistic and practical opportunity to assert and test is claims to privilege and confidentiality",
+    "id": "cp15.19",
+    "type": "citing",
+    "from": "[2009]"
+  },
+  {
+    "text": "application granted on terms",
+    "id": "cp15.20",
+    "type": "citing",
+    "from": "[2009]"
+  }
+]

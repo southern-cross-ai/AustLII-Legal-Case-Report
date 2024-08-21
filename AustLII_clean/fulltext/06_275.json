@@ -1,0 +1,2568 @@
+{
+  "name": "Aristocrat Technologies Australia Pty Ltd v Vidtech Gaming Services Pty Ltd [2006] FCA 275 (22 March 2006)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2006/275.html",
+  "catchphrases": [
+    {
+      "text": "action for infringement of copyright over artwork and computer programs associated with poker machines",
+      "id": "c0"
+    },
+    {
+      "text": "extent of infringements",
+      "id": "c1"
+    },
+    {
+      "text": "whether personal respondents authorised infringements",
+      "id": "c2"
+    },
+    {
+      "text": "relief",
+      "id": "c3"
+    },
+    {
+      "text": "having regard to respondents' undertaking, whether injunctive relief should be granted",
+      "id": "c4"
+    },
+    {
+      "text": "assessment of compensatory damages",
+      "id": "c5"
+    },
+    {
+      "text": "whether there should be an award of additional damages.",
+      "id": "c6"
+    },
+    {
+      "text": "whether respondents applied trade marks to counterfeit perspex panels",
+      "id": "c7"
+    },
+    {
+      "text": "no sales of panels in australia.",
+      "id": "c8"
+    },
+    {
+      "text": "alleged misleading and deceptive conduct",
+      "id": "c9"
+    },
+    {
+      "text": "whether a false representation was made",
+      "id": "c10"
+    },
+    {
+      "text": "consequence of misled persons all being outside australia.",
+      "id": "c11"
+    },
+    {
+      "text": "copyright",
+      "id": "c12"
+    },
+    {
+      "text": "trade marks",
+      "id": "c13"
+    },
+    {
+      "text": "trade practices",
+      "id": "c14"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "WILCOX J: \n \n 1 In this proceeding, two associated companies sue another company, and its two directors, alleging, first, infringement of the first applicant's trade marks and copyright and, second, contraventions of s 52 of the Trade Practices Act 1974 (Cth) ('the TP Act').",
+      "id": "s0"
+    },
+    {
+      "text": "The copyright claim has dominated the debate between the parties.",
+      "id": "s1"
+    },
+    {
+      "text": "The parties \n \n2 The applicants are Aristocrat Technologies Australia Pty Limited ('Aristocrat'), a designer and manufacturer of electronic gaming machines ('EGMs'), and Aristocrat International Pty Limited ('Aristocrat International'), a distributor of Aristocrat's EGMs.",
+      "id": "s2"
+    },
+    {
+      "text": "Both companies are fully owned subsidiaries of Aristocrat Leisure Limited.",
+      "id": "s3"
+    },
+    {
+      "text": "They were represented at the hearing by Mr R Cobden SC and Mr N R Murray.",
+      "id": "s4"
+    },
+    {
+      "text": "3 The first respondent was named in the proceeding as Vidtech Gaming Services Pty Limited ('Vidtech').",
+      "id": "s5"
+    },
+    {
+      "text": "At the time of the institution of the proceeding, this was its name.",
+      "id": "s6"
+    },
+    {
+      "text": "At that time, the second and third respondents, David Allan Parry and Rhonda Denise Parry ('the personal respondents'), who are husband and wife, were its two directors.",
+      "id": "s7"
+    },
+    {
+      "text": "However, on 28 May 2005, Vidtech changed its name to DAP Services (Kempsey) Pty Limited.",
+      "id": "s8"
+    },
+    {
+      "text": "On 15 June 2005, it went into liquidation.",
+      "id": "s9"
+    },
+    {
+      "text": "4 On 2 August 2005, I gave leave for the proceeding to continue against Vidtech.",
+      "id": "s10"
+    },
+    {
+      "text": "Nevertheless, Vidtech took no part in the trial.",
+      "id": "s11"
+    },
+    {
+      "text": "The personal respondents were represented by Mr J M Ireland QC and Mr D Accoto.",
+      "id": "s12"
+    },
+    {
+      "text": "5 It is convenient for me to continue to call the first respondent 'Vidtech'.",
+      "id": "s13"
+    },
+    {
+      "text": "However, the Court record should be corrected by substituting the first respondent's new name.",
+      "id": "s14"
+    },
+    {
+      "text": "I will make an order to that effect.",
+      "id": "s15"
+    },
+    {
+      "text": "Background facts \n \n6 Many of the background facts are not in dispute.",
+      "id": "s16"
+    },
+    {
+      "text": "It is agreed that Aristocrat is the owner of various registered trade marks that it applies to EGMs manufactured by it.",
+      "id": "s17"
+    },
+    {
+      "text": "The registered trade marks include the following words, or collocations of words, relevant to this case: 'ARISTOCRAT', 'QUEEN OF THE NILE', 'DOLPHIN TREASURE', 'PENGUIN PAYS' and 'CHICKEN'.",
+      "id": "s18"
+    },
+    {
+      "text": "I will refer to these marks as 'the Aristocrat trade marks'.",
+      "id": "s19"
+    },
+    {
+      "text": "Aristocrat International is an authorised user of the Aristocrat trade marks.",
+      "id": "s20"
+    },
+    {
+      "text": "7 It is also agreed that Aristocrat is the owner of copyright in:\n \n \n (i) literary and artistic works incorporated into Aristocrat's EGMs ('Aristocrat artwork'); and\n (ii) literary works in the form of computer programs ('EPROMs') that operate Aristocrat's EGMs ('Aristocrat software').",
+      "id": "s21"
+    },
+    {
+      "text": "8 Until it went into liquidation last June, Vidtech carried on the business of purchasing and reconditioning used EGMs and re-selling them, apparently always outside Australia.",
+      "id": "s22"
+    },
+    {
+      "text": "Both the personal respondents actively participated in the conduct of that business.",
+      "id": "s23"
+    },
+    {
+      "text": "Two of Vidtech's major customers were Belgian Gaming Technology ('BGT'), a firm based in Ghent, Belgium, and Happy Games, based in Lima, Peru.",
+      "id": "s24"
+    },
+    {
+      "text": "9 During the period 2001 to 2004, one or other of the personal respondents, from time to time, commissioned V R Farrow &amp; Co Pty Limited, trading as Capre Classic Graphics ('Capre'), to produce artwork that included substantial parts of the Aristocrat artwork for a particular model EGM.",
+      "id": "s25"
+    },
+    {
+      "text": "The artwork was displayed on perspex panels that were able to be installed in EGMs.",
+      "id": "s26"
+    },
+    {
+      "text": "There is a dispute as to the use that was made of this artwork.",
+      "id": "s27"
+    },
+    {
+      "text": "10 The evidence refers to two different types of EGMs: 'casino' EGMs and 'lowboy' EGMs.",
+      "id": "s28"
+    },
+    {
+      "text": "Lowboy EGMs are sometimes called 'slant' EGMs.",
+      "id": "s29"
+    },
+    {
+      "text": "Casino EGMs stand higher than lowboys.",
+      "id": "s30"
+    },
+    {
+      "text": "Casino EGMs have two artwork panels: a top panel and a belly panel.",
+      "id": "s31"
+    },
+    {
+      "text": "Lowboy EGMs have only a belly panel.",
+      "id": "s32"
+    },
+    {
+      "text": "11 On the basis of documents made available to the applicants, the parties agreed that about 615 artwork panels were produced by Capre on behalf of Vidtech.",
+      "id": "s33"
+    },
+    {
+      "text": "Having regard to the comparative incidence of casino and lowboy EGMs, they further agreed that 615 panels would have provided the artwork for about 400 EGMs.",
+      "id": "s34"
+    },
+    {
+      "text": "12 The personal respondents concede that the manufacture of each perspex panel constituted an infringement of the first applicant's copyright in the relevant artwork.",
+      "id": "s35"
+    },
+    {
+      "text": "However, they say the infringer was Capre.",
+      "id": "s36"
+    },
+    {
+      "text": "They do not concede that Vidtech, or either of them, was an infringer.",
+      "id": "s37"
+    },
+    {
+      "text": "13 As Vidtech was not represented at the trial, there is no agreement or concession binding that respondent.",
+      "id": "s38"
+    },
+    {
+      "text": "However, there is evidence of each of the matters of fact set out in paragraphs 6 to 12 and I make findings in the same terms as the agreements and concessions, against that respondent.",
+      "id": "s39"
+    },
+    {
+      "text": "Issues in the copyright claim \n \n14 There are five issues in the copyright claim:\n \n \n (i) whether any of the respondents authorised infringement of Aristocrat's artwork copyrights;\n (ii) whether the applicants have established infringement by any of the respondents of Aristocrat's software copyrights;\n (iii) if infringement is established, whether it is appropriate to grant injunctive relief;\n (iv) if infringement is established, the proper computation of compensatory damages; and\n (iv) whether this is an appropriate case for the award of additional damages, pursuant to s 115(4) of the Copyright Act 1968 (Cth) ('the Copyright Act ').",
+      "id": "s40"
+    },
+    {
+      "text": "15 There is also dispute as to whether the applicants have established that the respondents, or any of them, infringed the first applicant's trade marks and/or engaged in misleading conduct in contravention of s 52 of the TP Act.",
+      "id": "s41"
+    },
+    {
+      "text": "The facts \n (i) The 'Cleopatra' machines \n \n16 In August 2004, Constance Hsu, an employee of a Macau customer of Aristocrat, had a series of telephone conversations with Kenneth Phillip Jolly, Aristocrat's General Manager, Asia Pacific.",
+      "id": "s42"
+    },
+    {
+      "text": "During the course of these conversations, Ms Hsu referred to 'Cleopatra' EGMs.",
+      "id": "s43"
+    },
+    {
+      "text": "Mr Jolly told Ms Hsu that Cleopatra was not an Aristocrat game.",
+      "id": "s44"
+    },
+    {
+      "text": "He subsequently visited the customer's premises in Macau and found, amongst other machines, two EGMs that incorporated artwork panels that were substantially similar to those used in Aristocrat's 'Queen of the Nile' EGMs, but which bore only the name 'Cleopatra'.",
+      "id": "s45"
+    },
+    {
+      "text": "A shipping list revealed that the machines had been supplied to Ms Hsu's employer by BGT.",
+      "id": "s46"
+    },
+    {
+      "text": "17 Mr Jolly purchased one of the 'Cleopatra' machines and had it brought to Sydney.",
+      "id": "s47"
+    },
+    {
+      "text": "The machine was displayed in court during the hearing of this case, along with a 'Queen of the Nile' machine.",
+      "id": "s48"
+    },
+    {
+      "text": "Photographs of each machine, and of their individual panels, were tendered in evidence.",
+      "id": "s49"
+    },
+    {
+      "text": "There is no doubt (and it is not disputed) that the 'Cleopatra' artwork reproduces a substantial part of the 'Queen of the Nile' artwork and, therefore, infringes Aristocrat's copyright in that artwork: see s 14(1) of the Copyright Act .",
+      "id": "s50"
+    },
+    {
+      "text": "18 There are some differences between the 'Queen of the Nile' and 'Cleopatra' artwork.",
+      "id": "s51"
+    },
+    {
+      "text": "The major difference occurs in the casino EGMs.",
+      "id": "s52"
+    },
+    {
+      "text": "The belly panel of the 'Queen of the Nile' machine displays that title with a head portrait of a woman wearing Egyptian ornaments against a background of pyramids, palm trees and a river passing through a desert.",
+      "id": "s53"
+    },
+    {
+      "text": "This is a daytime scene.",
+      "id": "s54"
+    },
+    {
+      "text": "The top panel of the 'Queen of the Nile' machine (which includes the prize table) contains two smaller reproductions of the head portrait, one of which is accompanied by the word 'Cleopatra' and the other by the words 'Queen of the Nile'.",
+      "id": "s55"
+    },
+    {
+      "text": "19 The 'Cleopatra' casino machine reverses this arrangement.",
+      "id": "s56"
+    },
+    {
+      "text": "The top panel contains the large head portrait, also with a background desert scene, including pyramids, but with a night-time sky instead of sunlight.",
+      "id": "s57"
+    },
+    {
+      "text": "The belly panel is substantially similar to the top 'Queen of the Nile' panel, including prize table, but it displays the name 'Cleopatra' alongside each of the smaller head portraits.",
+      "id": "s58"
+    },
+    {
+      "text": "The words 'Queen of the Nile' do not appear.",
+      "id": "s59"
+    },
+    {
+      "text": "(ii) The Belgian raid \n \n20 In November 2004, the applicants instructed Belgian attorneys to institute a saisive descriptive (a pre-trial raid) against BGT.",
+      "id": "s60"
+    },
+    {
+      "text": "The raid took place on 12 January 2005.",
+      "id": "s61"
+    },
+    {
+      "text": "It resulted in discovery, at BGT's premises, of 37 'Cleopatra' artwork panels, one 'Penguin Pays' artwork panel, one 'Dolphin Treasure' artwork panel, one Aristocrat EGM incorporating 'Cleopatra' artwork panels and a quantity of business records.",
+      "id": "s62"
+    },
+    {
+      "text": "'Penguin Pays' and 'Dolphin Treasure' are each EGM models manufactured by Aristocrat.",
+      "id": "s63"
+    },
+    {
+      "text": "21 The seized business records included an invoice from Vidtech to BGT dated 17 June 2003.",
+      "id": "s64"
+    },
+    {
+      "text": "The goods listed on that invoice included 64 Aristocrat machines, 20 items described as 'Casino Belly Panels Artwork' and 20 items called 'Casino Top Panels Artwork'.",
+      "id": "s65"
+    },
+    {
+      "text": "The artwork items were invoiced at US$50 each.",
+      "id": "s66"
+    },
+    {
+      "text": "The invoice also included four 'Mk 4 Conversion Kits' at $50 each.",
+      "id": "s67"
+    },
+    {
+      "text": "The abbreviation 'Mk 4' is a reference to Aristocrat's Mark IV 'Queen of the Nile' machine.",
+      "id": "s68"
+    },
+    {
+      "text": "A 'conversion kit' usually contains the artwork and EPROMs that are necessary to convert an EGM from one game to another.",
+      "id": "s69"
+    },
+    {
+      "text": "22 The seized documents also included a Vidtech packing slip dated 10 June 2003.",
+      "id": "s70"
+    },
+    {
+      "text": "Amongst the goods listed on the packing slip were three machines, each identified as 'Cleopatra' and by reference to an individual serial number that corresponded with the serial number of an Aristocrat 'Queen of the Nile' machine.",
+      "id": "s71"
+    },
+    {
+      "text": "These three machines were noted as 'LB', which, the parties agree, means 'lowboy'.",
+      "id": "s72"
+    },
+    {
+      "text": "23 The seized documents also included an email from Mr Parry to Johan Temmerman of BGT dated 13 January 2005 in which he said:\n \n 'I am buying some machines today i will let you know how many Aristocrats are available over the weekend!",
+      "id": "s73"
+    },
+    {
+      "text": "Cleopatra theme is not a problem, as you know we have developed the artwork for Queen of the Nile/Cleopatra, so we could make as many as you want.",
+      "id": "s74"
+    },
+    {
+      "text": "' \n \n\n24 At about the end of January 2005, Mr Parry received a telephone call from Mr Temmerman telling him about the pre-trial raid, which had occurred about two weeks earlier.",
+      "id": "s75"
+    },
+    {
+      "text": "As a result of that conversation, Mr Parry assumed that Vidtech would become implicated in a copyright infringement case.",
+      "id": "s76"
+    },
+    {
+      "text": "Mr Parry discussed the matter with his wife.",
+      "id": "s77"
+    },
+    {
+      "text": "He then sent an email to Tim O'Reilly, the principal of Happy Games in Peru.",
+      "id": "s78"
+    },
+    {
+      "text": "That email included the following:\n \n 'Johan at Belgian Gaming has phoned me to inform me that Aristocrat raided his factory with a search warrant and confiscated one machine, downloaded all data from his computer hard drive and accused him of infringing Aristocrat copyrights with regards to artwork!!!",
+      "id": "s79"
+    },
+    {
+      "text": "This has implicated me as they are now in possession of my correspondence with him ...In future correspondence can you please ensure that you &lt;U&gt;NEVER&lt;/u&gt; refer to the particular model of machine in question ...",
+      "id": "s80"
+    },
+    {
+      "text": "I am expecting to be contacted by various organizations in the near future regarding these matters.",
+      "id": "s81"
+    },
+    {
+      "text": "Please bear this in mind when we next talk on the phone --- you know the old saying: loose lips sinks ships.",
+      "id": "s82"
+    },
+    {
+      "text": "' \n \n\n25 During cross-examination, Mr Parry gave the following evidence about this email:\n \n 'What provoked you to communicate with Mr O'Reilly in relation to what's going on at Belgian Gaming Technology?---It was basically because Mr O'Reilly and Mr Temmerman knew each other and I did not know at the time if Mr O'Reilly had purchased any equipment off Mr Temmerman and therefore he might be at risk as such.",
+      "id": "s83"
+    },
+    {
+      "text": "Mr O'Reilly purchased equipment directly from you did he not?---Yes.",
+      "id": "s84"
+    },
+    {
+      "text": "Were you concerned that something that Mr O'Reilly might do might implicate you or Vidtech further?---In a roundabout way.",
+      "id": "s85"
+    },
+    {
+      "text": "What would be that roundabout way?---I sent artwork to Belgian Gaming Technology and they passed it on to Mr O'Reilly.",
+      "id": "s86"
+    },
+    {
+      "text": "By that point you accepted did you in your own mind that the artwork infringed copyright?---By then, yes.",
+      "id": "s87"
+    },
+    {
+      "text": "By the end of January?---Yes.",
+      "id": "s88"
+    },
+    {
+      "text": "' \n \n\n26 Mr Parry denied he had ever sent any copied artwork panels directly to Happy Games.",
+      "id": "s89"
+    },
+    {
+      "text": "He said all the copied panels had gone to BGT.",
+      "id": "s90"
+    },
+    {
+      "text": "Mr Parry said that he had sold machines with artwork and EPROMs to Happy Games, but he insisted that this artwork and these EPROMs were original Aristocrat products, not copies made by Capre or anyone else.",
+      "id": "s91"
+    },
+    {
+      "text": "He said in evidence that his fear was not that he had sold Happy Games anything that would cause a problem, but that BGT may have done so.",
+      "id": "s92"
+    },
+    {
+      "text": "(iii) The 'trap purchase' visit \n \n27 The applicants instructed Trade Mark Investigation Services ('TMIS') to investigate Vidtech.",
+      "id": "s93"
+    },
+    {
+      "text": "TMIS engaged two private investigators, Themis Papas and Julia Chai.",
+      "id": "s94"
+    },
+    {
+      "text": "The two investigators visited Vidtech's premises at Moorebank at about 1pm on 7 March 2005.",
+      "id": "s95"
+    },
+    {
+      "text": "Evidence about what happened during the course of that visit was given by Mr Papas and Mr Parry.",
+      "id": "s96"
+    },
+    {
+      "text": "Neither Ms Chai nor Mrs Parry gave evidence.",
+      "id": "s97"
+    },
+    {
+      "text": "No explanation was offered for the absence of either woman from the witness box.",
+      "id": "s98"
+    },
+    {
+      "text": "28 Mr Papas said that, earlier on 7 March 2005, he and Ms Chai attended Aristocrat's office at Alexandria for a briefing.",
+      "id": "s99"
+    },
+    {
+      "text": "They then went to Moorebank and entered Vidtech's main office, located in unit 5 of an industrial complex.",
+      "id": "s100"
+    },
+    {
+      "text": "During the course of the ensuing half hour, they engaged in conversation, in that office, with Mr Parry.",
+      "id": "s101"
+    },
+    {
+      "text": "Mrs Parry was present during this conversation.",
+      "id": "s102"
+    },
+    {
+      "text": "She was apparently occupied with a laptop computer and made no substantive contribution to the conversation.",
+      "id": "s103"
+    },
+    {
+      "text": "Mr Papas secretly video-taped the visit.",
+      "id": "s104"
+    },
+    {
+      "text": "However, he had the sound turned off, in order to avoid contravening legislation relating to listening devices.",
+      "id": "s105"
+    },
+    {
+      "text": "His visual footage was produced at the hearing but was not very informative.",
+      "id": "s106"
+    },
+    {
+      "text": "29 It seems nobody made a contemporaneous record of the conversation.",
+      "id": "s107"
+    },
+    {
+      "text": "However, immediately after the visit to Moorebank, Mr Papas made notes of the conversation.",
+      "id": "s108"
+    },
+    {
+      "text": "The personal respondents tendered them in evidence in this case.",
+      "id": "s109"
+    },
+    {
+      "text": "The notes are generally consistent with Mr Papas' affidavit and oral evidence, although there are items in the affidavit that do not appear in the notes.",
+      "id": "s110"
+    },
+    {
+      "text": "30 In his affidavit, Mr Papas described the place where most of the conversation took place.",
+      "id": "s111"
+    },
+    {
+      "text": "He, Ms Chai and Mr Parry sat at a round meeting table.",
+      "id": "s112"
+    },
+    {
+      "text": "Mrs Parry worked at a desk nearby.",
+      "id": "s113"
+    },
+    {
+      "text": "Shelves near the meeting table were stacked with electronic switches and mother boards.",
+      "id": "s114"
+    },
+    {
+      "text": "31 According to Mr Papas' affidavit, Ms Chai told Mr Parry that she and Mr Papas were interested in purchasing refurbished casino tops for export to China and Macau.",
+      "id": "s115"
+    },
+    {
+      "text": "Mr Parry described the nature of Vidtech's business.",
+      "id": "s116"
+    },
+    {
+      "text": "He asked what type of machine Ms Chai wanted.",
+      "id": "s117"
+    },
+    {
+      "text": "She replied 'Mark V Series 1'.",
+      "id": "s118"
+    },
+    {
+      "text": "This was a reference to an Aristocrat EGM model.",
+      "id": "s119"
+    },
+    {
+      "text": "Mr Parry said this machine 'is really hard to get at the moment' and recommended Mark V Series 2, a later Aristocrat model.",
+      "id": "s120"
+    },
+    {
+      "text": "After some discussion about the note validators on the machines, Mr Parry quoted prices for Mark V machines (US$2,250 for Series 2 and US$1,750 for Series 1).",
+      "id": "s121"
+    },
+    {
+      "text": "Ms Chai asked: 'Do you also do the conversion software?",
+      "id": "s122"
+    },
+    {
+      "text": "' Mr Parry replied:\n \n 'We can supply any game you want.",
+      "id": "s123"
+    },
+    {
+      "text": "You tell me the games and I'll tell you if we can do it.",
+      "id": "s124"
+    },
+    {
+      "text": "The reason we are doing it this way is because we enter into copyright issues.",
+      "id": "s125"
+    },
+    {
+      "text": "' \n \n\n32 According to Mr Papas, Mr Parry then displayed some examples of 'Cleopatra' artwork.",
+      "id": "s126"
+    },
+    {
+      "text": "He said:\n \n 'We do our own artwork but don't keep this in house.",
+      "id": "s127"
+    },
+    {
+      "text": "The reason is that if a representative of Aristocrat were to see this he would be wondering why I copied it.",
+      "id": "s128"
+    },
+    {
+      "text": "But we do it.",
+      "id": "s129"
+    },
+    {
+      "text": "Here is one I have been working with.",
+      "id": "s130"
+    },
+    {
+      "text": "Its Queen of the Nile but we don't actually call it Queen of the Nile.",
+      "id": "s131"
+    },
+    {
+      "text": "We call it \"Cleopatra\".",
+      "id": "s132"
+    },
+    {
+      "text": "There is no mention of Queen of the Nile on there.",
+      "id": "s133"
+    },
+    {
+      "text": "' \n \n\n33 There was conversation about conversion kits.",
+      "id": "s134"
+    },
+    {
+      "text": "Mr Party quoted a price of US$200.",
+      "id": "s135"
+    },
+    {
+      "text": "He said:\n \n 'If you wanted to get a conversion kit from say Aristocrat, it would cost you about $3000 to $6000.",
+      "id": "s136"
+    },
+    {
+      "text": "This is practically cost.",
+      "id": "s137"
+    },
+    {
+      "text": "We do the top artwork, the bottom artwork.",
+      "id": "s138"
+    },
+    {
+      "text": "So you get the top artwork, the bottom artwork, the button legends and the EPROM software for $200.",
+      "id": "s139"
+    },
+    {
+      "text": "' \n \n\n34 At this point, Mr Papas claimed, Mr Parry stood up and lifted one of a number of polystyrene sheets from a box on the floor.",
+      "id": "s140"
+    },
+    {
+      "text": "Mr Papas said the sheets contained numerous EPROMs that had white stickers with the names of Aristocrat games on them.",
+      "id": "s141"
+    },
+    {
+      "text": "Mr Papas quoted Mr Parry as saying:\n \n 'We've got a full library, that's just some of them.",
+      "id": "s142"
+    },
+    {
+      "text": "Like Margarita Magic, Enchanted Forest, Mystic Garden, Duke, Inca Sun, Golden Pyramid, Golden Ra, Golden Treasure, Penguin Pays.",
+      "id": "s143"
+    },
+    {
+      "text": "We keep a hardware copy.",
+      "id": "s144"
+    },
+    {
+      "text": "' \n \n\n35 Mr Papas asked about loading the EPROMs.",
+      "id": "s145"
+    },
+    {
+      "text": "Mr Parry demonstrated the technique by placing a blank EPROM into an EPROM burner on a desk near the table.",
+      "id": "s146"
+    },
+    {
+      "text": "36 There was discussion about delivery of machines to Hong Kong and installation there.",
+      "id": "s147"
+    },
+    {
+      "text": "Mr Parry offered to do the installation.",
+      "id": "s148"
+    },
+    {
+      "text": "He said: 'I have been to Hong Kong, I have been to Macau, Singapore.",
+      "id": "s149"
+    },
+    {
+      "text": "We do installations, as far as South America'.",
+      "id": "s150"
+    },
+    {
+      "text": "37 According to Mr Papas, Mr Parry then took Ms Chai and Mr Papas to a store room on the ground floor of Unit 5.",
+      "id": "s151"
+    },
+    {
+      "text": "It contained about 30 Aristocrat and Konami EGMs.",
+      "id": "s152"
+    },
+    {
+      "text": "(Konami is another EGM manufacturer.",
+      "id": "s153"
+    },
+    {
+      "text": ") Some machines had been refurbished, some had not.",
+      "id": "s154"
+    },
+    {
+      "text": "Mr Parry pointed to one EGM which had 'Cleopatra' on the top panel and 'Queen of the Nile' on the belly panel.",
+      "id": "s155"
+    },
+    {
+      "text": "Mr Papas said the following conversation ensued:\n \n 'David Parry said: \"See where it says 'Queen of the Nile'.",
+      "id": "s156"
+    },
+    {
+      "text": "Ours says 'Cleopatra'.",
+      "id": "s157"
+    },
+    {
+      "text": "We do subtle changes for copyright.",
+      "id": "s158"
+    },
+    {
+      "text": "\" \n \n I said: \"It's the same game though.",
+      "id": "s159"
+    },
+    {
+      "text": "\" \n \n David Parry said: \"Yes it's the same game.",
+      "id": "s160"
+    },
+    {
+      "text": "Yeah, most of the software is on the EPROMs.",
+      "id": "s161"
+    },
+    {
+      "text": "We have what is called game control software programmers that can do ten games at a time.",
+      "id": "s162"
+    },
+    {
+      "text": "They've got rows and rows of them and they've got what is called gang programmers --- they can do twenty individually.",
+      "id": "s163"
+    },
+    {
+      "text": "Or stick all the chips in and do them all at once.",
+      "id": "s164"
+    },
+    {
+      "text": "' \n \n\n38 According to Mr Papas, Mr Parry then took him and Ms Chai to a storeroom in an adjacent unit (No 3), which contained about 30 lowboy machines.",
+      "id": "s165"
+    },
+    {
+      "text": "Mr Parry said: 'We sell these converted slant machines.",
+      "id": "s166"
+    },
+    {
+      "text": "' Ms Chai remarked 'today we might just buy some software'.",
+      "id": "s167"
+    },
+    {
+      "text": "She added 'I must speak with my client and then make some further orders'.",
+      "id": "s168"
+    },
+    {
+      "text": "Mr Parry responded:\n \n 'We can upgrade them to just about the latest game that comes out of the door, but then again you can't advertise it.",
+      "id": "s169"
+    },
+    {
+      "text": "But if you buy the equipment first, we can supplement them.",
+      "id": "s170"
+    },
+    {
+      "text": "We are able to give you a package, we've got the facility to do that.",
+      "id": "s171"
+    },
+    {
+      "text": "' \n \n\n39 Mr Papas said Mr Parry then took him and Ms Chai to the office in this unit.",
+      "id": "s172"
+    },
+    {
+      "text": "Mr Parry uncovered a polystyrene sheet on the table that had the word 'Masters' in red letters.",
+      "id": "s173"
+    },
+    {
+      "text": "It contained over 100 EPROMs.",
+      "id": "s174"
+    },
+    {
+      "text": "These EPROMs bore Aristocrat game titles.",
+      "id": "s175"
+    },
+    {
+      "text": "Mr Parry said: 'We have every single game.",
+      "id": "s176"
+    },
+    {
+      "text": "These are the masters'.",
+      "id": "s177"
+    },
+    {
+      "text": "Ms Chai asked him which games were popular.",
+      "id": "s178"
+    },
+    {
+      "text": "He answered, naming (amongst others) 'Queen of the Nile', 'Dolphin Treasure', 'Penguin Pays' and 'Chicken'.",
+      "id": "s179"
+    },
+    {
+      "text": "40 According to Mr Parry, the following conversation ensued:\n \n 'Julia Chai said: \"When can you deliver?",
+      "id": "s180"
+    },
+    {
+      "text": "\"\n \n David Parry said: \"Two to three weeks.",
+      "id": "s181"
+    },
+    {
+      "text": "\"\n \n Julia Chai said: \"Why so long?",
+      "id": "s182"
+    },
+    {
+      "text": "\"\n \n \n David Parry said: \"The EPROMs are copied here but the screen printing is done elsewhere.",
+      "id": "s183"
+    },
+    {
+      "text": "I do not keep it on site as I have to be careful as there are copyright issues.",
+      "id": "s184"
+    },
+    {
+      "text": "Also it depends if I need to get artwork done.",
+      "id": "s185"
+    },
+    {
+      "text": "If not, and you take the four I have developed, then it will be faster I just need to call the printer who has it on the computer and tell him to press go.",
+      "id": "s186"
+    },
+    {
+      "text": "\"\n \n Julia Chai: \"Which four have you developed?",
+      "id": "s187"
+    },
+    {
+      "text": "\"\n \n David Parry said: \"Queen of the Nile, Penguin Pays, Chicken and Enchanted.",
+      "id": "s188"
+    },
+    {
+      "text": "\"'\n \n\n41 At this stage, Ms Chai left the room.",
+      "id": "s189"
+    },
+    {
+      "text": "On her return, she told Mr Parry that she wished to buy 'six copies of each of Queen of the Nile, Penguin Pays, Chicken, Enchanted'.",
+      "id": "s190"
+    },
+    {
+      "text": "The party returned to the main office in unit 5.",
+      "id": "s191"
+    },
+    {
+      "text": "Mr Parry said a deposit of 20% was required, Ms Chai asked for a faxed quotation and Mr Papas said he would come back the next day and pay the deposit.",
+      "id": "s192"
+    },
+    {
+      "text": "Mr Papas and Ms Chai then left the premises.",
+      "id": "s193"
+    },
+    {
+      "text": "42 That afternoon, Mr Parry faxed to Mr Papas a quotation in the following terms:\n \n 'We are pleased to submit the following quotation: \n \n To Supply 70 x Refurbished Aristocrat MVP Video Slot Machines @ USD 2,250 ea.",
+      "id": "s194"
+    },
+    {
+      "text": "To Supply 5 x Refurbished Aristocrat MVP Slant Top Machines @ USD 1,500 ea.",
+      "id": "s195"
+    },
+    {
+      "text": "To Supply 24 sets x Conversions for --- Queen of the Nile \n Penguin Pays \n Chicken \n Dolphin Treasure \n At a cost of USD 200 per conversion \n \n Total Quotation: USD 169,800 \n \n This Quotation does not include any modifications required with regard to the Bill Validators.",
+      "id": "s196"
+    },
+    {
+      "text": "This Quotation does not include any freight/shipping charges.",
+      "id": "s197"
+    },
+    {
+      "text": "A 20% deposit will be required on placement of order.",
+      "id": "s198"
+    },
+    {
+      "text": "Full payment to [be] paid prior to shipping.",
+      "id": "s199"
+    },
+    {
+      "text": "If installation is required all expenses including accommodation and air travel for two technicians to be covered by the customer.",
+      "id": "s200"
+    },
+    {
+      "text": "' \n \n\n43 Mr Papas said that, later that afternoon, he received a telephone call from Mr Parry during the course of which Mr Parry stated he had 'ordered the four types of conversion kits'.",
+      "id": "s201"
+    },
+    {
+      "text": "44 Mr Papas had agreed to pay a deposit on the following day.",
+      "id": "s202"
+    },
+    {
+      "text": "However, he did not do so.",
+      "id": "s203"
+    },
+    {
+      "text": "There was a telephone conversation between him and Mr Parry on that day in which Mr Parry claimed the deal was for both machines and conversion kits.",
+      "id": "s204"
+    },
+    {
+      "text": "There was discussion about that, in which Mr Papas said 'We'll still buy the conversion kits first and then we'll get the machines'.",
+      "id": "s205"
+    },
+    {
+      "text": "45 There were later conversations and attempts by Mr Papas to contact Mr Parry in order to pay a deposit.",
+      "id": "s206"
+    },
+    {
+      "text": "These attempts were unsuccessful.",
+      "id": "s207"
+    },
+    {
+      "text": "46 Mr Parry made an affidavit in which he referred to Mr Papas' affidavit and said:\n \n 'I do not agree that the affidavit fully or accurately sets out the events and conversations which occurred on that date.",
+      "id": "s208"
+    },
+    {
+      "text": "However, I do agree that during the course of my discussions with them I showed them certain equipment including a machine which I had purchased from GPT Software which is used for programming and reprogramming bill validators in relation to all poker machines.",
+      "id": "s209"
+    },
+    {
+      "text": "During this visit I also showed the private investigators and following Mr Papas' request demonstrated the operation of an integrated circuit burner by transferring data from one EPROM chip to another.",
+      "id": "s210"
+    },
+    {
+      "text": "I also showed the investigators some artwork for one or more brochures stored on my laptop computer.",
+      "id": "s211"
+    },
+    {
+      "text": "At no stage did I show them the software for any Aristocrat EPROMS stored on my laptop computer and no such software was then stored on it.",
+      "id": "s212"
+    },
+    {
+      "text": "The only form in which I had the software for EPROMS was in the collection of EPROMS which had been obtained from original Aristocrat machines.",
+      "id": "s213"
+    },
+    {
+      "text": "' \n\n\nIn his affidavit, Mr Parry did not challenge the detail of Mr Papas' account of the visit.",
+      "id": "s214"
+    },
+    {
+      "text": "47 Under cross-examination by Mr Ireland, Mr Papas said Ms Chai had the primary role, he was merely assisting her.",
+      "id": "s215"
+    },
+    {
+      "text": "Ms Chai 'handled most of the discussion'.",
+      "id": "s216"
+    },
+    {
+      "text": "He agreed that his affidavit did not set out all the conversation.",
+      "id": "s217"
+    },
+    {
+      "text": "He said 'there would be heaps ... that's not in the affidavit that was said in an hour ... there was way too much to remember'.",
+      "id": "s218"
+    },
+    {
+      "text": "In the course of questioning, Mr Papas mentioned some of the other matters, including that it was Ms Chai (not Mr Parry) who first mentioned conversion kits.",
+      "id": "s219"
+    },
+    {
+      "text": "Mr Papas also agreed that Mr Parry had cautioned against the purchase of machines that had been used in Queensland, apparently because of the way they had had to be programmed for use in that State.",
+      "id": "s220"
+    },
+    {
+      "text": "48 Mr Ireland asked Mr Papas whether the artwork was the first thing shown to him by Mr Parry.",
+      "id": "s221"
+    },
+    {
+      "text": "He said it was and quoted Mr Parry's statement about 'Cleopatra' being 'still Queen of the Nile', 'we change the name slightly to Cleopatra because of copyright issues'.",
+      "id": "s222"
+    },
+    {
+      "text": "Mr Papas confirmed Ms Chai 'chopping and changing' between talking about machines and conversion kits.",
+      "id": "s223"
+    },
+    {
+      "text": "He also confirmed that Mr Parry had both quoted prices for machines and US$200 for conversion kits.",
+      "id": "s224"
+    },
+    {
+      "text": "Mr Ireland also took Mr Papas once again through his description of Mr Parry's action in burning an EPROM and his observations about the number of EPROMs in the polystyrene sheets.",
+      "id": "s225"
+    },
+    {
+      "text": "49 Mr Ireland asked Mr Papas how he would have handled the interview with Mr Parry, if he had been in charge.",
+      "id": "s226"
+    },
+    {
+      "text": "The exchange between Mr Ireland and Mr Papas was not without interest; but what is important about the cross-examination is that at no time did Mr Ireland challenge the essential elements in Mr Papas' account of the conversation and the events that occurred during, or after, his visit to Moorebank.",
+      "id": "s227"
+    },
+    {
+      "text": "50 Mr Cobden asked Mr Parry few questions about the visit.",
+      "id": "s228"
+    },
+    {
+      "text": "Mr Parry said he had felt at the time that the story of Mr Papas and Ms Chai 'just didn't ring true'.",
+      "id": "s229"
+    },
+    {
+      "text": "He explained:\n \n '... we're in the business of selling second-hand refurbished machines and they were just concentrating all the time on conversions.",
+      "id": "s230"
+    },
+    {
+      "text": "We had done our business with them and they kept enforcing they wanted conversions, conversions, conversions and I just thought, well, that's not the way it normally works.",
+      "id": "s231"
+    },
+    {
+      "text": "They normally buy machines off me, that's what I do.",
+      "id": "s232"
+    },
+    {
+      "text": "' \n \n\n51 Earlier in his evidence, Mr Parry had said that, at the time he had artwork prepared by Capre, he was unaware this would infringe Aristocrat's copyright.",
+      "id": "s233"
+    },
+    {
+      "text": "But he had admitted to Mr Cobden that, at least by January 2005, he was aware of the infringement.",
+      "id": "s234"
+    },
+    {
+      "text": "52 Against that background, I had this exchange with Mr Parry:\n \n 'Just on that last topic, if you smelt a rat why did you offer the conversion kits in your fax quotation?---Basically, your Honour, I was saying the only thing they wanted at the time to get the machine order.",
+      "id": "s235"
+    },
+    {
+      "text": "But you would've known, wouldn't you, the conversion kit involved breach of copyright?---Yes, your Honour.",
+      "id": "s236"
+    },
+    {
+      "text": "By this time you really knew it would be breach of copyright?---By now I knew it was breach of copyright so I decided not to proceed.",
+      "id": "s237"
+    },
+    {
+      "text": "No, but you sent the quote?---I sent the quote but I did not deliver the artwork, your Honour.",
+      "id": "s238"
+    },
+    {
+      "text": "That's because it was never accepted?---Yes.",
+      "id": "s239"
+    },
+    {
+      "text": "' \n \n\n53 Mr Parry claimed that, on his instructions, a Vidtech employee, Andrew Logan, had refused to accept from Mr Papas a deposit on the conversion kits.",
+      "id": "s240"
+    },
+    {
+      "text": "(iv) The Anton Piller visit \n \n54 A few weeks after the Moorebank visit, on 31 March 2005, the applicants obtained an Anton Piller order allowing search for, and seizure of, documents held by the respondents.",
+      "id": "s241"
+    },
+    {
+      "text": "The seized documents established that the manufacturer for Vidtech of the perspex artwork was Capre.",
+      "id": "s242"
+    },
+    {
+      "text": "The principal of Capre, Mr V R Farrow, subsequently made an affidavit that was read at the trial in the applicants' case.",
+      "id": "s243"
+    },
+    {
+      "text": "He attended for cross-examination by Mr Ireland.",
+      "id": "s244"
+    },
+    {
+      "text": "55 The Anton Piller search disclosed several polystyrene trays and motherboards containing EPROMs, 757 in all, six perspex panels and various documents including invoices, packing slips and emails.",
+      "id": "s245"
+    },
+    {
+      "text": "(v) The liquidator's documents \n \n56 After Vidtech went into liquidation, the liquidator took possession of various company documents.",
+      "id": "s246"
+    },
+    {
+      "text": "The solicitors for the applicants gained access to those documents.",
+      "id": "s247"
+    },
+    {
+      "text": "They provided information about the affairs of the company, but nothing about the extent of its copyright infringements.",
+      "id": "s248"
+    },
+    {
+      "text": "Infringement of Aristocrat's artwork copyright \n \n57 As I have indicated, it is conceded by the personal respondents that, over the years, Capre produced 615 perspex panels for Vidtech, these panels all being reproductions of a substantial part of the Aristocrat artwork for a particular machine.",
+      "id": "s249"
+    },
+    {
+      "text": "There is no suggestion that either Mr or Mrs Parry personally copied any Aristocrat artwork.",
+      "id": "s250"
+    },
+    {
+      "text": "The case against them is that they authorised the copying effected by Capre; which copying constituted an infringement of Aristocrat's copyright in the artwork: see s 36(1) of the Copyright Act .",
+      "id": "s251"
+    },
+    {
+      "text": "This case is established.",
+      "id": "s252"
+    },
+    {
+      "text": "Both Mr Farrow and Mr Parry gave evidence that all the panels were produced, from time to time, pursuant to instructions given to Capre by Mr or Mrs Parry.",
+      "id": "s253"
+    },
+    {
+      "text": "Mrs Parry made no admission.",
+      "id": "s254"
+    },
+    {
+      "text": "However, as she elected not to give evidence, the evidence of Mr Farrow and Mr Parry about her participation stands unchallenged.",
+      "id": "s255"
+    },
+    {
+      "text": "58 As Mr and Mrs Parry were at all times acting on behalf of Vidtech, that respondent must also be taken to have authorised the infringements.",
+      "id": "s256"
+    },
+    {
+      "text": "59 Section 36(1) of the Copyright Act makes it an infringement of copyright for a person, who is not the owner or licensee of a copyright, to authorise the doing in Australia of any act comprised in the copyright.",
+      "id": "s257"
+    },
+    {
+      "text": "See also s 13(2) of the Copyright Act .",
+      "id": "s258"
+    },
+    {
+      "text": "So all three respondents have infringed Aristocrat's artwork copyrights.",
+      "id": "s259"
+    },
+    {
+      "text": "60 A question arises as to whether Mr and Mrs Parry, or either of them, knew from the outset that the artwork produced by Capre infringed Aristocrat's copyright.",
+      "id": "s260"
+    },
+    {
+      "text": "Mr Parry conceded he knew this at least by January 2005.",
+      "id": "s261"
+    },
+    {
+      "text": "61 Mr Farrow gave evidence about the first discussion between himself and Mr Parry.",
+      "id": "s262"
+    },
+    {
+      "text": "He said Mr Parry's first request, relevant to this case, was made in 2001.",
+      "id": "s263"
+    },
+    {
+      "text": "That request concerned reproduction of 'Queen of the Nile' panels, changing the name to 'Cleopatra'.",
+      "id": "s264"
+    },
+    {
+      "text": "During the course of his cross-examination, Mr Farrow had a discussion with Mr Ireland about the extent of the changes Capre made to the 'Queen of the Nile' artwork.",
+      "id": "s265"
+    },
+    {
+      "text": "He emphasised the similarities between the original and reproduced artwork and said he 'presumed, after deleting the word \"copyright\" off the panel, that [we] were infringing copyright'.",
+      "id": "s266"
+    },
+    {
+      "text": "The evidence went on:\n \n 'You thought you were?---Yes.",
+      "id": "s267"
+    },
+    {
+      "text": "And you were prepared to do that?---I had an order and I was commissioned and Dave is a licensed dealer and he was selling the machines and not myself.",
+      "id": "s268"
+    },
+    {
+      "text": "So I did the art, he signed them off.",
+      "id": "s269"
+    },
+    {
+      "text": "So you were prepared to abdicate responsibility to what you thought was his judgment about what he was doing?---No, I was doing what I was asked to do.",
+      "id": "s270"
+    },
+    {
+      "text": "Without regard to the consequences legally in respect of your activities?---No, because I didn't feel I had any issues.",
+      "id": "s271"
+    },
+    {
+      "text": "I was asked to do a job.",
+      "id": "s272"
+    },
+    {
+      "text": "I did a job, signed off and I got paid.",
+      "id": "s273"
+    },
+    {
+      "text": "' \n \n\n62 Mr Farrow said he realised that all the perspex panels given to him, for the purpose of reproduction of artwork, had been taken from second-hand EGMs, including some Aristocrat EGMs.",
+      "id": "s274"
+    },
+    {
+      "text": "In his affidavit, Mr Farrow said he never asked Mr and Mrs Parry what they did, or intended to do, with the perspex panels produced by Capre.",
+      "id": "s275"
+    },
+    {
+      "text": "He said:\n \n 'I knew that Mr Parry was engaged in the business of converting second-hand EGMs and assumed that these Perspex panels were somehow associated with Mr Parry's conversion business.",
+      "id": "s276"
+    },
+    {
+      "text": "I am also aware that the respondents submitted taxation exemption documents to Capre which contain a declaration by either Mr Parry or Mrs Parry that they intended to export the printed Perspex panels supplied to them by Capre.",
+      "id": "s277"
+    },
+    {
+      "text": "Sales that were intended for export were exempt from sales tax (and later, GST).",
+      "id": "s278"
+    },
+    {
+      "text": "' \n \n\n63 Mr Farrow said he was not reluctant to reproduce the artwork: 'Mr Parry's the one who is signing off the artwork, he's the one selling the machines, I'm just preparing the artwork as instructed'.",
+      "id": "s279"
+    },
+    {
+      "text": "64 Mr Parry was asked about his knowledge of the copyright situation.",
+      "id": "s280"
+    },
+    {
+      "text": "He conceded that, in 2001, he understood 'that to copy existing artwork would infringe copyright'.",
+      "id": "s281"
+    },
+    {
+      "text": "He also understood this would apply to the painting of 'a faithful copy' of the artwork.",
+      "id": "s282"
+    },
+    {
+      "text": "Later, Mr Parry gave this evidence:\n \n 'But as far as the artwork is concerned, for example, in the Queen of the Nile game with the beautiful picture of Cleopatra and the pyramids and the jewellery and the rest of that, as far as you knew that was the same?---I'm not sure about the pay table.",
+      "id": "s283"
+    },
+    {
+      "text": "The pay schedule might have been different.",
+      "id": "s284"
+    },
+    {
+      "text": "But the balance of the artistic elements as you understood it were the same?---It would have been the same theme?---Yes.",
+      "id": "s285"
+    },
+    {
+      "text": "And so what you understood that BGT wanted was something that was not like the European one in the sense of pay tables but was a faithful copy of the Australian one?---Yes.",
+      "id": "s286"
+    },
+    {
+      "text": "And you understood, did you not, that to make a faithful copy of the Australian one as at 2001 would infringe copyright?---You would have to duplicate the symbols which is the symbols on the pay table.",
+      "id": "s287"
+    },
+    {
+      "text": "Yes, and that was what BGT expected you to get a quote for, wasn't it, something that duplicated the Australian artwork?---Yes.",
+      "id": "s288"
+    },
+    {
+      "text": "And you knew at that time [that] that infringed copyright?---Yes.",
+      "id": "s289"
+    },
+    {
+      "text": "I discussed it with Viv but --- yes.",
+      "id": "s290"
+    },
+    {
+      "text": "And you knew, did you not, that when you ordered the first round of whichever game it was that the making of those perspex panels would infringe copyright?---I discussed with Viv, Mr Viv Farrow and he seemed to believe at that time - - - \n \n Just let me interrupt you there?---Mm.",
+      "id": "s291"
+    },
+    {
+      "text": "My question was you knew - not what discussions you had with Mr Farrow - you knew at that time that to make those copies of Aristocrat's artwork would infringe copyright?---I didn't know that at the time because he hadn't produced it yet.",
+      "id": "s292"
+    },
+    {
+      "text": "It was only after he had produced it and we seen the layout as you see there.",
+      "id": "s293"
+    },
+    {
+      "text": "' \n \n\n65 During the course of his evidence, Mr Parry more than once mentioned his concern to ensure the accuracy of the pay tables reproduced by Capre.",
+      "id": "s294"
+    },
+    {
+      "text": "The pay tables had to correspond with the software program embedded in the relevant EPROM.",
+      "id": "s295"
+    },
+    {
+      "text": "At an early stage of his cross-examination, Mr Parry gave this evidence:\n \n 'Because it was important to you that what Capri had reproduced was faithfully reproduced in the prize tables and artwork from the Aristocrat games?---Well, if they made a mistake with the pay table then Capri would have to re-run the artwork and I would have to pay for it again if I got it wrong.",
+      "id": "s296"
+    },
+    {
+      "text": "But you wanted the artwork to be as faithful a reproduction as possible, did you not, of the original Aristocrat artwork?---Mostly to do with the pay schedule.",
+      "id": "s297"
+    },
+    {
+      "text": "The pay schedule had to match.",
+      "id": "s298"
+    },
+    {
+      "text": "You were concerned on your account with the question of copyright when you went to see Mr Farrow?---Yes.",
+      "id": "s299"
+    },
+    {
+      "text": "You say now that you were concerned mainly with the pay tables, correct?---Yes.",
+      "id": "s300"
+    },
+    {
+      "text": "' \n \n\n66 In discussion with Mr Cobden about the head portrait on the 'Queen of the Nile'/'Cleopatra' artwork, Mr Parry said: 'At the time I believed that it was sufficiently different but not now'.",
+      "id": "s301"
+    },
+    {
+      "text": "He went on to refer to his discussion with Mr Farrow and said 'from his professional aspect of it I believed that it was sufficient'.",
+      "id": "s302"
+    },
+    {
+      "text": "67 Immediately before Mr Parry left the witness box for an overnight adjournment, I sought to clarify what seemed to be inconsistencies in his evidence regarding knowledge.",
+      "id": "s303"
+    },
+    {
+      "text": "The following exchange occurred:\n \n 'Just to clarify that, what you said earlier was that you didn't know it until after you saw the artwork?---Yes.",
+      "id": "s304"
+    },
+    {
+      "text": "But if he'd have made a replica copy exactly, I would have known that infringed.",
+      "id": "s305"
+    },
+    {
+      "text": "But what Mr Cobden is saying is that you previously said you did know that it infringed copyright and then you've said, when he asked you about that further you said, well, only after I saw the artwork and then I gathered from that that you were saying that when you saw the artwork, you realised it would infringe copyright.",
+      "id": "s306"
+    },
+    {
+      "text": "Is that what you're saying?---I'm not quite --- I don't understand your Honour.",
+      "id": "s307"
+    },
+    {
+      "text": "Well, I'm trying to find out --- I don't want to put words in your mouth but are you telling Mr Cobden that at some stage you did realise that the artwork would infringe the copyright?---Yes, I understand it now to - - - \n \n No, did you understand it in about 2001?---No.",
+      "id": "s308"
+    },
+    {
+      "text": "Once Mr Farrow had shown me that as a proof, he hadn't produced the artwork.",
+      "id": "s309"
+    },
+    {
+      "text": "It came out in a drawing type of thing.",
+      "id": "s310"
+    },
+    {
+      "text": "I thought it was sufficient to get past and discussions with him led me to believe that it would not contravene artwork.",
+      "id": "s311"
+    },
+    {
+      "text": "Later I do believe it contravenes artwork.",
+      "id": "s312"
+    },
+    {
+      "text": "So would it be fair to summarise your position as saying that you had a concern about infringement of copyright at the beginning?---Yes, in the beginning.",
+      "id": "s313"
+    },
+    {
+      "text": "You saw the artwork, perhaps encouraged by some assurances that Mr Farrow gave you you thought there is enough change to make it non infringing, is that what you are saying?---Yes, your Honour.",
+      "id": "s314"
+    },
+    {
+      "text": "' \n \n\n68 As previously mentioned, Mr Parry acknowledged that, at least by January 2005, he accepted that the perspex panels manufactured for him by Capre infringed Aristocrat's copyright.",
+      "id": "s315"
+    },
+    {
+      "text": "However, despite some assertions by him to the contrary, it seems Mr Parry knew this from the outset.",
+      "id": "s316"
+    },
+    {
+      "text": "He was always aware it was essential exactly to reproduce the Aristocrat pay table for the relevant machine.",
+      "id": "s317"
+    },
+    {
+      "text": "He said:\n \n 'Well, the pay table had to represent the game software otherwise it just --- there would have been a dispute.",
+      "id": "s318"
+    },
+    {
+      "text": "If you played the machine and then said that --- say for instance three Queens should have [given] you 14 coins and the artwork said 12, so I had to reproduce; the pay table had to be reproduced accurately.",
+      "id": "s319"
+    },
+    {
+      "text": "' \n \n\n69 A faithful reproduction of a pay table is itself enough to constitute an infringement of copyright: see Millwell Pty Ltd v Olympic Amusements Pty Ltd [1999] FCA 63 ; (1999) 85 FCR 436.",
+      "id": "s320"
+    },
+    {
+      "text": "70 There is no direct evidence that Mrs Parry knew Capre's reproduction of the panels infringed Aristocrat's copyright.",
+      "id": "s321"
+    },
+    {
+      "text": "However, especially having regard to the absence of evidence to the contrary, I think I should draw the inference that she either knew or suspected this to be so.",
+      "id": "s322"
+    },
+    {
+      "text": "Mr and Mrs Parry worked together in the business; apparently both of them full-time.",
+      "id": "s323"
+    },
+    {
+      "text": "They shared a small office and the work that needed to be done.",
+      "id": "s324"
+    },
+    {
+      "text": "I have found that Mr Parry was aware there was a copyright problem in relation to the reproduction of the artwork contained on manufacturers' EGMs and that reproduction of the pay tables was itself enough to constitute infringement.",
+      "id": "s325"
+    },
+    {
+      "text": "It is improbable that Mr Parry failed to discuss these important matters with his wife and tell her his conclusions.",
+      "id": "s326"
+    },
+    {
+      "text": "71 I find that both the personal respondents knowingly infringed Aristocrat's artwork copyright.",
+      "id": "s327"
+    },
+    {
+      "text": "As they were acting on behalf of Vidtech, it follows that Vidtech also knowingly infringed.",
+      "id": "s328"
+    },
+    {
+      "text": "Infringement of Aristocrat's software copyrights \n \n72 The position in relation to this issue is less clear.",
+      "id": "s329"
+    },
+    {
+      "text": "Mr Parry consistently asserted he had copied Aristocrat EPROMs only rarely, when it was necessary for him to replace a damaged or defective EPROM.",
+      "id": "s330"
+    },
+    {
+      "text": "Mr Parry agreed that it would be necessary for a customer, which wished to convert a machine from one game to another, to change the EPROMs in the machine; otherwise the software would not coincide with the pay tables displayed on the new artwork.",
+      "id": "s331"
+    },
+    {
+      "text": "However, he said it was not necessary for him to send copies of EPROMs to customers wishing to convert; EPROMs for all the games were readily obtainable from machines the customers already had; they could build up their own library of master EPROMs.",
+      "id": "s332"
+    },
+    {
+      "text": "73 There is no doubt that Vidtech held an extensive EPROM library, both at the time of the 'trap purchase' visit and the date of execution of the Anton Piller order.",
+      "id": "s333"
+    },
+    {
+      "text": "The size and careful organisation of the EPROM library naturally create suspicion of extensive EPROM copying.",
+      "id": "s334"
+    },
+    {
+      "text": "74 Mr Parry vigorously denied extensive copying.",
+      "id": "s335"
+    },
+    {
+      "text": "The flavour of his evidence can be obtained from this segment of his cross-examination:\n \n 'What I want to suggest to you, Mr Parry, is that rather than disposing of the artwork panels to BGT in the way in which you've described, instead Vidtech put them into finished machines along with EPROMs and dispatched them to overseas customers?---No, that's incorrect.",
+      "id": "s336"
+    },
+    {
+      "text": "I suggest to you that answer is untruthful?---No, that's incorrect.",
+      "id": "s337"
+    },
+    {
+      "text": "I suggest to you that when engaging in that activity with respect to the 600 or so panels obtained from Mr Farrow that Vidtech under your direction also burnt EPROMs to match the artwork panels and put them into games?---No, that's incorrect.",
+      "id": "s338"
+    },
+    {
+      "text": "The only ones we burnt was for the repair of the machines.",
+      "id": "s339"
+    },
+    {
+      "text": "You gave evidence that the labels occasionally lifted off, that exposed the small window and an ultraviolet light then degraded the software?---Yes.",
+      "id": "s340"
+    },
+    {
+      "text": "In those circumstances, is this correct, you would burn a replacement EPROM?---Yes.",
+      "id": "s341"
+    },
+    {
+      "text": "If that had happened in two EPROMs in a game would you burn two replacement EPROMs?---Yes.",
+      "id": "s342"
+    },
+    {
+      "text": "Would you do three?---Yes.",
+      "id": "s343"
+    },
+    {
+      "text": "And if it was a four EPROM game and there were four you would do four?---Yes.",
+      "id": "s344"
+    },
+    {
+      "text": "In those circumstances you would then apply to the freshly burnt EPROMs a hand-written label?---Yes.",
+      "id": "s345"
+    },
+    {
+      "text": "I suggest to you that Vidtech under your direction had a practice of burning EPROMs not merely for that purpose but also for the fitting out of games with artwork commissioned from Capri?---No, there was - the fact that we sold so many machines to Belgian Gaming they would have had all the machines themselves.",
+      "id": "s346"
+    },
+    {
+      "text": "There was no way in the world [they] would purchase EPROMs off me when they had them in their own warehouse.",
+      "id": "s347"
+    },
+    {
+      "text": "Is it your case that you did not send customers like BGT EPROMs?---I could have done, yes.",
+      "id": "s348"
+    },
+    {
+      "text": "There might have been an odd occasion when they particularly didn't - or they'd lost the set themselves or whatever.",
+      "id": "s349"
+    },
+    {
+      "text": "So it was your practice was it if they lost a set of EPROMs that you would send them a set over?---If I could help him, yes.",
+      "id": "s350"
+    },
+    {
+      "text": "Was that a set of EPROMs that you burnt a copy of to send to them?---No, that was out of my existing stocks.",
+      "id": "s351"
+    },
+    {
+      "text": "' \n \n\nI have to determine whether to accept this evidence.",
+      "id": "s352"
+    },
+    {
+      "text": "75 Mr Parry's statement about BGT not often needing him to provide EPROM copies has some credibility.",
+      "id": "s353"
+    },
+    {
+      "text": "I accept that a large customer like BGT might have built up its own EPROM library, by burning copies of genuine Aristocrat EPROMs taken out of second-hand machines that it had purchased from Vidtech or someone else.",
+      "id": "s354"
+    },
+    {
+      "text": "It might often be enough for a customer like BGT to purchase artwork panels, and perhaps other hardware, in order to convert one game to another.",
+      "id": "s355"
+    },
+    {
+      "text": "This conclusion is supported by the circumstance that the Cleopatra machine discovered in Macau, which was purchased from BGT, had EPROMs with yellow labels, whereas Vidtech seems always to have used white labels.",
+      "id": "s356"
+    },
+    {
+      "text": "76 However, there is evidence that Vidtech sold machines or conversion kits containing copied EPROMs.",
+      "id": "s357"
+    },
+    {
+      "text": "It comes, first, from two email exchanges in early 2005 and, second, from Mr Papas' account of the conversation during the visit of 7 March 2005.",
+      "id": "s358"
+    },
+    {
+      "text": "77 The first email exchange was on 13 January 2005.",
+      "id": "s359"
+    },
+    {
+      "text": "On that day, Mr Temmerman of BGT emailed to Vidtech a request for its inventory.",
+      "id": "s360"
+    },
+    {
+      "text": "He added: 'Do you have any Mk5/MVP with Cleopatra theme?",
+      "id": "s361"
+    },
+    {
+      "text": "If yes, how many available?",
+      "id": "s362"
+    },
+    {
+      "text": "' Mr Parry responded:\n \n 'I am buying some machines today i will let you know how many Aristocrats are available over the weekend!",
+      "id": "s363"
+    },
+    {
+      "text": "Cleopatra theme is not a problem, as you know we have developed the artwork for Queen of the Nile / Cleopatra, so we could make as many as you want.",
+      "id": "s364"
+    },
+    {
+      "text": "Will send you an invoice for the Stop the Clock artwork.",
+      "id": "s365"
+    },
+    {
+      "text": "' \n \n\nAs counsel pointed out, the offer was to supply machines, not loose perspex panels.",
+      "id": "s366"
+    },
+    {
+      "text": "They said the supply of machines with 'Cleopatra theme' would necessarily involve 'the creation not only of artwork but the installation of \"as many\" EPROMs as BGT wanted'\n \n78 The other exchange occurred a few weeks later, on 7 February 2005.",
+      "id": "s367"
+    },
+    {
+      "text": "A man named Miro Janjus sent to Vidtech an email in these terms:\n \n 'I am interested in purchasing 10till20pcs Aristocrat slots (9-21 winning lines, types like Pinguin, Cleopatra, Queen of the Nile etc.) for my firm in Bosnia.",
+      "id": "s368"
+    },
+    {
+      "text": "... \n \n Send any offer.",
+      "id": "s369"
+    },
+    {
+      "text": "' \n \n\n79 Mr Parry responded:\n \n 'We have all of the machines you mention below, i will send you a list of the types of machines in stock.",
+      "id": "s370"
+    },
+    {
+      "text": "What Aristocrats do you want ?",
+      "id": "s371"
+    },
+    {
+      "text": "MK5 series 1, or MVP,s?",
+      "id": "s372"
+    },
+    {
+      "text": "I will be away for a couple of day;s [sic], will answer your queries when i get back.",
+      "id": "s373"
+    },
+    {
+      "text": "' \n \n\nOnce again, the subject concerned the purchase of machines, including 'Cleopatra'.",
+      "id": "s374"
+    },
+    {
+      "text": "80 I have already recounted the evidence of Mr Papas concerning the conversation that he and Ms Chai had with Mr Parry on 7 March 2005.",
+      "id": "s375"
+    },
+    {
+      "text": "It will be recalled that Ms Chai asked Mr Parry whether Vidtech did 'the conversion software'.",
+      "id": "s376"
+    },
+    {
+      "text": "He responded: 'We can supply any game you want'.",
+      "id": "s377"
+    },
+    {
+      "text": "Mr Parry quoted a price of $200 for conversion kits, stating 'you get the top artwork, the bottom artwork, the button legends and the EPROM software for $200.",
+      "id": "s378"
+    },
+    {
+      "text": "' It was in that context that Mr Parry showed Ms Chai and Mr Papas his EPROM library.",
+      "id": "s379"
+    },
+    {
+      "text": "Later he spoke about 'software programmers that can do ten games at a time'.",
+      "id": "s380"
+    },
+    {
+      "text": "Such a rate of production would be unnecessary if copying was done only to replace the odd damaged or defective EPROM.",
+      "id": "s381"
+    },
+    {
+      "text": "81 Mr Parry also spoke about upgrading machines 'to just about the latest game that comes out the door'; something that could only be done with a package that included the relevant EPROMs.",
+      "id": "s382"
+    },
+    {
+      "text": "In response to Ms Chai's inquiry about time for delivery of games, Mr Parry said: 'The EPROMs are copied here but the screen printing is done elsewhere'.",
+      "id": "s383"
+    },
+    {
+      "text": "82 All of these statements are inconsistent with Mr Parry's assertion that Vidtech only copied EPROMs in order to replace the odd damaged or defective original EPROM.",
+      "id": "s384"
+    },
+    {
+      "text": "Importantly, Mr Ireland did not challenge Mr Papas' evidence, and Mr Parry did not deny, that the statements were made.",
+      "id": "s385"
+    },
+    {
+      "text": "Moreover, the alleged statements are consistent with the contents of the quotation faxed to Mr Papas on the afternoon of the visit, which included 24 conversion sets for four specified Aristocrat games.",
+      "id": "s386"
+    },
+    {
+      "text": "Mr Parry acknowledged in cross-examination that 'mere artwork wouldn't convert a machine', EPROMs would also be needed.",
+      "id": "s387"
+    },
+    {
+      "text": "It is true, as counsel for the respondents submitted, that Mr Parry's offer to sell conversion kits to Mr Papas does not itself prove he had sold conversion kits in the past.",
+      "id": "s388"
+    },
+    {
+      "text": "However, it would be surprising if the first occasion on which he made this offer was to people whom he thought 'did not ring true'.",
+      "id": "s389"
+    },
+    {
+      "text": "83 In their final written submissions, counsel for the applicants claimed there was an incongruity between Mr Parry's evidence that he sometimes copied whole sets of EPROMs --- see para 74 above --- and his claim that he only copied EPROMs where this was necessary in order to replace damaged or defective EPROMs.",
+      "id": "s390"
+    },
+    {
+      "text": "Counsel said:\n \n 'In the witness box Mr Parry revealed that he regularly burned copies of Aristocrat EPROMs; he said this was when the EPROMs became faulty.",
+      "id": "s391"
+    },
+    {
+      "text": "He burned whatever was needed for that purpose, even whole sets ...",
+      "id": "s392"
+    },
+    {
+      "text": "He also burnt and supplied EPROM sets to overseas customers; he said in the witness box that this was only for the same purpose but that should not be believed.",
+      "id": "s393"
+    },
+    {
+      "text": "But how a whole set of EPROMs would have suffered: \n \n (a) label failure, so that the label lifted off revealing the small porthole, and \n \n (b) ultra-violet damage to the whole set together, and on all the EPROMs, \n \n was not explained.",
+      "id": "s394"
+    },
+    {
+      "text": "Why it was that among the sets of EPROMs found at Vidtech on execution of the orders, including the \"Master\" library, each set is almost invariably similarly labelled --- so that if there is one handwritten label, the whole set is hand-labelled --- was not explained.",
+      "id": "s395"
+    },
+    {
+      "text": "This does not speak of replacing an old label or labels lost through heat.",
+      "id": "s396"
+    },
+    {
+      "text": "It speaks of an enterprise of copying EPROMs in complete sets.",
+      "id": "s397"
+    },
+    {
+      "text": "Mr Parry's denial to the contrary should not be accepted.",
+      "id": "s398"
+    },
+    {
+      "text": "' (transcript references omitted, original emphasis)\n \n\n84 Counsel went on to submit, correctly I think, that, even if EPROMs were burnt only for replacement purposes, that itself would infringe Aristocrat's copyright.",
+      "id": "s399"
+    },
+    {
+      "text": "85 Counsel for the applicants submitted the Court should draw the inference that the respondents routinely infringed Aristocrat's software copyright, by copying the software to blank EPROMs for use in refurbished EGMs'\n \n86 After careful consideration of the relevant evidence, including Mr Parry's denials, I have decided I should accept that submission.",
+      "id": "s400"
+    },
+    {
+      "text": "Although the evidence is sparse, there is enough to satisfy me that Vidtech copied Aristocrat's EPROMs whenever it needed to do so in order to make up a conversion kit to change one game to another or to provide appropriate software to a machine being converted from one game to another.",
+      "id": "s401"
+    },
+    {
+      "text": "87 It is plain that Mr Parry was involved in the copying of EPROMs on behalf of Vidtech.",
+      "id": "s402"
+    },
+    {
+      "text": "There is no evidence that Mrs Parry copied EPROMs.",
+      "id": "s403"
+    },
+    {
+      "text": "However, the personal respondents worked in an office that contained numerous EPROMs.",
+      "id": "s404"
+    },
+    {
+      "text": "It is inconceivable that Mrs Parry did not know what was going on.",
+      "id": "s405"
+    },
+    {
+      "text": "Unlike the situation in relation to artwork, the copying of EPROMs was not a matter of degree; the whole of the material on an EPROM had to be copied.",
+      "id": "s406"
+    },
+    {
+      "text": "It follows that, if Mrs Parry burnt an EPROM, or saw someone else do so, she must have realised this was an infringement of copyright.",
+      "id": "s407"
+    },
+    {
+      "text": "88 Counsel for the respondents submitted that 'not one document has been obtained which sustains the fundamental submission made to the Court by Aristocrat that the whole of the business of Vidtech involved the creation of counterfeit gaming machines employing perspex panels used in conjunction with replicated EPROMs for that purpose'.",
+      "id": "s408"
+    },
+    {
+      "text": "89 I agree that the evidence does not establish that the whole of Vidtech's business 'involved the creation of counterfeit gaming machines'; I do not believe this activity did constitute the whole of Vidtech's business.",
+      "id": "s409"
+    },
+    {
+      "text": "However, such a claim is not a fundamental of the applicants' case; indeed they did not make that claim at all.",
+      "id": "s410"
+    },
+    {
+      "text": "90 Another comment made by counsel for the respondent, in their final written submissions, was that 'each computer program embodied in an EPROM has a unique algorithm which allows a test to see whether two programs are the same.",
+      "id": "s411"
+    },
+    {
+      "text": "No evidence was offered that any of the EPROMs found on the Vidtech premises during the search conducted on 1 April 2005 was other than an authentic EPROM'.",
+      "id": "s412"
+    },
+    {
+      "text": "91 The problem about this comment is the lack of relevant evidence.",
+      "id": "s413"
+    },
+    {
+      "text": "I am prepared to assume the correctness of counsel's statement that 'each computer program ... has a unique algorithm'.",
+      "id": "s414"
+    },
+    {
+      "text": "However, in the absence of evidence to the contrary effect, I would have thought that, when a new EPROM is burned, it reproduces exactly the same program, with the same algorithm, as the original.",
+      "id": "s415"
+    },
+    {
+      "text": "92 The applicants led no evidence that the seized EPROMs were counterfeit.",
+      "id": "s416"
+    },
+    {
+      "text": "Accordingly, if there were evidence that it would have been possible for the applicants' experts to detect whether those EPROMs were counterfeit or original Aristocrat products, counsel's submission would be highly persuasive.",
+      "id": "s417"
+    },
+    {
+      "text": "However, there is no such evidence.",
+      "id": "s418"
+    },
+    {
+      "text": "For all I know, it was impossible for the applicants' experts to tell whether the EPROMs seized on the Anton Piller search were genuine or not.",
+      "id": "s419"
+    },
+    {
+      "text": "Consequently, I can give no weight to this comment.",
+      "id": "s420"
+    },
+    {
+      "text": "93 Having regard to the finding set out in para 86, it is not strictly necessary for me to resolve an issue between the parties about the packing slip of 10 June 2003 seized in Belgium.",
+      "id": "s421"
+    },
+    {
+      "text": "This document listed machines that were being placed in a container intended for shipment to BGT on 'MV Commander'.",
+      "id": "s422"
+    },
+    {
+      "text": "The list stated the name, serial number, date of manufacture and style of each machine.",
+      "id": "s423"
+    },
+    {
+      "text": "It named one machine as 'Queen of the Nile' and three machines as 'Cleopatra'.",
+      "id": "s424"
+    },
+    {
+      "text": "All four machines had Aristocrat serial numbers.",
+      "id": "s425"
+    },
+    {
+      "text": "94 Mr Cobden questioned Mr Parry about this packing slip.",
+      "id": "s426"
+    },
+    {
+      "text": "The following exchange occurred:\n \n 'The fourth entry there is described as a machine called Cleopatra.",
+      "id": "s427"
+    },
+    {
+      "text": "Now, Aristocrat has never manufactured a machine called Cleopatra?---That's correct.",
+      "id": "s428"
+    },
+    {
+      "text": "And yet you have shipped, Vidtech here has shipped a machine called Cleopatra to Belgium Gaming Technology?---That's correct.",
+      "id": "s429"
+    },
+    {
+      "text": "And that's because, is it not, you had made up a machine with Cleopatra panels of the kind made by Mr Farrow and with EPROMs in it sourced from somewhere containing the Queen of the Nile game?---No, that's incorrect.",
+      "id": "s430"
+    },
+    {
+      "text": "Well, can you explain how it that the - - -?---Well, as I explained yesterday, three of [us] used to trolley the machine into the container and it was the onus on the person putting the machine in the container to record the serial number and the name and the machine.",
+      "id": "s431"
+    },
+    {
+      "text": "Now, these machines were low boys and they all had plastic bags on them and I presume that one of the boys put his hand over the top of the glass and the first he's seen was Cleopatra and he wrote down Cleopatra.",
+      "id": "s432"
+    },
+    {
+      "text": "One of the boys.",
+      "id": "s433"
+    },
+    {
+      "text": "By \"one of the boys\" do you mean Mr Logan or your son?---Yes.",
+      "id": "s434"
+    },
+    {
+      "text": "' \n \n Both of whom had worked for --- as at 2003 how long had they worked in the industry?---About 18 months [for] Andrew.",
+      "id": "s435"
+    },
+    {
+      "text": "And you accept, don't you, that Queens of the Nile is one of the most famous and successful poker games sold in Australia?---Yes.",
+      "id": "s436"
+    },
+    {
+      "text": "And you're suggesting, speculating, that somebody has written down \"Cleopatra\" on a list, on a handwritten list?---Yes, and I think I queried it because I circled it where it's got low boy.",
+      "id": "s437"
+    },
+    {
+      "text": "I actually think I circled it but because were producing Cleopatra Queen of the Nile, Queen of the Nile Cleopatra, I just accepted it as a mix up and I let it go.",
+      "id": "s438"
+    },
+    {
+      "text": "' \n \n\n95 This evidence may be correct.",
+      "id": "s439"
+    },
+    {
+      "text": "In contrast to the machine identified as 'Queen of the Nile', all three machines listed as 'Cleopatra' were lowboy machines.",
+      "id": "s440"
+    },
+    {
+      "text": "They had only one perspex panel, the panel containing the pay scales.",
+      "id": "s441"
+    },
+    {
+      "text": "Although the authentic version of that panel contains the words 'Queen of the Nile' in the bottom left hand corner, the top of the panel is dominated by the word 'Cleopatra' alongside the Egyptian head portrait.",
+      "id": "s442"
+    },
+    {
+      "text": "It is not unlikely that a relatively junior employee would have looked at this word and written it down as the name of the machine.",
+      "id": "s443"
+    },
+    {
+      "text": "Furthermore, someone has drawn a circle around the letters 'LB', inserted in relation to each of these machines, but not in relation to any other machines on the list.",
+      "id": "s444"
+    },
+    {
+      "text": "This suggests that someone noted an error, or made a query, in relation to these machines.",
+      "id": "s445"
+    },
+    {
+      "text": "Mr Parry was not able to say who circled the letters.",
+      "id": "s446"
+    },
+    {
+      "text": "It seems it must have been somebody at either Vidtech or BGT.",
+      "id": "s447"
+    },
+    {
+      "text": "Apparently the packing slip was in that form when it was seized in Belgium.",
+      "id": "s448"
+    },
+    {
+      "text": "96 The evidence does not permit me to say how many Aristocrat EPROMs were copied by Vidtech.",
+      "id": "s449"
+    },
+    {
+      "text": "The parties' agreement about the approximate number of machines upon which infringing artwork was installed (400) suggests this is likely to be the upper limit of the number of machines and conversion kits for which EPROMs were copied.",
+      "id": "s450"
+    },
+    {
+      "text": "However, the figure of 400 is unlikely to be precisely correct.",
+      "id": "s451"
+    },
+    {
+      "text": "There were probably occasions upon which it was not necessary for Vidtech to supply copied EPROMs, as Mr Parry explained.",
+      "id": "s452"
+    },
+    {
+      "text": "Against that, there would have been occasions upon which EPROMs were copied in order to replace damaged or defective EPROMs in otherwise non-infringing machines.",
+      "id": "s453"
+    },
+    {
+      "text": "Moreover, there is some evidence of the large-scale supply of EPROMs by Vidtech, separately from the supply of either EGMs or conversion kits.",
+      "id": "s454"
+    },
+    {
+      "text": "I think I would do no injustice to the respondents if I proceeded on the basis that Vidtech copied the EPROMs necessary to service 400 EGMs.",
+      "id": "s455"
+    },
+    {
+      "text": "Injunctive relief \n \n97 Infringement of copyright having been established, there would ordinarily be little dispute about the appropriateness of the Court granting an injunction restraining future infringements.",
+      "id": "s456"
+    },
+    {
+      "text": "98 However, the personal respondents contended that, in this case, an injunction is unnecessary.",
+      "id": "s457"
+    },
+    {
+      "text": "Their reason is that, shortly before commencement of the trial, they filed an undertaking in the following terms:\n \n 'Without admission the second and third respondents and each of them undertake to the Court that neither of them will reproduce or authorise any other person to reproduce copies of any perspex panels containing artwork for the applicant's poker machine games known as; \n \n &#8226; Queen of the Nile \n &#8226; Dolphin Treasure \n &#8226; Penguin Pays \n &#8226; Chicken \n \n or any other poker machine games manufactured and sold by either of the applicants.",
+      "id": "s458"
+    },
+    {
+      "text": "' \n \n\n99 Counsel for the applicants argued that, notwithstanding this undertaking, the Court should grant an injunction.",
+      "id": "s459"
+    },
+    {
+      "text": "A few days after Vidtech went into liquidation, a new company, Vidtech Gaming Technology Pty Limited, commenced conducting the same type of business as that previously conducted by Vidtech.",
+      "id": "s460"
+    },
+    {
+      "text": "The sole director of the new company is James Parry, a son of Mr and Mrs Parry.",
+      "id": "s461"
+    },
+    {
+      "text": "Both Mr and Mrs Parry work for the new company.",
+      "id": "s462"
+    },
+    {
+      "text": "Counsel argued that the replacement of the old Vidtech company by the new 'demonstrates why injunctive relief against Mr and Mrs Parry is appropriate'.",
+      "id": "s463"
+    },
+    {
+      "text": "100 Notwithstanding this consideration, I see no need for an injunction.",
+      "id": "s464"
+    },
+    {
+      "text": "Any injunction would need to be couched in language very similar to the language of the undertaking.",
+      "id": "s465"
+    },
+    {
+      "text": "There is no need for an injunction addressed to the old Vidtech company; it has ceased to exist.",
+      "id": "s466"
+    },
+    {
+      "text": "The new Vidtech company is not a party to this proceeding, so no injunction may be granted against it.",
+      "id": "s467"
+    },
+    {
+      "text": "An injunction could only restrain acts performed by the personal respondents; the undertaking covers the same ground.",
+      "id": "s468"
+    },
+    {
+      "text": "Moreover, the undertaking extends beyond the four games named in this proceeding to include 'any other poker machine games manufactured and sold by either of the applicants'.",
+      "id": "s469"
+    },
+    {
+      "text": "101 The undertaking set out in the filed document is offered to the Court.",
+      "id": "s470"
+    },
+    {
+      "text": "It has the same practical effect as an injunction; in either event, non-compliance is punishable as a contempt of court.",
+      "id": "s471"
+    },
+    {
+      "text": "I accept the undertaking and, on that basis, refuse the applicants' request for an injunction.",
+      "id": "s472"
+    },
+    {
+      "text": "Computation of compensatory damages \n \n102 There is an enormous difference between the parties as to the appropriate level of compensatory damages.",
+      "id": "s473"
+    },
+    {
+      "text": "The applicants led evidence from a chartered accountant, Stuart Robertson, calculating total losses at $6,350,145.",
+      "id": "s474"
+    },
+    {
+      "text": "By contrast, counsel for the respondents submitted that the applicants' maximum damages were $30,750.",
+      "id": "s475"
+    },
+    {
+      "text": "103 Mr Robertson's computation depended almost entirely on data supplied to him by others.",
+      "id": "s476"
+    },
+    {
+      "text": "So it is not a criticism of Mr Robertson for me to say there are numerous problems with his final figure, considered as an appropriate measure of the applicants' damages.",
+      "id": "s477"
+    },
+    {
+      "text": "104 First, Mr Robertson broke up the final figure into losses by Aristocrat of $1,260,104, losses by Aristocrat International of $980,649 and the remainder ($4,109,389) as being losses sustained by 'Aristocrat International's subsidiaries'.",
+      "id": "s478"
+    },
+    {
+      "text": "However, none of the subsidiaries is an applicant.",
+      "id": "s479"
+    },
+    {
+      "text": "Consequently, any such losses would not be recoverable in this proceeding, even if I were satisfied that the relevant subsidiary had sustained the loss.",
+      "id": "s480"
+    },
+    {
+      "text": "105 Second, Mr Robertson calculated the losses by applying Aristocrat sales prices and cost data to estimates of the volume of Vidtech's sales of Aristocrat product.",
+      "id": "s481"
+    },
+    {
+      "text": "The sales prices and cost data were supplied to him by Graham John Ward, Aristocrat's Group Financial Controller.",
+      "id": "s482"
+    },
+    {
+      "text": "Mr Ward made an affidavit to which he exhibited a sheet showing the average revenues and costs per unit (Mark IV and Mark V machines only) in each of the financial years 1999 to 2005 inclusive.",
+      "id": "s483"
+    },
+    {
+      "text": "As I understand the position, Mr Ward used the word 'unit' to describe a 'game kit': those elements in an EGM or conversion kit that are subject to copyright i.e.",
+      "id": "s484"
+    },
+    {
+      "text": "the perspex panels, computer software burnt into EPROMs and button inserts.",
+      "id": "s485"
+    },
+    {
+      "text": "His sheet disclosed substantial, and unexplained, differences in the revenues and costs averages for each year.",
+      "id": "s486"
+    },
+    {
+      "text": "106 Apparently, the information on this sheet was what was supplied to Mr Robertson, so his calculation was not of the difference between the gross proceeds of sale of EGMs and conversion kits and the gross costs of producing those products, but the difference between the estimated proceeds of sale of 'units' and the costs of producing those 'units'.",
+      "id": "s487"
+    },
+    {
+      "text": "107 Mr Robertson made an estimate of Vidtech's volume of sales of Aristocrat product (EGMs and conversion kits) between April 1999 and March 2005 and assumed, as he was instructed to do, that each Vidtech sale was of product that included infringing material (artwork or EPROMs) and was made at the expense of a sale by the Aristocrat company that serviced the relevant geographical area.",
+      "id": "s488"
+    },
+    {
+      "text": "108 At para 122 of his report, Mr Robertson explained the task he had undertaken:\n \n 'I have been instructed as to the average revenues received by Aristocrat, Aristocrat International and the latter's subsidiaries for sales of conversion kits and initial game kit components of EGMs in each financial year, and the average marginal costs incurred by each company per conversion kit and initial game kit component of EGMs.",
+      "id": "s489"
+    },
+    {
+      "text": "I have been instructed to calculate the value of lost sales (resulting from Vidtech's infringing conduct) on the basis of these revenues and marginal costs per unit.",
+      "id": "s490"
+    },
+    {
+      "text": "I am instructed that Aristocrat EGMs have a higher selling price and margin than Aristocrat conversion kits and initial game kit component of EGMs.",
+      "id": "s491"
+    },
+    {
+      "text": "I note that calculating lost sales on the basis of conversion kits margins is therefore a conservative approach.",
+      "id": "s492"
+    },
+    {
+      "text": "It does not take into account the additional profit margin lost to Aristocrat, Aristocrat International and or the latter's subsidiaries as a result of sales of infringing EGMs.",
+      "id": "s493"
+    },
+    {
+      "text": "' \n \n\n109 The bulk of the loss calculated by Mr Robertson stemmed from assumed lost EGM sales, as distinct from conversion kits.",
+      "id": "s494"
+    },
+    {
+      "text": "However, only conversion kits were separately sold.",
+      "id": "s495"
+    },
+    {
+      "text": "In order to relate lost EGM sales to the claim, it was necessary to assess what proportion of their value was attributable to the 'game kit' they contained.",
+      "id": "s496"
+    },
+    {
+      "text": "110 I think both the assumptions adopted by Mr Robertson are unsupportable.",
+      "id": "s497"
+    },
+    {
+      "text": "111 Mr Ward gave evidence that Aristocrat sold both new machines and refurbished used machines.",
+      "id": "s498"
+    },
+    {
+      "text": "However, the data supplied by him to Mr Robertson excluded used machines.",
+      "id": "s499"
+    },
+    {
+      "text": "So the assumption is that each sale by Vidtech was at the expense of an Aristocrat sale of a new machine.",
+      "id": "s500"
+    },
+    {
+      "text": "Vidtech was a refurbisher and vendor of used machines.",
+      "id": "s501"
+    },
+    {
+      "text": "As is evident from the quotation faxed by Mr Parry to Mr Papas, it was prepared to offer machines at prices around $US2,000.",
+      "id": "s502"
+    },
+    {
+      "text": "Apparently, the sale price of a new Aristocrat machine in March 2005 was about $AUD12,000.",
+      "id": "s503"
+    },
+    {
+      "text": "Having regard to that substantial difference, it cannot be assumed that each Vidtech sale cost Aristocrat a sale of a new machine.",
+      "id": "s504"
+    },
+    {
+      "text": "112 Furthermore, the data supplied to Mr Robertson claimed a total of 2,375 lost sales over the relevant period.",
+      "id": "s505"
+    },
+    {
+      "text": "Yet, as I have indicated, the highest available estimate of the number of infringing machines or conversion kits sold by Vidtech is 400.",
+      "id": "s506"
+    },
+    {
+      "text": "It is that figure, rather than 2,375, which must be used for the purposes of any computation of compensatory damages.",
+      "id": "s507"
+    },
+    {
+      "text": "There is no evidentiary basis for the assumption that all 2,375 machines contained infringing material.",
+      "id": "s508"
+    },
+    {
+      "text": "113 In their written submissions, counsel for the applicants correctly observed that the financial records produced by Vidtech are poor and incomplete.",
+      "id": "s509"
+    },
+    {
+      "text": "I agree there are significant unexplained cash transactions, that money has been directed to places (like the Isle of Man) where tracing is difficult and that money has been muddled up between corporate and personal accounts.",
+      "id": "s510"
+    },
+    {
+      "text": "Counsel submitted that, in these circumstances, it was appropriate for their clients to approach the problem of computation in the manner adopted by Mr Robertson.",
+      "id": "s511"
+    },
+    {
+      "text": "However, they effectively conceded that the figure of $6.3 million cannot be supported.",
+      "id": "s512"
+    },
+    {
+      "text": "They said:\n \n '... the applicants do not contend that the Court should find that all sales of Aristocrat machines by the respondents were infringing.",
+      "id": "s513"
+    },
+    {
+      "text": "Plainly some authentic reconditioned second hand machine[s] were sold.",
+      "id": "s514"
+    },
+    {
+      "text": "The total figure identified in Mr Robertson's report provides a \"ready reckoner\" for the purposes of assessing compensatory damages and interest.",
+      "id": "s515"
+    },
+    {
+      "text": "' \n \n\n114 Counsel went on:\n \n 'For the purpose of considering how to approach compensatory damages, the applicants submit the following factors are relevant: \n \n \n \n (a) Mr Parry has admitted commissioning the infringing artwork and copying Aristocrat EPROMs; \n \n \n \n \n \n (b) even if Ms Chai or Mr Papas did mention the possibility of conversion kits first (which is irrelevant), the evidence supports a finding that the respondents had sold conversion kits prior to that meeting and there is no suggestion that Mr Parry showed any resistance to the proposition that he might provide conversion kits, even after he was on notice of Aristocrat investigating BGT for copyright infringement; \n \n (c) Mr Parry's denial of shipping EGMs with counterfeit material should not be believed for the reasons outlined above.",
+      "id": "s516"
+    },
+    {
+      "text": "' \n \n \n\n115 Point (a) is correct.",
+      "id": "s517"
+    },
+    {
+      "text": "In relation to EPROMs, the admission extends only to copying EPROMs to replace damages or defective EPROMs.",
+      "id": "s518"
+    },
+    {
+      "text": "However, as I have indicated, I am prepared to estimate total sales of infringing products (EGMs or conversion kits) at 400.",
+      "id": "s519"
+    },
+    {
+      "text": "I accept the thrust of points (b) and (c) of counsel's submission.",
+      "id": "s520"
+    },
+    {
+      "text": "116 It appears that Aristocrat sells conversion kits that enable customers to convert one Aristocrat game to another.",
+      "id": "s521"
+    },
+    {
+      "text": "The kit contains the necessary artwork and EPROMs.",
+      "id": "s522"
+    },
+    {
+      "text": "Mr Ward said the conversion kit price differs between markets and from customer to customer; in Australia the price range would be $3,000 - $4,000.",
+      "id": "s523"
+    },
+    {
+      "text": "This seems a high figure, being well above the cost of purchasing a refurbished used machine from a company like Vidtech.",
+      "id": "s524"
+    },
+    {
+      "text": "However, counsel for the applicants pointed out that, in some places, gaming operators are limited to a particular number of machines.",
+      "id": "s525"
+    },
+    {
+      "text": "They said the operator might prefer to convert a relatively new, untarnished machine, rather than to acquire a second-hand machine which, even refurbished, might not be so attractive to gamblers as a newer, converted machine.",
+      "id": "s526"
+    },
+    {
+      "text": "117 No doubt some operators would think this way.",
+      "id": "s527"
+    },
+    {
+      "text": "That might explain conversion kit sales in the price range mentioned by Mr Ward.",
+      "id": "s528"
+    },
+    {
+      "text": "However, there is no evidence of the volume of such sales, in Australia or overseas.",
+      "id": "s529"
+    },
+    {
+      "text": "Nor is there any evidence of the price that Aristocrat charges overseas customers for conversion kits.",
+      "id": "s530"
+    },
+    {
+      "text": "Given that Vidtech seems to have sold mainly, if not exclusively, to overseas customers, overseas prices are more relevant to this case than the Australian price.",
+      "id": "s531"
+    },
+    {
+      "text": "118 Having regard to these considerations, I think it would be unfair to the respondents, and incorrect, to use the Australian conversion kit price ($3,000 - $4,000) as a basis for calculation of compensatory damages.",
+      "id": "s532"
+    },
+    {
+      "text": "But I lack the evidence necessary for me to calculate the value of Aristocrat's lost overseas sales (if any) of conversion kits and used EGMs.",
+      "id": "s533"
+    },
+    {
+      "text": "So I do not think it is possible for me to compute damages by reference to Aristocrat's loss.",
+      "id": "s534"
+    },
+    {
+      "text": "The only feasible course is to adopt an accounting for profit approach; to estimate the amount of Vidtech's net gain from its infringing conduct.",
+      "id": "s535"
+    },
+    {
+      "text": "119 Counsel for the respondents based their submission about damages upon the premise that the only infringement of copyright established against the respondents is in relation to the 615 perspex panels manufactured by Capre.",
+      "id": "s536"
+    },
+    {
+      "text": "Counsel argued the 'only proper basis to approach damages in this case is to assume a loss to Aristocrat constituted by the profit it would have made in the sale to Vidtech in Australia of perspex panels, assuming that had occurred'.",
+      "id": "s537"
+    },
+    {
+      "text": "Counsel referred to documents produced by the applicants showing sales of perspex artwork panels to Aristocrat customers at prices ranging from nil to $225.",
+      "id": "s538"
+    },
+    {
+      "text": "The figures average $114.",
+      "id": "s539"
+    },
+    {
+      "text": "Counsel then referred to invoices showing Capre had charged Aristocrat an average of $40 for each perspex panel made by Capre on Aristocrat's instructions.",
+      "id": "s540"
+    },
+    {
+      "text": "Counsel said that, allowing something for whatever other costs would have been incurred by Aristocrat, it was reasonable to take a figure of $50 as representing the average net profit which would have been earned by Aristocrat if the 615 panels in question had been supplied by it to Vidtech.",
+      "id": "s541"
+    },
+    {
+      "text": "Multiplying 615 panels by $50 yields a figure of $30,750 which, counsel argued, 'is the limit of the claim on the matters established by Aristocrat in its case'.",
+      "id": "s542"
+    },
+    {
+      "text": "120 These figures might be justified if the only infringement was that relating to artwork.",
+      "id": "s543"
+    },
+    {
+      "text": "However, that is not the case.",
+      "id": "s544"
+    },
+    {
+      "text": "EPROMs were also copied.",
+      "id": "s545"
+    },
+    {
+      "text": "In the absence of a better guide, I have assumed that the number of copied EPROM sets was roughly the same as the number of sets of artwork; that is, EPROMs for about 400 EGMs.",
+      "id": "s546"
+    },
+    {
+      "text": "On that basis, the infringing items constituted the bulk of the items that would be included in a conversion kit.",
+      "id": "s547"
+    },
+    {
+      "text": "121 Mr Parry quoted $US200 per conversion kit in the fax he sent Mr Papas on 7 March 2005.",
+      "id": "s548"
+    },
+    {
+      "text": "At that time, $US200 would have amounted to about $AUD275.",
+      "id": "s549"
+    },
+    {
+      "text": "The cost of production of the conversion kits (including the non-copyright items) would probably not have exceeded about $75, leaving a minimum profit of about $200, on a sale at this price, ascribable predominantly to the inclusion of infringing material.",
+      "id": "s550"
+    },
+    {
+      "text": "122 The evidence contains an email from Mr Parry to Mr O'Reilly of Happy Games, dated 18 August 2004.",
+      "id": "s551"
+    },
+    {
+      "text": "This email reports the dispatch of five parcels 'to the first five people on that list you sent me'.",
+      "id": "s552"
+    },
+    {
+      "text": "Mr Parry went on:\n \n 'You will owe me for 3 x Aristocrat programmes @ USD 400 ea.",
+      "id": "s553"
+    },
+    {
+      "text": "' \n \n\nHe totalled this item at $US1,200.",
+      "id": "s554"
+    },
+    {
+      "text": "Mr Parry also claimed $US7,320 for EPROMs, apparently 750 in all.",
+      "id": "s555"
+    },
+    {
+      "text": "This email seems to indicate that $US200 was not necessarily the maximum price obtainable for conversion kits.",
+      "id": "s556"
+    },
+    {
+      "text": "It also suggests EPROM copying on a massive sale.",
+      "id": "s557"
+    },
+    {
+      "text": "123 It is possible --- indeed likely, given the items seized in the pre-trial raid on BGT - that some artwork panels were sold separately from EPROMs.",
+      "id": "s558"
+    },
+    {
+      "text": "That being so, the agreement about artwork for 400 machines does not necessarily mean that 400 EGMs or conversion kits containing infringing EPROMs were sold.",
+      "id": "s559"
+    },
+    {
+      "text": "On the other hand, as the email to Mr O'Reilly suggests, some conversion kits may have been sold at prices above $US200 and copied EPROMs may have been sold separately from copied artwork.",
+      "id": "s560"
+    },
+    {
+      "text": "124 It will be seen there are factors supporting both a higher and lower figure than $200 in relation to the profit derived by Vidtech from each unit.",
+      "id": "s561"
+    },
+    {
+      "text": "The evidence does not permit a precise calculation of the appropriate figure for damages.",
+      "id": "s562"
+    },
+    {
+      "text": "As counsel for the applicants submitted, I can only make a broad assessment.",
+      "id": "s563"
+    },
+    {
+      "text": "I think my decision would fairly reflect the evidence if I maintained the figure of $200, as an overall average figure, per infringing 'game kit'.",
+      "id": "s564"
+    },
+    {
+      "text": "400 x $200 equals $80,000.",
+      "id": "s565"
+    },
+    {
+      "text": "I propose to assess compensatory damages, in relation to each respondent, at that sum.",
+      "id": "s566"
+    },
+    {
+      "text": "125 It is necessary to add to that assessment an allowance for interest.",
+      "id": "s567"
+    },
+    {
+      "text": "The infringing conduct took place over a four year period, from sometime in 2001, to about April 2005.",
+      "id": "s568"
+    },
+    {
+      "text": "I will take the mid-point of that period (2003) and allow interest for three years at 8% per annum; that is $19,200.",
+      "id": "s569"
+    },
+    {
+      "text": "It follows that the total amount of compensatory damages, in relation to each respondent, will be $99,200.",
+      "id": "s570"
+    },
+    {
+      "text": "Additional damages \n \n126 Section 115(4) of the Copyright Act relevantly provides:\n \n 'Where, in an action under this section: \n \n (a) an infringement of copyright is established; and \n (b) the court is satisfied that it is proper to do so, having regard to: \n \n \n \n (i) the flagrancy of the infringement; and \n (ia) the need to deter similar infringements of copyright; and \n (ib) the conduct of the defendant after the act constituting the infringement or, if relevant, after the defendant was informed that the defendant had allegedly infringed the plaintiff's copyright; and \n ... \n (iii) any benefit shown to have accrued to the defendant by reason of the infringement; and \n (iv) all other relevant matters; \n \n \n \n the court may, in assessing damages for the infringement, award such additional damages as it considers appropriate in the circumstances.",
+      "id": "s571"
+    },
+    {
+      "text": "' \n \n\n127 Counsel for the applicants argued this is a proper case for the award of additional damages.",
+      "id": "s572"
+    },
+    {
+      "text": "They said:\n \n 'The respondents' infringing conduct has been flagrant.",
+      "id": "s573"
+    },
+    {
+      "text": "Whilst copying of artwork and EPROMs was admitted by Mr Parry in cross-examination, this followed a history of the respondents covering their tracks prior to, and during the preparatory stages of, this proceeding.",
+      "id": "s574"
+    },
+    {
+      "text": "Liability has never been admitted on the pleadings.",
+      "id": "s575"
+    },
+    {
+      "text": "Mr Parry has admitted knowledge of copyright issues and innocent infringement was never pleaded.",
+      "id": "s576"
+    },
+    {
+      "text": "' \n \n\n128 Counsel for the applicants made particular mention of subpara (ib) of s 115(4)(b) of the Copyright Act , concerning the conduct of a defendant after being informed of an allegation of infringement.",
+      "id": "s577"
+    },
+    {
+      "text": "It was in this period, counsel said, that Mr Parry gave his 'loose lips sink ships' warning to Mr O'Reilly; yet he continued to offer Cleopatra machines to BGT and Mr Janjen and made a written offer to sell conversion kits to Mr Papas.",
+      "id": "s578"
+    },
+    {
+      "text": "His attitude was 'business as usual'.",
+      "id": "s579"
+    },
+    {
+      "text": "129 In relation to subpara (iii) of s 115(4)(b) , benefit to the respondent, counsel said:\n \n 'Regardless of the extent of the respondents' infringement, the provision of infringing material was used to assist the respondents to promote their sales of (infringing or non-infringing) second-hand EGMs.",
+      "id": "s580"
+    },
+    {
+      "text": "This was confirmed by Mr Parry in his justification of the offer to provide conversion kits to Mr Papas.",
+      "id": "s581"
+    },
+    {
+      "text": "The EGMs were sold for amounts starting at, but often in excess of, $US1,200.00.",
+      "id": "s582"
+    },
+    {
+      "text": "The respondents have given no evidence of their costs structure or of their profitability, and again, in the absence of such evidence the Court will not draw inferences in their favour.",
+      "id": "s583"
+    },
+    {
+      "text": "' \n \n\n130 The respondents did not put submissions in relation to the possible application of s 115(4).",
+      "id": "s584"
+    },
+    {
+      "text": "131 There is force in the submissions made by the applicants in relation to s 115(4) ; however, I think, only in relation to Vidtech and Mr Parry.",
+      "id": "s585"
+    },
+    {
+      "text": "Although I have found that Mrs Parry authorised artwork copying, and was aware, or at least had reason to suspect, that this copying involved infringement of copyright, I do not think the evidence establishes flagrancy on her part.",
+      "id": "s586"
+    },
+    {
+      "text": "I do not propose to award additional damages against Mrs Parry.",
+      "id": "s587"
+    },
+    {
+      "text": "132 Section 115(4) of the Copyright Act offers little guidance as to computation of additional damages.",
+      "id": "s588"
+    },
+    {
+      "text": "It merely authorises an award of 'such additional damages as [the Court] considers appropriate in the circumstances'.",
+      "id": "s589"
+    },
+    {
+      "text": "Having given the matter careful consideration, I am of the opinion that, in relation to Vidtech and Mr Parry, I should add an additional 50% to the calculated compensatory damages, before interest; that is to say $40,000.",
+      "id": "s590"
+    },
+    {
+      "text": "The trade marks claim \n \n133 Counsel for the applicants argued that the respondents infringed their client's trade marks in two ways by:\n \n \n '(a) reconditioning EGMs with counterfeit artwork that incorporated Aristocrat's registered trade marks for various games; and \n \n (b) using the trade mark \"ARISTOCRAT\" in relation to the sale of EGMs in circumstances where, by reason of their reconditioning, the EGMs are not the same goods to which the applicants applied their mark.",
+      "id": "s591"
+    },
+    {
+      "text": "' \n \n \n\n134 Counsel for the respondents submitted as follows:\n \n 'The perspex panels which were provided did not, according to Mr Farrow's evidence (and the artwork which is seen in the Macau machine) include reference to either the word \"Aristocrat\" or the word \"Queen of the Nile\".",
+      "id": "s592"
+    },
+    {
+      "text": "Accordingly, the only trade mark infringement that can be argued by Aristocrat would be the application by Capre Classics of the registered marks \"Dolphin Treasure\", \"Penguin Pays\" and \"Chicken\" to perspex panels.",
+      "id": "s593"
+    },
+    {
+      "text": "The application of those registered trade marks was not carried out by Vidtech itself.",
+      "id": "s594"
+    },
+    {
+      "text": "It was done by Capre Graphics.",
+      "id": "s595"
+    },
+    {
+      "text": "The Trade Marks Act does not have a comparable doctrine to the law of authorisation such as operates under copyright law.",
+      "id": "s596"
+    },
+    {
+      "text": "Vidtech did not sell the panels in Australia.",
+      "id": "s597"
+    },
+    {
+      "text": "It sold them to overseas purchasers and a sale to overseas purchasers is not a use of the trade mark in Australia, within the reach of the Act.",
+      "id": "s598"
+    },
+    {
+      "text": "In short, no trade mark infringement has been demonstrated by Aristocrat in these proceedings.",
+      "id": "s599"
+    },
+    {
+      "text": "' \n \n\n135 I accept these submissions.",
+      "id": "s600"
+    },
+    {
+      "text": "The applicants' trade mark claim is not made out.",
+      "id": "s601"
+    },
+    {
+      "text": "The misleading conduct claim \n \n136 In relation to this claim, counsel for the applicants argued:\n \n 'Vidtech, with the knowing involvement of each of Mr and Mrs Parry, has represented in trade or commerce --- especially in trade or commerce with places outside Australia --- that the EGMs in which Vidtech was dealing, loaded with artwork and game EPROMs, were authentic Aristocrat EGMs in that form, when they were not.",
+      "id": "s602"
+    },
+    {
+      "text": "There is actual evidence of confusion: Ms Hsu in Macau had received an infringing Cleopatra machine but though [sic] it was an authentic Aristocrat machine.",
+      "id": "s603"
+    },
+    {
+      "text": "' \n \n\n137 The respondents deny that their conduct was misleading or deceptive, within the meaning of s 52 of the Trade Practices Act .",
+      "id": "s604"
+    },
+    {
+      "text": "They say there is no evidence of any misleading representation in trade or commerce.",
+      "id": "s605"
+    },
+    {
+      "text": "138 The counterfeit artwork suggested the EGM to which it was attached, or would be attached by use of the conversion kit, was a genuine Aristocrat product.",
+      "id": "s606"
+    },
+    {
+      "text": "That was not true.",
+      "id": "s607"
+    },
+    {
+      "text": "However, the difficulty, from the applicants' point of view, is that there is no evidence that any suppliee of the counterfeit artwork was misled.",
+      "id": "s608"
+    },
+    {
+      "text": "BGT and Happy Games seem to have been well aware of what was going on; possibly other purchasers also were.",
+      "id": "s609"
+    },
+    {
+      "text": "139 It is possible that persons who purchased from a Vidtech suppliee, such as the Macau company which employed Ms Hsu, were misled.",
+      "id": "s610"
+    },
+    {
+      "text": "Poker machine players may also have been misled.",
+      "id": "s611"
+    },
+    {
+      "text": "However, so far as the evidence reveals, all these people were outside Australia; any representation made to them was made outside Australia.",
+      "id": "s612"
+    },
+    {
+      "text": "Under these circumstances, there must be a doubt as to whether the respondents' misleading conduct falls within s 52 of the Trade Practices Act .",
+      "id": "s613"
+    },
+    {
+      "text": "140 This issue was not addressed by counsel and I have not attempted to form a view about it.",
+      "id": "s614"
+    },
+    {
+      "text": "Even if the s 52 claim were to succeed, it would not affect the relief to which the applicants are entitled.",
+      "id": "s615"
+    },
+    {
+      "text": "Disposition \n \n141 I propose to enter judgment in favour of the applicants against each respondent: in the case of Vidtech and Mr Parry, in the sum of $139,200; in the case of Mrs Parry, in the sum of $99,200.",
+      "id": "s616"
+    },
+    {
+      "text": "Any payment on account of damages by one respondent is to be regarded as a satisfaction, to that extent, of the judgment against the others.",
+      "id": "s617"
+    },
+    {
+      "text": "142 The applicants seek a general order for costs.",
+      "id": "s618"
+    },
+    {
+      "text": "Counsel for the respondents requested that, given the matters in contention between the parties and the discrepancy between the scale of the applicants' claim 'and the damages which may ultimately be awarded', the Court should later hear submissions on costs.",
+      "id": "s619"
+    },
+    {
+      "text": "143 I am prepared to accede to this request.",
+      "id": "s620"
+    },
+    {
+      "text": "However, I do not wish the parties to be put to the expense of a further oral hearing.",
+      "id": "s621"
+    },
+    {
+      "text": "I will direct that, within 21 days, each set of parties is to forward to my Associate a written submission about costs.",
+      "id": "s622"
+    },
+    {
+      "text": "I certify that the preceding one hundred and forty-three (143) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Wilcox.",
+      "id": "s623"
+    },
+    {
+      "text": "Associate:\n\nDated: 22 March 2006\n\n Counsel for the Applicant: Mr R Cobden SC and Mr N Murray \n \n Solicitor for the Applicant: Baker &amp; McKenzie \n \n Counsel for the Second and Third Respondents: \nMr J M Ireland QC and Mr D Accoto \n \n Solicitor for the Second and Third Respondent: \nGollotta Law Practise \n \n Date of Hearing: 10, 14, 15 November 2005 \n \n Date of Judgment: 22 March 2006 \n\n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2006/275.html",
+      "id": "s624"
+    }
+  ]
+}

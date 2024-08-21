@@ -1,0 +1,1460 @@
+{
+  "name": "ICM Agriculture Pty Ltd v Young [2009] FCA 109 (19 February 2009)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2009/109.html",
+  "catchphrases": [
+    {
+      "text": "bankruptcy notice",
+      "id": "c0"
+    },
+    {
+      "text": "appeal from federal magistrates court's order setting aside bankruptcy notice",
+      "id": "c1"
+    },
+    {
+      "text": "nature of evidence of debtor's counter-claim before federal magistrate",
+      "id": "c2"
+    },
+    {
+      "text": "affidavit verifying statement of claim in proceeding brought by debtor against judgment creditor in district court",
+      "id": "c3"
+    },
+    {
+      "text": "statement of claim and affidavit verifying tendered in evidence before federal magistrate, but affidavit not read",
+      "id": "c4"
+    },
+    {
+      "text": "distinction between tendering affidavit and reading it",
+      "id": "c5"
+    },
+    {
+      "text": "conclusory nature of allegations made in statement of claim",
+      "id": "c6"
+    },
+    {
+      "text": "affidavit verifying would not have been admissible if attempted to be read",
+      "id": "c7"
+    },
+    {
+      "text": "assignment of bare cause of action for no consideration by company to debtor",
+      "id": "c8"
+    },
+    {
+      "text": "whether debtor had a genuine commercial interest sufficient to support assignment",
+      "id": "c9"
+    },
+    {
+      "text": "whether assignment was a breach of fiduciary duty owed by debtor as a director of assignor company, to that company.",
+      "id": "c10"
+    },
+    {
+      "text": "choses in action",
+      "id": "c11"
+    },
+    {
+      "text": "assignment of bare right of action",
+      "id": "c12"
+    },
+    {
+      "text": "need for assignee to have a genuine commercial interest to support assignment.",
+      "id": "c13"
+    },
+    {
+      "text": "bankruptcy",
+      "id": "c14"
+    },
+    {
+      "text": "personal property",
+      "id": "c15"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "The appellant (ICM) appeals from a judgment of the Federal Magistrates Court of Australia given on 25 July 2008 ( Young v ICM Agriculture Pty Ltd [2008] FMCA 1038) by which that Court ordered that Bankruptcy Notice NN68 of 2007 issued on 19 November 2007 and addressed to the respondent (Mr Young) (Bankruptcy Notice) be set aside.",
+      "id": "s0"
+    },
+    {
+      "text": "The Bankruptcy Notice was issued by the Official Receiver on the application of ICM and was founded on a final judgment obtained by ICM against Mr Young in the District Court of New South Wales.",
+      "id": "s1"
+    },
+    {
+      "text": "The Federal Magistrates Court set aside the Bankruptcy Notice because Mr Young satisfied it that he had a counter-claim set-off or cross demand equal to or exceeding the amount of the judgment debt that he could not have set up in the District Court proceeding: cf s 40(1)(g) of the Bankruptcy Act 1966 (Cth) (the Act).",
+      "id": "s2"
+    },
+    {
+      "text": "Mr Young's claim against ICM arose out of a deed of assignment of a claim asserted by another company against ICM.",
+      "id": "s3"
+    },
+    {
+      "text": "The deed was executed by that company and Mr Young on 11 December 2007 which was after the date of entry of the District Court judgment (16 October 2007).",
+      "id": "s4"
+    },
+    {
+      "text": "Accordingly, Mr Young could not have set his claim up in the District Court proceeding.",
+      "id": "s5"
+    },
+    {
+      "text": "Indeed, the deed of assignment was executed seven days after Mr Young was served with the Bankruptcy Notice on 4 December 2007.",
+      "id": "s6"
+    },
+    {
+      "text": "Mr Young filed his application to set aside the Bankruptcy Notice on 21 December 2007, ten days after execution of the deed of assignment.",
+      "id": "s7"
+    },
+    {
+      "text": "It seems clear that Mr Young took the assignment in order to defeat the Bankruptcy Notice, but this does not necessarily mean that the assignment was ineffective to give him a counter-claim, set-off or cross demand against ICM for the purposes of s 40(1)(g) of the Act.",
+      "id": "s8"
+    },
+    {
+      "text": "Under that provision the question is whether the court is satisfied that the debtor has the relevant counter-claim, set-off or cross demand at the time of the hearing of the application to set aside the bankruptcy notice.",
+      "id": "s9"
+    },
+    {
+      "text": "CHRONOLOGICAL SEQUENCE OF EVENTS \n The case concerned several written contracts that were very ill drawn.",
+      "id": "s10"
+    },
+    {
+      "text": "The following is a chronological account of the sequence of events, but I will reserve until later a discussion of the detail.",
+      "id": "s11"
+    },
+    {
+      "text": "The parties provided a \"Statement of Agreed Facts\" and I have incorporated the agreed facts referred to in it into the following account.",
+      "id": "s12"
+    },
+    {
+      "text": "On 25 May 1998 the New South Wales Department of Agriculture (Department) entered into an \"Exclusive Marketing Rights Agreement for Chickpea Lines G846-2-5 &amp; T1315\" with Australian Agriculture Commodities Pty Ltd of Wee Waa, New South Wales (AAC) (Marketing Rights Agreement).",
+      "id": "s13"
+    },
+    {
+      "text": "By the Marketing Rights Agreement the Department granted to AAC an exclusive licence to produce seed of the two chickpea lines referred to in the title of the document.",
+      "id": "s14"
+    },
+    {
+      "text": "AAC was authorised to exercise the rights granted to it by the use of agents.",
+      "id": "s15"
+    },
+    {
+      "text": "AAC undertook to make payments to the Department.",
+      "id": "s16"
+    },
+    {
+      "text": "AAC was authorised to grant sublicences with the written consent of the Department in a form to be approved by the Department.",
+      "id": "s17"
+    },
+    {
+      "text": "Mr Young has been a director of AAC since 1992 and he signed the Marketing Rights Agreement on its behalf.",
+      "id": "s18"
+    },
+    {
+      "text": "By a \"Sublicense Agency Agreement\" dated 8 September 1998 (Sublicence) AAC granted a sublicence to \"Namoi Rural Traders\".",
+      "id": "s19"
+    },
+    {
+      "text": "This was a name under which Namoi Valley Grain &amp; Grading Co Pty Ltd (Naomi) traded.",
+      "id": "s20"
+    },
+    {
+      "text": "The Sublicence was signed by Mr Young for AAC and by John Girven for Namoi.",
+      "id": "s21"
+    },
+    {
+      "text": "Mr Young was nominated in the Sublicence as the \"contact\" person for Namoi.",
+      "id": "s22"
+    },
+    {
+      "text": "By the Sublicence AAC appointed Namoi as its agent for the sale of the same two chickpea lines.",
+      "id": "s23"
+    },
+    {
+      "text": "In the Sublicence they were included within the expression \"the Products\".",
+      "id": "s24"
+    },
+    {
+      "text": "Clause 1.9 provided that \"Products\" meant the products from the AAC seeds range from time to time.",
+      "id": "s25"
+    },
+    {
+      "text": "It was only in respect of the two lines of the Products specified above that AAC appointed Namoi as its agent for sale by the Sublicence.",
+      "id": "s26"
+    },
+    {
+      "text": "They were described in Item 7 of Schedule 1 to the Sublicence as: \n BUMPER KABULI CHICKPEAS Line G 846-2-5 --- CLOSED LOOP \n --- ALL PRODUCTION RETURNED TO THE LISCENSEE [sic] or agent \n GULLY DESI CHICKPEAS Line T 1315 \n\n \nThe reference was to chickpea seed.",
+      "id": "s27"
+    },
+    {
+      "text": "Indeed, the Sublicence described itself in cl 1.1 as a \"Seed Agency Agreement\".",
+      "id": "s28"
+    },
+    {
+      "text": "By cl 2.6 of the Sublicence, AAC agreed to supply the Products to Namoi for the purpose of its on-selling to \"consumers\".",
+      "id": "s29"
+    },
+    {
+      "text": "By cl 2.7.1 title was to pass from AAC to the consumer upon AAC's receiving payment from Namoi.",
+      "id": "s30"
+    },
+    {
+      "text": "However, in the case of what was referred to as a \"closed loop market arrangement\", title was never to pass from AAC.",
+      "id": "s31"
+    },
+    {
+      "text": "In such a case, Namoi was entitled to grant consumers only licences to use the products.",
+      "id": "s32"
+    },
+    {
+      "text": "Prices to be charged by Namoi to consumers were to be governed by price lists issued by AAC from time to time.",
+      "id": "s33"
+    },
+    {
+      "text": "Item 8 in Schedule 1 to the Sublicence stated as \"Fees and/or Royalties Applicable\" $15.00 per metric tonne of all commercial production for \"Bumpers kabuli's\" and $125.00 per metric tonne for all seed sales for \"Gully Chickpeas\".",
+      "id": "s34"
+    },
+    {
+      "text": "There was no reference to Item 8 in the text of the Sublicence.",
+      "id": "s35"
+    },
+    {
+      "text": "However, cl 3.5.3 provided that payment by Namoi would be 30 days from the issue of an invoice \"unless otherwise stated in Sales initiatives published by [AAC]\".",
+      "id": "s36"
+    },
+    {
+      "text": "Notwithstanding the absence of an operative provision activating Item 8 in Schedule 1, I accept that Namoi undertook to pay AAC $15.00 per metric tonne of all commercial production for Bumper kabuli's, payable within 30 days of invoice.",
+      "id": "s37"
+    },
+    {
+      "text": "On 26 June 2002 (or 21 June 2002 --- the document states that it was an agreement made on 21 June 2002 but it was apparently signed on behalf of ICM on 26 June 2002) Namoi as agent for AAC of the one part and ICM of the other part entered into a \"Grower's Licence to receive Planting Seed Schedule to the Contract for commercially growing Bumper Chickpeas\" (Grower's Licence).",
+      "id": "s38"
+    },
+    {
+      "text": "This title suggests that the Grower's Licence and the form of the document next referred to below and entitled \"Commercial Crop Contract --- Bumper Chickpea\" (Commercial Crop Contract) were attached to each other.",
+      "id": "s39"
+    },
+    {
+      "text": "The Commercial Crop Contract, which bore the identification \"Contract No C991138\", was dated 9 July 2002 --- 13 (or 18) days after the date borne by the Grower's Licence.",
+      "id": "s40"
+    },
+    {
+      "text": "In identifying \"the Licensor\", the Grower's Licence specified Namoi as an agent of AAC.",
+      "id": "s41"
+    },
+    {
+      "text": "ICM was called \"the Grower\".",
+      "id": "s42"
+    },
+    {
+      "text": "The form of the Grower's Licence claimed to be a copyright document of AAC (as did the form of the Commercial Crop Contract referred to below).",
+      "id": "s43"
+    },
+    {
+      "text": "The Grower's Licence recited that AAC or its agent was the exclusive supplier of Bumper Chick Pea Planting Seed; that AAC or its agent was entitled to sell such seed; and that pursuant to ICM's request, the parties had agreed on such a sale.",
+      "id": "s44"
+    },
+    {
+      "text": "It seems tolerably plain that Namoi was entering into the Grower's Licence as agent for AAC.",
+      "id": "s45"
+    },
+    {
+      "text": "Since Mr Young relies for his claim against ICM on alleged breaches by ICM of the Grower's Licence, it is important to note the terms of that document in some detail.",
+      "id": "s46"
+    },
+    {
+      "text": "AAC (in each case the reference was to \"the Licensor [AAC] or their Agent [Namoi]\" and it was not in dispute that AAC was bound as principal) agreed to supply the seed to ICM \"at the current licence fee value\" (cl 1).",
+      "id": "s47"
+    },
+    {
+      "text": "ICM agreed that the seed supplied and the product of that seed would remain the property of AAC (cl 2).",
+      "id": "s48"
+    },
+    {
+      "text": "ICM undertook not to release the seed or plant material to any person or company other than AAC, acknowledged that AAC had the exclusive right to market the seed, and undertook not to compete with AAC or its agent (Namoi) (cl 3).",
+      "id": "s49"
+    },
+    {
+      "text": "By cl 8, ICM undertook to deliver all of the seed and the product of the seed \"to the nominated and advised receival centre\" as AAC or its agent Namoi should direct from time to time.",
+      "id": "s50"
+    },
+    {
+      "text": "However, ICM had the option of storing it \"on farm\" if acceptable to both parties (there followed a reference to \" section 12 of the commercial contract\", the significance of which I discuss at [93] below).",
+      "id": "s51"
+    },
+    {
+      "text": "By cl 9, ICM undertook not to sell the seed or the product of the seed \"to any other party\" and acknowledged that it did not have title to either the seed or its product.",
+      "id": "s52"
+    },
+    {
+      "text": "By cl 10, AAC undertook to sell all seed and the product of the seed delivered to it by ICM via a \"payment schedule as per attachment\".",
+      "id": "s53"
+    },
+    {
+      "text": "I discuss this provision at [95] below.",
+      "id": "s54"
+    },
+    {
+      "text": "I turn now to the Commercial Crop Contract of 9 July 2002 .",
+      "id": "s55"
+    },
+    {
+      "text": "The Commercial Crop Contract was expressed to be made between ICM as \"Grower\" and Namoi as \"Licensor\".",
+      "id": "s56"
+    },
+    {
+      "text": "The Commercial Crop Contract recited that Namoi would supply seed to ICM, that ICM would grow the crop, and that ICM agreed to deliver the proceeds of the crop to Namoi on the terms and conditions set out.",
+      "id": "s57"
+    },
+    {
+      "text": "It was agreed that the Bumper chickpea planting seed would be supplied pursuant to an attached \"Seed Agreement\" (a reference to the Grower's Licence) at a price of $1,400 per metric tonne bagged and $1,370 per metric tonne bulk delivered to Cowl Cowl (where ICM owned a farm) (cl 1).",
+      "id": "s58"
+    },
+    {
+      "text": "The supplier was the \"Licensor\", Namoi, and \"the Grower\" was ICM.",
+      "id": "s59"
+    },
+    {
+      "text": "ICM undertook to grow and harvest the crop at its expense.",
+      "id": "s60"
+    },
+    {
+      "text": "ICM consented to Namoi's inspection of the crop at any time.",
+      "id": "s61"
+    },
+    {
+      "text": "There were terms governing delivery.",
+      "id": "s62"
+    },
+    {
+      "text": "By cl 3(c), subject to normal seasonal conditions, delivery of crop (by ICM) and payment (by Namoi) were to be \"completed\" prior to 30 June 2003.",
+      "id": "s63"
+    },
+    {
+      "text": "By the same clause it was agreed that if, due to extraneous circumstances, the Commercial Crop Contract was not completed by that date, mediation should occur.",
+      "id": "s64"
+    },
+    {
+      "text": "Clause 4 set out Guaranteed Minimum Prices payable by Namoi to ICM according to the \"size grade of grain\".",
+      "id": "s65"
+    },
+    {
+      "text": "ICM had the option of storing the product on farm in a facility approved by Namoi (cl 9).",
+      "id": "s66"
+    },
+    {
+      "text": "Clause 10 was headed \"Crop Lien: Pursuant to a Closed Shop Marketing Agreement.",
+      "id": "s67"
+    },
+    {
+      "text": "\" By that clause, ICM gave Namoi \"a preferable lien\" to the extent of its obligations.",
+      "id": "s68"
+    },
+    {
+      "text": "Either as part of cl 10 or as an independent final unnumbered clause, the Commercial Crop Contract provided as follows: \n It is further agreed that unless on or before 30 June 2003 the grower delivers to the licensor the aforesaid crop, the said crop or crops shall be gathered carried away and made marketable by the licensor and shall be delivered to the said licensor in which event the said licensor may sell or dispose of the same by public auction or private contract and without being answerable for any loss arising thereby and from the proceeds may pay itself the sums aforementioned in this agreement.",
+      "id": "s69"
+    },
+    {
+      "text": "The Commercial Crop Contract was signed by Mr Young on behalf of Namoi and by Martin A Colbert on behalf of Namoi.",
+      "id": "s70"
+    },
+    {
+      "text": "In summary, the Grower's Licence and the Commercial Crop Contract when read together provided for the grant of a licence to use the seed by AAC through Namoi to ICM at a price payable by ICM to Namoi, and for Namoi to pay ICM for the growing and harvesting of the crop.",
+      "id": "s71"
+    },
+    {
+      "text": "On 16 July 2002 Mr Young signed a guarantee, guaranteeing to ICM (described in the document as \"the Vendor\") the due and punctual performance by Namoi of all the terms and conditions of the Commercial Crop Contract.",
+      "id": "s72"
+    },
+    {
+      "text": "In or around July 2002 ICM planted the chickpea seed.",
+      "id": "s73"
+    },
+    {
+      "text": "By February 2003 , roughly 1,000 tonnes of chickpeas had been grown and harvested by ICM.",
+      "id": "s74"
+    },
+    {
+      "text": "By late May 2003 Mr Young was aware that there was a substantial difference between what was the market price for chickpeas and the \"Guaranteed Minimum Prices\" that Namoi had agreed to pay ICM for them by cl 4 of the Commercial Crop Contract.",
+      "id": "s75"
+    },
+    {
+      "text": "On 29 May 2003 , Mr Young attended a meeting in Wee Waa with Alan Hoppe and Doug Shears of ICM.",
+      "id": "s76"
+    },
+    {
+      "text": "Mr Young told Messrs Hoppe and Shears that Namoi would not be able to pay the Guaranteed Minimum Prices for the chickpeas by 30 June 2003 as cl 3(c) of the Commercial Crop Contract required.",
+      "id": "s77"
+    },
+    {
+      "text": "As a solution, Mr Young proposed that ICM have control and ownership of the chickpeas and market them over time to mitigate the losses associated with Namoi's foreshadowed breach.",
+      "id": "s78"
+    },
+    {
+      "text": "On 2 June 2003 Mr Hoppe of ICM emailed Mr Young under the subject heading \"Confirmation of new arrangements\" as follows: \n [1] Thank you again for taking the time to meet with Doug Shears and myself on Thursday.",
+      "id": "s79"
+    },
+    {
+      "text": "As we expressed at that meeting, we are grateful for your candour and, as a result of your openness, we are prepared to investigate options to assist you, subject to cashflow constraints.",
+      "id": "s80"
+    },
+    {
+      "text": "[2] It is my understanding from the meeting that you will not be in a position to meet the contract delivery and payment terms and therefore will be in breach of the contract.",
+      "id": "s81"
+    },
+    {
+      "text": "[3] Based on current market quotes for similar sized Kabuli Chickpeas, sale of the chickpeas today would result in a loss of approximately $200,000.",
+      "id": "s82"
+    },
+    {
+      "text": "You would like ICM to maintain control and ownership of the chickpeas and eventually to market those chickpeas over time, under an open book arrangement to mitigate these losses if possible.",
+      "id": "s83"
+    },
+    {
+      "text": "[4] You acknowledge that at current prices there is a loss which should be calculated and would then fall due.",
+      "id": "s84"
+    },
+    {
+      "text": "You will prepare a repayment schedule of this debt for approval by ICM, being mindful that any improvements in the price finally achieved by ICM, above current prices, would be used to reduce the debt owing.",
+      "id": "s85"
+    },
+    {
+      "text": "An interest component should also be included.",
+      "id": "s86"
+    },
+    {
+      "text": "Doug suggested that repayments may be staged such that any EBIT over two times interest is paid out to ICM, up to two years time at which time the balance falls due.",
+      "id": "s87"
+    },
+    {
+      "text": "[5] This is my understanding of the major issues we discussed.",
+      "id": "s88"
+    },
+    {
+      "text": "I would greatly appreciate you confirming this in a letter to me which also sets out your estimate of the loss and your proposed repayment schedule.",
+      "id": "s89"
+    },
+    {
+      "text": "In estimating the current market value of the chickpeas involved, could you also give me your opinion on likely price movements over the next 6 months to assist me in calculating possible cashflow scenarios.",
+      "id": "s90"
+    },
+    {
+      "text": "(The paragraph numbers in square brackets have been inserted by me to facilitate reference).",
+      "id": "s91"
+    },
+    {
+      "text": "Mr Young replied on 3 June 2003 , relevantly as follows: \n In essence the email is what was discussed, except it was my interpretation that it was discussed that ICM would look at what there [sic] cashflow requirements where [sic] over the next 6 months and that would be the driving force behind when the sale of kabuli's would occur?",
+      "id": "s92"
+    },
+    {
+      "text": "Could you give me some clarification on this please?",
+      "id": "s93"
+    },
+    {
+      "text": "Could I please get you to discuss with Graham cleaning and packing arrangements as obviously this is one area that you where [sic] concerned about.",
+      "id": "s94"
+    },
+    {
+      "text": "Therefore we will be in agreement on what is to happen on the physical side.",
+      "id": "s95"
+    },
+    {
+      "text": "30 June 2003 was the date by which the Commercial Crop Contract was to be completed in accordance with its terms (see [21] above).",
+      "id": "s96"
+    },
+    {
+      "text": "On 7 July 2003 Namoi (Mr Young) wrote to ICM (Mr Hoppe) concerning the Commercial Crop Contract.",
+      "id": "s97"
+    },
+    {
+      "text": "Mr Young stated in his letter that he had been thinking over that contract and communications between ICM and Namoi over the preceding six months and had taken into account the meeting at Wee Waa on 29 May 2003 and subsequent telephone conversations.",
+      "id": "s98"
+    },
+    {
+      "text": "As well, he stated that he had sought legal advice.",
+      "id": "s99"
+    },
+    {
+      "text": "Mr Young asserted that at all times ICM had known that the Commercial Crop Contract was \"governed by a Closed Loop Marketing arrangement\" and that Namoi had been acting as agent of another company (no doubt a reference to AAC).",
+      "id": "s100"
+    },
+    {
+      "text": "The letter asserted that Namoi was not in a position to vary the closed loop marketing arrangement.",
+      "id": "s101"
+    },
+    {
+      "text": "The letter further asserted that Namoi could not allow ICM to market the product under the Commercial Crop Contract as had been proposed in a fax from ICM dated 7 July 2003.",
+      "id": "s102"
+    },
+    {
+      "text": "This fax is not in the appeal papers.",
+      "id": "s103"
+    },
+    {
+      "text": "Mr Young's letter also asserted that it had been agreed at the Wee Waa conference that a legal document would be provided stating that ICM would remain in full control of the \"delivered goods\" and that no product would be despatched (apparently by AAC or Namoi) without ICM's consent.",
+      "id": "s104"
+    },
+    {
+      "text": "The letter asserted that it had also been agreed at the Wee Waa conference that all sales would be completed by 31 October 2003 but that physical delivery and payment might \"be still ongoing\".",
+      "id": "s105"
+    },
+    {
+      "text": "On 11 July 2003 , Mr Young as director of Namoi, resolved pursuant to s 436A of the Corporations Act 2001 (Cth) that a voluntary administrator be appointed to Namoi.",
+      "id": "s106"
+    },
+    {
+      "text": "At the date of the administrator's appointment: On 8 August 2003 , a special resolution of creditors was passed that Namoi be wound up and a liquidator be appointed.",
+      "id": "s107"
+    },
+    {
+      "text": "By a series of contracts dated from 18 to 21 August 2003 , ICM sold the chickpeas.",
+      "id": "s108"
+    },
+    {
+      "text": "On 22 July 2004 ICM launched proceeding 3126 of 2004 in the District Court of New South Wales claiming $174,731.10 plus interest and costs.",
+      "id": "s109"
+    },
+    {
+      "text": "The cause of action was founded on the Commercial Crop Contract.",
+      "id": "s110"
+    },
+    {
+      "text": "The Guaranteed Minimum Prices were referred to and it was alleged that in March 2003 ICM was in a position to deliver the chickpeas in accordance with the Commercial Crop Contract.",
+      "id": "s111"
+    },
+    {
+      "text": "It was alleged that at the meeting on 29 May 2003, Mr Young as director of Namoi informed Mr Hoppe and Mr Shears of ICM that Namoi would not be in a position to meet the delivery and payment terms in the Commercial Crop Contract.",
+      "id": "s112"
+    },
+    {
+      "text": "Mr Young's email of 3 June 2003 was also referred to.",
+      "id": "s113"
+    },
+    {
+      "text": "According to the statement of claim, ICM sold the chickpeas to third parties in order to mitigate its loss, and by a letter dated 6 November 2003 had detailed its loss at $174,731.10 and demanded payment from Mr Young under the guarantee (see [28] above).",
+      "id": "s114"
+    },
+    {
+      "text": "On 18 April 2005 ICM and Mr Young settled the District Court proceeding by means of a deed.",
+      "id": "s115"
+    },
+    {
+      "text": "Mr Young agreed to pay $175,000 to ICM by instalments payable on 1 July on each of the years from 2005 to 2011.",
+      "id": "s116"
+    },
+    {
+      "text": "Time for payment was declared to be of the essence.",
+      "id": "s117"
+    },
+    {
+      "text": "The parties executed a consent judgment, a copy of which was attached to the deed, and the original of which was to be held by ICM's solicitor on the basis that if Mr Young should default, ICM would be entitled, without notice to Mr Young, to file the judgment in the Registry of the District Court and enforce it in accordance with its terms, the amount of the judgment to be enforced to be reduced by the amounts of any payments that had been made.",
+      "id": "s118"
+    },
+    {
+      "text": "The amount specified in the form of consent judgment was $174,731.10 (additional amounts were specified for costs and interest).",
+      "id": "s119"
+    },
+    {
+      "text": "On 13 August 2007 Mr Young filed a notice of motion in the District Court proceeding seeking an order setting aside the deed of settlement and seeking leave to file the defence and also a \"cross-claim to join AAC\".",
+      "id": "s120"
+    },
+    {
+      "text": "The next day, 14 August 2007 , ICM filed a notice of motion seeking an order reinstating the proceeding so that the consent judgment could be entered.",
+      "id": "s121"
+    },
+    {
+      "text": "Both motions were heard together and on 16 October 2007, Judicial Register McDonald dismissed Mr Young's motion, entered judgment for ICM for $134,731.10, ordered Mr Young to pay ICM interest of $61,899, and ordered Mr Young to pay ICM's costs.",
+      "id": "s122"
+    },
+    {
+      "text": "On 23 October 2007 , Mr Young signed a letter on the letterhead of AAC to Mr Hoppe of ICM asserting that ICM had breached the Grower's Licence by selling Bumper Chickpeas to any entity other than an agent of AAC.",
+      "id": "s123"
+    },
+    {
+      "text": "The letter referred to cll 2, 8 and 9 of the Grower's Licence (see [15]-[17] above).",
+      "id": "s124"
+    },
+    {
+      "text": "The letter called for either a satisfactory explanation or a remedying of the breaches.",
+      "id": "s125"
+    },
+    {
+      "text": "On 19 November 2007 , on ICM's application, the Official Receiver issued the Bankruptcy Notice, which was addressed to Mr Young and required him to pay a total sum of $198,278.06.",
+      "id": "s126"
+    },
+    {
+      "text": "As noted earlier, the Bankruptcy Notice was served on Mr Young on 4 December 2007 .",
+      "id": "s127"
+    },
+    {
+      "text": "As also noted earlier, by deed of assignment dated 11 December 2007 , signed by Mr Young on behalf of the assignor, AAC, and in his personal capacity as assignee, AAC assigned to Mr Young all of AAC's right, title and interest in what was described in the deed as the \"Cause of Action\".",
+      "id": "s128"
+    },
+    {
+      "text": "The expression \"Cause of Action\" was defined in cl 1.1(b) as: \n any cause of action or claim for damages that the assignor has in contract, tort or otherwise against ICM ... on any account whatsoever, howsoever arising, including but not limited to any action for damages for breach of contract in relation to a sub license agency agreement dated 8 September 1998 ... \n\n \nAccording to cl 4.1, AAC \"for valuable consideration\" (receipt of which was acknowledged) irrevocably appointed Mr Young as its attorney to do certain things to enforce the Cause of Action.",
+      "id": "s129"
+    },
+    {
+      "text": "I indicate now that I reject Mr Young's argument that this shows that he gave consideration for the assignment itself.",
+      "id": "s130"
+    },
+    {
+      "text": "However, if it was otherwise proved that Mr Young gave consideration for the assignment, no doubt that consideration would also be consideration for the ancillary appointment by AAC of Mr Young as its attorney.",
+      "id": "s131"
+    },
+    {
+      "text": "ASIC records signed by Mr Young indicate that he was one of three directors of AAC at the date of the deed of assignment.",
+      "id": "s132"
+    },
+    {
+      "text": "Before the Federal Magistrate, Mr Young contended that he was in fact the sole director of AAC at that time.",
+      "id": "s133"
+    },
+    {
+      "text": "No factual finding was made in relation to this question and the parties accept that the outcome of the appeal does not turn on it.",
+      "id": "s134"
+    },
+    {
+      "text": "ASIC records signed by Mr Young also show that at the date of the assignment that the shareholders of AAC were IDAC Investments Pty Ltd (1 share); Young's Rural Services Pty Ltd (1 share); The Lentil Company Pty Ltd (2 shares); and Patrick Griffiths (2 shares).",
+      "id": "s135"
+    },
+    {
+      "text": "ASIC records signed by Mr Young indicate that The Lentil Company Pty Ltd and Patrick Griffiths transferred their shares in AAC to Young's Rural Services Pty Ltd on 10 January 2008.",
+      "id": "s136"
+    },
+    {
+      "text": "Mr Young asserts that those two share transfers preceded the assignment.",
+      "id": "s137"
+    },
+    {
+      "text": "However, no evidence to this effect was before the Federal Magistrate (or this Court).",
+      "id": "s138"
+    },
+    {
+      "text": "Mr Young accepts that the appeal is to be determined on the basis that the shareholdings in AAC at the time of the assignment were as reflected in the ASIC records, i.e.",
+      "id": "s139"
+    },
+    {
+      "text": "on the basis that Young's Rural Services Pty Ltd held only one of six shares issued in AAC.",
+      "id": "s140"
+    },
+    {
+      "text": "At the date of the assignment Mr Young was the sole director and shareholder of Young's Rural Services Pty Ltd. On 18 December 2007 Mr Young signed on behalf of AAC a notice of assignment purportedly under s 12 of the Conveyancing Act 1919 (NSW) to ICM of an assignment by AAC to Mr Young of any cause of action or claim for damages that AAC had against ICM, including, but not limited to, any action for damages for breach of \"a sub license agency agreement dated 8 September 1988\" (the notice is erroneously dated 18 December 2008).",
+      "id": "s141"
+    },
+    {
+      "text": "The agreement entitled \"Sublicense Agency Agreement\" and dated 8 September 1998 was the Sublicence (see [7]ff above) and was between AAC and Namoi.",
+      "id": "s142"
+    },
+    {
+      "text": "Not being a party to it, ICM could not be in breach of it.",
+      "id": "s143"
+    },
+    {
+      "text": "On 21 December 2007 Mr Young launched District Court proceeding 5792 of 2007 against ICM.",
+      "id": "s144"
+    },
+    {
+      "text": "The relief claimed by him was as follows: \n ICM actions of not delivering the seed and production under the Liscence (sic) Agreement signed on the 26 th June 2002 [the Grower's Licence] meant that AAC had no access to buy seed from it's agent to carry on its business.",
+      "id": "s145"
+    },
+    {
+      "text": "AAC had to go back to prebasic seed stocks and grow seed lines out in 2003/04and (sic) 2004/05 to build up seed stocks again to a level where the busiensss [sic] could commercial contract [sic] seed again.",
+      "id": "s146"
+    },
+    {
+      "text": "Losses of seed sales where [sic] a minimum of 75 m/t per year x 2 years = 150 m/t seed sales at an average price of $1350/mt = $202,500.",
+      "id": "s147"
+    },
+    {
+      "text": "Royalties due and payable as per the liscense (sic) agreement between AAC and its agent.",
+      "id": "s148"
+    },
+    {
+      "text": "$15/mt for tonnes produced.",
+      "id": "s149"
+    },
+    {
+      "text": "957 m/t @ $15.00/mt = $14,355\n Production from 75 m/t seed x 2 yrs = 2700 m/t x $15/mt = $40,500\n \n TOTAL Loss = $257,355.00 \n\n \n ... \n\n \n Amount of claim $257355.00\n Interest $102,942.00\n Filing Fees $360.00\n Service fees $25\n Solicitors fees $\n TOTAL $360,682.00 \n\n Mr Young pleaded his cause of action as founded on the \"Grower's Licence\".",
+      "id": "s150"
+    },
+    {
+      "text": "The claim was that in breach of cll 3 and 8, ICM failed to deliver the seed or the product of the seed to AAC or its agent.",
+      "id": "s151"
+    },
+    {
+      "text": "On 21 December 2007 Mr Young filed in the Federal Magistrates Court his application to set aside the Bankruptcy Notice on the ground that he had a set-off which could not have been raised in District Court proceeding 3126 of 2004.",
+      "id": "s152"
+    },
+    {
+      "text": "On 9 January 2008 ICM filed its notice of opposition asserting, relevantly, that Mr Young did not have a prima facie counterclaim, set-off or counter demand within the meaning of s 40(1)(g) of the Act.",
+      "id": "s153"
+    },
+    {
+      "text": "On 25 January 2008 AAC gave a second notice of assignment to ICM.",
+      "id": "s154"
+    },
+    {
+      "text": "The only difference between this notice and the one dated 18 December 2008 referred to at [56] above is that the date of the \"sublicence agency agreement\" was now shown as 26 June 2002.",
+      "id": "s155"
+    },
+    {
+      "text": "It will be recalled that 26 June 2002 was the date not of the Sublicence but of the Grower's Licence between Namoi as agent for AAC of the one part and ICM of the other part (see [11]ff above).",
+      "id": "s156"
+    },
+    {
+      "text": "It was the Grower's Licence which Mr Young, by the letter dated 23 October 2007 on the letterhead of AAC (see [47] above), had complained that ICM had breached by selling the Bumper Chickpeas.",
+      "id": "s157"
+    },
+    {
+      "text": "The retention of the description \"sublicense agency agreement\" in the notice of assignment dated 25 January 2008 seems to be a clerical slip or error.",
+      "id": "s158"
+    },
+    {
+      "text": "Properly construed, the reference is to the Grower's Licence.",
+      "id": "s159"
+    },
+    {
+      "text": "On 13 March 2008 the application to set aside was heard by Lloyd-Jones FM who ordered that the Bankruptcy Notice be set aside.",
+      "id": "s160"
+    },
+    {
+      "text": "THE REASONS FOR JUDGMENT OF THE FEDERAL MAGISTRATES COURT \n Before the Federal Magistrate, as set out at [18] in the Reasons for Judgment, the ground of opposition that continues to be of interest was the following: \n the Applicant does not have a prima facie counter claim, set-off or counter demand within the meaning of s 40(1)(g) of the Bankruptcy Act 1966 (Cth).",
+      "id": "s161"
+    },
+    {
+      "text": "ICM challenged the validity of the assignment to Mr Young.",
+      "id": "s162"
+    },
+    {
+      "text": "ICM contended that: \n(a) the Court could not be satisfied on the evidence that there had been a valid assignment;\n \n(b) that Court could not be satisfied that any purported assignment had not been procured contrary to fiduciary duties owed by Mr Young to AAC;\n \n(c) Mr Young did not have a genuine commercial interest in the enforcement of AAC's claim so as to support a valid assignment to him.",
+      "id": "s163"
+    },
+    {
+      "text": "In relation to (b), ICM submitted that there was no evidence that in causing AAC to assign its supposed cause of action to him, Mr Young had been acting in the interests of the other shareholders in AAC.",
+      "id": "s164"
+    },
+    {
+      "text": "ICM submitted that it appeared that the assignment had been for zero consideration.",
+      "id": "s165"
+    },
+    {
+      "text": "The Federal Magistrate quoted as follows from my judgment in Glew v Harrowell of Hunt and Hunt Lawyers [2003] FCA 373 ( Glew ) at [8]-[9]: In order to avoid committing the act of bankruptcy identified in par 40(1)(g) of the Act, Glew and Tresider [the recipients of the bankruptcy notice] must satisfy the Court that they have a counter-claim, set-off or cross demand against Hunts of the kind described in that paragraph.",
+      "id": "s166"
+    },
+    {
+      "text": "What they must do in order to \"satisfy the Court\" for the purposes of par 40(1)(g) of the Act that they have the asserted counter-claim, set-off or cross demand has been variously described.",
+      "id": "s167"
+    },
+    {
+      "text": "The descriptions do not necessarily purport to be comprehensive definitions.",
+      "id": "s168"
+    },
+    {
+      "text": "To state that a debtor in receipt of a bankruptcy notice must show X does not necessarily imply that he or she need not also show Y, or that he or she will not be defeated if the creditor shows Z.",
+      "id": "s169"
+    },
+    {
+      "text": "There are authorities suggesting that Glew and Tresider must satisfy me of the following interrelated and sometimes overlapping matters: that they have a \"prima facie case\", even if they do not adduce evidence which would be admissible on a final hearing making out that case ( Ebert v The Union Trustee Co of Australia Ltd [1960] HCA 50 ; (1960) 104 CLR 346 (\" Ebert \") at 350; Re Brink; Ex parte Commercial Banking Company of Sydney Ltd (1980) 44 FLR 135 (\" Brink \") at 141; Gomez v State Bank of NSW Ltd [2002] FCAFC 101 at [17], [18]); that they have \"a fair chance of success\" or are \"fairly entitled to litigate\" the claim: Brink at 141; Re Gould; Gould v Day [1999] FCA 1650 at [27] , [28]; Re Capsanis; Capsanis v The Owners --- Strata Plan 11727 [2000] FCA 1262 at [11] ); and that they are advancing a \"genuine\" or \"bona fide\" claim ( Re Capsanis; Capsanis v The Owners --- Strata Plan 11727 [2000] FCA 1262 at [11] ).",
+      "id": "s170"
+    },
+    {
+      "text": "It may be that the first and second formulations are intended to cover the same ground.",
+      "id": "s171"
+    },
+    {
+      "text": "In Brink Lockhart J treated (at 141) the reference to a \" prima facie case \" in Ebert as a reference to \"a fair chance of success\".",
+      "id": "s172"
+    },
+    {
+      "text": "The critical paragraph of the Federal Magistrates Reasons for Judgment is [58] which stated: As per Glew the essential element that I am required to be satisfied of is that there is a prima facie case.",
+      "id": "s173"
+    },
+    {
+      "text": "Before that can be established it will be necessary for a final determination as to the validity of the Deed of Assignment as the total claim depends on that effective transfer to Mr Young to enable him to mount his cross-claim.",
+      "id": "s174"
+    },
+    {
+      "text": "If the deed of assignment is found to be defective, Mr Young has not provided a second or alternative basis for a counter claim or set off.",
+      "id": "s175"
+    },
+    {
+      "text": "If the secondary claim did exist independent of the Deed then the failure to raise that claim in the District Court may be estopped by the principles in the Port of Melbourne Authority v Anshun Pty Ltd [1981] HCA 45 ; (1981) 147 CLR 589.",
+      "id": "s176"
+    },
+    {
+      "text": "If the Deed is found to be valid and effective then the \"Contract Confirmations\" annexed to the second affidavit of Mr Young indicates that ICM Agriculture and entities other than AAC or its nominees have breached the licence agreement.",
+      "id": "s177"
+    },
+    {
+      "text": "As there has been no challenge as to the admissibility of those documents I am satisfied that a claim would exist and that Mr Young has a prima facie case for damages.",
+      "id": "s178"
+    },
+    {
+      "text": "The Federal Magistrate's reference to \"Contract Confirmations\" is a reference to seven documents so named by which ICM sold Kabuli Chickpeas to Agrinational Pty Ltd over the period 18 to 21 August 2003.",
+      "id": "s179"
+    },
+    {
+      "text": "The \"prima facie\" claim for damages referred to is no doubt a claim for damages by AAC for breach by ICM of clauses 2, 3, 8 and 9 of the Grower's Licence, referred to at [15] - [17] above.",
+      "id": "s180"
+    },
+    {
+      "text": "In sum, the Federal Magistrate noted, without attempting to resolve, the issue of the validity of the assignment, and considered that ICM's sale of the chickpeas raised a prima facie case of breach of the Grower's Licence by ICM.",
+      "id": "s181"
+    },
+    {
+      "text": "GROUNDS OF APPEAL \n ICM appeals on the grounds that the Federal Magistrate erred in holding that Mr Young had \"a counter-claim set-off or cross demand equal to or exceeding the amount of the judgment debt or sum payable under the final order\" for the purposes of s 40(1)(g) of the Bankruptcy Act : in the absence of any evidence as to the value of the counter-claim contended for by Mr Young; in circumstances in which: \n(a) the evidence before the Federal Magistrates Court did not establish, to the requisite level, a breach by ICM of the Grower's Licence; and/or\n \n(b) the Federal Magistrate was not satisfied, and on the basis of the evidence could not have been satisfied to the requisite level, that Mr Young had validly received an assignment of the counter-claim contended for by him.",
+      "id": "s182"
+    },
+    {
+      "text": "On the hearing of the appeal, Counsel for Mr Young indicated that if I should be against his client on the first ground (lack of evidence as to value) he would wish to seek leave to lead voluminous evidence of value on the appeal.",
+      "id": "s183"
+    },
+    {
+      "text": "The purpose was to have before the Court evidence in proper form supporting the claim as formulated in Mr Young's District Court proceeding (see [57] above).",
+      "id": "s184"
+    },
+    {
+      "text": "The leading of that evidence would have required an adjournment of the hearing of the appeal.",
+      "id": "s185"
+    },
+    {
+      "text": "Even dealing with the application to lead the further evidence would have still required adjournment of the hearing.",
+      "id": "s186"
+    },
+    {
+      "text": "After some discussion, I acquiesced in one possible course that was suggested, namely, that the application to lead further evidence be deferred against the possibility that it may be otiose.",
+      "id": "s187"
+    },
+    {
+      "text": "While that course was not entirely satisfactory, it seemed preferable to any other.",
+      "id": "s188"
+    },
+    {
+      "text": "As events turned out, however, the appeal was not able to be concluded on the day fixed in any event, and had to be adjourned part-heard.",
+      "id": "s189"
+    },
+    {
+      "text": "CONSIDERATION\nGround 1 --- No evidence as to the value of the counter-claim contended for by Mr Young\n The amount of the judgment debt the subject of the Bankruptcy Notice was $198,278.06.",
+      "id": "s190"
+    },
+    {
+      "text": "The counter-claim was for unliquidated damages in the terms set out in Mr Young's statement of claim filed in District Court proceeding 5792 of 2007 (see [57] above).",
+      "id": "s191"
+    },
+    {
+      "text": "The only evidence supporting the quantum of the claim was Mr Young's \"affidavit verifying\" the statement of claim made on 21 December 2007.",
+      "id": "s192"
+    },
+    {
+      "text": "In that affidavit, Mr Young stated simply: \n \"I believe that the allegations of fact in the statement of claim are true.",
+      "id": "s193"
+    },
+    {
+      "text": "\" \n\n \nThe supposed \"allegations of fact\" as to quantum are to be found under the heading \"Relief claimed\" in the statement of claim set out at [57] above.",
+      "id": "s194"
+    },
+    {
+      "text": "The affidavit was not read before the Federal Magistrate.",
+      "id": "s195"
+    },
+    {
+      "text": "Although Mr Young's District Court statement of claim and his accompanying verifying affidavit were tendered and admitted (as a single exhibit) before the Federal Magistrate, the affidavit was not read into evidence.",
+      "id": "s196"
+    },
+    {
+      "text": "Accordingly, for this reason alone there was no evidence of quantum before the Federal Magistrate.",
+      "id": "s197"
+    },
+    {
+      "text": "If an attempt had been made to read the affidavit as evidence of any facts under the heading \"Claim for relief\", there would have been an objection and the affidavit would have been rejected.",
+      "id": "s198"
+    },
+    {
+      "text": "First, the affidavit was nothing more than a statement of Mr Young's \"belief\"; his state of belief was not evidence of any of the primary facts, and was not able to satisfy the test discussed in Glew (set out at [67] above and [79] below).",
+      "id": "s199"
+    },
+    {
+      "text": "Second, and more importantly, if Mr Young had sworn that the allegations of fact in the statement of claim were true, his affidavit would still have been inadmissible because of the nature of the material in the statement of claim.",
+      "id": "s200"
+    },
+    {
+      "text": "It was an amalgam of conclusions, rather than a statement of facts.",
+      "id": "s201"
+    },
+    {
+      "text": "Indeed, before the Federal Magistrate Mr Young did attempt to read an affidavit sworn by him on 21 December 2007 which contained in paragraphs 18 and 19 the very material that appeared under the heading \"Relief claimed\" in the statement of claim.",
+      "id": "s202"
+    },
+    {
+      "text": "When objection was taken to the two paragraphs, they were not read.",
+      "id": "s203"
+    },
+    {
+      "text": "Counsel then appearing for Mr Young (not the Counsel who appeared for him on the present appeal) said that the non-reading of them was of little consequence at that stage because he proposed to tender the statement of claim which would show the monetary value of the counter-claim.",
+      "id": "s204"
+    },
+    {
+      "text": "Counsel appears to have thought that it sufficed to show how the counter-claim was calculated.",
+      "id": "s205"
+    },
+    {
+      "text": "But it was not enough for Mr Young to formulate a claim in sweeping conclusory terms and to say on oath that he believed in his claim or was confident that he would be able to sustain it on a hearing: see, for example, Ebert v The Union Trustee Co of Australia Ltd [1960] HCA 50 ; (1960) 104 CLR 346 at 350-351; Bhagat v Global Custodians Ltd [2002] FCAFC 51 at [53].",
+      "id": "s206"
+    },
+    {
+      "text": "In Glew , immediately following [8] and [9] quoted by the Federal Magistrate and set out at [67] above, I said: In Brink Lockhart J said (at 141) that the Court is not required to \"undertake a preliminary trial of the counter-claim, set-off or cross demand\".",
+      "id": "s207"
+    },
+    {
+      "text": "But, clearly, the application of the criteria above requires the Court to make some kind of preliminary assessment, though obviously not to determine the counter-claim, set-off or cross demand finally.",
+      "id": "s208"
+    },
+    {
+      "text": "And in Guss v Johnstone [2000] HCA 26 ; (2000) 171 ALR 598 , Gleeson CJ, Gaudron, McHugh, Kirby and Callinan JJ stated (at 606):\n \n\"40 The state of satisfaction referred to in s 40(1)(g) , and s 41(7) , involves weighing up considerations as to the legal and factual merit of the claim relied upon by the debtor, and the justice of allowing the bankruptcy proceedings to go ahead or requiring them to await the determination of the claim.",
+      "id": "s209"
+    },
+    {
+      "text": "\"\n \n Plainly, in order to \"satisfy\" the Court for the purposes of par 40(1)(g), the debtor is not required to prove, as on a final hearing, the asserted entitlement to recover from the creditor.",
+      "id": "s210"
+    },
+    {
+      "text": "Accordingly, evidence tendered on an application to set aside is to be tested for admissibility, not as if the proceeding were one in which the debtor's claim was being finally determined, but by reference to the question whether the Court should be satisfied that the debtor has a claim deserving to be finally determined.",
+      "id": "s211"
+    },
+    {
+      "text": "Perhaps little more can usefully be said than that a debtor must satisfy the Court that there is sufficient substance to the counter-claim, set-off or cross demand asserted to make it one which the debtor should, in justice, be permitted to have heard and determined in the usual way, rather than be forced to comply with the bankruptcy notice by payment or to commit an act of bankruptcy.",
+      "id": "s212"
+    },
+    {
+      "text": "Mr Young's supposed affidavit verifying the material quoted at [57] above could not even begin properly to satisfy the Federal Magistrates Court that Mr Young had a counter-claim against ICM in an amount equal to or exceeding the amount of ICM's judgment against him.",
+      "id": "s213"
+    },
+    {
+      "text": "Mr Young submits that the point raised by the first ground of appeal was not raised before the Federal Magistrate until closing submissions, by which time it was too late for it to be raised.",
+      "id": "s214"
+    },
+    {
+      "text": "The notice stating grounds of opposition to the application to set aside the Bankruptcy Notice stated as a ground that Mr Young did not have a prima facie counter-claim, set-off or counter demand [sic] \"within the meaning of s 40(1)(g) of the [Bankruptcy Act]\".",
+      "id": "s215"
+    },
+    {
+      "text": "In order to be within s 40(1)(g) , a counter-claim, set-off or cross demand must be for an amount that is equal to or exceeds the amount of the judgment debt.",
+      "id": "s216"
+    },
+    {
+      "text": "Accordingly, there is no substance in Mr Young's argument that the point was raised too late below.",
+      "id": "s217"
+    },
+    {
+      "text": "ICM's first ground of appeal succeeds, subject to resolution of Mr Young's application to lead evidence on the appeal (see [130] below).",
+      "id": "s218"
+    },
+    {
+      "text": "Ground 2(a): Did the alleged counter-claim have insufficient legal or factual merit?",
+      "id": "s219"
+    },
+    {
+      "text": "This ground of appeal refers to AAC's supposed claim against ICM.",
+      "id": "s220"
+    },
+    {
+      "text": "It does not take into account the challenge to the validity of the assignment which is left to Ground 2(b) which is discussed at [116]ff below.",
+      "id": "s221"
+    },
+    {
+      "text": "ICM relies on the 29 May 2003 meeting and submits that the effect of the discussions at that meeting should be analysed as one of three: \n(i) Mr Young's acknowledgement that Namoi would not be in a position to complete the Commercial Crop Contract by 30 June 2003 amounted to a wrongful repudiation of both the Commercial Crop Contract and the Grower's licence, and that that repudiation was accepted by ICM, so that ICM was discharged from its obligations under both of those contracts;\n \n(ii) Both of the contracts were varied so that AAC and Namoi agreed that ICM was to maintain control and ownership of the chickpeas and eventually to market them over time, and the sale by ICM of Chickpeas to Agrinational Pty Ltd between 18 and 21 August 2003 was consistent with the contracts as varied;\n \n(iii) Even if both agreements remained on foot and unvaried, the request by Mr Young that ICM maintain control and ownership of the chickpeas and eventually market them over time was either a direction given by AAC under cl 8 of the Grower's Licence or, alternatively gives rise to an estoppel, at least once ICM had acted in reliance on Mr Young's request by selling the chickpeas.",
+      "id": "s222"
+    },
+    {
+      "text": "I agree with ICM that the Federal Magistrate did not address the effect of the events of early June 2003 on the contractual relations between ICM, Namoi and AAC.",
+      "id": "s223"
+    },
+    {
+      "text": "Mr Young submits that the Grower's Licence must be seen as independent of the Commercial Crop Contract.",
+      "id": "s224"
+    },
+    {
+      "text": "He further submits that AAC's rights and ICM's obligations under the Grower's Licence were not able to be compromised by anything done by Mr Young, representing Namoi as a contracting party in its own right under the Commercial Crop Contract.",
+      "id": "s225"
+    },
+    {
+      "text": "At other times, however, Mr Young emphasised his role in providing the link between the two contracts.",
+      "id": "s226"
+    },
+    {
+      "text": "In my view the Sublicence, the Grower's Licence and the Commercial Crop Contract are all closely interrelated.",
+      "id": "s227"
+    },
+    {
+      "text": "According to a notation on them, AAC claims to own the copyright in the three forms.",
+      "id": "s228"
+    },
+    {
+      "text": "It will be recalled that by cl 2.7.1 of the Sublicence, Namoi agreed that title should pass from AAC only upon receipt of payment by it from Namoi, or in the case of any products governed by a closed loop market arrangement, title was to remain always with AAC, Namoi being entitled only to license the use of the seeds to the consumer.",
+      "id": "s229"
+    },
+    {
+      "text": "It will be also recalled that by cl 3.5.3 Namoi was to pay AAC within 30 days of the issue of an invoice.",
+      "id": "s230"
+    },
+    {
+      "text": "As indicated earlier, I construe item 8 of Schedule 1 to the Sublicence as having obliged Namoi to pay AAC $15.00 per metric tonne of all commercial production of Bumper Kabulis.",
+      "id": "s231"
+    },
+    {
+      "text": "I referred to the Grower's Licence at [11] to [18] above.",
+      "id": "s232"
+    },
+    {
+      "text": "Both parties accept that AAC was the Licensor.",
+      "id": "s233"
+    },
+    {
+      "text": "Aspects of the Grower's Licence were consistent with the Sublicence and with Mr Young's submission.",
+      "id": "s234"
+    },
+    {
+      "text": "Thus, Namoi, as agent for AAC, granted ICM a licence to use the seed by planting and cultivating it, and by cl 9 ICM undertook not to sell the seed or the product and acknowledged that it did not have title to either the seed or product.",
+      "id": "s235"
+    },
+    {
+      "text": "However, there are difficulties in reading the Grower's Licence and the Commercial Crop Contract independently of each other.",
+      "id": "s236"
+    },
+    {
+      "text": "The Grower's Licence frequently refers to AAC \"or their Agent\" --- a reference to Namoi.",
+      "id": "s237"
+    },
+    {
+      "text": "The Grower's Licence foreshadows the making of a more detailed contract to implement the Grower's Licence.",
+      "id": "s238"
+    },
+    {
+      "text": "Clause 2 of the Grower's Licence provides: \n The Grower acknowledges and agrees that the said seed shall be grown under contract ... (my emphasis) \n\n \nThis suggests a reference to AAC's copyright form of Commercial Crop Contract that was attached.",
+      "id": "s239"
+    },
+    {
+      "text": "I say \"form\" because apparently it was not executed until 9 July 2002.",
+      "id": "s240"
+    },
+    {
+      "text": "When cl 3 of the Grower's Licence provides that ICM is not to release the seed or plant material \"to any other person or company whatsoever\" it seems to mean any person or company other than AAC or its agent, Namoi, who were referred to in the immediately preceding clause in the expression \"the Licensor or their Agent\".",
+      "id": "s241"
+    },
+    {
+      "text": "I referred to cl 8 at [16] above.",
+      "id": "s242"
+    },
+    {
+      "text": "Clause 9 (admittedly not cl 12) of the Commercial Crop Contract gave ICM an \"option of storing the product on farm in a facility approved by the licensor\".",
+      "id": "s243"
+    },
+    {
+      "text": "The reference to \" section 12 \" in cl 8 of the Grower's Licence must surely be a reference to cl 9 of the Commercial Crop Contract.",
+      "id": "s244"
+    },
+    {
+      "text": "I referred to cl 9 of the Grower's Licence at [17] above.",
+      "id": "s245"
+    },
+    {
+      "text": "The expression \"to any other party\" seems to mean to any party other than AAC or its agent Namoi since \"the Licensor or their Agent\" was referred to in the immediately preceding clause.",
+      "id": "s246"
+    },
+    {
+      "text": "I referred to cl 10 at [18] above.",
+      "id": "s247"
+    },
+    {
+      "text": "Clause 10 was as follows: \n The Licensor or their agent shall sell the seed or product delivered to it by the grower (or otherwise subject to this agreement) via the payment schedule as per attachment.",
+      "id": "s248"
+    },
+    {
+      "text": "Clause 10 appears to be a promise by AAC to ICM that AAC or Namoi will sell seed and product delivered to \"it\" by ICM \"via the payment schedule as per attached\".",
+      "id": "s249"
+    },
+    {
+      "text": "It is common ground that at least the form of the Commercial Crop Contract was attached.",
+      "id": "s250"
+    },
+    {
+      "text": "There is a sort of payment schedule in cl 4 of the Commercial Crop Contract.",
+      "id": "s251"
+    },
+    {
+      "text": "That clause listed \"Guaranteed Minimum Prices\" promised to ICM as the grower.",
+      "id": "s252"
+    },
+    {
+      "text": "It appears that either AAC was, through its agent Namoi, a party to the Commercial Crop Contract as a principal whose existence and identity were not disclosed on the face of that document, or at least the agent Namoi entered into the Commercial Crop Contract in its own right but AAC approved of its doing so as the necessary and contemplated means of implementing the Grower's Licence.",
+      "id": "s253"
+    },
+    {
+      "text": "Even on the latter basis, it is arguable that AAC was bound by Mr Young's conduct on behalf of Namoi in the discussion on 29 May 2003.",
+      "id": "s254"
+    },
+    {
+      "text": "The date fixed for completion of the Commercial Crop Contract, 30 June 2003, was not intended to be of the essence of that contract.",
+      "id": "s255"
+    },
+    {
+      "text": "I mean that ICM was not entitled immediately following 30 June to terminate the contractual relationship for Namoi's failure to pay on that date.",
+      "id": "s256"
+    },
+    {
+      "text": "This is demonstrated by the second and last sentences of cl 3(c).",
+      "id": "s257"
+    },
+    {
+      "text": "The whole of cl 3(c) is as follows: \n Subject to normal seasonal conditions, delivery and payment under this contract is to be completed prior to 30 June 2003.",
+      "id": "s258"
+    },
+    {
+      "text": "If due to extraneous circumstances by either party that this contract is not completed by this date then mediation with regards to settlement terms must occur.",
+      "id": "s259"
+    },
+    {
+      "text": "A suggestion is that if the Grower is deemed to be at fault they would not charge the Licensor carry (storage) from this date and the credit limit in place would be renegotiated.",
+      "id": "s260"
+    },
+    {
+      "text": "If the Licensor is deemed to be at fault then a negotiated percentage of the balance of the products to be paid at this date.",
+      "id": "s261"
+    },
+    {
+      "text": "Namoi was apparently relying on market prices being in excess of the Guaranteed Minimum Prices that Namoi promised to pay ICM.",
+      "id": "s262"
+    },
+    {
+      "text": "Because of the lower market price for chickpeas, Namoi was unable to pay ICM the amount of the Guaranteed Minimum Prices --- an amount of approximately $780,000.",
+      "id": "s263"
+    },
+    {
+      "text": "AAC did not offer to pay this amount either.",
+      "id": "s264"
+    },
+    {
+      "text": "There is a question whether the expression \"extraneous circumstances\" in cl 3(c) included the fall in market price and its effect on Namoi's capacity to pay ICM.",
+      "id": "s265"
+    },
+    {
+      "text": "At the meeting on 29 May 2003, Mr Young told Mr Hoppe and Shears that Namoi would not be able to pay on 30 June, and the parties negotiated just as they would have had to do if Namoi had waited until 30 June and committed an actual breach at that time.",
+      "id": "s266"
+    },
+    {
+      "text": "The email of 2 June 2003 from Mr Hoppe to Mr Young is in part uncontroversial but in part not so.",
+      "id": "s267"
+    },
+    {
+      "text": "It was uncontroversial that Namoi would be unable to pay ICM by 30 June 2003 and would therefore breach the Commercial Crop Contract.",
+      "id": "s268"
+    },
+    {
+      "text": "Mr Hoppe purported to record Mr Young's request that ICM \"maintain control and ownership of the chickpeas and eventually... market those chickpeas over time, under an open book arrangement to mitigate... losses if possible.",
+      "id": "s269"
+    },
+    {
+      "text": "\" After prevaricating, Mr Young agreed before the Federal Magistrate that he had advanced that proposition to Messrs Hoppe and Shears on 29 May 2003.",
+      "id": "s270"
+    },
+    {
+      "text": "Mr Young replied on 3 June 2003 that \"in essence\" Mr Hoppe's email represented the discussion except that it was his [Mr Young's] interpretation that ICM was to look at its own cash flow requirements over the next six months (July to December 2003) and its cash flow requirements would determine when the selling of the Kabuli Chickpeas would occur.",
+      "id": "s271"
+    },
+    {
+      "text": "Mr Young asked for clarification on that point.",
+      "id": "s272"
+    },
+    {
+      "text": "Mr Hoppe's letter raised several questions.",
+      "id": "s273"
+    },
+    {
+      "text": "The words \"eventually\" and \"over time\" suggest that it had not been agreed that ICM was entitled to sell all the chickpeas at the one time, as it did from 18 to 21 August 2003.",
+      "id": "s274"
+    },
+    {
+      "text": "This is a point that was taken up in Mr Young's reply.",
+      "id": "s275"
+    },
+    {
+      "text": "It appears that Mr Young's negotiation on behalf of Namoi may well have bound AAC on the basis that AAC authorised Namoi to represent it in implementing the Grower's Licence.",
+      "id": "s276"
+    },
+    {
+      "text": "The numerous references to \"the Licensor or their Agent\" in the Grower's Licence and the other considerations referred to at [90] to [96] above suggest as much.",
+      "id": "s277"
+    },
+    {
+      "text": "The Federal Magistrate did not consider the effect of the conversation on 29 May 2003 and erred in that respect.",
+      "id": "s278"
+    },
+    {
+      "text": "On 7 July 2003, well before ICM sold the chickpeas, in a letter which, like virtually every other document in the case, left much to be desired in terms of clarity, Mr Young asserted, inter alia, that the Commercial Crop Contract was the subject of a \"closed loop marketing arrangement\" and that Namoi was an agent of another company, no doubt a reference to AAC, \"governing this Licence\" so that Namoi was not in a position to vary the closed loop marketing arrangement.",
+      "id": "s279"
+    },
+    {
+      "text": "ICM submits that this letter was not admissible as evidence of what happened in the conversation on 29 May 2003.",
+      "id": "s280"
+    },
+    {
+      "text": "This seems to be clearly correct.",
+      "id": "s281"
+    },
+    {
+      "text": "It was a statement by one party well after the event, made with the benefit of reflection, hindsight and legal advice.",
+      "id": "s282"
+    },
+    {
+      "text": "There is a reference to \"Closed Loop Marketing Agreement\" in the heading to cl 10 of the Commercial Crop Contract but the content of that clause does not illuminate the significance of the expression.",
+      "id": "s283"
+    },
+    {
+      "text": "Recital B in the Sublicence stated: \n In the event the variety or line in question is operating under a closed loop marketing agreement, The Agent is to continue on an uphold this agreement in all of its documentation and contractual arrangements.",
+      "id": "s284"
+    },
+    {
+      "text": "Although a recital, that may have been a promise by Namoi to AAC.",
+      "id": "s285"
+    },
+    {
+      "text": "Clause 2.7 of the Sublicence, under the heading \"Title and Risk of Product\", provided: \n 2.7.1 Title in the Product shall pass from [AAC] to the consumer according to law, upon receipt of payment by [AAC] from [Namoi].",
+      "id": "s286"
+    },
+    {
+      "text": "Or in the case of any products being governed by a closed loop marketing arrangement title in the product will always remain with [AAC] and [Namoi] will be entitled to license the use of the product to the consumer.",
+      "id": "s287"
+    },
+    {
+      "text": "2.7.2 Risk in the Product passes from [AAC] to [Namoi] upon delivery of the Products from the consumer.",
+      "id": "s288"
+    },
+    {
+      "text": "All of the documents are vague on the issue, but it seems that there was a closed loop marketing arrangement in the sense that ICM was not at liberty to sell outside the loop, the only entities within the loop being AAC, Namoi and ICM.",
+      "id": "s289"
+    },
+    {
+      "text": "However, it seems to have been within Namoi's actual or ostensible authority for AAC to negotiate as it did on 29 May 2003 so as to bind AAC.",
+      "id": "s290"
+    },
+    {
+      "text": "What I have said to date demonstrates that the question whether ICM was liable to AAC for breach of the Grower's Licence raised many complex questions, perhaps the most vexed of which is whether a concluded agreement was reached on 29 May 2003.",
+      "id": "s291"
+    },
+    {
+      "text": "Counsel for Mr Young submits that it was not.",
+      "id": "s292"
+    },
+    {
+      "text": "The Federal Magistrate's approach was simple: there was a prima facie liability of ICM to AAC because prima facie ICM sold the chickpeas to a party other than AAC.",
+      "id": "s293"
+    },
+    {
+      "text": "This was altogether too simple an approach.",
+      "id": "s294"
+    },
+    {
+      "text": "I have used expressions above such as \"it seems\", \"it is arguable that\" and \"it appears\" to emphasise that I do not decide finally.",
+      "id": "s295"
+    },
+    {
+      "text": "There are, however, two other obstacles to the establishment of a prima facie case of ICM's liability to AAC.",
+      "id": "s296"
+    },
+    {
+      "text": "First, even if all of the facts and conclusions referred to in Mr Young's District Court statement of claim were proved, he would have failed because his claim as formulated does not fit within either the first or second limb of Hadley v Baxendale (1854) 9 Exch 341 (156 ER 145); see Castle Constructions Pty Ltd v Fekala Pty Ltd (2006) 65 NSWLR 648 at [34], [39].",
+      "id": "s297"
+    },
+    {
+      "text": "The leading of evidence of value on the appeal would not have overcome this problem.",
+      "id": "s298"
+    },
+    {
+      "text": "A complete reformulation of the alleged counter-claim would have been necessary.",
+      "id": "s299"
+    },
+    {
+      "text": "Second, in so far as AAC's losses are said to relate to \"Royalties Due and Payable\" in accordance with the Sublicence, those losses could not properly be said to have been caused by a breach of the Grower's Licence by ICM.",
+      "id": "s300"
+    },
+    {
+      "text": "They were caused by the insolvency of Namoi.",
+      "id": "s301"
+    },
+    {
+      "text": "It will be recalled that a voluntary administrator was appointed to Namoi on 11 July 2003, only four days after Mr Young wrote his letter of 7 July 2003 on the letterhead of Namoi.",
+      "id": "s302"
+    },
+    {
+      "text": "The creditors of Namoi passed a special resolution for the winding up of the company on 8 August 2003.",
+      "id": "s303"
+    },
+    {
+      "text": "For the two reasons last given, Mr Young could not have properly satisfied the Federal Magistrate that ICM was liable to AAC.",
+      "id": "s304"
+    },
+    {
+      "text": "I acknowledge that the second reason relates to only $54,855 of the total counter-claim of $257,355.",
+      "id": "s305"
+    },
+    {
+      "text": "The balance of $202,500 still exceeds (just) the amount of the Bankruptcy Notice of $198,278.06.",
+      "id": "s306"
+    },
+    {
+      "text": "Ground 2(b): the validity of the assignment\n Challenging the validity of the assignment, ICM relied on two propositions before the Federal Magistrate: \n(a) The cause of action was unable to be assigned by AAC to Mr Young because it was a bare cause of action and Mr Young had no genuine commercial interest to support he assignment (ICM cited Salfinger v Niugini Mining (Australia) Pty Ltd (No 3) [2007] FCA 1532 at [108] - [124] ; Monk v The Australian &amp; New Zealand Banking Group Limited (1994) 34 NSWLR 148 at 152 ( Monk )); \n \n(b) The assignment was procured in breach of fiduciary duties owed by Mr Young to the shareholders of AAC, and on this basis the proper exercise of the Court's discretion would be to refuse to set aside the Bankruptcy Notice (ICM cited Re Daley; ex parte National Australia Bank Ltd (1992) 37 FCR 390 at 395 ( Daley )).",
+      "id": "s307"
+    },
+    {
+      "text": "The Federal Magistrate said that his preliminary assessment on the material before him raised doubts as to the validity of the assignment, but he was not satisfied that there was sufficient evidence to make a final decision on the issue, which needed to be \"fully ventilated and judicially decided\" (at [54]).",
+      "id": "s308"
+    },
+    {
+      "text": "At [24] of the Reasons for Judgment the Federal Magistrate found that Mr Young had \"a clear and genuine commercial interest in the enforcement of the claim against ICM\" because Mr Young had a shareholder interest in AAC and had guaranteed the liability of AAC under the Commercial Crop Contract.",
+      "id": "s309"
+    },
+    {
+      "text": "In fact, Mr Young was not a shareholder in AAC and had not guaranteed a liability of AAC under the Commercial Crop Contract.",
+      "id": "s310"
+    },
+    {
+      "text": "His Honour cited Heerey's decision in Daley.",
+      "id": "s311"
+    },
+    {
+      "text": "In Daley , the debtor, Mr Daley was a director and the sole beneficial shareholder of certain companies, and had guaranteed their liability to a bank.",
+      "id": "s312"
+    },
+    {
+      "text": "The bank had a judgment against Mr Daley on credit card liabilities and served a bankruptcy notice on him.",
+      "id": "s313"
+    },
+    {
+      "text": "One of the companies sued the bank for $45,811.28 which represented the total of the amounts of cheques drawn on the company's account which the bank had, allegedly wrongfully, honoured.",
+      "id": "s314"
+    },
+    {
+      "text": "That company, for a consideration of $1.00, assigned \"the Debt\" to Mr Daley.",
+      "id": "s315"
+    },
+    {
+      "text": "Daley is distinguishable because, first, Mr Young was not a guarantor of AAC; second, what was assigned in Daley was a debt rather than a bare cause of action for unliquidated damages for breach of contract as in the present case; and, third, Mr Daley was the sole shareholder in the assignor.",
+      "id": "s316"
+    },
+    {
+      "text": "At the date of the assignment, Mr Young held no shares in AAC.",
+      "id": "s317"
+    },
+    {
+      "text": "As noted at [51]-[54] above, it is agreed that the appeal is to be determined on the basis that at the time of the assignment Young's Rural Services Pty Ltd held one of six shares issued in AAC and Mr Young was the sole director and shareholder of Young's Rural Services Pty Ltd. The present case concerns an assignment of a bare cause of action for unliquidated damages for breach of contract, not of a property right to which a cause of action is ancillary.",
+      "id": "s318"
+    },
+    {
+      "text": "The parties accepted that in these circumstances the assignment could be sustained only if Mr Young had a genuine commercial interest in taking the assignment and enforcing it for his own benefit: see Trendtex Trading Corporation v Credit Suisse [1982] AC 679 at 703, which has been followed in many cases in Australia including, but not limited to, Re Timothy's Pty Ltd and the Companies Act [1981] 2 NSWLR 706; Commonwealth v Ling (1993) 44 FCR 397 ; National Mutual Property Services (Australia) Pty Ltd v Citibank Savings Ltd (1995) 132 ALR 514 ; and see G Tolhurst, The Assignment of Contractual Rights (Hart Publishing, 2006) at [6.59]ff .",
+      "id": "s319"
+    },
+    {
+      "text": "In my opinion, Mr Young's indirect interest as sole shareholder of Young's Rural Services Pty Ltd which owned one sixth of the share capital of AAC did not give him a genuine commercial interest of the kind required in the present area of discourse.",
+      "id": "s320"
+    },
+    {
+      "text": "Mr Young's interest was his personal interest in defeating the Bankruptcy Notice.",
+      "id": "s321"
+    },
+    {
+      "text": "The circumstances of the present case are analogous to those in Monk in which the assignee's interest was that of obtaining a set-off against a judgment debt.",
+      "id": "s322"
+    },
+    {
+      "text": "In that case, Cohen J said (at 153): \n The plaintiff's only apparent interest is in the possibility of his becoming a creditor of the Bank.",
+      "id": "s323"
+    },
+    {
+      "text": "That is, his interest is in using the debt which might arise from the cause of action for his personal benefit.",
+      "id": "s324"
+    },
+    {
+      "text": "That no doubt is the interest of any assignee.",
+      "id": "s325"
+    },
+    {
+      "text": "The using of the debt as a set-off against the judgment debt is merely an example of obtaining some personal benefit.",
+      "id": "s326"
+    },
+    {
+      "text": "In that regard the plaintiff is in no stronger position than he would be if he had obtained an assignment of a cause of action for negligence by a customer of the Bank who claimed to have suffered injuries arising from unsafe premises.",
+      "id": "s327"
+    },
+    {
+      "text": "In the authorities where the Trendtex test has been applied, the commercial interest has gone beyond a mere personal interest in profiting from the outcome of the proceedings and has required an interest by the assignee in the assignor or its business affairs or activities which the assignment may in some way protect.",
+      "id": "s328"
+    },
+    {
+      "text": "These observations are applicable, mutatis mutandis , to the present case.",
+      "id": "s329"
+    },
+    {
+      "text": "It is not as though, for example, it is suggested that AAC cannot, or will not, for some reason, enforce its cause of action against ICM and that the only means of the enforcement is for Mr Young to purchase it from AAC and enforce himself, or that ICM's claim against Mr Young was founded on a liability of AAC which Mr Young had guaranteed.",
+      "id": "s330"
+    },
+    {
+      "text": "ICM also submits that the assignment is to be impugned on the ground that Mr Young procured it in breach of his fiduciary duty, as a director of AAC, to the shareholders of AAC.",
+      "id": "s331"
+    },
+    {
+      "text": "As noted at [51]-[54] above, five out of the six issued shares in the capital of AAC at the date of the assignment were held by IDAC Investments Pty Ltd, The Lentil Company Pty Ltd and Patrick Griffiths.",
+      "id": "s332"
+    },
+    {
+      "text": "In evidence before the Federal Magistrate, Mr Young acknowledged that he had no board minute or other written consent from any of the shareholders to his taking the assignment from AAC.",
+      "id": "s333"
+    },
+    {
+      "text": "The Federal Magistrate said (at [56]) that the issue of breach of fiduciary duty needed to be ventilated at a hearing.",
+      "id": "s334"
+    },
+    {
+      "text": "His Honour observed that many proprietary companies operating without trained administrative and secretarial staff may not comply with correct procedures, and that it may have been the intention of the shareholders in AAC that its claim against ICM be assigned to Mr Young after all.",
+      "id": "s335"
+    },
+    {
+      "text": "I think that the Federal Magistrate was entitled to conclude that the question of breach of fiduciary duty was one that needed to be fully ventilated on a hearing.",
+      "id": "s336"
+    },
+    {
+      "text": "Mr Young put into evidence a deed of assignment that ex facie was valid at law to assign AAC's cause of action.",
+      "id": "s337"
+    },
+    {
+      "text": "There was no evidence of the attitude of the other shareholders in AAC to the assignment.",
+      "id": "s338"
+    },
+    {
+      "text": "It may be that they had acquiesced in it or that if they had not done so they did not wish to enforce any claim against Mr Young for breach of his fiduciary duty.",
+      "id": "s339"
+    },
+    {
+      "text": "Further, a breach of fiduciary duty does not itself, and without more, invalidate the assignment ab initio .",
+      "id": "s340"
+    },
+    {
+      "text": "Whether the deed was to be set aside would be a matter for a court adjudicating upon the claim of breach of fiduciary duty.",
+      "id": "s341"
+    },
+    {
+      "text": "The Federal Magistrate did not err in considering that the breach of fiduciary duty aspect needed to be explored at a final hearing.",
+      "id": "s342"
+    },
+    {
+      "text": "CONCLUSION \n Since I have concluded that quite apart from Ground 1, Grounds 2(a) and 2(b) in certain respects both succeed, the application for leave to lead evidence on the appeal is otiose.",
+      "id": "s343"
+    },
+    {
+      "text": "The appeal should be allowed, the orders below be set aside, the application to the Federal Magistrates Court to set aside the Bankruptcy Notice be dismissed, and Mr Young be ordered to pay ICM's costs at the trial and on the appeal.",
+      "id": "s344"
+    },
+    {
+      "text": "I certify that the preceding one hundred and thirty-one (131) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Lindgren.",
+      "id": "s345"
+    },
+    {
+      "text": "Associate:\nDated: 19 February 2009\n \n Counsel for the Appellant: Mr E Muston \n \n Solicitors for the Appellant: Swaab Attorneys \n \n Counsel for the Respondent: Mr D Rayment \n \n Solicitors for the Respondent: Thomson Playford Cutlers \n Date of Hearing: 7, 24 November 2008 \n \n Date on which last submission received: 9 February 2009 \n \n Date of Judgment: 19 February 2009 \n \n \n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2009/109.html",
+      "id": "s346"
+    }
+  ]
+}

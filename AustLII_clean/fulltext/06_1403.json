@@ -1,0 +1,2528 @@
+{
+  "name": "Australian Naturalcare Products Pty Ltd v McGrath; inthe matter of Pan Pharmaceuticals Limi [2006] FCA 1403 (31 October 2006)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2006/1403.html",
+  "catchphrases": [
+    {
+      "text": "s 52 of the trade practices act 1974 (cth)",
+      "id": "c0"
+    },
+    {
+      "text": "contract as a representation as to ability to supply goods in light of history of dealings between the parties",
+      "id": "c1"
+    },
+    {
+      "text": "no contract spelled out of course of dealing",
+      "id": "c2"
+    },
+    {
+      "text": "integers of promissory estoppel not made out",
+      "id": "c3"
+    },
+    {
+      "text": "no duty to continue to supply goods damages",
+      "id": "c4"
+    },
+    {
+      "text": "assessment where representation as to ability to supply goods to reseller misleading and supply ceased",
+      "id": "c5"
+    },
+    {
+      "text": "trade practices",
+      "id": "c6"
+    },
+    {
+      "text": "contract",
+      "id": "c7"
+    },
+    {
+      "text": "estoppel",
+      "id": "c8"
+    },
+    {
+      "text": "tort",
+      "id": "c9"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "INTRODUCTION \n \n 1 Pan Pharmaceuticals Limited was a substantial contract manufacturer of complementary medicines, or medicines that generally do not require prescription by a medical practitioner and can be obtained from retail outlets such as pharmacies, supermarkets and health food stores.",
+      "id": "s0"
+    },
+    {
+      "text": "It held a licence pursuant to the regime established by the Therapeutic Goods Act 1989 (Cth) (the TGA Act) and was obliged to comply with the requirements of the licence in manufacturing its products.",
+      "id": "s1"
+    },
+    {
+      "text": "On 28 April 2003 the Therapeutic Goods Administration (TGA) suspended the licence.",
+      "id": "s2"
+    },
+    {
+      "text": "Pan could not manufacture or sell any more goods covered by the TGA Act and was obliged to recall goods it had sold.",
+      "id": "s3"
+    },
+    {
+      "text": "The licence was never restored.",
+      "id": "s4"
+    },
+    {
+      "text": "Pan became insolvent and was ultimately wound up.",
+      "id": "s5"
+    },
+    {
+      "text": "2 The applicant, Australian Naturalcare Products Pty Ltd (Naturalcare), was one casualty of these events.",
+      "id": "s6"
+    },
+    {
+      "text": "It sold complementary medicines by mail order.",
+      "id": "s7"
+    },
+    {
+      "text": "It purchased most of its stock from Pan, and had done so for many years.",
+      "id": "s8"
+    },
+    {
+      "text": "The recall of goods in stock, the inability of Pan to supply orders that had been accepted and the loss of Pan as a future supplier caused major disruption to its business.",
+      "id": "s9"
+    },
+    {
+      "text": "Naturalcare lodged a proof of debt claiming a substantial sum to compensate for this disruption.",
+      "id": "s10"
+    },
+    {
+      "text": "The liquidator has allowed amounts in relation to goods recalled and the failure to supply accepted orders but has denied liability otherwise.",
+      "id": "s11"
+    },
+    {
+      "text": "Naturalcare sues for damages for the disruption to its business.",
+      "id": "s12"
+    },
+    {
+      "text": "3 The essence of the case for Naturalcare is that, in one way or another, Pan guaranteed the continued supply of products that complied with TGA requirements.",
+      "id": "s13"
+    },
+    {
+      "text": "Liability is put on various bases, including contract, tort, estoppel and breach of s 52 of the Trade Practices Act 1974 (Cth).",
+      "id": "s14"
+    },
+    {
+      "text": "Each basis depends upon the course of business dealing between Naturalcare and Pan which commenced in 1989.",
+      "id": "s15"
+    },
+    {
+      "text": "BACKGROUND \n Therapeutic Goods Act 1989 (Cth) and the therapeutic goods legislative regime \n \n 4 Until the TGA Act established the TGA, there was no single authority responsible for the regulation of therapeutic goods in Australia.",
+      "id": "s16"
+    },
+    {
+      "text": "The objects of the TGA Act are set out in s 4 and include the provision of a national framework for the regulation and control of therapeutic goods and medical devices to ensure their safety, quality, efficacy and timely availability to consumers.",
+      "id": "s17"
+    },
+    {
+      "text": "5 A 'therapeutic good' under the TGA Act is broadly defined as a good which is represented in any way to be, or is likely to be taken to be, for therapeutic use (unless specifically excluded or included under s 7 of the TGA Act, which provides for a declaration that goods are or are not therapeutic goods by the Secretary of the Department of Health and Aging).",
+      "id": "s18"
+    },
+    {
+      "text": "'Therapeutic use' is defined in s 3 of the TGA Act.",
+      "id": "s19"
+    },
+    {
+      "text": "6 The TGA Act applies to therapeutic goods used in Australia (whether produced in Australia or elsewhere) and to therapeutic goods that are exported from Australia.",
+      "id": "s20"
+    },
+    {
+      "text": "It sets out the legal requirements for manufacturing, supplying and importing of medicines into Australia as well as the requirements for listing or registering all medicines on the Australian Register of Therapeutic Goods (the Register).",
+      "id": "s21"
+    },
+    {
+      "text": "It also regulates advertising, labelling and product appearance.",
+      "id": "s22"
+    },
+    {
+      "text": "The TGA Act is supplemented by regulations and various orders and determinations.",
+      "id": "s23"
+    },
+    {
+      "text": "The Australian Code of Good Manufacturing Practice for Therapeutic Goods --- Medicinal Products (the Code) is of particular importance in this case.",
+      "id": "s24"
+    },
+    {
+      "text": "7 The Register was established under Pt 3 of the TGA Act.",
+      "id": "s25"
+    },
+    {
+      "text": "The Register is a database of information about therapeutic goods for human use which are approved for supply in, or export from, Australia.",
+      "id": "s26"
+    },
+    {
+      "text": "Any product claiming to have therapeutic qualities must either be listed or registered in the Register before it can be supplied in Australia, unless it is specifically excluded or exempt.",
+      "id": "s27"
+    },
+    {
+      "text": "As a general rule, higher risk medicines are registered and lower risk medicines are listed.",
+      "id": "s28"
+    },
+    {
+      "text": "The assessment of a product's 'risk' will largely depend on its ingredients, its form of dosage and the promotional or therapeutic claims made for the product.",
+      "id": "s29"
+    },
+    {
+      "text": "Many complementary medicines are listed in the Register and some are registered.",
+      "id": "s30"
+    },
+    {
+      "text": "8 The application to have a product listed or registered is made by a 'sponsor'.",
+      "id": "s31"
+    },
+    {
+      "text": "Under s 3 of the TGA Act, a sponsor is someone who imports, exports, manufactures or has therapeutic goods imported or manufactured on its behalf, but does not include someone who arranges or personally imports, exports or manufactures therapeutic goods on behalf of another if that person is a resident of, or carrying on business in, Australia.",
+      "id": "s32"
+    },
+    {
+      "text": "To apply for registration, a sponsor needs to supply product specifications and analytical reports.",
+      "id": "s33"
+    },
+    {
+      "text": "Necessary product specifications include the formula (generally by way of a formulation certificate), the ingredients including quantities, the size and shape of the pill and a copy of the proposed label.",
+      "id": "s34"
+    },
+    {
+      "text": "The analytical report identifies the ingredients and their strength and how this supports the therapeutic claims made on the product's behalf.",
+      "id": "s35"
+    },
+    {
+      "text": "9 A sponsor's product must be manufactured by an authorised manufacturer in order for the product to be registered.",
+      "id": "s36"
+    },
+    {
+      "text": "All applications by sponsors of a proposed therapeutic good must specify which approved manufacturer is to produce the product if registration is to be successful.",
+      "id": "s37"
+    },
+    {
+      "text": "Australian manufacturers of therapeutic goods have to be licensed under Pt 4 of the TGA Act.",
+      "id": "s38"
+    },
+    {
+      "text": "Manufacturers must also comply with the principles of the Code.",
+      "id": "s39"
+    },
+    {
+      "text": "Clause 699 of the Code states: \n \n 'To ensure that the responsibilities of both parties are clearly understood and recorded, the arrangements and responsibilities for every aspect of manufacture and quality control that is relevant to Good Manufacturing Practice, for each product made under contract, must be unambiguously specified in writing in a \"Specification of GMP Responsibilities\", or equivalent document, signed by a representative of both parties ...' \n \n \n 10 Naturalcare (as sponsor) and Pan (as manufacturer) entered into a series of GMP or Manufacturing Agreements to satisfy the requirements of cl 699.",
+      "id": "s40"
+    },
+    {
+      "text": "Those Manufacturing Agreements are outlined in greater detail below.",
+      "id": "s41"
+    },
+    {
+      "text": "Pan \n \n 11 Selim was the Chief Executive Officer, a director and a shareholder of Pan Laboratories Pty Limited from the time it was established in 1974 until 1999.",
+      "id": "s42"
+    },
+    {
+      "text": "In 1999, the manufacturing business conducted by Pan Laboratories Pty Limited was transferred to Pan Laboratories (Australia) Pty Limited (which was renamed Jimang Pty Limited on 2 February 2000) and was carried on by it until March 2000 when the business was transferred to Pan Pharmaceuticals Limited.",
+      "id": "s43"
+    },
+    {
+      "text": "From 1999 to 2000, Selim was the Chief Executive Officer, a director and a majority shareholder of Pan Laboratories (Australia) Pty Limited.",
+      "id": "s44"
+    },
+    {
+      "text": "When Pan Pharmaceuticals Limited was listed on the Australian Stock Exchange on 23 August 2000, Selim became the Chief Executive Officer, a director and the majority shareholder of the company.",
+      "id": "s45"
+    },
+    {
+      "text": "Hereafter, 'Pan' refers to whichever entity was conducting the manufacturing business from 1974 to April 2003 except where it becomes necessary to distinguish between the corporate entities.",
+      "id": "s46"
+    },
+    {
+      "text": "12 Selim's job involved day to day contact with sponsors to encourage them to buy Pan's new and existing products.",
+      "id": "s47"
+    },
+    {
+      "text": "Between 1974 and 1988 he was the only person at Pan working in a marketing position.",
+      "id": "s48"
+    },
+    {
+      "text": "Between 1990 and 2003, he was the head of Pan's Marketing &amp; Sales and Exports departments with a number of Marketing &amp; Sales Managers reporting to him.",
+      "id": "s49"
+    },
+    {
+      "text": "He claimed to have a number of formal qualifications relevant to his position including a Bachelor of Pharmacy, a Diploma of Food and Drug Analysis, a Master of Science (Organic Chemistry), a Diploma of Herbology and a Ph.D. in Nutrition.",
+      "id": "s50"
+    },
+    {
+      "text": "13 Pan was audited by the TGA in February 1995, November 1995, April 1997 and November 1998.",
+      "id": "s51"
+    },
+    {
+      "text": "A number of compliance issues were raised in these audits, particularly in the November 1998 audit report.",
+      "id": "s52"
+    },
+    {
+      "text": "However, Pan remained licensed.",
+      "id": "s53"
+    },
+    {
+      "text": "Naturalcare \n \n 14 Schadel became involved with complementary medicines in 1979 when he was employed as the North Coast Sales Representative for a range of health food products manufactured by a company called Pretorius Pty Ltd.",
+      "id": "s54"
+    },
+    {
+      "text": "In 1985 or thereabouts he was appointed as the General Manager of Balance Sports Supplements which had an established relationship with Pan.",
+      "id": "s55"
+    },
+    {
+      "text": "Schadel met Selim and dealt with him directly in negotiating product development and manufacturing processes between the two companies.",
+      "id": "s56"
+    },
+    {
+      "text": "In 1987, Schadel became the Sales and Marketing Manager of a business trading under the name of Weider Health and Fitness.",
+      "id": "s57"
+    },
+    {
+      "text": "15 In 1989, with encouragement from Selim, Schadel started his own business known as Styjive Pty Limited from 1989 to 1991 and Australian Naturalcare Products Pty Ltd thereafter, herein referred to as 'Naturalcare'.",
+      "id": "s58"
+    },
+    {
+      "text": "Schadel and his wife were initially the sole shareholders of Naturalcare.",
+      "id": "s59"
+    },
+    {
+      "text": "The company started with only one product called Royal Jelly which was supplied by Pan but initially sourced from overseas as Pan did not have the technology to manufacture it at that time.",
+      "id": "s60"
+    },
+    {
+      "text": "Business relationship between Naturalcare and Pan \n \n 16 The business relationship between Naturalcare and Pan was first formalised when the companies entered into a Manufacturing Agreement as required by the Code in 1990.",
+      "id": "s61"
+    },
+    {
+      "text": "Both Selim and Schadel agreed that the companies were parties to this agreement although a copy was not available to tender in the proceedings.",
+      "id": "s62"
+    },
+    {
+      "text": "The form and content of the successive Manufacturing Agreements will therefore be discussed in greater detail in the context of those agreements which are in evidence.",
+      "id": "s63"
+    },
+    {
+      "text": "17 The business relationship between the two companies was fostered by a close professional and personal relationship between Selim and Schadel who worked together on the development of Naturalcare's business, particularly in the early years of their dealings.",
+      "id": "s64"
+    },
+    {
+      "text": "They met at least once every three months, and probably more often, for three to four hours at a time.",
+      "id": "s65"
+    },
+    {
+      "text": "Selim and Schadel continued to have regular, though less frequent, meetings until April 2003.",
+      "id": "s66"
+    },
+    {
+      "text": "At the meetings, Selim proposed new products and discussed their formulas and benefits, as well as discussing business more generally.",
+      "id": "s67"
+    },
+    {
+      "text": "18 In the early 1990s, Selim actively encouraged Schadel to expand Naturalcare's product range.",
+      "id": "s68"
+    },
+    {
+      "text": "Schadel remembered having conversations with Selim at this time in words to the following effect: \n \n 'Mr Selim: \"I think it's time for you to introduce several new products so you can compete against Hilton Lifestream, which is Australia's oldest mail-order company.",
+      "id": "s69"
+    },
+    {
+      "text": "I have first-hand knowledge of the best product range for a mail order business like [Naturalcare] .",
+      "id": "s70"
+    },
+    {
+      "text": "I can give you a list of suggested products that are selling well that your customers would like.",
+      "id": "s71"
+    },
+    {
+      "text": "\" \n Me [Schadel] : \"I accept that we need new products, but at the moment we don't have the cash to purchase so many products at once.",
+      "id": "s72"
+    },
+    {
+      "text": "\" \n Mr Selim: \"I can offer you extended credit until you get established in the future.",
+      "id": "s73"
+    },
+    {
+      "text": "\" ' \n \n \n \n 19 Selim would suggest which products should be added to Naturalcare's range.",
+      "id": "s74"
+    },
+    {
+      "text": "If Schadel was interested in the product he would ask Selim to send him a quote and if Schadel found it satisfactory, he would send Pan a purchase order.",
+      "id": "s75"
+    },
+    {
+      "text": "Selim agreed that they worked 'closely and collaboratively' to develop Naturalcare's business.",
+      "id": "s76"
+    },
+    {
+      "text": "As a result of that practice, Naturalcare's range expanded beyond Royal Jelly to include products such as Korean Ginseng, Evening Primrose Oil, Arizona Odourless Garlic, Vitamin E, Vitamin C and Multivitamin and Mineral.",
+      "id": "s77"
+    },
+    {
+      "text": "By the end of 1992 or thereabouts, Naturalcare offered its customers approximately 26 separate complementary products.",
+      "id": "s78"
+    },
+    {
+      "text": "To the best of Schadel's recollection, Selim had suggested all of them and Selim did not deny that this could have been the case.",
+      "id": "s79"
+    },
+    {
+      "text": "Selim encouraged Naturalcare to purchase all of its product from Pan.",
+      "id": "s80"
+    },
+    {
+      "text": "20 Selim provided financial as well as technical assistance to help Naturalcare expand its range in the early years.",
+      "id": "s81"
+    },
+    {
+      "text": "Schadel claimed that from 1989 to 1994, Naturalcare received monthly invoices from Pan but would only partially pay selected invoices at the end of the month, irrespective of the total amount owing.",
+      "id": "s82"
+    },
+    {
+      "text": "Selim agreed that he offered Naturalcare favourable credit terms but added that from about the early 1990s, Naturalcare was required to pay within 45 days for repeat products and only allowed to delay payment on new products.",
+      "id": "s83"
+    },
+    {
+      "text": "Schadel claimed the credit terms encouraged him to buy products he may not otherwise have bought and also to continue to purchase almost 100 per cent of Naturalcare's product from Pan until around March 1994.",
+      "id": "s84"
+    },
+    {
+      "text": "Schadel gave evidence that Naturalcare consistently owed hundreds of thousands of dollars to Pan during this period.",
+      "id": "s85"
+    },
+    {
+      "text": "It suffices to hold that considerable credit was advanced by Pan to Naturalcare.",
+      "id": "s86"
+    },
+    {
+      "text": "21 Selim also offered Naturalcare assistance in registering products with the TGA including the preparation of product specifications, formulation certificates and initially on the labelling or packaging details for new Naturalcare products.",
+      "id": "s87"
+    },
+    {
+      "text": "Pan also sent relevant paperwork to the TGA directly on Naturalcare's behalf until the mid 1990s, although Selim denies that it was Pan's practice to lodge an application for listing or registration with the TGA on behalf of Naturalcare.",
+      "id": "s88"
+    },
+    {
+      "text": "Schadel claimed that if the TGA had any queries in relation to ingredients of products or registration requirements, the TGA called Pan, or Naturalcare and then Pan, although Selim denies that the TGA addressed such queries to Pan rather than Naturalcare in its capacity as a sponsor.",
+      "id": "s89"
+    },
+    {
+      "text": "Again, it suffices to hold that Pan gave considerable assistance to Naturalcare in relation to sponsorship of products.",
+      "id": "s90"
+    },
+    {
+      "text": "Once a product was registered, Pan manufactured the product for Naturalcare (if Naturalcare submitted an appropriate order) and the product was then added to Naturalcare's product range.",
+      "id": "s91"
+    },
+    {
+      "text": "22 The usual modus operandi of supply was that Naturalcare sent Pan a purchase order and Pan sent back confirmation if it could source the relevant raw materials and fill the order.",
+      "id": "s92"
+    },
+    {
+      "text": "A purchase order usually set out the manufacturer's name and address, the sponsor's name and address, the sequence number of the order, the product name and Pan's formula code for the product, a quantity of product, the price of the product (taken by the mid 1990s from an annual price list supplied to Naturalcare to be discussed below), the total amount payable for the order, the required delivery date, and the place of delivery.",
+      "id": "s93"
+    },
+    {
+      "text": "Pan informed its sponsors of its policy that purchase orders were to be submitted by the tenth day of each month and Pan would then attempt to deliver the goods by the end of the following month.",
+      "id": "s94"
+    },
+    {
+      "text": "Pan usually ordered its raw materials by the fifteenth day of each month.",
+      "id": "s95"
+    },
+    {
+      "text": "If it could not source the raw materials required to produce the product, Pan's practice was to withhold confirmation of the purchase order by not issuing an order confirmation.",
+      "id": "s96"
+    },
+    {
+      "text": "Schadel programmed in a lead time of three months in case of such eventualities, when for example, the product had to be sourced internationally.",
+      "id": "s97"
+    },
+    {
+      "text": "If the price of a product had changed since the issue of the annual price list, Pan would send the confirmation order back to Naturalcare stating the new price.",
+      "id": "s98"
+    },
+    {
+      "text": "If Pan did not receive a response within a couple of days of sending the confirmation order it would begin to process it.",
+      "id": "s99"
+    },
+    {
+      "text": "23 Pan normally required Naturalcare to purchase prescribed batch sizes.",
+      "id": "s100"
+    },
+    {
+      "text": "The size of the minimum batches increased over the years, as did Pan's commitment to enforcing the policy.",
+      "id": "s101"
+    },
+    {
+      "text": "Selim helped Naturalcare on several occasions by agreeing for Pan to do an early or special production run for Naturalcare.",
+      "id": "s102"
+    },
+    {
+      "text": "However, Schadel wanted to find a way to test new products on the market without having to pay the costs involved in filling Pan's minimum production runs.",
+      "id": "s103"
+    },
+    {
+      "text": "In about 1992, Selim suggested that he should contact a Mr Sid Sarantis, the owner of a company called Markethaven Pty Limited.",
+      "id": "s104"
+    },
+    {
+      "text": "The company did contract packaging and also bought Pan products to sell to supermarkets.",
+      "id": "s105"
+    },
+    {
+      "text": "Schadel said Selim suggested: \n \n ' \"He [Sarantis] could supply you my products for testing from batches ordered by him and then, if your customers like that product, you may buy a full batch run from Pan in the future.",
+      "id": "s106"
+    },
+    {
+      "text": "\" ' \n \n\nSelim gave evidence that he introduced Schadel and Sarantis because Schadel wanted to find a company to do smaller packaging runs rather than smaller purchase runs.",
+      "id": "s107"
+    },
+    {
+      "text": "On any view, it is clear that Schadel contacted Sarantis as a consequence of Selim's recommendation in about 1992 or 1993.",
+      "id": "s108"
+    },
+    {
+      "text": "Naturalcare then developed a relationship with Markethaven.",
+      "id": "s109"
+    },
+    {
+      "text": "Markethaven became Naturalcare's packaging agent and the two companies signed a Packaging Agreement in 1997.",
+      "id": "s110"
+    },
+    {
+      "text": "Markethaven packaged product from both Pan and other manufacturers for Naturalcare.",
+      "id": "s111"
+    },
+    {
+      "text": "Schadel and Sarantis also made oral arrangements to split orders from Pan so that Naturalcare periodically bought a percentage of Pan product from Markethaven.",
+      "id": "s112"
+    },
+    {
+      "text": "24 On a number of occasions throughout the relevant period Selim said that he wanted Naturalcare to be Pan's biggest mail order outlet.",
+      "id": "s113"
+    },
+    {
+      "text": "From time to time, Selim described Naturalcare as 'Pan's mail order arm'.",
+      "id": "s114"
+    },
+    {
+      "text": "Selim encouraged Naturalcare to look into selling its products into international markets and promised to help Naturalcare with the supporting documentation required to register products overseas.",
+      "id": "s115"
+    },
+    {
+      "text": "I am satisfied that at all times Schadel reposed considerable trust and confidence in Selim personally and from a business point of view.",
+      "id": "s116"
+    },
+    {
+      "text": "25 Naturalcare ordered its complementary medicines from Pan in the form of either 'soft gels' or tablets.",
+      "id": "s117"
+    },
+    {
+      "text": "Schadel described soft gels in the following way: \n \n 'Soft gel describes the capsule containing the product.",
+      "id": "s118"
+    },
+    {
+      "text": "Soft gel products attract a premium in the market place.",
+      "id": "s119"
+    },
+    {
+      "text": "Benefits include being easier to swallow and thus more attractive to consumers, especially mail order customers who are predominantly elderly.",
+      "id": "s120"
+    },
+    {
+      "text": "It is also a superior means of delivering a therapeutic product as it is ordinarily easier to swallow and digest a soft gel tablet than it is a hard tablet.",
+      "id": "s121"
+    },
+    {
+      "text": "' \n \n \n 26 Pan imported soft gels from overseas until about 1994 when it started manufacturing them locally.",
+      "id": "s122"
+    },
+    {
+      "text": "The only company with the technology to make them in Australia up until this time was R P Scherer.",
+      "id": "s123"
+    },
+    {
+      "text": "From 1994 onwards, Pan's principal competitor for the soft gel market was R P Scherer.",
+      "id": "s124"
+    },
+    {
+      "text": "27 Products were described by the parties as being either 'generic' or 'non-generic'.",
+      "id": "s125"
+    },
+    {
+      "text": "Schadel described a generic product in the following way: \n \n '... say, vitamin E or evening primrose oil, which is products that everyone in the market has.",
+      "id": "s126"
+    },
+    {
+      "text": "Virtually --- or fish oil would be a good example, virtually single ingredient product, 1000 milligram fish oil.",
+      "id": "s127"
+    },
+    {
+      "text": "Every sponsor has it ...' \n \n\nSelim's description was as follows:\n \n 'A generic product is a soft gel or tablet product that has been in the market for some time and was sold by Pan to a number of sponsors.",
+      "id": "s128"
+    },
+    {
+      "text": "... \n A non-generic product is a soft gel or tablet product typically developed by Pan for [Naturalcare] or developed by [Naturalcare] in consultation with Pan.",
+      "id": "s129"
+    },
+    {
+      "text": "A non-generic product developed by Pan for [Naturalcare] was typically sold to [Naturalcare] exclusively for a period before release to any of Pan's sponsors.",
+      "id": "s130"
+    },
+    {
+      "text": "' \n \n\nNaturalcare's tablet product range was principally composed of generic products.",
+      "id": "s131"
+    },
+    {
+      "text": "28 By March 1994, Naturalcare found itself with a large quantity of unsold stock and owing Pan a debt of around $420 000.",
+      "id": "s132"
+    },
+    {
+      "text": "Naturalcare could not go on without an injection of equity.",
+      "id": "s133"
+    },
+    {
+      "text": "During the year, Schadel therefore negotiated the sale of 65 per cent of Naturalcare's issued shares to Cellarmasters Wines Pty Limited with an option to acquire a further 10 per cent, which was exercised in 1995.",
+      "id": "s134"
+    },
+    {
+      "text": "Schadel retained his position as Managing Director.",
+      "id": "s135"
+    },
+    {
+      "text": "29 Mr Terry Davis, the then Executive Director of Cellarmasters, told Schadel that he would like to investigate alternative suppliers for Naturalcare's generic products as he was concerned about the company's reliance on Pan.",
+      "id": "s136"
+    },
+    {
+      "text": "As a consequence, Schadel contacted Lipa Pharmaceuticals Pty Ltd to obtain tentative quotes for supply of certain generic products.",
+      "id": "s137"
+    },
+    {
+      "text": "30 Schadel, Davis and Selim had two meetings in 1995/1996 where Davis voiced his concerns to Selim.",
+      "id": "s138"
+    },
+    {
+      "text": "Davis said that at one of the meetings a conversation took place to the following effect: \n \n \n \n 'Me [Davis] : \"How can I be certain you can supply all our product at the right quality and competitive prices as you want all our business?",
+      "id": "s139"
+    },
+    {
+      "text": "Given your current and past issues with the Therapeutic Goods people where do you stand with a clean bill of health and who could we turn to if you were not able to supply?",
+      "id": "s140"
+    },
+    {
+      "text": "\" \n Mr Schadel: \"Jim, you have to give Terry confidence that all the commitments you have made to me that you can deliver on them, particularly in respect of new products, pricing and continuous supply.",
+      "id": "s141"
+    },
+    {
+      "text": "\" \n Mr Selim: \"You have nothing to worry about.",
+      "id": "s142"
+    },
+    {
+      "text": "[Naturalcare] can continue to buy all of its products from Pan without a worry.",
+      "id": "s143"
+    },
+    {
+      "text": "Pan is the largest manufacturer of health care products in Australia.",
+      "id": "s144"
+    },
+    {
+      "text": "Pan complies with all of the TGA's requirements so there is no risk in Pan not being able to supply [Naturalcare] .",
+      "id": "s145"
+    },
+    {
+      "text": "There is no problem in Pan continuing to supply [Naturalcare] .",
+      "id": "s146"
+    },
+    {
+      "text": "\" ' \n \n \n \n \n\nSchadel said that the conversations included words to the following effect:\n \n 'Mr Davis: \"Jim, I am extremely concerned that [Naturalcare's] business is totally reliant on Pan for the majority of its best-selling products.",
+      "id": "s147"
+    },
+    {
+      "text": "I have asked Barry to continue to try to source products from other manufacturers.",
+      "id": "s148"
+    },
+    {
+      "text": "\" \n Me [Schadel] : \"Jim, I have told Terry many times about our long term relationship and the fact that I believe Pan is still the major manufacturer in Australia but we are both concerned that [Naturalcare] has become totally reliant on Pan.",
+      "id": "s149"
+    },
+    {
+      "text": "\" \n Mr Selim: \"You have nothing to worry about.",
+      "id": "s150"
+    },
+    {
+      "text": "[Naturalcare] can continue to buy all of its products from Pan without a worry.",
+      "id": "s151"
+    },
+    {
+      "text": "Pan is the largest manufacturer of health care products in Australia.",
+      "id": "s152"
+    },
+    {
+      "text": "Pan complies with all of the TGA's requirements so there is no risk in Pan not being able to supply [Naturalcare] .",
+      "id": "s153"
+    },
+    {
+      "text": "There is no problem in Pan continuing to supply [Naturalcare] .",
+      "id": "s154"
+    },
+    {
+      "text": "\" \n Mr Davis: \"For example, what would happen if government intervention closed your plant?",
+      "id": "s155"
+    },
+    {
+      "text": "\" \n Mr Selim: (laughing) \"That would never happen.",
+      "id": "s156"
+    },
+    {
+      "text": "Pan is Australia's number one manufacturer and is TGA compliant.",
+      "id": "s157"
+    },
+    {
+      "text": "\" ' \n \n \n\nSelim said that the conversation was to the following effect:\n \n \n \n 'Mr Davis: \" [Naturalcare] is looking to diversify its suppliers of generic products, and I am encouraging Barry to source product from other suppliers.",
+      "id": "s158"
+    },
+    {
+      "text": "\" \n Me [Selim] : \"What about our relationship, Barry?",
+      "id": "s159"
+    },
+    {
+      "text": "What about our history?",
+      "id": "s160"
+    },
+    {
+      "text": "We have together formulated [Naturalcare's] top sellers.",
+      "id": "s161"
+    },
+    {
+      "text": "Pan has helped to build your business.",
+      "id": "s162"
+    },
+    {
+      "text": "\" \n Mr Schadel: \"Can Pan cope with supplying all of [Naturalcare's] products?",
+      "id": "s163"
+    },
+    {
+      "text": "Does Pan have the production capacity?",
+      "id": "s164"
+    },
+    {
+      "text": "\" \n Me [Selim] : \"Yes, Pan has the production capacity to manufacture all of [Naturalcare's] products.",
+      "id": "s165"
+    },
+    {
+      "text": "[Naturalcare] should get 100% of its products from Pan and we should continue to work together to develop new products.",
+      "id": "s166"
+    },
+    {
+      "text": "Other sponsors which are much larger than [Naturalcare] , such as Bullivants, get all of their products from Pan with no problem.",
+      "id": "s167"
+    },
+    {
+      "text": "\" \n Mr Schadel: \"Pan needs to be competitive on price.",
+      "id": "s168"
+    },
+    {
+      "text": "\" \n Me [Selim] : \"Yes, Pan will stay competitive on price, but it is not a charity.",
+      "id": "s169"
+    },
+    {
+      "text": "\" ' \n \n \n \n \n \n 31 Selim denied that the TGA was mentioned in the conversation, or that he said the phrase 'nothing to worry about' and asserted that the focus of the discussion was the capacity of Pan to supply a number of big customers as well as Naturalcare at the same time.",
+      "id": "s170"
+    },
+    {
+      "text": "I accept the evidence of Davis.",
+      "id": "s171"
+    },
+    {
+      "text": "He was not cross examined.",
+      "id": "s172"
+    },
+    {
+      "text": "He is now independent of the parties and had no reason to give false evidence.",
+      "id": "s173"
+    },
+    {
+      "text": "His evidence is broadly consistent with and corroborates that of Schadel.",
+      "id": "s174"
+    },
+    {
+      "text": "I find that Schadel and Davis relied upon and continued to rely upon the assurances given by Selim.",
+      "id": "s175"
+    },
+    {
+      "text": "32 At one of the meetings with Davis and Selim, Davis suggested the possibility of Pan paying Naturalcare a 2.5 per cent advertising rebate on all Naturalcare's purchases from Pan so that Naturalcare did not bear all the risk on new products.",
+      "id": "s176"
+    },
+    {
+      "text": "Selim agreed to grant Naturalcare an advertising rebate of 2.5 per cent of annual sales and $1000 for every new product introduced.",
+      "id": "s177"
+    },
+    {
+      "text": "Schadel remembers Selim saying words to the following effect: \n \n 'Barry, this rebate must remain confidential between us as it is something that I don't do for any other company.",
+      "id": "s178"
+    },
+    {
+      "text": "I'm only doing it for [Naturalcare] to help us grow the business together.",
+      "id": "s179"
+    },
+    {
+      "text": "' \n \n\nA fax from Schadel to Selim dated 31 May 1996 states the following:\n \n 'With regards to our loyalty rebates for 1996/97, I would like to confirm that our existing loyalty arrangement will continue to operate over the next year as our purchase's may exceed the $2 million dollar mark.",
+      "id": "s180"
+    },
+    {
+      "text": "' \n \n\nThe advertising rebate arrangement continued until about 2001.",
+      "id": "s181"
+    },
+    {
+      "text": "33 Schadel stated that after the meetings with Davis and Selim, Naturalcare nonetheless began placing more of its orders for generic products with Lipa when Lipa could offer a better price than Pan.",
+      "id": "s182"
+    },
+    {
+      "text": "On 10 December 1997, Naturalcare and Lipa signed a Manufacturing Agreement.",
+      "id": "s183"
+    },
+    {
+      "text": "Schadel also made enquiries during the course of 1995 about the possibility of purchasing soft gel products from R P Scherer but was informed that Naturalcare would be required to appoint R P Scherer as Naturalcare's main supplier of other products if the two companies were to do business.",
+      "id": "s184"
+    },
+    {
+      "text": "Naturalcare continued to purchase the bulk of its products from Pan.",
+      "id": "s185"
+    },
+    {
+      "text": "34 As noted above, Pan sent Naturalcare a price list to act as a guide for the following year (although prices did fluctuate to some degree because of changes in the price of raw materials).",
+      "id": "s186"
+    },
+    {
+      "text": "The list would set out the names, product codes and prices for all the products Pan was supplying to Naturalcare at that time.",
+      "id": "s187"
+    },
+    {
+      "text": "Schadel claimed that to the best of his recollection the price lists were provided in response to his request for greater price certainty because Naturalcare promised its customers a fixed yearly price.",
+      "id": "s188"
+    },
+    {
+      "text": "Selim recalled the request but claimed that price lists were provided to all sponsors.",
+      "id": "s189"
+    },
+    {
+      "text": "There is no reason to doubt Selim on that point.",
+      "id": "s190"
+    },
+    {
+      "text": "35 Selim denied that he ever had a conversation with Schadel in which Naturalcare promised to pay the price stipulated in the annual price list, or if not stipulated, a reasonable price, as Schadel was told the prices on the list were subject to change.",
+      "id": "s191"
+    },
+    {
+      "text": "Schadel agreed in cross-examination that the negotiation of prices was an ongoing affair.",
+      "id": "s192"
+    },
+    {
+      "text": "He said: \n \n '... Mr Selim likewise reserved the right to increase his prices at any point in time or decrease his prices ...",
+      "id": "s193"
+    },
+    {
+      "text": "The arrangement was flexible.",
+      "id": "s194"
+    },
+    {
+      "text": "' \n \n \n 36 Selim also denied that Naturalcare was under any obligation to buy the products on the list as some of the products were not ordered for some time and were effectively 'inactive'.",
+      "id": "s195"
+    },
+    {
+      "text": "Schadel admitted in cross examination that Naturalcare had bought products from manufacturers apart from Pan.",
+      "id": "s196"
+    },
+    {
+      "text": "Naturalcare therefore did not confine its purchasing to products on Pan's price lists.",
+      "id": "s197"
+    },
+    {
+      "text": "37 Selim also denied that Schadel ever promised to attempt to ensure that Naturalcare purchased goods from Pan of an average annual value not less than the preceding annual value of goods purchased from Pan.",
+      "id": "s198"
+    },
+    {
+      "text": "Schadel admitted under cross examination that he could not recall a conversation in which such a promise was made.",
+      "id": "s199"
+    },
+    {
+      "text": "However, if Naturalcare placed an order for product that Pan had quoted Naturalcare for in the past, Pan would supply the product if it had the relevant raw materials and the order was for the required minimum batch run.",
+      "id": "s200"
+    },
+    {
+      "text": "38 On 10 February 1995, Pan and Naturalcare signed another Manufacturing Agreement.",
+      "id": "s201"
+    },
+    {
+      "text": "It included the following clauses: \n \n '1.",
+      "id": "s202"
+    },
+    {
+      "text": "Objective: This document specifies the Code of Good Manufacturing Practice responsibilities relating to the manufacture of the products listed in Annexure 1 of this Contract for Australian Natural Care Products (herein referred to as \"Natural Care\") by Pan Laboratories (Australia) Pty.",
+      "id": "s203"
+    },
+    {
+      "text": "Ltd. (herein referred to as \"Pan\").",
+      "id": "s204"
+    },
+    {
+      "text": "These responsibilities refer to the numbered clauses in the Code of Good Manufacturing Practice for Therapeutic Goods, August 1990.",
+      "id": "s205"
+    },
+    {
+      "text": "2.",
+      "id": "s206"
+    },
+    {
+      "text": "Operation: Products manufactured and packed in final containers by Pan.",
+      "id": "s207"
+    },
+    {
+      "text": "3.",
+      "id": "s208"
+    },
+    {
+      "text": "Confidentiality: Formulation supplied for purposes of this Agreement are considered confidential and are not to be supplied by any third party other than with Pan's written consent.",
+      "id": "s209"
+    },
+    {
+      "text": "4.",
+      "id": "s210"
+    },
+    {
+      "text": "Term: This Agreement shall continue in operation for three (3) years, and will be deemed automatically renewed for a further three (3) years at the end of each three (3) year period.",
+      "id": "s211"
+    },
+    {
+      "text": "Either party shall determine otherwise by giving six (6) months notice in writing to the other party of their intent to terminate the Agreement.",
+      "id": "s212"
+    },
+    {
+      "text": "5.",
+      "id": "s213"
+    },
+    {
+      "text": "Scope: This Agreement does not cover any other commercial arrangements.",
+      "id": "s214"
+    },
+    {
+      "text": "' \n \n \n\nA significant purpose of the Manufacturing Agreement was to allocate the statutory responsibility under the Code.",
+      "id": "s215"
+    },
+    {
+      "text": "It included a table which set out relevant clauses of the Code, the responsibilities those clauses are concerned with, and which of the two companies was to undertake each responsibility.",
+      "id": "s216"
+    },
+    {
+      "text": "This table was followed by Annexure 1 described in a sub heading as '(List of Products)'.",
+      "id": "s217"
+    },
+    {
+      "text": "This document appeared in identical form in subsequent Manufacturing Agreements but was referred to as 'Appendix 1 and will be referred to as such hereafter.",
+      "id": "s218"
+    },
+    {
+      "text": "There are 15 products in Appendix 1 of the 1995 Manufacturing Agreement.",
+      "id": "s219"
+    },
+    {
+      "text": "There was no provision in the Manufacturing Agreement in relation to commercial arrangements for the supply of goods.",
+      "id": "s220"
+    },
+    {
+      "text": "There was no obligation to order or supply any particular goods on any particular terms.",
+      "id": "s221"
+    },
+    {
+      "text": "39 A further agreement was made in August 1998.",
+      "id": "s222"
+    },
+    {
+      "text": "That Manufacturing Agreement was in similar form to the 1995 Manufacturing Agreement with a few minor amendments.",
+      "id": "s223"
+    },
+    {
+      "text": "There were 67 products in Appendix 1 of the 1998 Manufacturing Agreement.",
+      "id": "s224"
+    },
+    {
+      "text": "40 Schadel described the Appendix 1 product lists as 'fluid' in that they showed products Naturalcare had received quotes for but never introduced into its range, products that were introduced but which failed, and products that Naturalcare continued to order.",
+      "id": "s225"
+    },
+    {
+      "text": "The list also excluded products that had been introduced shortly before the Manufacturing Agreements were signed.",
+      "id": "s226"
+    },
+    {
+      "text": "Schadel said that he did not feel under an obligation to purchase the products on the various Appendix 1 documents from Pan if Pan's prices were not competitive.",
+      "id": "s227"
+    },
+    {
+      "text": "However he did believe that Pan was under an obligation to supply Naturalcare with a product, even if Naturalcare had only ordered it once.",
+      "id": "s228"
+    },
+    {
+      "text": "41 Naturalcare and Pan also signed a Confidentiality Agreement in February 1995 and in August 1998 in similar form.",
+      "id": "s229"
+    },
+    {
+      "text": "42 In mid 1998, Cellarmasters sold its shares in Naturalcare to Amrion Inc, a manufacturer of therapeutic goods based in the Unites States of America.",
+      "id": "s230"
+    },
+    {
+      "text": "Amrion came to own 90 per cent of Naturalcare's issued shares although Schadel retained his position as Managing Director.",
+      "id": "s231"
+    },
+    {
+      "text": "Mr David Robinson, a director of Amrion, became a director of Naturalcare in about July 1998 and retained this position until about November 2000.",
+      "id": "s232"
+    },
+    {
+      "text": "He gave evidence that he travelled to Australia on two occasions to have meetings with Schadel to evaluate Amrion's ownership of Naturalcare and analyse the company's business opportunities and weaknesses.",
+      "id": "s233"
+    },
+    {
+      "text": "At one of these meetings Robinson claims he had a conversation with Schadel with words to the following effect: \n \n 'Me [Robinson] : \" [Naturalcare] appears to be very dependent on Pan Laboratories for the supply of the majority of your products.",
+      "id": "s234"
+    },
+    {
+      "text": "I am concerned about what happens to [Naturalcare] if that supply is cut off or interrupted?",
+      "id": "s235"
+    },
+    {
+      "text": "\" \n Mr Schadel: \"Pan Labs is the largest manufacturer of nutritional supplements in Australia.",
+      "id": "s236"
+    },
+    {
+      "text": "Almost every company in our industry is buying from Pan.",
+      "id": "s237"
+    },
+    {
+      "text": "They have a great reputation for quality.",
+      "id": "s238"
+    },
+    {
+      "text": "I don't think there is any chance they would not be able to supply [Naturalcare] .",
+      "id": "s239"
+    },
+    {
+      "text": "\" ' \n \n \n 43 Robinson, Schadel and Selim had a meeting as to the substance of which all three men gave evidence.",
+      "id": "s240"
+    },
+    {
+      "text": "Robinson said the relevant conversation was to the following effect: \n \n 'Me [Robinson] : \" [Naturalcare] buys a significant amount of product from Pan Labs.",
+      "id": "s241"
+    },
+    {
+      "text": "If you were not able to supply [Naturalcare] , even temporarily, it would have a seriously negative affect on our business.",
+      "id": "s242"
+    },
+    {
+      "text": "\" \n Mr Selim: \"You do not need to worry about that.",
+      "id": "s243"
+    },
+    {
+      "text": "Pan is the largest supplier of nutritional supplements in Australia.",
+      "id": "s244"
+    },
+    {
+      "text": "There is no possibility that Pan won't be able to supply [Naturalcare] with the products they order.",
+      "id": "s245"
+    },
+    {
+      "text": "Further, as Pan is the largest supplier in Australia, we work closely with the TGA and we meet, or exceed, all necessary standards the TGA sets for the manufacture of nutritional supplements.",
+      "id": "s246"
+    },
+    {
+      "text": "\" ' \n \n \n\nSchadel said Robinson said words to the following effect:\n \n ' [Naturalcare] is overly reliant on Pan.",
+      "id": "s247"
+    },
+    {
+      "text": "I think that we will be seeking to diversify its suppliers.",
+      "id": "s248"
+    },
+    {
+      "text": "' \n \n\nSchadel said Selim's reply was to the following effect:\n \n 'There is no risk of Pan ceasing supply.",
+      "id": "s249"
+    },
+    {
+      "text": "Pan has helped build [Naturalcare] .",
+      "id": "s250"
+    },
+    {
+      "text": "Our relationship extends beyond simply supplying goods --- it extends into other areas including constant product development.",
+      "id": "s251"
+    },
+    {
+      "text": "We have built the business together and we should stay together.",
+      "id": "s252"
+    },
+    {
+      "text": "' \n \n\nSelim said the conversation included words to the following effect:\n \n 'Mr Robinson: \"I'm telling Barry he should source products from other suppliers.",
+      "id": "s253"
+    },
+    {
+      "text": "\" \n Me [Selim] : \"There is no problem in Pan continuing to supply [Naturalcare] .",
+      "id": "s254"
+    },
+    {
+      "text": "Pan has the capacity to meet all of [Naturalcare's] production needs.",
+      "id": "s255"
+    },
+    {
+      "text": "Pan has not let you down.",
+      "id": "s256"
+    },
+    {
+      "text": "For products you have ordered, Pan has supplied.",
+      "id": "s257"
+    },
+    {
+      "text": "\" \n Mr Robinson: \"Yes, Pan has looked after [Naturalcare] .",
+      "id": "s258"
+    },
+    {
+      "text": "\" ' \n \n \n 44 I accept the evidence of Robinson.",
+      "id": "s259"
+    },
+    {
+      "text": "He was not cross-examined and there is no reason to doubt his reliability.",
+      "id": "s260"
+    },
+    {
+      "text": "His evidence is broadly consistent with and corroborates that of Schadel.",
+      "id": "s261"
+    },
+    {
+      "text": "I find that Robinson and Schadel relied and continued to rely upon Selim's assurances.",
+      "id": "s262"
+    },
+    {
+      "text": "45 Amrion had a plan to distribute its products, manufactured in a factory in Colorado, USA, to the Australian market by using Naturalcare's client list.",
+      "id": "s263"
+    },
+    {
+      "text": "However, the TGA did not grant Amrion the appropriate accreditation and in May 2001, Amrion sold its shares in Naturalcare back to Schadel and his wife, who became the sole shareholders of the company again.",
+      "id": "s264"
+    },
+    {
+      "text": "46 In around 1999 or 2000, Pan had developed a new formulation for glucosamine sulphate to relieve arthritic pain.",
+      "id": "s265"
+    },
+    {
+      "text": "The formulation was approved by the TGA and Naturalcare sold it under the name 'Healthy Joints'.",
+      "id": "s266"
+    },
+    {
+      "text": "In about September 2001, Selim and Schadel had a meeting in which Schadel told Selim that he was planning to have Healthy Joints manufactured by Lipa because Lipa could supply it for a lower price.",
+      "id": "s267"
+    },
+    {
+      "text": "Schadel and Selim remembered this conversation differently.",
+      "id": "s268"
+    },
+    {
+      "text": "Schadel recalled Selim getting out of his chair, pacing to the other side of the desk and raising his voice 'to almost screaming pitch' when he said words to the following effect: \n \n 'Healthy Joints is my formulation.",
+      "id": "s269"
+    },
+    {
+      "text": "You have no right to give it to another manufacturer.",
+      "id": "s270"
+    },
+    {
+      "text": "If you do, I will sue you!",
+      "id": "s271"
+    },
+    {
+      "text": "If you decide to fight me it will cost you a lot of money and I will win.",
+      "id": "s272"
+    },
+    {
+      "text": "' \n \n\nSchadel claimed he was 'extremely shocked and fearful' because of Selim's reaction and replied with words to the following effect:\n \n 'Jim, I am not giving them your formulation.",
+      "id": "s273"
+    },
+    {
+      "text": "Lipa is reformulating to their own specifications from our label claim.",
+      "id": "s274"
+    },
+    {
+      "text": "You know it's a major price issue for us.",
+      "id": "s275"
+    },
+    {
+      "text": "The product is so much more expensive from you.",
+      "id": "s276"
+    },
+    {
+      "text": "And you've always told me that you would meet their prices.",
+      "id": "s277"
+    },
+    {
+      "text": "' \n \n\nSchadel gave evidence that Selim went on to say:\n \n 'Enjoy the prices from Lipa now because as he grows he will have to deal with the same overheads I have had to deal with and he won't be able to compete with me once he gets as big as Pan.",
+      "id": "s278"
+    },
+    {
+      "text": "' \n \n\nSchadel also claimed Selim said words to the following effect:\n \n 'I insist that all new products which Pan has offered to [Naturalcare] in the past stay with Pan in the future.",
+      "id": "s279"
+    },
+    {
+      "text": "' \n \n\nSchadel claimed that while he was 'very mindful' of Selim's threat to sue, he continued to seek quotes from other manufacturers for products apart from soft gels as he believed Pan was overcharging Naturalcare for the majority of their products compared to Lipa.",
+      "id": "s280"
+    },
+    {
+      "text": "Selim denied that he threatened to sue Naturalcare and claimed that he responded to Schadel's announcement by saying it was 'disappointing'.",
+      "id": "s281"
+    },
+    {
+      "text": "47 Despite this incident, Naturalcare and Pan continued to work together.",
+      "id": "s282"
+    },
+    {
+      "text": "In March 2002, Pan and Naturalcare entered into another Manufacturing Agreement and another Confidentiality Agreement.",
+      "id": "s283"
+    },
+    {
+      "text": "The Confidentiality Agreement was in the same terms as before.",
+      "id": "s284"
+    },
+    {
+      "text": "The March 2002 Manufacturing Agreement was in the same form as the 1998 Manufacturing Agreement.",
+      "id": "s285"
+    },
+    {
+      "text": "There were 103 products in Appendix 1 of the 2002 Manufacturing Agreement.",
+      "id": "s286"
+    },
+    {
+      "text": "48 Schadel gave evidence that in relation to the period of January 2000 to April 2003, he understood that Pan was to supply 'close to all' of Naturalcare's soft gel product requirements and the 'majority of all other goods sold'.",
+      "id": "s287"
+    },
+    {
+      "text": "When Counsel for Pan put it to Schadel that in reality Pan only supplied 52.5 per cent by volume and 42.8 per cent by value of Naturalcare's soft gel product in this period and only 44.5 per cent by value of Naturalcare's other products, Schadel said 'I don't know whether those figures are correct.'.",
+      "id": "s288"
+    },
+    {
+      "text": "The figures appear in a statement by one of Pan's liquidators, Mr Christopher John Honey, who caused a purchasing analysis to be conducted by Gary Busby, Bian Guan Lim and persons under their direction and under his supervision.",
+      "id": "s289"
+    },
+    {
+      "text": "Mr Bradley James Stuart, the financial controller of Naturalcare gave evidence based on a review of Naturalcare's MYOB database that for the financial years ending 30 June 2002 and 30 June 2003, Pan supplied Naturalcare with approximately 66 per cent of Naturalcare's total stock purchases; and with 98 per cent of its total soft gel purchases.",
+      "id": "s290"
+    },
+    {
+      "text": "A difference in the figures could be the result of Stuart including product that was indirectly sourced from Pan, for example if Markethaven bought product from Pan and packaged it for Naturalcare under their Packaging Agreement.",
+      "id": "s291"
+    },
+    {
+      "text": "Schadel certainly reserved the freedom to acquire products from other manufacturers if the price was more favourable than Pan's price.",
+      "id": "s292"
+    },
+    {
+      "text": "49 The business relationship between Schadel and Selim continued to function.",
+      "id": "s293"
+    },
+    {
+      "text": "In late 2002, Selim offered to introduce Schadel to a Mr Derek Coates as a possible buyer of Naturalcare when Schadel expressed a desire to sell the company.",
+      "id": "s294"
+    },
+    {
+      "text": "In February 2003, Selim told Schadel that he thought there was an opening in the market for a pharmacy only brand which Naturalcare could fill by selling its existing range under another label.",
+      "id": "s295"
+    },
+    {
+      "text": "In the same month, Selim told Schadel that he should relaunch his business in the French market and that Pan would give him extended credit terms and free product to help him with the venture.",
+      "id": "s296"
+    },
+    {
+      "text": "Selim expected that the relationship whereby Pan supplied Naturalcare with a large portion of its therapeutic goods would continue indefinitely into the future.",
+      "id": "s297"
+    },
+    {
+      "text": "Travacalm incident and thereafter \n \n 50 In early 2003 there were reports of adverse reactions after individuals took Travacalm, one of Pan's products.",
+      "id": "s298"
+    },
+    {
+      "text": "As a result, the TGA conducted a special GMP audit of Pan between 30---31 January 2003.",
+      "id": "s299"
+    },
+    {
+      "text": "The TGA's report, dated 5 February 2003, listed the objectives of the audit as follows: \n \n \n '(i) To investigate possible-probable causes of the recent recall(s) of \"Travacalm Original\" (Aust R 78192) and \"Travacalm HO\" (Aust R 68450).",
+      "id": "s300"
+    },
+    {
+      "text": "These batches were recalled because of a series of adverse reactions and (confirmed) and unacceptable variation in the concentration of the Hyoscine Hydrobromide within individual tablets; \n and \n (ii) To assess compliance with the Manufacturing Principles, the above referenced Manufacturing Standard, the conditions specified in the company's Licence to Manufacture Therapeutic Goods, and compliance with the relevant marketing authorisation(s).",
+      "id": "s301"
+    },
+    {
+      "text": "' \n \n \n \n\nThe report went on to note:\n \n 'The audit revealed a number of significant deficiencies, including three items classified as critical.",
+      "id": "s302"
+    },
+    {
+      "text": "As indicated during the inspection, these deficiencies were to be referred to the Chief GMP Auditor and a Section Review Panel for further consideration, including the possibility of amendment, suspension or revocation of the company's licence.",
+      "id": "s303"
+    },
+    {
+      "text": "' \n \n\nThe report noted a number of 'possible-probable' causes of the recall(s) of 'Travacalm Original' (Aust R 78192) and 'Travacalm HO' (Aust R 68450).",
+      "id": "s304"
+    },
+    {
+      "text": "The report then added the following by way of conclusion:\n \n \n '... the audit revealed compelling evidence: \n (i) That the organisation was actually aware, following the analysis of the first batch of Travacalm, that the product failed to meet the requirement for \"Uniformity of Content\".",
+      "id": "s305"
+    },
+    {
+      "text": "Nonetheless, subsequent batches: \n \n \n &#8226; were also manufactured under the same conditions, \n &#8226; shown to fail specification, and \n &#8226; \"released\" to Key Pharmaceuticals.",
+      "id": "s306"
+    },
+    {
+      "text": "(ii) Of deliberate and systematic manipulation of laboratory analysis results, so to (re)present OOS (Out Of Specification) batches as complying with specification.",
+      "id": "s307"
+    },
+    {
+      "text": "' \n \n \n \n \n 51 The report stated that a response to the report should by received by the Chief GMP Auditor within four weeks of the date of the audit report, adding: \n \n 'This response should include, as applicable, \n \n \n 1.",
+      "id": "s308"
+    },
+    {
+      "text": "Details of the action(s) taken to correct each reported deficiency, and (for critical and major deficiencies) supporting objective evidence of completion; \n 2.",
+      "id": "s309"
+    },
+    {
+      "text": "The identification of any/the root cause(s) of the deficiency(ies) (at the quality management/system level) and the details of related action(s) (also) taken so as to prevent recurrence of the deficiency(ies), (again) with supporting objective evidence; and/or, \n 3.",
+      "id": "s310"
+    },
+    {
+      "text": "When, within reason, an extended time frame is warranted, then a description of the proposed corrective action(s) (including a timetable with target completion dates(s)), progress reports, and upon conclusion, objective evidence of its completion.",
+      "id": "s311"
+    },
+    {
+      "text": "' \n \n \n \n\nThe report then went on to list a substantial number of both 'Critical Deficiencies' as well as 'Major Deficiencies' in Pan's process control.",
+      "id": "s312"
+    },
+    {
+      "text": "52 The TGA carried out a general GMP audit of Pan's operations, for the purpose of assessing compliance on 24---25 February 2003 and 7---11 and 14 April 2003.",
+      "id": "s313"
+    },
+    {
+      "text": "The TGA's report from that audit stated that: \n \n 'The audit revealed: \n \n \n (i) That the issues identified during the (30-31 January '03) audit investigating the recall of Travacalm, were not restricted to that product; \n (ii) That \"corrective actions\" to previous TGA audits were unsatisfactory; \n (iii) (Further) Non-Conformities: \n With respect to: \n \n \n &#8226; The Manufacturing Principles; and \n &#8226; The conditions of the company's licence to manufacture Therapeutic Goods; \n \n \n and \n \n \n (iv) Nine aspects regarded as critical' \n \n\nThe report then went on to discuss the nine aspects regarded as critical under the following headings:\n \n &#8226; data manipulation; \n &#8226; results fabrication; \n &#8226; substitution of both chondroitin sulphate from shark with chondroitin sulphate from bovine and of chondroitin sulphate from bovine with chondroitin sulphate from shark; \n &#8226; deficient raw material and finished product-control(s); \n &#8226; breach of the 'conditions of licences' (to manufacture therapeutic goods); \n &#8226; breach of the (schedule of) conditions to the licence to manufacture therapeutic goods; \n &#8226; breaches of marketing authorisation(s); \n &#8226; unsatisfactory process control(s); and, \n &#8226; inadequate assurance regarding mix-up +/- (cross) contamination.",
+      "id": "s314"
+    },
+    {
+      "text": "The report again listed a substantial number of critical deficiencies and major deficiencies with Pan's processing system.",
+      "id": "s315"
+    },
+    {
+      "text": "53 An Expert Advisory Group Meeting was convened on 23 April 2003.",
+      "id": "s316"
+    },
+    {
+      "text": "Among the Group's findings were the following statements: \n \n 'The multiple failures of GMP identified in the auditors' report, in the opinion of the Expert Advisory Group, create risks of death, serious illness, and serious injury.",
+      "id": "s317"
+    },
+    {
+      "text": "... \n The Group lacks confidence in the quality of any products manufactured by the company.",
+      "id": "s318"
+    },
+    {
+      "text": "The Group advised that poor quality products have an increased risk of failure in both safety and efficacy.",
+      "id": "s319"
+    },
+    {
+      "text": "The Group recommended that the company should be subject to significant remediation.",
+      "id": "s320"
+    },
+    {
+      "text": "The Group recommended that the company's manufacturing licence should be suspended immediately for the protection of the community's public health and safety.",
+      "id": "s321"
+    },
+    {
+      "text": "' \n \n \n 54 On 28 April 2003, the TGA sent a letter to Selim as well as Notices under ss 30, 40 and 41 of the TGA Act, informing him of the suspension of Pan's licence, the cancellation of all Pan's products on the Register and the requirement for all such products to be recalled.",
+      "id": "s322"
+    },
+    {
+      "text": "Schadel gave the following evidence in relation to the immediate effect of the Pan recall: \n \n 'We had a phone call at 4.00 pm from the TGA telling us that we had to recall all of our products.",
+      "id": "s323"
+    },
+    {
+      "text": "We were notified by the TGA after it was in the media.",
+      "id": "s324"
+    },
+    {
+      "text": "In that first week we had 26,000 phone calls and 162,000 hits on our website.",
+      "id": "s325"
+    },
+    {
+      "text": "We had customers constantly jamming up our telephone.",
+      "id": "s326"
+    },
+    {
+      "text": "I rang our industry representatives and couldn't get them because they were on national television.",
+      "id": "s327"
+    },
+    {
+      "text": "... \n I was in total shock.",
+      "id": "s328"
+    },
+    {
+      "text": "I spoke to my financial adviser and he told me to start firing people instantly.",
+      "id": "s329"
+    },
+    {
+      "text": "' \n \n \n 55 Naturalcare was faced with the necessity to find alternative sources of supply for most of its products at a time when many other businesses were faced with the same problem.",
+      "id": "s330"
+    },
+    {
+      "text": "The party which acquired the assets of Pan did not commence to operate that business until well into 2004.",
+      "id": "s331"
+    },
+    {
+      "text": "56 On 22 May 2003, Anthony Gregory McGrath and Christopher John Honey were appointed as administrators of Pan and as liquidators on 23 September 2003.",
+      "id": "s332"
+    },
+    {
+      "text": "Proof of debt \n \n 57 Naturalcare submitted a proof of debt to Pan for $15 674 619 dated 13 February 2004, which was the subject of adjustment between the parties over the following two years.",
+      "id": "s333"
+    },
+    {
+      "text": "On 29 May 2006, the solicitors for the liquidators forwarded the following table as a summary of the liquidators' final adjudication of Naturalcare's claim: \n \n ' Product \n Claim \n $ Cost \n Claim \n $ Profit \n Claim \n $ Total \n Claim \n $ Proof of debt (as varied by [Naturalcare]) 1,404,609.00 382,122.00 8,905,271.00 10,692,002.00 Adjustments to Claim 103,965.49 - - 103,965.49 Less: Rejected amounts (228,320.12) (366,437.00) (8,203,394.21) (8,798,151.33) Gross Admitted Claim 1,280,254.37 15,685.00 701,876.79 1,997,816.16 Less: debtor set off as per Pan ledger (532,691.03) - - (532,691.03) Net Admitted Claim $747,563.34 $15,685.00 $701,876.79 $1,465,125.13 Rejected amounts subject to Federal Court appeal - $208,724.00 $2,002,155.00 $2,210,879.00' \n\n LIABILITY \n Contract \n \n 58 The terms of the alleged Supply Contract, teased out of the Third Further Amended Statement of Claim, are as follows: \n \n &#8226; Pan promised to manufacture and supply to Naturalcare the goods customarily bought by Naturalcare from Pan at the quantities customarily acquired by Naturalcare.",
+      "id": "s334"
+    },
+    {
+      "text": "&#8226; The contract was for a period of three years from 1 March 2002 with an automatic renewal for a further three year period.",
+      "id": "s335"
+    },
+    {
+      "text": "&#8226; Either party could terminate the contract by six months' notice in writing to the other.",
+      "id": "s336"
+    },
+    {
+      "text": "&#8226; Naturalcare promised:\n (a) to buy all of its 'soft gel' goods from Pan; and\n (b) to buy from Pan the majority of all other goods sold by Naturalcare.",
+      "id": "s337"
+    },
+    {
+      "text": "&#8226; Naturalcare promised it would use its best endeavours to ensure that it purchased goods from Pan of an average annual value not less than the preceding annual value of goods purchased.",
+      "id": "s338"
+    },
+    {
+      "text": "&#8226; Naturalcare promised to pay the price stipulated in the applicable Pan annual price list or, if not stipulated, a reasonable price.",
+      "id": "s339"
+    },
+    {
+      "text": "&#8226; Naturalcare promised to keep formulations for the goods acquired confidential and not to disclose them to any other person without Pan's written consent.",
+      "id": "s340"
+    },
+    {
+      "text": "&#8226; Pan promised to manufacture and supply the goods to a particular standard, namely, to the standard set out in the Code.",
+      "id": "s341"
+    },
+    {
+      "text": "These terms were said to be a combination of the express terms of the 2002 Manufacturing Agreement, supplemented by the dealings between the parties from 1989 onwards, including discussions between Schadel and Selim and the knowledge Pan acquired throughout this period of Naturalcare's commercial dependence on the manufacturer.",
+      "id": "s342"
+    },
+    {
+      "text": "59 The question is whether the conduct of the parties manifested a mutual assent to a long term contract as alleged.",
+      "id": "s343"
+    },
+    {
+      "text": "Naturalcare relied upon Brambles Holdings Ltd v Bathurst City Council [2001] NSWCA 61 ; (2001) 53 NSWLR 153 at [81] , Integrated Computer Services Pty Ltd v Digital Equipment Corp (Aust) Pty Ltd (1988) 5 BPR 11,110 at 11,117---11,118 and Vroon BV v Foster's Brewing Group Ltd [1994] 2 VR 32 at 82---83.",
+      "id": "s344"
+    },
+    {
+      "text": "It was submitted that the indicia of such mutual assent included: \n \n &#8226; the 14 year supply relationship between Naturalcare and Pan;\n &#8226; the high level of trust and confidence which Schadel placed in Selim;\n &#8226; the representations made by Pan to Naturalcare;\n &#8226; the successive Manufacturing Agreements between Pan and Naturalcare;\n &#8226; the fact that Naturalcare organised its business such that it was reliant on Pan's continuing supply with Pan's knowledge, acquiescence and encouragement;\n &#8226; the collaboration between Pan and Naturalcare in the development of new products;\n &#8226; Pan's support of Naturalcare by allowing it favourable credit terms during 1989 through to 1994;\n &#8226; the fact that Pan organised special production runs for Naturalcare;\n &#8226; Selim's acquiescence in the description of Naturalcare as Pan's 'mail order arm';\n &#8226; Selim's encouragement for Naturalcare to expand into international markets.",
+      "id": "s345"
+    },
+    {
+      "text": "60 It was submitted by Naturalcare that the goods customarily bought by Naturalcare from Pan were those set out in Appendix 1 to the Manufacturing Agreement, as added to or subtracted from time to time as new products were developed.",
+      "id": "s346"
+    },
+    {
+      "text": "It was submitted that the quantities customarily acquired by Naturalcare from Pan were fluid but the overall quantity per annum from 2000 onwards totalled approximately $2 million.",
+      "id": "s347"
+    },
+    {
+      "text": "61 I accept that commercial arrangements should not be pedantically analysed with a view to finding a self-contained offer and a self-contained acceptance before a contract can be found.",
+      "id": "s348"
+    },
+    {
+      "text": "However, in my opinion, the arrangements here were too fluid, if not amorphous, to amount to a long term supply agreement.",
+      "id": "s349"
+    },
+    {
+      "text": "Most of the points suggested to be in favour of the existence of the Supply Contract are indicative of a close working commercial relationship rather than contract.",
+      "id": "s350"
+    },
+    {
+      "text": "62 There are significant discrepancies between the pleaded terms and the evidence given on behalf of Naturalcare.",
+      "id": "s351"
+    },
+    {
+      "text": "The evidence was that the applicant would purchase 'close to 100 per cent' of the soft gel products from Pan rather than all of those products and would purchase 'the majority of all goods' not 'all other goods'.",
+      "id": "s352"
+    },
+    {
+      "text": "The evidence of Schadel was consistent with a proviso that it was open to Naturalcare to acquire product from alternative suppliers who were offering a better price, but this is not reflected in the alleged contract.",
+      "id": "s353"
+    },
+    {
+      "text": "There is a question on Schadel's evidence as to whether the arrangement was that Naturalcare would purchase the lion's share of the overall business or (if there is a distinction) the bulk of the overall business.",
+      "id": "s354"
+    },
+    {
+      "text": "Schadel's evidence did not support the alleged term concerning the promise to use best endeavours to ensure that Naturalcare purchased goods from Pan of an average annual value not less than the preceding annual value of goods purchased.",
+      "id": "s355"
+    },
+    {
+      "text": "There is also merit in the submission for Pan that the purchase of 90 per cent of Naturalcare by Amrion, was inconsistent with the gist of the alleged arrangements.",
+      "id": "s356"
+    },
+    {
+      "text": "Whether or not Amrion products were meant to replace Pan products, it was intended that Naturalcare would be used as the Australian distributor for Amrion.",
+      "id": "s357"
+    },
+    {
+      "text": "63 Another significant difficulty with the contract case is the existence of the successive written Manufacturing Agreements.",
+      "id": "s358"
+    },
+    {
+      "text": "There is no strict inconsistency between the Manufacturing Agreements and the alleged Supply Contract.",
+      "id": "s359"
+    },
+    {
+      "text": "It is to be noted, however, that one of the terms of the Manufacturing Agreements provided 'this agreement does not cover any other commercial arrangements'.",
+      "id": "s360"
+    },
+    {
+      "text": "The formality associated with the Manufacturing Agreements may be accounted for by the requirements of the Code.",
+      "id": "s361"
+    },
+    {
+      "text": "However, it is improbable that the parties would document one form of binding agreement without documenting another more commercially significant agreement.",
+      "id": "s362"
+    },
+    {
+      "text": "The alleged Supply Contract would necessarily overlap with the current Manufacturing Agreement, it incorporates terms from the Manufacturing Agreement and would have involved very significant obligations on both sides.",
+      "id": "s363"
+    },
+    {
+      "text": "There were also the successive Confidentiality Agreements.",
+      "id": "s364"
+    },
+    {
+      "text": "It is inherently improbable that there was no note or memorandum of, or written reference to, any such agreement, if it existed and was regarded as binding by both parties.",
+      "id": "s365"
+    },
+    {
+      "text": "64 That improbability is underlined when the terms of the alleged agreement are more closely examined in the light of the facts.",
+      "id": "s366"
+    },
+    {
+      "text": "It will be recalled that the goods the subject of the Agreement were identified as those 'customarily acquired by Australian Naturalcare from Pan' and the quantities were 'those quantities Australian Naturalcare customarily obtained from Pan'.",
+      "id": "s367"
+    },
+    {
+      "text": "There are insuperable difficulties in the path of establishing the identity of the goods covered by the alleged Supply Contract.",
+      "id": "s368"
+    },
+    {
+      "text": "It will be recalled that it was also alleged in the pleading that the goods listed in Appendix 1 of the Manufacturing Agreement were substantially all of the goods that Naturalcare customarily acquired from Pan as at 1 March 2002.",
+      "id": "s369"
+    },
+    {
+      "text": "In evidence, Schadel referred to Appendix 1 as identifying the goods subject to the supply agreement.",
+      "id": "s370"
+    },
+    {
+      "text": "However, he also contended that the document was 'fluid' and that Pan had an obligation to supply any product that the applicant had ordered, even if only once, or that Pan had ever manufactured for Naturalcare in the 14 year relationship.",
+      "id": "s371"
+    },
+    {
+      "text": "65 Honey's analysis of Naturalcare's purchases from Pan in two 12 month periods--1 March 2001 to 28 February 2002, and 1 March 2002 to 28 February 2003--illustrates the difficulty.",
+      "id": "s372"
+    },
+    {
+      "text": "Counsel for Pan summarised the results as follows: \n \n 'In relation to the 2001---2002 period: \n (a) 54 different products were acquired; \n (b) 35 of the acquired products were listed in the schedule; \n (c) 19 of the acquired products were not listed in the schedule; \n (d) 67 of the products listed in the schedule were not acquired.",
+      "id": "s373"
+    },
+    {
+      "text": "In relation to the 2002---2003 period: \n (a) 56 different products were acquired; \n (b) 34 of the acquired products were listed in the schedule; \n (c) 22 of the acquired products were not listed in the schedule; \n (d) 68 of the products listed in the schedule were not acquired.",
+      "id": "s374"
+    },
+    {
+      "text": "Comparing the 2001---2002 and 2002---2003 purchasing periods: \n \n \n (a) 43 of the acquired products were common to both purchasing periods; \n (b) 13 of the 2002---2003 acquired products had not been acquired in the 2001---2002 period; \n (c) Naturalcare did not acquire 11 products in 2002---2003 that it had acquired in the 2001---2002 period.",
+      "id": "s375"
+    },
+    {
+      "text": "' \n \n \n 66 Further, I am not satisfied that there was any pattern about the ordering practice which could form the basis for a finding that there were customary quantities purchased.",
+      "id": "s376"
+    },
+    {
+      "text": "Honey's analysis established that only eight of the 43 common products which were purchased in both 2001---2002 and 2002---2003 were purchased in both years within a variation in amount of 10 per cent.",
+      "id": "s377"
+    },
+    {
+      "text": "The remaining 35 products purchased in both years varied in volume from -316 per cent to +82 per cent.",
+      "id": "s378"
+    },
+    {
+      "text": "The lack of any pattern is borne out by the records of Pan in relation to the purchasing history of Naturalcare.",
+      "id": "s379"
+    },
+    {
+      "text": "67 Schadel accepted that Naturalcare was free to shop around for a cheaper price.",
+      "id": "s380"
+    },
+    {
+      "text": "That was inevitable as the evidence showed that Naturalcare was obtaining supply from Lipa from the early days and was regularly transferring suppliers because of price.",
+      "id": "s381"
+    },
+    {
+      "text": "The contract case fails.",
+      "id": "s382"
+    },
+    {
+      "text": "Estoppel \n \n 68 Naturalcare relies upon promissory estoppel as a 'sword', that is, as a source of substantive rights enforceable as a cause of action in its own right.",
+      "id": "s383"
+    },
+    {
+      "text": "Counsel referred to Waltons Stores (Interstate) Limited v Maher [1988] HCA 7 ; (1988) 164 CLR 387 at 416 per Brennan J; Commonwealth v Verwayen [1990] HCA 39 ; (1990) 170 CLR 394 at 430 per Brennan J; News Corporation Ltd v Lenfest Communications Inc (1996) 21 ACSR 553 at 569; and Gray (As Administrator of the Estate of Gray) v National Crime Authority [2003] NSWSC 111 at [153] ---[159] (cf Australian Crime Commission v Gray (As Administrator of the Estate of Gray) [2003] NSWCA 318 per Mason P at [40], agreed to by Tobias JA at [313]).",
+      "id": "s384"
+    },
+    {
+      "text": "Counsel for Pan submits that this claim is misconceived and that equitable estoppel can not be used as a sword otherwise than in equity.",
+      "id": "s385"
+    },
+    {
+      "text": "Counsel submits that Waltons Stores (Interstate) Ltd v Maher does not establish that equitable estoppel is a cause of action in itself capable of sounding in damages (legal or equitable) although it may assist in establishing a recognised cause of action such as breach of contract (as in that case).",
+      "id": "s386"
+    },
+    {
+      "text": "There is much to be said for that submission.",
+      "id": "s387"
+    },
+    {
+      "text": "However, the question is controversial (KR Handley, Estoppel by Conduct and Election, Sweet &amp; Maxwell, London, 2006, Ch 13).",
+      "id": "s388"
+    },
+    {
+      "text": "As I have a clear view that the integers of promissory estoppel are not established, I need not deal further with this fundamental question.",
+      "id": "s389"
+    },
+    {
+      "text": "It should be noted that the claim for estoppel by convention is not pursued.",
+      "id": "s390"
+    },
+    {
+      "text": "69 The estoppel case pleads the assumption that Pan was, and would continue to be, the exclusive supplier of soft gel goods and the supplier of the whole or the majority of the other therapeutic goods sold by Naturalcare for at least the term of the Manufacturing Agreement, including any renewed term.",
+      "id": "s391"
+    },
+    {
+      "text": "The case pleads an expectation by Naturalcare that Pan would continue to be its exclusive supplier of soft gel goods and the supplier of the whole or the majority of the other therapeutic goods sold by Naturalcare and that Pan would not be free to, or would not, withdraw from that expected relationship for at least the term of the Manufacturing Agreement, including any renewed term.",
+      "id": "s392"
+    },
+    {
+      "text": "70 That assumption and that expectation are said to have arisen from the same course of conduct as was alleged to have given rise to the Supply Contract, together with some allegations of a general kind as to the relationship between the parties, also relied upon to establish a duty of care.",
+      "id": "s393"
+    },
+    {
+      "text": "Counsel for Naturalcare referred, in particular, to parts of a conversation between Schadel, Davis and Selim, which took place in 1995.",
+      "id": "s394"
+    },
+    {
+      "text": "71 The first problem for Naturalcare is that promissory estoppel must be based upon conduct that is clear and unequivocal-- Legione v Hateley [1983] HCA 11 ; (1983) 152 CLR 406 at 435---437; Foran v Wight [1989] HCA 51 ; (1989) 168 CLR 385 at 410---411.",
+      "id": "s395"
+    },
+    {
+      "text": "Conduct not precise enough to form a contract would rarely be the basis for a promissory estoppel.",
+      "id": "s396"
+    },
+    {
+      "text": "It is sufficient to refer to the discrepancies in the contract case to illustrate the lack of a basis for promissory estoppel 72 The next problem is in identifying an appropriate subject matter for the assumption or expectation.",
+      "id": "s397"
+    },
+    {
+      "text": "Counsel for Naturalcare referred to the passage from the judgment of Brennan J in Waltons Stores (Interstate) Ltd v Maher where his Honour said, amongst other things (at 428): \n \n '... the plaintiff assumed that a particular legal relationship then existed between the plaintiff and the defendant or expected that a particular legal relationship would exist between them and, in the latter case, that the defendant would not be free to withdraw from the expected legal relationship;' \n \n\nMason CJ and Wilson J referred to 'basic assumptions underlying the transaction between the parties' (at 406).",
+      "id": "s398"
+    },
+    {
+      "text": "They went on to point out that the failure to fulfil a promise does not, of itself, amount to unconscionable conduct and mere reliance upon an executory promise to do something does not bring promissory estoppel into play (also at 406).",
+      "id": "s399"
+    },
+    {
+      "text": "It is submitted by counsel for Naturalcare that the legal relationship in question was as supplier of Naturalcare's soft gel business and of the majority of Naturalcare's tablet business.",
+      "id": "s400"
+    },
+    {
+      "text": "In my opinion, that does not amount to a relevant assumption or expectation.",
+      "id": "s401"
+    },
+    {
+      "text": "It only illustrates a continuing commercial relationship.",
+      "id": "s402"
+    },
+    {
+      "text": "73 The next problem is that Naturalcare has to establish that the estoppel in the terms alleged was operative in 2003.",
+      "id": "s403"
+    },
+    {
+      "text": "I have no difficulty in rejecting that contention.",
+      "id": "s404"
+    },
+    {
+      "text": "Such an assumption would be inconsistent with the course of dealings between the parties up to that time.",
+      "id": "s405"
+    },
+    {
+      "text": "Naturalcare had acquired soft gel products from non Pan sources and the majority of tablets from non Pan sources.",
+      "id": "s406"
+    },
+    {
+      "text": "Counsel for Naturalcare was only able to argue that Naturalcare gave Pan almost all of its soft gel business between January 2000 and April 2003, being 89 per cent by value and 48.2 per cent of its tablet products by value and Naturalcare acquired 58.25 per cent of its tablet products (by value) from Pan in the period January 2000 to April 2003, rather than 48.2 per cent but only if Healthy Joints figures are excluded.",
+      "id": "s407"
+    },
+    {
+      "text": "74 Next, it is not at all clear how it is alleged that the assumption and expectation were unconscientiously departed from.",
+      "id": "s408"
+    },
+    {
+      "text": "The failure to supply products was not the kind of deliberate unconscientious departure from a state of affairs which might found a promissory estoppel.",
+      "id": "s409"
+    },
+    {
+      "text": "It was the result of action by the TGA pursuant to statute.",
+      "id": "s410"
+    },
+    {
+      "text": "75 Other criticisms of the estoppel case were made by counsel for Pan.",
+      "id": "s411"
+    },
+    {
+      "text": "It is not necessary to deal with them.",
+      "id": "s412"
+    },
+    {
+      "text": "That case fails.",
+      "id": "s413"
+    },
+    {
+      "text": "Tort \n \n 76 The argument for Naturalcare in tort commenced with the contention that, at least between 1995 and 2002, Pan made a number of representations to Naturalcare to the effect that Pan was ready, willing and able to continue to supply Naturalcare with therapeutic goods; that any risk to Naturalcare arising out of Naturalcare's reliance or dependence upon Pan for the supply of product was negligible or immaterial and that Pan was, and would continue to be, compliant with the requirements of the TGA.",
+      "id": "s414"
+    },
+    {
+      "text": "For the purposes of argument, that can be taken as a fair summary of the statements by Selim from time to time and from the dealings between the parties over many years.",
+      "id": "s415"
+    },
+    {
+      "text": "The following propositions were advanced: \n \n (1) The representations were made in circumstances in which Pan knew, or ought reasonably to have known, that the representations would be relied upon (referring to L Shaddock &amp; Associates Proprietary Limited v Council of the City of Parramatta [1981] HCA 59 ; (1981) 150 CLR 225; Mid Density Developments Pty Limited v Rockdale Municipal Council (1993) 44 FCR 290; Eade v Vogiazopoulos [1999] 3 VR 889 at [115] per Smith J; Perre v Apand Pty Limited [1999] HCA 36 ; (1999) 198 CLR 180 per McHugh J at [124]).",
+      "id": "s416"
+    },
+    {
+      "text": "(2) Naturalcare was vulnerable to Pan in the sense that it was unable to protect its own interests.",
+      "id": "s417"
+    },
+    {
+      "text": "Pan was in control of its own manufacturing processes and, to the extent that Naturalcare might have taken steps to protect its own interests, it was induced not to do so by Pan's express representations and conduct (referring to Woolcock Street Investments Pty Ltd v CDG Pty Ltd [2004] HCA 16 ; (2003) 216 CLR 515 at [23] ; Perre v Apand Pty Limited at [10]---[13] per Gleeson CJ; at [42] per Gaudron J; at [118]---[119] per McHugh J; at [216] per Gummow J; at [298] per Kirby J; at [416] per Callinan J; Fortuna Seafoods Pty Ltd (as trustee for the Rowley Family Trust) v Ship 'Eternal Wind' [2005] QCA 405).",
+      "id": "s418"
+    },
+    {
+      "text": "(3) Pan had actual foresight of the likelihood that Naturalcare could suffer harm in the event that it manufactured and supplied product otherwise than conformably with requirements of the TGA and the Code.",
+      "id": "s419"
+    },
+    {
+      "text": "Pan was supplying goods for sale to, and ingestion by, humans.",
+      "id": "s420"
+    },
+    {
+      "text": "Pan knew that Naturalcare was taking the lion's share of its products from Pan and would be damaged if that supply ceased ( Perre v Apand Pty Limited at [13] per Gleeson CJ; at [50]; and [133] per McHugh J).",
+      "id": "s421"
+    },
+    {
+      "text": "(4) The statutory scheme meant that Pan assumed, for its own advantage, particular responsibilities which would give comfort to sponsors in the circumstances of Naturalcare ( Moorabool Shire Council v Taitapanui [2006] VSCA 30 at [3] , [82], [159]).",
+      "id": "s422"
+    },
+    {
+      "text": "(5) The case falls within at least one of the standard categories in which the common law has previously recognised that a duty of care may arise, namely, the negligent supply of goods ( Perre v Apand Pty Limited at [96] per McHugh J).",
+      "id": "s423"
+    },
+    {
+      "text": "(6) The policy consideration relating to indeterminacy of liability does not arise in the present case.",
+      "id": "s424"
+    },
+    {
+      "text": "Naturalcare was a first line victim.",
+      "id": "s425"
+    },
+    {
+      "text": "(7) Imposing a duty of care of the kind alleged would not impose an unreasonable burden on Pan ( Perre v Apand Pty Limited at [133] per McHugh J).",
+      "id": "s426"
+    },
+    {
+      "text": "Taking these factors into account, it was submitted that Pan had a duty of care at least to take reasonable care to ensure that the goods it manufactured for supply conformed with the requirements of the TGA and the Code.",
+      "id": "s427"
+    },
+    {
+      "text": "77 It was then submitted that Pan has admitted that, at least between May 2002 and April 2003, it failed to manufacture goods conformably with the requirements of the TGA and the Code.",
+      "id": "s428"
+    },
+    {
+      "text": "It was indicated that the evidence contained in the reports by the TGA established that Pan must have known that it was in breach of those requirements and was at risk of losing its licence at any time.",
+      "id": "s429"
+    },
+    {
+      "text": "78 It was also submitted that if Pan had complied with its duty of care: \n \n (a) it would not have lost its licence to manufacture therapeutic goods; \n (b) it would have continued to be in a position to supply product to Naturalcare; and\n (c) the product it supplied to Naturalcare would have been compliant with the Code and would have been sold by Naturalcare for a profit in the ordinary course of events.",
+      "id": "s430"
+    },
+    {
+      "text": "Accordingly Naturalcare would not have suffered the loss it seeks to recover in the proceedings by virtue of the interruption to supply.",
+      "id": "s431"
+    },
+    {
+      "text": "Its losses were of a class that was a reasonable foreseeable consequence of Pan's negligence ( Gates v City Mutual Life Assurance Society Limited [1986] HCA 3 ; (1986) 160 CLR 1 at 13).",
+      "id": "s432"
+    },
+    {
+      "text": "79 A failure to warn was pleaded but was not pressed in written or oral submissions for Naturalcare.",
+      "id": "s433"
+    },
+    {
+      "text": "80 This is a claim for pure economic loss.",
+      "id": "s434"
+    },
+    {
+      "text": "That is an opaque area of the law.",
+      "id": "s435"
+    },
+    {
+      "text": "The case is not pleaded as negligent misstatement.",
+      "id": "s436"
+    },
+    {
+      "text": "The case bears no real similarity to any previous pure economic loss case.",
+      "id": "s437"
+    },
+    {
+      "text": "Stripped to the essentials, a duty to continue to supply goods is claimed.",
+      "id": "s438"
+    },
+    {
+      "text": "That is a novel basis for a tortious claim.",
+      "id": "s439"
+    },
+    {
+      "text": "81 Counsel for Pan has put forward a number of detailed reasons for its contention that the claim is misconceived.",
+      "id": "s440"
+    },
+    {
+      "text": "The most important is that Naturalcare was not 'vulnerable' in the sense required if that quality is to be a touchstone of liability as was submitted on behalf of Naturalcare.",
+      "id": "s441"
+    },
+    {
+      "text": "It would be necessary for Naturalcare to establish that it could not protect itself from the consequences of Pan's want of reasonable care, either entirely or at least in a way which would cast the consequences of the loss on the other party ( Woolcock Street Investments Pty Ltd v CDG Pty Ltd at [23] per Gleeson CJ, Gummow, Hayne and Heydon JJ; and Perre v Apand Pty Ltd per McHugh J at [120]).",
+      "id": "s442"
+    },
+    {
+      "text": "The risk of a supplier of goods not being able to maintain supply is an every day incident of commercial life.",
+      "id": "s443"
+    },
+    {
+      "text": "Many statutes regulate manufacturers and suppliers of goods.",
+      "id": "s444"
+    },
+    {
+      "text": "There is always a risk that if the statute is not complied with, the supply of goods may be prohibited or suspended.",
+      "id": "s445"
+    },
+    {
+      "text": "Various strategies to minimise risks of that kind and their impact are available to the intending purchaser.",
+      "id": "s446"
+    },
+    {
+      "text": "Particular contractual provisions can be framed, insurance can be sought, alternative suppliers located and so on.",
+      "id": "s447"
+    },
+    {
+      "text": "All available strategies were open to Naturalcare.",
+      "id": "s448"
+    },
+    {
+      "text": "The answer given on behalf of Naturalcare is that it was convinced by Selim's assurances not to take such prudent steps.",
+      "id": "s449"
+    },
+    {
+      "text": "That is no answer.",
+      "id": "s450"
+    },
+    {
+      "text": "It highlights the fact that the real complaint is about the alleged representations, not about failure to take reasonable care to ensure that the requirements of the Code were met.",
+      "id": "s451"
+    },
+    {
+      "text": "Misleading and deceptive conduct \n \n 82 Naturalcare relies upon two representations.",
+      "id": "s452"
+    },
+    {
+      "text": "The first is that Pan would so conduct its manufacturing processes as to comply with the Code --- called the Quality Assurance representation.",
+      "id": "s453"
+    },
+    {
+      "text": "This representation is alleged to have been made by the 2002 Manufacturing Agreement in the light of previous dealings between the parties.",
+      "id": "s454"
+    },
+    {
+      "text": "Contractual promises can be the foundation of misleading and deceptive conduct for the purposes of s 52 in some circumstances ( HTW Valuers (Central Qld) Pty Ltd v Astonland Pty Ltd [2004] HCA 54 ; (2004) 217 CLR 640 at [13] ).",
+      "id": "s455"
+    },
+    {
+      "text": "Whether these are such circumstances is best judged in a wider context.",
+      "id": "s456"
+    },
+    {
+      "text": "83 It is also alleged 'further or in the alternative' that Pan represented to Naturalcare that Pan would continue to supply all, or most of, Naturalcare's requirements as to therapeutic goods or, alternatively, Naturalcare's requirements as to soft gel goods and all or most of Naturalcare's requirements as to other therapeutic goods --- called the Supply representation.",
+      "id": "s457"
+    },
+    {
+      "text": "That alleged representation is based upon particular statements in various discussions between Schadel and Selim including that Pan was the largest manufacturer of health care products in Australia and was compliant with the requirements of the TGA and, accordingly, that the risk associated with Naturalcare's reliance and dependence on Pan continuing to supply Naturalcare with those goods customarily purchased by it from Pan at the quantities customarily acquired was negligible or immaterial; and that Pan was ready, willing and able to continue to supply Naturalcare with all goods it customarily acquired from Pan at those quantities it customarily obtained from Pan.",
+      "id": "s458"
+    },
+    {
+      "text": "84 It is submitted on behalf of Naturalcare that each of the Quality Assurance representation and the Supply representation was with respect to a future matter: in the one case, future conduct of the manufacturing process; and the other, the future ability to supply therapeutic goods, each broadly concerned with the continuing supply of therapeutic goods.",
+      "id": "s459"
+    },
+    {
+      "text": "It is contended that Pan has not established reasonable grounds for making either representation, with the result that the making of each of them was misleading and deceptive, or likely to mislead and deceive.",
+      "id": "s460"
+    },
+    {
+      "text": "It is further contended that Naturalcare relied upon the misleading conduct by continuing to conduct business on the basis that the bulk of the products it was to sell would be acquired from Pan and did not reorganise its business.",
+      "id": "s461"
+    },
+    {
+      "text": "This left it vulnerable to the sudden cessation of supply which occurred upon suspension of Pan's licence, leading to losses due to the disruption to its business.",
+      "id": "s462"
+    },
+    {
+      "text": "85 Pan disputes each link in that chain.",
+      "id": "s463"
+    },
+    {
+      "text": "It denies the making of the representations.",
+      "id": "s464"
+    },
+    {
+      "text": "Pan then submits that the evidence of Schadel was that the assurances he received from Selim were in the present tense so, even if his evidence is accepted, the representations were about the then present capacity to manufacture and supply rather than being about a future matter.",
+      "id": "s465"
+    },
+    {
+      "text": "On that basis Pan contends that the representations are not shown to have been misleading.",
+      "id": "s466"
+    },
+    {
+      "text": "Even if the assurances were in respect of a future matter, Pan submits that no continuing representation was pleaded or proved.",
+      "id": "s467"
+    },
+    {
+      "text": "It would follow, so it was said, that even if Pan failed to carry the onus provided by s 51A, all that would be established was a breach of s 52 at the time of the making of the representations and there was no causal relationship between those breaches and the damage alleged to have been suffered.",
+      "id": "s468"
+    },
+    {
+      "text": "It was submitted that, in any event, there was a reasonable basis for any representations that were made.",
+      "id": "s469"
+    },
+    {
+      "text": "86 Naturalcare places considerable emphasis upon the meetings in 1994 attended by Davis and those in 1998 and early 1999 attended by Robinson.",
+      "id": "s470"
+    },
+    {
+      "text": "Indeed, those are the only particular conversations which, in terms, are said to have included express representations as to compliance with TGA requirements.",
+      "id": "s471"
+    },
+    {
+      "text": "I have accepted the evidence of each of Davis and Robinson which in turn corroborates the substance of the evidence of Schadel about those meetings.",
+      "id": "s472"
+    },
+    {
+      "text": "87 I also accept the substance of the evidence of Schadel that he continued to have regular discussions with Selim up to the time of the licence suspension, the content of which is only explicable upon the basis of the continuance of the arrangements between them and their respective companies based, amongst other things, upon the assurances received at the meetings with Davis and Robinson.",
+      "id": "s473"
+    },
+    {
+      "text": "Schadel's principal affidavit was broadly chronological in structure.",
+      "id": "s474"
+    },
+    {
+      "text": "After taking the narrative through to the sale of the Amrion interests in about May 2001, he dealt with the Healthy Joints dispute occurring around September 2001 and then with what was described as 'Other Business Collaboration' between Naturalcare and Pan involving discussions between Schadel and Selim.",
+      "id": "s475"
+    },
+    {
+      "text": "He then said: \n \n 'Following the discussions with Mr Selim deposed to above, I believed that Pan would remain the sole supplier of [Naturalcare's] soft gel goods and principal supplier of tablets for at least the balance of the 2002 Manufacturing Agreement, including any renewal of that agreement, and indeed I expected that the relationship between Pan and [Naturalcare] would continue indefinitely.",
+      "id": "s476"
+    },
+    {
+      "text": "I did not cause [Naturalcare] to seek a broad range of alternative manufacturers or suppliers, so that if one failed or ceased to exist [Naturalcare's] business would not be overly affected.",
+      "id": "s477"
+    },
+    {
+      "text": "I did cause [Naturalcare] to obtain quotes for tablets or generic products from other suppliers.",
+      "id": "s478"
+    },
+    {
+      "text": "However this was largely a \"check\" to make sure that Pan was competitive on price.",
+      "id": "s479"
+    },
+    {
+      "text": "[Naturalcare] did diversify to an extent by having more tablets supplied by other manufacturers, but did not do so with its soft gels.",
+      "id": "s480"
+    },
+    {
+      "text": "I allowed [Naturalcare] to remain to a great extent reliant on Pan as its major supplier of tablets and virtually sole supplier of soft gel capsules, ...",
+      "id": "s481"
+    },
+    {
+      "text": "This was because I had faith in Mr Selim's assurances to me and Mr Davis and Mr Robinson about Pan and I felt as though I owed to Mr Selim a degree of the loyalty he expected.",
+      "id": "s482"
+    },
+    {
+      "text": "If Mr Selim had not made the statements deposed to above and [Naturalcare] had not relied on Pan, [Naturalcare] would have developed a different business --- it would have had more generic products, rather than continuing to develop new complex slurry mix soft gels with Pan that were unable to be produced easily by other manufacturers.",
+      "id": "s483"
+    },
+    {
+      "text": "Pan was one of two Australian manufacturers producing soft gel capsules and it was the only one that could produce enteric coated soft gels.",
+      "id": "s484"
+    },
+    {
+      "text": "... \n ...",
+      "id": "s485"
+    },
+    {
+      "text": "While some soft gels could have been obtained by [Naturalcare] overseas, I did not feel this was necessary due to Mr Selim's assurances about Pan continuing to supply [Naturalcare] .",
+      "id": "s486"
+    },
+    {
+      "text": "In addition, [Naturalcare] wanted to deal with Australian manufacturers and it did so until it was forced to look to overseas for products following the Pan recall.",
+      "id": "s487"
+    },
+    {
+      "text": "Pan had other advantages from [Naturalcare's] perspective which included the good service it provided, particularly through Mr Selim's personal collaboration with me, good price on the complex soft gel formulas and the ability to manufacture the quantities of product sought by [Naturalcare] quickly (e.g.",
+      "id": "s488"
+    },
+    {
+      "text": "within 3 months compared to R P Scherer's 6 months).",
+      "id": "s489"
+    },
+    {
+      "text": "' \n \n\nSchadel's evidence as to the continuing faith he had in the assurances given by Selim to Davis, Robinson and himself was not directly challenged in cross-examination.",
+      "id": "s490"
+    },
+    {
+      "text": "That may not be of any great moment in itself.",
+      "id": "s491"
+    },
+    {
+      "text": "No Browne v Dunn point is taken.",
+      "id": "s492"
+    },
+    {
+      "text": "The parties are clearly at issue on matters such as that.",
+      "id": "s493"
+    },
+    {
+      "text": "I accept the substance of this evidence of Schadel, notwithstanding some exaggeration on his part.",
+      "id": "s494"
+    },
+    {
+      "text": "88 The successive Manufacturing Agreements are also to be considered.",
+      "id": "s495"
+    },
+    {
+      "text": "Pan is correct in submitting that those agreements only bite contractually as and when particular goods are ordered.",
+      "id": "s496"
+    },
+    {
+      "text": "Further, each such agreement includes an express term that it does not cover any other commercial arrangement.",
+      "id": "s497"
+    },
+    {
+      "text": "On the other hand, Pan is committed by the Agreement to stand ready for a period of at least three years (subject to termination on six months' notice) to comply with the nominated Code responsibilities in relation to all or any of the specified products.",
+      "id": "s498"
+    },
+    {
+      "text": "It is necessarily implicit that Pan was and would remain ready, willing and able to comply with the Code for the period of the Agreement.",
+      "id": "s499"
+    },
+    {
+      "text": "Compliance with the Code was fundamental to Pan's ability to manufacture therapeutic goods.",
+      "id": "s500"
+    },
+    {
+      "text": "89 The question is whether entering into the Manufacturing Agreement in 2002 in the light of the previous dealings amounted to a representation or representations as pleaded and not whether a contractual promise was made.",
+      "id": "s501"
+    },
+    {
+      "text": "Reference has already been made to the judgment of Gleeson CJ, McHugh, Gummow, Kirby and Heydon JJ in HTW Valuers (Central Qld) Pty Ltd v Astonland Pty Ltd , dealing with the capacity of contractual promises to found representations for the purposes of s 52, which in turn refers to the judgment of Lockhart and Gummow JJ in Accounting Systems 2000 (Developments) Pty Ltd v CCH Australia Ltd (1993) 42 FCR 470 at 503---506 (see also Futuretronics International Pty Ltd v Gadzhis [1992] 2 VR 217 at 233---241).",
+      "id": "s502"
+    },
+    {
+      "text": "A practical example of the interplay between contractual promises and misleading or deceptive conduct is seen in the decision of Finn J in Hughes Aircraft Systems International v Airservices Australia (1997) 76 FCR 151.",
+      "id": "s503"
+    },
+    {
+      "text": "Nonetheless, some caution needs to be exercised in too readily equating the two ( Effem Foods Pty Ltd (t/as Uncle Ben's of Australia) v Lake Cumbeline Pty Ltd [1999] HCA 15 ; (1999) 161 ALR 599 per Gleeson CJ, Gaudron, Kirby and Hayne JJ at [12] and Callinan J at [60]; Wright v TNT Management Pty Ltd (1988) 15 NSWLR 679; and McWilliam's Wines Pty Ltd v LS Booth Wine Transport Pty Ltd (1992) 25 NSWLR 723).",
+      "id": "s504"
+    },
+    {
+      "text": "90 I am satisfied that entering into the Manufacturing Agreement in 2002 did constitute conduct within the meaning of s 52 of the Trade Practices Act (read in the light of s 4) which was capable of being and was misleading and deceptive, particularly when considered in the context of the previous course of dealings between Pan and Naturalcare and between Selim and Schadel.",
+      "id": "s505"
+    },
+    {
+      "text": "The terms of the Manufacturing Agreement convey the Quality Assurance representation in a general fashion for the term of the agreement, not restricted to goods actually ordered.",
+      "id": "s506"
+    },
+    {
+      "text": "I am also satisfied that the explicit assurances by Selim, in the conversations with Schadel, Davis and Robinson, were implicitly carried forward by the same course of dealing.",
+      "id": "s507"
+    },
+    {
+      "text": "I am satisfied that Pan, at all times, represented itself to Naturalcare as a safe and reliable supplier, which was, and would remain ready, willing and able to comply with the Code.",
+      "id": "s508"
+    },
+    {
+      "text": "I thus find that the Supply representation was also made.",
+      "id": "s509"
+    },
+    {
+      "text": "91 Was it misleading or deceptive, or likely to mislead or deceive, to make either or both of those representations?",
+      "id": "s510"
+    },
+    {
+      "text": "Pan admits that it did not comply with the Code in relation to the therapeutic goods manufactured and supplied by Pan to Naturalcare between 1 May 2002 and 28 April 2003 and makes a similar admission in relation to therapeutic goods manufactured and supplied by it to other customers between 1 May 2002 and 28 April 2003.",
+      "id": "s511"
+    },
+    {
+      "text": "It also admits that its manufacturing licence was suspended by the TGA as a result of its failure to comply with what is described as Good Manufacturing Processes.",
+      "id": "s512"
+    },
+    {
+      "text": "Pan takes the point that the admission is as from 1 May 2002 but the Agreement was entered into in April and was said to be operative from 1 March 2002.",
+      "id": "s513"
+    },
+    {
+      "text": "That distinction is of little merit.",
+      "id": "s514"
+    },
+    {
+      "text": "There is no evidence of any relevant change of circumstances between 1 March 2002 and 1 May 2002.",
+      "id": "s515"
+    },
+    {
+      "text": "The audits by the TGA on 30---31 January 2003, 24---25 February 2003 and 7---11 and 14 April 2003 and the reports upon them, together with the report of the TGA Expert Advisory Group of 23 April 2003, and the various notices pursuant to ss 30, 40 and 41 of the TGA Act given in 2003 are cogent evidence of the failure by Pan to comply with the Code by reason of serious systemic deficiencies.",
+      "id": "s516"
+    },
+    {
+      "text": "Pan did not call evidence to establish compliance with the Code during 2002 and 2003 or at any time.",
+      "id": "s517"
+    },
+    {
+      "text": "It did not call evidence to explain or rebut the effect of the TGA investigation and the conclusions that can be drawn from it.",
+      "id": "s518"
+    },
+    {
+      "text": "I am quite satisfied that Pan was in serious breach of the Code during 2002 and 2003.",
+      "id": "s519"
+    },
+    {
+      "text": "92 The position in earlier years is not so clear.",
+      "id": "s520"
+    },
+    {
+      "text": "The TGA audit reports show significant deficiencies, but Pan continued to be licensed.",
+      "id": "s521"
+    },
+    {
+      "text": "Pan did not call evidence to prove compliance with the Code or that there was a proper basis for representations of compliance.",
+      "id": "s522"
+    },
+    {
+      "text": "On the other hand, Selim was not cross-examined on that topic.",
+      "id": "s523"
+    },
+    {
+      "text": "The extent of his involvement in, and knowledge of, the manufacturing process is not clear.",
+      "id": "s524"
+    },
+    {
+      "text": "The gist of the case is not based upon the earlier representations being a breach of s 52 when made.",
+      "id": "s525"
+    },
+    {
+      "text": "It is that they continued to be part of the basis upon which business was done in 2002 and 2003.",
+      "id": "s526"
+    },
+    {
+      "text": "It also follows that the fact that different Pan entities were involved in manufacturing prior to Pan Pharmaceuticals Limited taking over in 2000 does not affect the cause of action against it.",
+      "id": "s527"
+    },
+    {
+      "text": "93 The consequence is that the Quality Assurance representation was misleading if viewed as a statement of existing circumstances at the commencement of and during the term of the 2002 Manufacturing Agreement.",
+      "id": "s528"
+    },
+    {
+      "text": "That contract continued in force until the recall.",
+      "id": "s529"
+    },
+    {
+      "text": "Breach of s 52 does not have to be intentional or negligent.",
+      "id": "s530"
+    },
+    {
+      "text": "If the Quality Assurance representation carried with it a representation as to future conduct, no reasonable grounds are established for making such a representation.",
+      "id": "s531"
+    },
+    {
+      "text": "94 The situation in relation to the Supply representation is somewhat different.",
+      "id": "s532"
+    },
+    {
+      "text": "Pan was ready and willing to supply.",
+      "id": "s533"
+    },
+    {
+      "text": "Indeed, it continued to supply up until the suspension and recall.",
+      "id": "s534"
+    },
+    {
+      "text": "However, Pan was ultimately unable to supply because of the failure to comply with the Code leading to the consequent suspension and loss of licence.",
+      "id": "s535"
+    },
+    {
+      "text": "What is more, the true situation for all of 2002 and the relevant part of 2003 was that the failure to comply with the Code rendered Pan liable to suspension and cancellation of licence at all times.",
+      "id": "s536"
+    },
+    {
+      "text": "I am satisfied that the Supply representation was objectively misleading and deceptive for the whole of the relevant period.",
+      "id": "s537"
+    },
+    {
+      "text": "I am also satisfied that, to the extent that it related to the future, no reasonable grounds are established for making it.",
+      "id": "s538"
+    },
+    {
+      "text": "95 I am satisfied that Naturalcare, through Schadel, did rely upon the Quality Assurance representation and the Supply representation.",
+      "id": "s539"
+    },
+    {
+      "text": "Counsel for Pan relied upon some factors to negative reliance, for example, the intention to source product from Amrion; the pattern of purchase from other suppliers; the freedom reserved by Schadel to acquire goods from other suppliers if price were favourable; and the variety of manufacturers Naturalcare had listed with the TGA to manufacture its products.",
+      "id": "s540"
+    },
+    {
+      "text": "It is submitted for Pan that the express evidence of reliance given by Schadel should be given little or no weight, citing Chappel v Hart [1998] HCA 55 ; (1998) 195 CLR 232 at 246 n64.",
+      "id": "s541"
+    },
+    {
+      "text": "96 Chappel v Hart does not compel that conclusion.",
+      "id": "s542"
+    },
+    {
+      "text": "Indeed, the absence of such evidence could be fatal to a claim of reliance and causation.",
+      "id": "s543"
+    },
+    {
+      "text": "In the present case, Schadel's evidence accords with commercial reality.",
+      "id": "s544"
+    },
+    {
+      "text": "Naturalcare continued to acquire most of its goods from Pan and was lulled into what was a false sense of security by the assurances over the years and entry into the Manufacturing Agreements.",
+      "id": "s545"
+    },
+    {
+      "text": "It is obvious that if Schadel had thought that there was any real danger of Pan losing its licence because of non-compliance with the Code, he would have taken steps to reorganise the business to minimise dependence upon Pan for supplies.",
+      "id": "s546"
+    },
+    {
+      "text": "In essence, Schadel was induced not to reorganise the Naturalcare business to reduce dependence upon Pan as a supplier.",
+      "id": "s547"
+    },
+    {
+      "text": "The misleading conduct does not have to be the sole cause of the action or inaction said to cause the damage ( I &amp; L Securities Pty Limited v HTW Valuers (Brisbane) Pty Limited [2002] HCA 41 ; (2002) 210 CLR 109 per Gleeson CJ at [33], per Gaudron, Gummow and Hayne JJ at [57], per McHugh J at [90]---[93] per Callinan J at [216]).",
+      "id": "s548"
+    },
+    {
+      "text": "DAMAGES \n \n 97 The assessment of damages pursuant to s 82 of the Trade Practices Act 1974 (Cth) presents some problems.",
+      "id": "s549"
+    },
+    {
+      "text": "Damages have been assessed by Naturalcare by estimating the loss of gross profits on product supplied to it by Pan as at April 2003 and then deducting from that amount any savings in costs and incidentals for a period until alternative suppliers were found.",
+      "id": "s550"
+    },
+    {
+      "text": "There are issues as to the particular methodology employed to arrive at that result which may be put aside for the moment.",
+      "id": "s551"
+    },
+    {
+      "text": "It is submitted for Pan that the basic approach is flawed.",
+      "id": "s552"
+    },
+    {
+      "text": "If Schadel's evidence is accepted then, on the hypothesis as to liability being explored, he would have commenced decreasing his reliance on Pan from March 2002, both by obtaining products from a range of other suppliers and by developing more generic products rather than complex slurry mix soft gels dependent upon Pan's particular expertise.",
+      "id": "s553"
+    },
+    {
+      "text": "Pan complains that there has been no attempt to estimate the difference between the position that would have been arrived at as a result of that conduct and the situation which existed at the time of the recall.",
+      "id": "s554"
+    },
+    {
+      "text": "In other words, Naturalcare has quantified damage on the basis of the continued supply of Pan products rather than upon the hypothesis that there would have been a substitution for Pan's products.",
+      "id": "s555"
+    },
+    {
+      "text": "98 Naturalcare's claim for damages was formulated in a global fashion for all causes of action seeking to demonstrate what was lost by the inability to acquire and resell Pan products.",
+      "id": "s556"
+    },
+    {
+      "text": "It is submitted for Pan that this leaves the Court in a position where there is no proper basis for the assessment of damages in circumstances where a proper basis could, and should, have been put forward ( Placer (Granny Smith) Pty Ltd v Thiess Contractors Pty Ltd [2003] HCA 10 ; (2003) 196 ALR 257 at [38] per Hayne J; Optus Vision Pty Limited v Australian Rugby Football League Limited [2003] NSWSC 288 at [132] ---[137] (unaffected by the appeal at [2004] NSWCA 61).",
+      "id": "s557"
+    },
+    {
+      "text": "99 Naturalcare responds that the approach that it has taken is likely to underestimate the quantum of potential damages as it does not take into account the fact that if it had reorganised its business it would have been in a stronger position in the market following the Pan recall than it ultimately was as its competitors would have been adversely affected by the recall and it would not have been.",
+      "id": "s558"
+    },
+    {
+      "text": "It, therefore, would have been likely to have increased its market share.",
+      "id": "s559"
+    },
+    {
+      "text": "It is also submitted that the method chosen uses actual figures and so reduces the necessity for hypothetical estimates which would inevitably be speculative.",
+      "id": "s560"
+    },
+    {
+      "text": "100 In my opinion, the approach taken by Naturalcare is acceptable as a starting point ( Murphy v Overton Investments Pty Ltd [2004] HCA 3 ; (2004) 216 CLR 388 at [44] ---[52]).",
+      "id": "s561"
+    },
+    {
+      "text": "As it was induced to do nothing, it did not get out of the way and was a sitting duck when hit by the runaway train.",
+      "id": "s562"
+    },
+    {
+      "text": "Quantification of the effects of the train wreck is a good starting point for the assessment of loss.",
+      "id": "s563"
+    },
+    {
+      "text": "Of necessity, the assessment of damages in a case such as this is imprecise.",
+      "id": "s564"
+    },
+    {
+      "text": "There is a body of material in evidence as to the financial performance of the Naturalcare business prior to and after the suspension of licence and product recall which forms the raw material for the necessary assessment.",
+      "id": "s565"
+    },
+    {
+      "text": "The fact that the witnesses have approached the matter in one way or another is not decisive.",
+      "id": "s566"
+    },
+    {
+      "text": "101 If reorganisation of the business could have been completed so as to eliminate dependence upon Pan prior to the suspension of Pan's licence, then the proposed measure of damages would be a good proxy for the loss caused by the misleading and deceptive conduct.",
+      "id": "s567"
+    },
+    {
+      "text": "If reorganisation would not have been completed, there would need to be a discount to reflect the extent to which reorganisation would not have taken place.",
+      "id": "s568"
+    },
+    {
+      "text": "The evidence of what occurred in relation to reorganisation after the recall is of some value in assessing what may have occurred in the 12 months prior to it.",
+      "id": "s569"
+    },
+    {
+      "text": "However, the latter period was complicated by widespread effect of the failure of Pan, which meant that many other customers apart from Naturalcare were scrambling to obtain supply.",
+      "id": "s570"
+    },
+    {
+      "text": "I am not satisfied that the divorce from Pan would have been complete by the time of the suspension of the licence, even if commenced in March 2002.",
+      "id": "s571"
+    },
+    {
+      "text": "102 I agree with the submission by counsel for Naturalcare that the most striking aspect of the actual results post recall is the significant loss of total revenue by the business after the cessation of supply by Pan.",
+      "id": "s572"
+    },
+    {
+      "text": "The total revenue for the period 1 May 2001 to 30 April 2002 was $9 738 748 with an average monthly revenue of $811 562.",
+      "id": "s573"
+    },
+    {
+      "text": "In the period from 1 May 2002 to 30 April 2003, the total revenue was $11 240 026 with an average monthly revenue of $936 669.",
+      "id": "s574"
+    },
+    {
+      "text": "In the period from 1 May 2003 to 30 April 2004, the total revenue was $7 841 573 with an average monthly revenue of $653 464.",
+      "id": "s575"
+    },
+    {
+      "text": "In the period from 1 May 2004 to 30 April 2005, the total revenue was $10 667 344 with an average monthly revenue of $888 945.",
+      "id": "s576"
+    },
+    {
+      "text": "Thus, in what is roughly the year after the cessation of supply, the decrease in total revenue was $3 398 453 and in the ensuing 12 months the decrease was $572 682 in total which together can be rounded up to about $4 000 000.",
+      "id": "s577"
+    },
+    {
+      "text": "This pattern is broadly consistent with the evidence given as to the replacement of individual Pan products over the period.",
+      "id": "s578"
+    },
+    {
+      "text": "No other substantive reason has been advanced for the drop in revenue apart from the disturbance of supply of Pan products.",
+      "id": "s579"
+    },
+    {
+      "text": "I am satisfied that the interruption of supply was progressively alleviated over approximately two years.",
+      "id": "s580"
+    },
+    {
+      "text": "The total lost revenue in the two years would, as submitted by counsel for Naturalcare, understate the true loss as revenue had been on a rising plane up to the time of termination of supply by Pan.",
+      "id": "s581"
+    },
+    {
+      "text": "No doubt some of the effect of the unavailability of Pan products upon Naturalcare was due to Markethaven being unable to supply Pan products.",
+      "id": "s582"
+    },
+    {
+      "text": "It is reasonable to take account of that consequence because of the history of the relationship between Pan, Markethaven and Naturalcare.",
+      "id": "s583"
+    },
+    {
+      "text": "103 Pan endeavoured to establish that Naturalcare had not taken reasonable or timely steps to obtain substituted supplies more quickly.",
+      "id": "s584"
+    },
+    {
+      "text": "There was an attempt to use cross-examination and some evidence to show that Naturalcare had not acted reasonably as there were sources of supply not examined at all or not examined promptly.",
+      "id": "s585"
+    },
+    {
+      "text": "In my opinion, that endeavour was unsuccessful.",
+      "id": "s586"
+    },
+    {
+      "text": "Naturalcare had every commercial reason to take all steps open to it to minimise the loss.",
+      "id": "s587"
+    },
+    {
+      "text": "There is no reason to doubt the motivation to do so.",
+      "id": "s588"
+    },
+    {
+      "text": "In assessing the situation it is necessary to bear in mind what was said by Lord Macmillan in the well known passage from Banco de Portugal v Waterlow &amp; Sons Ltd [1932] UKHL 1 ; [1932] AC 452 (at 506): \n \n 'It is often easy after an emergency has passed to criticize the steps which have been taken to meet it, but such criticism does not come well from those who have themselves created the emergency.",
+      "id": "s589"
+    },
+    {
+      "text": "The law is satisfied if the party placed in a difficult situation by reason of the breach of a duty owed to him has acted reasonably in the adoption of remedial measures, and he will not be held disentitled to recover the cost of such measures merely because the party in breach can suggest that other measures less burdensome to him might have been taken.",
+      "id": "s590"
+    },
+    {
+      "text": "' \n \n\nIt is also necessary to bear in mind that Schadel's reliance on Selim had limited his knowledge of the market.",
+      "id": "s591"
+    },
+    {
+      "text": "Even if the result was not perfect, I am satisfied that Naturalcare took reasonable steps to restore supply.",
+      "id": "s592"
+    },
+    {
+      "text": "104 Loss of gross revenue is not the measure of loss to the business.",
+      "id": "s593"
+    },
+    {
+      "text": "It is quite obvious, however, that a sudden loss of revenue by a continuing business will inevitably lead to a net loss.",
+      "id": "s594"
+    },
+    {
+      "text": "Fixed costs and many of the variable costs will remain.",
+      "id": "s595"
+    },
+    {
+      "text": "There was a good deal of attention in the evidence and in the submissions to assessing the net revenue lost.",
+      "id": "s596"
+    },
+    {
+      "text": "In my opinion, the endeavour by Naturalcare to found upon a gross profit margin applicable only to the goods supplied by Pan is not appropriate to an exercise to determine damages for breach of s 52.",
+      "id": "s597"
+    },
+    {
+      "text": "I am satisfied that, in this respect, it is appropriate to adopt a margin of 45 per cent in accordance with the opinion of Mr McGuiness.",
+      "id": "s598"
+    },
+    {
+      "text": "However, having studied his report, and taking into account his evidence under cross-examination, his assessment of MSD costs and other operating expenses and the saving of wages costs are all too high.",
+      "id": "s599"
+    },
+    {
+      "text": "In my opinion, they should be approximately 15 per cent in total, rather than 20 per cent as he proposed.",
+      "id": "s600"
+    },
+    {
+      "text": "Therefore, in broad terms, the loss of net revenue is calculated as follows: loss of revenue $4 000 000 x gross profit margin 45 per cent = $1 800 000, less costs etc x 15 per cent = $270 000, leaving net revenue of $1 530 000.",
+      "id": "s601"
+    },
+    {
+      "text": "Allowance then needs to be made for the overlap between that amount and the loss of profit on goods returned and goods ordered but not supplied.",
+      "id": "s602"
+    },
+    {
+      "text": "Then there should be some discount for the uncertainty as to whether the business would have been completely reorganised by the time of the licence suspension and for other uncertainties.",
+      "id": "s603"
+    },
+    {
+      "text": "105 The principal difference between the parties in relation to the goods returned and goods not supplied claim relates to the gross profit margin.",
+      "id": "s604"
+    },
+    {
+      "text": "Naturalcare claims a gross margin of 58.5 per cent for goods sourced from Pan moderated to 55.2 per cent if freight is taken into account.",
+      "id": "s605"
+    },
+    {
+      "text": "In my opinion, the criticisms of the foundation for that claim made by McGuiness are valid.",
+      "id": "s606"
+    },
+    {
+      "text": "I prefer to adopt for those purposes the yardsticks I have adopted for the umbrella claim, ie gross margin of 45 per cent and MSD etc of 15 per cent.",
+      "id": "s607"
+    },
+    {
+      "text": "The amount which is to be allowed for loss of profits on those claims is to be deducted from the overall amount I found for net loss.",
+      "id": "s608"
+    },
+    {
+      "text": "I would then discount the net amount by 20 per cent to take account of the uncertainties to which I have referred.",
+      "id": "s609"
+    },
+    {
+      "text": "I do not see the necessity for any discount back to a present value at the date of breach.",
+      "id": "s610"
+    },
+    {
+      "text": "The time has now elapsed.",
+      "id": "s611"
+    },
+    {
+      "text": "The amounts in question reflect the dollar values at the time during the period of loss.",
+      "id": "s612"
+    },
+    {
+      "text": "On that basis, interest would not run from the date of breach but should be calculated to reflect the progressive occurrence of loss.",
+      "id": "s613"
+    },
+    {
+      "text": "The amount of judgment should also reflect amounts allowed for direct expenses incurred due to the disruption such as the packaging, costs of registration and so on.",
+      "id": "s614"
+    },
+    {
+      "text": "Unless there are special reasons to the contrary, costs should follow the event.",
+      "id": "s615"
+    },
+    {
+      "text": "106 The proceeding will stand over to enable counsel for Naturalcare to bring in draft orders to reflect these reasons, including calculation of the amounts for damages and interest.",
+      "id": "s616"
+    },
+    {
+      "text": "The parties should also draw my attention to any issue that has been overlooked.",
+      "id": "s617"
+    },
+    {
+      "text": "I certify that the preceding one hundred and six (106) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Gyles.",
+      "id": "s618"
+    },
+    {
+      "text": "Associate:\n\nDated: 31 October 2006\n\n\n Counsel for the Applicant: Mr J Stoljar and Ms KW Dawson \n \n Solicitor for the Applicant: Australegal \n \n Counsel for the Respondents: Mr A J Sullivan QC and Ms KC Morgan \n \n Solicitor for the Respondents: Blake Dawson Waldron \n \n Date of Hearing: 24---28 October 2005, 5---7 and 9 June 2006 \n \n Date of Judgment: 31 October 2006 \n\n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2006/1403.html",
+      "id": "s619"
+    }
+  ]
+}

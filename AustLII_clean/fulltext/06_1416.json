@@ -1,0 +1,524 @@
+{
+  "name": "Commonwealth Bank of Australia (ACN 123 123 124) v ACN 000 247 601 Pty Limited (in liq) (For [2006] FCA 1416 (2 November 2006)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2006/1416.html",
+  "catchphrases": [
+    {
+      "text": "pleadings",
+      "id": "c0"
+    },
+    {
+      "text": "application to strike out statement of claim and cross-claim",
+      "id": "c1"
+    },
+    {
+      "text": "proper approach to meaning of \"reasonable prospect of success\" in s 31a of the federal court act",
+      "id": "c2"
+    },
+    {
+      "text": "requirement of actual knowledge of falsity of representation for accessory liability under s 75b of the trade practices act",
+      "id": "c3"
+    },
+    {
+      "text": "application allowed in part",
+      "id": "c4"
+    },
+    {
+      "text": "practice and procedure",
+      "id": "c5"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Introduction \n \n1 These proceedings arise out of a valuation of a waterfront home unit at Cammeray, New South Wales (the Valuation).",
+      "id": "s0"
+    },
+    {
+      "text": "The Valuation was made on 4 January 2000 by Stanley Thompson Valuers Pty Limited (STV) which is now in liquidation.",
+      "id": "s1"
+    },
+    {
+      "text": "It was made for mortgage security purposes on the instructions of Colonial State Bank (Colonial).",
+      "id": "s2"
+    },
+    {
+      "text": "2 The Valuation stated that in the valuer's opinion the property had a value of $5.1m.",
+      "id": "s3"
+    },
+    {
+      "text": "The valuer was Mr John Ewing who signed the Valuation in that capacity.",
+      "id": "s4"
+    },
+    {
+      "text": "3 The Valuation also bore the name, in two places, of Mr Michael McDonald who was described as: \n \n 'Michael McDonald Director Reg No 2205 Certified Practising Valuer --- AAPI.",
+      "id": "s5"
+    },
+    {
+      "text": "' \n\n4 A signature appears over Mr McDonald's name and description on pages 5 and 31 of the Valuation.",
+      "id": "s6"
+    },
+    {
+      "text": "It appears from evidence filed on the present motion that the signature is not that of Mr McDonald but is in fact that of Mr Rory O'Boyle, another STV employee.",
+      "id": "s7"
+    },
+    {
+      "text": "5 The Statement of Claim alleges that the true market value was very substantially lower than the figure of $5.1m and that the Commonwealth Bank of Australia suffered loss and damage as a result of advancing money in reliance upon a negligent valuation.",
+      "id": "s8"
+    },
+    {
+      "text": "Other causes of action including claims under s 52 of the Trade Practices Act 1974 (Cth) are also pleaded.",
+      "id": "s9"
+    },
+    {
+      "text": "6 STV was initially named as first respondent to these proceedings.",
+      "id": "s10"
+    },
+    {
+      "text": "However, the CBA has discontinued against it.",
+      "id": "s11"
+    },
+    {
+      "text": "The CBA is the successor in law to all of the rights and liabilities of Colonial.",
+      "id": "s12"
+    },
+    {
+      "text": "Whilst discontinuing its claims against STV, the CBA seeks to continue the proceedings against Mr McDonald and Mr Ewing.",
+      "id": "s13"
+    },
+    {
+      "text": "7 The claim against Mr McDonald is brought only in negligence.",
+      "id": "s14"
+    },
+    {
+      "text": "No claim under s 52 of the Trade Practices Act or s 42 of the Fair Trading Act 1987 (NSW) is pleaded.",
+      "id": "s15"
+    },
+    {
+      "text": "8 Mr McDonald seeks to strike out those paragraphs of the Statement of Claim which are pleaded against him.",
+      "id": "s16"
+    },
+    {
+      "text": "These paragraphs are [24], [29] and [37].",
+      "id": "s17"
+    },
+    {
+      "text": "9 Paragraph [24] alleges that the Valuation was prepared and signed by Mr McDonald and Mr Ewing.",
+      "id": "s18"
+    },
+    {
+      "text": "Paragraphs [29] and [37] allege that Mr McDonald owed a duty of care to Colonial and that the duty was breached.",
+      "id": "s19"
+    },
+    {
+      "text": "10 Mr McDonald also seeks to strike out those parts of a cross-claim brought by Mr Ewing against Mr McDonald which are said to give rise to a claim for contribution or damages against him.",
+      "id": "s20"
+    },
+    {
+      "text": "11 The motion is brought under O11 r 16 and O20 r 2.",
+      "id": "s21"
+    },
+    {
+      "text": "The principles which apply to the summary dismissal of a cause of action are well known.",
+      "id": "s22"
+    },
+    {
+      "text": "However, they are now to be considered in light of s 31A of the Federal Court of Australia Act 1976 (Cth) which provides that a proceeding need not be hopeless or bound to fail for it to have no reasonable prospect of success.",
+      "id": "s23"
+    },
+    {
+      "text": "The Issues \n\n12 Three issues arise on Mr McDonald's motion.",
+      "id": "s24"
+    },
+    {
+      "text": "13 The first issue is whether the claim in [24] of the Statement of Claim that Mr McDonald signed the Valuation can go to trial.",
+      "id": "s25"
+    },
+    {
+      "text": "In support of his contention, Mr McDonald relies upon his sworn denial that he did not sign the Valuation and that he did not prepare it.",
+      "id": "s26"
+    },
+    {
+      "text": "14 The issue turns upon whether further facts surrounding the circumstances in which Mr O'Boyle apparently came to sign the Valuation give rise to a triable issue.",
+      "id": "s27"
+    },
+    {
+      "text": "Those facts are deposed to in an affidavit of Mr Ewing.",
+      "id": "s28"
+    },
+    {
+      "text": "15 The second issue is whether there is an arguable claim that Mr McDonald owed a duty of care to Colonial, independently of the duty of care owed by STV.",
+      "id": "s29"
+    },
+    {
+      "text": "16 The third issue is whether Mr Ewing's cross-claim against Mr McDonald gives rise to an arguable case on two bases.",
+      "id": "s30"
+    },
+    {
+      "text": "The first basis is a claim for contribution under s 5 of the Law Reform (Miscellaneous Provisions) Act 1946 (NSW).",
+      "id": "s31"
+    },
+    {
+      "text": "This depends solely upon whether the claim that Mr McDonald owed a duty of care to Colonial can go to trial.",
+      "id": "s32"
+    },
+    {
+      "text": "17 The other basis on which the cross-claim is attacked is that it claims accessory liability under s 75B of the Trade Practices Act without satisfying the requirements of knowledge of the falsity of the representation which is said to underpin the claims.",
+      "id": "s33"
+    },
+    {
+      "text": "Thus, it is said that this aspect of the cross-claim cannot establish the necessary ingredients of the cause of action as stated by the High Court in Yorke v Lucas [1985] HCA 65 ; (1985) 158 CLR 661.",
+      "id": "s34"
+    },
+    {
+      "text": "The evidence on the motion \n \n18 The evidence included a copy of the Valuation bearing the signature of Mr Ewing and the description of Mr McDonald below the signature purportedly of Mr O'Boyle as I have described above.",
+      "id": "s35"
+    },
+    {
+      "text": "19 Mr McDonald's affidavit states in [5]:\n \n 'The signature appearing above my printed name is not mine.",
+      "id": "s36"
+    },
+    {
+      "text": "I did not sign the valuation report.",
+      "id": "s37"
+    },
+    {
+      "text": "I did not prepare the valuation report.",
+      "id": "s38"
+    },
+    {
+      "text": "' \n\n20 After Mr McDonald's affidavit was filed, Mr Ewing swore an affidavit which describes his capacity at STV and the manner of his supervision by Mr McDonald.",
+      "id": "s39"
+    },
+    {
+      "text": "He also sets out some evidence as to the circumstances in which the Valuation was signed.",
+      "id": "s40"
+    },
+    {
+      "text": "21 In summary, Mr Ewing's affidavit discloses at [2] that Mr McGarva, a director of STV, introduced Mr McDonald to Mr Ewing when he joined STV as the \"Director of the Valuation Department\".",
+      "id": "s41"
+    },
+    {
+      "text": "When he was an employee, Mr Ewing was supervised by Mr McDonald who reviewed most of his valuations.",
+      "id": "s42"
+    },
+    {
+      "text": "22 Paragraph [2] continues by stating that from October 1999, ie three months before the Valuation was prepared, Mr Ewing became a contractor to STV.",
+      "id": "s43"
+    },
+    {
+      "text": "The practice from then on was that his draft valuations were sent to STV and that Mr McDonald signed the valuations in the capacity of \"Director\".",
+      "id": "s44"
+    },
+    {
+      "text": "23 I will set out [4], [5] and [6] of Mr Ewing's affidavit in full.",
+      "id": "s45"
+    },
+    {
+      "text": "The references in [5] to \"December\" appear to be an error.",
+      "id": "s46"
+    },
+    {
+      "text": "It seems that Mr Ewing intended to refer to \"January\".",
+      "id": "s47"
+    },
+    {
+      "text": "'4.",
+      "id": "s48"
+    },
+    {
+      "text": "To the best of my recollection, the draft report was by me completed in late December 1999.",
+      "id": "s49"
+    },
+    {
+      "text": "I left the report at the office of STV and I recall signing the valuation on 4 January 2000 at which time, Mr McDonald was absent on leave.",
+      "id": "s50"
+    },
+    {
+      "text": "5.",
+      "id": "s51"
+    },
+    {
+      "text": "Prior to me submitting the draft valuation in late December 1999, I had the following conversations with Michael McDonald:- \n JE: Manny's (an STV client) bought a waterfront in Cammeray Road for $5 million.",
+      "id": "s52"
+    },
+    {
+      "text": "It's a lot of money although it's over two levels, great fit out, great location and it's got a jetty.",
+      "id": "s53"
+    },
+    {
+      "text": "My concern is that it is strata titled.",
+      "id": "s54"
+    },
+    {
+      "text": "The top floor unit has also sold, the solicitor is faxing through the front page of the contract.",
+      "id": "s55"
+    },
+    {
+      "text": "MM: I'll have a look at that when I get time to.",
+      "id": "s56"
+    },
+    {
+      "text": "Then in early December [sic January] : --- \n JE: The valuation report for Manny on the waterfront in Cammeray Road is finished.",
+      "id": "s57"
+    },
+    {
+      "text": "It's on your desk, can you check it and sign it?",
+      "id": "s58"
+    },
+    {
+      "text": "Early December [sic January] : --- \n JE: Colonial State Bank are chasing the report and Manny keeps on ringing me to see if the valuation report is ready.",
+      "id": "s59"
+    },
+    {
+      "text": "MM: I'll get to it.",
+      "id": "s60"
+    },
+    {
+      "text": "6.",
+      "id": "s61"
+    },
+    {
+      "text": "When I attended the offices of STV on 4 January 2000, I observed that the valuation had not been signed.",
+      "id": "s62"
+    },
+    {
+      "text": "I rang McDonald and he said to get Rory to sign it and get it out.",
+      "id": "s63"
+    },
+    {
+      "text": "I put the report on Rory's desk, told him that Michael asked for him to sign off on this for him, which he did.",
+      "id": "s64"
+    },
+    {
+      "text": "I assumed that it had been checked by McDonald in accordance with the previous practice for directors to sign off on valuation reports as discussed above.",
+      "id": "s65"
+    },
+    {
+      "text": "The report would not have been issued without McDonald's authorisation.",
+      "id": "s66"
+    },
+    {
+      "text": "' \n \n\n Issue 1 --- whether [24] gives rise to a triable issue \n \n24 In considering this issue it is important to bear in mind that the proceedings are at a comparatively early stage.",
+      "id": "s67"
+    },
+    {
+      "text": "The affidavits of Mr McDonald and Mr Ewing were not filed in response to a direction to file evidence for the final hearing.",
+      "id": "s68"
+    },
+    {
+      "text": "They were filed only for the purpose of this motion.",
+      "id": "s69"
+    },
+    {
+      "text": "25 Discovery has not yet been ordered.",
+      "id": "s70"
+    },
+    {
+      "text": "My ordinary practice is not to order discovery until the true issues are elucidated after the affidavit evidence is complete.",
+      "id": "s71"
+    },
+    {
+      "text": "26 Mr McDonald's evidence consists of a bare denial of the allegations in [24] of the Statement of Claim.",
+      "id": "s72"
+    },
+    {
+      "text": "It fails to deal with the description given by Mr Ewing of the background and factual circumstances in which the Valuation came to be signed by Mr O'Boyle.",
+      "id": "s73"
+    },
+    {
+      "text": "27 In my view it is plain from Mr Ewing's affidavit that a triable issue of fact is disclosed.",
+      "id": "s74"
+    },
+    {
+      "text": "It is true that [6] of his affidavit is not in admissible form for a final hearing.",
+      "id": "s75"
+    },
+    {
+      "text": "But that paragraph, read in the light of [2] and the conversation recorded in [5] gives rise to an arguable case that Mr McDonald reviewed and approved the Valuation and that he authorised Mr O'Boyle to sign it on his behalf.",
+      "id": "s76"
+    },
+    {
+      "text": "28 If these facts are made good at the trial it would probably be sufficient to make out a case of preparation, within its ordinary meaning, as well as signature.",
+      "id": "s77"
+    },
+    {
+      "text": "At the very least it would be sufficient to make out a case that Mr McDonald supervised and authorised the release of the Valuation over his name.",
+      "id": "s78"
+    },
+    {
+      "text": "29 Counsel for Mr McDonald sought to take a narrow approach to the meaning of [24] of the Statement of Claim and to what was to be gleaned from [6] of Mr Ewing's affidavit.",
+      "id": "s79"
+    },
+    {
+      "text": "30 In my view this is not a proper approach to the present application.",
+      "id": "s80"
+    },
+    {
+      "text": "The authorities relating to the proper construction and effect of s 31A of the Federal Court of Australia Act were exhaustively reviewed by Rares J in Boston Commercial Services Pty Ltd v GE Capital Finance Australasia Pty Ltd [2006] FCA 1352 at [31] --- [48].",
+      "id": "s81"
+    },
+    {
+      "text": "His Honour stated the relevant principles at [45] and they may be summarised as follows:\n \n &#8226; In assessing whether there are reasonable prospects of success, the Court must be cautious not to do an injustice by summary dismissal.",
+      "id": "s82"
+    },
+    {
+      "text": "&#8226; There will be reasonable prospects of success if there is evidence which may be reasonably believed so as to enable the party against whom summary judgment is sought to succeed at the final hearing.",
+      "id": "s83"
+    },
+    {
+      "text": "&#8226; Evidence of an ambivalent character will usually be sufficient to amount to reasonable prospects.",
+      "id": "s84"
+    },
+    {
+      "text": "&#8226; Unless only one conclusion can be said to be reasonable, the discretion under s 31A cannot be enlivened.",
+      "id": "s85"
+    },
+    {
+      "text": "31 I do not think that this approach conflicts with the provisions of s 31A(3).",
+      "id": "s86"
+    },
+    {
+      "text": "32 It is true that summary dismissal applications are to be determined on the pleadings and any evidence before the Court; but at the heart of the exercise is the assessment on incomplete materials, of the prospects of success if the matter proceeds to a final hearing; Boston Commercial at [38], [48].",
+      "id": "s87"
+    },
+    {
+      "text": "33 It would be wrong to determine the application on a narrow approach to the pleadings where, as here, there is evidence, albeit incomplete, and perhaps at this early stage, ambivalent, which may at a final hearing, and with amended pleadings, produce a verdict for the applicant.",
+      "id": "s88"
+    },
+    {
+      "text": "Issue 2 --- Duty of Care \n \n34 Once it is accepted that there is a question to be tried as to whether Mr McDonald prepared and signed the Valuation, the case is very similar to the decision of the English Court of Appeal in Merrett v Babb [2001] QB 1174.",
+      "id": "s89"
+    },
+    {
+      "text": "35 In that case a valuation report was signed by an employee of a firm which ceased to carry on business and the principal of which went into bankruptcy.",
+      "id": "s90"
+    },
+    {
+      "text": "The report was prepared for a building society that supplied a copy of the report to the purchasers of the property, omitting all reference to the name of the employee signatory and his firm.",
+      "id": "s91"
+    },
+    {
+      "text": "36 The majority Justices, May LJ and Wilson J, held that the employee owed a duty of care to the purchasers.",
+      "id": "s92"
+    },
+    {
+      "text": "What underlies their observations at [44] and [61] are the concepts of assumption of responsibility and known reliance.",
+      "id": "s93"
+    },
+    {
+      "text": "37 The facts deposed to by Mr Ewing in [2], [5] and [6] give rise to an arguable case in accordance with this principle.",
+      "id": "s94"
+    },
+    {
+      "text": "38 The decision of the High Court in O'Brien v Dawson [1942] HCA 8 ; (1942) 66 CLR 18 at 32---33 does not appear to have any application to the principles which underlie the modern development of the law of negligence.",
+      "id": "s95"
+    },
+    {
+      "text": "O'Brien v Dawson stands for the proposition that, ordinarily, the acts of a director will be the company's acts, not those of the director; thus the director cannot, without more, induce the company to breach a contract or conspire with it to do so.",
+      "id": "s96"
+    },
+    {
+      "text": "But this does not address the considerations which underlie the law of negligence.",
+      "id": "s97"
+    },
+    {
+      "text": "Issue 3 --- The Cross-Claim \n \n39 The claim to strike out the cross-claim based upon the provisions of the Law Reform (Miscellaneous Provisions) Act must fail.",
+      "id": "s98"
+    },
+    {
+      "text": "This is because it is dependent upon the establishment of a duty of care on the part of Mr McDonald.",
+      "id": "s99"
+    },
+    {
+      "text": "I have held that there is an arguable claim that Mr McDonald was under such a duty.",
+      "id": "s100"
+    },
+    {
+      "text": "40 The second aspect of the cross-claim is more problematical.",
+      "id": "s101"
+    },
+    {
+      "text": "Indeed, in my view, it cannot go to trial.",
+      "id": "s102"
+    },
+    {
+      "text": "41 The cross-claim pleads three representations.",
+      "id": "s103"
+    },
+    {
+      "text": "The first is that in about 2000, Mr McGarva of STV represented to Mr Ewing that he had been named as an assured under STV's professional indemnity insurance and that he would continue to be named in the future.",
+      "id": "s104"
+    },
+    {
+      "text": "42 The second representation is pleaded as a representation by silence.",
+      "id": "s105"
+    },
+    {
+      "text": "It is said that between January 2003 and 1 July 2004, STV sought and obtained professional indemnity insurance which did not name Mr Ewing as an assured; see [11], [14] and [16] of the second cross-claim.",
+      "id": "s106"
+    },
+    {
+      "text": "43 It is then said in [21] that Mr McDonald knew that Mr Ewing was not included in the 2003-2004 policy and that Mr McDonald knew, at that time, that there was a possibility of a claim being made in relation to the valuation of the Cammeray property.",
+      "id": "s107"
+    },
+    {
+      "text": "44 The third representation is then pleaded as a failure by Mr McDonald to inform Mr Ewing that he was not named as an insured in the 2003-2004 policy.",
+      "id": "s108"
+    },
+    {
+      "text": "45 Mr Ewing pleads that he has suffered or may suffer loss or damage by the first, second and third representations and that the second and third representations give rise to accessory liability on the part of Mr McDonald.",
+      "id": "s109"
+    },
+    {
+      "text": "46 The essential defect in this pleading is that the second and third representations cannot of themselves give rise to accessory liability.",
+      "id": "s110"
+    },
+    {
+      "text": "They are dependent upon the first representation and knowledge of the falsity of that representation.",
+      "id": "s111"
+    },
+    {
+      "text": "47 Mr Neil SC for Mr Ewing submitted that the matters pleaded in [11] established \"knowledge\" by Mr McDonald of facts consistent with the making of the first representation made by Mr McGarva.",
+      "id": "s112"
+    },
+    {
+      "text": "48 Nevertheless, Mr Neil fairly and properly conceded that he did not, and could not allege, actual knowledge by Mr McDonald of the first representation.",
+      "id": "s113"
+    },
+    {
+      "text": "49 In my opinion, the matters pleaded in the cross-claim can give rise, at most, to an allegation of constructive knowledge of the falsity of the representation said to have been made by Mr McGarva.",
+      "id": "s114"
+    },
+    {
+      "text": "50 The knowledge which is required to give rise to a claim of accessory liability is actual knowledge.",
+      "id": "s115"
+    },
+    {
+      "text": "Constructive knowledge is not sufficient; Yorke v Lucas at 667---668, 670; Butcher v Lachlan Elder Realty Pty Limited [2004] HCA 60 ; (2004) 218 CLR 592 at [60] .",
+      "id": "s116"
+    },
+    {
+      "text": "See also Richardson &amp; Wrench (Holdings) Pty Ltd v Ligon No 174 Pty Ltd (1994) 123 ALR 681 at 693.",
+      "id": "s117"
+    },
+    {
+      "text": "51 Mr Neil accepted that his cross-claim on this count was not \"orthodox\" and that he could point to no authority to support it.",
+      "id": "s118"
+    },
+    {
+      "text": "Orders \n \n52 I will order that the claims made against Mr McDonald in [11], [21], [22], [23] of the second cross-claim and prayer for relief 1(b) be struck out.",
+      "id": "s119"
+    },
+    {
+      "text": "The notice of motion dated 28 August 2006 and filed 31 August 2006 will be otherwise dismissed.",
+      "id": "s120"
+    },
+    {
+      "text": "I certify that the preceding fifty-two (52) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Jacobson.",
+      "id": "s121"
+    },
+    {
+      "text": "Associate:\n\nDated: 2 November 2006\n\n Counsel for the Applicant: R S Hollo with M J O'Meara \n \n Solicitor for the Applicant: Commonwealth Bank of Australia \n \n Counsel for the Second Respondent: P Newton \n \n Solicitor for the Second Respondent: Heidtman &amp; Co \n \n Counsel for the Third Respondent: I M Neil SC with D Chin \n \n Solicitor for the Third Respondent: Access Business Lawyers \n \n Date of Hearing: 17 October 2006 \n \n Date of Judgment: 2 November 2006 \n \n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2006/1416.html",
+      "id": "s122"
+    }
+  ]
+}

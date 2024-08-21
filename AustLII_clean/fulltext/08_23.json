@@ -1,0 +1,908 @@
+{
+  "name": "Tasman Group Services Pty Ltd v Commissioner of Taxation of the Commonwealth of Australia [2008] FCA 23 (29 January 2008)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2008/23.html",
+  "catchphrases": [
+    {
+      "text": "claims by applicant (sbaf) that the forgiveness of commercial debt provisions do not apply to its assessment for 2003 and 2004 tax years",
+      "id": "c0"
+    },
+    {
+      "text": "sbaf's japanese parent company sbc made several loans to sbaf for purposes of initial acquisition of the business and to provide working capital",
+      "id": "c1"
+    },
+    {
+      "text": "loans extended over time and interest and principal amounts never repaid by subsidiary",
+      "id": "c2"
+    },
+    {
+      "text": "sbc gave several \"letters of comfort\" to bank and auditors",
+      "id": "c3"
+    },
+    {
+      "text": "sbc sold all shares in sbaf",
+      "id": "c4"
+    },
+    {
+      "text": "under sale of shares agreement sbc covenanted that on completion no financial indebtedness would be owed by sbaf to sbc held:",
+      "id": "c5"
+    },
+    {
+      "text": "income tax",
+      "id": "c6"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Division 245 \n \n1 These appeals by the applicant taxpayer in respect of the 2003 and 2004 tax years concern the application of the Forgiveness of Commercial Debts provisions contained in Div 245 of Sch 2C of the Income Tax Assessment Act 1936 (Cth).",
+      "id": "s0"
+    },
+    {
+      "text": "2 Broadly speaking, Div 245 applies where there is forgiveness of a commercial debt .",
+      "id": "s1"
+    },
+    {
+      "text": "In such event the net forgiven amount of the debt will be set off for tax purposes against benefits the taxpayer would otherwise enjoy, such as revenue losses, capital losses and other deductible amounts: see s 245-2.",
+      "id": "s2"
+    },
+    {
+      "text": "3 According to the second reading speech when the Division was introduced in 1996, the rationale of Div 245 was to\n \n ... correct a structural weakness in the present law which does not properly tax the economic benefit to a taxpayer from being forgiven the debt.",
+      "id": "s3"
+    },
+    {
+      "text": "The present law creates scope for duplication of deductions in circumstances where the creditor would be entitled to tax relief for a loss on a debt that is forgiven or otherwise settled for less than full value.",
+      "id": "s4"
+    },
+    {
+      "text": "The applicant and its loans \n \n4 The applicant was formerly known as SBA Foods Pty Ltd (SBAF).",
+      "id": "s5"
+    },
+    {
+      "text": "It was a wholly owned subsidiary of Sumikin Bussan Corporation Limited (SBC), a Japanese corporation.",
+      "id": "s6"
+    },
+    {
+      "text": "In November 1996 SBAF was used by SBC as the entity to acquire the meat processing and exporting business formerly owned and operated by the Gilbertson Group.",
+      "id": "s7"
+    },
+    {
+      "text": "5 The acquisition was funded partly by share capital and partly by loans from SBC.",
+      "id": "s8"
+    },
+    {
+      "text": "The business was not a success and incurred heavy trading losses.",
+      "id": "s9"
+    },
+    {
+      "text": "SBC advanced further loans totalling $118,696,459.",
+      "id": "s10"
+    },
+    {
+      "text": "6 By a share sale agreement dated 27 February 2002 SBC sold its shares in SBAF to Tasman Group Holdings Pty Ltd for about $17 million.",
+      "id": "s11"
+    },
+    {
+      "text": "None of SBC's loans were repaid to it by SBAF.",
+      "id": "s12"
+    },
+    {
+      "text": "By cl 8.2(a) of the agreement SBC agreed to \"ensure\" that on the Completion Date (1 March 2002) \"no amount of Financial Indebtedness exists\".",
+      "id": "s13"
+    },
+    {
+      "text": "Financial Indebtedness was defined to mean \"financial indebtedness owed to the Vendor Group [ie SBC and its related bodies corporate] by the Company [ie SBAF]\".",
+      "id": "s14"
+    },
+    {
+      "text": "The sale was in fact completed on or about the Completion Date.",
+      "id": "s15"
+    },
+    {
+      "text": "Liability issues \n \n7 The following issues arise as to the application of Div 245:\n \n \n 1.",
+      "id": "s16"
+    },
+    {
+      "text": "Did SBAF owe SBC any debt ?",
+      "id": "s17"
+    },
+    {
+      "text": "2.",
+      "id": "s18"
+    },
+    {
+      "text": "Was any such debt a commercial debt ?",
+      "id": "s19"
+    },
+    {
+      "text": "3.",
+      "id": "s20"
+    },
+    {
+      "text": "Was any such debt forgiven ?",
+      "id": "s21"
+    },
+    {
+      "text": "8 If all the foregoing are answered in the affirmative further issues will arise relating to the valuation of the debts.",
+      "id": "s22"
+    },
+    {
+      "text": "9 The relevant events in the history of SBAF are as follows.",
+      "id": "s23"
+    },
+    {
+      "text": "Operations \n \n10 SBAF had its main plant and head office at Altona in Victoria.",
+      "id": "s24"
+    },
+    {
+      "text": "It also had plants at Longford in Tasmania and on King Island and a wholesale depot at Gepps Cross in South Australia, together with some retail outlets.",
+      "id": "s25"
+    },
+    {
+      "text": "11 From the commencement of trading in November 1996, three SBC executives were assigned by SBC to assume active participation in the management of SBAF.",
+      "id": "s26"
+    },
+    {
+      "text": "They were appointed respectively as Deputy Managing Director, Marketing Director and Finance manager.",
+      "id": "s27"
+    },
+    {
+      "text": "They and their subsequent replacements were paid directly by SBC.",
+      "id": "s28"
+    },
+    {
+      "text": "They occupied offices at SBAF's Altona head office.",
+      "id": "s29"
+    },
+    {
+      "text": "Under a formal agreement, which was varied from time to time, SBAF paid a fee to SBC for the services of these executives.",
+      "id": "s30"
+    },
+    {
+      "text": "12 The chairmen of SBAF from time to time were senior members of SBC's board in Japan.",
+      "id": "s31"
+    },
+    {
+      "text": "They travelled to Australia for the monthly meeting of the SBAF board.",
+      "id": "s32"
+    },
+    {
+      "text": "Occasionally the SBAF board met in Japan and Australian resident directors would travel to the meetings.",
+      "id": "s33"
+    },
+    {
+      "text": "13 Decisions concerning matters such as capital expenditure, payroll, staffing levels, repairs and maintenance and export marketing were subject to SBC's approval, based on submissions and recommendations by the three SBC executives.",
+      "id": "s34"
+    },
+    {
+      "text": "Trading losses and loans \n \n14 The initial loans for the purpose of the acquisition (the Acquisition Loans) require different treatment for the purposes of this case.",
+      "id": "s35"
+    },
+    {
+      "text": "There were three loans in Japanese yen as follows:\n18 November 1996 [yen] 1,689,902,761\n19 November 1996 [yen] 51,923,294\n31 January 1997 [yen] 255,773,700\n \n15 The following table shows SBAF's trading losses over the period of its operations under SBC ownership, together with its further loans from SBC in Australian dollars (the Subsequent Loans):\n \n MONTHLY \n TRADING \n PROFIT MONTHLY TRADING \n LOSS SBC \n LOANS END OF \n YEAR \n PROFIT/LOSS Jul 1997 \n (290,501) \n \n Aug 1997 \n (425,234) \n \n Sep 1997 \n (1,145,981) \n \n Oct 1997 \n (537,633) \n \n Nov 1997 40,006 \n \n \n Dec 1997 136,136 \n \n (1,029,000) Jan 1998 34,381 \n \n \n Feb 1998 \n (152,699) \n \n Mar 1998 \n (1,320,187) \n \n Apr 1998 \n (1,394,906) \n \n May 1998 \n (1,082,280) \n \n Jun 1998 \n (990,972) \n \n Jul 1998 \n (984,694) \n \n Aug 1998 \n (1,496,936) \n \n Sep 1998 \n (1,989,110) \n \n Oct 1998 \n (1,533,923) \n \n Nov 1998 \n (1,402,344) \n \n Dec 1998 \n (561,147) \n (20,442,000) Jan 1999 \n (1,594,167) \n \n Feb 1999 \n (1,547,490) \n \n Mar 1999 \n (2,270,469) \n \n Apr 1999 \n (2,669,888) \n \n May 1999 \n (1,899,131) \n \n Jun 1999 \n (1,759,135) 7,000,000 \n Jul 1999 \n (1,630,478) \n \n Aug 1999 \n (1,791,748) 2,500,000 \n Sep 1999 \n (1,893,394) 1,500,000 \n Oct 1999 \n (1,186,987) 2,500,000 \n Nov 1999 \n (741,716) 8,500,000 \n Dec 1999 373,277 \n 7,500,000 (30,531,000) Jan 2000 \n (319,395) \n \n Feb 2000 \n (560,110) \n \n Mar 2000 \n (358,921) 1,000,000 \n Apr 2000 \n (621,557) \n \n May 2000 \n (430,415) \n \n Jun 2000 \n (920,837) 13,000,000 \n Jul 2000 \n (908,615) \n \n Aug 2000 \n (869,336) 8,000,000 \n Sep 2000 \n (921,068) \n \n Oct 2000 \n (733,222 1,000,000 \n Nov 2000 \n (443,200) 1,000,000 \n Dec 2000 \n (429,564) 5,000,000 (64,563,000) Jan 2001 \n (223,842) 2,050,000 \n Feb 2001 26,847 \n \n \n Mar 2001 45,436 \n \n \n Apr 2001 \n (169,764) 1,050,000 \n May 2001\n([yen] loan) \n \n (277,927) \n 18,942,707 \n Jun 2001 \n (966,316) 1,000,000 \n Jul 2001 (550,404) \n \n Aug 2001 \n (499,728) 2,000,000 \n Sep 2001 \n (326,581) 3,000,000 \n Oct 2001 \n (107,757) \n \n Nov 2001 \n (153,977) \n \n Dec 2001 \n (217,982) 1,000,000 (12,367,000) Jan 2002 \n \n \n \n Feb 2002 \n \n 5,300,000 \n \n\n Loan procedures and agreements \n \n16 The first twelve months of trading were satisfactory.",
+      "id": "s36"
+    },
+    {
+      "text": "However, from the latter part of 1997 until the sale in February 2002 SBAF's financial position deteriorated and did not recover.",
+      "id": "s37"
+    },
+    {
+      "text": "One of the basic contributing problems was that the Altona plant was antiquated and made the company uncompetitive.",
+      "id": "s38"
+    },
+    {
+      "text": "17 The watershed was the year ending 31 December 1998 when SBAF recorded a loss of $20.4 million.",
+      "id": "s39"
+    },
+    {
+      "text": "18 SBAF obtained the Subsequent Loans for funding its ongoing operations, that is to say for providing working capital and also for capital investment.",
+      "id": "s40"
+    },
+    {
+      "text": "Applications were prepared by the Australian management, which included the SBC secondees.",
+      "id": "s41"
+    },
+    {
+      "text": "Formal agreements were prepared by SBC in Tokyo, executed there and sent to Altona for execution by SBAF.",
+      "id": "s42"
+    },
+    {
+      "text": "Execution was ratified at the next board meeting of SBAF.",
+      "id": "s43"
+    },
+    {
+      "text": "The agreements were always in the same form.",
+      "id": "s44"
+    },
+    {
+      "text": "An example is the first of the agreements for the Subsequent Loans, an agreement made on 15 June 1999:\n \n LOAN AGREEMENT \n \n \n THIS AGREEMENT is made and entered into this 15 th day of June, 1999 by and between Sumikin Bussan Corporation, having its registered office at 3-6-2, Hommachi, Chuo-ku, Osaka, Japan (the \"Lender\") and SBA Foods Pty Ltd. A.C.N.005 062 082, having its registered office at Kyle Road, Altona North, Victoria 3025, Australia (the \"Borrower\").",
+      "id": "s45"
+    },
+    {
+      "text": "RECITALS \n \n \n The Borrower has requested the Lender to make loans in Australian Dollars and the Lender has agreed to make such loans to the Borrower.",
+      "id": "s46"
+    },
+    {
+      "text": "NOW, THEREFORE, IT IS HEREBY AGREED BETWEEN THE PARTIES AS FOLLOWS.",
+      "id": "s47"
+    },
+    {
+      "text": "1.",
+      "id": "s48"
+    },
+    {
+      "text": "THE LOAN\n \n \n \n The Lender shall agree to make loans to the Borrower in the amount of Australian Dollars 5,000,000 with drawdown dates as follows: \n \n \n \n 17 June, 1999 AUD 2,000,000\n 30 June, 1999 AUD 3,000,000\n \n 2.",
+      "id": "s49"
+    },
+    {
+      "text": "INTEREST\n \n \n \n The Borrower shall pay to the Lender interest in arrear at the fixed interest rate of 6.64% per annum.",
+      "id": "s50"
+    },
+    {
+      "text": "The interest shall be calculated on the basis of the actual number of days elapsed and a year of 365 days, and shall be paid in Australian Dollar on 30 th September, 1999 (the \"Interest Payment Date\").",
+      "id": "s51"
+    },
+    {
+      "text": "3.",
+      "id": "s52"
+    },
+    {
+      "text": "REPAYMENT\n \n \n \n The Borrower shall repay the Loan in full in Australian Dollars on 30 th September, 1999 (the \"Repayment date\").",
+      "id": "s53"
+    },
+    {
+      "text": "4. BUSINESS DAY\n \n \n \n \n 4-1 The business day shall be a day on which banks are open for business in Tokyo (the \"Business Day\") \n \n \n \n \n \n \n \n 4-2 If any Interest Payment Date or the Repayment Date falls on a non Business Day, such payment shall be made on the immediately preceding Business Day.",
+      "id": "s54"
+    },
+    {
+      "text": "5.",
+      "id": "s55"
+    },
+    {
+      "text": "PREPAYMENT\n \n \n \n Upon at least five (5) Business Days' prior written notice to the Lender, the Borrower may prepay the Loan in whole or in part on any Interest Payment Date together with accrued interest thereon.",
+      "id": "s56"
+    },
+    {
+      "text": "6.",
+      "id": "s57"
+    },
+    {
+      "text": "WITHHOLDING TAX\n \n \n \n The Borrower shall deduct an amount equal to 10%, or as the case may be a different percentage determined in accordance with the applicable tax laws, from each Interest payment as Withholding Tax to be paid to the taxation authority.",
+      "id": "s58"
+    },
+    {
+      "text": "The Borrower shall forward to the Lender the original official receipt of each tax payment issued by the taxation authority.",
+      "id": "s59"
+    },
+    {
+      "text": "7.",
+      "id": "s60"
+    },
+    {
+      "text": "GOVERNING LAW AND JURISDICTION\n \n \n \n This Agreement shall be governed and construed in accordance with the laws of Japan and the Parties irrevocably submit to the non-executive jurisdiction of the competent Courts of Japan which govern the place of the principal office of the Lender.",
+      "id": "s61"
+    },
+    {
+      "text": "IN WITNESS WHEREOF, this Agreement is made in duplicate, and the Lender and the Borrower have caused their duly elected representatives execute each one of the original text hereof.",
+      "id": "s62"
+    },
+    {
+      "text": "The Lender\n Sumikin Bussan Corporation\n \n (sgd) \n \n By : E.Ueda\n Title : Managing Director\n \n The Borrower\n SBA Foods Pty Ltd.\n \n (sgd)\n \n By : Malcolm R. Slinger\n Title : Managing Director \n\n19 By an agreement made on 29 June 2000 SBC agreed to exempt SBAF from interest payable on previous loans.",
+      "id": "s63"
+    },
+    {
+      "text": "After that loans were interest free.",
+      "id": "s64"
+    },
+    {
+      "text": "Previously SBAF had remitted interest to SBC and returned such interest for tax purposes.",
+      "id": "s65"
+    },
+    {
+      "text": "20 Also SBC agreed to the extension of the time for repayment of the loans and recorded those extensions in various amending agreements.",
+      "id": "s66"
+    },
+    {
+      "text": "For example, by an agreement made on 30 March 2001 SBC agreed to extend the time for repayment of nine loans totalling $60,550,000 from 31 March 2001 to 30 September 2001.",
+      "id": "s67"
+    },
+    {
+      "text": "Eventually all 29 advances from SBC had the same repayment date of 31 March 2002.",
+      "id": "s68"
+    },
+    {
+      "text": "Bank finance \n \n21 The ANZ Bank had been the Gilbertson Group's bankers.",
+      "id": "s69"
+    },
+    {
+      "text": "After the acquisition various proposals were discussed between the bank and SBC.",
+      "id": "s70"
+    },
+    {
+      "text": "Eventually the bank modified its requirement for subordination of shareholder loans and accepted that SBC give legally enforceable undertakings that the loans not be withdrawn without ANZ's consent.",
+      "id": "s71"
+    },
+    {
+      "text": "In a letter dated 12 December 1996 the bank confirmed that in the event of such an undertaking it would treat the loans as shareholders funds for the purpose of measuring against proposed lending covenants.",
+      "id": "s72"
+    },
+    {
+      "text": "The undertaking was duly given.",
+      "id": "s73"
+    },
+    {
+      "text": "22 At various times over the next few years, with the encouragement of ANZ, SBAF discussed the possibility of converting the Japanese yen loans to equity but nothing ever came of this.",
+      "id": "s74"
+    },
+    {
+      "text": "SBC letters of comfort \n \n23 In April 1999 SBAF's auditors required it to obtain a letter of comfort from SBC before they would sign the accounts.",
+      "id": "s75"
+    },
+    {
+      "text": "SBC duly provided such a letter dated 25 May 1999.",
+      "id": "s76"
+    },
+    {
+      "text": "It was on the letterhead of SBC, addressed to the directors of SBAF, and was in the following terms:\n \n \n \n LETTER OF FINANCIAL SUPPORT \n \n \n \n \n Sumikin Bussan Corporation is the parent entity of SBA Foods Pty.",
+      "id": "s77"
+    },
+    {
+      "text": "Ltd.",
+      "id": "s78"
+    },
+    {
+      "text": "The parent entity acknowledges that as at 31 December 1998 the current liabilities of SBA Foods Pty.",
+      "id": "s79"
+    },
+    {
+      "text": "Ltd. exceed its current assets.",
+      "id": "s80"
+    },
+    {
+      "text": "After due consideration of these facts the parent entity covenants:\n \n \n \n 1.",
+      "id": "s81"
+    },
+    {
+      "text": "To not call for repayment of the loans outstanding at 31 December 1998 of [yen]1,997,599,755 prior to 30 November 2001.",
+      "id": "s82"
+    },
+    {
+      "text": "2.",
+      "id": "s83"
+    },
+    {
+      "text": "To continue to provide ongoing financial support to enable SBA Foods Pty.",
+      "id": "s84"
+    },
+    {
+      "text": "Ltd. to meet its liabilities as and when they fall due.",
+      "id": "s85"
+    },
+    {
+      "text": "The above covenants, which are operative from the date of this letter shall remain in force and shall not be revoked until such time as the deficiency in working capital is corrected.",
+      "id": "s86"
+    },
+    {
+      "text": "These covenants were passed at a meeting of directors of Sumikin Bussan Corporation on 11 May 1999.",
+      "id": "s87"
+    },
+    {
+      "text": "Yours faithfully,\n \n \n SUMIKIN BUSSAN CORPORATION\n \n ______________( sgd) ____ \n \n Director KOSHIRO YAMAMOTO\n \n Dated 25 May 1999\n \n\n24 When that letter of comfort was about to expire SBC provided a further letter of comfort dated 20 November 2001 as follows:\n \n \n \n LETTER OF FINANCIAL SUPPORT \n \n \n \n \n Sumikin Bussan Corporation is the parent entity of SBA Foods Pty Limited.",
+      "id": "s88"
+    },
+    {
+      "text": "The parent entity acknowledges that as at 31 October 2001 the current liabilities of SBA Foods Pty Limited exceed its current assets and if the parent entity called for repayment of its debts, SBA Foods Pty Limited would be unable to pay its debts as and when they fall due.",
+      "id": "s89"
+    },
+    {
+      "text": "After due consideration of these facts the parent entity covenants\n \n \n \n 1.",
+      "id": "s90"
+    },
+    {
+      "text": "To not call for repayment of the loans outstanding at 31 October 2001 of A$67,600,000.00 and [yen]3,167,690,801 prior to 30 September 2003.",
+      "id": "s91"
+    },
+    {
+      "text": "2.",
+      "id": "s92"
+    },
+    {
+      "text": "To continue to provide ongoing financial support to enable SBA Foods Pty.",
+      "id": "s93"
+    },
+    {
+      "text": "Limited to meet its liabilities as and when they fall due.",
+      "id": "s94"
+    },
+    {
+      "text": "The above covenants, which are operative from the date of this letter shall remain in force and shall not be revoked until such time as the deficiency in working capital is corrected, the company is sold its [sic] entirety or Sumikin Bussan Corporation sells its shares.",
+      "id": "s95"
+    },
+    {
+      "text": "Yours faithfully,\n SUMIKIN BUSSAN CORPORATION\n \n \n \n _____________ (sgd)________________ \n \n Director Shoich Takishita\n Dated November 20, 2001\n \n Sale of shares \n \n25 During 2001 ANZ was looking to SBAF to reduce its debt.",
+      "id": "s96"
+    },
+    {
+      "text": "In October a possible purchaser withdrew from negotiations, to the disappointment of ANZ.",
+      "id": "s97"
+    },
+    {
+      "text": "Other parties expressed interest.",
+      "id": "s98"
+    },
+    {
+      "text": "SBC advised that it required the business to be sold by March 2002.",
+      "id": "s99"
+    },
+    {
+      "text": "In January Tasman emerged as a buyer.",
+      "id": "s100"
+    },
+    {
+      "text": "ANZ agreed to extend facilities until 15 February 2002.",
+      "id": "s101"
+    },
+    {
+      "text": "26 As already mentioned, on 27 February 2002 SBAF and SBC executed the share sale agreement with Tasman.",
+      "id": "s102"
+    },
+    {
+      "text": "By a loan agreement made on the same day SBC advanced $5.3 million.",
+      "id": "s103"
+    },
+    {
+      "text": "This amount was used to repay the amounts owing to ANZ prior to completion of the sale of the SBAF shares.",
+      "id": "s104"
+    },
+    {
+      "text": "27 After the completion of the sale of shares SBAF's balance sheet disclosed no indebtedness to SBC.",
+      "id": "s105"
+    },
+    {
+      "text": "28 Mr Malcolm Slinger, who was the Managing Director of SBAF, deposed that, other than what is contained in the share sale agreement, he was not aware of, and has not signed, any other documents, agreements or deeds under which SBC expressly released or waived the amounts owing by SBAF to SBC.",
+      "id": "s106"
+    },
+    {
+      "text": "Issue 1: debt ?",
+      "id": "s107"
+    },
+    {
+      "text": "29 For the purposes of Div 245 a debt is defined as \"an enforceable obligation imposed by law on a person to pay an amount to another person\": s 245-15(1).",
+      "id": "s108"
+    },
+    {
+      "text": "30 The applicant submits that the loan agreements were, as at the completion of the share sale agreement (1 March 2002), unenforceable as SBC would have breached covenants both to SBAF and to ANZ if it had sought repayment.",
+      "id": "s109"
+    },
+    {
+      "text": "Further, SBC would have been estopped from seeking to enforce the expressed terms of the loan agreements.",
+      "id": "s110"
+    },
+    {
+      "text": "31 The short answer is that there is still an enforceable obligation imposed by law to pay a creditor even if the time for payment is postponed or deferred.",
+      "id": "s111"
+    },
+    {
+      "text": "In terms of the legislative purpose of Div 245, there is just as much an economic benefit for a debtor if his creditor forgives a debt which is not yet due for payment as there is when the debt is due, or overdue.",
+      "id": "s112"
+    },
+    {
+      "text": "32 With the SBC loans there was not a condition precedent to the coming into existence of the liability, as was the case in Emu Bay Railway Co Ltd v Federal Commissioner of Taxation [1944] HCA 28 ; (1944) 71 CLR 596.",
+      "id": "s113"
+    },
+    {
+      "text": "The loan agreements, under which money was advanced, stipulated dates for repayment and created unconditional obligations, notwithstanding that such obligations were extended from time to time: cf Federal Commissioner of Taxation v Citylink Melbourne Limited (2006) 228 CLR 1 at [134].",
+      "id": "s114"
+    },
+    {
+      "text": "Prior to the sale of share agreement, there was no suggestion that SBC's rights would be abandoned.",
+      "id": "s115"
+    },
+    {
+      "text": "33 Some points can be made as to the construction of the letters of comfort, or more specifically, the second one, which was operative at the relevant time.",
+      "id": "s116"
+    },
+    {
+      "text": "34 First, covenant 2 relating to \"ongoing financial support\" is an obligation distinct from and independent of covenant 1.",
+      "id": "s117"
+    },
+    {
+      "text": "Consistently with the letter SBC could call for repayment after 30 September 2003 but still be obliged to \"continue to provide ongoing financial support\".",
+      "id": "s118"
+    },
+    {
+      "text": "35 Secondly, both covenants were no longer operative once SBC sold its shares in SBAF.",
+      "id": "s119"
+    },
+    {
+      "text": "This is inconsistent with the necessary implication in the applicant's argument that on selling its shares SBC was still inhibited from enforcing its right of recovery against SBAF.",
+      "id": "s120"
+    },
+    {
+      "text": "36 Issue 1 must be answered: yes.",
+      "id": "s121"
+    },
+    {
+      "text": "Issue 2: commercial debt ?",
+      "id": "s122"
+    },
+    {
+      "text": "37 Relevantly for present purposes, under Div 245 a debt is a commercial debt if interest payable on the debt is, or would be, allowable as a deduction to the debtor: s 245-25(1) and (2).",
+      "id": "s123"
+    },
+    {
+      "text": "The same result follows if interest is not payable but, had interest been payable, the interest would have been allowable as a deduction to the debtor: s 245-25(3).",
+      "id": "s124"
+    },
+    {
+      "text": "38 That requires consideration whether interest paid or payable by SBAF satisfies s 8-1 of the Income Tax Assessment Act 1997 (Cth), that is to say whether interest (or hypothetical interest) was an outgoing incurred in gaining or producing assessable income or necessarily incurred in carrying on a business for the purpose of gaining or producing such income, and was not an outgoing of capital or of a capital nature.",
+      "id": "s125"
+    },
+    {
+      "text": "39 The applicant contends that the Initial Loans were used to fund the acquisition of the business, and that interest might have been deductible in the initial years, but there was no intention on the part of SBC or SBAF that these loans be repaid.",
+      "id": "s126"
+    },
+    {
+      "text": "Accordingly, it is said, they lacked the \"ephemeral character\" of a loan and took on the character of an equity investment.",
+      "id": "s127"
+    },
+    {
+      "text": "They amounted to \" de facto equity\".",
+      "id": "s128"
+    },
+    {
+      "text": "From June 1999 onwards the outgoings lacked contemporaneity with the gaining or producing of assessable income; they were made for the purpose of enabling SBAF to repay other debts and to meet immediate requirements so that it might remain in business.",
+      "id": "s129"
+    },
+    {
+      "text": "It was insolvent on its own account and had no foreseeable prospect of gaining or producing income.",
+      "id": "s130"
+    },
+    {
+      "text": "At least in the case of the Subsequent Loans, the advances were made for the purpose of \"propping up\" an ailing business.",
+      "id": "s131"
+    },
+    {
+      "text": "40 In my opinion, both the Initial Loans and the Subsequent Loans constituted debt.",
+      "id": "s132"
+    },
+    {
+      "text": "They did not constitute equity, whether de facto or de iure .",
+      "id": "s133"
+    },
+    {
+      "text": "When anyone is planning to engage in business through the medium of a company the investment can be made via loans or share capital or a combination of both.",
+      "id": "s134"
+    },
+    {
+      "text": "On a risk and reward analysis, either course has its pros and cons.",
+      "id": "s135"
+    },
+    {
+      "text": "In the present case there was a decision by sophisticated business people to invest via loans.",
+      "id": "s136"
+    },
+    {
+      "text": "The loan agreements, the variations thereof and the payments made thereunder were properly documented.",
+      "id": "s137"
+    },
+    {
+      "text": "The documentation and the underlying commercial reality were consistent with each other.",
+      "id": "s138"
+    },
+    {
+      "text": "SBAF functioned as a separate entity, with regular formal meetings of its own board and independently audited accounts.",
+      "id": "s139"
+    },
+    {
+      "text": "There is no suggestion of sham.",
+      "id": "s140"
+    },
+    {
+      "text": "The fact that lender and borrower were parent and wholly owned subsidiary does not alter that characterisation.",
+      "id": "s141"
+    },
+    {
+      "text": "41 The applicant relied on Spassked v Federal Commissioner of Taxation [2003] FCAFC 282 ; (2003) 136 FCR 441 at [128] where Gyles J said that the parent-subsidiary relationship in that case was such that the loans were \"purely intra-group arrangements with no external aspect\" and many of the companies involved had \"no external role at all\".",
+      "id": "s142"
+    },
+    {
+      "text": "Thus the requisite connection or relationship between the outgoing and the earning of assessable income \"was not to be inferred but must be positively established\".",
+      "id": "s143"
+    },
+    {
+      "text": "However, in the present case SBAF certainly had an external role.",
+      "id": "s144"
+    },
+    {
+      "text": "It was a trading entity in its own right, albeit an unsuccessful one, and used the borrowed funds for working capital to pay the expenses of its business.",
+      "id": "s145"
+    },
+    {
+      "text": "42 The relevant taxpayer is the applicant.",
+      "id": "s146"
+    },
+    {
+      "text": "The focus is upon it and the use to which it put the borrowed funds.",
+      "id": "s147"
+    },
+    {
+      "text": "The Court is not concerned with SBC's purpose in advancing funds: GP International Pipecoaters Pty Ltd v Federal Commissioner of Taxation [1990] HCA 25 ; (1990) 170 CLR 124 at 136-137.",
+      "id": "s148"
+    },
+    {
+      "text": "43 I conclude the answer to Issue 2 is: yes.",
+      "id": "s149"
+    },
+    {
+      "text": "Issue 3: forgiveness ?",
+      "id": "s150"
+    },
+    {
+      "text": "44 Section 245 - 35 (1) provides that a debt is forgiven if the debtor's obligation to pay the debt \"is released or waived, or is otherwise extinguished\".",
+      "id": "s151"
+    },
+    {
+      "text": "45 Alternatively, s 245 - 35 (3) provides that if debtor and creditor enter into an agreement (whether or not legally enforceable) and under the agreement the debtor's obligation is to cease at a particular future time and the cessation of the obligation is to occur without the debtor incurring any financial or other obligation, then the debt is taken to be forgiven when the agreement is entered into.",
+      "id": "s152"
+    },
+    {
+      "text": "46 The relevant provisions in the share sale agreement have already been mentioned: [6] above.",
+      "id": "s153"
+    },
+    {
+      "text": "47 SBAF's internal records are consistent with forgiveness.",
+      "id": "s154"
+    },
+    {
+      "text": "Minutes of a directors' meeting of 1 March 2002 records \"that SBC has agreed to cancel all the loans from SBC to (SBAF)\".",
+      "id": "s155"
+    },
+    {
+      "text": "Appropriate entries were made in SBAF's general ledger.",
+      "id": "s156"
+    },
+    {
+      "text": "A note to SBAF's financial report for the six months ended 30 June 2002 recorded the debt forgiveness.",
+      "id": "s157"
+    },
+    {
+      "text": "48 There is no evidence of any relevant documentation of the creditor SBC.",
+      "id": "s158"
+    },
+    {
+      "text": "However the applicant does not take any Jones v Dunkel point.",
+      "id": "s159"
+    },
+    {
+      "text": "49 The Commissioner relied on an affidavit by a Japanese lawyer, Mr Masatoshi Yasunaga.",
+      "id": "s160"
+    },
+    {
+      "text": "He deposed that Article 519 of the Japanese Civil Code provides:\n \n If the obligee declares to the obligor an intention to release the obligor from the obligation, such obligation shall be extinguished.",
+      "id": "s161"
+    },
+    {
+      "text": "Mr Yasunaga says that such an intention may be expressed orally or in writing or be implied by the obligee's conduct.",
+      "id": "s162"
+    },
+    {
+      "text": "50 The applicant argued that the debt must be expressly forgiven and there was no evidence that this had been done.",
+      "id": "s163"
+    },
+    {
+      "text": "It says that SBC's obligation under the sale of shares agreement was to the purchaser, not to SBAF qua debtor.",
+      "id": "s164"
+    },
+    {
+      "text": "51 In my opinion, the words of s 245-35(1) cannot be read down so as to require some express forgiveness.",
+      "id": "s165"
+    },
+    {
+      "text": "Waiver, for example, may be by conduct; it is an intentional act done with knowledge whereby a person abandons a right by acting in a manner inconsistent with that right: Craine v Colonial Mutual Fire Insurance Co Ltd [1920] HCA 64 ; (1920) 28 CLR 305 at 326, Grundt v Great Boulder Gold Mines Ltd [1937] HCA 58 ; (1937) 59 CLR 641 at 658.",
+      "id": "s166"
+    },
+    {
+      "text": "The expression \"or otherwise extinguished\" is wide and would cover an agreement, enforceable in equity, not to set up the cause of action in debt: McDermott v Black [1940] HCA 4 ; (1940) 63 CLR 161.",
+      "id": "s167"
+    },
+    {
+      "text": "SBAF was of course a party to the sale of shares agreement.",
+      "id": "s168"
+    },
+    {
+      "text": "After settlement of the sale of shares agreement and SBC's receipt of the purchase price from Tasman Group there is no way in which SBC could have recovered the debts previously owing by SBAF.",
+      "id": "s169"
+    },
+    {
+      "text": "52 In any event, s 245-35(3) would apply, the \"particular future time\" being the Completion Date (1 March 2002).",
+      "id": "s170"
+    },
+    {
+      "text": "53 The answer to Issue 3 is: yes.",
+      "id": "s171"
+    },
+    {
+      "text": "Valuation issues \n \n54 Section 245-55 provides rules for working out the notional value of commercial debts which have been forgiven.",
+      "id": "s172"
+    },
+    {
+      "text": "Issue 4: is the solvency assumption applicable?",
+      "id": "s173"
+    },
+    {
+      "text": "55 An obviously critical factor in the valuation of any debt is the solvency of the debtor.",
+      "id": "s174"
+    },
+    {
+      "text": "Section 245-55 (2)(a) and (3)(a)(i) establish an assumption of solvency, that is to say:\n \n at the time when the debt was incurred the debtor was able to pay all the debtor's debts (including the debt concerned) as and when they fell due.",
+      "id": "s175"
+    },
+    {
+      "text": "However, this assumption is excluded where subs (4) applies.",
+      "id": "s176"
+    },
+    {
+      "text": "Under subs (4) the assumption of solvency does not apply where:\n \n (a) either: \n \n \n \n (i) at the time when the debt was forgiven the creditor was a resident; or\n (ii) the forgiveness of the debt was a CGT event involving a CGT asset having the necessary connection with Australia; and \n \n \n \n \n (b) the debtor and the creditor were not dealing with each other at arm's length in respect of the incurring of the debt; and \n \n \n (c) the debt was not a moneylending debt.",
+      "id": "s177"
+    },
+    {
+      "text": "56 The only element of subs (4) now in dispute (given that alternative (a)(i) is not applicable) is the necessary connection with Australia .",
+      "id": "s178"
+    },
+    {
+      "text": "This is relevantly defined in s 136-25, item 2, of the Income Tax Assessment Act 1997 (Cth):\n \n A CGT asset that you have used at any time in carrying on a business through a permanent establishment in Australia.",
+      "id": "s179"
+    },
+    {
+      "text": "57 The \"you\" is SBC.",
+      "id": "s180"
+    },
+    {
+      "text": "Each debt was a CGT asset : 1997 Act s 108-5.",
+      "id": "s181"
+    },
+    {
+      "text": "The forgiveness of the debt was a CGT event : s 104-25(1).",
+      "id": "s182"
+    },
+    {
+      "text": "58 Each debt was used by SBC in carrying on a business through a permanent establishment in Australia.",
+      "id": "s183"
+    },
+    {
+      "text": "That concept is defined in s 6 of the 1936 Act as follows:\n \n ' permanent establishment ', in relation to a person (including the Commonwealth, a State or an authority of the Commonwealth or a State), means a place at or through which the person carries on any business and, without limiting the generality of the foregoing, includes: \n \n (a) a place where the person is carrying on business through an agent; \n \n \n (b) a place where the person has, is using or is installing substantial equipment or substantial machinery; \n \n \n (c) a place where the person is engaged in a construction project; and \n \n \n (d) where the person is engaged in selling goods manufactured, assembled, processed, packed or distributed by another person or, or at or to the order of, the first mentioned person and either of those persons participates in the management, control or capital of the other person or another person participates in the management, control or capital of both of those persons --- the place where the goods are manufactured, assembled, processed, packed or distributed; \n \n\n\nbut does not include: \n \n \n \n (e) a place where the person is engaged in business dealings through a bona fide commission agent or broker who, in relation to those dealings, acts in the ordinary course of his business as a commission agent or broker and does not receive remuneration otherwise than at a rate customary in relation to dealings of that kind, not being a place where the person otherwise carries on business;\n (f) a place where the person is carrying on business through an agent: \n \n\n (i) who does not have, or does not habitually exercise, a general authority to negotiate and conclude contracts on behalf of the person; or \n \n \n \n (ii) whose authority extends to filling orders on behalf of the person from a stock of goods or merchandise situated in the country where the place is located, but who does not regularly exercise that authority; \n \n \n\n not being a place where the person otherwise carries on business; or \n \n \n (g) a place of business maintained by the person solely for the purpose of purchasing goods or merchandise.",
+      "id": "s184"
+    },
+    {
+      "text": "59 The place in question here was the head office and plant at Altona, as well as the other locations mentioned above.",
+      "id": "s185"
+    },
+    {
+      "text": "SBC carried on a business there through its wholly owned subsidiary SBAF.",
+      "id": "s186"
+    },
+    {
+      "text": "The financing of that business was to a large extent through the loans which created the debts.",
+      "id": "s187"
+    },
+    {
+      "text": "60 I answer Issue 4: no.",
+      "id": "s188"
+    },
+    {
+      "text": "Issue 5: going concern?",
+      "id": "s189"
+    },
+    {
+      "text": "61 If, as I have held, the solvency assumption does not apply, it is necessary to work out the amount that would have been the value of the debt at the time when it was forgiven if \"the debtor's capacity to pay the debt at the time when it was forgiven was the same as the debtor's capacity to pay the debt at the time when it was incurred\": s 245-55(2)(b),(3)(a)(ii).",
+      "id": "s190"
+    },
+    {
+      "text": "62 The parties called experts as to the valuation issues, Mr Damien Hodgkinson on behalf of the applicant and Mr Gregory Meredith on behalf of the Commissioner.",
+      "id": "s191"
+    },
+    {
+      "text": "63 The first issue of principle is whether, as Mr Hodgkinson contended, capacity to pay is to be assessed on a going concern basis.",
+      "id": "s192"
+    },
+    {
+      "text": "Mr Meredith's opposing view is that one assumes a liquidation and the realisable value of the assets on an orderly realisation.",
+      "id": "s193"
+    },
+    {
+      "text": "64 The term \"capacity\" is not defined in the legislation.",
+      "id": "s194"
+    },
+    {
+      "text": "Mr Hodgkinson said that it refers to \"the ability to service a particular level of debt on a going concern basis and not on repayment, and that the ability of (SBAF) to service the debt was based on its ability to pay interest\".",
+      "id": "s195"
+    },
+    {
+      "text": "On this view, the debtor's capacity to pay the debt is to be treated as a function of surplus cash flows from trading operations and interest, being interest in fact charged on the loans to 1 July 2000 and thereafter at the 90 day bank bill rate.",
+      "id": "s196"
+    },
+    {
+      "text": "65 Mr Hodgkinson's approach is perhaps somewhat unrealistic in the circumstances of this case, given that SBAF never generated surplus cash flows from trading operations, and had to be continually propped up by SBC.",
+      "id": "s197"
+    },
+    {
+      "text": "It is difficult to see why a willing but not anxious buyer of the debts from SBC would not take these circumstances into account.",
+      "id": "s198"
+    },
+    {
+      "text": "More generally, I see no rational basis, in the valuation of a debt, in a distinction between capacity to pay interest and capacity to repay principal.",
+      "id": "s199"
+    },
+    {
+      "text": "Both have economic value.",
+      "id": "s200"
+    },
+    {
+      "text": "A valuation of the debt must have regard to both.",
+      "id": "s201"
+    },
+    {
+      "text": "66 Mr Meredith, correctly in my view, identified the debtor's capacity to pay as a function of the resources which would be available, including assets which the debtor could realise in a reasonable time frame, and taking into account other liabilities.",
+      "id": "s202"
+    },
+    {
+      "text": "This approach is consistent with the classic definition of solvency in Sandell v Porter [1966] HCA 28 ; (1966) 115 CLR 666 at 670.",
+      "id": "s203"
+    },
+    {
+      "text": "67 I would therefore not accept Mr Hodgkinson's going concern basis.",
+      "id": "s204"
+    },
+    {
+      "text": "Issue 6: first in first/out?",
+      "id": "s205"
+    },
+    {
+      "text": "68 Mr Hodgkinson argued that a creditor valuing a debt in its own hands on a going concern basis will apply any payment against its oldest debt first.",
+      "id": "s206"
+    },
+    {
+      "text": "Therefore, he said, on Mr Meredith's figures, totalling SBC advances outstanding prior to each new advance meant that the distribution would be insufficient to repay any further advance after 31 January 1997.",
+      "id": "s207"
+    },
+    {
+      "text": "69 I agree with the Commissioner's submission that the first in/first out principle is not relevant in the present context.",
+      "id": "s208"
+    },
+    {
+      "text": "It is concerned with allocation of payments by a creditor, not with the debtor's capacity to pay.",
+      "id": "s209"
+    },
+    {
+      "text": "Issue 7: subordination?",
+      "id": "s210"
+    },
+    {
+      "text": "70 Mr Hodgkinson's view was that the letterers of comfort (see [23] and [24] above) had the effect that on a notional liquidation SBC's debts would be subordinated behind those of other unsecured creditors.",
+      "id": "s211"
+    },
+    {
+      "text": "71 The Commissioner, correctly in my view, contended that the SBC debts must be treated as ranking pari passu with those of other unsecured creditors.",
+      "id": "s212"
+    },
+    {
+      "text": "The letters do not purport to interfere with the priority as between creditors.",
+      "id": "s213"
+    },
+    {
+      "text": "There is no suggestion that they were communicated to or relied on by other creditors.",
+      "id": "s214"
+    },
+    {
+      "text": "Orders \n \n72 The parties are directed to bring in minutes to give effect to the above reasons.",
+      "id": "s215"
+    },
+    {
+      "text": "I certify that the preceding seventy-two (72) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Heerey.",
+      "id": "s216"
+    },
+    {
+      "text": "Associate:\n\nDated: 29 January 2008\n\n\n Counsel for the Applicant: J W de Wijn QC and F J Alpins \n \n Solicitors for the Applicant: Arnold Bloch Leibler \n \n Counsel for the Respondent: G J Davies QC and D Harding \n \n Solicitor for the Respondent: Australian Government Solicitor \n \n Dates of Hearing: 17,18 December 2007 \n \n Date of Judgment: 29 January 2008 \n\n\n\n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2008/23.html",
+      "id": "s217"
+    }
+  ]
+}

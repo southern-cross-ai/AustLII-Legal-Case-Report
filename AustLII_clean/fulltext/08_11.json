@@ -1,0 +1,1312 @@
+{
+  "name": "SZLDG v Minister for Immigration and Citizenship [2008] FCA 11 (17 January 2008)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2008/11.html",
+  "catchphrases": [
+    {
+      "text": "application for protection (class xa) visa",
+      "id": "c0"
+    },
+    {
+      "text": "90 day period in which minister to make a decision expired",
+      "id": "c1"
+    },
+    {
+      "text": "relationship between ss 65 and 501 of migration act 1958 (cth)",
+      "id": "c2"
+    },
+    {
+      "text": "different delegates of minister with delegated power to act under s 65 and s 501",
+      "id": "c3"
+    },
+    {
+      "text": "scope of s 65 delegate's authority, if any, in relation to the \"character test\" under s 501",
+      "id": "c4"
+    },
+    {
+      "text": "whether s 65 delegate had finally decided to issue temporary protection visa (subclass 785) to applicant",
+      "id": "c5"
+    },
+    {
+      "text": "whether mandamus lay to compel minister to issue the visa. held : (1) the s 65 delegate had not finally decided to issue a temporary protection visa to the applicant and mandamus did not lie to compel the minister to issue the visa; (2) the role of the s 65 delegate in relation to the s 501 character test was limited to checking with the appropriate s 501 delegate that the applicant had not failed to pass that test; (3) s 65 delegate's powers under s 65 and the migration regulations 1994 (cth) were subject to the powers of the minister and the minister's s 501(1) delegate to refuse to grant a visa; (4) mandamus should issue to compel minister to determine the application according to law, having regard to the fact that the 90 day period fixed by s 65a had long since expired.",
+      "id": "c6"
+    },
+    {
+      "text": "migration",
+      "id": "c7"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "INTRODUCTION \n \n1 While a prisoner at the Darwin Correctional Centre, the applicant completed an application for a Protection (Class XA) visa (Subclass 866).",
+      "id": "s0"
+    },
+    {
+      "text": "With the assistance of the Northern Territory Legal Aid Commission the completed application was forwarded to the Department of Immigration and Multicultural Affairs (the Department) under cover of a letter dated 6 June 2006, and it was received by the Department on 8 June 2006.",
+      "id": "s1"
+    },
+    {
+      "text": "As the relevant application fee was not paid to the Department until 16 June 2006, the application was treated as having been made on 16 June 2006.",
+      "id": "s2"
+    },
+    {
+      "text": "2 Section 65A of the Migration Act 1958 (Cth) (the Act) requires that the Minister make a decision either to grant the visa or to refuse to grant the visa within 90 days starting on the day on which the application was made.",
+      "id": "s3"
+    },
+    {
+      "text": "That period expired in September 2006.",
+      "id": "s4"
+    },
+    {
+      "text": "Notwithstanding this clear and unqualified requirement, no decision has yet been made on the application --- some 16 months after the expiry of the 90 day period and some 19 months after the making of the application.",
+      "id": "s5"
+    },
+    {
+      "text": "The applicant has been in immigration detention throughout.",
+      "id": "s6"
+    },
+    {
+      "text": "3 Clearly there was an egregious failure by the Minister to obey the Parliament's command.",
+      "id": "s7"
+    },
+    {
+      "text": "4 In addition to other relief, the applicant seeks an order in the nature of mandamus requiring the Minister to determine the application for the Protection visa according to law.",
+      "id": "s8"
+    },
+    {
+      "text": "Counsel for the Minister offered no submission against the making of such an order.",
+      "id": "s9"
+    },
+    {
+      "text": "If such an order is to be made, it is desirable that it incorporate a time limit and that is something on which I would wish to give the parties an opportunity to be heard.",
+      "id": "s10"
+    },
+    {
+      "text": "5 Is it appropriate to make such an order in circumstances in which legislation so unequivocally requires that a decision be made within 90 days starting on 16 June 2006?",
+      "id": "s11"
+    },
+    {
+      "text": "Arguably, the very making of the order detracts from the unequivocal demand of s 65A of the Act and from the Ministerial failure to comply with it for some 16 months.",
+      "id": "s12"
+    },
+    {
+      "text": "6 The making of an order would, however, add the prospect of contempt of court by the Minister if the Minister were not to comply within the time fixed in the order.",
+      "id": "s13"
+    },
+    {
+      "text": "In this respect an order in the nature of mandamus would have utility.",
+      "id": "s14"
+    },
+    {
+      "text": "7 Subject to giving the parties the opportunity to make submissions, my present intention is to make an order of the kind mentioned.",
+      "id": "s15"
+    },
+    {
+      "text": "8 Also subject to considering the parties' submissions, I propose to order the Minister to pay the applicant's costs, even though, for the reasons that will appear below, the applicant has failed on the other issues raised by him.",
+      "id": "s16"
+    },
+    {
+      "text": "The applicant commenced this proceeding on 31 July 2007 as a proceeding in the Federal Magistrates Court of Australia and the proceeding was subsequently transferred to this Court.",
+      "id": "s17"
+    },
+    {
+      "text": "The event which was the immediate stimulus for the launch of the proceeding was the sending of a Notice of Intention to Consider Refusal (NOICR) of the visa application under s 501(1) of the Act on 18 July 2007.",
+      "id": "s18"
+    },
+    {
+      "text": "However, previously pleas had been made by and on behalf of the applicant over a long period for a decision to be taken on his application.",
+      "id": "s19"
+    },
+    {
+      "text": "In substance, he was forced to litigate in an attempt to compel the Minister to comply with s 65A of the Act, albeit so very late.",
+      "id": "s20"
+    },
+    {
+      "text": "In the circumstances I think it is a proper exercise of discretion for me to order the Minister to pay the applicant's costs.",
+      "id": "s21"
+    },
+    {
+      "text": "BACKGROUND FACTS \n \n9 The applicant is a national of Iraq.",
+      "id": "s22"
+    },
+    {
+      "text": "He claims to have been persecuted by the Saddam Hussein r&eacute;gime and to have spent some six years in Abu Ghraib gaol.",
+      "id": "s23"
+    },
+    {
+      "text": "He claims to have fled Iraq, and then to have spent time in Iran, Turkey, Malaysia and Indonesia.",
+      "id": "s24"
+    },
+    {
+      "text": "10 The applicant arrived in Australia on 22 February 2003 on a criminal justice entry visa after extradition from Thailand to face charges of \"people smuggling\" under s 232A of the Act, or in the alternative, s 233(1)(a) of the Act.",
+      "id": "s25"
+    },
+    {
+      "text": "The allegation was that the applicant had been responsible for the organisation of the arrival of four boats of illegal immigrants over a period of one year in 2000 and 2001 and that he was reckless as to whether or not those persons had a lawful right to come to Australia.",
+      "id": "s26"
+    },
+    {
+      "text": "11 The applicant pleaded guilty to two counts of the offence and asked the Court to take a further count into consideration.",
+      "id": "s27"
+    },
+    {
+      "text": "He was convicted of the offences in the Supreme Court of the Northern Territory and on 21 September 2004 was sentenced to eight years' imprisonment commencing on 17 June 2002, with a non parole period of four years.",
+      "id": "s28"
+    },
+    {
+      "text": "12 The period of the applicant's imprisonment, and his criminal justice entry visa, expired at midnight on 15 June 2006.",
+      "id": "s29"
+    },
+    {
+      "text": "On 16 June 2006, he was taken into immigration detention, and shortly afterwards, at his request, transferred to the Immigration Detention Centre in Villawood, Sydney.",
+      "id": "s30"
+    },
+    {
+      "text": "13 The applicant's mother, three sisters and three brothers live in Australia, some or all of them at Villawood.",
+      "id": "s31"
+    },
+    {
+      "text": "The applicant's mother and siblings came to Australia as illegal immigrants on the vessels organised by the applicant, and apparently have been recognised as having refugee status.",
+      "id": "s32"
+    },
+    {
+      "text": "The applicant's wife and daughter live in Indonesia and his father and another brother still live in Iraq.",
+      "id": "s33"
+    },
+    {
+      "text": "The applicant claims that a further brother was killed by the Saddam Hussein r&eacute;gime.",
+      "id": "s34"
+    },
+    {
+      "text": "14 The application for the Protection (Class XA) visa made on 16 June 2006 (see [1] above) was also treated as an application for a Bridging visa (Bridging Visa E) (Subclass 050) and as an application for a Temporary Protection visa (Subclass 785).",
+      "id": "s35"
+    },
+    {
+      "text": "In his application, the applicant gave as details of his employment between 1999 and 2002 that in Malaysia and Indonesia he had been \"helping with people smuggling\".",
+      "id": "s36"
+    },
+    {
+      "text": "His frankness may suggest that he saw nothing to be ashamed of in what he had been doing.",
+      "id": "s37"
+    },
+    {
+      "text": "15 On 7 July 2006, then Minister Vanstone refused the application for the Bridging visa under s 501 of the Act, on the basis that the applicant had a \"substantial criminal record\" (see s 501(6)(a)).",
+      "id": "s38"
+    },
+    {
+      "text": "The applicant's conviction within the four years preceding his application meant that he did not satisfy the criteria for the grant of a Subclass 866 Permanent Protection visa, but was to be considered for the grant of a Subclass 785 Temporary Protection visa.",
+      "id": "s39"
+    },
+    {
+      "text": "16 The application for the Protection visa was for a time dealt with by a s 65 delegate, Ms Kate Watson, who authored a \"Decision Record\" document which she signed and dated 5 December 2006.",
+      "id": "s40"
+    },
+    {
+      "text": "There is a question as to the status of that document, particularly in the light of two further documents authored by Ms Watson that accompanied it.",
+      "id": "s41"
+    },
+    {
+      "text": "Those two documents, to which I will refer as \"the annexures\", were in the nature of briefing memoranda addressed to other Departmental officers, because, for reasons that the evidence does not reveal, Ms Watson ceased to be the Case Manager of the applicant's application in or about December 2006.",
+      "id": "s42"
+    },
+    {
+      "text": "17 Before she parted with the matter, Ms Watson, whose position was \"Case Manager, Onshore Protection, NSW\", wrote in October 2006 to the \"Director, Character and Cancellation Section\" requesting a waiver of an internal Departmental requirement of a \"police clearance certificate\" or \"penal clearance\" from Iran where the applicant had resided for a time.",
+      "id": "s43"
+    },
+    {
+      "text": "The applicant's adviser had obtained such a certificate from Indonesia where the applicant had also resided, but apparently it was not the policy of the Iranian Government to issue such certificates in relation to people such as the applicant who had resided in Iran unlawfully, that is to say, without an Iranian visa.",
+      "id": "s44"
+    },
+    {
+      "text": "I discuss the waiver of this requirement at [107]-[109] below.",
+      "id": "s45"
+    },
+    {
+      "text": "18 In the time that has passed from 5 December 2006 to date, various officers of the Department have been occupied with questions relating to the waiver of the requirement of an Iranian police clearance certificate and to the applicant's character more generally.",
+      "id": "s46"
+    },
+    {
+      "text": "The Departmental documents in evidence show that there were different views held within the Department concerning the relationship between ss 65 and 501 of the Act, and that there were changes in the administrative arrangements within the Department for dealing with applications that raised overlapping ss 65 and 501 issues.",
+      "id": "s47"
+    },
+    {
+      "text": "19 It is not necessary to describe in detail the various positions that were taken by various officers from time to time.",
+      "id": "s48"
+    },
+    {
+      "text": "However, it is helpful to note the following events.",
+      "id": "s49"
+    },
+    {
+      "text": "20 On 30 March 2007, Nicole Pearson, Director, Character Policy, Character Assessment and War Crimes Screening Branch, expressed several concerns over aspects of the handling of the applicant's application.",
+      "id": "s50"
+    },
+    {
+      "text": "Ms Pearson:\n \n&#8226; thought that the application should have been considered by a delegate to whom the Ministerial power to refuse to grant a visa under s 501(1) of the Act had been delegated, but noted that this had not occurred;\n \n&#8226; observed that on 7 July 2006, former Minister Vanstone had \"personally\" refused to issue a Bridging visa on the ground that the applicant failed to pass the s 501 character test;\n \n&#8226; noted that from February 2007, character assessments for the purposes of s 501(1) of the Act had been centralised in the Brisbane Character Assessment Unit (BCAU) and had ceased to be made within the individual \"State Protection visa processing areas\".",
+      "id": "s51"
+    },
+    {
+      "text": "21 In late March 2007, the application was discussed with the Minister's office.",
+      "id": "s52"
+    },
+    {
+      "text": "22 On 12 April 2007, Ms Pearson gave a direction for the applicant's file to be forwarded to the BCAU for \"proper\" consideration under s 501 of the Act.",
+      "id": "s53"
+    },
+    {
+      "text": "23 The position was taken, apparently in April 2007, that a decision should not be made on the waiver of the requirement of an Iranian police clearance certificate until an \"Interpol check\" was carried out.",
+      "id": "s54"
+    },
+    {
+      "text": "24 From time to time, the applicant's adviser pressed for a decision to be taken, pointing out that the 90 day time limit under s 65A of the Act had long since expired.",
+      "id": "s55"
+    },
+    {
+      "text": "25 The applicant was given the NOICR dated 18 July 2007 by the BCAU and the applicant commenced the present proceeding in the Federal Magistrates Court of Australia on 31 July 2007.",
+      "id": "s56"
+    },
+    {
+      "text": "26 An internal Departmental memo dated 27 August 2007 advised that the BCAU had drafted a submission recommending that the Minister not refuse to grant the visa under s 501.",
+      "id": "s57"
+    },
+    {
+      "text": "The same memo noted, however, that the BCAU was still awaiting direction from \"Character Policy\", in the National Office of the Department, as to whether the Iranian police clearance certificate could be waived.",
+      "id": "s58"
+    },
+    {
+      "text": "27 An internal memo dated 28 September 2007 recorded that Minister Andrews had requested \"a full s 501 submission\" on the case.",
+      "id": "s59"
+    },
+    {
+      "text": "28 On 18 October 2007 a document entitled \"International Obligations and Humanitarian Concerns Assessment\" was completed by an Assessment Officer, Onshore Protection, NSW, noting that there was a real risk that the applicant could experience serious human rights abuses should he return to Iraq.",
+      "id": "s60"
+    },
+    {
+      "text": "29 A draft statement of reasons for refusal of a visa was prepared for signature by Minister Andrews, but in fact the document was never signed by him and no decision was taken by him or has been taken by his recent successor, Minister Evans, to refuse to issue the visa under s 501(1) of the Act.",
+      "id": "s61"
+    },
+    {
+      "text": "30 Much of the background to the present proceeding is summarised as follows in an internal Departmental memo dated 21 November 2007:\n \n ... although the draft decision record was signed in December 2006, the document was still in draft form and Protection Delivery Support Section was continuing to provide comments and advice in relation to the draft refugee assessment well into March 2007.",
+      "id": "s62"
+    },
+    {
+      "text": "Furthermore, at that Section's recommendation, a draft s501 issues paper (IP) was also prepared by an Onshore Protection case officer during this period.",
+      "id": "s63"
+    },
+    {
+      "text": "The character assessment in relation to [the applicant's] PV application formally came to the attention of Character Policy in March 07 (although we had been following up with Interpol in relation to an Iranian penal clearance since January), when we were asked to provide comments on the draft s501 issues paper (IP), that had been prepared by the On Pro [Onshore Protection] case officer.",
+      "id": "s64"
+    },
+    {
+      "text": "As the draft IP did not conform to our legal standards (which, given that it had not been prepared by a character case officer, is understandable), the case was referred to BCAU for further consideration.",
+      "id": "s65"
+    },
+    {
+      "text": "Referral to BCAU was the formal process at this time, although it should be noted that this was one of the first onshore cases to be referred to BCAU following the centralisation of the onshore s501 refusals function in early 2007.",
+      "id": "s66"
+    },
+    {
+      "text": "The previous approach for Protection Visa applications was that s501 delegates in Onshore Protection would make decisions relating to character, but would seek advice/feedback from Character Policy on complex cases.",
+      "id": "s67"
+    },
+    {
+      "text": "As you are no doubt aware, this is the first case that we are aware of where person who has been assessed to be owed protection obligations under article 1A, that has had their case progress to full consideration under s501 , which may also account for the initial confusion regarding the area that had responsibility for assessing the character requirement.",
+      "id": "s68"
+    },
+    {
+      "text": "It was also considered appropriate at this point (late March 2007) to discuss the case with the Minister's office and seek their views, especially given that [the applicant's] earlier associated BVE application had been refused by the former Minister personally (less than 9 months earlier).",
+      "id": "s69"
+    },
+    {
+      "text": "The advice from the Minister's office was that the case should progress to a NOICR, with the Minister being the likely decision-maker.",
+      "id": "s70"
+    },
+    {
+      "text": "BCAU were subsequently advised, in line with the approach requested by the Minister's office, to prepare and send a NOICR to [the applicant].",
+      "id": "s71"
+    },
+    {
+      "text": "From what I can gather, the reason for this approach was that it would be inappropriate for a delegate to be the decision-maker, given that [the applicant] had been found to be owed protection obligations.",
+      "id": "s72"
+    },
+    {
+      "text": "As Direction 21 rightly notes, that the power to refuse a visa where International Obligations are owed is a \"fundamental exercise of Australian sovereignty\" but the responsibility therefore lies within the discretion of the responsible Minister (not with a delegate).",
+      "id": "s73"
+    },
+    {
+      "text": "In any case, given the previous refusal decision and the likelihood that [the applicant] would be again found not to pass the character test (due to his substantial criminal record), it was appropriate in the circumstances for a NOICR to be sent, so that [the applicant] was given an appropriate opportunity to present his case and to ensure that the department was able to provide the Minister with the most up-to-date and complete information as possible, to assist him in making his decision.",
+      "id": "s74"
+    },
+    {
+      "text": "THIS PROCEEDING AND THE RELIEF SOUGHT \n \n31 The NOICR, dated 18 July 2007, informed the applicant that before the Minister or the Minister's delegate was able to decide whether the visa application should be refused, the Minister or the delegate must assess whether the applicant passed the character test referred to in s 501 of the Act.",
+      "id": "s75"
+    },
+    {
+      "text": "The NOICR referred to information that might be relied upon to assess whether to exercise the discretion to refuse the visa application, and invited comment from the applicant.",
+      "id": "s76"
+    },
+    {
+      "text": "32 The further amended application seeks the following relief:\n \n \n 1.",
+      "id": "s77"
+    },
+    {
+      "text": "A declaration that section 501 of the Migration Act 1958 (\"the Act \") does not have operation or effect in relation to the application for a protection visa made for the purposes of s 36 of the Act by the applicant on 16 June 2006 (\"the Visa Application\").",
+      "id": "s78"
+    },
+    {
+      "text": "2.",
+      "id": "s79"
+    },
+    {
+      "text": "Further and in the alternative, a declaration that the respondent, in exercising power under s 501 of the Act in relation to the Visa Application, may not take into account criminal convictions which are not to be taken into account for the purposes of the Convention Relating to the Status of Refugees 1951 and ss 91T or 91U of the Act .",
+      "id": "s80"
+    },
+    {
+      "text": "3.",
+      "id": "s81"
+    },
+    {
+      "text": "Further and in the alternative, a declaration that the Respondent is bound to apply the provisions of clause 118 of the Protection Visas Procedures Manual in considering the exercise of the discretion under s 501 of the Act in relation to the Visa Application.",
+      "id": "s82"
+    },
+    {
+      "text": "4.",
+      "id": "s83"
+    },
+    {
+      "text": "An order in the nature of mandamus requiring the respondent to determine the Visa Application according to law.",
+      "id": "s84"
+    },
+    {
+      "text": "5.",
+      "id": "s85"
+    },
+    {
+      "text": "An order in the nature of mandamus requiring the respondent to grant the applicant a visa of the type referred to in s 36 of the Migration Act pursuant to s 65(1) of the Act where the requirements of s 65(1)(a) have been met.",
+      "id": "s86"
+    },
+    {
+      "text": "6.",
+      "id": "s87"
+    },
+    {
+      "text": "Costs.",
+      "id": "s88"
+    },
+    {
+      "text": "33 The applicant submits that declaratory relief of the kinds specified in paragraphs 1, 2 and 3 is appropriate because of the difference of views held as to the relationship between ss 65 and 501 of the Act within the Department (outlined at [18]ff) which would be resolved by the making of those declarations.",
+      "id": "s89"
+    },
+    {
+      "text": "34 Counsel for the Minister, on the other hand, submits that I need not concern myself with \"the developing views of the Department\" or with various draft documents that were prepared, stating \"The existence of different streams of view within the Department is ... really neither here nor there\".",
+      "id": "s90"
+    },
+    {
+      "text": "35 However, counsel for the Minister concedes that it is appropriate for the Court to entertain the application for the declaration referred to in paragraph 1 because the NOICR makes it plain that the Minister does propose to exercise his discretion, one way or the other, under s 501 of the Act .",
+      "id": "s91"
+    },
+    {
+      "text": "36 I agree with counsel for the Minister.",
+      "id": "s92"
+    },
+    {
+      "text": "I am required to decide issues which the proceeding properly advances for decision, and it is not a proper use of the declaratory remedy to advise the Minister or Departmental officers in advance as to considerations they must or must not take into account (as is sought by the declaratory relief set out in paragraphs 2 and 3 at [32] above).",
+      "id": "s93"
+    },
+    {
+      "text": "37 In relation to the order in the nature of mandamus referred to in paragraph 4, I have indicated earlier my present disposition to make that order.",
+      "id": "s94"
+    },
+    {
+      "text": "Paragraph 3 of the grounds of the application is pertinent: \n \n The applicant has, since 16 September 2006, made numerous requests by telephone and in writing for the Visa Application to be determined, including by letter dated 10 May 2007 written on behalf of the applicant by International Migration Support.",
+      "id": "s95"
+    },
+    {
+      "text": "The correctness of this statement of fact is not disputed.",
+      "id": "s96"
+    },
+    {
+      "text": "38 The order in the nature of mandamus referred to in paragraph 5 set out at [32] above depends on my making a finding that the Minister was satisfied of the matters referred to in s 65(1)(a) of the Act (set out below).",
+      "id": "s97"
+    },
+    {
+      "text": "In substance, the applicant's submission is that a delegate to whom the Minister's powers under s 65 were delegated, had, within the scope of the authority delegated to her, determined finally that she was satisfied of all the criteria in s 65(1)(a) of the Act .",
+      "id": "s98"
+    },
+    {
+      "text": "LEGISLATION \n \n39 Section 36 of the Act provides that there is a class of visas to be known as \"protection visas\" and that \"a\" criterion for a protection visa is that the applicant is, relevantly, a non-citizen in Australia to whom the Minister is satisfied Australia has protection obligations under the Refugees Convention as amended by the Refugees Protocol.",
+      "id": "s99"
+    },
+    {
+      "text": "The \"Refugees Convention\" is a reference to the Convention relating to the Status of Refugees done at Geneva on 28 July 1951, and the reference to the Refugee's Protocol is a reference to the Protocol relating to the Status of Refugees done at New York on 31 January 1967.",
+      "id": "s100"
+    },
+    {
+      "text": "I will refer to the Refugees Convention and the Refugees Protocol together as \"the Convention\".",
+      "id": "s101"
+    },
+    {
+      "text": "40 Section 36 does not provide that \"the\" criterion for a protection visa is the criterion mentioned: it provides only that that criterion is \"a\" criterion for a protection visa.",
+      "id": "s102"
+    },
+    {
+      "text": "41 Section 65(1) of the Act provides:\n \n (1) After considering a valid application for a visa, the Minister: \n (a) if satisfied that: \n \n (i) the health criteria for it (if any) have been satisfied; and \n (ii) the other criteria for it prescribed by this Act or the regulations have been satisfied; and \n (iii) the grant of the visa is not prevented by section 40 (circumstances when granted), 500A (refusal or cancellation of temporary safe haven visas), 501 (special power to refuse or cancel) or any other provision of this Act or of any other law of the Commonwealth; and \n (iv) any amount of visa application charge payable in relation to the application has been paid; \n is to grant the visa; or \n \n (b) if not so satisfied, is to refuse to grant the visa.",
+      "id": "s103"
+    },
+    {
+      "text": "It will be noted that under s 65(1)(a) , the granting of a visa is mandatory.",
+      "id": "s104"
+    },
+    {
+      "text": "The applicant relies on the mandatory nature of the provision.",
+      "id": "s105"
+    },
+    {
+      "text": "But the requirement that a visa be granted is enlivened only if the Minister (or the Minister's s 65 delegate) is satisfied that the conditions set out in subparas (i)---(iv) are met.",
+      "id": "s106"
+    },
+    {
+      "text": "The Minister contends that on the evidence that state of satisfaction was not reached, and further that s 501(1) gives the Minister (or his s 501 delegate) an overarching discretionary power to refuse to grant a visa of any class, if the Minister (or that delegate) is not satisfied that the applicant passes the character test.",
+      "id": "s107"
+    },
+    {
+      "text": "42 We have already seen that one criterion for a temporary protection visa that is prescribed by the Act is the criterion prescribed by s 36(2) , namely, that the applicant is a non-citizen in Australia to whom the Minister or the Minister's delegate is satisfied Australia has protection obligations under the Convention.",
+      "id": "s108"
+    },
+    {
+      "text": "Ms Watson signed a \"Decision Record\" document dated 5 December 2006 which contained at its end the following heading and text:\n \n Final finding in relation to Refugee Convention protection obligations \n I am satisfied that the applicant is a person to whom Australia has protection obligations under the Refugees Convention.",
+      "id": "s109"
+    },
+    {
+      "text": "43 If this is to be treated as a final determination by Ms Watson (as to which, see below), its effect would be that the criterion referred to in s 36(2) of the Act was satisfied, but there would remain outstanding the other matters referred to in s 65(1)(a).",
+      "id": "s110"
+    },
+    {
+      "text": "44 The Migration Regulations 1994 (Cth) (the Regulations) prescribed the criteria to be satisfied by applicants for Temporary Protection visas in Subclass 785 in Sch 2 to the Regulations .",
+      "id": "s111"
+    },
+    {
+      "text": "The criteria to be satisfied at the time of decision are set out in cl 785.22 as follows:\n \n 785.22 Criteria to be satisfied at time of decision \n \n 785.221 The Minister is satisfied that the applicant is a person to whom Australia has protection obligations under the Refugees Convention.",
+      "id": "s112"
+    },
+    {
+      "text": "785.222 ...\n 785.223 ...\n 785.224 The applicant has undergone a medical examination carried out by any of the following (a relevant medical practitioner ):\n (a) a Medical Officer of the Commonwealth; \n (b) a medical practitioner approved by the Minister for the purposes of this paragraph; \n (c) a medical practitioner employed by an organisation approved by the Minister for the purposes of this paragraph.",
+      "id": "s113"
+    },
+    {
+      "text": "785.225 The applicant: \n \n (a) has undergone a chest x-ray examination conducted by a medical practitioner who is qualified as a radiologist in Australia; or\n (b) is under 11 years of age and is not a person in respect of whom a relevant medical practitioner has requested such an examination; or\n (c) is a person:\n (i) who is confirmed by a relevant medical practitioner to be pregnant; and\n (ii) who has been examined for tuberculosis by a chest clinic officer employed by a health authority of a State or Territory; and\n (iii) who has signed an undertaking to place herself under the professional supervision of a health authority in a State or Territory and to undergo any necessary treatment; and\n (iv) who the Minister is satisfied should not be required to undergo a chest x-ray examination at this time.",
+      "id": "s114"
+    },
+    {
+      "text": "785.225A A relevant medical practitioner: \n \n \n (a) has considered: \n \n \n (i) the results of any tests carried out for the purposes of the medical examination required under clause 785.224; and\n (ii) the radiological report (if any) required under clause 785.225 in respect of the applicant; and\n (b) if he or she is not a Medical Officer of the Commonwealth and considers that the applicant has a disease or condition that is, or may result in the applicant being, a threat to public health in Australia or a danger to the Australian community, has referred any relevant results and reports to a Medical Officer of the Commonwealth.",
+      "id": "s115"
+    },
+    {
+      "text": "785.225B If a Medical Officer of the Commonwealth considers that the applicant has a disease or condition that is, or may result in the applicant being, a threat to public health in Australia or a danger to the Australian community, arrangements have been made, on the advice of the Medical Officer of the Commonwealth, to place the applicant under the professional supervision of a health authority in a State or Territory to undergo any necessary treatment.",
+      "id": "s116"
+    },
+    {
+      "text": "785.226 The applicant satisfies public interest criteria 4001, 4002 and 4003A.",
+      "id": "s117"
+    },
+    {
+      "text": "785.227 The Minister is satisfied that the grant of the visa is in the national interest .",
+      "id": "s118"
+    },
+    {
+      "text": "45 I was assured by counsel that the version of cl 785.22 set out above is the relevant one, although I note that the latest compilation of the Regulations (prepared on 31 October 2007, with amendments up to SLI 2007 No 356) includes amendments to cl 785.226 to include a new requirement that applicants for this visa sign a \"values statement\".",
+      "id": "s119"
+    },
+    {
+      "text": "Nothing turns on this.",
+      "id": "s120"
+    },
+    {
+      "text": "I also note that in a typed one and a half page document that accompanied her \"Decision Record\" document dated 5 December 2006, Ms Watson referred to cll 785.223---785.227 as having a different content from that set out above (see [71] below).",
+      "id": "s121"
+    },
+    {
+      "text": "46 Public interest criterion (PIC) 4001 referred to in cl 785.226 appears in Sch 4 to the Regulations, and is as follows:\n \n 4001 Either: \n \n (a) the applicant satisfies the Minister that the applicant passes the character test; or \n (b) the Minister is satisfied, after appropriate inquiries, that there is nothing to indicate that the applicant would fail to satisfy the Minister that the person passes the character test; or \n (c) the Minister has decided not to refuse to grant a visa to the applicant despite reasonably suspecting that the applicant does not pass the character test; or \n (d) the Minister has decided not to refuse to grant a visa to the applicant despite not being satisfied that the applicant passes the character test.",
+      "id": "s122"
+    },
+    {
+      "text": "I will refer to PIC 4001 and to a s 65 delegate's role in relation to it below.",
+      "id": "s123"
+    },
+    {
+      "text": "47 It remains to make two observations concerning s 65(1)(a).",
+      "id": "s124"
+    },
+    {
+      "text": "First, it was not suggested that subpara (iv) (\"any amount of visa application charge payable in relation to the application has been paid\") caused any difficulty.",
+      "id": "s125"
+    },
+    {
+      "text": "Second, the only section referred to in subpara (iii) of s 65(1)(a) that was suggested to be of relevance in the present case is s 501 of the Act .",
+      "id": "s126"
+    },
+    {
+      "text": "48 Section 501 of the Act provides relevantly as follows:\n \n 501 Refusal or cancellation of visa on character grounds \n Decision of Minister or delegate--natural justice applies \n \n \n (1) The Minister may refuse to grant a visa to a person if the person does not satisfy the Minister that the person passes the character test.",
+      "id": "s127"
+    },
+    {
+      "text": "...\n Character test \n (6) For the purposes of this section, a person does not pass the character test if: \n \n \n \n \n (a) the person has a substantial criminal record (as defined by subsection (7)); \n ... \n \n \n \n Substantial criminal record \n \n \n (7) For the purposes of the character test, a person has a substantial criminal record if: \n ... \n (c) the person has been sentenced to a term of imprisonment of 12 months or more; \n ... \n \n\n49 Section 501H(1) provides:\n \n A power under section 501 ... to refuse to grant a visa to a person, ... is in addition to any other power under this Act , as in force from time to time, to refuse to grant a visa to a person, or to cancel a visa that has been granted to a person.",
+      "id": "s128"
+    },
+    {
+      "text": "50 The applicant had been sentenced to a term of imprisonment for more than 12 months.",
+      "id": "s129"
+    },
+    {
+      "text": "Therefore, once the Minister or the Minister's s 501(1) delegate attended to the question, he or she must have been satisfied that the applicant did not pass the character test.",
+      "id": "s130"
+    },
+    {
+      "text": "His or her discretionary power to refuse to grant the Temporary Protection visa given by s 501(1) would then have been enlivened.",
+      "id": "s131"
+    },
+    {
+      "text": "DELEGATIONS UNDER s 65 AND s 501 \n \n51 There is evidence that at the relevant time then Minister Vanstone, under s 496(1) of the Act , delegated to Ms Watson the Minister's powers under s 65 of the Act , but that the Minister had not delegated to her any power under s 501(1) of the Act , although the Minister had delegated power under s 501(1) of the Act to other officers.",
+      "id": "s132"
+    },
+    {
+      "text": "The instrument of delegation signed by Minister Vanstone takes the form of a delegation of powers under provisions of the Act and the Regulations that are specific to the persons occupying positions that are specified by number.",
+      "id": "s133"
+    },
+    {
+      "text": "The instrument establishes that the holder of position No 1925 (other evidence establishes that this was Ms Watson) was delegated, relevantly, the Minister's power under s 65 but that she was not delegated the Minister's power under s 501(1).",
+      "id": "s134"
+    },
+    {
+      "text": "52 It is convenient to note here that a question arises as to the relationship between subpara (iii) of s 65(1)(a) and s 501.",
+      "id": "s135"
+    },
+    {
+      "text": "A s 65 delegate, such as Ms Watson in the present case, had the Minister's authority to decide if she was satisfied that the grant of the protection visa was \"not prevented by section ... 501\".",
+      "id": "s136"
+    },
+    {
+      "text": "Other delegates had delegated authority from the Minister to refuse under s 501(1) to grant a visa to a person who did not satisfy that delegate that the person passed the character test.",
+      "id": "s137"
+    },
+    {
+      "text": "Section 501(1) itself does not prevent the grant of a visa: it allows the Minister (or the Minister's s 501(1) delegate) to refuse to grant a visa, and s 65(1)(a)(iii) must be construed accordingly.",
+      "id": "s138"
+    },
+    {
+      "text": "It follows that before the obligation imposed by s 65(1)(a) to grant a visa is activated, the Minister or the Minister's s 65 delegate must be satisfied that the Minister or the Minister's s 501(1) delegate has not refused to grant the visa.",
+      "id": "s139"
+    },
+    {
+      "text": "53 It was not open to Ms Watson, as a s 65 delegate, either not to be satisfied that the applicant passed the character test under s 501(1) or to refuse to grant the applicant a visa on that account.",
+      "id": "s140"
+    },
+    {
+      "text": "It was, however, open to her to satisfy herself that the grant of the visa was not prevented by a refusal under s 501(1).",
+      "id": "s141"
+    },
+    {
+      "text": "54 It is useful to recapitulate.",
+      "id": "s142"
+    },
+    {
+      "text": "It was for a s 501(1) delegate, not a s 65 delegate such as Ms Watson, not to be satisfied that the applicant had passed the character test within s 501 , and, if not so satisfied, to take the further step, if it was to be taken, of refusing to grant a visa.",
+      "id": "s143"
+    },
+    {
+      "text": "The role of a s 65 delegate was limited to satisfying himself or herself that the Minsiter or a s 501(1) delegate had not refused to grant the visa in question.",
+      "id": "s144"
+    },
+    {
+      "text": "CONSIDERATION \n Ms Watson's Decision Record document dated 5 December 2006 \n \n55 As noted above, there is a question as to the status of Ms Watson's \"Protection (Class XA) Visa Decision Record\" document dated 5 December 2006, particularly in light of the annexures.",
+      "id": "s145"
+    },
+    {
+      "text": "56 Section 3 of the Decision Record was headed \"Decision Summary\" and was as follows:\n \n Section 65 of the Migration Act says that, among other things, a visa must be granted if the criteria are met.",
+      "id": "s146"
+    },
+    {
+      "text": "The criteria for the Protection (Class XA) visa are contained in Schedule 2 of the Regulations (for example 'cl 866.211').",
+      "id": "s147"
+    },
+    {
+      "text": "I have referred to the criteria in this decision record.",
+      "id": "s148"
+    },
+    {
+      "text": "I have also referred to other parts of the Migration Act and Regulations that are relevant to the decision.",
+      "id": "s149"
+    },
+    {
+      "text": "Some of the criteria refer to the Minister being satisfied of an issue.",
+      "id": "s150"
+    },
+    {
+      "text": "I am a delegate of the Minister and have authority to make decisions on the Minister's behalf.",
+      "id": "s151"
+    },
+    {
+      "text": "I am satisfied that the applicant is a person to whom Australia has protection obligations under the Refugees Convention.",
+      "id": "s152"
+    },
+    {
+      "text": "He has met the requirements of Article 1A of the Convention.",
+      "id": "s153"
+    },
+    {
+      "text": "Our legal branch advised, and I find, that Section 501 of the Migration Act is not applicable as the applicant has been found to meet the inclusion clauses of the Refugees Convention .",
+      "id": "s154"
+    },
+    {
+      "text": "The Refugees Convention contains provisions designed to protect the receiving country.",
+      "id": "s155"
+    },
+    {
+      "text": "These are the appropriate provisions to apply to an applicant who meets the inclusion clauses.",
+      "id": "s156"
+    },
+    {
+      "text": "I have considered the applicant's conviction for people smuggling and I find that the applicant is not excluded from protection under the provisions of the Refugees Convention.",
+      "id": "s157"
+    },
+    {
+      "text": "Further I find that the applicant does not pose a danger to the security of Australia nor does he constitute a danger to the Australian community as outlined under Article 33 of the Refugees Convention.",
+      "id": "s158"
+    },
+    {
+      "text": "(Emphasis added.",
+      "id": "s159"
+    },
+    {
+      "text": ") \n\n57 In order to appreciate the effect of the Decision Summary, it is necessary to refer to the relevant provisions of the Convention and to further provisions of the Act .",
+      "id": "s160"
+    },
+    {
+      "text": "Article 1A(2) of the Convention provides that a \"refugee\" is a person who\n \n ... owing to a well-founded fear of being persecuted for reasons of race, religion, nationality, membership of a particular social group or political opinion, is outside the country of his nationality and is unable, or owing to such fear, is unwilling to avail himself of the protection of that country; or who, not having a nationality and being outside the country of his former habitual residence as a result of such events, is unable or, owing to such fear, is unwilling to return to it.",
+      "id": "s161"
+    },
+    {
+      "text": "58 Ms Watson also referred to Art 1F of the Convention, which states:\n \n The provisions of this Convention shall not apply to any person with respect to whom there are serious reasons for considering that: \n \n \n \n a) he has committed a crime against peace, a war crime, or a crime against humanity, as defined in the internal instruments drawn up to make provision in respect of such crimes;\n b) he has committed a serious non-political crime outside the country of refuge prior to his admission to that country as refugee;\n c) he has been guilty of acts contrary to the purposes and principles of the United Nations.",
+      "id": "s162"
+    },
+    {
+      "text": "59 It was only para (b) of Art 1F that was potentially relevant to the applicant.",
+      "id": "s163"
+    },
+    {
+      "text": "After referring to s 91T of the Act and s 5 of the Extradition Act 1988 (Cth), Ms Watson found that the crime of people smuggling for which the applicant was extradited to Australia and convicted constituted a \"non-political crime\".",
+      "id": "s164"
+    },
+    {
+      "text": "After carefully surveying earlier decided cases, remarks made by the sentencing judge in the Supreme Court of the Northern Territory as to the applicant's motivation, the assertions made by the applicant and by his mother, Ministerial directions under s 501 of the Act , the United Nations High Commissioner for Refugees Handbook and other matters, Ms Watson concluded that the applicant's crime of people smuggling was not a \"serious\" non-political crime within the meaning of para (b) of Art 1F of the Convention.",
+      "id": "s165"
+    },
+    {
+      "text": "60 It followed that as the applicant did not come within para (b) of Art 1F, he was not excluded from the Convention's provisions.",
+      "id": "s166"
+    },
+    {
+      "text": "61 Ms Watson next addressed Art 33 of the Convention which states:\n \n \n 1.",
+      "id": "s167"
+    },
+    {
+      "text": "No Contracting State shall expel or return (\"refouler\") a refugee in any manner whatsoever to the frontiers of territories where his life or freedom would be threatened on account of his race, religion, nationally, membership of a particular social group or political opinion.",
+      "id": "s168"
+    },
+    {
+      "text": "2.",
+      "id": "s169"
+    },
+    {
+      "text": "The benefit of the present provision may not, however, be claimed by a refugee whom there are reasonable grounds for regarding as a danger to the security of the country in which he is, or who, having been convicted by a final judgment of particularly serious crime, constitutes a danger to the community of that country.",
+      "id": "s170"
+    },
+    {
+      "text": "62 Ms Watson next noted the provisions of s 91U of the Act which outlines crimes that may be considered to be \"particularly serious\" crimes for the purposes of Art 33(2).",
+      "id": "s171"
+    },
+    {
+      "text": "Ms Watson observed that:\n \n &#8226; crimes outside those referred to in s 91U might also be considered \"particularly serious crimes\"; and \n \n \n \n \n \n &#8226; the nature of the crimes referred to in s 91U(1)(a) were crimes involving violence against the person, serious drug offences, serious damage to property and immigration detention offences, all of which were different from the nature of the crime of people smuggling.",
+      "id": "s172"
+    },
+    {
+      "text": "63 Ms Watson also considered, under Art 33, whether the applicant would pose a danger to the security of the Australian community if he were granted refugee status and concluded that he would not.",
+      "id": "s173"
+    },
+    {
+      "text": "64 Again, after considering relevant case law and the comments of the sentencing judge of the Supreme Court of the Northern Territory, Ms Watson found that the applicant was not to be denied the benefit of the Convention because of Art 33(2).",
+      "id": "s174"
+    },
+    {
+      "text": "65 Ms Watson found that the applicant had a well-founded fear of persecution for reasons of imputed political opinion, religion and membership of a particular social group if he were return to Iraq.",
+      "id": "s175"
+    },
+    {
+      "text": "66 The result of the foregoing was that Ms Watson concluded that the applicant satisfied the Convention definition of a \"refugee\" and was not excluded from the application of the Convention by Art 1F or Art 33(2).",
+      "id": "s176"
+    },
+    {
+      "text": "67 The advice of the Department's \"legal branch\" relating to the non-applicability of s 501 to which Ms Watson referred in her Decision Summary was as follows:\n \n The s501 character test must be assessed when applicants are found to meet Article 1A of the Refugees Convention (including RRT remit cases).",
+      "id": "s177"
+    },
+    {
+      "text": "PV [Protection visa] refusal under s501 , however, would generally be pursued only if the applicant would not be at risk of persecution or refoulement as contained in Article 33(1) of the Refugees Convention ie.",
+      "id": "s178"
+    },
+    {
+      "text": "PV refusal should generally be pursued under s501 only if the applicant falls within the exceptions to the principle of non-refoulement in Article 33(2) of the Refugees Convention or if they are found to be excluded from protection due to the application of Article 1F.",
+      "id": "s179"
+    },
+    {
+      "text": "68 Reflecting this advice, Ms Watson stated in the Decision Record that: \n \n Having committed a crime puts the applicant's character into question, however S501 of the Migration Act is not normally used in relation to people who have been found to be owed protection obligations in Australia.",
+      "id": "s180"
+    },
+    {
+      "text": "[1] As discussed below, I find that the applicant is owed protection under the inclusion clauses of the Refugees Convention and therefore the provisions of S33(2) [sic] and Article 1F are the appropriate measures of the applicant's character as discussed above in relation to the relevant Australian case law.",
+      "id": "s181"
+    },
+    {
+      "text": "The provisions of the Minister's Directions in relation to the S501 are included as a consideration in the section above in relation to whether the applicant's presence in Australia would constitute a danger to the security of the Australian community.",
+      "id": "s182"
+    },
+    {
+      "text": "[Footnote 25 was a reference to the legal advice set out at [67] above.",
+      "id": "s183"
+    },
+    {
+      "text": "] \n\n69 I will discuss below (at [76]ff) the relationship between Arts 1F and 33(2) of the Convention on the one hand and the character test of s 501 on the other hand.",
+      "id": "s184"
+    },
+    {
+      "text": "70 I set out the final heading and paragraph of the Decision Record at [42] above.",
+      "id": "s185"
+    },
+    {
+      "text": "The Decision Record was signed by Ms Watson as \"Delegate of the Minister for Immigration and Multicultural and Indigenous Affairs for purposes of s 65 of the Migration Act 1958 \" and was dated by hand \"5/12/06\" and Ms Watson's Position Number (1925) was stated.",
+      "id": "s186"
+    },
+    {
+      "text": "In this way, Ms Watson correctly acknowledged that her authority was limited by reference to the fact, established by the terms of the instrument of Ministerial delegations in evidence, that the Minister had delegated to her only the Minister's power under s 65 of the Act .",
+      "id": "s187"
+    },
+    {
+      "text": "71 Annexed to or accompanying the Decision Record were one and half typed pages and one and a half pages in Ms Watson's handwriting.",
+      "id": "s188"
+    },
+    {
+      "text": "The one and a half typed pages were as follows:\n \n Legislative Criteria for grant of 785 Temporary Protection Visa \n The application will be assessed against remaining prescribed Migration Regulations , Schedule 2, Time of Decision criteria for the grant of subclass 785 (Temporary Protection) visa.",
+      "id": "s189"
+    },
+    {
+      "text": "Migration Regulation 866.222A --- Criminal Conviction \n I find that the applicant has, in the last 4 years, been convicted of an offence against a law of the Commonwealth, a State or Territory for which the maximum penalty is imprisonment for a least 12 months.",
+      "id": "s190"
+    },
+    {
+      "text": "I therefore find that the applicant does not meet this criterion for the grant of a subclass 866 (Protection) visa.",
+      "id": "s191"
+    },
+    {
+      "text": "His conviction was handed down less than four years ago.",
+      "id": "s192"
+    },
+    {
+      "text": "(However, his sentence was deemed to have commenced in 2002.",
+      "id": "s193"
+    },
+    {
+      "text": ")\n Due to this conviction the applicant is not eligible for a class 866 visa and can only be considered for a class 785 Temporary Protection Visa.",
+      "id": "s194"
+    },
+    {
+      "text": "Migration Regulation 785.223 --- Medical Examination \n The applicant has undergone examinations carried out by a Commonwealth Medical Officer or another medical practitioner approved by the Minister or a medical officer employed by an organisation approved by the Minister.",
+      "id": "s195"
+    },
+    {
+      "text": "Migration Regulation 785.224 --- Chest X-Ray \n The applicant has undergone a chest x-ray by a medical practitioner who is qualified as a radiologist in Australia.",
+      "id": "s196"
+    },
+    {
+      "text": "Migration Regulation 785.225 --- Public Interest Criteria (PIC) \n The applicant meets the public interest criteria in 4002 and 4003.",
+      "id": "s197"
+    },
+    {
+      "text": "The applicant has produced a clear police clearance certificate from Indonesia in relation to the public interest criteria 4001.",
+      "id": "s198"
+    },
+    {
+      "text": "However, the applicant has been unable to obtain a police clearance certificate from Iran for the time that he lived there.",
+      "id": "s199"
+    },
+    {
+      "text": "He has presented a Statutory Declaration stating that he had no charges nor had committed any offences in Iran.",
+      "id": "s200"
+    },
+    {
+      "text": "A Statutory Declaration for the applicant's sister states that she and her mother travelled to Canberra to the Iranian Embassy there and were told that the Iranian government does not issue police certificates for Iranians who lived there.",
+      "id": "s201"
+    },
+    {
+      "text": "Our Canberra office has considered whether to grant a waiver of this requirement in the light of the Statutory Declarations and advice from DFAT in Teheran about whether a police certificate can be obtained from the Iranian government by an Iraqi who lived illegally.",
+      "id": "s202"
+    },
+    {
+      "text": "Our Canberra offices had decided to/not to issue a waiver and the applicant there does/does not meet the public interest criteria 4001 for the grant of a 785 (Temporary Protection) visa.",
+      "id": "s203"
+    },
+    {
+      "text": "Migration Regulation 785.226 \n The Minister is satisfied that the grant of the visa is in the national interest.",
+      "id": "s204"
+    },
+    {
+      "text": "Migration Regulation 785.227 \n The applicant has not been offered a temporary stay in Australia by the Australian Government for the purposes of regulation 2.07AC.",
+      "id": "s205"
+    },
+    {
+      "text": "Migration Regulation 785.411 \n The applicant is in Australia.",
+      "id": "s206"
+    },
+    {
+      "text": "Accordingly, I find that the applicant has/has not met all prescribed Migration Regulations , Schedule 2, criteria for the grant of a subclass 785 (Temporary Protection) visa.",
+      "id": "s207"
+    },
+    {
+      "text": "Decision on Protection (Class XA) Visa Application \n As discussed above, the applicant has been found to be a person to whom Australia has protection obligations under the Refugees Convention.",
+      "id": "s208"
+    },
+    {
+      "text": "I am satisfied that the applicant [...] does/does not meet section 36(2) of the Migration Act and the prescribed criterion in subclause 785.221 for the grant of a subclass 785 (Temporary Protection) visa.",
+      "id": "s209"
+    },
+    {
+      "text": "Accordingly, I grant/refuse to grant the applicant [...] a Temporary Protection (Class XA) visa.",
+      "id": "s210"
+    },
+    {
+      "text": "Position Number:\n Delegate of the Minister for Immigration Multicultural and Indigenous Affairs for purposes of section 65 of the Migration Act 1958 \n Date: \n\n72 Unlike the Decision Record itself, this document was not signed or dated and no position number was stated.",
+      "id": "s211"
+    },
+    {
+      "text": "73 As can be seen, the one and a half typewritten pages do not correspond with the \"Criteria to be satisfied at time of decision\" applicable at the time (set out at [44] above) although there were obvious similarities.",
+      "id": "s212"
+    },
+    {
+      "text": "I will need to discuss below the question of the chest x-ray and PIC 4001.",
+      "id": "s213"
+    },
+    {
+      "text": "However, it may be noted at once that in the conclusion of her discussion of the PIC issue, Ms Watson's position was that it remained open for a decision to be taken either to waive or not to waive a requirement of a \"police clearance certificate\" from Iran in respect of the time that the applicant had lived in that country.",
+      "id": "s214"
+    },
+    {
+      "text": "That is to say, Ms Watson's own understanding was that the Decision Record document signed by her was not the final word as to whether the Minister was obliged by s 65(1)(a) of the Act to issue a Temporary Protection visa to the applicant.",
+      "id": "s215"
+    },
+    {
+      "text": "74 Ms Watson's handwritten one and a half pages were as follows:\n \n This is the Decision Record for [the applicant].",
+      "id": "s216"
+    },
+    {
+      "text": "This is a sensitive case and the applicant is in detention.",
+      "id": "s217"
+    },
+    {
+      "text": "Pete Davids in Canberra will need to be notified before the case is finalised.",
+      "id": "s218"
+    },
+    {
+      "text": "I have completed and signed the Convention Protection part of the decision --- someone else can sign off the Regulatory requirements for the visa when Canberra character section makes up its mind whether to grant a waiver to the Iranian police clearance.",
+      "id": "s219"
+    },
+    {
+      "text": "All other requirements are completed.",
+      "id": "s220"
+    },
+    {
+      "text": "Character section wanted to have an update from Teheran.",
+      "id": "s221"
+    },
+    {
+      "text": "Terry Lew sent through a request to Teheran which may have come back to him.",
+      "id": "s222"
+    },
+    {
+      "text": "It really needs to be finalised soon [there follows a line or partial line of handwriting that is illegible in the photocopy in the Exhibit].",
+      "id": "s223"
+    },
+    {
+      "text": "Sally &amp; Pete need to clear the whole dec rec when Iranian penal waiver is granted.",
+      "id": "s224"
+    },
+    {
+      "text": "Advise PD before grant as PD will need to brief.",
+      "id": "s225"
+    },
+    {
+      "text": "Waiver\n \n Cheers\n \n Kate \n\nThe words \"Waiver\", \"Cheers\" and \"Kate\" all appear upside down on the page in the Exhibit, suggesting that they may have been written on the reverse side of the page or on a different sheet from the remainder of the handwriting.",
+      "id": "s226"
+    },
+    {
+      "text": "75 In the light of Ms Watson's handwritten document it is impossible to accept that she regarded the Decision Record document that she had signed as finalising the question of an obligation on the Minister to issue, or an entitlement of the applicant to receive, a Temporary Protection visa.",
+      "id": "s227"
+    },
+    {
+      "text": "In Ms Watson's mind, someone else had to \"sign off\" on the requirements for the Temporary Protection visa under the Regulations.",
+      "id": "s228"
+    },
+    {
+      "text": "The relationship between Arts 1F and 33(2) of the Convention and s 501 of the Act \n \n76 I turn now to consider the applicant's submissions regarding the scope of s 501 of the Act in relation to a decision to be made under s 65 of the Act .",
+      "id": "s229"
+    },
+    {
+      "text": "77 It has been held that Art 1F(b) of the Convention is not to be construed under the influence of the character test in s 501(6) of the Act , and that Art 1F is an independent exclusion of the application of the Convention provisions: see Applicant NADB of 2001 v Minister for Immigration and Multicultural Affairs [2002] FCAFC 326 ; (2002) 126 FCR 453 at [42] per Merkel J with whom Madgwick and Conti JJ agreed, and at first instance, NADB v Minister for Immigration and Multicultural Affairs (2002) 189 ALR 293 at [46] and [47] per Hely J.",
+      "id": "s230"
+    },
+    {
+      "text": "78 A similar observation may be made in relation to Art 33(2) in respect of its denial of the benefit of Art 33(1) of the Convention.",
+      "id": "s231"
+    },
+    {
+      "text": "79 A s 65 delegate who is not also a s 501(1) delegate is concerned to satisfy himself or herself that Australia has protection obligations to the applicant under the Convention, and is therefore concerned with Art 1F and Art 33(2) (and through them with the relevant provisions of Subdiv AL of Div 3 of Pt 2 of the Act , in particular with ss 91T and 91U of the Act ).",
+      "id": "s232"
+    },
+    {
+      "text": "80 A s 65 delegate who is not also a s 501(1) delegate does have the limited role in relation to s 501 referred to in s 65(1)(a)(iii).",
+      "id": "s233"
+    },
+    {
+      "text": "That role is one of being satisfied that \"the grant of the visa is not prevented by section ... 501(special power to refuse or cancel)\".",
+      "id": "s234"
+    },
+    {
+      "text": "Since s 501 does not in terms prevent the grant of a visa, s 65(1)(a)(iii) must be referring to a refusal under s 501(1) (or a cancellation under s 501(2)) by the Minister or by the Minister's delegate.",
+      "id": "s235"
+    },
+    {
+      "text": "Accordingly, Ms Watson was required to satisfy herself that the grant of a Temporary Protection visa to the applicant was not prevented by a refusal by the Minister or the Minister's s 501(1) delegate.",
+      "id": "s236"
+    },
+    {
+      "text": "81 Section 501H set out at [49] above makes it clear that the power of the Minister or of the Minister's s 501(1) delegate to refuse to grant a visa to a person who does not satisfy the Minister or that delegate, as the case may be, that the person passes the character test, is intended to operate independently of the power given to the Minister or the Minister's s 65 delegate by s 65(1)(b) to refuse to grant a visa because the Minister or that delegate is not satisfied that Australia does not owe an applicant protection obligations under the Convention, such as because of the operation of Art 1F.",
+      "id": "s237"
+    },
+    {
+      "text": "82 I have previously set out Ms Watson's statement of the effect of the advice given by the \"legal branch\" of the Department (at [56] and [68] above) and the advice itself (at [67] above).",
+      "id": "s238"
+    },
+    {
+      "text": "83 With respect, it is erroneous to think that the \"protections\" of the receiving country found in Art 1F and 33(2) of the Convention apply to the exclusion of s 501 of the Act .",
+      "id": "s239"
+    },
+    {
+      "text": "Section 65(1)(a)(iii) expressly requires a s 65 delegate to be satisfied that the grant of a visa is not prevented by a decision to refuse under s 501 , and 501H provides, relevantly, that the power to refuse to grant a visa given by s 501(1) is \"in addition to\" any other power under the Act to refuse to grant a visa.",
+      "id": "s240"
+    },
+    {
+      "text": "It follows that a s 65 delegate cannot be satisfied of the matters referred to in s 65(1)(a) where a s 501(1) delegate has refused to grant a visa after not being satisfied that the applicant passes the s 501 character test.",
+      "id": "s241"
+    },
+    {
+      "text": "The relationship between PIC 4001 and s 501 of the Act \n \n84 There is a further aspect of the relationship between ss 65 and 501 and the scope of the authority of the s 65 and s 501(1) delegates respectively that must be considered.",
+      "id": "s242"
+    },
+    {
+      "text": "85 It will be recalled that s 65(1)(a)(ii) had the effect of requiring a s 65 delegate to be satisfied that the criteria for the Temporary Protection visa prescribed by the Regulations were satisfied.",
+      "id": "s243"
+    },
+    {
+      "text": "One of those criteria is that found in cl 785.226, set out at [44] above.",
+      "id": "s244"
+    },
+    {
+      "text": "Clause 785.226 stipulates, relevantly, that the applicant must satisfy PIC 4001.",
+      "id": "s245"
+    },
+    {
+      "text": "86 I set out PIC 4001 at [46] above.",
+      "id": "s246"
+    },
+    {
+      "text": "The four alternative possibilities set out in PIC 4001 all relate to the \"character test\".",
+      "id": "s247"
+    },
+    {
+      "text": "This expression is not defined in the Regulations.",
+      "id": "s248"
+    },
+    {
+      "text": "In my opinion, the expression bears the same meaning as in s 501 of the Act .",
+      "id": "s249"
+    },
+    {
+      "text": "I agree with counsel for the Minister that this conclusion follows from s 13(1)(b) of the Legislative Instruments Act 2003 (Cth), and that this is so notwithstanding the fact that s 501(6) states only that the expression bears the meaning there set out \"[f]or the purposes of [s 501]\".",
+      "id": "s250"
+    },
+    {
+      "text": "87 The applicant submits that by reason of her being a s 65 delegate, Ms Watson had power, through s 65(1)(a)(ii) of the Act , cl 785.226 of the Regulations and PIC 4001, to be satisfied in relation to any of the four \"character test\" related alternatives specified in PIC 4001.",
+      "id": "s251"
+    },
+    {
+      "text": "Alternative (a) is that the applicant satisfies the Minister that the applicant passes the character test.",
+      "id": "s252"
+    },
+    {
+      "text": "Alternative (d) is that the Minister has decided not to refuse to grant a visa to the applicant despite not being satisfied that the applicant passes the character test.",
+      "id": "s253"
+    },
+    {
+      "text": "Yet a s 501 delegate may refuse to grant a visa to a person if the person does not satisfy the s 501 delegate that the person passes the character test.",
+      "id": "s254"
+    },
+    {
+      "text": "Accordingly, there is a possibility of inconsistent conclusions being reached by the s 65 delegate and the s 501 delegate.",
+      "id": "s255"
+    },
+    {
+      "text": "88 Faced with the four alternatives within PIC 4001, the applicant does not suggest that either (a) or (b) was satisfied: plainly Ms Watson knew that the applicant did not pass the character test because he had been sentenced to a term of imprisonment of more than 12 months.",
+      "id": "s256"
+    },
+    {
+      "text": "The applicant is therefore left to rely on alternatives (c) and (d).",
+      "id": "s257"
+    },
+    {
+      "text": "Substituting the name of the s 65 delegate Ms Watson for \"the Minister\", those alternatives become:\n \n \n (c) [Ms Watson] has decided not to refuse to grant a visa to the applicant despite reasonably suspecting that the applicant does not pass the character test; or\n \n (d) [Ms Watson] has decided not to refuse to grant a visa to the applicant despite not being satisfied that the applicant passes the character test.",
+      "id": "s258"
+    },
+    {
+      "text": "Both of these paragraphs would require the taking of a decision by Ms Watson \"despite reasonably suspecting that the applicant does not pass the character test\" (para (c)) or \"not being satisfied that the applicant passes the character test\" (para (d)).",
+      "id": "s259"
+    },
+    {
+      "text": "89 In my opinion, Ms Watson did not make a decision satisfying either of these descriptions.",
+      "id": "s260"
+    },
+    {
+      "text": "Both descriptions require that the decision-maker take a decision favourable to the applicant with the intention of setting to one side the ground of refusal (para (d)) or the potential ground of refusal (para (c)) created by s 501 of the Act .",
+      "id": "s261"
+    },
+    {
+      "text": "Ms Watson did not take such a decision at all.",
+      "id": "s262"
+    },
+    {
+      "text": "She considered, basing her view on advice from the \"legal branch\", that in the circumstances s 501 simply had no scope for operation.",
+      "id": "s263"
+    },
+    {
+      "text": "90 The question of the relationship between PIC 4001 and s 501 of the Act is not a simple one susceptible of a straightforward answer.",
+      "id": "s264"
+    },
+    {
+      "text": "In view of my conclusion that Ms Watson did not take a decision of the kind described in either para (c) or (d) of PIC 4001, I am not called upon to resolve it.",
+      "id": "s265"
+    },
+    {
+      "text": "I am of the view, however, that s 65(1)(a)(iii) and s 501H make it plain that nothing is to detract from the \"special power to refuse [a visa of any kind]\" contained in s 501.",
+      "id": "s266"
+    },
+    {
+      "text": "According to this view, while cl 785.226 requires a s 65 delegate to be satisfied that an applicant satisfies one of the four alternatives specified in PIC 4001, that delegate must also be satisfied that the grant of the visa is not prevented by an exercise of the additional special power of refusal contained in s 501(1) by a s 501(1) delegate.",
+      "id": "s267"
+    },
+    {
+      "text": "91 For these reasons, I do not accept the applicant's submissions on this issue.",
+      "id": "s268"
+    },
+    {
+      "text": "Does s 65(1)(a) oblige a s 65 delegate to grant a visa where the Minister or s 501 delegate has not \"yet\" taken a decision to refuse to grant the visa?",
+      "id": "s269"
+    },
+    {
+      "text": "92 Counsel for the applicant accepts that s 501 \"does sit above the normal requirements for the grant of a visa\".",
+      "id": "s270"
+    },
+    {
+      "text": "He submits that s 501 \"gets its interaction with the normal grant of a visa under s 65(1)(a)(iii)\" , and that it does not have application until a decision is made under it: until then it \"sits above and outside of the normal processes of a grant of a visa\".",
+      "id": "s271"
+    },
+    {
+      "text": "According to counsel's submission, until s 501(1) is actually invoked by the taking of a decision under s 501(1) to refuse to grant a visa, the r&eacute;gime found in s 65 and Subclass 785 of Sch 2 to the Regulations and, relevantly, PIC 4001, alone apply.",
+      "id": "s272"
+    },
+    {
+      "text": "93 According to the submission, a s 65 delegate, upon finding that no decision by a s 501(1) delegate to refuse to grant a visa has \"yet\" been taken, is at liberty, indeed is obliged by the mandatory terms of s 65(1)(a) , to grant the visa, even if the s 65 delegate knows that the questions that arise under s 501 are still under consideration by the s 501(1) delegate.",
+      "id": "s273"
+    },
+    {
+      "text": "Indeed, the s 65 delegate would be required to grant the visa even though, as in the present case, a NOICR has actually been issued to the applicant.",
+      "id": "s274"
+    },
+    {
+      "text": "It would be only an actual decision under s 501(1) to refuse to grant a visa that would defeat s 65(1)(a) 's requirement that a visa be granted.",
+      "id": "s275"
+    },
+    {
+      "text": "94 Some force may be thought to be lent to counsel's submission by s 65A ' s 90 day time limit for the s 65 delegate either to grant or refuse to grant the visa.",
+      "id": "s276"
+    },
+    {
+      "text": "The argument would be that, unless a decision is made within that period under s 501(1) to refuse to grant the visa, the s 65 delegate must grant it before the expiry of that period.",
+      "id": "s277"
+    },
+    {
+      "text": "95 I accept that s 65A impliedly requires the Minister to take any decision under s 501(1) to refuse to grant a visa within the 90 day period referred to in s 65A.",
+      "id": "s278"
+    },
+    {
+      "text": "Absent such an implication, it would be open to the Minister or the Minister's s 501(1) delegate to defeat the operation of s 65A.",
+      "id": "s279"
+    },
+    {
+      "text": "96 However, just as there is no sanction, apart from susceptibility to an order in the nature of mandamus for a failure to make a decision under s 65(1) within the 90 day period, a failure to make a decision to refuse a visa under s 501(1) is without sanction except the susceptibility of the Minister to an order in the nature of mandamus.",
+      "id": "s280"
+    },
+    {
+      "text": "97 I do not think that the provisions have the effect described by counsel for the applicant.",
+      "id": "s281"
+    },
+    {
+      "text": "Neither s 65A nor any other provision of the Act is to the effect that a visa is deemed to be granted in any particular circumstances, or after the expiry of any particular period of time.",
+      "id": "s282"
+    },
+    {
+      "text": "I would not readily find such a significant provision implied.",
+      "id": "s283"
+    },
+    {
+      "text": "98 What s 65(1)(a)(iii) requires is that the s 65 delegate be satisfied that a s 501(1) delegate dealing with the matter not have taken a decision to refuse to grant a visa.",
+      "id": "s284"
+    },
+    {
+      "text": "I do not think that that criterion is satisfied where the s 65 delegate knows that the questions raised by s 501 remain unresolved and are still under consideration.",
+      "id": "s285"
+    },
+    {
+      "text": "That is to say, I do not think it is the proper construction of the relationship between s 65(1) and s 501(1) that once the stage is reached that the s 65 delegate is satisfied that all other criteria have been satisfied, he or she must grant the visa where, as was the case here, he or she knows that a s 501(1) delegate dealing with the matter has not reached a decision by that time.",
+      "id": "s286"
+    },
+    {
+      "text": "99 It must be remembered that although it is convenient to speak of a s 65 delegate and a s 501(1) delegate, the Act speaks only of the Minister.",
+      "id": "s287"
+    },
+    {
+      "text": "It would be artificial in the extreme to construe s 65(1)(a) as requiring the Minister to grant a visa once satisfied that all the other s 65(1)(a) criteria are satisfied, while the Minister was still contemplating the exercise of discretionary power given by s 501(1).",
+      "id": "s288"
+    },
+    {
+      "text": "100 I note, however, that the order in the nature of mandamus that I have in contemplation requiring the Minister to grant or refuse to grant the visa within a specified time would indirectly require him to take a decision under s 501(1) , if one is to be taken at all, within that time.",
+      "id": "s289"
+    },
+    {
+      "text": "Chest X-ray \n \n101 I set out cll 785.224---785.225B at [44] above and the typed one and a half page annexure to Ms Watson's Decision Record document at [71] above.",
+      "id": "s290"
+    },
+    {
+      "text": "Ms Watson there recorded that the applicant had undergone a chest x-ray by a medical practitioner who was qualified as a radiologist in Australia.",
+      "id": "s291"
+    },
+    {
+      "text": "Although she made that statement under the heading \"Migration Regulation 785.224 --- Chest X-ray\", her statement in fact satisfied cl 785.225(a).",
+      "id": "s292"
+    },
+    {
+      "text": "According to the one and a half page typed document, Ms Watson did not consider cl 785.225A or, if it became applicable, cl 785.225B.",
+      "id": "s293"
+    },
+    {
+      "text": "Clause 785.225A(a)(ii) required that a \"relevant medical practitioner\" as defined in cl 785.224 must have considered the radiological report required under cl 785.225(a) in respect of the applicant.",
+      "id": "s294"
+    },
+    {
+      "text": "102 Counsel for the applicant submits that the Minister has not led evidence that cl 785.225A was not satisfied.",
+      "id": "s295"
+    },
+    {
+      "text": "He further submits that I should infer from the fact that the applicant underwent a medical examination carried out by a relevant medical practitioner, that that relevant medical practitioner did consider the radiological report required under cl 785.225(a) in respect of the applicant and found nothing untoward in it.",
+      "id": "s296"
+    },
+    {
+      "text": "Counsel submits that if the position had been otherwise, Ms Watson would have noted it.",
+      "id": "s297"
+    },
+    {
+      "text": "103 I think I am entitled to infer from the omission of any reference to cl 785.225A or cl 785.225B that Ms Watson did not address those clauses.",
+      "id": "s298"
+    },
+    {
+      "text": "It seems plain that she was working from a different version of cl 785.22.",
+      "id": "s299"
+    },
+    {
+      "text": "104 I do not think it fatal that the Minister has not led evidence positively establishing that Ms Watson was not satisfied that criterion 785.225A was satisfied.",
+      "id": "s300"
+    },
+    {
+      "text": "The one and a half page typed document purports to be a comprehensive summary by Ms Watson, for the benefit of her successor Case Manager in respect of the applicant, of the position in relation to the outstanding requirements of the Regulations.",
+      "id": "s301"
+    },
+    {
+      "text": "105 I do not draw the inference that counsel for the applicant seeks.",
+      "id": "s302"
+    },
+    {
+      "text": "The chest x-ray examination may have taken place after the medical examination by the relevant medical practitioner.",
+      "id": "s303"
+    },
+    {
+      "text": "While I infer that the chest x-ray examination would have resulted in a radiological report, I do not additionally infer, in the absence of any reference whatever to the matter in the documentary evidence before the Court, that that report went to the relevant medical practitioner who considered it and found it to be satisfactory.",
+      "id": "s304"
+    },
+    {
+      "text": "106 For this further reason, it cannot be said that a s 65 delegate became satisfied that all of the criteria referred to in s 65(1)(a) of the Act were satisfied.",
+      "id": "s305"
+    },
+    {
+      "text": "The absence of a waiver of a clear police certificate from Iran \n \n107 Ms Watson noted that although the applicant had produced a \"clear police clearance certificate from Indonesia in relation to the public interest criteria [sic] 4001\", a decision was still awaited from the Department's \"Canberra office\" as to waiver of any requirement for a similar certificate from Iran.",
+      "id": "s306"
+    },
+    {
+      "text": "That notation can be seen in Ms Watson's one and a half page typed annexure set out at [71] above.",
+      "id": "s307"
+    },
+    {
+      "text": "108 Counsel for the applicant submits that there was no legal requirement for a police clearance certificate from Iran or, in the alternative, a waiver.",
+      "id": "s308"
+    },
+    {
+      "text": "All that matters for present purposes, however, is that no delegate of the Minister having authority to do so ever reached the stage that PIC 4001 was satisfied, and, for her part, Ms Watson made it clear that it would be for someone else to \"issue a waiver\".",
+      "id": "s309"
+    },
+    {
+      "text": "109 For this further reason, it cannot be said that a s 65 delegate became satisfied that all of the criteria referred to in s 65(1)(a) of the Act were satisfied.",
+      "id": "s310"
+    },
+    {
+      "text": "CONCLUSION \n \n110 There should be an order in the nature of mandamus requiring the Minister to determine the application for the Temporary Protection visa according to law, that is to say, either to grant or to refuse to grant such a visa conformably to s 65(1) of the Act .",
+      "id": "s311"
+    },
+    {
+      "text": "While I will receive submissions from the parties, I am also presently of the view that the order should fix a time for compliance, and that the Minister should be ordered to pay the applicant's costs of the proceeding.",
+      "id": "s312"
+    },
+    {
+      "text": "111 There should not be an order in the nature of mandamus requiring the Minister to grant the applicant a Temporary Protection visa (paragraph 5 in [32] above) because it is not established that a s 65 delegate became satisfied that all of the criteria for the grant of such a visa referred to in s 65(1)(a) of the Act were satisfied.",
+      "id": "s313"
+    },
+    {
+      "text": "112 The declaration sought that s 501 does not have operational effect in relation to the application for the Temporary Protection visa made by the applicant on 16 June 2006 (paragraph 1 in [32] above) should be refused because s 501 can apply in relation to that application.",
+      "id": "s314"
+    },
+    {
+      "text": "113 The remaining two declarations (paragraphs 2 and 3 in [32] above) should not be made because they are in the nature of judicial advice as to a possible future course of action by the Minister and the issues covered by them are not appropriate for declaratory relief.",
+      "id": "s315"
+    },
+    {
+      "text": "I certify that the preceding one hundred and thirteen (113) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Lindgren.",
+      "id": "s316"
+    },
+    {
+      "text": "Associate:\n\nDated: 17 January 2008\n\n\n Counsel for the Applicant: Mr S E J Prince (Pro Bono) \n \n Solicitor for the Applicant: SBA Lawyers \n \n Counsel for the Respondent: Mr G Kennett \n \n Solicitor for the Respondent: Australian Government Solicitor \n \n Dates of Hearing: 14, 19 December 2007 \n \n Date of Judgment: 17 January 2008 \n\n\n [] \n\n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2008/11.html",
+      "id": "s317"
+    }
+  ]
+}

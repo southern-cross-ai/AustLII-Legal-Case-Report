@@ -1,0 +1,1432 @@
+{
+  "name": "Australian Pesticides and Veterinary Medicines Authority v Administrative Appeals Tribunal [2008] FCA 1393 (12 September 2008)",
+  "austlii_url": "http://www.austlii.edu.au/au/cases/cth/FCA/2008/1393.html",
+  "catchphrases": [
+    {
+      "text": "applications for approval of active constituents and registration of chemical products",
+      "id": "c0"
+    },
+    {
+      "text": "authority made decisions to approve and to register under ss 19(1) and 20(1) of agricultural and veterinary chemicals code",
+      "id": "c1"
+    },
+    {
+      "text": "approval and registration effected by entering relevant particulars in record of approved active constituents and in register of chemical products",
+      "id": "c2"
+    },
+    {
+      "text": "ss 19(2) and 20(2) of code",
+      "id": "c3"
+    },
+    {
+      "text": "relevant particulars included name of manufacturer and address of place of manufacture",
+      "id": "c4"
+    },
+    {
+      "text": "fictitious manufacturer and address submitted to authority",
+      "id": "c5"
+    },
+    {
+      "text": "authority removed approvals and registrations from the record and register on basis that they were vitiated by fraud",
+      "id": "c6"
+    },
+    {
+      "text": "whether misrepresentation operated on decisions to approve and to register",
+      "id": "c7"
+    },
+    {
+      "text": "whether removal was lawful.",
+      "id": "c8"
+    },
+    {
+      "text": "whether the administrative appeals tribunal has jurisdiction to review decision by authority to remove approvals from the record and registrations from the register",
+      "id": "c9"
+    },
+    {
+      "text": "whether decision to remove and removal constituted a purported exercise of power conferred by the agricultural and veterinary chemicals code and was thereby reviewable under s 167 of the code by the aat.",
+      "id": "c10"
+    },
+    {
+      "text": "administrative law",
+      "id": "c11"
+    },
+    {
+      "text": "administrative law",
+      "id": "c12"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "1 This is an application by the Australian Pesticides and Veterinary Medicines Authority (\"the Authority\") to review the decisions of the first respondent (\"the AAT\") dated 29 May 2008 purportedly made pursuant to s 41(2) of the Administrative Appeals Tribunal Act 1975 (Cth) (\"AAT Act\") to:\n \n \n (1) stay the operation and implementation of the applicant's removal of certain active constituents from the Record of Approved Active Constituents;\n \n (2) stay the operation and implementation of the applicant's removal of certain chemical products from the Register of Chemical Products.",
+      "id": "s0"
+    },
+    {
+      "text": "BACKGROUND \n \n2 The Agricultural and Veterinary Chemicals Code (the Code), scheduled to the Agricultural and Veterinary Chemicals Code Act 1994 (Cth) (\"the Act\"), provides for the approval of active constituents of agricultural and veterinary chemical products and for the registration of those chemical products.",
+      "id": "s1"
+    },
+    {
+      "text": "3 The Authority is established under the Agricultural and Veterinary Chemicals (Administration) Act 1992 (Cth).",
+      "id": "s2"
+    },
+    {
+      "text": "Its functions include, where appropriate, the granting of applications for approval of \"active constituents\" and for the registration of \"chemical products\".",
+      "id": "s3"
+    },
+    {
+      "text": "These expressions are defined in s 3 of the Code.",
+      "id": "s4"
+    },
+    {
+      "text": "Broadly, an active constituent forms part of a chemical product.",
+      "id": "s5"
+    },
+    {
+      "text": "Sections 17 and 18 respectively require the Authority to keep a Record of Approved Active Constituents for Chemical Products (\"the Record\") and a Register of Agricultural and Veterinary Chemical Products.",
+      "id": "s6"
+    },
+    {
+      "text": "The latter is, by virtue of s 3 , referred to in the Act as the Register of Chemical Products (\"the Register\").",
+      "id": "s7"
+    },
+    {
+      "text": "4 Decisions to approve and register made under s 19(1) and s 20(1) respectively are given effect by entering \"relevant particulars\" together with any conditions of approval in the Record and Register under s 19(2) and s 20(2) respectively.",
+      "id": "s8"
+    },
+    {
+      "text": "\"Relevant particulars\" include particulars prescribed by regulation.",
+      "id": "s9"
+    },
+    {
+      "text": "An approval or a registration must include, as part of the prescribed particulars of each active constituent and each chemical product required to be entered in the Record and the Register, the name of each manufacturer and the address of each site of manufacture.",
+      "id": "s10"
+    },
+    {
+      "text": "Evergreen Nurture Agrochemicals Ltd (Evergreen) was included in the Record and Register as a manufacturer of certain active constituents and chemical products.",
+      "id": "s11"
+    },
+    {
+      "text": "Evergreen is a fictitious name admittedly provided by Imtrade to the Authority.",
+      "id": "s12"
+    },
+    {
+      "text": "The address provided was also incorrect.",
+      "id": "s13"
+    },
+    {
+      "text": "Imtrade did this because it did not want this information to be made available to its competitors.",
+      "id": "s14"
+    },
+    {
+      "text": "It did not think that the information was relevant to the decision of the Authority whether or not to approve active constituents or to register chemical products.",
+      "id": "s15"
+    },
+    {
+      "text": "The primary issue is whether this deliberate misrepresentation constitutes fraud on the Authority such as to vitiate each of the approvals and registrations.",
+      "id": "s16"
+    },
+    {
+      "text": "5 The current proceedings relate to the approval of nine active constituents and the registration of 52 chemical products in the name of the second respondent (Imtrade).",
+      "id": "s17"
+    },
+    {
+      "text": "These active constituents and chemical products are set out as attachments to a letter of the Authority to the solicitors for Imtrade, dated 21 May 2008.",
+      "id": "s18"
+    },
+    {
+      "text": "There is no dispute about the identification of the relevant constituents and products, or that Evergreen is recorded as a manufacturer of each of them.",
+      "id": "s19"
+    },
+    {
+      "text": "6 The matter comes before this Court following action by the Authority to treat the relevant approvals and registrations as invalid and to remove them from the Record and Register.",
+      "id": "s20"
+    },
+    {
+      "text": "Forty-seven of the registrations were validly registered initially but were subject to variation under the Code by adding Evergreen in each case as a formulator.",
+      "id": "s21"
+    },
+    {
+      "text": "It is common ground that this is another name for a manufacturer.",
+      "id": "s22"
+    },
+    {
+      "text": "The variations were said to have been achieved by fraud and therefore it is contended by the Authority that those registrations as varied are also invalid.",
+      "id": "s23"
+    },
+    {
+      "text": "The Authority took this action on the basis of its view that the fraud of Imtrade vitiated each of the approvals and registrations.",
+      "id": "s24"
+    },
+    {
+      "text": "Imtrade sought to characterise this action as a decision by the Authority under Division 5 of Part 2, of the Code to cancel the several approvals and registrations reviewable in the AAT under s 167(1)(f) of the Code.",
+      "id": "s25"
+    },
+    {
+      "text": "7 The Authority contends that it did not cancel or even purport to cancel the approvals and registrations under the provisions of the Code.",
+      "id": "s26"
+    },
+    {
+      "text": "There is no decision, it says, for review by the AAT, and its jurisdiction is not attracted.",
+      "id": "s27"
+    },
+    {
+      "text": "RELIEF SOUGHT \n \n8 The applicant seeks an order quashing the decision of the AAT pursuant to s 16(1)(a) of the Administrative Decisions (Judicial Review) Act 1977 (Cth) (\"the ADJR Act \"), and a declaration that the AAT had no jurisdiction to issue the stay orders so issued pursuant to s 16(1)(c).",
+      "id": "s28"
+    },
+    {
+      "text": "9 The applicant also seeks to enliven the original jurisdiction of the Court under s 39B(1) of the Judiciary Act 1903 (Cth) by seeking a writ of prohibition against the AAT restraining the AAT from proceeding to review the removal of the entries in question from the Record and Register.",
+      "id": "s29"
+    },
+    {
+      "text": "10 Founded on that original jurisdiction, the applicant also seeks declarations pursuant to s 21(1) of the Federal Court of Australia Act 1976 (Cth) in the Court's accrued jurisdiction: Queensland Medical Laboratory v Blewett (1988) 84 ALR 615 at 637 per Gummow J.",
+      "id": "s30"
+    },
+    {
+      "text": "Those declarations are to the effect that the approval of the active constituents and registration of the chemical products are of no legal effect because they were affected, procured, or induced by fraud.",
+      "id": "s31"
+    },
+    {
+      "text": "11 Further, the applicant seeks a writ of certiorari against the AAT, quashing its decision to issue the stay orders commensurate with the ancillary or accrued jurisdiction of the Court to issue a writ of prohibition sought under s 39B(1) of the Judiciary Act : Klewer v Dutch [2000] FCA 509 ; (2000) 99 FCR 217 at 230 [53] - [54] per Hill J.",
+      "id": "s32"
+    },
+    {
+      "text": "THE LEGISLATIVE FRAMEWORK \n \n12 The Code is part of a legislative scheme including the Agricultural and Veterinary Chemicals Code Act 1994 (Cth), the Agricultural and Veterinary Chemicals (Administration) Act 1992 (Cth), and the Agricultural and Veterinary Chemicals Act 1994 (Cth).",
+      "id": "s33"
+    },
+    {
+      "text": "13 The second reading speech in respect of the Agricultural and Veterinary Chemicals Code Bill contained the following: \n Through this mechanism, evaluation, registration and control of agricultural and veterinary chemical products and related matters will be administered uniformly across Australia by the National Registration Authority for Agricultural and Veterinary Chemicals.",
+      "id": "s34"
+    },
+    {
+      "text": "The control measures apply up to the point of retail sale with the states and territories remaining responsible for control of use matters.",
+      "id": "s35"
+    },
+    {
+      "text": "...",
+      "id": "s36"
+    },
+    {
+      "text": "The agvet code focuses on the registration of chemical products, approval of active constituents, and approval of labels.",
+      "id": "s37"
+    },
+    {
+      "text": "The overriding criteria to be addressed by the NRA are public health, occupational health and safety, the environment, product performance, and trade and commerce.",
+      "id": "s38"
+    },
+    {
+      "text": "The public will be invited to comment in respect of each chemical product containing a new active constituent prior to determination of an application.",
+      "id": "s39"
+    },
+    {
+      "text": "The NRA will also be able to reconsider an existing registered chemical product to ensure it continues to meet contemporary safety and performance standards.",
+      "id": "s40"
+    },
+    {
+      "text": "14 The Agricultural and Veterinary Chemicals Code Act 1994 states that it is an Act \" to make provision for the evaluation, registration and control of agricultural and veterinary chemical products, and for related matters... .",
+      "id": "s41"
+    },
+    {
+      "text": "\" This Act, and the Agricultural and Veterinary Chemicals Act 1994 , each contain a preamble recognising, relevantly the following:\n \n \n (a) that the protection of the health and safety of human beings, animals and the environment is essential to the well-being of society and can be enhanced by putting in place a system to regulate agricultural chemical products and veterinary chemical products; and \n \n (b) that the principle of ecologically sustainable development requires a regulatory system that is designed to ensure that the use of such products at the present time will not impair the prospects of future generations; and \n \n (c) that the furthering of trade and commerce between Australia and places outside Australia, and the present and future economic viability and competitiveness of primary industry and of a domestic industry for manufacturing and formulating such products, are essential for the well being of the economy and require a system for regulating such products that is cost effective, efficient, predictable, adaptive and responsive; and \n \n (d) that it is desirable to establish a regulatory system that is open and accountable and gives opportunity for public input with respect to the regulation of such products; ...\n \n \n\n15 The Agricultural and Veterinary Chemicals (Administration) Act 1992 establishes the Authority and confers functions on it, including those set out in s 7.",
+      "id": "s42"
+    },
+    {
+      "text": "16 The Agricultural and Veterinary Chemicals Act 1994 applies the Code, as in force for the time being, as a law for the government of participating Territories.",
+      "id": "s43"
+    },
+    {
+      "text": "17 The object of the Code is set out in s 1: \n The object of this Code is to make provision for and in relation to: \n \n (a) the evaluation, approval, and control of the supply, of active constituents for proposed or existing agricultural chemical products or veterinary chemical products; and \n \n (b) the evaluation, registration, and control of the manufacture and supply, of agricultural chemical products and veterinary chemical products.",
+      "id": "s44"
+    },
+    {
+      "text": "18 In relation to the approval of active constituents and the registration of chemical products, s 3 defines the term relevant particulars relevantly as follows: \n relevant particulars means: \n \n (a) in relation to the approval of an active constituent for a proposed or existing chemical product --- the distinguishing number, instructions for use and other particulars that are required by paragraph 19(2)(a) to be entered in the Record of Approved Active Constituents; and \n (b) in relation to the registration of a chemical product --- the distinguishing number and other particulars that are required by paragraph 20(2)(a) to be entered in the Register of Chemical Products; ...\n (Emphasis added) \n \n \nThe relevant particulars also include relevantly \"particulars of a variation of relevant particulars that is made under para 29(1)(h) ...\".",
+      "id": "s45"
+    },
+    {
+      "text": "I will refer to these later in the context of the purported variations to the relevant particulars in respect of the 47 valid registrations.",
+      "id": "s46"
+    },
+    {
+      "text": "19 Applications for approval of an active constituent and for registration of a chemical product are, by s 10 to be made to the Authority.",
+      "id": "s47"
+    },
+    {
+      "text": "Section 11 provides for how such applications are made.",
+      "id": "s48"
+    },
+    {
+      "text": "20 By s 19(2)(a) , approval of an active constituent takes place by the Authority entering in the Record of Approved Active Constituents the relevant particulars, which include \"any other particulars that are prescribed by the regulations.",
+      "id": "s49"
+    },
+    {
+      "text": "\" Similarly by s 20(2)(a) , registration of chemical product takes place by the Authority entering in the Register of Chemical Products the relevant particulars, including those prescribed by the regulations.",
+      "id": "s50"
+    },
+    {
+      "text": "21 Any person may inspect and obtain a copy of or extract from any part of the Record [s 17(4) and (5)] and Register [s 18(4) and (5)] that does not contain confidential commercial information which is defined under s 3.",
+      "id": "s51"
+    },
+    {
+      "text": "Section 3(c)(ii) may well result in the information prescribed under Reg 15 and Reg 16 being confidential.",
+      "id": "s52"
+    },
+    {
+      "text": "22 Regulation 15 and 16 of the Agricultural and Veterinary Chemicals Code Regulations 1995 provide as follows: \n Reg 15 Particulars of approved active constituents to be recorded (1) Subject to subregulation (2), for the purposes of subsection 19 (2) of the Code, the following particulars must be entered in the Record of Approved Active Constituents in relation to the approval of an active constituent: (a) if a name is given to the active constituent by the International Union of Pure and Applied Chemistry -- that name; (b) if no name is given to the active constituent by the International Union of Pure and Applied Chemistry -- the name given to the active constituent in an order, publication or approval referred to in regulation 42 that specifies the standard for the active constituent for the purposes of that regulation; (c) the common name for the active constituent proposed by the applicant and accepted by the APVMA; (d) the composition and purity of the active constituent; (e) the name of the manufacturer of the active constituent; (f) the address of each site at which the active constituent is manufactured by the manufacturer; (g) the name and business address of the applicant; (h) the date of entry of these particulars in the Record of Approved Active Constituents; (j) the date (if any) on which the approval ends.",
+      "id": "s53"
+    },
+    {
+      "text": "(Emphasis added) (2) In relation to an active constituent approved in accordance with section 14A of the Code, the particulars mentioned in paragraphs (1) (c) to (j) need be entered in the Record of Approved Active Constituents only if those particulars are readily available to the APVMA.",
+      "id": "s54"
+    },
+    {
+      "text": "Reg 16 Particulars of registered chemical products to be recorded For the purposes of subsection 20(2) of the Code (which deals with registration of a chemical product), the following particulars must be entered in the Register of Chemical Products in relation to the registration of a chemical product: \n \n (a) the distinguishing name of the chemical product proposed by the applicant and accepted by the APVMA; \n (b) the constituents of the chemical product; \n (c) the concentration of each constituent of the chemical product; \n (d) if possible, the composition and purity of each active constituent of the chemical product; \n (e) the name and business address of the applicant; \n (f) the name of each State or Territory in respect of which the chemical product is registered; \n (g) the name of each manufacturer of the chemical product ; \n (h) the address of each site at which the chemical product is manufactured by the manufacturer ; \n (j) the date of entry of these particulars in the Register of Chemical Products; \n (k) the date on which the registration ends.",
+      "id": "s55"
+    },
+    {
+      "text": "(Emphasis added) \n \n \n23 The date of approval of an active constituent, and the date of registration of a chemical product, is the date on which the relevant particulars are entered in the Record or Register: s 22(1) of the Code.",
+      "id": "s56"
+    },
+    {
+      "text": "If any of the relevant particulars are varied, then, the date of the approval or the registration, as varied, is the date on which particulars of the variations are entered in the Record or Register: s 22(2) of the Code.",
+      "id": "s57"
+    },
+    {
+      "text": "24 By s 14(1) of the Code, the Authority must grant an application for approval or registration made under s 10 if it is satisfied of all the matters referred to in s 14(3).",
+      "id": "s58"
+    },
+    {
+      "text": "If the Authority is not satisfied of all those matters, then, under s 14(2) it must refuse an application.",
+      "id": "s59"
+    },
+    {
+      "text": "Those matters include the Authority being satisfied that: \n &#8226; the applicant has complied with s 11(1).",
+      "id": "s60"
+    },
+    {
+      "text": "This section requires that the application must be in writing and contain or be accompanied by any information that the Authority requires; &#8226; the applicant has provided for analysis, a sample of each active constituent or each active constituent for a proposed or existing chemical product required by the Authority (s 157(1)(a)); &#8226; the applicant has provided for analysis, if the application relates to a chemical product, a sample of any constituent of the product or a sample of the product or both required by the Authority (s 157(1)(b)); &#8226; the applicant has paid the cost of the analysis to the Authority (s 157(3)); &#8226; the applicant has provided information to the Authority required by it relevant to an application relating to an active constituent or chemical product (s 159(1)(a) and (e)); &#8226; the applicant has carried out research for the Authority of published literature for information about the active constituent or the chemical product or any of its constituents and provided a report to the Authority on the results of the search (s 159(1)(f)); &#8226; that any requirement prescribed in the regulations in relation to the active constituent or chemical product has been complied with; &#8226; that the use of the active constituent or chemical product would not be an undue hazard to the safety of people; would not be likely to have an effect that is harmful or human beings or an unintended effect that is harmful to animals, plants or things or to the environment; &#8226; the use of the chemical product, in accordance with the instructions of use approved by the APVMA, would be effective.",
+      "id": "s61"
+    },
+    {
+      "text": "Section 14(4), (5) and (6) together impose very detailed obligations on the Authority as to how it is to satisfy itself as to whether or not the active constituents or chemical products would be an undue hazard or have an effect that is harmful to human beings or would be effective.",
+      "id": "s62"
+    },
+    {
+      "text": "This is to give practical effect to the 'overriding criteria' mentioned in the second reading speech as well as what is found in the preambles, to which I have referred: protection of the health and safety of human beings and animals and the environment.",
+      "id": "s63"
+    },
+    {
+      "text": "25 Division 3 provides for applications to vary relevant particulars of approval or registration.",
+      "id": "s64"
+    },
+    {
+      "text": "In summary, an interested person in relation to the constituent or product may apply to the Authority for variation of the relevant particulars: s 27.",
+      "id": "s65"
+    },
+    {
+      "text": "Again, the Authority must grant the application if satisfied of specified matters: s 29.",
+      "id": "s66"
+    },
+    {
+      "text": "Those matters include that the application contain or be accompanied by the information that the Authority requires: s 29 and s 28(1)(b).",
+      "id": "s67"
+    },
+    {
+      "text": "There follows a similar process to that for the initial approval or registration.",
+      "id": "s68"
+    },
+    {
+      "text": "26 Division 5 provides for suspension or cancellation of approval or registration.",
+      "id": "s69"
+    },
+    {
+      "text": "In summary, the division prescribes the circumstances in which the Authority may suspend or cancel, as well as the procedure to be followed.",
+      "id": "s70"
+    },
+    {
+      "text": "This includes a requirement to give notice.",
+      "id": "s71"
+    },
+    {
+      "text": "27 Division 6 provides for the duration and renewal of approval or registration.",
+      "id": "s72"
+    },
+    {
+      "text": "An approval continues in force unless cancelled: s 47(1).",
+      "id": "s73"
+    },
+    {
+      "text": "The registration of a chemical product, however, ends at the end of 30 June next following the day on which the registration was granted or renewed, or last renewed, as the case may be: s 47(2).",
+      "id": "s74"
+    },
+    {
+      "text": "The interested person may apply for renewal of the registration of a chemical product.",
+      "id": "s75"
+    },
+    {
+      "text": "The Code provides for late application.",
+      "id": "s76"
+    },
+    {
+      "text": "The discretion of the Authority in acting on an application for renewal is limited: see s 49(4).",
+      "id": "s77"
+    },
+    {
+      "text": "28 Section 145 creates an offence for a person, in specified circumstances, to give information or produce a document to the Authority that the person knows to be false or misleading in a material particular.",
+      "id": "s78"
+    },
+    {
+      "text": "By s 161 it is an offence for an interested person who becomes aware of any relevant information in relation to a constituent or in relation to a product or of any of its constituents, to not give that information to the Authority.",
+      "id": "s79"
+    },
+    {
+      "text": "By sub-section (2), relevant information includes any information that contradicts any information given to the Authority under the Code, or would have had to be given to the Authority in connection with the application for the approval, registration, listed registration or permit if the applicant had been aware of the information when the application was made.",
+      "id": "s80"
+    },
+    {
+      "text": "CONSIDERATION \n \n29 The Authority submits that the relevant approvals and registrations, including the varied registrations were affected, procured or induced by the fraud of Imtrade in providing the fictitious name and address of Evergreen as manufacturer in each case.",
+      "id": "s81"
+    },
+    {
+      "text": "It seeks declarations to that effect.",
+      "id": "s82"
+    },
+    {
+      "text": "30 The Authority submits that the approval of each active constituent by the entry pursuant to s 19(2)(a) of the Code in the Record of the relevant particulars was in law not an approval and could be ignored.",
+      "id": "s83"
+    },
+    {
+      "text": "The same is said of the registrations and the variations to the relevant particulars of registrations under s 20(2)(a) and s 29(1)(h)(i) respectively.",
+      "id": "s84"
+    },
+    {
+      "text": "This is so, it says, because subject to limited exceptions, a person will not be permitted to keep an advantage obtained by fraud: an administrative decision procured by fraud may be ignored as an invalid decision and of no effect at law.",
+      "id": "s85"
+    },
+    {
+      "text": "This is what the Authority has purported to do here.",
+      "id": "s86"
+    },
+    {
+      "text": "It has manifested its view that it may ignore the approvals in the Record and the registrations in the Register, which are each in electronic form, by deleting each of them.",
+      "id": "s87"
+    },
+    {
+      "text": "They no longer appear in the Record or the Register.",
+      "id": "s88"
+    },
+    {
+      "text": "It has not purported, as I have said, to cancel the approvals and registrations under the provisions of the Code.",
+      "id": "s89"
+    },
+    {
+      "text": "The Authority submits that the decision of the Full Court in Leung v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs (1997) 79 FCR 400 is warrant for their actions.",
+      "id": "s90"
+    },
+    {
+      "text": "31 The issue in Leung was whether the Minister for Immigration could, absent an express statutory power to do so, revoke the grant of a certificate of Australian citizenship where the applicants had misled his delegate about their factual circumstances.",
+      "id": "s91"
+    },
+    {
+      "text": "The appellants sought a certificate of Australian Citizenship, which involved two steps: the Minister must grant the Certificate and the applicant must make the prescribed pledge of commitment.",
+      "id": "s92"
+    },
+    {
+      "text": "The appellants made representations of fact, asserting that during their time spent overseas they were engaged in activities beneficial to the interests of Australia, namely the promotion and export of Australian goods (rough opals and fresh produce to Hong Kong).",
+      "id": "s93"
+    },
+    {
+      "text": "On the basis of these representations the Minister exercised his discretion under s 13(1) of the Australian Citizenship Act 1948 (Cth) in favour of the appellants.",
+      "id": "s94"
+    },
+    {
+      "text": "In fact, the applicant and his wife had both been practicing as medical professionals in Hong Kong for the better part of the time they initially claimed to have been promoting Australian exports.",
+      "id": "s95"
+    },
+    {
+      "text": "The Certificates were granted.",
+      "id": "s96"
+    },
+    {
+      "text": "However, before the appellants made their pledges of commitment, it was discovered that the representations of fact were false.",
+      "id": "s97"
+    },
+    {
+      "text": "The Minister's delegate then decided to 'revoke' the decision to grant the Certificates.",
+      "id": "s98"
+    },
+    {
+      "text": "32 The Court was divided in its reasoning.",
+      "id": "s99"
+    },
+    {
+      "text": "The majority (Finkelstein J and Beaumont J concurring) concluded that as the decision to grant the certificate was procured by fraud it was invalid and could be ignored without any formal process of revocation.",
+      "id": "s100"
+    },
+    {
+      "text": "It was unnecessary, the majority concluded, to rely upon any express or implied power of revocation under the statute to proceed as it did.",
+      "id": "s101"
+    },
+    {
+      "text": "33 Heerey J resolved the appeal on the basis of an implied statutory power to revoke a certificate of citizenship where a statutory criterion for the issue of the certificate did not in fact exist although such a power terminated once the pledge of commitment had been made because a person could not be deprived of citizenship other than by virtue of s 21 of the Citizenship Act .",
+      "id": "s102"
+    },
+    {
+      "text": "His Honour said:\n \"there is no general rule or principle of administrative law that decisions based upon a wrong factual basis may be revoked by the decision-maker --- still less that such decisions do not need to be revoked and may simply be ignored.",
+      "id": "s103"
+    },
+    {
+      "text": "The supposed general rule would necessarily extend indefinitely in time and to factual errors for which persons affected by the decision were in no way responsible.",
+      "id": "s104"
+    },
+    {
+      "text": "Such persons might have arranged their own affairs on the basis of the decision.",
+      "id": "s105"
+    },
+    {
+      "text": "34 Finkelstein J however expressed the opinion that: \n ... the true principle is this.",
+      "id": "s106"
+    },
+    {
+      "text": "To ignore an invalid decision is not to revoke it.",
+      "id": "s107"
+    },
+    {
+      "text": "It is merely to recognise that that which purports to be a decision does not have that character.",
+      "id": "s108"
+    },
+    {
+      "text": "To decide the matter again is not a reconsideration of it.",
+      "id": "s109"
+    },
+    {
+      "text": "It is in fact the original exercise of the power to make the decision.",
+      "id": "s110"
+    },
+    {
+      "text": "...",
+      "id": "s111"
+    },
+    {
+      "text": "Nor is there any need to find either an express or an implicit power of reconsideration.",
+      "id": "s112"
+    },
+    {
+      "text": "Those doctrines, to the extent that they are applicable to administrative decision-making, only apply to validly made administrative decisions.",
+      "id": "s113"
+    },
+    {
+      "text": "35 There has been much controversy as to whether invalid administrative decisions may simply be ignored by the decision-maker without judicial determination.",
+      "id": "s114"
+    },
+    {
+      "text": "The debate between the absolute and relative invalidity schools of thought is far from resolved.",
+      "id": "s115"
+    },
+    {
+      "text": "There is a very useful discussion of these in a paper presented by Robert Orr and Robyn Briese at an AIAL Forum in October 2002: Don't Think Twice?",
+      "id": "s116"
+    },
+    {
+      "text": "Can Administrative Decision Making Change Their Mind?",
+      "id": "s117"
+    },
+    {
+      "text": "Absolute invalidity means that a decision-maker, and those affected by the invalid decision may just ignore it as if it had never been made.",
+      "id": "s118"
+    },
+    {
+      "text": "There is no requirement for judicial review to achieve this result.",
+      "id": "s119"
+    },
+    {
+      "text": "It does not constitute a decision.",
+      "id": "s120"
+    },
+    {
+      "text": "Support for it is found in Ouslow v R [1997] HCA 49 ; (1997) 192 CLR 69 per McHugh J and by some commentators: Sykes, Lanham, Tracey and Esser, General Principles of Administrative Law (4 th ed, Butterworths, 1997) at 447 .",
+      "id": "s121"
+    },
+    {
+      "text": "36 The relative invalidity school argues that invalidity is required to be established by judicial, not administrative, determination and any decision tainted by jurisdictional error is valid and effective in law until such a determination is made.",
+      "id": "s122"
+    },
+    {
+      "text": "Examples are to be found in Forbes v New South Wales Trotting Club Ltd [1979] HCA 27 ; (1979) 143 CLR 242 at 277 per Aikin J; Ousley v R per Gummow J at 130-131; R v Balfour; ex parte Parkes Rural Distributors Pty Ltd (1987) 17 FCR 26 at 33.",
+      "id": "s123"
+    },
+    {
+      "text": "It too has support amongst commentators: M Taggart, \"Rival Theories of Invalidity\" in M Taggart (ed), Judicial Review of Administrative Action in the 1980s --- Problems and Prospects (Oxford University Press and the Legal Research Foundation Inc, 1988) at p 70; Aronson and Dyer in Judicial Review of Administrative Action (2 nd ed, LBC, 2000) conclude on this issue at p 499: \n The truth is that there is no such thing as a complete nullity; it always takes a court decision to say so.",
+      "id": "s124"
+    },
+    {
+      "text": "Kirby J cites other strong support both judicial and from legal commentators in Minister for Immigration &amp; Multicultural Affairs v Bhardwaj (2002) 209 CLR 597 at [103]-[104].",
+      "id": "s125"
+    },
+    {
+      "text": "37 The concept of absolute invalidity has been rejected by the High Court, at least in the context of judgments and orders of federal courts declared by legislation to be \"superior courts\" of record: Bhardwaj per Kirby J at [108]; Residual Assco Group Ltd v Spalvins [2000] HCA 33 ; (2000) 202 CLR 629 at 660 [77] ; Re Macks; Ex parte Saint [2000] HCA 62 ; (2000) 204 CLR 158.",
+      "id": "s126"
+    },
+    {
+      "text": "38 Some cases advocate a position somewhere between the two poles.",
+      "id": "s127"
+    },
+    {
+      "text": "A J Burr Ltd v Blenheim Borough Council [1980] 2 NZLR 1 at 4 is an example.",
+      "id": "s128"
+    },
+    {
+      "text": "There, Cooke J said that other than in cases which involve \"flagrant invalidity\" an administrative decision is generally to be taken to be operative until set aside by judicial determination.",
+      "id": "s129"
+    },
+    {
+      "text": "39 The question of invalidity and its consequences was considered by the High Court in Bhardwaj.",
+      "id": "s130"
+    },
+    {
+      "text": "The respondent, whose student visa was cancelled by a delegate of the Minister for Immigration and Multicultural Affairs applied to the Immigration Review Tribunal for a review of the decision.",
+      "id": "s131"
+    },
+    {
+      "text": "The Tribunal proposed to deal with the matter on 15 September 1998, and invited the respondent to attend a hearing.",
+      "id": "s132"
+    },
+    {
+      "text": "Late in the afternoon of 14 September 1998 the Tribunal received, from the respondent's agent, a letter stating that the respondent was ill and would be unable to attend the next day, and requesting an adjournment.",
+      "id": "s133"
+    },
+    {
+      "text": "By an administrative oversight, the letter did not come to the attention of the member of the Tribunal to whom the matter had been assigned.",
+      "id": "s134"
+    },
+    {
+      "text": "The Tribunal dealt with the matter on 15 and 16 September, adversely to the respondent, and notified the respondent and his agent on 17 September.",
+      "id": "s135"
+    },
+    {
+      "text": "The reason given for the Tribunal's decision was that the respondent had not provided any information which suggested that the cancellation of his visa was unfair or inappropriate.",
+      "id": "s136"
+    },
+    {
+      "text": "When the respondent's agent was informed of the decision, the attention of the Tribunal member was drawn to the letter of 14 September.",
+      "id": "s137"
+    },
+    {
+      "text": "A new hearing date was arranged.",
+      "id": "s138"
+    },
+    {
+      "text": "The Tribunal heard the respondent's explanation of the conduct which had resulted in the cancellation of his visa, accepted the explanation, and, on 22 October 1998, revoked the cancellation.",
+      "id": "s139"
+    },
+    {
+      "text": "The issue in the appeal concerned the capacity of the Tribunal to proceed as it did thereby correcting its own error.",
+      "id": "s140"
+    },
+    {
+      "text": "The Minister contended that the power of the Tribunal to review the delegate's decision was spent after it made the decision in September.",
+      "id": "s141"
+    },
+    {
+      "text": "40 Hayne J attached significance to whether the earlier decision would be set aside by the Federal Court or the High Court under s 75(v) of the Constitution at [147], concluding that where a decision would be set aside the power has not been exercised: [142], [155], [157].",
+      "id": "s142"
+    },
+    {
+      "text": "It might seem that the practical application of such a test by a decision-maker raises its own self-evident difficulties, absent clear authority on all fours, with the circumstances of the case in question.",
+      "id": "s143"
+    },
+    {
+      "text": "However I do not take his Honour to have been referring to circumstances other than where there is a clear error involved as in his citation at [152] of Dixon J in Posner v Collector for Inter-State Destitute Persons (Vict) (1946) 74 CLR 461 at 483 suggests.",
+      "id": "s144"
+    },
+    {
+      "text": "41 How is invalidity to be determined?",
+      "id": "s145"
+    },
+    {
+      "text": "In the present case, alleged fraud amounting to jurisdictional error is involved.",
+      "id": "s146"
+    },
+    {
+      "text": "However the facts other than in respect to the variation of relevant particulars in respect of 47 existing valid registrations are in contest.",
+      "id": "s147"
+    },
+    {
+      "text": "Accordingly, it cannot be assumed that a Court would set aside the decisions of the Authority.",
+      "id": "s148"
+    },
+    {
+      "text": "Even in respect to the variations to the particulars, I do not think that it could be assumed that the provision of false particulars would lead a Court to declare the underlying valid registrations as thereby invalid.",
+      "id": "s149"
+    },
+    {
+      "text": "Posited in that way, it might be said that the necessary precondition to the right to ignore a decision, earlier made, has not been established and necessarily requires judicial determination of both fact and law on the question of validity.",
+      "id": "s150"
+    },
+    {
+      "text": "42 In Leung the question of fact and law as to whether Mr and Mrs Leung were entitled to the favourable exercise of the discretion under s 13(4)(b)(i) of the Citizenship Act was disputed.",
+      "id": "s151"
+    },
+    {
+      "text": "The dispute involved questions of fact.",
+      "id": "s152"
+    },
+    {
+      "text": "The Minister had not purported to rely upon the common law doctrine of vitiation by fraud but rather upon s 33(3) of the Acts Interpretation Act 1901 (Cth) as the source of power to revoke the certificate of citizenship.",
+      "id": "s153"
+    },
+    {
+      "text": "The AAT resolved the factual dispute in favour of the Minister.",
+      "id": "s154"
+    },
+    {
+      "text": "Finkelstein J observed that no point had been taken that the AAT lacked jurisdiction and proceeded on the basis that it did.",
+      "id": "s155"
+    },
+    {
+      "text": "Importantly however, when the matter was before the Full Court the factual controversy had been resolved.",
+      "id": "s156"
+    },
+    {
+      "text": "It was not in dispute by then that the decision to grant the certificate of citizenship had been procured by misrepresentation.",
+      "id": "s157"
+    },
+    {
+      "text": "The question was whether in those circumstances the decision to grant the certificate as a result of proven misrepresentation was thereby vitiated.",
+      "id": "s158"
+    },
+    {
+      "text": "43 Likewise, the error in Bhardwaj might be characterised as \"flagrantly invalid\" to use the language of Cooke J in Blenheim .",
+      "id": "s159"
+    },
+    {
+      "text": "In their joint judgment, Gaudron and Gummow JJ referred to the decision as one which \"clearly involved a failure to exercise jurisdiction\".",
+      "id": "s160"
+    },
+    {
+      "text": "Hayne J said that it was not seriously disputed in the Courts below or in the High Court that due to an oversight, the Tribunal had not given the respondent the opportunity to appear and give evidence and present arguments which s 360(1)(a) of the Migration Act 1958 (Cth) required he be given before the Tribunal made the September decision.",
+      "id": "s161"
+    },
+    {
+      "text": "This was the jurisdictional error involved.",
+      "id": "s162"
+    },
+    {
+      "text": "44 Invalidity, in a particular case, may be demonstrated by consensus.",
+      "id": "s163"
+    },
+    {
+      "text": "In Comptroller General of Customs v Kawasaki Motors Pty Ltd [1991] FCA 518 ; (1991) 103 ALR 661 the Full Court concluded that an administrative order made under the provisions of Pt XVa of the Customs Act 1901 (Cth) could be revoked by agreement of the parties without the necessity for a judicial determination.",
+      "id": "s164"
+    },
+    {
+      "text": "45 The concept of invalidity involves questions of mixed fact and law.",
+      "id": "s165"
+    },
+    {
+      "text": "There may be evidentiary considerations.",
+      "id": "s166"
+    },
+    {
+      "text": "In Leung, Finkelstein J, drawing on observations by Lord Hoffman in R v Wicks [1997] UKHL 21 ; [1998] AC 92 at 115, said at 413: \n In other words the presumption of the validity of an administrative decision, to the extent that the presumption is to be made in a particular case, is no more than a rule of evidence pursuant to which a certain assumption will be made by a judge unless there is evidence which contradicts that assumption.",
+      "id": "s167"
+    },
+    {
+      "text": "As Kirby J said in Ousley at 1594 the presumption is merely a tool in the process of reasoning to a decision.",
+      "id": "s168"
+    },
+    {
+      "text": "See also Wigmore on Evidence (1981) vol 9, par 2491.",
+      "id": "s169"
+    },
+    {
+      "text": "46 In Bhardwaj Hayne J in the same vein said: \n If there is no challenge to the validity of an administrative act or decision, whether directly by proceedings for judicial review or collaterally in some other proceeding in which its validity is raised incidentally, the act or decision may be presumed to be valid.",
+      "id": "s170"
+    },
+    {
+      "text": "But again, that is a presumption which operates, chiefly, in circumstances where there is no challenge to the legal effect of what has been done.",
+      "id": "s171"
+    },
+    {
+      "text": "Where there is a challenge, the presumption may serve only to identify and emphasise the need for proof of some invalidating feature before a conclusion of invalidity may be reached.",
+      "id": "s172"
+    },
+    {
+      "text": "It is not a presumption which may be understood as affording all administrative acts and decisions validity and binding effect until they are set aside.",
+      "id": "s173"
+    },
+    {
+      "text": "47 Whether an administrative decision ought be presumed to be valid until set aside by a court will depend upon the particular case having regard always to the particular legislation under which the decision was made.",
+      "id": "s174"
+    },
+    {
+      "text": "48 In my opinion, the presumption in this case cannot be displaced, merely at the instance of the Authority, in the face of factual questions, the resolution of which is necessary before determining the legal validity or otherwise of the several decisions to approve and to register.",
+      "id": "s175"
+    },
+    {
+      "text": "It is a fact that incorrect information was given to the Authority by Imtrade concerning the name and address of the manufacturer.",
+      "id": "s176"
+    },
+    {
+      "text": "Evergreen was a fictitious name.",
+      "id": "s177"
+    },
+    {
+      "text": "The factual question whether this affected induced or procured the several decisions is disputed.",
+      "id": "s178"
+    },
+    {
+      "text": "The Authority cannot determine that question for itself.",
+      "id": "s179"
+    },
+    {
+      "text": "49 There is a further reason why curial disposition is necessary in this case.",
+      "id": "s180"
+    },
+    {
+      "text": "The presumption of validity is of particular importance here because the legislation involves a system of approvals and registration affecting innocent third parties.",
+      "id": "s181"
+    },
+    {
+      "text": "Approvals and registrations require by s 52(1) and (2) respectively to be published by the Authority, at least in the Gazette.",
+      "id": "s182"
+    },
+    {
+      "text": "The position under s 53 in respect to variations and s 55 in respect to suspensions or cancellations is the same.",
+      "id": "s183"
+    },
+    {
+      "text": "Approval and registration confers important rights upon third parties such as suppliers and purchasers of chemical products.",
+      "id": "s184"
+    },
+    {
+      "text": "It also protects them against criminal liability.",
+      "id": "s185"
+    },
+    {
+      "text": "For example, supply and possession with the intent to supply unapproved active constituents and unregistered chemical products are offences under the Code: ss 74 - 78 .",
+      "id": "s186"
+    },
+    {
+      "text": "Some offences are indictable offences: s 170 and may involve imprisonment: ss 162 , 163 .",
+      "id": "s187"
+    },
+    {
+      "text": "Conviction for offences under the Code may involve forfeiture of property: s 150.",
+      "id": "s188"
+    },
+    {
+      "text": "Part 7A of the Agricultural and Veterinary Chemicals (Administration) Act 1992 deals with importation, manufacture and export of chemicals.",
+      "id": "s189"
+    },
+    {
+      "text": "Under Part 7A , it is an offence to import into Australia an active constituent that has not been approved or a chemical product that is not registered: s 69B(1).",
+      "id": "s190"
+    },
+    {
+      "text": "The removal of the approvals and registrations by merely deleting these electronically has the very real potential to expose innocent third parties to prosecution as well as financial loss.",
+      "id": "s191"
+    },
+    {
+      "text": "The system of recorded approvals and registrations enables third parties to organise their affairs accordingly.",
+      "id": "s192"
+    },
+    {
+      "text": "50 Compliance with the Code may also be the subject of injunctions, as well as action involving the execution of search warrants with Inspectors having powers of entry and seizure.",
+      "id": "s193"
+    },
+    {
+      "text": "51 Furthermore, Part 2 , Div 5 of the Code empowers the Authority in certain circumstances to suspend or cancel approvals and registrations.",
+      "id": "s194"
+    },
+    {
+      "text": "Upon cancellation, the Authority must give written notice to interested and approved persons as defined in s 3 and to any other person it believes notice should be given: s 45A(1).",
+      "id": "s195"
+    },
+    {
+      "text": "After such notice, that person is taken to have been issued with a permit to \"possess, have custody of, use or otherwise deal\" with the constituent or product for a certain period of time: s 45A(5).",
+      "id": "s196"
+    },
+    {
+      "text": "A penalty applies for not acting in accordance with the instructions contained in the notice: s 45A(6), ss 74 - 78 .",
+      "id": "s197"
+    },
+    {
+      "text": "Accordingly, s 45A(5) protects, for a period of time, third parties affected by the cancellation.",
+      "id": "s198"
+    },
+    {
+      "text": "That protection is not available to them in the circumstances which presently exist.",
+      "id": "s199"
+    },
+    {
+      "text": "The Authority issued a recall notice to Imtrade under s 101 of the Code.",
+      "id": "s200"
+    },
+    {
+      "text": "I will consider this in more detail below.",
+      "id": "s201"
+    },
+    {
+      "text": "It is relevant in the present context to note that under Clause 2 of the Notice, which sets out various definitions, there is included the word \"Permit\".",
+      "id": "s202"
+    },
+    {
+      "text": "It is stated to mean a permit under Part 7 of the \"Agvet Codes\".",
+      "id": "s203"
+    },
+    {
+      "text": "There is however no operative clause in the Notice concerning permits.",
+      "id": "s204"
+    },
+    {
+      "text": "A consideration of Part 7 of the Code immediately demonstrates that its provisions are not apt to the circumstances of this case.",
+      "id": "s205"
+    },
+    {
+      "text": "52 The observations of Hayne J at [143] and Kirby J at [122] in Bhardwaj are relevant to these third party considerations.",
+      "id": "s206"
+    },
+    {
+      "text": "53 In my opinion, it is for this Court to decide the legal question involving as it does a preliminary factual enquiry.",
+      "id": "s207"
+    },
+    {
+      "text": "Indeed, the Authority seeks declarations from this Court that each approval and each registration was of no legal effect because each was affected, procured or induced by fraud.",
+      "id": "s208"
+    },
+    {
+      "text": "I will now consider those questions.",
+      "id": "s209"
+    },
+    {
+      "text": "54 It is fundamental to the Authority's case that invalidity be established in respect of each approval and registration.",
+      "id": "s210"
+    },
+    {
+      "text": "It is necessary to establish that the decisions to approve and to register were actually induced or affected by fraud on the balance of probabilities and having due regard to Briginshaw v Briginshaw [1938] HCA 34 ; (1938) 60 CLR 336.",
+      "id": "s211"
+    },
+    {
+      "text": "This is sometimes referred to as operative fraud.",
+      "id": "s212"
+    },
+    {
+      "text": "It is not enough to prove a \"real suspicion\" or a \"real possibility\": Wati v Minister for Immigration and Ethnic Affairs (1996) 71 FCR 103 at 112-113.",
+      "id": "s213"
+    },
+    {
+      "text": "Wati on this point was referred to with apparent approval by the High Court in SZFDE v Minister for Immigration and Citizenship [2007] HCA 35 ; (2007) 237 ALR 64 at [25] .",
+      "id": "s214"
+    },
+    {
+      "text": "The alleged fraud must affect the decision-making process: Minister for Immigration and Citizenship v SZLIX [2008] FCAFC 171 ; (2008) 245 ALR 501 at [33] .",
+      "id": "s215"
+    },
+    {
+      "text": "55 French J, at first instance , in SZFDE v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2006] FCAFC 142 ; (2006) 154 FCR 365 at [74] said: \n The finding of fraud should have specified, in one place in the reasons what was said that was fraudulent, how it was fraudulent and how it was acted upon.",
+      "id": "s216"
+    },
+    {
+      "text": "This statement was approved by the High Court in that case on appeal: SZFDE at [41].",
+      "id": "s217"
+    },
+    {
+      "text": "56 The Authority, as part of its case on the issue of fraud, did not seek to prove what information it actually had received and relied upon in making its several decisions to approve and register under ss 19(1) ; 20(1).",
+      "id": "s218"
+    },
+    {
+      "text": "57 Rather, senior counsel for the Authority referring to the statement of French J said: \n We know what was the fraud, we know how it was effected and how it was acted on.",
+      "id": "s219"
+    },
+    {
+      "text": "It was acted on by the making of the registration.",
+      "id": "s220"
+    },
+    {
+      "text": "The fact that it was operative ... flows from the legislation that it was operative ... \n58 Accordingly, the case for the Authority is that the provision of the fictitious name and address of Evergreen being particulars prescribed under Regulations 15 and 16 necessarily leads, as a matter of inference, to the conclusion that each approval and registration was procured or induced by fraud.",
+      "id": "s221"
+    },
+    {
+      "text": "I do not agree.",
+      "id": "s222"
+    },
+    {
+      "text": "59 Section 11(1)(a) and (b) together provide in effect that an application to the Authority under s 10 for approval of an active constituent or for registration of a chemical product must be made in writing in or to the effect of the approved form and contain, or be accompanied by, any information that the Authority requires.",
+      "id": "s223"
+    },
+    {
+      "text": "There is no evidence as to whether the various applications were made in or to the effect of the approved form.",
+      "id": "s224"
+    },
+    {
+      "text": "No reliance was placed upon the wording of the approved form.",
+      "id": "s225"
+    },
+    {
+      "text": "It was not referred to in submissions.",
+      "id": "s226"
+    },
+    {
+      "text": "60 It is by no means clear just what information for the purposes of s 11(1)(b) the Authority requires generally or required particularly in this case in relation to the grant of the various applications for approval of active constituents and for registration of chemical products.",
+      "id": "s227"
+    },
+    {
+      "text": "61 Approval is effected under s 19(2)(a) by entering in the Record of Approved Action Constituents amongst other things the particulars prescribed by Regulation 15.",
+      "id": "s228"
+    },
+    {
+      "text": "However such approval is effected only after the Authority decides to approve an active constituent: s 19(1) of the Code.",
+      "id": "s229"
+    },
+    {
+      "text": "62 A decision under Division 2 of Part 2 to refuse an application for approval of an active constituent or to register a chemical product is reviewable under s 167(1)(a) and a decision to approve either of these applications is reviewable under s 167(1)(b).",
+      "id": "s230"
+    },
+    {
+      "text": "There is no provision to review the act of recording prescribed particulars in the Record or the Register which gives effect to those decisions.",
+      "id": "s231"
+    },
+    {
+      "text": "63 There is no evidence as to what information the Authority had before it in arriving at its several decisions to approve.",
+      "id": "s232"
+    },
+    {
+      "text": "Even if it had the information prescribed by Regulation 15 this does not mean it was information required for the purposes of s 11(1)(b).",
+      "id": "s233"
+    },
+    {
+      "text": "64 There is no evidence as to when the Authority asked for information concerning the name and address of the manufacturer in China.",
+      "id": "s234"
+    },
+    {
+      "text": "There is no evidence that Imtrade or its agents officers or employees was aware that such information was relevant to their application or putting it another way, that the information was material to the Authority's decision-making process.",
+      "id": "s235"
+    },
+    {
+      "text": "No reason has been proffered as to why this information was to be regarded as significant other than for the purpose of complying with Regs 15 and 16 which concern events after the relevant decisions were made: cf Sharples v O'Shea (unreported Supreme Court of Queensland, Atkinson J, 18 August 1999 at [66].",
+      "id": "s236"
+    },
+    {
+      "text": "65 The position in respect to the registration of chemical products is to the same effect: registration under s 20(2) is effected by the entry in the Register, amongst other things, of the particulars prescribed by Regulation 16.",
+      "id": "s237"
+    },
+    {
+      "text": "However this occurs only after the Authority decides to register under s 20(1).",
+      "id": "s238"
+    },
+    {
+      "text": "66 It is no answer for Mr Suter to say in his affidavit sworn on 5 June 2008 at [14]:\n Unless the APVMA was satisfied that the second respondent had provided any information that the APVMA required, under section 14 of the Agvet Code, it could not grant the application for approval or registration.",
+      "id": "s239"
+    },
+    {
+      "text": "If the second respondent at the time it made its applications for approval of the active constituents and registration of chemical products had told the APVMA in its applications that the information concerning the identity of the manufacturer and site of manufacture to be entered into the Record and the Register respectively was false, or if the APVMA had been aware of the falsity of those particulars, the APVMA would not have granted those applications.",
+      "id": "s240"
+    },
+    {
+      "text": "67 That assertion is to beg the question as to what information was required under s 11(1)(b) for the purposes of making decisions under s 19(1) and s 20(1) as distinct from what was required in giving effect to those decisions under s 19(2) and s 20(2).",
+      "id": "s241"
+    },
+    {
+      "text": "Regulations 15 and 16 are directed not to s 19(1) and s 20(1).",
+      "id": "s242"
+    },
+    {
+      "text": "The regulations are expressed to be \"for the purposes of\" subsection s 19(2) and s 20(2) of the Code, respectively and to be \"in relation to\" the approval of an active constituent and the registration of a chemical product, respectively.",
+      "id": "s243"
+    },
+    {
+      "text": "The prescribed particulars are accordingly not for the purposes of either s 19(1) or s 20(1) nor are they required in relation to a decision to approve or a decision to register.",
+      "id": "s244"
+    },
+    {
+      "text": "68 Applications to vary relevant particulars and the mode of such applications are provided for in ss 27 and 28.",
+      "id": "s245"
+    },
+    {
+      "text": "These are to the same effect, mutatis mutandis as applications under ss 10 and 11.",
+      "id": "s246"
+    },
+    {
+      "text": "The submissions of the Authority in respect to the 47 variations of registration are also to the same effect.",
+      "id": "s247"
+    },
+    {
+      "text": "69 Fraud requires to be strictly articulated and proved: Wentworth v Rogers (No 5) (1986) 6 NSWLR 534 at 538D per Kirby P. A finding of fraud is not to be made lightly.",
+      "id": "s248"
+    },
+    {
+      "text": "I am not persuaded that the misinformation provided, at some point, by Imtrade to the Authority led to operative fraud, namely, that the Authority was actually induced by the provision of that information to make the decisions to approve and to register.",
+      "id": "s249"
+    },
+    {
+      "text": "I am not prepared to infer such fraud merely because Regs 15 and 16 require particulars of the name and address of the manufacturer to be recorded and registered.",
+      "id": "s250"
+    },
+    {
+      "text": "There are provisions in the Code which lend support to the conclusion that such information is not operative in the making of those decisions.",
+      "id": "s251"
+    },
+    {
+      "text": "70 First, the provision of such particulars is not immediately referable to the objects of the Act or Code which as I have indicated centre upon concerns of safety and health of individuals, animals and the environment.",
+      "id": "s252"
+    },
+    {
+      "text": "The Authority points to paragraph (d) of the preamble to the Code which concerns the creation of a regulatory system that is open and accountable and which gives opportunity for public input with respect to the regulation of chemical and veterinary products.",
+      "id": "s253"
+    },
+    {
+      "text": "The particulars in question do not, I think, touch on that object.",
+      "id": "s254"
+    },
+    {
+      "text": "They are particulars which I earlier suggested may well be maintained in the confidential part of each of the Record and Register.",
+      "id": "s255"
+    },
+    {
+      "text": "Certainly, according to Mr James Suter who is acting CEO of the Authority, in his affidavit in support of the application sworn on 5 June 2008 at [9], the identity of the manufacturer and address of the site at which chemical products are manufactured are kept in the confidential part of the Register.",
+      "id": "s256"
+    },
+    {
+      "text": "71 Second, incorrectly recorded or registered relevant particulars may be corrected in the Record and Register by the Authority under the provisions of s 26 of the Code.",
+      "id": "s257"
+    },
+    {
+      "text": "Furthermore, Part 2, Div 5 of the Code provides for suspension and cancellation of approval or registration.",
+      "id": "s258"
+    },
+    {
+      "text": "Under s 40(1), it is only if the relevant particulars or conditions for approval or registration cannot be varied to comply with the prescribed requirements that the approval or registration may be cancelled.",
+      "id": "s259"
+    },
+    {
+      "text": "The legislature has prescribed this approach for cases where the prescribed requirements are not complied with.",
+      "id": "s260"
+    },
+    {
+      "text": "72 Third, although under s 145 the provision of false information to the Authority for the purposes of, or in connection with, the consideration by the Authority, in the course of the performance of any of its functions or the exercise of any of its powers under this Code is an offence, it is not a ground of cancellation under s 41.",
+      "id": "s261"
+    },
+    {
+      "text": "That section provides for cancellation or suspension of approvals and registrations where the continued use of the active constituent or chemical product may be an undue hazard to the safety of people exposed to it, or which may be likely to have an effect that is harmful to human beings or may be likely to have an unintended effect that is harmful to animals plants or things or to the environment.",
+      "id": "s262"
+    },
+    {
+      "text": "73 The matters taken together tend against a view that the name and address of a manufacturer is information which the Authority requires under s 11(1)(b) of the Code to which it must be satisfied by reason of s 14(1) and (3)(a).",
+      "id": "s263"
+    },
+    {
+      "text": "74 It follows that I am not prepared to find that the several approvals and registrations were affected, procured or induced by fraud.",
+      "id": "s264"
+    },
+    {
+      "text": "The removal of these by the Authority from the Record and the Register was in each case unlawful.",
+      "id": "s265"
+    },
+    {
+      "text": "75 As I foreshadowed, the position is different concerning the variation of relevant particulars to 47 of the existing valid registrations by adding the name Evergreen and its address as an additional manufacturer.",
+      "id": "s266"
+    },
+    {
+      "text": "It is not to the point that the intention of Imtrade was not to obtain these variations by misrepresentation but rather was to protect their confidential commercial information from competitors.",
+      "id": "s267"
+    },
+    {
+      "text": "Ironically, this is something for which the Code expressly caters.",
+      "id": "s268"
+    },
+    {
+      "text": "It is not disputed by Imtrade that these applications under s 27 contained the fictitious name and address.",
+      "id": "s269"
+    },
+    {
+      "text": "There can be no doubt that, in those respects, the Authority was misled in an operative sense.",
+      "id": "s270"
+    },
+    {
+      "text": "The false information was the very subject matter of each of the variation applications.",
+      "id": "s271"
+    },
+    {
+      "text": "The decision to vary the prescribed particulars was accordingly induced by this misrepresentation.",
+      "id": "s272"
+    },
+    {
+      "text": "However as these variations were of no effect ab initio they cannot, in my opinion, operate to render the pre-existing registrations invalid.",
+      "id": "s273"
+    },
+    {
+      "text": "76 Accordingly, other than in relation to the applications for variation of relevant particulars, the declarations sought should be refused.",
+      "id": "s274"
+    },
+    {
+      "text": "The appropriate declaration in my opinion, in relation to the purported variations is that the variations in each case are of no legal effect.",
+      "id": "s275"
+    },
+    {
+      "text": "However the declarations are limited to that extent.",
+      "id": "s276"
+    },
+    {
+      "text": "The 47 valid registrations to which they relate are unaffected.",
+      "id": "s277"
+    },
+    {
+      "text": "77 Irrespective of the outcome of this case, the Authority, in my opinion, ought to have sought appropriate relief from the Court rather than resorting to self-help, involving the expunging the approvals and registrations of the Record and the Register.",
+      "id": "s278"
+    },
+    {
+      "text": "No safety considerations were present.",
+      "id": "s279"
+    },
+    {
+      "text": "Even if there had been, the Court could have made appropriate interim orders to deal with that situation.",
+      "id": "s280"
+    },
+    {
+      "text": "Does the AAT have jurisdiction?",
+      "id": "s281"
+    },
+    {
+      "text": "78 The Authority seeks, amongst other things, a declaration pursuant to s 16(1)(a) of the ADJR Act that the AAT had no jurisdiction to make \"stay orders\".",
+      "id": "s282"
+    },
+    {
+      "text": "It also seeks the issue of writs of prohibition and certiorari as against the AAT under s 39B(1) of the Judiciary Act 1903 (Cth).",
+      "id": "s283"
+    },
+    {
+      "text": "79 It says, correctly, that when the jurisdiction of the Court to challenge an administrative decision is invoked whether under s16 of the ADJR Act or under s 39B of the Judiciary Act , the Court is confined to exercising judicial power.",
+      "id": "s284"
+    },
+    {
+      "text": "Since it is not permissible for the Court to exercise administrative power, it cannot conduct a merit review of the decision, that is, an inquiry to determine the correct or most appropriate outcome.",
+      "id": "s285"
+    },
+    {
+      "text": "Its role is limited to determining whether the administrative decision is within the power conferred on the official and whether the decision-making process, in so far as the decision-maker was bound to comply with a particular process, has been followed.",
+      "id": "s286"
+    },
+    {
+      "text": "The Court has no jurisdiction simply to cure administrative injustice or error.",
+      "id": "s287"
+    },
+    {
+      "text": "The merits of the administrative action as distinct from its legality are not a matter for the Court: Minister for Aboriginal Affairs v Peko Wallsend Ltd [1986] HCA 40 ; (1986) 162 CLR 24 at 40-41; Attorney-General (NSW) v Quin [1990] HCA 21 ; (1990) 170 CLR 1 at 35-36.",
+      "id": "s288"
+    },
+    {
+      "text": "80 This Court's jurisdiction to make declarations and to issue writs of prohibition and certiorari is properly invoked.",
+      "id": "s289"
+    },
+    {
+      "text": "The intervention of this Court is sought to review decisions of the AAT, of an administrative character, not on the basis of an excess of jurisdiction failure to afford procedural fairness or any other recognised ground but rather because the AAT is said to have no jurisdiction.",
+      "id": "s290"
+    },
+    {
+      "text": "81 Imtrade contends that the Authority's actions in removing the approvals from the Record and the registrations from the Register amount in effect to a decision to cancel under Div 5 of Part 2 of the Code.",
+      "id": "s291"
+    },
+    {
+      "text": "If that were the case then such a decision is reviewable under s 167(1)(f).",
+      "id": "s292"
+    },
+    {
+      "text": "82 The Authority contends, ultimately as a matter of law, that each approval and registration is invalid and of no legal effect because each was affected, procured, or induced by fraud.",
+      "id": "s293"
+    },
+    {
+      "text": "There was no cancellation of approvals or registrations under the Code because there was nothing to cancel.",
+      "id": "s294"
+    },
+    {
+      "text": "It follows, Imtrade submits, that there is no decision to cancel reviewable by the AAT.",
+      "id": "s295"
+    },
+    {
+      "text": "83 The word \"decision\" in the Code has, by virtue of s 167(4) the same meaning as in the AAT Act .",
+      "id": "s296"
+    },
+    {
+      "text": "There was no suggestion that the removal of the approvals and registrations by the Authority was other than a \"decision\" for the purposes of the wide definition of that word provided in s 3(3) of the AAT Act .",
+      "id": "s297"
+    },
+    {
+      "text": "The issue is whether for the purposes of s 25(1)(a) of the AAT Act it was a \"decision(s) made in the exercise of powers conferred by ...\" s 167 of the Code.",
+      "id": "s298"
+    },
+    {
+      "text": "The meaning of \"decision\" in s 25 of the AAT Act was considered in Collector of Customs (NSW) v Brian Lawlor Automotive Pty Ltd (1979) 24 ALR 307.",
+      "id": "s299"
+    },
+    {
+      "text": "The majority construed \"decision\" as including one in purported exercise of powers conferred by the enactment: Brian Lawlor per Bowen CJ at 317 and Smithers J at 339.",
+      "id": "s300"
+    },
+    {
+      "text": "84 A number of decisions, using that word loosely, were made by the Authority.",
+      "id": "s301"
+    },
+    {
+      "text": "It made a decision to remove the approvals and registrations from the Record and Register respectively.",
+      "id": "s302"
+    },
+    {
+      "text": "This was the consequence of its earlier decision to treat these approvals and registrations as of no legal effect: a decision that, at law, it had made no decisions to approve under s 19 or to register under s 20 of the Code.",
+      "id": "s303"
+    },
+    {
+      "text": "85 The question here is whether the Authority's decision to regard the various approvals and registrations as of no effect at law and to implement that decision by \"removing\" those approvals and registrations from the Record and the Register constituted a purported exercise of powers conferred by the enactment and therefore reviewable pursuant to s 167 of the Code by the AAT.",
+      "id": "s304"
+    },
+    {
+      "text": "This test is an objective one.",
+      "id": "s305"
+    },
+    {
+      "text": "I would respectfully adopt what Bowen CJ said on this point in Brian Lawlor at 314-315: \n It seems inappropriate to interpret s 25 so as to make this dependent upon the state of mind of the official.",
+      "id": "s306"
+    },
+    {
+      "text": "It would, if adopted, appear to introduce a false issue and to impose upon the person aggrieved the burden of proving it.",
+      "id": "s307"
+    },
+    {
+      "text": "He could well be the very person, who was ignorant of that state of mind.",
+      "id": "s308"
+    },
+    {
+      "text": "Perhaps also it would involve the consequence that if the evidence on an appeal to the Tribunal showed that an official did not honestly believe he was acting in the exercise of powers conferred by the enactment, the appeal would have to be dismissed notwithstanding that the absence of honest belief might not affect the legal standing of the decision.",
+      "id": "s309"
+    },
+    {
+      "text": "... in the ordinary course, it would be reasonably clear from the objective facts under which enactment or in the exercise of which statutory powers an official had purported to act.",
+      "id": "s310"
+    },
+    {
+      "text": "The adoption of this view would mean that the Administrative Appeals Tribunal would have jurisdiction to entertain an appeal from a decision in fact made, which purported to be made in the exercise of powers under an enactment.",
+      "id": "s311"
+    },
+    {
+      "text": "It could then proceed to determine whether the decision was properly made in fact and in law.",
+      "id": "s312"
+    },
+    {
+      "text": "(Emphasis added) \nIn my opinion it did not.",
+      "id": "s313"
+    },
+    {
+      "text": "The Authority took no step provided for under Div 5 of Part 2 of the Code directed to cancellation of approvals and registrations.",
+      "id": "s314"
+    },
+    {
+      "text": "86 Section 35 of the Code provides that the Authority must not cancel an approval or registration unless it has first given notice and then waited for an adequate period thereafter as provided under s 35(a) and (b).",
+      "id": "s315"
+    },
+    {
+      "text": "The Authority did not give any such notice(s).",
+      "id": "s316"
+    },
+    {
+      "text": "It did not make entries in the Record or Register provided for under s 45 following cancellation under the Code .",
+      "id": "s317"
+    },
+    {
+      "text": "Nor did it give any notice under s 45A.",
+      "id": "s318"
+    },
+    {
+      "text": "This was not by reason of error or omission on the part of the Authority.",
+      "id": "s319"
+    },
+    {
+      "text": "This is not a case involving a \"colourable exercise of actual power\": Brian Lawlor at p 342 per Deane J.",
+      "id": "s320"
+    },
+    {
+      "text": "The Authority deliberately took no steps to cancel the approvals and registrations under the Code.",
+      "id": "s321"
+    },
+    {
+      "text": "Here, the Authority placed no reliance, actual or purported, upon the Code to remove the approvals from the Record and the registrations from the Register.",
+      "id": "s322"
+    },
+    {
+      "text": "Indeed it stated in correspondence to Imtrade that as a result of fraud arising from the provision of the false name and address in respect of Evergreen the relevant active constituents were \"unapproved\" and the relevant chemical products were \"unregistered\".",
+      "id": "s323"
+    },
+    {
+      "text": "87 The Authority did issue a recall notice to Imtrade under s 101 of the Code.",
+      "id": "s324"
+    },
+    {
+      "text": "It was not a pre-condition to doing so that the Authority must first have cancelled the registrations under Division 5 of Part 2 of the Code.",
+      "id": "s325"
+    },
+    {
+      "text": "It is open to the Authority to issue a recall notice where a chemical product is not registered: s 101(1)(a).",
+      "id": "s326"
+    },
+    {
+      "text": "The Authority considered that the various chemical products were unregistered because the registrations, vitiated by fraud, had been \"removed\" from the Register.",
+      "id": "s327"
+    },
+    {
+      "text": "88 Accordingly it is, I think, wrong to characterise its conduct, as Imtrade does, as, in effect, cancellation of the approvals and registrations under the Code.",
+      "id": "s328"
+    },
+    {
+      "text": "89 The Authority has asked this Court to resolve the mixed questions of fact and law upon its core legal contention that the approvals and registrations variously were invalid because they were affected by fraud.",
+      "id": "s329"
+    },
+    {
+      "text": "The AAT has no jurisdiction to determine such a question of law: Craig v South Australia [1995] HCA 58 ; (1995) 184 CLR 163.",
+      "id": "s330"
+    },
+    {
+      "text": "In treating the several approvals and registrations as invalid and of no effect the Authority did not exercise a regulatory power under the legislative scheme and has not made a decision reviewable under s 167(1)(f) of the Code or otherwise.",
+      "id": "s331"
+    },
+    {
+      "text": "90 For the above reasons the application, to the extent that it seeks declarations that the 9 approvals and 52 registrations are of no legal effect, will be dismissed.",
+      "id": "s332"
+    },
+    {
+      "text": "Their removal from the Record and the Register was unlawful.",
+      "id": "s333"
+    },
+    {
+      "text": "The relevant approvals and registrations ought be restored to the Record and the Register, each effective from the respective dates of their original approval and registration.",
+      "id": "s334"
+    },
+    {
+      "text": "There will be declarations that the variation of the relevant particulars to 47 of the 52 registrations is, in each case, of no legal effect.",
+      "id": "s335"
+    },
+    {
+      "text": "This, as I have said, does not affect the validity of the prior registrations to which the variations relate.",
+      "id": "s336"
+    },
+    {
+      "text": "There ought, in respect to the first respondent, be declarations and prerogative relief, as sought by the applicant, subject to questions of unnecessary overlap.",
+      "id": "s337"
+    },
+    {
+      "text": "I will invite the parties to bring in a minute of consent orders.",
+      "id": "s338"
+    },
+    {
+      "text": "There will be liberty to the parties to apply in the event that such agreement cannot be reached.",
+      "id": "s339"
+    },
+    {
+      "text": "I will also hear the parties on the question of costs.",
+      "id": "s340"
+    },
+    {
+      "text": "I certify that the preceding ninety (90) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Gilmour.",
+      "id": "s341"
+    },
+    {
+      "text": "Associate:\n\nDated: 12 September 2008\n\n\n Counsel for the Applicant: Mr J D Allanson SC \n \n Solicitor for the Applicant: Clayton Utz \n \n Counsel for the Second Respondent: Mr M McCusker QC with Mr K De Kerloy \n \n Solicitor for the Second Respondent: Freehills \n\n Date of Hearing: 23 July 2008 \n \n Date of Judgment: 12 September 2008 \n\n \n\n \n AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback \n URL: http://www.austlii.edu.au/au/cases/cth/FCA/2008/1393.html",
+      "id": "s342"
+    }
+  ]
+}
